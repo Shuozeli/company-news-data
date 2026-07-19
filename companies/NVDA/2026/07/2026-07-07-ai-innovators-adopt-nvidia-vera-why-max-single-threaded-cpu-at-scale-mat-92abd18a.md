@@ -1,11 +1,11 @@
 ---
-ticker: "NVDA"
+company_key: "nvidia"
 company: "NVIDIA"
 source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/"
 canonical_url: "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/"
 published_at: "2026-07-07T15:00:52+00:00"
-fetched_at: "2026-07-19T19:59:12.172677+00:00"
+fetched_at: "2026-07-19T22:06:08.605806+00:00"
 content_hash: "sha256:1fe3776c9258c3e303e8a6ef350cd1081094432d2ecb7d1c8916d78389fd7298"
 ---
 

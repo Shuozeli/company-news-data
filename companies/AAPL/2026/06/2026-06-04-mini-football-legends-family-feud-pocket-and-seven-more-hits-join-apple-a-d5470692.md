@@ -1,11 +1,11 @@
 ---
-ticker: "AAPL"
+company_key: "apple"
 company: "Apple"
 source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/"
 canonical_url: "https://www.apple.com/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/"
 published_at: "2026-06-04T13:59:28.283+00:00"
-fetched_at: "2026-07-19T20:04:42.610394+00:00"
+fetched_at: "2026-07-19T22:06:09.380619+00:00"
 content_hash: "sha256:eacf1cae2232e2ccdb615d9891ea8440761b2fe9bf6efcd8386962cc48cf36c0"
 ---
 

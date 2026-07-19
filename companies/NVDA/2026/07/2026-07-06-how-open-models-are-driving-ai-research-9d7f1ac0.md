@@ -1,11 +1,11 @@
 ---
-ticker: "NVDA"
+company_key: "nvidia"
 company: "NVIDIA"
 source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/open-models-icml-2026/"
 canonical_url: "https://blogs.nvidia.com/blog/open-models-icml-2026/"
 published_at: "2026-07-06T16:00:00+00:00"
-fetched_at: "2026-07-19T19:59:12.172677+00:00"
+fetched_at: "2026-07-19T22:06:08.605806+00:00"
 content_hash: "sha256:8cbbbe0375e94fd5f52512711e517ace40973df2eed73b0eb108cb6acc9db61b"
 ---
 

@@ -1,11 +1,11 @@
 ---
-ticker: "NVDA"
+company_key: "nvidia"
 company: "NVIDIA"
 source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/"
 canonical_url: "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/"
 published_at: "2026-07-14T15:00:20+00:00"
-fetched_at: "2026-07-19T19:59:12.172677+00:00"
+fetched_at: "2026-07-19T22:06:08.605806+00:00"
 content_hash: "sha256:d190c8b606afece6f9bb0f75ad68761933f2e7598f217d746c790802d56c50df"
 ---
 

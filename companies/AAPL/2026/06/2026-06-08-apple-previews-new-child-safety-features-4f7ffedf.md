@@ -1,11 +1,11 @@
 ---
-ticker: "AAPL"
+company_key: "apple"
 company: "Apple"
 source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/06/apple-previews-new-child-safety-features/"
 canonical_url: "https://www.apple.com/newsroom/2026/06/apple-previews-new-child-safety-features/"
 published_at: "2026-06-08T18:14:04.568+00:00"
-fetched_at: "2026-07-19T20:04:42.610394+00:00"
+fetched_at: "2026-07-19T22:06:09.380619+00:00"
 content_hash: "sha256:06d19aef5c81bcbccbc32dbef001c0babf977a8ae0348925387eaceae6378b78"
 ---
 

@@ -1,14 +1,22 @@
 {
-  "AAPL": {
-    "item_count": 20,
-    "index_path": "companies/AAPL/index.json"
-  },
-  "AMD": {
+  "amd": {
     "item_count": 10,
-    "index_path": "companies/AMD/index.json"
+    "index_path": "companies/amd/index.json"
   },
-  "NVDA": {
+  "apple": {
     "item_count": 20,
-    "index_path": "companies/NVDA/index.json"
+    "index_path": "companies/apple/index.json"
+  },
+  "nvidia": {
+    "item_count": 20,
+    "index_path": "companies/nvidia/index.json"
+  },
+  "yc-gusto": {
+    "item_count": 10,
+    "index_path": "companies/yc-gusto/index.json"
+  },
+  "yc-stripe": {
+    "item_count": 109,
+    "index_path": "companies/yc-stripe/index.json"
   }
 }
