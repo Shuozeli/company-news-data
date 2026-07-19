@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/"
 canonical_url: "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/"
 published_at: "2026-07-02T13:00:23+00:00"
-fetched_at: "2026-07-19T10:56:03.804273+00:00"
+fetched_at: "2026-07-19T11:56:33.954404+00:00"
 content_hash: "sha256:a16cab764b6f59b42047e15a2dad439b41c77fd94109c7703706a35f970b7b21"
 ---
 
