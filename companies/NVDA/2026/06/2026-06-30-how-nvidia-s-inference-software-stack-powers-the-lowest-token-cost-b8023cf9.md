@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
 canonical_url: "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
 published_at: "2026-06-30T15:00:57+00:00"
-fetched_at: "2026-07-19T12:57:04.300284+00:00"
+fetched_at: "2026-07-19T13:57:04.827254+00:00"
 content_hash: "sha256:8e9ae608f6ae895873aabab6fc7e7ffdec906ebd1e15302de55d65223d2310d0"
 ---
 
