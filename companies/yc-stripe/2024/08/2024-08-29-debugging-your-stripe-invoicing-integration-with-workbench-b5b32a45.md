@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/debugging-your-stripe-invoicing-integration-with-workbench"
 canonical_url: "https://stripe.dev/blog/debugging-your-stripe-invoicing-integration-with-workbench"
 published_at: "2024-08-29T00:00:00+00:00"
-fetched_at: "2026-07-20T11:50:41.728457+00:00"
+fetched_at: "2026-07-20T12:51:12.153645+00:00"
 content_hash: "sha256:2a8de82a8c2600fe3b013b7148e3aaa810cba776193e14541d4bf93d7ceb9601"
 ---
 
