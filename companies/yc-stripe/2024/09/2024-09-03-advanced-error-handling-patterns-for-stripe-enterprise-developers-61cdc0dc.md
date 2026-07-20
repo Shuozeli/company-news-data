@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/advanced-error-handling-patterns-for-Stripe-enterprise-developers"
 canonical_url: "https://stripe.dev/blog/advanced-error-handling-patterns-for-Stripe-enterprise-developers"
 published_at: "2024-09-03T00:00:00+00:00"
-fetched_at: "2026-07-20T07:48:39.712782+00:00"
+fetched_at: "2026-07-20T08:49:10.370094+00:00"
 content_hash: "sha256:87c8b6643002e8ab6e2ac54e5f2d609b736a4334c86b213cfc1b2eca112d1b55"
 ---
 
