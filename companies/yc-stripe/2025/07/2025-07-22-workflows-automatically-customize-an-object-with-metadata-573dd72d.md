@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/workflows-customize-objects-metadata"
 canonical_url: "https://stripe.dev/blog/workflows-customize-objects-metadata"
 published_at: "2025-07-22T00:00:00+00:00"
-fetched_at: "2026-07-20T05:47:38.666845+00:00"
+fetched_at: "2026-07-20T06:48:09.099591+00:00"
 content_hash: "sha256:32e3c2edca8ae51ab1c0e67c979c3203aab7641ed36a97b5a35cd91404356cf9"
 ---
 
