@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure"
 canonical_url: "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure"
 published_at: "2026-07-16T08:00:00+00:00"
-fetched_at: "2026-07-20T17:52:14.906069+00:00"
+fetched_at: "2026-07-20T18:52:45.798359+00:00"
 content_hash: "sha256:6e245fa8021bae326bd9837653d9133659c89bf5a213d167f51d96ebb0c95d78"
 ---
 

@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/building-resilient-mobile-apps-a-layered-testing-strategy-for-long-term-stability-d035c78bad31?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/building-resilient-mobile-apps-a-layered-testing-strategy-for-long-term-stability-d035c78bad31"
 published_at: "2026-04-14T19:06:10+00:00"
-fetched_at: "2026-07-20T17:54:15.426320+00:00"
+fetched_at: "2026-07-20T18:54:45.317849+00:00"
 content_hash: "sha256:78109464fe1657647d7708f88176792a5c519036f9cc03171cb344b5b494e5f1"
 ---
 

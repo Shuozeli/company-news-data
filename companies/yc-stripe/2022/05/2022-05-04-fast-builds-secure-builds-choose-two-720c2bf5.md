@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/fast-secure-builds-choose-two"
 canonical_url: "https://stripe.dev/blog/fast-secure-builds-choose-two"
 published_at: "2022-05-04T00:00:00+00:00"
-fetched_at: "2026-07-20T17:53:44.890441+00:00"
+fetched_at: "2026-07-20T18:54:15.807658+00:00"
 content_hash: "sha256:ca0d355f731df4aba026e034c25ca21fb61b4014fd305e8746f3fec6997b91a8"
 ---
 
