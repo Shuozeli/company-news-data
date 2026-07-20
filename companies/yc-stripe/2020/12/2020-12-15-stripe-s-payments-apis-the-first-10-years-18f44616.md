@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/payment-api-design"
 canonical_url: "https://stripe.dev/blog/payment-api-design"
 published_at: "2020-12-15T00:00:00+00:00"
-fetched_at: "2026-07-20T09:49:41.208791+00:00"
+fetched_at: "2026-07-20T10:50:11.374992+00:00"
 content_hash: "sha256:c71b29e70c0485b7847cb56479133c5015d2d821b48de73fc3a928e84f4f9474"
 ---
 

@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/"
 canonical_url: "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/"
 published_at: "2026-07-02T03:34:48+00:00"
-fetched_at: "2026-07-20T09:49:40.838427+00:00"
+fetched_at: "2026-07-20T10:50:10.935135+00:00"
 content_hash: "sha256:862f65f738a3210fa1bb484b32753a01b8635c19140c7cca6da112debaf3ce75"
 ---
 
