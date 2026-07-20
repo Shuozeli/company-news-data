@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/storage-is-the-missing-piece-for-agent-built-software-ede96ac7ac27?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/storage-is-the-missing-piece-for-agent-built-software-ede96ac7ac27"
 published_at: "2026-06-16T15:59:27+00:00"
-fetched_at: "2026-07-20T21:55:17.638460+00:00"
+fetched_at: "2026-07-20T22:55:48.697712+00:00"
 content_hash: "sha256:ad253d3a3777151326890df85c345364cd26534c5b2b436764fb370a27922b21"
 ---
 
