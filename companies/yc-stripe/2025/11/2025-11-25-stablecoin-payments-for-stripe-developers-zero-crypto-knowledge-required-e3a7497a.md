@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge"
 canonical_url: "https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge"
 published_at: "2025-11-25T00:00:00+00:00"
-fetched_at: "2026-07-20T04:47:37.323957+00:00"
+fetched_at: "2026-07-20T05:47:38.666845+00:00"
 content_hash: "sha256:3242956d68c565efd3c66d939c554855dccd7da4ed8283879b57d87789c89fc1"
 ---
 
