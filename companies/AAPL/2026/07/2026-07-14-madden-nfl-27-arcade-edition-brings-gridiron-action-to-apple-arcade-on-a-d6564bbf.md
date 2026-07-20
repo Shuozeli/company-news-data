@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/"
 canonical_url: "https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/"
 published_at: "2026-07-14T13:59:25.392+00:00"
-fetched_at: "2026-07-20T12:51:11.972048+00:00"
+fetched_at: "2026-07-20T13:51:12.731550+00:00"
 content_hash: "sha256:ec7ba4fc6eb84c491929e696f031222c7c14a0c29674a8bc3aee027bbbaeeede"
 ---
 
