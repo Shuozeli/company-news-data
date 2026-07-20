@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/how-do-i-store-inventory-data-in-my-stripe-application"
 canonical_url: "https://stripe.dev/blog/how-do-i-store-inventory-data-in-my-stripe-application"
 published_at: "2024-12-16T00:00:00+00:00"
-fetched_at: "2026-07-20T19:54:46.031612+00:00"
+fetched_at: "2026-07-20T20:55:17.024771+00:00"
 content_hash: "sha256:f0d549cc07cde3f5e406f212a3226c9f46b2692ee23fe115cab0ef55a9576f9a"
 ---
 
