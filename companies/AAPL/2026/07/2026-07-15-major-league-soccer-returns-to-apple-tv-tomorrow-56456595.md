@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/"
 canonical_url: "https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/"
 published_at: "2026-07-15T14:59:11.792+00:00"
-fetched_at: "2026-07-19T22:06:09.380619+00:00"
+fetched_at: "2026-07-20T03:47:14.864670+00:00"
 content_hash: "sha256:070c28f51d74ebd2df580365f33c6fa5f3380ad61ce3bcb1bb66769b48b77298"
 ---
 

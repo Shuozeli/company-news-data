@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/"
 canonical_url: "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/"
 published_at: "2026-07-07T06:00:26+00:00"
-fetched_at: "2026-07-19T22:06:08.605806+00:00"
+fetched_at: "2026-07-20T03:47:14.649147+00:00"
 content_hash: "sha256:5275624c399291b3da94ebb711e5bd0ff70abd7b9747f39bc96679a27fcd28c3"
 ---
 
