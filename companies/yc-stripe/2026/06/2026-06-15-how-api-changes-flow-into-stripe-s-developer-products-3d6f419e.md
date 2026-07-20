@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/how-api-changes-flow-into-stripes-developer-products"
 canonical_url: "https://stripe.dev/blog/how-api-changes-flow-into-stripes-developer-products"
 published_at: "2026-06-15T00:00:00+00:00"
-fetched_at: "2026-07-20T10:50:11.374992+00:00"
+fetched_at: "2026-07-20T11:50:41.728457+00:00"
 content_hash: "sha256:f89b96233601e3ee9bcd32ad036c8c1f02ddd24a4274d3a87455f4a0e0bb5fdd"
 ---
 

@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/what-it-feels-like-building-with-stripe-projects"
 canonical_url: "https://stripe.dev/blog/what-it-feels-like-building-with-stripe-projects"
 published_at: "2026-05-26T00:00:00+00:00"
-fetched_at: "2026-07-20T10:50:11.374992+00:00"
+fetched_at: "2026-07-20T11:50:41.728457+00:00"
 content_hash: "sha256:49e64851d564154ac7f75c2095fef5841c38d455e5b2dd45c154e17b769faf9d"
 ---
 

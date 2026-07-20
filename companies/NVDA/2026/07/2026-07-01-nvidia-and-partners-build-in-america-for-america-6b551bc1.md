@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/"
 canonical_url: "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/"
 published_at: "2026-07-01T13:00:47+00:00"
-fetched_at: "2026-07-20T10:50:10.935135+00:00"
+fetched_at: "2026-07-20T11:50:41.440981+00:00"
 content_hash: "sha256:f3e24fa1eae2760d73bd4e336dcde925fe9262fc9fdb89cdabfc6fa949624413"
 ---
 

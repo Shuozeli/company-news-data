@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/growing-your-stripe-integration-with-event-destinations"
 canonical_url: "https://stripe.dev/blog/growing-your-stripe-integration-with-event-destinations"
 published_at: "2024-10-31T00:00:00+00:00"
-fetched_at: "2026-07-20T10:50:11.374992+00:00"
+fetched_at: "2026-07-20T11:50:41.728457+00:00"
 content_hash: "sha256:ca750305ffc050a8905828cd5755a29c70f751cdfa24a90fdeb7f6bd661a5977"
 ---
 
