@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/managing-saas-access-control-with-stripe-entitlements-api"
 canonical_url: "https://stripe.dev/blog/managing-saas-access-control-with-stripe-entitlements-api"
 published_at: "2024-10-31T00:00:00+00:00"
-fetched_at: "2026-07-20T08:49:10.370094+00:00"
+fetched_at: "2026-07-20T09:49:41.208791+00:00"
 content_hash: "sha256:f68d7d614ca3a09435827a7423caa3c85daae261d726d6abd6fc1ddaae16e862"
 ---
 

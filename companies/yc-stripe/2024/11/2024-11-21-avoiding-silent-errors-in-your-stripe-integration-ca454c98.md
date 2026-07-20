@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/avoiding-silent-errors"
 canonical_url: "https://stripe.dev/blog/avoiding-silent-errors"
 published_at: "2024-11-21T00:00:00+00:00"
-fetched_at: "2026-07-20T08:49:10.370094+00:00"
+fetched_at: "2026-07-20T09:49:41.208791+00:00"
 content_hash: "sha256:593c0d43d352149a2741a6cfe2d7ecb1ab5f6955878c6949bd148b46d58b2857"
 ---
 
