@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/"
 canonical_url: "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/"
 published_at: "2026-07-14T15:00:20+00:00"
-fetched_at: "2026-07-21T02:55:22.086630+00:00"
+fetched_at: "2026-07-21T03:55:52.530520+00:00"
 content_hash: "sha256:d190c8b606afece6f9bb0f75ad68761933f2e7598f217d746c790802d56c50df"
 ---
 

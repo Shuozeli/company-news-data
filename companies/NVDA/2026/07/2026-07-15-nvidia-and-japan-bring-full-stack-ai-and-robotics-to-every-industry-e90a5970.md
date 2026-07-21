@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/japan-ecosystem-2026/"
 canonical_url: "https://blogs.nvidia.com/blog/japan-ecosystem-2026/"
 published_at: "2026-07-15T10:51:37+00:00"
-fetched_at: "2026-07-21T02:55:22.086630+00:00"
+fetched_at: "2026-07-21T03:55:52.530520+00:00"
 content_hash: "sha256:5771e98b75cc42f8af8a488335be0ba202e655f94495c7184bcea8aa3117b9af"
 ---
 
