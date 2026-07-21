@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/"
 canonical_url: "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/"
 published_at: "2026-06-08T18:15:52.996+00:00"
-fetched_at: "2026-07-21T00:54:50.233625+00:00"
+fetched_at: "2026-07-21T01:55:20.603879+00:00"
 content_hash: "sha256:bcd4d3b92475e61fc56da167218bf76f80784911d967169540c5caa3a5f531af"
 ---
 

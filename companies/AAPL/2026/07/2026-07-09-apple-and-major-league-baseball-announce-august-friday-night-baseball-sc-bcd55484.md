@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/"
 canonical_url: "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/"
 published_at: "2026-07-09T15:59:17.613+00:00"
-fetched_at: "2026-07-21T00:54:50.233625+00:00"
+fetched_at: "2026-07-21T01:55:20.603879+00:00"
 content_hash: "sha256:c0d474827f30df14f0bc48002fac4ca2f3b4e604fa0c06a1581579eb0702156b"
 ---
 

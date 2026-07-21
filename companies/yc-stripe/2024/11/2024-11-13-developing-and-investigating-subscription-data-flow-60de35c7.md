@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/developing-and-investigating-subscription-data-flow"
 canonical_url: "https://stripe.dev/blog/developing-and-investigating-subscription-data-flow"
 published_at: "2024-11-13T00:00:00+00:00"
-fetched_at: "2026-07-21T00:55:50.240073+00:00"
+fetched_at: "2026-07-21T01:56:21.011884+00:00"
 content_hash: "sha256:00d2f7161a5affb828e013a54812af31d146f573f6ef01954cc4ff7615703f96"
 ---
 
