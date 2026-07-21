@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations"
 canonical_url: "https://stripe.dev/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations"
 published_at: "2024-06-06T00:00:00+00:00"
-fetched_at: "2026-07-21T06:57:31.161098+00:00"
+fetched_at: "2026-07-21T07:57:34.523238+00:00"
 content_hash: "sha256:31eecfed301dc52a86c5e9d12f056a50b8f3e284b1dc4018fbba62d2eab33f6a"
 ---
 
