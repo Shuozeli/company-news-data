@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/connect-embedded-components-streamline-onboarding"
 canonical_url: "https://stripe.dev/blog/connect-embedded-components-streamline-onboarding"
 published_at: "2025-07-02T00:00:00+00:00"
-fetched_at: "2026-07-21T18:59:21.274420+00:00"
+fetched_at: "2026-07-21T19:59:24.232457+00:00"
 content_hash: "sha256:2d32951dd822db6bbad22a8f46bbe884c864486d0d47cb368e96665b78bbfebd"
 ---
 

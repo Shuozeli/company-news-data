@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/"
 canonical_url: "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/"
 published_at: "2026-06-18T14:59:41.587+00:00"
-fetched_at: "2026-07-21T18:58:22.156593+00:00"
+fetched_at: "2026-07-21T19:58:24.387254+00:00"
 content_hash: "sha256:89f9125b1bd41b285558daf7acf41a9a83d3a9d72bf0af7d02dbb994886d1f08"
 ---
 
