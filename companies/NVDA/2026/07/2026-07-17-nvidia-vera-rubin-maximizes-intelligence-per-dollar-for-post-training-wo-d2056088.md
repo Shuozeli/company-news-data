@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/"
 canonical_url: "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/"
 published_at: "2026-07-17T15:00:00+00:00"
-fetched_at: "2026-07-21T07:56:03.517297+00:00"
+fetched_at: "2026-07-21T08:56:34.642757+00:00"
 content_hash: "sha256:61438b901fcdaebf3305dd4352e7151af33b5f2a1a2313b0ef84445bc8dcacab"
 ---
 
