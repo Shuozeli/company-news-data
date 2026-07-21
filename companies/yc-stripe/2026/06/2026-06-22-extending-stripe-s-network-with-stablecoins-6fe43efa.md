@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/extending-stripes-network-with-stablecoins"
 canonical_url: "https://stripe.dev/blog/extending-stripes-network-with-stablecoins"
 published_at: "2026-06-22T00:00:00+00:00"
-fetched_at: "2026-07-21T03:57:22.514169+00:00"
+fetched_at: "2026-07-21T04:57:28.237080+00:00"
 content_hash: "sha256:1762b244c0bb8e8d60804b475e53f0a548cff52118e6db51792937f5f0ede4b8"
 ---
 

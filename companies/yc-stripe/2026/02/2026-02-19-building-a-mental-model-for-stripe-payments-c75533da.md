@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/building-a-mental-model-for-stripe-payments"
 canonical_url: "https://stripe.dev/blog/building-a-mental-model-for-stripe-payments"
 published_at: "2026-02-19T00:00:00+00:00"
-fetched_at: "2026-07-21T03:57:22.514169+00:00"
+fetched_at: "2026-07-21T04:57:28.237080+00:00"
 content_hash: "sha256:c5655ca712df5b7f5fc2ae8b8c369fe76f640053cab4ed0a1f6c22eb6b0b923e"
 ---
 
