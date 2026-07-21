@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/building-resilient-webhook-handlers-aws-dlqs-stripe-events"
 canonical_url: "https://stripe.dev/blog/building-resilient-webhook-handlers-aws-dlqs-stripe-events"
 published_at: "2025-01-30T00:00:00+00:00"
-fetched_at: "2026-07-21T04:57:28.237080+00:00"
+fetched_at: "2026-07-21T05:57:29.455180+00:00"
 content_hash: "sha256:ac2d544e39e5b012236713f7d3695e8858e1249d42e3e359bb7d9171a21e6d88"
 ---
 
