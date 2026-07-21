@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/sorbet-stripes-type-checker-for-ruby"
 canonical_url: "https://stripe.dev/blog/sorbet-stripes-type-checker-for-ruby"
 published_at: "2022-03-28T00:00:00+00:00"
-fetched_at: "2026-07-21T19:59:24.232457+00:00"
+fetched_at: "2026-07-21T20:59:43.990336+00:00"
 content_hash: "sha256:8560eda65d56f2cf656b1cebbd655c39a9478e9b9f58b446d381e6e006b94b6d"
 ---
 
