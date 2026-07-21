@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/"
 canonical_url: "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/"
 published_at: "2026-07-06T15:00:25+00:00"
-fetched_at: "2026-07-21T01:55:20.477994+00:00"
+fetched_at: "2026-07-21T02:55:22.086630+00:00"
 content_hash: "sha256:94e206fe89627a8d46d201e7bec99f80fc0580e1b2f99b0d006916f82ab503b4"
 ---
 
