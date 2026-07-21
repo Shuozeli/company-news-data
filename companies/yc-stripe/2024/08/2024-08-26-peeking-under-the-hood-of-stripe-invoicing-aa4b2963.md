@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/peeking-under-the-hood-of-stripe-invoicing"
 canonical_url: "https://stripe.dev/blog/peeking-under-the-hood-of-stripe-invoicing"
 published_at: "2024-08-26T00:00:00+00:00"
-fetched_at: "2026-07-21T20:59:43.990336+00:00"
+fetched_at: "2026-07-21T21:59:47.585433+00:00"
 content_hash: "sha256:ae5ebcb363290afd6798784a9ce3e66368e415eccf7af4d34e6314af280d093e"
 ---
 
