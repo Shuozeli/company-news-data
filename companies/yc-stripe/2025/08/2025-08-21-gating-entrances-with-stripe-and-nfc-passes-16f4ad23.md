@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/gating-entrances-with-stripe-and-nfc-passes"
 canonical_url: "https://stripe.dev/blog/gating-entrances-with-stripe-and-nfc-passes"
 published_at: "2025-08-21T00:00:00+00:00"
-fetched_at: "2026-07-21T09:58:36.382580+00:00"
+fetched_at: "2026-07-21T10:59:07.167232+00:00"
 content_hash: "sha256:767a98ecb98b46521ff2e84e266ba535b17f9ab2b12fe8f9d9cfa8e84b12e05a"
 ---
 
