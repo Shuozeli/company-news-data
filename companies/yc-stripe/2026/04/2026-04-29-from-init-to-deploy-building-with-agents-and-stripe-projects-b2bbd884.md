@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/building-with-agents-stripe-projects"
 canonical_url: "https://stripe.dev/blog/building-with-agents-stripe-projects"
 published_at: "2026-04-29T00:00:00+00:00"
-fetched_at: "2026-07-21T08:58:05.098455+00:00"
+fetched_at: "2026-07-21T09:58:36.382580+00:00"
 content_hash: "sha256:d881523ca08d95b77395aa5428ff138673d630f138578df82f0f8e39d9eec6f5"
 ---
 

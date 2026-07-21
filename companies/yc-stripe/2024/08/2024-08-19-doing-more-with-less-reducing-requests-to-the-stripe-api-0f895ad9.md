@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/doing-more-with-less-reducing-requests-to-the-stripe-api"
 canonical_url: "https://stripe.dev/blog/doing-more-with-less-reducing-requests-to-the-stripe-api"
 published_at: "2024-08-19T00:00:00+00:00"
-fetched_at: "2026-07-21T08:58:05.098455+00:00"
+fetched_at: "2026-07-21T09:58:36.382580+00:00"
 content_hash: "sha256:164b8f948fc2b3514661b277c60c8576d1fb340b2731cfa138b9a080c9c2f506"
 ---
 

@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents"
 canonical_url: "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents"
 published_at: "2026-02-09T00:00:00+00:00"
-fetched_at: "2026-07-21T08:58:05.098455+00:00"
+fetched_at: "2026-07-21T09:58:36.382580+00:00"
 content_hash: "sha256:2c958cad426e735510430ddbd59dc8085eec084affb1742b5ee3bf0cd45386c3"
 ---
 
