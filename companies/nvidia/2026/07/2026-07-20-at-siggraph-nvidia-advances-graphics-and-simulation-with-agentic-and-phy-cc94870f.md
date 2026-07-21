@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/siggraph-news-2026/"
 canonical_url: "https://blogs.nvidia.com/blog/siggraph-news-2026/"
 published_at: "2026-07-20T15:00:53+00:00"
-fetched_at: "2026-07-20T23:54:19.543567+00:00"
+fetched_at: "2026-07-21T00:54:50.070865+00:00"
 content_hash: "sha256:727baecfd9d12e6788c65091fc110ec0a362dac67e6e49d6773d1c61ac3ef586"
 ---
 

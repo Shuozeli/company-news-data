@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/load-balancing-stripe-api-calls-multiple-aws-regions"
 canonical_url: "https://stripe.dev/blog/load-balancing-stripe-api-calls-multiple-aws-regions"
 published_at: "2025-03-06T00:00:00+00:00"
-fetched_at: "2026-07-20T23:55:49.050390+00:00"
+fetched_at: "2026-07-21T00:55:50.240073+00:00"
 content_hash: "sha256:f5f51bd56fb884f919f745a784d3ceb1cb5d354f1c6f8d4465c8bdde66e3a163"
 ---
 
