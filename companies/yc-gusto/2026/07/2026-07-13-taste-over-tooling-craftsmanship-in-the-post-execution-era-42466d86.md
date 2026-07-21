@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/taste-over-tooling-craftsmanship-in-the-post-execution-era-891fbdcd5fe3?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/taste-over-tooling-craftsmanship-in-the-post-execution-era-891fbdcd5fe3"
 published_at: "2026-07-13T21:41:11+00:00"
-fetched_at: "2026-07-21T13:58:42.377604+00:00"
+fetched_at: "2026-07-21T14:58:44.205427+00:00"
 content_hash: "sha256:932dd9146158c2549b002159c4f02a3acdca382902228da702c84361c6ee80cf"
 ---
 
