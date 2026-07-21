@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/ai-agents-terraform-stripe-infrastructure"
 canonical_url: "https://stripe.dev/blog/ai-agents-terraform-stripe-infrastructure"
 published_at: "2026-01-27T00:00:00+00:00"
-fetched_at: "2026-07-21T12:59:10.671754+00:00"
+fetched_at: "2026-07-21T13:59:11.857631+00:00"
 content_hash: "sha256:a7681f941ad4d95e5c6330c6ccc897959a88878c34d03eedb7b14fec7d359002"
 ---
 
