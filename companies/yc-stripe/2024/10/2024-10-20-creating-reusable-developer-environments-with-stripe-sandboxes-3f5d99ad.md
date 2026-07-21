@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/creating-reusable-dev-environments-with-sandboxes"
 canonical_url: "https://stripe.dev/blog/creating-reusable-dev-environments-with-sandboxes"
 published_at: "2024-10-20T00:00:00+00:00"
-fetched_at: "2026-07-21T14:59:14.109189+00:00"
+fetched_at: "2026-07-21T15:59:16.023505+00:00"
 content_hash: "sha256:1c0e9805d305215090564dd4b617a3a2eae8c19b9c8297f04c05f0219e6777e6"
 ---
 
