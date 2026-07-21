@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/"
 canonical_url: "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/"
 published_at: "2026-07-15T23:00:54+00:00"
-fetched_at: "2026-07-21T16:56:47.490413+00:00"
+fetched_at: "2026-07-21T17:56:49.363732+00:00"
 content_hash: "sha256:cddba4555f48b59ed51b5d5e6337ac836b3258fa5f6fd1aba420ba5e048657c5"
 ---
 
