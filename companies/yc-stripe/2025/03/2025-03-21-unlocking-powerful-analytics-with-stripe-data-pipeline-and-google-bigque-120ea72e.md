@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/unlock-powerful-analytics-stripe-data-pipeline-bigquery"
 canonical_url: "https://stripe.dev/blog/unlock-powerful-analytics-stripe-data-pipeline-bigquery"
 published_at: "2025-03-21T00:00:00+00:00"
-fetched_at: "2026-07-22T13:01:30.527136+00:00"
+fetched_at: "2026-07-22T14:01:32.924810+00:00"
 content_hash: "sha256:3a172162ca7326f3f131f3bb9fbc44989064a46f3f76627446104b6a485c31b6"
 ---
 
