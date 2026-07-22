@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/aws-microservice-architecture-subscription-management"
 canonical_url: "https://stripe.dev/blog/aws-microservice-architecture-subscription-management"
 published_at: "2025-04-08T00:00:00+00:00"
-fetched_at: "2026-07-22T21:05:57.211739+00:00"
+fetched_at: "2026-07-22T22:06:01.309610+00:00"
 content_hash: "sha256:bc96a9e8881664e136fd73ba43f61ea572bb1e36a4f6f834e967c03f79c50dd6"
 ---
 
