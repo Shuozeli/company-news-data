@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/ai-steering-experiments"
 canonical_url: "https://stripe.dev/blog/ai-steering-experiments"
 published_at: "2026-05-14T00:00:00+00:00"
-fetched_at: "2026-07-22T01:00:30.081503+00:00"
+fetched_at: "2026-07-22T02:00:33.291593+00:00"
 content_hash: "sha256:f6b16d255ec8b0a0c9235c6d1ccaf92429c03e0f5ee0b99f5bd7ced02601ce3b"
 ---
 
