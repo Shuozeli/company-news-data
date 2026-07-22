@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/upgrading-your-stripe-plugin-security"
 canonical_url: "https://stripe.dev/blog/upgrading-your-stripe-plugin-security"
 published_at: "2024-09-19T00:00:00+00:00"
-fetched_at: "2026-07-22T11:01:25.356071+00:00"
+fetched_at: "2026-07-22T12:01:27.836824+00:00"
 content_hash: "sha256:ba1570db7caf8f991b2c582c139ca28cfc3a011b99e391f0158945cdd498d7a7"
 ---
 

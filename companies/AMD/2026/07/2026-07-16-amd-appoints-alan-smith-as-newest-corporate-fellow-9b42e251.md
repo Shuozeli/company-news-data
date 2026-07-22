@@ -5,7 +5,7 @@ source_id: "co-amd-ir-rss"
 url: "https://ir.amd.com/news-events/press-releases/detail/1290/amd-appoints-alan-smith-as-newest-corporate-fellow"
 canonical_url: "https://ir.amd.com/news-events/press-releases/detail/1290/amd-appoints-alan-smith-as-newest-corporate-fellow"
 published_at: "2026-07-16T13:00:00+00:00"
-fetched_at: "2026-07-22T11:00:54.728468+00:00"
+fetched_at: "2026-07-22T12:00:57.319823+00:00"
 content_hash: "sha256:88fe98c54b1c2ea871adf22e6865238e22d972d7578bf04c1fbd0b87ca906c5f"
 ---
 
