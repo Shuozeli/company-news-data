@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/getting-started-with-stripe-in-the-uae"
 canonical_url: "https://stripe.dev/blog/getting-started-with-stripe-in-the-uae"
 published_at: "2024-11-25T00:00:00+00:00"
-fetched_at: "2026-07-22T02:00:33.291593+00:00"
+fetched_at: "2026-07-22T03:00:36.723978+00:00"
 content_hash: "sha256:651d67b7b7ce875bdcc773f2d407e49238451bedb88c016afdac230720c561fc"
 ---
 

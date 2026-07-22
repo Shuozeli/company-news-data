@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/worth-the-squeeze-27ccf56777fa?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/worth-the-squeeze-27ccf56777fa"
 published_at: "2026-03-27T00:07:31+00:00"
-fetched_at: "2026-07-22T02:00:04.251533+00:00"
+fetched_at: "2026-07-22T03:00:06.712019+00:00"
 content_hash: "sha256:d92f937f387713687ce4c177bf612c20a4ab20aa09e79214c7a843cd8ded7a9c"
 ---
 
