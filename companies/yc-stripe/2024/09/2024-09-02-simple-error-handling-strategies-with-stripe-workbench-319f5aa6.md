@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/simple-error-handling-strategies-with-stripe-workbench"
 canonical_url: "https://stripe.dev/blog/simple-error-handling-strategies-with-stripe-workbench"
 published_at: "2024-09-02T00:00:00+00:00"
-fetched_at: "2026-07-22T10:01:21.659986+00:00"
+fetched_at: "2026-07-22T11:01:25.356071+00:00"
 content_hash: "sha256:d42c7440af0338c0d4c078d25702f020fab5910c977e794a94509329a8c297c7"
 ---
 
