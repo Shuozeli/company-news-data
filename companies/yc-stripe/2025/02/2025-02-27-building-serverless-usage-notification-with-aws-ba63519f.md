@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/building-serverless-usage-notification-with-aws"
 canonical_url: "https://stripe.dev/blog/building-serverless-usage-notification-with-aws"
 published_at: "2025-02-27T00:00:00+00:00"
-fetched_at: "2026-07-22T15:01:36.198360+00:00"
+fetched_at: "2026-07-22T16:01:58.499627+00:00"
 content_hash: "sha256:1f7ba6fc4a004cc84372303f3fab61f751edd86484f39a932b50808510e38b06"
 ---
 
