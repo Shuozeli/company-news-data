@@ -5,7 +5,7 @@ source_id: "co-amd-ir-rss"
 url: "https://ir.amd.com/news-events/press-releases/detail/1287/amd-announces-production-ramp-of-next-generation-amd-epyc-processor-venice-on-tsmc-2nm-process-technology"
 canonical_url: "https://ir.amd.com/news-events/press-releases/detail/1287/amd-announces-production-ramp-of-next-generation-amd-epyc-processor-venice-on-tsmc-2nm-process-technology"
 published_at: "2026-05-21T05:35:00+00:00"
-fetched_at: "2026-07-22T12:00:57.319823+00:00"
+fetched_at: "2026-07-22T13:00:59.505216+00:00"
 content_hash: "sha256:8229e8a0a58d26e1d0e96a59dd3eba12f8a632588bdc9ffc93f3b823b21c57d0"
 ---
 
