@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/markdoc"
 canonical_url: "https://stripe.dev/blog/markdoc"
 published_at: "2022-09-13T00:00:00+00:00"
-fetched_at: "2026-07-22T19:05:51.440870+00:00"
+fetched_at: "2026-07-22T20:05:53.952197+00:00"
 content_hash: "sha256:6fd60082fa131cfae5dc71644d117ff2f0d0eea032dadad090c0adf12e15d0b0"
 ---
 
