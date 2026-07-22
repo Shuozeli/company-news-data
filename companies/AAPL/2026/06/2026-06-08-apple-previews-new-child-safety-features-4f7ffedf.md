@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/06/apple-previews-new-child-safety-features/"
 canonical_url: "https://www.apple.com/newsroom/2026/06/apple-previews-new-child-safety-features/"
 published_at: "2026-06-08T18:14:04.568+00:00"
-fetched_at: "2026-07-22T18:05:18.893191+00:00"
+fetched_at: "2026-07-22T19:05:21.472068+00:00"
 content_hash: "sha256:06d19aef5c81bcbccbc32dbef001c0babf977a8ae0348925387eaceae6378b78"
 ---
 
