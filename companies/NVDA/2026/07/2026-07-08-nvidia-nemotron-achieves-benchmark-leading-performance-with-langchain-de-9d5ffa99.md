@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/"
 canonical_url: "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/"
 published_at: "2026-07-08T15:00:27+00:00"
-fetched_at: "2026-07-21T23:58:27.577722+00:00"
+fetched_at: "2026-07-22T00:58:35.636336+00:00"
 content_hash: "sha256:6a97c6e2cce298a1e53a6a2460d489424d6bf714d6ebfe5b231fffeb26cb9438"
 ---
 
