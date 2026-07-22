@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/securing-stripe-api-keys-aws-automatic-rotation"
 canonical_url: "https://stripe.dev/blog/securing-stripe-api-keys-aws-automatic-rotation"
 published_at: "2025-02-21T00:00:00+00:00"
-fetched_at: "2026-07-22T07:01:15.290288+00:00"
+fetched_at: "2026-07-22T08:01:17.048147+00:00"
 content_hash: "sha256:1723befd63a44944effee3f81d38c435f614e637b936e29f24755a0fc1dfd91a"
 ---
 
