@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/"
 canonical_url: "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/"
 published_at: "2026-07-09T13:00:55+00:00"
-fetched_at: "2026-07-23T01:06:10.590685+00:00"
+fetched_at: "2026-07-23T02:06:15.427020+00:00"
 content_hash: "sha256:85965ce5c9be34f9ea08c00015f375a746a8c15787e5e214cb2e263fcc6a9b26"
 ---
 
