@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/introducing-versioning-for-stripe-workflows"
 canonical_url: "https://stripe.dev/blog/introducing-versioning-for-stripe-workflows"
 published_at: "2025-12-10T00:00:00+00:00"
-fetched_at: "2026-07-23T10:07:08.272437+00:00"
+fetched_at: "2026-07-23T11:07:13.061356+00:00"
 content_hash: "sha256:194a5daa1a026594df5de68fa4266b76f3885f0d8195e54f189d12188cb76702"
 ---
 
