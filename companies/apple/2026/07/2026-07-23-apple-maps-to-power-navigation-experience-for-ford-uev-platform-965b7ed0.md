@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/"
 canonical_url: "https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/"
 published_at: "2026-07-23T13:00:06.211+00:00"
-fetched_at: "2026-07-23T16:07:42.903981+00:00"
+fetched_at: "2026-07-23T17:07:49.179017+00:00"
 content_hash: "sha256:3b35c6fc8c8b0f236e6f5aa0212b1294c1874524c2d95bd83039a4812c279006"
 ---
 
