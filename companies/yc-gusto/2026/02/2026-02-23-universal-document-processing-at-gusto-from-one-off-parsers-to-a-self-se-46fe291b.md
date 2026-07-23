@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/universal-document-processing-at-gusto-from-one-off-parsers-to-a-self-service-platform-5be6c9764f09?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/universal-document-processing-at-gusto-from-one-off-parsers-to-a-self-service-platform-5be6c9764f09"
 published_at: "2026-02-23T18:48:09+00:00"
-fetched_at: "2026-07-23T00:06:07.959333+00:00"
+fetched_at: "2026-07-23T01:06:11.550324+00:00"
 content_hash: "sha256:1cf35be53e20ccc674c784002aa3741f2b0110d1bbbbf2f84c86f9cdff5563b7"
 ---
 
