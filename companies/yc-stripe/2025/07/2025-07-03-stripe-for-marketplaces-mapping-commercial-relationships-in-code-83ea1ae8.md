@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/stripe-marketplaces-mapping-commercial-relationships-code"
 canonical_url: "https://stripe.dev/blog/stripe-marketplaces-mapping-commercial-relationships-code"
 published_at: "2025-07-03T00:00:00+00:00"
-fetched_at: "2026-07-23T08:06:55.159827+00:00"
+fetched_at: "2026-07-23T09:07:02.174366+00:00"
 content_hash: "sha256:c8f25edf4739c909c26b7125b862a01c70a7704ea76a8d398ec3db5e180cf9fd"
 ---
 
