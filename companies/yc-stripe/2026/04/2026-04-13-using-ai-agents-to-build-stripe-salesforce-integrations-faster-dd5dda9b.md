@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/build-stripe-salesforce-integrations-faster-with-agents"
 canonical_url: "https://stripe.dev/blog/build-stripe-salesforce-integrations-faster-with-agents"
 published_at: "2026-04-13T00:00:00+00:00"
-fetched_at: "2026-07-23T02:06:16.776525+00:00"
+fetched_at: "2026-07-23T03:06:23.346561+00:00"
 content_hash: "sha256:9da3bd2189b01c53ebb6a371d244f540f74d2f76404d1c4de6cc8fe5f9b0de6e"
 ---
 
