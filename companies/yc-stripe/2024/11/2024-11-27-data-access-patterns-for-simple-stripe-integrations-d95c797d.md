@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/data-access-patterns-for-simple-stripe-Integrations"
 canonical_url: "https://stripe.dev/blog/data-access-patterns-for-simple-stripe-Integrations"
 published_at: "2024-11-27T00:00:00+00:00"
-fetched_at: "2026-07-23T21:09:05.798174+00:00"
+fetched_at: "2026-07-23T22:09:36.013343+00:00"
 content_hash: "sha256:8f8f1f6b0383316565dc70f8f5c26f8133a23fc6d03b50e541aa54a7f1818817"
 ---
 
