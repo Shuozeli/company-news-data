@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/05/detroits-rising-developers-are-supported-by-the-apple-developer-academy/"
 canonical_url: "https://www.apple.com/newsroom/2026/05/detroits-rising-developers-are-supported-by-the-apple-developer-academy/"
 published_at: "2026-05-29T15:59:14.435+00:00"
-fetched_at: "2026-07-23T05:06:39.107113+00:00"
+fetched_at: "2026-07-23T06:06:42.847174+00:00"
 content_hash: "sha256:3a31518de0c31aaae8fc3e71ae91e11b7f827f0b8c6fc467d7e31adc58902a24"
 ---
 
