@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/from-prompt-to-classifier-a-production-case-study-8fbcaca9b1eb?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/from-prompt-to-classifier-a-production-case-study-8fbcaca9b1eb"
 published_at: "2026-06-29T15:16:45+00:00"
-fetched_at: "2026-07-23T11:07:12.824086+00:00"
+fetched_at: "2026-07-23T12:07:19.142860+00:00"
 content_hash: "sha256:b9d64158e1ba1f46cbbf350816398b64a594f613b565703bf5d95430b9830b37"
 ---
 
