@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/"
 canonical_url: "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/"
 published_at: "2026-07-21T15:00:20+00:00"
-fetched_at: "2026-07-23T20:08:40.061844+00:00"
+fetched_at: "2026-07-23T21:09:04.779060+00:00"
 content_hash: "sha256:ee75fe3b5942a86b660ae621e490565062695b0e73754c6bdf8663cbd7722932"
 ---
 
