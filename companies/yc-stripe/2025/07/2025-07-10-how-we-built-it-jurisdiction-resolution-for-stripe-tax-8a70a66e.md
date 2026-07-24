@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/how-we-built-it-jurisdiction-resolution-for-stripe-tax"
 canonical_url: "https://stripe.dev/blog/how-we-built-it-jurisdiction-resolution-for-stripe-tax"
 published_at: "2025-07-10T00:00:00+00:00"
-fetched_at: "2026-07-24T10:30:51.482249+00:00"
+fetched_at: "2026-07-24T11:40:58.704769+00:00"
 content_hash: "sha256:e40ec66f38b2b71ed24b8f2da15339123d9aa58d58cad39e21c4ecafc0f80439"
 ---
 
