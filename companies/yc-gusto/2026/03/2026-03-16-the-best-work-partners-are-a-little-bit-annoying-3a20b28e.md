@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/the-best-work-partners-are-a-little-bit-annoying-d42b898fbe52?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/the-best-work-partners-are-a-little-bit-annoying-d42b898fbe52"
 published_at: "2026-03-16T22:49:27+00:00"
-fetched_at: "2026-07-24T11:40:58.217057+00:00"
+fetched_at: "2026-07-24T12:42:57.605332+00:00"
 content_hash: "sha256:0b6296272238fc6a22bc4dd833adbb70c95fa0d09d9557b316203ecf230fd882"
 ---
 
