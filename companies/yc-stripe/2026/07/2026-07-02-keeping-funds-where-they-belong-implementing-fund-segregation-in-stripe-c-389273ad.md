@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/fund-segregation-stripe-connect"
 canonical_url: "https://stripe.dev/blog/fund-segregation-stripe-connect"
 published_at: "2026-07-02T00:00:00+00:00"
-fetched_at: "2026-07-24T05:24:34.965840+00:00"
+fetched_at: "2026-07-24T06:25:39.930416+00:00"
 content_hash: "sha256:88e52e6faa9b539d08e7859edaef9683f9deb4c976bcde95524978a15f16f734"
 ---
 
