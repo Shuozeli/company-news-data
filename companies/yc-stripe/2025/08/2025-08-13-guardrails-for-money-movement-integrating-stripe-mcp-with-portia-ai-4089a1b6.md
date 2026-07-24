@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/guardrails-money-movement-integrating-stripe-mcp-portia-ai"
 canonical_url: "https://stripe.dev/blog/guardrails-money-movement-integrating-stripe-mcp-portia-ai"
 published_at: "2025-08-13T00:00:00+00:00"
-fetched_at: "2026-07-24T09:28:12.169109+00:00"
+fetched_at: "2026-07-24T10:30:51.482249+00:00"
 content_hash: "sha256:6e59c8db39dea4b1eb6214c5fc55935eff28e3d95f77ff776eee7434070510a8"
 ---
 
