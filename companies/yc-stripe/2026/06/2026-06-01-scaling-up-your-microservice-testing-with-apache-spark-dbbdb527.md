@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/microservice-testing-with-apache-spark"
 canonical_url: "https://stripe.dev/blog/microservice-testing-with-apache-spark"
 published_at: "2026-06-01T00:00:00+00:00"
-fetched_at: "2026-07-24T16:23:58.599440+00:00"
+fetched_at: "2026-07-24T17:38:53.998271+00:00"
 content_hash: "sha256:bd0a52d2428baa670415635b26311e61a89e953f2984e1cae08a055cb310cf55"
 ---
 

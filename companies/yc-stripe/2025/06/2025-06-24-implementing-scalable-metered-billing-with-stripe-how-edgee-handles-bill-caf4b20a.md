@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/implementing-scalable-metered-billing-with-stripe-how-edgee-handles-billions-of-events"
 canonical_url: "https://stripe.dev/blog/implementing-scalable-metered-billing-with-stripe-how-edgee-handles-billions-of-events"
 published_at: "2025-06-24T00:00:00+00:00"
-fetched_at: "2026-07-24T16:23:58.599440+00:00"
+fetched_at: "2026-07-24T17:38:53.998271+00:00"
 content_hash: "sha256:a376db6197dbb7809a869216fcf018686710608cdd8af6522df2ff1bd08501e0"
 ---
 
