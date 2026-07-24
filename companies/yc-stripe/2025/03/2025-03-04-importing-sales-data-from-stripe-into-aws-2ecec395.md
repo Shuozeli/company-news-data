@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/importing-sales-data-from-stripe-into-aws"
 canonical_url: "https://stripe.dev/blog/importing-sales-data-from-stripe-into-aws"
 published_at: "2025-03-04T00:00:00+00:00"
-fetched_at: "2026-07-24T17:38:53.998271+00:00"
+fetched_at: "2026-07-24T19:20:29.763341+00:00"
 content_hash: "sha256:fd903622dc9c1bc9c62457b31ee5d2ca9131c148675a53a10f398c2a98afe380"
 ---
 
