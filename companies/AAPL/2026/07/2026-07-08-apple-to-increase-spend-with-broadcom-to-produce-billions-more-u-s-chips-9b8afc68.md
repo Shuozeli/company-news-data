@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
 canonical_url: "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
 published_at: "2026-07-08T10:00:13.748+00:00"
-fetched_at: "2026-07-24T02:11:26.125989+00:00"
+fetched_at: "2026-07-24T03:12:26.254710+00:00"
 content_hash: "sha256:f1912330a664635574cf017f969940a597bb6d0412e0834f4c676b8971334d7c"
 ---
 
