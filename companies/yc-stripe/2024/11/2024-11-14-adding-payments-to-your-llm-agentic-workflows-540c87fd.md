@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/adding-payments-to-your-agentic-workflows"
 canonical_url: "https://stripe.dev/blog/adding-payments-to-your-agentic-workflows"
 published_at: "2024-11-14T00:00:00+00:00"
-fetched_at: "2026-07-24T12:42:58.104474+00:00"
+fetched_at: "2026-07-24T13:46:00.517641+00:00"
 content_hash: "sha256:c07b21056df047c2d2f5df9b38a881c5794dd5e0d1b643923662cfeaf535d883"
 ---
 
