@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/how-to-write-an-oscar-worthy-llm-prompt-your-guide-to-the-prompt-chaining-framework-777d9d7084c6?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/how-to-write-an-oscar-worthy-llm-prompt-your-guide-to-the-prompt-chaining-framework-777d9d7084c6"
 published_at: "2026-01-13T00:20:04+00:00"
-fetched_at: "2026-07-24T01:11:22.941259+00:00"
+fetched_at: "2026-07-24T02:11:52.721685+00:00"
 content_hash: "sha256:3b0d795e23b6d01e8f3ecf74a9d4cecb8fbb978f5c460e2e8e136afe1b3c7d4a"
 ---
 
