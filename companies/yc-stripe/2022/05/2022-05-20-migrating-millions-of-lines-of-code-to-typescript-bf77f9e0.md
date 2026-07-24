@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/migrating-to-typescript"
 canonical_url: "https://stripe.dev/blog/migrating-to-typescript"
 published_at: "2022-05-20T00:00:00+00:00"
-fetched_at: "2026-07-24T08:27:41.771835+00:00"
+fetched_at: "2026-07-24T09:28:12.169109+00:00"
 content_hash: "sha256:3bf8774e9078c2aaca95b41a845547365fd9e76f4d3da68293d86dd7e02712a6"
 ---
 
