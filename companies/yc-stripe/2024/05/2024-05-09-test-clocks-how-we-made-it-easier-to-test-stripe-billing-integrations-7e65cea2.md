@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/test-clocks-how-we-made-it-easier-to-test-stripe-billing-integrations"
 canonical_url: "https://stripe.dev/blog/test-clocks-how-we-made-it-easier-to-test-stripe-billing-integrations"
 published_at: "2024-05-09T00:00:00+00:00"
-fetched_at: "2026-07-24T13:46:00.517641+00:00"
+fetched_at: "2026-07-24T14:54:04.946992+00:00"
 content_hash: "sha256:3cdde548c16d30878f2e55efad30f2a5d51d9006422b91fece783c1fd4b5d136"
 ---
 
