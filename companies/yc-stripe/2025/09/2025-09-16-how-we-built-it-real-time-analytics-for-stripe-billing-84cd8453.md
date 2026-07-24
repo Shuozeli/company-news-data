@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/how-we-built-it-real-time-analytics-for-stripe-billing"
 canonical_url: "https://stripe.dev/blog/how-we-built-it-real-time-analytics-for-stripe-billing"
 published_at: "2025-09-16T00:00:00+00:00"
-fetched_at: "2026-07-24T07:27:35.035273+00:00"
+fetched_at: "2026-07-24T08:27:41.771835+00:00"
 content_hash: "sha256:6fd89e19b788fdd52403ef5dd2557783cbd4dc819ac7a2faf6f6f1194acef6a8"
 ---
 
