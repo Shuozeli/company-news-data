@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/the-journey-to-a-safer-frontend-why-we-removed-react-fc-095ff0b3e2e4?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/the-journey-to-a-safer-frontend-why-we-removed-react-fc-095ff0b3e2e4"
 published_at: "2026-02-09T17:01:01+00:00"
-fetched_at: "2026-07-25T13:33:16.468348+00:00"
+fetched_at: "2026-07-25T15:41:09.118475+00:00"
 content_hash: "sha256:2059548a5ddb02df38177e11e78989ccf9e5ea6ded8089721d5dc4b47690a8ab"
 ---
 
