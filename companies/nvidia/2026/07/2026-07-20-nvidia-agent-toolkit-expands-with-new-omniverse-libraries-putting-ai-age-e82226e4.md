@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds"
 canonical_url: "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds"
 published_at: "2026-07-20T15:00:00+00:00"
-fetched_at: "2026-07-25T01:18:34.205134+00:00"
+fetched_at: "2026-07-25T02:44:19.024390+00:00"
 content_hash: "sha256:9965b118cc1398cb9fcf95bf72906cffb3b3ae83ade7f767539641026bafca20"
 ---
 
