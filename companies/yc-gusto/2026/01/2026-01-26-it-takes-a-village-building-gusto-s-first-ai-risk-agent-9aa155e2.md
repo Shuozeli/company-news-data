@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/it-takes-a-village-building-gustos-first-ai-risk-agent-2a6aee2e6297?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/it-takes-a-village-building-gustos-first-ai-risk-agent-2a6aee2e6297"
 published_at: "2026-01-26T20:24:46+00:00"
-fetched_at: "2026-07-25T02:44:30.001845+00:00"
+fetched_at: "2026-07-25T04:11:54.069540+00:00"
 content_hash: "sha256:39c4d823bb6fbc4ee433d60dc24524d337864819a194c847813193e3b2a34fa4"
 ---
 

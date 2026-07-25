@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/tax-id-validation-at-checkout"
 canonical_url: "https://stripe.dev/blog/tax-id-validation-at-checkout"
 published_at: "2026-05-29T00:00:00+00:00"
-fetched_at: "2026-07-25T02:44:30.479203+00:00"
+fetched_at: "2026-07-25T04:11:52.432565+00:00"
 content_hash: "sha256:a72ff86d167972e6e1f252f60b4dc282aa475e8546a6e8234034121275a86ee8"
 ---
 
