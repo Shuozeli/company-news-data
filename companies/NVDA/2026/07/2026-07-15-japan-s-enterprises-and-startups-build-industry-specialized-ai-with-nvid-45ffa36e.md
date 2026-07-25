@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models"
 canonical_url: "https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models"
 published_at: "2026-07-15T23:00:00+00:00"
-fetched_at: "2026-07-25T06:26:19.446425+00:00"
+fetched_at: "2026-07-25T07:29:37.567661+00:00"
 content_hash: "sha256:221857a93fb6ffccbaf6efbcdbe9b06a095ffdb42c47fa80d8ab1e3d362eb0ec"
 ---
 
