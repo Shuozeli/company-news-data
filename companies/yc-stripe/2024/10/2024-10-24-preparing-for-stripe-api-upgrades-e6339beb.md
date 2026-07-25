@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/prepare-for-api-upgrades"
 canonical_url: "https://stripe.dev/blog/prepare-for-api-upgrades"
 published_at: "2024-10-24T00:00:00+00:00"
-fetched_at: "2026-07-25T09:50:52.678454+00:00"
+fetched_at: "2026-07-25T10:51:22.856514+00:00"
 content_hash: "sha256:e9221bd1b1b5d427469d9a56b475c3ecf87d6aa7b6337e95bf306d78f8eab003"
 ---
 
