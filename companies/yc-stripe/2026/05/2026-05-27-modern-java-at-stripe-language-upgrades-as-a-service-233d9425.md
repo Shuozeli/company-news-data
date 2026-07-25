@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/modern-java-at-stripe-language-upgrades-as-a-service"
 canonical_url: "https://stripe.dev/blog/modern-java-at-stripe-language-upgrades-as-a-service"
 published_at: "2026-05-27T00:00:00+00:00"
-fetched_at: "2026-07-25T05:20:57.680628+00:00"
+fetched_at: "2026-07-25T06:26:02.571123+00:00"
 content_hash: "sha256:e66d1c10d226640029459fbc68884c5ef96f64da79c94ea5f542ea183aa72976"
 ---
 
