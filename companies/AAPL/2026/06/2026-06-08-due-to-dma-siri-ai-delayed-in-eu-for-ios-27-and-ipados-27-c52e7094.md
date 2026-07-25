@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/"
 canonical_url: "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/"
 published_at: "2026-06-08T18:13:26.639+00:00"
-fetched_at: "2026-07-25T10:52:08.698173+00:00"
+fetched_at: "2026-07-25T11:58:32.498816+00:00"
 content_hash: "sha256:fd49780bd2b12eb1c230a18350f3ea427864570c2187d6497781b856073b34b5"
 ---
 

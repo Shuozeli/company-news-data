@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/seamlessly-connect-stripe-events-to-your-frontend"
 canonical_url: "https://stripe.dev/blog/seamlessly-connect-stripe-events-to-your-frontend"
 published_at: "2025-09-11T00:00:00+00:00"
-fetched_at: "2026-07-25T10:51:22.856514+00:00"
+fetched_at: "2026-07-25T11:57:50.539175+00:00"
 content_hash: "sha256:86e141a04a87d179c2e2c74a61e55866e99f154a165a22167530b57c92348733"
 ---
 
