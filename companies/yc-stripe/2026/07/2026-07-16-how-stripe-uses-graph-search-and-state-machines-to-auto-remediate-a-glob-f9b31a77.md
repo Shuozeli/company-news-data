@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet"
 canonical_url: "https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet"
 published_at: "2026-07-16T00:00:00+00:00"
-fetched_at: "2026-07-25T19:44:09.223532+00:00"
+fetched_at: "2026-07-25T20:49:40.074195+00:00"
 content_hash: "sha256:69809d9d572e75f3ca1d23d360a536ba5eb02c10ff7923912e815e45fd181b60"
 ---
 
