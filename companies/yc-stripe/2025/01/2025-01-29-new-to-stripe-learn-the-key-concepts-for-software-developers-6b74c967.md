@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/new-to-stripe-learn-key-concepts-software-developers"
 canonical_url: "https://stripe.dev/blog/new-to-stripe-learn-key-concepts-software-developers"
 published_at: "2025-01-29T00:00:00+00:00"
-fetched_at: "2026-07-24T19:20:29.763341+00:00"
+fetched_at: "2026-07-24T23:08:32.470454+00:00"
 content_hash: "sha256:4634cf92703ed78dfe00a4d96692d143ea13b0564fe94aa69f83d2e2fbc1bdc0"
 ---
 

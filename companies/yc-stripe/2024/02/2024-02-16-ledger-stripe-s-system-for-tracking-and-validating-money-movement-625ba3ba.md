@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/ledger-stripe-system-for-tracking-and-validating-money-movement"
 canonical_url: "https://stripe.dev/blog/ledger-stripe-system-for-tracking-and-validating-money-movement"
 published_at: "2024-02-16T00:00:00+00:00"
-fetched_at: "2026-07-24T19:20:29.763341+00:00"
+fetched_at: "2026-07-24T23:08:32.470454+00:00"
 content_hash: "sha256:f8397724ce0104b40b57ef541459d9555a190a2730ca56b038e8c598c38963e5"
 ---
 
