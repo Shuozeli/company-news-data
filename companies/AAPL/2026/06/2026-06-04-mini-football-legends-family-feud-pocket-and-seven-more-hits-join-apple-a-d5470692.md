@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/"
 canonical_url: "https://www.apple.com/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/"
 published_at: "2026-06-04T13:59:28.283+00:00"
-fetched_at: "2026-07-26T17:56:23.798063+00:00"
+fetched_at: "2026-07-26T19:52:03.404209+00:00"
 content_hash: "sha256:eacf1cae2232e2ccdb615d9891ea8440761b2fe9bf6efcd8386962cc48cf36c0"
 ---
 

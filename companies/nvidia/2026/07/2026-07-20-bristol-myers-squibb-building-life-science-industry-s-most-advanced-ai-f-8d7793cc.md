@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/"
 canonical_url: "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/"
 published_at: "2026-07-20T10:59:23+00:00"
-fetched_at: "2026-07-26T17:53:02.018871+00:00"
+fetched_at: "2026-07-26T19:47:06.941330+00:00"
 content_hash: "sha256:9a0d7bdb8adec3483f582f51d86e86050a99a35bf157951a0fa19e3cfbd052cb"
 ---
 
