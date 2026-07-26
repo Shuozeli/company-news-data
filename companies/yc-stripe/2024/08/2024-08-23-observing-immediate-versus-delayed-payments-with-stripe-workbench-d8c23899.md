@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/observing-immediate-versus-delayed-payments-with-stripe-workbench"
 canonical_url: "https://stripe.dev/blog/observing-immediate-versus-delayed-payments-with-stripe-workbench"
 published_at: "2024-08-23T00:00:00+00:00"
-fetched_at: "2026-07-26T03:54:21.537692+00:00"
+fetched_at: "2026-07-26T05:57:31.190751+00:00"
 content_hash: "sha256:e843be7aad04003430de7d69fe43e1f2e8740a36b9e3a26d0ac36dac5f7f63d4"
 ---
 
