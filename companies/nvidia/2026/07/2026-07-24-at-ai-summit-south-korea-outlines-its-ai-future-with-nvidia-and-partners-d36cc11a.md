@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/"
 canonical_url: "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/"
 published_at: "2026-07-24T04:34:00+00:00"
-fetched_at: "2026-07-26T00:53:50.263894+00:00"
+fetched_at: "2026-07-26T03:55:29.237525+00:00"
 content_hash: "sha256:77bb1feee2b2e72f0de6f7e3c1399e4060edad61bbd45361a40d0eaeb3af1ac8"
 ---
 

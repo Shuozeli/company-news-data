@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/workflows-creating-early-fraud-alerts-for-streamlined-refunds"
 canonical_url: "https://stripe.dev/blog/workflows-creating-early-fraud-alerts-for-streamlined-refunds"
 published_at: "2025-07-10T00:00:00+00:00"
-fetched_at: "2026-07-26T00:52:55.807978+00:00"
+fetched_at: "2026-07-26T03:54:21.537692+00:00"
 content_hash: "sha256:273a047d396f23e5905524dae3983c8e26475a3c00352e8c0fe77f78f62b2aea"
 ---
 
