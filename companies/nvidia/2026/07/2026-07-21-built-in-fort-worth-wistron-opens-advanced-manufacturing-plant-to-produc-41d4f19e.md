@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/"
 canonical_url: "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/"
 published_at: "2026-07-21T22:35:45+00:00"
-fetched_at: "2026-07-26T07:40:01.648075+00:00"
+fetched_at: "2026-07-26T08:56:46.763423+00:00"
 content_hash: "sha256:43dfd90f8ebcdd66a8e9c08c17317107b3867d2b8e6912f0e49b93724fcfbba0"
 ---
 
