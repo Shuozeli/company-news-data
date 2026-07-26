@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout"
 canonical_url: "https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout"
 published_at: "2026-07-25T05:10:00+00:00"
-fetched_at: "2026-07-26T14:41:23.918632+00:00"
+fetched_at: "2026-07-26T16:10:39.624236+00:00"
 content_hash: "sha256:145fdad0acd238becaecf45a25d7358aa9c0b211b95aeced4c1009d395b83db2"
 ---
 
