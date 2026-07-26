@@ -5,7 +5,7 @@ source_id: "co-aapl-newsroom-rss"
 url: "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/"
 canonical_url: "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/"
 published_at: "2026-07-09T00:42:00.573+00:00"
-fetched_at: "2026-07-26T10:00:33.677931+00:00"
+fetched_at: "2026-07-26T11:00:45.524282+00:00"
 content_hash: "sha256:8541b9523dd12b59c4adc0b03bf58e2789958994857746504d07b97cf9ee371f"
 ---
 

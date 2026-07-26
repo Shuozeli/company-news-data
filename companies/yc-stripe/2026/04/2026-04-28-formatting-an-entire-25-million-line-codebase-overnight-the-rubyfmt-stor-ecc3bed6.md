@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
 canonical_url: "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
 published_at: "2026-04-28T00:00:00+00:00"
-fetched_at: "2026-07-26T10:58:15.177177+00:00"
+fetched_at: "2026-07-26T12:01:17.779569+00:00"
 content_hash: "sha256:1398ca9c4b92724a3c8812d7d5396f9a811a3af02ac0876e3185ba46becd7325"
 ---
 

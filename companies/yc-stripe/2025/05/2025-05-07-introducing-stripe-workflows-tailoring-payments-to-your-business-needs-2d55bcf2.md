@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/introducing-stripe-workflows"
 canonical_url: "https://stripe.dev/blog/introducing-stripe-workflows"
 published_at: "2025-05-07T00:00:00+00:00"
-fetched_at: "2026-07-26T10:58:15.177177+00:00"
+fetched_at: "2026-07-26T12:01:17.779569+00:00"
 content_hash: "sha256:4b98b213aa313fce4101fe74368fc1c4db81f5def5b3376577653aaede79dff4"
 ---
 
