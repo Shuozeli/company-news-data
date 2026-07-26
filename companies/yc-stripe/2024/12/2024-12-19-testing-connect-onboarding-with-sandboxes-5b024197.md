@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/testing-connect-onboarding-with-sandboxes"
 canonical_url: "https://stripe.dev/blog/testing-connect-onboarding-with-sandboxes"
 published_at: "2024-12-19T00:00:00+00:00"
-fetched_at: "2026-07-26T13:19:08.982715+00:00"
+fetched_at: "2026-07-26T14:40:25.169025+00:00"
 content_hash: "sha256:51163a3213a25472949a5c52a9f826d09c134efcc40d68132a09732f02e5a3d4"
 ---
 
