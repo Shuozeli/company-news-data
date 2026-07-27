@@ -5,7 +5,7 @@ source_id: "co-amd-ir-rss"
 url: "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus"
 canonical_url: "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus"
 published_at: "2026-07-22T13:00:00+00:00"
-fetched_at: "2026-07-27T21:32:14.056830+00:00"
+fetched_at: "2026-07-27T23:27:50.039283+00:00"
 content_hash: "sha256:2283009fa4444e1e7018979acbbac070868498660812b84bb1f8c970c41d64b9"
 ---
 

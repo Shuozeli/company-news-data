@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/event-notification-handlers-thin-events"
 canonical_url: "https://stripe.dev/blog/event-notification-handlers-thin-events"
 published_at: "2026-06-24T00:00:00+00:00"
-fetched_at: "2026-07-27T21:25:44.609188+00:00"
+fetched_at: "2026-07-27T23:21:13.174651+00:00"
 content_hash: "sha256:70ba10893437c4e98077ed5ed707fa9e047332fed600e27e395c5629184e9cd2"
 ---
 

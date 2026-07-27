@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/production-ready-dev-stack-from-terminal"
 canonical_url: "https://stripe.dev/blog/production-ready-dev-stack-from-terminal"
 published_at: "2026-03-26T00:00:00+00:00"
-fetched_at: "2026-07-27T21:25:44.609188+00:00"
+fetched_at: "2026-07-27T23:21:13.174651+00:00"
 content_hash: "sha256:2ef4bb7957b5e4019540b1e9d02ac67c00f65e7094e772ffd39ec542fbe7dd26"
 ---
 
