@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/"
 canonical_url: "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/"
 published_at: "2026-07-22T13:00:11+00:00"
-fetched_at: "2026-07-27T07:11:22.001269+00:00"
+fetched_at: "2026-07-27T08:47:08.475682+00:00"
 content_hash: "sha256:b7efee9638806055526f96d366bc8e8cdc440adc7c0511bcf415f8a865493ffd"
 ---
 
