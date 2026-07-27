@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/"
 canonical_url: "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/"
 published_at: "2026-07-23T02:00:46+00:00"
-fetched_at: "2026-07-27T14:21:04.141383+00:00"
+fetched_at: "2026-07-27T15:55:31.636553+00:00"
 content_hash: "sha256:10dfeef487ba56f568b2615a3d81214554df56a275a88c2fcc33e3ea695ac1ba"
 ---
 

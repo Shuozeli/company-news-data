@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds"
 canonical_url: "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds"
 published_at: "2026-07-27T00:45:00+00:00"
-fetched_at: "2026-07-27T14:21:04.141383+00:00"
+fetched_at: "2026-07-27T15:55:31.636553+00:00"
 content_hash: "sha256:494bb2d7a371a36727a1974f9b0bc20b1ba33ba1c8806ec56151c7f7badecbbe"
 ---
 
