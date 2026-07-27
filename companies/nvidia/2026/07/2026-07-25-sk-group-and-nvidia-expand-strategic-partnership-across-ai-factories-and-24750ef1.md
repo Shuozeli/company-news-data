@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory"
 canonical_url: "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory"
 published_at: "2026-07-25T05:10:00+00:00"
-fetched_at: "2026-07-27T12:57:30.852282+00:00"
+fetched_at: "2026-07-27T14:21:04.141383+00:00"
 content_hash: "sha256:c5ce29677479c9dbdee4f2fff964667c8ba1d242c337b80946ae9954c95cd5c6"
 ---
 
