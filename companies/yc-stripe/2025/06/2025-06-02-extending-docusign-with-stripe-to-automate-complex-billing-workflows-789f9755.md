@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/docusign-stripe-integration-automating-billing-workflows"
 canonical_url: "https://stripe.dev/blog/docusign-stripe-integration-automating-billing-workflows"
 published_at: "2025-06-02T00:00:00+00:00"
-fetched_at: "2026-07-27T04:04:30.229013+00:00"
+fetched_at: "2026-07-27T05:36:25.293373+00:00"
 content_hash: "sha256:6640ca3f714595010650ef8d7f80693934b734e6c909d0b12e1b94a8579dfd38"
 ---
 
