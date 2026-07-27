@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/stay-within-limits-api-rate-limit-friendly-pattern-for-stripe-webhooks"
 canonical_url: "https://stripe.dev/blog/stay-within-limits-api-rate-limit-friendly-pattern-for-stripe-webhooks"
 published_at: "2025-07-03T00:00:00+00:00"
-fetched_at: "2026-07-27T10:20:51.195877+00:00"
+fetched_at: "2026-07-27T11:39:36.882075+00:00"
 content_hash: "sha256:e972c4c4a48adc94d84e648e607b3e29decfa953387d9dd4744f2fd17654f02b"
 ---
 
