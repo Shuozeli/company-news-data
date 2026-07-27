@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/integrating-services-with-agents-stripe-projects"
 canonical_url: "https://stripe.dev/blog/integrating-services-with-agents-stripe-projects"
 published_at: "2026-06-16T00:00:00+00:00"
-fetched_at: "2026-07-27T11:39:36.882075+00:00"
+fetched_at: "2026-07-27T12:55:56.108369+00:00"
 content_hash: "sha256:f204a0606c59008795effb7595ec4cc71d062908d621ebb3717b8959cd63aa83"
 ---
 

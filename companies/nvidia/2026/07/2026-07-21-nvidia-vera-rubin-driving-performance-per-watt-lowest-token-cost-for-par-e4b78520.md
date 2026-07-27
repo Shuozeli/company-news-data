@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/vera-rubin/"
 canonical_url: "https://blogs.nvidia.com/blog/vera-rubin/"
 published_at: "2026-07-21T15:36:43+00:00"
-fetched_at: "2026-07-27T11:41:55.923073+00:00"
+fetched_at: "2026-07-27T12:57:30.852282+00:00"
 content_hash: "sha256:4250a98568857a0beb39df2881326e0ce090e8ec6a8219364732eaa72db21617"
 ---
 
