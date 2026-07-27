@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/vera-cpu-eda/"
 canonical_url: "https://blogs.nvidia.com/blog/vera-cpu-eda/"
 published_at: "2026-07-27T00:45:42+00:00"
-fetched_at: "2026-07-27T15:55:31.636553+00:00"
+fetched_at: "2026-07-27T17:38:43.464773+00:00"
 content_hash: "sha256:5b27b3e7d01dc0a89f117ba06574c7a474faaf9a3278d245e16119586761091d"
 ---
 
