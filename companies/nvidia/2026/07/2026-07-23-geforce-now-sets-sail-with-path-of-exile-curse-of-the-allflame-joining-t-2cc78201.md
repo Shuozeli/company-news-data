@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/"
 canonical_url: "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/"
 published_at: "2026-07-23T13:00:16+00:00"
-fetched_at: "2026-07-27T19:29:00.386079+00:00"
+fetched_at: "2026-07-27T21:28:12.866603+00:00"
 content_hash: "sha256:5524169925c9c5f37ff8d5ca7a2ff74fddfd69becc05eac739b06db55b12124d"
 ---
 
