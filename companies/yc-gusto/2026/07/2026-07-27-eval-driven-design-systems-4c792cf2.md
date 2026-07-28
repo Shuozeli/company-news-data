@@ -5,7 +5,7 @@ source_id: "yc-gusto-engineering-rss"
 url: "https://engineering.gusto.com/eval-driven-design-systems-8f781dc2dacb?source=rss----645edd256348---4"
 canonical_url: "https://engineering.gusto.com/eval-driven-design-systems-8f781dc2dacb"
 published_at: "2026-07-27T19:37:21+00:00"
-fetched_at: "2026-07-28T00:59:21.528187+00:00"
+fetched_at: "2026-07-28T02:25:33.868731+00:00"
 content_hash: "sha256:20eda85a1b02ce2d23220280fac18f6138ab86e9af9911e5bb3636fbecd45ff5"
 ---
 
