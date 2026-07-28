@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7d4be8ae26001f695c091a0e4556fc1dad8fca3ce1a20045c08a43820cb838ae",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/06/apple-reveals-winners-of-the-2026-apple-design-awards/",
+    "canonical": "https://www.apple.com/newsroom/2026/06/apple-reveals-winners-of-the-2026-apple-design-awards/"
+  },
+  "title": "Apple reveals winners of the 2026 Apple Design Awards",
+  "summary": "",
+  "published_at": "2026-06-02T17:00:46.240+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.179592+00:00",
+  "fetched_at": "2026-07-28T04:07:26.146298+00:00",
+  "last_updated_at": "2026-07-28T04:07:26.184818+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/06/7d/7d4be8ae26001f695c091a0e4556fc1dad8fca3ce1a20045c08a43820cb838ae/article.md",
+    "record": "articles/v1/3a/apple/2026/06/7d/7d4be8ae26001f695c091a0e4556fc1dad8fca3ce1a20045c08a43820cb838ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 712,
+    "sha256": "sha256:55192cf05e9e09d6666fcf3095dc3d51aea031043b583a33f1e3edaa805c996c",
+    "normalized_content_hash": "sha256:7adcac5b38ba0b2454ebf06923b33b82da010b1375a0a42b6f87c7dc62c71cf8"
+  },
+  "provenance": {
+    "source_item_id": "9c9d99ae-8c94-4711-a539-85c5badb6355",
+    "external_id": "https://www.apple.com/newsroom/2026/06/apple-reveals-winners-of-the-2026-apple-design-awards/"
+  }
+}

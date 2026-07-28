@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "811337277e54a80b666fbdb5c4d188b886695667276e18a601cd4b7344e0ed4b",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-engineering-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.gusto.com/from-prompt-to-classifier-a-production-case-study-8fbcaca9b1eb?source=rss----645edd256348---4",
+    "canonical": "https://engineering.gusto.com/from-prompt-to-classifier-a-production-case-study-8fbcaca9b1eb"
+  },
+  "title": "From Prompt to Classifier: A Production Case Study",
+  "summary": "",
+  "published_at": "2026-06-29T15:16:45+00:00",
+  "first_seen_at": "2026-07-19T22:15:27.842622+00:00",
+  "fetched_at": "2026-07-28T04:03:20.234730+00:00",
+  "last_updated_at": "2026-07-28T04:03:20.273167+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/06/81/811337277e54a80b666fbdb5c4d188b886695667276e18a601cd4b7344e0ed4b/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/06/81/811337277e54a80b666fbdb5c4d188b886695667276e18a601cd4b7344e0ed4b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7499,
+    "sha256": "sha256:ddf2913bba66715f945c365439e2dd9e63188bb480bd10c73b3bd7e69bc1aa81",
+    "normalized_content_hash": "sha256:b9d64158e1ba1f46cbbf350816398b64a594f613b565703bf5d95430b9830b37"
+  },
+  "provenance": {
+    "source_item_id": "c2c2b151-9d96-4636-b78d-b1006c60dd09",
+    "external_id": "https://medium.com/p/8fbcaca9b1eb"
+  }
+}

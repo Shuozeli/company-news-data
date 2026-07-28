@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ee593bc9b0733d62a35813cf712805c2b8dbd6407a91bca1edc59944921c1bd8",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/introducing-versioning-for-stripe-workflows",
+    "canonical": "https://stripe.dev/blog/introducing-versioning-for-stripe-workflows"
+  },
+  "title": "Versioning in Stripe Workflows: Ship workflow changes with confidence",
+  "summary": "Versioning in Stripe Workflows lets you edit automations safely with drafts, roll back changes instantly, and see exactly what ran. Update with confidence.",
+  "published_at": "2025-12-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/12/ee/ee593bc9b0733d62a35813cf712805c2b8dbd6407a91bca1edc59944921c1bd8/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/12/ee/ee593bc9b0733d62a35813cf712805c2b8dbd6407a91bca1edc59944921c1bd8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 733,
+    "sha256": "sha256:743ef72be6a4fc758f9ae30e8153ab8e09f9a311c7662cdc86bbacc545d7e040",
+    "normalized_content_hash": "sha256:194a5daa1a026594df5de68fa4266b76f3885f0d8195e54f189d12188cb76702"
+  },
+  "provenance": {
+    "source_item_id": "e58d1436-24bb-4ed4-8551-a94e2600b214",
+    "external_id": "https://stripe.dev/blog/introducing-versioning-for-stripe-workflows"
+  }
+}

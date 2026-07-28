@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "9cea3d681d140c05118d1856aea7e232fc7834b6e45ddd27a321eb0329cc0b17",
+  "generated_at": "2026-07-28T04:07:26.184818+00:00",
+  "record_count": 186,
+  "company_count": 5,
+  "first_published_at": "2020-12-15T00:00:00+00:00",
+  "last_published_at": "2026-07-27T19:37:21+00:00",
+  "partitioning": {
+    "primary": "archive_month",
+    "secondary": "document_id_sha256_prefix_trie",
+    "max_records_per_shard": 5000,
+    "target_max_bytes_per_shard": 1048576,
+    "max_hash_prefix_depth": 8
+  },
+  "partitions": [
+    {
+      "partition": "2020-12",
+      "manifest_path": "index/v1/current/partitions/2020/12/manifest.json",
+      "record_count": 1,
+      "shard_count": 1,
+      "byte_count": 1253,
+      "sha256": "sha256:b3299d37da3ae0d8474b443d413254a99cc7d80ebb8f0ea07997b357f30503a8"
+    },
+    {
+      "partition": "2022-03",
+      "manifest_path": "index/v1/current/partitions/2022/03/manifest.json",
+      "record_count": 1,
+      "shard_count": 1,
+      "byte_count": 1249,
+      "sha256": "sha256:2cd3fa86a2bb2aea1a8a655b3e768c0ef11d43bce0bdb2937ea39d7fda408ac8"
+    },
+    {
+      "partition": "2022-05",
+      "manifest_path": "index/v1/current/partitions/2022/05/manifest.json",
+      "record_count": 2,
+      "shard_count": 1,
+      "byte_count": 2849,
+      "sha256": "sha256:be1936dbaa78a7c3d76374577840aabbef2752243d8b47cdf6aa9553f0373642"
+    },
+    {
+      "partition": "2022-09",
+      "manifest_path": "index/v1/current/partitions/2022/09/manifest.json",
+      "record_count": 1,
+      "shard_count": 1,
+      "byte_count": 1312,
+      "sha256": "sha256:4b1409132e89c22671c0daa06b744bd82b315e3d78712b15a6a4b3b07e69eeaa"
+    },
+    {
+      "partition": "2023-03",
+      "manifest_path": "index/v1/current/partitions/2023/03/manifest.json",
+      "record_count": 1,
+      "shard_count": 1,
+      "byte_count": 1308,
+      "sha256": "sha256:3bfc3129a6c97f01dc97c255ac286eb3b6f814fd2e5e4de8c39e3f80c99ac134"
+    },
+    {
+      "partition": "2024-02",
+      "manifest_path": "index/v1/current/partitions/2024/02/manifest.json",
+      "record_count": 1,
+      "shard_count": 1,
+      "byte_count": 1497,
+      "sha256": "sha256:40d69851ea4627600b6860d91aae40b60b21da59d9d7c6a59b880526d5999e62"
+    },
+    {
+      "partition": "2024-04",
+      "manifest_path": "index/v1/current/partitions/2024/04/manifest.json",
+      "record_count": 1,
+      "shard_count": 1,
+      "byte_count": 1373,
+      "sha256": "sha256:b5739c6ebe7ea6962da72c78bdd14de3cb15d4ca01fee23bc71241dccfa3ffa8"
+    },
+    {
+      "partition": "2024-05",
+      "manifest_path": "index/v1/current/partitions/2024/05/manifest.json",
+      "record_count": 1,
+      "shard_count": 1,
+      "byte_count": 1367,
+      "sha256": "sha256:ed4b168e45b72532afd259a358ae5b5066f8a6281eba17845e7e9a3fa319f883"
+    },
+    {
+      "partition": "2024-06",
+      "manifest_path": "index/v1/current/partitions/2024/06/manifest.json",
+      "record_count": 1,
+      "shard_count": 1,
+      "byte_count": 1454,
+      "sha256": "sha256:3daf3d2be7e9502ce196d6e0c29b5f8416260510931d51e73a6985b3fe0c56fc"
+    },
+    {
+      "partition": "2024-08",
+      "manifest_path": "index/v1/current/partitions/2024/08/manifest.json",
+      "record_count": 7,
+      "shard_count": 1,
+      "byte_count": 10601,
+      "sha256": "sha256:952a352c785931a6cdc2850539bf2877289662a3b7c68e0a0ed04aa742d7877b"
+    },
+    {
+      "partition": "2024-09",
+      "manifest_path": "index/v1/current/partitions/2024/09/manifest.json",
+      "record_count": 5,
+      "shard_count": 1,
+      "byte_count": 7624,
+      "sha256": "sha256:33e15e81b9189e49f08fb414babf8e7e3a5039c2bdd973cf6650487180228b78"
+    },
+    {
+      "partition": "2024-10",
+      "manifest_path": "index/v1/current/partitions/2024/10/manifest.json",
+      "record_count": 7,
+      "shard_count": 1,
+      "byte_count": 11003,
+      "sha256": "sha256:923efb55f3f9505a8f0d6b2eb45dc6cb0481c7b9c94d59dea663ac497bf1bde2"
+    },
+    {
+      "partition": "2024-11",
+      "manifest_path": "index/v1/current/partitions/2024/11/manifest.json",
+      "record_count": 5,
+      "shard_count": 1,
+      "byte_count": 7979,
+      "sha256": "sha256:5a5e3e197a86a9619b282587869b2278f3fd234c3bbf0ddff31cf4b80ee875ca"
+    },
+    {
+      "partition": "2024-12",
+      "manifest_path": "index/v1/current/partitions/2024/12/manifest.json",
+      "record_count": 6,
+      "shard_count": 1,
+      "byte_count": 10070,
+      "sha256": "sha256:eb955012c19902c14e2ddf534cf8c7fa95d9b89dd1ccbd0e5590590ba24c92cc"
+    },
+    {
+      "partition": "2025-01",
+      "manifest_path": "index/v1/current/partitions/2025/01/manifest.json",
+      "record_count": 2,
+      "shard_count": 1,
+      "byte_count": 3223,
+      "sha256": "sha256:9785caedc6ed9171c55a6d36d23a1c193bffc1ee3f20b84569b07724cf97a1d3"
+    },
+    {
+      "partition": "2025-02",
+      "manifest_path": "index/v1/current/partitions/2025/02/manifest.json",
+      "record_count": 4,
+      "shard_count": 1,
+      "byte_count": 6218,
+      "sha256": "sha256:7a56d3cb022eed6bb0c928364062f2fdaf108bad1838eed1e5a3cfe29a77ea70"
+    },
+    {
+      "partition": "2025-03",
+      "manifest_path": "index/v1/current/partitions/2025/03/manifest.json",
+      "record_count": 5,
+      "shard_count": 1,
+      "byte_count": 7987,
+      "sha256": "sha256:9e25457bddc8921aeb1ccc896810b2254793c4fe3b6289a590d7bf1b9927b701"
+    },
+    {
+      "partition": "2025-04",
+      "manifest_path": "index/v1/current/partitions/2025/04/manifest.json",
+      "record_count": 3,
+      "shard_count": 1,
+      "byte_count": 5354,
+      "sha256": "sha256:ab71af6680ed2cac996e1a1a7a05fef11f2a27a66b1999e48900d5926c280dc3"
+    },
+    {
+      "partition": "2025-05",
+      "manifest_path": "index/v1/current/partitions/2025/05/manifest.json",
+      "record_count": 4,
+      "shard_count": 1,
+      "byte_count": 7066,
+      "sha256": "sha256:b8a829d471c46948a41b6c5c3cd495ad2cb346e730b5c057169db96113333cbf"
+    },
+    {
+      "partition": "2025-06",
+      "manifest_path": "index/v1/current/partitions/2025/06/manifest.json",
+      "record_count": 3,
+      "shard_count": 1,
+      "byte_count": 4519,
+      "sha256": "sha256:d2f7ee77dc33e5460a6d0a6bc1f516d6c76fdbe25298ba76488ed4f0303ebea0"
+    },
+    {
+      "partition": "2025-07",
+      "manifest_path": "index/v1/current/partitions/2025/07/manifest.json",
+      "record_count": 6,
+      "shard_count": 1,
+      "byte_count": 8531,
+      "sha256": "sha256:5505906ae53da9a4ed41b945cf617128a1ccbbf91cb104c6daa558949189aad8"
+    },
+    {
+      "partition": "2025-08",
+      "manifest_path": "index/v1/current/partitions/2025/08/manifest.json",
+      "record_count": 6,
+      "shard_count": 1,
+      "byte_count": 9005,
+      "sha256": "sha256:f10defdd97fa889f468a9b3b0d8f5e1743c9716cc46a49b7f376e3e5f40f250f"
+    },
+    {
+      "partition": "2025-09",
+      "manifest_path": "index/v1/current/partitions/2025/09/manifest.json",
+      "record_count": 4,
+      "shard_count": 1,
+      "byte_count": 5714,
+      "sha256": "sha256:af236ae4c254435e66e67c6e5f0683ce5fee16fbe95ce7dd71ca1050cb615486"
+    },
+    {
+      "partition": "2025-10",
+      "manifest_path": "index/v1/current/partitions/2025/10/manifest.json",
+      "record_count": 1,
+      "shard_count": 1,
+      "byte_count": 1308,
+      "sha256": "sha256:b0afbba596ed5a708ea2c03fb8f602f2b6f05a155dd9a67eb2d66c8fcb023500"
+    },
+    {
+      "partition": "2025-11",
+      "manifest_path": "index/v1/current/partitions/2025/11/manifest.json",
+      "record_count": 1,
+      "shard_count": 1,
+      "byte_count": 1492,
+      "sha256": "sha256:3f61c68c1bffc7f6c4c75a10b064b3e7bed491e5a3977953f2f28425139ecf8e"
+    },
+    {
+      "partition": "2025-12",
+      "manifest_path": "index/v1/current/partitions/2025/12/manifest.json",
+      "record_count": 2,
+      "shard_count": 1,
+      "byte_count": 2747,
+      "sha256": "sha256:153c2e5be969301d268c4978c112cf23db399786b7bab26f0fcecfebab887934"
+    },
+    {
+      "partition": "2026-01",
+      "manifest_path": "index/v1/current/partitions/2026/01/manifest.json",
+      "record_count": 3,
+      "shard_count": 1,
+      "byte_count": 27682,
+      "sha256": "sha256:b3ed63b0bd0a9a1c96356c7d1cf2ce6e630100c5e9f2ffd760011f9752f9708b"
+    },
+    {
+      "partition": "2026-02",
+      "manifest_path": "index/v1/current/partitions/2026/02/manifest.json",
+      "record_count": 3,
+      "shard_count": 1,
+      "byte_count": 23575,
+      "sha256": "sha256:ec5d6e3614cbc268f32f1c02fa0884200f0bbe7a32dd3b664d250d779a881d2c"
+    },
+    {
+      "partition": "2026-03",
+      "manifest_path": "index/v1/current/partitions/2026/03/manifest.json",
+      "record_count": 5,
+      "shard_count": 1,
+      "byte_count": 22626,
+      "sha256": "sha256:333fbae4a7cdaf7b29c560f1316d271f9fecd8644b1d76fed24f3c08c0379dca"
+    },
+    {
+      "partition": "2026-04",
+      "manifest_path": "index/v1/current/partitions/2026/04/manifest.json",
+      "record_count": 8,
+      "shard_count": 1,
+      "byte_count": 23152,
+      "sha256": "sha256:0e3eca7ba0da4adece595bc4ca7a76f6be34f08fc1157bf23c1fca1d7904a26d"
+    },
+    {
+      "partition": "2026-05",
+      "manifest_path": "index/v1/current/partitions/2026/05/manifest.json",
+      "record_count": 10,
+      "shard_count": 1,
+      "byte_count": 13709,
+      "sha256": "sha256:2f2a6c10c46b12437ef9db65e49bf57ff2851b350b1e432aacad590cf0f05396"
+    },
+    {
+      "partition": "2026-06",
+      "manifest_path": "index/v1/current/partitions/2026/06/manifest.json",
+      "record_count": 25,
+      "shard_count": 1,
+      "byte_count": 49938,
+      "sha256": "sha256:5a4b97f17918c75a9fd78dfd4707b68b8fd07c30e0ea91409ee7c0cd6ce96756"
+    },
+    {
+      "partition": "2026-07",
+      "manifest_path": "index/v1/current/partitions/2026/07/manifest.json",
+      "record_count": 51,
+      "shard_count": 1,
+      "byte_count": 107451,
+      "sha256": "sha256:d1c0e4856e01664d3a31d591258adbf6d48c22a7e04fb59e1869b8ba018736b8"
+    }
+  ]
+}

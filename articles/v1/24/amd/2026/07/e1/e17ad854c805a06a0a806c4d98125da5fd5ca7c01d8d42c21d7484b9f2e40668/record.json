@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e17ad854c805a06a0a806c4d98125da5fd5ca7c01d8d42c21d7484b9f2e40668",
+  "company": {
+    "key": "amd",
+    "name": "AMD"
+  },
+  "source": {
+    "id": "co-amd-ir-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.amd.com/news-events/press-releases/detail/1289/amd-to-report-fiscal-second-quarter-2026-financial-results",
+    "canonical": "https://ir.amd.com/news-events/press-releases/detail/1289/amd-to-report-fiscal-second-quarter-2026-financial-results"
+  },
+  "title": "AMD to Report Fiscal Second Quarter 2026 Financial Results",
+  "summary": "",
+  "published_at": "2026-07-08T20:15:00+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.480821+00:00",
+  "fetched_at": "2026-07-28T04:06:26.286438+00:00",
+  "last_updated_at": "2026-07-28T04:06:26.358444+00:00",
+  "paths": {
+    "article": "articles/v1/24/amd/2026/07/e1/e17ad854c805a06a0a806c4d98125da5fd5ca7c01d8d42c21d7484b9f2e40668/article.md",
+    "record": "articles/v1/24/amd/2026/07/e1/e17ad854c805a06a0a806c4d98125da5fd5ca7c01d8d42c21d7484b9f2e40668/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 598,
+    "sha256": "sha256:f403890124a8c0f04314ef764298255970daa4912920baacfc74456e15cbc829",
+    "normalized_content_hash": "sha256:8a399dbebaabc4ebdf60aa5225bf3443ceea957a96a4d9c0cbbaba5ee1aed535"
+  },
+  "provenance": {
+    "source_item_id": "d26ac928-01f8-417c-a803-1f0e44508be1",
+    "external_id": "https://ir.amd.com/news-events/press-releases/detail/1289/amd-to-report-fiscal-second-quarter-2026-financial-results"
+  }
+}

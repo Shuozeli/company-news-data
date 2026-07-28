@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "df25f94c60cbf1941b2e31ce31ce3e1b5602df8a5b0fd3084b9212e8d5448c43"
+company_key: "apple"
+company: "Apple"
+source_id: "co-aapl-newsroom-rss"
+canonical_url: "https://www.apple.com/newsroom/2026/05/detroits-rising-developers-are-supported-by-the-apple-developer-academy/"
+published_at: "2026-05-29T15:59:14.435+00:00"
+first_seen_at: "2026-07-19T06:54:21.179592+00:00"
+fetched_at: "2026-07-23T12:07:18.676055+00:00"
+content_hash: "sha256:3a31518de0c31aaae8fc3e71ae91e11b7f827f0b8c6fc467d7e31adc58902a24"
+---
+
+# Detroit’s rising developers are supported by the Apple Developer Academy
+
+This year marks the Apple Developer Academy in Detroit’s fifth commencement in collaboration with MSU and the Gilbert Family Foundation.

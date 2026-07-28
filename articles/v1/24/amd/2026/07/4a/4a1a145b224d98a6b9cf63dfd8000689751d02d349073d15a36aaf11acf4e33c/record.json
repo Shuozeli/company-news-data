@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4a1a145b224d98a6b9cf63dfd8000689751d02d349073d15a36aaf11acf4e33c",
+  "company": {
+    "key": "amd",
+    "name": "AMD"
+  },
+  "source": {
+    "id": "co-amd-ir-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.amd.com/news-events/press-releases/detail/1290/amd-appoints-alan-smith-as-newest-corporate-fellow",
+    "canonical": "https://ir.amd.com/news-events/press-releases/detail/1290/amd-appoints-alan-smith-as-newest-corporate-fellow"
+  },
+  "title": "AMD Appoints Alan Smith as Newest Corporate Fellow",
+  "summary": "",
+  "published_at": "2026-07-16T13:00:00+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.480821+00:00",
+  "fetched_at": "2026-07-28T04:06:26.286438+00:00",
+  "last_updated_at": "2026-07-28T04:06:26.358444+00:00",
+  "paths": {
+    "article": "articles/v1/24/amd/2026/07/4a/4a1a145b224d98a6b9cf63dfd8000689751d02d349073d15a36aaf11acf4e33c/article.md",
+    "record": "articles/v1/24/amd/2026/07/4a/4a1a145b224d98a6b9cf63dfd8000689751d02d349073d15a36aaf11acf4e33c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 582,
+    "sha256": "sha256:5c660baabba5a745e020a34a7c0002c31245b6a96f5bb8231f376a837c21dbe4",
+    "normalized_content_hash": "sha256:88fe98c54b1c2ea871adf22e6865238e22d972d7578bf04c1fbd0b87ca906c5f"
+  },
+  "provenance": {
+    "source_item_id": "9b42e251-2e54-4cb8-81b4-45ecbcc32414",
+    "external_id": "https://ir.amd.com/news-events/press-releases/detail/1290/amd-appoints-alan-smith-as-newest-corporate-fellow"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c61a837c44f7b11aebc3df649c9a10020dc4d7facef46567b264ebe92265276",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "source": {
+    "id": "co-nvda-newsroom-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+    "canonical": "https://blogs.nvidia.com/blog/open-models-icml-2026/"
+  },
+  "title": "How Open Models Are Driving AI Research",
+  "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately […]",
+  "published_at": "2026-07-06T16:00:00+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.753056+00:00",
+  "fetched_at": "2026-07-22T12:59:59.775799+00:00",
+  "last_updated_at": "2026-07-22T12:59:59.777850+00:00",
+  "paths": {
+    "article": "articles/v1/8d/nvidia/2026/07/3c/3c61a837c44f7b11aebc3df649c9a10020dc4d7facef46567b264ebe92265276/article.md",
+    "record": "articles/v1/8d/nvidia/2026/07/3c/3c61a837c44f7b11aebc3df649c9a10020dc4d7facef46567b264ebe92265276/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 900,
+    "sha256": "sha256:81934cdfb89d3d7c427330007fe7476b74d7b8d2066f8f7a3416706f0efd09eb",
+    "normalized_content_hash": "sha256:8cbbbe0375e94fd5f52512711e517ace40973df2eed73b0eb108cb6acc9db61b"
+  },
+  "provenance": {
+    "source_item_id": "9d7f1ac0-ad0e-468c-931a-73bb5d7aecf4",
+    "external_id": "https://blogs.nvidia.com/blog/open-models-icml-2026/"
+  }
+}

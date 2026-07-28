@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f35704b9c79fc6ecade08392e6eafc1f506b141c088117fac961401bf758aeec",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+    "canonical": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/"
+  },
+  "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+  "summary": "",
+  "published_at": "2026-07-09T15:59:17.613+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.179592+00:00",
+  "fetched_at": "2026-07-28T04:07:26.146298+00:00",
+  "last_updated_at": "2026-07-28T04:07:26.184818+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/f3/f35704b9c79fc6ecade08392e6eafc1f506b141c088117fac961401bf758aeec/article.md",
+    "record": "articles/v1/3a/apple/2026/07/f3/f35704b9c79fc6ecade08392e6eafc1f506b141c088117fac961401bf758aeec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 794,
+    "sha256": "sha256:b878fe4a5a92490d9d1ca34a999bd80ec605c8133a6724ea3e5ef3372711bd83",
+    "normalized_content_hash": "sha256:c0d474827f30df14f0bc48002fac4ca2f3b4e604fa0c06a1581579eb0702156b"
+  },
+  "provenance": {
+    "source_item_id": "bcd55484-73fb-48df-bc06-61a97828f6bd",
+    "external_id": "https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/"
+  }
+}

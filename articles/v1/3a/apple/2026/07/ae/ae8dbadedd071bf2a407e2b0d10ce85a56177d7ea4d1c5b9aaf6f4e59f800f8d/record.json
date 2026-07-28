@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae8dbadedd071bf2a407e2b0d10ce85a56177d7ea4d1c5b9aaf6f4e59f800f8d",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+    "canonical": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
+  },
+  "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+  "summary": "",
+  "published_at": "2026-07-08T10:00:13.748+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.179592+00:00",
+  "fetched_at": "2026-07-28T04:07:26.146298+00:00",
+  "last_updated_at": "2026-07-28T04:07:26.184818+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/ae/ae8dbadedd071bf2a407e2b0d10ce85a56177d7ea4d1c5b9aaf6f4e59f800f8d/article.md",
+    "record": "articles/v1/3a/apple/2026/07/ae/ae8dbadedd071bf2a407e2b0d10ce85a56177d7ea4d1c5b9aaf6f4e59f800f8d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 779,
+    "sha256": "sha256:8072d0b20191719e3c2d7e2024b508bce3f4df5d25f2817cd7ea38ab69a883dc",
+    "normalized_content_hash": "sha256:f1912330a664635574cf017f969940a597bb6d0412e0834f4c676b8971334d7c"
+  },
+  "provenance": {
+    "source_item_id": "9b8afc68-06fe-498d-9262-705297b89ae5",
+    "external_id": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
+  }
+}

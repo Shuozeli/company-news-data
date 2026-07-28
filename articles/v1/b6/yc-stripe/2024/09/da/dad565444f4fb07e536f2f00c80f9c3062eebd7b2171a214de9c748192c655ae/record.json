@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dad565444f4fb07e536f2f00c80f9c3062eebd7b2171a214de9c748192c655ae",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/simple-error-handling-strategies-with-stripe-workbench",
+    "canonical": "https://stripe.dev/blog/simple-error-handling-strategies-with-stripe-workbench"
+  },
+  "title": "Simple error handling strategies with Stripe Workbench",
+  "summary": "With Workbench, developers now have a bird’s-eye view of their integration which shows many potential issues in one place. This makes it easier to see the impact of each incident, see how often it’s happening, and receive actionable advice for resolving the issue.",
+  "published_at": "2024-09-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/09/da/dad565444f4fb07e536f2f00c80f9c3062eebd7b2171a214de9c748192c655ae/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/09/da/dad565444f4fb07e536f2f00c80f9c3062eebd7b2171a214de9c748192c655ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 842,
+    "sha256": "sha256:d32985a340195805c3cca1ec662c51cfe6027dbf300e163c56445af8a8689a33",
+    "normalized_content_hash": "sha256:d42c7440af0338c0d4c078d25702f020fab5910c977e794a94509329a8c297c7"
+  },
+  "provenance": {
+    "source_item_id": "319f5aa6-1305-452f-b083-d9680a7a33c8",
+    "external_id": "https://stripe.dev/blog/simple-error-handling-strategies-with-stripe-workbench"
+  }
+}

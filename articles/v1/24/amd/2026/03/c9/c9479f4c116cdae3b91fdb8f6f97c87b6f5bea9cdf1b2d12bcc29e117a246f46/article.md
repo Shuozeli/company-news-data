@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "c9479f4c116cdae3b91fdb8f6f97c87b6f5bea9cdf1b2d12bcc29e117a246f46"
+company_key: "amd"
+company: "AMD"
+source_id: "co-amd-ir-rss"
+canonical_url: "https://ir.amd.com/news-events/press-releases/detail/1281/amd-gives-consumers-and-businesses-more-ai-pc-options-with-expanded-ryzen-ai-400-series-portfolio"
+published_at: "2026-03-02T08:00:00+00:00"
+first_seen_at: "2026-07-19T06:54:21.480821+00:00"
+fetched_at: "2026-07-20T12:51:42.724439+00:00"
+content_hash: "sha256:28f70fbaf9609204e16d4a88e5ffe7dc03cb6af2782864ec16154ffadb4391c6"
+---
+
+# AMD Gives Consumers and Businesses More AI PC Options with Expanded Ryzen™ AI 400 Series Portfolio
+
+

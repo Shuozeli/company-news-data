@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e46b4650c561349f697f39b0f2776170915223f5324ae3e22972a351f9bbdc1c",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/what-it-feels-like-building-with-stripe-projects",
+    "canonical": "https://stripe.dev/blog/what-it-feels-like-building-with-stripe-projects"
+  },
+  "title": "What it feels like building with Stripe Projects",
+  "summary": "Building a GitHub traffic dashboard with Stripe Projects revealed a surprising shift from “AI coding” into real infrastructure orchestration. In under an hour, Auth0, Supabase, Vercel, Prisma, deployments, environments, and scheduled jobs materialized around an idea with remarkable speed. The experience highlighted both the power and the emerging challenge of AI-assisted infrastructure: operational visibility, ownership clarity, environment management, and understanding rapidly orchestrated systems.",
+  "published_at": "2026-05-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/05/e4/e46b4650c561349f697f39b0f2776170915223f5324ae3e22972a351f9bbdc1c/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/05/e4/e46b4650c561349f697f39b0f2776170915223f5324ae3e22972a351f9bbdc1c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1070,
+    "sha256": "sha256:042d97c52fc1fdcbcacab067f585bc4769dae0caf66015a6b141d4971a2458ed",
+    "normalized_content_hash": "sha256:49e64851d564154ac7f75c2095fef5841c38d455e5b2dd45c154e17b769faf9d"
+  },
+  "provenance": {
+    "source_item_id": "a34261b8-4a22-4f34-a0f4-e348d71d06e2",
+    "external_id": "https://stripe.dev/blog/what-it-feels-like-building-with-stripe-projects"
+  }
+}

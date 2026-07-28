@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab15494b93d7877d3557b8d24565a66965c049f93e4152da6a346a067bd7b2c7",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/how-we-built-it-real-time-analytics-for-stripe-billing",
+    "canonical": "https://stripe.dev/blog/how-we-built-it-real-time-analytics-for-stripe-billing"
+  },
+  "title": "How we built it: Real-time analytics for Stripe Billing",
+  "summary": "Among global business leaders surveyed, 84% agree that adapting pricing quickly will be a key competitive advantage. Our new real-time analytics system for Stripe Billing helps them spot customer trends just as they emerge.",
+  "published_at": "2025-09-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/09/ab/ab15494b93d7877d3557b8d24565a66965c049f93e4152da6a346a067bd7b2c7/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/09/ab/ab15494b93d7877d3557b8d24565a66965c049f93e4152da6a346a067bd7b2c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 798,
+    "sha256": "sha256:af38e9ee7d051e692d66d17e0c903d64d4e7cada0d842195e5a67ff7a93b90a3",
+    "normalized_content_hash": "sha256:6fd89e19b788fdd52403ef5dd2557783cbd4dc819ac7a2faf6f6f1194acef6a8"
+  },
+  "provenance": {
+    "source_item_id": "84cd8453-277f-47d6-ade2-088ea3af19e3",
+    "external_id": "https://stripe.dev/blog/how-we-built-it-real-time-analytics-for-stripe-billing"
+  }
+}

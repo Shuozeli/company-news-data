@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "00b1bc6582c97305cc94ca4f4d6616113ec69f776a46e4c92cac444911df4f24"
+company_key: "nvidia"
+company: "NVIDIA"
+source_id: "co-nvda-newsroom-rss"
+canonical_url: "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds"
+published_at: "2026-07-27T00:45:00+00:00"
+first_seen_at: "2026-07-27T01:11:39.071768+00:00"
+fetched_at: "2026-07-28T04:03:31.606749+00:00"
+content_hash: "sha256:494bb2d7a371a36727a1974f9b0bc20b1ba33ba1c8806ec56151c7f7badecbbe"
+---
+
+# NVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries to Transform How the World Engineers, Designs and Builds
+
+NVIDIA today announced an expansion of NVIDIA Agent Toolkit for engineering, now adding NVIDIA PhysicsNeMo™ and CUDA-X™ libraries as agent-ready tools and skills built to transform how the world designs and develops products.

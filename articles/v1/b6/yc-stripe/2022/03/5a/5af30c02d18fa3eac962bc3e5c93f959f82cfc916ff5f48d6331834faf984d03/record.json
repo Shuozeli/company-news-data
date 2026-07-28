@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5af30c02d18fa3eac962bc3e5c93f959f82cfc916ff5f48d6331834faf984d03",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/sorbet-stripes-type-checker-for-ruby",
+    "canonical": "https://stripe.dev/blog/sorbet-stripes-type-checker-for-ruby"
+  },
+  "title": "Sorbet: Stripe’s type checker for Ruby",
+  "summary": "Stripe uses Sorbet to type check our 15 million lines of Ruby code, making engineers more productive. Here's why we love Sorbet.",
+  "published_at": "2022-03-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2022/03/5a/5af30c02d18fa3eac962bc3e5c93f959f82cfc916ff5f48d6331834faf984d03/article.md",
+    "record": "articles/v1/b6/yc-stripe/2022/03/5a/5af30c02d18fa3eac962bc3e5c93f959f82cfc916ff5f48d6331834faf984d03/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 670,
+    "sha256": "sha256:c34ef05c1730c3d1e29217e98e51739fba609c6ae5d34959b6e0630c036ec424",
+    "normalized_content_hash": "sha256:8560eda65d56f2cf656b1cebbd655c39a9478e9b9f58b446d381e6e006b94b6d"
+  },
+  "provenance": {
+    "source_item_id": "77f65e7e-a972-403c-ac45-3ab0998ca5be",
+    "external_id": "https://stripe.dev/blog/sorbet-stripes-type-checker-for-ruby"
+  }
+}

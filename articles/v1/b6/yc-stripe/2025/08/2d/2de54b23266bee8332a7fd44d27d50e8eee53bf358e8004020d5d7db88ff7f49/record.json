@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2de54b23266bee8332a7fd44d27d50e8eee53bf358e8004020d5d7db88ff7f49",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/database-reconciliation-growing-businesses-part-2",
+    "canonical": "https://stripe.dev/blog/database-reconciliation-growing-businesses-part-2"
+  },
+  "title": "From naive webhooks to durable sync: Queue-based and event-driven data reconciliation patterns",
+  "summary": "Learn advanced database reconciliation patterns for Stripe integration. Explore queue-based architectures, event-driven sync, and robust error handling to maintain product data consistency at scale.",
+  "published_at": "2025-08-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/08/2d/2de54b23266bee8332a7fd44d27d50e8eee53bf358e8004020d5d7db88ff7f49/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/08/2d/2de54b23266bee8332a7fd44d27d50e8eee53bf358e8004020d5d7db88ff7f49/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 807,
+    "sha256": "sha256:18451f9834dd8c9435b51fdfb4ac4f79999eeb411ba46cd33555cbc876f28224",
+    "normalized_content_hash": "sha256:651b896bcc224377bde0698fe58fd73ea002beeee11820890adf4a0f290c0017"
+  },
+  "provenance": {
+    "source_item_id": "d226fb2d-35ed-4703-b63f-7bd51093a185",
+    "external_id": "https://stripe.dev/blog/database-reconciliation-growing-businesses-part-2"
+  }
+}

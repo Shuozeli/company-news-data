@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc791f2aabe6dae64503cf47750646ef798934f31acdf1e7754d96acfdea544f",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "source": {
+    "id": "co-nvda-newsroom-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+    "canonical": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/"
+  },
+  "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+  "summary": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends like Breath of […]",
+  "published_at": "2026-07-23T13:00:16+00:00",
+  "first_seen_at": "2026-07-23T13:07:23.697782+00:00",
+  "fetched_at": "2026-07-28T04:03:31.606749+00:00",
+  "last_updated_at": "2026-07-28T04:03:31.645581+00:00",
+  "paths": {
+    "article": "articles/v1/8d/nvidia/2026/07/dc/dc791f2aabe6dae64503cf47750646ef798934f31acdf1e7754d96acfdea544f/article.md",
+    "record": "articles/v1/8d/nvidia/2026/07/dc/dc791f2aabe6dae64503cf47750646ef798934f31acdf1e7754d96acfdea544f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 920,
+    "sha256": "sha256:9e906ea384d80668b6d3ca571e27232b07de9cc6dbe257c9f0df4b41e50a3a95",
+    "normalized_content_hash": "sha256:5524169925c9c5f37ff8d5ca7a2ff74fddfd69becc05eac739b06db55b12124d"
+  },
+  "provenance": {
+    "source_item_id": "2cc78201-5852-40df-8910-ab8eb54d893e",
+    "external_id": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/"
+  }
+}

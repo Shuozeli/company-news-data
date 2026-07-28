@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccddd78abde355dcb071dfd05cddd81eda252354a0b1b7f23c788c26ff976fd5",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+    "canonical": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/"
+  },
+  "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant",
+  "summary": "",
+  "published_at": "2026-06-08T18:15:52.996+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.179592+00:00",
+  "fetched_at": "2026-07-28T04:07:26.146298+00:00",
+  "last_updated_at": "2026-07-28T04:07:26.184818+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/06/cc/ccddd78abde355dcb071dfd05cddd81eda252354a0b1b7f23c788c26ff976fd5/article.md",
+    "record": "articles/v1/3a/apple/2026/06/cc/ccddd78abde355dcb071dfd05cddd81eda252354a0b1b7f23c788c26ff976fd5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 795,
+    "sha256": "sha256:686103fd0a3707f5962fdab785b75d8c227833d8eb00dbe57a16bcb60902f509",
+    "normalized_content_hash": "sha256:bcd4d3b92475e61fc56da167218bf76f80784911d967169540c5caa3a5f531af"
+  },
+  "provenance": {
+    "source_item_id": "e87eaf89-16d8-49bc-8027-60960745d8ef",
+    "external_id": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/"
+  }
+}

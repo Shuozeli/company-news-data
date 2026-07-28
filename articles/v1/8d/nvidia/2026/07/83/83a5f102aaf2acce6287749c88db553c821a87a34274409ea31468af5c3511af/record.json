@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "83a5f102aaf2acce6287749c88db553c821a87a34274409ea31468af5c3511af",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "source": {
+    "id": "co-nvda-newsroom-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+    "canonical": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/"
+  },
+  "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+  "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]",
+  "published_at": "2026-07-21T22:35:45+00:00",
+  "first_seen_at": "2026-07-21T22:58:13.499624+00:00",
+  "fetched_at": "2026-07-28T04:03:31.606749+00:00",
+  "last_updated_at": "2026-07-28T04:03:31.645581+00:00",
+  "paths": {
+    "article": "articles/v1/8d/nvidia/2026/07/83/83a5f102aaf2acce6287749c88db553c821a87a34274409ea31468af5c3511af/article.md",
+    "record": "articles/v1/8d/nvidia/2026/07/83/83a5f102aaf2acce6287749c88db553c821a87a34274409ea31468af5c3511af/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 929,
+    "sha256": "sha256:27e3abfefe95b5282732113ccb96f5a3a3e8c6331413d5c3d2c5c23ad293f67c",
+    "normalized_content_hash": "sha256:43dfd90f8ebcdd66a8e9c08c17317107b3867d2b8e6912f0e49b93724fcfbba0"
+  },
+  "provenance": {
+    "source_item_id": "41d4f19e-e54c-43f5-8e55-c34784ece8d0",
+    "external_id": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d69513191b0acdd032c05137e944d2fb5d1d55fb5a9154b59fab417b09aa1b2d",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "source": {
+    "id": "co-nvda-newsroom-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+    "canonical": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
+  },
+  "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+  "summary": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s […]",
+  "published_at": "2026-06-30T15:00:57+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.753056+00:00",
+  "fetched_at": "2026-07-20T10:50:10.935135+00:00",
+  "last_updated_at": "2026-07-20T10:50:10.937156+00:00",
+  "paths": {
+    "article": "articles/v1/8d/nvidia/2026/06/d6/d69513191b0acdd032c05137e944d2fb5d1d55fb5a9154b59fab417b09aa1b2d/article.md",
+    "record": "articles/v1/8d/nvidia/2026/06/d6/d69513191b0acdd032c05137e944d2fb5d1d55fb5a9154b59fab417b09aa1b2d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 950,
+    "sha256": "sha256:891bf830569aefa407a55d67fd5a97503e601241ba2e0715547998abbfafa080",
+    "normalized_content_hash": "sha256:8e9ae608f6ae895873aabab6fc7e7ffdec906ebd1e15302de55d65223d2310d0"
+  },
+  "provenance": {
+    "source_item_id": "b8023cf9-7757-4c42-9520-feadf2a7281c",
+    "external_id": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
+  }
+}

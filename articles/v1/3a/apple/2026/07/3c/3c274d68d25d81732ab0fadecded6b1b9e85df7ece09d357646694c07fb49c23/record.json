@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c274d68d25d81732ab0fadecded6b1b9e85df7ece09d357646694c07fb49c23",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+    "canonical": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/"
+  },
+  "title": "Apple scores record 89 Emmy Award nominations",
+  "summary": "",
+  "published_at": "2026-07-09T00:42:00.573+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.179592+00:00",
+  "fetched_at": "2026-07-28T04:07:26.146298+00:00",
+  "last_updated_at": "2026-07-28T04:07:26.184818+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/3c/3c274d68d25d81732ab0fadecded6b1b9e85df7ece09d357646694c07fb49c23/article.md",
+    "record": "articles/v1/3a/apple/2026/07/3c/3c274d68d25d81732ab0fadecded6b1b9e85df7ece09d357646694c07fb49c23/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 662,
+    "sha256": "sha256:c5d3d8badc5284127a98ea5a4661f42f9b344f899cf2d074ba94d972dc04a106",
+    "normalized_content_hash": "sha256:8541b9523dd12b59c4adc0b03bf58e2789958994857746504d07b97cf9ee371f"
+  },
+  "provenance": {
+    "source_item_id": "56415239-3e3b-4af6-89ad-61a13b83996c",
+    "external_id": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/"
+  }
+}

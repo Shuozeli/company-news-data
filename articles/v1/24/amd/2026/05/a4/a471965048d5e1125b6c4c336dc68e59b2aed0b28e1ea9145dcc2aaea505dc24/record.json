@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a471965048d5e1125b6c4c336dc68e59b2aed0b28e1ea9145dcc2aaea505dc24",
+  "company": {
+    "key": "amd",
+    "name": "AMD"
+  },
+  "source": {
+    "id": "co-amd-ir-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.amd.com/news-events/press-releases/detail/1285/amd-to-host-annual-meeting-of-stockholders",
+    "canonical": "https://ir.amd.com/news-events/press-releases/detail/1285/amd-to-host-annual-meeting-of-stockholders"
+  },
+  "title": "AMD to Host Annual Meeting of Stockholders",
+  "summary": "",
+  "published_at": "2026-05-07T20:15:00+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.480821+00:00",
+  "fetched_at": "2026-07-28T04:06:26.286438+00:00",
+  "last_updated_at": "2026-07-28T04:06:26.358444+00:00",
+  "paths": {
+    "article": "articles/v1/24/amd/2026/05/a4/a471965048d5e1125b6c4c336dc68e59b2aed0b28e1ea9145dcc2aaea505dc24/article.md",
+    "record": "articles/v1/24/amd/2026/05/a4/a471965048d5e1125b6c4c336dc68e59b2aed0b28e1ea9145dcc2aaea505dc24/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 566,
+    "sha256": "sha256:2a5f64bc8c7efca14a60fc016f99937fd7e847e490d30c792ef1c080a0b3f149",
+    "normalized_content_hash": "sha256:ff125ab410c797abeaa40dcfcf2255e64b68cacd515f44e3c93f5252a6c24ccb"
+  },
+  "provenance": {
+    "source_item_id": "9c210195-4919-483f-a687-d348eed25938",
+    "external_id": "https://ir.amd.com/news-events/press-releases/detail/1285/amd-to-host-annual-meeting-of-stockholders"
+  }
+}

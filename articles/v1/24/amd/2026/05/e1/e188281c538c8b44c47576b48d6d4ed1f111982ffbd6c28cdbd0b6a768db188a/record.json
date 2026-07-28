@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e188281c538c8b44c47576b48d6d4ed1f111982ffbd6c28cdbd0b6a768db188a",
+  "company": {
+    "key": "amd",
+    "name": "AMD"
+  },
+  "source": {
+    "id": "co-amd-ir-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.amd.com/news-events/press-releases/detail/1286/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure",
+    "canonical": "https://ir.amd.com/news-events/press-releases/detail/1286/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure"
+  },
+  "title": "AMD Announces More Than $10 Billion in Taiwan Ecosystem Investments to Accelerate AI Infrastructure",
+  "summary": "",
+  "published_at": "2026-05-21T05:35:00+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.480821+00:00",
+  "fetched_at": "2026-07-28T04:06:26.286438+00:00",
+  "last_updated_at": "2026-07-28T04:06:26.358444+00:00",
+  "paths": {
+    "article": "articles/v1/24/amd/2026/05/e1/e188281c538c8b44c47576b48d6d4ed1f111982ffbd6c28cdbd0b6a768db188a/article.md",
+    "record": "articles/v1/24/amd/2026/05/e1/e188281c538c8b44c47576b48d6d4ed1f111982ffbd6c28cdbd0b6a768db188a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 679,
+    "sha256": "sha256:0983009623460dc051cbc821118adb92bea8875d9edce573ce37aae9a3ad5807",
+    "normalized_content_hash": "sha256:441f11a9af80ce1910aa87883e37b392520711991d0ef6f506c8a2b9d83cc3b3"
+  },
+  "provenance": {
+    "source_item_id": "f03dbbe5-9bca-44eb-95c3-5fffedc81970",
+    "external_id": "https://ir.amd.com/news-events/press-releases/detail/1286/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure"
+  }
+}

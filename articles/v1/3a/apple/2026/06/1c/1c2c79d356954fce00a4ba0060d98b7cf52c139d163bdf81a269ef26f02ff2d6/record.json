@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c2c79d356954fce00a4ba0060d98b7cf52c139d163bdf81a269ef26f02ff2d6",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/",
+    "canonical": "https://www.apple.com/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/"
+  },
+  "title": "Mini Football Legends, Family Feud Pocket, and seven more hits join Apple Arcade",
+  "summary": "",
+  "published_at": "2026-06-04T13:59:28.283+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.179592+00:00",
+  "fetched_at": "2026-07-28T04:07:26.146298+00:00",
+  "last_updated_at": "2026-07-28T04:07:26.184818+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/06/1c/1c2c79d356954fce00a4ba0060d98b7cf52c139d163bdf81a269ef26f02ff2d6/article.md",
+    "record": "articles/v1/3a/apple/2026/06/1c/1c2c79d356954fce00a4ba0060d98b7cf52c139d163bdf81a269ef26f02ff2d6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 771,
+    "sha256": "sha256:e4d97a30e6a2564da96acce62677c82a4df37afc05f61fab311844f7b25cb42a",
+    "normalized_content_hash": "sha256:eacf1cae2232e2ccdb615d9891ea8440761b2fe9bf6efcd8386962cc48cf36c0"
+  },
+  "provenance": {
+    "source_item_id": "d5470692-afa3-45fc-8c0e-462b362b7a4c",
+    "external_id": "https://www.apple.com/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/"
+  }
+}

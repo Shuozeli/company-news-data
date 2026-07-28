@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b2c469b241dc24ab7ef6574ed2510fb1f18c7078118965870e5a27cd0e7d15c2",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/crush-errors-with-sandbox-testing",
+    "canonical": "https://stripe.dev/blog/crush-errors-with-sandbox-testing"
+  },
+  "title": "Crush errors with Sandbox testing",
+  "summary": "With Sandboxes, you can reproduce and troubleshoot errors in your integration without impacting live transactions.",
+  "published_at": "2024-12-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/12/b2/b2c469b241dc24ab7ef6574ed2510fb1f18c7078118965870e5a27cd0e7d15c2/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/12/b2/b2c469b241dc24ab7ef6574ed2510fb1f18c7078118965870e5a27cd0e7d15c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 646,
+    "sha256": "sha256:14597e2c7ddf9db4d846df9bcf55676c4de6f264a31743e9677a60af3b3b5ec6",
+    "normalized_content_hash": "sha256:5753ced4d1a36fcc2330455c687e04a28591e555d0785659693495e624fd7a85"
+  },
+  "provenance": {
+    "source_item_id": "9e23b24b-65dd-4152-bf8b-72de4475fbd3",
+    "external_id": "https://stripe.dev/blog/crush-errors-with-sandbox-testing"
+  }
+}

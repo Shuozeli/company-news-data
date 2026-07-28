@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b839511e8a27448136e20b544e35609e906bc93780f7be0aa8b6c95eedd4ec39",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/aws-microservice-architecture-subscription-management",
+    "canonical": "https://stripe.dev/blog/aws-microservice-architecture-subscription-management"
+  },
+  "title": "Using an AWS microservice architecture for subscription management",
+  "summary": "Explore the complexities of enterprise subscription management and discover how an AWS microservice architecture can streamline subscription lifecycles. This guide uses AWS services to create a scalable, reliable, and auditable subscription management system, addressing challenges like mid-cycle plan changes and usage-based billing adjustments.",
+  "published_at": "2025-04-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/04/b8/b839511e8a27448136e20b544e35609e906bc93780f7be0aa8b6c95eedd4ec39/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/04/b8/b839511e8a27448136e20b544e35609e906bc93780f7be0aa8b6c95eedd4ec39/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 931,
+    "sha256": "sha256:54fc2d14db83c9fedbd89dcd1bf8cd475434224a24aa8bde7a741c73bad39b7e",
+    "normalized_content_hash": "sha256:bc96a9e8881664e136fd73ba43f61ea572bb1e36a4f6f834e967c03f79c50dd6"
+  },
+  "provenance": {
+    "source_item_id": "6f5642bb-994b-408b-af98-fa8f9388b1ed",
+    "external_id": "https://stripe.dev/blog/aws-microservice-architecture-subscription-management"
+  }
+}

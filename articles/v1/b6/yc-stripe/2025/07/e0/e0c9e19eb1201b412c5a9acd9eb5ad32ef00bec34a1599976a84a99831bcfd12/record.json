@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e0c9e19eb1201b412c5a9acd9eb5ad32ef00bec34a1599976a84a99831bcfd12",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/workflows-creating-early-fraud-alerts-for-streamlined-refunds",
+    "canonical": "https://stripe.dev/blog/workflows-creating-early-fraud-alerts-for-streamlined-refunds"
+  },
+  "title": "Workflows: Creating early fraud alerts for streamlined refunds",
+  "summary": "Workflow patterns provide repeatable solutions to common developer problems. This pattern helps automate creating early fraud alerts when streamlining refunds.",
+  "published_at": "2025-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/07/e0/e0c9e19eb1201b412c5a9acd9eb5ad32ef00bec34a1599976a84a99831bcfd12/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/07/e0/e0c9e19eb1201b412c5a9acd9eb5ad32ef00bec34a1599976a84a99831bcfd12/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 748,
+    "sha256": "sha256:5b89070a62bee093163e206bce0dbf875a1c4905f3e85f5177be7e65e4060f45",
+    "normalized_content_hash": "sha256:273a047d396f23e5905524dae3983c8e26475a3c00352e8c0fe77f78f62b2aea"
+  },
+  "provenance": {
+    "source_item_id": "4c311e96-0a36-458a-a121-104e41b8fa82",
+    "external_id": "https://stripe.dev/blog/workflows-creating-early-fraud-alerts-for-streamlined-refunds"
+  }
+}

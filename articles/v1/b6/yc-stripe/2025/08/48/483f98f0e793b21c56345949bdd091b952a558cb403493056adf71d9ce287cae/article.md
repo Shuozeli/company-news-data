@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "483f98f0e793b21c56345949bdd091b952a558cb403493056adf71d9ce287cae"
+company_key: "yc-stripe"
+company: "Stripe"
+source_id: "yc-stripe-dev-blog-rss"
+canonical_url: "https://stripe.dev/blog/building-financial-operations-agents-hypermode-stripe"
+published_at: "2025-08-06T00:00:00+00:00"
+first_seen_at: "2026-07-19T22:29:11.601208+00:00"
+fetched_at: "2026-07-28T04:01:00.398137+00:00"
+content_hash: "sha256:e08c5911901158ca70d257bb77f0dc28a63405c6507de4cffc253cbf5a3bb410"
+---
+
+# Building financial operations agents with Hypermode and Stripe
+
+Learn how to build sophisticated financial operations agents using natural language with Hypermode and Stripe. Create AI agents that handle payments, process refunds, generate invoices, and automate complex financial workflows—no coding required.

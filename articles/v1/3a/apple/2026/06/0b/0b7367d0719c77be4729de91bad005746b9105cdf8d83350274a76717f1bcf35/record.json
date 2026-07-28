@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b7367d0719c77be4729de91bad005746b9105cdf8d83350274a76717f1bcf35",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+    "canonical": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/"
+  },
+  "title": "Apple aids app development with new intelligence frameworks and advanced tools",
+  "summary": "",
+  "published_at": "2026-06-08T21:00:15.643+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.179592+00:00",
+  "fetched_at": "2026-07-28T04:07:26.146298+00:00",
+  "last_updated_at": "2026-07-28T04:07:26.184818+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/06/0b/0b7367d0719c77be4729de91bad005746b9105cdf8d83350274a76717f1bcf35/article.md",
+    "record": "articles/v1/3a/apple/2026/06/0b/0b7367d0719c77be4729de91bad005746b9105cdf8d83350274a76717f1bcf35/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 756,
+    "sha256": "sha256:7c5b7a6500abc261a416da670977fdc9e1cf407041f115caed895614a2f4b5b6",
+    "normalized_content_hash": "sha256:9d5bf27b84f7e4d99e1cac2d27838f17a4a36f182312e9859e99569cb03263fb"
+  },
+  "provenance": {
+    "source_item_id": "148d155e-9faa-4f00-9a16-5f3893f3d591",
+    "external_id": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1a0f6e0442e23000ac46b46fa4565767368185eb4bff50d7832f85c6c35da9c2",
+  "company": {
+    "key": "amd",
+    "name": "AMD"
+  },
+  "source": {
+    "id": "co-amd-ir-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.amd.com/news-events/press-releases/detail/1282/amd-to-report-fiscal-first-quarter-2026-financial-results",
+    "canonical": "https://ir.amd.com/news-events/press-releases/detail/1282/amd-to-report-fiscal-first-quarter-2026-financial-results"
+  },
+  "title": "AMD to Report Fiscal First Quarter 2026 Financial Results",
+  "summary": "",
+  "published_at": "2026-04-08T20:15:00+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.480821+00:00",
+  "fetched_at": "2026-07-22T12:00:57.319823+00:00",
+  "last_updated_at": "2026-07-22T12:00:57.320296+00:00",
+  "paths": {
+    "article": "articles/v1/24/amd/2026/04/1a/1a0f6e0442e23000ac46b46fa4565767368185eb4bff50d7832f85c6c35da9c2/article.md",
+    "record": "articles/v1/24/amd/2026/04/1a/1a0f6e0442e23000ac46b46fa4565767368185eb4bff50d7832f85c6c35da9c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 596,
+    "sha256": "sha256:e648300d4546583e4080067b2f9d77c379c7c2f151a5c7841b0483f2c5c5dd5c",
+    "normalized_content_hash": "sha256:bd0107d6213d2cfb18502a4c2e361bbbc54dbdcb1e36dda8ea9d6e59315c646d"
+  },
+  "provenance": {
+    "source_item_id": "12cfd67a-b03a-4009-a030-6a0fb70e096a",
+    "external_id": "https://ir.amd.com/news-events/press-releases/detail/1282/amd-to-report-fiscal-first-quarter-2026-financial-results"
+  }
+}

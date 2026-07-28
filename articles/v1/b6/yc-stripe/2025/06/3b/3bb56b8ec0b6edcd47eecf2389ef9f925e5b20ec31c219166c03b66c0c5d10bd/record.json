@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3bb56b8ec0b6edcd47eecf2389ef9f925e5b20ec31c219166c03b66c0c5d10bd",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/implementing-scalable-metered-billing-with-stripe-how-edgee-handles-billions-of-events",
+    "canonical": "https://stripe.dev/blog/implementing-scalable-metered-billing-with-stripe-how-edgee-handles-billions-of-events"
+  },
+  "title": "Implementing scalable metered billing with Stripe: How Edgee handles billions of events",
+  "summary": "Discover how Edgee built a scalable, usage-based billing system processing billions of requests across 100+ global edge locations. Learn how they leverage Stripe’s metering and billing APIs to ensure accurate, resilient invoicing in a complex distributed architecture, all while solving critical web analytics data loss challenges.",
+  "published_at": "2025-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/06/3b/3bb56b8ec0b6edcd47eecf2389ef9f925e5b20ec31c219166c03b66c0c5d10bd/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/06/3b/3bb56b8ec0b6edcd47eecf2389ef9f925e5b20ec31c219166c03b66c0c5d10bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 972,
+    "sha256": "sha256:d0c290a8aaa7d92ffba64c293ea30464a028017016a1cd8b0874f5b98d7e0569",
+    "normalized_content_hash": "sha256:a376db6197dbb7809a869216fcf018686710608cdd8af6522df2ff1bd08501e0"
+  },
+  "provenance": {
+    "source_item_id": "caf4b20a-84cb-4159-b941-328cd7605026",
+    "external_id": "https://stripe.dev/blog/implementing-scalable-metered-billing-with-stripe-how-edgee-handles-billions-of-events"
+  }
+}

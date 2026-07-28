@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec906470f5359c49c7999b0f8e5ec4aaed012c0c5560a961ce222e281fd56efe",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/avoiding-test-mode-tangles-with-stripe-sandboxes",
+    "canonical": "https://stripe.dev/blog/avoiding-test-mode-tangles-with-stripe-sandboxes"
+  },
+  "title": "Avoiding test mode tangles with Stripe Sandboxes",
+  "summary": "Discover how to create independent testing environments with Stripe Sandboxes, streamline your development through GitHub automation, and prioritize the security of your API keys to enhance your payment integration process.",
+  "published_at": "2024-09-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/09/ec/ec906470f5359c49c7999b0f8e5ec4aaed012c0c5560a961ce222e281fd56efe/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/09/ec/ec906470f5359c49c7999b0f8e5ec4aaed012c0c5560a961ce222e281fd56efe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 785,
+    "sha256": "sha256:9ccf847543dc0cfcaaeef47e45b96c1e2e9dc5d546ea851ba1ef0cfc8549b762",
+    "normalized_content_hash": "sha256:ac876f4f6b94365142f6acf7d78b3a3f544ecb228ca6657c44afc4a36fbb3018"
+  },
+  "provenance": {
+    "source_item_id": "343f6e58-60d9-4d92-a483-4d08c2b79755",
+    "external_id": "https://stripe.dev/blog/avoiding-test-mode-tangles-with-stripe-sandboxes"
+  }
+}

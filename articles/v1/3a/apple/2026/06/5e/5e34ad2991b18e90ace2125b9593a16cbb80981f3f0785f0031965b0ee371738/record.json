@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e34ad2991b18e90ace2125b9593a16cbb80981f3f0785f0031965b0ee371738",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/",
+    "canonical": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/"
+  },
+  "title": "Apple Creator Studio gets smarter, faster, and more connected",
+  "summary": "",
+  "published_at": "2026-06-30T16:59:24.233+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.179592+00:00",
+  "fetched_at": "2026-07-28T04:07:26.146298+00:00",
+  "last_updated_at": "2026-07-28T04:07:26.184818+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/06/5e/5e34ad2991b18e90ace2125b9593a16cbb80981f3f0785f0031965b0ee371738/article.md",
+    "record": "articles/v1/3a/apple/2026/06/5e/5e34ad2991b18e90ace2125b9593a16cbb80981f3f0785f0031965b0ee371738/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 713,
+    "sha256": "sha256:cb89530701a2ec8882427ddf411919e55e24d7102417cd24cf3409a454f5be35",
+    "normalized_content_hash": "sha256:29eeeec47523c5105cb6002b59ffd5206c6f4053ff7d808a6d3262dfdf7eb13b"
+  },
+  "provenance": {
+    "source_item_id": "b655738a-67a4-428e-a25b-67f3fcb095b0",
+    "external_id": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/"
+  }
+}

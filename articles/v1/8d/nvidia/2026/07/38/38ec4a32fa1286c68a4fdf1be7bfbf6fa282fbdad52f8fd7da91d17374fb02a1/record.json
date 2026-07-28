@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "38ec4a32fa1286c68a4fdf1be7bfbf6fa282fbdad52f8fd7da91d17374fb02a1",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "source": {
+    "id": "co-nvda-newsroom-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+    "canonical": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/"
+  },
+  "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+  "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 […]",
+  "published_at": "2026-07-21T15:00:20+00:00",
+  "first_seen_at": "2026-07-21T15:56:45.251359+00:00",
+  "fetched_at": "2026-07-28T04:03:31.606749+00:00",
+  "last_updated_at": "2026-07-28T04:03:31.645581+00:00",
+  "paths": {
+    "article": "articles/v1/8d/nvidia/2026/07/38/38ec4a32fa1286c68a4fdf1be7bfbf6fa282fbdad52f8fd7da91d17374fb02a1/article.md",
+    "record": "articles/v1/8d/nvidia/2026/07/38/38ec4a32fa1286c68a4fdf1be7bfbf6fa282fbdad52f8fd7da91d17374fb02a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 981,
+    "sha256": "sha256:0e493bc7f46a054a04143c1c84bd92390ee118cc31d3e60df3fc431e3233a143",
+    "normalized_content_hash": "sha256:ee75fe3b5942a86b660ae621e490565062695b0e73754c6bdf8663cbd7722932"
+  },
+  "provenance": {
+    "source_item_id": "d4761776-369e-4492-99e0-7755584e9147",
+    "external_id": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00b1bc6582c97305cc94ca4f4d6616113ec69f776a46e4c92cac444911df4f24",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "source": {
+    "id": "co-nvda-newsroom-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds",
+    "canonical": "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds"
+  },
+  "title": "NVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries to Transform How the World Engineers, Designs and Builds",
+  "summary": "NVIDIA today announced an expansion of NVIDIA Agent Toolkit for engineering, now adding NVIDIA PhysicsNeMo™ and CUDA-X™ libraries as agent-ready tools and skills built to transform how the world designs and develops products.",
+  "published_at": "2026-07-27T00:45:00+00:00",
+  "first_seen_at": "2026-07-27T01:11:39.071768+00:00",
+  "fetched_at": "2026-07-28T04:03:31.606749+00:00",
+  "last_updated_at": "2026-07-28T04:03:31.645581+00:00",
+  "paths": {
+    "article": "articles/v1/8d/nvidia/2026/07/00/00b1bc6582c97305cc94ca4f4d6616113ec69f776a46e4c92cac444911df4f24/article.md",
+    "record": "articles/v1/8d/nvidia/2026/07/00/00b1bc6582c97305cc94ca4f4d6616113ec69f776a46e4c92cac444911df4f24/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 974,
+    "sha256": "sha256:39a4de81ebc0ee32345cb28c03ac7bf4d999bf587f316ec5f48b4ae138bd602d",
+    "normalized_content_hash": "sha256:494bb2d7a371a36727a1974f9b0bc20b1ba33ba1c8806ec56151c7f7badecbbe"
+  },
+  "provenance": {
+    "source_item_id": "2e8dcbcc-aa86-48a9-90b8-c9bb3bbc11ab",
+    "external_id": "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds"
+  }
+}

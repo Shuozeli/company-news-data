@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d00816df968c22eb68d42c0dfe3dce1366cd21b11e746955c0ec16a43520e181",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "source": {
+    "id": "co-nvda-newsroom-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
+    "canonical": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership"
+  },
+  "title": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
+  "summary": "Safe Superintelligence Inc. (SSI) and NVIDIA today announced a long-term partnership to rapidly accelerate SSI’s strategic growth...",
+  "published_at": "2026-07-27T13:00:00+00:00",
+  "first_seen_at": "2026-07-27T14:21:04.204810+00:00",
+  "fetched_at": "2026-07-28T04:03:31.606749+00:00",
+  "last_updated_at": "2026-07-28T04:03:31.645581+00:00",
+  "paths": {
+    "article": "articles/v1/8d/nvidia/2026/07/d0/d00816df968c22eb68d42c0dfe3dce1366cd21b11e746955c0ec16a43520e181/article.md",
+    "record": "articles/v1/8d/nvidia/2026/07/d0/d00816df968c22eb68d42c0dfe3dce1366cd21b11e746955c0ec16a43520e181/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 798,
+    "sha256": "sha256:f957afd6380557e7d1de622e1be2c8cb251caabb802eea5946022005072cdf8c",
+    "normalized_content_hash": "sha256:fa91ee0278dc3bb2dce3148b8a53bf3837d2e54f512d613422f92f75058fdaab"
+  },
+  "provenance": {
+    "source_item_id": "69954770-de19-408c-8325-e51383d3ab98",
+    "external_id": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership"
+  }
+}

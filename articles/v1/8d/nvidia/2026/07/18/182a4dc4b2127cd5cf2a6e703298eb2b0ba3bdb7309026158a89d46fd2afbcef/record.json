@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "182a4dc4b2127cd5cf2a6e703298eb2b0ba3bdb7309026158a89d46fd2afbcef",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "source": {
+    "id": "co-nvda-newsroom-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier",
+    "canonical": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier"
+  },
+  "title": "Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
+  "summary": "NVIDIA today announced that Japan’s physical AI leaders are building on the NVIDIA Cosmos™, NVIDIA Isaac™, NVIDIA Metropolis and NVIDIA Jetson™ platforms to accelerate the deployment of intelligent machines across manufacturing, mobility, infrastructure and robotics.",
+  "published_at": "2026-07-16T03:40:00+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.753056+00:00",
+  "fetched_at": "2026-07-27T12:57:30.852282+00:00",
+  "last_updated_at": "2026-07-27T12:57:30.878553+00:00",
+  "paths": {
+    "article": "articles/v1/8d/nvidia/2026/07/18/182a4dc4b2127cd5cf2a6e703298eb2b0ba3bdb7309026158a89d46fd2afbcef/article.md",
+    "record": "articles/v1/8d/nvidia/2026/07/18/182a4dc4b2127cd5cf2a6e703298eb2b0ba3bdb7309026158a89d46fd2afbcef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 942,
+    "sha256": "sha256:52f2afa7001b5040325d9374e442f808bda9f047318b21d36a3d2bedac989f65",
+    "normalized_content_hash": "sha256:e68865d7daf2904f4718d541fe0984c8f92e79f2c3cf5092adb2d9d27c14b061"
+  },
+  "provenance": {
+    "source_item_id": "bda88cc3-a825-4973-af62-fd83bf0391e8",
+    "external_id": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier"
+  }
+}

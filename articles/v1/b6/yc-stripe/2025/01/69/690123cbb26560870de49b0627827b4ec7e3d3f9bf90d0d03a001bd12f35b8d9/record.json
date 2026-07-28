@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "690123cbb26560870de49b0627827b4ec7e3d3f9bf90d0d03a001bd12f35b8d9",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/building-resilient-webhook-handlers-aws-dlqs-stripe-events",
+    "canonical": "https://stripe.dev/blog/building-resilient-webhook-handlers-aws-dlqs-stripe-events"
+  },
+  "title": "Building resilient webhook handlers in AWS: Implementing DLQs for Stripe events",
+  "summary": "Discover how to build reliable webhook handlers for Stripe events using AWS in this comprehensive guide. Learn about the challenges of processing webhook events at scale and how to address them with an enterprise-grade architecture.",
+  "published_at": "2025-01-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T04:01:00.398137+00:00",
+  "last_updated_at": "2026-07-28T04:01:00.445554+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/01/69/690123cbb26560870de49b0627827b4ec7e3d3f9bf90d0d03a001bd12f35b8d9/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/01/69/690123cbb26560870de49b0627827b4ec7e3d3f9bf90d0d03a001bd12f35b8d9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 835,
+    "sha256": "sha256:baf81277492e19d65a337b18273bc8b3eec9eda1d7b08480abe7dd95a25e6817",
+    "normalized_content_hash": "sha256:ac2d544e39e5b012236713f7d3695e8858e1249d42e3e359bb7d9171a21e6d88"
+  },
+  "provenance": {
+    "source_item_id": "f791adf8-18ae-46a6-a818-a9738bae70b9",
+    "external_id": "https://stripe.dev/blog/building-resilient-webhook-handlers-aws-dlqs-stripe-events"
+  }
+}

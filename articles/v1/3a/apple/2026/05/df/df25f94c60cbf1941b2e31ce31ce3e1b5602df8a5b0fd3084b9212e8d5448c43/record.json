@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df25f94c60cbf1941b2e31ce31ce3e1b5602df8a5b0fd3084b9212e8d5448c43",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/05/detroits-rising-developers-are-supported-by-the-apple-developer-academy/",
+    "canonical": "https://www.apple.com/newsroom/2026/05/detroits-rising-developers-are-supported-by-the-apple-developer-academy/"
+  },
+  "title": "Detroit’s rising developers are supported by the Apple Developer Academy",
+  "summary": "",
+  "published_at": "2026-05-29T15:59:14.435+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.179592+00:00",
+  "fetched_at": "2026-07-23T12:07:18.676055+00:00",
+  "last_updated_at": "2026-07-23T12:07:18.676784+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/05/df/df25f94c60cbf1941b2e31ce31ce3e1b5602df8a5b0fd3084b9212e8d5448c43/article.md",
+    "record": "articles/v1/3a/apple/2026/05/df/df25f94c60cbf1941b2e31ce31ce3e1b5602df8a5b0fd3084b9212e8d5448c43/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 762,
+    "sha256": "sha256:4ca113ce014846abc6a9554104ec839977f73be259d2b8a959020d326c8cf165",
+    "normalized_content_hash": "sha256:3a31518de0c31aaae8fc3e71ae91e11b7f827f0b8c6fc467d7e31adc58902a24"
+  },
+  "provenance": {
+    "source_item_id": "a96b8633-aafb-4ab1-ad4e-88b18a95494c",
+    "external_id": "https://www.apple.com/newsroom/2026/05/detroits-rising-developers-are-supported-by-the-apple-developer-academy/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "130c6d289117ebcc01796b7a4751b0bb1fff3ed2741770316dee6b268f863a1c",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-engineering-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.gusto.com/the-best-work-partners-are-a-little-bit-annoying-d42b898fbe52?source=rss----645edd256348---4",
+    "canonical": "https://engineering.gusto.com/the-best-work-partners-are-a-little-bit-annoying-d42b898fbe52"
+  },
+  "title": "The Best Work Partners Are a Little Bit Annoying",
+  "summary": "",
+  "published_at": "2026-03-16T22:49:27+00:00",
+  "first_seen_at": "2026-07-19T22:15:27.842622+00:00",
+  "fetched_at": "2026-07-28T04:03:20.234730+00:00",
+  "last_updated_at": "2026-07-28T04:03:20.273167+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/03/13/130c6d289117ebcc01796b7a4751b0bb1fff3ed2741770316dee6b268f863a1c/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/03/13/130c6d289117ebcc01796b7a4751b0bb1fff3ed2741770316dee6b268f863a1c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6234,
+    "sha256": "sha256:e503a52767dcce2e0dd0250c5d459049da540eee49440290551fb21c1af4f2d9",
+    "normalized_content_hash": "sha256:0b6296272238fc6a22bc4dd833adbb70c95fa0d09d9557b316203ecf230fd882"
+  },
+  "provenance": {
+    "source_item_id": "3a20b28e-a59e-457f-b825-24cd42460b4d",
+    "external_id": "https://medium.com/p/d42b898fbe52"
+  }
+}
