@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "zk-international-group-co-ltd-ordinary-share",
+    "name": "ZK International Group Co. Ltd Ordinary Share"
+  },
+  "record_count": 10,
+  "first_published_at": "2023-09-29T00:39:00+00:00",
+  "last_published_at": "2024-01-09T15:41:49+00:00",
+  "partitions": [
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    }
+  ]
+}

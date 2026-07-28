@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d418f5f24e95ea8692ab2a3cb993f52461070450b15c49ecda1c8d604731e929",
+  "company": {
+    "key": "sonos-inc-common-stock",
+    "name": "Sonos Inc. Common Stock"
+  },
+  "source": {
+    "id": "sonos-inc-common-stock-news-import-358168792368",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://en.community.sonos.com/product-updates/27th-may-2026-new-sonos-app-update-now-available-6933988?postid=12401",
+    "canonical": "https://en.community.sonos.com/product-updates/27th-may-2026-new-sonos-app-update-now-available-6933988"
+  },
+  "title": "27th May 2026 - 📲 New Sonos App Update Now Available! 🔊",
+  "summary": "Hey all! We've got a new app update live for both iOS and Android — here's a quick breakdown of what's changed. Want the full history of what we've been up to? Check out our App Release Notes here and System (Player) Release Notes here. As always, this is a Phased Rollout — think of it like a wave;...",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:42:45.861887+00:00",
+  "fetched_at": "2026-07-27T10:56:07.023305+00:00",
+  "last_updated_at": "2026-07-27T10:56:14.606672+00:00",
+  "paths": {
+    "article": "articles/v1/01/sonos-inc-common-stock/2026/05/d4/d418f5f24e95ea8692ab2a3cb993f52461070450b15c49ecda1c8d604731e929/article.md",
+    "record": "articles/v1/01/sonos-inc-common-stock/2026/05/d4/d418f5f24e95ea8692ab2a3cb993f52461070450b15c49ecda1c8d604731e929/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15021,
+    "sha256": "sha256:1e49887344e6f03d51b5afd0d4a505896e63a54bc08198d981246facd01fd069",
+    "normalized_content_hash": "sha256:2d0c3e4604d111e929ce9f8ed4293f18f2a91cb396b7e8ceaf055f31d27547ba"
+  },
+  "provenance": {
+    "source_item_id": "5b96dbeb-4fff-4fe0-b107-0ee968bfc470",
+    "external_id": "https://en.community.sonos.com/product-updates/27th-may-2026-new-sonos-app-update-now-available-6933988"
+  }
+}

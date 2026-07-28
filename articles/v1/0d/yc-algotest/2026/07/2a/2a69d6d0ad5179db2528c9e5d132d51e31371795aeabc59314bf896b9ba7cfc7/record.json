@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a69d6d0ad5179db2528c9e5d132d51e31371795aeabc59314bf896b9ba7cfc7",
+  "company": {
+    "key": "yc-algotest",
+    "name": "AlgoTest"
+  },
+  "source": {
+    "id": "yc-algotest-news-import-7cc502b412f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://algotest.in/blog/nsdl-margin-pledge/",
+    "canonical": "https://algotest.in/blog/nsdl-margin-pledge/"
+  },
+  "title": "NSDL Margin Pledge: How to Pledge Shares for F&O Trading (2026 Guide)",
+  "summary": "How NSDL Margin Pledge works: the OTP-based process, haircuts, charges, and how option sellers use pledged shares as F&O collateral in 2026",
+  "published_at": "2026-07-03T05:25:59+00:00",
+  "first_seen_at": "2026-07-25T00:56:57.418756+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:22:58.423895+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-algotest/2026/07/2a/2a69d6d0ad5179db2528c9e5d132d51e31371795aeabc59314bf896b9ba7cfc7/article.md",
+    "record": "articles/v1/0d/yc-algotest/2026/07/2a/2a69d6d0ad5179db2528c9e5d132d51e31371795aeabc59314bf896b9ba7cfc7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16907,
+    "sha256": "sha256:097e8469fc36290012527baa71a87d820b314ab33a40b51ebb20cfecf8387391",
+    "normalized_content_hash": "sha256:e9042ae26e75d56dbf68e3cb4caa0e76639caa26762de165c54822cf61ccb495"
+  },
+  "provenance": {
+    "source_item_id": "148cd63f-d15b-4084-98e2-fe39117788bd",
+    "external_id": "https://algotest.in/blog/nsdl-margin-pledge/"
+  }
+}

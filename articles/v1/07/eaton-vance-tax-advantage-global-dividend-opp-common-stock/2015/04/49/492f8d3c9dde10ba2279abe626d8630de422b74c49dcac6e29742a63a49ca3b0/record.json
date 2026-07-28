@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "492f8d3c9dde10ba2279abe626d8630de422b74c49dcac6e29742a63a49ca3b0",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/us-high-divid-fd-wisdomtree-trust-nyse-dhs-declared-a-dividend-of-$0.3050-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/us-high-divid-fd-wisdomtree-trust-nyse-dhs-declared-a-dividend-of-$0.3050-per-share/"
+  },
+  "title": "DHS Dividend Announcement $0.3050/Share 7/27/2026",
+  "summary": "NYSE:DHS US High Divid Fd/WisdomTree Trust Dividend Announcement $0.3050 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.144093+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/49/492f8d3c9dde10ba2279abe626d8630de422b74c49dcac6e29742a63a49ca3b0/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/49/492f8d3c9dde10ba2279abe626d8630de422b74c49dcac6e29742a63a49ca3b0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2339,
+    "sha256": "sha256:c59b6c682c36d8e6ee62f4c68e726e87d3eba12457facb865d3aed83c29980e8",
+    "normalized_content_hash": "sha256:018e1311261d15398eff013c4db024f3535357c79f064360cf49a874e148a09e"
+  },
+  "provenance": {
+    "source_item_id": "bc74670c-c49a-4fd6-9af7-6886047268be",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/us-high-divid-fd-wisdomtree-trust-nyse-dhs-declared-a-dividend-of-$0.3050-per-share/"
+  }
+}

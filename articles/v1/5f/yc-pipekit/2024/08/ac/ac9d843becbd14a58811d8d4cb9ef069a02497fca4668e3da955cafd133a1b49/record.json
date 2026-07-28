@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ac9d843becbd14a58811d8d4cb9ef069a02497fca4668e3da955cafd133a1b49",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/prefect-vs-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/prefect-vs-argo-workflows"
+  },
+  "title": "Prefect vs. Argo Workflows",
+  "summary": "Prefect or Argo Workflows? This side-by-side comparison will help you determine which workflow platform is right for your data pipelines.",
+  "published_at": "2024-08-13T12:57:26+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-07-28T20:59:58.910334+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/08/ac/ac9d843becbd14a58811d8d4cb9ef069a02497fca4668e3da955cafd133a1b49/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/08/ac/ac9d843becbd14a58811d8d4cb9ef069a02497fca4668e3da955cafd133a1b49/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11063,
+    "sha256": "sha256:1b2bfddf7012d0b00515f0752fd7be6d3f7017c59de0149759a2322fdbf7e605",
+    "normalized_content_hash": "sha256:338ffdd5ad9e8f01fa9c00f5b4c45156397f05ab184d7d92d2eab55654ad4386"
+  },
+  "provenance": {
+    "source_item_id": "4dcc8038-8cba-4161-a9b0-c28e275afa8a",
+    "external_id": "https://homepage.pipekit.io/blog/prefect-vs-argo-workflows"
+  }
+}

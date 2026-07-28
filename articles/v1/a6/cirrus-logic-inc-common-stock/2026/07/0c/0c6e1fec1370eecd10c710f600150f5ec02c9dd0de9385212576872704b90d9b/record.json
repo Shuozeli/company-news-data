@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c6e1fec1370eecd10c710f600150f5ec02c9dd0de9385212576872704b90d9b",
+  "company": {
+    "key": "cirrus-logic-inc-common-stock",
+    "name": "Cirrus Logic Inc. Common Stock"
+  },
+  "source": {
+    "id": "cirrus-logic-inc-common-stock-news-import-2267740f74eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cirrus.com/company/media-center/releases/2026/cirrus-logic-receives-scottish-enterprise-grant-to-advance-smart-energy-innovation",
+    "canonical": "https://www.cirrus.com/company/media-center/releases/2026/cirrus-logic-receives-scottish-enterprise-grant-to-advance-smart-energy-innovation"
+  },
+  "title": "Cirrus Logic Receives Scottish Enterprise Grant to Advance Smart Energy Innovation",
+  "summary": "",
+  "published_at": "2026-07-22T23:01:00+00:00",
+  "first_seen_at": "2026-07-27T00:50:02.818872+00:00",
+  "fetched_at": "2026-07-28T01:36:08.593579+00:00",
+  "last_updated_at": "2026-07-28T01:36:12.448871+00:00",
+  "paths": {
+    "article": "articles/v1/a6/cirrus-logic-inc-common-stock/2026/07/0c/0c6e1fec1370eecd10c710f600150f5ec02c9dd0de9385212576872704b90d9b/article.md",
+    "record": "articles/v1/a6/cirrus-logic-inc-common-stock/2026/07/0c/0c6e1fec1370eecd10c710f600150f5ec02c9dd0de9385212576872704b90d9b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7624,
+    "sha256": "sha256:bb85a6f09fcd8de0a4ac20c4edba445888719e7fda6f2ce1f7d12c5c8b0bb581",
+    "normalized_content_hash": "sha256:d43cd323249773b283c4f3ee2972916a37b712cd47c6fcc3cc8deafc452b1c3b"
+  },
+  "provenance": {
+    "source_item_id": "0449a7db-8d6d-4afb-b1d6-75af2c58f778",
+    "external_id": "https://www.cirrus.com/company/media-center/releases/2026/cirrus-logic-receives-scottish-enterprise-grant-to-advance-smart-energy-innovation"
+  }
+}

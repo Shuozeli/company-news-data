@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c8461ef91fa101e0975fab82d4b388701f5a1721fb4ce2fe0c78838ed46ad67",
+  "company": {
+    "key": "gold-com-inc-common-stock",
+    "name": "Gold.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "gold-com-inc-common-stock-news-import-8cd84872ccf0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.gold.com/news-events/press-releases/detail/214/gold-com-sets-fiscal-second-quarter-earnings-call-for-thursday-february-5th-at-4-30-p-m-et",
+    "canonical": "https://ir.gold.com/news-events/press-releases/detail/214/gold-com-sets-fiscal-second-quarter-earnings-call-for-thursday-february-5th-at-4-30-p-m-et"
+  },
+  "title": "Gold.com Sets Fiscal Second Quarter Earnings Call for Thursday, February 5th at 4:30 p.m. ET",
+  "summary": "COSTA MESA, Calif., Jan. 16, 2026 (GLOBE NEWSWIRE) -- Gold.com, Inc. (NYSE: GOLD) (“Gold.com” or the “Company”), a fully…...",
+  "published_at": "2026-01-16T08:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:52:04.142121+00:00",
+  "fetched_at": "2026-07-28T22:23:32.114893+00:00",
+  "last_updated_at": "2026-07-28T22:23:42.500642+00:00",
+  "paths": {
+    "article": "articles/v1/cd/gold-com-inc-common-stock/2026/01/2c/2c8461ef91fa101e0975fab82d4b388701f5a1721fb4ce2fe0c78838ed46ad67/article.md",
+    "record": "articles/v1/cd/gold-com-inc-common-stock/2026/01/2c/2c8461ef91fa101e0975fab82d4b388701f5a1721fb4ce2fe0c78838ed46ad67/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9500,
+    "sha256": "sha256:a38c592f5f3e0224905cca59b9025b15cbdf67cfda0fea849bc503d2dda0ba35",
+    "normalized_content_hash": "sha256:85e0337e59fde5a81ee3fb4f5073e144feccee78bdd10fee284b88266f1bf311"
+  },
+  "provenance": {
+    "source_item_id": "e383d067-8478-4f4e-ae39-8155c207f35b",
+    "external_id": "https://ir.gold.com/news-events/press-releases/detail/214/gold-com-sets-fiscal-second-quarter-earnings-call-for-thursday-february-5th-at-4-30-p-m-et"
+  }
+}

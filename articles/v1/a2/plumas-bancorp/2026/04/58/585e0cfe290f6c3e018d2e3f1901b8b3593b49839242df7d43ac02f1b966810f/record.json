@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "585e0cfe290f6c3e018d2e3f1901b8b3593b49839242df7d43ac02f1b966810f",
+  "company": {
+    "key": "plumas-bancorp",
+    "name": "Plumas Bancorp"
+  },
+  "source": {
+    "id": "plumas-bancorp-news-import-b005c0caaa53",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.plumasbank.com/blog/update-redding-hilltop-branch",
+    "canonical": "https://www.plumasbank.com/blog/update-redding-hilltop-branch"
+  },
+  "title": "An Update On Our Redding Hilltop Branch",
+  "summary": "Plumas Bank strengthens its Redding presence by relocating Hilltop services to newer branches, ensuring smooth service and long‑term community investment.",
+  "published_at": "2026-04-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:23:54.915383+00:00",
+  "fetched_at": "2026-07-27T22:32:04.309612+00:00",
+  "last_updated_at": "2026-07-27T22:32:09.811063+00:00",
+  "paths": {
+    "article": "articles/v1/a2/plumas-bancorp/2026/04/58/585e0cfe290f6c3e018d2e3f1901b8b3593b49839242df7d43ac02f1b966810f/article.md",
+    "record": "articles/v1/a2/plumas-bancorp/2026/04/58/585e0cfe290f6c3e018d2e3f1901b8b3593b49839242df7d43ac02f1b966810f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3306,
+    "sha256": "sha256:d550b04c7639ea0f3130cda209d96279d7f566c94168a4dd98f78ebc4c75b97d",
+    "normalized_content_hash": "sha256:492ded46a480dcb3bcbc13b37171140a0b4d30fa43d22d77ae6bcd5b92dbb43e"
+  },
+  "provenance": {
+    "source_item_id": "f8764532-9f31-4d58-9ca1-7c599f50ae16",
+    "external_id": "https://www.plumasbank.com/blog/update-redding-hilltop-branch"
+  }
+}

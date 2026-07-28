@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5d5bb3c8adec07899421a564235806e00769928140420003f013f2a63f737907",
+  "company": {
+    "key": "kelly-services-inc-class-b-common-stock",
+    "name": "Kelly Services Inc. Class B Common Stock"
+  },
+  "source": {
+    "id": "kelly-services-inc-class-b-common-stock-news-import-07ad70103d1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kellyservices.com/press-releases/kelly-appoints-alan-stukalsky-as-chief-product-and-technology-officer",
+    "canonical": "https://www.kellyservices.com/press-releases/kelly-appoints-alan-stukalsky-as-chief-product-and-technology-officer"
+  },
+  "title": "Kelly appoints Alan Stukalsky as Chief Product and Technology Officer",
+  "summary": "Alan Stukalsky joins Kelly as chief product and technology officer, overseeing the company's product strategy, technology capabilities, and digital innovation efforts.",
+  "published_at": "2026-07-06T11:21:28+00:00",
+  "first_seen_at": "2026-07-22T01:24:25.705423+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:10.665742+00:00",
+  "paths": {
+    "article": "articles/v1/04/kelly-services-inc-class-b-common-stock/2026/07/5d/5d5bb3c8adec07899421a564235806e00769928140420003f013f2a63f737907/article.md",
+    "record": "articles/v1/04/kelly-services-inc-class-b-common-stock/2026/07/5d/5d5bb3c8adec07899421a564235806e00769928140420003f013f2a63f737907/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4442,
+    "sha256": "sha256:f58239e33602d35e0c71a9c44c3176d9348ce0d61b7f582605f8147e26efcae1",
+    "normalized_content_hash": "sha256:1d85fe957093db886ab02579bdffdba3d56d0ee0c8b5cc8751c43ca37e706a8d"
+  },
+  "provenance": {
+    "source_item_id": "a271419e-5625-459c-b333-df1208d7acfe",
+    "external_id": "https://www.kellyservices.com/press-releases/kelly-appoints-alan-stukalsky-as-chief-product-and-technology-officer"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "intuit-inc-common-stock",
+    "name": "Intuit Inc. Common Stock"
+  },
+  "record_count": 47,
+  "first_published_at": "2019-06-23T22:40:10+00:00",
+  "last_published_at": "2026-07-28T15:47:02+00:00",
+  "partitions": [
+    {
+      "partition": "2019-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 22
+    }
+  ]
+}

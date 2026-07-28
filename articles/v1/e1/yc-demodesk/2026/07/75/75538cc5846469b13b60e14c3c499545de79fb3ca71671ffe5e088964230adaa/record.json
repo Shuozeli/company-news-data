@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "75538cc5846469b13b60e14c3c499545de79fb3ca71671ffe5e088964230adaa",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-set-up-ai-crm-concierge-for-hubspot-custom-properties-with-u",
+    "canonical": "https://demodesk.com/blog/how-to-set-up-ai-crm-concierge-for-hubspot-custom-properties-with-u"
+  },
+  "title": "How to set up AI CRM Concierge for HubSpot custom properties with user group rules",
+  "summary": "Set up Demodesk's AI CRM Concierge to auto-fill HubSpot custom properties for Contact and Meeting objects, scoped to specific user groups.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.621222+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/75/75538cc5846469b13b60e14c3c499545de79fb3ca71671ffe5e088964230adaa/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/75/75538cc5846469b13b60e14c3c499545de79fb3ca71671ffe5e088964230adaa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6309,
+    "sha256": "sha256:065d259eafc0c495841374bc6686bb3af24f99246199ed606eb12608e814cb56",
+    "normalized_content_hash": "sha256:5e17b615e9bdcbee7cdc496e16b060006f207912a227751e23d022b724bed22e"
+  },
+  "provenance": {
+    "source_item_id": "2d973691-689e-4ab2-a945-f0ccf47c1130",
+    "external_id": "https://demodesk.com/blog/how-to-set-up-ai-crm-concierge-for-hubspot-custom-properties-with-u"
+  }
+}

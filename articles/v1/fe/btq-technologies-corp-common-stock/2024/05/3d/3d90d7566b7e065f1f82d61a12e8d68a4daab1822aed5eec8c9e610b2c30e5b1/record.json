@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3d90d7566b7e065f1f82d61a12e8d68a4daab1822aed5eec8c9e610b2c30e5b1",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/quantum-secure-cryptocurrencies-of-the-future",
+    "canonical": "https://www.btq.tech/blog/quantum-secure-cryptocurrencies-of-the-future"
+  },
+  "title": "Quantum Secure Cryptocurrencies of the Future",
+  "summary": "Explore how quantum-resistant cryptography is shaping the future of cryptocurrencies like Bitcoin and Ethereum. Learn about the latest standards from NIST and delve into innovative solutions to safeguard digital currencies against quantum threats.",
+  "published_at": "2024-05-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:11.907368+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2024/05/3d/3d90d7566b7e065f1f82d61a12e8d68a4daab1822aed5eec8c9e610b2c30e5b1/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2024/05/3d/3d90d7566b7e065f1f82d61a12e8d68a4daab1822aed5eec8c9e610b2c30e5b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8451,
+    "sha256": "sha256:68a5173ce44962c05a6346d98c883e8dd117df90cc42c06c37356132d9297384",
+    "normalized_content_hash": "sha256:238b70184b7188d57a1e59f83a4c9ce3b60b65f147b82f40d84135e046f5d02e"
+  },
+  "provenance": {
+    "source_item_id": "85035c83-4325-4e5b-9a4a-8d5b82cb5478",
+    "external_id": "https://www.btq.tech/blog/quantum-secure-cryptocurrencies-of-the-future"
+  }
+}

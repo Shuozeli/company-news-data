@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "upstream-bio-inc-common-stock",
+    "name": "Upstream Bio Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2023-06-08T03:37:37+00:00",
+  "last_published_at": "2024-09-09T18:39:48+00:00",
+  "partitions": [
+    {
+      "partition": "2023-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    }
+  ]
+}

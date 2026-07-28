@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "15c1878f705cd3776fc27779e3dc5e2649bf19457845b891c2cba8976dccb91a",
+  "company": {
+    "key": "adobe-inc-common-stock",
+    "name": "Adobe Inc. Common Stock"
+  },
+  "source": {
+    "id": "adobe-inc-common-stock-rss-28948b03acf0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.developer.adobe.com/en/publish/2019/06/scripting-for-cc-apps-via-cep-panels",
+    "canonical": "https://blog.developer.adobe.com/en/publish/2019/06/scripting-for-cc-apps-via-cep-panels"
+  },
+  "title": "Scripting For CC Apps Via CEP Panels",
+  "summary": "Our guest developer post this week is by Davide Barranca, a Photoshop retoucher and developer based in Italy.",
+  "published_at": "2018-03-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:41.472965+00:00",
+  "fetched_at": "2026-07-28T20:31:19.849002+00:00",
+  "last_updated_at": "2026-07-28T20:31:20.766529+00:00",
+  "paths": {
+    "article": "articles/v1/1c/adobe-inc-common-stock/2018/03/15/15c1878f705cd3776fc27779e3dc5e2649bf19457845b891c2cba8976dccb91a/article.md",
+    "record": "articles/v1/1c/adobe-inc-common-stock/2018/03/15/15c1878f705cd3776fc27779e3dc5e2649bf19457845b891c2cba8976dccb91a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 722,
+    "sha256": "sha256:13e25cf146f6e4ee338f7298211ca3352b86d639ef93c0a57a9aa56b8309574a",
+    "normalized_content_hash": "sha256:92850091694b68933c39561fbe6fa37a7cf8666cb287c870b838eceb21a9f0ad"
+  },
+  "provenance": {
+    "source_item_id": "c708370d-fdde-4114-9662-4ef1d8c3a71d",
+    "external_id": "https://blog.developer.adobe.com/en/publish/2019/06/scripting-for-cc-apps-via-cep-panels"
+  }
+}

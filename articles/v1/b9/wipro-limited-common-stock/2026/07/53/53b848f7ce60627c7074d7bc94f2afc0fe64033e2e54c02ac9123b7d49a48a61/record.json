@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "53b848f7ce60627c7074d7bc94f2afc0fe64033e2e54c02ac9123b7d49a48a61",
+  "company": {
+    "key": "wipro-limited-common-stock",
+    "name": "Wipro Limited Common Stock"
+  },
+  "source": {
+    "id": "wipro-limited-common-stock-news-import-05af86ed3739",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wipro.com/engineering/articles/automation-was-step-one-physical-intelligence-changes-everything/",
+    "canonical": "https://www.wipro.com/engineering/articles/automation-was-step-one-physical-intelligence-changes-everything/"
+  },
+  "title": "Automation Was Step One. Physical Intelligence Changes Everything",
+  "summary": "Industry 4.0 delivered connected operations but not intelligent ones.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:37:58.837307+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:16.271495+00:00",
+  "paths": {
+    "article": "articles/v1/b9/wipro-limited-common-stock/2026/07/53/53b848f7ce60627c7074d7bc94f2afc0fe64033e2e54c02ac9123b7d49a48a61/article.md",
+    "record": "articles/v1/b9/wipro-limited-common-stock/2026/07/53/53b848f7ce60627c7074d7bc94f2afc0fe64033e2e54c02ac9123b7d49a48a61/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10803,
+    "sha256": "sha256:bdef0a85c492005ab8b9ca24bd8c34020e365e32728cf3d55f9f858d3de4913e",
+    "normalized_content_hash": "sha256:c042ab0b0f51b14c9b0b970965c70d7e00c6a73be62e6d56d8835db904095ab5"
+  },
+  "provenance": {
+    "source_item_id": "ab5f6fa4-d5b1-4e8b-ad77-9cdde2b14b69",
+    "external_id": "https://www.wipro.com/engineering/articles/automation-was-step-one-physical-intelligence-changes-everything/"
+  }
+}

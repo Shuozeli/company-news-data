@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "firefly-neuroscience-inc-common-stock",
+    "name": "Firefly Neuroscience Inc. Common Stock"
+  },
+  "record_count": 5,
+  "first_published_at": "2024-08-14T14:03:21+00:00",
+  "last_published_at": "2024-09-12T14:07:57+00:00",
+  "partitions": [
+    {
+      "partition": "2024-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 2
+    }
+  ]
+}

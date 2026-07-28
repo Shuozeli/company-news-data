@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "83a96b4830834f86c50e1a594cdc9df35b5933341d0be4e3dff9eefb44831609",
+  "company": {
+    "key": "yc-pump-co",
+    "name": "Pump.co"
+  },
+  "source": {
+    "id": "yc-pump-co-news-import-86a46b79533f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pump.co/blog/aws-outposts/",
+    "canonical": "https://www.pump.co/blog/aws-outposts/"
+  },
+  "title": "AWS Outposts: Features, Pricing & Use Cases",
+  "summary": "Learn AWS Outposts features, pricing, and use cases. Explore how hybrid cloud works and when to use it for low-latency workloads.",
+  "published_at": "2026-03-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:15:23.871807+00:00",
+  "fetched_at": "2026-07-28T11:48:07.834159+00:00",
+  "last_updated_at": "2026-07-28T11:48:10.876092+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-pump-co/2026/03/83/83a96b4830834f86c50e1a594cdc9df35b5933341d0be4e3dff9eefb44831609/article.md",
+    "record": "articles/v1/a8/yc-pump-co/2026/03/83/83a96b4830834f86c50e1a594cdc9df35b5933341d0be4e3dff9eefb44831609/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11974,
+    "sha256": "sha256:9f83a1ff9f3c5c9db454ecdc69a7474cbb6ca1ea58f9121e2582a83031fc43eb",
+    "normalized_content_hash": "sha256:59ee83040323fe84ed256411fda503d9b98826a83ddc263324dca26884a75ab4"
+  },
+  "provenance": {
+    "source_item_id": "8c98a2cf-733a-4fef-9df9-f9de0782d751",
+    "external_id": "https://www.pump.co/blog/aws-outposts/"
+  }
+}

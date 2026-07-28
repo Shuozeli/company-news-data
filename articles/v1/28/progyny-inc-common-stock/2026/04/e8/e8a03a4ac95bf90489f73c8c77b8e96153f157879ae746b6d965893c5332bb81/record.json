@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8a03a4ac95bf90489f73c8c77b8e96153f157879ae746b6d965893c5332bb81",
+  "company": {
+    "key": "progyny-inc-common-stock",
+    "name": "Progyny Inc. Common Stock"
+  },
+  "source": {
+    "id": "progyny-inc-common-stock-news-import-548271d8bfed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://progyny.com/blog/fertility-family-building/what-to-expect-on-a-family-building-journey-webinar/",
+    "canonical": "https://progyny.com/blog/fertility-family-building/what-to-expect-on-a-family-building-journey-webinar/"
+  },
+  "title": "What to Expect on a Family Building Journey",
+  "summary": "When thinking about growing your family, it’s important to remember that the journey isn’t always linear.",
+  "published_at": "2026-04-21T16:48:25+00:00",
+  "first_seen_at": "2026-07-26T07:23:04.831998+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-07-28T22:11:59.159976+00:00",
+  "paths": {
+    "article": "articles/v1/28/progyny-inc-common-stock/2026/04/e8/e8a03a4ac95bf90489f73c8c77b8e96153f157879ae746b6d965893c5332bb81/article.md",
+    "record": "articles/v1/28/progyny-inc-common-stock/2026/04/e8/e8a03a4ac95bf90489f73c8c77b8e96153f157879ae746b6d965893c5332bb81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6739,
+    "sha256": "sha256:0e60e05f7013ee29f99f63f45dd597e7710b3ab7a06f244411c116ec4ffbc704",
+    "normalized_content_hash": "sha256:1240612d418b1a1b2908a9cef04d29f933ee4ef9b7d9ad601de279f56895432b"
+  },
+  "provenance": {
+    "source_item_id": "56dd9dd0-2c18-4a25-9435-230dbe3c90be",
+    "external_id": "https://progyny.com/blog/fertility-family-building/what-to-expect-on-a-family-building-journey-webinar/"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "torrid-holdings-inc-common-stock",
+    "name": "Torrid Holdings Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-06-25T02:17:00+00:00",
+  "last_published_at": "2026-07-02T13:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

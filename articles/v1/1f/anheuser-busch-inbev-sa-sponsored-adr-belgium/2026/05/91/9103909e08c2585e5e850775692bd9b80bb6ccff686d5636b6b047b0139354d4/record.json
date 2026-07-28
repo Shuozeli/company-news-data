@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9103909e08c2585e5e850775692bd9b80bb6ccff686d5636b6b047b0139354d4",
+  "company": {
+    "key": "anheuser-busch-inbev-sa-sponsored-adr-belgium",
+    "name": "Anheuser-Busch Inbev SA Sponsored ADR (Belgium)"
+  },
+  "source": {
+    "id": "anheuser-busch-inbev-sa-sponsored-adr-belgium-news-import-b2d3354e08a1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.anheuser-busch.com/newsroom/busch-light-flavor-showdown",
+    "canonical": "https://www.anheuser-busch.com/newsroom/busch-light-flavor-showdown"
+  },
+  "title": "Flavor Showdown: For the First Time Ever, Fans Will Help Decide Busch Light’s Next Flavor",
+  "summary": "Busch Light drinkers nationwide can vote for Lemon, Orange, or Peach to be the next special release.",
+  "published_at": "2026-05-27T14:00:00+00:00",
+  "first_seen_at": "2026-07-25T00:38:09.694752+00:00",
+  "fetched_at": "2026-07-28T21:46:32.935029+00:00",
+  "last_updated_at": "2026-07-28T21:54:51.505922+00:00",
+  "paths": {
+    "article": "articles/v1/1f/anheuser-busch-inbev-sa-sponsored-adr-belgium/2026/05/91/9103909e08c2585e5e850775692bd9b80bb6ccff686d5636b6b047b0139354d4/article.md",
+    "record": "articles/v1/1f/anheuser-busch-inbev-sa-sponsored-adr-belgium/2026/05/91/9103909e08c2585e5e850775692bd9b80bb6ccff686d5636b6b047b0139354d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4385,
+    "sha256": "sha256:4a055ed0cba48f28f93e83ef928128f7206cbbde6cc5145b53190da3375ad9a5",
+    "normalized_content_hash": "sha256:dc5817ea7e535c9a60d24e8b24a788caeff7c723017f79be4a4da998efa209c1"
+  },
+  "provenance": {
+    "source_item_id": "0578e150-47da-4138-8984-1da9ff465afd",
+    "external_id": "https://www.anheuser-busch.com/newsroom/busch-light-flavor-showdown"
+  }
+}

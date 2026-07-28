@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "63f14cdcb0dab60509d9f8fcb40b44f7556108e429379c8ff32f1c6304f9dbbe",
+  "company": {
+    "key": "osi-systems-inc-common-stock-de",
+    "name": "OSI Systems Inc. Common Stock (DE)"
+  },
+  "source": {
+    "id": "osi-systems-inc-common-stock-de-news-import-9409c2dadede",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-receives-15-million-order-cargo-and-vehicle",
+    "canonical": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-receives-15-million-order-cargo-and-vehicle"
+  },
+  "title": "OSI Systems Receives $15 Million Order for Cargo & Vehicle Inspection Systems & Services",
+  "summary": "",
+  "published_at": "2026-05-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T19:25:49.220370+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-07-28T22:00:57.580065+00:00",
+  "paths": {
+    "article": "articles/v1/ae/osi-systems-inc-common-stock-de/2026/05/63/63f14cdcb0dab60509d9f8fcb40b44f7556108e429379c8ff32f1c6304f9dbbe/article.md",
+    "record": "articles/v1/ae/osi-systems-inc-common-stock-de/2026/05/63/63f14cdcb0dab60509d9f8fcb40b44f7556108e429379c8ff32f1c6304f9dbbe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4365,
+    "sha256": "sha256:652c4962a5eef3cb247f741edb619376bbb0d48314918afacb0df3a7211ac4be",
+    "normalized_content_hash": "sha256:29c5150b78bbebe1dd18fc0790db7c07c46a335b7d5a61268222d771f974b156"
+  },
+  "provenance": {
+    "source_item_id": "827dee56-8281-4d44-b4c6-a38e16e866c2",
+    "external_id": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-receives-15-million-order-cargo-and-vehicle"
+  }
+}

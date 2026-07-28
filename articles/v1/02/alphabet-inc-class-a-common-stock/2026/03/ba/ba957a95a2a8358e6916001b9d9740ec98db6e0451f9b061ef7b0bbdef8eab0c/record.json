@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba957a95a2a8358e6916001b9d9740ec98db6e0451f9b061ef7b0bbdef8eab0c",
+  "company": {
+    "key": "alphabet-inc-class-a-common-stock",
+    "name": "Alphabet Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "alphabet-inc-class-a-common-stock-news-import-277c62a3b799",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.google/innovation-and-ai/technology/health/med-gemma-impact-challenge/",
+    "canonical": "https://blog.google/innovation-and-ai/technology/health/med-gemma-impact-challenge/"
+  },
+  "title": "Announcing the winners of the MedGemma Impact Challenge",
+  "summary": "The winners of the MedGemma Impact Challenge demonstrated the potential of Google’s open medical models for solving diverse healthcare challenges.",
+  "published_at": "2026-03-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:00:37.532470+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-28T21:26:48.394343+00:00",
+  "paths": {
+    "article": "articles/v1/02/alphabet-inc-class-a-common-stock/2026/03/ba/ba957a95a2a8358e6916001b9d9740ec98db6e0451f9b061ef7b0bbdef8eab0c/article.md",
+    "record": "articles/v1/02/alphabet-inc-class-a-common-stock/2026/03/ba/ba957a95a2a8358e6916001b9d9740ec98db6e0451f9b061ef7b0bbdef8eab0c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10604,
+    "sha256": "sha256:974c2d10ea5350c9e6b451d9e2e1f60d9b6d8a008f99a3ddf6f9f63dfb739805",
+    "normalized_content_hash": "sha256:1e8e9f65087282247507b8500e390063716b2049712fad3028477c68717a3fdc"
+  },
+  "provenance": {
+    "source_item_id": "48f5fb94-2455-497e-b02c-e3af3e2b64d1",
+    "external_id": "https://blog.google/innovation-and-ai/technology/health/med-gemma-impact-challenge/"
+  }
+}

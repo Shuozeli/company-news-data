@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ec11372652b9e98c85d1e10a1888e1cbb8b65c2caf298fb214ec224501409e4",
+  "company": {
+    "key": "concentrix-corporation-common-stock",
+    "name": "Concentrix Corporation Common Stock"
+  },
+  "source": {
+    "id": "concentrix-corporation-common-stock-news-import-94fd497042a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.concentrix.com/about/news/concentrix-ix-hero-wins-tmc-2026-customer-product-year/",
+    "canonical": "https://www.concentrix.com/about/news/concentrix-ix-hero-wins-tmc-2026-customer-product-year/"
+  },
+  "title": "Concentrix iX Hero™ Wins TMC’s 2026 Customer Product of the Year",
+  "summary": "Recognition reinforces Concentrix's leadership in delivering agentic AI that drives measurable business results",
+  "published_at": "2026-05-06T22:19:45+00:00",
+  "first_seen_at": "2026-07-25T00:29:36.069212+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-07-28T21:57:32.265653+00:00",
+  "paths": {
+    "article": "articles/v1/65/concentrix-corporation-common-stock/2026/05/7e/7ec11372652b9e98c85d1e10a1888e1cbb8b65c2caf298fb214ec224501409e4/article.md",
+    "record": "articles/v1/65/concentrix-corporation-common-stock/2026/05/7e/7ec11372652b9e98c85d1e10a1888e1cbb8b65c2caf298fb214ec224501409e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5846,
+    "sha256": "sha256:7e8866dc394321dcc9d265daa67a05b287c48e9f1104ee16e7f792b9f3fa9a30",
+    "normalized_content_hash": "sha256:f5967142c04fb554b25213803ecc316e69426f6ba264c3b3731b33df470a6c94"
+  },
+  "provenance": {
+    "source_item_id": "1675b76f-a149-4277-aa41-f9b2f779f3aa",
+    "external_id": "https://www.concentrix.com/about/news/concentrix-ix-hero-wins-tmc-2026-customer-product-year/"
+  }
+}

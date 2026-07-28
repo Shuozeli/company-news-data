@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c3c57f77a4e57ace7db266a4fed8aabbe1d55bb0a231f26d962bc90771b5db9",
+  "company": {
+    "key": "yc-abacum",
+    "name": "Abacum"
+  },
+  "source": {
+    "id": "yc-abacum-news-import-0f3038283d34",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.abacum.ai/newsroom/on-the-future-of-the-cfo-office-etn-podcast",
+    "canonical": "https://www.abacum.ai/newsroom/on-the-future-of-the-cfo-office-etn-podcast"
+  },
+  "title": "On the future of the CFO office | ETN podcast",
+  "summary": "Abacum is the AI-native FP&A platform built for CFOs to connect data, workflows and teams, simplifying planning and reporting with 700+ integrations.",
+  "published_at": "2026-02-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T00:54:19.775643+00:00",
+  "fetched_at": "2026-07-28T19:23:35.925032+00:00",
+  "last_updated_at": "2026-07-28T19:23:38.442392+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-abacum/2026/02/9c/9c3c57f77a4e57ace7db266a4fed8aabbe1d55bb0a231f26d962bc90771b5db9/article.md",
+    "record": "articles/v1/d7/yc-abacum/2026/02/9c/9c3c57f77a4e57ace7db266a4fed8aabbe1d55bb0a231f26d962bc90771b5db9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1307,
+    "sha256": "sha256:f495f51484771958bda98f6dc61edf9c13a5fbcb51ac415fb5e755018d3dbd9e",
+    "normalized_content_hash": "sha256:880d89d4ecccb7b5aaf05ae9af42d2b461ed828adac8354a1c0931542289e16b"
+  },
+  "provenance": {
+    "source_item_id": "b51b9e50-5719-4f33-b2a6-abf87ee8e496",
+    "external_id": "https://www.abacum.ai/newsroom/on-the-future-of-the-cfo-office-etn-podcast"
+  }
+}

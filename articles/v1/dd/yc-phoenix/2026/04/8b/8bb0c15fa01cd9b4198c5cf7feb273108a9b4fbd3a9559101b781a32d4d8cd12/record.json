@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8bb0c15fa01cd9b4198c5cf7feb273108a9b4fbd3a9559101b781a32d4d8cd12",
+  "company": {
+    "key": "yc-phoenix",
+    "name": "Phoenix"
+  },
+  "source": {
+    "id": "yc-phoenix-news-import-be2e24644a46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.phoenix.ca/blog/intermittent-fasting-weight-loss-men",
+    "canonical": "https://www.phoenix.ca/blog/intermittent-fasting-weight-loss-men"
+  },
+  "title": "Intermittent Fasting Weight Loss: What Works for Men",
+  "summary": "New research shows intermittent fasting is no better than standard dieting for weight loss. Learn which methods actually work for men.",
+  "published_at": "2026-04-20T19:47:30.632+00:00",
+  "first_seen_at": "2026-07-25T19:08:38.231288+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:24.684520+00:00",
+  "paths": {
+    "article": "articles/v1/dd/yc-phoenix/2026/04/8b/8bb0c15fa01cd9b4198c5cf7feb273108a9b4fbd3a9559101b781a32d4d8cd12/article.md",
+    "record": "articles/v1/dd/yc-phoenix/2026/04/8b/8bb0c15fa01cd9b4198c5cf7feb273108a9b4fbd3a9559101b781a32d4d8cd12/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5860,
+    "sha256": "sha256:f6c9c50df5b8f88443cda74163e28d33aa65b95bbf2553c224a3920c15054cc7",
+    "normalized_content_hash": "sha256:308e8903bb8e92abdd716308ea9396eaa0aa8dbcfe1d558356af20c6b81d9cac"
+  },
+  "provenance": {
+    "source_item_id": "bda42f72-751d-4634-9053-80bc94d5d60d",
+    "external_id": "https://www.phoenix.ca/blog/intermittent-fasting-weight-loss-men"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a97dda78a48636de524c61baa08a57709381681442668f851c8d78056a1a4e91",
+  "company": {
+    "key": "arbor-realty-trust-common-stock",
+    "name": "Arbor Realty Trust Common Stock"
+  },
+  "source": {
+    "id": "arbor-realty-trust-common-stock-news-import-12a525816063",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://arbor.com/blog/build-to-rent-activity-stabilizes-above-historical-highs/",
+    "canonical": "https://arbor.com/blog/build-to-rent-activity-stabilizes-above-historical-highs/"
+  },
+  "title": "Build-to-Rent Activity Stabilizes Above Historical Highs",
+  "summary": "New U.S. Census Bureau data indicates that build-to-rent (BTR) activity has stabilized and remains elevated above historical norms.",
+  "published_at": "2026-06-09T14:30:36+00:00",
+  "first_seen_at": "2026-07-26T07:56:47.567117+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-07-28T21:43:20.301815+00:00",
+  "paths": {
+    "article": "articles/v1/5f/arbor-realty-trust-common-stock/2026/06/a9/a97dda78a48636de524c61baa08a57709381681442668f851c8d78056a1a4e91/article.md",
+    "record": "articles/v1/5f/arbor-realty-trust-common-stock/2026/06/a9/a97dda78a48636de524c61baa08a57709381681442668f851c8d78056a1a4e91/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4875,
+    "sha256": "sha256:7174eb1819bd994fda8e89a0a9f52cbb0b238632fc93a78849ada7a62808eb37",
+    "normalized_content_hash": "sha256:55ae002f76ae8782b687df362d5ce8cf75e20ddad21cfe922370666071bc8e01"
+  },
+  "provenance": {
+    "source_item_id": "99fb4210-a422-480d-a2ca-c9318ede466a",
+    "external_id": "https://arbor.com/blog/build-to-rent-activity-stabilizes-above-historical-highs/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "79a79a0a8da1b48299b84cde8ebb8a9c6185752f41e58a8a1512f999463879aa",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation Common Stock"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/introducing-POSSUM",
+    "canonical": "https://tech.target.com/blog/introducing-POSSUM"
+  },
+  "title": "Introducing POSSUM, An Open Source Retail Peripheral Platform for All",
+  "summary": "An article by Adam Nawrocki : Learn about our newest open source product which provides hardware abstraction for industry standard retail peripherals.",
+  "published_at": "2023-09-27T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-07-28T21:02:23.942079+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2023/09/79/79a79a0a8da1b48299b84cde8ebb8a9c6185752f41e58a8a1512f999463879aa/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2023/09/79/79a79a0a8da1b48299b84cde8ebb8a9c6185752f41e58a8a1512f999463879aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6029,
+    "sha256": "sha256:74eda5001484b0d1a0e8e64c46555f26175a4886d442f0ad21a8c75af11ba71d",
+    "normalized_content_hash": "sha256:a5e175b392c3c1ece5eb9aecdab8f8ed3baba76be92831816fd122096d202934"
+  },
+  "provenance": {
+    "source_item_id": "803ce1f7-4668-4faf-a8f4-614799fecae0",
+    "external_id": "BLOG-10058"
+  }
+}

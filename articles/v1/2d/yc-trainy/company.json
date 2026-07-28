@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-trainy",
+    "name": "Trainy"
+  },
+  "record_count": 3,
+  "first_published_at": "2025-02-24T00:00:00+00:00",
+  "last_published_at": "2026-02-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    }
+  ]
+}

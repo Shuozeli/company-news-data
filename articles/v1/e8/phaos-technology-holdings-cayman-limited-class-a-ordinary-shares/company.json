@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "phaos-technology-holdings-cayman-limited-class-a-ordinary-shares",
+    "name": "Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares"
+  },
+  "record_count": 7,
+  "first_published_at": "2025-01-31T04:00:00+00:00",
+  "last_published_at": "2026-06-03T21:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ]
+}

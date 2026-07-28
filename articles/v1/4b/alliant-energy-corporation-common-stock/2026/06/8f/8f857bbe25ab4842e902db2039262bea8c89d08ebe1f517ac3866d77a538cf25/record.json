@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f857bbe25ab4842e902db2039262bea8c89d08ebe1f517ac3866d77a538cf25",
+  "company": {
+    "key": "alliant-energy-corporation-common-stock",
+    "name": "Alliant Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "alliant-energy-corporation-common-stock-news-import-5331c2900a0f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/06/062426-summer-savings",
+    "canonical": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/06/062426-summer-savings"
+  },
+  "title": "Easy ways to save energy this summer",
+  "summary": "Everyday household routines can have a bigger impact on summer energy use than you think.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:32:38.450273+00:00",
+  "fetched_at": "2026-07-27T11:32:36.077817+00:00",
+  "last_updated_at": "2026-07-27T11:32:38.450273+00:00",
+  "paths": {
+    "article": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/06/8f/8f857bbe25ab4842e902db2039262bea8c89d08ebe1f517ac3866d77a538cf25/article.md",
+    "record": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/06/8f/8f857bbe25ab4842e902db2039262bea8c89d08ebe1f517ac3866d77a538cf25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2518,
+    "sha256": "sha256:dd1bc20bce6b0d46018c1b9be6d539f1e5aad5fe06bf2499d9d0c646fc8599ad",
+    "normalized_content_hash": "sha256:327eebd59e95fd0b04cf2b3df145fe1a199f95e90e478ed27567673aa3d28851"
+  },
+  "provenance": {
+    "source_item_id": "db0c006b-367f-42b8-8e37-be28d30b9dba",
+    "external_id": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/06/062426-summer-savings"
+  }
+}

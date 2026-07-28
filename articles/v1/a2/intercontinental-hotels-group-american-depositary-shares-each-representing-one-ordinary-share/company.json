@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "intercontinental-hotels-group-american-depositary-shares-each-representing-one-ordinary-share",
+    "name": "Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share)"
+  },
+  "record_count": 20,
+  "first_published_at": "2026-02-17T00:00:00+00:00",
+  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 13
+    }
+  ]
+}

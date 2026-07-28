@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09c4cf67e0ebff54f331ebcff94015ef8ccd94f37bcc626c1b10510bc536f5ae",
+  "company": {
+    "key": "flowserve-corporation-common-stock",
+    "name": "Flowserve Corporation Common Stock"
+  },
+  "source": {
+    "id": "flowserve-corporation-common-stock-news-import-f47152ddce73",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flowserve.com/company/blog/energy-transition/nine-key-challenges-whats-holding-back-hydrogen-future-we-need/",
+    "canonical": "https://www.flowserve.com/company/blog/energy-transition/nine-key-challenges-whats-holding-back-hydrogen-future-we-need/"
+  },
+  "title": "Nine Key Challenges: What’s Holding Back the Hydrogen Future We Need",
+  "summary": "Over the past three years, global industries have built significant momentum toward creating an economy in which clean-burning hydrogen becomes a primary fuel for transportation, heating and powering industrial processes. These are nine key takeaways for the hydrogen economy.",
+  "published_at": "2023-06-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T22:14:42.287001+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:45.857085+00:00",
+  "paths": {
+    "article": "articles/v1/be/flowserve-corporation-common-stock/2023/06/09/09c4cf67e0ebff54f331ebcff94015ef8ccd94f37bcc626c1b10510bc536f5ae/article.md",
+    "record": "articles/v1/be/flowserve-corporation-common-stock/2023/06/09/09c4cf67e0ebff54f331ebcff94015ef8ccd94f37bcc626c1b10510bc536f5ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13226,
+    "sha256": "sha256:d1d15a3c7cc1672a43d59a33ed064fc660571529a92a1c900485a3e011113f35",
+    "normalized_content_hash": "sha256:1614e19e85279a6a6c3cb54db9e77b963db583b4f779315523013acf01469ef2"
+  },
+  "provenance": {
+    "source_item_id": "84917bce-05e7-46b8-9874-7b48a4d632c9",
+    "external_id": "https://www.flowserve.com/company/blog/energy-transition/nine-key-challenges-whats-holding-back-hydrogen-future-we-need/"
+  }
+}

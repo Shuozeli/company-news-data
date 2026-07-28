@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8085fcb1713112c0350583d859b1c91ca0d64a6e9cb25d0e7412ca7a809d7fa9",
+  "company": {
+    "key": "yc-pump-co",
+    "name": "Pump.co"
+  },
+  "source": {
+    "id": "yc-pump-co-news-import-86a46b79533f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pump.co/blog/amazon-ecr/",
+    "canonical": "https://www.pump.co/blog/amazon-ecr/"
+  },
+  "title": "Amazon ECR: What It Is, Features & Pricing",
+  "summary": "Learn what AWS ECR is, how it works, key features, and pricing. Complete guide to AWS's managed container registry for Docker and OCI images.",
+  "published_at": "2026-02-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:15:23.871807+00:00",
+  "fetched_at": "2026-07-28T11:48:07.834159+00:00",
+  "last_updated_at": "2026-07-28T11:48:10.876092+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-pump-co/2026/02/80/8085fcb1713112c0350583d859b1c91ca0d64a6e9cb25d0e7412ca7a809d7fa9/article.md",
+    "record": "articles/v1/a8/yc-pump-co/2026/02/80/8085fcb1713112c0350583d859b1c91ca0d64a6e9cb25d0e7412ca7a809d7fa9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13630,
+    "sha256": "sha256:9592ab1f064d06927b48ebb09c5b5ae1e401a67c297c35e0898f012952467f4a",
+    "normalized_content_hash": "sha256:419790c83da4c33153c0ff34fcbcab0771b7036f554120684685d7b2c391db70"
+  },
+  "provenance": {
+    "source_item_id": "2621e8de-98e7-41cd-bac6-57383a09736c",
+    "external_id": "https://www.pump.co/blog/amazon-ecr/"
+  }
+}

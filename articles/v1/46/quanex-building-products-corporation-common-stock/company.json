@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "quanex-building-products-corporation-common-stock",
+    "name": "Quanex Building Products Corporation Common Stock"
+  },
+  "record_count": 12,
+  "first_published_at": "2025-08-27T17:09:06+00:00",
+  "last_published_at": "2026-05-15T11:43:06+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    }
+  ]
+}

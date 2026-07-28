@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "63f37513d2fe5531dc45aed6e745366387beae83efff8cc7cc9fc27995596f1f",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/why-financial-networks-must-move-to-post-quantum-security",
+    "canonical": "https://www.btq.tech/blog/why-financial-networks-must-move-to-post-quantum-security"
+  },
+  "title": "Why financial networks must move to post-quantum security",
+  "summary": "Financial networks must adopt post-quantum security now. Address the Fed’s HNDL risk with PQFIF-aligned, NIST-standardized rails using BTQ’s QSSN and QCIM with CASH.",
+  "published_at": "2025-10-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-07-28T22:03:50.748680+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2025/10/63/63f37513d2fe5531dc45aed6e745366387beae83efff8cc7cc9fc27995596f1f/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2025/10/63/63f37513d2fe5531dc45aed6e745366387beae83efff8cc7cc9fc27995596f1f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13337,
+    "sha256": "sha256:5e89a3e61d0ea1612c51eba3052e3be8fcf547f048a4555e408ead3c72459b2d",
+    "normalized_content_hash": "sha256:a8ed64342a46aca0fd2224d999e1d3fca52953a582a57652ea83fa1a8f9f99a2"
+  },
+  "provenance": {
+    "source_item_id": "3903176c-16f5-4f1b-ae3e-d23726869260",
+    "external_id": "https://www.btq.tech/blog/why-financial-networks-must-move-to-post-quantum-security"
+  }
+}

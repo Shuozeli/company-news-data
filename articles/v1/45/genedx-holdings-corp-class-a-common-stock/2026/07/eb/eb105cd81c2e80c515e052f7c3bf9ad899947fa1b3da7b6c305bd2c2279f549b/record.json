@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb105cd81c2e80c515e052f7c3bf9ad899947fa1b3da7b6c305bd2c2279f549b",
+  "company": {
+    "key": "genedx-holdings-corp-class-a-common-stock",
+    "name": "GeneDx Holdings Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "genedx-holdings-corp-class-a-common-stock-news-import-a354036f6bdd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.genedx.com/blog/aap-exome-genome-sequencing-guidelines",
+    "canonical": "https://www.genedx.com/blog/aap-exome-genome-sequencing-guidelines"
+  },
+  "title": "AAP Recommends Exome & Genome Sequencing for Developmental Delay | GeneDx",
+  "summary": "The American Academy of Pediatrics now recommends exome and genome sequencing as first-line tests for children with global developmental delay or intellectual disability. Learn what the updated AAP guidance means for pediatric care.",
+  "published_at": "2026-07-20T16:07:54.053+00:00",
+  "first_seen_at": "2026-07-21T21:25:00.512408+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:22:00.456777+00:00",
+  "paths": {
+    "article": "articles/v1/45/genedx-holdings-corp-class-a-common-stock/2026/07/eb/eb105cd81c2e80c515e052f7c3bf9ad899947fa1b3da7b6c305bd2c2279f549b/article.md",
+    "record": "articles/v1/45/genedx-holdings-corp-class-a-common-stock/2026/07/eb/eb105cd81c2e80c515e052f7c3bf9ad899947fa1b3da7b6c305bd2c2279f549b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9261,
+    "sha256": "sha256:c475a21a5e1d13b31574ea5280b471262d79fb2895faca0e510f8c0f2a8978a1",
+    "normalized_content_hash": "sha256:5880da947177cf8c84e90170da3ff59b4450c24c0538c627c867df258a080272"
+  },
+  "provenance": {
+    "source_item_id": "480635eb-fbb4-4af9-a846-949efb32c3ed",
+    "external_id": "https://www.genedx.com/blog/aap-exome-genome-sequencing-guidelines"
+  }
+}

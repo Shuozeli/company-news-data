@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d834c21b3c2c5070943a8fa94ce52565f709aa429320064e241c9263f73f6ba4",
+  "company": {
+    "key": "pc-connection-inc-common-stock",
+    "name": "PC Connection Inc. Common Stock"
+  },
+  "source": {
+    "id": "pc-connection-inc-common-stock-rss-d57dd5940756",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://community.connection.com/securing-the-edge-at-scale-what-you-need-to-know/",
+    "canonical": "https://community.connection.com/securing-the-edge-at-scale-what-you-need-to-know/"
+  },
+  "title": "Securing the Edge at Scale: What You Need to Know",
+  "summary": "In this blog, we explore how to fix the broken state of edge security, and how modern, automated approaches like DevEdgeOps are essential to scaling safely.",
+  "published_at": "2025-08-12T08:43:00+00:00",
+  "first_seen_at": "2026-07-20T23:22:23.189033+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-07-28T20:57:13.310325+00:00",
+  "paths": {
+    "article": "articles/v1/95/pc-connection-inc-common-stock/2025/08/d8/d834c21b3c2c5070943a8fa94ce52565f709aa429320064e241c9263f73f6ba4/article.md",
+    "record": "articles/v1/95/pc-connection-inc-common-stock/2025/08/d8/d834c21b3c2c5070943a8fa94ce52565f709aa429320064e241c9263f73f6ba4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9650,
+    "sha256": "sha256:134f643c2ea4df08f3e344ff360cb8fc8f3d00bc64e2819256688ffe1f399134",
+    "normalized_content_hash": "sha256:3120ddb5c0539e806f6a985532bfa4488a032dd3a40275fee471044dbabe0642"
+  },
+  "provenance": {
+    "source_item_id": "9fb30567-9194-4df9-a90b-ae98e37dffe0",
+    "external_id": "https://community.connection.com/?p=14857"
+  }
+}

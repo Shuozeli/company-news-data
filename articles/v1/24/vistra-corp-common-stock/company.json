@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "vistra-corp-common-stock",
+    "name": "Vistra Corp. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-03-05T18:42:37+00:00",
+  "last_published_at": "2026-05-14T14:33:49+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    }
+  ]
+}

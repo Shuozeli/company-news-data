@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a209a8578b3e8d8522b528bcda21488b65237b6134622afbf706bfd4164d1a5e",
+  "company": {
+    "key": "nu-skin-enterprises-inc-common-stock",
+    "name": "Nu Skin Enterprises Inc. Common Stock"
+  },
+  "source": {
+    "id": "nu-skin-enterprises-inc-common-stock-news-import-2d48c4500560",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nuskin.com/corpcom/en_US/newsroom/press_releases1.html",
+    "canonical": "https://www.nuskin.com/content/corpcom/en_US/newsroom/press_releases1.html"
+  },
+  "title": "Nu Skin Press Releases",
+  "summary": "Discover the best you, inside and out, with our integrated beauty and wellness products.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T17:19:21.796248+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:33.280486+00:00",
+  "paths": {
+    "article": "articles/v1/08/nu-skin-enterprises-inc-common-stock/2026/07/a2/a209a8578b3e8d8522b528bcda21488b65237b6134622afbf706bfd4164d1a5e/article.md",
+    "record": "articles/v1/08/nu-skin-enterprises-inc-common-stock/2026/07/a2/a209a8578b3e8d8522b528bcda21488b65237b6134622afbf706bfd4164d1a5e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20754,
+    "sha256": "sha256:b366400d6d88475f67fe35aafc66a6e10281dfb6113a0a35fe10758ece3494f8",
+    "normalized_content_hash": "sha256:6a9582fa4e0f6f81446af19c3a2ba7c66bd8ef9befae6c93eac79767a339b15c"
+  },
+  "provenance": {
+    "source_item_id": "e81c5958-c001-4f27-b07e-464ff0871663",
+    "external_id": "https://www.nuskin.com/content/corpcom/en_US/newsroom/press_releases1.html"
+  }
+}

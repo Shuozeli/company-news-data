@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d3165ee150a3d535b378ecd0f67225e55495c3f9df152e27afcbea1e6ebc4fe3",
+  "company": {
+    "key": "medtronic-plc-ordinary-shares",
+    "name": "Medtronic plc. Ordinary Shares"
+  },
+  "source": {
+    "id": "medtronic-plc-ordinary-shares-news-import-6ed60b0b95d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.medtronic.com/AI-detecting-disease-before-you-know-youre-sick-newsroom",
+    "canonical": "https://news.medtronic.com/AI-detecting-disease-before-you-know-youre-sick-newsroom"
+  },
+  "title": "Can math help detect heart disease even before you know you’re sick?",
+  "summary": "Medtronic teams up with Tempus to deploy artificial intelligence in heart valve disease care gap detection.",
+  "published_at": "2025-04-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T14:33:03.891034+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:04.299621+00:00",
+  "paths": {
+    "article": "articles/v1/86/medtronic-plc-ordinary-shares/2025/04/d3/d3165ee150a3d535b378ecd0f67225e55495c3f9df152e27afcbea1e6ebc4fe3/article.md",
+    "record": "articles/v1/86/medtronic-plc-ordinary-shares/2025/04/d3/d3165ee150a3d535b378ecd0f67225e55495c3f9df152e27afcbea1e6ebc4fe3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7654,
+    "sha256": "sha256:91a83cc5dcbe57f9d4e145718a2c7518324c485b3955b9303836c1e0d6937bf4",
+    "normalized_content_hash": "sha256:322d451445a3bd95a2930295022b601814b41d1a98b4c6d0f0248f0770a933ff"
+  },
+  "provenance": {
+    "source_item_id": "6819ca05-4903-49a6-b1ab-a681ba6b31d1",
+    "external_id": "https://news.medtronic.com/AI-detecting-disease-before-you-know-youre-sick-newsroom"
+  }
+}

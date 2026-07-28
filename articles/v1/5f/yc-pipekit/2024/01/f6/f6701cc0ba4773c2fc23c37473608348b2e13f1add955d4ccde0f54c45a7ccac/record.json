@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6701cc0ba4773c2fc23c37473608348b2e13f1add955d4ccde0f54c45a7ccac",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/argo-workflows-with-docker-desktop",
+    "canonical": "https://homepage.pipekit.io/blog/argo-workflows-with-docker-desktop"
+  },
+  "title": "How to Run Argo Workflows with Docker Desktop",
+  "summary": "It's simple to deploy Argo Workflows to a K8s cluster using Docker Desktop. We'll implement the main components of an Argo Workflows deployment (Argo Server, Controller, UI, CLI, and artifact repo), and run two basic workflows.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-07-28T22:00:52.522361+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/f6/f6701cc0ba4773c2fc23c37473608348b2e13f1add955d4ccde0f54c45a7ccac/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/f6/f6701cc0ba4773c2fc23c37473608348b2e13f1add955d4ccde0f54c45a7ccac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11524,
+    "sha256": "sha256:7150ac76b494b00e596892052fe2fb32ac46f526feebb0565ed8c3c4b0b5b448",
+    "normalized_content_hash": "sha256:98fa0f92ad6b6b6259a02f8c9fefa489a59e719fc5461cfbb2e0061ffe5a7f78"
+  },
+  "provenance": {
+    "source_item_id": "6412e563-fc43-4414-9aad-40bff2bc087a",
+    "external_id": "https://homepage.pipekit.io/blog/argo-workflows-with-docker-desktop"
+  }
+}

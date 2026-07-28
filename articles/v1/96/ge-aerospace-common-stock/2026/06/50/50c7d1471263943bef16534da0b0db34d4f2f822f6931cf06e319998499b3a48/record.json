@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50c7d1471263943bef16534da0b0db34d4f2f822f6931cf06e319998499b3a48",
+  "company": {
+    "key": "ge-aerospace-common-stock",
+    "name": "GE Aerospace Common Stock"
+  },
+  "source": {
+    "id": "ge-aerospace-common-stock-news-import-cc3bb1578416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.geaerospace.com/news/articles/legacy-progress-ge-aerospace-celebrates-americas-spirit-innovation-250",
+    "canonical": "https://www.geaerospace.com/news/articles/legacy-progress-ge-aerospace-celebrates-americas-spirit-innovation-250"
+  },
+  "title": "A Legacy of Progress: GE Aerospace Celebrates America’s Spirit of Innovation at 250",
+  "summary": "Benjamin Franklin, one of America’s great inventors, lived by a belief in “continual growth and progress.” It’s a value that’s shaped the country he founded with other visionari",
+  "published_at": "2026-06-23T14:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:23:10.954248+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:19.132267+00:00",
+  "paths": {
+    "article": "articles/v1/96/ge-aerospace-common-stock/2026/06/50/50c7d1471263943bef16534da0b0db34d4f2f822f6931cf06e319998499b3a48/article.md",
+    "record": "articles/v1/96/ge-aerospace-common-stock/2026/06/50/50c7d1471263943bef16534da0b0db34d4f2f822f6931cf06e319998499b3a48/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10402,
+    "sha256": "sha256:52c9e9845c93ab3dbf6980b6318687d8056ef25f9c1f2ae63acd22220fc8b4e8",
+    "normalized_content_hash": "sha256:ac8dbe041145e571e12ba989ccde549025ebe5eea73d12274a21f41baf47c1d6"
+  },
+  "provenance": {
+    "source_item_id": "10d88c54-cb53-4c1c-8510-9655beba7eed",
+    "external_id": "https://www.geaerospace.com/news/articles/legacy-progress-ge-aerospace-celebrates-americas-spirit-innovation-250"
+  }
+}

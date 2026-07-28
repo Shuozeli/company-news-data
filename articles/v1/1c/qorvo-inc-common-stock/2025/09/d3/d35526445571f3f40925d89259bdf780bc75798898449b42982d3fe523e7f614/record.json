@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d35526445571f3f40925d89259bdf780bc75798898449b42982d3fe523e7f614",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-e3018e454ae6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/design-hub/blog/designing-efficient-satellite-links-a-review-of-the-link-budget-analysis",
+    "canonical": "https://www.qorvo.com/design-hub/blog/designing-efficient-satellite-links-a-review-of-the-link-budget-analysis"
+  },
+  "title": "Designing Efficient Satellite Links: A Review of the Link Budget Analysis",
+  "summary": "This article explores the principles and key metrics involved in designing and optimizing RF link budgets for satellite communication systems. It highlights critical parameters such as antenna G/T, EIRP and SNR, and discusses how they influence system performance under varying conditions. It also examines advanced techniques—including adaptive coding and modulation, beamforming and machine learning—to improve signal quality, spectral efficiency and overall link reliability.",
+  "published_at": "2025-09-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:14:16.870814+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-07-28T22:03:58.312867+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2025/09/d3/d35526445571f3f40925d89259bdf780bc75798898449b42982d3fe523e7f614/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2025/09/d3/d35526445571f3f40925d89259bdf780bc75798898449b42982d3fe523e7f614/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14699,
+    "sha256": "sha256:10943e2f0f17cfc2bfa252735ffb17ddfc097106619192bde38f62d4271ff2d8",
+    "normalized_content_hash": "sha256:731adfdcb23f5dfae31ce0ab90c011ed32f6ae73a8f8e702e8c726b37cfe7f95"
+  },
+  "provenance": {
+    "source_item_id": "ff37cbff-0207-4941-bd6f-a29524515554",
+    "external_id": "https://www.qorvo.com/design-hub/blog/designing-efficient-satellite-links-a-review-of-the-link-budget-analysis"
+  }
+}

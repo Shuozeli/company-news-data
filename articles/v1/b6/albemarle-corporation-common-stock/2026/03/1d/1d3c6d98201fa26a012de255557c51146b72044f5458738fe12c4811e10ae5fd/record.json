@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d3c6d98201fa26a012de255557c51146b72044f5458738fe12c4811e10ae5fd",
+  "company": {
+    "key": "albemarle-corporation-common-stock",
+    "name": "Albemarle Corporation Common Stock"
+  },
+  "source": {
+    "id": "albemarle-corporation-common-stock-news-import-46b1e4b791cf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.albemarle.com/us/en/news/albemarlelocal-building-shared-value-and-opportunity-chile",
+    "canonical": "https://www.albemarle.com/us/en/news/albemarlelocal-building-shared-value-and-opportunity-chile"
+  },
+  "title": "Albemarle+Local: Building Shared Value and Opportunity in Chile",
+  "summary": "To strengthen our long-term presence in Chile’s Salar de Atacama region, Albemarle has introduced Albemarle+Local, a development program that brings together",
+  "published_at": "2026-03-03T19:06:21+00:00",
+  "first_seen_at": "2026-07-24T05:00:17.878170+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:38.098517+00:00",
+  "paths": {
+    "article": "articles/v1/b6/albemarle-corporation-common-stock/2026/03/1d/1d3c6d98201fa26a012de255557c51146b72044f5458738fe12c4811e10ae5fd/article.md",
+    "record": "articles/v1/b6/albemarle-corporation-common-stock/2026/03/1d/1d3c6d98201fa26a012de255557c51146b72044f5458738fe12c4811e10ae5fd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3341,
+    "sha256": "sha256:623ed60905d831da7d4d0c1dea8df1fae697eed3813a8d73d8fb0a0233e42666",
+    "normalized_content_hash": "sha256:54490a9d3f2063c4d918502aef1114d0266bf7d3eb91fe2faf1607edacebdfee"
+  },
+  "provenance": {
+    "source_item_id": "11f61abd-b973-43b2-8cab-eeade0169963",
+    "external_id": "https://www.albemarle.com/us/en/news/albemarlelocal-building-shared-value-and-opportunity-chile"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d814ccb95a16b8b29ec81198d0175b52332bbecf8bb9b071a7250fe625f9e70f",
+  "company": {
+    "key": "moderna-inc-common-stock",
+    "name": "Moderna Inc. Common Stock"
+  },
+  "source": {
+    "id": "moderna-inc-common-stock-rss-ffb730a7f05d",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://news.modernatx.com/news/news-details/2018/dr-john-mendlein-joins-moderna-as-president-corporate-and-product-strategy",
+    "canonical": "https://news.modernatx.com/news/news-details/2018/dr-john-mendlein-joins-moderna-as-president-corporate-and-product-strategy"
+  },
+  "title": "Dr. John Mendlein Joins Moderna as President, Corporate and Product Strategy",
+  "summary": "Deliver the greatest possible impact to people through mRNA medicines.",
+  "published_at": "2018-01-03T20:32:00+00:00",
+  "first_seen_at": "2026-07-20T03:33:23.394172+00:00",
+  "fetched_at": "2026-07-28T22:26:53.665310+00:00",
+  "last_updated_at": "2026-07-28T22:27:16.372196+00:00",
+  "paths": {
+    "article": "articles/v1/60/moderna-inc-common-stock/2018/01/d8/d814ccb95a16b8b29ec81198d0175b52332bbecf8bb9b071a7250fe625f9e70f/article.md",
+    "record": "articles/v1/60/moderna-inc-common-stock/2018/01/d8/d814ccb95a16b8b29ec81198d0175b52332bbecf8bb9b071a7250fe625f9e70f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6388,
+    "sha256": "sha256:d7613dbfc58cb64b2a6301ec8af0bc5c96ee7d8176c2957833f6fdf3d5f8ed51",
+    "normalized_content_hash": "sha256:46b734647d8869cc7cda49b0b706f3ef3d1f3ebf59605f189f0a3433d38df603"
+  },
+  "provenance": {
+    "source_item_id": "db8dc1f4-f750-4cf9-83ae-a503106da1bc",
+    "external_id": "https://news.modernatx.com/news/news-details/2018/dr-john-mendlein-joins-moderna-as-president-corporate-and-product-strategy"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a305fd720d0a5fc9c75e2fd5a9538f83808bc38718ebaad49b1435098f1e3552",
+  "company": {
+    "key": "paccar-inc-common-stock",
+    "name": "PACCAR Inc. Common Stock"
+  },
+  "source": {
+    "id": "paccar-inc-common-stock-news-import-2cf1de5bfa55",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.paccar.com/news/current-news/2023/paccar-and-toyota-expand-hydrogen-fuel-cell-truck-collaboration-to-include-commercialization/",
+    "canonical": "https://www.paccar.com/news/current-news/2023/paccar-and-toyota-expand-hydrogen-fuel-cell-truck-collaboration-to-include-commercialization/"
+  },
+  "title": "PACCAR and Toyota Expand Hydrogen Fuel Cell Truck Collaboration to Include Commercialization",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T11:01:05.418267+00:00",
+  "fetched_at": "2026-07-27T23:51:20.169687+00:00",
+  "last_updated_at": "2026-07-27T23:51:21.857840+00:00",
+  "paths": {
+    "article": "articles/v1/3f/paccar-inc-common-stock/2026/07/a3/a305fd720d0a5fc9c75e2fd5a9538f83808bc38718ebaad49b1435098f1e3552/article.md",
+    "record": "articles/v1/3f/paccar-inc-common-stock/2026/07/a3/a305fd720d0a5fc9c75e2fd5a9538f83808bc38718ebaad49b1435098f1e3552/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3996,
+    "sha256": "sha256:3f531e5d69837641571ab1c3d645028ae818218069ce8d77fd3369c3ccebb8b6",
+    "normalized_content_hash": "sha256:a9c3ffb65e1d1ef7c486e4bc7123c2527b8d646b2968af45de3284b8ef0ddd87"
+  },
+  "provenance": {
+    "source_item_id": "eab501e0-1e6c-4cae-b9c5-3154c9557c7a",
+    "external_id": "https://www.paccar.com/news/current-news/2023/paccar-and-toyota-expand-hydrogen-fuel-cell-truck-collaboration-to-include-commercialization/"
+  }
+}

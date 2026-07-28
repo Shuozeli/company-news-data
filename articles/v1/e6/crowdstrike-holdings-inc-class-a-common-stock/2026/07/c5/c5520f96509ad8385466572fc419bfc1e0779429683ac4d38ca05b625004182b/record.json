@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c5520f96509ad8385466572fc419bfc1e0779429683ac4d38ca05b625004182b",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/"
+  },
+  "title": "CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar™: Cloud and Application Runtime Security",
+  "summary": "CrowdStrike earned top Innovation and Growth scores in the 2026 Frost Radar for Cloud and Application Runtime Security.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.452689+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/c5/c5520f96509ad8385466572fc419bfc1e0779429683ac4d38ca05b625004182b/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/c5/c5520f96509ad8385466572fc419bfc1e0779429683ac4d38ca05b625004182b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6228,
+    "sha256": "sha256:f23e49875685addd0ab651cfaccf6d926e00d0a552f3c30772fd8362d889085a",
+    "normalized_content_hash": "sha256:07784f9c6d4830ffbf68336688e5a326375fe2dfbf9d3d03565ac2af1bcbe26f"
+  },
+  "provenance": {
+    "source_item_id": "b0849048-47a7-4fcc-a33c-7a25cb2d7a40",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/"
+  }
+}

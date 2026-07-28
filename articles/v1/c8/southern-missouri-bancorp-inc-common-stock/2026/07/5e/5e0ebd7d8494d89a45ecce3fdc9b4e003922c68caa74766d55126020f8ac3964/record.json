@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e0ebd7d8494d89a45ecce3fdc9b4e003922c68caa74766d55126020f8ac3964",
+  "company": {
+    "key": "southern-missouri-bancorp-inc-common-stock",
+    "name": "Southern Missouri Bancorp Inc. Common Stock"
+  },
+  "source": {
+    "id": "southern-missouri-bancorp-inc-common-stock-news-import-52af38627077",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bankwithsouthern.com/news/higgins-roberts-rivenburgh-regional-presidents/",
+    "canonical": "https://www.bankwithsouthern.com/news/higgins-roberts-rivenburgh-regional-presidents/"
+  },
+  "title": "Higgins, Roberts & Rivenburgh Named Presidents | Southern Bank",
+  "summary": "Southern Bank names Higgins, Roberts, and Rivenburgh as Regional Presidents",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T01:27:46.326277+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:51.173380+00:00",
+  "paths": {
+    "article": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/5e/5e0ebd7d8494d89a45ecce3fdc9b4e003922c68caa74766d55126020f8ac3964/article.md",
+    "record": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/5e/5e0ebd7d8494d89a45ecce3fdc9b4e003922c68caa74766d55126020f8ac3964/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3565,
+    "sha256": "sha256:11ee165070b52e805446c2ccf2258a5c2c752a18641a5f4a2c9eb0cd6a032526",
+    "normalized_content_hash": "sha256:3900fa1b2b397413dc60338e15a58329a0ec99ae3f1fb9a06a47495111bf6514"
+  },
+  "provenance": {
+    "source_item_id": "9e28e2f8-6c10-441e-a609-03caf6c828c3",
+    "external_id": "https://www.bankwithsouthern.com/news/higgins-roberts-rivenburgh-regional-presidents/"
+  }
+}

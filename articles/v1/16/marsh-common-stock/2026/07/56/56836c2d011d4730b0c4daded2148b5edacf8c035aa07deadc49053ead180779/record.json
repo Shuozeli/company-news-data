@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "56836c2d011d4730b0c4daded2148b5edacf8c035aa07deadc49053ead180779",
+  "company": {
+    "key": "marsh-common-stock",
+    "name": "Marsh Common Stock"
+  },
+  "source": {
+    "id": "marsh-common-stock-news-import-967b5273dc54",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.corporate.marsh.com/news-events/2026/july/global-commercial-insurance-falls-6-percent-q2-2026.html",
+    "canonical": "https://www.corporate.marsh.com/news-events/2026/july/global-commercial-insurance-falls-6-percent-q2-2026.html"
+  },
+  "title": "Marsh’s Q2 2026 Global Insurance Market Index",
+  "summary": "Global commercial insurance rates fell, on average, by 6% in the second quarter of 2026, following a 5% decline in Q1 2026.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T15:27:38.932648+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:52.479455+00:00",
+  "paths": {
+    "article": "articles/v1/16/marsh-common-stock/2026/07/56/56836c2d011d4730b0c4daded2148b5edacf8c035aa07deadc49053ead180779/article.md",
+    "record": "articles/v1/16/marsh-common-stock/2026/07/56/56836c2d011d4730b0c4daded2148b5edacf8c035aa07deadc49053ead180779/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4715,
+    "sha256": "sha256:eab1865ae1e0a38b95174ab49a4de9730b67f310c21eb0712c220a845ac8ad8b",
+    "normalized_content_hash": "sha256:2a6bff1917aec8ae5955c7111ee2a8815bedbb8339093b1e4027aeb9d31ec6cb"
+  },
+  "provenance": {
+    "source_item_id": "af610920-be00-463b-b04d-58214315f4a4",
+    "external_id": "https://www.corporate.marsh.com/news-events/2026/july/global-commercial-insurance-falls-6-percent-q2-2026.html"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-finflx",
+    "name": "FinFlx"
+  },
+  "record_count": 15,
+  "first_published_at": "2022-01-10T00:00:00+00:00",
+  "last_published_at": "2023-09-08T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    }
+  ]
+}

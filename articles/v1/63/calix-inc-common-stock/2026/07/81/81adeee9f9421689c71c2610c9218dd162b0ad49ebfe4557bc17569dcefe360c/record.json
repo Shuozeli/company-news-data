@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81adeee9f9421689c71c2610c9218dd162b0ad49ebfe4557bc17569dcefe360c",
+  "company": {
+    "key": "calix-inc-common-stock",
+    "name": "Calix Inc Common Stock"
+  },
+  "source": {
+    "id": "calix-inc-common-stock-news-import-5dfc9968033e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.calix.com/press-release/2026/07/gvt-chooses-calix-one-ai.html",
+    "canonical": "https://www.calix.com/press-release/2026/07/gvt-chooses-calix-one-ai.html"
+  },
+  "title": "GVT Chooses Calix One To Securely Scale AI | Calix Press Release",
+  "summary": "After lifting average revenue per user (ARPU) nearly 8 percent over the past year and driving take rates 62 percent with differentiated SmartLife experiences and the award-winning Calix Success organization, Garden Valley Technologies is extending their investment in Calix One with agentic AI",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T12:08:42.923380+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:36.612150+00:00",
+  "paths": {
+    "article": "articles/v1/63/calix-inc-common-stock/2026/07/81/81adeee9f9421689c71c2610c9218dd162b0ad49ebfe4557bc17569dcefe360c/article.md",
+    "record": "articles/v1/63/calix-inc-common-stock/2026/07/81/81adeee9f9421689c71c2610c9218dd162b0ad49ebfe4557bc17569dcefe360c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7391,
+    "sha256": "sha256:959d1bd878b5867b75d1f8945b2390f161b55890af76c4776253290ada76b99a",
+    "normalized_content_hash": "sha256:0f159e48c08b5f0947fdff41e99b50901bd4ec432d52fa8fa720c125118fdc57"
+  },
+  "provenance": {
+    "source_item_id": "49bb6cca-6328-4bb6-8531-a73dabcdeacc",
+    "external_id": "https://www.calix.com/press-release/2026/07/gvt-chooses-calix-one-ai.html"
+  }
+}

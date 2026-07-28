@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "969120b423b22eabc0900c8eda1f320737fca980ce45e0a514f46fbbaf0955bf",
+  "company": {
+    "key": "yc-synder",
+    "name": "Synder"
+  },
+  "source": {
+    "id": "yc-synder-news-import-2d8d0ea56239",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://synder.com/blog/how-to-reconcile-stripe-payments-in-xero/",
+    "canonical": "https://synder.com/blog/how-to-reconcile-stripe-payments-in-xero/"
+  },
+  "title": "How to Reconcile Stripe Payments in Xero the Right Way",
+  "summary": "Learn how to reconcile Stripe payments in Xero, handle fees and payouts, set up a clearing account, and keep your book records accurate.",
+  "published_at": "2026-06-19T16:17:00+00:00",
+  "first_seen_at": "2026-07-24T03:03:15.591735+00:00",
+  "fetched_at": "2026-07-28T21:23:18.688239+00:00",
+  "last_updated_at": "2026-07-28T21:25:05.274126+00:00",
+  "paths": {
+    "article": "articles/v1/77/yc-synder/2026/06/96/969120b423b22eabc0900c8eda1f320737fca980ce45e0a514f46fbbaf0955bf/article.md",
+    "record": "articles/v1/77/yc-synder/2026/06/96/969120b423b22eabc0900c8eda1f320737fca980ce45e0a514f46fbbaf0955bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22269,
+    "sha256": "sha256:0a9068039c42619d03ecfd24c2f0ad1e2e1445a9bcf5a77ab358f8bf191ace0f",
+    "normalized_content_hash": "sha256:ab9ed99cdf69948084474bd621fc18956a3391951ffa2b755a82e5ca5beb9adb"
+  },
+  "provenance": {
+    "source_item_id": "3bbedbc4-2d58-451a-88f2-4e1340cc3d13",
+    "external_id": "https://synder.com/blog/how-to-reconcile-stripe-payments-in-xero/"
+  }
+}

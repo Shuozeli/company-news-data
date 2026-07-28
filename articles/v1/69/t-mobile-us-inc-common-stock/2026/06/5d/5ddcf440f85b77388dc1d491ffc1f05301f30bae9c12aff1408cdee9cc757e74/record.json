@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ddcf440f85b77388dc1d491ffc1f05301f30bae9c12aff1408cdee9cc757e74",
+  "company": {
+    "key": "t-mobile-us-inc-common-stock",
+    "name": "T-Mobile US Inc. Common Stock"
+  },
+  "source": {
+    "id": "t-mobile-us-inc-common-stock-news-import-748f5f079be8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.t-mobile.com/news/community/t-mobile-activates-relief-following-devastating-earthquakes-in-venezuela",
+    "canonical": "https://www.t-mobile.com/news/community/t-mobile-activates-relief-following-devastating-earthquakes-in-venezuela"
+  },
+  "title": "T‑Mobile Activates Relief Following Devastating Earthquakes in Venezuela",
+  "summary": "Our hearts are with everyone impacted by the devastating earthquakes in Venezuela. The scale of loss is heartbreaking, with more than 1,700 people",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:46:33.310465+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:20.551765+00:00",
+  "paths": {
+    "article": "articles/v1/69/t-mobile-us-inc-common-stock/2026/06/5d/5ddcf440f85b77388dc1d491ffc1f05301f30bae9c12aff1408cdee9cc757e74/article.md",
+    "record": "articles/v1/69/t-mobile-us-inc-common-stock/2026/06/5d/5ddcf440f85b77388dc1d491ffc1f05301f30bae9c12aff1408cdee9cc757e74/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2397,
+    "sha256": "sha256:3b78307702fb495838965df68f3f5f5def4c5bc008a4098c92508835b04359cb",
+    "normalized_content_hash": "sha256:57dcea77e8b0e8307529f2de9f135478c77a986f735e734b1382d3676137de34"
+  },
+  "provenance": {
+    "source_item_id": "595efafa-64c7-4cf5-8b62-2b270a51ac13",
+    "external_id": "https://www.t-mobile.com/news/community/t-mobile-activates-relief-following-devastating-earthquakes-in-venezuela"
+  }
+}

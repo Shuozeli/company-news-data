@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dff1296dc51730a0c26bd0ac9ffae9b430eaab9aaf04fee66e58664da35e2193",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/demystifying-argo-workflows-an-architectural-deep-dive",
+    "canonical": "https://homepage.pipekit.io/blog/demystifying-argo-workflows-an-architectural-deep-dive"
+  },
+  "title": "Demystifying Argo Workflows: An Architectural Deep Dive",
+  "summary": "Journey through the workings of Argo Workflows, unraveling the mysteries of the Argo server and controller, how they go about orchestrating your workflow pods within a Kubernetes cluster. While at ArgoCon and KubeCon Europe in Paris, Darko Janjić, Pipekit & Becky Pauley, Venafi Jetstack Consult, presented an in-depth exploration of Argo Workflows architecture, with the purpose of transforming you from a novice to a seasoned Argo Workflows maestro.",
+  "published_at": "2024-08-07T17:05:22+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-07-28T20:59:58.793682+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/08/df/dff1296dc51730a0c26bd0ac9ffae9b430eaab9aaf04fee66e58664da35e2193/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/08/df/dff1296dc51730a0c26bd0ac9ffae9b430eaab9aaf04fee66e58664da35e2193/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11500,
+    "sha256": "sha256:88c3772cc2d6da54ace9beead7bcb6832aa2e0bebb0c08aaeb586478016fec0b",
+    "normalized_content_hash": "sha256:44712dc461021090bad069a8b89b75621c1f290fa16dde40e9339e3f89b56d68"
+  },
+  "provenance": {
+    "source_item_id": "9cafc642-3c00-4602-abc9-05479be80132",
+    "external_id": "https://homepage.pipekit.io/blog/demystifying-argo-workflows-an-architectural-deep-dive"
+  }
+}

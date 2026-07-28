@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4f4b2786b2dea4008ccb30e3d431eeee1e2dfbacb3f0b38fa30c8ca0213fb35",
+  "company": {
+    "key": "definitive-healthcare-corp-class-a-common-stock",
+    "name": "Definitive Healthcare Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "definitive-healthcare-corp-class-a-common-stock-news-import-ac685c0fe722",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.definitivehc.com/resources/healthcare-insights/top-clinical-medical-laboratories",
+    "canonical": "https://www.definitivehc.com/resources/healthcare-insights/top-clinical-medical-laboratories"
+  },
+  "title": "Top clinical laboratories by medical lab procedure volume",
+  "summary": "Explore the top clinical and medical laboratories ranked by size and market influence, and what the data reveals about the diagnostics landscape.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:02:19.730773+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:21:59.448801+00:00",
+  "paths": {
+    "article": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/d4/d4f4b2786b2dea4008ccb30e3d431eeee1e2dfbacb3f0b38fa30c8ca0213fb35/article.md",
+    "record": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/d4/d4f4b2786b2dea4008ccb30e3d431eeee1e2dfbacb3f0b38fa30c8ca0213fb35/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10738,
+    "sha256": "sha256:30e196092fcc5eb3dc763cae23c10530ad72f657a82b98f252c3b133dfd59dd3",
+    "normalized_content_hash": "sha256:1b8c1a9aee82a643df8b950a913f4c93df8071595810977012422307a3737c54"
+  },
+  "provenance": {
+    "source_item_id": "3f374e32-980e-4927-bcd4-cc47c54800b6",
+    "external_id": "https://www.definitivehc.com/resources/healthcare-insights/top-clinical-medical-laboratories"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "evertec-inc-common-stock",
+    "name": "Evertec Inc. Common Stock"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-06-22T14:04:00+00:00",
+  "last_published_at": "2026-07-22T19:28:21+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    }
+  ]
+}

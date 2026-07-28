@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-swadesi-way",
+    "name": "Swadesi Way"
+  },
+  "record_count": 7,
+  "first_published_at": "2013-08-11T16:35:51+00:00",
+  "last_published_at": "2021-02-17T12:28:09+00:00",
+  "partitions": [
+    {
+      "partition": "2013-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2014-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 1
+    }
+  ]
+}

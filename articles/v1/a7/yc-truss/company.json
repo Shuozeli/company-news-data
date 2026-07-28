@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-truss",
+    "name": "Truss"
+  },
+  "record_count": 17,
+  "first_published_at": "2026-05-15T16:03:37+00:00",
+  "last_published_at": "2026-07-22T00:51:02+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 15
+    }
+  ]
+}

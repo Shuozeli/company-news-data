@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31bcfe422c984339c02274af217c0328ad186db1801d7e0f73141b7674812f65",
+  "company": {
+    "key": "yc-avocado",
+    "name": "Avocado"
+  },
+  "source": {
+    "id": "yc-avocado-news-import-38bb8a83867d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.avocadopos.com/blog/20251020-california-newsom-signs-restaurant-permit-streamlining-law",
+    "canonical": "https://www.avocadopos.com/blog/20251020-california-newsom-signs-restaurant-permit-streamlining-law"
+  },
+  "title": "California Streamlines Restaurant Permitting: Faster Tenant Improvements, Less Red Tape - The Avocado - Avocado POS",
+  "summary": "Governor Gavin Newsom signed a new law on October 9, 2025 (effective 2026) aimed at speeding up local permit approvals for restaurant buildouts and remodels. The goal is simple — reduce costly delays and simplify the maze of local regulations that slow down openings and renovations.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T18:13:15.302974+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:20.861188+00:00",
+  "paths": {
+    "article": "articles/v1/31/yc-avocado/2026/07/31/31bcfe422c984339c02274af217c0328ad186db1801d7e0f73141b7674812f65/article.md",
+    "record": "articles/v1/31/yc-avocado/2026/07/31/31bcfe422c984339c02274af217c0328ad186db1801d7e0f73141b7674812f65/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4505,
+    "sha256": "sha256:a88228658e37f193052f9ef342ca58b649df97df3d1c23071a33fe94fd7bcfcb",
+    "normalized_content_hash": "sha256:a09c7b276ef9fc753ccd1950470c781dbc23ffc88c8adeb52701d681b9d03692"
+  },
+  "provenance": {
+    "source_item_id": "08bbff39-c2f5-4ce1-9d91-a3b293d09ecc",
+    "external_id": "https://www.avocadopos.com/blog/20251020-california-newsom-signs-restaurant-permit-streamlining-law"
+  }
+}

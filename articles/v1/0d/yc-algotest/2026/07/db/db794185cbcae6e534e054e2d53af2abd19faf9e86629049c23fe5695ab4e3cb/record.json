@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db794185cbcae6e534e054e2d53af2abd19faf9e86629049c23fe5695ab4e3cb",
+  "company": {
+    "key": "yc-algotest",
+    "name": "AlgoTest"
+  },
+  "source": {
+    "id": "yc-algotest-news-import-7cc502b412f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://algotest.in/blog/what-is-volume-in-stock-market/",
+    "canonical": "https://algotest.in/blog/what-is-volume-in-stock-market/"
+  },
+  "title": "What Is Volume in Stock Trading? How to Use It With RSI, VWAP and EMA",
+  "summary": "Volume tells you how many shares, contracts, or lots traded in a stock during a set period. It has nothing to do with price. It only counts activity. Every trad..",
+  "published_at": "2026-07-08T08:34:23+00:00",
+  "first_seen_at": "2026-07-25T00:56:57.418756+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:32.727411+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-algotest/2026/07/db/db794185cbcae6e534e054e2d53af2abd19faf9e86629049c23fe5695ab4e3cb/article.md",
+    "record": "articles/v1/0d/yc-algotest/2026/07/db/db794185cbcae6e534e054e2d53af2abd19faf9e86629049c23fe5695ab4e3cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7996,
+    "sha256": "sha256:808ef261cbd87195204f7134d685714a1d17ff868b9b34a29abe2105476160a7",
+    "normalized_content_hash": "sha256:80a773a6959d6edab96af0ff66c382e4f8051ad183cf152a0caaeb3445999ffa"
+  },
+  "provenance": {
+    "source_item_id": "cbcd72e3-434a-4189-9e6a-e438794f6ce2",
+    "external_id": "https://algotest.in/blog/what-is-volume-in-stock-market/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "88dfe5744d461bf81c2398f4bafdc80d1afd04c45bdf8747ebfb8e4df0f28799",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/regulated-otc-institutional-otc-desks-and-crypto-block-trades/",
+    "canonical": "https://www.bitgo.com/resources/blog/regulated-otc-institutional-otc-desks-and-crypto-block-trades/"
+  },
+  "title": "Regulated OTC: Institutional OTC Desks and Crypto Block Trades",
+  "summary": "Crypto OTC trading lets institutions execute large digital asset orders without showing the full trade on a public order book. The reason is to maximize execution quality.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:41.088269+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-07-28T21:20:51.371970+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/88/88dfe5744d461bf81c2398f4bafdc80d1afd04c45bdf8747ebfb8e4df0f28799/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/88/88dfe5744d461bf81c2398f4bafdc80d1afd04c45bdf8747ebfb8e4df0f28799/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15214,
+    "sha256": "sha256:ff960cbe35618fbede2f1489b38b9c2c647adb7abf67c4cf8a933e73855c8920",
+    "normalized_content_hash": "sha256:113fc35c59772a3e03b7d171a2c68c12002532a1212ed21a606ffbeb1030361b"
+  },
+  "provenance": {
+    "source_item_id": "71199704-8846-4f4c-bce6-a4de7a40c2ef",
+    "external_id": "https://www.bitgo.com/resources/blog/regulated-otc-institutional-otc-desks-and-crypto-block-trades/"
+  }
+}

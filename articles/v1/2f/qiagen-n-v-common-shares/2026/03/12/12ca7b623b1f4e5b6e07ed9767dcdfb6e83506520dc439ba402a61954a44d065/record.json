@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12ca7b623b1f4e5b6e07ed9767dcdfb6e83506520dc439ba402a61954a44d065",
+  "company": {
+    "key": "qiagen-n-v-common-shares",
+    "name": "Qiagen N.V. Common Shares"
+  },
+  "source": {
+    "id": "qiagen-n-v-common-shares-news-import-3382321b7330",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://digitalinsights.qiagen.com/news/blog/discovery/accurate-biomedical-knowledge-why-its-paramount-yet-elusive/",
+    "canonical": "https://digitalinsights.qiagen.com/news/blog/discovery/accurate-biomedical-knowledge-why-its-paramount-yet-elusive/"
+  },
+  "title": "Accurate biomedical knowledge: Why it's paramount, yet elusive",
+  "summary": "Ready for a powerful biomedical data source that outperforms off-the-shelf consumer search AI? Look no further. We've got the fit for you.",
+  "published_at": "2026-03-16T12:58:00+00:00",
+  "first_seen_at": "2026-07-25T20:20:54.342051+00:00",
+  "fetched_at": "2026-07-27T23:07:36.305258+00:00",
+  "last_updated_at": "2026-07-27T23:07:39.778983+00:00",
+  "paths": {
+    "article": "articles/v1/2f/qiagen-n-v-common-shares/2026/03/12/12ca7b623b1f4e5b6e07ed9767dcdfb6e83506520dc439ba402a61954a44d065/article.md",
+    "record": "articles/v1/2f/qiagen-n-v-common-shares/2026/03/12/12ca7b623b1f4e5b6e07ed9767dcdfb6e83506520dc439ba402a61954a44d065/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4349,
+    "sha256": "sha256:efea0ce4dc1357b57e77806c1113e32b46f0a1972b44e4cf751180a4021e7f7a",
+    "normalized_content_hash": "sha256:f8e03602b100dd980eb4a9c4e76f60ddf27271b0ee9417d3b9d8791703ee9cd0"
+  },
+  "provenance": {
+    "source_item_id": "f5f324a0-6436-417b-b4c3-89a80fb745f3",
+    "external_id": "https://digitalinsights.qiagen.com/news/blog/discovery/accurate-biomedical-knowledge-why-its-paramount-yet-elusive/"
+  }
+}

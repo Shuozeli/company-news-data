@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc59e064236e6a882400ab2f871e7e3c5b762c2fb0c6a583e61f108848f70392",
+  "company": {
+    "key": "teradata-corporation-common-stock",
+    "name": "Teradata Corporation Common Stock"
+  },
+  "source": {
+    "id": "teradata-corporation-common-stock-rss-a01259aa1ba4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.teradata.com/press-releases/2022/teradata-1000-node-test-operationalizes-complex-analytics-at-scale-in-the-cloud",
+    "canonical": "https://www.teradata.com/press-releases/2022/teradata-1000-node-test-operationalizes-complex-analytics-at-scale-in-the-cloud"
+  },
+  "title": "Teradata's 1,000 Node Test Operationalizes Complex Analytics at Scale in the Cloud",
+  "summary": "Teradata proves it can successfully operationalize analytics at scale on a single system of more than 1,000 nodes. Learn more about the results here.",
+  "published_at": "2022-02-10T08:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:06:58.521780+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-07-28T21:05:06.808787+00:00",
+  "paths": {
+    "article": "articles/v1/36/teradata-corporation-common-stock/2022/02/dc/dc59e064236e6a882400ab2f871e7e3c5b762c2fb0c6a583e61f108848f70392/article.md",
+    "record": "articles/v1/36/teradata-corporation-common-stock/2022/02/dc/dc59e064236e6a882400ab2f871e7e3c5b762c2fb0c6a583e61f108848f70392/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1167,
+    "sha256": "sha256:72128c23c55cd3654b74ecf55fc22a4c0bae23cdfdfbfe9f9628df41923b5441",
+    "normalized_content_hash": "sha256:01c59b231703447ea27e9d008325ac3605b353351070609b181217bdf3aadbd3"
+  },
+  "provenance": {
+    "source_item_id": "37bf8913-e32c-4b76-875e-6bd4afc64fcb",
+    "external_id": "https://www.teradata.com/press-releases/2022/teradata-1000-node-test-operationalizes-complex-analytics-at-scale-in-the-cloud"
+  }
+}

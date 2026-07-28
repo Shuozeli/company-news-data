@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c052b1867c47a35b82a47e19e788fed3abc60dcc42efbd144bc0a3902e2f1956",
+  "company": {
+    "key": "immunic-inc-common-stock",
+    "name": "Immunic Inc. Common Stock"
+  },
+  "source": {
+    "id": "immunic-inc-common-stock-news-import-bc70b831650b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://imux.com/immunic-announces-oversubscribed-private-placement-of-up-to-usd-400-million-to-accelerate-transformation-into-commercial-stage-company/",
+    "canonical": "https://imux.com/immunic-announces-oversubscribed-private-placement-of-up-to-usd-400-million-to-accelerate-transformation-into-commercial-stage-company/"
+  },
+  "title": "Immunic Announces Oversubscribed Private Placement of up to USD 400 Million to Accelerate Transformation into Commercial-Stage Company",
+  "summary": "NEW YORK, February 13, 2026 – Immunic, Inc.(Nasdaq: IMUX) today announced the pricing of a private placement with gross proceeds of up to USD 400 million priced at the market under Nasdaq rules.",
+  "published_at": "2026-02-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T09:19:11.387681+00:00",
+  "fetched_at": "2026-07-28T22:20:29.370610+00:00",
+  "last_updated_at": "2026-07-28T22:22:14.962881+00:00",
+  "paths": {
+    "article": "articles/v1/dc/immunic-inc-common-stock/2026/02/c0/c052b1867c47a35b82a47e19e788fed3abc60dcc42efbd144bc0a3902e2f1956/article.md",
+    "record": "articles/v1/dc/immunic-inc-common-stock/2026/02/c0/c052b1867c47a35b82a47e19e788fed3abc60dcc42efbd144bc0a3902e2f1956/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17159,
+    "sha256": "sha256:e8eaffb1eb09a92d84751faab6cab0f33bbd9f95d5979496b33d840563c2db61",
+    "normalized_content_hash": "sha256:2f874ff8b42a2454f340a98b1f5065d1615d6cdac777c1061173aefbf6edcb56"
+  },
+  "provenance": {
+    "source_item_id": "5217353a-dbf2-419b-8087-e801e3d0baa7",
+    "external_id": "https://imux.com/immunic-announces-oversubscribed-private-placement-of-up-to-usd-400-million-to-accelerate-transformation-into-commercial-stage-company/"
+  }
+}

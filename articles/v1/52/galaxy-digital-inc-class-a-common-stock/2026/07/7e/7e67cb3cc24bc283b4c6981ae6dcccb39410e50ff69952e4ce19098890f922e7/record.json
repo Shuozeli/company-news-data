@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e67cb3cc24bc283b4c6981ae6dcccb39410e50ff69952e4ce19098890f922e7",
+  "company": {
+    "key": "galaxy-digital-inc-class-a-common-stock",
+    "name": "Galaxy Digital Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "galaxy-digital-inc-class-a-common-stock-news-import-fbc635ef0517",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.galaxy.com/insights/research/ostium-left-an-opening-for-exploiters-and-24m-went-out-the-door",
+    "canonical": "https://www.galaxy.com/insights/research/ostium-left-an-opening-for-exploiters-and-24m-went-out-the-door"
+  },
+  "title": "Ostium Left an Opening for Exploiters and $24m Went Out the Door",
+  "summary": "Thieves made off with an estimated $23.75 million worth of the USDC stablecoin Wednesday after exploiting Ostium, a platform for synthetic trading of stocks, commodities, forex, and crypto onchain.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T06:07:02.932709+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:52.251675+00:00",
+  "paths": {
+    "article": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/7e/7e67cb3cc24bc283b4c6981ae6dcccb39410e50ff69952e4ce19098890f922e7/article.md",
+    "record": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/7e/7e67cb3cc24bc283b4c6981ae6dcccb39410e50ff69952e4ce19098890f922e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14247,
+    "sha256": "sha256:a482fa817868a800fb4cf715aebbfe21f76378cfa1b8fbc4040b9ffb23fd688d",
+    "normalized_content_hash": "sha256:b34070e8bd1fb6fc3116ee23742717ea6267b88aaf93b8e6ad7201c1da85003d"
+  },
+  "provenance": {
+    "source_item_id": "5a26d94f-bdd3-45ce-b5c7-9e1bbfbdbcd4",
+    "external_id": "https://www.galaxy.com/insights/research/ostium-left-an-opening-for-exploiters-and-24m-went-out-the-door"
+  }
+}

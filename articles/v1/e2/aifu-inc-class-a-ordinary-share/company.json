@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "aifu-inc-class-a-ordinary-share",
+    "name": "AIFU Inc. Class A Ordinary Share"
+  },
+  "record_count": 10,
+  "first_published_at": "2024-09-12T09:00:31+00:00",
+  "last_published_at": "2026-06-11T13:00:52+00:00",
+  "partitions": [
+    {
+      "partition": "2024-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ]
+}

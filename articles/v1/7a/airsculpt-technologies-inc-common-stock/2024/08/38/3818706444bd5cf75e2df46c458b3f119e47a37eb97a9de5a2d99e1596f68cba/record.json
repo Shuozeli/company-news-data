@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3818706444bd5cf75e2df46c458b3f119e47a37eb97a9de5a2d99e1596f68cba",
+  "company": {
+    "key": "airsculpt-technologies-inc-common-stock",
+    "name": "AirSculpt Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "airsculpt-technologies-inc-common-stock-news-import-70b2fc51658e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airsculpt.com/news/daily-mail-exclusive-this-painless-procedure-got-rid-of-my-double-chin/",
+    "canonical": "https://airsculpt.com/news/daily-mail-exclusive-this-painless-procedure-got-rid-of-my-double-chin/"
+  },
+  "title": "Daily Mail Exclusive: This Painless Procedure Got Rid of My Double Chin",
+  "summary": "UK-based Emma North underwent AirSculpt treatment costing £8,000 at a clinic on London's Harley Street to achieve a 'chiselled' jawline.",
+  "published_at": "2024-08-19T18:38:33+00:00",
+  "first_seen_at": "2026-07-26T21:35:44.534151+00:00",
+  "fetched_at": "2026-07-28T11:52:55.763452+00:00",
+  "last_updated_at": "2026-07-28T11:52:59.970487+00:00",
+  "paths": {
+    "article": "articles/v1/7a/airsculpt-technologies-inc-common-stock/2024/08/38/3818706444bd5cf75e2df46c458b3f119e47a37eb97a9de5a2d99e1596f68cba/article.md",
+    "record": "articles/v1/7a/airsculpt-technologies-inc-common-stock/2024/08/38/3818706444bd5cf75e2df46c458b3f119e47a37eb97a9de5a2d99e1596f68cba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6043,
+    "sha256": "sha256:f2b0f09852c2b743e0a42bb1a301bf8b058cf39d63864317873f48c978da521a",
+    "normalized_content_hash": "sha256:669badabf41d5a81d1295f84f7fafb52beacc7dd10debc06c602937254af39db"
+  },
+  "provenance": {
+    "source_item_id": "c0a2f807-5f39-43a5-8811-856864b72c58",
+    "external_id": "https://airsculpt.com/news/daily-mail-exclusive-this-painless-procedure-got-rid-of-my-double-chin/"
+  }
+}

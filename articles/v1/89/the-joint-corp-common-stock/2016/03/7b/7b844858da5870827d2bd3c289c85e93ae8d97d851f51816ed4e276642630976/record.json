@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b844858da5870827d2bd3c289c85e93ae8d97d851f51816ed4e276642630976",
+  "company": {
+    "key": "the-joint-corp-common-stock",
+    "name": "The Joint Corp. Common Stock"
+  },
+  "source": {
+    "id": "the-joint-corp-common-stock-news-import-285d501eb38b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.thejoint.com/blog/wellness/anti-inflammatory-diet-foods",
+    "canonical": "https://www.thejoint.com/blog/wellness/anti-inflammatory-diet-foods"
+  },
+  "title": "Everything You Need To Know About An Anti-Inflammatory Diet",
+  "summary": "Inflammation can shape how you move and recover. These anti-inflammation foods support an anti-inflammatory diet built for real life.",
+  "published_at": "2016-03-28T13:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:54:42.981803+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:34.645517+00:00",
+  "paths": {
+    "article": "articles/v1/89/the-joint-corp-common-stock/2016/03/7b/7b844858da5870827d2bd3c289c85e93ae8d97d851f51816ed4e276642630976/article.md",
+    "record": "articles/v1/89/the-joint-corp-common-stock/2016/03/7b/7b844858da5870827d2bd3c289c85e93ae8d97d851f51816ed4e276642630976/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27605,
+    "sha256": "sha256:e998f8d620aad73b8e0862baffa23afa987f1192e8f584d0782f975efba2934e",
+    "normalized_content_hash": "sha256:60e22fe08cb16fcb4bcec2364a53e42c8f6e72290a06f7b604ecb30505505472"
+  },
+  "provenance": {
+    "source_item_id": "c91c3b34-7df1-4302-8583-232592a7fe6b",
+    "external_id": "https://www.thejoint.com/blog/wellness/anti-inflammatory-diet-foods"
+  }
+}

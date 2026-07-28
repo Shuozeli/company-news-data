@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "724549f023bd329d74393c5f5aeb5e2002bddb5f28084cc3c28db23affd11d10",
+  "company": {
+    "key": "wafd-inc-depositary-shares",
+    "name": "WaFd Inc. Depositary Shares"
+  },
+  "source": {
+    "id": "wafd-inc-depositary-shares-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/community-support",
+    "canonical": "https://www.wafdbank.com/articles/community-support"
+  },
+  "title": "Local Community Bank Articles | WaFd Bank",
+  "summary": "Learn about WaFd Bank, a local community bank in 8 western states including Washington, Oregon, Idaho, Colorado, Utah, Arizona, New Mexico, and Texas.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T05:02:34.283464+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:56.298352+00:00",
+  "paths": {
+    "article": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/72/724549f023bd329d74393c5f5aeb5e2002bddb5f28084cc3c28db23affd11d10/article.md",
+    "record": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/72/724549f023bd329d74393c5f5aeb5e2002bddb5f28084cc3c28db23affd11d10/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 922,
+    "sha256": "sha256:9907f5c077094f45bd036db8bff2d535383fb3c07c0965d915857deccd219954",
+    "normalized_content_hash": "sha256:2ae3abdbb24a157c7998f3f6e2f62b65fb78f8449e1ccfb32697db696d3f199d"
+  },
+  "provenance": {
+    "source_item_id": "7058f958-b014-414d-a282-6ef23b6012db",
+    "external_id": "https://www.wafdbank.com/articles/community-support"
+  }
+}

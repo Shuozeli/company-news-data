@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d14a7dded090bcb60c3ea22eacc31d055ae9f1f99502f7548c21c6186db2c4e2",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/how-does-the-nist-standardization-process-work",
+    "canonical": "https://www.btq.tech/blog/how-does-the-nist-standardization-process-work"
+  },
+  "title": "How does the NIST Standardization Process Work?",
+  "summary": "The arrival of quantum computing is thrilling for the value it can provide worldwide, with near-term impacts on materials, chemistry, and fundamental physics. But with great power does come great responsibility. Quantum computers can also break down our safeguards in our digital world using Shor’s Algorithm to break RSA and ECC cryptography, which protects most of our digital communication. With the latest progress with increasing quantum bit (qubit) counts and reduction of the number of qubits",
+  "published_at": "2023-11-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:02.696222+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2023/11/d1/d14a7dded090bcb60c3ea22eacc31d055ae9f1f99502f7548c21c6186db2c4e2/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2023/11/d1/d14a7dded090bcb60c3ea22eacc31d055ae9f1f99502f7548c21c6186db2c4e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11163,
+    "sha256": "sha256:e18e0e1a9f37e80ecf0a26c31395e1aad991bdfaf056dda66680181a6a509828",
+    "normalized_content_hash": "sha256:261fe5b92d53e5d0702e1df30ff6d41619a2bf703b0c1edc369d9ec0a3114028"
+  },
+  "provenance": {
+    "source_item_id": "36a59ee0-0de6-478d-acd3-f0a9d2818571",
+    "external_id": "https://www.btq.tech/blog/how-does-the-nist-standardization-process-work"
+  }
+}

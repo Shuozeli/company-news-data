@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e213072bc8244c959c134e02191e064758143a58e3c69dc027523483aaf97c8",
+  "company": {
+    "key": "yc-rejot",
+    "name": "ReJot"
+  },
+  "source": {
+    "id": "yc-rejot-news-import-01598ccac029",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rejot.dev/blog/2025-01-24_burdens-of-data/",
+    "canonical": "https://rejot.dev/blog/2025-01-24_burdens-of-data/"
+  },
+  "title": "The Burdens of Data",
+  "summary": "Although the value of data is clear, not everyone within organizations is equally happy to handle data. This article explores better ways for software engineers to manage and publish data.",
+  "published_at": "2025-01-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T11:22:58.242135+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:34.473830+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-rejot/2025/01/9e/9e213072bc8244c959c134e02191e064758143a58e3c69dc027523483aaf97c8/article.md",
+    "record": "articles/v1/62/yc-rejot/2025/01/9e/9e213072bc8244c959c134e02191e064758143a58e3c69dc027523483aaf97c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18579,
+    "sha256": "sha256:6526cabf627f5718bf153c361360870d04a667e2b8f55fdbd9bbfdda7be27fcf",
+    "normalized_content_hash": "sha256:f2b6328698eea3e69bf2073fa492840f46f3dc85ea8f601737bed57538f367dc"
+  },
+  "provenance": {
+    "source_item_id": "b03fb9ce-e419-4812-bdb0-4d2785279ea1",
+    "external_id": "https://rejot.dev/blog/2025-01-24_burdens-of-data/"
+  }
+}

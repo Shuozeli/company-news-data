@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c24156bb81658f7c68019ed5bb0741e86b3411f23317f5cf35e2200b67d5636",
+  "company": {
+    "key": "yc-axiom-ai",
+    "name": "Axiom.ai"
+  },
+  "source": {
+    "id": "yc-axiom-ai-news-import-c535b3e44cdf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://axiom.ai/blog/mastering-xpath-selectors/",
+    "canonical": "https://axiom.ai/blog/mastering-xpath-selectors"
+  },
+  "title": "Mastering XPath Selectors",
+  "summary": "",
+  "published_at": "2025-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:24:24.051508+00:00",
+  "fetched_at": "2026-07-28T21:59:46.813241+00:00",
+  "last_updated_at": "2026-07-28T22:00:07.407195+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-axiom-ai/2025/07/2c/2c24156bb81658f7c68019ed5bb0741e86b3411f23317f5cf35e2200b67d5636/article.md",
+    "record": "articles/v1/7c/yc-axiom-ai/2025/07/2c/2c24156bb81658f7c68019ed5bb0741e86b3411f23317f5cf35e2200b67d5636/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9688,
+    "sha256": "sha256:1c78397e2d1ed5472e3e2ec058923a9afc72c0b6bf57b09ddf335c96460c4c82",
+    "normalized_content_hash": "sha256:1bb64a6061a17bc341d10d608b7a9b6a83757e35576e0ac869ce59b70f8a4eb5"
+  },
+  "provenance": {
+    "source_item_id": "4b2476c5-2626-4e76-87b8-648a6e28b9e4",
+    "external_id": "https://axiom.ai/blog/mastering-xpath-selectors"
+  }
+}

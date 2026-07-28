@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09daef5e76e25d467384332b91147709976ed3c0b705014c9dd5a9dc3eff1ef6",
+  "company": {
+    "key": "smith-micro-software-inc-common-stock",
+    "name": "Smith Micro Software Inc. Common Stock"
+  },
+  "source": {
+    "id": "smith-micro-software-inc-common-stock-news-import-b4a9963a09cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.smithmicro.com/press-releases/2026/03/04/smith-micro-announces-investment-led-by-ceo-and-founder-bill-smith/",
+    "canonical": "https://www.smithmicro.com/press-releases/2026/03/04/smith-micro-announces-investment-led-by-ceo-and-founder-bill-smith/"
+  },
+  "title": "Smith Micro Announces Investment Led by CEO and Founder, Bill Smith",
+  "summary": "Smith Micro announces anticipated gross financing proceeds totaling $4.9 million",
+  "published_at": "2026-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:51:11.899355+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:41.960702+00:00",
+  "paths": {
+    "article": "articles/v1/d2/smith-micro-software-inc-common-stock/2026/03/09/09daef5e76e25d467384332b91147709976ed3c0b705014c9dd5a9dc3eff1ef6/article.md",
+    "record": "articles/v1/d2/smith-micro-software-inc-common-stock/2026/03/09/09daef5e76e25d467384332b91147709976ed3c0b705014c9dd5a9dc3eff1ef6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7125,
+    "sha256": "sha256:bbc8a1af7c00837c34c6595b542a41473cb53167679ec8a24bb76af510a5fb2e",
+    "normalized_content_hash": "sha256:a256f085b573626c052e1bb4a48d88a43aada5164d4474057839caacfdf5003f"
+  },
+  "provenance": {
+    "source_item_id": "bf56c69a-0e5c-410b-a640-4d46240e64f8",
+    "external_id": "https://www.smithmicro.com/press-releases/2026/03/04/smith-micro-announces-investment-led-by-ceo-and-founder-bill-smith/"
+  }
+}

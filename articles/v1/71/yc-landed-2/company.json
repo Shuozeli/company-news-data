@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-landed-2",
+    "name": "Landed"
+  },
+  "record_count": 24,
+  "first_published_at": "2022-04-07T00:00:00+00:00",
+  "last_published_at": "2024-12-05T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    }
+  ]
+}

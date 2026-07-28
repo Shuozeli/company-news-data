@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "amylyx-pharmaceuticals-inc-common-stock",
+    "name": "Amylyx Pharmaceuticals Inc. Common Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2025-10-09T04:36:27+00:00",
+  "last_published_at": "2026-06-24T09:59:52+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    }
+  ]
+}

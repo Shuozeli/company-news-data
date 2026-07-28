@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cb3d7366fc640a99f4604a3aac17e70d232cd5d838bee7e381c5b1e0c46a5f66",
+  "company": {
+    "key": "yc-metal",
+    "name": "Metal"
+  },
+  "source": {
+    "id": "yc-metal-news-import-c3e62a577482",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.metal.ai/blog/understanding-knowledge-graph",
+    "canonical": "https://www.metal.ai/blog/understanding-knowledge-graph"
+  },
+  "title": "Your Firm Has Evaluated 500 Deals. What Did It Learn?",
+  "summary": "AI platform for Private Equity diligence — aggregate deal data, deploy custom AI workflows, and transform fund knowledge into proprietary intelligence.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T17:36:18.798245+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:59.741599+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-metal/2026/07/cb/cb3d7366fc640a99f4604a3aac17e70d232cd5d838bee7e381c5b1e0c46a5f66/article.md",
+    "record": "articles/v1/3a/yc-metal/2026/07/cb/cb3d7366fc640a99f4604a3aac17e70d232cd5d838bee7e381c5b1e0c46a5f66/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7727,
+    "sha256": "sha256:aabca2c0252600e643e43b9dcb936571584ece3db89dd5e3d02aeadc657aec3e",
+    "normalized_content_hash": "sha256:94dd0009e3b2258dfc8c8660abde58733606cb34cb070cafb545423814e8bd4e"
+  },
+  "provenance": {
+    "source_item_id": "dc131fc5-71f3-4041-bb5e-e5c18b69de36",
+    "external_id": "https://www.metal.ai/blog/understanding-knowledge-graph"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "80feee100c3ddbe748780b5c9ed39e9de7c02772954470fbfc8a426e555aba86",
+  "company": {
+    "key": "kla-corporation-common-stock",
+    "name": "KLA Corporation Common Stock"
+  },
+  "source": {
+    "id": "kla-corporation-common-stock-rss-6c8ecf8b67a5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.kla.com/news-events/press-releases/detail/510/kla-declares-regular-cash-dividend",
+    "canonical": "https://ir.kla.com/news-events/press-releases/detail/510/kla-declares-regular-cash-dividend"
+  },
+  "title": "KLA Declares Regular Cash Dividend",
+  "summary": "",
+  "published_at": "2026-02-05T22:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:10.240406+00:00",
+  "fetched_at": "2026-07-28T22:21:29.279891+00:00",
+  "last_updated_at": "2026-07-28T22:23:02.005671+00:00",
+  "paths": {
+    "article": "articles/v1/8e/kla-corporation-common-stock/2026/02/80/80feee100c3ddbe748780b5c9ed39e9de7c02772954470fbfc8a426e555aba86/article.md",
+    "record": "articles/v1/8e/kla-corporation-common-stock/2026/02/80/80feee100c3ddbe748780b5c9ed39e9de7c02772954470fbfc8a426e555aba86/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2077,
+    "sha256": "sha256:d48e24e58ecab3e8ee09875111808907227e4641ee83859e380fcda8c365ca88",
+    "normalized_content_hash": "sha256:6bb513282bd0c14018ceedfc2677fc5b00dd489d7053cca0a19759cfdff4e2fb"
+  },
+  "provenance": {
+    "source_item_id": "af6e1142-105d-4500-a09c-8c5d4dc68831",
+    "external_id": "https://ir.kla.com/news-events/press-releases/detail/510/kla-declares-regular-cash-dividend"
+  }
+}

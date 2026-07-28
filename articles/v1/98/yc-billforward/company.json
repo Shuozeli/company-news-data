@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-billforward",
+    "name": "Billforward"
+  },
+  "record_count": 10,
+  "first_published_at": "2022-06-17T04:00:00+00:00",
+  "last_published_at": "2023-12-21T12:48:23+00:00",
+  "partitions": [
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 3
+    }
+  ]
+}

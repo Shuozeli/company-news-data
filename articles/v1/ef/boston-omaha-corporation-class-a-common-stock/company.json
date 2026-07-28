@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "boston-omaha-corporation-class-a-common-stock",
+    "name": "Boston Omaha Corporation Class A Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2024-01-17T15:51:57+00:00",
+  "last_published_at": "2025-04-15T20:01:07+00:00",
+  "partitions": [
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    }
+  ]
+}

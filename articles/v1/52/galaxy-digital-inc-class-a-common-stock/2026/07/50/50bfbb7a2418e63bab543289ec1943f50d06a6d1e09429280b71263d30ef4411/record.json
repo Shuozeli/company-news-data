@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50bfbb7a2418e63bab543289ec1943f50d06a6d1e09429280b71263d30ef4411",
+  "company": {
+    "key": "galaxy-digital-inc-class-a-common-stock",
+    "name": "Galaxy Digital Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "galaxy-digital-inc-class-a-common-stock-news-import-fbc635ef0517",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.galaxy.com/insights/research/ethereum-foundation-layoffs-20-percent-workforce-third-iteration-2026",
+    "canonical": "https://www.galaxy.com/insights/research/ethereum-foundation-layoffs-20-percent-workforce-third-iteration-2026"
+  },
+  "title": "Ethereum Foundation Cuts 20% of Workforce as Chain Enters ‘Third Iteration’",
+  "summary": "The cuts represent what we view as a deliberate reset toward a leaner foundation focused on protocol development and neutrality, with adoption and growth handed to a new set of ETH-aligned organizations.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T06:07:02.932709+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:52.102723+00:00",
+  "paths": {
+    "article": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/50/50bfbb7a2418e63bab543289ec1943f50d06a6d1e09429280b71263d30ef4411/article.md",
+    "record": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/50/50bfbb7a2418e63bab543289ec1943f50d06a6d1e09429280b71263d30ef4411/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22343,
+    "sha256": "sha256:63829fd20526fdf8365bba9046b11b725fd962fa34e37b291ce98b5ebb6b78f2",
+    "normalized_content_hash": "sha256:66e8b3bea72a1a4b7e7ebacf38bc29ab778d5becdbb05a146f665312893fae1f"
+  },
+  "provenance": {
+    "source_item_id": "4370ccdd-6f56-44f7-b0be-69379f604ecf",
+    "external_id": "https://www.galaxy.com/insights/research/ethereum-foundation-layoffs-20-percent-workforce-third-iteration-2026"
+  }
+}

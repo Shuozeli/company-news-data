@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "723b996fd05a4a3c5033b157608d088848cf2a0a2bc6db984fa06a3f89e0ce5b",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-e3018e454ae6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/design-hub/blog/smarter-power-for-smarter-vision-powering-socs-and-ai-processors",
+    "canonical": "https://www.qorvo.com/design-hub/blog/smarter-power-for-smarter-vision-powering-socs-and-ai-processors"
+  },
+  "title": "Smarter Power for Smarter Vision: Powering SoCs and AI Processors",
+  "summary": "Highly integrated PMICs enable AI-enabled SoCs to deliver advanced machine vision, edge intelligence and long battery life—without sacrificing size, efficiency or performance.",
+  "published_at": "2026-02-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:14:16.870814+00:00",
+  "fetched_at": "2026-07-28T22:20:18.906160+00:00",
+  "last_updated_at": "2026-07-28T22:20:46.233702+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/02/72/723b996fd05a4a3c5033b157608d088848cf2a0a2bc6db984fa06a3f89e0ce5b/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/02/72/723b996fd05a4a3c5033b157608d088848cf2a0a2bc6db984fa06a3f89e0ce5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11552,
+    "sha256": "sha256:10d85953b25a9b11e2685435177657814db7a991aaa1c08335e1a4c378cf8a64",
+    "normalized_content_hash": "sha256:22e76d9af926c3297c3e3ac030c3262abe275644df47827a1592b8edef22f84e"
+  },
+  "provenance": {
+    "source_item_id": "75e3067a-b46e-46d4-b93e-44e73e5a7460",
+    "external_id": "https://www.qorvo.com/design-hub/blog/smarter-power-for-smarter-vision-powering-socs-and-ai-processors"
+  }
+}

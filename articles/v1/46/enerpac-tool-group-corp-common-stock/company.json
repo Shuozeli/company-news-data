@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "enerpac-tool-group-corp-common-stock",
+    "name": "Enerpac Tool Group Corp. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-02-03T10:18:33+00:00",
+  "last_published_at": "2026-04-30T13:16:03+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    }
+  ]
+}

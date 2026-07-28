@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61a4313361c3e1efdb33e1e500f554fa00a87b882d673daf1ba1a6158ee4c254",
+  "company": {
+    "key": "yc-emdash",
+    "name": "Emdash"
+  },
+  "source": {
+    "id": "yc-emdash-news-import-f97630886411",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://emdash.ai/blog/emdash-v1-stable",
+    "canonical": "https://emdash.ai/blog/emdash-v1-stable"
+  },
+  "title": "Emdash v1",
+  "summary": "The stable release of Emdash v1 for macOS, Windows, and Linux.",
+  "published_at": "2026-04-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T17:59:11.363639+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-07-28T21:26:12.633651+00:00",
+  "paths": {
+    "article": "articles/v1/51/yc-emdash/2026/04/61/61a4313361c3e1efdb33e1e500f554fa00a87b882d673daf1ba1a6158ee4c254/article.md",
+    "record": "articles/v1/51/yc-emdash/2026/04/61/61a4313361c3e1efdb33e1e500f554fa00a87b882d673daf1ba1a6158ee4c254/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2831,
+    "sha256": "sha256:66973d4b220bfa61a3088c6cba9157529cdac55d003ee65a25964f2f6277944e",
+    "normalized_content_hash": "sha256:1ebc2844fc895329183a2120e5aa7628ad8ebe2f5ec5da1f55254b6b29fd54b1"
+  },
+  "provenance": {
+    "source_item_id": "af6c70ec-3068-42aa-b037-89a8a7051e4e",
+    "external_id": "https://emdash.ai/blog/emdash-v1-stable"
+  }
+}

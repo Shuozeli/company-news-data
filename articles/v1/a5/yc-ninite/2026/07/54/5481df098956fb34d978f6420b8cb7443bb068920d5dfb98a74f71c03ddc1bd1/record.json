@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5481df098956fb34d978f6420b8cb7443bb068920d5dfb98a74f71c03ddc1bd1",
+  "company": {
+    "key": "yc-ninite",
+    "name": "Ninite"
+  },
+  "source": {
+    "id": "yc-ninite-rss-629553105472",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ninite.com/firefox/",
+    "canonical": "https://ninite.com/firefox/"
+  },
+  "title": "Firefox updated to 152.0.6.",
+  "summary": "",
+  "published_at": "2026-07-15T19:58:59+00:00",
+  "first_seen_at": "2026-07-25T16:20:56.315803+00:00",
+  "fetched_at": "2026-07-28T20:51:42.131550+00:00",
+  "last_updated_at": "2026-07-28T20:51:42.222078+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-ninite/2026/07/54/5481df098956fb34d978f6420b8cb7443bb068920d5dfb98a74f71c03ddc1bd1/article.md",
+    "record": "articles/v1/a5/yc-ninite/2026/07/54/5481df098956fb34d978f6420b8cb7443bb068920d5dfb98a74f71c03ddc1bd1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 500,
+    "sha256": "sha256:35f95c2483ea8e9b7073169ec71549d985098f8734f2631182eeebbaf7cb11ac",
+    "normalized_content_hash": "sha256:5a27163e6ecdb38d807dfc7903c514e1770caf4ca77defec87321b171e76457c"
+  },
+  "provenance": {
+    "source_item_id": "23304655-aa69-48a2-9f79-a73746ee4fad",
+    "external_id": "32d9f3ffad2d2a283150e4a71d7aa039"
+  }
+}

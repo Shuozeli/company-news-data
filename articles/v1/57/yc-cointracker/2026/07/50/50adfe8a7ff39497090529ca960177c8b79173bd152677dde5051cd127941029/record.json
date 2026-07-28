@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50adfe8a7ff39497090529ca960177c8b79173bd152677dde5051cd127941029",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-8eddc0d2ffc8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/what-is-an-oco-order",
+    "canonical": "https://www.cointracker.io/blog/what-is-an-oco-order"
+  },
+  "title": "What is an OCO order? How it works in crypto trading",
+  "summary": "Trade crypto smarter with OCO orders – limit losses while locking in gains at the same time. Learn how to optimize your trades with this powerful tool.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T11:57:28.919777+00:00",
+  "fetched_at": "2026-07-28T15:50:30.558354+00:00",
+  "last_updated_at": "2026-07-28T15:50:39.307588+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2026/07/50/50adfe8a7ff39497090529ca960177c8b79173bd152677dde5051cd127941029/article.md",
+    "record": "articles/v1/57/yc-cointracker/2026/07/50/50adfe8a7ff39497090529ca960177c8b79173bd152677dde5051cd127941029/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11335,
+    "sha256": "sha256:f9c25ea07a102de903228c1899ab4ded05b505ccaf667cb80cba279d60b97b8f",
+    "normalized_content_hash": "sha256:019b4cf02da321aa311ee7b6293e976012ab40b9aa9569c6296b4f55fce16452"
+  },
+  "provenance": {
+    "source_item_id": "930538d2-f620-4fed-a3f6-ab58b29b3d2a",
+    "external_id": "https://www.cointracker.io/blog/what-is-an-oco-order"
+  }
+}

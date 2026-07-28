@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6e635b9ffb65c0aeae106564272a8e54dc0ff821435273b4e19959aec9c761ed",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/research/forrester-market-insights/",
+    "canonical": "https://www.forrester.com/research/forrester-market-insights/"
+  },
+  "title": "Forrester Market Insights",
+  "summary": "Get forward-looking insights and objective advice on the market, your buyers, and your competitors. Explore Forrester Market Insights for business leaders.",
+  "published_at": "2021-05-02T21:36:53+00:00",
+  "first_seen_at": "2026-07-27T02:48:29.914160+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.040442+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2021/05/6e/6e635b9ffb65c0aeae106564272a8e54dc0ff821435273b4e19959aec9c761ed/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2021/05/6e/6e635b9ffb65c0aeae106564272a8e54dc0ff821435273b4e19959aec9c761ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1766,
+    "sha256": "sha256:f74f448a0f75a54c2a1e5692816cfefccb2f8daa0e8b55b8d2b9cb6942935482",
+    "normalized_content_hash": "sha256:6be0d16b98a9d95f53af6c80a07ed516aa014a142c2bff67f1203927f47f3187"
+  },
+  "provenance": {
+    "source_item_id": "0dd145b6-205c-491a-96c5-eb24dfe5b390",
+    "external_id": "https://www.forrester.com/research/forrester-market-insights/"
+  }
+}

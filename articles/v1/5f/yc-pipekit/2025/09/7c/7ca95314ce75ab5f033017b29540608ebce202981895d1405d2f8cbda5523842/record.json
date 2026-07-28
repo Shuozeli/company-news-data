@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ca95314ce75ab5f033017b29540608ebce202981895d1405d2f8cbda5523842",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/quick-guide-argo-events",
+    "canonical": "https://homepage.pipekit.io/blog/quick-guide-argo-events"
+  },
+  "title": "A Quick Guide to Argo Events",
+  "summary": "An intro to the event-driven workflow automation engine for k8s, Argo Events, covering installation, setup, and usage examples.",
+  "published_at": "2025-09-11T19:31:40+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T21:59:45.283870+00:00",
+  "last_updated_at": "2026-07-28T22:00:08.787671+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2025/09/7c/7ca95314ce75ab5f033017b29540608ebce202981895d1405d2f8cbda5523842/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2025/09/7c/7ca95314ce75ab5f033017b29540608ebce202981895d1405d2f8cbda5523842/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11698,
+    "sha256": "sha256:214306ca57cc74d794911b6ca6afdf4b002b8752ae73b49b431bb194aeda7267",
+    "normalized_content_hash": "sha256:9c071a06f8adba605807747027b4967e1c27ad7089fcb26b2115bb22362d72bc"
+  },
+  "provenance": {
+    "source_item_id": "bc20619d-7a90-4253-be9c-47f14f862f02",
+    "external_id": "https://homepage.pipekit.io/blog/quick-guide-argo-events"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fa97a150c3987e74fc42f5209aa5374e95b5879822727c6a381738be9fe18ad7",
+  "company": {
+    "key": "osi-systems-inc-common-stock-de",
+    "name": "OSI Systems Inc. Common Stock (DE)"
+  },
+  "source": {
+    "id": "osi-systems-inc-common-stock-de-news-import-9409c2dadede",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-receives-37-million-order-to-provide-rf-based-solutions",
+    "canonical": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-receives-37-million-order-to-provide-rf-based-solutions"
+  },
+  "title": "OSI Systems Receives $37 Million Order to Provide RF-based Solutions",
+  "summary": "",
+  "published_at": "2025-10-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T19:25:49.220370+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:59.163346+00:00",
+  "paths": {
+    "article": "articles/v1/ae/osi-systems-inc-common-stock-de/2025/10/fa/fa97a150c3987e74fc42f5209aa5374e95b5879822727c6a381738be9fe18ad7/article.md",
+    "record": "articles/v1/ae/osi-systems-inc-common-stock-de/2025/10/fa/fa97a150c3987e74fc42f5209aa5374e95b5879822727c6a381738be9fe18ad7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4164,
+    "sha256": "sha256:aa732dee38ea7e00114bd244a58ca3738a3ba280cb2d0dd4b69acbb2876c61c1",
+    "normalized_content_hash": "sha256:8598b45af58a205c937512b24753beba18823472128085d2117a4371cc621e40"
+  },
+  "provenance": {
+    "source_item_id": "90c43f95-db51-4713-b21c-112a568dd78b",
+    "external_id": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-receives-37-million-order-to-provide-rf-based-solutions"
+  }
+}

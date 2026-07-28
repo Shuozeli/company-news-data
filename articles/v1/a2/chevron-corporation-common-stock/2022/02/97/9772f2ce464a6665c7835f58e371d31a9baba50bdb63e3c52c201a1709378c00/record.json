@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9772f2ce464a6665c7835f58e371d31a9baba50bdb63e3c52c201a1709378c00",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/our-operations",
+    "canonical": "https://www.chevron.com/newsroom/our-operations"
+  },
+  "title": "Our Operations Newsroom",
+  "summary": "Find the latest news on our operations. Learn about our projects that help bring affordable, reliable, ever-cleaner energy to the world.",
+  "published_at": "2022-02-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2022/02/97/9772f2ce464a6665c7835f58e371d31a9baba50bdb63e3c52c201a1709378c00/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2022/02/97/9772f2ce464a6665c7835f58e371d31a9baba50bdb63e3c52c201a1709378c00/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5026,
+    "sha256": "sha256:9eb67a287420de1789a6cabdbfc298bea46e32cdafbad2babf753894c2f8dbca",
+    "normalized_content_hash": "sha256:3600d6c741b9138444bb251de90e53e302f02965aa6203c402ea34120b9c2854"
+  },
+  "provenance": {
+    "source_item_id": "63c43f3d-ed6d-4d54-b1ff-43bddb326d52",
+    "external_id": "https://www.chevron.com/newsroom/our-operations"
+  }
+}

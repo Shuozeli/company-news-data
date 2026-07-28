@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6536dc300764c3b4430a619d10fd6913ad4606d2b27d83859630f4d19d7a8fbf",
+  "company": {
+    "key": "kla-corporation-common-stock",
+    "name": "KLA Corporation Common Stock"
+  },
+  "source": {
+    "id": "kla-corporation-common-stock-rss-6c8ecf8b67a5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.kla.com/news-events/press-releases/detail/512/kla-hosts-investor-day-announces-7-billion-share",
+    "canonical": "https://ir.kla.com/news-events/press-releases/detail/512/kla-hosts-investor-day-announces-7-billion-share"
+  },
+  "title": "KLA Hosts Investor Day; Announces $7 Billion Share Repurchase Program and 21% Increase to Quarterly Dividend; Reaffirms March 2026 Guidance",
+  "summary": "",
+  "published_at": "2026-03-12T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:10.240406+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:14.574652+00:00",
+  "paths": {
+    "article": "articles/v1/8e/kla-corporation-common-stock/2026/03/65/6536dc300764c3b4430a619d10fd6913ad4606d2b27d83859630f4d19d7a8fbf/article.md",
+    "record": "articles/v1/8e/kla-corporation-common-stock/2026/03/65/6536dc300764c3b4430a619d10fd6913ad4606d2b27d83859630f4d19d7a8fbf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11120,
+    "sha256": "sha256:8ed0afb5f681a9ef312890a23483d8bb775d9f29c3cafaef9d9b1e582abbd4c2",
+    "normalized_content_hash": "sha256:b9221d4f80db7fbaae73abb666b0df1308a5513c0ec25e49b12e1281e9c8e4bc"
+  },
+  "provenance": {
+    "source_item_id": "d13fe31d-9c7c-4b9f-8504-0e35cfd5e5bb",
+    "external_id": "https://ir.kla.com/news-events/press-releases/detail/512/kla-hosts-investor-day-announces-7-billion-share"
+  }
+}

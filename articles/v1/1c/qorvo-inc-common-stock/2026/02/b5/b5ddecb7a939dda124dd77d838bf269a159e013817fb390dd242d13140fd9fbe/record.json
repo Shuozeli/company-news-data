@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b5ddecb7a939dda124dd77d838bf269a159e013817fb390dd242d13140fd9fbe",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-e3018e454ae6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/design-hub/blog/a-cautionary-tale-of-beamforming",
+    "canonical": "https://www.qorvo.com/design-hub/blog/a-cautionary-tale-of-beamforming"
+  },
+  "title": "Brent's Musings: Beamforming, SATCOM and the Curious Case of Captain Spork",
+  "summary": "With LEO satellites swarming overhead, beamforming is the thin line between seamless links and space-age mayhem. Dive into how phase alignment, fast handoffs and electronic steering keep SATCOM terminals steady—and prevent Captain Spork moments.",
+  "published_at": "2026-02-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:14:16.870814+00:00",
+  "fetched_at": "2026-07-28T22:22:47.419354+00:00",
+  "last_updated_at": "2026-07-28T22:23:01.502270+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/02/b5/b5ddecb7a939dda124dd77d838bf269a159e013817fb390dd242d13140fd9fbe/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/02/b5/b5ddecb7a939dda124dd77d838bf269a159e013817fb390dd242d13140fd9fbe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5102,
+    "sha256": "sha256:7669d6966cc317d67e0971a6a70108a613b0da542e2f38d76f27ca34c2bcba13",
+    "normalized_content_hash": "sha256:fe9ac0082e24a4338fb40a4c5c18ea43391910c85f04c63f45ef8219316152a2"
+  },
+  "provenance": {
+    "source_item_id": "4c55b427-7e58-4c61-be4f-116c761112a8",
+    "external_id": "https://www.qorvo.com/design-hub/blog/a-cautionary-tale-of-beamforming"
+  }
+}

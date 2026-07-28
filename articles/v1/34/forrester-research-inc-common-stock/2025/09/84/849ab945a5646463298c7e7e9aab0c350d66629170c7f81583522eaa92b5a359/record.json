@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "849ab945a5646463298c7e7e9aab0c350d66629170c7f81583522eaa92b5a359",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/research/wave/",
+    "canonical": "https://www.forrester.com/research/wave/"
+  },
+  "title": "The Forrester Wave™",
+  "summary": "Find the right technology and services partners for your business with Forrester’s trusted, validated analysis. Learn more about our flagship report.",
+  "published_at": "2025-09-22T18:33:55+00:00",
+  "first_seen_at": "2026-07-27T02:48:29.914160+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:55.005336+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2025/09/84/849ab945a5646463298c7e7e9aab0c350d66629170c7f81583522eaa92b5a359/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2025/09/84/849ab945a5646463298c7e7e9aab0c350d66629170c7f81583522eaa92b5a359/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2325,
+    "sha256": "sha256:e9f710b387a9ac724fb5fe47241f7f0119167201e09f48032d723765c8875bc8",
+    "normalized_content_hash": "sha256:20792c2125e5e0dd13db68e6854e7b7ab1e74d3bbc7521af8cb7e23b940d3f3a"
+  },
+  "provenance": {
+    "source_item_id": "243a52d5-cca2-44c5-8aa1-8885736d26a0",
+    "external_id": "https://www.forrester.com/research/wave/"
+  }
+}

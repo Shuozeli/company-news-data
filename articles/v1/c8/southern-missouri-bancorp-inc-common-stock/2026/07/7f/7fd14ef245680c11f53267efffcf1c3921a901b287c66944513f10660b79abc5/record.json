@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7fd14ef245680c11f53267efffcf1c3921a901b287c66944513f10660b79abc5",
+  "company": {
+    "key": "southern-missouri-bancorp-inc-common-stock",
+    "name": "Southern Missouri Bancorp Inc. Common Stock"
+  },
+  "source": {
+    "id": "southern-missouri-bancorp-inc-common-stock-news-import-52af38627077",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bankwithsouthern.com/news/nice_profile_pic_scammers/",
+    "canonical": "https://www.bankwithsouthern.com/news/nice_profile_pic_scammers/"
+  },
+  "title": "Why Scammers Want to Paint Your Profile Pic | Southern Bank",
+  "summary": "Got a message from someone praising your profile pic and offering to pay you to paint it? Don’t believe them – it’s a scam.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T01:27:46.326277+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:54.742286+00:00",
+  "paths": {
+    "article": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/7f/7fd14ef245680c11f53267efffcf1c3921a901b287c66944513f10660b79abc5/article.md",
+    "record": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/7f/7fd14ef245680c11f53267efffcf1c3921a901b287c66944513f10660b79abc5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2236,
+    "sha256": "sha256:3a03c9c9512cdbe3accda2fb5f3f5c9a705902022bc2735b0826b6b57a4d9a0d",
+    "normalized_content_hash": "sha256:1f5baa84fb8f5b1d46085ba3365507ad7f138568855ce7439d93643dd44b97bc"
+  },
+  "provenance": {
+    "source_item_id": "4c48fe29-f7c8-40d2-add4-7faa4b3f9b09",
+    "external_id": "https://www.bankwithsouthern.com/news/nice_profile_pic_scammers/"
+  }
+}

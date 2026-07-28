@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff2aabd01ba5da2944964f38aead335ab23070077d9862eeac72dd4e29eaf883",
+  "company": {
+    "key": "shake-shack-inc-class-a-common-stock",
+    "name": "Shake Shack Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "shake-shack-inc-class-a-common-stock-rss-d9ffffb10238",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.shakeshack.com/press-releases/press-release-details/2026/Shake-Shack-to-Participate-in-Upcoming-March-Investor-Conferences/default.aspx",
+    "canonical": "https://investor.shakeshack.com/press-releases/press-release-details/2026/Shake-Shack-to-Participate-in-Upcoming-March-Investor-Conferences/default.aspx"
+  },
+  "title": "Shake Shack to Participate in Upcoming March Investor Conferences",
+  "summary": "",
+  "published_at": "2026-03-03T13:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:45:04.685271+00:00",
+  "fetched_at": "2026-07-28T20:33:39.187532+00:00",
+  "last_updated_at": "2026-07-28T20:33:39.230963+00:00",
+  "paths": {
+    "article": "articles/v1/91/shake-shack-inc-class-a-common-stock/2026/03/ff/ff2aabd01ba5da2944964f38aead335ab23070077d9862eeac72dd4e29eaf883/article.md",
+    "record": "articles/v1/91/shake-shack-inc-class-a-common-stock/2026/03/ff/ff2aabd01ba5da2944964f38aead335ab23070077d9862eeac72dd4e29eaf883/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 748,
+    "sha256": "sha256:90346f0b5dd929d4dc7a1fe3d633ada71dd8db9a368c3d9b3359bfd9882fa30a",
+    "normalized_content_hash": "sha256:a6094656a1c50dcbd07f6a77839fc97373c2321e41757a06fce4524dceb72e7e"
+  },
+  "provenance": {
+    "source_item_id": "d3fed67f-1716-46e0-bf58-219c10e5aa73",
+    "external_id": "e5aeed71-5be4-4682-943e-0e4375fd0b88"
+  }
+}

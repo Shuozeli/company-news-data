@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-alex",
+    "name": "Alex"
+  },
+  "record_count": 9,
+  "first_published_at": "2025-01-01T00:00:00+00:00",
+  "last_published_at": "2025-09-02T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    }
+  ]
+}

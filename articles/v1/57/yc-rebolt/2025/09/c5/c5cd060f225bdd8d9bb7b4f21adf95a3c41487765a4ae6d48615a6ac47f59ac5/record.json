@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c5cd060f225bdd8d9bb7b4f21adf95a3c41487765a4ae6d48615a6ac47f59ac5",
+  "company": {
+    "key": "yc-rebolt",
+    "name": "Rebolt"
+  },
+  "source": {
+    "id": "yc-rebolt-news-import-f35a2181d55f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.rebolt.ai/blog/ai-prompting-screenshots",
+    "canonical": "https://rebolt.ai/blog/ai-prompting-screenshots"
+  },
+  "title": "The missing piece from AI prompting guides: Screenshots",
+  "summary": "The missing piece from AI prompting guides: Screenshots",
+  "published_at": "2025-09-03T16:23:00+00:00",
+  "first_seen_at": "2026-07-22T11:02:38.670248+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-07-28T22:03:58.400159+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-rebolt/2025/09/c5/c5cd060f225bdd8d9bb7b4f21adf95a3c41487765a4ae6d48615a6ac47f59ac5/article.md",
+    "record": "articles/v1/57/yc-rebolt/2025/09/c5/c5cd060f225bdd8d9bb7b4f21adf95a3c41487765a4ae6d48615a6ac47f59ac5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2921,
+    "sha256": "sha256:0b8163820446750dcd9352d8c30fc29b9dcbf1a2ff17d3f4e938612bdcecda89",
+    "normalized_content_hash": "sha256:598098a39c3093ccc002b7099cfe8dcac6e0d62fa8df75ad43a7f635111e5041"
+  },
+  "provenance": {
+    "source_item_id": "3fb1996e-bad4-4b31-babc-60ca09e8c17f",
+    "external_id": "https://rebolt.ai/blog/ai-prompting-screenshots"
+  }
+}

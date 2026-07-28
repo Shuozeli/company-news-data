@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4463556b9df0c78c16cd729101569946e0e093a5871d0282e5ef170f73d7177f",
+  "company": {
+    "key": "pacific-biosciences-of-california-inc-common-stock",
+    "name": "Pacific Biosciences of California Inc. Common Stock"
+  },
+  "source": {
+    "id": "pacific-biosciences-of-california-inc-common-stock-news-import-446448bf94cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pacb.com/blog/the-pivotal-decisions-that-make-for-great-sequencing-data/",
+    "canonical": "https://www.pacb.com/blog/the-pivotal-decisions-that-make-for-great-sequencing-data/"
+  },
+  "title": "The pivotal decisions that make for great sequencing data",
+  "summary": "Whether you are evaluating long-read sequencing for the first time or expanding your workflows, here's guidance to help you make decisions",
+  "published_at": "2026-05-28T13:00:36+00:00",
+  "first_seen_at": "2026-07-22T08:02:43.432836+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-07-28T22:07:27.172312+00:00",
+  "paths": {
+    "article": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/05/44/4463556b9df0c78c16cd729101569946e0e093a5871d0282e5ef170f73d7177f/article.md",
+    "record": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/05/44/4463556b9df0c78c16cd729101569946e0e093a5871d0282e5ef170f73d7177f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7980,
+    "sha256": "sha256:e5ec9572322b4f1010461296fc8e61950d7c6690f447c456f54cd92586a19617",
+    "normalized_content_hash": "sha256:adcf81c573c364e129bedcc4d4472b0c57cb56c12817f5509fb5dbd3a9de865e"
+  },
+  "provenance": {
+    "source_item_id": "9a961c9b-961d-48a5-9239-a3a4d0a79303",
+    "external_id": "https://www.pacb.com/blog/the-pivotal-decisions-that-make-for-great-sequencing-data/"
+  }
+}

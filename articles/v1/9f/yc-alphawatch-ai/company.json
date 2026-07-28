@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-alphawatch-ai",
+    "name": "Alphawatch AI"
+  },
+  "record_count": 24,
+  "first_published_at": "2026-05-28T15:34:00+00:00",
+  "last_published_at": "2026-07-27T16:11:50+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 15
+    }
+  ]
+}

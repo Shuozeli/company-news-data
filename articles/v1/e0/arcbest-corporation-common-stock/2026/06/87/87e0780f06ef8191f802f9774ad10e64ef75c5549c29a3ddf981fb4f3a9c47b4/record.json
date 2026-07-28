@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "87e0780f06ef8191f802f9774ad10e64ef75c5549c29a3ddf981fb4f3a9c47b4",
+  "company": {
+    "key": "arcbest-corporation-common-stock",
+    "name": "ArcBest Corporation Common Stock"
+  },
+  "source": {
+    "id": "arcbest-corporation-common-stock-news-import-cf4e8f963433",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://arcb.com/blog/ltl-shipping-news-recent-trends-and-developments",
+    "canonical": "https://arcb.com/blog/ltl-shipping-news-recent-trends-and-developments"
+  },
+  "title": "LTL Shipping News: Recent Trends and Developments",
+  "summary": "June 2026 LTL shipping update covering the key trends influencing efficiency, capacity and service reliability.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:29:04.177804+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:50.333359+00:00",
+  "paths": {
+    "article": "articles/v1/e0/arcbest-corporation-common-stock/2026/06/87/87e0780f06ef8191f802f9774ad10e64ef75c5549c29a3ddf981fb4f3a9c47b4/article.md",
+    "record": "articles/v1/e0/arcbest-corporation-common-stock/2026/06/87/87e0780f06ef8191f802f9774ad10e64ef75c5549c29a3ddf981fb4f3a9c47b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6082,
+    "sha256": "sha256:1afef4177f8ec2ae129585c348b32e035c7644aeb04698a042cf93e0fe816a32",
+    "normalized_content_hash": "sha256:62e1a27057fc8e424ff476da5b6d7468d42012956f14a387f09daca85d2cb54a"
+  },
+  "provenance": {
+    "source_item_id": "88054198-b800-4412-8a7e-f2b4d9a70959",
+    "external_id": "https://arcb.com/blog/ltl-shipping-news-recent-trends-and-developments"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "27e7cda819aaf1dc423e0c81fe84b0dedff45bcca1efaeb226ede3022926f321",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/morula-ivf.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/morula-ivf.html"
+  },
+  "title": "Morula IVF Jakarta uses Bot MD Care to enhance IVF patient experience and convenience through powering WhatsApp",
+  "summary": "Morula IVF Jakarta Clinic is using Bot MD's AI powered platform that automates WhatsApp reminders to keep patients on track with their injection, medication and follow-up schedule, while powering a WhatsApp patient bot to answer their questions instantly.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.848962+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/27/27e7cda819aaf1dc423e0c81fe84b0dedff45bcca1efaeb226ede3022926f321/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/27/27e7cda819aaf1dc423e0c81fe84b0dedff45bcca1efaeb226ede3022926f321/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2318,
+    "sha256": "sha256:f594ef35394cd62e38a4a760ef711437417d576cc9b6c97a3eb91defcf6fbc53",
+    "normalized_content_hash": "sha256:7874d08364bb4f24eeed1c05a0594d983b77f85f431c6d0248018e89550b6d34"
+  },
+  "provenance": {
+    "source_item_id": "bff77ee0-79ff-4f80-b11d-2dc393c4382f",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/morula-ivf.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0fb99853c0dcad82a545b242f334290e7a81d326ed3594116ec695ca393bb24b",
+  "company": {
+    "key": "flowserve-corporation-common-stock",
+    "name": "Flowserve Corporation Common Stock"
+  },
+  "source": {
+    "id": "flowserve-corporation-common-stock-news-import-f47152ddce73",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flowserve.com/company/blog/energy-transition/how-industrial-companies-can-meet-stricter-european-environmental-regulations/",
+    "canonical": "https://www.flowserve.com/company/blog/energy-transition/how-industrial-companies-can-meet-stricter-european-environmental-regulations/"
+  },
+  "title": "How Industrial Companies Can Meet Stricter European Environmental Regulations",
+  "summary": "Over the past three years, global industries have built significant momentum toward creating an economy in which clean-burning hydrogen becomes a primary fuel for transportation, heating and powering industrial processes. These are nine key takeaways for the hydrogen economy.",
+  "published_at": "2024-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T22:14:42.287001+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:13.179662+00:00",
+  "paths": {
+    "article": "articles/v1/be/flowserve-corporation-common-stock/2024/06/0f/0fb99853c0dcad82a545b242f334290e7a81d326ed3594116ec695ca393bb24b/article.md",
+    "record": "articles/v1/be/flowserve-corporation-common-stock/2024/06/0f/0fb99853c0dcad82a545b242f334290e7a81d326ed3594116ec695ca393bb24b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6695,
+    "sha256": "sha256:89e3a3f27ee21c87c7230f5a0dca21a7eb204b43ee5115584b38fd387359d4b0",
+    "normalized_content_hash": "sha256:8dd9975bb2c2b26899b0685441aca948557468bd2c1fd9ee0356eaa7c0497eb6"
+  },
+  "provenance": {
+    "source_item_id": "bfc9a56f-2491-480a-b4e5-a46904548f7f",
+    "external_id": "https://www.flowserve.com/company/blog/energy-transition/how-industrial-companies-can-meet-stricter-european-environmental-regulations/"
+  }
+}

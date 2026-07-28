@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e31cab0f7d9cca3c8b936ab0917d705dc0cc46b231ee3395a0ea52c646e356c0",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/idms.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/idms.html"
+  },
+  "title": "Bot MD participates in the launch of Health - Women in Tech Community at IDMS (Jakarta)",
+  "summary": "Dorothea Koh, CEO and Co-Founder, Bot MD joins the launch of Health - Women in Tech community at International Digital Medic Summit (IDMS) held in Jakarta, where she will also share how the Bot MD Care A.I. WhatsApp platform automates patient monitoring, engagement and education for hospitals and clinics.",
+  "published_at": "2022-10-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:39.690066+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2022/10/e3/e31cab0f7d9cca3c8b936ab0917d705dc0cc46b231ee3395a0ea52c646e356c0/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2022/10/e3/e31cab0f7d9cca3c8b936ab0917d705dc0cc46b231ee3395a0ea52c646e356c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3141,
+    "sha256": "sha256:ed5d6d91a2d9c4b446d8ff83583f3b57db1cf1769fb31e5fcfe55a930eb599b4",
+    "normalized_content_hash": "sha256:b979c783157f7348454f69888aa18e3bfb0f075d692deab9833e35bfb7c9504e"
+  },
+  "provenance": {
+    "source_item_id": "753d143d-6817-4e1d-819c-0fdd905cbb89",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/idms.html"
+  }
+}

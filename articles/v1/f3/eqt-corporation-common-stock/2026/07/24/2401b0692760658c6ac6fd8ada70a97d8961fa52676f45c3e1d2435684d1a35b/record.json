@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2401b0692760658c6ac6fd8ada70a97d8961fa52676f45c3e1d2435684d1a35b",
+  "company": {
+    "key": "eqt-corporation-common-stock",
+    "name": "EQT Corporation Common Stock"
+  },
+  "source": {
+    "id": "eqt-corporation-common-stock-rss-ce5bc8d260e6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.eqt.com/investor-relations/news/news-release-details/2026/EQT-Corporation-Schedules-Second-Quarter-2026-Earnings-Release-and-Conference-Call/default.aspx",
+    "canonical": "https://ir.eqt.com/investor-relations/news/news-release-details/2026/EQT-Corporation-Schedules-Second-Quarter-2026-Earnings-Release-and-Conference-Call/default.aspx"
+  },
+  "title": "EQT Corporation Schedules Second Quarter 2026 Earnings Release and Conference Call",
+  "summary": "",
+  "published_at": "2026-07-02T20:15:00+00:00",
+  "first_seen_at": "2026-07-25T01:06:43.396112+00:00",
+  "fetched_at": "2026-07-28T21:53:24.918157+00:00",
+  "last_updated_at": "2026-07-28T21:53:24.975779+00:00",
+  "paths": {
+    "article": "articles/v1/f3/eqt-corporation-common-stock/2026/07/24/2401b0692760658c6ac6fd8ada70a97d8961fa52676f45c3e1d2435684d1a35b/article.md",
+    "record": "articles/v1/f3/eqt-corporation-common-stock/2026/07/24/2401b0692760658c6ac6fd8ada70a97d8961fa52676f45c3e1d2435684d1a35b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 752,
+    "sha256": "sha256:a0506a301b1af2697f53688fb240b2aa4746c7f08ce15050a314208e2f953701",
+    "normalized_content_hash": "sha256:3df0206b92783b0f5a36770530c0b08f64f3b2513df1a9eaf10aeff93e44ea85"
+  },
+  "provenance": {
+    "source_item_id": "f5441b06-dbe4-4753-9ab6-fd78b6377835",
+    "external_id": "a4e1b5a7-cb3a-47c8-b5c8-d42596471336"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "dell-technologies-inc-class-c-common-stock",
+    "name": "Dell Technologies Inc. Class C Common Stock"
+  },
+  "record_count": 3,
+  "first_published_at": "2022-11-11T16:00:19+00:00",
+  "last_published_at": "2023-01-11T13:00:29+00:00",
+  "partitions": [
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 2
+    }
+  ]
+}

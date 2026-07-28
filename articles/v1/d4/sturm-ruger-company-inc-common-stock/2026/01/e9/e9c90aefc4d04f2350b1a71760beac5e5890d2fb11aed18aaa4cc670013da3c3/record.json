@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e9c90aefc4d04f2350b1a71760beac5e5890d2fb11aed18aaa4cc670013da3c3",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-01-21.html",
+    "canonical": "https://ruger.com/news/2026-01-21.html"
+  },
+  "title": "Ruger Named Founding Member and Partner in VAULT Program",
+  "summary": "",
+  "published_at": "2026-01-21T14:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T22:23:16.767603+00:00",
+  "last_updated_at": "2026-07-28T22:23:23.363322+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/01/e9/e9c90aefc4d04f2350b1a71760beac5e5890d2fb11aed18aaa4cc670013da3c3/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/01/e9/e9c90aefc4d04f2350b1a71760beac5e5890d2fb11aed18aaa4cc670013da3c3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4031,
+    "sha256": "sha256:8a5be811aad95bda87f0428ff70f782adc7f6a8960e98e60b921695475170e4e",
+    "normalized_content_hash": "sha256:1b9e4ee84646a749a4bf0513454ee4bf2705780aebc40880993ca607c81d3236"
+  },
+  "provenance": {
+    "source_item_id": "05f25d34-fce4-4f43-b2db-e6fcdb90d2f3",
+    "external_id": "https://ruger.com/news/2026-01-21.html"
+  }
+}

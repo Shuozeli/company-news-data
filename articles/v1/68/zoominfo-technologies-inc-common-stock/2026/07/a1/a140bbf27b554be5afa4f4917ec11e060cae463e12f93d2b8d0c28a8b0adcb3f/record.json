@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a140bbf27b554be5afa4f4917ec11e060cae463e12f93d2b8d0c28a8b0adcb3f",
+  "company": {
+    "key": "zoominfo-technologies-inc-common-stock",
+    "name": "ZoomInfo Technologies Inc Common Stock"
+  },
+  "source": {
+    "id": "zoominfo-technologies-inc-common-stock-news-import-8d5d92e532e7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.zoominfo.com/game-day-testing",
+    "canonical": "https://engineering.zoominfo.com/game-day-testing"
+  },
+  "title": "Game Day Testing",
+  "summary": "1. Background High availability is a commitment we make at ZoomInfo. We release new applications and features in the production environment on a regular basis to cater to our customers. As per principles of Chaos Engineering, failure is inevitable in any software application. We need to ensure that we test…",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T06:38:16.632877+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.587510+00:00",
+  "paths": {
+    "article": "articles/v1/68/zoominfo-technologies-inc-common-stock/2026/07/a1/a140bbf27b554be5afa4f4917ec11e060cae463e12f93d2b8d0c28a8b0adcb3f/article.md",
+    "record": "articles/v1/68/zoominfo-technologies-inc-common-stock/2026/07/a1/a140bbf27b554be5afa4f4917ec11e060cae463e12f93d2b8d0c28a8b0adcb3f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8537,
+    "sha256": "sha256:7020fc91baf0eda541baea57cea6c41c36f0542ee0e8d9d1402caa45eb041d80",
+    "normalized_content_hash": "sha256:c3f570e2741e58ec8f662304c3045698ffbdc2c478a860403ab2b2d9a7ca4f01"
+  },
+  "provenance": {
+    "source_item_id": "bdb20ebe-36c2-4940-b0b2-8a2ddc813abd",
+    "external_id": "https://engineering.zoominfo.com/game-day-testing"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-oway",
+    "name": "Oway"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-02-22T07:09:37.563+00:00",
+  "last_published_at": "2026-07-06T20:20:42.753+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

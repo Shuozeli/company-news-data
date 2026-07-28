@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3cae55c3f80ad733e411b9a0de830411ea5538947de6b2ba1270b25d5f730278",
+  "company": {
+    "key": "evercore-inc-class-a-common-stock",
+    "name": "Evercore Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "evercore-inc-class-a-common-stock-news-import-3fbf37355688",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://evercorewealthandtrust.com/news/annual-investment-planning-outlook-panel/",
+    "canonical": "https://evercorewealthandtrust.com/news/annual-investment-planning-outlook-panel/"
+  },
+  "title": "Annual Investment & Planning Outlook Panel - Evercore Wealth Management",
+  "summary": "Annual outlook panel covering investment strategy, planning themes, and economic trends.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T13:49:30.653089+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.736263+00:00",
+  "paths": {
+    "article": "articles/v1/d4/evercore-inc-class-a-common-stock/2026/07/3c/3cae55c3f80ad733e411b9a0de830411ea5538947de6b2ba1270b25d5f730278/article.md",
+    "record": "articles/v1/d4/evercore-inc-class-a-common-stock/2026/07/3c/3cae55c3f80ad733e411b9a0de830411ea5538947de6b2ba1270b25d5f730278/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2983,
+    "sha256": "sha256:2ebc0576f958f6ab4633c597bae6bff47334de83e7d770373d15e14128155eb7",
+    "normalized_content_hash": "sha256:31c295f8fd55072d8c288aaa7f52e037e4c40ff89942aa714dcd6eef998077ab"
+  },
+  "provenance": {
+    "source_item_id": "d2fd49b4-bc11-4540-803e-d904e9cd1af4",
+    "external_id": "https://evercorewealthandtrust.com/news/annual-investment-planning-outlook-panel/"
+  }
+}

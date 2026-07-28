@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b9e4136d0406e43e88f4710d4905e1f6eb467382c332d4a91c7e9d4946113619",
+  "company": {
+    "key": "helmerich-payne-inc-common-stock",
+    "name": "Helmerich & Payne Inc. Common Stock"
+  },
+  "source": {
+    "id": "helmerich-payne-inc-common-stock-news-import-5ae549a21ed6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hpinc.com/news/announcements/hptoacquirekcadeutag",
+    "canonical": "https://www.hpinc.com/news/announcements/hptoacquirekcadeutag"
+  },
+  "title": "H&P Announces Agreement to Acquire KCA Deutag",
+  "summary": "Official H&P, Inc. announcement on the acquisition of KCA Deutag — key deal insights, strategic rationale, and what it means for future operations.",
+  "published_at": "2024-07-25T12:14:00+00:00",
+  "first_seen_at": "2026-07-21T22:46:51.827606+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:13.949745+00:00",
+  "paths": {
+    "article": "articles/v1/96/helmerich-payne-inc-common-stock/2024/07/b9/b9e4136d0406e43e88f4710d4905e1f6eb467382c332d4a91c7e9d4946113619/article.md",
+    "record": "articles/v1/96/helmerich-payne-inc-common-stock/2024/07/b9/b9e4136d0406e43e88f4710d4905e1f6eb467382c332d4a91c7e9d4946113619/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4775,
+    "sha256": "sha256:e2a3287c4ea7950a73c6261b6c0cc2b5d4e77285d2e6b32cb7a38bcc146f884d",
+    "normalized_content_hash": "sha256:c0c4b56630d1259d898bc5fb3de4a996b53b5ff5ecf8b5f0accdd9f84315c678"
+  },
+  "provenance": {
+    "source_item_id": "8c7a04dd-f5f4-452b-9c0e-482801d0bc13",
+    "external_id": "https://www.hpinc.com/news/announcements/hptoacquirekcadeutag"
+  }
+}

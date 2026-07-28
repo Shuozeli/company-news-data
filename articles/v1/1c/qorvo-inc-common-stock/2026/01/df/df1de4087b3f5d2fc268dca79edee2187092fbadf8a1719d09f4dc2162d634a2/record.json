@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df1de4087b3f5d2fc268dca79edee2187092fbadf8a1719d09f4dc2162d634a2",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-e3018e454ae6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/design-hub/blog/next-generation-gan-on-sic-sspas-optimize-swapc-and-mission-reliability",
+    "canonical": "https://www.qorvo.com/design-hub/blog/next-generation-gan-on-sic-sspas-optimize-swapc-and-mission-reliability"
+  },
+  "title": "Advancing Wideband RF Power: Next-Generation GaN-on-SiC SSPAs Optimize SWaP-C and Mission Reliability",
+  "summary": "Modern radar, SATCOM and EW systems demand higher power, wider bandwidth and greater reliability under strict SWaP-C constraints.",
+  "published_at": "2026-01-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:14:16.870814+00:00",
+  "fetched_at": "2026-07-28T22:23:07.215004+00:00",
+  "last_updated_at": "2026-07-28T22:25:38.593047+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/01/df/df1de4087b3f5d2fc268dca79edee2187092fbadf8a1719d09f4dc2162d634a2/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/01/df/df1de4087b3f5d2fc268dca79edee2187092fbadf8a1719d09f4dc2162d634a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9866,
+    "sha256": "sha256:15c89b8b78bfcff9b84f7a3c3ef967cbefde3f46e5589356b270efc953286dfa",
+    "normalized_content_hash": "sha256:5a0e68930f39792bb2ca83fdd53f1993e469df090cdeaca83c2586dfbe9d5403"
+  },
+  "provenance": {
+    "source_item_id": "026eab75-d305-4625-9c0f-5a1e072e543a",
+    "external_id": "https://www.qorvo.com/design-hub/blog/next-generation-gan-on-sic-sspas-optimize-swapc-and-mission-reliability"
+  }
+}

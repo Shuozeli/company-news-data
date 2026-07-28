@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5707abab4db9039ae97745ebbe969aa0ed45a788e4cb32b2e28eb202b15038f5",
+  "company": {
+    "key": "amkor-technology-inc-common-stock",
+    "name": "Amkor Technology Inc. Common Stock"
+  },
+  "source": {
+    "id": "amkor-technology-inc-common-stock-news-import-c3e4c050930c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amkor.com/blog/amkor-2026-investor-day-nasdaq/",
+    "canonical": "https://amkor.com/blog/amkor-2026-investor-day-nasdaq/"
+  },
+  "title": "Amkor 2026 Investor Day: Strategy and Nasdaq Milestone",
+  "summary": "Amkor outlines its 2026 Investor Day strategy, highlighting advanced packaging, global expansion, and a Nasdaq closing bell milestone.",
+  "published_at": "2026-05-29T20:08:13+00:00",
+  "first_seen_at": "2026-07-24T16:34:56.885040+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:26.113832+00:00",
+  "paths": {
+    "article": "articles/v1/9f/amkor-technology-inc-common-stock/2026/05/57/5707abab4db9039ae97745ebbe969aa0ed45a788e4cb32b2e28eb202b15038f5/article.md",
+    "record": "articles/v1/9f/amkor-technology-inc-common-stock/2026/05/57/5707abab4db9039ae97745ebbe969aa0ed45a788e4cb32b2e28eb202b15038f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2740,
+    "sha256": "sha256:4be102fa2f18a2ed610405d1ef1908ab374bd4e93e86f5a8adb085ce1faadb23",
+    "normalized_content_hash": "sha256:e72f44761acee8a90fe9293707e2d9f38391f48fd3409944c7828dceede94af9"
+  },
+  "provenance": {
+    "source_item_id": "dfcc721c-e310-400a-ba54-d80628e2a705",
+    "external_id": "https://amkor.com/blog/amkor-2026-investor-day-nasdaq/"
+  }
+}

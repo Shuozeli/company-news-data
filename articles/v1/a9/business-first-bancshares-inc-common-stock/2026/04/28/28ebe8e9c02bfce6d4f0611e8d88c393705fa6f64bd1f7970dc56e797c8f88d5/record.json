@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28ebe8e9c02bfce6d4f0611e8d88c393705fa6f64bd1f7970dc56e797c8f88d5",
+  "company": {
+    "key": "business-first-bancshares-inc-common-stock",
+    "name": "Business First Bancshares Inc. Common Stock"
+  },
+  "source": {
+    "id": "business-first-bancshares-inc-common-stock-news-import-4e89ed4c1e40",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.b1bank.com/shareholder-info/press-releases/business-first-bancshares-inc-schedules-q1-2026-earnings-release",
+    "canonical": "https://www.b1bank.com/shareholder-info/press-releases/business-first-bancshares-inc-schedules-q1-2026-earnings-release"
+  },
+  "title": "Business First Bancshares, Inc. Schedules Q1 2026 Earnings Release and Conference Call for April 27",
+  "summary": "",
+  "published_at": "2026-04-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:15:16.525025+00:00",
+  "fetched_at": "2026-07-27T19:41:18.141343+00:00",
+  "last_updated_at": "2026-07-27T19:41:20.649019+00:00",
+  "paths": {
+    "article": "articles/v1/a9/business-first-bancshares-inc-common-stock/2026/04/28/28ebe8e9c02bfce6d4f0611e8d88c393705fa6f64bd1f7970dc56e797c8f88d5/article.md",
+    "record": "articles/v1/a9/business-first-bancshares-inc-common-stock/2026/04/28/28ebe8e9c02bfce6d4f0611e8d88c393705fa6f64bd1f7970dc56e797c8f88d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2503,
+    "sha256": "sha256:fae24d9c9d2de6f6c8ce24f24766c62b9f3a649fa30032b1bcd754aff3623a47",
+    "normalized_content_hash": "sha256:bf975e681be6747b00d40cd43972e9f0b37b3f941161b1690da69c595c664267"
+  },
+  "provenance": {
+    "source_item_id": "cadf80c6-0c14-49bd-888b-3fc4014cf7ab",
+    "external_id": "https://www.b1bank.com/shareholder-info/press-releases/business-first-bancshares-inc-schedules-q1-2026-earnings-release"
+  }
+}

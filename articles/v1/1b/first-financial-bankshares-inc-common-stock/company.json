@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "first-financial-bankshares-inc-common-stock",
+    "name": "First Financial Bankshares Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-01-14T21:05:00+00:00",
+  "last_published_at": "2026-07-16T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

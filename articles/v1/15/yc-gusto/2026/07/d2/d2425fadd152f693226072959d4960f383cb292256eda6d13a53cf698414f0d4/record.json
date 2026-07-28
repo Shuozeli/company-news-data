@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d2425fadd152f693226072959d4960f383cb292256eda6d13a53cf698414f0d4",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-a18fb5381575",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/start-business/sole-proprietorship",
+    "canonical": "https://gusto.com/resources/articles/start-business/sole-proprietorship"
+  },
+  "title": "Your Ultimate Guide To Starting and Running a Sole Proprietorship",
+  "summary": "Fancy opening a business as a sole proprietorship? Read on to learn more about this unique business structure and the pros and cons of being a sole prop.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:59.033602+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.970477+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/d2/d2425fadd152f693226072959d4960f383cb292256eda6d13a53cf698414f0d4/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/d2/d2425fadd152f693226072959d4960f383cb292256eda6d13a53cf698414f0d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28589,
+    "sha256": "sha256:ca7221a47d44da290243e44ca05aba50fc9a20740efa395e4b3be532573c6b9e",
+    "normalized_content_hash": "sha256:23b3423e0614a0a70e697337ec90a1dc54470c8baef3679aa379be1aa480b14e"
+  },
+  "provenance": {
+    "source_item_id": "aa8af53e-cd2d-4820-a16a-28cea9dc8980",
+    "external_id": "https://gusto.com/resources/articles/start-business/sole-proprietorship"
+  }
+}

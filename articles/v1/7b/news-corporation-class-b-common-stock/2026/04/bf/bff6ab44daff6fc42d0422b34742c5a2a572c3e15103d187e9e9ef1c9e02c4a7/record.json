@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bff6ab44daff6fc42d0422b34742c5a2a572c3e15103d187e9e9ef1c9e02c4a7",
+  "company": {
+    "key": "news-corporation-class-b-common-stock",
+    "name": "News Corporation Class B Common Stock"
+  },
+  "source": {
+    "id": "news-corporation-class-b-common-stock-rss-52db3627f9af",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://newscorp.com/2026/04/21/news-corp-to-report-fiscal-2026-third-quarter-earnings/",
+    "canonical": "https://newscorp.com/2026/04/21/news-corp-to-report-fiscal-2026-third-quarter-earnings/"
+  },
+  "title": "News Corp to Report Fiscal 2026 Third Quarter Earnings",
+  "summary": "News Corp to Report Fiscal 2026 Third Quarter Earnings New York, NY (April 21, 2026) — News Corp will release its third quarter Fiscal 2026 results on Thursday, May 7, 2026. News Corp Chief Executive Robert Thomson and Chief Financial Officer Lavanya Chandrashekar will discuss the results via a live audio webcast at 5:00 p.m. […]",
+  "published_at": "2026-04-21T20:15:21+00:00",
+  "first_seen_at": "2026-07-20T04:35:56.495555+00:00",
+  "fetched_at": "2026-07-28T22:15:46.234407+00:00",
+  "last_updated_at": "2026-07-28T22:15:58.751331+00:00",
+  "paths": {
+    "article": "articles/v1/7b/news-corporation-class-b-common-stock/2026/04/bf/bff6ab44daff6fc42d0422b34742c5a2a572c3e15103d187e9e9ef1c9e02c4a7/article.md",
+    "record": "articles/v1/7b/news-corporation-class-b-common-stock/2026/04/bf/bff6ab44daff6fc42d0422b34742c5a2a572c3e15103d187e9e9ef1c9e02c4a7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2506,
+    "sha256": "sha256:4f3c92e79c20c0ee75d8a7c4588886d519df270df41266e202ea7a4b072d8105",
+    "normalized_content_hash": "sha256:67ba784a3107f190007deb3175dce65d627d5d83d981e110d0b9efe18b0c21d6"
+  },
+  "provenance": {
+    "source_item_id": "0a3af1d6-a39a-481f-b815-9f96abae7427",
+    "external_id": "https://newscorp.com/?p=144378"
+  }
+}

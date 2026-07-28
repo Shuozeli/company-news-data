@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "blue-moon-metals-inc-common-shares",
+    "name": "Blue Moon Metals Inc. Common Shares"
+  },
+  "record_count": 8,
+  "first_published_at": "2026-01-23T19:36:42+00:00",
+  "last_published_at": "2026-06-26T20:28:06+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    }
+  ]
+}

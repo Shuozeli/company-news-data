@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7aefe5bd4b68509782f05bde7f15a26d8ba5694b44d42283c610c2a0fb49028",
+  "company": {
+    "key": "yc-klarity",
+    "name": "Klarity"
+  },
+  "source": {
+    "id": "yc-klarity-news-import-eb5790299337",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.klarity.ai/resources/blog/forbes-30-under-30",
+    "canonical": "https://klarity.ai/resources/blog/forbes-30-under-30"
+  },
+  "title": "Nischal Nadhamuni named to Forbes’ 30 under 30 list",
+  "summary": "Nischal Nadhamuni, Co-Founder and CTO at Klarity, joins the AI category of Forbes’ 30u30 list.",
+  "published_at": "2024-12-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:34:36.098678+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:40.854698+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-klarity/2024/12/d7/d7aefe5bd4b68509782f05bde7f15a26d8ba5694b44d42283c610c2a0fb49028/article.md",
+    "record": "articles/v1/ae/yc-klarity/2024/12/d7/d7aefe5bd4b68509782f05bde7f15a26d8ba5694b44d42283c610c2a0fb49028/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4761,
+    "sha256": "sha256:2c36b3ebcc687a93e554ac2d5f451f66feec405c89dbf7c05447e15fcc5dba71",
+    "normalized_content_hash": "sha256:ed8db216b95db795257f78e02b0821cf98adeb4d8e905c3fea3e8820357b2258"
+  },
+  "provenance": {
+    "source_item_id": "79a6ca9f-e9f9-4ee2-b754-b017fb9886f2",
+    "external_id": "https://klarity.ai/resources/blog/forbes-30-under-30"
+  }
+}

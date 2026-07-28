@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34b582310a7923fcb8aaeff7788702848b162581d7e17bf72d33119a09884eab",
+  "company": {
+    "key": "news-corporation-class-a-common-stock",
+    "name": "News Corporation Class A Common Stock"
+  },
+  "source": {
+    "id": "news-corporation-class-a-common-stock-rss-4854b89b29ce",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://newscorp.com/2026/02/05/news-corp-to-host-dow-jones-investor-briefing/",
+    "canonical": "https://newscorp.com/2026/02/05/news-corp-to-host-dow-jones-investor-briefing/"
+  },
+  "title": "News Corp to Host Dow Jones Investor Briefing",
+  "summary": "News Corp to Host Dow Jones Investor Briefing New York, NY (February 5, 2026) – News Corp announced today it will host an Investor Briefing for Dow Jones on Monday, March 16, 2026, in New York City. Presentations will begin at 4:00 PM EDT (Sydney: March 17, at 7:00 a.m. AEDT). News Corp Chair Lachlan […]",
+  "published_at": "2026-02-05T21:20:30+00:00",
+  "first_seen_at": "2026-07-22T17:16:37.796071+00:00",
+  "fetched_at": "2026-07-28T22:21:29.279891+00:00",
+  "last_updated_at": "2026-07-28T22:23:02.161731+00:00",
+  "paths": {
+    "article": "articles/v1/5f/news-corporation-class-a-common-stock/2026/02/34/34b582310a7923fcb8aaeff7788702848b162581d7e17bf72d33119a09884eab/article.md",
+    "record": "articles/v1/5f/news-corporation-class-a-common-stock/2026/02/34/34b582310a7923fcb8aaeff7788702848b162581d7e17bf72d33119a09884eab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2608,
+    "sha256": "sha256:dcadb09355c536420d56de925ecfe0d0aff20f33d1d28336e18fc08d900e9022",
+    "normalized_content_hash": "sha256:77fc6ee1479fcb4b7bbe227d95674673aa81af133536258faeb31a2e61a87b4c"
+  },
+  "provenance": {
+    "source_item_id": "64383196-bb55-4e47-94bc-7d379e676c44",
+    "external_id": "https://newscorp.com/?p=141416"
+  }
+}

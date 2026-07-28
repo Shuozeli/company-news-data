@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b36aea4062f8014b5a07d54cd6df157e9d33a54e06d234230b7bf0be6984fa25",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/"
+  },
+  "title": "Disrupting Glassworm: Inside CrowdStrike’s Takedown of a Developer-Targeting Botnet",
+  "summary": "Learn how CrowdStrike’s Counter Adversary Operations team executed a coordinated takedown of the Glassworm botnet, which targeted software developers.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T12:36:48.404735+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:51.863548+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/b3/b36aea4062f8014b5a07d54cd6df157e9d33a54e06d234230b7bf0be6984fa25/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/b3/b36aea4062f8014b5a07d54cd6df157e9d33a54e06d234230b7bf0be6984fa25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10415,
+    "sha256": "sha256:7ec540b17605f8f48725b26b40b12b576eb4461168221c0c8a39cec9d096f72f",
+    "normalized_content_hash": "sha256:208ca22f0f1740c4577055c796f8103dbdd309c5685f3b534e82a35bebc32fd5"
+  },
+  "provenance": {
+    "source_item_id": "1b943186-8242-498d-ab8f-833f7e3432e5",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/"
+  }
+}

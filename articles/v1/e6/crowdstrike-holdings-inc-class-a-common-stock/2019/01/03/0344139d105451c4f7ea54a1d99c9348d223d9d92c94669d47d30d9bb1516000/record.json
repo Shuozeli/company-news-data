@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0344139d105451c4f7ea54a1d99c9348d223d9d92c94669d47d30d9bb1516000",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/analyzing-targeted-intrusions-through-the-attck-framework-lens-video/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/analyzing-targeted-intrusions-through-the-attck-framework-lens-video/"
+  },
+  "title": "Analyzing Targeted Intrusions Through the ATT&CK Framework Lens [VIDEO]",
+  "summary": "This video highlights cases of unique adversary tactics, techniques and procedures (TTPs) observed by CrowdStrike security analysts, comparing different methods used by cyber adversary groups and how they have evolved over time.",
+  "published_at": "2019-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T12:36:48.404735+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.311115+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2019/01/03/0344139d105451c4f7ea54a1d99c9348d223d9d92c94669d47d30d9bb1516000/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2019/01/03/0344139d105451c4f7ea54a1d99c9348d223d9d92c94669d47d30d9bb1516000/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3543,
+    "sha256": "sha256:529d4b3630f804b8a274fe320b9da70b0f087a8c84afceb47b0b25d093c1d22d",
+    "normalized_content_hash": "sha256:e2062e50553cd4d1b4115dc6a0ef91b874651e2c8622b6fce0a77d30fa0ec512"
+  },
+  "provenance": {
+    "source_item_id": "1180c364-6d02-4deb-a5eb-3315eebe8708",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/analyzing-targeted-intrusions-through-the-attck-framework-lens-video/"
+  }
+}

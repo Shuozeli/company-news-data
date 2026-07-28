@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "213e1a2e26a298f4fe3b99a907cb6fe1f0f89df4a7795e99ebc1dc09c9cc159a",
+  "company": {
+    "key": "insperity-inc-common-stock",
+    "name": "Insperity Inc. Common Stock"
+  },
+  "source": {
+    "id": "insperity-inc-common-stock-news-import-506516edf724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.insperity.com/investor-relations/nominating-corporate-governance-committee",
+    "canonical": "https://ir.insperity.com/investor-relations/nominating-corporate-governance-committee"
+  },
+  "title": "Nominating and Corporate Governance Committee Charter",
+  "summary": "Insperity Investor Relations puts our corporate profile, NYSE (NSP) stock price and other valuable company information at your fingertips. Click for details.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T00:04:11.880875+00:00",
+  "fetched_at": "2026-07-23T17:49:13.551191+00:00",
+  "last_updated_at": "2026-07-23T17:49:14.187767+00:00",
+  "paths": {
+    "article": "articles/v1/b8/insperity-inc-common-stock/2026/07/21/213e1a2e26a298f4fe3b99a907cb6fe1f0f89df4a7795e99ebc1dc09c9cc159a/article.md",
+    "record": "articles/v1/b8/insperity-inc-common-stock/2026/07/21/213e1a2e26a298f4fe3b99a907cb6fe1f0f89df4a7795e99ebc1dc09c9cc159a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8591,
+    "sha256": "sha256:ee729103811e7d9dff0e361af67d6d3915a325e98cc374db594d47475e985a99",
+    "normalized_content_hash": "sha256:c44c1a003612388120673846a6094c57af62025ce5fcc117f37b130aff2b4773"
+  },
+  "provenance": {
+    "source_item_id": "95be3b6f-f008-4600-a879-33e1ab93bee1",
+    "external_id": "https://ir.insperity.com/investor-relations/nominating-corporate-governance-committee"
+  }
+}

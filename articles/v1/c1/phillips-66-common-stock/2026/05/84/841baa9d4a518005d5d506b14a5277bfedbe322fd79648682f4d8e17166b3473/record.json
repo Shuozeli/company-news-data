@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "841baa9d4a518005d5d506b14a5277bfedbe322fd79648682f4d8e17166b3473",
+  "company": {
+    "key": "phillips-66-common-stock",
+    "name": "Phillips 66 Common Stock"
+  },
+  "source": {
+    "id": "phillips-66-common-stock-news-import-d9399e0d03a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.phillips66.com/newsroom/phillips-66-ceo-company-prepared-to-respond-to-whatever-the-world-needs/",
+    "canonical": "https://www.phillips66.com/newsroom/phillips-66-ceo-company-prepared-to-respond-to-whatever-the-world-needs/"
+  },
+  "title": "Phillips 66 CEO: Company prepared “to respond to whatever the world needs”",
+  "summary": "Phillips 66 CEO: Company prepared “to respond to whatever the world needs”",
+  "published_at": "2026-05-14T21:00:50+00:00",
+  "first_seen_at": "2026-07-22T08:53:17.580250+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-07-28T22:00:57.041220+00:00",
+  "paths": {
+    "article": "articles/v1/c1/phillips-66-common-stock/2026/05/84/841baa9d4a518005d5d506b14a5277bfedbe322fd79648682f4d8e17166b3473/article.md",
+    "record": "articles/v1/c1/phillips-66-common-stock/2026/05/84/841baa9d4a518005d5d506b14a5277bfedbe322fd79648682f4d8e17166b3473/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3017,
+    "sha256": "sha256:b6d1e0bca31cc9cdc7c375e9d780f23201a0821b99445d729f87815052c523a8",
+    "normalized_content_hash": "sha256:d7b70a828b1b4c277b5817c5d7187de2b02374b224a513e4c4750eb7bda13b3d"
+  },
+  "provenance": {
+    "source_item_id": "602dddc1-b595-4ce7-9c98-ce74ca9559d6",
+    "external_id": "https://www.phillips66.com/newsroom/phillips-66-ceo-company-prepared-to-respond-to-whatever-the-world-needs/"
+  }
+}

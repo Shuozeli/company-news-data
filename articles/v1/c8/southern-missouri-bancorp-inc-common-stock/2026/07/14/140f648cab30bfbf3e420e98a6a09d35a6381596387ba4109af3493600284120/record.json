@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "140f648cab30bfbf3e420e98a6a09d35a6381596387ba4109af3493600284120",
+  "company": {
+    "key": "southern-missouri-bancorp-inc-common-stock",
+    "name": "Southern Missouri Bancorp Inc. Common Stock"
+  },
+  "source": {
+    "id": "southern-missouri-bancorp-inc-common-stock-news-import-52af38627077",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bankwithsouthern.com/news/southern-bank-welcomes-steve-kamienski//",
+    "canonical": "https://www.bankwithsouthern.com/news/southern-bank-welcomes-steve-kamienski/"
+  },
+  "title": "Southern Bank Welcomes Steve Kamienski | Southern Bank",
+  "summary": "Southern Bank Welcomes Steve Kamienski as Director of Trust Administration.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T01:27:46.326277+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:23.313375+00:00",
+  "paths": {
+    "article": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/14/140f648cab30bfbf3e420e98a6a09d35a6381596387ba4109af3493600284120/article.md",
+    "record": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/14/140f648cab30bfbf3e420e98a6a09d35a6381596387ba4109af3493600284120/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1996,
+    "sha256": "sha256:611e890a3c52b13733b9b864871781c5245c9ba142a9141b768ba96bdec13a20",
+    "normalized_content_hash": "sha256:ebdf330f11c87fff4b7d7cad6a9c16a52c3a9ae51e0ac8bc215fc5d90ddde303"
+  },
+  "provenance": {
+    "source_item_id": "1d450e52-2204-4ba2-9fda-3e2328e7cb35",
+    "external_id": "https://www.bankwithsouthern.com/news/southern-bank-welcomes-steve-kamienski/"
+  }
+}

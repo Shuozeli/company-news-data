@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f3b880f69646435bdb9542434b7959a58223dfb3e3af3276499d9d91888d16a4",
+  "company": {
+    "key": "xerox-holdings-corporation-common-stock",
+    "name": "Xerox Holdings Corporation Common Stock"
+  },
+  "source": {
+    "id": "xerox-holdings-corporation-common-stock-news-import-ab452ba1a299",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.xerox.com/en-us/office/insights/laser-printers",
+    "canonical": "https://www.xerox.com/en-us/office/insights/laser-printers"
+  },
+  "title": "Xerox Invented Laser Printers",
+  "summary": "Learn about different types of laser printers and determine which one is the best laser printer for your office.",
+  "published_at": "2021-05-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T20:43:55.559523+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:34.446519+00:00",
+  "paths": {
+    "article": "articles/v1/e5/xerox-holdings-corporation-common-stock/2021/05/f3/f3b880f69646435bdb9542434b7959a58223dfb3e3af3276499d9d91888d16a4/article.md",
+    "record": "articles/v1/e5/xerox-holdings-corporation-common-stock/2021/05/f3/f3b880f69646435bdb9542434b7959a58223dfb3e3af3276499d9d91888d16a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9850,
+    "sha256": "sha256:c56a157433ad96dbeabdf282b4c881a434a23d25d83fc0807ee9fbc63d5ca9ea",
+    "normalized_content_hash": "sha256:69b56ec07a8e44ee84ee1aceff13f1b89e02e565399b770a2783098831031487"
+  },
+  "provenance": {
+    "source_item_id": "09077f0b-e3e0-4481-9b87-149c73585c80",
+    "external_id": "https://www.xerox.com/en-us/office/insights/laser-printers"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "smart-share-global-limited-american-depositary-shares",
+    "name": "Smart Share Global Limited American Depositary Shares"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-02-03T10:00:00+00:00",
+  "last_published_at": "2026-04-29T21:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ]
+}

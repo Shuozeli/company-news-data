@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "334194ff2e6d943fc5beb550025d799bd2698346e19c05b4a338129aee835842",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-40c8a89d7155",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/universal-health-services-inc-to-acquire-talkspace-inc/",
+    "canonical": "https://uhs.com/news/universal-health-services-inc-to-acquire-talkspace-inc/"
+  },
+  "title": "Universal Health Services, Inc. to Acquire Talkspace, Inc.",
+  "summary": "Industry-leading virtual behavioral healthcare platform accelerates outpatient strategy with expanded access to care.",
+  "published_at": "2026-03-09T12:15:00+00:00",
+  "first_seen_at": "2026-07-24T05:33:01.391339+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-07-28T22:04:18.627345+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2026/03/33/334194ff2e6d943fc5beb550025d799bd2698346e19c05b4a338129aee835842/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2026/03/33/334194ff2e6d943fc5beb550025d799bd2698346e19c05b4a338129aee835842/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15609,
+    "sha256": "sha256:36f07fce0b6f7c149313e7da4deba1775b4e9a899f3110ff6b9ad8d46c271f94",
+    "normalized_content_hash": "sha256:bcced3fc701c2cb43e7242cc38296c103f90ae0ec3147ecec030df0f71d7c583"
+  },
+  "provenance": {
+    "source_item_id": "2f8cb59b-9953-4933-ac5d-883e8f6b043e",
+    "external_id": "https://uhs.com/news/universal-health-services-inc-to-acquire-talkspace-inc/"
+  }
+}

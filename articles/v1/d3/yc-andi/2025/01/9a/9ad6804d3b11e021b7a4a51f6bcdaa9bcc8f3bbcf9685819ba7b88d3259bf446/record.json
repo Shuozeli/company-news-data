@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9ad6804d3b11e021b7a4a51f6bcdaa9bcc8f3bbcf9685819ba7b88d3259bf446",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/optimizing-content-for-ai-search",
+    "canonical": "https://andiai.com/blogs/optimizing-content-for-ai-search"
+  },
+  "title": "Optimizing Your Content for AI Search and Agents: Lessons from Building Andi",
+  "summary": "TL;DR: To optimize for AI search and agents: Make content accessible as clean HTML/markdown, allow AI crawlers, return content fast, use semantic markup, and create an llms.txt file.",
+  "published_at": "2025-01-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:55:59.564380+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:29.951110+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2025/01/9a/9ad6804d3b11e021b7a4a51f6bcdaa9bcc8f3bbcf9685819ba7b88d3259bf446/article.md",
+    "record": "articles/v1/d3/yc-andi/2025/01/9a/9ad6804d3b11e021b7a4a51f6bcdaa9bcc8f3bbcf9685819ba7b88d3259bf446/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6756,
+    "sha256": "sha256:e4bf8a908595626fc12eea860efc37412f8c3f50b97dd96d3c4e5a85f3a65b1b",
+    "normalized_content_hash": "sha256:6919676004e9c5f8358fc659125569330585b23e8c709f0a8c67047ae8c14477"
+  },
+  "provenance": {
+    "source_item_id": "9fb42cbd-63a1-44b8-bb81-619524ba586b",
+    "external_id": "https://andiai.com/blogs/optimizing-content-for-ai-search"
+  }
+}

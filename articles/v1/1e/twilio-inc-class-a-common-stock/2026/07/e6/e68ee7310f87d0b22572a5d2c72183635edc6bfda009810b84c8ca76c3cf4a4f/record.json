@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e68ee7310f87d0b22572a5d2c72183635edc6bfda009810b84c8ca76c3cf4a4f",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-news-import-801d48e1d714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-nodejs",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-nodejs"
+  },
+  "title": "How to Handle Background Noise When Using Conversation Relay in Node.js",
+  "summary": "This tutorial walks you through choosing the right Deepgram speech model for noisy conditions in a Twilio Conversation Relay agent, and shows you which TwiML attributes to tune when the defaults fall short.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:22:18.610508+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:42:01.722954+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/e6/e68ee7310f87d0b22572a5d2c72183635edc6bfda009810b84c8ca76c3cf4a4f/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/e6/e68ee7310f87d0b22572a5d2c72183635edc6bfda009810b84c8ca76c3cf4a4f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12622,
+    "sha256": "sha256:0a9d06139697c2e56307ae16a58d04371e6ba96bc8a5d811886cb80b98065b24",
+    "normalized_content_hash": "sha256:f39a233608d5c2f4877e840a075661e16ed457057027452f05e6c107b3021d1b"
+  },
+  "provenance": {
+    "source_item_id": "db16645c-8484-42f8-95b2-d72ec28cb59b",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-nodejs"
+  }
+}

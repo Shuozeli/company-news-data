@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13152eccd5216880ccc5d2aa3a69ebefff57b242917e2762257e1ef041ee2a19",
+  "company": {
+    "key": "belden-inc-common-stock",
+    "name": "Belden Inc Common Stock"
+  },
+  "source": {
+    "id": "belden-inc-common-stock-news-import-7ad1939ec96a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.belden.com/news/belden-launches-new-m12-push-pull-connectors",
+    "canonical": "https://www.belden.com/news/belden-launches-new-m12-push-pull-connectors"
+  },
+  "title": "Belden Launches New M12 Push Pull Connectors",
+  "summary": "",
+  "published_at": "2023-09-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T09:53:07.297587+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:01.137071+00:00",
+  "paths": {
+    "article": "articles/v1/25/belden-inc-common-stock/2023/09/13/13152eccd5216880ccc5d2aa3a69ebefff57b242917e2762257e1ef041ee2a19/article.md",
+    "record": "articles/v1/25/belden-inc-common-stock/2023/09/13/13152eccd5216880ccc5d2aa3a69ebefff57b242917e2762257e1ef041ee2a19/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4131,
+    "sha256": "sha256:03eade761c17e67af1095d87ce716b143dc8093bc541d5dbe465a6af24dc3e16",
+    "normalized_content_hash": "sha256:d3537ecc02a795533da67252f0ab66f22c6bbef797090f085d6455311d583fe6"
+  },
+  "provenance": {
+    "source_item_id": "e41ca2c8-cbcf-4d0b-b6fe-a35de67f6f62",
+    "external_id": "https://www.belden.com/news/belden-launches-new-m12-push-pull-connectors"
+  }
+}

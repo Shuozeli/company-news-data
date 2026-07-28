@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "84399985c12de5e8fe54f2d60bfa303c9e912961987676d939ed6966b9df22f6",
+  "company": {
+    "key": "general-mills-inc-common-stock",
+    "name": "General Mills Inc. Common Stock"
+  },
+  "source": {
+    "id": "general-mills-inc-common-stock-news-import-0ccac72c3ac9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.generalmills.com/news-and-stories/press-releases/totinos-brings-fan-favorite-snack-hacks",
+    "canonical": "https://www.generalmills.com/news-and-stories/press-releases/totinos-brings-fan-favorite-snack-hacks"
+  },
+  "title": "Totino's™ Brings Fan-Favorite Snack Hacks to Life with New Pizza Rolls™ and Ultimate Pizza™ Flavors - General Mills",
+  "summary": "New Blasted Pizza Rolls™, additional Ultimate Pizza™ varieties and the return of Cheeseburger Pizza Rolls bring the flavors fans are reaching for right now t...",
+  "published_at": null,
+  "first_seen_at": "2026-07-28T12:26:27.559182+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.622318+00:00",
+  "paths": {
+    "article": "articles/v1/6f/general-mills-inc-common-stock/2026/07/84/84399985c12de5e8fe54f2d60bfa303c9e912961987676d939ed6966b9df22f6/article.md",
+    "record": "articles/v1/6f/general-mills-inc-common-stock/2026/07/84/84399985c12de5e8fe54f2d60bfa303c9e912961987676d939ed6966b9df22f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1020,
+    "sha256": "sha256:07e8d3343f2a6e1b1cabd373d9fc775e5046ba2802e96efb5000830414c7fc39",
+    "normalized_content_hash": "sha256:570e47d4a4cd9e5650f7138b31749d2552e482c6f90276114eff73a3a1a136f4"
+  },
+  "provenance": {
+    "source_item_id": "df2441f9-e31e-45b5-9ba1-c7bf62e91bf6",
+    "external_id": "https://www.generalmills.com/news-and-stories/press-releases/totinos-brings-fan-favorite-snack-hacks"
+  }
+}

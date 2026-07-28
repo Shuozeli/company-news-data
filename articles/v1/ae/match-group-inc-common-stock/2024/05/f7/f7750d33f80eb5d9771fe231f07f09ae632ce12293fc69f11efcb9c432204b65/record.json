@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f7750d33f80eb5d9771fe231f07f09ae632ce12293fc69f11efcb9c432204b65",
+  "company": {
+    "key": "match-group-inc-common-stock",
+    "name": "Match Group Inc. Common Stock"
+  },
+  "source": {
+    "id": "match-group-inc-common-stock-rss-8d6595a8b1de",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mtch.com/single-news/983/",
+    "canonical": "https://mtch.com/single-news/983/"
+  },
+  "title": "Match Group Reports First Quarter 2024 Results",
+  "summary": "Match Group | Modern Dating & Matchmaking for Genuine Connections",
+  "published_at": "2024-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T13:29:54.663931+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-07-28T22:16:03.992631+00:00",
+  "paths": {
+    "article": "articles/v1/ae/match-group-inc-common-stock/2024/05/f7/f7750d33f80eb5d9771fe231f07f09ae632ce12293fc69f11efcb9c432204b65/article.md",
+    "record": "articles/v1/ae/match-group-inc-common-stock/2024/05/f7/f7750d33f80eb5d9771fe231f07f09ae632ce12293fc69f11efcb9c432204b65/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2440,
+    "sha256": "sha256:2ef89bbfb1dde8d7836c0913638369280a90b66bccd911dde04849a403d1b369",
+    "normalized_content_hash": "sha256:d60aa7ddc387697776eb7bd3d2770fbef831ded3c70d30f7020762f7eaa0e63b"
+  },
+  "provenance": {
+    "source_item_id": "95e64c5c-2929-4bce-aecf-f052314a3529",
+    "external_id": "https://mtchdevimport.wpenginepowered.com/single-news/983/"
+  }
+}

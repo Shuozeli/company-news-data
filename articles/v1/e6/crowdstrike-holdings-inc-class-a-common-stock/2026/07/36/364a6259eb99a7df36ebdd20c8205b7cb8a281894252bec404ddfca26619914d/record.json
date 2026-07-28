@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "364a6259eb99a7df36ebdd20c8205b7cb8a281894252bec404ddfca26619914d",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-stops-genai-data-leaks-with-unified-data-protection/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-stops-genai-data-leaks-with-unified-data-protection/"
+  },
+  "title": "CrowdStrike Stops GenAI Data Leaks with Unified Data Protection",
+  "summary": "CrowdStrike redefines modern data security with unified real-time protection across endpoint, cloud, and AI environments.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.541972+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/36/364a6259eb99a7df36ebdd20c8205b7cb8a281894252bec404ddfca26619914d/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/36/364a6259eb99a7df36ebdd20c8205b7cb8a281894252bec404ddfca26619914d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11275,
+    "sha256": "sha256:435b44e14c25e61f04ef68358e99d2e623ad787798af9e6b073bbb58af12841e",
+    "normalized_content_hash": "sha256:d2de6114bc0cf285494f946793eb22178a0fbe03114713a4bd1bf8b0a2409e87"
+  },
+  "provenance": {
+    "source_item_id": "05e50213-8809-4d2b-aaac-d65fd1390216",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-stops-genai-data-leaks-with-unified-data-protection/"
+  }
+}

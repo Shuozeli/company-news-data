@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "25567a7bed0841cb02701f013305da9b7bbb01562b58d755f93c14f93af0dd43",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/meddicc-framework-implementation-enablement-timeline",
+    "canonical": "https://demodesk.com/blog/meddicc-framework-implementation-enablement-timeline"
+  },
+  "title": "MEDDICC Framework Implementation: Real-World Enablement Timeline",
+  "summary": "MEDDICC implementation takes 90-120 days when reps get coached every call. Here's the real enablement timeline, common failure points, and how AI coaching cuts the ramp.",
+  "published_at": "2026-07-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.711714+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/25/25567a7bed0841cb02701f013305da9b7bbb01562b58d755f93c14f93af0dd43/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/25/25567a7bed0841cb02701f013305da9b7bbb01562b58d755f93c14f93af0dd43/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9658,
+    "sha256": "sha256:9aa057ce9793189b313b3a89ab3bf4c29e4df694970bc4e97cd1a289bec1c254",
+    "normalized_content_hash": "sha256:b5a8195e2191caf42ae0b1b6eb3d96f3f7824f13852daa4c590ea7ea61ab978e"
+  },
+  "provenance": {
+    "source_item_id": "cd31333a-d4a0-402d-bafb-18d0afce811f",
+    "external_id": "https://demodesk.com/blog/meddicc-framework-implementation-enablement-timeline"
+  }
+}

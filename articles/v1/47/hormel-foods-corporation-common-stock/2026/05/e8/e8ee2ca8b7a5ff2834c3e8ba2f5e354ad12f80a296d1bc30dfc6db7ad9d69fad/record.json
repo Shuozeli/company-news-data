@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8ee2ca8b7a5ff2834c3e8ba2f5e354ad12f80a296d1bc30dfc6db7ad9d69fad",
+  "company": {
+    "key": "hormel-foods-corporation-common-stock",
+    "name": "Hormel Foods Corporation Common Stock"
+  },
+  "source": {
+    "id": "hormel-foods-corporation-common-stock-news-import-0faa90d40874",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hormelfoods.com/newsroom/press-releases/theres-a-new-dog-in-town-introducing-the-spam-dog/",
+    "canonical": "https://www.hormelfoods.com/newsroom/press-releases/theres-a-new-dog-in-town-introducing-the-spam-dog/"
+  },
+  "title": "Theres a New Dog in Town: Introducing the SPAM ® Dog",
+  "summary": "A bold new take on the classic hot dog rolls out just in time for summer.",
+  "published_at": "2026-05-14T13:07:39+00:00",
+  "first_seen_at": "2026-07-21T23:11:51.811758+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-07-28T22:00:55.557085+00:00",
+  "paths": {
+    "article": "articles/v1/47/hormel-foods-corporation-common-stock/2026/05/e8/e8ee2ca8b7a5ff2834c3e8ba2f5e354ad12f80a296d1bc30dfc6db7ad9d69fad/article.md",
+    "record": "articles/v1/47/hormel-foods-corporation-common-stock/2026/05/e8/e8ee2ca8b7a5ff2834c3e8ba2f5e354ad12f80a296d1bc30dfc6db7ad9d69fad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5433,
+    "sha256": "sha256:f0e207ede1d93f89d1aa01f12d6f219a6c6e22c8aa5f84c7c25ca1b6af1aa157",
+    "normalized_content_hash": "sha256:ef0145d92537b791f5d3e0b9d2179ae6cc4dd55cc571d0e4309e3e9f2e353558"
+  },
+  "provenance": {
+    "source_item_id": "71e7c6f5-317d-40de-bccf-cf9549563d85",
+    "external_id": "https://www.hormelfoods.com/newsroom/press-releases/theres-a-new-dog-in-town-introducing-the-spam-dog/"
+  }
+}

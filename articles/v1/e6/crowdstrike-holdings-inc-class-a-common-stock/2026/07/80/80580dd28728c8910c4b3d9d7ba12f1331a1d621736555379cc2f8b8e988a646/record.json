@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "80580dd28728c8910c4b3d9d7ba12f1331a1d621736555379cc2f8b8e988a646",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-063b7eab9eb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/press-releases/grant-thornton-advisors-standardizes-mssp-ops-on-crowdstrike-falcon-complete/",
+    "canonical": "https://www.crowdstrike.com/en-us/press-releases/grant-thornton-advisors-standardizes-mssp-ops-on-crowdstrike-falcon-complete/"
+  },
+  "title": "Grant Thornton Advisors Standardizes MSSP Operations on CrowdStrike Falcon Complete",
+  "summary": "The advisory services leader consolidates its managed security operations on CrowdStrike, replacing legacy MDR with agentic MDR.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:06:42.853713+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.815159+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/80/80580dd28728c8910c4b3d9d7ba12f1331a1d621736555379cc2f8b8e988a646/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/80/80580dd28728c8910c4b3d9d7ba12f1331a1d621736555379cc2f8b8e988a646/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8841,
+    "sha256": "sha256:31437a4214a18362417088f10b7cd324723688c1ad0aa3a1d9d338c7d509c557",
+    "normalized_content_hash": "sha256:9d1c776c6f1519f5e08390a1558030f7c95dd6c7c973f8a7c05ee7404572e28a"
+  },
+  "provenance": {
+    "source_item_id": "c5acab4d-124a-4961-9ae4-b2e8c50b31b9",
+    "external_id": "https://www.crowdstrike.com/en-us/press-releases/grant-thornton-advisors-standardizes-mssp-ops-on-crowdstrike-falcon-complete/"
+  }
+}

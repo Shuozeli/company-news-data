@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "507de36dec26b3069d5d0c17dd994fa0266c9f7243d5f71bdace5605fac8e884",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/consumer-tips/how-to-write-a-check",
+    "canonical": "https://www.wafdbank.com/articles/consumer-tips/how-to-write-a-check"
+  },
+  "title": "How to Write a Check",
+  "summary": "New to writing a check? Learn how to fill out a check in six steps in WaFd Bank's comprehensive step-by-step check writing guide with photos.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T11:45:59.162043+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:25.319691+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/50/507de36dec26b3069d5d0c17dd994fa0266c9f7243d5f71bdace5605fac8e884/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/50/507de36dec26b3069d5d0c17dd994fa0266c9f7243d5f71bdace5605fac8e884/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8629,
+    "sha256": "sha256:ce2648efb00f7f70dbbb6b4320ea6bc9590404f20ed1058222744bf8edff4ca9",
+    "normalized_content_hash": "sha256:a37a70442c5e4386b9cb8238062fd0b3bc5ffc71b6148acee49cbb8f22443faf"
+  },
+  "provenance": {
+    "source_item_id": "9935959a-8c8c-4deb-9fc1-602cf3f72656",
+    "external_id": "https://www.wafdbank.com/articles/consumer-tips/how-to-write-a-check"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ac8fa5fbf1bcd6af73a7066b9eec17c21057eeca0062454ade8418aaaf549c45",
+  "company": {
+    "key": "yc-taktile",
+    "name": "Taktile"
+  },
+  "source": {
+    "id": "yc-taktile-news-import-01317932feb4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/",
+    "canonical": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/"
+  },
+  "title": "Your metrics are lying to you",
+  "summary": "How a P2 incident led us down a rabbit hole of glibc arenas, cgroup high-water marks, and the realization that none of our memory metrics meant what we thought they meant.",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:38:54.472601+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-07-28T21:43:20.673853+00:00",
+  "paths": {
+    "article": "articles/v1/87/yc-taktile/2026/06/ac/ac8fa5fbf1bcd6af73a7066b9eec17c21057eeca0062454ade8418aaaf549c45/article.md",
+    "record": "articles/v1/87/yc-taktile/2026/06/ac/ac8fa5fbf1bcd6af73a7066b9eec17c21057eeca0062454ade8418aaaf549c45/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8274,
+    "sha256": "sha256:2943a0c32af5a28ffd37f6733bd0ddd20d6067b57cfa3dd71bd716ba4560b734",
+    "normalized_content_hash": "sha256:76429cb83a749499b1bb1613ae27e1378cb74438d53922652e246104f56a9d34"
+  },
+  "provenance": {
+    "source_item_id": "cebf2164-0f77-4561-ae50-a8371d311ee7",
+    "external_id": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/"
+  }
+}

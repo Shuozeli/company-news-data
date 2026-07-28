@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-conveo",
+    "name": "Conveo"
+  },
+  "record_count": 20,
+  "first_published_at": "2025-08-11T16:23:12.570+00:00",
+  "last_published_at": "2026-07-02T08:30:41.980+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

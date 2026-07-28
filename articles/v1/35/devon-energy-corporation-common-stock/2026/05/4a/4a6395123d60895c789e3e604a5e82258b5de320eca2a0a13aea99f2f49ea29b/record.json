@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4a6395123d60895c789e3e604a5e82258b5de320eca2a0a13aea99f2f49ea29b",
+  "company": {
+    "key": "devon-energy-corporation-common-stock",
+    "name": "Devon Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "devon-energy-corporation-common-stock-rss-b68131991e20",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-and-Coterra-Energy-Complete-Merger/default.aspx",
+    "canonical": "http://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-and-Coterra-Energy-Complete-Merger/default.aspx"
+  },
+  "title": "Devon Energy and Coterra Energy Complete Merger",
+  "summary": "",
+  "published_at": "2026-05-07T12:30:00+00:00",
+  "first_seen_at": "2026-07-25T01:08:53.429704+00:00",
+  "fetched_at": "2026-07-28T21:53:16.277425+00:00",
+  "last_updated_at": "2026-07-28T21:53:16.314121+00:00",
+  "paths": {
+    "article": "articles/v1/35/devon-energy-corporation-common-stock/2026/05/4a/4a6395123d60895c789e3e604a5e82258b5de320eca2a0a13aea99f2f49ea29b/article.md",
+    "record": "articles/v1/35/devon-energy-corporation-common-stock/2026/05/4a/4a6395123d60895c789e3e604a5e82258b5de320eca2a0a13aea99f2f49ea29b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 725,
+    "sha256": "sha256:059a141b690877d6ef3a3fcd2d4bc3795f41db804c46c47e6a8b5ed8e3e444a1",
+    "normalized_content_hash": "sha256:5114ba26dc59330f77e1c325936e19af3cac9e9a1418abc5b161e1bf826020f9"
+  },
+  "provenance": {
+    "source_item_id": "0171d8de-a51d-441f-bbcb-7373d957a332",
+    "external_id": "88392a01-1b59-4845-837a-256bfeb65488"
+  }
+}

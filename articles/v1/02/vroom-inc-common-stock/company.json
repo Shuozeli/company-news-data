@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "vroom-inc-common-stock",
+    "name": "Vroom Inc. Common Stock"
+  },
+  "record_count": 16,
+  "first_published_at": "2021-06-14T20:05:00+00:00",
+  "last_published_at": "2026-05-15T00:50:00+00:00",
+  "partitions": [
+    {
+      "partition": "2021-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "350c5013b2f0bbac1e4167067fc45e11b1bed38fa376d7363de44ec29d802a34",
+  "company": {
+    "key": "yc-zepto",
+    "name": "Zepto"
+  },
+  "source": {
+    "id": "yc-zepto-rss-8182f1493a2f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.zepto.com/your-cart-has-a-story-heres-how-we-learned-to-read-it-10ba9188f534?source=rss----bd632b1d570d---4",
+    "canonical": "https://blog.zepto.com/your-cart-has-a-story-heres-how-we-learned-to-read-it-10ba9188f534"
+  },
+  "title": "Your Cart Has a Story. Here’s How We Learned to Read It.",
+  "summary": "At Zepto, the cart is more than a list of items. Behind every cart is an intent.",
+  "published_at": "2026-06-01T10:18:57+00:00",
+  "first_seen_at": "2026-07-20T23:24:50.197566+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-07-28T21:13:17.290944+00:00",
+  "paths": {
+    "article": "articles/v1/fc/yc-zepto/2026/06/35/350c5013b2f0bbac1e4167067fc45e11b1bed38fa376d7363de44ec29d802a34/article.md",
+    "record": "articles/v1/fc/yc-zepto/2026/06/35/350c5013b2f0bbac1e4167067fc45e11b1bed38fa376d7363de44ec29d802a34/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11783,
+    "sha256": "sha256:5e6865065388bcf9947c4f48205691b7150a7644f5bc956f1ea7f713c326313a",
+    "normalized_content_hash": "sha256:b211590b8a858646f10fda881cbb782fb7fa4c66807b1b893eab1dc93d8a6609"
+  },
+  "provenance": {
+    "source_item_id": "5a7e877a-b98b-4874-8a8b-ac3672170f41",
+    "external_id": "https://medium.com/p/10ba9188f534"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5a841d49d218d70e132922dc90261747bc9379b42d483355bb82495020af15da",
+  "company": {
+    "key": "gilead-sciences-inc-common-stock",
+    "name": "Gilead Sciences Inc. Common Stock"
+  },
+  "source": {
+    "id": "gilead-sciences-inc-common-stock-news-import-871ed348cde1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gilead.com/stories/people-and-culture",
+    "canonical": "https://www.gilead.com/stories/people-and-culture"
+  },
+  "title": "Access and Health Equity",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T22:23:38.484389+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-07-28T21:20:53.410471+00:00",
+  "paths": {
+    "article": "articles/v1/cf/gilead-sciences-inc-common-stock/2026/07/5a/5a841d49d218d70e132922dc90261747bc9379b42d483355bb82495020af15da/article.md",
+    "record": "articles/v1/cf/gilead-sciences-inc-common-stock/2026/07/5a/5a841d49d218d70e132922dc90261747bc9379b42d483355bb82495020af15da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1659,
+    "sha256": "sha256:aa67a6b60581724fba01abbcfeb2602f12289bde02bd7a09feb5364557b8d27e",
+    "normalized_content_hash": "sha256:18443ffa303f4bdbf2702db410ee48963ec4d6261a9f9c29fa2554810d61f4f0"
+  },
+  "provenance": {
+    "source_item_id": "9c86ecde-5907-4d8b-9013-17ad4251bb33",
+    "external_id": "https://www.gilead.com/stories/people-and-culture"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "907ced4f0c44822fa57e1b72c4e32ea2ba99adf1acbadfa8a9e3a3f34bc441d5",
+  "company": {
+    "key": "yc-algotest",
+    "name": "AlgoTest"
+  },
+  "source": {
+    "id": "yc-algotest-news-import-7cc502b412f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://algotest.in/blog/option-greeks/",
+    "canonical": "https://algotest.in/blog/option-greeks/"
+  },
+  "title": "How to Use Option Greeks in Trading: A Practical Guide for Options Traders",
+  "summary": "Learn how to use Option Greeks in trading with practical examples. Understand Delta, Theta, Gamma, Vega and how they influence entries, exits, risk management and popular options strategies.",
+  "published_at": "2026-07-20T06:35:33+00:00",
+  "first_seen_at": "2026-07-25T00:56:57.418756+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:41:56.543058+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-algotest/2026/07/90/907ced4f0c44822fa57e1b72c4e32ea2ba99adf1acbadfa8a9e3a3f34bc441d5/article.md",
+    "record": "articles/v1/0d/yc-algotest/2026/07/90/907ced4f0c44822fa57e1b72c4e32ea2ba99adf1acbadfa8a9e3a3f34bc441d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12650,
+    "sha256": "sha256:b86fbb0a226e61ba5f00497365f5713f68920e8437a4c44cad7c31be219b2084",
+    "normalized_content_hash": "sha256:ee7a7ed185ad7ccbcfe8b6cf2c271a8ef63eda0343551362672d727176164eed"
+  },
+  "provenance": {
+    "source_item_id": "f365155d-627a-4e68-b2bb-acf6a866edf2",
+    "external_id": "https://algotest.in/blog/option-greeks/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2d25a958031019c11c540b5fe2844322b98c673032b45e7a2013136febb08b34",
+  "company": {
+    "key": "yc-hubble-network",
+    "name": "Hubble Network"
+  },
+  "source": {
+    "id": "yc-hubble-network-news-import-f3026bf53e61",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://hubble.com/press/announcing-hubbles-ble-network",
+    "canonical": "https://hubble.com/press/announcing-hubbles-ble-network"
+  },
+  "title": "Introducing the Hubble Bluetooth® Finding Network",
+  "summary": "",
+  "published_at": "2025-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:15:36.287878+00:00",
+  "fetched_at": "2026-07-28T21:59:46.813241+00:00",
+  "last_updated_at": "2026-07-28T22:00:09.156928+00:00",
+  "paths": {
+    "article": "articles/v1/b4/yc-hubble-network/2025/07/2d/2d25a958031019c11c540b5fe2844322b98c673032b45e7a2013136febb08b34/article.md",
+    "record": "articles/v1/b4/yc-hubble-network/2025/07/2d/2d25a958031019c11c540b5fe2844322b98c673032b45e7a2013136febb08b34/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3843,
+    "sha256": "sha256:48080d0d7b3fd17812fcee92d017986108c2fab5cfb584e604f05bd873f0673e",
+    "normalized_content_hash": "sha256:9ef6bfee4ab38416e76432408c87e0df88bbd78aefc1448b57377f8d40203784"
+  },
+  "provenance": {
+    "source_item_id": "aaf8a0fd-4035-486c-898b-5b5ec87e7e42",
+    "external_id": "https://hubble.com/press/announcing-hubbles-ble-network"
+  }
+}

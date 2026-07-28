@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "60adf57421b0544c9863b63a7478c1b083ec492df79652534674d8b7812a8395",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/build-python-admin-panels-internal-tools-guide/",
+    "canonical": "https://reflex.dev/blog/build-python-admin-panels-internal-tools-guide/"
+  },
+  "title": "Build Python Admin Panels and Internal Tools: A Complete Guide",
+  "summary": "Create complete admin panels with forms, tables, authentication, and business process automation in pure Python—no JavaScript required.",
+  "published_at": "2026-03-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T21:26:25.193690+00:00",
+  "last_updated_at": "2026-07-28T21:26:52.267660+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/03/60/60adf57421b0544c9863b63a7478c1b083ec492df79652534674d8b7812a8395/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/03/60/60adf57421b0544c9863b63a7478c1b083ec492df79652534674d8b7812a8395/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12625,
+    "sha256": "sha256:41fb0e8448d76e07da29fc24d1508afa95c869ec9d099d7e6fc66375c9ad75a3",
+    "normalized_content_hash": "sha256:42c808ebd96f82c677d632ae45d0b0ec776c6ca39fb21eec1ae02eebe98c7ffe"
+  },
+  "provenance": {
+    "source_item_id": "62fe82d7-ee73-43e5-8bdf-62f6f136780a",
+    "external_id": "https://reflex.dev/blog/build-python-admin-panels-internal-tools-guide/"
+  }
+}

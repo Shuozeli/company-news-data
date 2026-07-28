@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "35b7ea76b806376b221c1c9aec09bd31e930882a31d852f5747cd033a3f0fa95",
+  "company": {
+    "key": "leidos-holdings-inc-common-stock",
+    "name": "Leidos Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "leidos-holdings-inc-common-stock-news-import-4f5f8dbd1dc3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.leidos.com/insights/american-aviation-safety-system-most-people-dont-see",
+    "canonical": "https://www.leidos.com/insights/american-aviation-safety-system-most-people-dont-see"
+  },
+  "title": "The American aviation safety system most people don't see",
+  "summary": "Behind every safe flight is trusted information that helps pilots make informed decisions before takeoff and throughout their journey.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T12:03:04.992780+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-07-28T21:20:54.055003+00:00",
+  "paths": {
+    "article": "articles/v1/0d/leidos-holdings-inc-common-stock/2026/07/35/35b7ea76b806376b221c1c9aec09bd31e930882a31d852f5747cd033a3f0fa95/article.md",
+    "record": "articles/v1/0d/leidos-holdings-inc-common-stock/2026/07/35/35b7ea76b806376b221c1c9aec09bd31e930882a31d852f5747cd033a3f0fa95/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8735,
+    "sha256": "sha256:bed2049aac2547d4c48ab0cba7878bed47cec6d679e99b6b5617b11bd0d0e036",
+    "normalized_content_hash": "sha256:97ddd6e8ba19030dc435ae2dbcab89afee54e996d115ef5a862ddeb582872b8c"
+  },
+  "provenance": {
+    "source_item_id": "afe50186-6f5e-418c-a3b0-c61f2c0eec63",
+    "external_id": "https://www.leidos.com/insights/american-aviation-safety-system-most-people-dont-see"
+  }
+}

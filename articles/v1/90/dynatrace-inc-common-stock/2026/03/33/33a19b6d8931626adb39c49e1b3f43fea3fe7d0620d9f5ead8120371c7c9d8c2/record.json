@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "33a19b6d8931626adb39c49e1b3f43fea3fe7d0620d9f5ead8120371c7c9d8c2",
+  "company": {
+    "key": "dynatrace-inc-common-stock",
+    "name": "Dynatrace Inc. Common Stock"
+  },
+  "source": {
+    "id": "dynatrace-inc-common-stock-news-import-04255267b1b8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dynatrace.com/news/press-release/freedompay-dynatrace-retail-economics-report/",
+    "canonical": "https://www.dynatrace.com/news/press-release/freedompay-dynatrace-retail-economics-report/"
+  },
+  "title": "Payment system failures put Canadian businesses at financial and reputational risk: FreedomPay & Dynatrace study finds",
+  "summary": "New report by FreedomPay, Dynatrace, and Retail Economics reveals Canadians will wait just 6 minutes during a service outage before abandoning a purchase.",
+  "published_at": "2026-03-12T16:16:44+00:00",
+  "first_seen_at": "2026-07-21T17:18:04.942961+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:19.578356+00:00",
+  "paths": {
+    "article": "articles/v1/90/dynatrace-inc-common-stock/2026/03/33/33a19b6d8931626adb39c49e1b3f43fea3fe7d0620d9f5ead8120371c7c9d8c2/article.md",
+    "record": "articles/v1/90/dynatrace-inc-common-stock/2026/03/33/33a19b6d8931626adb39c49e1b3f43fea3fe7d0620d9f5ead8120371c7c9d8c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6624,
+    "sha256": "sha256:f963896fd72c8aca17af8f5dac8bb036048f05989424dc27232fef13560b8723",
+    "normalized_content_hash": "sha256:4eb0809a3e992d7cceada0ab0b69f9d90e9972027524338075178f378c52c195"
+  },
+  "provenance": {
+    "source_item_id": "e7d62bcc-d1fa-4ac8-89ed-29b2510a3e46",
+    "external_id": "https://www.dynatrace.com/news/press-release/freedompay-dynatrace-retail-economics-report/"
+  }
+}

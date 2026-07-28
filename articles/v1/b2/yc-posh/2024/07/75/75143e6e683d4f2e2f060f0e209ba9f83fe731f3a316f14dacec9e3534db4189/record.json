@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "75143e6e683d4f2e2f060f0e209ba9f83fe731f3a316f14dacec9e3534db4189",
+  "company": {
+    "key": "yc-posh",
+    "name": "Posh"
+  },
+  "source": {
+    "id": "yc-posh-news-import-00809a778e56",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://poshenergy.com/articles/posh-wins-prestigious-rex-before-recycling-prize",
+    "canonical": "https://poshenergy.com/articles/posh-wins-prestigious-rex-before-recycling-prize"
+  },
+  "title": "POSH Wins Prestigious Re-X Before Recycling Prize",
+  "summary": "Posh Energy has been selected by the U.S. Department of Energy as a winner of the Re-X Before Recycling Prize — recognition for designs that extend battery life through reuse and refurbishment before end-of-life recycling.",
+  "published_at": "2024-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:39:36.446390+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:10.469524+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-posh/2024/07/75/75143e6e683d4f2e2f060f0e209ba9f83fe731f3a316f14dacec9e3534db4189/article.md",
+    "record": "articles/v1/b2/yc-posh/2024/07/75/75143e6e683d4f2e2f060f0e209ba9f83fe731f3a316f14dacec9e3534db4189/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2984,
+    "sha256": "sha256:275492857d885f22391af07b9b41a6d16715d80c4d0f76f3f0390e96589fe09e",
+    "normalized_content_hash": "sha256:b16ade8e8d9d778bafb4a7ad8b94b0bf7785479a291a2eefa72ee3923a1abaa1"
+  },
+  "provenance": {
+    "source_item_id": "07a7c0e5-e980-4a79-bdc9-87bc4eeeba2c",
+    "external_id": "https://poshenergy.com/articles/posh-wins-prestigious-rex-before-recycling-prize"
+  }
+}

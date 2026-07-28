@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9bf7fed364d85889140d9c6983f00f42bd4991aa00a346ef96d9ec5188bb609f",
+  "company": {
+    "key": "mercer-international-inc-common-stock",
+    "name": "Mercer International Inc. Common Stock"
+  },
+  "source": {
+    "id": "mercer-international-inc-common-stock-news-import-42d7945e1da2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mercerint.com/news/more-than-just-learning/",
+    "canonical": "https://mercerint.com/news/more-than-just-learning/"
+  },
+  "title": "More than just learning a trade: Why training at Mercer is different",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:04:13.713476+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:36.981377+00:00",
+  "paths": {
+    "article": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/9b/9bf7fed364d85889140d9c6983f00f42bd4991aa00a346ef96d9ec5188bb609f/article.md",
+    "record": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/9b/9bf7fed364d85889140d9c6983f00f42bd4991aa00a346ef96d9ec5188bb609f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7834,
+    "sha256": "sha256:dfcf833945bfebd7af9a489ae9883696a6d8e7a6e759fef4067e5ca515366afc",
+    "normalized_content_hash": "sha256:367762fef8a51177ffc261ee58e2deb1a3b22cc1307ec042d5bbd692c162ff8b"
+  },
+  "provenance": {
+    "source_item_id": "d7505008-0c04-4ddf-b9f4-5ad1e9c1d9f1",
+    "external_id": "https://mercerint.com/news/more-than-just-learning/"
+  }
+}

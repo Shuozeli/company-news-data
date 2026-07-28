@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1622724a58960121de6c24b0513e17f69f9a4349e757269f4e912a4c4427347b",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation Common Stock"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-0db2ae40c128",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
+    "canonical": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/"
+  },
+  "title": "What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026",
+  "summary": "At KubeCon + CloudNativeCon Europe 2026 in Amsterdam, we're announcing advancements to bring the operational maturity of Kubernetes to today's workloads and demands.",
+  "published_at": "2026-03-24T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T04:34:28.025355+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-07-28T22:00:54.539889+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/03/16/1622724a58960121de6c24b0513e17f69f9a4349e757269f4e912a4c4427347b/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/03/16/1622724a58960121de6c24b0513e17f69f9a4349e757269f4e912a4c4427347b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13680,
+    "sha256": "sha256:720a9a20a4c974bf1b6d45f229179ce1580e201f10fdbbce5c15aab256784215",
+    "normalized_content_hash": "sha256:ee5491d1abb61e90da2be3042e10689fbf5d423fb9225e28c1db452a5d78c122"
+  },
+  "provenance": {
+    "source_item_id": "b520adec-3958-4086-a052-27b62a4013f7",
+    "external_id": "https://opensource.microsoft.com/blog/?p=98370"
+  }
+}

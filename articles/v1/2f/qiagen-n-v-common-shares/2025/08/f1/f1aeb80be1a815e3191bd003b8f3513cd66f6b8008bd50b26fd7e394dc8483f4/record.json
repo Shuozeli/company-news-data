@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f1aeb80be1a815e3191bd003b8f3513cd66f6b8008bd50b26fd7e394dc8483f4",
+  "company": {
+    "key": "qiagen-n-v-common-shares",
+    "name": "Qiagen N.V. Common Shares"
+  },
+  "source": {
+    "id": "qiagen-n-v-common-shares-news-import-3382321b7330",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://digitalinsights.qiagen.com/news/blog/clinical/hgmd-free-vs-hgmd-pro/?cmpid=PromoTile_Discovery_1C1_BL",
+    "canonical": "https://digitalinsights.qiagen.com/news/blog/clinical/hgmd-free-vs-hgmd-pro/"
+  },
+  "title": "Using HGMD Public? Your Data Is 3 Years Behind",
+  "summary": "If you use the public version of HGMD, your data is 3 years behind. See what else you're missing by not using HGMD Professional.",
+  "published_at": "2025-08-29T01:17:54+00:00",
+  "first_seen_at": "2026-07-25T20:20:54.342051+00:00",
+  "fetched_at": "2026-07-27T23:07:36.305258+00:00",
+  "last_updated_at": "2026-07-27T23:07:39.778983+00:00",
+  "paths": {
+    "article": "articles/v1/2f/qiagen-n-v-common-shares/2025/08/f1/f1aeb80be1a815e3191bd003b8f3513cd66f6b8008bd50b26fd7e394dc8483f4/article.md",
+    "record": "articles/v1/2f/qiagen-n-v-common-shares/2025/08/f1/f1aeb80be1a815e3191bd003b8f3513cd66f6b8008bd50b26fd7e394dc8483f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4097,
+    "sha256": "sha256:73708c3c3261d667bee303292ba128ac5d4c3727616eef24a4b4aed92d667d69",
+    "normalized_content_hash": "sha256:71b42889292776599da5108c219145bbc97d29b4ec1845cdc716787ddd8a3e6b"
+  },
+  "provenance": {
+    "source_item_id": "487f7d32-6575-4dc7-a02f-ae4289b41d09",
+    "external_id": "https://digitalinsights.qiagen.com/news/blog/clinical/hgmd-free-vs-hgmd-pro/"
+  }
+}

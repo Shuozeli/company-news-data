@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2fa00e391792a82002f7fce9c1ad2797a8779227301f021190010a06efd7bdcf",
+  "company": {
+    "key": "alliant-energy-corporation-common-stock",
+    "name": "Alliant Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "alliant-energy-corporation-common-stock-news-import-5331c2900a0f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/04/042226-kids",
+    "canonical": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/04/042226-kids"
+  },
+  "title": "Teach kids to be ultimate energy savers",
+  "summary": "We have a new game called Energy Savers Quest.",
+  "published_at": "2026-04-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:32:38.450273+00:00",
+  "fetched_at": "2026-07-27T11:32:36.077817+00:00",
+  "last_updated_at": "2026-07-27T11:32:38.450273+00:00",
+  "paths": {
+    "article": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/04/2f/2fa00e391792a82002f7fce9c1ad2797a8779227301f021190010a06efd7bdcf/article.md",
+    "record": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/04/2f/2fa00e391792a82002f7fce9c1ad2797a8779227301f021190010a06efd7bdcf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2301,
+    "sha256": "sha256:f4e3887382a08754c98156fe0e6d987ec56179bfca69d0fe2eacda4e23e9773a",
+    "normalized_content_hash": "sha256:4e2ad0d94447c82404f762daa342f5681cc201e4b41219a54849a9e9cb06913c"
+  },
+  "provenance": {
+    "source_item_id": "5c1f6acc-ace6-4eec-b0bf-8d46a44c66bc",
+    "external_id": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/04/042226-kids"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef4bd739b8b7da163f76a43377cbd99e13b46881a92e2005ff955ac3b7f85d9d",
+  "company": {
+    "key": "yc-microhealth",
+    "name": "Microhealth"
+  },
+  "source": {
+    "id": "yc-microhealth-news-import-c7b5bff0479b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.microhealthllc.com/blog/federal-cybersecurity-protecting-sensitive-data-across-missions/",
+    "canonical": "https://www.microhealthllc.com/blog/federal-cybersecurity-protecting-sensitive-data-across-missions/"
+  },
+  "title": "Cybersecurity in the Federal Space: Protecting Sensitive Data Across Missions",
+  "summary": "Zero Trust and modern controls that protect federal data—healthcare, benefits, research—without slowing the mission.",
+  "published_at": "2026-03-23T18:20:31+00:00",
+  "first_seen_at": "2026-07-24T11:22:43.376355+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-07-28T22:00:58.252122+00:00",
+  "paths": {
+    "article": "articles/v1/72/yc-microhealth/2026/03/ef/ef4bd739b8b7da163f76a43377cbd99e13b46881a92e2005ff955ac3b7f85d9d/article.md",
+    "record": "articles/v1/72/yc-microhealth/2026/03/ef/ef4bd739b8b7da163f76a43377cbd99e13b46881a92e2005ff955ac3b7f85d9d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9839,
+    "sha256": "sha256:409dfbf8487bc512c83c6ac1c65894444eb15c5df68724332e0821a4ee4e1a7c",
+    "normalized_content_hash": "sha256:e031400e245b75eaea0052df646b5f1afba8c0deb26d08614bb1762a02f10b68"
+  },
+  "provenance": {
+    "source_item_id": "f2f73de7-9f8f-4da7-bb22-4c971b023072",
+    "external_id": "https://www.microhealthllc.com/blog/federal-cybersecurity-protecting-sensitive-data-across-missions/"
+  }
+}

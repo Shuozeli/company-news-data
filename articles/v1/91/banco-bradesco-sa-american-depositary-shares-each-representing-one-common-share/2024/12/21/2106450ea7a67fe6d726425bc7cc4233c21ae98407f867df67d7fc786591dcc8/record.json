@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2106450ea7a67fe6d726425bc7cc4233c21ae98407f867df67d7fc786591dcc8",
+  "company": {
+    "key": "banco-bradesco-sa-american-depositary-shares-each-representing-one-common-share",
+    "name": "Banco Bradesco Sa American Depositary Shares (each representing one Common Share)"
+  },
+  "source": {
+    "id": "banco-bradesco-sa-american-depositary-shares-each-representing-one-common-share-news-import-67a225edc451",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bradescori.com.br/en/market-information/credit-ratings/",
+    "canonical": "https://www.bradescori.com.br/en/market-information/credit-ratings/"
+  },
+  "title": "Ratings and Fixed Income",
+  "summary": "See Bradesco's credit ratings from major agencies.",
+  "published_at": "2024-12-07T19:18:59+00:00",
+  "first_seen_at": "2026-07-24T18:32:32.119644+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:37.011287+00:00",
+  "paths": {
+    "article": "articles/v1/91/banco-bradesco-sa-american-depositary-shares-each-representing-one-common-share/2024/12/21/2106450ea7a67fe6d726425bc7cc4233c21ae98407f867df67d7fc786591dcc8/article.md",
+    "record": "articles/v1/91/banco-bradesco-sa-american-depositary-shares-each-representing-one-common-share/2024/12/21/2106450ea7a67fe6d726425bc7cc4233c21ae98407f867df67d7fc786591dcc8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4216,
+    "sha256": "sha256:4a2cf577cc872de9a888d1bb43b3cb054f99fc5ab7300d684ba7dbc3851b5906",
+    "normalized_content_hash": "sha256:90f4e50e93bb589a35a6d605d443f65d9799223578919c2995c9bd59396559a3"
+  },
+  "provenance": {
+    "source_item_id": "de1dbb4d-a3ab-4436-8268-000e4c7b09f8",
+    "external_id": "https://www.bradescori.com.br/en/market-information/credit-ratings/"
+  }
+}

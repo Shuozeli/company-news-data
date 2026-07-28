@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "037cc735e46e6ccf570a3e8b18f269cb1049b3672b183ac80935f9e65f6a5eba",
+  "company": {
+    "key": "adobe-inc-common-stock",
+    "name": "Adobe Inc. Common Stock"
+  },
+  "source": {
+    "id": "adobe-inc-common-stock-rss-28948b03acf0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.developer.adobe.com/en/publish/2026/03/how-the-experience-modernization-agent-migrates-sites-to-edge-delivery-services",
+    "canonical": "https://blog.developer.adobe.com/en/publish/2026/03/how-the-experience-modernization-agent-migrates-sites-to-edge-delivery-services"
+  },
+  "title": "How the Experience Modernization Agent Migrates Sites to Edge Delivery Services",
+  "summary": "The destination is usually clear. The architectural benefits are understood. What burns time is the mechanical work: decomposing existing pages into reusable blocks, reconstructing a ...",
+  "published_at": "2026-03-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:41.472965+00:00",
+  "fetched_at": "2026-07-28T20:31:19.849002+00:00",
+  "last_updated_at": "2026-07-28T20:31:20.766529+00:00",
+  "paths": {
+    "article": "articles/v1/1c/adobe-inc-common-stock/2026/03/03/037cc735e46e6ccf570a3e8b18f269cb1049b3672b183ac80935f9e65f6a5eba/article.md",
+    "record": "articles/v1/1c/adobe-inc-common-stock/2026/03/03/037cc735e46e6ccf570a3e8b18f269cb1049b3672b183ac80935f9e65f6a5eba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 885,
+    "sha256": "sha256:d5bc4f903dabb7b851db50a7600f7f9d4125727a33a3779f7ea4deeed683bf55",
+    "normalized_content_hash": "sha256:93ead5604aa2040cee3beef4abc2786da77003b453c8e5f358d96f298b81f437"
+  },
+  "provenance": {
+    "source_item_id": "999f3602-eceb-4908-a910-c0858c523d16",
+    "external_id": "https://blog.developer.adobe.com/en/publish/2026/03/how-the-experience-modernization-agent-migrates-sites-to-edge-delivery-services"
+  }
+}

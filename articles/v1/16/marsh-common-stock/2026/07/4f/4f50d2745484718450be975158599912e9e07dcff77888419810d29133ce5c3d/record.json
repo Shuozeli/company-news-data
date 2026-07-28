@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f50d2745484718450be975158599912e9e07dcff77888419810d29133ce5c3d",
+  "company": {
+    "key": "marsh-common-stock",
+    "name": "Marsh Common Stock"
+  },
+  "source": {
+    "id": "marsh-common-stock-news-import-967b5273dc54",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.corporate.marsh.com/news-events/2026/june/marsh-appoints-tracie-thompson-global-head-of-portfolio-solutions.html",
+    "canonical": "https://www.corporate.marsh.com/news-events/2026/june/marsh-appoints-tracie-thompson-global-head-of-portfolio-solutions.html"
+  },
+  "title": "Marsh appoints Tracie Thompson as Global Head of Portfolio Solutions, Marsh Risk",
+  "summary": "Marsh appoints Tracie Thompson as Global Head of Portfolio Solutions, Marsh Risk.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T03:26:36.756038+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:38.542669+00:00",
+  "paths": {
+    "article": "articles/v1/16/marsh-common-stock/2026/07/4f/4f50d2745484718450be975158599912e9e07dcff77888419810d29133ce5c3d/article.md",
+    "record": "articles/v1/16/marsh-common-stock/2026/07/4f/4f50d2745484718450be975158599912e9e07dcff77888419810d29133ce5c3d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3340,
+    "sha256": "sha256:634dfb0a4f26e9f2a7fd554f77fb181cc2e79f84af5f6a0aedbd3b3b3e1ba243",
+    "normalized_content_hash": "sha256:8f23aaac511698c574caf565ec777852192f8e12c922e21b5f5e40122244e375"
+  },
+  "provenance": {
+    "source_item_id": "c47fb9e3-4b3f-44cd-a20a-3a899a3a15aa",
+    "external_id": "https://www.corporate.marsh.com/news-events/2026/june/marsh-appoints-tracie-thompson-global-head-of-portfolio-solutions.html"
+  }
+}

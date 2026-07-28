@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f5486182dffc21051c6d3d60416e7d8f9c53bcd1c02d2eb7d6c492a9a95b112d",
+  "company": {
+    "key": "seneca-foods-corp-class-b-common-stock",
+    "name": "Seneca Foods Corp. Class B Common Stock"
+  },
+  "source": {
+    "id": "seneca-foods-corp-class-b-common-stock-rss-812bb00696df",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.senecafoods.com/sec-filing/seneca-foods-corporation-proxy-2",
+    "canonical": "https://www.senecafoods.com/sec-filing/seneca-foods-corporation-proxy-2"
+  },
+  "title": "Seneca Foods Corporation Proxy",
+  "summary": "Seneca Foods Corporation Proxy sfcadmin Tue, 07/07/2026 - 16:31 Filing date Tue, 07/07/2026 - 16:10 PDF document Seneca Foods Proxy Statement 2026.pdf XBRL documents senea-20260331.xsd senea-20260331_def.xml senea-20260331_lab.xml senea-20260331_pre.xml senea20260618_def14a_htm.xml URL to View Documents https://www.sec.gov/Archives/edgar/data/88948/000143774926022933/0001437749-26-…",
+  "published_at": "2026-07-07T20:31:23+00:00",
+  "first_seen_at": "2026-07-20T23:22:26.122079+00:00",
+  "fetched_at": "2026-07-28T20:43:05.623336+00:00",
+  "last_updated_at": "2026-07-28T20:43:05.728004+00:00",
+  "paths": {
+    "article": "articles/v1/cd/seneca-foods-corp-class-b-common-stock/2026/07/f5/f5486182dffc21051c6d3d60416e7d8f9c53bcd1c02d2eb7d6c492a9a95b112d/article.md",
+    "record": "articles/v1/cd/seneca-foods-corp-class-b-common-stock/2026/07/f5/f5486182dffc21051c6d3d60416e7d8f9c53bcd1c02d2eb7d6c492a9a95b112d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1886,
+    "sha256": "sha256:6e32480af0770b9ad347cb98f5e58d7a7b1466b64f6edd72591ba81edaa5d823",
+    "normalized_content_hash": "sha256:b3016fcdb1d57ed7a56b7926162fcf82dcdfde3e9afe8f7873f9f39ba73fd142"
+  },
+  "provenance": {
+    "source_item_id": "b3132f28-368c-4adc-b40f-80adfbd4138f",
+    "external_id": "3527 at https://www.senecafoods.com"
+  }
+}

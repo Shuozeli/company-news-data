@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1234715be45afeadd6a652c758ca14253dd733b5e5a937bc349b37c890854dc5",
+  "company": {
+    "key": "yc-coderhouse",
+    "name": "Coderhouse"
+  },
+  "source": {
+    "id": "yc-coderhouse-news-import-7a925063f664",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coderhouse.com/coderlibrary/kimi-k3-open-source-pesos-frontend-benchmark",
+    "canonical": "https://www.coderhouse.com/coderlibrary/kimi-k3-open-source-pesos-frontend-benchmark"
+  },
+  "title": "Kimi K3: modelo open source frontier de Moonshot AI | Coderhouse",
+  "summary": "Moonshot AI liberó los pesos de Kimi K3: qué significa, su resultado #1 en benchmarks de código y qué implica para developers que buscan un modelo frontier libre.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T07:56:38.769046+00:00",
+  "fetched_at": "2026-07-28T07:56:35.409468+00:00",
+  "last_updated_at": "2026-07-28T07:56:38.769046+00:00",
+  "paths": {
+    "article": "articles/v1/7a/yc-coderhouse/2026/07/12/1234715be45afeadd6a652c758ca14253dd733b5e5a937bc349b37c890854dc5/article.md",
+    "record": "articles/v1/7a/yc-coderhouse/2026/07/12/1234715be45afeadd6a652c758ca14253dd733b5e5a937bc349b37c890854dc5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6170,
+    "sha256": "sha256:ac0711b422d0b419aa2acff80b13becf4c435e717b6140ccf20104bd2348e71a",
+    "normalized_content_hash": "sha256:61faa259a92f25ea60b8e17ba9caf77a5478647d3b63b7d5fdb60aa8ae9603bc"
+  },
+  "provenance": {
+    "source_item_id": "2d11ba43-48a8-4e80-bfee-7617f9470a95",
+    "external_id": "https://www.coderhouse.com/coderlibrary/kimi-k3-open-source-pesos-frontend-benchmark"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "377b552989435cd65332235db2ef4f43d408d1e55614f24e9535559cd6592ebb",
+  "company": {
+    "key": "yc-intryc",
+    "name": "Intryc"
+  },
+  "source": {
+    "id": "yc-intryc-news-import-17b79f653bb0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.intryc.com/blog/voice-ai-quality-metrics-beyond-traditional-call-center-kpis",
+    "canonical": "https://www.intryc.com/blog/voice-ai-quality-metrics-beyond-traditional-call-center-kpis"
+  },
+  "title": "Voice AI Metrics: Beyond Traditional Call Center KPIs",
+  "summary": "Traditional call center metrics miss voice AI quality issues. Learn essential voice AI metrics for latency, context loss, and conversation flow evaluation.",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:22:23.516240+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:26.120845+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-intryc/2026/04/37/377b552989435cd65332235db2ef4f43d408d1e55614f24e9535559cd6592ebb/article.md",
+    "record": "articles/v1/45/yc-intryc/2026/04/37/377b552989435cd65332235db2ef4f43d408d1e55614f24e9535559cd6592ebb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9412,
+    "sha256": "sha256:42188cc8ed10e2da8bdd7eb4883e5318b6b5467b11ccc77b6c32b4fdb6b7dc68",
+    "normalized_content_hash": "sha256:a8ce4d30fb7df92cf90682437d439849c80b537514ac21b73c1d2671491a4427"
+  },
+  "provenance": {
+    "source_item_id": "8a97070f-ba15-4b57-a941-241a03f5e495",
+    "external_id": "https://www.intryc.com/blog/voice-ai-quality-metrics-beyond-traditional-call-center-kpis"
+  }
+}

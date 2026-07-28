@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff649c20a68753134c413dd9cd27655802afe6f92701b0c2e0095d5989a0c035",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/deal-insights-dashboard-what-sales-leaders-use",
+    "canonical": "https://demodesk.com/blog/deal-insights-dashboard-what-sales-leaders-use"
+  },
+  "title": "Deal Insights Dashboard: What Sales Leaders Actually Use (vs What They Ignore)",
+  "summary": "Sales leaders check three things on a deal insights dashboard and ignore the rest. Here's what actually gets used — and why most dashboards go unread.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T16:28:03.851214+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:01.179153+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/ff/ff649c20a68753134c413dd9cd27655802afe6f92701b0c2e0095d5989a0c035/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/ff/ff649c20a68753134c413dd9cd27655802afe6f92701b0c2e0095d5989a0c035/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8376,
+    "sha256": "sha256:8c93610b1d954a728a8226aa656a01707adeb9515c4a3df463dee57f5af6ddb2",
+    "normalized_content_hash": "sha256:a48735e39cd71907753f558da3bed3c0774bcb33a376db93f80cf9a3e6439e9b"
+  },
+  "provenance": {
+    "source_item_id": "836a7434-81e1-4645-a953-3a0441c1cbef",
+    "external_id": "https://demodesk.com/blog/deal-insights-dashboard-what-sales-leaders-use"
+  }
+}

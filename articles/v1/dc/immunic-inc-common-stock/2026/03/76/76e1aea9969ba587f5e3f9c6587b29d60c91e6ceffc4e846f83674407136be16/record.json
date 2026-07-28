@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "76e1aea9969ba587f5e3f9c6587b29d60c91e6ceffc4e846f83674407136be16",
+  "company": {
+    "key": "immunic-inc-common-stock",
+    "name": "Immunic Inc. Common Stock"
+  },
+  "source": {
+    "id": "immunic-inc-common-stock-news-import-bc70b831650b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://imux.com/immunic-announces-grant-of-key-european-patent-protecting-relevant-dosing-regimens-for-vidofludimus-calcium/",
+    "canonical": "https://imux.com/immunic-announces-grant-of-key-european-patent-protecting-relevant-dosing-regimens-for-vidofludimus-calcium/"
+  },
+  "title": "Immunic Announces Grant of Key European Patent Protecting Relevant Dosing Regimens for Vidofludimus Calcium",
+  "summary": "Immunic, Inc. (Nasdaq: IMUX), today announced that the European Patent Office (EPO) has granted a key European patent, EP3713554, directed to label-relevant dosing regimens of lead asset, nuclear receptor-related 1 (Nurr1) activator, vidofludimus calcium (IMU-838).",
+  "published_at": "2026-03-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T09:19:11.387681+00:00",
+  "fetched_at": "2026-07-28T21:26:25.193690+00:00",
+  "last_updated_at": "2026-07-28T21:26:49.631739+00:00",
+  "paths": {
+    "article": "articles/v1/dc/immunic-inc-common-stock/2026/03/76/76e1aea9969ba587f5e3f9c6587b29d60c91e6ceffc4e846f83674407136be16/article.md",
+    "record": "articles/v1/dc/immunic-inc-common-stock/2026/03/76/76e1aea9969ba587f5e3f9c6587b29d60c91e6ceffc4e846f83674407136be16/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11655,
+    "sha256": "sha256:c0f976b00a6a0d7e8a759f45cc2ee43a7cdc2d63abeba1312250f35cecbab5a7",
+    "normalized_content_hash": "sha256:654180499320d1e069b33176df43349dca10c572cefa740e5a939497fd582e98"
+  },
+  "provenance": {
+    "source_item_id": "b16ca884-fcf4-402f-a274-33aa8555f884",
+    "external_id": "https://imux.com/immunic-announces-grant-of-key-european-patent-protecting-relevant-dosing-regimens-for-vidofludimus-calcium/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81c34453ff14f9580a6ddc3a73ec36a81471c2290dee011caa71741a2cb794b2",
+  "company": {
+    "key": "cirrus-logic-inc-common-stock",
+    "name": "Cirrus Logic Inc. Common Stock"
+  },
+  "source": {
+    "id": "cirrus-logic-inc-common-stock-news-import-2267740f74eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cirrus.com/company/media-center/releases/2025/cirrus-logic-expands-pro-audio-portfolio",
+    "canonical": "https://www.cirrus.com/company/media-center/releases/2025/cirrus-logic-expands-pro-audio-portfolio"
+  },
+  "title": "Cirrus Logic Expands Pro Audio Portfolio with New Range of ADCs and DACs",
+  "summary": "",
+  "published_at": "2025-06-24T06:01:00+00:00",
+  "first_seen_at": "2026-07-27T00:50:02.818872+00:00",
+  "fetched_at": "2026-07-28T01:36:08.593579+00:00",
+  "last_updated_at": "2026-07-28T01:36:12.448871+00:00",
+  "paths": {
+    "article": "articles/v1/a6/cirrus-logic-inc-common-stock/2025/06/81/81c34453ff14f9580a6ddc3a73ec36a81471c2290dee011caa71741a2cb794b2/article.md",
+    "record": "articles/v1/a6/cirrus-logic-inc-common-stock/2025/06/81/81c34453ff14f9580a6ddc3a73ec36a81471c2290dee011caa71741a2cb794b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4728,
+    "sha256": "sha256:111cc9871014fd3149b9b722e85d0ca1e3884d4296378bac2028e9fa066efc26",
+    "normalized_content_hash": "sha256:60359597f9eebf8e27d97f272fbd95ca100764188f666841150592f1824720d1"
+  },
+  "provenance": {
+    "source_item_id": "1f35bc5f-d34f-488e-9213-bb99da784370",
+    "external_id": "https://www.cirrus.com/company/media-center/releases/2025/cirrus-logic-expands-pro-audio-portfolio"
+  }
+}

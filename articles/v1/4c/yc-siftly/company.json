@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-siftly",
+    "name": "Siftly"
+  },
+  "record_count": 38,
+  "first_published_at": "2026-05-04T10:08:59.884+00:00",
+  "last_published_at": "2026-07-28T18:10:05.549253+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 19
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 16
+    }
+  ]
+}

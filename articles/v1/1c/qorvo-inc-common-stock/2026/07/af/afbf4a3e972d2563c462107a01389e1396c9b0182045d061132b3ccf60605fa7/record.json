@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "afbf4a3e972d2563c462107a01389e1396c9b0182045d061132b3ccf60605fa7",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/qorvo-to-distribute-quarterly-earnings-on-may-5-2026",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/qorvo-to-distribute-quarterly-earnings-on-may-5-2026"
+  },
+  "title": "Qorvo to Distribute Quarterly Earnings on May 5, 2026",
+  "summary": "Qorvo® (Nasdaq: QRVO), a leading global provider of connectivity and power solutions, will distribute fiscal 2026 fourth quarter financial results at approximately 4:00 p.m. (ET) on Tuesday, May 5, 2026.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:12.942701+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/af/afbf4a3e972d2563c462107a01389e1396c9b0182045d061132b3ccf60605fa7/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/af/afbf4a3e972d2563c462107a01389e1396c9b0182045d061132b3ccf60605fa7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7356,
+    "sha256": "sha256:ae876773bb5d200da8dfb55637948ca2f61f39ec72bd1ab92ea33ea9fc285d6b",
+    "normalized_content_hash": "sha256:18c1cb21abcf464febbb0c0ec9e42c98e57aaf6e40a3e98d0405df7321153ae5"
+  },
+  "provenance": {
+    "source_item_id": "e422718c-f8d7-4c30-85af-78e97ce922a1",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/qorvo-to-distribute-quarterly-earnings-on-may-5-2026"
+  }
+}

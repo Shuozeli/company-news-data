@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8db823187a24403871cab1424af507a41fc5e173357f9ed5a65db7348bae9c3b",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/add-type-safety-to-formiks-field-component",
+    "canonical": "https://www.flightcontrol.dev/blog/add-type-safety-to-formiks-field-component"
+  },
+  "title": "Add Type Safety to Formik’s Field Component",
+  "summary": "Formik only has limited type safety by default. This article shows how we added full type safety in user-land.",
+  "published_at": "2024-06-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:13.134930+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2024/06/8d/8db823187a24403871cab1424af507a41fc5e173357f9ed5a65db7348bae9c3b/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2024/06/8d/8db823187a24403871cab1424af507a41fc5e173357f9ed5a65db7348bae9c3b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11442,
+    "sha256": "sha256:4f945df44a4ab68cb3592f02089df07f37a460002efae9288a0daf6ae619ab02",
+    "normalized_content_hash": "sha256:f7ceef1f041c5c3ca5a980ad3ad7ae164b4b568a7f44aa3f80f587ef5016748e"
+  },
+  "provenance": {
+    "source_item_id": "349010b0-c45a-4cb8-af21-824c99597fb2",
+    "external_id": "https://www.flightcontrol.dev/blog/add-type-safety-to-formiks-field-component"
+  }
+}

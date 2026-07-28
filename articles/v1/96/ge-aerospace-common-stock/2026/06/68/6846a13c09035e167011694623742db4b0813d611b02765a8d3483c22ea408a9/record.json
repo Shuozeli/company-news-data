@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6846a13c09035e167011694623742db4b0813d611b02765a8d3483c22ea408a9",
+  "company": {
+    "key": "ge-aerospace-common-stock",
+    "name": "GE Aerospace Common Stock"
+  },
+  "source": {
+    "id": "ge-aerospace-common-stock-news-import-cc3bb1578416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.geaerospace.com/news/articles/ge-aerospaces-quick-six-james-liu-who-summited-mount-everest",
+    "canonical": "https://www.geaerospace.com/news/articles/ge-aerospaces-quick-six-james-liu-who-summited-mount-everest"
+  },
+  "title": "GE Aerospace’s Quick Six with James Liu, who Summited Mount Everest",
+  "summary": "From working parents to military veterans, GE Aerospace would not be the company it is today without its employees.",
+  "published_at": "2026-06-08T18:09:25+00:00",
+  "first_seen_at": "2026-07-21T21:23:10.954248+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:55.519057+00:00",
+  "paths": {
+    "article": "articles/v1/96/ge-aerospace-common-stock/2026/06/68/6846a13c09035e167011694623742db4b0813d611b02765a8d3483c22ea408a9/article.md",
+    "record": "articles/v1/96/ge-aerospace-common-stock/2026/06/68/6846a13c09035e167011694623742db4b0813d611b02765a8d3483c22ea408a9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13556,
+    "sha256": "sha256:1290b65f64a045a6811e402fb8457d67ddf5a4bea48cb8e71e9f9d9a92705bbd",
+    "normalized_content_hash": "sha256:ddeab29c0f6f43e1409cd5de4eda2cd4acf638c359351180ccaa0c0cd6e65329"
+  },
+  "provenance": {
+    "source_item_id": "d30777d5-c2bc-4cf3-bab8-7d0a08cd522c",
+    "external_id": "https://www.geaerospace.com/news/articles/ge-aerospaces-quick-six-james-liu-who-summited-mount-everest"
+  }
+}

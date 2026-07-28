@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "93da1c16a429adad4f0d6eef89d904af9f008494c3e9ece46eab938c0484bdea",
+  "company": {
+    "key": "traws-pharma-inc-common-stock",
+    "name": "Traws Pharma Inc. Common Stock"
+  },
+  "source": {
+    "id": "traws-pharma-inc-common-stock-news-import-7cdeb0b48417",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2026/05/27/3301975/0/en/traws-pharma-announces-antiviral-program-targeting-ongoing-hantavirus-and-ebola-virus-disease-outbreaks.html",
+    "canonical": "https://www.globenewswire.com/news-release/2026/05/27/3301975/0/en/traws-pharma-announces-antiviral-program-targeting-ongoing-hantavirus-and-ebola-virus-disease-outbreaks.html"
+  },
+  "title": "Traws Pharma Announces Antiviral Program Targeting Ongoing Hantavirus and Ebola Virus Disease Outbreaks",
+  "summary": "Broad-spectrum antiviral agent with potential utility against Hantavirus, Ebola and Lassa Utilizing a novel dual-strike mechanism, the proprietary...",
+  "published_at": "2026-05-27T12:45:00+00:00",
+  "first_seen_at": "2026-07-24T04:33:51.675673+00:00",
+  "fetched_at": "2026-07-28T21:46:32.935029+00:00",
+  "last_updated_at": "2026-07-28T21:54:52.043180+00:00",
+  "paths": {
+    "article": "articles/v1/e3/traws-pharma-inc-common-stock/2026/05/93/93da1c16a429adad4f0d6eef89d904af9f008494c3e9ece46eab938c0484bdea/article.md",
+    "record": "articles/v1/e3/traws-pharma-inc-common-stock/2026/05/93/93da1c16a429adad4f0d6eef89d904af9f008494c3e9ece46eab938c0484bdea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9424,
+    "sha256": "sha256:ea7f91d5094a4251a64d267ab4564ada20067126b72cb58b3ec66ae5895ee1d8",
+    "normalized_content_hash": "sha256:ec341951a6732e6c7c2c4eaf4d42f66ef8618e3266db7decf9b769c0f94c8ee3"
+  },
+  "provenance": {
+    "source_item_id": "2b9ddae4-fc7a-49a7-b55c-adc70dbb461d",
+    "external_id": "https://www.globenewswire.com/news-release/2026/05/27/3301975/0/en/traws-pharma-announces-antiviral-program-targeting-ongoing-hantavirus-and-ebola-virus-disease-outbreaks.html"
+  }
+}

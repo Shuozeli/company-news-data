@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-givemetap",
+    "name": "GiveMeTap"
+  },
+  "record_count": 29,
+  "first_published_at": "2013-08-06T00:00:00+00:00",
+  "last_published_at": "2017-12-29T13:59:00+00:00",
+  "partitions": [
+    {
+      "partition": "2013-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2013-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2013-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2014-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2014-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2016-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-12",
+      "record_count": 1
+    }
+  ]
+}

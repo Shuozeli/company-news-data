@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6c4334f7a521233f36a87631b8df623f3294586c5f2d197d8ff116f0effb9293",
+  "company": {
+    "key": "salesforce-inc-common-stock",
+    "name": "Salesforce Inc. Common Stock"
+  },
+  "source": {
+    "id": "salesforce-inc-common-stock-news-import-14515a567cd2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.salesforce.com/news/press-releases/2026/05/27/fy27-q1-earnings/?bc=HL",
+    "canonical": "https://www.salesforce.com/news/press-releases/2026/05/27/fy27-q1-earnings/"
+  },
+  "title": "Salesforce Delivers Record First Quarter Fiscal 2027 Results",
+  "summary": "GAAP EPS $2.42, up 52% Y/Y, Non-GAAP EPS $3.88, up 50% Y/Y",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:38:43.091624+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-07-28T22:07:27.453681+00:00",
+  "paths": {
+    "article": "articles/v1/e1/salesforce-inc-common-stock/2026/05/6c/6c4334f7a521233f36a87631b8df623f3294586c5f2d197d8ff116f0effb9293/article.md",
+    "record": "articles/v1/e1/salesforce-inc-common-stock/2026/05/6c/6c4334f7a521233f36a87631b8df623f3294586c5f2d197d8ff116f0effb9293/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7673,
+    "sha256": "sha256:e9bee8ec4bdb7bacd8f5bea6fdbf98d908d349e95e5b9834f682f40152639080",
+    "normalized_content_hash": "sha256:4d5db5ffa92d35d7228d3d3d18f13b06479ee1cf75b02cef62d41c9f65ad3a45"
+  },
+  "provenance": {
+    "source_item_id": "ecedc395-bccb-49a4-b013-c65e460b20a5",
+    "external_id": "https://www.salesforce.com/news/press-releases/2026/05/27/fy27-q1-earnings/"
+  }
+}

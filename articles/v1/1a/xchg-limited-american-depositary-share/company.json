@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "xchg-limited-american-depositary-share",
+    "name": "XCHG Limited American Depositary Share"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-10-21T11:01:06+00:00",
+  "last_published_at": "2026-06-30T20:05:47+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ac642241bbb98a420b52a73021ddc4d7cc01fc8f133be1ad26d9b8d30a1b5672",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/gcp-data-mig-3/",
+    "canonical": "https://engineering.sift.com/gcp-data-mig-3/"
+  },
+  "title": "Planning a Zero Downtime Data Migration (Part 3/4)",
+  "summary": "How Sift planned the zero-downtime data migration from HBase on AWS to GCP. The Sift platform enhances trust and safety in the digital world.",
+  "published_at": "2020-02-20T08:49:21+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.550851+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2020/02/ac/ac642241bbb98a420b52a73021ddc4d7cc01fc8f133be1ad26d9b8d30a1b5672/article.md",
+    "record": "articles/v1/fe/yc-sift/2020/02/ac/ac642241bbb98a420b52a73021ddc4d7cc01fc8f133be1ad26d9b8d30a1b5672/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15439,
+    "sha256": "sha256:6ba33123ae213feb118d92f7fec2ae32da18ed95cb411bf6fd110a9dc2220e1c",
+    "normalized_content_hash": "sha256:518e886258792b24c33a6de7b46c3e7ddb87cf3550fcfdd3ba7a7e866d558cfe"
+  },
+  "provenance": {
+    "source_item_id": "f636ce11-d3c9-4252-a481-58e1f9b26d9b",
+    "external_id": "https://engineering.sift.com/gcp-data-mig-3/"
+  }
+}

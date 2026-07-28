@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b5161538a9339678d0ad1bd6e4f4271f270eb69bb2dd2de2843e459daeba190",
+  "company": {
+    "key": "tc-energy-corporation-common-stock",
+    "name": "TC Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "tc-energy-corporation-common-stock-news-import-3a6f346f38c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tcenergy.com/stories/2025/2025-06-19-national-indigenous-peoples-day-this-is-me-amanda/",
+    "canonical": "https://www.tcenergy.com/stories/2025/2025-06-19-national-indigenous-peoples-day-this-is-me-amanda/"
+  },
+  "title": "National Indigenous Peoples’ Day: This is me, Amanda",
+  "summary": "Amanda Cress opens up about her Indigenous identity and her pride for her roots.",
+  "published_at": "2024-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:45:22.269204+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:17.885702+00:00",
+  "paths": {
+    "article": "articles/v1/54/tc-energy-corporation-common-stock/2024/08/7b/7b5161538a9339678d0ad1bd6e4f4271f270eb69bb2dd2de2843e459daeba190/article.md",
+    "record": "articles/v1/54/tc-energy-corporation-common-stock/2024/08/7b/7b5161538a9339678d0ad1bd6e4f4271f270eb69bb2dd2de2843e459daeba190/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6253,
+    "sha256": "sha256:6a6cd995380d24969e7082e86be471222361a8aa72bae8c997dc04bdcb83666c",
+    "normalized_content_hash": "sha256:37de70779d70db73aa1144e0afce46a08636be2d530083a1821dab374fb6808a"
+  },
+  "provenance": {
+    "source_item_id": "f1c19a53-fe0a-4ce9-b7eb-76e70d73c1e7",
+    "external_id": "https://www.tcenergy.com/stories/2025/2025-06-19-national-indigenous-peoples-day-this-is-me-amanda/"
+  }
+}

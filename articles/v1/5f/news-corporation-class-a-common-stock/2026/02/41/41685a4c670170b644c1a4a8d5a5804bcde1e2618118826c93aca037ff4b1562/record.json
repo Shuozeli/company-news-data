@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "41685a4c670170b644c1a4a8d5a5804bcde1e2618118826c93aca037ff4b1562",
+  "company": {
+    "key": "news-corporation-class-a-common-stock",
+    "name": "News Corporation Class A Common Stock"
+  },
+  "source": {
+    "id": "news-corporation-class-a-common-stock-rss-4854b89b29ce",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://newscorp.com/2026/02/19/news-corp-announces-match-for-u-s-governments-1000-contribution-to-childrens-investment-accounts/",
+    "canonical": "https://newscorp.com/2026/02/19/news-corp-announces-match-for-u-s-governments-1000-contribution-to-childrens-investment-accounts/"
+  },
+  "title": "News Corp Announces Match for U.S. Government’s $1,000 Contribution to Children’s Investment Accounts",
+  "summary": "News Corp Announces Match for U.S. Government’s $1,000 Contribution to Children’s Investment Accounts New York, NY – February 19, 2026 – News Corporation (NASDAQ: NWSA, NWS; ASX: NWS, NWSLV) announced today that it will match the U.S. government’s one-time $1,000 contribution to the Section 530A accounts (“Trump Accounts”) designed to “jumpstart the American Dream” for […]",
+  "published_at": "2026-02-19T16:00:19+00:00",
+  "first_seen_at": "2026-07-22T17:16:37.796071+00:00",
+  "fetched_at": "2026-07-28T22:19:37.621751+00:00",
+  "last_updated_at": "2026-07-28T22:23:56.776106+00:00",
+  "paths": {
+    "article": "articles/v1/5f/news-corporation-class-a-common-stock/2026/02/41/41685a4c670170b644c1a4a8d5a5804bcde1e2618118826c93aca037ff4b1562/article.md",
+    "record": "articles/v1/5f/news-corporation-class-a-common-stock/2026/02/41/41685a4c670170b644c1a4a8d5a5804bcde1e2618118826c93aca037ff4b1562/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2571,
+    "sha256": "sha256:1e3af2310dd457842ffd0b5742a1cf805b955e6ca1388daba8b2a8a7b7331e18",
+    "normalized_content_hash": "sha256:26bf10ad74c5246fdd0c9f86c9ba5f50a789c7dfe27782fcff4633a45e67b1f4"
+  },
+  "provenance": {
+    "source_item_id": "306c80bb-d2bb-4c7a-b49f-7d0660f3df85",
+    "external_id": "https://newscorp.com/?p=141971"
+  }
+}

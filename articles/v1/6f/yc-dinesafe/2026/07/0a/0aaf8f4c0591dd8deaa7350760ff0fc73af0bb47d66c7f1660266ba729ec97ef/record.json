@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0aaf8f4c0591dd8deaa7350760ff0fc73af0bb47d66c7f1660266ba729ec97ef",
+  "company": {
+    "key": "yc-dinesafe",
+    "name": "Dinesafe"
+  },
+  "source": {
+    "id": "yc-dinesafe-news-import-07d65e1cf124",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iwaspoisoned.com/news/iwaspoisoned-speaks-at-georgia-environmental-health-association-conference-2024",
+    "canonical": "https://iwaspoisoned.com/news/iwaspoisoned-speaks-at-georgia-environmental-health-association-conference-2024"
+  },
+  "title": "Iwaspoisoned Presents at Georgia Environmental Health Association's Annual Education Conference",
+  "summary": "We collect and share reports with consumers, public health and restaurants. Protect friends, family & help restaurants. If you got food poisoning report it now!",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T07:41:46.778872+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:52.020324+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-dinesafe/2026/07/0a/0aaf8f4c0591dd8deaa7350760ff0fc73af0bb47d66c7f1660266ba729ec97ef/article.md",
+    "record": "articles/v1/6f/yc-dinesafe/2026/07/0a/0aaf8f4c0591dd8deaa7350760ff0fc73af0bb47d66c7f1660266ba729ec97ef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4978,
+    "sha256": "sha256:e856b5d798fa987487be5fbd9245ae95fb3e9dee1d6145a321a3f46ffda8a35a",
+    "normalized_content_hash": "sha256:39432bc55b55716d702092db170f6dc798c979706957f8ee3386e34082485053"
+  },
+  "provenance": {
+    "source_item_id": "ed638a22-5e0d-4e6a-a502-83b6d9bd5c8e",
+    "external_id": "https://iwaspoisoned.com/news/iwaspoisoned-speaks-at-georgia-environmental-health-association-conference-2024"
+  }
+}

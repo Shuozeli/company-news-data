@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "27ca63fc31de3023cd49b804e13459a4a2e0672767f852c4d987e4996480e14c",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/announcing-flightcontrol-v3",
+    "canonical": "https://www.flightcontrol.dev/blog/announcing-flightcontrol-v3"
+  },
+  "title": "Announcing Flightcontrol V3",
+  "summary": "The most reliable, powerful, and flexible PaaS, because we deploy to your AWS. No black box, lock-in, or AWS markups.",
+  "published_at": "2024-07-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:13.141838+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2024/07/27/27ca63fc31de3023cd49b804e13459a4a2e0672767f852c4d987e4996480e14c/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2024/07/27/27ca63fc31de3023cd49b804e13459a4a2e0672767f852c4d987e4996480e14c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3619,
+    "sha256": "sha256:9d3259525e6501115dd4328762dd951f38a59ded6abf269469d2867c470e0b0b",
+    "normalized_content_hash": "sha256:25cf274f5a955b7557f3e797f5cf3f252aebeb01a43449dc4a80f4b4742a0168"
+  },
+  "provenance": {
+    "source_item_id": "dc148193-239c-4e99-bf69-691b1342dc19",
+    "external_id": "https://www.flightcontrol.dev/blog/announcing-flightcontrol-v3"
+  }
+}

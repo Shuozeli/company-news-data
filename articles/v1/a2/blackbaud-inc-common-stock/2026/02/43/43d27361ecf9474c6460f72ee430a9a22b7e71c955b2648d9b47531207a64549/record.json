@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43d27361ecf9474c6460f72ee430a9a22b7e71c955b2648d9b47531207a64549",
+  "company": {
+    "key": "blackbaud-inc-common-stock",
+    "name": "Blackbaud Inc. Common Stock"
+  },
+  "source": {
+    "id": "blackbaud-inc-common-stock-news-import-f15f3df66a77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blackbaud.com/newsroom/article/blackbaud-honored-with-triple-award-recognition-for-pioneering-ai-innovation-responsible-leadership-and-transformative-social-impact",
+    "canonical": "https://www.blackbaud.com/newsroom/article/blackbaud-honored-with-triple-award-recognition-for-pioneering-ai-innovation-responsible-leadership-and-transformative-social-impact"
+  },
+  "title": "Blackbaud Honored with Triple Award Recognition for Pioneering AI Innovation, Responsible Leadership, and Transformative Social Impact",
+  "summary": "Blackbaud receives three major awards for AI innovation, responsible technology, and social impact leadership.",
+  "published_at": "2026-02-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T10:20:04.605811+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:35.699169+00:00",
+  "paths": {
+    "article": "articles/v1/a2/blackbaud-inc-common-stock/2026/02/43/43d27361ecf9474c6460f72ee430a9a22b7e71c955b2648d9b47531207a64549/article.md",
+    "record": "articles/v1/a2/blackbaud-inc-common-stock/2026/02/43/43d27361ecf9474c6460f72ee430a9a22b7e71c955b2648d9b47531207a64549/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8064,
+    "sha256": "sha256:ee5d65faf3bb2621a045749d88489c2473a5f20456573fe209d11866c47e865f",
+    "normalized_content_hash": "sha256:38fc144f5ca0c27622da262a85f49cbdab445ca006ba70e3abcc651f760e1f91"
+  },
+  "provenance": {
+    "source_item_id": "5086966d-e954-4a37-a04f-bbe46f1ebf54",
+    "external_id": "https://www.blackbaud.com/newsroom/article/blackbaud-honored-with-triple-award-recognition-for-pioneering-ai-innovation-responsible-leadership-and-transformative-social-impact"
+  }
+}

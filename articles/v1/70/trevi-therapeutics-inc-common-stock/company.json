@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "trevi-therapeutics-inc-common-stock",
+    "name": "Trevi Therapeutics Inc. Common Stock"
+  },
+  "record_count": 9,
+  "first_published_at": "2026-03-17T20:05:00+00:00",
+  "last_published_at": "2026-07-28T11:30:28+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

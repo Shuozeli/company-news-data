@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-upequity",
+    "name": "UpEquity"
+  },
+  "record_count": 10,
+  "first_published_at": "2021-12-03T14:18:26+00:00",
+  "last_published_at": "2022-03-01T19:02:39+00:00",
+  "partitions": [
+    {
+      "partition": "2021-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    }
+  ]
+}

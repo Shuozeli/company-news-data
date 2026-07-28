@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-vogent",
+    "name": "Vogent"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-03-25T03:03:09.707+00:00",
+  "last_published_at": "2025-10-17T00:40:13.565+00:00",
+  "partitions": [
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    }
+  ]
+}

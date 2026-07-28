@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a4864258134f7d1c75fff11b5ca36d1edde9abd1dbba89f605912c9899fe7d5e",
+  "company": {
+    "key": "blackstone-inc-common-stock",
+    "name": "Blackstone Inc. Common Stock"
+  },
+  "source": {
+    "id": "blackstone-inc-common-stock-news-import-2d5dbb90454a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blackstone.com/news/press/blackstone-open-kuwait-office/",
+    "canonical": "https://www.blackstone.com/news/press/blackstone-open-kuwait-office/"
+  },
+  "title": "Blackstone to Open Kuwait Office",
+  "summary": "Press releases, portfolio company news, and timely updates on our business.",
+  "published_at": "2026-07-27T05:01:40+00:00",
+  "first_seen_at": "2026-07-27T16:24:40.821396+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:29.934027+00:00",
+  "paths": {
+    "article": "articles/v1/76/blackstone-inc-common-stock/2026/07/a4/a4864258134f7d1c75fff11b5ca36d1edde9abd1dbba89f605912c9899fe7d5e/article.md",
+    "record": "articles/v1/76/blackstone-inc-common-stock/2026/07/a4/a4864258134f7d1c75fff11b5ca36d1edde9abd1dbba89f605912c9899fe7d5e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4680,
+    "sha256": "sha256:2c416add642f541404fecf4d592797212dd53079ce5b57d8cd63d03d43e773d6",
+    "normalized_content_hash": "sha256:f90ae8d4bcb65f5028dd88860ec59588f677a8aa8ed9a9aee7d99d4caeb7f21e"
+  },
+  "provenance": {
+    "source_item_id": "6c2963a5-b50f-48f5-ae69-92f4400473bf",
+    "external_id": "https://www.blackstone.com/news/press/blackstone-open-kuwait-office/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "150b6798c51525f45dbb3f3be11578bae4f0a9b41fcc5ee315c187338e4f1ad0",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-40c8a89d7155",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/universal-health-services-inc-appoints-darren-lehrich-as-vice-president-of-investor-relations/",
+    "canonical": "https://uhs.com/news/universal-health-services-inc-appoints-darren-lehrich-as-vice-president-of-investor-relations/"
+  },
+  "title": "Universal Health Services, Inc. Appoints Darren Lehrich as Vice President of Investor Relations",
+  "summary": "Lehrich reports to CFO Steve Filton in the newly established investor relations role.",
+  "published_at": "2025-09-15T15:39:05+00:00",
+  "first_seen_at": "2026-07-24T05:33:01.391339+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-07-28T22:03:53.635854+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2025/09/15/150b6798c51525f45dbb3f3be11578bae4f0a9b41fcc5ee315c187338e4f1ad0/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2025/09/15/150b6798c51525f45dbb3f3be11578bae4f0a9b41fcc5ee315c187338e4f1ad0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6285,
+    "sha256": "sha256:6dccaffe31f292d41801d295c21ac24ebe894845e712b85d9712b2f474f2f708",
+    "normalized_content_hash": "sha256:1d17f4b67159160171ad3dad2fcae0341890d71866969a357bc394b4ff4382cc"
+  },
+  "provenance": {
+    "source_item_id": "a47d3128-a643-46bc-8eb0-156a67c5e899",
+    "external_id": "https://uhs.com/news/universal-health-services-inc-appoints-darren-lehrich-as-vice-president-of-investor-relations/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9af02913b5e5db5e85e65e176d18cf375120c8b900ab21746bb025db9ea8a6f3",
+  "company": {
+    "key": "duolingo-inc-class-a-common-stock",
+    "name": "Duolingo Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "duolingo-inc-class-a-common-stock-news-import-371fa585c86e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.duolingo.com/chess-notation/",
+    "canonical": "https://blog.duolingo.com/chess-notation/"
+  },
+  "title": "Your guide to chess notation",
+  "summary": "From chess piece abbreviations to special moves, his guide tells you everything you need to know about recording the moves in a chess game.",
+  "published_at": "2026-06-18T12:00:45+00:00",
+  "first_seen_at": "2026-07-25T02:01:48.044488+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:13.272093+00:00",
+  "paths": {
+    "article": "articles/v1/42/duolingo-inc-class-a-common-stock/2026/06/9a/9af02913b5e5db5e85e65e176d18cf375120c8b900ab21746bb025db9ea8a6f3/article.md",
+    "record": "articles/v1/42/duolingo-inc-class-a-common-stock/2026/06/9a/9af02913b5e5db5e85e65e176d18cf375120c8b900ab21746bb025db9ea8a6f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9366,
+    "sha256": "sha256:c6f66e7c04591713ec9a65de65d46016afacb86ab9d9eaa72530106b8bad4d36",
+    "normalized_content_hash": "sha256:0feeeb8a6a1a5ed8d18f7e2ac5cb36bc80fdcbc695d49fe2ffad3ec4282ef458"
+  },
+  "provenance": {
+    "source_item_id": "3ca0ba21-810c-4640-a465-9cfc1c81c4af",
+    "external_id": "https://blog.duolingo.com/chess-notation/"
+  }
+}

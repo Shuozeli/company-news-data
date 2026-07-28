@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fd1548bb1e1eccac892a3c1d00af56e59abe6a6cc6fb17d1d9707f9c6c1f05f3",
+  "company": {
+    "key": "pacific-biosciences-of-california-inc-common-stock",
+    "name": "Pacific Biosciences of California Inc. Common Stock"
+  },
+  "source": {
+    "id": "pacific-biosciences-of-california-inc-common-stock-news-import-446448bf94cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pacb.com/blog/exploring-the-epigenome-of-earths-biodiversity-from-chg-and-chh-methylation-to-fiber-seq/",
+    "canonical": "https://www.pacb.com/blog/exploring-the-epigenome-of-earths-biodiversity-from-chg-and-chh-methylation-to-fiber-seq/"
+  },
+  "title": "Exploring the epigenome of Earth’s biodiversity: From CHG and CHH methylation to Fiber-seq",
+  "summary": "Get the Fiber-seq 101 guide to see how advances in HiFi sequencing measures how DNA methylation and chromatin architecture shape genomes.",
+  "published_at": "2026-06-16T13:00:44+00:00",
+  "first_seen_at": "2026-07-22T08:02:43.432836+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-07-28T21:44:19.696890+00:00",
+  "paths": {
+    "article": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/06/fd/fd1548bb1e1eccac892a3c1d00af56e59abe6a6cc6fb17d1d9707f9c6c1f05f3/article.md",
+    "record": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/06/fd/fd1548bb1e1eccac892a3c1d00af56e59abe6a6cc6fb17d1d9707f9c6c1f05f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9381,
+    "sha256": "sha256:410130c1f6f95531302a9dc3943daf352c5e2784d4ab0a1c38fd5cb76d889098",
+    "normalized_content_hash": "sha256:c5d0a1e8aaf816a44da23654afc88db1ae2f2c150246e7c5d80615f0f4535493"
+  },
+  "provenance": {
+    "source_item_id": "3777ecbf-7996-49e9-ba01-ec2262e2b2a0",
+    "external_id": "https://www.pacb.com/blog/exploring-the-epigenome-of-earths-biodiversity-from-chg-and-chh-methylation-to-fiber-seq/"
+  }
+}

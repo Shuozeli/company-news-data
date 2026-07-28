@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "80130925b0b76140438ff322f2085b00e868915e7537e90a789e7a5d6e6ac6ca",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/bitgo-adds-new-quantum-risk-management-capabilities-for-bitcoin-wallets/",
+    "canonical": "https://www.bitgo.com/resources/blog/bitgo-adds-new-quantum-risk-management-capabilities-for-bitcoin-wallets/"
+  },
+  "title": "BitGo Adds New Quantum-Risk Management Capabilities for Bitcoin Wallets",
+  "summary": "BitGo has launched quantum-risk management capabilities for Bitcoin wallets, giving institutions a way to assess, manage, and reduce quantum-related exposure across BTC-based multi-signature custody.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:41.088269+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-07-28T21:21:54.898590+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/80/80130925b0b76140438ff322f2085b00e868915e7537e90a789e7a5d6e6ac6ca/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/80/80130925b0b76140438ff322f2085b00e868915e7537e90a789e7a5d6e6ac6ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8181,
+    "sha256": "sha256:bca1d219330eb146a1f3cbe1881e450da0c67f4f5d60e1990dd9274d5eae67e0",
+    "normalized_content_hash": "sha256:e5aa5df043a7cc89d1adf1124b60471ae1ea957f3909b515889b9b58b761400a"
+  },
+  "provenance": {
+    "source_item_id": "9352a24b-79a1-4542-93e2-42712b409f86",
+    "external_id": "https://www.bitgo.com/resources/blog/bitgo-adds-new-quantum-risk-management-capabilities-for-bitcoin-wallets/"
+  }
+}

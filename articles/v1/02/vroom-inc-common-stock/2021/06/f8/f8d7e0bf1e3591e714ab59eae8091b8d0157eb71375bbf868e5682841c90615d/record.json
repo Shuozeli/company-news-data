@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f8d7e0bf1e3591e714ab59eae8091b8d0157eb71375bbf868e5682841c90615d",
+  "company": {
+    "key": "vroom-inc-common-stock",
+    "name": "Vroom Inc. Common Stock"
+  },
+  "source": {
+    "id": "vroom-inc-common-stock-news-import-5c1422578507",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2021/06/21/2250449/0/en/online-automotive-retailer-vroom-offers-last-mile-concierge-experience-to-atlanta-locals.html",
+    "canonical": "https://www.globenewswire.com/news-release/2021/06/21/2250449/0/en/online-automotive-retailer-vroom-offers-last-mile-concierge-experience-to-atlanta-locals.html"
+  },
+  "title": "Online Automotive Retailer Vroom Offers Last Mile Concierge Experience to Atlanta Locals",
+  "summary": "Car Buyers Within 25-Mile Radius Receive More Personalized Service, Direct to Their Driveways...",
+  "published_at": "2021-06-21T15:50:29+00:00",
+  "first_seen_at": "2026-07-26T21:04:40.281377+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.236002+00:00",
+  "paths": {
+    "article": "articles/v1/02/vroom-inc-common-stock/2021/06/f8/f8d7e0bf1e3591e714ab59eae8091b8d0157eb71375bbf868e5682841c90615d/article.md",
+    "record": "articles/v1/02/vroom-inc-common-stock/2021/06/f8/f8d7e0bf1e3591e714ab59eae8091b8d0157eb71375bbf868e5682841c90615d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5310,
+    "sha256": "sha256:847d4936ac3e3cdcc55674cb7d3afadf9be8c15014a518742fd57c1922ae3922",
+    "normalized_content_hash": "sha256:4d713a74eac52ebf4389bbb8158c711e65d092992280fbd9e1cfe13faff58397"
+  },
+  "provenance": {
+    "source_item_id": "8296082c-cc10-4569-96f4-4ef943f75d3a",
+    "external_id": "https://www.globenewswire.com/news-release/2021/06/21/2250449/0/en/online-automotive-retailer-vroom-offers-last-mile-concierge-experience-to-atlanta-locals.html"
+  }
+}

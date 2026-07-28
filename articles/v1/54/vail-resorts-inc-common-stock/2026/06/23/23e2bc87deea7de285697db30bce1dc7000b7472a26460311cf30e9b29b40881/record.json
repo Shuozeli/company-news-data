@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23e2bc87deea7de285697db30bce1dc7000b7472a26460311cf30e9b29b40881",
+  "company": {
+    "key": "vail-resorts-inc-common-stock",
+    "name": "Vail Resorts Inc. Common Stock"
+  },
+  "source": {
+    "id": "vail-resorts-inc-common-stock-news-import-f3ce81665cb8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.vailresorts.com/2026-06-30-Hunter-Mountain-Names-Chuck-Randles-VP-and-GM",
+    "canonical": "https://news.vailresorts.com/2026-06-30-Hunter-Mountain-Names-Chuck-Randles-VP-and-GM"
+  },
+  "title": "Hunter Mountain Names Chuck Randles as Vice President and General Manager",
+  "summary": "Chuck brings more than 20 years of leadership experience with Vail Resorts and a strong track record of operational excellence, team development, and delivering exceptional guest experiences across some of North America’s premier mountain destinations.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:46:58.365168+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:23:04.889158+00:00",
+  "paths": {
+    "article": "articles/v1/54/vail-resorts-inc-common-stock/2026/06/23/23e2bc87deea7de285697db30bce1dc7000b7472a26460311cf30e9b29b40881/article.md",
+    "record": "articles/v1/54/vail-resorts-inc-common-stock/2026/06/23/23e2bc87deea7de285697db30bce1dc7000b7472a26460311cf30e9b29b40881/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3696,
+    "sha256": "sha256:19f62aaea231c2c6d73b548c0e439cdce1562fc0ef81bde6936774c537980dd2",
+    "normalized_content_hash": "sha256:14286a3643398991e9aa334abc3c5ea1d18703083251c50794e435ba7b903c44"
+  },
+  "provenance": {
+    "source_item_id": "c079458a-5563-4b66-84c3-31ddebc372ca",
+    "external_id": "https://news.vailresorts.com/2026-06-30-Hunter-Mountain-Names-Chuck-Randles-VP-and-GM"
+  }
+}

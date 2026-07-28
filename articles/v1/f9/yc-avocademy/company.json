@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-avocademy",
+    "name": "Avocademy"
+  },
+  "record_count": 40,
+  "first_published_at": "2024-04-10T17:14:29+00:00",
+  "last_published_at": "2024-10-18T12:42:49+00:00",
+  "partitions": [
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 30
+    }
+  ]
+}

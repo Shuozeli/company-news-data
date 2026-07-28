@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-luminai",
+    "name": "Luminai"
+  },
+  "record_count": 4,
+  "first_published_at": "2026-04-09T12:44:00+00:00",
+  "last_published_at": "2026-07-23T17:45:36.247+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

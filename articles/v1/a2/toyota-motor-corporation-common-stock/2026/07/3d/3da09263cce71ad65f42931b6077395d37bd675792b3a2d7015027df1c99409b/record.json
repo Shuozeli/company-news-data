@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3da09263cce71ad65f42931b6077395d37bd675792b3a2d7015027df1c99409b",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/hpe_challenge_2026_002.html",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/hpe_challenge_2026_002.html"
+  },
+  "title": "We Have a Winner! Who Claimed the Crown in the U.S. Camry Customization Showdown?",
+  "summary": "The U.S. Camry Customization Showdown, one of three contests that kicked off at this year’s Tokyo Auto Salon, was decided at the Super Taikyu 24-hour race. We look at what this matchup means to Morizo. #TOYOTATIMES",
+  "published_at": "2026-07-08T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:05.617031+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/3d/3da09263cce71ad65f42931b6077395d37bd675792b3a2d7015027df1c99409b/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/3d/3da09263cce71ad65f42931b6077395d37bd675792b3a2d7015027df1c99409b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12134,
+    "sha256": "sha256:fd605506d13734fcfb160c66aeaa2f1ce93d662d03f9474ad57bbd0ffbb08ae3",
+    "normalized_content_hash": "sha256:6f887dbc064a49cd08de97801122567d0c20b19ecf12eb73ad3407bfa6f62890"
+  },
+  "provenance": {
+    "source_item_id": "a9816537-ddb6-4052-93c3-2e43c8b04fdb",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/hpe_challenge_2026_002.html"
+  }
+}

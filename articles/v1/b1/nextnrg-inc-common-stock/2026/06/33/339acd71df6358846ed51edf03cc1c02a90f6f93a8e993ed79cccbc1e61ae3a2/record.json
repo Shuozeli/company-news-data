@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "339acd71df6358846ed51edf03cc1c02a90f6f93a8e993ed79cccbc1e61ae3a2",
+  "company": {
+    "key": "nextnrg-inc-common-stock",
+    "name": "NextNRG Inc. Common Stock"
+  },
+  "source": {
+    "id": "nextnrg-inc-common-stock-news-import-d49f005d6411",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nextnrg.com/blog/hurricane-season-florida-facility-energy-infrastructure",
+    "canonical": "https://nextnrg.com/blog/hurricane-season-florida-facility-energy-infrastructure"
+  },
+  "title": "Hurricane Season Is Here. Is Your Facility's Energy Infrastructure Ready?",
+  "summary": "Hurricane Season Is Here. Is Your Facility's Energy Infrastructure Ready?",
+  "published_at": "2026-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:10:13.734403+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:30.955695+00:00",
+  "paths": {
+    "article": "articles/v1/b1/nextnrg-inc-common-stock/2026/06/33/339acd71df6358846ed51edf03cc1c02a90f6f93a8e993ed79cccbc1e61ae3a2/article.md",
+    "record": "articles/v1/b1/nextnrg-inc-common-stock/2026/06/33/339acd71df6358846ed51edf03cc1c02a90f6f93a8e993ed79cccbc1e61ae3a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11371,
+    "sha256": "sha256:ad8093a50a2c4c1852a244a6aabcaa5b2b161d41703a141162fb13771ea12d41",
+    "normalized_content_hash": "sha256:04489dc30cdf4b1893ea555b2f431a47671775779d9639f22308292c38789634"
+  },
+  "provenance": {
+    "source_item_id": "66ae3fb7-fcbc-4a8d-8b45-9c2a10941931",
+    "external_id": "https://nextnrg.com/blog/hurricane-season-florida-facility-energy-infrastructure"
+  }
+}

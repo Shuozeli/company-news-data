@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd9bc621e3e0482c4d048396bf6159ee6ffe58cb19ba392ab102709cc4927fdd",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/how-to-get-the-most-out-of-hera-for-data-science",
+    "canonical": "https://homepage.pipekit.io/blog/how-to-get-the-most-out-of-hera-for-data-science"
+  },
+  "title": "How To Get the Most out of Hera for Data Science",
+  "summary": "Marry the flexibility of Python for investigative Data Science with the power and scale of Argo Workflows through Hera, a Python SDK for Argo Workflows.",
+  "published_at": "2024-10-03T12:21:34+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-07-28T22:04:13.156890+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/10/dd/dd9bc621e3e0482c4d048396bf6159ee6ffe58cb19ba392ab102709cc4927fdd/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/10/dd/dd9bc621e3e0482c4d048396bf6159ee6ffe58cb19ba392ab102709cc4927fdd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17078,
+    "sha256": "sha256:1d064a1351f8117ee2419588364618b5b9e64ef15ea7d6f954358f529a442e85",
+    "normalized_content_hash": "sha256:0b112f6bcc6fd0139acf7f435f2349f91402665cfa6172caadac15a54b388482"
+  },
+  "provenance": {
+    "source_item_id": "ccb9c39c-96f2-4327-b4a3-52d3d5ab8466",
+    "external_id": "https://homepage.pipekit.io/blog/how-to-get-the-most-out-of-hera-for-data-science"
+  }
+}

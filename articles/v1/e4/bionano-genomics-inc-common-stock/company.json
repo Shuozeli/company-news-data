@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bionano-genomics-inc-common-stock",
+    "name": "Bionano Genomics Inc. Common Stock"
+  },
+  "record_count": 9,
+  "first_published_at": "2024-04-11T00:58:46+00:00",
+  "last_published_at": "2024-08-03T05:26:51+00:00",
+  "partitions": [
+    {
+      "partition": "2024-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    }
+  ]
+}

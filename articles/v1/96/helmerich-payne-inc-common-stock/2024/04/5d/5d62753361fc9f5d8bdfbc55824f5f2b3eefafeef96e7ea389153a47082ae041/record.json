@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5d62753361fc9f5d8bdfbc55824f5f2b3eefafeef96e7ea389153a47082ae041",
+  "company": {
+    "key": "helmerich-payne-inc-common-stock",
+    "name": "Helmerich & Payne Inc. Common Stock"
+  },
+  "source": {
+    "id": "helmerich-payne-inc-common-stock-news-import-5ae549a21ed6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hpinc.com/news/announcements/helmerich-payne-inc-announces-saudi-aramco-deal",
+    "canonical": "https://www.hpinc.com/news/announcements/helmerich-payne-inc-announces-saudi-aramco-deal"
+  },
+  "title": "H&P Inks Deal with Saudi Aramco",
+  "summary": "H&P, Inc. and Saudi Aramco deal announcement — news on the strategic agreement, collaboration scope, and industry implications.",
+  "published_at": "2024-04-22T21:34:00+00:00",
+  "first_seen_at": "2026-07-21T22:46:51.827606+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:13.934588+00:00",
+  "paths": {
+    "article": "articles/v1/96/helmerich-payne-inc-common-stock/2024/04/5d/5d62753361fc9f5d8bdfbc55824f5f2b3eefafeef96e7ea389153a47082ae041/article.md",
+    "record": "articles/v1/96/helmerich-payne-inc-common-stock/2024/04/5d/5d62753361fc9f5d8bdfbc55824f5f2b3eefafeef96e7ea389153a47082ae041/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2347,
+    "sha256": "sha256:3876a0fd25804a53b6436e75aaf399b4be367791f57a4760133afe3fa06ac4b3",
+    "normalized_content_hash": "sha256:cbcfb036c2aa977df85db9c75bd975b7537fa006df6c9208314cf153f921e93d"
+  },
+  "provenance": {
+    "source_item_id": "26cc7702-a9c2-496b-a0e9-be9a9c7b1d4e",
+    "external_id": "https://www.hpinc.com/news/announcements/helmerich-payne-inc-announces-saudi-aramco-deal"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5d6edf093c30de954df7e71bf155faec4446e420a8ca14ab95adaaf1dd781ea9",
+  "company": {
+    "key": "azenta-inc",
+    "name": "Azenta Inc."
+  },
+  "source": {
+    "id": "azenta-inc-news-import-bc3dbef0d4b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.azenta.com/learning-center/blog/7-key-emergent-trends-cryopreservation",
+    "canonical": "https://www.azenta.com/learning-center/blog/7-key-emergent-trends-cryopreservation"
+  },
+  "title": "7 Key Emergent Trends in Cryopreservation",
+  "summary": "Read about the latest trends in cryopreservation and their crucial role in advancing medical research and treatment!",
+  "published_at": "2024-02-08T11:15:00+00:00",
+  "first_seen_at": "2026-07-23T02:55:29.104070+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:01.067194+00:00",
+  "paths": {
+    "article": "articles/v1/1e/azenta-inc/2024/02/5d/5d6edf093c30de954df7e71bf155faec4446e420a8ca14ab95adaaf1dd781ea9/article.md",
+    "record": "articles/v1/1e/azenta-inc/2024/02/5d/5d6edf093c30de954df7e71bf155faec4446e420a8ca14ab95adaaf1dd781ea9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11273,
+    "sha256": "sha256:5648e877d1339da3df2fb316c4593800f945ef2444b079a2004ccd16959af61f",
+    "normalized_content_hash": "sha256:4c2fddd7b1bae1c51453a931458f5d2f06f1c9ddc3423a61595b5a96c645a9e9"
+  },
+  "provenance": {
+    "source_item_id": "abd0dfe9-054c-4624-a086-cf057cb21f42",
+    "external_id": "https://www.azenta.com/learning-center/blog/7-key-emergent-trends-cryopreservation"
+  }
+}

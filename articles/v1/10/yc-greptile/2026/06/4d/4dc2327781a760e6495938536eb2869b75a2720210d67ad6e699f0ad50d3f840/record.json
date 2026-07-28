@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4dc2327781a760e6495938536eb2869b75a2720210d67ad6e699f0ad50d3f840",
+  "company": {
+    "key": "yc-greptile",
+    "name": "Greptile"
+  },
+  "source": {
+    "id": "yc-greptile-news-import-b11b241d30dc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.greptile.com/blog/trex",
+    "canonical": "https://www.greptile.com/blog/trex"
+  },
+  "title": "Introducing TREX: Greptile Now Runs Your Code",
+  "summary": "Greptile now runs your code during review. TREX catches runtime bugs that reading the diff misses and attaches the evidence to the PR. Now in public beta.",
+  "published_at": "2026-06-15T12:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:07:23.838654+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:36.487228+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-greptile/2026/06/4d/4dc2327781a760e6495938536eb2869b75a2720210d67ad6e699f0ad50d3f840/article.md",
+    "record": "articles/v1/10/yc-greptile/2026/06/4d/4dc2327781a760e6495938536eb2869b75a2720210d67ad6e699f0ad50d3f840/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2019,
+    "sha256": "sha256:d85ec7718627453c36fb6bf9a506824e99f5d0117c0d5979591682ba9d3a8d05",
+    "normalized_content_hash": "sha256:229350946729dc3b774ba766b79ec9991c9d2443665a38dbc8d1e9739e0ddc09"
+  },
+  "provenance": {
+    "source_item_id": "0193a483-f2d7-4909-ad61-e2ecfb9e12e3",
+    "external_id": "https://www.greptile.com/blog/trex"
+  }
+}

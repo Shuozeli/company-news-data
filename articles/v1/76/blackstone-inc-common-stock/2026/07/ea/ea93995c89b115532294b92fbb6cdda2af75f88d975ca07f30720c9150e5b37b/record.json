@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea93995c89b115532294b92fbb6cdda2af75f88d975ca07f30720c9150e5b37b",
+  "company": {
+    "key": "blackstone-inc-common-stock",
+    "name": "Blackstone Inc. Common Stock"
+  },
+  "source": {
+    "id": "blackstone-inc-common-stock-news-import-2d5dbb90454a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blackstone.com/news/press/wellington-vanguard-and-blackstone-announce-the-launch-of-two-investment-solutions-simplifying-access-to-public-and-private-markets/",
+    "canonical": "https://www.blackstone.com/news/press/wellington-vanguard-and-blackstone-announce-the-launch-of-two-investment-solutions-simplifying-access-to-public-and-private-markets/"
+  },
+  "title": "Wellington, Vanguard, and Blackstone Announce the Launch of Two Investment Solutions, Simplifying Access to Public and Private Markets",
+  "summary": "Press releases, portfolio company news, and timely updates on our business.",
+  "published_at": "2026-07-22T12:45:06+00:00",
+  "first_seen_at": "2026-07-22T22:39:07.681262+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-07-28T21:20:50.337402+00:00",
+  "paths": {
+    "article": "articles/v1/76/blackstone-inc-common-stock/2026/07/ea/ea93995c89b115532294b92fbb6cdda2af75f88d975ca07f30720c9150e5b37b/article.md",
+    "record": "articles/v1/76/blackstone-inc-common-stock/2026/07/ea/ea93995c89b115532294b92fbb6cdda2af75f88d975ca07f30720c9150e5b37b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15297,
+    "sha256": "sha256:280932aa866c9228575a26a1ff05ebf85df7fadbab8d7ec8230f842085eeb5ff",
+    "normalized_content_hash": "sha256:8fb7949c89623442a088e8fbfdb5d1558a21e722062e93071312ec60cc909146"
+  },
+  "provenance": {
+    "source_item_id": "bf5fcfb9-7e07-41d9-a099-2737a5dbf14b",
+    "external_id": "https://www.blackstone.com/news/press/wellington-vanguard-and-blackstone-announce-the-launch-of-two-investment-solutions-simplifying-access-to-public-and-private-markets/"
+  }
+}

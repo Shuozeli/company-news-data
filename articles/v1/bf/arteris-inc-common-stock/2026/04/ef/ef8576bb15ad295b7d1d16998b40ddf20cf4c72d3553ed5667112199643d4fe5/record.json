@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef8576bb15ad295b7d1d16998b40ddf20cf4c72d3553ed5667112199643d4fe5",
+  "company": {
+    "key": "arteris-inc-common-stock",
+    "name": "Arteris Inc. Common Stock"
+  },
+  "source": {
+    "id": "arteris-inc-common-stock-news-import-57e356820f87",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arteris.com/press-releases/arteris-wins-stevie-award-for-technology-innovation-of-the-year/",
+    "canonical": "https://www.arteris.com/press-releases/arteris-wins-stevie-award-for-technology-innovation-of-the-year/"
+  },
+  "title": "Arteris Wins Stevie Award for Technology Innovation of the Year",
+  "summary": "Arteris wins Stevie® Award for 2026 Technology Innovation of the Year, honoring its semiconductor cybersecurity assurance technology.",
+  "published_at": "2026-04-30T13:00:00+00:00",
+  "first_seen_at": "2026-07-23T02:24:37.970966+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-07-28T21:26:19.218433+00:00",
+  "paths": {
+    "article": "articles/v1/bf/arteris-inc-common-stock/2026/04/ef/ef8576bb15ad295b7d1d16998b40ddf20cf4c72d3553ed5667112199643d4fe5/article.md",
+    "record": "articles/v1/bf/arteris-inc-common-stock/2026/04/ef/ef8576bb15ad295b7d1d16998b40ddf20cf4c72d3553ed5667112199643d4fe5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8577,
+    "sha256": "sha256:09c88eb9b06b34a2ed6eb974340a7425fffc1a1ffc99dfdf2969e49687f05abb",
+    "normalized_content_hash": "sha256:cf85152b9400d048fd74b9d94dcf5d6dc0fd17c5cd82dcef172c4a69beab0841"
+  },
+  "provenance": {
+    "source_item_id": "b975db28-9918-473e-bf57-09540b435ab1",
+    "external_id": "https://www.arteris.com/press-releases/arteris-wins-stevie-award-for-technology-innovation-of-the-year/"
+  }
+}

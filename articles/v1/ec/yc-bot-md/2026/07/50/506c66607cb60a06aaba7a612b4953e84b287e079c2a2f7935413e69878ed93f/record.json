@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "506c66607cb60a06aaba7a612b4953e84b287e079c2a2f7935413e69878ed93f",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/granostic.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/granostic.html"
+  },
+  "title": "Bot MD x Granostic",
+  "summary": "Granostic's new clinic in Surabaya will be automating lab test reminders and handling patient queries through WhatsApp by using Bot MD's A.I. powered platform.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.561673+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/50/506c66607cb60a06aaba7a612b4953e84b287e079c2a2f7935413e69878ed93f/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/50/506c66607cb60a06aaba7a612b4953e84b287e079c2a2f7935413e69878ed93f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1755,
+    "sha256": "sha256:c8c17c3b20cb8e86710b652907b8d0b601a4fe207cde5173c67221400c0cd13a",
+    "normalized_content_hash": "sha256:89ee384d2fa32248d590f6b75319caaea4fc9b09a01acc0e682491ed43744bd9"
+  },
+  "provenance": {
+    "source_item_id": "86ddb4dd-9a5f-45dd-98be-84bc75fc21bf",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/granostic.html"
+  }
+}

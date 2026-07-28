@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a334f95e04bf5dcc98a1718f571326080733bc3b14aa12c8f6df324fc299062e",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2025/q2/getting-real-about-the-energy-future-in-a-world-where-750-million-people-still-lack-electricity",
+    "canonical": "https://www.chevron.com/newsroom/2025/q2/getting-real-about-the-energy-future-in-a-world-where-750-million-people-still-lack-electricity"
+  },
+  "title": "getting real about the energy future—in a world where 750 million people still lack electricity",
+  "summary": "Speaking to policymakers and CEOs at the Semafor World Economic Summit, Mark Nelson, Chevron vice chairman, discussed what’s needed to meet the growing global demand for energy.",
+  "published_at": "2025-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2025/05/a3/a334f95e04bf5dcc98a1718f571326080733bc3b14aa12c8f6df324fc299062e/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2025/05/a3/a334f95e04bf5dcc98a1718f571326080733bc3b14aa12c8f6df324fc299062e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1541,
+    "sha256": "sha256:3e4792a421c98af82338e4fa16a030659d7a23319bcaae46394c9356bda6c6c5",
+    "normalized_content_hash": "sha256:2837bc0d4fe904177e13fb3407e5bf134462df1bba401827388f85edf3ae3d05"
+  },
+  "provenance": {
+    "source_item_id": "c9eb0c3e-646e-4136-aeca-df9ae639cdfb",
+    "external_id": "https://www.chevron.com/newsroom/2025/q2/getting-real-about-the-energy-future-in-a-world-where-750-million-people-still-lack-electricity"
+  }
+}

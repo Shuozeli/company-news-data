@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a2885cd4481f4b6a83bbc35903315af261d44116d1e834bc320a6467278ff61",
+  "company": {
+    "key": "vor-biopharma-inc-common-stock",
+    "name": "Vor Biopharma Inc. Common Stock"
+  },
+  "source": {
+    "id": "vor-biopharma-inc-common-stock-news-import-58d3728d6be9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2026/05/28/3302848/0/en/vor-bio-to-participate-in-the-2026-jefferies-global-healthcare-conference.html",
+    "canonical": "https://www.globenewswire.com/news-release/2026/05/28/3302848/0/en/vor-bio-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
+  },
+  "title": "Vor Bio to Participate in the 2026 Jefferies Global Healthcare Conference",
+  "summary": "BOSTON, May 28, 2026 (GLOBE NEWSWIRE) -- Vor Bio (Nasdaq: VOR), a clinical-stage biotechnology company transforming the treatment of autoimmune diseases,...",
+  "published_at": "2026-05-28T12:30:00+00:00",
+  "first_seen_at": "2026-07-26T04:57:22.960159+00:00",
+  "fetched_at": "2026-07-28T21:46:32.935029+00:00",
+  "last_updated_at": "2026-07-28T21:54:52.095427+00:00",
+  "paths": {
+    "article": "articles/v1/00/vor-biopharma-inc-common-stock/2026/05/6a/6a2885cd4481f4b6a83bbc35903315af261d44116d1e834bc320a6467278ff61/article.md",
+    "record": "articles/v1/00/vor-biopharma-inc-common-stock/2026/05/6a/6a2885cd4481f4b6a83bbc35903315af261d44116d1e834bc320a6467278ff61/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1865,
+    "sha256": "sha256:d99e2e9e0c5f874a3bc3b7b9b65c9874bd8b3c18e1affff4c741a083c2574e44",
+    "normalized_content_hash": "sha256:c39ae5ccf633959b1388b78edecc70df3c486fb62a122cde4f414dc68c13a39e"
+  },
+  "provenance": {
+    "source_item_id": "b2af2387-5538-4295-b40a-ea1aa440bc79",
+    "external_id": "https://www.globenewswire.com/news-release/2026/05/28/3302848/0/en/vor-bio-to-participate-in-the-2026-jefferies-global-healthcare-conference.html"
+  }
+}

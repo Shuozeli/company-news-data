@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d5dfc6ac200568f51bd610b9a87cb20c987c9922a1cd7bbb921993e96047deda",
+  "company": {
+    "key": "pacific-biosciences-of-california-inc-common-stock",
+    "name": "Pacific Biosciences of California Inc. Common Stock"
+  },
+  "source": {
+    "id": "pacific-biosciences-of-california-inc-common-stock-news-import-446448bf94cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pacb.com/blog/from-genome-to-therapy-how-hifi-long-read-sequencing-is-helping-to-accelerate-next-generation-cancer-drug-research-and-development/",
+    "canonical": "https://www.pacb.com/blog/from-genome-to-therapy-how-hifi-long-read-sequencing-is-helping-to-accelerate-next-generation-cancer-drug-research-and-development/"
+  },
+  "title": "From genome to therapy: How HiFi long-read sequencing is helping to accelerate next-generation cancer drug research and development",
+  "summary": "HiFi sequencing long read sequencing provides more comprehensive genomic resolution for antibody discovery and cancer drug development.",
+  "published_at": "2026-04-17T13:00:32+00:00",
+  "first_seen_at": "2026-07-22T08:02:43.432836+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-07-28T21:57:35.447069+00:00",
+  "paths": {
+    "article": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/04/d5/d5dfc6ac200568f51bd610b9a87cb20c987c9922a1cd7bbb921993e96047deda/article.md",
+    "record": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/04/d5/d5dfc6ac200568f51bd610b9a87cb20c987c9922a1cd7bbb921993e96047deda/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11666,
+    "sha256": "sha256:3eb2bc6a8df29025e7f70d67105e3e4d9963df9087521cd239077d6058e83ace",
+    "normalized_content_hash": "sha256:54ad140627a97dd8452e47d1b55ad9d5bfa2121caa302df4cc90ac7dc1e3d4e1"
+  },
+  "provenance": {
+    "source_item_id": "25256786-4f70-499d-b839-247e67d3aed8",
+    "external_id": "https://www.pacb.com/blog/from-genome-to-therapy-how-hifi-long-read-sequencing-is-helping-to-accelerate-next-generation-cancer-drug-research-and-development/"
+  }
+}

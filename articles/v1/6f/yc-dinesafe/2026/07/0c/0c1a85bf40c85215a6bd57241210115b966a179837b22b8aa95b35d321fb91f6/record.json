@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c1a85bf40c85215a6bd57241210115b966a179837b22b8aa95b35d321fb91f6",
+  "company": {
+    "key": "yc-dinesafe",
+    "name": "Dinesafe"
+  },
+  "source": {
+    "id": "yc-dinesafe-news-import-07d65e1cf124",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iwaspoisoned.com/news/iwaspoisoned-participates-in-predictably-good-webinar",
+    "canonical": "https://iwaspoisoned.com/news/iwaspoisoned-participates-in-predictably-good-webinar"
+  },
+  "title": "Iwaspoisoned Participates in Predictably Good Webinar on Early Warning Signal & Predictive Analytics in Outbreak",
+  "summary": "We collect and share reports with consumers, public health and restaurants. Protect friends, family & help restaurants. If you got food poisoning report it now!",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T07:41:46.778872+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:51.958133+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-dinesafe/2026/07/0c/0c1a85bf40c85215a6bd57241210115b966a179837b22b8aa95b35d321fb91f6/article.md",
+    "record": "articles/v1/6f/yc-dinesafe/2026/07/0c/0c1a85bf40c85215a6bd57241210115b966a179837b22b8aa95b35d321fb91f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3887,
+    "sha256": "sha256:02c31a30c68f144a9ab2d8db7bfe99b956c8085b2d099d0f4002777e1acab41a",
+    "normalized_content_hash": "sha256:fc3e2199b5ddfcca1600f1e9644f041c3f06ca861142180d55af5d1ee762cfc4"
+  },
+  "provenance": {
+    "source_item_id": "dace10d9-961b-4681-9b98-7022c3bc08bc",
+    "external_id": "https://iwaspoisoned.com/news/iwaspoisoned-participates-in-predictably-good-webinar"
+  }
+}

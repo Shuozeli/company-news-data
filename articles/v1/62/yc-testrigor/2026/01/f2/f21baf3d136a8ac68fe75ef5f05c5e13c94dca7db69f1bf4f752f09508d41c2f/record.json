@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f21baf3d136a8ac68fe75ef5f05c5e13c94dca7db69f1bf4f752f09508d41c2f",
+  "company": {
+    "key": "yc-testrigor",
+    "name": "testRigor"
+  },
+  "source": {
+    "id": "yc-testrigor-news-import-fd5ad855febb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://testrigor.com/blog/desktop-testing/",
+    "canonical": "https://testrigor.com/blog/desktop-testing/"
+  },
+  "title": "Desktop Testing: Build Your Testing Strategy",
+  "summary": "Desktop testing - what’s desktop testing? How to test desktop applications: functional testing, patch testing, rollback testing, and much more.",
+  "published_at": "2026-01-05T16:51:51+00:00",
+  "first_seen_at": "2026-07-22T16:09:13.277797+00:00",
+  "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+  "last_updated_at": "2026-07-28T21:27:33.112172+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-testrigor/2026/01/f2/f21baf3d136a8ac68fe75ef5f05c5e13c94dca7db69f1bf4f752f09508d41c2f/article.md",
+    "record": "articles/v1/62/yc-testrigor/2026/01/f2/f21baf3d136a8ac68fe75ef5f05c5e13c94dca7db69f1bf4f752f09508d41c2f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28130,
+    "sha256": "sha256:3094793a28c96636ba6b10f80ed31a4dd3c188650a8370de8ef98df397315ffc",
+    "normalized_content_hash": "sha256:fa583812e8c0887f6ba5abb13f1ed611b1cac29b2b6653a2b8be5b27347c04b1"
+  },
+  "provenance": {
+    "source_item_id": "b246ee79-046f-474a-9451-605b79d4c73f",
+    "external_id": "https://testrigor.com/blog/desktop-testing/"
+  }
+}

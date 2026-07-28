@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c1553c68ca69b8ea27709b024c823adb58fab49ac0d21c0c594582b9ed81b0d3",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/backfill-data-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/backfill-data-argo-workflows"
+  },
+  "title": "How to Backfill Data with Argo Workflows",
+  "summary": "Learn to simplify and automate data backfilling using Argo Workflows on Kubernetes. The post covers workflow setup, task definition, execution, monitoring, and automation with CronWorkflows.",
+  "published_at": "2024-08-07T12:06:59+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-07-28T20:59:58.774277+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/08/c1/c1553c68ca69b8ea27709b024c823adb58fab49ac0d21c0c594582b9ed81b0d3/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/08/c1/c1553c68ca69b8ea27709b024c823adb58fab49ac0d21c0c594582b9ed81b0d3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7334,
+    "sha256": "sha256:d6d11c5c09bffb2d585368c4b86325bd41ff470610a1adc7f67d344405f7a6cc",
+    "normalized_content_hash": "sha256:a04cdf12027be45f680ee68acb74c5766b8c42ef6d883d667845e8e4a250419c"
+  },
+  "provenance": {
+    "source_item_id": "6e4497bb-cad1-435e-bb45-f5167b6ab0f8",
+    "external_id": "https://homepage.pipekit.io/blog/backfill-data-argo-workflows"
+  }
+}

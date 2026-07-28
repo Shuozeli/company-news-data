@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c95130055099eeb195ff923b18c9ffea3dace65769904fa7ebb8fdc281f32de",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/announcement-andi-search-we-shipped-february-2026-20260218-1243",
+    "canonical": "https://andiai.com/blogs/announcement-andi-search-we-shipped-february-2026-20260218-1243"
+  },
+  "title": "Andi Search: What We Shipped in February 2026",
+  "summary": "2x faster search, better question understanding, instant math, and a leaner app. Here's what two people built in two weeks.",
+  "published_at": "2026-02-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:48:18.083780+00:00",
+  "fetched_at": "2026-07-28T22:19:43.789522+00:00",
+  "last_updated_at": "2026-07-28T22:21:32.525584+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2026/02/3c/3c95130055099eeb195ff923b18c9ffea3dace65769904fa7ebb8fdc281f32de/article.md",
+    "record": "articles/v1/d3/yc-andi/2026/02/3c/3c95130055099eeb195ff923b18c9ffea3dace65769904fa7ebb8fdc281f32de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3543,
+    "sha256": "sha256:a4bacd5e19213a635d8452ca5290ae8cec31c1e180776bdfb5d5b13cdb18ad9f",
+    "normalized_content_hash": "sha256:fd392f2cca99b2fad69a6d12be6a2fe8675b814423b9e8f3693218be21b2b426"
+  },
+  "provenance": {
+    "source_item_id": "9c9c3aec-a7a4-4cff-8c10-efe79aa0c8d1",
+    "external_id": "https://andiai.com/blogs/announcement-andi-search-we-shipped-february-2026-20260218-1243"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5b67e097fafcbc0a5f874c4a546caab3d460270b2ed6c999630c4d60f531d6c3",
+  "company": {
+    "key": "pacific-biosciences-of-california-inc-common-stock",
+    "name": "Pacific Biosciences of California Inc. Common Stock"
+  },
+  "source": {
+    "id": "pacific-biosciences-of-california-inc-common-stock-news-import-446448bf94cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pacb.com/blog/the-practical-questions-clinical-research-labs-consider-when-adopting-hifi-sequencing/",
+    "canonical": "https://www.pacb.com/blog/the-practical-questions-clinical-research-labs-consider-when-adopting-hifi-sequencing/"
+  },
+  "title": "The practical questions clinical research labs consider when adopting HiFi sequencing",
+  "summary": "Myriad Genetics, GeneDx, Karolinska University Hospital, and Radboudumc labs discuss where HiFi long-read sequencing fits into clinical labs.",
+  "published_at": "2026-06-11T15:10:04+00:00",
+  "first_seen_at": "2026-07-22T08:02:43.432836+00:00",
+  "fetched_at": "2026-07-28T21:46:31.447870+00:00",
+  "last_updated_at": "2026-07-28T21:47:32.310975+00:00",
+  "paths": {
+    "article": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/06/5b/5b67e097fafcbc0a5f874c4a546caab3d460270b2ed6c999630c4d60f531d6c3/article.md",
+    "record": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/06/5b/5b67e097fafcbc0a5f874c4a546caab3d460270b2ed6c999630c4d60f531d6c3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8957,
+    "sha256": "sha256:db82e210b5b47a733a864a1aa9a065217cb8e1a3a3af4ad20647ea6dd35877ae",
+    "normalized_content_hash": "sha256:a27f43cafde230ec987cff2d21898c6c7229f093a54ff08b46ffdbf849273498"
+  },
+  "provenance": {
+    "source_item_id": "b8a8c864-7562-4391-9591-79373b43ec2b",
+    "external_id": "https://www.pacb.com/blog/the-practical-questions-clinical-research-labs-consider-when-adopting-hifi-sequencing/"
+  }
+}

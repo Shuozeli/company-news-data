@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ee3c49440f039e0744a869cf75d3fdff8083c7e0478ba6218ee75fd772397185",
+  "company": {
+    "key": "stewart-information-services-corporation-common-stock",
+    "name": "Stewart Information Services Corporation Common Stock"
+  },
+  "source": {
+    "id": "stewart-information-services-corporation-common-stock-news-import-671ac241e5cd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stewart.com/en/news/press-releases/2025/stewart-named-a-winner-of-the-2025-usa-today-top-workplaces-award",
+    "canonical": "https://www.stewart.com/en/news/press-releases/2025/stewart-named-a-winner-of-the-2025-usa-today-top-workplaces-award"
+  },
+  "title": "Stewart Named a Winner of the 2025 USA Today Top Workplaces Award",
+  "summary": "HOUSTON, March 20, 2025 -- Stewart Information Services Corporation (NYSE:STC) announced today that it has been once again named a winner of the USA Today Top Workplaces Award.",
+  "published_at": "2025-11-19T19:51:40+00:00",
+  "first_seen_at": "2026-07-24T02:24:04.537238+00:00",
+  "fetched_at": "2026-07-27T18:15:12.557936+00:00",
+  "last_updated_at": "2026-07-27T18:15:13.961169+00:00",
+  "paths": {
+    "article": "articles/v1/12/stewart-information-services-corporation-common-stock/2025/11/ee/ee3c49440f039e0744a869cf75d3fdff8083c7e0478ba6218ee75fd772397185/article.md",
+    "record": "articles/v1/12/stewart-information-services-corporation-common-stock/2025/11/ee/ee3c49440f039e0744a869cf75d3fdff8083c7e0478ba6218ee75fd772397185/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5132,
+    "sha256": "sha256:2973c4290191dca61c554e38e054c8b1fb0c52b61de2350fa2bde1f466252fc9",
+    "normalized_content_hash": "sha256:316c0c18a901f1475597e1e8e268606f3c1e2262838f258bd5285045e6c555cf"
+  },
+  "provenance": {
+    "source_item_id": "b2b8f76c-1006-49e2-85c4-fbc99356f13d",
+    "external_id": "https://www.stewart.com/en/news/press-releases/2025/stewart-named-a-winner-of-the-2025-usa-today-top-workplaces-award"
+  }
+}

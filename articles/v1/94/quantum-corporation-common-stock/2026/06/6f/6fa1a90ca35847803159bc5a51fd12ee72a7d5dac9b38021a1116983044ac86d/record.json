@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6fa1a90ca35847803159bc5a51fd12ee72a7d5dac9b38021a1116983044ac86d",
+  "company": {
+    "key": "quantum-corporation-common-stock",
+    "name": "Quantum Corporation Common Stock"
+  },
+  "source": {
+    "id": "quantum-corporation-common-stock-news-import-2aac2fe9745c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investors.quantum.com/news-events/press-releases/detail/261/quantum-corporation-files-form-12b-25-notification-of-late",
+    "canonical": "https://investors.quantum.com/news-events/press-releases/detail/261/quantum-corporation-files-form-12b-25-notification-of-late"
+  },
+  "title": "Quantum Corporation Files Form 12b-25 Notification of Late Filing",
+  "summary": "",
+  "published_at": "2026-06-15T08:43:00+00:00",
+  "first_seen_at": "2026-07-22T10:39:44.415640+00:00",
+  "fetched_at": "2026-07-28T21:23:21.398471+00:00",
+  "last_updated_at": "2026-07-28T21:25:03.739597+00:00",
+  "paths": {
+    "article": "articles/v1/94/quantum-corporation-common-stock/2026/06/6f/6fa1a90ca35847803159bc5a51fd12ee72a7d5dac9b38021a1116983044ac86d/article.md",
+    "record": "articles/v1/94/quantum-corporation-common-stock/2026/06/6f/6fa1a90ca35847803159bc5a51fd12ee72a7d5dac9b38021a1116983044ac86d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7772,
+    "sha256": "sha256:bdf4de1082870042450dc68165d67041e8e2f4e0528bc0da872dce37a47696d0",
+    "normalized_content_hash": "sha256:4d482aba616835f64e48de0ce086d06256bbcf264899e896f419df3ad99929e9"
+  },
+  "provenance": {
+    "source_item_id": "febf49e9-7c38-4000-b8ec-beacdae347b9",
+    "external_id": "https://investors.quantum.com/news-events/press-releases/detail/261/quantum-corporation-files-form-12b-25-notification-of-late"
+  }
+}

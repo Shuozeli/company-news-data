@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "727ce1594434dfbb9d03b72b4182d6c1884115d170aa48f8b5de4f00b5f47478",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/toyou/001.html",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/toyou/001.html"
+  },
+  "title": "\"TO YOU\": What It Means, and How It Lives―Now in a New Special Site",
+  "summary": "Toyota’s brand concept “TO YOU,” announced in 2025, now has a special site introducing the thinking behind it and the actions it has inspired. #TOYOTATIMES",
+  "published_at": "2026-04-26T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-07-28T21:26:17.358215+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/04/72/727ce1594434dfbb9d03b72b4182d6c1884115d170aa48f8b5de4f00b5f47478/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/04/72/727ce1594434dfbb9d03b72b4182d6c1884115d170aa48f8b5de4f00b5f47478/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7168,
+    "sha256": "sha256:493746568ac11973a3d1381f4408b119473bf03be4eed01e041523901d8eb4c5",
+    "normalized_content_hash": "sha256:cf597ad36001e8ee27b4705fc82bad584b640af6b0bc287321d0261c085adb16"
+  },
+  "provenance": {
+    "source_item_id": "0852aec5-8fff-4e3c-8d11-cbf612c9a482",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/toyou/001.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a3553ceed2db0d54bd187ac3e2fb427c259123b5591f0255b674e901d64e85a1",
+  "company": {
+    "key": "axos-financial-inc-common-stock",
+    "name": "Axos Financial Inc. Common Stock"
+  },
+  "source": {
+    "id": "axos-financial-inc-common-stock-news-import-a0a9471c7596",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.axosbank.com/business/insights/finance/what-is-business-finance",
+    "canonical": "https://www.axosbank.com/business/insights/finance/what-is-business-finance"
+  },
+  "title": "What is business finance?",
+  "summary": "Business finance covers how your company raises, manages, and measures money. Learn the core concepts, funding types, and key metrics to keep your business on track.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T23:21:51.105188+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.106394+00:00",
+  "paths": {
+    "article": "articles/v1/45/axos-financial-inc-common-stock/2026/07/a3/a3553ceed2db0d54bd187ac3e2fb427c259123b5591f0255b674e901d64e85a1/article.md",
+    "record": "articles/v1/45/axos-financial-inc-common-stock/2026/07/a3/a3553ceed2db0d54bd187ac3e2fb427c259123b5591f0255b674e901d64e85a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8083,
+    "sha256": "sha256:5995d388dc72ef0154d76402cde83d88ea8d655de05ae00f76739932a859aab3",
+    "normalized_content_hash": "sha256:c43592c360240987dc4cfecb44a742f4e0213704962b7fde4de889a26720b842"
+  },
+  "provenance": {
+    "source_item_id": "7f37ed00-a3fd-4fb8-8996-103ad54bb2f7",
+    "external_id": "https://www.axosbank.com/business/insights/finance/what-is-business-finance"
+  }
+}

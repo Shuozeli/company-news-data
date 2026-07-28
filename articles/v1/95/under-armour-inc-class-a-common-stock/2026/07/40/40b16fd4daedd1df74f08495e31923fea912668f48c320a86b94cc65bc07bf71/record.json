@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "40b16fd4daedd1df74f08495e31923fea912668f48c320a86b94cc65bc07bf71",
+  "company": {
+    "key": "under-armour-inc-class-a-common-stock",
+    "name": "Under Armour Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "under-armour-inc-class-a-common-stock-news-import-ccd679bca982",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.underarmour.com/en/stories/2026/07/under-armour-names-francois-arnaud-as-global-brand-ambassador.html",
+    "canonical": "https://about.underarmour.com/en/stories/2026/07/under-armour-names-francois-arnaud-as-global-brand-ambassador.html"
+  },
+  "title": "Under Armour Names François Arnaud as Global Brand Ambassador",
+  "summary": "Under Armour announces actor François Arnaud as a global brand ambassador adding a powerful new voice to UA. Arnaud will headline “For When It’s Hot,” a new campaign celebrating Under Armour’s iconic HeatGear® franchise and the performance ecosystem surrounding it.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:16:51.498708+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:03.882747+00:00",
+  "paths": {
+    "article": "articles/v1/95/under-armour-inc-class-a-common-stock/2026/07/40/40b16fd4daedd1df74f08495e31923fea912668f48c320a86b94cc65bc07bf71/article.md",
+    "record": "articles/v1/95/under-armour-inc-class-a-common-stock/2026/07/40/40b16fd4daedd1df74f08495e31923fea912668f48c320a86b94cc65bc07bf71/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1437,
+    "sha256": "sha256:30f57ed7fa96b8e1444be6576a603984b470702fc4f334c5460246cb5e8c0fff",
+    "normalized_content_hash": "sha256:0b34b3f9adda6ac9c662ddc6bd1b48d5fdde6d992aa37deee4b4ab53d0225640"
+  },
+  "provenance": {
+    "source_item_id": "05f93962-b860-4416-978b-373273f176e1",
+    "external_id": "https://about.underarmour.com/en/stories/2026/07/under-armour-names-francois-arnaud-as-global-brand-ambassador.html"
+  }
+}

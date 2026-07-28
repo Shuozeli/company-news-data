@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2fe2454d38e739dafb35610091ba40ec56c12c15002165885987f4bd33ed3aad",
+  "company": {
+    "key": "yc-dinesafe",
+    "name": "Dinesafe"
+  },
+  "source": {
+    "id": "yc-dinesafe-news-import-07d65e1cf124",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iwaspoisoned.com/news/mapping-the-global-consumer-reporting-footprint-of-iwaspoisoned",
+    "canonical": "https://iwaspoisoned.com/news/mapping-the-global-consumer-reporting-footprint-of-iwaspoisoned"
+  },
+  "title": "Mapping Iwaspoisoned’s Global Consumer Reporting Footprint",
+  "summary": "We collect and share reports with consumers, public health and restaurants. Protect friends, family & help restaurants. If you got food poisoning report it now!",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T07:41:46.778872+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:52.104597+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-dinesafe/2026/07/2f/2fe2454d38e739dafb35610091ba40ec56c12c15002165885987f4bd33ed3aad/article.md",
+    "record": "articles/v1/6f/yc-dinesafe/2026/07/2f/2fe2454d38e739dafb35610091ba40ec56c12c15002165885987f4bd33ed3aad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5615,
+    "sha256": "sha256:e1b6482635923699ce3e657ee2991222bce605f3f3ea5ead65516fb65c7602a3",
+    "normalized_content_hash": "sha256:0e47a38965fec3125b318723c5d998c48d035c81c85eb1aaebd880b6d2147afd"
+  },
+  "provenance": {
+    "source_item_id": "afd61644-4471-48d0-bda9-6ca1491fc08a",
+    "external_id": "https://iwaspoisoned.com/news/mapping-the-global-consumer-reporting-footprint-of-iwaspoisoned"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7c1e0a617c3c8378d9aa7fc08e3c2dd77af92f5873d5694418d8d6963577dc8",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/alliancebernstein-national-municipal-income-fund,-inc.-nyse-afb-declared-a-dividend-of-$0.0502-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/alliancebernstein-national-municipal-income-fund,-inc.-nyse-afb-declared-a-dividend-of-$0.0502-per-share/"
+  },
+  "title": "AFB Dividend Announcement $0.0502/Share 7/27/2026",
+  "summary": "NYSE:AFB AllianceBernstein National Municipal Income Fund, Inc. Dividend Announcement $0.0502 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.058606+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/c7/c7c1e0a617c3c8378d9aa7fc08e3c2dd77af92f5873d5694418d8d6963577dc8/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/c7/c7c1e0a617c3c8378d9aa7fc08e3c2dd77af92f5873d5694418d8d6963577dc8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1993,
+    "sha256": "sha256:86d43f8a867e81c3f463e59ca1c4e790742ac034b65c18854c310f105cb26b85",
+    "normalized_content_hash": "sha256:051fe06f96afbc5efb0342b3ca5a13d181fa0f96b4b642f311e50c0906558d0c"
+  },
+  "provenance": {
+    "source_item_id": "cb380a1e-b085-46db-afa2-68adf26c0aa8",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/alliancebernstein-national-municipal-income-fund,-inc.-nyse-afb-declared-a-dividend-of-$0.0502-per-share/"
+  }
+}

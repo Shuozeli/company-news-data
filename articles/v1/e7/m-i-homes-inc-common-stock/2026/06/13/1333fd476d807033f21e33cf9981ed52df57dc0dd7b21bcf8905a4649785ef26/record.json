@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1333fd476d807033f21e33cf9981ed52df57dc0dd7b21bcf8905a4649785ef26",
+  "company": {
+    "key": "m-i-homes-inc-common-stock",
+    "name": "M/I Homes Inc. Common Stock"
+  },
+  "source": {
+    "id": "m-i-homes-inc-common-stock-news-import-b06a3d1c61c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mihomes.com/blog/dont-let-these-home-buying-myths-scare-you-away",
+    "canonical": "https://www.mihomes.com/blog/dont-let-these-home-buying-myths-scare-you-away"
+  },
+  "title": "Don’t Let These Home Buying Myths Scare You Away",
+  "summary": "Read our helpful home buying guide concerning down payments, interest rates, mortgages, and credit scores if you have questions about owning a home.",
+  "published_at": "2026-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:23:48.560427+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-07-28T21:43:25.071050+00:00",
+  "paths": {
+    "article": "articles/v1/e7/m-i-homes-inc-common-stock/2026/06/13/1333fd476d807033f21e33cf9981ed52df57dc0dd7b21bcf8905a4649785ef26/article.md",
+    "record": "articles/v1/e7/m-i-homes-inc-common-stock/2026/06/13/1333fd476d807033f21e33cf9981ed52df57dc0dd7b21bcf8905a4649785ef26/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8237,
+    "sha256": "sha256:a23cb408038740c81fc8cd05793cba152f62b25f9667a66d6d6f995c3adc67eb",
+    "normalized_content_hash": "sha256:f88172a970d8170f9ce5f7ff7ed1787bc5d50478d225601ba5f4cfa98d1a1e7b"
+  },
+  "provenance": {
+    "source_item_id": "25efbc7b-ea76-4f86-86ed-4ce89b7e925c",
+    "external_id": "https://www.mihomes.com/blog/dont-let-these-home-buying-myths-scare-you-away"
+  }
+}

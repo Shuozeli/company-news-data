@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a285c6c77b83d1d99406ec8644961be1a1601edffcddeaff285bd61e1b954c3f",
+  "company": {
+    "key": "coinbase-global-inc-class-a-common-stock",
+    "name": "Coinbase Global Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "coinbase-global-inc-class-a-common-stock-rss-0560afd38a6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Announces-Date-of-First-Quarter-2026-Financial-Results/default.aspx",
+    "canonical": "https://investor.coinbase.com/news/news-details/2026/Coinbase-Announces-Date-of-First-Quarter-2026-Financial-Results/default.aspx"
+  },
+  "title": "Coinbase Announces Date of First Quarter 2026 Financial Results",
+  "summary": "",
+  "published_at": "2026-04-13T21:53:00+00:00",
+  "first_seen_at": "2026-07-27T01:08:36.461488+00:00",
+  "fetched_at": "2026-07-28T22:12:20.746099+00:00",
+  "last_updated_at": "2026-07-28T22:12:20.782044+00:00",
+  "paths": {
+    "article": "articles/v1/e1/coinbase-global-inc-class-a-common-stock/2026/04/a2/a285c6c77b83d1d99406ec8644961be1a1601edffcddeaff285bd61e1b954c3f/article.md",
+    "record": "articles/v1/e1/coinbase-global-inc-class-a-common-stock/2026/04/a2/a285c6c77b83d1d99406ec8644961be1a1601edffcddeaff285bd61e1b954c3f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 735,
+    "sha256": "sha256:0cfdaf46c6f8780a7e623a3c7f012901cb5f0e91ff814cffd766a1a9d2713fba",
+    "normalized_content_hash": "sha256:0931d89b864d86550a5c873ad6a7bd39684234685ecf119780f8e128e70db0cc"
+  },
+  "provenance": {
+    "source_item_id": "df137e71-fef8-4108-ac19-ae93b9857f34",
+    "external_id": "4d867679-71fe-46c1-a3d9-57f0c9577579"
+  }
+}

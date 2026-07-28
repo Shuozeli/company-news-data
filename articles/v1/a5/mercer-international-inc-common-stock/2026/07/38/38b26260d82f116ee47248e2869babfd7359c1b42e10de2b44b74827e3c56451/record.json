@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "38b26260d82f116ee47248e2869babfd7359c1b42e10de2b44b74827e3c56451",
+  "company": {
+    "key": "mercer-international-inc-common-stock",
+    "name": "Mercer International Inc. Common Stock"
+  },
+  "source": {
+    "id": "mercer-international-inc-common-stock-news-import-42d7945e1da2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mercerint.com/news/mercer-international-inc-to-present-at-upcoming-investor-conferences-3/",
+    "canonical": "https://mercerint.com/news/mercer-international-inc-to-present-at-upcoming-investor-conferences-3/"
+  },
+  "title": "Mercer International Inc. to present at upcoming investor conferences",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:04:13.713476+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:36.945872+00:00",
+  "paths": {
+    "article": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/38/38b26260d82f116ee47248e2869babfd7359c1b42e10de2b44b74827e3c56451/article.md",
+    "record": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/38/38b26260d82f116ee47248e2869babfd7359c1b42e10de2b44b74827e3c56451/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2851,
+    "sha256": "sha256:1bc080f68ed0f1de0e7b73396fff889c3dfc3153d4cc1f9368c55feef0318c34",
+    "normalized_content_hash": "sha256:0fde7bd534f90fb2fdc6fd20e46b3d446a23bc2160a88f6f1031cf1fbc865a09"
+  },
+  "provenance": {
+    "source_item_id": "dfcd100c-3eb3-4db9-9b7d-623c4dbc378a",
+    "external_id": "https://mercerint.com/news/mercer-international-inc-to-present-at-upcoming-investor-conferences-3/"
+  }
+}

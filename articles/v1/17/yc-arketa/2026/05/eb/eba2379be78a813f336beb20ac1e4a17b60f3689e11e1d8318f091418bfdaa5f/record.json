@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eba2379be78a813f336beb20ac1e4a17b60f3689e11e1d8318f091418bfdaa5f",
+  "company": {
+    "key": "yc-arketa",
+    "name": "Arketa"
+  },
+  "source": {
+    "id": "yc-arketa-news-import-7361d09b0420",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arketa.com/blog/build-your-own-analytics-dashboard",
+    "canonical": "https://www.arketa.com/blog/build-your-own-analytics-dashboard"
+  },
+  "title": "Build your own analytics dashboard",
+  "summary": "Introducing Custom Analytics Dashboards. Arketa is the only studio management platform that lets you build charts from scratch, pick the metrics that matter to your studio, and arrange them into dashboards designed for how your team actually works.",
+  "published_at": "2026-05-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T00:48:42.779741+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.646858+00:00",
+  "paths": {
+    "article": "articles/v1/17/yc-arketa/2026/05/eb/eba2379be78a813f336beb20ac1e4a17b60f3689e11e1d8318f091418bfdaa5f/article.md",
+    "record": "articles/v1/17/yc-arketa/2026/05/eb/eba2379be78a813f336beb20ac1e4a17b60f3689e11e1d8318f091418bfdaa5f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4792,
+    "sha256": "sha256:f15e0bcaf13906bdacdb45e18a3d9f1321830ac5f0cd2274dc7173a832efb266",
+    "normalized_content_hash": "sha256:e34209ea0399bf372ae70f6ea6ff0d3b0d4e36e7819c2d91bca30e991b674e81"
+  },
+  "provenance": {
+    "source_item_id": "df07488d-ba9d-41a9-b897-3b2a20ca6cbb",
+    "external_id": "https://www.arketa.com/blog/build-your-own-analytics-dashboard"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "15e6881da0a4cf16f1497c4f905a80a35e8b8868ce256dc15b5371b067cda361",
+  "company": {
+    "key": "edison-international-common-stock",
+    "name": "Edison International Common Stock"
+  },
+  "source": {
+    "id": "edison-international-common-stock-rss-1315327e8509",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://energized.edison.com/stories/padding-poles-for-safety-along-risky-roads",
+    "canonical": "http://energized.edison.com/stories/padding-poles-for-safety-along-risky-roads"
+  },
+  "title": "Padding Poles for Safety Along Risky Roads",
+  "summary": "Bright yellow blocks are being added to the bases of certain utility poles along Southern California roads. These padded barriers, known as pole cushions, are designed to ...",
+  "published_at": "2026-06-26T18:22:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:20.584311+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:41.239551+00:00",
+  "paths": {
+    "article": "articles/v1/3a/edison-international-common-stock/2026/06/15/15e6881da0a4cf16f1497c4f905a80a35e8b8868ce256dc15b5371b067cda361/article.md",
+    "record": "articles/v1/3a/edison-international-common-stock/2026/06/15/15e6881da0a4cf16f1497c4f905a80a35e8b8868ce256dc15b5371b067cda361/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4733,
+    "sha256": "sha256:a274342adfd5b46f1b93bc542210f9440ac9b1651c256316c7f8eb8818e0b00a",
+    "normalized_content_hash": "sha256:e5d9d2c967f30aab7def24d938a0c09ed212f28f655a48b21445c44decc9f329"
+  },
+  "provenance": {
+    "source_item_id": "31c80695-109a-4060-be54-b6eaef34ded2",
+    "external_id": "http://energized.edison.com/stories/padding-poles-for-safety-along-risky-roads"
+  }
+}

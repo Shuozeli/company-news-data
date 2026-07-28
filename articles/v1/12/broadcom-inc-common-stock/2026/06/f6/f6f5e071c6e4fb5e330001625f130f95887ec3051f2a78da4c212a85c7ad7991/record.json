@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6f5e071c6e4fb5e330001625f130f95887ec3051f2a78da4c212a85c7ad7991",
+  "company": {
+    "key": "broadcom-inc-common-stock",
+    "name": "Broadcom Inc. Common Stock"
+  },
+  "source": {
+    "id": "broadcom-inc-common-stock-rss-6823269edf1e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://news.broadcom.com/releases/broadcom-expands-investment-in-spring-and-java-ecosystem-security",
+    "canonical": "https://news.broadcom.com/releases/broadcom-expands-investment-in-spring-and-java-ecosystem-security"
+  },
+  "title": "Broadcom Expands Its Investment in Spring and Java Ecosystem Security to Prepare Customers for AI-Enabled Threats",
+  "summary": "Broadcom announced significant security investments for the Spring and Java ecosystem",
+  "published_at": "2026-06-08T13:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:13.318217+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-07-28T22:13:42.015554+00:00",
+  "paths": {
+    "article": "articles/v1/12/broadcom-inc-common-stock/2026/06/f6/f6f5e071c6e4fb5e330001625f130f95887ec3051f2a78da4c212a85c7ad7991/article.md",
+    "record": "articles/v1/12/broadcom-inc-common-stock/2026/06/f6/f6f5e071c6e4fb5e330001625f130f95887ec3051f2a78da4c212a85c7ad7991/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7696,
+    "sha256": "sha256:0041bddd1d2dc4b8f291bfcea48f821884c09d870166ed6ce10ad13be5dde8a7",
+    "normalized_content_hash": "sha256:dd6e15f9b98d8de62939bb763090df210623d00f6e932e7ee300c8ddc113ce81"
+  },
+  "provenance": {
+    "source_item_id": "6e0a1c06-491e-4dba-af28-ad26eb7267de",
+    "external_id": "https://news.broadcom.com/?post_type=story&p=48272"
+  }
+}

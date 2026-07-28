@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7895e331d8839b5e0536d64447bf24f38130745a86b093ec97d004d8a4a39e79",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/quantum-entanglement-computing-beginners-guide",
+    "canonical": "https://www.btq.tech/blog/quantum-entanglement-computing-beginners-guide"
+  },
+  "title": "Quantum Entanglement and Computing: A Beginner's Guide",
+  "summary": "Discover the power of quantum entanglement and its role in revolutionizing technology through quantum computing. Explore how this mind-bending phenomenon enables faster problem-solving, secure cryptography, and advanced algorithms that are shaping the future of next-gen computing.",
+  "published_at": "2024-09-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:36.547153+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2024/09/78/7895e331d8839b5e0536d64447bf24f38130745a86b093ec97d004d8a4a39e79/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2024/09/78/7895e331d8839b5e0536d64447bf24f38130745a86b093ec97d004d8a4a39e79/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8046,
+    "sha256": "sha256:81356bdea922973175de69c8c72a071131ed0c0e29ebcdb57b8dedbf16d0a0ac",
+    "normalized_content_hash": "sha256:77a90bcfbb140a16a4af1e0fd8e526328e7cb7f67808ecadf84a5b83f04e7157"
+  },
+  "provenance": {
+    "source_item_id": "2d4a2b69-0b56-4ed2-8093-5dd623b865f3",
+    "external_id": "https://www.btq.tech/blog/quantum-entanglement-computing-beginners-guide"
+  }
+}

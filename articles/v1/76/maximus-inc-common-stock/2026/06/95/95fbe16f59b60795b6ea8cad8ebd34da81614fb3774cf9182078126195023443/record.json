@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "95fbe16f59b60795b6ea8cad8ebd34da81614fb3774cf9182078126195023443",
+  "company": {
+    "key": "maximus-inc-common-stock",
+    "name": "Maximus Inc. Common Stock"
+  },
+  "source": {
+    "id": "maximus-inc-common-stock-news-import-c314bb0b8fa6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://maximus.com/insights/transforming-health-care-with-ai",
+    "canonical": "https://maximus.com/insights/transforming-health-care-with-ai"
+  },
+  "title": "Transforming Health Care With AI",
+  "summary": "Learn how AI is helping VA providers reduce administrative burden, expand access to care, and improve health outcomes for veterans.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:04:09.379679+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:32.935221+00:00",
+  "paths": {
+    "article": "articles/v1/76/maximus-inc-common-stock/2026/06/95/95fbe16f59b60795b6ea8cad8ebd34da81614fb3774cf9182078126195023443/article.md",
+    "record": "articles/v1/76/maximus-inc-common-stock/2026/06/95/95fbe16f59b60795b6ea8cad8ebd34da81614fb3774cf9182078126195023443/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6208,
+    "sha256": "sha256:611456209c8f5b891e356c8e51e22ebf077831fd90363cbfad234f2576ff0f48",
+    "normalized_content_hash": "sha256:bc66d261ec914d9a5a986f8463b315093926654d3c1228c635b61a473b3f6e20"
+  },
+  "provenance": {
+    "source_item_id": "0b397e47-c354-432b-a958-8764e2a02a6e",
+    "external_id": "https://maximus.com/insights/transforming-health-care-with-ai"
+  }
+}

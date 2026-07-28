@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1414afb695f3a1871bac47ab5c26bd807c4fd7a8de91fc11d19abe4396547c17",
+  "company": {
+    "key": "freecast-inc-class-a-common-stock",
+    "name": "FreeCast Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "freecast-inc-class-a-common-stock-news-import-55cf03d44bed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://freecast.com/company/press-releases/freecast-officially-launches-the-caribbeans-first-united-free-streaming-platform-across-25-countries-and-territories",
+    "canonical": "https://freecast.com/company/press-releases/freecast-officially-launches-the-caribbeans-first-united-free-streaming-platform-across-25-countries-and-territories"
+  },
+  "title": "FreeCast Officially Launches the Caribbean’s First United Free Streaming Platform Across 25 Countries and Territories - Press Release - FreeCast",
+  "summary": "Breakthrough deployment brings hundreds of free channels and thousands of on-demand titles, reaching over 10 million viewers across the region.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T09:09:58.442865+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:05.163231+00:00",
+  "paths": {
+    "article": "articles/v1/c7/freecast-inc-class-a-common-stock/2026/07/14/1414afb695f3a1871bac47ab5c26bd807c4fd7a8de91fc11d19abe4396547c17/article.md",
+    "record": "articles/v1/c7/freecast-inc-class-a-common-stock/2026/07/14/1414afb695f3a1871bac47ab5c26bd807c4fd7a8de91fc11d19abe4396547c17/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3404,
+    "sha256": "sha256:e35589750448e3c12a0e17876500470b37579ec0a31f82dc8568030e8e46d3c7",
+    "normalized_content_hash": "sha256:9b6b7fdeaaa69c316135cc89b3acf3914d29cfe58b8d7f173db4cea71eb2a0cf"
+  },
+  "provenance": {
+    "source_item_id": "1a9da523-0dc3-401f-9a33-ec440b7415f4",
+    "external_id": "https://freecast.com/company/press-releases/freecast-officially-launches-the-caribbeans-first-united-free-streaming-platform-across-25-countries-and-territories"
+  }
+}

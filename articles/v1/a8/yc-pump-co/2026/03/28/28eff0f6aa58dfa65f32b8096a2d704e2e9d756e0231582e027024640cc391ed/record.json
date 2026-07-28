@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28eff0f6aa58dfa65f32b8096a2d704e2e9d756e0231582e027024640cc391ed",
+  "company": {
+    "key": "yc-pump-co",
+    "name": "Pump.co"
+  },
+  "source": {
+    "id": "yc-pump-co-news-import-86a46b79533f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pump.co/blog/azure-iot-hub/",
+    "canonical": "https://www.pump.co/blog/azure-iot-hub/"
+  },
+  "title": "Azure IoT Hub: Features, Pricing & Use Cases",
+  "summary": "Learn what Azure IoT Hub is, how its pricing tiers work, key features like device twins and message routing, security options, and real-world use cases.",
+  "published_at": "2026-03-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:15:23.871807+00:00",
+  "fetched_at": "2026-07-28T11:48:07.834159+00:00",
+  "last_updated_at": "2026-07-28T11:48:10.876092+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-pump-co/2026/03/28/28eff0f6aa58dfa65f32b8096a2d704e2e9d756e0231582e027024640cc391ed/article.md",
+    "record": "articles/v1/a8/yc-pump-co/2026/03/28/28eff0f6aa58dfa65f32b8096a2d704e2e9d756e0231582e027024640cc391ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14087,
+    "sha256": "sha256:764ce62c4f735b4ea898caeea5e447dd854f78485265bcb9f429885f5318214d",
+    "normalized_content_hash": "sha256:996c6f3cf4ff1d3f6cea9b73667b6eb59a751e3acd1ccfdfa1f218da86e5fbdd"
+  },
+  "provenance": {
+    "source_item_id": "2c943ec1-1f58-4b79-b66c-0f7d95e749dd",
+    "external_id": "https://www.pump.co/blog/azure-iot-hub/"
+  }
+}

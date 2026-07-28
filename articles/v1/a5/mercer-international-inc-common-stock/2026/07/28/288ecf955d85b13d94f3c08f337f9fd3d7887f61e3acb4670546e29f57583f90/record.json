@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "288ecf955d85b13d94f3c08f337f9fd3d7887f61e3acb4670546e29f57583f90",
+  "company": {
+    "key": "mercer-international-inc-common-stock",
+    "name": "Mercer International Inc. Common Stock"
+  },
+  "source": {
+    "id": "mercer-international-inc-common-stock-news-import-42d7945e1da2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mercerint.com/news/mercer-international-inc-announces-conference-call-for-third-quarter-2025-results/",
+    "canonical": "https://mercerint.com/news/mercer-international-inc-announces-conference-call-for-third-quarter-2025-results/"
+  },
+  "title": "Mercer International Inc. announces conference call for third quarter 2025 results",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:04:13.713476+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:36.898765+00:00",
+  "paths": {
+    "article": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/28/288ecf955d85b13d94f3c08f337f9fd3d7887f61e3acb4670546e29f57583f90/article.md",
+    "record": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/28/288ecf955d85b13d94f3c08f337f9fd3d7887f61e3acb4670546e29f57583f90/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2969,
+    "sha256": "sha256:120fb52a9bb94eb6ad294a9b562f7291e855f028e8c50e46ed85fb6cca317ee6",
+    "normalized_content_hash": "sha256:e165ebbcf87fe5352b9dceaea1409f32b4d8be83ee69ec4c3a7296b57e10db13"
+  },
+  "provenance": {
+    "source_item_id": "a767107e-cd49-4bcc-9964-d56c3f996a6a",
+    "external_id": "https://mercerint.com/news/mercer-international-inc-announces-conference-call-for-third-quarter-2025-results/"
+  }
+}

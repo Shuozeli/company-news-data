@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b03d60bccaccf68a58e8ecdc916c06e8aa0d50522fcfa73386ef4b227ffee578",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-f76a50baf54b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/newsroom/press-releases/auth0-introduces-new-embedded-login-advancements-for-seamless-mobile-web-and-agentic-experiences/",
+    "canonical": "https://www.okta.com/newsroom/press-releases/auth0-introduces-new-embedded-login-advancements-for-seamless-mobile-web-and-agentic-experiences/"
+  },
+  "title": "Auth0 introduces new embedded login advancements for seamless mobile, web and agentic experiences",
+  "summary": "New APIs and built-in security tooling reduce identity friction, enabling in-app authentication flows that drive growth.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:05:39.149088+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:37.637239+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/06/b0/b03d60bccaccf68a58e8ecdc916c06e8aa0d50522fcfa73386ef4b227ffee578/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/06/b0/b03d60bccaccf68a58e8ecdc916c06e8aa0d50522fcfa73386ef4b227ffee578/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6479,
+    "sha256": "sha256:9b5742887e404c6b84a7a8fd45bd18c170bd8e62c41dba9c75e0d84f93e87376",
+    "normalized_content_hash": "sha256:c77edc871195a1e9883bcb5c28f7a28a71cd3d978254438bbfc0a612d8fe2448"
+  },
+  "provenance": {
+    "source_item_id": "8d226745-7791-4782-a0d7-4ead05a48b99",
+    "external_id": "https://www.okta.com/newsroom/press-releases/auth0-introduces-new-embedded-login-advancements-for-seamless-mobile-web-and-agentic-experiences/"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-orderli",
+    "name": "Orderli"
+  },
+  "record_count": 15,
+  "first_published_at": "2021-09-14T16:10:00+00:00",
+  "last_published_at": "2023-09-11T11:30:48+00:00",
+  "partitions": [
+    {
+      "partition": "2021-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    }
+  ]
+}

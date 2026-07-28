@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "87bbaa05886d6a460885c7fa8f6cd17ccccbbf964192bf94852f7d995c399b31",
+  "company": {
+    "key": "pubmatic-inc-class-a-common-stock",
+    "name": "PubMatic Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "pubmatic-inc-class-a-common-stock-rss-0ec8ce99262b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pubmatic.com/news/pubmatic-launches-creator-marketplace-to-connect-content-creators-with-emerging-agentic-demand/",
+    "canonical": "https://pubmatic.com/news/pubmatic-launches-creator-marketplace-to-connect-content-creators-with-emerging-agentic-demand/"
+  },
+  "title": "PubMatic Launches Creator Marketplace to Connect Content Creators with Emerging Agentic Demand",
+  "summary": "As independent content creators scale audiences across CTV and beyond social platforms, PubMatic enables direct access to a new class of performance-driven buyers through AgenticOS.",
+  "published_at": "2026-06-18T12:00:39+00:00",
+  "first_seen_at": "2026-07-20T23:22:59.422019+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-07-28T21:11:29.549038+00:00",
+  "paths": {
+    "article": "articles/v1/01/pubmatic-inc-class-a-common-stock/2026/06/87/87bbaa05886d6a460885c7fa8f6cd17ccccbbf964192bf94852f7d995c399b31/article.md",
+    "record": "articles/v1/01/pubmatic-inc-class-a-common-stock/2026/06/87/87bbaa05886d6a460885c7fa8f6cd17ccccbbf964192bf94852f7d995c399b31/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7905,
+    "sha256": "sha256:17f05ecbbf72bf0896a2d196919b5da791f2995d02eaecfb10ba81cd96082a98",
+    "normalized_content_hash": "sha256:03351ffeb28489c3ac795ca830adba07125ade9b2b2e5feb6fc21b7d1edde097"
+  },
+  "provenance": {
+    "source_item_id": "bfb810a8-7b10-4042-9022-415c2308627c",
+    "external_id": "https://pubmatic.com/?post_type=news&p=73814"
+  }
+}

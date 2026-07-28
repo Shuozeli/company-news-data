@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb8aa68971ac2c8c55c6df21e2cd0217ced2761b19c53d6ad642f050126df736",
+  "company": {
+    "key": "helmerich-payne-inc-common-stock",
+    "name": "Helmerich & Payne Inc. Common Stock"
+  },
+  "source": {
+    "id": "helmerich-payne-inc-common-stock-news-import-087928651302",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hpinc.com/news/company-insights/hp-inc-announces-fiscal-first-quarter-results-2025",
+    "canonical": "https://www.hpinc.com/news/company-insights/hp-inc-announces-fiscal-first-quarter-results-2025"
+  },
+  "title": "H&P, Inc. Announces Fiscal First Quarter Results",
+  "summary": "Operating and Financial Highlights for the Quarter Ended December 31, 2025 Management Commentary “During the first fiscal quarter, the Company executed with discipline, delivering strong operational and financial results across all business segments. These results demonstrate our ability to generate consistent operational performance and advance our strategic priorities in a dynamic market environment,” commented CEO […]",
+  "published_at": "2026-02-04T21:44:44+00:00",
+  "first_seen_at": "2026-07-21T22:46:51.190120+00:00",
+  "fetched_at": "2026-07-28T22:21:38.029889+00:00",
+  "last_updated_at": "2026-07-28T22:21:45.621875+00:00",
+  "paths": {
+    "article": "articles/v1/96/helmerich-payne-inc-common-stock/2026/02/bb/bb8aa68971ac2c8c55c6df21e2cd0217ced2761b19c53d6ad642f050126df736/article.md",
+    "record": "articles/v1/96/helmerich-payne-inc-common-stock/2026/02/bb/bb8aa68971ac2c8c55c6df21e2cd0217ced2761b19c53d6ad642f050126df736/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7625,
+    "sha256": "sha256:c9bfea68d6c2a4bb29ef3208f3a366e16e7b92b0b5e0938f0be13d8b6017067f",
+    "normalized_content_hash": "sha256:6fbfcd071695f90d17d7e1c994e00f99116bd431761436d09dabfb83b9515f5f"
+  },
+  "provenance": {
+    "source_item_id": "a218d387-b794-46c0-a730-e6dacb63c408",
+    "external_id": "https://www.hpinc.com/news/company-insights/hp-inc-announces-fiscal-first-quarter-results-2025"
+  }
+}

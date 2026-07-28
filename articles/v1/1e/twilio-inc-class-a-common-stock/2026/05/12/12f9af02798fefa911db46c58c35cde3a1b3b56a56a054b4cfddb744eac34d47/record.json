@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12f9af02798fefa911db46c58c35cde3a1b3b56a56a054b4cfddb744eac34d47",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-news-import-801d48e1d714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/introducing-twilio-mcp-skills",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/introducing-twilio-mcp-skills"
+  },
+  "title": "Introducing the Twilio MCP Server and Skills: Give Your Coding Agents Native Access to 1,800+ Twilio APIs",
+  "summary": "Twilio MCP server and Skills give AI agents native access to 1,800+ Twilio APIs and expert guidance to write better code, faster, without leaving your IDE.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T17:37:59.927743+00:00",
+  "fetched_at": "2026-07-28T22:12:44.576485+00:00",
+  "last_updated_at": "2026-07-28T22:13:03.318637+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/05/12/12f9af02798fefa911db46c58c35cde3a1b3b56a56a054b4cfddb744eac34d47/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/05/12/12f9af02798fefa911db46c58c35cde3a1b3b56a56a054b4cfddb744eac34d47/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13293,
+    "sha256": "sha256:98c465bac1754a14ab59ee0647ae5e18a22c31482644451dcf6e65111ee0bb9f",
+    "normalized_content_hash": "sha256:e9d5d67d938b68fa018d4efdc0ab72c95d556025ae679e322de26e9901c7ed8c"
+  },
+  "provenance": {
+    "source_item_id": "97b143cd-5791-4352-84e1-cde889767b1f",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/introducing-twilio-mcp-skills"
+  }
+}

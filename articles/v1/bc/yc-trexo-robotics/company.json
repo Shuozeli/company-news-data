@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-trexo-robotics",
+    "name": "Trexo Robotics"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-02-26T20:57:20+00:00",
+  "last_published_at": "2025-08-25T20:41:04+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    }
+  ]
+}

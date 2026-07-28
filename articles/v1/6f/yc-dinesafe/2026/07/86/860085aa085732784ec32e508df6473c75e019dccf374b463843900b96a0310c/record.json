@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "860085aa085732784ec32e508df6473c75e019dccf374b463843900b96a0310c",
+  "company": {
+    "key": "yc-dinesafe",
+    "name": "Dinesafe"
+  },
+  "source": {
+    "id": "yc-dinesafe-news-import-07d65e1cf124",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iwaspoisoned.com/news/iwaspoisoned-speaks-at-central-texas-environmental-health-association-conference-2024",
+    "canonical": "https://iwaspoisoned.com/news/iwaspoisoned-speaks-at-central-texas-environmental-health-association-conference-2024"
+  },
+  "title": "Iwasposioned Speaks at the Central Texas Environmental Health Association Conference 2024",
+  "summary": "We collect and share reports with consumers, public health and restaurants. Protect friends, family & help restaurants. If you got food poisoning report it now!",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T07:41:46.778872+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:52.009810+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-dinesafe/2026/07/86/860085aa085732784ec32e508df6473c75e019dccf374b463843900b96a0310c/article.md",
+    "record": "articles/v1/6f/yc-dinesafe/2026/07/86/860085aa085732784ec32e508df6473c75e019dccf374b463843900b96a0310c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4583,
+    "sha256": "sha256:811c3ccdc559fc345a5c813846e088f9da0ef270039ff4f59934c0c4e40db285",
+    "normalized_content_hash": "sha256:794d7225b3295afcf25a35728d0990af88ca698dedd5f62f1607a76ee6c5911e"
+  },
+  "provenance": {
+    "source_item_id": "8025d251-bfc5-42b1-84d7-c375e8acd080",
+    "external_id": "https://iwaspoisoned.com/news/iwaspoisoned-speaks-at-central-texas-environmental-health-association-conference-2024"
+  }
+}

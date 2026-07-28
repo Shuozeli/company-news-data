@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f92cd29c689422d7759cfb4ac758121bf1a0a39062cbe4a2d22b4cd67e784ac7",
+  "company": {
+    "key": "technipfmc-plc-ordinary-share",
+    "name": "TechnipFMC plc Ordinary Share"
+  },
+  "source": {
+    "id": "technipfmc-plc-ordinary-share-rss-e927dfc37f01",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2019/07/first-lng-cargo-shipped-from-prelude-flng/",
+    "canonical": "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2019/07/first-lng-cargo-shipped-from-prelude-flng/"
+  },
+  "title": "First LNG cargo shipped from Prelude FLNG",
+  "summary": "",
+  "published_at": "2019-07-04T01:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:08:54.270037+00:00",
+  "fetched_at": "2026-07-28T21:51:21.094676+00:00",
+  "last_updated_at": "2026-07-28T21:51:21.161668+00:00",
+  "paths": {
+    "article": "articles/v1/3f/technipfmc-plc-ordinary-share/2019/07/f9/f92cd29c689422d7759cfb4ac758121bf1a0a39062cbe4a2d22b4cd67e784ac7/article.md",
+    "record": "articles/v1/3f/technipfmc-plc-ordinary-share/2019/07/f9/f92cd29c689422d7759cfb4ac758121bf1a0a39062cbe4a2d22b4cd67e784ac7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 666,
+    "sha256": "sha256:1cfb35d9f73086c096274ef58482ed13d70fdae60fed5f074b362b78ec9af56c",
+    "normalized_content_hash": "sha256:cb494fa4d3fef2487848ba67986f793d6ce824a26230af41258b196b05adb7c4"
+  },
+  "provenance": {
+    "source_item_id": "7ac4040b-1d3f-49bf-84d1-7d6392c268e0",
+    "external_id": "{272c64d9-d6ef-42fc-a7e6-1ddee8f54a50}"
+  }
+}

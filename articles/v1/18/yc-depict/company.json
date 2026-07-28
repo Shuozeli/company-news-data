@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-depict",
+    "name": "Depict"
+  },
+  "record_count": 27,
+  "first_published_at": "2026-03-18T10:38:12+00:00",
+  "last_published_at": "2026-07-20T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 23
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

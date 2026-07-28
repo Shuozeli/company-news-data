@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1df1a456f87687bd7e2651a824654b7c97c3c88e9987f58e990ffa183d46862a",
+  "company": {
+    "key": "alliant-energy-corporation-common-stock",
+    "name": "Alliant Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "alliant-energy-corporation-common-stock-news-import-5331c2900a0f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/07/070726-phtvtip",
+    "canonical": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/07/070726-phtvtip"
+  },
+  "title": "PowerHouse July Tip of the Month: Beat the heat with fans",
+  "summary": "Fans help you feel cooler even with the thermostat set a little higher. That can reduce how often your air conditioner needs to run without sacrificing comfort.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:32:38.450273+00:00",
+  "fetched_at": "2026-07-27T11:32:36.077817+00:00",
+  "last_updated_at": "2026-07-27T11:32:38.450273+00:00",
+  "paths": {
+    "article": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/07/1d/1df1a456f87687bd7e2651a824654b7c97c3c88e9987f58e990ffa183d46862a/article.md",
+    "record": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/07/1d/1df1a456f87687bd7e2651a824654b7c97c3c88e9987f58e990ffa183d46862a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3035,
+    "sha256": "sha256:0270ad6da66d7bacbf2d6c0ffedb85d8a725ef2c4b630811be9494ef2647045c",
+    "normalized_content_hash": "sha256:80b7ba5ac7795d42842405c70f1ae5d99cabe967a9a4009c068219bbcd3157d9"
+  },
+  "provenance": {
+    "source_item_id": "a84b4607-8549-4aa3-b086-1d6f35d308aa",
+    "external_id": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/07/070726-phtvtip"
+  }
+}

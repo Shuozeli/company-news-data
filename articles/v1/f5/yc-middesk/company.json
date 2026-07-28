@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-middesk",
+    "name": "Middesk"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-06-12T14:12:57.439+00:00",
+  "last_published_at": "2026-07-17T18:02:13.858+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

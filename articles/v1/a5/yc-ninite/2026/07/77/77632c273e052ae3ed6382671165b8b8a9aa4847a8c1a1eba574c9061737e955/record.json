@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "77632c273e052ae3ed6382671165b8b8a9aa4847a8c1a1eba574c9061737e955",
+  "company": {
+    "key": "yc-ninite",
+    "name": "Ninite"
+  },
+  "source": {
+    "id": "yc-ninite-rss-629553105472",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ninite.com/cursor/",
+    "canonical": "https://ninite.com/cursor/"
+  },
+  "title": "Cursor updated to 3.11.25.",
+  "summary": "",
+  "published_at": "2026-07-15T19:55:49+00:00",
+  "first_seen_at": "2026-07-25T16:20:56.315803+00:00",
+  "fetched_at": "2026-07-28T20:51:42.131550+00:00",
+  "last_updated_at": "2026-07-28T20:51:42.222078+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-ninite/2026/07/77/77632c273e052ae3ed6382671165b8b8a9aa4847a8c1a1eba574c9061737e955/article.md",
+    "record": "articles/v1/a5/yc-ninite/2026/07/77/77632c273e052ae3ed6382671165b8b8a9aa4847a8c1a1eba574c9061737e955/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 498,
+    "sha256": "sha256:93d648d54bd86de2d89b57d067e2f77c15dadd5c65dc43f8b08e43493f5c14d2",
+    "normalized_content_hash": "sha256:dbc1705a06d18e2537d1ceaf479eb8da85f38aa6097e9d1ec38190389dd779d5"
+  },
+  "provenance": {
+    "source_item_id": "d86f837f-553a-4fbc-abe3-46b525e1ea8c",
+    "external_id": "6701dac023dd7f5d422b863cb14e5b0c"
+  }
+}

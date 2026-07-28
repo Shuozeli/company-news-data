@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cd79ab45d6cab4ee1ec6e416535eb1287fc5a98d16a061c8f9ccb09542467e53",
+  "company": {
+    "key": "yc-rejot",
+    "name": "ReJot"
+  },
+  "source": {
+    "id": "yc-rejot-news-import-01598ccac029",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rejot.dev/blog/2026-02-18_implicit-last-write-wins/",
+    "canonical": "https://rejot.dev/blog/2026-02-18_implicit-last-write-wins/"
+  },
+  "title": "Implicit last-write-wins behaviour in the age of agents",
+  "summary": "Last-write-wins is no longer cutting it in highly concurrent environments. Optimistic concurrency control is a better approach.",
+  "published_at": "2026-02-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T11:22:58.242135+00:00",
+  "fetched_at": "2026-07-28T22:19:43.789522+00:00",
+  "last_updated_at": "2026-07-28T22:21:32.944223+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-rejot/2026/02/cd/cd79ab45d6cab4ee1ec6e416535eb1287fc5a98d16a061c8f9ccb09542467e53/article.md",
+    "record": "articles/v1/62/yc-rejot/2026/02/cd/cd79ab45d6cab4ee1ec6e416535eb1287fc5a98d16a061c8f9ccb09542467e53/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3272,
+    "sha256": "sha256:0c9683ecea80e6c05204cc4518c27dc748e73015d58a08b83921d7e5899cc945",
+    "normalized_content_hash": "sha256:7fcf048e779e53736426133a6bf6397aa7a1dfa9826850cb0da9a7f77f49615f"
+  },
+  "provenance": {
+    "source_item_id": "fabfe513-c973-417b-a159-44c2ad16984d",
+    "external_id": "https://rejot.dev/blog/2026-02-18_implicit-last-write-wins/"
+  }
+}

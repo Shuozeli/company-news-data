@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9c84b23decc2d16d7a7b8b53988e078f5a753ec939647cd0b84e3ce2301b8c2",
+  "company": {
+    "key": "under-armour-inc-class-a-common-stock",
+    "name": "Under Armour Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "under-armour-inc-class-a-common-stock-news-import-ccd679bca982",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.underarmour.com/en/stories/2026/07/ferran-torres-delivers-on-soccer-s-biggest-stage-wearing-under-a.html",
+    "canonical": "https://about.underarmour.com/en/stories/2026/07/ferran-torres-delivers-on-soccer-s-biggest-stage-wearing-under-a.html"
+  },
+  "title": "Ferran Torres Delivers on Soccer's Biggest Stage Wearing Under Armour",
+  "summary": "Under Armour athlete Ferran Torres etched his name into soccer history in the UA Shadow Elite 4 FG Mach, scoring the lone goal of the 2026 FIFA World Cup Final to lift Spain to a 1-0 victory against Argentina. He found the breakthrough in the 106th minute of extra time, delivering the decisive strike that secured Spain's second-ever world title.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:16:51.498708+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:03.740400+00:00",
+  "paths": {
+    "article": "articles/v1/95/under-armour-inc-class-a-common-stock/2026/07/d9/d9c84b23decc2d16d7a7b8b53988e078f5a753ec939647cd0b84e3ce2301b8c2/article.md",
+    "record": "articles/v1/95/under-armour-inc-class-a-common-stock/2026/07/d9/d9c84b23decc2d16d7a7b8b53988e078f5a753ec939647cd0b84e3ce2301b8c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1610,
+    "sha256": "sha256:ba19bc4bc3c72deefa9ed278efb249b0cfc1474df9716d9371fcafbd4105b738",
+    "normalized_content_hash": "sha256:b0a278c6f30578298ec96f57dc023ab24ba3f653491d95418c1bfd7feb5306df"
+  },
+  "provenance": {
+    "source_item_id": "d1454aab-23fa-464b-9fa3-2ce8669acf6e",
+    "external_id": "https://about.underarmour.com/en/stories/2026/07/ferran-torres-delivers-on-soccer-s-biggest-stage-wearing-under-a.html"
+  }
+}

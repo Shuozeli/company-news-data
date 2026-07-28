@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "89bf1cd960a6a06430b31d7b3893651c7dd482ba1a5352049285f443967e1a19",
+  "company": {
+    "key": "galaxy-digital-inc-class-a-common-stock",
+    "name": "Galaxy Digital Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "galaxy-digital-inc-class-a-common-stock-news-import-fbc635ef0517",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.galaxy.com/insights/research/new-york-state-data-center-moratorium",
+    "canonical": "https://www.galaxy.com/insights/research/new-york-state-data-center-moratorium"
+  },
+  "title": "N.Y. Data Center Freeze Tests State’s Leverage With Developers",
+  "summary": "The Empire State is betting hyperscalers need it more than it needs them, and perhaps other states will follow its suit. The next year will settle it.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T06:07:02.932709+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:52.188063+00:00",
+  "paths": {
+    "article": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/89/89bf1cd960a6a06430b31d7b3893651c7dd482ba1a5352049285f443967e1a19/article.md",
+    "record": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/89/89bf1cd960a6a06430b31d7b3893651c7dd482ba1a5352049285f443967e1a19/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14638,
+    "sha256": "sha256:380de8a12dbed84de8106fca4dd78c004906feb66ef8913d106b53813b1893a7",
+    "normalized_content_hash": "sha256:210d63ec533d29cc8ad21f9a09007d61af1fd2286b74f9023e699042b3b2487e"
+  },
+  "provenance": {
+    "source_item_id": "561a8901-9a3a-4000-a771-5216d931488f",
+    "external_id": "https://www.galaxy.com/insights/research/new-york-state-data-center-moratorium"
+  }
+}

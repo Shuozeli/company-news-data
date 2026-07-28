@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13172a68fe39b1c9a57d1ecbf4e540e82ccc80919b80666c80a5e32920c1564c",
+  "company": {
+    "key": "yc-bulk-mro-industrial-supply",
+    "name": "Bulk MRO Industrial Supply"
+  },
+  "source": {
+    "id": "yc-bulk-mro-industrial-supply-rss-f7d25cf2a5b1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://bulkmro.com/lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry/",
+    "canonical": "https://bulkmro.com/lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry/"
+  },
+  "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+  "summary": "When an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "published_at": "2023-06-15T10:28:54+00:00",
+  "first_seen_at": "2026-07-24T22:17:58.140075+00:00",
+  "fetched_at": "2026-07-28T20:28:23.090097+00:00",
+  "last_updated_at": "2026-07-28T20:28:23.129040+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-bulk-mro-industrial-supply/2023/06/13/13172a68fe39b1c9a57d1ecbf4e540e82ccc80919b80666c80a5e32920c1564c/article.md",
+    "record": "articles/v1/3a/yc-bulk-mro-industrial-supply/2023/06/13/13172a68fe39b1c9a57d1ecbf4e540e82ccc80919b80666c80a5e32920c1564c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 766,
+    "sha256": "sha256:3362f9ed9f14f1dba0696c6e1eb6f7b5f99ca6429b38785604ea786ed333b01f",
+    "normalized_content_hash": "sha256:c88261628c8de873971345f4e8327f79c843fdd80c433f5c1150dba65be260d4"
+  },
+  "provenance": {
+    "source_item_id": "63b0b665-a234-4f9c-9081-75b437fd0749",
+    "external_id": "https://xcoder.a2hosted.com/bulkmro/?p=466"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "37b505612e286a1c5d6e81b4798d0bd963639f3c4096ef67b022f3fe7b740c1c",
+  "company": {
+    "key": "yc-kapital-bank",
+    "name": "Kapital Bank"
+  },
+  "source": {
+    "id": "yc-kapital-bank-news-import-5e94cb83cd7e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://kapital.com/blog/mercados-financieros",
+    "canonical": "https://kapital.com/blog/mercados-financieros"
+  },
+  "title": "Reporte diario de Fondos y Mercados Financieros | Kapital Grupo Financiero",
+  "summary": "Información pública a inversionistas: Consulta a detalle nuestro reporte diario de rendimientos para los Fondos Distribuidos y Fondos Propios Kapital.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T09:22:59.505316+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:05.779290+00:00",
+  "paths": {
+    "article": "articles/v1/b9/yc-kapital-bank/2026/07/37/37b505612e286a1c5d6e81b4798d0bd963639f3c4096ef67b022f3fe7b740c1c/article.md",
+    "record": "articles/v1/b9/yc-kapital-bank/2026/07/37/37b505612e286a1c5d6e81b4798d0bd963639f3c4096ef67b022f3fe7b740c1c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2834,
+    "sha256": "sha256:9eb5f74dd01018336ad8b0ab2db0921a8e4b38708443de26046904120e98bccd",
+    "normalized_content_hash": "sha256:456aa9c4a13d4e8ce9fc5a4d8c373243d9b1f77802db2f46de1bf2725af65032"
+  },
+  "provenance": {
+    "source_item_id": "3f7482d4-3a80-411a-b8a1-a7042ea17597",
+    "external_id": "https://kapital.com/blog/mercados-financieros"
+  }
+}

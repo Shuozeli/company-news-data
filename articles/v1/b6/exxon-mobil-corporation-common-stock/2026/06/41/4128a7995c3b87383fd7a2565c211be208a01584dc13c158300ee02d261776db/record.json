@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4128a7995c3b87383fd7a2565c211be208a01584dc13c158300ee02d261776db",
+  "company": {
+    "key": "exxon-mobil-corporation-common-stock",
+    "name": "Exxon Mobil Corporation Common Stock"
+  },
+  "source": {
+    "id": "exxon-mobil-corporation-common-stock-news-import-16ce71af83b6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.exxonmobil.com/news/corporate-news/us-secretary-of-energy-chris-wright-tours-golden-pass-lng-terminal-following-first-cargo",
+    "canonical": "https://corporate.exxonmobil.com/news/corporate-news/us-secretary-of-energy-chris-wright-tours-golden-pass-lng-terminal-following-first-cargo"
+  },
+  "title": "U.S. Secretary of Energy Chris Wright tours Golden Pass LNG terminal following first cargo",
+  "summary": "U.S. Secretary of Energy Chris Wright tours Golden Pass LNG terminal after its first cargo, highlighting progress in US LNG exports and energy infrastructure.",
+  "published_at": "2026-06-01T14:29:00+00:00",
+  "first_seen_at": "2026-07-25T04:25:42.923454+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T22:13:01.818679+00:00",
+  "paths": {
+    "article": "articles/v1/b6/exxon-mobil-corporation-common-stock/2026/06/41/4128a7995c3b87383fd7a2565c211be208a01584dc13c158300ee02d261776db/article.md",
+    "record": "articles/v1/b6/exxon-mobil-corporation-common-stock/2026/06/41/4128a7995c3b87383fd7a2565c211be208a01584dc13c158300ee02d261776db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1479,
+    "sha256": "sha256:3111abde5c3df847440e754b35bcd7419216fddd5d3aa07562a76553452339ad",
+    "normalized_content_hash": "sha256:399f851533242c9c3dce4ddf684e039e3cd4ed46de7ea1437b03fc9ef37b23e5"
+  },
+  "provenance": {
+    "source_item_id": "a1a02cc6-af17-4a33-881a-a12a25dda3f0",
+    "external_id": "https://corporate.exxonmobil.com/news/corporate-news/us-secretary-of-energy-chris-wright-tours-golden-pass-lng-terminal-following-first-cargo"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-parrot",
+    "name": "Parrot"
+  },
+  "record_count": 23,
+  "first_published_at": "2026-06-18T14:59:17.029591+00:00",
+  "last_published_at": "2026-07-28T10:56:39.535955+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 13
+    }
+  ]
+}

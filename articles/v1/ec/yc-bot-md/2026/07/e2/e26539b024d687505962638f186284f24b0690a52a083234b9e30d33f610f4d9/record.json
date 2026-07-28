@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e26539b024d687505962638f186284f24b0690a52a083234b9e30d33f610f4d9",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/ebpom-asia.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/ebpom-asia.html"
+  },
+  "title": "Bot MD introduces automated PROMs by powering WhatsApp at EBPOM Asia 2022",
+  "summary": "Bot MD shares at EBPOM Asia how its A.I. platform for doctors is helping hospitals and clinics automate patient engagement and monitoring by integrating with popular chat apps like WhatsApp and Facebook Messenger to scale the collection of PROMs and PREMs while calculating and trending patient scores in a user-friendly dashboard.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.556735+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/e2/e26539b024d687505962638f186284f24b0690a52a083234b9e30d33f610f4d9/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/e2/e26539b024d687505962638f186284f24b0690a52a083234b9e30d33f610f4d9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1430,
+    "sha256": "sha256:7fcfb62afb34e0766542131cd18fba6d9a54f559a2acf4dca71550d1801fd53b",
+    "normalized_content_hash": "sha256:0e0535f449e589d3d6da71bf9d383ba8cd8de1f303ef09ae9d07a35e6ff2ded2"
+  },
+  "provenance": {
+    "source_item_id": "7dca029f-1160-4271-a1eb-65872af13313",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/ebpom-asia.html"
+  }
+}

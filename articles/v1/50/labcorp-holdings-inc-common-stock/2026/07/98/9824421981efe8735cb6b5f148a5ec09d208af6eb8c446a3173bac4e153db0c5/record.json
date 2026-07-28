@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9824421981efe8735cb6b5f148a5ec09d208af6eb8c446a3173bac4e153db0c5",
+  "company": {
+    "key": "labcorp-holdings-inc-common-stock",
+    "name": "Labcorp Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "labcorp-holdings-inc-common-stock-news-import-0e7a4fd25527",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.labcorp.com/education-events/articles/get-more-flexible-accessible-employee-drug-testing-oral-fluid-drug-tests",
+    "canonical": "https://www.labcorp.com/education-events/articles/get-more-flexible-accessible-employee-drug-testing-oral-fluid-drug-tests"
+  },
+  "title": "Get more flexible, accessible employee drug testing with oral fluid drug tests",
+  "summary": "Simplify employee drug screening with oral fluid testing. Oral fluid drug testing offers flexible collections, nationwide access, streamlined HR workflows, and more.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T20:11:31.921198+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:32.540582+00:00",
+  "paths": {
+    "article": "articles/v1/50/labcorp-holdings-inc-common-stock/2026/07/98/9824421981efe8735cb6b5f148a5ec09d208af6eb8c446a3173bac4e153db0c5/article.md",
+    "record": "articles/v1/50/labcorp-holdings-inc-common-stock/2026/07/98/9824421981efe8735cb6b5f148a5ec09d208af6eb8c446a3173bac4e153db0c5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9307,
+    "sha256": "sha256:934aa653ee9077b90da82524514e07961b67ae4cd70e42e82334e4d5de6e7abd",
+    "normalized_content_hash": "sha256:f9f7f5e4b4354ca2ee3c33b40fb303531fab4d34f1cbcd44300b26e8aab6ad5a"
+  },
+  "provenance": {
+    "source_item_id": "a8e5965b-a13f-4a43-9c69-abf1185652a9",
+    "external_id": "https://www.labcorp.com/education-events/articles/get-more-flexible-accessible-employee-drug-testing-oral-fluid-drug-tests"
+  }
+}

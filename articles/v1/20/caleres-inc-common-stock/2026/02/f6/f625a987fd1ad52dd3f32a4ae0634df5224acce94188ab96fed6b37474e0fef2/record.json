@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f625a987fd1ad52dd3f32a4ae0634df5224acce94188ab96fed6b37474e0fef2",
+  "company": {
+    "key": "caleres-inc-common-stock",
+    "name": "Caleres Inc. Common Stock"
+  },
+  "source": {
+    "id": "caleres-inc-common-stock-rss-0c861d034a87",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.caleres.com/news/news-details/2026/Kristen-Sosa-Joins-Caleres-as-Division-President-of-New-York-Brands/default.aspx",
+    "canonical": "https://investor.caleres.com/news/news-details/2026/Kristen-Sosa-Joins-Caleres-as-Division-President-of-New-York-Brands/default.aspx"
+  },
+  "title": "Kristen Sosa Joins Caleres as Division President of New York Brands",
+  "summary": "",
+  "published_at": "2026-02-03T14:00:00+00:00",
+  "first_seen_at": "2026-07-26T11:02:23.481129+00:00",
+  "fetched_at": "2026-07-28T20:20:13.690507+00:00",
+  "last_updated_at": "2026-07-28T20:20:13.752255+00:00",
+  "paths": {
+    "article": "articles/v1/20/caleres-inc-common-stock/2026/02/f6/f625a987fd1ad52dd3f32a4ae0634df5224acce94188ab96fed6b37474e0fef2/article.md",
+    "record": "articles/v1/20/caleres-inc-common-stock/2026/02/f6/f625a987fd1ad52dd3f32a4ae0634df5224acce94188ab96fed6b37474e0fef2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 694,
+    "sha256": "sha256:d6ab8d202eff8c5ed46fcf41a3777316427b97178f3b6ec1f668701faca7475f",
+    "normalized_content_hash": "sha256:fc0831a450b2821729b250f1fdbbe61737c6f338505c1dd28fa86df698c0b66d"
+  },
+  "provenance": {
+    "source_item_id": "2a05e2fb-51df-432c-879f-094812a20a84",
+    "external_id": "80ec8b94-c4c0-4183-b105-9183122a5283"
+  }
+}

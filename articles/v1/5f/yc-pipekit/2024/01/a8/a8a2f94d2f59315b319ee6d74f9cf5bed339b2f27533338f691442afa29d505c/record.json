@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a8a2f94d2f59315b319ee6d74f9cf5bed339b2f27533338f691442afa29d505c",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/argo-workflows-spark",
+    "canonical": "https://homepage.pipekit.io/blog/argo-workflows-spark"
+  },
+  "title": "How to Use Argo Workflows with Spark",
+  "summary": "Run large Spark jobs faster on Kubernetes where you can easily parallelize jobs, using Argo Workflows to automate the data pipelines.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-07-28T22:00:52.499867+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/a8/a8a2f94d2f59315b319ee6d74f9cf5bed339b2f27533338f691442afa29d505c/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/a8/a8a2f94d2f59315b319ee6d74f9cf5bed339b2f27533338f691442afa29d505c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11089,
+    "sha256": "sha256:3202d1437aa630a236a1e64be1efc1bcb8e77c02e080ad6849a4cb116c9c28b4",
+    "normalized_content_hash": "sha256:3fb966b1c0caae6ff4475d5b1d8256af6f81d7db8a0dc9c9deb3d348093352f1"
+  },
+  "provenance": {
+    "source_item_id": "6e3b2100-b4c5-4d22-8de2-7348121d805c",
+    "external_id": "https://homepage.pipekit.io/blog/argo-workflows-spark"
+  }
+}

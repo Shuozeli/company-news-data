@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b35c8cb3101988d34ac8a5e50334af8b4200ec4caaf3d43694650c826058d96",
+  "company": {
+    "key": "arko-corp-common-stock",
+    "name": "ARKO Corp. Common Stock"
+  },
+  "source": {
+    "id": "arko-corp-common-stock-rss-c727f6c45520",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.arkocorp.com/news-events/press-releases/detail/208/as-gas-prices-rise-arko-highlights-fueling-americas",
+    "canonical": "https://www.arkocorp.com/news-events/press-releases/detail/208/as-gas-prices-rise-arko-highlights-fueling-americas"
+  },
+  "title": "As Gas Prices Rise, ARKO Highlights “Fueling America’s Future” With Stackable Savings Up to $2.50 Off Per Gallon",
+  "summary": "",
+  "published_at": "2026-03-12T12:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:17:28.120257+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:18.585613+00:00",
+  "paths": {
+    "article": "articles/v1/27/arko-corp-common-stock/2026/03/6b/6b35c8cb3101988d34ac8a5e50334af8b4200ec4caaf3d43694650c826058d96/article.md",
+    "record": "articles/v1/27/arko-corp-common-stock/2026/03/6b/6b35c8cb3101988d34ac8a5e50334af8b4200ec4caaf3d43694650c826058d96/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5841,
+    "sha256": "sha256:8155c0c5020ce2514302259386aa7f0b0327111b45bc0fcda95dbbdc5bd27fe7",
+    "normalized_content_hash": "sha256:1eaa6ece6b46eda5ca29e575f076097d0632af92600d00f8db53a42097ce8940"
+  },
+  "provenance": {
+    "source_item_id": "b113473d-0dde-4f34-bc98-1287fa7450b7",
+    "external_id": "https://www.arkocorp.com/news-events/press-releases/detail/208/as-gas-prices-rise-arko-highlights-fueling-americas"
+  }
+}

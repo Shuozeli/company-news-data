@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "353fd11dcea5338a90d2569029c9a659d3e5f7e11e754dd681f550d6ea278825",
+  "company": {
+    "key": "qualys-inc-common-stock",
+    "name": "Qualys Inc. Common Stock"
+  },
+  "source": {
+    "id": "qualys-inc-common-stock-news-import-04a5e6e88fc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.qualys.com/qualys-insights/2026/06/04/from-operating-model-to-product-how-we-built-the-roc-for-detection-speed-remediation",
+    "canonical": "https://blog.qualys.com/qualys-insights/2026/06/04/from-operating-model-to-product-how-we-built-the-roc-for-detection-speed-remediation"
+  },
+  "title": "From Operating Model to Product: How We Built the ROC for Detection-Speed Remediation",
+  "summary": "In the first article in this series, we made the case for a prevention-led operating model. This article is about what happened next: the decision to build something that did not exist…",
+  "published_at": "2026-06-04T21:17:17+00:00",
+  "first_seen_at": "2026-07-22T10:38:12.541071+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-07-28T21:43:20.366744+00:00",
+  "paths": {
+    "article": "articles/v1/91/qualys-inc-common-stock/2026/06/35/353fd11dcea5338a90d2569029c9a659d3e5f7e11e754dd681f550d6ea278825/article.md",
+    "record": "articles/v1/91/qualys-inc-common-stock/2026/06/35/353fd11dcea5338a90d2569029c9a659d3e5f7e11e754dd681f550d6ea278825/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9530,
+    "sha256": "sha256:52a7ac2222b12f17e646c21a027e1ea8e1a400292b88b79fbe0c8a057e26849a",
+    "normalized_content_hash": "sha256:092e6e3656c0baa45dbbb32176e9aa0d04ea74244911d6c5037f943ac9b72d14"
+  },
+  "provenance": {
+    "source_item_id": "81242745-14c8-4893-95bb-a6469ba891b7",
+    "external_id": "https://blog.qualys.com/qualys-insights/2026/06/04/from-operating-model-to-product-how-we-built-the-roc-for-detection-speed-remediation"
+  }
+}

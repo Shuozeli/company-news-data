@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-specific",
+    "name": "Specific"
+  },
+  "record_count": 1,
+  "first_published_at": "2026-04-09T00:00:00+00:00",
+  "last_published_at": "2026-04-09T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ]
+}

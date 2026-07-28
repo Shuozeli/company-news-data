@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4c4fc537aac09faa8ae4a6a784e7deb56296ca22d3585d6eb8ff8bd8b423b535",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-b3fe567ac9c2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/foxtail-cases-spike-in-summer",
+    "canonical": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/foxtail-cases-spike-in-summer"
+  },
+  "title": "A Summertime Threat You Might Not See, but Your Pet Will Feel: Foxtail Cases Spike 458% in Summer",
+  "summary": "Trupanion's veterinarians and data-scientists found that foxtail claims spike by as much as 289% in the U.S. and 458% in Canada during June, July and August.",
+  "published_at": "2025-05-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:03.797628+00:00",
+  "fetched_at": "2026-07-28T17:37:55.930207+00:00",
+  "last_updated_at": "2026-07-28T17:37:57.859512+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2025/05/4c/4c4fc537aac09faa8ae4a6a784e7deb56296ca22d3585d6eb8ff8bd8b423b535/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2025/05/4c/4c4fc537aac09faa8ae4a6a784e7deb56296ca22d3585d6eb8ff8bd8b423b535/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7465,
+    "sha256": "sha256:b343384281d37b5debaba6df09168dc405c503bc5976c436997b9cbb72b83e8a",
+    "normalized_content_hash": "sha256:635c1f932e5d91ee8b54459800b871abc52efd0eecb26cec7377718788c240bb"
+  },
+  "provenance": {
+    "source_item_id": "2c51f341-a477-49a2-802e-6aa3107f7f89",
+    "external_id": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/foxtail-cases-spike-in-summer"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a612b0552520788b67ce14173f9db63fee3cd399e867c1a9e6c7d0d59bce99e9",
+  "company": {
+    "key": "yc-mendral",
+    "name": "Mendral"
+  },
+  "source": {
+    "id": "yc-mendral-rss-072a653cc5a9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mendral.com/blog/frontier-model-lower-costs",
+    "canonical": "https://mendral.com/blog/frontier-model-lower-costs"
+  },
+  "title": "We Upgraded to a Frontier Model and Our Costs Went Down",
+  "summary": "We switched to a frontier model and our costs went down. Here's the architecture that made it possible.",
+  "published_at": "2026-03-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:14.422858+00:00",
+  "fetched_at": "2026-07-28T20:53:30.609843+00:00",
+  "last_updated_at": "2026-07-28T20:54:10.779185+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-mendral/2026/03/a6/a612b0552520788b67ce14173f9db63fee3cd399e867c1a9e6c7d0d59bce99e9/article.md",
+    "record": "articles/v1/cc/yc-mendral/2026/03/a6/a612b0552520788b67ce14173f9db63fee3cd399e867c1a9e6c7d0d59bce99e9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8724,
+    "sha256": "sha256:c6f5eecced7ef0767a8cfde076fcc63bcd46c56684d49285cc6446f191cb1fd0",
+    "normalized_content_hash": "sha256:6693516a242612d9422bf440fc829ccad033563cac63ed0eaf207e383c6ab002"
+  },
+  "provenance": {
+    "source_item_id": "8e7d8f12-b6dc-464b-9e16-548c45eacb05",
+    "external_id": "https://mendral.com/blog/frontier-model-lower-costs"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc393622167328f4d62d12410380bddad1bdef3968ec41eec3a3ef94d33d78c2",
+  "company": {
+    "key": "orix-corporation-american-depositary-shares",
+    "name": "ORIX Corporation American Depositary Shares"
+  },
+  "source": {
+    "id": "orix-corporation-american-depositary-shares-news-import-98789cbd836f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.orix.co.jp/grp/en/ir/news/2020.html",
+    "canonical": "https://www.orix.co.jp/grp/en/ir/news/2020.html"
+  },
+  "title": "IR News 2020",
+  "summary": "ORIX's IR News",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T04:10:29.790370+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:33.333150+00:00",
+  "paths": {
+    "article": "articles/v1/12/orix-corporation-american-depositary-shares/2026/07/dc/dc393622167328f4d62d12410380bddad1bdef3968ec41eec3a3ef94d33d78c2/article.md",
+    "record": "articles/v1/12/orix-corporation-american-depositary-shares/2026/07/dc/dc393622167328f4d62d12410380bddad1bdef3968ec41eec3a3ef94d33d78c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6752,
+    "sha256": "sha256:341865f5a234bb40877e433eb145331e1c008f8a1711ff1296b5589288b8a3c3",
+    "normalized_content_hash": "sha256:e1d7352786454c86b5a1c45539fc3d755719445e5b0b0c93ac88b9853f1fef55"
+  },
+  "provenance": {
+    "source_item_id": "eafd86ca-7c1c-4826-ae87-ec7e0f46e933",
+    "external_id": "https://www.orix.co.jp/grp/en/ir/news/2020.html"
+  }
+}

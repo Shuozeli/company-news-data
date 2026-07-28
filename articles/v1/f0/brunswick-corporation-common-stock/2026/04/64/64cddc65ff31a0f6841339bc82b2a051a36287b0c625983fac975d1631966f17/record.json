@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64cddc65ff31a0f6841339bc82b2a051a36287b0c625983fac975d1631966f17",
+  "company": {
+    "key": "brunswick-corporation-common-stock",
+    "name": "Brunswick Corporation Common Stock"
+  },
+  "source": {
+    "id": "brunswick-corporation-common-stock-rss-1ffb8fc2fbd6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.brunswick.com/news/press-releases/detail/983/brunswick-corporation-releases-2026-first-quarter-earnings",
+    "canonical": "https://www.brunswick.com/news/press-releases/detail/983/brunswick-corporation-releases-2026-first-quarter-earnings"
+  },
+  "title": "Brunswick Corporation Releases 2026 First Quarter Earnings",
+  "summary": "Corporate communications, press releases and news from Brunswick and its family of 60+ marine recreation and technology brands, plus presentations and events.",
+  "published_at": "2026-04-30T10:15:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:36.399531+00:00",
+  "fetched_at": "2026-07-28T21:45:24.644708+00:00",
+  "last_updated_at": "2026-07-28T21:46:27.540287+00:00",
+  "paths": {
+    "article": "articles/v1/f0/brunswick-corporation-common-stock/2026/04/64/64cddc65ff31a0f6841339bc82b2a051a36287b0c625983fac975d1631966f17/article.md",
+    "record": "articles/v1/f0/brunswick-corporation-common-stock/2026/04/64/64cddc65ff31a0f6841339bc82b2a051a36287b0c625983fac975d1631966f17/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11041,
+    "sha256": "sha256:5afde4e93851e78a00a288c77b06bb0c891d87b2376dd9474f209201e7d85688",
+    "normalized_content_hash": "sha256:f27023e5065ea7ff296a1c316a5bac3c02d609491637c123b5530c1716a344a1"
+  },
+  "provenance": {
+    "source_item_id": "7a07fa9d-cf94-4900-ae7d-e4ce2447cad9",
+    "external_id": "https://www.brunswick.com/news/press-releases/detail/983/brunswick-corporation-releases-2026-first-quarter-earnings"
+  }
+}

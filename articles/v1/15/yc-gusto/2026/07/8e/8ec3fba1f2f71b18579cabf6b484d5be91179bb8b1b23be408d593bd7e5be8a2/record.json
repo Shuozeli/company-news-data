@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ec3fba1f2f71b18579cabf6b484d5be91179bb8b1b23be408d593bd7e5be8a2",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-a18fb5381575",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/taxes/work-opportunity-tax-credit",
+    "canonical": "https://gusto.com/resources/articles/taxes/work-opportunity-tax-credit"
+  },
+  "title": "How Your Business Can Apply For the Work Opportunity Tax Credit (WOTC)",
+  "summary": "Confused about the Work Opportunity Tax Credit? Find out more about the program and whether your company qualifies for WOTC.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:59.033602+00:00",
+  "fetched_at": "2026-07-28T11:17:57.475842+00:00",
+  "last_updated_at": "2026-07-28T11:17:59.903420+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/8e/8ec3fba1f2f71b18579cabf6b484d5be91179bb8b1b23be408d593bd7e5be8a2/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/8e/8ec3fba1f2f71b18579cabf6b484d5be91179bb8b1b23be408d593bd7e5be8a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5685,
+    "sha256": "sha256:3d0c5b309c0b9e16eac250b20d61f71c7573291a233a4d013ad5889aada6c960",
+    "normalized_content_hash": "sha256:d217b7c6f65a962b45ae48a4ad68cf4ed356bee7f20a18e38c5da5496078e8b9"
+  },
+  "provenance": {
+    "source_item_id": "959e45a9-4159-412c-bc13-56440a982c26",
+    "external_id": "https://gusto.com/resources/articles/taxes/work-opportunity-tax-credit"
+  }
+}

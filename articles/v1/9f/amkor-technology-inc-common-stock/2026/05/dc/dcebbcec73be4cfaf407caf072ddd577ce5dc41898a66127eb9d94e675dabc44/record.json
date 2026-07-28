@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dcebbcec73be4cfaf407caf072ddd577ce5dc41898a66127eb9d94e675dabc44",
+  "company": {
+    "key": "amkor-technology-inc-common-stock",
+    "name": "Amkor Technology Inc. Common Stock"
+  },
+  "source": {
+    "id": "amkor-technology-inc-common-stock-news-import-c3e4c050930c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amkor.com/blog/amkor-peoria-number-one-deal-north-america/",
+    "canonical": "https://amkor.com/blog/amkor-peoria-number-one-deal-north-america/"
+  },
+  "title": "Amkor’s Peoria Project Named North America’s Number One Deal",
+  "summary": "Amkor’s Peoria project was named North America’s Number One Deal, highlighting a $7 billion expansion and 3,000 high-wage jobs.",
+  "published_at": "2026-05-13T23:41:56+00:00",
+  "first_seen_at": "2026-07-24T16:34:56.885040+00:00",
+  "fetched_at": "2026-07-28T21:55:55.482044+00:00",
+  "last_updated_at": "2026-07-28T21:56:29.492677+00:00",
+  "paths": {
+    "article": "articles/v1/9f/amkor-technology-inc-common-stock/2026/05/dc/dcebbcec73be4cfaf407caf072ddd577ce5dc41898a66127eb9d94e675dabc44/article.md",
+    "record": "articles/v1/9f/amkor-technology-inc-common-stock/2026/05/dc/dcebbcec73be4cfaf407caf072ddd577ce5dc41898a66127eb9d94e675dabc44/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3614,
+    "sha256": "sha256:711b0936617fb34dde49c2118cfbc03eba97d3718860ca43f8aaf6c11399c451",
+    "normalized_content_hash": "sha256:21e8e5ad70f12553f1d7f1972cc48ca90b510e034b37c1fa4f434ecd6568bb4b"
+  },
+  "provenance": {
+    "source_item_id": "13c4da18-3d8c-4e8d-8290-eac22c7de912",
+    "external_id": "https://amkor.com/blog/amkor-peoria-number-one-deal-north-america/"
+  }
+}

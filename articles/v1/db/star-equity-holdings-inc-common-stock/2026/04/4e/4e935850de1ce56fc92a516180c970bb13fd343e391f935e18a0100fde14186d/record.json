@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4e935850de1ce56fc92a516180c970bb13fd343e391f935e18a0100fde14186d",
+  "company": {
+    "key": "star-equity-holdings-inc-common-stock",
+    "name": "Star Equity Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "star-equity-holdings-inc-common-stock-rss-481c58587239",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.starequity.com/news-releases/news-release-details/kbs-builders-awarded-42-million-contract-new-hampshire",
+    "canonical": "https://www.starequity.com/news-releases/news-release-details/kbs-builders-awarded-42-million-contract-new-hampshire"
+  },
+  "title": "KBS Builders Awarded $4.2 Million Contract for New Hampshire Multifamily Construction Project",
+  "summary": "The Investor Relations website contains information about Star Equity Holdings's business for stockholders, potential investors, and financial analysts.",
+  "published_at": "2026-04-30T12:30:00+00:00",
+  "first_seen_at": "2026-07-26T00:12:21.303425+00:00",
+  "fetched_at": "2026-07-28T22:15:30.724879+00:00",
+  "last_updated_at": "2026-07-28T22:15:39.010685+00:00",
+  "paths": {
+    "article": "articles/v1/db/star-equity-holdings-inc-common-stock/2026/04/4e/4e935850de1ce56fc92a516180c970bb13fd343e391f935e18a0100fde14186d/article.md",
+    "record": "articles/v1/db/star-equity-holdings-inc-common-stock/2026/04/4e/4e935850de1ce56fc92a516180c970bb13fd343e391f935e18a0100fde14186d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12203,
+    "sha256": "sha256:8d6221824472581eefdd9b47e1f3f6a3614042fde065509611b4198ef6394e39",
+    "normalized_content_hash": "sha256:ecc65d721ccc1fcebb814db7ade0845a58284e55df613e14f8cef95133a73ebf"
+  },
+  "provenance": {
+    "source_item_id": "f132810a-1a71-4dae-a946-2c34ba927c81",
+    "external_id": "28141"
+  }
+}

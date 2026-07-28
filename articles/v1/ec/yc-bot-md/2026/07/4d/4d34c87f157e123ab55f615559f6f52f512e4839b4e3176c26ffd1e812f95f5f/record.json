@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d34c87f157e123ab55f615559f6f52f512e4839b4e3176c26ffd1e812f95f5f",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/series-a.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/series-a.html"
+  },
+  "title": "Bot MD raises US$5M Series A for regional expansion of doctor-facing A.I. assistant platform by Monk's Hill Ventures",
+  "summary": "Bot MD raises US$5M Series A for regional expansion of doctor facing A.I. assistant platform by Monk’s Hill Ventures.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.608752+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/4d/4d34c87f157e123ab55f615559f6f52f512e4839b4e3176c26ffd1e812f95f5f/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/4d/4d34c87f157e123ab55f615559f6f52f512e4839b4e3176c26ffd1e812f95f5f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4446,
+    "sha256": "sha256:0bd710a37092ba0074adda2bd2700a1018bc84cdda20c488e957a44289e85a3e",
+    "normalized_content_hash": "sha256:c2ae001dc868531c12e23dff1805fa09d1891137417a4a6bd3022f03ad1227d0"
+  },
+  "provenance": {
+    "source_item_id": "429a657f-e765-4a58-bc70-12e1a8abf3b0",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/series-a.html"
+  }
+}

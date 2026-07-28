@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "shutterstock-inc-common-stock",
+    "name": "Shutterstock Inc. Common Stock"
+  },
+  "record_count": 20,
+  "first_published_at": "2017-03-08T05:00:00+00:00",
+  "last_published_at": "2020-07-13T04:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2017-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "641654c21b2204526ebdfb854bd9828eca31954732b4f9de84415da2096a4e43",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/generate-text-on-andi",
+    "canonical": "https://andiai.com/blogs/generate-text-on-andi"
+  },
+  "title": "Generate Text on Andi",
+  "summary": "Learn how you can use Andi to help plan your trip with AI-generated personalized itineraries.",
+  "published_at": "2025-02-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:48:18.083780+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:29.927233+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2025/02/64/641654c21b2204526ebdfb854bd9828eca31954732b4f9de84415da2096a4e43/article.md",
+    "record": "articles/v1/d3/yc-andi/2025/02/64/641654c21b2204526ebdfb854bd9828eca31954732b4f9de84415da2096a4e43/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2587,
+    "sha256": "sha256:8917f8d8c152d7330416fc5dfd57d068948311e99272b81844745d4e22412095",
+    "normalized_content_hash": "sha256:446d348b478cee35cc66ecff5a219258d7023d645b8f23700393ac8c42cf0ce4"
+  },
+  "provenance": {
+    "source_item_id": "d8e47c86-f057-40f3-9593-e2c8533392e4",
+    "external_id": "https://andiai.com/blogs/generate-text-on-andi"
+  }
+}

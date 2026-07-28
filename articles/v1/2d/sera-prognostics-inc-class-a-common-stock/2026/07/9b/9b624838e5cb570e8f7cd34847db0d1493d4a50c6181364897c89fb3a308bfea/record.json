@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9b624838e5cb570e8f7cd34847db0d1493d4a50c6181364897c89fb3a308bfea",
+  "company": {
+    "key": "sera-prognostics-inc-class-a-common-stock",
+    "name": "Sera Prognostics Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "sera-prognostics-inc-class-a-common-stock-news-import-904259736507",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sera.com/pregnancy-related-concerns/newsroom/landmark-study-finds-pretrm-blood-test-reduces-earliest-preterm-births-and-newborn-complications/",
+    "canonical": "https://www.sera.com/pregnancy-related-concerns/newsroom/landmark-study-finds-pretrm-blood-test-reduces-earliest-preterm-births-and-newborn-complications/"
+  },
+  "title": "Landmark Study Finds PreTRM® Blood Test Reduces Earliest Preterm Births and Newborn Complications",
+  "summary": "Published in the journal PREGNANCY, the PRIME Study demonstrates significant improvements in neonatal outcomes with early risk screening and targeted interventions.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T13:09:34.187437+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-07-28T21:20:53.680574+00:00",
+  "paths": {
+    "article": "articles/v1/2d/sera-prognostics-inc-class-a-common-stock/2026/07/9b/9b624838e5cb570e8f7cd34847db0d1493d4a50c6181364897c89fb3a308bfea/article.md",
+    "record": "articles/v1/2d/sera-prognostics-inc-class-a-common-stock/2026/07/9b/9b624838e5cb570e8f7cd34847db0d1493d4a50c6181364897c89fb3a308bfea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9533,
+    "sha256": "sha256:c2e46bcee38ffe218c569b48be0f3d190691f1e388cb3e248365b461c5574487",
+    "normalized_content_hash": "sha256:f917414a6151fc073944d306a02cc772083396ead353bf066e61fd4f8aa8a1e8"
+  },
+  "provenance": {
+    "source_item_id": "b47804ff-8ecd-49b0-bf20-e3c6d4ccd519",
+    "external_id": "https://www.sera.com/pregnancy-related-concerns/newsroom/landmark-study-finds-pretrm-blood-test-reduces-earliest-preterm-births-and-newborn-complications/"
+  }
+}

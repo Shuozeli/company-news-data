@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "692c73793efed51c67874f8b98a044822e2651a562d530a10196930dccb13d21",
+  "company": {
+    "key": "yc-ever-loved",
+    "name": "Ever Loved"
+  },
+  "source": {
+    "id": "yc-ever-loved-news-import-319d3c12c6e1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://everloved.com/articles/funeral-planning/how-start-memorial-fund/",
+    "canonical": "https://everloved.com/articles/funeral-planning/how-start-memorial-fund/"
+  },
+  "title": "How to Start a Memorial Fund",
+  "summary": "While it’s customary to send flowers when someone passes away, more and more families are suggesting donations in lieu of flowers. Memorial donations can be a great way to help cover funeral costs or other family expenses. Others choose to use mem",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T09:09:44.243609+00:00",
+  "fetched_at": "2026-07-28T21:16:46.713740+00:00",
+  "last_updated_at": "2026-07-28T21:18:12.584939+00:00",
+  "paths": {
+    "article": "articles/v1/2e/yc-ever-loved/2026/07/69/692c73793efed51c67874f8b98a044822e2651a562d530a10196930dccb13d21/article.md",
+    "record": "articles/v1/2e/yc-ever-loved/2026/07/69/692c73793efed51c67874f8b98a044822e2651a562d530a10196930dccb13d21/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20188,
+    "sha256": "sha256:a50685fb0115da2b76de083b2ee1752450d4dddc32fac7516d79f65a175e1eb2",
+    "normalized_content_hash": "sha256:d4b843751affd2ba8db1bf3686ae593839645be95addcd30ed8b30682b600764"
+  },
+  "provenance": {
+    "source_item_id": "03ed9cd8-dddf-4275-bb4d-f3ce164fc554",
+    "external_id": "https://everloved.com/articles/funeral-planning/how-start-memorial-fund/"
+  }
+}

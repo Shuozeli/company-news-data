@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f8da5742801aad93717810f3546d515f46e381710888ce2155fb133145161e2",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/video-highlights-the-4-key-steps-to-successful-incident-response/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/video-highlights-the-4-key-steps-to-successful-incident-response/"
+  },
+  "title": "Video Highlights the 4 Key Steps to Successful Incident Response",
+  "summary": "Cyberattacks must be considered an inevitability, so it's critical to understand the 4 fundamental steps that every IR team should take in responding to a breach.",
+  "published_at": "2019-12-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T12:36:48.404735+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.330944+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2019/12/3f/3f8da5742801aad93717810f3546d515f46e381710888ce2155fb133145161e2/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2019/12/3f/3f8da5742801aad93717810f3546d515f46e381710888ce2155fb133145161e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5444,
+    "sha256": "sha256:a83bf810f7351a6cb63b091f7554e8b8f22ec50dbaf29fd49d0910426bade3a6",
+    "normalized_content_hash": "sha256:5c5d2fe2b158c935ddda350ccd18ebe3b7b9346a061340d40111503ebde8f627"
+  },
+  "provenance": {
+    "source_item_id": "1f86d661-2360-4a41-a460-e5d8a17f3f86",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/video-highlights-the-4-key-steps-to-successful-incident-response/"
+  }
+}

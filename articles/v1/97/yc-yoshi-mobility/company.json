@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-yoshi-mobility",
+    "name": "Yoshi Mobility"
+  },
+  "record_count": 5,
+  "first_published_at": "2023-07-14T22:40:00+00:00",
+  "last_published_at": "2026-05-27T16:54:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2d83bfe35f8c3203d84c373bb30489eea2435d0a32b236515afde1de51737596",
+  "company": {
+    "key": "j-jill-inc-common-stock",
+    "name": "J. Jill Inc. Common Stock"
+  },
+  "source": {
+    "id": "j-jill-inc-common-stock-rss-31f8245a526a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.jjill.com/Investors-Relations/News-Events/News/News-details/2026/J-Jill-Inc--Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
+    "canonical": "https://investors.jjill.com/Investors-Relations/News-Events/News/News-details/2026/J-Jill-Inc--Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
+  },
+  "title": "J.Jill, Inc. Announces Fourth Quarter and Full Year 2025 Results",
+  "summary": "",
+  "published_at": "2026-03-31T10:45:00+00:00",
+  "first_seen_at": "2026-07-25T10:16:14.371289+00:00",
+  "fetched_at": "2026-07-28T21:31:26.641263+00:00",
+  "last_updated_at": "2026-07-28T21:31:26.756550+00:00",
+  "paths": {
+    "article": "articles/v1/e5/j-jill-inc-common-stock/2026/03/2d/2d83bfe35f8c3203d84c373bb30489eea2435d0a32b236515afde1de51737596/article.md",
+    "record": "articles/v1/e5/j-jill-inc-common-stock/2026/03/2d/2d83bfe35f8c3203d84c373bb30489eea2435d0a32b236515afde1de51737596/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 716,
+    "sha256": "sha256:9dc1d9f7c2b5d4b0b0a20f2d1986f4f6563d0f9ce220b2d9e48a728936893873",
+    "normalized_content_hash": "sha256:2ffd99c598909e973d46a117d7213b0ec36f9fa075a584df9ea624303ceec1da"
+  },
+  "provenance": {
+    "source_item_id": "2f9b5ce0-5f3d-4c8d-a8cb-618cc4e8a9d6",
+    "external_id": "db50e0f0-477b-45c4-bc6e-0f5bce58b040"
+  }
+}

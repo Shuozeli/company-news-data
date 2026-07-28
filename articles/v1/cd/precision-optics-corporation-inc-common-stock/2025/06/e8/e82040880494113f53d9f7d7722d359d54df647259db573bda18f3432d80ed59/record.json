@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e82040880494113f53d9f7d7722d359d54df647259db573bda18f3432d80ed59",
+  "company": {
+    "key": "precision-optics-corporation-inc-common-stock",
+    "name": "Precision Optics Corporation Inc. Common stock"
+  },
+  "source": {
+    "id": "precision-optics-corporation-inc-common-stock-news-import-4ae7401a5aa4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.poci.com/press-releases/precision-optics-expands-facilities-to-meet-growing-backlog/",
+    "canonical": "https://www.poci.com/press-releases/precision-optics-expands-facilities-to-meet-growing-backlog/"
+  },
+  "title": "Precision Optics Expands Facilities to Meet Growing Backlog",
+  "summary": "Medical device manufacturers need solutions that not only meet strict regulatory requirements but also provide flexibility for future advancements. That’s where POC’s Unity Platform comes into play.",
+  "published_at": "2025-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:48:26.579797+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:54.789780+00:00",
+  "paths": {
+    "article": "articles/v1/cd/precision-optics-corporation-inc-common-stock/2025/06/e8/e82040880494113f53d9f7d7722d359d54df647259db573bda18f3432d80ed59/article.md",
+    "record": "articles/v1/cd/precision-optics-corporation-inc-common-stock/2025/06/e8/e82040880494113f53d9f7d7722d359d54df647259db573bda18f3432d80ed59/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6720,
+    "sha256": "sha256:1f08dfbdd060d41d3bf7051a70ad46d239a2f78b3685ac8a5a971db646576b9f",
+    "normalized_content_hash": "sha256:d00df7cf9fc73a99d39c36d6ca395cf05408a7d7150315b7b2ee66c9a758ead2"
+  },
+  "provenance": {
+    "source_item_id": "e5f1ff2a-1cc8-4b1b-8ba7-7164386bdd1f",
+    "external_id": "https://www.poci.com/press-releases/precision-optics-expands-facilities-to-meet-growing-backlog/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "80fba47e50e29968b825856b5c1ffff77e0cae5bed8040d189a694ab943dfe33",
+  "company": {
+    "key": "rumble-inc-class-a-common-stock",
+    "name": "Rumble Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "rumble-inc-class-a-common-stock-news-import-902c2f0f50ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.rum.group/blog/rumble-announces-initial-results-of-exchange-offer-for-northern-data/",
+    "canonical": "https://www.rum.group/blog/rumble-announces-initial-results-of-exchange-offer-for-northern-data/"
+  },
+  "title": "Rumble Announces Initial Results of Exchange Offer for Northern Data",
+  "summary": "Longboat Key, FL – May 13, 2026 – Rumble Inc. (NASDAQ: RUM) (“Rumble”), the Freedom-First technology platform, today announced the results of the initial acceptance period for its exchange offer...",
+  "published_at": "2026-05-13T20:15:00+00:00",
+  "first_seen_at": "2026-07-22T12:24:34.287587+00:00",
+  "fetched_at": "2026-07-28T22:36:38.456755+00:00",
+  "last_updated_at": "2026-07-28T22:36:44.959099+00:00",
+  "paths": {
+    "article": "articles/v1/eb/rumble-inc-class-a-common-stock/2026/05/80/80fba47e50e29968b825856b5c1ffff77e0cae5bed8040d189a694ab943dfe33/article.md",
+    "record": "articles/v1/eb/rumble-inc-class-a-common-stock/2026/05/80/80fba47e50e29968b825856b5c1ffff77e0cae5bed8040d189a694ab943dfe33/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18709,
+    "sha256": "sha256:fe7a5211d141cd242eab50ec37cfd5f655cbf8f8d149946caf1ad0ad9cfd0da6",
+    "normalized_content_hash": "sha256:31e4a06c73cf18f1ccc89abd39521e1f5046575042fb5cb88e0bb5ba468c8450"
+  },
+  "provenance": {
+    "source_item_id": "ce8de17a-2ef9-46a8-839c-00015e144ede",
+    "external_id": "https://www.rum.group/blog/rumble-announces-initial-results-of-exchange-offer-for-northern-data/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff1d43b52023afa0a59672acef5361add84e58614de3b102db139035ff6fdedc",
+  "company": {
+    "key": "yc-shef",
+    "name": "Shef"
+  },
+  "source": {
+    "id": "yc-shef-news-import-752929255e0c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.shef.com/our-story",
+    "canonical": "https://blog.shef.com/our-story"
+  },
+  "title": "Shef - Our Story",
+  "summary": "Shef is a homemade food marketplace that helps cooks make an income by cooking and selling food to their communities.",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T05:06:31.530952+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.059623+00:00",
+  "paths": {
+    "article": "articles/v1/32/yc-shef/2026/07/ff/ff1d43b52023afa0a59672acef5361add84e58614de3b102db139035ff6fdedc/article.md",
+    "record": "articles/v1/32/yc-shef/2026/07/ff/ff1d43b52023afa0a59672acef5361add84e58614de3b102db139035ff6fdedc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1452,
+    "sha256": "sha256:0cc49b1bddb6507f268b65e3e89c8cb2db9ccb20fd02a89b9fd134430059c9ee",
+    "normalized_content_hash": "sha256:8689096c14cf714fc79893221106fdcc834114638c8a3520cf0410a7918200d2"
+  },
+  "provenance": {
+    "source_item_id": "73f568db-1f7e-4750-ad1c-c01cfc17d9bd",
+    "external_id": "https://blog.shef.com/our-story"
+  }
+}

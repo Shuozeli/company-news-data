@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a643456a56737a8d15624bfa28a4bc46ed17513d607a90229c5fe40485d34f0",
+  "company": {
+    "key": "yc-mdhub",
+    "name": "mdhub"
+  },
+  "source": {
+    "id": "yc-mdhub-news-import-bbf3c05d7e92",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mdhub.ai/blog-posts/ccbhc-requirements",
+    "canonical": "https://www.mdhub.ai/blog-posts/ccbhc-requirements"
+  },
+  "title": "CCBHC Requirements: The Operational Test Most Clinics Aren't Ready For",
+  "summary": "CCBHC requirements cover nine service areas, staffing ratios, and quality reporting. See what they demand from your operations before certifying.",
+  "published_at": "2026-07-20T15:47:39.887+00:00",
+  "first_seen_at": "2026-07-24T11:04:12.059669+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:22:01.774479+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-mdhub/2026/07/6a/6a643456a56737a8d15624bfa28a4bc46ed17513d607a90229c5fe40485d34f0/article.md",
+    "record": "articles/v1/05/yc-mdhub/2026/07/6a/6a643456a56737a8d15624bfa28a4bc46ed17513d607a90229c5fe40485d34f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18732,
+    "sha256": "sha256:b47f76a891aef1d6ee10d4349a437fca461a561cb30049948f3805222aeec971",
+    "normalized_content_hash": "sha256:8a8cd89ca10f84a79834278fc8b1d8f5390d83320760c267e4408bbdd5b6c50a"
+  },
+  "provenance": {
+    "source_item_id": "74707396-02f9-4be1-b777-b4a2719a7959",
+    "external_id": "https://www.mdhub.ai/blog-posts/ccbhc-requirements"
+  }
+}

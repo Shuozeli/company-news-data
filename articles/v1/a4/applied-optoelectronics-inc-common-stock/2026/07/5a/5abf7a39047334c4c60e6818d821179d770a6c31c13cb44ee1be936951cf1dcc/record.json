@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5abf7a39047334c4c60e6818d821179d770a6c31c13cb44ee1be936951cf1dcc",
+  "company": {
+    "key": "applied-optoelectronics-inc-common-stock",
+    "name": "Applied Optoelectronics Inc. Common Stock"
+  },
+  "source": {
+    "id": "applied-optoelectronics-inc-common-stock-news-import-693ac7b0c142",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://newsroom.ao-inc.com/news-releases/aoi-begins-expansion-of-pearland-manufacturing-campus-to-scale-800g-and-1-6t-optical-transceiver-production/",
+    "canonical": "https://newsroom.ao-inc.com/news-releases/aoi-begins-expansion-of-pearland-manufacturing-campus-to-scale-800g-and-1-6t-optical-transceiver-production/"
+  },
+  "title": "AOI Begins Expansion of Pearland Manufacturing Campus to Scale 800G and 1.6T Optical Transceiver Production",
+  "summary": "AOI is expanding its Pearland, Texas manufacturing campus with nearly 400,000 square feet of new production capacity to support growing demand for 800G and 1.6T optical transceivers powering AI infrastructure.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:15:14.560609+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:04.401066+00:00",
+  "paths": {
+    "article": "articles/v1/a4/applied-optoelectronics-inc-common-stock/2026/07/5a/5abf7a39047334c4c60e6818d821179d770a6c31c13cb44ee1be936951cf1dcc/article.md",
+    "record": "articles/v1/a4/applied-optoelectronics-inc-common-stock/2026/07/5a/5abf7a39047334c4c60e6818d821179d770a6c31c13cb44ee1be936951cf1dcc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4143,
+    "sha256": "sha256:09e7d4b333a2046b16c146b9aa74cc6ff426830ca4ea0bc119e7b534e4ebfa14",
+    "normalized_content_hash": "sha256:e106244b533b7c24075472def81dd01e4fce47ce04ec91c4535e5ee04bd27b9c"
+  },
+  "provenance": {
+    "source_item_id": "fe06234d-af5b-46e2-b100-c0d38db5405b",
+    "external_id": "https://newsroom.ao-inc.com/news-releases/aoi-begins-expansion-of-pearland-manufacturing-campus-to-scale-800g-and-1-6t-optical-transceiver-production/"
+  }
+}

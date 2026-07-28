@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "preformed-line-products-company-common-stock",
+    "name": "Preformed Line Products Company Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2023-06-20T16:59:37+00:00",
+  "last_published_at": "2026-05-05T10:59:37+00:00",
+  "partitions": [
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ]
+}

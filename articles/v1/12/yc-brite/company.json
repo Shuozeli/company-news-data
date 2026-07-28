@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-brite",
+    "name": "Brite"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-05-06T17:06:54+00:00",
+  "last_published_at": "2025-11-13T18:29:46+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    }
+  ]
+}

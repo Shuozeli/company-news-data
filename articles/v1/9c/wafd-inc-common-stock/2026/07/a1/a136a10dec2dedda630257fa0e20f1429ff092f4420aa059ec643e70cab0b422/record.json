@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a136a10dec2dedda630257fa0e20f1429ff092f4420aa059ec643e70cab0b422",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/about-us/investor-relations/csr",
+    "canonical": "https://www.wafdbank.com/about-us/investor-relations/csr"
+  },
+  "title": "Environmental Responsibility and Social Risk Management",
+  "summary": "Learn about WaFd Bank's Corporate Social Responsibility (CSR) and how banking is an empowering experience to build healthy, thriving, communities.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T23:37:32.572003+00:00",
+  "fetched_at": "2026-07-23T23:41:23.694465+00:00",
+  "last_updated_at": "2026-07-23T23:41:25.906157+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/a1/a136a10dec2dedda630257fa0e20f1429ff092f4420aa059ec643e70cab0b422/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/a1/a136a10dec2dedda630257fa0e20f1429ff092f4420aa059ec643e70cab0b422/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21908,
+    "sha256": "sha256:c870522332b6fc73db4695c92f04fe30227f1bee3915ad22b9087ebbb6d3dce4",
+    "normalized_content_hash": "sha256:9c2dc77272abc3547bf72661b7f3752aa7ed9f3714823cae0a5f1e5120902f28"
+  },
+  "provenance": {
+    "source_item_id": "008bd679-8dbb-495b-8e70-c2e92989ef83",
+    "external_id": "https://www.wafdbank.com/about-us/investor-relations/csr"
+  }
+}

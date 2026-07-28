@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-9gag",
+    "name": "9gag"
+  },
+  "record_count": 1,
+  "first_published_at": "2019-07-26T10:33:25+00:00",
+  "last_published_at": "2019-07-26T10:33:25+00:00",
+  "partitions": [
+    {
+      "partition": "2019-07",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6792ba520370ec0d66df558aaa2b040ba6c7d976d4a07a99e18f139a6a1a6522",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/retail/how-to-check-amazon-price-history",
+    "canonical": "https://www.aboutamazon.com/news/retail/how-to-check-amazon-price-history"
+  },
+  "title": "How to use Amazon's price history feature",
+  "summary": "Amazon’s agentic AI assistant for shopping now shows customers a full year of price history on products in the U.S., UK, and India.",
+  "published_at": "2026-05-01T13:00:09.166+00:00",
+  "first_seen_at": "2026-07-21T06:14:35.460263+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-07-28T21:26:18.847754+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/05/67/6792ba520370ec0d66df558aaa2b040ba6c7d976d4a07a99e18f139a6a1a6522/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/05/67/6792ba520370ec0d66df558aaa2b040ba6c7d976d4a07a99e18f139a6a1a6522/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4730,
+    "sha256": "sha256:e9a689e07cefa7f06e7b2e96166fd8a7af378341f3d39ef1ff82e6ca203f3c4d",
+    "normalized_content_hash": "sha256:a00ef8b41b4b23ae1be7a59c53bdb79e73f3d4fbe9dc668647d3a2acf1db8f56"
+  },
+  "provenance": {
+    "source_item_id": "71eeeb93-42a6-4d75-accf-ec95d86f24af",
+    "external_id": "https://www.aboutamazon.com/news/retail/how-to-check-amazon-price-history"
+  }
+}

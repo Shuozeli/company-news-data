@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-prosper",
+    "name": "Prosper"
+  },
+  "record_count": 8,
+  "first_published_at": "2026-07-16T00:00:00+00:00",
+  "last_published_at": "2026-07-27T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    }
+  ]
+}

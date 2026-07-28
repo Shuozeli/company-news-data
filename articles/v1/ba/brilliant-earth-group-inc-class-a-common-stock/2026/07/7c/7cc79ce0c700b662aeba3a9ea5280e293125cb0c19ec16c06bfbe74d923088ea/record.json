@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7cc79ce0c700b662aeba3a9ea5280e293125cb0c19ec16c06bfbe74d923088ea",
+  "company": {
+    "key": "brilliant-earth-group-inc-class-a-common-stock",
+    "name": "Brilliant Earth Group Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "brilliant-earth-group-inc-class-a-common-stock-news-import-bc3d249b1504",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brilliantearth.com/news/virtual-try-on/",
+    "canonical": "https://www.brilliantearth.com/news/virtual-try-on/"
+  },
+  "title": "Virtual Ring Try-On: Find the Ring Style That's Right for You",
+  "summary": "Our virtual ring try on tool allows you to try out endless virtual engagement rings and wedding rings from the comfort of your own home.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T08:02:28.933146+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:51.532123+00:00",
+  "paths": {
+    "article": "articles/v1/ba/brilliant-earth-group-inc-class-a-common-stock/2026/07/7c/7cc79ce0c700b662aeba3a9ea5280e293125cb0c19ec16c06bfbe74d923088ea/article.md",
+    "record": "articles/v1/ba/brilliant-earth-group-inc-class-a-common-stock/2026/07/7c/7cc79ce0c700b662aeba3a9ea5280e293125cb0c19ec16c06bfbe74d923088ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6936,
+    "sha256": "sha256:b261fd46ec5d384430a9089dd7f2dc2221672ee77d8684bd4fbd87a5d47ae997",
+    "normalized_content_hash": "sha256:34509a86eb112eb650673b68e98617b6114ef3bc4661c6ce1024c1d7f14cf51e"
+  },
+  "provenance": {
+    "source_item_id": "59bda138-4c7b-4346-a789-282cca717f13",
+    "external_id": "https://www.brilliantearth.com/news/virtual-try-on/"
+  }
+}

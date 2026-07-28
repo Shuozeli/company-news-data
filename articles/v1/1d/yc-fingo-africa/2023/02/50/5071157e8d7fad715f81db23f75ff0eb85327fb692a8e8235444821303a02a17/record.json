@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5071157e8d7fad715f81db23f75ff0eb85327fb692a8e8235444821303a02a17",
+  "company": {
+    "key": "yc-fingo-africa",
+    "name": "Fingo Africa"
+  },
+  "source": {
+    "id": "yc-fingo-africa-news-import-93d91d85313d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://fingo.africa/post/how-we-are-surviving-the-recession",
+    "canonical": "https://fingo.africa/post/how-we-are-surviving-the-recession"
+  },
+  "title": "How we are surviving the recession",
+  "summary": "",
+  "published_at": "2023-02-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:52:19.824585+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:39.293019+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-fingo-africa/2023/02/50/5071157e8d7fad715f81db23f75ff0eb85327fb692a8e8235444821303a02a17/article.md",
+    "record": "articles/v1/1d/yc-fingo-africa/2023/02/50/5071157e8d7fad715f81db23f75ff0eb85327fb692a8e8235444821303a02a17/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2880,
+    "sha256": "sha256:9c9d79ca069fb44cd25042dcd4379a5dbaa2496e11e28ca6c30ddfe4cc067797",
+    "normalized_content_hash": "sha256:7b6a17d33ec1efb3492cf5a532a60ca7bfeac7a3fed45b7769678043c815397f"
+  },
+  "provenance": {
+    "source_item_id": "9f5dce59-0063-4a73-a328-5d2baf47d693",
+    "external_id": "https://fingo.africa/post/how-we-are-surviving-the-recession"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-minusx",
+    "name": "MinusX"
+  },
+  "record_count": 13,
+  "first_published_at": "2024-08-25T00:00:00+00:00",
+  "last_published_at": "2025-08-21T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    }
+  ]
+}

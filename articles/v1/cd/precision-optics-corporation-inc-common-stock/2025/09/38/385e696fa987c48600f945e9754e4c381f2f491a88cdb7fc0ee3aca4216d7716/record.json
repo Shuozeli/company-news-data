@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "385e696fa987c48600f945e9754e4c381f2f491a88cdb7fc0ee3aca4216d7716",
+  "company": {
+    "key": "precision-optics-corporation-inc-common-stock",
+    "name": "Precision Optics Corporation Inc. Common stock"
+  },
+  "source": {
+    "id": "precision-optics-corporation-inc-common-stock-news-import-4ae7401a5aa4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.poci.com/press-releases/precision-optics-reports-fourth-quarter-and-fiscal-year-2025-financial-results/",
+    "canonical": "https://www.poci.com/press-releases/precision-optics-reports-fourth-quarter-and-fiscal-year-2025-financial-results/"
+  },
+  "title": "Precision Optics Reports Fourth Quarter and Fiscal Year 2025 Financial Results",
+  "summary": "Medical device manufacturers need solutions that not only meet strict regulatory requirements but also provide flexibility for future advancements. That’s where POC’s Unity Platform comes into play.",
+  "published_at": "2025-09-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:48:26.579797+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:58.148706+00:00",
+  "paths": {
+    "article": "articles/v1/cd/precision-optics-corporation-inc-common-stock/2025/09/38/385e696fa987c48600f945e9754e4c381f2f491a88cdb7fc0ee3aca4216d7716/article.md",
+    "record": "articles/v1/cd/precision-optics-corporation-inc-common-stock/2025/09/38/385e696fa987c48600f945e9754e4c381f2f491a88cdb7fc0ee3aca4216d7716/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14520,
+    "sha256": "sha256:3eab07c5168a26d8d70f13854d1a93d55a30f529b8eaedf95ebe755a7fbbd7d9",
+    "normalized_content_hash": "sha256:174b4d46b45a547a3ef58c55e7333a05f61bdd784e5bd4f73da09561fa108f58"
+  },
+  "provenance": {
+    "source_item_id": "34e9480f-8c7c-4618-b466-62216ba6eecd",
+    "external_id": "https://www.poci.com/press-releases/precision-optics-reports-fourth-quarter-and-fiscal-year-2025-financial-results/"
+  }
+}

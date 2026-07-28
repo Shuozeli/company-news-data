@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "69f3f77a98de184717743afe7b3910cc2ee6d9c30aecb533bbe1f379dcedbbf8",
+  "company": {
+    "key": "yc-plate-iq",
+    "name": "Plate IQ"
+  },
+  "source": {
+    "id": "yc-plate-iq-news-import-9b094f88901e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ottimate.com/resources/state-of-ap-maturity-2026-grocery/",
+    "canonical": "https://ottimate.com/resources/state-of-ap-maturity-2026-grocery/"
+  },
+  "title": "The State of AP Maturity 2026: Grocery Edition",
+  "summary": "See what 200+ grocery finance leaders say about AP automation gaps, invoice fraud, and the case for a unified approach. Download the free report.",
+  "published_at": "2026-05-28T15:37:09+00:00",
+  "first_seen_at": "2026-07-25T19:18:34.539472+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:31.143970+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-plate-iq/2026/05/69/69f3f77a98de184717743afe7b3910cc2ee6d9c30aecb533bbe1f379dcedbbf8/article.md",
+    "record": "articles/v1/48/yc-plate-iq/2026/05/69/69f3f77a98de184717743afe7b3910cc2ee6d9c30aecb533bbe1f379dcedbbf8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1660,
+    "sha256": "sha256:bc2fb6ebf3fb00ae3c3591ae4bc27048ae42453b75f2e9af9399622640ec7cce",
+    "normalized_content_hash": "sha256:d74f655bf6368689ddc561652052357806c0231afae1c77695590242bedf932f"
+  },
+  "provenance": {
+    "source_item_id": "32a4a591-123c-476c-8cf1-ebee66d8cf5b",
+    "external_id": "https://ottimate.com/resources/state-of-ap-maturity-2026-grocery/"
+  }
+}

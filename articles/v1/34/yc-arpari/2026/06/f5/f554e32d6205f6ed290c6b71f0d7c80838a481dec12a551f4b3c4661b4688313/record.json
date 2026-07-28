@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f554e32d6205f6ed290c6b71f0d7c80838a481dec12a551f4b3c4661b4688313",
+  "company": {
+    "key": "yc-arpari",
+    "name": "Arpari"
+  },
+  "source": {
+    "id": "yc-arpari-news-import-d67ae8fe8438",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arpari.com/post/every-new-entity-you-add-is-stress-testing-a-treasury-that-was-built-for-half-your-size",
+    "canonical": "https://arpari.com/post/every-new-entity-you-add-is-stress-testing-a-treasury-that-was-built-for-half-your-size"
+  },
+  "title": "Every New Entity You Add Is Stress Testing a Treasury That Was Built for Half Your Size",
+  "summary": "Treasury teams built for smaller operations hit operational ceilings as companies expand, with each new entity, bank, and region multiplying manual workflows rather than extending existing processes.",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T17:09:57.576780+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-07-28T21:43:23.428108+00:00",
+  "paths": {
+    "article": "articles/v1/34/yc-arpari/2026/06/f5/f554e32d6205f6ed290c6b71f0d7c80838a481dec12a551f4b3c4661b4688313/article.md",
+    "record": "articles/v1/34/yc-arpari/2026/06/f5/f554e32d6205f6ed290c6b71f0d7c80838a481dec12a551f4b3c4661b4688313/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6068,
+    "sha256": "sha256:77c63fe791efc4b310d2af325b38bec4ee420652b4abc867a7c844b5e272ba2d",
+    "normalized_content_hash": "sha256:8f138958b96796ad694e4897fd0d5c2714e3879711b9bdb89199189110b848aa"
+  },
+  "provenance": {
+    "source_item_id": "766c8702-a483-48a6-a782-ac19c06ddec5",
+    "external_id": "https://arpari.com/post/every-new-entity-you-add-is-stress-testing-a-treasury-that-was-built-for-half-your-size"
+  }
+}

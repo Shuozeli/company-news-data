@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ad8c7f4b125ec0dfb7bdd23fe4bfa9d5be6c014c37e3840082c4ed0c8e22c71d",
+  "company": {
+    "key": "pricesmart-inc-common-stock",
+    "name": "PriceSmart Inc. Common Stock"
+  },
+  "source": {
+    "id": "pricesmart-inc-common-stock-rss-d7930a44b67e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.pricesmart.com/news/news-details/2026/PRICESMART-ANNOUNCES-FISCAL-2026-SECOND-QUARTER-OPERATING-RESULTS-AND-PLANS-FOR-EIGHTH-CLUB-IN-GUATEMALA/default.aspx",
+    "canonical": "https://investors.pricesmart.com/news/news-details/2026/PRICESMART-ANNOUNCES-FISCAL-2026-SECOND-QUARTER-OPERATING-RESULTS-AND-PLANS-FOR-EIGHTH-CLUB-IN-GUATEMALA/default.aspx"
+  },
+  "title": "PRICESMART ANNOUNCES FISCAL 2026 SECOND QUARTER OPERATING RESULTS AND PLANS FOR EIGHTH CLUB IN GUATEMALA",
+  "summary": "",
+  "published_at": "2026-04-08T20:01:00+00:00",
+  "first_seen_at": "2026-07-25T19:47:12.681120+00:00",
+  "fetched_at": "2026-07-28T20:19:35.146148+00:00",
+  "last_updated_at": "2026-07-28T20:19:35.178428+00:00",
+  "paths": {
+    "article": "articles/v1/70/pricesmart-inc-common-stock/2026/04/ad/ad8c7f4b125ec0dfb7bdd23fe4bfa9d5be6c014c37e3840082c4ed0c8e22c71d/article.md",
+    "record": "articles/v1/70/pricesmart-inc-common-stock/2026/04/ad/ad8c7f4b125ec0dfb7bdd23fe4bfa9d5be6c014c37e3840082c4ed0c8e22c71d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 781,
+    "sha256": "sha256:34be58e790605766cde75bd4e056616f52be10de8f2fa1dc843f0e7e00b72946",
+    "normalized_content_hash": "sha256:50f87e275d16370df6572853ccde210db826198b1e6f1a562f337bc43b7b0cf2"
+  },
+  "provenance": {
+    "source_item_id": "c3d3f941-cacb-4eb8-a885-6120f34c8909",
+    "external_id": "be304431-bea2-499c-9116-466d3004d4a0"
+  }
+}

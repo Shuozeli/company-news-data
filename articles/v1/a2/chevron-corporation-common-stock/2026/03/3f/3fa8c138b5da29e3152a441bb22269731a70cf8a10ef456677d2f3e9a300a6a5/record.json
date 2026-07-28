@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3fa8c138b5da29e3152a441bb22269731a70cf8a10ef456677d2f3e9a300a6a5",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2026/q1/talent-and-technology-strengthening-chevrons-position-in-the-permian-basin",
+    "canonical": "https://www.chevron.com/newsroom/2026/q1/talent-and-technology-strengthening-chevrons-position-in-the-permian-basin"
+  },
+  "title": "Talent and technology strengthening Chevron’s position in the Permian Basin",
+  "summary": "Chevron employees make the most of advanced technology, data and expertise to support long-term value in one of the world’s most important oil-producing regions.",
+  "published_at": "2026-03-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2026/03/3f/3fa8c138b5da29e3152a441bb22269731a70cf8a10ef456677d2f3e9a300a6a5/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2026/03/3f/3fa8c138b5da29e3152a441bb22269731a70cf8a10ef456677d2f3e9a300a6a5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1698,
+    "sha256": "sha256:df29ec6ae6968d80b7bff9c64f8499b02823ee8b9220823ea86d8c169d2ae0ac",
+    "normalized_content_hash": "sha256:ae78087a88c4b82973840831e87860fbfc1d89e30b4a19800b447af7660c0c4b"
+  },
+  "provenance": {
+    "source_item_id": "4a78e1e9-8010-4793-a2a5-0080efb7bc6c",
+    "external_id": "https://www.chevron.com/newsroom/2026/q1/talent-and-technology-strengthening-chevrons-position-in-the-permian-basin"
+  }
+}

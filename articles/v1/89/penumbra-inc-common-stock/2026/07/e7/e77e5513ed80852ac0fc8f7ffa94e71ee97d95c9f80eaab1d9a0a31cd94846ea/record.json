@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e77e5513ed80852ac0fc8f7ffa94e71ee97d95c9f80eaab1d9a0a31cd94846ea",
+  "company": {
+    "key": "penumbra-inc-common-stock",
+    "name": "Penumbra Inc. Common Stock"
+  },
+  "source": {
+    "id": "penumbra-inc-common-stock-rss-3849377e64c1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.penumbrainc.com/thunder-study-demonstrates-penumbras-thunderbolt-is-safe-and-effective-for-stroke-care/",
+    "canonical": "https://www.penumbrainc.com/thunder-study-demonstrates-penumbras-thunderbolt-is-safe-and-effective-for-stroke-care/"
+  },
+  "title": "THUNDER Study Demonstrates Penumbra’s THUNDERBOLT is Safe and Effective for Stroke Care",
+  "summary": "First and only CAVT device for stroke demonstrated high revascularization rates, short procedure times and low complication rates",
+  "published_at": "2026-07-22T18:35:49+00:00",
+  "first_seen_at": "2026-07-22T18:57:25.794133+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-07-28T20:36:57.243445+00:00",
+  "paths": {
+    "article": "articles/v1/89/penumbra-inc-common-stock/2026/07/e7/e77e5513ed80852ac0fc8f7ffa94e71ee97d95c9f80eaab1d9a0a31cd94846ea/article.md",
+    "record": "articles/v1/89/penumbra-inc-common-stock/2026/07/e7/e77e5513ed80852ac0fc8f7ffa94e71ee97d95c9f80eaab1d9a0a31cd94846ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12427,
+    "sha256": "sha256:b5593df12cc7d72a15c715b007097ac728dad0c1d3adb3e369d354470a20e784",
+    "normalized_content_hash": "sha256:98a3ad72ac9e443d4e465436ff34ef2e0ea4732c87df31c1eaf7c6f3b199f555"
+  },
+  "provenance": {
+    "source_item_id": "bad345d1-f5d9-456f-9a1a-79a924be9675",
+    "external_id": "https://www.penumbrainc.com/thunder-study-demonstrates-penumbras-thunderbolt-is-safe-and-effective-for-stroke-care/"
+  }
+}

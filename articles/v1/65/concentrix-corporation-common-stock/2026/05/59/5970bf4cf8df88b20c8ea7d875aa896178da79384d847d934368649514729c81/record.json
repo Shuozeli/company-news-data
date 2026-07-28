@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5970bf4cf8df88b20c8ea7d875aa896178da79384d847d934368649514729c81",
+  "company": {
+    "key": "concentrix-corporation-common-stock",
+    "name": "Concentrix Corporation Common Stock"
+  },
+  "source": {
+    "id": "concentrix-corporation-common-stock-news-import-94fd497042a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.concentrix.com/about/news/concentrix-launches-ix360-in-manila-to-advance-intelligent-experiences/",
+    "canonical": "https://www.concentrix.com/about/news/concentrix-launches-ix360-in-manila-to-advance-intelligent-experiences/"
+  },
+  "title": "Concentrix Launches iX360 in Manila to Advance Intelligent Experiences",
+  "summary": "The launch coincides with the opening of Concentrix’ newest operations site in Manila, reinforcing the Philippines’ growing role as a hub for innovation.",
+  "published_at": "2026-05-12T15:37:08+00:00",
+  "first_seen_at": "2026-07-25T00:29:36.069212+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-28T21:46:23.999750+00:00",
+  "paths": {
+    "article": "articles/v1/65/concentrix-corporation-common-stock/2026/05/59/5970bf4cf8df88b20c8ea7d875aa896178da79384d847d934368649514729c81/article.md",
+    "record": "articles/v1/65/concentrix-corporation-common-stock/2026/05/59/5970bf4cf8df88b20c8ea7d875aa896178da79384d847d934368649514729c81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6248,
+    "sha256": "sha256:3d00f3bb44afba761cbb2a4efb2b750f9cb733e32503baefeb92a214d5af26de",
+    "normalized_content_hash": "sha256:adb33012f7019f9b9d936a3a3d74146f267bad71a9536864717278f700a871c7"
+  },
+  "provenance": {
+    "source_item_id": "4971935c-c694-4f47-bda5-838391116d0b",
+    "external_id": "https://www.concentrix.com/about/news/concentrix-launches-ix360-in-manila-to-advance-intelligent-experiences/"
+  }
+}

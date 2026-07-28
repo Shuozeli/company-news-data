@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec509637a1136aef84c06810b8e0f4fa5f1870a25a461fec64c802b6774920ed",
+  "company": {
+    "key": "selectquote-inc-common-stock",
+    "name": "SelectQuote Inc. Common Stock"
+  },
+  "source": {
+    "id": "selectquote-inc-common-stock-rss-d17e1c74fd61",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.selectquote.com/news/news-details/2026/SelectQuote-Announces-Participation-in-Upcoming-Mizuho-Virtual-Healthcare-Technology-Conference-on-March-5/default.aspx",
+    "canonical": "https://ir.selectquote.com/news/news-details/2026/SelectQuote-Announces-Participation-in-Upcoming-Mizuho-Virtual-Healthcare-Technology-Conference-on-March-5/default.aspx"
+  },
+  "title": "SelectQuote Announces Participation in Upcoming Mizuho Virtual Healthcare Technology Conference on March 5",
+  "summary": "",
+  "published_at": "2026-02-26T21:15:00+00:00",
+  "first_seen_at": "2026-07-25T22:32:19.548544+00:00",
+  "fetched_at": "2026-07-28T20:24:26.347737+00:00",
+  "last_updated_at": "2026-07-28T20:24:26.397112+00:00",
+  "paths": {
+    "article": "articles/v1/7d/selectquote-inc-common-stock/2026/02/ec/ec509637a1136aef84c06810b8e0f4fa5f1870a25a461fec64c802b6774920ed/article.md",
+    "record": "articles/v1/7d/selectquote-inc-common-stock/2026/02/ec/ec509637a1136aef84c06810b8e0f4fa5f1870a25a461fec64c802b6774920ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 782,
+    "sha256": "sha256:e04a10e465f2ba990cbd4db58d4f0a06b4b2b839049e7c82dcf00fd5e94f1018",
+    "normalized_content_hash": "sha256:0da74c791077ca2a780199ea1babf38c01cb1d856ca31691c06944831c4a253f"
+  },
+  "provenance": {
+    "source_item_id": "85137a46-acf7-4149-bc1e-6936cb2d4577",
+    "external_id": "e47280e8-1cec-4dca-8231-9991f7663be9"
+  }
+}

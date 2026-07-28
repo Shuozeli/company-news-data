@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea50a8aa6140ee65261f8919ccc77212d92d896575e9eb9c81aca7d78d2c25f0",
+  "company": {
+    "key": "arbor-realty-trust-common-stock",
+    "name": "Arbor Realty Trust Common Stock"
+  },
+  "source": {
+    "id": "arbor-realty-trust-common-stock-news-import-12a525816063",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://arbor.com/blog/indianapolis-multifamily-market-snapshot-june-2026/",
+    "canonical": "https://arbor.com/blog/indianapolis-multifamily-market-snapshot-june-2026/"
+  },
+  "title": "Indianapolis Multifamily Market Snapshot — June 2026",
+  "summary": "The Indianapolis multifamily market has been supported by strong labor market conditions, tight occupancy levels, and a favorable affordability profile.",
+  "published_at": "2026-06-22T12:00:30+00:00",
+  "first_seen_at": "2026-07-26T07:56:47.567117+00:00",
+  "fetched_at": "2026-07-28T21:23:18.688239+00:00",
+  "last_updated_at": "2026-07-28T21:25:02.580716+00:00",
+  "paths": {
+    "article": "articles/v1/5f/arbor-realty-trust-common-stock/2026/06/ea/ea50a8aa6140ee65261f8919ccc77212d92d896575e9eb9c81aca7d78d2c25f0/article.md",
+    "record": "articles/v1/5f/arbor-realty-trust-common-stock/2026/06/ea/ea50a8aa6140ee65261f8919ccc77212d92d896575e9eb9c81aca7d78d2c25f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2435,
+    "sha256": "sha256:a9cdfbd9724def4226a539bbd88983fffe6e83625878f50a3c9338845ceaa8ae",
+    "normalized_content_hash": "sha256:88713a6e6972ed2d83aff9f8011fd332dd6d745ef43be00802f306a2d0275c61"
+  },
+  "provenance": {
+    "source_item_id": "055c94c0-9e3d-449b-b91b-ae202d2def22",
+    "external_id": "https://arbor.com/blog/indianapolis-multifamily-market-snapshot-june-2026/"
+  }
+}

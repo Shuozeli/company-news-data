@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "167f0959e8faaaaa6e5a32326ebed00a5ca8f698ff140b797fe64235c25aa88c",
+  "company": {
+    "key": "yc-cyberdesk",
+    "name": "Cyberdesk"
+  },
+  "source": {
+    "id": "yc-cyberdesk-rss-7fc226611edf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://cyberdesk-4xa2vgvm8-cyberdesk.vercel.app/blog/ap-invoice-processing-desktop-automation",
+    "canonical": "https://cyberdesk-4xa2vgvm8-cyberdesk.vercel.app/blog/ap-invoice-processing-desktop-automation"
+  },
+  "title": "How AI desktop automation helps accounts payable invoice processing",
+  "summary": "AI desktop automation can handle AP invoice workflows in legacy ERPs by extracting invoice data, verifying vendor and PO context, and returning structured exceptions for review.",
+  "published_at": "2026-05-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T15:57:26.427544+00:00",
+  "fetched_at": "2026-07-28T21:14:05.751806+00:00",
+  "last_updated_at": "2026-07-28T22:04:54.127715+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-cyberdesk/2026/05/16/167f0959e8faaaaa6e5a32326ebed00a5ca8f698ff140b797fe64235c25aa88c/article.md",
+    "record": "articles/v1/a3/yc-cyberdesk/2026/05/16/167f0959e8faaaaa6e5a32326ebed00a5ca8f698ff140b797fe64235c25aa88c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9380,
+    "sha256": "sha256:8560081718baf0e6f3f9bdbc0dd8f81be33a6d65713efb6d3495df518312107d",
+    "normalized_content_hash": "sha256:02f5798ea9b48abc9a8b919bb5c527c5e0dde2bdd6c566b6cc9dcb867119b213"
+  },
+  "provenance": {
+    "source_item_id": "91076330-b3e1-43ba-a161-89435d14b674",
+    "external_id": "https://cyberdesk-4xa2vgvm8-cyberdesk.vercel.app/blog/ap-invoice-processing-desktop-automation"
+  }
+}

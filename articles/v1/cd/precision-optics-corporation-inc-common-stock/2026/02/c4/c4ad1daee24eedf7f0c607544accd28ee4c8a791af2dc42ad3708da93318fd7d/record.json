@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c4ad1daee24eedf7f0c607544accd28ee4c8a791af2dc42ad3708da93318fd7d",
+  "company": {
+    "key": "precision-optics-corporation-inc-common-stock",
+    "name": "Precision Optics Corporation Inc. Common stock"
+  },
+  "source": {
+    "id": "precision-optics-corporation-inc-common-stock-news-import-4ae7401a5aa4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.poci.com/press-releases/precision-optics-schedules-second-quarter-of-fiscal-year-2026-conference-call-for-february-17-2026/",
+    "canonical": "https://www.poci.com/press-releases/precision-optics-schedules-second-quarter-of-fiscal-year-2026-conference-call-for-february-17-2026/"
+  },
+  "title": "Precision Optics Schedules Second Quarter of Fiscal Year 2026 Conference Call for February 17, 2026",
+  "summary": "",
+  "published_at": "2026-02-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:48:26.579797+00:00",
+  "fetched_at": "2026-07-28T22:20:29.370610+00:00",
+  "last_updated_at": "2026-07-28T22:22:15.713021+00:00",
+  "paths": {
+    "article": "articles/v1/cd/precision-optics-corporation-inc-common-stock/2026/02/c4/c4ad1daee24eedf7f0c607544accd28ee4c8a791af2dc42ad3708da93318fd7d/article.md",
+    "record": "articles/v1/cd/precision-optics-corporation-inc-common-stock/2026/02/c4/c4ad1daee24eedf7f0c607544accd28ee4c8a791af2dc42ad3708da93318fd7d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6728,
+    "sha256": "sha256:9b443fd5c08c73409a73b16aff09bd4aaf085b0954d1c19b1088738ef39cec25",
+    "normalized_content_hash": "sha256:dadc3dc63acfaf0951b165d1cc1eb6765b7ba1b2c81d56ffaee9d98c5d2a51e0"
+  },
+  "provenance": {
+    "source_item_id": "2e34ef07-707b-405f-ad1b-eecf7013b2b5",
+    "external_id": "https://www.poci.com/press-releases/precision-optics-schedules-second-quarter-of-fiscal-year-2026-conference-call-for-february-17-2026/"
+  }
+}

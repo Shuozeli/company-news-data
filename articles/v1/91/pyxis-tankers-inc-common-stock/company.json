@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pyxis-tankers-inc-common-stock",
+    "name": "Pyxis Tankers Inc. Common Stock"
+  },
+  "record_count": 16,
+  "first_published_at": "2016-03-31T15:46:50+00:00",
+  "last_published_at": "2021-01-20T19:03:58+00:00",
+  "partitions": [
+    {
+      "partition": "2016-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2016-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    }
+  ]
+}

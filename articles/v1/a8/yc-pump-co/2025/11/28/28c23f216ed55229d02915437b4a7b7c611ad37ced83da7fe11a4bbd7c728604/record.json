@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28c23f216ed55229d02915437b4a7b7c611ad37ced83da7fe11a4bbd7c728604",
+  "company": {
+    "key": "yc-pump-co",
+    "name": "Pump.co"
+  },
+  "source": {
+    "id": "yc-pump-co-news-import-86a46b79533f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "canonical": "https://www.pump.co/blog/aws-ec2-pricing-update/"
+  },
+  "title": "AWS EC2 Pricing Update 2025: Major Price Cuts",
+  "summary": "AWS cut EC2 GPU prices by up to 45% in June 2025. Learn about new instance families, cost optimization tips, and how to maximize your cloud savings.",
+  "published_at": "2025-11-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:15:23.871807+00:00",
+  "fetched_at": "2026-07-28T11:48:07.834159+00:00",
+  "last_updated_at": "2026-07-28T11:48:10.876092+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-pump-co/2025/11/28/28c23f216ed55229d02915437b4a7b7c611ad37ced83da7fe11a4bbd7c728604/article.md",
+    "record": "articles/v1/a8/yc-pump-co/2025/11/28/28c23f216ed55229d02915437b4a7b7c611ad37ced83da7fe11a4bbd7c728604/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11459,
+    "sha256": "sha256:421df336345ab5a7c2452639a4aae2e5ed12aacbc086a65e5b2547eec2cb2865",
+    "normalized_content_hash": "sha256:98f326953721e5f1760d8de0b203b8de836801d3780ebe7c8ea3041e990ad911"
+  },
+  "provenance": {
+    "source_item_id": "61747d08-54b2-4e3c-8006-3a54f055a20a",
+    "external_id": "https://www.pump.co/blog/aws-ec2-pricing-update/"
+  }
+}

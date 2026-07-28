@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0a05d7555f4dabdb3cd10acd57a7931c3b6e2b2df4432c21e1debd56ed5dca92",
+  "company": {
+    "key": "mannkind-corporation-common-stock",
+    "name": "MannKind Corporation Common Stock"
+  },
+  "source": {
+    "id": "mannkind-corporation-common-stock-rss-982b488261b1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.mannkindcorp.com/news-releases/news-release-details/mannkind-present-jefferies-global-healthcare-conference-0",
+    "canonical": "https://investors.mannkindcorp.com/news-releases/news-release-details/mannkind-present-jefferies-global-healthcare-conference-0"
+  },
+  "title": "MannKind to Present at Jefferies Global Healthcare Conference",
+  "summary": "The Investor Relations website contains information about MannKind Corporation's business for stockholders, potential investors, and financial analysts.",
+  "published_at": "2026-05-27T20:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:22:45.990071+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-07-28T21:13:07.077875+00:00",
+  "paths": {
+    "article": "articles/v1/6f/mannkind-corporation-common-stock/2026/05/0a/0a05d7555f4dabdb3cd10acd57a7931c3b6e2b2df4432c21e1debd56ed5dca92/article.md",
+    "record": "articles/v1/6f/mannkind-corporation-common-stock/2026/05/0a/0a05d7555f4dabdb3cd10acd57a7931c3b6e2b2df4432c21e1debd56ed5dca92/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8864,
+    "sha256": "sha256:ad562edb2d4d184dad8745fd7e4c64115c2cb87f77db29fcae2b5676ea458b0e",
+    "normalized_content_hash": "sha256:5c7de7b326045c73bd8fedc77cdf708bf658a27bb80c7b8f08a3d13a33f2b611"
+  },
+  "provenance": {
+    "source_item_id": "8d9e8780-d991-477a-aead-932b353eeb05",
+    "external_id": "21396"
+  }
+}

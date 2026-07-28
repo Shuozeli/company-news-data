@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5a4d7b8faec896555f5c38f5bdeff79429aa1bf9a5ca628407b649fb2f7894d5",
+  "company": {
+    "key": "yc-rejot",
+    "name": "ReJot"
+  },
+  "source": {
+    "id": "yc-rejot-news-import-01598ccac029",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rejot.dev/blog/2025-08-22_spec-driven-development/",
+    "canonical": "https://rejot.dev/blog/2025-08-22_spec-driven-development/"
+  },
+  "title": "Semcheck: Spec-Driven Development using LLMs",
+  "summary": "",
+  "published_at": "2025-08-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T11:22:58.242135+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-07-28T22:03:52.233042+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-rejot/2025/08/5a/5a4d7b8faec896555f5c38f5bdeff79429aa1bf9a5ca628407b649fb2f7894d5/article.md",
+    "record": "articles/v1/62/yc-rejot/2025/08/5a/5a4d7b8faec896555f5c38f5bdeff79429aa1bf9a5ca628407b649fb2f7894d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10321,
+    "sha256": "sha256:e109850f604851294e31e52bb8ca2c1ce5c7e1b3a51f715955b7a86a29437b65",
+    "normalized_content_hash": "sha256:ff95b927fb2985f1a44c23377f973e75035cd15b53fef28c1fbd838f8bce303e"
+  },
+  "provenance": {
+    "source_item_id": "df8d402d-6ba6-414b-bc96-e6cc15bd92c1",
+    "external_id": "https://rejot.dev/blog/2025-08-22_spec-driven-development/"
+  }
+}

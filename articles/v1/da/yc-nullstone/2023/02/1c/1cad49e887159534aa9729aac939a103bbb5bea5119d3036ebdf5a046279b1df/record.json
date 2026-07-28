@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1cad49e887159534aa9729aac939a103bbb5bea5119d3036ebdf5a046279b1df",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-8892e125c773",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nullstone.io/blog-posts/api-gateway-vs-load-balancer",
+    "canonical": "https://nullstone.io/blog-posts/api-gateway-vs-load-balancer"
+  },
+  "title": "API Gateway vs Load Balancer",
+  "summary": "There are a number of ways to expose apps to the internet, but which one to choose? In this article, we compare API Gateways and Load Balancers to understand which is best for each use.",
+  "published_at": "2023-02-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:17:35.365256+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:41.421090+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2023/02/1c/1cad49e887159534aa9729aac939a103bbb5bea5119d3036ebdf5a046279b1df/article.md",
+    "record": "articles/v1/da/yc-nullstone/2023/02/1c/1cad49e887159534aa9729aac939a103bbb5bea5119d3036ebdf5a046279b1df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6297,
+    "sha256": "sha256:25aaa06bdbe2b15dd76998036ce7cf1df6920f7f50d64877e19670ea2c7f0620",
+    "normalized_content_hash": "sha256:731d955455e3148baaf7535c132a55ea13b3f98a389792f82d846a0b4305b7ef"
+  },
+  "provenance": {
+    "source_item_id": "e591c55d-e004-438a-b520-4de186a5c4e2",
+    "external_id": "https://nullstone.io/blog-posts/api-gateway-vs-load-balancer"
+  }
+}

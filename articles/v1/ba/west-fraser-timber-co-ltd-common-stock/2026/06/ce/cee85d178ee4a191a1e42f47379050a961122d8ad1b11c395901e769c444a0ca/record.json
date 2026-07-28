@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cee85d178ee4a191a1e42f47379050a961122d8ad1b11c395901e769c444a0ca",
+  "company": {
+    "key": "west-fraser-timber-co-ltd-common-stock",
+    "name": "West Fraser Timber Co. Ltd Common stock"
+  },
+  "source": {
+    "id": "west-fraser-timber-co-ltd-common-stock-news-import-d78f8bc34b5a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.westfraser.com/investors/news/news-releases/west-fraser-declares-dividend-9",
+    "canonical": "https://www.westfraser.com/investors/news/news-releases/west-fraser-declares-dividend-9"
+  },
+  "title": "West Fraser Declares Dividend",
+  "summary": "West Fraser Timber Co. Ltd. (\"West Fraser\" or the \"Company\") (TSX and NYSE: WFG) has declared a quarterly dividend of US$0.32 per share on the Common shares and Class B Common shares in the...",
+  "published_at": "2026-06-10T12:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:10:16.289795+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:59.938628+00:00",
+  "paths": {
+    "article": "articles/v1/ba/west-fraser-timber-co-ltd-common-stock/2026/06/ce/cee85d178ee4a191a1e42f47379050a961122d8ad1b11c395901e769c444a0ca/article.md",
+    "record": "articles/v1/ba/west-fraser-timber-co-ltd-common-stock/2026/06/ce/cee85d178ee4a191a1e42f47379050a961122d8ad1b11c395901e769c444a0ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2900,
+    "sha256": "sha256:0fa600a44bc49a38eef73ed58a54d4645e855c89926ff8dfd956ac6f625d73ee",
+    "normalized_content_hash": "sha256:80413d5927f600756b3080ad44928a95f18660184bd30332f758745572430c65"
+  },
+  "provenance": {
+    "source_item_id": "b4a25a66-e429-4f98-a0d4-5b7d6e28ba4f",
+    "external_id": "https://www.westfraser.com/investors/news/news-releases/west-fraser-declares-dividend-9"
+  }
+}

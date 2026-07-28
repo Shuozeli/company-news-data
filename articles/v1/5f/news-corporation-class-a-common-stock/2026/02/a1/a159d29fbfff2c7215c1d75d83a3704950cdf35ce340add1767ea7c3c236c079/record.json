@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a159d29fbfff2c7215c1d75d83a3704950cdf35ce340add1767ea7c3c236c079",
+  "company": {
+    "key": "news-corporation-class-a-common-stock",
+    "name": "News Corporation Class A Common Stock"
+  },
+  "source": {
+    "id": "news-corporation-class-a-common-stock-rss-4854b89b29ce",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://newscorp.com/2026/02/24/news-corp-to-participate-in-the-morgan-stanley-technology-media-telecom-conference-5/",
+    "canonical": "https://newscorp.com/2026/02/24/news-corp-to-participate-in-the-morgan-stanley-technology-media-telecom-conference-5/"
+  },
+  "title": "News Corp to Participate in the Morgan Stanley Technology, Media & Telecom Conference",
+  "summary": "News Corp to Participate in the Morgan Stanley Technology, Media & Telecom Conference New York, NY (February 24, 2026) – News Corp announced today that Chief Executive Robert Thomson will participate in the Morgan Stanley Technology, Media & Telecom Conference on Monday, March 2, 2026. The session will begin at 1:00 PM EST (10:00 AM […]",
+  "published_at": "2026-02-24T14:00:29+00:00",
+  "first_seen_at": "2026-07-22T17:16:37.796071+00:00",
+  "fetched_at": "2026-07-28T22:03:45.188546+00:00",
+  "last_updated_at": "2026-07-28T22:04:19.348897+00:00",
+  "paths": {
+    "article": "articles/v1/5f/news-corporation-class-a-common-stock/2026/02/a1/a159d29fbfff2c7215c1d75d83a3704950cdf35ce340add1767ea7c3c236c079/article.md",
+    "record": "articles/v1/5f/news-corporation-class-a-common-stock/2026/02/a1/a159d29fbfff2c7215c1d75d83a3704950cdf35ce340add1767ea7c3c236c079/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2244,
+    "sha256": "sha256:2fec6887bfb257be425ebdc16d21c97497415fd87597b45a563d1c5eeb52ea9f",
+    "normalized_content_hash": "sha256:6fe8f2a94691f25739978e0d460391c15f93b1f1497d4f824ac22c1cce9c1f78"
+  },
+  "provenance": {
+    "source_item_id": "c5fb1331-f8ef-4781-b3bc-d49d5f62762e",
+    "external_id": "https://newscorp.com/?p=142113"
+  }
+}

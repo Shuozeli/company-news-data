@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "58aeb18d540e78914aa3441a5de222aa5e3d46299b58161d0b5923650c836b08",
+  "company": {
+    "key": "walt-disney-company-the-common-stock",
+    "name": "Walt Disney Company (The) Common Stock"
+  },
+  "source": {
+    "id": "walt-disney-company-the-common-stock-rss-02ac5936ee88",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://thewaltdisneycompany.com/news/fortnite-epic-games-star-wars/",
+    "canonical": "https://thewaltdisneycompany.com/news/fortnite-epic-games-star-wars/"
+  },
+  "title": "Disney and Epic Games Bring ‘Star Wars’ Stories to Fortnite Fans",
+  "summary": "From theaters to Fortnite, Disney and Epic Games bring 'Star Wars' stories to life with immersive experiences that let fans watch, play, and connect across platforms.",
+  "published_at": "2026-05-19T20:05:18+00:00",
+  "first_seen_at": "2026-07-20T04:35:48.821564+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.035453+00:00",
+  "paths": {
+    "article": "articles/v1/a5/walt-disney-company-the-common-stock/2026/05/58/58aeb18d540e78914aa3441a5de222aa5e3d46299b58161d0b5923650c836b08/article.md",
+    "record": "articles/v1/a5/walt-disney-company-the-common-stock/2026/05/58/58aeb18d540e78914aa3441a5de222aa5e3d46299b58161d0b5923650c836b08/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7406,
+    "sha256": "sha256:6d26c9a663ff369b00c2ba3795f605116639df9561fe0a5db79166f42ae086f9",
+    "normalized_content_hash": "sha256:7742b307bfa6637017fa6517a400345b7814e47c2fef385aa4f0c33cb7c8d302"
+  },
+  "provenance": {
+    "source_item_id": "4b41ce14-142f-4870-a991-54a5f90b093e",
+    "external_id": "https://thewaltdisneycompany.com/?p=49665&post_type=news"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44512fb51fad222eacb90543b9c2d3bcf9f4c1d996532e6f9cb77555e65ebdf0",
+  "company": {
+    "key": "yc-posh",
+    "name": "Posh"
+  },
+  "source": {
+    "id": "yc-posh-news-import-00809a778e56",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://poshenergy.com/articles/the-rise-of-commercial-energy-independence",
+    "canonical": "https://poshenergy.com/articles/the-rise-of-commercial-energy-independence"
+  },
+  "title": "Off the Grid: The Rise of Commercial Energy Independence",
+  "summary": "Solar and battery systems are helping C&I facilities turn peak power into profit—demand response is reshaping the business case for going off-grid.",
+  "published_at": "2025-05-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:39:36.446390+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:48.154571+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-posh/2025/05/44/44512fb51fad222eacb90543b9c2d3bcf9f4c1d996532e6f9cb77555e65ebdf0/article.md",
+    "record": "articles/v1/b2/yc-posh/2025/05/44/44512fb51fad222eacb90543b9c2d3bcf9f4c1d996532e6f9cb77555e65ebdf0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12733,
+    "sha256": "sha256:945d7f2c48d1010f4e4bd5fc321f4e5cd8ce165fc80ccb48828773a0b0b0f929",
+    "normalized_content_hash": "sha256:4fc15abd87aae5f1a5c688ebce2c47a19412b399fbe627ade98557f2602c075e"
+  },
+  "provenance": {
+    "source_item_id": "bf20214f-0db5-4219-b5aa-681c0f937859",
+    "external_id": "https://poshenergy.com/articles/the-rise-of-commercial-energy-independence"
+  }
+}

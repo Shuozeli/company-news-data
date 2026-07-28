@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1bf458e477bab42033ed403fab5549cf4d258d03d7245402412967960a895c82",
+  "company": {
+    "key": "energous-corporation-common-stock",
+    "name": "Energous Corporation Common Stock"
+  },
+  "source": {
+    "id": "energous-corporation-common-stock-news-import-d1c3bf233b09",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://energous.com/company/newsroom/news/energous-reports-continued-commercial-momentum-expanding-fortune-10-deployments-and-a-growing-multi-vertical-proof-of-concept-pipeline/",
+    "canonical": "https://energous.com/company/newsroom/news/energous-reports-continued-commercial-momentum-expanding-fortune-10-deployments-and-a-growing-multi-vertical-proof-of-concept-pipeline/"
+  },
+  "title": "Energous Reports Continued Commercial Momentum, Expanding Fortune 10 Deployments, and a Growing Multi-Vertical Proof-of-Concept Pipeline",
+  "summary": "Energous Reports Continued Commercial Momentum, Expanding Fortune 10 Deployments, and a Growing Multi-Vertical Proof-of-Concept Pipeline - Energous",
+  "published_at": "2026-04-15T11:00:09+00:00",
+  "first_seen_at": "2026-07-27T06:56:18.942558+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-07-28T21:26:12.846289+00:00",
+  "paths": {
+    "article": "articles/v1/39/energous-corporation-common-stock/2026/04/1b/1bf458e477bab42033ed403fab5549cf4d258d03d7245402412967960a895c82/article.md",
+    "record": "articles/v1/39/energous-corporation-common-stock/2026/04/1b/1bf458e477bab42033ed403fab5549cf4d258d03d7245402412967960a895c82/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8801,
+    "sha256": "sha256:a996beef1ca282f88993122b1026a9c86af12c0a3f4df3a6273ccab4ec97fd4b",
+    "normalized_content_hash": "sha256:51d5fab19b799849079cbbc8a14812cf366e7d55c2f5c975229391023ac89ee1"
+  },
+  "provenance": {
+    "source_item_id": "2cda3805-d326-4a01-8b13-da92ddb96d1c",
+    "external_id": "https://energous.com/company/newsroom/news/energous-reports-continued-commercial-momentum-expanding-fortune-10-deployments-and-a-growing-multi-vertical-proof-of-concept-pipeline/"
+  }
+}

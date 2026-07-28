@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-voize",
+    "name": "voize"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-06-03T14:41:54.878+00:00",
+  "last_published_at": "2026-07-22T07:40:22.245+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    }
+  ]
+}

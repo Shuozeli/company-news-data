@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "milestone-pharmaceuticals-inc-common-shares",
+    "name": "Milestone Pharmaceuticals Inc. Common Shares"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-03-16T12:13:00+00:00",
+  "last_published_at": "2026-07-03T01:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

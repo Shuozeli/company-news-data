@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "16b66bd7fc58aeacdf3031b6df62ab7bd0763e275fec505175b15ae0662e71c5",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/sdk-customization-phone-call-transcription-technical-guide",
+    "canonical": "https://demodesk.com/blog/sdk-customization-phone-call-transcription-technical-guide"
+  },
+  "title": "SDK Customization for Phone Call Transcription: A Technical Guide",
+  "summary": "How to use conversation intelligence SDKs and APIs to transcribe phone calls, not just video meetings. Architecture, integration paths, and vendor tradeoffs.",
+  "published_at": "2026-07-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:50.631946+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/16/16b66bd7fc58aeacdf3031b6df62ab7bd0763e275fec505175b15ae0662e71c5/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/16/16b66bd7fc58aeacdf3031b6df62ab7bd0763e275fec505175b15ae0662e71c5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10441,
+    "sha256": "sha256:3dd3b86c94953bc5a8337784670605efd9303026dc7b5f3d6b79dde61eddca06",
+    "normalized_content_hash": "sha256:34a96aa139192f090e2f316c484f36961c8f81214d712046a698391d6447fe1c"
+  },
+  "provenance": {
+    "source_item_id": "b82833b0-177b-4116-a828-bafca0e7dca8",
+    "external_id": "https://demodesk.com/blog/sdk-customization-phone-call-transcription-technical-guide"
+  }
+}

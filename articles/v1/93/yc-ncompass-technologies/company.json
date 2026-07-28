@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-ncompass-technologies",
+    "name": "nCompass Technologies"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-11-04T12:30:02+00:00",
+  "last_published_at": "2025-12-01T16:31:26+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 9
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    }
+  ]
+}

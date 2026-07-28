@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fe40a132ff9de92774e8692e8c82764cfd242594d6ea1b190af2404014d07a7a",
+  "company": {
+    "key": "strategy-inc-common-stock-class-a",
+    "name": "Strategy Inc Common Stock Class A"
+  },
+  "source": {
+    "id": "strategy-inc-common-stock-class-a-news-import-7844395447f9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.strategy.com/press/strategy-announces-first-quarter-2026-financial-results_05-05-2026",
+    "canonical": "https://www.strategy.com/press/strategy-announces-first-quarter-2026-financial-results_05-05-2026"
+  },
+  "title": "Strategy Announces First Quarter 2026 Financial Results",
+  "summary": "May 5, 2026",
+  "published_at": "2026-05-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:05:48.786840+00:00",
+  "fetched_at": "2026-07-27T15:34:51.669202+00:00",
+  "last_updated_at": "2026-07-27T15:34:53.861283+00:00",
+  "paths": {
+    "article": "articles/v1/aa/strategy-inc-common-stock-class-a/2026/05/fe/fe40a132ff9de92774e8692e8c82764cfd242594d6ea1b190af2404014d07a7a/article.md",
+    "record": "articles/v1/aa/strategy-inc-common-stock-class-a/2026/05/fe/fe40a132ff9de92774e8692e8c82764cfd242594d6ea1b190af2404014d07a7a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30513,
+    "sha256": "sha256:18ea3cafbef1310fdc307a2f102a699c50439ac8fe883ffb3e31e94bec4f7986",
+    "normalized_content_hash": "sha256:a9c1def795fb292386307799725033e9f612fe635bfb7b2e483d54b4e4ad8a3e"
+  },
+  "provenance": {
+    "source_item_id": "96901947-9224-4973-a2ad-7e6d6d999d6b",
+    "external_id": "https://www.strategy.com/press/strategy-announces-first-quarter-2026-financial-results_05-05-2026"
+  }
+}

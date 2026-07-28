@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3082d4a328073e1daee9dfb9c7c78cb0eea39a516a446b255aaa69434d57beb4",
+  "company": {
+    "key": "reddit-inc-class-a-common-stock",
+    "name": "Reddit Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "reddit-inc-class-a-common-stock-rss-aff8f088f411",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://redditinc.com/news/how-were-keeping-reddit-real-and-safe-in-the-ai-era",
+    "canonical": "https://redditinc.com/news/how-were-keeping-reddit-real-and-safe-in-the-ai-era"
+  },
+  "title": "How We’re Keeping Reddit Real and Safe in the AI Era",
+  "summary": "Reddit's AI stops abuse before you see it: 20% less spam, 2M fake votes/day removed, and enforcement on hate/violence cut from hours to under five seconds.",
+  "published_at": "2026-07-06T11:44:59+00:00",
+  "first_seen_at": "2026-07-25T20:41:00.249399+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T22:11:53.939617+00:00",
+  "paths": {
+    "article": "articles/v1/dd/reddit-inc-class-a-common-stock/2026/07/30/3082d4a328073e1daee9dfb9c7c78cb0eea39a516a446b255aaa69434d57beb4/article.md",
+    "record": "articles/v1/dd/reddit-inc-class-a-common-stock/2026/07/30/3082d4a328073e1daee9dfb9c7c78cb0eea39a516a446b255aaa69434d57beb4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7370,
+    "sha256": "sha256:19cbc23d7972b737fc5d8637302eb3825e4dd2d5436f9d4a71c1f8284e61ac36",
+    "normalized_content_hash": "sha256:27c5d9397d21e9ad42b47a61c4d8565ad6c197958d92ff19222650919f06e474"
+  },
+  "provenance": {
+    "source_item_id": "6ad66275-8d5f-4a69-8094-932ea8a1f293",
+    "external_id": "https://redditinc.com/news/how-were-keeping-reddit-real-and-safe-in-the-ai-era"
+  }
+}

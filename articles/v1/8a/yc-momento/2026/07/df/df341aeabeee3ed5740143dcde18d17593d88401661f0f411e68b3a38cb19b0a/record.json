@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df341aeabeee3ed5740143dcde18d17593d88401661f0f411e68b3a38cb19b0a",
+  "company": {
+    "key": "yc-momento",
+    "name": "Momento"
+  },
+  "source": {
+    "id": "yc-momento-news-import-ecd11f38dbc6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tumomento.com/blog/industria-automotriz-mexico-tendencias-25Q1/",
+    "canonical": "https://www.tumomento.com/blog/industria-automotriz-mexico-tendencias-25Q1/"
+  },
+  "title": "Reporte de la Industria Automotriz en México Q1 2025",
+  "summary": "Descubre el panorama del mercado automotriz en México durante el primer trimestre de 2025: crecimiento en ventas, auge de marcas chinas, evolución del autofinanciamiento, servicios postventa y el impulso de los vehículos eléctricos.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:45:59.826435+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:47.712059+00:00",
+  "paths": {
+    "article": "articles/v1/8a/yc-momento/2026/07/df/df341aeabeee3ed5740143dcde18d17593d88401661f0f411e68b3a38cb19b0a/article.md",
+    "record": "articles/v1/8a/yc-momento/2026/07/df/df341aeabeee3ed5740143dcde18d17593d88401661f0f411e68b3a38cb19b0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11488,
+    "sha256": "sha256:18ed5862f4cfe2c8668c9c560cec161f1ca409192b7f5ac898ecb80089fda474",
+    "normalized_content_hash": "sha256:11b854a8a1e05058896c6a5f15b68b8b49b546c8f2653d39e96f14b112621389"
+  },
+  "provenance": {
+    "source_item_id": "c60229e5-f5e4-44d6-8f8f-34b47f6c735c",
+    "external_id": "https://www.tumomento.com/blog/industria-automotriz-mexico-tendencias-25Q1/"
+  }
+}

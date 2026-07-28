@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae23007cc063918c59752cd3c6b9a9d594061aae1d914805fb950505bfcce436",
+  "company": {
+    "key": "genedx-holdings-corp-class-a-common-stock",
+    "name": "GeneDx Holdings Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "genedx-holdings-corp-class-a-common-stock-news-import-a354036f6bdd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.genedx.com/blog/genetic-testing-pediatricians-webinar",
+    "canonical": "https://www.genedx.com/blog/genetic-testing-pediatricians-webinar"
+  },
+  "title": "3 Things General Pediatricians Should Know About Earlier Genetic Testing",
+  "summary": "Learn when general pediatricians should consider genetic testing, how to interpret results, and key insights from Dr. Tommy Martin's webinar on earlier diagnosis and informed pediatric care.",
+  "published_at": "2026-07-23T15:19:11.653+00:00",
+  "first_seen_at": "2026-07-22T21:26:00.809999+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:53.720069+00:00",
+  "paths": {
+    "article": "articles/v1/45/genedx-holdings-corp-class-a-common-stock/2026/07/ae/ae23007cc063918c59752cd3c6b9a9d594061aae1d914805fb950505bfcce436/article.md",
+    "record": "articles/v1/45/genedx-holdings-corp-class-a-common-stock/2026/07/ae/ae23007cc063918c59752cd3c6b9a9d594061aae1d914805fb950505bfcce436/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8059,
+    "sha256": "sha256:7a51e37e7c39690daf0d00cd327ee1315f355fede18051b03995c84c7d2f7272",
+    "normalized_content_hash": "sha256:fe15d087d9ceed105b15065c4d41f4eeed53e12beec37eab773ae64cc3327657"
+  },
+  "provenance": {
+    "source_item_id": "8c9395f6-1491-4d8d-a75c-1153914fe7a2",
+    "external_id": "https://www.genedx.com/blog/genetic-testing-pediatricians-webinar"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "aerovironment-inc-common-stock",
+    "name": "AeroVironment Inc. Common Stock"
+  },
+  "record_count": 17,
+  "first_published_at": "2026-06-15T13:10:43+00:00",
+  "last_published_at": "2026-07-27T12:00:10+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    }
+  ]
+}

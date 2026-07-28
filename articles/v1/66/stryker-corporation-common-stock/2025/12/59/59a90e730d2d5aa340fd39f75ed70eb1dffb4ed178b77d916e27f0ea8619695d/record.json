@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59a90e730d2d5aa340fd39f75ed70eb1dffb4ed178b77d916e27f0ea8619695d",
+  "company": {
+    "key": "stryker-corporation-common-stock",
+    "name": "Stryker Corporation Common Stock"
+  },
+  "source": {
+    "id": "stryker-corporation-common-stock-news-import-e87be554c0ac",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stryker.com/us/en/about/news/2025/stryker-names-spencer-stiles-president-and-chief-operating-officer.html",
+    "canonical": "https://www.stryker.com/us/en/about/news/2025/stryker-names-spencer-stiles-president-and-chief-operating-officer.html"
+  },
+  "title": "Stryker names Spencer Stiles President and Chief Operating Officer",
+  "summary": "Stryker announced Spencer Stiles has been appointed President and Chief Operating Officer (COO), effective January 1, 2026. In this role, Stiles will lead the company’s global businesses, strategy, and mergers and acquisitions.",
+  "published_at": "2025-12-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:09:31.433802+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-07-28T21:59:20.698354+00:00",
+  "paths": {
+    "article": "articles/v1/66/stryker-corporation-common-stock/2025/12/59/59a90e730d2d5aa340fd39f75ed70eb1dffb4ed178b77d916e27f0ea8619695d/article.md",
+    "record": "articles/v1/66/stryker-corporation-common-stock/2025/12/59/59a90e730d2d5aa340fd39f75ed70eb1dffb4ed178b77d916e27f0ea8619695d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3369,
+    "sha256": "sha256:1bd29be83748a657b3b035fd14a6ca4238cf18ba502f79e671f4f14a81c09032",
+    "normalized_content_hash": "sha256:d8e223a4533ded81cede42e44e65f5449bed117d02efe9f460144f90d7bc3345"
+  },
+  "provenance": {
+    "source_item_id": "46c1937c-0d48-4b30-8ac9-14f5fd72e5bf",
+    "external_id": "https://www.stryker.com/us/en/about/news/2025/stryker-names-spencer-stiles-president-and-chief-operating-officer.html"
+  }
+}

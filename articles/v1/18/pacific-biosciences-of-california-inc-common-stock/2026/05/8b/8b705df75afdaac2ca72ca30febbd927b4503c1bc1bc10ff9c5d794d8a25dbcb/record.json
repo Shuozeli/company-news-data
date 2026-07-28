@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8b705df75afdaac2ca72ca30febbd927b4503c1bc1bc10ff9c5d794d8a25dbcb",
+  "company": {
+    "key": "pacific-biosciences-of-california-inc-common-stock",
+    "name": "Pacific Biosciences of California Inc. Common Stock"
+  },
+  "source": {
+    "id": "pacific-biosciences-of-california-inc-common-stock-news-import-446448bf94cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pacb.com/blog/the-power-of-one-how-assay-consolidation-and-menu-expansion-reshape-sequencing-economics/",
+    "canonical": "https://www.pacb.com/blog/the-power-of-one-how-assay-consolidation-and-menu-expansion-reshape-sequencing-economics/"
+  },
+  "title": "The power of one: How assay consolidation and menu expansion reshape sequencing economics",
+  "summary": "PacBio long-read sequencing platforms clearly demonstrate the power of one: one test, one platform, and a simplified path to genomic answers.",
+  "published_at": "2026-05-14T13:00:18+00:00",
+  "first_seen_at": "2026-07-22T08:02:43.432836+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-07-28T22:00:56.773302+00:00",
+  "paths": {
+    "article": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/05/8b/8b705df75afdaac2ca72ca30febbd927b4503c1bc1bc10ff9c5d794d8a25dbcb/article.md",
+    "record": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/05/8b/8b705df75afdaac2ca72ca30febbd927b4503c1bc1bc10ff9c5d794d8a25dbcb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9492,
+    "sha256": "sha256:433b3072d14b4ff4e06d51eafae52fff91743e84382683583c882078ec31860c",
+    "normalized_content_hash": "sha256:6304eb46539f47df4f64d2d015d1e88ee75d1d1e965db13790cb74ddca4c1068"
+  },
+  "provenance": {
+    "source_item_id": "ad48233f-0bb4-4a5b-ad61-09134bbaa6b5",
+    "external_id": "https://www.pacb.com/blog/the-power-of-one-how-assay-consolidation-and-menu-expansion-reshape-sequencing-economics/"
+  }
+}

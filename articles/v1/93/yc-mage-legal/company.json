@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-mage-legal",
+    "name": "Mage Legal"
+  },
+  "record_count": 21,
+  "first_published_at": "2026-01-12T00:00:00+00:00",
+  "last_published_at": "2026-04-26T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 10
+    }
+  ]
+}

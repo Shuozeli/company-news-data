@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "daac20d290a714619afacc104aaff90124790d35730a9c4c92aea328c7f5ef62",
+  "company": {
+    "key": "infosys-limited-american-depositary-shares",
+    "name": "Infosys Limited American Depositary Shares"
+  },
+  "source": {
+    "id": "infosys-limited-american-depositary-shares-news-import-04391fa7e0ff",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blogs.infosys.com/business-incubator/",
+    "canonical": "https://blogs.infosys.com/business-incubator/"
+  },
+  "title": "Business Incubator | Business Technology Blog | IT Blogs",
+  "summary": "This is my Home page.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T07:00:13.077823+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.244082+00:00",
+  "paths": {
+    "article": "articles/v1/a2/infosys-limited-american-depositary-shares/2026/07/da/daac20d290a714619afacc104aaff90124790d35730a9c4c92aea328c7f5ef62/article.md",
+    "record": "articles/v1/a2/infosys-limited-american-depositary-shares/2026/07/da/daac20d290a714619afacc104aaff90124790d35730a9c4c92aea328c7f5ef62/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6571,
+    "sha256": "sha256:08d013914616838f8c05c519ddd91cad077b607bdb0a895f4d4ed30bbc87df8c",
+    "normalized_content_hash": "sha256:7af77f8ed353ba940bfe1d919e62be6a4702a45c633f4471fd2b94ee2c4b78c5"
+  },
+  "provenance": {
+    "source_item_id": "dcc0bf45-fc6e-4145-b817-de5075cebf6b",
+    "external_id": "https://blogs.infosys.com/business-incubator/"
+  }
+}

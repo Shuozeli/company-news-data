@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f847ba93613f7dbe5ef54b6124685a9f0ac5e4881619c20b15287a5d629a6863",
+  "company": {
+    "key": "yc-plate-iq",
+    "name": "Plate IQ"
+  },
+  "source": {
+    "id": "yc-plate-iq-news-import-ffabbdfd5d0f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ottimate.com/news/only-4-of-finance-teams-have-fully-automated-accounts-payable-despite-widespread-software-adoption/",
+    "canonical": "https://ottimate.com/news/only-4-of-finance-teams-have-fully-automated-accounts-payable-despite-widespread-software-adoption/"
+  },
+  "title": "Only 4% of Finance Teams Have Fully Automated Accounts Payable Despite Widespread Software Adoption",
+  "summary": "New Ottimate research finds partial automation is the norm, leaving finance teams exposed to fraud, errors, and rising costs. SAN FRANCISCO, CA (Feb",
+  "published_at": "2026-02-25T12:50:00+00:00",
+  "first_seen_at": "2026-07-25T19:18:58.450988+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:20.262614+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-plate-iq/2026/02/f8/f847ba93613f7dbe5ef54b6124685a9f0ac5e4881619c20b15287a5d629a6863/article.md",
+    "record": "articles/v1/48/yc-plate-iq/2026/02/f8/f847ba93613f7dbe5ef54b6124685a9f0ac5e4881619c20b15287a5d629a6863/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16013,
+    "sha256": "sha256:4995a4a4790cc80e39f5e87e87f3f1e4f277a67e4300b1a677880345ea5b85e6",
+    "normalized_content_hash": "sha256:6cda39fe540cc3015e407217dde2990a391fe7f95d8702bc390b66e59bd97355"
+  },
+  "provenance": {
+    "source_item_id": "144309c0-1358-4697-9227-6702139dbcf4",
+    "external_id": "https://ottimate.com/news/only-4-of-finance-teams-have-fully-automated-accounts-payable-despite-widespread-software-adoption/"
+  }
+}

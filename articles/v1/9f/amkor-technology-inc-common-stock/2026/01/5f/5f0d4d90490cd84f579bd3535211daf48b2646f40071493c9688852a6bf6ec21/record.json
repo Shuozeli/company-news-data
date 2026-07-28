@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f0d4d90490cd84f579bd3535211daf48b2646f40071493c9688852a6bf6ec21",
+  "company": {
+    "key": "amkor-technology-inc-common-stock",
+    "name": "Amkor Technology Inc. Common Stock"
+  },
+  "source": {
+    "id": "amkor-technology-inc-common-stock-news-import-c3e4c050930c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amkor.com/blog/amkor-receives-kioxia-groups-best-partner-award/",
+    "canonical": "https://amkor.com/blog/amkor-receives-kioxia-groups-best-partner-award/"
+  },
+  "title": "Amkor Technology Receives Kioxia's Best Partner Award - Amkor Technology",
+  "summary": "Amkor receives KIOXIA’s Best Partner Award, recognizing excellence, strong collaboration, and leadership in advancing memory technologies.",
+  "published_at": "2026-01-29T19:30:33+00:00",
+  "first_seen_at": "2026-07-24T16:34:56.885040+00:00",
+  "fetched_at": "2026-07-28T22:22:55.791060+00:00",
+  "last_updated_at": "2026-07-28T22:25:11.833805+00:00",
+  "paths": {
+    "article": "articles/v1/9f/amkor-technology-inc-common-stock/2026/01/5f/5f0d4d90490cd84f579bd3535211daf48b2646f40071493c9688852a6bf6ec21/article.md",
+    "record": "articles/v1/9f/amkor-technology-inc-common-stock/2026/01/5f/5f0d4d90490cd84f579bd3535211daf48b2646f40071493c9688852a6bf6ec21/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2298,
+    "sha256": "sha256:0921cd72600b707bfc61c66c86cc6eb1a6c15f04bbd78fba0442e9710642b18a",
+    "normalized_content_hash": "sha256:2cc234282c930569449f0de65bc976663ce58a2b0b48845b5f2c29788bad401e"
+  },
+  "provenance": {
+    "source_item_id": "9f6e4b80-e6cb-4365-8a77-53a383720887",
+    "external_id": "https://amkor.com/blog/amkor-receives-kioxia-groups-best-partner-award/"
+  }
+}

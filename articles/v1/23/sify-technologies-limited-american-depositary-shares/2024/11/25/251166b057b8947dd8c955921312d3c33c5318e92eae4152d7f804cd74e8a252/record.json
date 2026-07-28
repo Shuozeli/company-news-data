@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "251166b057b8947dd8c955921312d3c33c5318e92eae4152d7f804cd74e8a252",
+  "company": {
+    "key": "sify-technologies-limited-american-depositary-shares",
+    "name": "Sify Technologies Limited American Depositary Shares"
+  },
+  "source": {
+    "id": "sify-technologies-limited-american-depositary-shares-news-import-bab607e5b90e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sifytechnologies.com/europe/news/sify-technologies-announces-the-launch-of-gpu-cloud-sify-cloudinfinitai/",
+    "canonical": "http://www.sifytechnologies.com/europe/news/sify-technologies-announces-the-launch-of-gpu-cloud-sify-cloudinfinitai/"
+  },
+  "title": "Sify announces th elaunch of GPU Cloud Sify CloudInfinit +AI",
+  "summary": "Sify CloudInfinit+AI: GPU-as-a-Service for AI and data workloads. Scalable, cost-effective, with hybrid cloud support and low-latency interconnects",
+  "published_at": "2024-11-04T11:41:06+00:00",
+  "first_seen_at": "2026-07-26T19:43:29.872714+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-07-28T22:02:30.153817+00:00",
+  "paths": {
+    "article": "articles/v1/23/sify-technologies-limited-american-depositary-shares/2024/11/25/251166b057b8947dd8c955921312d3c33c5318e92eae4152d7f804cd74e8a252/article.md",
+    "record": "articles/v1/23/sify-technologies-limited-american-depositary-shares/2024/11/25/251166b057b8947dd8c955921312d3c33c5318e92eae4152d7f804cd74e8a252/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5516,
+    "sha256": "sha256:408b21886216aa81856bcf9f86717d57d46ba6d8fbadcc6796dc660fa41aefa9",
+    "normalized_content_hash": "sha256:9d8fc3c2288b4f01e160650b2ba497f3c85f166d7246511a74fd4687264dfab2"
+  },
+  "provenance": {
+    "source_item_id": "8a90531c-17a7-426f-93d5-062f9f35abf6",
+    "external_id": "http://www.sifytechnologies.com/europe/news/sify-technologies-announces-the-launch-of-gpu-cloud-sify-cloudinfinitai/"
+  }
+}

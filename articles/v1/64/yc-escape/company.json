@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-escape",
+    "name": "Escape"
+  },
+  "record_count": 18,
+  "first_published_at": "2026-04-30T11:31:44+00:00",
+  "last_published_at": "2026-07-24T12:00:26+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    }
+  ]
+}

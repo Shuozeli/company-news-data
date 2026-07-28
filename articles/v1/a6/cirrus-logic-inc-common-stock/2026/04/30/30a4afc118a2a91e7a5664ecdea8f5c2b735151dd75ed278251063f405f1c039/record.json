@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "30a4afc118a2a91e7a5664ecdea8f5c2b735151dd75ed278251063f405f1c039",
+  "company": {
+    "key": "cirrus-logic-inc-common-stock",
+    "name": "Cirrus Logic Inc. Common Stock"
+  },
+  "source": {
+    "id": "cirrus-logic-inc-common-stock-news-import-2267740f74eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cirrus.com/company/media-center/releases/2026/cirrus-logic-introduces-new-industrial-imaging-products-for-high-precision-scan-applications",
+    "canonical": "https://www.cirrus.com/company/media-center/releases/2026/cirrus-logic-introduces-new-industrial-imaging-products-for-high-precision-scan-applications"
+  },
+  "title": "Cirrus Logic Introduces New Industrial Imaging Products for High-Precision Scan Applications",
+  "summary": "",
+  "published_at": "2026-04-16T06:01:00+00:00",
+  "first_seen_at": "2026-07-27T00:50:02.818872+00:00",
+  "fetched_at": "2026-07-28T01:36:08.593579+00:00",
+  "last_updated_at": "2026-07-28T01:36:12.448871+00:00",
+  "paths": {
+    "article": "articles/v1/a6/cirrus-logic-inc-common-stock/2026/04/30/30a4afc118a2a91e7a5664ecdea8f5c2b735151dd75ed278251063f405f1c039/article.md",
+    "record": "articles/v1/a6/cirrus-logic-inc-common-stock/2026/04/30/30a4afc118a2a91e7a5664ecdea8f5c2b735151dd75ed278251063f405f1c039/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4928,
+    "sha256": "sha256:ea726421f4301cfeee6209047ac8921f70106216e916b9cafef27c94fb3472a3",
+    "normalized_content_hash": "sha256:9e8558d64a60c2260ffb42def220d613153d22f01d7a2fc82b74af0a7caa862b"
+  },
+  "provenance": {
+    "source_item_id": "8384116c-99e7-400c-9a3f-46bb3f939a3c",
+    "external_id": "https://www.cirrus.com/company/media-center/releases/2026/cirrus-logic-introduces-new-industrial-imaging-products-for-high-precision-scan-applications"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "69eda152ec2deafafe042a96b441395ccfa889dd2d80bf69d406128ee060e0f9",
+  "company": {
+    "key": "yc-mixpanel",
+    "name": "Mixpanel"
+  },
+  "source": {
+    "id": "yc-mixpanel-rss-ee9e8862ebc7",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://community.mixpanel.com/x/announcements/b8g67cus2a18/mixpanel-mcp-server-beta-now-supports-chatgpt-and",
+    "canonical": "https://community.mixpanel.com/x/announcements/b8g67cus2a18/mixpanel-mcp-server-beta-now-supports-chatgpt-and"
+  },
+  "title": "Mixpanel MCP Server Beta Now Supports ChatGPT and Gemini!",
+  "summary": "Exciting Update... Mixpanel MCP Server beta now also supports ChatGPT and Gemini 🎉 | @everyone Ready to get started? Check out the help docs with the step-by-step instructions for ChatGPT (https://docs.mixpanel.com/docs/features/mcp#option-5-chatgpt-openai) and Gemini (https://docs.mixpanel.com/docs/features/mcp#option-4-google-gemini-cli). This beta is available to all projects based in US data center; we're working to expand this to EU and IN! Here are some resources to learn more & get started: • Implementation Docs (https://docs.mixpanel.com/docs/features/mcp#overview) (reminder: Organization admins must enable the beta feature first in Settings > Org > Overview) • Mixpanel MCP Server blog (https://mixpanel.com/blog/mixpanel-mcp-server/) And as always, we want to hear from you! Share your feedback with the team directly via the form on the docs (https://docs.mixpanel.com/docs/features/mcp#overview).",
+  "published_at": "2025-11-13T16:43:44+00:00",
+  "first_seen_at": "2026-07-24T11:24:44.102319+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-07-28T21:59:12.729162+00:00",
+  "paths": {
+    "article": "articles/v1/31/yc-mixpanel/2025/11/69/69eda152ec2deafafe042a96b441395ccfa889dd2d80bf69d406128ee060e0f9/article.md",
+    "record": "articles/v1/31/yc-mixpanel/2025/11/69/69eda152ec2deafafe042a96b441395ccfa889dd2d80bf69d406128ee060e0f9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4274,
+    "sha256": "sha256:57c8db81e79c24adac9aa1d7b47226ed7b0613e278c13625a884a9f1a7295eff",
+    "normalized_content_hash": "sha256:60a2c4b63a1324ee48023e7818e62601cf4f3ad7353304a160fba5ea90187cd5"
+  },
+  "provenance": {
+    "source_item_id": "fd94bfd9-df09-42a7-bb0e-5cdba523d851",
+    "external_id": "https://community.mixpanel.com/x/announcements/b8g67cus2a18"
+  }
+}

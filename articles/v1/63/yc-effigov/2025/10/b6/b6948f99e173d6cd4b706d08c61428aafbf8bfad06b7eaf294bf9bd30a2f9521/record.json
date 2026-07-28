@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6948f99e173d6cd4b706d08c61428aafbf8bfad06b7eaf294bf9bd30a2f9521",
+  "company": {
+    "key": "yc-effigov",
+    "name": "EffiGov"
+  },
+  "source": {
+    "id": "yc-effigov-news-import-01fd491e0348",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.effigov.com/news/sumter-county-launch",
+    "canonical": "https://www.effigov.com/news/sumter-county-launch"
+  },
+  "title": "EffiGov Launches 24/7 Voice AI in Sumter County, Florida",
+  "summary": "EffiGov announces its technology is now live in Sumter County, Florida, giving residents around-the-clock access to accurate information and faster service.",
+  "published_at": "2025-10-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:46:42.096615+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-07-28T22:00:15.921618+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-effigov/2025/10/b6/b6948f99e173d6cd4b706d08c61428aafbf8bfad06b7eaf294bf9bd30a2f9521/article.md",
+    "record": "articles/v1/63/yc-effigov/2025/10/b6/b6948f99e173d6cd4b706d08c61428aafbf8bfad06b7eaf294bf9bd30a2f9521/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3226,
+    "sha256": "sha256:5972db416a9ee0ea76dcc789ba80570cebb22140b70e915259c3c08ce911d37c",
+    "normalized_content_hash": "sha256:085d1386102004988de1990578514d915af7f50f729ae6124297f0533670a9cc"
+  },
+  "provenance": {
+    "source_item_id": "e3a5c862-0d0c-490a-b561-75410c2b1175",
+    "external_id": "https://www.effigov.com/news/sumter-county-launch"
+  }
+}

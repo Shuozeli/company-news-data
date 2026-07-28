@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2cc58d4fafd8ef10d13b11a65827dd6edaf061709d5d05df197c24ba394311d8",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-rss-c0df8d7be67f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/store-twilio-credentials-replit-secrets",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/store-twilio-credentials-replit-secrets"
+  },
+  "title": "How to Store Twilio Credentials Securely in Replit",
+  "summary": "Learn how to properly store your Twilio credentials on Replit using Replit Secrets, then build the communications app of your dreams.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T11:49:26.548892+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-07-28T21:11:14.683054+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/2c/2cc58d4fafd8ef10d13b11a65827dd6edaf061709d5d05df197c24ba394311d8/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/2c/2cc58d4fafd8ef10d13b11a65827dd6edaf061709d5d05df197c24ba394311d8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8211,
+    "sha256": "sha256:4e840bc98f680d517d72e14040068a3b69d560d554d26e9aae1268d6c44ad292",
+    "normalized_content_hash": "sha256:59ab864600d7d4271b2b0a1299d0f0fccb654a28206c33fe11c3e90d3bb8c54d"
+  },
+  "provenance": {
+    "source_item_id": "0a60f7fb-f076-46c1-8ef2-bb09c98a6cf1",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/store-twilio-credentials-replit-secrets"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f8d22793db5541f91d64304e8aaa4a4360700e1faed4eed9f9aed3be363dab1",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-8892e125c773",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nullstone.io/blog-posts/terraform-self-service",
+    "canonical": "https://nullstone.io/blog-posts/terraform-self-service"
+  },
+  "title": "Curation is vital for Terraform self-service",
+  "summary": "Terraform is a powerful mechanism for developer self-service. In this article, we'll highlight a strategy for curating Terraform modules.",
+  "published_at": "2023-03-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:17:35.365256+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:41.474434+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2023/03/3f/3f8d22793db5541f91d64304e8aaa4a4360700e1faed4eed9f9aed3be363dab1/article.md",
+    "record": "articles/v1/da/yc-nullstone/2023/03/3f/3f8d22793db5541f91d64304e8aaa4a4360700e1faed4eed9f9aed3be363dab1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9174,
+    "sha256": "sha256:9b0610967928474082a74bd87b0951f0f0d1ac6b55a97434969bffe1901da642",
+    "normalized_content_hash": "sha256:03040991eba1e50b0e495e49433c06402de12305cbb5021832678ab84232f6b1"
+  },
+  "provenance": {
+    "source_item_id": "967df0eb-6d40-4a6f-ae8f-1a0a287d63c3",
+    "external_id": "https://nullstone.io/blog-posts/terraform-self-service"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "tscan-therapeutics-inc-common-stock",
+    "name": "TScan Therapeutics Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-12-06T22:30:49+00:00",
+  "last_published_at": "2026-06-24T11:00:50+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    }
+  ]
+}

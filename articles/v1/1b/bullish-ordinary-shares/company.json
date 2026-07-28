@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bullish-ordinary-shares",
+    "name": "Bullish Ordinary Shares"
+  },
+  "record_count": 6,
+  "first_published_at": "2024-12-06T14:10:31+00:00",
+  "last_published_at": "2025-06-23T08:26:03+00:00",
+  "partitions": [
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 3
+    }
+  ]
+}

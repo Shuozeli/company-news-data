@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6ba97ac8d451f1ea7076e982ac6e7c211eb1cb55c30c3c7f3b9e70e1fe405f5",
+  "company": {
+    "key": "edison-international-common-stock",
+    "name": "Edison International Common Stock"
+  },
+  "source": {
+    "id": "edison-international-common-stock-rss-1315327e8509",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://energized.edison.com/stories/how-to-stay-safe-during-high-heat",
+    "canonical": "http://energized.edison.com/stories/how-to-stay-safe-during-high-heat"
+  },
+  "title": "How to Stay Safe During High Heat",
+  "summary": "Summers in California really know how to bring the heat — and as temperatures climb, so does energy use. That combination can place added stress on the electric grid, which may ...",
+  "published_at": "2026-07-22T16:29:00+00:00",
+  "first_seen_at": "2026-07-22T16:55:34.995028+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-07-28T20:36:45.601143+00:00",
+  "paths": {
+    "article": "articles/v1/3a/edison-international-common-stock/2026/07/b6/b6ba97ac8d451f1ea7076e982ac6e7c211eb1cb55c30c3c7f3b9e70e1fe405f5/article.md",
+    "record": "articles/v1/3a/edison-international-common-stock/2026/07/b6/b6ba97ac8d451f1ea7076e982ac6e7c211eb1cb55c30c3c7f3b9e70e1fe405f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1477,
+    "sha256": "sha256:0cca03f252060eb47e396825302297aba7712c6e8337d901c1856fffeed9047e",
+    "normalized_content_hash": "sha256:50acf105c9855d52d159aa587bc6b43a69f3bb5cb427d215634b0cceb7f9f28e"
+  },
+  "provenance": {
+    "source_item_id": "bf911d35-b039-419c-a047-45545bb81eb2",
+    "external_id": "http://energized.edison.com/stories/how-to-stay-safe-during-high-heat"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "422ece81ee234389f848f913349cb8ee8502e21f7e9ebbf5c857a920d6cff815",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-rss-c48c6d88eecb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://sift.com/blog/igaming-fraud-prevention/",
+    "canonical": "https://sift.com/blog/igaming-fraud-prevention/"
+  },
+  "title": "iGaming Fraud Prevention: Protecting Player Accounts, Revenue, And Platform Integrity",
+  "summary": "Learn about iGaming fraud prevention, including preventing against account takeover, bonus abuse, multi-accounting, and payment fraud.",
+  "published_at": "2026-07-20T18:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.644571+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-07-28T20:36:54.057048+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2026/07/42/422ece81ee234389f848f913349cb8ee8502e21f7e9ebbf5c857a920d6cff815/article.md",
+    "record": "articles/v1/fe/yc-sift/2026/07/42/422ece81ee234389f848f913349cb8ee8502e21f7e9ebbf5c857a920d6cff815/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8962,
+    "sha256": "sha256:e723e68cd39b6de8f3a349837d3481a6c572e0e69fa5c2bf15ebc3b4b8d54a2f",
+    "normalized_content_hash": "sha256:6df69fc387609a2db49f12072deb8bf469fadc38d960ae509946991a2520712e"
+  },
+  "provenance": {
+    "source_item_id": "43919162-b7ef-426a-8b5f-064ea8b457c3",
+    "external_id": "9c1686e7a1fda37ec353ff4ac704c427"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "89dacf294857fc1f222eee5b16f64bb21ad67e0c1fd12979a592d62059f9eed0",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/sift-engineering-holds-spring-hackathon/",
+    "canonical": "https://engineering.sift.com/sift-engineering-holds-spring-hackathon/"
+  },
+  "title": "Sift Engineering Holds Spring Hackathon",
+  "summary": "This spring, Sift Science Engineering completed another one-week hackathon. Sift has a long tradition of hackathons and many hackathon projects have turned into successful products, such as our Account Takeover product and our use of Deep Learning. The rules of Hackathon are simple — you must do something that is somehow beneficial to the company, […]",
+  "published_at": "2018-06-11T16:53:31+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.614005+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2018/06/89/89dacf294857fc1f222eee5b16f64bb21ad67e0c1fd12979a592d62059f9eed0/article.md",
+    "record": "articles/v1/fe/yc-sift/2018/06/89/89dacf294857fc1f222eee5b16f64bb21ad67e0c1fd12979a592d62059f9eed0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8343,
+    "sha256": "sha256:e1349b5050a24b7a294d9a8018e10528d19c6661f7f2759e162b0aa512a77610",
+    "normalized_content_hash": "sha256:fa577243276fdde6d3db41b02770a5f6739322aaf70d1380efe93108f0100c83"
+  },
+  "provenance": {
+    "source_item_id": "b14fa77f-6ed3-4f59-86ec-c9f04c7e7b59",
+    "external_id": "https://engineering.sift.com/sift-engineering-holds-spring-hackathon/"
+  }
+}

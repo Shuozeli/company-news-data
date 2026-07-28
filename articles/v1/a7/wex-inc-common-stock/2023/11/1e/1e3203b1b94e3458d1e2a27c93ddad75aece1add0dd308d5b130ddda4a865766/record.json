@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e3203b1b94e3458d1e2a27c93ddad75aece1add0dd308d5b130ddda4a865766",
+  "company": {
+    "key": "wex-inc-common-stock",
+    "name": "WEX Inc. common stock"
+  },
+  "source": {
+    "id": "wex-inc-common-stock-news-import-e9a8fcb661d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wexinc.com/resources/blog/trucking-management/",
+    "canonical": "https://www.wexinc.com/resources/blog/trucking-management/"
+  },
+  "title": "Trucking management",
+  "summary": "Read how to build greater savings, security, and control into your trucking fleet operations, from fueling, maintenance, data generation, and analysis.",
+  "published_at": "2023-11-02T17:00:57+00:00",
+  "first_seen_at": "2026-07-24T08:00:13.062892+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:11.158234+00:00",
+  "paths": {
+    "article": "articles/v1/a7/wex-inc-common-stock/2023/11/1e/1e3203b1b94e3458d1e2a27c93ddad75aece1add0dd308d5b130ddda4a865766/article.md",
+    "record": "articles/v1/a7/wex-inc-common-stock/2023/11/1e/1e3203b1b94e3458d1e2a27c93ddad75aece1add0dd308d5b130ddda4a865766/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1105,
+    "sha256": "sha256:e8bb54b49290ae8a1dc442ade1b458d1ec6f4136c08457a8431484dbdce6506e",
+    "normalized_content_hash": "sha256:821a99fcfd09cb14759a8fdfb26260376695d27e1f662ad5feb5d76e3f26169f"
+  },
+  "provenance": {
+    "source_item_id": "0b873e7e-48da-4f9a-98c3-5761713fee61",
+    "external_id": "https://www.wexinc.com/resources/blog/trucking-management/"
+  }
+}

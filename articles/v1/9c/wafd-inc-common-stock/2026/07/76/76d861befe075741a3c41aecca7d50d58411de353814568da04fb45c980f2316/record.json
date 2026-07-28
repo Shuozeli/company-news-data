@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "76d861befe075741a3c41aecca7d50d58411de353814568da04fb45c980f2316",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/about-us/investor-relations/leadership-board",
+    "canonical": "https://www.wafdbank.com/about-us/investor-relations/leadership-board"
+  },
+  "title": "WaFd Bank Leadership Team",
+  "summary": "Meet the WaFd Bank leadership team - Our executives are dedicated to developing the right financial tools to improve your financial fitness.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T23:37:32.572003+00:00",
+  "fetched_at": "2026-07-23T23:41:23.694465+00:00",
+  "last_updated_at": "2026-07-23T23:41:25.906157+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/76/76d861befe075741a3c41aecca7d50d58411de353814568da04fb45c980f2316/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/76/76d861befe075741a3c41aecca7d50d58411de353814568da04fb45c980f2316/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7802,
+    "sha256": "sha256:9c3000343f53d01208147aa1fc5a4c9499c47c4919ac03a88e5eacfc5e216eb0",
+    "normalized_content_hash": "sha256:e71dcdd5fea964c529a343270bff18dd03f9dce148393800dc6f6cc54eff6a12"
+  },
+  "provenance": {
+    "source_item_id": "f89b3cec-24d6-4285-a427-16054d606f0f",
+    "external_id": "https://www.wafdbank.com/about-us/investor-relations/leadership-board"
+  }
+}

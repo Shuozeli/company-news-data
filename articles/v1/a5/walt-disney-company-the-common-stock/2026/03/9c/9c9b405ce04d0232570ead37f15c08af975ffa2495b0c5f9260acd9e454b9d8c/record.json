@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c9b405ce04d0232570ead37f15c08af975ffa2495b0c5f9260acd9e454b9d8c",
+  "company": {
+    "key": "walt-disney-company-the-common-stock",
+    "name": "Walt Disney Company (The) Common Stock"
+  },
+  "source": {
+    "id": "walt-disney-company-the-common-stock-rss-02ac5936ee88",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://thewaltdisneycompany.com/news/espn-sports-emmy-nominations-2026/",
+    "canonical": "https://thewaltdisneycompany.com/news/espn-sports-emmy-nominations-2026/"
+  },
+  "title": "ESPN Earns Industry-Leading 63 Sports Emmy® Nominations",
+  "summary": "'College GameDay,' 'E60,' 'Monday Night Football,' 'NBA Today,' 'NFL LIVE,' 'The Pat McAfee Show,' and 'SportsCenter' receive multiple nods.",
+  "published_at": "2026-03-25T19:50:03+00:00",
+  "first_seen_at": "2026-07-20T04:35:48.821564+00:00",
+  "fetched_at": "2026-07-28T22:17:49.677260+00:00",
+  "last_updated_at": "2026-07-28T22:18:44.991118+00:00",
+  "paths": {
+    "article": "articles/v1/a5/walt-disney-company-the-common-stock/2026/03/9c/9c9b405ce04d0232570ead37f15c08af975ffa2495b0c5f9260acd9e454b9d8c/article.md",
+    "record": "articles/v1/a5/walt-disney-company-the-common-stock/2026/03/9c/9c9b405ce04d0232570ead37f15c08af975ffa2495b0c5f9260acd9e454b9d8c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5602,
+    "sha256": "sha256:95cbdd5932d5bcc0ac76ae9a789cc3c9c103a23fe76952b4484a58a9dbabc8da",
+    "normalized_content_hash": "sha256:fadf11b593910795c711f3269d84091e56d1532b78058884c73c45c413baac18"
+  },
+  "provenance": {
+    "source_item_id": "81ee7627-ea8b-43a8-a634-b717c9fa7a89",
+    "external_id": "https://thewaltdisneycompany.com/?p=48233&post_type=news"
+  }
+}

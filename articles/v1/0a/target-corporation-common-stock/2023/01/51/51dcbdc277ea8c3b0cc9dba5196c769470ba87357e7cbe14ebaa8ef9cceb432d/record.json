@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "51dcbdc277ea8c3b0cc9dba5196c769470ba87357e7cbe14ebaa8ef9cceb432d",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation Common Stock"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/friday-five-kaylee-edwards",
+    "canonical": "https://tech.target.com/blog/friday-five-kaylee-edwards"
+  },
+  "title": "“Friday Five” Featuring Kaylee Edwards, Senior Engineer – Agile and Engineering Enablement",
+  "summary": "An article by Tech @ Target : Profile of Target Senior Engineer Kaylee Edwards",
+  "published_at": "2023-01-13T06:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-07-28T21:03:11.487012+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2023/01/51/51dcbdc277ea8c3b0cc9dba5196c769470ba87357e7cbe14ebaa8ef9cceb432d/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2023/01/51/51dcbdc277ea8c3b0cc9dba5196c769470ba87357e7cbe14ebaa8ef9cceb432d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6584,
+    "sha256": "sha256:1c62ce8858327e9574851d58f7c18a321c125278406135312460b0af3a0d2001",
+    "normalized_content_hash": "sha256:8d01b8fdde450bac2e85aab95cc38458f09f0b786750eddfd6793d6a586cf027"
+  },
+  "provenance": {
+    "source_item_id": "600dc495-c7a3-4269-b734-c06b8a3f0c17",
+    "external_id": "BLOG-10042"
+  }
+}

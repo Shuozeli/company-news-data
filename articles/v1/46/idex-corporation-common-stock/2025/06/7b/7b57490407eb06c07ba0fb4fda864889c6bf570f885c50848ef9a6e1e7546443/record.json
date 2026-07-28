@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b57490407eb06c07ba0fb4fda864889c6bf570f885c50848ef9a6e1e7546443",
+  "company": {
+    "key": "idex-corporation-common-stock",
+    "name": "IDEX Corporation Common Stock"
+  },
+  "source": {
+    "id": "idex-corporation-common-stock-news-import-f4b544a094be",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://idexcorp.com/news/news-item/ihs-employees-support-summit-assistance-dogs-canine-condo-grand-opening/",
+    "canonical": "https://idexcorp.com/news/news-item/ihs-employees-support-summit-assistance-dogs-canine-condo-grand-opening/"
+  },
+  "title": "IH&S Employees Support Summit Assistance Dogs Canine Condo Grand Opening",
+  "summary": "It was all paws on deck at Summit Assistance Dogs this week for Health & Science employees in Oak Harbor, Washington, U.S.A. The Oak Harbor team rolled up their sleeves to help prepare for the grand opening of the brand-new Canine Condo! Here’s what they accomplished: • Cleaned 150 windows• Vacuumed & mopped 4,800 sq ft of […]",
+  "published_at": "2025-06-27T19:38:59+00:00",
+  "first_seen_at": "2026-07-25T09:02:34.151857+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-07-28T22:03:08.778875+00:00",
+  "paths": {
+    "article": "articles/v1/46/idex-corporation-common-stock/2025/06/7b/7b57490407eb06c07ba0fb4fda864889c6bf570f885c50848ef9a6e1e7546443/article.md",
+    "record": "articles/v1/46/idex-corporation-common-stock/2025/06/7b/7b57490407eb06c07ba0fb4fda864889c6bf570f885c50848ef9a6e1e7546443/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2039,
+    "sha256": "sha256:a86c47577d292799461789eca66f27cb0814eae4c5e90b406fe7fcf26ca9f508",
+    "normalized_content_hash": "sha256:bc35ca55e395b0f146de9c9ed74e770e842b4ad094f80cff750e8cf5098eae53"
+  },
+  "provenance": {
+    "source_item_id": "bc5bbb73-bd60-4b11-8373-a07f9416550c",
+    "external_id": "https://idexcorp.com/news/news-item/ihs-employees-support-summit-assistance-dogs-canine-condo-grand-opening/"
+  }
+}

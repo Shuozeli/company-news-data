@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-nomba",
+    "name": "Nomba"
+  },
+  "record_count": 10,
+  "first_published_at": "2021-06-08T07:14:10+00:00",
+  "last_published_at": "2021-06-08T07:33:06+00:00",
+  "partitions": [
+    {
+      "partition": "2021-06",
+      "record_count": 10
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "90bad25c2fcd03ee1b5f7fdb73bb61f5b3c00f8849f8c4ced67056ba9764f299",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/introducing-the-demodesk-mcp",
+    "canonical": "https://demodesk.com/blog/introducing-the-demodesk-mcp"
+  },
+  "title": "Introducing the Demodesk MCP: Your Sales Conversations, Inside Any AI Tool",
+  "summary": "Demodesk launches its MCP server. Claude, Cursor, Codex, and any MCP client can query your Demodesk meetings, transcripts, summaries, and scorecards directly.",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:43:32.355791+00:00",
+  "last_updated_at": "2026-07-28T21:44:13.458414+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/05/90/90bad25c2fcd03ee1b5f7fdb73bb61f5b3c00f8849f8c4ced67056ba9764f299/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/05/90/90bad25c2fcd03ee1b5f7fdb73bb61f5b3c00f8849f8c4ced67056ba9764f299/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10638,
+    "sha256": "sha256:b05849d3d71eb59d56fc249c507eff0f22b25aea7f4627ab2de792c35e9c6ec5",
+    "normalized_content_hash": "sha256:ee8ccadcec6de5ffc00413552e02b340ca41c859a0e883b5d4865ba0d82742b9"
+  },
+  "provenance": {
+    "source_item_id": "8cbeac99-72db-4304-bf3b-554602521766",
+    "external_id": "https://demodesk.com/blog/introducing-the-demodesk-mcp"
+  }
+}

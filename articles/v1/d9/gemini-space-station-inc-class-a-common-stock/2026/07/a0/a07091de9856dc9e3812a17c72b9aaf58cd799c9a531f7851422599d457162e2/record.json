@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a07091de9856dc9e3812a17c72b9aaf58cd799c9a531f7851422599d457162e2",
+  "company": {
+    "key": "gemini-space-station-inc-class-a-common-stock",
+    "name": "Gemini Space Station Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "gemini-space-station-inc-class-a-common-stock-news-import-1c1a410de1c5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gemini.com/blog/protecting-your-crypto-portfolio-in-the-new-year",
+    "canonical": "https://www.gemini.com/blog/protecting-your-crypto-portfolio-in-the-new-year"
+  },
+  "title": "Protecting Your Crypto Portfolio",
+  "summary": "It’s important to be aware of online scams. Here are some examples and how to avoid them",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T09:23:23.790099+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-07-28T21:20:49.891869+00:00",
+  "paths": {
+    "article": "articles/v1/d9/gemini-space-station-inc-class-a-common-stock/2026/07/a0/a07091de9856dc9e3812a17c72b9aaf58cd799c9a531f7851422599d457162e2/article.md",
+    "record": "articles/v1/d9/gemini-space-station-inc-class-a-common-stock/2026/07/a0/a07091de9856dc9e3812a17c72b9aaf58cd799c9a531f7851422599d457162e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10666,
+    "sha256": "sha256:63712afdabb63074192195d5f676492a4306be9344bf60708d9c4147316948f3",
+    "normalized_content_hash": "sha256:e9ff5a859517584b6442758895a3127f1801b8a1cc9452ef559a98e9d53d5e44"
+  },
+  "provenance": {
+    "source_item_id": "2c0af96e-628f-4a07-82b3-099d76486bd1",
+    "external_id": "https://www.gemini.com/blog/protecting-your-crypto-portfolio-in-the-new-year"
+  }
+}

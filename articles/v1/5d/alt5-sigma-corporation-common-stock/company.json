@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "alt5-sigma-corporation-common-stock",
+    "name": "ALT5 Sigma Corporation Common Stock"
+  },
+  "record_count": 4,
+  "first_published_at": "2025-05-19T04:55:53.299+00:00",
+  "last_published_at": "2025-11-21T16:38:04.168+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aa43aa5dd8f1b55337aa3f1c294c4c707b8a0b52da84410713423cc357ceab37",
+  "company": {
+    "key": "newjersey-resources-corporation-common-stock",
+    "name": "NewJersey Resources Corporation Common Stock"
+  },
+  "source": {
+    "id": "newjersey-resources-corporation-common-stock-rss-0621901fb3ca",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://www.njresources.com/news/releases/2025/njr/NJR_Reports_Fiscal_2025_Third_Quarter_Financial_Results.pdf",
+    "canonical": "http://www.njresources.com/news/releases/2025/njr/NJR_Reports_Fiscal_2025_Third_Quarter_Financial_Results.pdf"
+  },
+  "title": "NEW JERSEY RESOURCES REPORTS FISCAL 2025 THIRD-QUARTER RESULTS",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-20T04:36:48.376567+00:00",
+  "fetched_at": "2026-07-24T18:24:48.855580+00:00",
+  "last_updated_at": "2026-07-24T18:24:48.866726+00:00",
+  "paths": {
+    "article": "articles/v1/6e/newjersey-resources-corporation-common-stock/2026/07/aa/aa43aa5dd8f1b55337aa3f1c294c4c707b8a0b52da84410713423cc357ceab37/article.md",
+    "record": "articles/v1/6e/newjersey-resources-corporation-common-stock/2026/07/aa/aa43aa5dd8f1b55337aa3f1c294c4c707b8a0b52da84410713423cc357ceab37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 702,
+    "sha256": "sha256:e987082c215a2afbd65a49d9c955a0b06ea79b87c6a0964dc42915c71a458402",
+    "normalized_content_hash": "sha256:335374942fc1dc15c67e47a3e6f3433400daf207091d45a5326222d7f8cb9c76"
+  },
+  "provenance": {
+    "source_item_id": "efba24b3-a84c-4c54-804e-e63a3edeb867",
+    "external_id": "e8053aec14cdbd9ae9982f8307945ece"
+  }
+}

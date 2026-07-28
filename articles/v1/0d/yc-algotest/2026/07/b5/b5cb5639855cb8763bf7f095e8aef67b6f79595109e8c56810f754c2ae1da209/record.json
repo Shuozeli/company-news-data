@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b5cb5639855cb8763bf7f095e8aef67b6f79595109e8c56810f754c2ae1da209",
+  "company": {
+    "key": "yc-algotest",
+    "name": "AlgoTest"
+  },
+  "source": {
+    "id": "yc-algotest-news-import-7cc502b412f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://algotest.in/blog/how-to-backtest-algo-trading-strategies/",
+    "canonical": "https://algotest.in/blog/how-to-backtest-algo-trading-strategies/"
+  },
+  "title": "How to Backtest Algo Trading Strategies: Intraday, BTST, Positional & More (Step-by-Step)",
+  "summary": "Learn how to backtest algo trading strategies — Intraday, BTST, Positional, and more — with a step-by-step AlgoTest walkthrough and the principles behind a trustworthy backtest.",
+  "published_at": "2026-07-13T10:37:45+00:00",
+  "first_seen_at": "2026-07-25T00:56:57.418756+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:32.672374+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-algotest/2026/07/b5/b5cb5639855cb8763bf7f095e8aef67b6f79595109e8c56810f754c2ae1da209/article.md",
+    "record": "articles/v1/0d/yc-algotest/2026/07/b5/b5cb5639855cb8763bf7f095e8aef67b6f79595109e8c56810f754c2ae1da209/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16241,
+    "sha256": "sha256:de0f7697b8ab434c0ad7f4e734367b4c19ce24b595274c2b7da96dca05fbf403",
+    "normalized_content_hash": "sha256:2d210dc4d1776620a8dc1bc79e8ba7adffff97d83b5cae28ee843b7661d46dee"
+  },
+  "provenance": {
+    "source_item_id": "74a9be3c-184a-4077-b4a2-52ee6c6edbb8",
+    "external_id": "https://algotest.in/blog/how-to-backtest-algo-trading-strategies/"
+  }
+}

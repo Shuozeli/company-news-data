@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "36874e7d34c3fc471bc3340b30ee41acf579a801bf32f6ad5e5a9bfb7b074dea",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/engineeing-management-effective-design-reviews/",
+    "canonical": "https://engineering.sift.com/engineeing-management-effective-design-reviews/"
+  },
+  "title": "Engineering Management – Effective Design Reviews",
+  "summary": "Engineering Management Series The past few years have been a time of incredible growth at Sift and there is no sign that we are slowing down. To continue delighting our ever growing list of customers, we’ll be scaling our engineering team in San Francisco and across multiple other offices at a faster pace than ever. […]",
+  "published_at": "2018-05-31T21:34:58+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.510666+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2018/05/36/36874e7d34c3fc471bc3340b30ee41acf579a801bf32f6ad5e5a9bfb7b074dea/article.md",
+    "record": "articles/v1/fe/yc-sift/2018/05/36/36874e7d34c3fc471bc3340b30ee41acf579a801bf32f6ad5e5a9bfb7b074dea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9621,
+    "sha256": "sha256:cd46ff00f2d2bf6e49c362f498cd22b3c8e677b2127409f08d304c6e12b399e4",
+    "normalized_content_hash": "sha256:7f5ca8acd30573bbe91b2e208504a8153b61cbf15725ca9da930e1813257dbf9"
+  },
+  "provenance": {
+    "source_item_id": "e4676850-cbc2-4c34-b224-1459c0f582cb",
+    "external_id": "https://engineering.sift.com/engineeing-management-effective-design-reviews/"
+  }
+}

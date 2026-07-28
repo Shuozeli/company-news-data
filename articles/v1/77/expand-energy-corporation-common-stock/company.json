@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "expand-energy-corporation-common-stock",
+    "name": "Expand Energy Corporation Common Stock"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-05-21T21:46:26+00:00",
+  "last_published_at": "2026-07-28T20:03:02+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    }
+  ]
+}

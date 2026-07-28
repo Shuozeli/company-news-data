@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc. Common Stock"
+  },
+  "record_count": 25,
+  "first_published_at": "2026-01-15T00:00:00+00:00",
+  "last_published_at": "2026-07-22T19:15:13+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    }
+  ]
+}

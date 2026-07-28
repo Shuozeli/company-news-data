@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "gyre-therapeutics-inc-common-stock",
+    "name": "Gyre Therapeutics Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-10-15T11:00:37+00:00",
+  "last_published_at": "2026-07-16T20:05:32+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

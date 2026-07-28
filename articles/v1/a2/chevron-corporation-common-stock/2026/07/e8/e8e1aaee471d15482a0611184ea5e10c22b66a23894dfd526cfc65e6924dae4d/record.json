@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8e1aaee471d15482a0611184ea5e10c22b66a23894dfd526cfc65e6924dae4d",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2026/q3/explainer-how-chemistry-is-helping-unlock-more-oil-from-one-of-chevrons-biggest-assets",
+    "canonical": "https://www.chevron.com/newsroom/2026/q3/explainer-how-chemistry-is-helping-unlock-more-oil-from-one-of-chevrons-biggest-assets"
+  },
+  "title": "Explainer: How chemistry is helping unlock more oil from one of our biggest assets",
+  "summary": "Advanced chemical technology is improving how oil flows in tight formations, helping energy companies get more oil from existing resources.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2026/07/e8/e8e1aaee471d15482a0611184ea5e10c22b66a23894dfd526cfc65e6924dae4d/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2026/07/e8/e8e1aaee471d15482a0611184ea5e10c22b66a23894dfd526cfc65e6924dae4d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1452,
+    "sha256": "sha256:6b3c095bb402755b66e593f840c56af2a43a9670dfc8043a24cb7750a408a63f",
+    "normalized_content_hash": "sha256:296ada66573d0e7a97412609fad95e1eb79c30f1a16c2f78ca68410d3aadb261"
+  },
+  "provenance": {
+    "source_item_id": "7fa9beab-f7ad-4dd8-8299-d7d886aaa9fe",
+    "external_id": "https://www.chevron.com/newsroom/2026/q3/explainer-how-chemistry-is-helping-unlock-more-oil-from-one-of-chevrons-biggest-assets"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "56588a65eb97e1143284756e8f82da5f9003bb7fca3f97813d50481f7d8036be",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/hacking-on-the-argo-workflow-of-workflows-pattern",
+    "canonical": "https://homepage.pipekit.io/blog/hacking-on-the-argo-workflow-of-workflows-pattern"
+  },
+  "title": "Hacking on the Argo Workflow-of-Workflows Pattern",
+  "summary": "Using some newer features of Argo Workflows to make workflows-of-workflows nicer to use",
+  "published_at": "2025-07-16T19:48:26+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:56:43.889340+00:00",
+  "last_updated_at": "2026-07-28T20:57:29.697795+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2025/07/56/56588a65eb97e1143284756e8f82da5f9003bb7fca3f97813d50481f7d8036be/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2025/07/56/56588a65eb97e1143284756e8f82da5f9003bb7fca3f97813d50481f7d8036be/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3617,
+    "sha256": "sha256:9da25e8d55097d726ab19d90df9b30c96b9d1dc635eaf88701f3edae8271b3ec",
+    "normalized_content_hash": "sha256:62e58454756b4b2da6377867ba1e35f3b4830a9740ffa72386da49e44431ee9d"
+  },
+  "provenance": {
+    "source_item_id": "f7f8f3f5-f4f0-4e67-8dc6-5e7bbf8404c5",
+    "external_id": "https://homepage.pipekit.io/blog/hacking-on-the-argo-workflow-of-workflows-pattern"
+  }
+}

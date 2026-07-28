@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d1c4d8d442e09621642f06de4db7e12ca41aabef8c83206a1d4eaa893dc9da35",
+  "company": {
+    "key": "amkor-technology-inc-common-stock",
+    "name": "Amkor Technology Inc. Common Stock"
+  },
+  "source": {
+    "id": "amkor-technology-inc-common-stock-news-import-c3e4c050930c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amkor.com/blog/west-mec-students-amkor-high-tech-careers/",
+    "canonical": "https://amkor.com/blog/west-mec-students-amkor-high-tech-careers/"
+  },
+  "title": "Building Semiconductor Talent Pipeline with West-MEC Students",
+  "summary": "Amkor builds ATA talent pipeline through West-MEC Advanced Manufacturing program, fostering future semiconductor professionals in Arizona.",
+  "published_at": "2025-12-04T21:06:30+00:00",
+  "first_seen_at": "2026-07-24T16:34:56.885040+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-07-28T21:59:11.802062+00:00",
+  "paths": {
+    "article": "articles/v1/9f/amkor-technology-inc-common-stock/2025/12/d1/d1c4d8d442e09621642f06de4db7e12ca41aabef8c83206a1d4eaa893dc9da35/article.md",
+    "record": "articles/v1/9f/amkor-technology-inc-common-stock/2025/12/d1/d1c4d8d442e09621642f06de4db7e12ca41aabef8c83206a1d4eaa893dc9da35/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2043,
+    "sha256": "sha256:a7d9b3985d3726dfa14187abba28eb0825402d2273349e3429d15d6ea675a18f",
+    "normalized_content_hash": "sha256:4dd261cfdd8640a2e13ab6e6a72e32ab486360f48384cfc6bed9639182f58ded"
+  },
+  "provenance": {
+    "source_item_id": "2aec3be0-24ea-45ce-830b-61d205cd6891",
+    "external_id": "https://amkor.com/blog/west-mec-students-amkor-high-tech-careers/"
+  }
+}

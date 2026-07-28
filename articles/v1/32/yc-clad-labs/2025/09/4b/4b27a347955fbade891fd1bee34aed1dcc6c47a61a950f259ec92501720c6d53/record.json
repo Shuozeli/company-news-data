@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b27a347955fbade891fd1bee34aed1dcc6c47a61a950f259ec92501720c6d53",
+  "company": {
+    "key": "yc-clad-labs",
+    "name": "Clad Labs"
+  },
+  "source": {
+    "id": "yc-clad-labs-news-import-822bb409d95b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cladlabs.ai/blog/ai-development-best-practices",
+    "canonical": "https://www.cladlabs.ai/blog/ai-development-best-practices"
+  },
+  "title": "Best Practices for AI-Assisted Development",
+  "summary": "AI-powered coding assistants like GitHub Copilot, Clad Labs, and ChatGPT have revolutionized software development. However, maximizing their potential while mai",
+  "published_at": "2025-09-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T13:40:04.197655+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-07-28T22:03:55.111674+00:00",
+  "paths": {
+    "article": "articles/v1/32/yc-clad-labs/2025/09/4b/4b27a347955fbade891fd1bee34aed1dcc6c47a61a950f259ec92501720c6d53/article.md",
+    "record": "articles/v1/32/yc-clad-labs/2025/09/4b/4b27a347955fbade891fd1bee34aed1dcc6c47a61a950f259ec92501720c6d53/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12486,
+    "sha256": "sha256:9194f0c6bdecaa7f4c90890efe1e3b8bb941ed9dbb48691d170e702f07787f5f",
+    "normalized_content_hash": "sha256:ee7aa94a2ead720f2dc4caebcc334d8ffdea6c16088fc99a3135a08486ea0c0e"
+  },
+  "provenance": {
+    "source_item_id": "652f83f7-1bb0-43f0-be16-81be47577cbd",
+    "external_id": "https://www.cladlabs.ai/blog/ai-development-best-practices"
+  }
+}

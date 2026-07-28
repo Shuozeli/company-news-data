@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e3ab371516ab42c8b031ca919c4553b063296760b9810cfddc63ad5a4518b16",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/press-newsroom/forrester-agenda-b2b-forum-emea-2026/",
+    "canonical": "https://www.forrester.com/press-newsroom/forrester-agenda-b2b-forum-emea-2026/"
+  },
+  "title": "Forrester Announces The Conference Agenda For B2B Forum EMEA 2026",
+  "summary": "Forrester has announced the full conference agenda for its B2B Forum EMEA 2026, taking place 28–29 September 2026 in London.",
+  "published_at": "2026-07-01T09:42:53+00:00",
+  "first_seen_at": "2026-07-22T22:15:37.198406+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:09.781602+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2026/07/9e/9e3ab371516ab42c8b031ca919c4553b063296760b9810cfddc63ad5a4518b16/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2026/07/9e/9e3ab371516ab42c8b031ca919c4553b063296760b9810cfddc63ad5a4518b16/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7485,
+    "sha256": "sha256:1e474bad7c0292e70ae2b1e06e44420e1e6907a4b36a0236e0e3434419148675",
+    "normalized_content_hash": "sha256:ba559f9eaa192e64c49e161fe491fee358bb68469aaba2203214eed1a630fb09"
+  },
+  "provenance": {
+    "source_item_id": "4c55d619-0973-4174-a08e-250519fb9b22",
+    "external_id": "https://www.forrester.com/press-newsroom/forrester-agenda-b2b-forum-emea-2026/"
+  }
+}

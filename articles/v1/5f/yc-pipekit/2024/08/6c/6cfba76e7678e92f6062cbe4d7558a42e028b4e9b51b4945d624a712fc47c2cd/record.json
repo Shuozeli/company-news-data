@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6cfba76e7678e92f6062cbe4d7558a42e028b4e9b51b4945d624a712fc47c2cd",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/orchestrating-python-functions-natively-argo-hera",
+    "canonical": "https://homepage.pipekit.io/blog/orchestrating-python-functions-natively-argo-hera"
+  },
+  "title": "Orchestrating Python Functions Natively in Argo Using Hera",
+  "summary": "Learn how the Hera SDK for Argo Workflows can allow your team to leverage Python to write data and ML pipelines that run on Kubernetes. While at ArgoCon and KubeCon Europe in Paris, Elliot Gunton, Bloomberg, and J.P. Zivalich, Pipekit, discussed the benefits and drawbacks of Argo Workflows and how Hera can act as a bridge between engineers using Python and their scaling workflow needs on Kubernetes.",
+  "published_at": "2024-08-28T06:57:38+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-07-28T20:59:58.880935+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/08/6c/6cfba76e7678e92f6062cbe4d7558a42e028b4e9b51b4945d624a712fc47c2cd/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/08/6c/6cfba76e7678e92f6062cbe4d7558a42e028b4e9b51b4945d624a712fc47c2cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12990,
+    "sha256": "sha256:8eb9c65dc2bc7ad427567635e5f4fc2145ee4b23f80d6e1679db989984cc1ba7",
+    "normalized_content_hash": "sha256:dd0ac4b583b023c259d941a02a414e7b6802fb01c4e18cfe98209454e9b6bbc7"
+  },
+  "provenance": {
+    "source_item_id": "a0fa4f45-d1e0-477d-87c5-8c02f05eb58d",
+    "external_id": "https://homepage.pipekit.io/blog/orchestrating-python-functions-natively-argo-hera"
+  }
+}

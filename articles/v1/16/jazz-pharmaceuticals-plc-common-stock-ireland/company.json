@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "jazz-pharmaceuticals-plc-common-stock-ireland",
+    "name": "Jazz Pharmaceuticals plc Common Stock (Ireland)"
+  },
+  "record_count": 20,
+  "first_published_at": "2024-06-03T06:00:44+00:00",
+  "last_published_at": "2026-07-16T10:31:50+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    }
+  ]
+}

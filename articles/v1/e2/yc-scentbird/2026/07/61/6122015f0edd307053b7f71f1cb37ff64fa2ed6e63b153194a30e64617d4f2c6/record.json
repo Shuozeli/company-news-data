@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6122015f0edd307053b7f71f1cb37ff64fa2ed6e63b153194a30e64617d4f2c6",
+  "company": {
+    "key": "yc-scentbird",
+    "name": "Scentbird"
+  },
+  "source": {
+    "id": "yc-scentbird-news-import-a752a4eed7e1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.scentbird.com/blog/state-of-fragrance-discovery-popular-perfumes/",
+    "canonical": "https://www.scentbird.com/blog/state-of-fragrance-discovery-popular-perfumes/"
+  },
+  "title": "Popular Perfumes Explained: The State of Fragrance Discovery Today",
+  "summary": "What does fragrance discovery look like today? There was a time when learning all about new fragrance trends meant visiting a department store, sampling scents on paper strips, and then leaving wit…",
+  "published_at": "2026-07-08T18:40:52+00:00",
+  "first_seen_at": "2026-07-24T00:00:53.990571+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:41.853785+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-scentbird/2026/07/61/6122015f0edd307053b7f71f1cb37ff64fa2ed6e63b153194a30e64617d4f2c6/article.md",
+    "record": "articles/v1/e2/yc-scentbird/2026/07/61/6122015f0edd307053b7f71f1cb37ff64fa2ed6e63b153194a30e64617d4f2c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9445,
+    "sha256": "sha256:7cb578c338eef521ad87160276eefe936bda0e5416ec0ef08044f9cad7ac617e",
+    "normalized_content_hash": "sha256:6b6f068c8ddc5f0af5b9620fa2c738ed8ff87c46bc42a6d07295e4714441a92d"
+  },
+  "provenance": {
+    "source_item_id": "62f81318-83f4-424f-b03f-5e3006a7744f",
+    "external_id": "https://www.scentbird.com/blog/state-of-fragrance-discovery-popular-perfumes/"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "gilead-sciences-inc-common-stock",
+    "name": "Gilead Sciences Inc. Common Stock"
+  },
+  "record_count": 18,
+  "first_published_at": "2026-06-08T20:35:00+00:00",
+  "last_published_at": "2026-07-24T10:26:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 12
+    }
+  ]
+}

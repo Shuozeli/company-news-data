@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c8e7dbe2e563c7a9dc5e6860650d36cb23a37960428bcb6a5548ebeafcab605",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/how-to-run-argo-workflows-in-k3s",
+    "canonical": "https://homepage.pipekit.io/blog/how-to-run-argo-workflows-in-k3s"
+  },
+  "title": "How to Run Argo Workflows in K3s",
+  "summary": "K3s is a great way to deploy Argo Workflows to a K8s cluster locally. We'll implement the main components of an Argo Workflows deployment (Argo Server, Controller, UI, CLI, and artifact repo) in K3s, and also will run a couple basic workflows.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.241184+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/8c/8c8e7dbe2e563c7a9dc5e6860650d36cb23a37960428bcb6a5548ebeafcab605/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/8c/8c8e7dbe2e563c7a9dc5e6860650d36cb23a37960428bcb6a5548ebeafcab605/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9824,
+    "sha256": "sha256:a3a3a11333f229decdb0843fd1aca98b5789af5a03f0bd0a2e566c12abf11172",
+    "normalized_content_hash": "sha256:c0ac174ee73f4261954ea4ac9087f76f3b61e3d4191892cc928567a4bf268109"
+  },
+  "provenance": {
+    "source_item_id": "80310f45-fb48-4370-b40b-10a321c24555",
+    "external_id": "https://homepage.pipekit.io/blog/how-to-run-argo-workflows-in-k3s"
+  }
+}

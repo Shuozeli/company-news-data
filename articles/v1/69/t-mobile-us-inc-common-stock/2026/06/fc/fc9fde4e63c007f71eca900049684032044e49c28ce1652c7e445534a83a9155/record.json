@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fc9fde4e63c007f71eca900049684032044e49c28ce1652c7e445534a83a9155",
+  "company": {
+    "key": "t-mobile-us-inc-common-stock",
+    "name": "T-Mobile US Inc. Common Stock"
+  },
+  "source": {
+    "id": "t-mobile-us-inc-common-stock-news-import-748f5f079be8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.t-mobile.com/news/un-carrier/t-mobile-completes-landmark-hometown-grants-initiative-transforming-500-communities",
+    "canonical": "https://www.t-mobile.com/news/un-carrier/t-mobile-completes-landmark-hometown-grants-initiative-transforming-500-communities"
+  },
+  "title": "T‑Mobile Completes Landmark Hometown Grants Initiative, Transforming 500 Communities",
+  "summary": "The final grant recipients close out a five-year, $22.8 million investment that helped bring community-led projects to life across small towns nationwide",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:46:33.310465+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:40.305975+00:00",
+  "paths": {
+    "article": "articles/v1/69/t-mobile-us-inc-common-stock/2026/06/fc/fc9fde4e63c007f71eca900049684032044e49c28ce1652c7e445534a83a9155/article.md",
+    "record": "articles/v1/69/t-mobile-us-inc-common-stock/2026/06/fc/fc9fde4e63c007f71eca900049684032044e49c28ce1652c7e445534a83a9155/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13607,
+    "sha256": "sha256:395d71c679209cb0d0f087482f7c71910b37eaff4fb5a7fadd403358897ec601",
+    "normalized_content_hash": "sha256:66cae101a746834f585cde168fe057aec5983f09383589b1654dc1feb82ad2e0"
+  },
+  "provenance": {
+    "source_item_id": "6bbef28c-5e92-4256-a65e-1dc3233e544d",
+    "external_id": "https://www.t-mobile.com/news/un-carrier/t-mobile-completes-landmark-hometown-grants-initiative-transforming-500-communities"
+  }
+}

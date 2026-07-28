@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8d476fe2c2cfc799f00e9db0b58281f8bf5872bc8c0be1f192bc7d209cd7ab93",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-b3fe567ac9c2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/about/media-resources/studies-and-media-releases/article/trupanion-partner-with-american-humane-society",
+    "canonical": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/trupanion-partner-with-american-humane-society"
+  },
+  "title": "Trupanion and American Humane Society Partner to Protect Adopted Pets from Day One",
+  "summary": "Trupanion and American Humane Society partner to help protect adopted pets from day one with coverage support for new pet parents.",
+  "published_at": "2026-04-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:03.797628+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-07-28T21:57:36.573322+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/04/8d/8d476fe2c2cfc799f00e9db0b58281f8bf5872bc8c0be1f192bc7d209cd7ab93/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/04/8d/8d476fe2c2cfc799f00e9db0b58281f8bf5872bc8c0be1f192bc7d209cd7ab93/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7232,
+    "sha256": "sha256:31b5cf740baa87094cbf147c6b66040e887e0677881ea8d807941b2dcfc003bb",
+    "normalized_content_hash": "sha256:906f4402dcf4705bbcfa3d62c7ed0104f25a192bea0f991fb7f8372645db7300"
+  },
+  "provenance": {
+    "source_item_id": "3d1506b7-90dc-441f-bb3b-9c6640fdb9f5",
+    "external_id": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/trupanion-partner-with-american-humane-society"
+  }
+}

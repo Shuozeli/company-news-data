@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4a19a742406fb68df29277f5643de95d58262bbad4d4c469e9f7133dd9f74f37",
+  "company": {
+    "key": "yc-axiom-ai",
+    "name": "Axiom.ai"
+  },
+  "source": {
+    "id": "yc-axiom-ai-news-import-c535b3e44cdf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://axiom.ai/blog/browser-automation-with-claude/",
+    "canonical": "https://axiom.ai/blog/browser-automation-with-claude"
+  },
+  "title": "Browser automation with Claude",
+  "summary": "An overview of ways to drive a browser with Claude, and an intro to using Claude code with axiom.",
+  "published_at": "2026-07-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:24:24.051508+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:22:58.511936+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-axiom-ai/2026/07/4a/4a19a742406fb68df29277f5643de95d58262bbad4d4c469e9f7133dd9f74f37/article.md",
+    "record": "articles/v1/7c/yc-axiom-ai/2026/07/4a/4a19a742406fb68df29277f5643de95d58262bbad4d4c469e9f7133dd9f74f37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10350,
+    "sha256": "sha256:04ef99985d08e78927b8c631c575d8a1a7c21568c4b9284626de3e406906ea02",
+    "normalized_content_hash": "sha256:2ccd9d9808dea5ce203bbce16770fb1112093baa9b99ddd03d775abe3a79aaab"
+  },
+  "provenance": {
+    "source_item_id": "e778f1ba-3b92-4deb-a9e0-9a7de5ffa4e8",
+    "external_id": "https://axiom.ai/blog/browser-automation-with-claude"
+  }
+}

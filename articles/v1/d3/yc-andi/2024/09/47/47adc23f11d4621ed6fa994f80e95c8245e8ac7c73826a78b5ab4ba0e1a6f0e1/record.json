@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "47adc23f11d4621ed6fa994f80e95c8245e8ac7c73826a78b5ab4ba0e1a6f0e1",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/accuracy-matters",
+    "canonical": "https://andiai.com/blogs/accuracy-matters"
+  },
+  "title": "Accuracy Matters: Andi Tops New AI Search Benchmark",
+  "summary": "We've always said that accuracy is the most important factor in AI search. Now we have independent proof.",
+  "published_at": "2024-09-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:48:18.083780+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:31.374054+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2024/09/47/47adc23f11d4621ed6fa994f80e95c8245e8ac7c73826a78b5ab4ba0e1a6f0e1/article.md",
+    "record": "articles/v1/d3/yc-andi/2024/09/47/47adc23f11d4621ed6fa994f80e95c8245e8ac7c73826a78b5ab4ba0e1a6f0e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3858,
+    "sha256": "sha256:10c3bbb57aff4c4d6b7bd59ae8ef6c34526bfbf1c8e8e93b9c7a74d50464dc70",
+    "normalized_content_hash": "sha256:4e5741bb0f7ec0c678680ba9f6a320e63190d2b5929a07423cdf2887858d53a6"
+  },
+  "provenance": {
+    "source_item_id": "d59f2d96-22c6-494b-b657-fc6df6e8840a",
+    "external_id": "https://andiai.com/blogs/accuracy-matters"
+  }
+}

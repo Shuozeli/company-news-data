@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3904302032e97a782886f6ce9722a34cc475f5dfabce4149e7b09e94d72cbaa3",
+  "company": {
+    "key": "galaxy-digital-inc-class-a-common-stock",
+    "name": "Galaxy Digital Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "galaxy-digital-inc-class-a-common-stock-news-import-fbc635ef0517",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.galaxy.com/insights/research/weekly-top-stories-07-17-26-base-pivot-creator-coins-new-york-data-center-moratorium-ostium-exploit",
+    "canonical": "https://www.galaxy.com/insights/research/weekly-top-stories-07-17-26-base-pivot-creator-coins-new-york-data-center-moratorium-ostium-exploit"
+  },
+  "title": "Weekly Top Stories 07/17/26",
+  "summary": "Plus: N.Y.'s data center freeze; Ostium's $24m exploit",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T06:07:02.932709+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:52.437505+00:00",
+  "paths": {
+    "article": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/39/3904302032e97a782886f6ce9722a34cc475f5dfabce4149e7b09e94d72cbaa3/article.md",
+    "record": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/39/3904302032e97a782886f6ce9722a34cc475f5dfabce4149e7b09e94d72cbaa3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 32222,
+    "sha256": "sha256:fc8e19f419bfebdf26c27f274bd5f14c407f7d6c91dbde934e653c9f8c83df0d",
+    "normalized_content_hash": "sha256:5b684cc834a1a561b0497f41178f63772efdfe3eca4dea608f8be02a7c0f38c9"
+  },
+  "provenance": {
+    "source_item_id": "b90a2729-2b71-40e8-be02-eebec081dcb4",
+    "external_id": "https://www.galaxy.com/insights/research/weekly-top-stories-07-17-26-base-pivot-creator-coins-new-york-data-center-moratorium-ostium-exploit"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a83c5ce9a1d85749be752086fe7968e38bbec26c315980a6dc4e26bafeb2fe20",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/press-release-andi-named-best-free-ai-search-20260327-1931",
+    "canonical": "https://andiai.com/blogs/press-release-andi-named-best-free-ai-search-20260327-1931"
+  },
+  "title": "Andi Named Best Free AI Search Engine by PCMag",
+  "summary": "Third consecutive year PCMag has recognized Andi in their Best AI Search Engines roundup. Free, private, and ad-free.",
+  "published_at": "2026-03-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:48:18.083780+00:00",
+  "fetched_at": "2026-07-28T21:56:52.525405+00:00",
+  "last_updated_at": "2026-07-28T21:57:27.801269+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2026/03/a8/a83c5ce9a1d85749be752086fe7968e38bbec26c315980a6dc4e26bafeb2fe20/article.md",
+    "record": "articles/v1/d3/yc-andi/2026/03/a8/a83c5ce9a1d85749be752086fe7968e38bbec26c315980a6dc4e26bafeb2fe20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2190,
+    "sha256": "sha256:e956fce6d1841d1852d20ebff443b8b2d29cc0d5afed5ecd78d36b89a155d395",
+    "normalized_content_hash": "sha256:595e84a6b5a7a3fbba5776e64d223209db8adb9f8dddb0d4b4c8e6a2d9e36430"
+  },
+  "provenance": {
+    "source_item_id": "eec62d0d-4d64-48a5-8196-3a1863fd0f0e",
+    "external_id": "https://andiai.com/blogs/press-release-andi-named-best-free-ai-search-20260327-1931"
+  }
+}

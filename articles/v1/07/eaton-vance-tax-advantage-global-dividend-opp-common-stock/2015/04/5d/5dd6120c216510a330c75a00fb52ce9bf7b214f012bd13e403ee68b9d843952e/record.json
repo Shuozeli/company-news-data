@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5dd6120c216510a330c75a00fb52ce9bf7b214f012bd13e403ee68b9d843952e",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260724/cbb-bancorp-inc-otcbb-cbbi-declared-a-dividend-of-$0.1250-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260724/cbb-bancorp-inc-otcbb-cbbi-declared-a-dividend-of-$0.1250-per-share/"
+  },
+  "title": "CBBI Dividend Announcement $0.1250/Share 7/24/2026",
+  "summary": "OTCBB:CBBI CBB Bancorp Inc Dividend Announcement $0.1250 per share on July 24, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-26T13:16:00.264154+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.994915+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/5d/5dd6120c216510a330c75a00fb52ce9bf7b214f012bd13e403ee68b9d843952e/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/5d/5dd6120c216510a330c75a00fb52ce9bf7b214f012bd13e403ee68b9d843952e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2056,
+    "sha256": "sha256:af08f47f1dac66f8ff8ffa3e9bd2b9344ecec5fa4623d498f0bac1c385cd192c",
+    "normalized_content_hash": "sha256:c3a411ae65133265695bdd198587c1710fa32e5fa8de727b64f650abdc416592"
+  },
+  "provenance": {
+    "source_item_id": "b1bef976-af3d-4ec3-a86b-433fe51faf82",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260724/cbb-bancorp-inc-otcbb-cbbi-declared-a-dividend-of-$0.1250-per-share/"
+  }
+}

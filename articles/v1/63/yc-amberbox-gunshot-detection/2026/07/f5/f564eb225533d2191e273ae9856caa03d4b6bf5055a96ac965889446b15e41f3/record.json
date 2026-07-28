@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f564eb225533d2191e273ae9856caa03d4b6bf5055a96ac965889446b15e41f3",
+  "company": {
+    "key": "yc-amberbox-gunshot-detection",
+    "name": "AmberBox Gunshot Detection"
+  },
+  "source": {
+    "id": "yc-amberbox-gunshot-detection-news-import-1baa2d8d0534",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amberbox.com/blog/new-feature-release",
+    "canonical": "https://amberbox.com/blog/new-feature-release"
+  },
+  "title": "AmberBox | Blog",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T06:18:08.154448+00:00",
+  "fetched_at": "2026-07-28T22:00:09.129481+00:00",
+  "last_updated_at": "2026-07-28T22:00:10.987667+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-amberbox-gunshot-detection/2026/07/f5/f564eb225533d2191e273ae9856caa03d4b6bf5055a96ac965889446b15e41f3/article.md",
+    "record": "articles/v1/63/yc-amberbox-gunshot-detection/2026/07/f5/f564eb225533d2191e273ae9856caa03d4b6bf5055a96ac965889446b15e41f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2497,
+    "sha256": "sha256:69bd4390b983a50620e60bca0d76e4be8785fa432ff934fd9b8f39615cb7b4d7",
+    "normalized_content_hash": "sha256:6a7aa613dc488345b9e9f41c162e56856c3c14636479388ec1d466807a9e7fbb"
+  },
+  "provenance": {
+    "source_item_id": "88baf53c-ce8e-44ef-8a54-67370e8be411",
+    "external_id": "https://amberbox.com/blog/new-feature-release"
+  }
+}

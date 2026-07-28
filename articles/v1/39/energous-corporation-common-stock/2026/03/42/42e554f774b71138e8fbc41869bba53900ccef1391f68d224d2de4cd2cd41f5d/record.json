@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "42e554f774b71138e8fbc41869bba53900ccef1391f68d224d2de4cd2cd41f5d",
+  "company": {
+    "key": "energous-corporation-common-stock",
+    "name": "Energous Corporation Common Stock"
+  },
+  "source": {
+    "id": "energous-corporation-common-stock-news-import-d1c3bf233b09",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://energous.com/company/newsroom/news/energous-wireless-power-solutions-reports-fiscal-year-2025-results/",
+    "canonical": "https://energous.com/company/newsroom/news/energous-wireless-power-solutions-reports-fiscal-year-2025-results/"
+  },
+  "title": "Energous Wireless Power Solutions Reports Fiscal Year 2025 Results",
+  "summary": "Energous Wireless Power Solutions Reports Fiscal Year 2025 Results - Energous",
+  "published_at": "2026-03-25T11:00:38+00:00",
+  "first_seen_at": "2026-07-27T06:56:18.942558+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-28T21:26:49.512871+00:00",
+  "paths": {
+    "article": "articles/v1/39/energous-corporation-common-stock/2026/03/42/42e554f774b71138e8fbc41869bba53900ccef1391f68d224d2de4cd2cd41f5d/article.md",
+    "record": "articles/v1/39/energous-corporation-common-stock/2026/03/42/42e554f774b71138e8fbc41869bba53900ccef1391f68d224d2de4cd2cd41f5d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13143,
+    "sha256": "sha256:e30f61d26865cf1eeb5cd9f36f50ae82399396210bd36d921d189f8fb3fd77c3",
+    "normalized_content_hash": "sha256:6dd1be6d64a60587bf620e7d1694d34c4ca923ffc3a998eb8942d0795fc6231c"
+  },
+  "provenance": {
+    "source_item_id": "610bd14a-df81-4134-98dd-747ed3986d08",
+    "external_id": "https://energous.com/company/newsroom/news/energous-wireless-power-solutions-reports-fiscal-year-2025-results/"
+  }
+}

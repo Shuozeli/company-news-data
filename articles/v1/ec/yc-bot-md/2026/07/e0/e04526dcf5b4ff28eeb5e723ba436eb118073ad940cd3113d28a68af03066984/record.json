@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e04526dcf5b4ff28eeb5e723ba436eb118073ad940cd3113d28a68af03066984",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/ncis-chemocalc.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/ncis-chemocalc.html"
+  },
+  "title": "Bot MD - NCIS ChemoCalc",
+  "summary": "The National University Cancer Institute, Singapore (NCIS) partnered Bot MD to launch a chemotherapy and cancer treatment cost calculator that will assist in the estimation of treatment costs and improve financial counselling for patients in line with Ministry of Health's MediShield Life (MSHL) reimbursement model.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.862874+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/e0/e04526dcf5b4ff28eeb5e723ba436eb118073ad940cd3113d28a68af03066984/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/e0/e04526dcf5b4ff28eeb5e723ba436eb118073ad940cd3113d28a68af03066984/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6359,
+    "sha256": "sha256:db124ea1ab5b3d1ce7218e78d1fdb3734e3ca832a96b829bcf9c18b9e93e075c",
+    "normalized_content_hash": "sha256:c8c887ae1f2043e5f1edbf9d6baae61b892f7f8b984250cc5b233e2782c0bd48"
+  },
+  "provenance": {
+    "source_item_id": "ce6effec-1248-4b25-838a-f02dab5c028a",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/ncis-chemocalc.html"
+  }
+}

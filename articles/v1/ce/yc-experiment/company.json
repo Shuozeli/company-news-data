@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-experiment",
+    "name": "Experiment"
+  },
+  "record_count": 20,
+  "first_published_at": "2015-04-22T03:58:35+00:00",
+  "last_published_at": "2022-03-06T08:50:21+00:00",
+  "partitions": [
+    {
+      "partition": "2015-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    }
+  ]
+}

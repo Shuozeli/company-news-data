@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "117b6dcbf778c4191fb362abd764bd434b763467e14e3fec4ffc8659f10367bc",
+  "company": {
+    "key": "idex-corporation-common-stock",
+    "name": "IDEX Corporation Common Stock"
+  },
+  "source": {
+    "id": "idex-corporation-common-stock-news-import-f4b544a094be",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://idexcorp.com/news/news-item/finding-their-voice-trebor-team-attends-women-in-manufacturing-conference/",
+    "canonical": "https://idexcorp.com/news/news-item/finding-their-voice-trebor-team-attends-women-in-manufacturing-conference/"
+  },
+  "title": "Finding Their Voice: Trebor Team Attends Women in Manufacturing Conference",
+  "summary": "Last month, a group of women from Trebor International stepped off the production floor and into a room full of changemakers at the Utah Manufacturing Association’s Women in Manufacturing Conference. Attending alongside several production line employees were Trebor’s Senior Quality Engineer Narae Kim and Marketing Manager Sara Ann O’Leary. For many, the event was more […]",
+  "published_at": "2025-04-16T17:07:31+00:00",
+  "first_seen_at": "2026-07-25T09:02:34.151857+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:03.006377+00:00",
+  "paths": {
+    "article": "articles/v1/46/idex-corporation-common-stock/2025/04/11/117b6dcbf778c4191fb362abd764bd434b763467e14e3fec4ffc8659f10367bc/article.md",
+    "record": "articles/v1/46/idex-corporation-common-stock/2025/04/11/117b6dcbf778c4191fb362abd764bd434b763467e14e3fec4ffc8659f10367bc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2747,
+    "sha256": "sha256:0a718fa4bcf59f747ea514f868ccb5bb4f7baeae34cff8be1abaea08e289281d",
+    "normalized_content_hash": "sha256:9c8eeabc306a568e6f8ddfe6cdfe170f5692b9511b0ed7ebf618f176127f058d"
+  },
+  "provenance": {
+    "source_item_id": "fd489d71-70c6-4e39-b880-e09d51cbcdb9",
+    "external_id": "https://idexcorp.com/news/news-item/finding-their-voice-trebor-team-attends-women-in-manufacturing-conference/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "211b9240a4920afd730b8004079391e52024d9eb33684d7e58775c0ddb256c19",
+  "company": {
+    "key": "marsh-common-stock",
+    "name": "Marsh Common Stock"
+  },
+  "source": {
+    "id": "marsh-common-stock-news-import-967b5273dc54",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.corporate.marsh.com/news-events/2026/june/marsh-appoints-teresa-palandra-as-canada-ceo.html",
+    "canonical": "https://www.corporate.marsh.com/news-events/2026/june/marsh-appoints-teresa-palandra-as-canada-ceo.html"
+  },
+  "title": "Marsh appoints Teresa Palandra as Canada CEO",
+  "summary": "Announced the appointment of Teresa Palandra as Canada CEO, in addition to her current role as President of Mercer Canada, effective August 1, 2026.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T03:26:36.756038+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:38.531492+00:00",
+  "paths": {
+    "article": "articles/v1/16/marsh-common-stock/2026/07/21/211b9240a4920afd730b8004079391e52024d9eb33684d7e58775c0ddb256c19/article.md",
+    "record": "articles/v1/16/marsh-common-stock/2026/07/21/211b9240a4920afd730b8004079391e52024d9eb33684d7e58775c0ddb256c19/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3343,
+    "sha256": "sha256:5f539a693e560b75fb452572e4e62fa23a95db96116a69d180fb798e7850902f",
+    "normalized_content_hash": "sha256:1cbcc428976362d45e2b011eeb75077801f0d10ad40c54f6b183f9149ec77686"
+  },
+  "provenance": {
+    "source_item_id": "b38b8fba-d7d6-433d-8052-1195a454f725",
+    "external_id": "https://www.corporate.marsh.com/news-events/2026/june/marsh-appoints-teresa-palandra-as-canada-ceo.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "739eebdb69ab076617af24c99cb0ae73b233535246a866a8357091783613b136",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/python-for-finance-production-apps-quant-teams/",
+    "canonical": "https://reflex.dev/blog/python-for-finance-production-apps-quant-teams/"
+  },
+  "title": "Python for Finance Apps for Quant Teams (June 2026)",
+  "summary": "Build production-grade Python finance apps for quant teams and financial institutions. Learn deployment, authentication, and risk modeling in June 2026.",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:30:50.122510+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-07-28T21:43:23.415520+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/06/73/739eebdb69ab076617af24c99cb0ae73b233535246a866a8357091783613b136/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/06/73/739eebdb69ab076617af24c99cb0ae73b233535246a866a8357091783613b136/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14633,
+    "sha256": "sha256:149c7212a64a2b91c7aaf8f9b89fa6d92944bcdb815a8e0b1157e13124ef1e82",
+    "normalized_content_hash": "sha256:cdb62f9b02e68fd444f5fd0232d1971307560e778f9e6d5611b6478a7e11f2a2"
+  },
+  "provenance": {
+    "source_item_id": "d792a4ac-8603-4170-ad68-ab890abeff6a",
+    "external_id": "https://reflex.dev/blog/python-for-finance-production-apps-quant-teams/"
+  }
+}

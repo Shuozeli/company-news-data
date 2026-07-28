@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2cf62a349b40d4d39b130b92f29dd038df95db15ef9a79cf142de5b075e916fd",
+  "company": {
+    "key": "sprott-focus-trust-inc-common-stock",
+    "name": "Sprott Focus Trust Inc. Common Stock"
+  },
+  "source": {
+    "id": "sprott-focus-trust-inc-common-stock-news-import-1354382dc773",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sprott.com/investment-strategies/managed-equities/focus-trust/press-releases/sprott-focus-trust-inc-nasdaq-fund-declares-second-quarter-common-stock-distribution-of-01217-per-share-1/",
+    "canonical": "https://sprott.com/investment-strategies/managed-equities/focus-trust/press-releases/sprott-focus-trust-inc-nasdaq-fund-declares-second-quarter-common-stock-distribution-of-01217-per-share-1/"
+  },
+  "title": "Sprott Focus Trust, Inc. (Nasdaq-FUND) Declares Second Quarter Common Stock Distribution of $0.1217 Per Share",
+  "summary": "Sprott is a global investment manager specializing in precious metals and real assets investing.",
+  "published_at": "2023-06-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:26:52.244724+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.660472+00:00",
+  "paths": {
+    "article": "articles/v1/db/sprott-focus-trust-inc-common-stock/2023/06/2c/2cf62a349b40d4d39b130b92f29dd038df95db15ef9a79cf142de5b075e916fd/article.md",
+    "record": "articles/v1/db/sprott-focus-trust-inc-common-stock/2023/06/2c/2cf62a349b40d4d39b130b92f29dd038df95db15ef9a79cf142de5b075e916fd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5855,
+    "sha256": "sha256:bc2e64ef838192a51ec6c3902937887a295078a60a882abe08eae728cc2a140b",
+    "normalized_content_hash": "sha256:559f6adedeaeda67c09a4b7de3c506700bcf0726dbe8f392d30ce9a1885da78d"
+  },
+  "provenance": {
+    "source_item_id": "fda90ac2-e937-4a9a-ad78-13b8fb6dadb9",
+    "external_id": "https://sprott.com/investment-strategies/managed-equities/focus-trust/press-releases/sprott-focus-trust-inc-nasdaq-fund-declares-second-quarter-common-stock-distribution-of-01217-per-share-1/"
+  }
+}

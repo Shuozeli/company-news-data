@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e4996c792b6963557e9e40df602dc36bb448c0d0bbfc194e33e35fa508af5e8c",
+  "company": {
+    "key": "cbiz-inc-common-stock",
+    "name": "CBIZ Inc. Common Stock"
+  },
+  "source": {
+    "id": "cbiz-inc-common-stock-news-import-fcc1128aca9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cbiz.com/insights/article/3-sage-intacct-features-that-benefit-not-for-profits",
+    "canonical": "https://www.cbiz.com/insights/article/3-sage-intacct-features-that-benefit-not-for-profits"
+  },
+  "title": "3 Sage Intacct Features That Benefit Not-for-Profits",
+  "summary": "Learn how Sage Intacct empowers not-for-profits with real-time financial reporting, simplified grant management and more.",
+  "published_at": "2026-07-09T18:44:29+00:00",
+  "first_seen_at": "2026-07-24T23:42:27.744988+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:07.667200+00:00",
+  "paths": {
+    "article": "articles/v1/6d/cbiz-inc-common-stock/2026/07/e4/e4996c792b6963557e9e40df602dc36bb448c0d0bbfc194e33e35fa508af5e8c/article.md",
+    "record": "articles/v1/6d/cbiz-inc-common-stock/2026/07/e4/e4996c792b6963557e9e40df602dc36bb448c0d0bbfc194e33e35fa508af5e8c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6960,
+    "sha256": "sha256:aaa5354e84c71c768fa6e5d7ded1de49c140a3199fafa182f581ebe1e9aaba33",
+    "normalized_content_hash": "sha256:f71e31d0b0417e47f20e4673490fbfe681535843cbff674567833d313020423c"
+  },
+  "provenance": {
+    "source_item_id": "91e3f6e2-6fbd-4d6a-93b3-c66ea2658303",
+    "external_id": "https://www.cbiz.com/insights/article/3-sage-intacct-features-that-benefit-not-for-profits"
+  }
+}

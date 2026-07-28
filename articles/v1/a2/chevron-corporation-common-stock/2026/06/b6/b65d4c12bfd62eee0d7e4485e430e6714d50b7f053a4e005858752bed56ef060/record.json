@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b65d4c12bfd62eee0d7e4485e430e6714d50b7f053a4e005858752bed56ef060",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2026/q2/the-people-fueling-america",
+    "canonical": "https://www.chevron.com/newsroom/2026/q2/the-people-fueling-america"
+  },
+  "title": "The people fueling America",
+  "summary": "Southern Louisiana workers help keep energy moving across the country and help fuel America with energy produced in the Bayou Region and Gulf.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2026/06/b6/b65d4c12bfd62eee0d7e4485e430e6714d50b7f053a4e005858752bed56ef060/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2026/06/b6/b65d4c12bfd62eee0d7e4485e430e6714d50b7f053a4e005858752bed56ef060/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1487,
+    "sha256": "sha256:22966e1f9d3e865bee5229107da38bb362d3977d343a65387cafccfda754f35d",
+    "normalized_content_hash": "sha256:7a26b764f78f3547c61ca6c12bbb80db881b0bfa3c0661470721a6c8b313aca3"
+  },
+  "provenance": {
+    "source_item_id": "ffe262c9-b544-4464-b890-111a0c379a16",
+    "external_id": "https://www.chevron.com/newsroom/2026/q2/the-people-fueling-america"
+  }
+}

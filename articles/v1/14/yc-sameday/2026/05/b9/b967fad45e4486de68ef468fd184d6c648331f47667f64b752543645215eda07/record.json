@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b967fad45e4486de68ef468fd184d6c648331f47667f64b752543645215eda07",
+  "company": {
+    "key": "yc-sameday",
+    "name": "Sameday"
+  },
+  "source": {
+    "id": "yc-sameday-news-import-4fc489393e67",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gosameday.com/post/how-ai-customer-service-influences-booking-rates-for-home-service-companies",
+    "canonical": "https://www.gosameday.com/post/how-ai-customer-service-influences-booking-rates-for-home-service-companies"
+  },
+  "title": "How AI customer service influences booking rates for home service companies",
+  "summary": "See how AI customer service lifts booking rates for home service companies by eliminating missed calls, cutting response time, and automating job booking 24/7.",
+  "published_at": "2026-05-20T18:09:15.574+00:00",
+  "first_seen_at": "2026-07-24T11:55:41.184256+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-07-28T21:45:26.827621+00:00",
+  "paths": {
+    "article": "articles/v1/14/yc-sameday/2026/05/b9/b967fad45e4486de68ef468fd184d6c648331f47667f64b752543645215eda07/article.md",
+    "record": "articles/v1/14/yc-sameday/2026/05/b9/b967fad45e4486de68ef468fd184d6c648331f47667f64b752543645215eda07/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10920,
+    "sha256": "sha256:d6ce92c0d7890c8e23c284fd72480392c6c60c6d015009b88d128cfb572e782f",
+    "normalized_content_hash": "sha256:022adffec03ce41367e55dce3ebe2a5a35ad07bf667a21e90f91dce2b1f83299"
+  },
+  "provenance": {
+    "source_item_id": "7b9ae2e2-781c-41cf-ba2c-98052c6ed9c9",
+    "external_id": "https://www.gosameday.com/post/how-ai-customer-service-influences-booking-rates-for-home-service-companies"
+  }
+}

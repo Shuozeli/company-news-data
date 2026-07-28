@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cb7eb173db6958baf2795a260aa9eaacee7d4b07d9640c3154b9c0f0edd07c31",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-e3018e454ae6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/design-hub/blog/smarter-power-for-smarter-doorbells-enabling-the-next-wave-of-home-security",
+    "canonical": "https://www.qorvo.com/design-hub/blog/smarter-power-for-smarter-doorbells-enabling-the-next-wave-of-home-security"
+  },
+  "title": "Smarter Power for Smarter Doorbells: Enabling the Next Wave of Home Security",
+  "summary": "To meet rising demands for convenience, AI features and always-on reliability, next-generation designs need smarter power management.",
+  "published_at": "2026-03-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:14:16.870814+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-07-28T22:00:59.056488+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/03/cb/cb7eb173db6958baf2795a260aa9eaacee7d4b07d9640c3154b9c0f0edd07c31/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/03/cb/cb7eb173db6958baf2795a260aa9eaacee7d4b07d9640c3154b9c0f0edd07c31/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12545,
+    "sha256": "sha256:742a6e4919c17fffb7914a6e1ebbd6b039cfc736dd8dc5f97330e16e9c399063",
+    "normalized_content_hash": "sha256:4533a834b491deb4f2756545353d7d885d723a0d8465d2c6f65fc6585084e199"
+  },
+  "provenance": {
+    "source_item_id": "0d036d05-ae04-4e5b-a34b-3f6b8a1effd7",
+    "external_id": "https://www.qorvo.com/design-hub/blog/smarter-power-for-smarter-doorbells-enabling-the-next-wave-of-home-security"
+  }
+}

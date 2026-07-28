@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bcf7d78d2ba9d3c281c9a56a13e39199f7ed2ec0d45341380933174d89d2e040",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/wisdomtree-interest-rate-hedged-us-aggregate-bd-fd-wisdomtree-trust-nasdaq-agzd-declared-a-dividend-of-$0.0700-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/wisdomtree-interest-rate-hedged-us-aggregate-bd-fd-wisdomtree-trust-nasdaq-agzd-declared-a-dividend-of-$0.0700-per-share/"
+  },
+  "title": "AGZD Dividend Announcement $0.0700/Share 7/27/2026",
+  "summary": "NASDAQ:AGZD WisdomTree Interest Rate Hedged US Aggregate Bd Fd/WisdomTree Trust Dividend Announcement $0.0700 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T15:15:49.421303+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.162041+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/bc/bcf7d78d2ba9d3c281c9a56a13e39199f7ed2ec0d45341380933174d89d2e040/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/bc/bcf7d78d2ba9d3c281c9a56a13e39199f7ed2ec0d45341380933174d89d2e040/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2250,
+    "sha256": "sha256:26ba6e175e62a8d5d2c28a0efa28d28ccc442492a9fda7b02c311ad2e1f09aa0",
+    "normalized_content_hash": "sha256:73f791af7b1d81c779b5b50d84e32096afa0d768d42e64c87bbf1addaeadc02e"
+  },
+  "provenance": {
+    "source_item_id": "686e2417-50d7-418a-8501-a9501d75403a",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/wisdomtree-interest-rate-hedged-us-aggregate-bd-fd-wisdomtree-trust-nasdaq-agzd-declared-a-dividend-of-$0.0700-per-share/"
+  }
+}

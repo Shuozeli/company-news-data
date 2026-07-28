@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e9066793591e3b4b410223623760613ea68a490cd0f68ebc47ac378504826d0d",
+  "company": {
+    "key": "yc-sameday",
+    "name": "Sameday"
+  },
+  "source": {
+    "id": "yc-sameday-news-import-4fc489393e67",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gosameday.com/post/automated-call-distribution-acd-a-practical-guide-for-small-contractors",
+    "canonical": "https://www.gosameday.com/post/automated-call-distribution-acd-a-practical-guide-for-small-contractors"
+  },
+  "title": "Automated Call Distribution (ACD)",
+  "summary": "How contractors can use automated call distribution with Voice AI to answer all calls and transfer them to available team members.",
+  "published_at": "2026-03-11T17:55:11.155+00:00",
+  "first_seen_at": "2026-07-23T23:50:52.864008+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:20.285073+00:00",
+  "paths": {
+    "article": "articles/v1/14/yc-sameday/2026/03/e9/e9066793591e3b4b410223623760613ea68a490cd0f68ebc47ac378504826d0d/article.md",
+    "record": "articles/v1/14/yc-sameday/2026/03/e9/e9066793591e3b4b410223623760613ea68a490cd0f68ebc47ac378504826d0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10095,
+    "sha256": "sha256:4eb6bf067a2507960f065d026371632cc3060ddc5e4e7d382776b23360c3df2b",
+    "normalized_content_hash": "sha256:0da0ff8578ca81d859c25ebca4220630316689cba4c9ad53c5e5c3e5779ad035"
+  },
+  "provenance": {
+    "source_item_id": "25bc033c-a7c9-41d1-a201-3342379ef142",
+    "external_id": "https://www.gosameday.com/post/automated-call-distribution-acd-a-practical-guide-for-small-contractors"
+  }
+}

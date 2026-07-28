@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "78dbc16c110c6f465f5663eb750fac5c6e88379bb55a0016433f6ed19b81834f",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/quantum-networks-and-the-quantum-internet",
+    "canonical": "https://www.btq.tech/blog/quantum-networks-and-the-quantum-internet"
+  },
+  "title": "Quantum Networks and The Quantum Internet",
+  "summary": "Unlock the future of secure communication with quantum networks. These advanced systems harness quantum mechanics to deliver unparalleled security and speed. Discover how they're paving the way for a new era of encryption and global connectivity.",
+  "published_at": "2024-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:11.894120+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2024/05/78/78dbc16c110c6f465f5663eb750fac5c6e88379bb55a0016433f6ed19b81834f/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2024/05/78/78dbc16c110c6f465f5663eb750fac5c6e88379bb55a0016433f6ed19b81834f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10825,
+    "sha256": "sha256:90ddd1268fad126050b7c37a0ecbd8c1ccf899b90787183896aad1cbdaa39bee",
+    "normalized_content_hash": "sha256:11f60a33f1a4f1a6bc54ca94de9cbda9c6677d943298541946f5ad4da7083902"
+  },
+  "provenance": {
+    "source_item_id": "c111df40-0482-4f88-afd9-ea5b8d3b809d",
+    "external_id": "https://www.btq.tech/blog/quantum-networks-and-the-quantum-internet"
+  }
+}

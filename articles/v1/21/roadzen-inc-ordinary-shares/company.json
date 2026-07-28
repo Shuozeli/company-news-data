@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "roadzen-inc-ordinary-shares",
+    "name": "Roadzen Inc. Ordinary Shares"
+  },
+  "record_count": 10,
+  "first_published_at": "2024-10-21T09:57:59+00:00",
+  "last_published_at": "2025-08-28T04:31:33+00:00",
+  "partitions": [
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    }
+  ]
+}

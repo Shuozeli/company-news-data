@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c0e11c052382d0a95fe4d01af2d14290a94f98024b56a18444dd19740bfb5a9",
+  "company": {
+    "key": "pubmatic-inc-class-a-common-stock",
+    "name": "PubMatic Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "pubmatic-inc-class-a-common-stock-rss-0ec8ce99262b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pubmatic.com/news/pubmatic-havas-telefonica-launch-the-first-agentic-campaign/",
+    "canonical": "https://pubmatic.com/news/pubmatic-havas-telefonica-launch-the-first-agentic-campaign/"
+  },
+  "title": "PubMatic and Havas Launch the First Agentic CTV Campaign in Spain for Telefónica, Achieving 18% Lower CPM vs Target",
+  "summary": "The first Holding Company adoption of agentic advertising in Spain combines autonomous AI with direct access to premium CTV inventory for efficiency gains.",
+  "published_at": "2026-06-09T04:10:28+00:00",
+  "first_seen_at": "2026-07-20T23:22:59.422019+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-07-28T21:13:01.661580+00:00",
+  "paths": {
+    "article": "articles/v1/01/pubmatic-inc-class-a-common-stock/2026/06/7c/7c0e11c052382d0a95fe4d01af2d14290a94f98024b56a18444dd19740bfb5a9/article.md",
+    "record": "articles/v1/01/pubmatic-inc-class-a-common-stock/2026/06/7c/7c0e11c052382d0a95fe4d01af2d14290a94f98024b56a18444dd19740bfb5a9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8823,
+    "sha256": "sha256:2c124a7cb93c216c35fc037f307706effef78bcbaddcdbbda8d41ce200575866",
+    "normalized_content_hash": "sha256:00196fbb60ca7757eab1dec63900459fc69a73c6187247e98c82c578ca8f4ef9"
+  },
+  "provenance": {
+    "source_item_id": "19df6a5f-3974-44d7-bdc2-18fc9b7d9920",
+    "external_id": "https://pubmatic.com/?post_type=news&p=73695"
+  }
+}

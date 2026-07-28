@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d220b3b22c4d19d4487684dced06cb9460dde68903ed4fec097675cf96040aeb",
+  "company": {
+    "key": "shake-shack-inc-class-a-common-stock",
+    "name": "Shake Shack Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "shake-shack-inc-class-a-common-stock-news-import-187e71a40f34",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://shakeshack.com/blog/shack-news/shake-shack-is-celebrating-teachers-and-nurses",
+    "canonical": "https://shakeshack.com/blog/shack-news/shake-shack-is-celebrating-teachers-and-nurses"
+  },
+  "title": "Shake Shack is Celebrating Teachers and Nurses!",
+  "summary": "We want to give back this Teacher appreciation week & Nurse appreciation week, Shake Shack is offering a free ShackBurger with the purchase of any item",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T23:40:56.052197+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:22.096890+00:00",
+  "paths": {
+    "article": "articles/v1/91/shake-shack-inc-class-a-common-stock/2026/07/d2/d220b3b22c4d19d4487684dced06cb9460dde68903ed4fec097675cf96040aeb/article.md",
+    "record": "articles/v1/91/shake-shack-inc-class-a-common-stock/2026/07/d2/d220b3b22c4d19d4487684dced06cb9460dde68903ed4fec097675cf96040aeb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4272,
+    "sha256": "sha256:ed4f9fcf2fc6be487990da2f8491a66e354437816ae26aa32eb2491927958722",
+    "normalized_content_hash": "sha256:388d83d3e50f5f6f629c3250babdce64cddd190d617c8c98d10058217370c909"
+  },
+  "provenance": {
+    "source_item_id": "c80549ce-9968-45da-bb22-9e6458682e0a",
+    "external_id": "https://shakeshack.com/blog/shack-news/shake-shack-is-celebrating-teachers-and-nurses"
+  }
+}

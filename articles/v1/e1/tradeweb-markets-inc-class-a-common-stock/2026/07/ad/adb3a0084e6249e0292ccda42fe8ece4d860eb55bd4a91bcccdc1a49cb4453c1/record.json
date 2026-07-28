@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "adb3a0084e6249e0292ccda42fe8ece4d860eb55bd4a91bcccdc1a49cb4453c1",
+  "company": {
+    "key": "tradeweb-markets-inc-class-a-common-stock",
+    "name": "Tradeweb Markets Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "tradeweb-markets-inc-class-a-common-stock-news-import-c357aa65b261",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tradeweb.com/newsroom/media-center/in-the-news/the-evolution-of-systematic-rates-trading/",
+    "canonical": "https://www.tradeweb.com/newsroom/media-center/in-the-news/the-evolution-of-systematic-rates-trading/"
+  },
+  "title": "The Evolution of Systematic Rates Trading",
+  "summary": "In this Q&A, Angus McDiarmid, Head of European Interest Rate Swaps, and Daniel Flaim, Head of U.S. Interest Rate Swaps at Tradeweb, discuss the rise of systematic swaps trading, evolving client behaviour and the next phase of electronification across global derivatives markets.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:29:26.391128+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:22:03.987547+00:00",
+  "paths": {
+    "article": "articles/v1/e1/tradeweb-markets-inc-class-a-common-stock/2026/07/ad/adb3a0084e6249e0292ccda42fe8ece4d860eb55bd4a91bcccdc1a49cb4453c1/article.md",
+    "record": "articles/v1/e1/tradeweb-markets-inc-class-a-common-stock/2026/07/ad/adb3a0084e6249e0292ccda42fe8ece4d860eb55bd4a91bcccdc1a49cb4453c1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7650,
+    "sha256": "sha256:9a2e0232aa0256ce6466ff3cf8a717fd91a690eb92c29cb181965c8064cc1c5e",
+    "normalized_content_hash": "sha256:09a8dd801266ff557af9b3474d2d0ab272848caf0f5f4fb5ea7ef6c564040a96"
+  },
+  "provenance": {
+    "source_item_id": "423d1244-c7ea-4239-9c0e-ff9076e2d198",
+    "external_id": "https://www.tradeweb.com/newsroom/media-center/in-the-news/the-evolution-of-systematic-rates-trading/"
+  }
+}

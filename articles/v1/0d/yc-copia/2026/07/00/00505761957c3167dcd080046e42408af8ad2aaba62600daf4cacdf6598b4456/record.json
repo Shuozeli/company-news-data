@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00505761957c3167dcd080046e42408af8ad2aaba62600daf4cacdf6598b4456",
+  "company": {
+    "key": "yc-copia",
+    "name": "Copia"
+  },
+  "source": {
+    "id": "yc-copia-news-import-be7a5ebf6f83",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gocopia.com/news/the-food-industrys-moment-to-lead-doing-well-by-doing-good/",
+    "canonical": "https://www.gocopia.com/news/the-food-industrys-moment-to-lead-doing-well-by-doing-good/"
+  },
+  "title": "The Food Industry’s Moment to Lead: Doing Well by Doing Good",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T14:59:02.684472+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:22:01.664792+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-copia/2026/07/00/00505761957c3167dcd080046e42408af8ad2aaba62600daf4cacdf6598b4456/article.md",
+    "record": "articles/v1/0d/yc-copia/2026/07/00/00505761957c3167dcd080046e42408af8ad2aaba62600daf4cacdf6598b4456/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3500,
+    "sha256": "sha256:b2064d441ae688e1bc79144e7d49d9bfdc60a4011f5b289b520eefa59c338163",
+    "normalized_content_hash": "sha256:ec6886b78e9313651876275338afe2b8ba78e746f9e8b7681b8399960850076d"
+  },
+  "provenance": {
+    "source_item_id": "14a84445-da5e-4fa6-ade7-ecc4942a9fb5",
+    "external_id": "https://www.gocopia.com/news/the-food-industrys-moment-to-lead-doing-well-by-doing-good/"
+  }
+}

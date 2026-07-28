@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "49f1991515f819a1eaaf1d7bbc5249c683584f5efd65e22317420b2155c5a102",
+  "company": {
+    "key": "yc-electric-air-2",
+    "name": "Electric Air"
+  },
+  "source": {
+    "id": "yc-electric-air-2-news-import-b69578f00d30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.electricair.io/posts/choices",
+    "canonical": "https://electricair.io/posts/choices"
+  },
+  "title": "How to Choose the Best Heat Pump for Your Family",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T02:28:44.827958+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:24.410065+00:00",
+  "paths": {
+    "article": "articles/v1/59/yc-electric-air-2/2026/07/49/49f1991515f819a1eaaf1d7bbc5249c683584f5efd65e22317420b2155c5a102/article.md",
+    "record": "articles/v1/59/yc-electric-air-2/2026/07/49/49f1991515f819a1eaaf1d7bbc5249c683584f5efd65e22317420b2155c5a102/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5233,
+    "sha256": "sha256:55cbeca4b44d3af2e84e07f89e7ee9e7f465c835b48209f4252e043c8f9c4dfb",
+    "normalized_content_hash": "sha256:c051c5849fb57cb63fb64d2a4da70bc9e4705ca073b5aa98a76679f075bee781"
+  },
+  "provenance": {
+    "source_item_id": "53f1688b-e604-4bdc-b399-3a3a774e694a",
+    "external_id": "https://electricair.io/posts/choices"
+  }
+}

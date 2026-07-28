@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e3b1ca161ed3d149896ab9ccb4f9de73280cf1b1dbc36794934a66bb82ebb9b2",
+  "company": {
+    "key": "vor-biopharma-inc-common-stock",
+    "name": "Vor Biopharma Inc. Common Stock"
+  },
+  "source": {
+    "id": "vor-biopharma-inc-common-stock-news-import-58d3728d6be9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2026/05/14/3294940/0/en/vor-bio-announces-publication-of-interim-analysis-of-teligan-a-china-phase-3-trial-of-telitacicept-in-iga-nephropathy-in-the-new-england-journal-of-medicine.html",
+    "canonical": "https://www.globenewswire.com/news-release/2026/05/14/3294940/0/en/vor-bio-announces-publication-of-interim-analysis-of-teligan-a-china-phase-3-trial-of-telitacicept-in-iga-nephropathy-in-the-new-england-journal-of-medicine.html"
+  },
+  "title": "Vor Bio Announces Publication of Interim Analysis of TELIGAN, a China Phase 3 Trial of Telitacicept in IgA Nephropathy, in The New England Journal of Medicine",
+  "summary": "Interim analysis demonstrated a 55.0% relative reduction in proteinuria versus placebo at 39 weeks with eGFR remaining stable through treatment Results...",
+  "published_at": "2026-05-14T12:30:00+00:00",
+  "first_seen_at": "2026-07-26T04:57:22.960159+00:00",
+  "fetched_at": "2026-07-28T22:15:44.247179+00:00",
+  "last_updated_at": "2026-07-28T22:16:21.201781+00:00",
+  "paths": {
+    "article": "articles/v1/00/vor-biopharma-inc-common-stock/2026/05/e3/e3b1ca161ed3d149896ab9ccb4f9de73280cf1b1dbc36794934a66bb82ebb9b2/article.md",
+    "record": "articles/v1/00/vor-biopharma-inc-common-stock/2026/05/e3/e3b1ca161ed3d149896ab9ccb4f9de73280cf1b1dbc36794934a66bb82ebb9b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9486,
+    "sha256": "sha256:66cd7eb1bfca76716bbfb5812b844220c62a182d4eb47dfd1f045ee29f582682",
+    "normalized_content_hash": "sha256:64d4610c6a4aaaae6d9a50ce10e0a9332b5b9a0251a6e90b4f4d89f9cf04ca77"
+  },
+  "provenance": {
+    "source_item_id": "86fb4d59-bcb3-42bd-b8f7-e4b46d2b69aa",
+    "external_id": "https://www.globenewswire.com/news-release/2026/05/14/3294940/0/en/vor-bio-announces-publication-of-interim-analysis-of-teligan-a-china-phase-3-trial-of-telitacicept-in-iga-nephropathy-in-the-new-england-journal-of-medicine.html"
+  }
+}

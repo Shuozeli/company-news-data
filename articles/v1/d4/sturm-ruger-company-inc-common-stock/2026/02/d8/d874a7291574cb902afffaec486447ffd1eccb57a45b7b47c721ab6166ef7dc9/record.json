@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d874a7291574cb902afffaec486447ffd1eccb57a45b7b47c721ab6166ef7dc9",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-02-27.html",
+    "canonical": "https://ruger.com/news/2026-02-27.html"
+  },
+  "title": "Sturm, Ruger & Company, Inc. To Report Fourth Quarter and Year-End 2025 Financial Results on Monday, March 2",
+  "summary": "",
+  "published_at": "2026-02-27T17:05:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:37.307321+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/02/d8/d874a7291574cb902afffaec486447ffd1eccb57a45b7b47c721ab6166ef7dc9/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/02/d8/d874a7291574cb902afffaec486447ffd1eccb57a45b7b47c721ab6166ef7dc9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3628,
+    "sha256": "sha256:800a14a9b0ce7b5dd0df477d0daa0292d61e6999c4c92371dd5eb597e5de8bda",
+    "normalized_content_hash": "sha256:7fde34cffb815ddc319b37d8b3f0f976bae4c47a52d39306391d3bf354541065"
+  },
+  "provenance": {
+    "source_item_id": "18bd0658-8c34-4727-956a-018db24a121d",
+    "external_id": "https://ruger.com/news/2026-02-27.html"
+  }
+}

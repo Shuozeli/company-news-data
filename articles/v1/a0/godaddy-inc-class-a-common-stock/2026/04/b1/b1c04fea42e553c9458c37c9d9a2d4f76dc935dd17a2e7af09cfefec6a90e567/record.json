@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1c04fea42e553c9458c37c9d9a2d4f76dc935dd17a2e7af09cfefec6a90e567",
+  "company": {
+    "key": "godaddy-inc-class-a-common-stock",
+    "name": "GoDaddy Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "godaddy-inc-class-a-common-stock-rss-9ab8cf80df8f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://aboutus.godaddy.net/files/doc_financials/2026/q1/GDDY-Q1-2026-Earnings-Release.pdf",
+    "canonical": "https://aboutus.godaddy.net/files/doc_financials/2026/q1/GDDY-Q1-2026-Earnings-Release.pdf"
+  },
+  "title": "GoDaddy Inc. Reports First Quarter 2026 Financial Results",
+  "summary": "",
+  "published_at": "2026-04-30T20:07:00+00:00",
+  "first_seen_at": "2026-07-25T06:48:21.369610+00:00",
+  "fetched_at": "2026-07-28T21:01:50.743153+00:00",
+  "last_updated_at": "2026-07-28T21:01:50.846299+00:00",
+  "paths": {
+    "article": "articles/v1/a0/godaddy-inc-class-a-common-stock/2026/04/b1/b1c04fea42e553c9458c37c9d9a2d4f76dc935dd17a2e7af09cfefec6a90e567/article.md",
+    "record": "articles/v1/a0/godaddy-inc-class-a-common-stock/2026/04/b1/b1c04fea42e553c9458c37c9d9a2d4f76dc935dd17a2e7af09cfefec6a90e567/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 666,
+    "sha256": "sha256:63c44bd79167374c6c68f0e583f6e3562d185bc59b57b50b33af1f3367937432",
+    "normalized_content_hash": "sha256:62d5cbd6d11836e92705e28cd43deb04ebd6593fa0f6d84b11c69ce1af025f4e"
+  },
+  "provenance": {
+    "source_item_id": "c676402c-d9a4-4f26-be65-971ae42a066c",
+    "external_id": "b1946640-fa5b-4394-b7ed-a80d24ee7462"
+  }
+}

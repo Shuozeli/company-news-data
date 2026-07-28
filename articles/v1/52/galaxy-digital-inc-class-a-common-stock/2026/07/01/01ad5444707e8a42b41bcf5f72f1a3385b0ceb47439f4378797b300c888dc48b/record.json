@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01ad5444707e8a42b41bcf5f72f1a3385b0ceb47439f4378797b300c888dc48b",
+  "company": {
+    "key": "galaxy-digital-inc-class-a-common-stock",
+    "name": "Galaxy Digital Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "galaxy-digital-inc-class-a-common-stock-news-import-fbc635ef0517",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.galaxy.com/insights/research/weekly-top-stories-06-26-26-trump-quantum-eo-clarity-act-odds-gnosis-ens-dao-governance",
+    "canonical": "https://www.galaxy.com/insights/research/weekly-top-stories-06-26-26-trump-quantum-eo-clarity-act-odds-gnosis-ens-dao-governance"
+  },
+  "title": "Research • June 26, 2026 Weekly Top Stories - 06/26/26 Bitcoin Ethereum Regulation Weekly Top Stories",
+  "summary": "Trump's quantum EO; CLARITY Act odds slip to 50-50; governance overhauls at ENS and Gnosis",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T06:07:02.932709+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:52.390946+00:00",
+  "paths": {
+    "article": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/01/01ad5444707e8a42b41bcf5f72f1a3385b0ceb47439f4378797b300c888dc48b/article.md",
+    "record": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/01/01ad5444707e8a42b41bcf5f72f1a3385b0ceb47439f4378797b300c888dc48b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 37168,
+    "sha256": "sha256:ba9752c771b3b2b1424de8a3227d07e60c0e07a2422f782544dfd3a974dca2fd",
+    "normalized_content_hash": "sha256:052024f292100c9c310f5c5e97486f0e7ec9f7007a52272093413a61a0dedc38"
+  },
+  "provenance": {
+    "source_item_id": "343129f7-863f-4426-a722-e555f1c8a908",
+    "external_id": "https://www.galaxy.com/insights/research/weekly-top-stories-06-26-26-trump-quantum-eo-clarity-act-odds-gnosis-ens-dao-governance"
+  }
+}

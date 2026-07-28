@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-poka-labs",
+    "name": "Poka Labs"
+  },
+  "record_count": 8,
+  "first_published_at": "2024-10-24T00:00:00+00:00",
+  "last_published_at": "2026-04-24T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ]
+}

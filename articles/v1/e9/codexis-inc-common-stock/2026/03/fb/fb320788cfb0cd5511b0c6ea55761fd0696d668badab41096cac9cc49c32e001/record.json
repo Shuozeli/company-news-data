@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb320788cfb0cd5511b0c6ea55761fd0696d668badab41096cac9cc49c32e001",
+  "company": {
+    "key": "codexis-inc-common-stock",
+    "name": "Codexis Inc. Common Stock"
+  },
+  "source": {
+    "id": "codexis-inc-common-stock-news-import-1ee2d830b845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.codexis.com/news-events/press-releases/detail/443/codexis-reports-fourth-quarter-and-fiscal-year-2025-financial-results",
+    "canonical": "https://ir.codexis.com/news-events/press-releases/detail/443/codexis-reports-fourth-quarter-and-fiscal-year-2025-financial-results"
+  },
+  "title": "Codexis Reports Fourth Quarter and Fiscal Year 2025 Financial Results",
+  "summary": "Q4 revenue of $38.9 million, total revenue of $70.4 million for the fiscal year ended December 31, 2025 Ended year with $78.2 million…...",
+  "published_at": "2026-03-11T16:05:00+00:00",
+  "first_seen_at": "2026-07-21T14:08:14.093650+00:00",
+  "fetched_at": "2026-07-28T21:26:25.193690+00:00",
+  "last_updated_at": "2026-07-28T21:26:50.278827+00:00",
+  "paths": {
+    "article": "articles/v1/e9/codexis-inc-common-stock/2026/03/fb/fb320788cfb0cd5511b0c6ea55761fd0696d668badab41096cac9cc49c32e001/article.md",
+    "record": "articles/v1/e9/codexis-inc-common-stock/2026/03/fb/fb320788cfb0cd5511b0c6ea55761fd0696d668badab41096cac9cc49c32e001/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19104,
+    "sha256": "sha256:5ed89c85b27be6456854293a5e9762b4f1dc5fa5b85746bbb73a2f19e32cc137",
+    "normalized_content_hash": "sha256:ecac2a9fa21b6e533758e5646957db2e44f4adab5b6bb82f49bd824807e0d180"
+  },
+  "provenance": {
+    "source_item_id": "83a128d0-acc5-4682-be0a-6b76383ea90e",
+    "external_id": "https://ir.codexis.com/news-events/press-releases/detail/443/codexis-reports-fourth-quarter-and-fiscal-year-2025-financial-results"
+  }
+}

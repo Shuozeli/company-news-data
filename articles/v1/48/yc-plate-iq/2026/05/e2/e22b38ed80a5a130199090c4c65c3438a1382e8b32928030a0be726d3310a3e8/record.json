@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e22b38ed80a5a130199090c4c65c3438a1382e8b32928030a0be726d3310a3e8",
+  "company": {
+    "key": "yc-plate-iq",
+    "name": "Plate IQ"
+  },
+  "source": {
+    "id": "yc-plate-iq-news-import-9b094f88901e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ottimate.com/resources/state-of-ap-maturity-2026-healthcare/",
+    "canonical": "https://ottimate.com/resources/state-of-ap-maturity-2026-healthcare/"
+  },
+  "title": "The State of AP Maturity 2026: Healthcare Edition",
+  "summary": "See what 200+ healthcare finance leaders say about AP automation gaps, invoice fraud, and the case for a unified approach. Download the free report.",
+  "published_at": "2026-05-11T20:52:47+00:00",
+  "first_seen_at": "2026-07-25T19:18:34.539472+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-07-28T22:00:51.853996+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-plate-iq/2026/05/e2/e22b38ed80a5a130199090c4c65c3438a1382e8b32928030a0be726d3310a3e8/article.md",
+    "record": "articles/v1/48/yc-plate-iq/2026/05/e2/e22b38ed80a5a130199090c4c65c3438a1382e8b32928030a0be726d3310a3e8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1617,
+    "sha256": "sha256:b2396ddd9dbd6bc9455b5fad960e4aa25aee7194857b7ed7c11ac053a5fdbccb",
+    "normalized_content_hash": "sha256:43e623cc9c1537f83e27246dabd5f869a40ad441252a748bf24226cf1fb6876c"
+  },
+  "provenance": {
+    "source_item_id": "903da2d9-50d1-4139-a1a9-45def027f43c",
+    "external_id": "https://ottimate.com/resources/state-of-ap-maturity-2026-healthcare/"
+  }
+}

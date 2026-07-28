@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-healthspark",
+    "name": "HealthSpark"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-03-14T00:00:00+00:00",
+  "last_published_at": "2026-04-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    }
+  ]
+}

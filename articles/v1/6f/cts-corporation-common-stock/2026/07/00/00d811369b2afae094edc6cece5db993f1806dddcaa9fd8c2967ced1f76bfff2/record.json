@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00d811369b2afae094edc6cece5db993f1806dddcaa9fd8c2967ced1f76bfff2",
+  "company": {
+    "key": "cts-corporation-common-stock",
+    "name": "CTS Corporation Common Stock"
+  },
+  "source": {
+    "id": "cts-corporation-common-stock-news-import-129d6406f8cd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ctscorp.com/Resources/Press-Releases/Introducing-the-Series-782-Non-Contacting-Accelerator-Pedal",
+    "canonical": "https://www.ctscorp.com/Resources/Press-Releases/Introducing-the-Series-782-Non-Contacting-Accelerator-Pedal"
+  },
+  "title": "Introducing the Series 782 Non-Contacting Accelerator Pedal",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T15:30:07.974813+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:42:07.575664+00:00",
+  "paths": {
+    "article": "articles/v1/6f/cts-corporation-common-stock/2026/07/00/00d811369b2afae094edc6cece5db993f1806dddcaa9fd8c2967ced1f76bfff2/article.md",
+    "record": "articles/v1/6f/cts-corporation-common-stock/2026/07/00/00d811369b2afae094edc6cece5db993f1806dddcaa9fd8c2967ced1f76bfff2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3904,
+    "sha256": "sha256:d9904ef1dedc544c36e5b4610d71cac7b84146a9f288de8868d0d15b2d4fe979",
+    "normalized_content_hash": "sha256:40115959d44dd218c13144df535fa427f459cfdecf08554dbc3cc9a15bbf0935"
+  },
+  "provenance": {
+    "source_item_id": "694a46b9-f56c-460d-9c7b-aa1fde942619",
+    "external_id": "https://www.ctscorp.com/Resources/Press-Releases/Introducing-the-Series-782-Non-Contacting-Accelerator-Pedal"
+  }
+}

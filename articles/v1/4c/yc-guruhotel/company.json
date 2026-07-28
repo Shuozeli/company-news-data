@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-guruhotel",
+    "name": "GuruHotel"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-07-28T16:42:15.278+00:00",
+  "last_published_at": "2026-07-28T16:42:16.416+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ]
+}

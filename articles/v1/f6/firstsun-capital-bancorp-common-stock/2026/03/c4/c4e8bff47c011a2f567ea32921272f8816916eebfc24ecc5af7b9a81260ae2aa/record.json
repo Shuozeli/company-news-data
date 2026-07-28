@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c4e8bff47c011a2f567ea32921272f8816916eebfc24ecc5af7b9a81260ae2aa",
+  "company": {
+    "key": "firstsun-capital-bancorp-common-stock",
+    "name": "FirstSun Capital Bancorp Common Stock"
+  },
+  "source": {
+    "id": "firstsun-capital-bancorp-common-stock-news-import-15d9867b0720",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sunflowerbank.com/about-us/news/regulatory-approvals-first-foundation-merger",
+    "canonical": "https://www.sunflowerbank.com/about-us/news/regulatory-approvals-first-foundation-merger"
+  },
+  "title": "FirstSun Capital Bancorp and First Foundation Inc. Announce Receipt of All Bank Regulatory Approvals to Complete Proposed Merger",
+  "summary": "FirstSun Capital Bancorp and First Foundation Inc. jointly announced the receipt of regulatory approval from the Federal Reserve to complete the proposed merger of First Foundation with and into FirstSun.",
+  "published_at": "2026-03-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T05:11:34.096936+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:22.894429+00:00",
+  "paths": {
+    "article": "articles/v1/f6/firstsun-capital-bancorp-common-stock/2026/03/c4/c4e8bff47c011a2f567ea32921272f8816916eebfc24ecc5af7b9a81260ae2aa/article.md",
+    "record": "articles/v1/f6/firstsun-capital-bancorp-common-stock/2026/03/c4/c4e8bff47c011a2f567ea32921272f8816916eebfc24ecc5af7b9a81260ae2aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1766,
+    "sha256": "sha256:ecfb817c95f6f832c266d948a592c39a6a20a850837603132b860107d0a34896",
+    "normalized_content_hash": "sha256:27162e6defe36bdfc3923c5e3a5aeaa14584b2c3c30dd0d959c6a76adb70bd8f"
+  },
+  "provenance": {
+    "source_item_id": "c19db5da-4cf1-4bac-981e-457274e1a8f0",
+    "external_id": "https://www.sunflowerbank.com/about-us/news/regulatory-approvals-first-foundation-merger"
+  }
+}

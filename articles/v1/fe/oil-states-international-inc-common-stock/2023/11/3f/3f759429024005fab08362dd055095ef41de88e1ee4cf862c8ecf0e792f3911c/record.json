@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f759429024005fab08362dd055095ef41de88e1ee4cf862c8ecf0e792f3911c",
+  "company": {
+    "key": "oil-states-international-inc-common-stock",
+    "name": "Oil States International Inc. Common Stock"
+  },
+  "source": {
+    "id": "oil-states-international-inc-common-stock-news-import-8a4d9616663b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://oilstates.com/news/oil-states-industries-halliburton-collaborate-to-provide-innovative-deepwater-managed-pressure-drilling-solutions/",
+    "canonical": "https://oilstates.com/news/oil-states-industries-halliburton-collaborate-to-provide-innovative-deepwater-managed-pressure-drilling-solutions/"
+  },
+  "title": "OIL STATES INDUSTRIES, HALLIBURTON COLLABORATE TO PROVIDE INNOVATIVE DEEPWATER MANAGED PRESSURE DRILLING SOLUTIONS - Oil States",
+  "summary": "A description here",
+  "published_at": "2023-11-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:52:00.362483+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:35:59.023287+00:00",
+  "paths": {
+    "article": "articles/v1/fe/oil-states-international-inc-common-stock/2023/11/3f/3f759429024005fab08362dd055095ef41de88e1ee4cf862c8ecf0e792f3911c/article.md",
+    "record": "articles/v1/fe/oil-states-international-inc-common-stock/2023/11/3f/3f759429024005fab08362dd055095ef41de88e1ee4cf862c8ecf0e792f3911c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5062,
+    "sha256": "sha256:402048ec20172007e2c7c73ebb79bc5689939a1af584cd854d7a9460386ba99a",
+    "normalized_content_hash": "sha256:639be6a7ac724412f9c8eca4d2500125d1616072808d0a1a6740d9414348e431"
+  },
+  "provenance": {
+    "source_item_id": "5c139249-18d0-4729-bb82-bc6faddcea90",
+    "external_id": "https://oilstates.com/news/oil-states-industries-halliburton-collaborate-to-provide-innovative-deepwater-managed-pressure-drilling-solutions/"
+  }
+}

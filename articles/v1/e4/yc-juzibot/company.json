@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-juzibot",
+    "name": "JuziBot"
+  },
+  "record_count": 4,
+  "first_published_at": "2022-02-11T00:00:00+00:00",
+  "last_published_at": "2022-03-14T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    }
+  ]
+}

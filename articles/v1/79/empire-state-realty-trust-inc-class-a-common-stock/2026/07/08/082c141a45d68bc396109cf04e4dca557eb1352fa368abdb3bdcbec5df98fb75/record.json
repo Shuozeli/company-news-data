@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "082c141a45d68bc396109cf04e4dca557eb1352fa368abdb3bdcbec5df98fb75",
+  "company": {
+    "key": "empire-state-realty-trust-inc-class-a-common-stock",
+    "name": "Empire State Realty Trust Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "empire-state-realty-trust-inc-class-a-common-stock-news-import-44702ffe1d99",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.esrtreit.com/blog/empire-state-building/",
+    "canonical": "https://www.esrtreit.com/blog/empire-state-building/"
+  },
+  "title": "Empire State Building",
+  "summary": "ESRT has signed a long-term lease with Partner Reinsurance Company of the U.S. for a full-floor tenancy of 56,700 sq. ft. at 200 First Stamford Place.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T18:03:43.713557+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:22:00.639830+00:00",
+  "paths": {
+    "article": "articles/v1/79/empire-state-realty-trust-inc-class-a-common-stock/2026/07/08/082c141a45d68bc396109cf04e4dca557eb1352fa368abdb3bdcbec5df98fb75/article.md",
+    "record": "articles/v1/79/empire-state-realty-trust-inc-class-a-common-stock/2026/07/08/082c141a45d68bc396109cf04e4dca557eb1352fa368abdb3bdcbec5df98fb75/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6034,
+    "sha256": "sha256:c6b2653605d18d89a6adbc32ab51857cb2942b5932acfa2a9733ccb5d039ad96",
+    "normalized_content_hash": "sha256:4bbe66805f82249a74e3885e621ebff8aaf9e8d607c4a48089accf3f9ffa19f4"
+  },
+  "provenance": {
+    "source_item_id": "7335ab71-ff4e-454d-98c8-5b29d4043f0c",
+    "external_id": "https://www.esrtreit.com/blog/empire-state-building/"
+  }
+}

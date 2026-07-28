@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fc48e331ffa71ed384df54eb24da79540a5c62a7988c91229342360ef5b00edc",
+  "company": {
+    "key": "shutterstock-inc-common-stock",
+    "name": "Shutterstock Inc. Common Stock"
+  },
+  "source": {
+    "id": "shutterstock-inc-common-stock-rss-4c794ed87dc5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.shutterstock.com/2019/03/05/building-a-brick-grid-in-react",
+    "canonical": "https://tech.shutterstock.com/2019/03/05/building-a-brick-grid-in-react"
+  },
+  "title": "Shutterstock's Search Results Grid",
+  "summary": "Building a Brick Grid in React",
+  "published_at": "2019-03-05T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:18:13.615263+00:00",
+  "fetched_at": "2026-07-28T22:26:51.183990+00:00",
+  "last_updated_at": "2026-07-28T22:26:56.444221+00:00",
+  "paths": {
+    "article": "articles/v1/58/shutterstock-inc-common-stock/2019/03/fc/fc48e331ffa71ed384df54eb24da79540a5c62a7988c91229342360ef5b00edc/article.md",
+    "record": "articles/v1/58/shutterstock-inc-common-stock/2019/03/fc/fc48e331ffa71ed384df54eb24da79540a5c62a7988c91229342360ef5b00edc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16297,
+    "sha256": "sha256:75ab60787497ab8ac9d8e70d953fee8587621760973d1705bdbf81a244f5234f",
+    "normalized_content_hash": "sha256:b3d737e52d60c1518dcc417fd534f893471b679602d6c6ffbc1be2ca496a05bd"
+  },
+  "provenance": {
+    "source_item_id": "9ca954b7-ab93-4c29-8fc8-8db15836c56a",
+    "external_id": "https://tech.shutterstock.com/2019/03/05/building-a-brick-grid-in-react"
+  }
+}

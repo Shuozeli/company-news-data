@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df5fc6b3e36c12bbb0afcf2a9ce556dcd265b1ca2e5f42a391e25a2c44371d61",
+  "company": {
+    "key": "rxo-inc-common-stock",
+    "name": "RXO Inc. Common Stock"
+  },
+  "source": {
+    "id": "rxo-inc-common-stock-news-import-a56a19d89dc3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rxo.com/news/rxo-partners-with-highway-to-enhance-freight-security-and-streamline-carrier-onboarding/",
+    "canonical": "https://rxo.com/news/rxo-partners-with-highway-to-enhance-freight-security-and-streamline-carrier-onboarding/"
+  },
+  "title": "RXO Partners with Highway to Enhance Freight Security and Streamline Carrier Onboarding",
+  "summary": "The collaboration is designed to strengthen RXO’s network integrity, enhance operational efficiency, and provide a more secure experience for both carriers and customers.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:27:32.476329+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:05.478961+00:00",
+  "paths": {
+    "article": "articles/v1/99/rxo-inc-common-stock/2026/07/df/df5fc6b3e36c12bbb0afcf2a9ce556dcd265b1ca2e5f42a391e25a2c44371d61/article.md",
+    "record": "articles/v1/99/rxo-inc-common-stock/2026/07/df/df5fc6b3e36c12bbb0afcf2a9ce556dcd265b1ca2e5f42a391e25a2c44371d61/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4168,
+    "sha256": "sha256:da6380029e7a24bcc13c16e6769c7b5ccbc61b0057c965ec56e992500c55b1bf",
+    "normalized_content_hash": "sha256:58cb4adc7a0cbe00252e9fb132a94face100b1b32074d24a66d958c7c92eefa9"
+  },
+  "provenance": {
+    "source_item_id": "d11dc550-85ed-4706-9838-dd621c4a17b4",
+    "external_id": "https://rxo.com/news/rxo-partners-with-highway-to-enhance-freight-security-and-streamline-carrier-onboarding/"
+  }
+}

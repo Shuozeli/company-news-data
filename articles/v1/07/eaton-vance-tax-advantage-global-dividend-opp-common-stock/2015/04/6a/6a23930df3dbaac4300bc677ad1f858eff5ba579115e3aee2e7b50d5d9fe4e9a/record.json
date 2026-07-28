@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a23930df3dbaac4300bc677ad1f858eff5ba579115e3aee2e7b50d5d9fe4e9a",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/treasury-option-income-etf-simplify-exchange-traded-funds-nyse-buck-declared-a-dividend-of-$0.1200-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/treasury-option-income-etf-simplify-exchange-traded-funds-nyse-buck-declared-a-dividend-of-$0.1200-per-share/"
+  },
+  "title": "BUCK Dividend Announcement $0.1200/Share 7/27/2026",
+  "summary": "NYSE:BUCK Treasury Option Income ETF/Simplify Exchange Traded Funds Dividend Announcement $0.1200 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.133809+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/6a/6a23930df3dbaac4300bc677ad1f858eff5ba579115e3aee2e7b50d5d9fe4e9a/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/6a/6a23930df3dbaac4300bc677ad1f858eff5ba579115e3aee2e7b50d5d9fe4e9a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1592,
+    "sha256": "sha256:2109fa3ee6259a5ab2b8b2bd51e9a03351aae6e83fb481b7304affcfe2286baf",
+    "normalized_content_hash": "sha256:84f75ac5481712c002afeb8b1730f6abc2abd30fe199534c128fb98274bd185d"
+  },
+  "provenance": {
+    "source_item_id": "7a3ea40d-4fc2-420c-bd8d-ab53110c5cc3",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/treasury-option-income-etf-simplify-exchange-traded-funds-nyse-buck-declared-a-dividend-of-$0.1200-per-share/"
+  }
+}

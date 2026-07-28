@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "251b0496b60e6473706c13e5e4cc6e5b8ca984a757236e0689244bb72b7a6b1c",
+  "company": {
+    "key": "taskus-inc-class-a-common-stock",
+    "name": "TaskUs Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "taskus-inc-class-a-common-stock-news-import-7e169ced7e4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.taskus.com/insights/what-turns-autonomous-vehicles-into-autonomous-scale/",
+    "canonical": "https://www.taskus.com/insights/what-turns-autonomous-vehicles-into-autonomous-scale/"
+  },
+  "title": "What Turns Autonomous Vehicles into Autonomous Scale",
+  "summary": "Scaling AV fleets requires more than hardware. Discover how infrastructure, safety and HITL operations build public trust. Read the full expert analysis.",
+  "published_at": "2026-06-08T15:12:22+00:00",
+  "first_seen_at": "2026-07-26T02:33:01.680573+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-07-28T22:07:26.374870+00:00",
+  "paths": {
+    "article": "articles/v1/87/taskus-inc-class-a-common-stock/2026/06/25/251b0496b60e6473706c13e5e4cc6e5b8ca984a757236e0689244bb72b7a6b1c/article.md",
+    "record": "articles/v1/87/taskus-inc-class-a-common-stock/2026/06/25/251b0496b60e6473706c13e5e4cc6e5b8ca984a757236e0689244bb72b7a6b1c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4972,
+    "sha256": "sha256:142b772ca55b6a6bfc1269a54c210d9de47940caa74f2a5b5fbd72a84b74a527",
+    "normalized_content_hash": "sha256:85f090c0f2ebdfc0d5004b32207577e487997c9a4e62509dc8055694dc5a9561"
+  },
+  "provenance": {
+    "source_item_id": "fc428318-8895-4f69-a0cd-074479298246",
+    "external_id": "https://www.taskus.com/insights/what-turns-autonomous-vehicles-into-autonomous-scale/"
+  }
+}

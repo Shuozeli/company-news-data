@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c45083735b73d8ad2599676a91d8f5e079bb1ee474ed287e49df32931d5f214",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-set-up-demodesk-with-microsoft-outlook-teams-and-hubspot-for",
+    "canonical": "https://demodesk.com/blog/how-to-set-up-demodesk-with-microsoft-outlook-teams-and-hubspot-for"
+  },
+  "title": "How to set up Demodesk with Microsoft Outlook, Teams, and HubSpot for a German SaaS sales team",
+  "summary": "Step-by-step guide to configuring Demodesk for German SaaS sales teams: Outlook admin approval, HubSpot sync, SPICED automation, and GDPR-ready recording settings.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.654505+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/1c/1c45083735b73d8ad2599676a91d8f5e079bb1ee474ed287e49df32931d5f214/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/1c/1c45083735b73d8ad2599676a91d8f5e079bb1ee474ed287e49df32931d5f214/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8489,
+    "sha256": "sha256:37b0426f606b250b1dac0baa368df8c3c690b1e5944a8079049c846abac9c833",
+    "normalized_content_hash": "sha256:eda58bee2c6478a46dc54d8d978987489c6de8139ef7a9d739d348056157d0d0"
+  },
+  "provenance": {
+    "source_item_id": "9a7505a5-ca70-4cf8-b389-b8657adadf0b",
+    "external_id": "https://demodesk.com/blog/how-to-set-up-demodesk-with-microsoft-outlook-teams-and-hubspot-for"
+  }
+}

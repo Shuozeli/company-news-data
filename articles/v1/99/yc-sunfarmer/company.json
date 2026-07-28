@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-sunfarmer",
+    "name": "SunFarmer"
+  },
+  "record_count": 20,
+  "first_published_at": "2015-03-25T15:51:56+00:00",
+  "last_published_at": "2017-06-29T14:45:40+00:00",
+  "partitions": [
+    {
+      "partition": "2015-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2016-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2016-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-06",
+      "record_count": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "75439b6e800867d2318a771b85fa65814da05e5dbcf76bae3db2e0763038b0cb",
+  "company": {
+    "key": "ttm-technologies-inc-common-stock",
+    "name": "TTM Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttm-technologies-inc-common-stock-news-import-6d017d0c85d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttm.com/en/blog/Pioneering-Innovation-in-the-Commercial-Space-Revolution",
+    "canonical": "http://www.ttm.com/en/blog/Pioneering-Innovation-in-the-Commercial-Space-Revolution"
+  },
+  "title": "Pioneering Innovation in the Commercial Space Revolution",
+  "summary": "The commercial space industry is experiencing unprecedented growth, and TTM Technologies stands at the forefront of this transformation. Goldman Sachs forecasts the satellite market to grow from $15 billion today to $108 billion by 2035 in its base-case scenario, with the most optimistic projections reaching $457 billion. As the sector expands rapidly, the demand for advanced, reliable printed circuit board solutions has never been greater.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:50:20.236425+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:14.518037+00:00",
+  "paths": {
+    "article": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/75/75439b6e800867d2318a771b85fa65814da05e5dbcf76bae3db2e0763038b0cb/article.md",
+    "record": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/75/75439b6e800867d2318a771b85fa65814da05e5dbcf76bae3db2e0763038b0cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3801,
+    "sha256": "sha256:38712175bafd5b6b7d7ac62954ef21b034875d1b7befed7766eadc2b036fef8a",
+    "normalized_content_hash": "sha256:2eaf02f8b25081160d9800a4dc3c6be0e2d3dc471d53390778ea48378abad982"
+  },
+  "provenance": {
+    "source_item_id": "d0bdfd1f-eb58-4641-b640-b7b86a863258",
+    "external_id": "http://www.ttm.com/en/blog/Pioneering-Innovation-in-the-Commercial-Space-Revolution"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6def6c856060c548f47781c2c680f282d0e8fa87083928141901380416539c9b",
+  "company": {
+    "key": "yc-abacum",
+    "name": "Abacum"
+  },
+  "source": {
+    "id": "yc-abacum-news-import-0f3038283d34",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.abacum.ai/newsroom/4-reasons-hiring-isn%E2%80%99t-the-answer-to-your-startup%E2%80%99s-growing-pains",
+    "canonical": "https://www.abacum.ai/newsroom/4-reasons-hiring-isn%E2%80%99t-the-answer-to-your-startup%E2%80%99s-growing-pains"
+  },
+  "title": "4 Reasons Hiring Isn’t the Answer to Your Startup’s Growing Pains",
+  "summary": "Abacum is the AI-native FP&A platform built for CFOs to connect data, workflows and teams, simplifying planning and reporting with 700+ integrations.",
+  "published_at": "2026-04-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T00:54:19.775643+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-07-28T21:26:17.593250+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-abacum/2026/04/6d/6def6c856060c548f47781c2c680f282d0e8fa87083928141901380416539c9b/article.md",
+    "record": "articles/v1/d7/yc-abacum/2026/04/6d/6def6c856060c548f47781c2c680f282d0e8fa87083928141901380416539c9b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1454,
+    "sha256": "sha256:5220013f40f6aa805a9d2f2a510e487dd847d7bd07307001fe423b51eafa41a9",
+    "normalized_content_hash": "sha256:cd116d27b1c1c8c0082f8d655bcb2039511a89e6802e95a05f1dc6a36cd52918"
+  },
+  "provenance": {
+    "source_item_id": "0f245e0f-5be0-4080-9265-bcfa31089d09",
+    "external_id": "https://www.abacum.ai/newsroom/4-reasons-hiring-isn%E2%80%99t-the-answer-to-your-startup%E2%80%99s-growing-pains"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-wideframe",
+    "name": "Wideframe"
+  },
+  "record_count": 20,
+  "first_published_at": "2026-03-31T13:00:00+00:00",
+  "last_published_at": "2026-04-03T15:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    }
+  ]
+}

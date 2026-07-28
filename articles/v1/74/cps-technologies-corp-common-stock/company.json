@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cps-technologies-corp-common-stock",
+    "name": "CPS Technologies Corp. Common Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2025-10-08T20:21:51+00:00",
+  "last_published_at": "2026-07-23T12:32:51+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

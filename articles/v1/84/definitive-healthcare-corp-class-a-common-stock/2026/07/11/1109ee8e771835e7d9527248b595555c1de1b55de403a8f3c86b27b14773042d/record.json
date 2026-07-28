@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1109ee8e771835e7d9527248b595555c1de1b55de403a8f3c86b27b14773042d",
+  "company": {
+    "key": "definitive-healthcare-corp-class-a-common-stock",
+    "name": "Definitive Healthcare Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "definitive-healthcare-corp-class-a-common-stock-news-import-ac685c0fe722",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.definitivehc.com/resources/buyers-guides/healthcare-data-life-sciences",
+    "canonical": "https://www.definitivehc.com/resources/buyers-guides/healthcare-data-life-sciences"
+  },
+  "title": "Healthcare data for life sciences",
+  "summary": "A practical guide to choosing the right healthcare data and analytics for biopharma and medtech teams.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:02:19.730773+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:09.224071+00:00",
+  "paths": {
+    "article": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/11/1109ee8e771835e7d9527248b595555c1de1b55de403a8f3c86b27b14773042d/article.md",
+    "record": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/11/1109ee8e771835e7d9527248b595555c1de1b55de403a8f3c86b27b14773042d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1600,
+    "sha256": "sha256:2366b707aa6c1404b73af13eb66881eff7f5b20b7d539c8a3b33d41c6ca36cd4",
+    "normalized_content_hash": "sha256:1dd46e4b6f79e81ecd08a96135c607545e131462fed3e9a3089d0d87b050a44e"
+  },
+  "provenance": {
+    "source_item_id": "e31c5fc1-3340-4edb-8024-d16ecb95c1d7",
+    "external_id": "https://www.definitivehc.com/resources/buyers-guides/healthcare-data-life-sciences"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "29c58ec201da5d5b5e99890469d4a8cfa7fbe88b6c8b88236f104ecff59aa2de",
+  "company": {
+    "key": "empire-state-realty-trust-inc-class-a-common-stock",
+    "name": "Empire State Realty Trust Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "empire-state-realty-trust-inc-class-a-common-stock-news-import-44702ffe1d99",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.esrtreit.com/blog/esrt-culture/",
+    "canonical": "https://www.esrtreit.com/blog/esrt-culture/"
+  },
+  "title": "ESRT Culture",
+  "summary": "View the archived blogs about culture at the Empire State Realty Trust.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T18:03:43.713557+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:22:00.657575+00:00",
+  "paths": {
+    "article": "articles/v1/79/empire-state-realty-trust-inc-class-a-common-stock/2026/07/29/29c58ec201da5d5b5e99890469d4a8cfa7fbe88b6c8b88236f104ecff59aa2de/article.md",
+    "record": "articles/v1/79/empire-state-realty-trust-inc-class-a-common-stock/2026/07/29/29c58ec201da5d5b5e99890469d4a8cfa7fbe88b6c8b88236f104ecff59aa2de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1646,
+    "sha256": "sha256:4132fbf59c088cc2aa291c239e5fe421cbf6e1973723b81f195e079495036d70",
+    "normalized_content_hash": "sha256:6d2004b36afc77eeff17a93c6bce60a517c31ad557b8593e4f34df5ea8f1b6f6"
+  },
+  "provenance": {
+    "source_item_id": "dbe59f29-263a-429f-a60f-3bdf0429c415",
+    "external_id": "https://www.esrtreit.com/blog/esrt-culture/"
+  }
+}

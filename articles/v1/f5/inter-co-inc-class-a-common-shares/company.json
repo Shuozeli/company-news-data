@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "inter-co-inc-class-a-common-shares",
+    "name": "Inter & Co. Inc. Class A Common Shares"
+  },
+  "record_count": 16,
+  "first_published_at": "2026-01-20T19:05:14.994+00:00",
+  "last_published_at": "2026-07-27T14:47:26.492+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    }
+  ]
+}

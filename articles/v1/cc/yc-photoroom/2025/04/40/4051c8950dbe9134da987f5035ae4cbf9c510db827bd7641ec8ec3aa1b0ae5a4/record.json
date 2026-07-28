@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4051c8950dbe9134da987f5035ae4cbf9c510db827bd7641ec8ec3aa1b0ae5a4",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/how-we-measured-the-co2-emissions-of-our-ai-models-at-inference-time",
+    "canonical": "https://www.photoroom.com/inside-photoroom/how-we-measured-the-co2-emissions-of-our-ai-models-at-inference-time"
+  },
+  "title": "How we measured the CO2 emissions of our AI models at inference time",
+  "summary": "Learn how we measure and reduce our carbon footprint during AI inference, encourage responsible AI practices, and inspire the industry to follow suit.",
+  "published_at": "2025-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-07-28T21:49:00.193857+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2025/04/40/4051c8950dbe9134da987f5035ae4cbf9c510db827bd7641ec8ec3aa1b0ae5a4/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2025/04/40/4051c8950dbe9134da987f5035ae4cbf9c510db827bd7641ec8ec3aa1b0ae5a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9846,
+    "sha256": "sha256:7bd2bb718a780c353a878be07af0afde42b16610fdcdf904c21805336d3c8b2d",
+    "normalized_content_hash": "sha256:11c59dca5314b5fa3ed71744aca4cea4f1ec11ff569fde38865e29d3b514dda9"
+  },
+  "provenance": {
+    "source_item_id": "73c334ec-0099-43fb-ab27-17e009a1b183",
+    "external_id": "https://www.photoroom.com/inside-photoroom/how-we-measured-the-co2-emissions-of-our-ai-models-at-inference-time"
+  }
+}

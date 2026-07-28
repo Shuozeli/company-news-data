@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59f7d905e106636a562d1ea86c8f324e2eb4088899a016ce3c3f2922e3b7045d",
+  "company": {
+    "key": "yc-deepnote",
+    "name": "Deepnote"
+  },
+  "source": {
+    "id": "yc-deepnote-news-import-99d40c54e3ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deepnote.com/changelog/2026-07-16",
+    "canonical": "https://deepnote.com/changelog/2026-07-16"
+  },
+  "title": ".css-3bxrb3{font-size:var(--chakra-fontSizes-md);font-weight:600;color:var(--chakra-colors-fg-neutral-secondary);}.css-3bxrb3:hover,.css-3bxrb3[data-hover]{color:var(--chakra-colors-fg-neutral-secondaryHover);} July 16, 2026",
+  "summary": "See the latest product updates and improvements to Deepnote.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:01:08.376400+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:21:51.365500+00:00",
+  "paths": {
+    "article": "articles/v1/2b/yc-deepnote/2026/07/59/59f7d905e106636a562d1ea86c8f324e2eb4088899a016ce3c3f2922e3b7045d/article.md",
+    "record": "articles/v1/2b/yc-deepnote/2026/07/59/59f7d905e106636a562d1ea86c8f324e2eb4088899a016ce3c3f2922e3b7045d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3359,
+    "sha256": "sha256:00efa19c688fb8a4784e63018e57a5d04945ab99c6f38ba59d21681ad03953cd",
+    "normalized_content_hash": "sha256:3052e291c771cab20ff44f427bde812e3e958c7824f0d365884bdead2784d93e"
+  },
+  "provenance": {
+    "source_item_id": "e907892e-5df1-49db-9d42-2ac23eb705ff",
+    "external_id": "https://deepnote.com/changelog/2026-07-16"
+  }
+}

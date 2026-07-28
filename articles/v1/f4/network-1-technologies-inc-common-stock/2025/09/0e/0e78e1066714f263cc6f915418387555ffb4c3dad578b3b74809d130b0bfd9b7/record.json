@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0e78e1066714f263cc6f915418387555ffb4c3dad578b3b74809d130b0bfd9b7",
+  "company": {
+    "key": "network-1-technologies-inc-common-stock",
+    "name": "Network-1 Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "network-1-technologies-inc-common-stock-rss-c46978138fbb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.network-1.com/news/detail/238/network-1-declares-semi-annual-dividend",
+    "canonical": "https://ir.network-1.com/news/detail/238/network-1-declares-semi-annual-dividend"
+  },
+  "title": "Network-1 Declares Semi-Annual Dividend",
+  "summary": "",
+  "published_at": "2025-09-05T16:00:00+00:00",
+  "first_seen_at": "2026-07-25T15:56:09.018952+00:00",
+  "fetched_at": "2026-07-28T20:56:25.546971+00:00",
+  "last_updated_at": "2026-07-28T20:57:31.966933+00:00",
+  "paths": {
+    "article": "articles/v1/f4/network-1-technologies-inc-common-stock/2025/09/0e/0e78e1066714f263cc6f915418387555ffb4c3dad578b3b74809d130b0bfd9b7/article.md",
+    "record": "articles/v1/f4/network-1-technologies-inc-common-stock/2025/09/0e/0e78e1066714f263cc6f915418387555ffb4c3dad578b3b74809d130b0bfd9b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3513,
+    "sha256": "sha256:5c31fe3160abff4d35b8124a3ad0eb97bfa39fd0af0a5df9721e64b1a8700c40",
+    "normalized_content_hash": "sha256:2e7d3507ecd9a5410b4e26c344c088a54732c2df2da7de4209e8a1f8866b14c3"
+  },
+  "provenance": {
+    "source_item_id": "4579ea17-d9fd-454d-bd03-74d074c61831",
+    "external_id": "https://ir.network-1.com/news/detail/238/network-1-declares-semi-annual-dividend"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "the-goodyear-tire-rubber-company-common-stock",
+    "name": "The Goodyear Tire & Rubber Company Common Stock"
+  },
+  "record_count": 6,
+  "first_published_at": "2026-06-03T15:00:00+00:00",
+  "last_published_at": "2026-07-27T14:25:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

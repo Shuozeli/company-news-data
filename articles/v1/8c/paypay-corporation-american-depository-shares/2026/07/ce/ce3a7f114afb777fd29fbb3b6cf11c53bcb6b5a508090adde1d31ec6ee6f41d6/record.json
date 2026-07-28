@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce3a7f114afb777fd29fbb3b6cf11c53bcb6b5a508090adde1d31ec6ee6f41d6",
+  "company": {
+    "key": "paypay-corporation-american-depository-shares",
+    "name": "PayPay Corporation American Depository Shares"
+  },
+  "source": {
+    "id": "paypay-corporation-american-depository-shares-news-import-33038419b6bf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.paypay.ne.jp/news/calendar/",
+    "canonical": "https://ir.paypay.ne.jp/news/calendar/"
+  },
+  "title": "IR Events | IR News | PayPay Corp. Investor Relations",
+  "summary": "PayPay Corporation's latest/upcoming IR events and archived events.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T08:25:07.974266+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-07-28T21:20:47.984433+00:00",
+  "paths": {
+    "article": "articles/v1/8c/paypay-corporation-american-depository-shares/2026/07/ce/ce3a7f114afb777fd29fbb3b6cf11c53bcb6b5a508090adde1d31ec6ee6f41d6/article.md",
+    "record": "articles/v1/8c/paypay-corporation-american-depository-shares/2026/07/ce/ce3a7f114afb777fd29fbb3b6cf11c53bcb6b5a508090adde1d31ec6ee6f41d6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1086,
+    "sha256": "sha256:0f24b58cb608c1b95e80dcb88d057df05d5ef116ddc3aabc8045a8165cf35808",
+    "normalized_content_hash": "sha256:04db8522b5acb3039a61e27c8bb1ca62faf1a427eb285227a62f7d6f81e942ed"
+  },
+  "provenance": {
+    "source_item_id": "9f1866ca-ba54-4268-9bf4-87624edfea48",
+    "external_id": "https://ir.paypay.ne.jp/news/calendar/"
+  }
+}

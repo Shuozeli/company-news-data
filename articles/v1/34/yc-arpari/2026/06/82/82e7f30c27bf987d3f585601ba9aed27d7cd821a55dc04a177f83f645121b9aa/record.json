@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "82e7f30c27bf987d3f585601ba9aed27d7cd821a55dc04a177f83f645121b9aa",
+  "company": {
+    "key": "yc-arpari",
+    "name": "Arpari"
+  },
+  "source": {
+    "id": "yc-arpari-news-import-d67ae8fe8438",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arpari.com/post/your-daily-balance-check-is-already-outdated-by-the-time-you-finish-it",
+    "canonical": "https://arpari.com/post/your-daily-balance-check-is-already-outdated-by-the-time-you-finish-it"
+  },
+  "title": "Your Daily Balance Check Is Already Outdated by the Time You Finish It",
+  "summary": "Treasury teams waste hours checking bank portals for balances that become outdated before the review is complete, while single-bank alerts generate noise without actionable context.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T17:09:57.576780+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:15.369730+00:00",
+  "paths": {
+    "article": "articles/v1/34/yc-arpari/2026/06/82/82e7f30c27bf987d3f585601ba9aed27d7cd821a55dc04a177f83f645121b9aa/article.md",
+    "record": "articles/v1/34/yc-arpari/2026/06/82/82e7f30c27bf987d3f585601ba9aed27d7cd821a55dc04a177f83f645121b9aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5955,
+    "sha256": "sha256:b0b9af4510224de3fa80d56c2170ad72058139c509bd731bb22a1a63dffdcb8b",
+    "normalized_content_hash": "sha256:404dc41bfe89b570cbd545e54c27c1f9af2cd1a095ef61d3feb0ae2e10c38de4"
+  },
+  "provenance": {
+    "source_item_id": "5bb78602-74ac-4bd7-b6e5-aea5d332a0eb",
+    "external_id": "https://arpari.com/post/your-daily-balance-check-is-already-outdated-by-the-time-you-finish-it"
+  }
+}

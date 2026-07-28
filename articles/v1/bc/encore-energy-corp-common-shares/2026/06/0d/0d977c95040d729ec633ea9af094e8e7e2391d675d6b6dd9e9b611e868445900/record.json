@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0d977c95040d729ec633ea9af094e8e7e2391d675d6b6dd9e9b611e868445900",
+  "company": {
+    "key": "encore-energy-corp-common-shares",
+    "name": "enCore Energy Corp. Common Shares"
+  },
+  "source": {
+    "id": "encore-energy-corp-common-shares-news-import-d09e24fffbd9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encoreuranium.com/news/nuclear-regulatory-commission-issues-license-for-encore-energys-dewey-burdock-uranium-project/",
+    "canonical": "https://encoreuranium.com/news/nuclear-regulatory-commission-issues-license-for-encore-energys-dewey-burdock-uranium-project/"
+  },
+  "title": "Nuclear Regulatory Commission Issues License for enCore Energy’s Dewey Burdock Uranium Project",
+  "summary": "Browse enCore Energy Corp. news releases and announcements about U.S. ISR uranium production and corporate developments.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T18:06:51.263446+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:23:00.726680+00:00",
+  "paths": {
+    "article": "articles/v1/bc/encore-energy-corp-common-shares/2026/06/0d/0d977c95040d729ec633ea9af094e8e7e2391d675d6b6dd9e9b611e868445900/article.md",
+    "record": "articles/v1/bc/encore-energy-corp-common-shares/2026/06/0d/0d977c95040d729ec633ea9af094e8e7e2391d675d6b6dd9e9b611e868445900/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13592,
+    "sha256": "sha256:953656c08477b5f9e1b5fa629a311eaac93e105a39a578751a0b1412ae6e258a",
+    "normalized_content_hash": "sha256:c666c86a89ef87fc24226d724db2dfbe80f81862b26dd6b8c13f60effc119203"
+  },
+  "provenance": {
+    "source_item_id": "ad281e74-85bb-4f34-afdc-a28c050806a1",
+    "external_id": "https://encoreuranium.com/news/nuclear-regulatory-commission-issues-license-for-encore-energys-dewey-burdock-uranium-project/"
+  }
+}

@@ -1,19 +1,154 @@
 {
   "schema_version": "1.0.0",
-  "generation": "9cea3d681d140c05118d1856aea7e232fc7834b6e45ddd27a321eb0329cc0b17",
+  "generation": "8001108edc39209bd152423f49148004b7dc20049f4fcfb42f68a747561c880e",
   "partition": "2024-12",
-  "record_count": 6,
-  "shard_count": 1,
-  "byte_count": 10070,
+  "record_count": 736,
+  "shard_count": 16,
+  "byte_count": 5327832,
   "shards": [
     {
-      "prefix": "",
-      "path": "index/v1/current/partitions/2024/12/shards/root.jsonl",
-      "record_count": 6,
-      "byte_count": 10070,
-      "sha256": "sha256:d737bbe2929ba22a23ea37475cc4286fdaefe7cd125e8cb0e515e10d96a776b5",
-      "min_document_id": "2f86be2b8b86c16c528285db2605351ee89aa593183586eeca432c7f60f71b45",
-      "max_document_id": "c01b4b985183046205f37708ae55e4938ba4b36714ff413a22923207027e4c48"
+      "prefix": "0",
+      "path": "index/v1/current/partitions/2024/12/shards/0.jsonl",
+      "record_count": 49,
+      "byte_count": 340940,
+      "sha256": "sha256:76ed9959feb1b3a7bc62e182a1e285ba11da821ae9e5b2d385da1bb3932324f3",
+      "min_document_id": "000f4b53430555f185ec4ababa994c67f74d475833cb0fb6993c48ec34ce01f6",
+      "max_document_id": "0ff9b69b1ded0db333570d1fa29705f8b259b18c450b4929656a05fcc17bb589"
+    },
+    {
+      "prefix": "1",
+      "path": "index/v1/current/partitions/2024/12/shards/1.jsonl",
+      "record_count": 51,
+      "byte_count": 394626,
+      "sha256": "sha256:cdbae5442e098348fffbef06620e0ce2e1d4227efab21721e729142171ef9c19",
+      "min_document_id": "1063591ef20cc826599d9cebda8cde4b1f8abdcd79e791920c89a16219f7de5b",
+      "max_document_id": "1ffe884acb76d6e300fede6377b550fe195b7ac620e17e0b48ba4962ef93a4e5"
+    },
+    {
+      "prefix": "2",
+      "path": "index/v1/current/partitions/2024/12/shards/2.jsonl",
+      "record_count": 34,
+      "byte_count": 291035,
+      "sha256": "sha256:4fa9d88b02abacc928de53633fff84f805a32cd8c05c51a4164dacf0db586188",
+      "min_document_id": "206d9670d0f82020569500155b8be5e323ebcfaa0cd3c13ddda89f41db7e7128",
+      "max_document_id": "2ff1312d818d763db089a151d6df9d45ced851b6fd380b184ae3a08f0d40ea4d"
+    },
+    {
+      "prefix": "3",
+      "path": "index/v1/current/partitions/2024/12/shards/3.jsonl",
+      "record_count": 44,
+      "byte_count": 275043,
+      "sha256": "sha256:66ff4b6b5cfe6e5058e227a958014ca14ce9d732722f6bbcb43b75be5734304e",
+      "min_document_id": "30d71aa73698ec7f7bf7f3bda12968cd23d643e11f07a2734916f40723447da4",
+      "max_document_id": "3f3b962530ae4bd30a9ebaf12330f4ec244a3784a7cdee5ed526349e8324a474"
+    },
+    {
+      "prefix": "4",
+      "path": "index/v1/current/partitions/2024/12/shards/4.jsonl",
+      "record_count": 39,
+      "byte_count": 272330,
+      "sha256": "sha256:9d2350cb3650d7bee58c2ee15093b748a1a78eaadede46115b957fa01c268d4e",
+      "min_document_id": "40af7935519dc8532d8543883cfc6bc84d4193ec77d16b75be7620086f9c8ecd",
+      "max_document_id": "4fe741c6c919c8db2af3e07397ec0d11589725fcc07ebb169f05520552a0217e"
+    },
+    {
+      "prefix": "5",
+      "path": "index/v1/current/partitions/2024/12/shards/5.jsonl",
+      "record_count": 54,
+      "byte_count": 395496,
+      "sha256": "sha256:84693843d93ec7e3b06b9511872307ef42baa6cd2677f1d8336405b5831114e9",
+      "min_document_id": "50449f49c09eac2a61b0d59a51d7a1633ff8d12a86fdc06a731c03a736675a68",
+      "max_document_id": "5e90d582de77e64431e8987519acd5e8bbb64ded683961e858308d6263492743"
+    },
+    {
+      "prefix": "6",
+      "path": "index/v1/current/partitions/2024/12/shards/6.jsonl",
+      "record_count": 62,
+      "byte_count": 508764,
+      "sha256": "sha256:44195e69b4649a8e3497d1f78f0c6d482051baa159d4fda859508952ee945995",
+      "min_document_id": "60495a7c9ccf7acbbe27011f279370729137d8cce6a580e1ad7dc3d9053446bf",
+      "max_document_id": "6ff38ef3358ba6312816a6248056a41730368db6262395df33a2809c8a76a739"
+    },
+    {
+      "prefix": "7",
+      "path": "index/v1/current/partitions/2024/12/shards/7.jsonl",
+      "record_count": 54,
+      "byte_count": 357970,
+      "sha256": "sha256:a152bd0043379f0a5824aaac3d8fca56fcf9cade88381590e9d0182c7ad856ad",
+      "min_document_id": "7044a7481bc777a8c10759b147b47623188232f883779d0d9f2746bc68aa56a2",
+      "max_document_id": "7fe0f10812f77e38dcc47ec02f539fc289952aa872f617a23bb06f095acfdd18"
+    },
+    {
+      "prefix": "8",
+      "path": "index/v1/current/partitions/2024/12/shards/8.jsonl",
+      "record_count": 45,
+      "byte_count": 331491,
+      "sha256": "sha256:52799728bfbfac76e526c021aa84fcac24ffe55f7cdec0f1901af642807e389a",
+      "min_document_id": "805c45a27b529226fcf4484c17a1268defcc19790f7fedf5425c65b65f1356e4",
+      "max_document_id": "8ffa7f8ecef8128c22629f8cb4fe350ced1ceade7eaa54e0d43c631cbaf50074"
+    },
+    {
+      "prefix": "9",
+      "path": "index/v1/current/partitions/2024/12/shards/9.jsonl",
+      "record_count": 46,
+      "byte_count": 321380,
+      "sha256": "sha256:c656b608bd2d0c5bf0680216b49b700fc1cc09d00ecd4be0f9106a9ec3640c62",
+      "min_document_id": "901323792cad0b2db957c3a63f15ae7feb3a1d4fc2b03604c71d3488d84e858e",
+      "max_document_id": "9ff8414ee768fed37e9c686339fd5fca0ad87b216ddc442f03f8731b6d595439"
+    },
+    {
+      "prefix": "a",
+      "path": "index/v1/current/partitions/2024/12/shards/a.jsonl",
+      "record_count": 50,
+      "byte_count": 373561,
+      "sha256": "sha256:0d3dfb6163afe8bb22512ca852bba5d6b1a6c27ecc325f14f5ad7f7c04b99a16",
+      "min_document_id": "a02af42f5327ad224d02be40df64dd8ab19d9c07f54e27ceb98d67686a826101",
+      "max_document_id": "af42563f1cd0edf8549df4266e4b9d0259f719978bc55e0825c2b40aaacecea7"
+    },
+    {
+      "prefix": "b",
+      "path": "index/v1/current/partitions/2024/12/shards/b.jsonl",
+      "record_count": 35,
+      "byte_count": 227183,
+      "sha256": "sha256:9556cbf9ea727994d0116359542a1a712eaf3e18421cb6d703f64cdff26831bf",
+      "min_document_id": "b082e5115a46b6a75931a793c444646691bb5d968ddb89630c6c17e02ff8a9cb",
+      "max_document_id": "bf5853a88ff503364e1cd2738ff59522f340922951df58cba2c8e8cac53bd40e"
+    },
+    {
+      "prefix": "c",
+      "path": "index/v1/current/partitions/2024/12/shards/c.jsonl",
+      "record_count": 39,
+      "byte_count": 283524,
+      "sha256": "sha256:7a10fc93379b5d6172efbab4a7873909d3b1760dcfe28cfd79d6029c70d7f769",
+      "min_document_id": "c01b4b985183046205f37708ae55e4938ba4b36714ff413a22923207027e4c48",
+      "max_document_id": "cfe38842a8af9bc847d9c2867fd7ed59f5bef286691630897d9071ad61ea01f3"
+    },
+    {
+      "prefix": "d",
+      "path": "index/v1/current/partitions/2024/12/shards/d.jsonl",
+      "record_count": 43,
+      "byte_count": 321108,
+      "sha256": "sha256:b6385bac6eec91af1e7bb313f1610dd6559538b93e1f55f225d190632365e227",
+      "min_document_id": "d05c970e6273a16ce7dc1013a846f08c3123f4d5ba381ab83d87a5da387dae16",
+      "max_document_id": "dfa15c00727195c3a04a77d4a7a4dcea3d4ee8c54937f202989702bd5d9ed9f1"
+    },
+    {
+      "prefix": "e",
+      "path": "index/v1/current/partitions/2024/12/shards/e.jsonl",
+      "record_count": 44,
+      "byte_count": 324148,
+      "sha256": "sha256:a133ff6e594c59abac76d5546d3cd8a93d5ba36e9a847be9b1e920540a8c07d3",
+      "min_document_id": "e151d4f96ecc09975c42121d0faae278fae96000a04421b423ec8d7cad48c56d",
+      "max_document_id": "effbd41cb75eadea2137d15e8c37dbfa0ef32abbab86e3fd7fe396efb4ab4045"
+    },
+    {
+      "prefix": "f",
+      "path": "index/v1/current/partitions/2024/12/shards/f.jsonl",
+      "record_count": 47,
+      "byte_count": 309233,
+      "sha256": "sha256:017e158fa6af5d397a1840b0d97363e4d6d6ca3e4eef5d0169c8f724ff1da8fb",
+      "min_document_id": "f0954ca39bda6ea1ebeb94d02eb1540d2d0bd010b3fcecc4d6d49ce273fa6b56",
+      "max_document_id": "ffff8a3badd750feaf2ad62dcc2ed570d197185ec5aa6986d428f68dbd58d559"
     }
   ]
 }

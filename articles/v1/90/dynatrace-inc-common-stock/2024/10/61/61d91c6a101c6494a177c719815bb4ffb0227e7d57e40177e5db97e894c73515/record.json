@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61d91c6a101c6494a177c719815bb4ffb0227e7d57e40177e5db97e894c73515",
+  "company": {
+    "key": "dynatrace-inc-common-stock",
+    "name": "Dynatrace Inc. Common Stock"
+  },
+  "source": {
+    "id": "dynatrace-inc-common-stock-news-import-04255267b1b8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dynatrace.com/news/blog/dynatrace-named-cloud-security-platform-of-the-year/",
+    "canonical": "https://www.dynatrace.com/news/blog/dynatrace-named-cloud-security-platform-of-the-year/"
+  },
+  "title": "Dynatrace named Cloud Security Platform of the Year in the 2024 CyberSecurity Breakthrough Awards",
+  "summary": "Dynatrace has been named the Cloud Security Platform of the Year in the 2024 CyberSecurity Breakthrough Awards. Read about the award here.",
+  "published_at": "2024-10-15T15:14:30+00:00",
+  "first_seen_at": "2026-07-21T17:18:04.942961+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:37.268482+00:00",
+  "paths": {
+    "article": "articles/v1/90/dynatrace-inc-common-stock/2024/10/61/61d91c6a101c6494a177c719815bb4ffb0227e7d57e40177e5db97e894c73515/article.md",
+    "record": "articles/v1/90/dynatrace-inc-common-stock/2024/10/61/61d91c6a101c6494a177c719815bb4ffb0227e7d57e40177e5db97e894c73515/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3546,
+    "sha256": "sha256:dc345decbc6217e4ec636fb04b1289fbfdc6f0300e70bd521d889786852fb91a",
+    "normalized_content_hash": "sha256:67d5636efe34b684be770ba7a11323ec418d360e9a54f36081e932eeb85b77bf"
+  },
+  "provenance": {
+    "source_item_id": "3095e5e0-ce7b-4f59-8239-02063056efcf",
+    "external_id": "https://www.dynatrace.com/news/blog/dynatrace-named-cloud-security-platform-of-the-year/"
+  }
+}

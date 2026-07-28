@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "e-w-scripps-company-the-class-a-common-stock",
+    "name": "E.W. Scripps Company (The) Class A Common Stock"
+  },
+  "record_count": 20,
+  "first_published_at": "2026-03-31T20:15:01+00:00",
+  "last_published_at": "2026-07-22T16:30:48+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ]
+}

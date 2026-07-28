@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-shuttle-central",
+    "name": "Shuttle Central"
+  },
+  "record_count": 10,
+  "first_published_at": "2024-07-13T09:30:00+00:00",
+  "last_published_at": "2025-06-12T16:45:31+00:00",
+  "partitions": [
+    {
+      "partition": "2024-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    }
+  ]
+}

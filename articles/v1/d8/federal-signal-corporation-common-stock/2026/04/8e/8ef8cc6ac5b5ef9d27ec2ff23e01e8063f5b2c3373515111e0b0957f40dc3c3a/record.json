@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ef8cc6ac5b5ef9d27ec2ff23e01e8063f5b2c3373515111e0b0957f40dc3c3a",
+  "company": {
+    "key": "federal-signal-corporation-common-stock",
+    "name": "Federal Signal Corporation Common Stock"
+  },
+  "source": {
+    "id": "federal-signal-corporation-common-stock-rss-c6db0e1fcfb6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.federalsignal.com/fs-news/federal-signal-corporation-declares-dividend-of-0.15-per-share",
+    "canonical": "https://www.federalsignal.com/fs-news/federal-signal-corporation-declares-dividend-of-0.15-per-share"
+  },
+  "title": "Federal Signal Corporation Declares Dividend of $0.15 per share",
+  "summary": "Federal Signal Corporation Declares Dividend of $0.15 per share - April 21, 2026",
+  "published_at": "2026-04-21T16:40:08+00:00",
+  "first_seen_at": "2026-07-20T03:32:53.163756+00:00",
+  "fetched_at": "2026-07-28T22:15:46.234407+00:00",
+  "last_updated_at": "2026-07-28T22:15:59.048170+00:00",
+  "paths": {
+    "article": "articles/v1/d8/federal-signal-corporation-common-stock/2026/04/8e/8ef8cc6ac5b5ef9d27ec2ff23e01e8063f5b2c3373515111e0b0957f40dc3c3a/article.md",
+    "record": "articles/v1/d8/federal-signal-corporation-common-stock/2026/04/8e/8ef8cc6ac5b5ef9d27ec2ff23e01e8063f5b2c3373515111e0b0957f40dc3c3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1987,
+    "sha256": "sha256:2f89d935872299cafdd65d2c37e0c0d295196128714a23e6cec11e5434262369",
+    "normalized_content_hash": "sha256:83c0ab0ac7b8254b694d90ed5b48eb80850857ef97a6fa2e1d87b2efb85d6dc8"
+  },
+  "provenance": {
+    "source_item_id": "c445636a-0d89-4d3d-aaf2-38e407451587",
+    "external_id": "https://www.federalsignal.com/fs-news/federal-signal-corporation-declares-dividend-of-0.15-per-share"
+  }
+}

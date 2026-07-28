@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "newmark-group-inc-class-a-common-stock",
+    "name": "Newmark Group Inc. Class A Common Stock"
+  },
+  "record_count": 17,
+  "first_published_at": "2026-07-15T13:00:00+00:00",
+  "last_published_at": "2026-07-27T19:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 17
+    }
+  ]
+}

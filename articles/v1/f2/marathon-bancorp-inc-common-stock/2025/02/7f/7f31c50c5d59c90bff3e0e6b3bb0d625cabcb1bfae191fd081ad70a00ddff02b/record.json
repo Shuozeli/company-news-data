@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7f31c50c5d59c90bff3e0e6b3bb0d625cabcb1bfae191fd081ad70a00ddff02b",
+  "company": {
+    "key": "marathon-bancorp-inc-common-stock",
+    "name": "Marathon Bancorp Inc. Common Stock"
+  },
+  "source": {
+    "id": "marathon-bancorp-inc-common-stock-news-import-e25aa07a6eb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.marathonbank.com/news/brookfield-branch-one-year-anniversary/",
+    "canonical": "https://www.marathonbank.com/news/brookfield-branch-one-year-anniversary/"
+  },
+  "title": "Brookfield Branch – One Year Anniversary!",
+  "summary": "February 19th, 2025 – Marathon Bank recently commemorated its 1 year anniversary of its Brookfield, WI branch. This is the banks second branch office in Southeastern Wisconsin and its fifth location overall. “We had an excellent first year, and we look forward to continuing our expansion throughout or two markets. The feedback has been great",
+  "published_at": "2025-02-18T15:17:12+00:00",
+  "first_seen_at": "2026-07-22T03:20:20.191259+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:48:57.021967+00:00",
+  "paths": {
+    "article": "articles/v1/f2/marathon-bancorp-inc-common-stock/2025/02/7f/7f31c50c5d59c90bff3e0e6b3bb0d625cabcb1bfae191fd081ad70a00ddff02b/article.md",
+    "record": "articles/v1/f2/marathon-bancorp-inc-common-stock/2025/02/7f/7f31c50c5d59c90bff3e0e6b3bb0d625cabcb1bfae191fd081ad70a00ddff02b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3755,
+    "sha256": "sha256:4b7939a8fba9b1f644bc89eb97eb598846e1563b8d36be604c973d5a3cc7779e",
+    "normalized_content_hash": "sha256:e3a627aab2809a63f2feb696595cdcd60f655fcddf217c3986e48b7df9b95439"
+  },
+  "provenance": {
+    "source_item_id": "3576a423-4203-4b7a-a30c-3833a0260901",
+    "external_id": "https://www.marathonbank.com/news/brookfield-branch-one-year-anniversary/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c31ce73cfda40e7437b2dd350595de06d22148706bf6f2b02967335e0198404a",
+  "company": {
+    "key": "comscore-inc-common-stock",
+    "name": "comScore Inc. Common Stock"
+  },
+  "source": {
+    "id": "comscore-inc-common-stock-news-import-689106775bfe",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.comscore.com/fre/Perspectives/Blog/Comscore-En-Bref-L-enseignement-en-ligne-en-Europe",
+    "canonical": "https://www.comscore.com/fre/Perspectives/Blog/Comscore-En-Bref-L-enseignement-en-ligne-en-Europe"
+  },
+  "title": "Comscore En Bref : L'enseignement en ligne en Europe",
+  "summary": "Cette semaine nous prenons le pouls des sites liés à l'enseignement en ligne visant les adultes en Europe. Nous incluons des statistiques pour la France, l'Allemagne, l'Italie, l'Espagne, le Royaume-Uni, ainsi que la moyenne pour l’UE5 pour faciliter l'analyse comparative.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T00:28:54.468052+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:21.170096+00:00",
+  "paths": {
+    "article": "articles/v1/d6/comscore-inc-common-stock/2026/07/c3/c31ce73cfda40e7437b2dd350595de06d22148706bf6f2b02967335e0198404a/article.md",
+    "record": "articles/v1/d6/comscore-inc-common-stock/2026/07/c3/c31ce73cfda40e7437b2dd350595de06d22148706bf6f2b02967335e0198404a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5499,
+    "sha256": "sha256:4997f70c083ea7467ac3f2560a681f626672594784f2bfe1a8da1b3f371328e7",
+    "normalized_content_hash": "sha256:8a54d02221d13c6f93909e594f509330791cd3bc2c33db298337ae2272e79e66"
+  },
+  "provenance": {
+    "source_item_id": "0c9396f2-0e6f-405e-b013-29ead3ce0800",
+    "external_id": "https://www.comscore.com/fre/Perspectives/Blog/Comscore-En-Bref-L-enseignement-en-ligne-en-Europe"
+  }
+}

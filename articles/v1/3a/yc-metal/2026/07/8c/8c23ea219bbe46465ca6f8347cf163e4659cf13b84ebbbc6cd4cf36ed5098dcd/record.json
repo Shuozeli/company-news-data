@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c23ea219bbe46465ca6f8347cf163e4659cf13b84ebbbc6cd4cf36ed5098dcd",
+  "company": {
+    "key": "yc-metal",
+    "name": "Metal"
+  },
+  "source": {
+    "id": "yc-metal-news-import-c3e62a577482",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.metal.ai/blog/institutional-knowledge-is-the-most-undervalued-asset-in-private-equity",
+    "canonical": "https://www.metal.ai/blog/institutional-knowledge-is-the-most-undervalued-asset-in-private-equity"
+  },
+  "title": "Institutional Knowledge Is the Most Undervalued Asset in Private Equity",
+  "summary": "AI platform for Private Equity diligence — aggregate deal data, deploy custom AI workflows, and transform fund knowledge into proprietary intelligence.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T17:36:18.798245+00:00",
+  "fetched_at": "2026-07-28T10:27:44.617201+00:00",
+  "last_updated_at": "2026-07-28T10:27:47.498855+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-metal/2026/07/8c/8c23ea219bbe46465ca6f8347cf163e4659cf13b84ebbbc6cd4cf36ed5098dcd/article.md",
+    "record": "articles/v1/3a/yc-metal/2026/07/8c/8c23ea219bbe46465ca6f8347cf163e4659cf13b84ebbbc6cd4cf36ed5098dcd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6698,
+    "sha256": "sha256:7f14de2981b07e6586e119a830b0997b4f0ea094313045cf2771f62f6a4dedde",
+    "normalized_content_hash": "sha256:5bfa12d305ae9e096af9d7b7472dfb7fc84fb778d526d1e18cf9db2326e3d5cf"
+  },
+  "provenance": {
+    "source_item_id": "74c97a82-bec3-4dac-b3bd-607e2ea6911a",
+    "external_id": "https://www.metal.ai/blog/institutional-knowledge-is-the-most-undervalued-asset-in-private-equity"
+  }
+}

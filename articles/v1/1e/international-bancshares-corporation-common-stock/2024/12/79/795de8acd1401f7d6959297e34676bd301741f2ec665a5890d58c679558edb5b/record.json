@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "795de8acd1401f7d6959297e34676bd301741f2ec665a5890d58c679558edb5b",
+  "company": {
+    "key": "international-bancshares-corporation-common-stock",
+    "name": "International Bancshares Corporation Common Stock"
+  },
+  "source": {
+    "id": "international-bancshares-corporation-common-stock-news-import-2e07f9dd1075",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ibc.com/newsroom/common-sense",
+    "canonical": "https://www.ibc.com/newsroom/common-sense"
+  },
+  "title": "Newsroom IBC",
+  "summary": "Newsroom IBC",
+  "published_at": "2024-12-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:16:58.064813+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:40.274254+00:00",
+  "paths": {
+    "article": "articles/v1/1e/international-bancshares-corporation-common-stock/2024/12/79/795de8acd1401f7d6959297e34676bd301741f2ec665a5890d58c679558edb5b/article.md",
+    "record": "articles/v1/1e/international-bancshares-corporation-common-stock/2024/12/79/795de8acd1401f7d6959297e34676bd301741f2ec665a5890d58c679558edb5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2541,
+    "sha256": "sha256:908c4b9609259ccba56bff6bbed9559af7794df50c3d3b0f839d42297efb2fd2",
+    "normalized_content_hash": "sha256:fd9a6cfcd0cbd3fa72845a9dc16e9e23d22945b7c6a559728c6a7412e3262550"
+  },
+  "provenance": {
+    "source_item_id": "dae2feba-9634-4fa8-8a3b-9ddee3950a16",
+    "external_id": "https://www.ibc.com/newsroom/common-sense"
+  }
+}

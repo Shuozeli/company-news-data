@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "power-solutions-international-inc-common-stock",
+    "name": "Power Solutions International Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2024-04-19T19:20:05+00:00",
+  "last_published_at": "2025-08-27T13:59:55+00:00",
+  "partitions": [
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    }
+  ]
+}

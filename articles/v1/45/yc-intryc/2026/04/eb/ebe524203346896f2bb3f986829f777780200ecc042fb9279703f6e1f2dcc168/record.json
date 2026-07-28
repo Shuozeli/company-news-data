@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ebe524203346896f2bb3f986829f777780200ecc042fb9279703f6e1f2dcc168",
+  "company": {
+    "key": "yc-intryc",
+    "name": "Intryc"
+  },
+  "source": {
+    "id": "yc-intryc-news-import-17b79f653bb0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.intryc.com/blog/ai-governance-for-contact-centers-from-pilot-to-production-qa",
+    "canonical": "https://www.intryc.com/blog/ai-governance-for-contact-centers-from-pilot-to-production-qa"
+  },
+  "title": "AI Governance QA: Scale Contact Centers from Pilot to Production",
+  "summary": "Bridge the gap between AI pilots and production with AI governance QA frameworks. Learn how to scale contact center AI deployment with confidence.",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:22:23.516240+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-07-28T21:26:20.953504+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-intryc/2026/04/eb/ebe524203346896f2bb3f986829f777780200ecc042fb9279703f6e1f2dcc168/article.md",
+    "record": "articles/v1/45/yc-intryc/2026/04/eb/ebe524203346896f2bb3f986829f777780200ecc042fb9279703f6e1f2dcc168/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10950,
+    "sha256": "sha256:cfe8bae5ba79e371f8d6fe5cc8b0d17708a343771bdb23ce245230a49c81da39",
+    "normalized_content_hash": "sha256:0b02c73dcf42f82bb5d933687d099230a0cafbe986a9a1b14d6c69e0e3c4a688"
+  },
+  "provenance": {
+    "source_item_id": "f1d1209a-96fd-49e4-84f8-007a2859843d",
+    "external_id": "https://www.intryc.com/blog/ai-governance-for-contact-centers-from-pilot-to-production-qa"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-sapling-ai",
+    "name": "Sapling.ai"
+  },
+  "record_count": 12,
+  "first_published_at": "2022-05-12T08:11:06+00:00",
+  "last_published_at": "2024-11-10T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    }
+  ]
+}

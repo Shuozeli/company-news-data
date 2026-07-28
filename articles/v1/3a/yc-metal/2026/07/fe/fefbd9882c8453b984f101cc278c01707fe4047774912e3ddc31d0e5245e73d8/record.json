@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fefbd9882c8453b984f101cc278c01707fe4047774912e3ddc31d0e5245e73d8",
+  "company": {
+    "key": "yc-metal",
+    "name": "Metal"
+  },
+  "source": {
+    "id": "yc-metal-news-import-c3e62a577482",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.metal.ai/blog/workflow-portfolio-monitoring",
+    "canonical": "https://www.metal.ai/blog/workflow-portfolio-monitoring"
+  },
+  "title": "Workflow: Portfolio Monitoring",
+  "summary": "AI platform for Private Equity diligence — aggregate deal data, deploy custom AI workflows, and transform fund knowledge into proprietary intelligence.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T17:36:18.798245+00:00",
+  "fetched_at": "2026-07-28T10:27:44.617201+00:00",
+  "last_updated_at": "2026-07-28T10:27:47.498855+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-metal/2026/07/fe/fefbd9882c8453b984f101cc278c01707fe4047774912e3ddc31d0e5245e73d8/article.md",
+    "record": "articles/v1/3a/yc-metal/2026/07/fe/fefbd9882c8453b984f101cc278c01707fe4047774912e3ddc31d0e5245e73d8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4633,
+    "sha256": "sha256:9bd635de496ec7cd39fe000e39f388a28700aaa4af4af54eb35459b50a00e88e",
+    "normalized_content_hash": "sha256:4af8b94a47111fb5f2d805e3990992b730113e9ad0c5dc5a4154db4caa5b01ec"
+  },
+  "provenance": {
+    "source_item_id": "49b0a0fd-8018-4e7c-8f34-895d1bd98cf6",
+    "external_id": "https://www.metal.ai/blog/workflow-portfolio-monitoring"
+  }
+}

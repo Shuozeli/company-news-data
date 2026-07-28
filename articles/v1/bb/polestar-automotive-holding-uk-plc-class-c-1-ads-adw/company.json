@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "polestar-automotive-holding-uk-plc-class-c-1-ads-adw",
+    "name": "Polestar Automotive Holding UK PLC Class C-1 ADS (ADW)"
+  },
+  "record_count": 15,
+  "first_published_at": "2025-07-30T00:00:00+00:00",
+  "last_published_at": "2026-07-03T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

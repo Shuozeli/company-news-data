@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55d2d4ecac6845895bc903245ed2c7cc247594e7b43dd9ea5810024b28435c4a",
+  "company": {
+    "key": "insperity-inc-common-stock",
+    "name": "Insperity Inc. Common Stock"
+  },
+  "source": {
+    "id": "insperity-inc-common-stock-news-import-506516edf724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.insperity.com/investor-relations/investor-requests",
+    "canonical": "https://ir.insperity.com/investor-relations/investor-requests"
+  },
+  "title": "Investor Requests",
+  "summary": "Insperity Investor Relations puts our corporate profile, NYSE (NSP) stock price and other valuable company information at your fingertips. Click for details.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T00:04:11.880875+00:00",
+  "fetched_at": "2026-07-23T17:49:13.551191+00:00",
+  "last_updated_at": "2026-07-23T17:49:14.187767+00:00",
+  "paths": {
+    "article": "articles/v1/b8/insperity-inc-common-stock/2026/07/55/55d2d4ecac6845895bc903245ed2c7cc247594e7b43dd9ea5810024b28435c4a/article.md",
+    "record": "articles/v1/b8/insperity-inc-common-stock/2026/07/55/55d2d4ecac6845895bc903245ed2c7cc247594e7b43dd9ea5810024b28435c4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 810,
+    "sha256": "sha256:c21109866dd3571b2791e3cb368f9f942d2d7edd944a52e31096d53e2700d215",
+    "normalized_content_hash": "sha256:d2bb1f20046786e9b6fbea0db0e975af84c72b2c0c6857552ba7d40931df8082"
+  },
+  "provenance": {
+    "source_item_id": "99e56901-0478-47ef-b959-6c07fd8e1252",
+    "external_id": "https://ir.insperity.com/investor-relations/investor-requests"
+  }
+}

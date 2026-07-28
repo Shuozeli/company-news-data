@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-estimote-inc",
+    "name": "Estimote, Inc."
+  },
+  "record_count": 20,
+  "first_published_at": "2017-10-09T19:47:49+00:00",
+  "last_published_at": "2023-09-13T04:07:53+00:00",
+  "partitions": [
+    {
+      "partition": "2017-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2018-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    }
+  ]
+}

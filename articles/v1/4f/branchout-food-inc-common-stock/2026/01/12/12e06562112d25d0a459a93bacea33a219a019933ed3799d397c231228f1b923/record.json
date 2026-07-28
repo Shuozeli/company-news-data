@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12e06562112d25d0a459a93bacea33a219a019933ed3799d397c231228f1b923",
+  "company": {
+    "key": "branchout-food-inc-common-stock",
+    "name": "BranchOut Food Inc. Common Stock"
+  },
+  "source": {
+    "id": "branchout-food-inc-common-stock-news-import-b86149cead48",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2026/01/28/3227406/0/en/branchout-food-delivers-record-14m-net-revenue-113-yoy-growth-secures-major-retail-wins-expands-capacity-product-offering.html",
+    "canonical": "https://www.globenewswire.com/news-release/2026/01/28/3227406/0/en/branchout-food-delivers-record-14m-net-revenue-113-yoy-growth-secures-major-retail-wins-expands-capacity-product-offering.html"
+  },
+  "title": "BranchOut Food Delivers Record ~$14M Net Revenue, 113% YoY growth, Secures Major Retail Wins, Expands Capacity & Product Offering",
+  "summary": "BranchOut Food Delivers Record ~$14M Net Revenue, 113% YoY growth, Secures Major Retail Wins, Expands Capacity & Product Offering...",
+  "published_at": "2026-01-28T11:30:00+00:00",
+  "first_seen_at": "2026-07-23T04:03:32.834731+00:00",
+  "fetched_at": "2026-07-28T22:23:03.686122+00:00",
+  "last_updated_at": "2026-07-28T22:23:13.084845+00:00",
+  "paths": {
+    "article": "articles/v1/4f/branchout-food-inc-common-stock/2026/01/12/12e06562112d25d0a459a93bacea33a219a019933ed3799d397c231228f1b923/article.md",
+    "record": "articles/v1/4f/branchout-food-inc-common-stock/2026/01/12/12e06562112d25d0a459a93bacea33a219a019933ed3799d397c231228f1b923/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13448,
+    "sha256": "sha256:fe3d679ac34ab4d9fb09fa2ee8014d9cf7cd7243c372450b8c0df9b23a46debf",
+    "normalized_content_hash": "sha256:c5cc300eabd4d096235f99200504bad364c95767e254ed8d9621a18254b8c5cf"
+  },
+  "provenance": {
+    "source_item_id": "fdcfdfec-692e-4619-bb7d-1d98589c64e5",
+    "external_id": "https://www.globenewswire.com/news-release/2026/01/28/3227406/0/en/branchout-food-delivers-record-14m-net-revenue-113-yoy-growth-secures-major-retail-wins-expands-capacity-product-offering.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "497c3e5c9f68e8fc47d76b32ed7b83fc5258b62b7237f51c947a05eedfd7a126",
+  "company": {
+    "key": "sezzle-inc-common-stock",
+    "name": "Sezzle Inc. Common Stock"
+  },
+  "source": {
+    "id": "sezzle-inc-common-stock-news-import-1f24cfaf3323",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sezzle.com/news/Sezzle_to_Announce_First_Quarter_2026_Results/",
+    "canonical": "https://sezzle.com/news/Sezzle_to_Announce_First_Quarter_2026_Results/"
+  },
+  "title": "Sezzle to Announce First Quarter 2026 Results and Participate in Upcoming Investor Events",
+  "summary": "Buy from your favorite stores today, and split up the cost into four interest-free payments.",
+  "published_at": "2026-04-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T13:13:45.817558+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-07-28T21:57:32.528995+00:00",
+  "paths": {
+    "article": "articles/v1/c4/sezzle-inc-common-stock/2026/04/49/497c3e5c9f68e8fc47d76b32ed7b83fc5258b62b7237f51c947a05eedfd7a126/article.md",
+    "record": "articles/v1/c4/sezzle-inc-common-stock/2026/04/49/497c3e5c9f68e8fc47d76b32ed7b83fc5258b62b7237f51c947a05eedfd7a126/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4419,
+    "sha256": "sha256:3300fa44dae645517a3cc92a982506c37bc94fd6e92dc699466a1fd8cbfda04a",
+    "normalized_content_hash": "sha256:3f37cb54e3a68cfc2a2d8d0944cde967a92206ef025251e2ecdfcf0c5fce1e4d"
+  },
+  "provenance": {
+    "source_item_id": "7496493b-7796-4df0-9111-34487812e86b",
+    "external_id": "https://sezzle.com/news/Sezzle_to_Announce_First_Quarter_2026_Results/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f91a9486c836cdb520010e338dcbd317528319d9f34c9a5790de7f1f49967bb9",
+  "company": {
+    "key": "seneca-foods-corp-class-b-common-stock",
+    "name": "Seneca Foods Corp. Class B Common Stock"
+  },
+  "source": {
+    "id": "seneca-foods-corp-class-b-common-stock-news-import-03cef6dadc5e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.senecafoods.com/press-release/seneca-foods-reports-sales-and-earnings-quarter-and-six-months-ended-september-27",
+    "canonical": "https://www.senecafoods.com/press-release/seneca-foods-reports-sales-and-earnings-quarter-and-six-months-ended-september-27"
+  },
+  "title": "Seneca Foods Reports Sales and Earnings for the Quarter and Six Months Ended September 27, 2025",
+  "summary": "“We are very pleased with our unit volumes and net sales for the quarter, up 10.2% and 8.1%, respectively. We are also enjoying a near budget harvest for most crops this year, a welcome change from last year’s poor crop, and delivering more normalized costs and inventory levels in order to support customer demand,” stated Paul Palmby, President and Chief Executive Officer of Seneca Foods Corporation. “Net earnings were better than we had budgeted but FIFO gross margin was slightly lower than last year, reflecting continued sell-through of the higher cost 2024 inventory.”",
+  "published_at": "2025-11-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:54:04.900818+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:43.079735+00:00",
+  "paths": {
+    "article": "articles/v1/cd/seneca-foods-corp-class-b-common-stock/2025/11/f9/f91a9486c836cdb520010e338dcbd317528319d9f34c9a5790de7f1f49967bb9/article.md",
+    "record": "articles/v1/cd/seneca-foods-corp-class-b-common-stock/2025/11/f9/f91a9486c836cdb520010e338dcbd317528319d9f34c9a5790de7f1f49967bb9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2465,
+    "sha256": "sha256:41a0bcad33e43ff29a296eebb5e236a29076c5ae7fb68bc56613cfefe55c340a",
+    "normalized_content_hash": "sha256:23364406f81d8be7e7b9cbd625f38a34870f8249074079a544f32fc545d6c08a"
+  },
+  "provenance": {
+    "source_item_id": "510ff04f-2750-4544-bf94-e0f98ae9523e",
+    "external_id": "https://www.senecafoods.com/press-release/seneca-foods-reports-sales-and-earnings-quarter-and-six-months-ended-september-27"
+  }
+}

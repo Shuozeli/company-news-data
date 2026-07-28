@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f2d77a3b2617b9f33eb965572b97caaa5cdd404358d0866cc2642bc9163c51a",
+  "company": {
+    "key": "edison-international-common-stock",
+    "name": "Edison International Common Stock"
+  },
+  "source": {
+    "id": "edison-international-common-stock-rss-1315327e8509",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://energized.edison.com/stories/from-the-grid-to-the-game-show",
+    "canonical": "http://energized.edison.com/stories/from-the-grid-to-the-game-show"
+  },
+  "title": "From the Grid to the Game Show",
+  "summary": "A senior advisor at Southern California Edison who works in interconnections and has a vast amount of trivia-worthy knowledge. Who is Peter McFerrin? McFerrin — who has been at ...",
+  "published_at": "2026-07-08T17:09:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:20.584311+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-07-28T21:09:48.401013+00:00",
+  "paths": {
+    "article": "articles/v1/3a/edison-international-common-stock/2026/07/8f/8f2d77a3b2617b9f33eb965572b97caaa5cdd404358d0866cc2642bc9163c51a/article.md",
+    "record": "articles/v1/3a/edison-international-common-stock/2026/07/8f/8f2d77a3b2617b9f33eb965572b97caaa5cdd404358d0866cc2642bc9163c51a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4076,
+    "sha256": "sha256:68af6f304c25a87dec2b89dc096f431d23f13087edb96e8c5f1ddb79767652dd",
+    "normalized_content_hash": "sha256:bf6fc22e93437a0188c7ae053dca30c4f87fb1465e23f3e6054ba3eb079fca3f"
+  },
+  "provenance": {
+    "source_item_id": "7188d5d1-93a4-4643-9b1e-597d2efefe97",
+    "external_id": "http://energized.edison.com/stories/from-the-grid-to-the-game-show"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bny-mellon-strategic-municipals-inc-common-stock",
+    "name": "BNY Mellon Strategic Municipals Inc. Common Stock"
+  },
+  "record_count": 3,
+  "first_published_at": "2026-07-14T00:00:00+00:00",
+  "last_published_at": "2026-07-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

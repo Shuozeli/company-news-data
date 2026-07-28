@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "heidmar-maritime-holdings-corp-common-stock",
+    "name": "Heidmar Maritime Holdings Corp. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-05-28T08:52:30+00:00",
+  "last_published_at": "2026-07-07T12:28:57+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

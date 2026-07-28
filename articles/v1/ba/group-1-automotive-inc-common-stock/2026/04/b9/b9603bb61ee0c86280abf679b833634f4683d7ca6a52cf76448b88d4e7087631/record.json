@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b9603bb61ee0c86280abf679b833634f4683d7ca6a52cf76448b88d4e7087631",
+  "company": {
+    "key": "group-1-automotive-inc-common-stock",
+    "name": "Group 1 Automotive Inc. Common Stock"
+  },
+  "source": {
+    "id": "group-1-automotive-inc-common-stock-rss-3fb657a1ed4b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.group1corp.com/2026-04-08-Group-1-Automotive-Schedules-Release-of-First-Quarter-2026-Financial-Results",
+    "canonical": "https://www.group1corp.com/2026-04-08-Group-1-Automotive-Schedules-Release-of-First-Quarter-2026-Financial-Results"
+  },
+  "title": "Group 1 Automotive Schedules Release of First Quarter 2026 Financial Results",
+  "summary": "",
+  "published_at": "2026-04-08T20:16:00+00:00",
+  "first_seen_at": "2026-07-20T04:35:54.447468+00:00",
+  "fetched_at": "2026-07-28T21:02:20.809967+00:00",
+  "last_updated_at": "2026-07-28T21:02:20.868080+00:00",
+  "paths": {
+    "article": "articles/v1/ba/group-1-automotive-inc-common-stock/2026/04/b9/b9603bb61ee0c86280abf679b833634f4683d7ca6a52cf76448b88d4e7087631/article.md",
+    "record": "articles/v1/ba/group-1-automotive-inc-common-stock/2026/04/b9/b9603bb61ee0c86280abf679b833634f4683d7ca6a52cf76448b88d4e7087631/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 718,
+    "sha256": "sha256:98e10108c1a3fd702e0df3ae7ed206536d3d529bbfbb5e2d5ed9ff1a771117b6",
+    "normalized_content_hash": "sha256:e03211507c1411441212f89a24f48083907737fc2a0f15da5fb00607dca8e8b4"
+  },
+  "provenance": {
+    "source_item_id": "52238ec2-033e-4cbe-a1b9-b298edd82804",
+    "external_id": "https://www.group1corp.com/2026-04-08-Group-1-Automotive-Schedules-Release-of-First-Quarter-2026-Financial-Results"
+  }
+}

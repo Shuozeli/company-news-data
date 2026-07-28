@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55ece71c4d5e7569e06136dad5e9a9b58a7201efb8fc706385f6654894f9703d",
+  "company": {
+    "key": "yc-ever-loved",
+    "name": "Ever Loved"
+  },
+  "source": {
+    "id": "yc-ever-loved-news-import-319d3c12c6e1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://everloved.com/articles/funeral-planning/",
+    "canonical": "https://everloved.com/articles/funeral-planning/"
+  },
+  "title": "Funeral planning",
+  "summary": "Find articles to help you plan a funeral, memorial service or celebration of life. Understand more of your options and get tips and creative ideas for memorializing your loved one.",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T09:09:44.243609+00:00",
+  "fetched_at": "2026-07-28T21:16:46.713740+00:00",
+  "last_updated_at": "2026-07-28T21:18:12.563625+00:00",
+  "paths": {
+    "article": "articles/v1/2e/yc-ever-loved/2026/07/55/55ece71c4d5e7569e06136dad5e9a9b58a7201efb8fc706385f6654894f9703d/article.md",
+    "record": "articles/v1/2e/yc-ever-loved/2026/07/55/55ece71c4d5e7569e06136dad5e9a9b58a7201efb8fc706385f6654894f9703d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7399,
+    "sha256": "sha256:e536976b6e73368dc3f3a4c7f1fb1aeff3e8b95ff745086c8e4969f0fd61783e",
+    "normalized_content_hash": "sha256:4751e29402dd5083a63c491ae36140a80ac4ce0275ed7de18632004d189a4192"
+  },
+  "provenance": {
+    "source_item_id": "8603d453-6752-4438-8c66-7189a967ed38",
+    "external_id": "https://everloved.com/articles/funeral-planning/"
+  }
+}

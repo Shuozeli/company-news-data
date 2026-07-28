@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e94456b6c3892e3fe9e98153ee7bf1c128f9c28fca9afcbbf67aca48ebcade68",
+  "company": {
+    "key": "conduent-incorporated-common-stock",
+    "name": "Conduent Incorporated Common Stock"
+  },
+  "source": {
+    "id": "conduent-incorporated-common-stock-news-import-70e9169c3b5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://insights.conduent.com/conduent-blog/admin-overload-healthcare-automation",
+    "canonical": "https://insights.conduent.com/conduent-blog/admin-overload-healthcare-automation"
+  },
+  "title": "How automation helps healthcare ops teams lower costs",
+  "summary": "Learn how automation and AI help healthcare organizations lower administrative costs, improve claims and revenue cycles and modernize operations.",
+  "published_at": "2026-03-25T16:49:08+00:00",
+  "first_seen_at": "2026-07-22T21:55:53.326168+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-28T21:26:50.243050+00:00",
+  "paths": {
+    "article": "articles/v1/8b/conduent-incorporated-common-stock/2026/03/e9/e94456b6c3892e3fe9e98153ee7bf1c128f9c28fca9afcbbf67aca48ebcade68/article.md",
+    "record": "articles/v1/8b/conduent-incorporated-common-stock/2026/03/e9/e94456b6c3892e3fe9e98153ee7bf1c128f9c28fca9afcbbf67aca48ebcade68/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13391,
+    "sha256": "sha256:e0f6de97f9f564403b73a231dc8c3195d3a967c5f6a1eec4d03447efa36d5a79",
+    "normalized_content_hash": "sha256:160b19a74201b808fd52cda58592179baa9b70c92e460bd4d529556249601587"
+  },
+  "provenance": {
+    "source_item_id": "7b90868a-7754-425d-93cc-b2bbe2c43b63",
+    "external_id": "https://insights.conduent.com/conduent-blog/admin-overload-healthcare-automation"
+  }
+}

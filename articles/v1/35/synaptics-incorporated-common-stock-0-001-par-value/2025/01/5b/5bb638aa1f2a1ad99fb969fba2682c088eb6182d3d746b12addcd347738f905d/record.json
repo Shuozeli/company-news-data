@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5bb638aa1f2a1ad99fb969fba2682c088eb6182d3d746b12addcd347738f905d",
+  "company": {
+    "key": "synaptics-incorporated-common-stock-0-001-par-value",
+    "name": "Synaptics Incorporated Common Stock $0.001 Par Value"
+  },
+  "source": {
+    "id": "synaptics-incorporated-common-stock-0-001-par-value-news-import-67901354d8df",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.synaptics.com/company/blog/the-edge-llm-offload-story-how-synaptics-torq-enables-high-efficiency-gemma-inference",
+    "canonical": "https://www.synaptics.com/company/blog/the-edge-llm-offload-story-how-synaptics-torq-enables-high-efficiency-gemma-inference"
+  },
+  "title": "The Edge LLM Offload Story: How Synaptics Torq™ Enables High-Efficiency Gemma™ Inference",
+  "summary": "Developers and system architects today face a growing demand to enable large language model variants on device. They are facing pressure to support transformer-capable models on constrained devices to ensure data privacy, eliminate cloud API charges, and provide offline reliability. On-device execution is also becoming a necessity to meet strict security regulations, such as Europe’s Cyber Resilience Act (CRA), while delivering the instant latency required for interactive AI assistants....",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:29:20.825354+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:45.270023+00:00",
+  "paths": {
+    "article": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/5b/5bb638aa1f2a1ad99fb969fba2682c088eb6182d3d746b12addcd347738f905d/article.md",
+    "record": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/5b/5bb638aa1f2a1ad99fb969fba2682c088eb6182d3d746b12addcd347738f905d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11764,
+    "sha256": "sha256:a6d8d810b2a2d2b98f35b6d85797df170ee8a045288241f56d8c95a5c9bcf0ce",
+    "normalized_content_hash": "sha256:6134831d8f0380eed8b3adba174de50a15d617d906a7ed1a779e83824dc91235"
+  },
+  "provenance": {
+    "source_item_id": "656be264-5351-4433-b5b2-8d34a57fe42f",
+    "external_id": "https://www.synaptics.com/company/blog/the-edge-llm-offload-story-how-synaptics-torq-enables-high-efficiency-gemma-inference"
+  }
+}

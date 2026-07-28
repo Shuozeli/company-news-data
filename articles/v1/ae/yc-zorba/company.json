@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-zorba",
+    "name": "Zorba"
+  },
+  "record_count": 4,
+  "first_published_at": "2024-03-28T13:41:15+00:00",
+  "last_published_at": "2024-07-02T16:02:07+00:00",
+  "partitions": [
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    }
+  ]
+}

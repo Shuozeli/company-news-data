@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24f2ac316e94239ceca3b0304c402a7b5eabc2e30bbe7c87bdb3a9036b81aebd",
+  "company": {
+    "key": "yc-rulebricks",
+    "name": "Rulebricks"
+  },
+  "source": {
+    "id": "yc-rulebricks-rss-eefe38b6d7e5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rulebricks.com/blog/building-an-audit-ready-ai-decision-gateway",
+    "canonical": "https://rulebricks.com/blog/building-an-audit-ready-ai-decision-gateway"
+  },
+  "title": "Building an Audit-Ready AI Decision Gateway",
+  "summary": "How to centralize AI governance with versioned decision services, audit trails, and explainable runtime controls.",
+  "published_at": "2026-04-02T14:08:15+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.346962+00:00",
+  "fetched_at": "2026-07-28T20:14:44.927916+00:00",
+  "last_updated_at": "2026-07-28T20:14:44.966811+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-rulebricks/2026/04/24/24f2ac316e94239ceca3b0304c402a7b5eabc2e30bbe7c87bdb3a9036b81aebd/article.md",
+    "record": "articles/v1/c7/yc-rulebricks/2026/04/24/24f2ac316e94239ceca3b0304c402a7b5eabc2e30bbe7c87bdb3a9036b81aebd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 685,
+    "sha256": "sha256:718b7b371754ce4d88e0505de01f313d110762096ff3f39c2f644b148b47f11d",
+    "normalized_content_hash": "sha256:c692b424aef257d02df0ca046d205969b3c5a0ffe3f7a224864946ef456e314f"
+  },
+  "provenance": {
+    "source_item_id": "c6676022-89fd-4cf9-a45a-b8f3faf8ef74",
+    "external_id": "https://rulebricks.com/blog/building-an-audit-ready-ai-decision-gateway"
+  }
+}

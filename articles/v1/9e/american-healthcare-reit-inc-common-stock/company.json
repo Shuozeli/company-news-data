@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "american-healthcare-reit-inc-common-stock",
+    "name": "American Healthcare REIT Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2022-08-04T20:44:49+00:00",
+  "last_published_at": "2024-02-07T01:20:14+00:00",
+  "partitions": [
+    {
+      "partition": "2022-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    }
+  ]
+}

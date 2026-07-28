@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb878ecb9dae77b1c00889f574c3b16651ead049da105cbbff13fec8906181a1",
+  "company": {
+    "key": "yc-algotest",
+    "name": "AlgoTest"
+  },
+  "source": {
+    "id": "yc-algotest-news-import-7cc502b412f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://algotest.in/blog/iron-condor-strategy/",
+    "canonical": "https://algotest.in/blog/iron-condor-strategy/"
+  },
+  "title": "Iron Condor Strategy Explained: How It Works, Payoff & Example",
+  "summary": "Learn how the Iron Condor strategy works with its payoff, example, breakeven, risks, and adjustments. See when to use this defined-risk options strategy.",
+  "published_at": "2026-07-22T07:52:52+00:00",
+  "first_seen_at": "2026-07-25T00:56:57.418756+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-07-28T21:20:46.870620+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-algotest/2026/07/eb/eb878ecb9dae77b1c00889f574c3b16651ead049da105cbbff13fec8906181a1/article.md",
+    "record": "articles/v1/0d/yc-algotest/2026/07/eb/eb878ecb9dae77b1c00889f574c3b16651ead049da105cbbff13fec8906181a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12413,
+    "sha256": "sha256:60bf2a29c790cdff22e49a582e71aba7017206100db6ac6b745ccbcf9e670110",
+    "normalized_content_hash": "sha256:9e3b85a41d796b7702fd6515bd7283725db7246c7540f1cf7f5fcd07fb6a653b"
+  },
+  "provenance": {
+    "source_item_id": "14f199bc-c3f4-48e2-a310-ef1661fc3a9f",
+    "external_id": "https://algotest.in/blog/iron-condor-strategy/"
+  }
+}

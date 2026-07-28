@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f5c4ec75ffe3a5dd6749b3fd872d33ebb55cf07b08e2a13909cdfce5dc4df51c",
+  "company": {
+    "key": "trimble-inc-common-stock",
+    "name": "Trimble Inc. Common Stock"
+  },
+  "source": {
+    "id": "trimble-inc-common-stock-rss-7adfc23558ed",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.trimble.com/en/blog/trimble/article/why-integration-is-the-real-innovation-in-construction-tech",
+    "canonical": "https://www.trimble.com/en/blog/trimble/article/why-integration-is-the-real-innovation-in-construction-tech"
+  },
+  "title": "From fragmented to future-ready: Why integration is the real innovation in construction tech",
+  "summary": "This blog highlights that despite high digital adoption, UK construction productivity lags due to fragmented tools. By using open, integrated platforms to connect data across the building lifecycle, firms can reduce errors, break down silos, and improve site-wide efficiency.",
+  "published_at": "2026-03-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:16.858863+00:00",
+  "fetched_at": "2026-07-28T20:33:46.789564+00:00",
+  "last_updated_at": "2026-07-28T20:33:46.828941+00:00",
+  "paths": {
+    "article": "articles/v1/44/trimble-inc-common-stock/2026/03/f5/f5c4ec75ffe3a5dd6749b3fd872d33ebb55cf07b08e2a13909cdfce5dc4df51c/article.md",
+    "record": "articles/v1/44/trimble-inc-common-stock/2026/03/f5/f5c4ec75ffe3a5dd6749b3fd872d33ebb55cf07b08e2a13909cdfce5dc4df51c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 969,
+    "sha256": "sha256:6ce0a9bd3ff658196e5df62d2dd00e18b413daa44a0d37614f8b30b1ed909e8a",
+    "normalized_content_hash": "sha256:483a22bdaacab2094817edda7aeed1229a7f92befce6bf02f38805d7fdc36da2"
+  },
+  "provenance": {
+    "source_item_id": "fef2d1d4-5bbd-45fa-93cb-0df0501eaa5f",
+    "external_id": "https://www.trimble.com/en/blog/trimble/article/why-integration-is-the-real-innovation-in-construction-tech"
+  }
+}

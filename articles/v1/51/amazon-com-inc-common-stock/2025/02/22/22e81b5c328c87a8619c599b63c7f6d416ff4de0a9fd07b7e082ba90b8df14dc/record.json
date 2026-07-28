@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "22e81b5c328c87a8619c599b63c7f6d416ff4de0a9fd07b7e082ba90b8df14dc",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-programs-hubs-portal",
+    "canonical": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-programs-hubs-portal"
+  },
+  "title": "How Amazon’s Disaster Relief hubs help communities when every minute counts",
+  "summary": "Amazon donates and delivers emergency supplies to American Red Cross, World Central Kitchen, and other nonprofits from our Disaster Relief hubs.",
+  "published_at": "2025-02-14T17:48:42.980+00:00",
+  "first_seen_at": "2026-07-22T18:15:21.032645+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:36.093895+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2025/02/22/22e81b5c328c87a8619c599b63c7f6d416ff4de0a9fd07b7e082ba90b8df14dc/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2025/02/22/22e81b5c328c87a8619c599b63c7f6d416ff4de0a9fd07b7e082ba90b8df14dc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12027,
+    "sha256": "sha256:13186880b07dcc7ce63b39932b007320dd945c1f4bf9df2359f5e2ab796cc54e",
+    "normalized_content_hash": "sha256:225b79535148252a31dc8bf6d67c33511750c05bf7acc9182ee06d8dbb3e49d9"
+  },
+  "provenance": {
+    "source_item_id": "c6179655-088b-4870-8a65-e74de85d2975",
+    "external_id": "https://www.aboutamazon.com/news/community/amazon-disaster-relief-programs-hubs-portal"
+  }
+}

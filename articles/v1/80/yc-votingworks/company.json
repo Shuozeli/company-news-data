@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-votingworks",
+    "name": "VotingWorks"
+  },
+  "record_count": 12,
+  "first_published_at": "2020-06-23T00:00:00+00:00",
+  "last_published_at": "2026-04-22T20:05:07+00:00",
+  "partitions": [
+    {
+      "partition": "2020-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ]
+}

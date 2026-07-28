@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ebfe15a66f068009213e7438e743dc47605e9164afa8046360cdafe6f7f84abe",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/qorvo-transforms-enterprise-wifi-access-points-into-scalable-uwb-rtls-infrastructure",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/qorvo-transforms-enterprise-wifi-access-points-into-scalable-uwb-rtls-infrastructure"
+  },
+  "title": "Qorvo Transforms Enterprise Wi-Fi Access Points into Scalable UWB RTLS Infrastructure",
+  "summary": "Qorvo® (Nasdaq: QRVO), a leading global provider of connectivity and power solutions, today announced a major step forward in making Ultra-Wideband (UWB) real-time location systems (RTLS) deployable at enterprise scale. By combining industry standards including FiRa and Omlox with integration into Wi-Fi enterprise access points (EAPs), Qorvo enables precise, real-time location services without the need for dedicated RTLS infrastructure.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T22:07:07.393518+00:00",
+  "last_updated_at": "2026-07-28T22:08:14.828167+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/eb/ebfe15a66f068009213e7438e743dc47605e9164afa8046360cdafe6f7f84abe/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/eb/ebfe15a66f068009213e7438e743dc47605e9164afa8046360cdafe6f7f84abe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9712,
+    "sha256": "sha256:30c4e82ee636b831543c4a60a538f46607c5a6f5d5ac74237c66e9df66d3df04",
+    "normalized_content_hash": "sha256:b11f1def6610bd3b5b7829ec9a357f051255d343df046552b04143732c9027f1"
+  },
+  "provenance": {
+    "source_item_id": "0f0cfb16-c516-4879-9ab1-7c6f6c441412",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/qorvo-transforms-enterprise-wifi-access-points-into-scalable-uwb-rtls-infrastructure"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "village-farms-international-inc-common-shares",
+    "name": "Village Farms International Inc. Common Shares"
+  },
+  "record_count": 10,
+  "first_published_at": "2023-03-01T21:35:42+00:00",
+  "last_published_at": "2025-11-23T15:39:48+00:00",
+  "partitions": [
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    }
+  ]
+}

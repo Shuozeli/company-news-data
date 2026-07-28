@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb24545fa43b0fb494c4276cba23d9a0b4756ab69e77f914b9b0cce41acfbb11",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/announcement-airun-run-ai-prompts-like-programs-20260219-0012",
+    "canonical": "https://andiai.com/blogs/announcement-airun-run-ai-prompts-like-programs-20260219-0012"
+  },
+  "title": "AIRun: Run AI Prompts Like Programs",
+  "summary": "Markdown files that work as AI programs. Add a shebang, pipe data in, get output. Works with Claude Code, OpenAI Codex, and multiple cloud and local models. Free and open source.",
+  "published_at": "2026-03-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:48:18.083780+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-28T21:26:48.070760+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2026/03/eb/eb24545fa43b0fb494c4276cba23d9a0b4756ab69e77f914b9b0cce41acfbb11/article.md",
+    "record": "articles/v1/d3/yc-andi/2026/03/eb/eb24545fa43b0fb494c4276cba23d9a0b4756ab69e77f914b9b0cce41acfbb11/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7163,
+    "sha256": "sha256:9bf8b9577524acf7f1124b15ff3fed477bfacca649edaae45e02bf48a6f516ee",
+    "normalized_content_hash": "sha256:06c289dfd5f19945e9c5bf66d9a93b9bbef9812b3859faf3aee919cf44b3b04e"
+  },
+  "provenance": {
+    "source_item_id": "edda1e99-e64c-4f53-ad7d-5367e4f1d012",
+    "external_id": "https://andiai.com/blogs/announcement-airun-run-ai-prompts-like-programs-20260219-0012"
+  }
+}

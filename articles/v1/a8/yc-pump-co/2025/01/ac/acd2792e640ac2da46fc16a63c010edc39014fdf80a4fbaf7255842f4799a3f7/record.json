@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "acd2792e640ac2da46fc16a63c010edc39014fdf80a4fbaf7255842f4799a3f7",
+  "company": {
+    "key": "yc-pump-co",
+    "name": "Pump.co"
+  },
+  "source": {
+    "id": "yc-pump-co-news-import-86a46b79533f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pump.co/blog/aws-bedrock-pricing/",
+    "canonical": "https://www.pump.co/blog/aws-bedrock-pricing/"
+  },
+  "title": "AWS Bedrock Pricing - Cost Breakdown & Savings Guide",
+  "summary": "Discover AWS Bedrock pricing details, cost considerations, and best practices to manage expenses for generative AI applications.",
+  "published_at": "2025-01-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:15:23.871807+00:00",
+  "fetched_at": "2026-07-28T11:48:07.834159+00:00",
+  "last_updated_at": "2026-07-28T11:48:10.876092+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-pump-co/2025/01/ac/acd2792e640ac2da46fc16a63c010edc39014fdf80a4fbaf7255842f4799a3f7/article.md",
+    "record": "articles/v1/a8/yc-pump-co/2025/01/ac/acd2792e640ac2da46fc16a63c010edc39014fdf80a4fbaf7255842f4799a3f7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13709,
+    "sha256": "sha256:c90028f9e42fb91cf1f2619656274b6120d83a55d2b03d722f3acad597ea4f5b",
+    "normalized_content_hash": "sha256:c0afb37f6c19263ce025f32857b8642ef6e674258670d38fb3e0e8770ce221f8"
+  },
+  "provenance": {
+    "source_item_id": "9526ef48-b7d2-47b2-b749-020cb5ca6d05",
+    "external_id": "https://www.pump.co/blog/aws-bedrock-pricing/"
+  }
+}

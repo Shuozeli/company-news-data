@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0963f83ca837c48d476694a094e80fc18fc0641906e1ab8ddfb3924e03b6aefc",
+  "company": {
+    "key": "paccar-inc-common-stock",
+    "name": "PACCAR Inc. Common Stock"
+  },
+  "source": {
+    "id": "paccar-inc-common-stock-news-import-2cf1de5bfa55",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.paccar.com/news/current-news/2023/paccar-recognizes-top-performing-suppliers-in-north-america/",
+    "canonical": "https://www.paccar.com/news/current-news/2023/paccar-recognizes-top-performing-suppliers-in-north-america/"
+  },
+  "title": "PACCAR Recognizes Top Performing Suppliers in North America",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T11:01:05.418267+00:00",
+  "fetched_at": "2026-07-27T23:51:20.169687+00:00",
+  "last_updated_at": "2026-07-27T23:51:21.857840+00:00",
+  "paths": {
+    "article": "articles/v1/3f/paccar-inc-common-stock/2026/07/09/0963f83ca837c48d476694a094e80fc18fc0641906e1ab8ddfb3924e03b6aefc/article.md",
+    "record": "articles/v1/3f/paccar-inc-common-stock/2026/07/09/0963f83ca837c48d476694a094e80fc18fc0641906e1ab8ddfb3924e03b6aefc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2750,
+    "sha256": "sha256:96838666e0ade9044b06fe02236408c4dba51a9e194298046452533a0db41635",
+    "normalized_content_hash": "sha256:71ae72d08ecf5867b76e0ddc47fd068124f11e612d1e7bafe6c785ef27e5605b"
+  },
+  "provenance": {
+    "source_item_id": "cd2ddefb-bb9d-4bbe-92f1-516ad4bf6d77",
+    "external_id": "https://www.paccar.com/news/current-news/2023/paccar-recognizes-top-performing-suppliers-in-north-america/"
+  }
+}

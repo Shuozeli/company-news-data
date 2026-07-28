@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce665704953017fdec6c9e9415bfaf9642f6cf7fbf04919859bfc9ae687caf41",
+  "company": {
+    "key": "first-bancorp-common-stock",
+    "name": "First Bancorp Common Stock"
+  },
+  "source": {
+    "id": "first-bancorp-common-stock-rss-7286cdaab2e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.localfirstbank.com/news/news-details/2026/First-Bancorp-Announces-Cash-Dividend/default.aspx",
+    "canonical": "https://investor.localfirstbank.com/news/news-details/2026/First-Bancorp-Announces-Cash-Dividend/default.aspx"
+  },
+  "title": "First Bancorp Announces Cash Dividend",
+  "summary": "",
+  "published_at": "2026-03-13T13:05:00+00:00",
+  "first_seen_at": "2026-07-25T04:46:10.796202+00:00",
+  "fetched_at": "2026-07-28T20:57:43.586045+00:00",
+  "last_updated_at": "2026-07-28T20:57:43.643418+00:00",
+  "paths": {
+    "article": "articles/v1/cb/first-bancorp-common-stock/2026/03/ce/ce665704953017fdec6c9e9415bfaf9642f6cf7fbf04919859bfc9ae687caf41/article.md",
+    "record": "articles/v1/cb/first-bancorp-common-stock/2026/03/ce/ce665704953017fdec6c9e9415bfaf9642f6cf7fbf04919859bfc9ae687caf41/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 646,
+    "sha256": "sha256:ea18cd8c7535a3cccb02d1537e01623e9b5366ae5655ccb544e0e5a3fc7d9fae",
+    "normalized_content_hash": "sha256:6945a389549a60a78bccf3cb28dbae0ccf5a1a30df372b3bdf72f8b66f0a28fe"
+  },
+  "provenance": {
+    "source_item_id": "2559a19f-c7ef-404f-80a7-93392a40b73d",
+    "external_id": "9f6cbd41-ce03-48b2-b81d-5f95b39ee78b"
+  }
+}

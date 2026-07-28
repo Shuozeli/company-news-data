@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b233d573ab9b87ae60fd6efede15fd315c7bdd0b24d2aa881d347e1b5e0a618",
+  "company": {
+    "key": "helmerich-payne-inc-common-stock",
+    "name": "Helmerich & Payne Inc. Common Stock"
+  },
+  "source": {
+    "id": "helmerich-payne-inc-common-stock-news-import-5ae549a21ed6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hpinc.com/news/announcements/hp-cat",
+    "canonical": "https://www.hpinc.com/news/announcements/hp-cat"
+  },
+  "title": "Cat® Dynamic Gas Blending™ (DGB) Gen 2 Kit",
+  "summary": "Read the H&P, Inc. announcement on the H&P-CAT partnership — news on collaboration, strategic goals, and impact in technology and operations.",
+  "published_at": "2025-04-22T19:03:00+00:00",
+  "first_seen_at": "2026-07-21T22:46:51.827606+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:09.800672+00:00",
+  "paths": {
+    "article": "articles/v1/96/helmerich-payne-inc-common-stock/2025/04/4b/4b233d573ab9b87ae60fd6efede15fd315c7bdd0b24d2aa881d347e1b5e0a618/article.md",
+    "record": "articles/v1/96/helmerich-payne-inc-common-stock/2025/04/4b/4b233d573ab9b87ae60fd6efede15fd315c7bdd0b24d2aa881d347e1b5e0a618/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4131,
+    "sha256": "sha256:7857cf41eca953865d2ee6efdb2e0afc2b5aa110b15bb977acd96172eeccad0d",
+    "normalized_content_hash": "sha256:3e8c3371e81be1387d40b948603fc1fc1246a64c2ea1332c2455eeab595fddbb"
+  },
+  "provenance": {
+    "source_item_id": "ef01f2df-94a6-4a74-94f2-7d012cebc6cb",
+    "external_id": "https://www.hpinc.com/news/announcements/hp-cat"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aa122abba328ca3e54ef2cf00e1385f779c08752afcd434f58b14f526aa1ef3f",
+  "company": {
+    "key": "motorola-solutions-inc-common-stock",
+    "name": "Motorola Solutions Inc. Common Stock"
+  },
+  "source": {
+    "id": "motorola-solutions-inc-common-stock-news-import-ae5238dd5220",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.motorolasolutions.com/newsroom/press-releases/denmark-extends-and-upgrades-public-safety-communications.html",
+    "canonical": "https://www.motorolasolutions.com/newsroom/press-releases/denmark-extends-and-upgrades-public-safety-communications.html"
+  },
+  "title": "Denmark Extends and Upgrades Public Safety Communications with Motorola Solutions",
+  "summary": "New DIMETRA Connect solution provides seamless roaming between TETRA and broadband for more than 45,000 emergency services users",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:45:51.968668+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:18.758984+00:00",
+  "paths": {
+    "article": "articles/v1/26/motorola-solutions-inc-common-stock/2026/06/aa/aa122abba328ca3e54ef2cf00e1385f779c08752afcd434f58b14f526aa1ef3f/article.md",
+    "record": "articles/v1/26/motorola-solutions-inc-common-stock/2026/06/aa/aa122abba328ca3e54ef2cf00e1385f779c08752afcd434f58b14f526aa1ef3f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4357,
+    "sha256": "sha256:13bda611edc8a0d00281d66a11883b54b2f4d2110ed67e1ed6f175627ed3e14f",
+    "normalized_content_hash": "sha256:aa725c8d75573bedb64548fffe7ce07a40df0188f34af8a8674aa05f1160c59e"
+  },
+  "provenance": {
+    "source_item_id": "a45fe3a7-126c-40a9-918b-d398dce0c97b",
+    "external_id": "https://www.motorolasolutions.com/newsroom/press-releases/denmark-extends-and-upgrades-public-safety-communications.html"
+  }
+}

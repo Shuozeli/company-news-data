@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "255610959630eece8f4d5911e26f15cc951d1d335543a0919d290b0fb36a4c45",
+  "company": {
+    "key": "yc-synder",
+    "name": "Synder"
+  },
+  "source": {
+    "id": "yc-synder-news-import-2d8d0ea56239",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://synder.com/blog/accounting-principles-for-beginners/",
+    "canonical": "https://synder.com/blog/accounting-principles-for-beginners/"
+  },
+  "title": "Accounting Basics for Business Owners: A Practical Guide",
+  "summary": "Learn accounting basics: from the accounting equation and double-entry bookkeeping to financial statements and cash vs accrual.",
+  "published_at": "2026-05-15T10:32:57+00:00",
+  "first_seen_at": "2026-07-24T03:03:15.591735+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-07-28T21:45:25.122933+00:00",
+  "paths": {
+    "article": "articles/v1/77/yc-synder/2026/05/25/255610959630eece8f4d5911e26f15cc951d1d335543a0919d290b0fb36a4c45/article.md",
+    "record": "articles/v1/77/yc-synder/2026/05/25/255610959630eece8f4d5911e26f15cc951d1d335543a0919d290b0fb36a4c45/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31245,
+    "sha256": "sha256:b4ad84aed4eb2fb5fec6fdaa7a5a8d42663934c7b35838b24a1417a9a66ec0ff",
+    "normalized_content_hash": "sha256:52b0e5184091060460745fa943acf21d266032f50cd0dc4b7f9a84c64291781c"
+  },
+  "provenance": {
+    "source_item_id": "54e99f74-a202-453b-ac72-5d0bfe7cfdca",
+    "external_id": "https://synder.com/blog/accounting-principles-for-beginners/"
+  }
+}

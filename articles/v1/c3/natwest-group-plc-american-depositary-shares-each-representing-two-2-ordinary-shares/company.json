@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "natwest-group-plc-american-depositary-shares-each-representing-two-2-ordinary-shares",
+    "name": "NatWest Group plc American Depositary Shares (each representing two (2) Ordinary Shares)"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-05-19T13:56:58+00:00",
+  "last_published_at": "2026-06-10T17:16:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ]
+}

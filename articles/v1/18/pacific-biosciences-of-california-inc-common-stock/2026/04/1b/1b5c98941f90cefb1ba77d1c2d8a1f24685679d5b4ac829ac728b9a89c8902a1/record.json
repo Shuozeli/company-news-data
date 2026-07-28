@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b5c98941f90cefb1ba77d1c2d8a1f24685679d5b4ac829ac728b9a89c8902a1",
+  "company": {
+    "key": "pacific-biosciences-of-california-inc-common-stock",
+    "name": "Pacific Biosciences of California Inc. Common Stock"
+  },
+  "source": {
+    "id": "pacific-biosciences-of-california-inc-common-stock-news-import-446448bf94cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pacb.com/blog/how-sprq-nx-enables-a-single-genomic-workflow-to-help-reduce-costs-in-cancer-detection-techniques/",
+    "canonical": "https://www.pacb.com/blog/how-sprq-nx-enables-a-single-genomic-workflow-to-help-reduce-costs-in-cancer-detection-techniques/"
+  },
+  "title": "How SPRQ-Nx enables a single genomic workflow to help reduce costs in cancer detection techniques",
+  "summary": "With a single HiFi long-read sequencing workflow, assays can be consolidated to generate a comprehensive view of the genome to detect cancer.",
+  "published_at": "2026-04-09T13:00:52+00:00",
+  "first_seen_at": "2026-07-22T08:02:43.432836+00:00",
+  "fetched_at": "2026-07-28T22:15:56.004086+00:00",
+  "last_updated_at": "2026-07-28T22:18:55.347339+00:00",
+  "paths": {
+    "article": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/04/1b/1b5c98941f90cefb1ba77d1c2d8a1f24685679d5b4ac829ac728b9a89c8902a1/article.md",
+    "record": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/04/1b/1b5c98941f90cefb1ba77d1c2d8a1f24685679d5b4ac829ac728b9a89c8902a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8182,
+    "sha256": "sha256:331ca6c2ee554dd2bf2911a2a46f74542ea288682577b380cb48e173529f33fa",
+    "normalized_content_hash": "sha256:d37bc8bf7927bb0965f36f59d31c52fee91ac110df501825e308132a1814d8b8"
+  },
+  "provenance": {
+    "source_item_id": "47714043-2f11-483b-b80a-0e04f40f59b7",
+    "external_id": "https://www.pacb.com/blog/how-sprq-nx-enables-a-single-genomic-workflow-to-help-reduce-costs-in-cancer-detection-techniques/"
+  }
+}

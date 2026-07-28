@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "20759f2119e4eb25e77d4783fac8d72be9ea3f3a545071f2504f9a0a9fe47cdd",
+  "company": {
+    "key": "synaptics-incorporated-common-stock-0-001-par-value",
+    "name": "Synaptics Incorporated Common Stock $0.001 Par Value"
+  },
+  "source": {
+    "id": "synaptics-incorporated-common-stock-0-001-par-value-news-import-67901354d8df",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.synaptics.com/company/blog/beyond-compute-the-critical-role-of-connectivity-for-edge-ai",
+    "canonical": "https://www.synaptics.com/company/blog/beyond-compute-the-critical-role-of-connectivity-for-edge-ai"
+  },
+  "title": "Beyond Compute: The Critical Role of Connectivity for Edge AI",
+  "summary": "Wireless connectivity technologies keep evolving, so it is more important than ever to use the latest Wi-Fi protocol when choosing a wireless SoC for IoT devices...",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:29:20.825354+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:45.159161+00:00",
+  "paths": {
+    "article": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/20/20759f2119e4eb25e77d4783fac8d72be9ea3f3a545071f2504f9a0a9fe47cdd/article.md",
+    "record": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/20/20759f2119e4eb25e77d4783fac8d72be9ea3f3a545071f2504f9a0a9fe47cdd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7097,
+    "sha256": "sha256:35bc0582f85cdf2a7df8ae71b5c396953165b362d165b8ce579aed2d62088d46",
+    "normalized_content_hash": "sha256:26b22032e0965e1e80975bd5914e9dd92f9f7ef9e872fdb56814351bbf2c04bb"
+  },
+  "provenance": {
+    "source_item_id": "8755a118-930b-4a9b-8eb1-6da58eb7e1b5",
+    "external_id": "https://www.synaptics.com/company/blog/beyond-compute-the-critical-role-of-connectivity-for-edge-ai"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab042be1388170ac43836686a51f9e6d99a65031042d80428261c445365c068b",
+  "company": {
+    "key": "yc-unsloth-ai",
+    "name": "Unsloth AI"
+  },
+  "source": {
+    "id": "yc-unsloth-ai-news-import-bb4a9dd43ab2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://unsloth.ai/blog/phi4",
+    "canonical": "https://unsloth.ai/blog/phi4"
+  },
+  "title": "Phi-4 Finetuning + Bug Fixes by Unsloth",
+  "summary": "Fine-tune Microsoft's new Phi-4 model with Unsloth! We've also found & fixed 4 bugs in the model.",
+  "published_at": "2025-01-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:34:23.482806+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-07-28T22:02:26.929530+00:00",
+  "paths": {
+    "article": "articles/v1/a6/yc-unsloth-ai/2025/01/ab/ab042be1388170ac43836686a51f9e6d99a65031042d80428261c445365c068b/article.md",
+    "record": "articles/v1/a6/yc-unsloth-ai/2025/01/ab/ab042be1388170ac43836686a51f9e6d99a65031042d80428261c445365c068b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6088,
+    "sha256": "sha256:d2dfb61cc8a6f3f74e680e7f09c438d896c3c5d8c8a89c0b655cf3ef2ec3574b",
+    "normalized_content_hash": "sha256:9785fe8213300a69b9edf99830fda7f9bc3d91dabfb2262d434454ede874c838"
+  },
+  "provenance": {
+    "source_item_id": "25315605-4e40-4ad2-a22b-c6115cd36708",
+    "external_id": "https://unsloth.ai/blog/phi4"
+  }
+}

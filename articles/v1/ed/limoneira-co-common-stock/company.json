@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "limoneira-co-common-stock",
+    "name": "Limoneira Co Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2023-06-17T00:14:48+00:00",
+  "last_published_at": "2023-07-13T23:19:29+00:00",
+  "partitions": [
+    {
+      "partition": "2023-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 7
+    }
+  ]
+}

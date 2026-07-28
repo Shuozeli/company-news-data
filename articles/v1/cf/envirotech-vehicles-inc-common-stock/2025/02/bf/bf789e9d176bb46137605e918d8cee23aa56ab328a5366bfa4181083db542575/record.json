@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf789e9d176bb46137605e918d8cee23aa56ab328a5366bfa4181083db542575",
+  "company": {
+    "key": "envirotech-vehicles-inc-common-stock",
+    "name": "Envirotech Vehicles Inc. Common Stock"
+  },
+  "source": {
+    "id": "envirotech-vehicles-inc-common-stock-news-import-3e250893f986",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.evtvusa.com/company/news/envirotech-vehicles-headquarters-houston-electric-vehicle-manufacturing/",
+    "canonical": "https://evtvusa.com/company/news/envirotech-vehicles-headquarters-houston-electric-vehicle-manufacturing"
+  },
+  "title": "Envirotech Vehicles to move headquarters to Houston, manufacture electric vehicles locally",
+  "summary": "Envirotech Vehicles to move headquarters to Houston, manufacture electric vehicles locally",
+  "published_at": "2025-02-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:03:58.705967+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:38.583549+00:00",
+  "paths": {
+    "article": "articles/v1/cf/envirotech-vehicles-inc-common-stock/2025/02/bf/bf789e9d176bb46137605e918d8cee23aa56ab328a5366bfa4181083db542575/article.md",
+    "record": "articles/v1/cf/envirotech-vehicles-inc-common-stock/2025/02/bf/bf789e9d176bb46137605e918d8cee23aa56ab328a5366bfa4181083db542575/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1040,
+    "sha256": "sha256:991504f3eb826fbed51382b94bd6aaebeccac7e25481a0ef63f7daf5ac66f485",
+    "normalized_content_hash": "sha256:6688a434ac63ed3e9c15a6dc90fbba2d425c717b91d35ff6aa7137d2c24df21f"
+  },
+  "provenance": {
+    "source_item_id": "de51c561-7ac3-4cd3-8566-286df41d509a",
+    "external_id": "https://evtvusa.com/company/news/envirotech-vehicles-headquarters-houston-electric-vehicle-manufacturing"
+  }
+}

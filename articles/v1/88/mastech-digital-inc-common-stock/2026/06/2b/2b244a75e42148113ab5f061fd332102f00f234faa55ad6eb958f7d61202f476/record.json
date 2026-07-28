@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b244a75e42148113ab5f061fd332102f00f234faa55ad6eb958f7d61202f476",
+  "company": {
+    "key": "mastech-digital-inc-common-stock",
+    "name": "Mastech Digital Inc Common Stock"
+  },
+  "source": {
+    "id": "mastech-digital-inc-common-stock-rss-2af4b8fac33f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.mastechdigital.com/blogs/lessons-from-troubleshooting-snowflake-openflow-pipelines",
+    "canonical": "https://www.mastechdigital.com/blogs/lessons-from-troubleshooting-snowflake-openflow-pipelines"
+  },
+  "title": "Lessons from Troubleshooting Snowflake OpenFlow Pipelines",
+  "summary": "Explore key OpenFlow pipeline issues, from S3 connectivity challenges to silent data flow failures, and learn practical fixes.",
+  "published_at": "2026-06-03T08:26:24+00:00",
+  "first_seen_at": "2026-07-20T23:19:47.752827+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-07-28T22:07:45.147967+00:00",
+  "paths": {
+    "article": "articles/v1/88/mastech-digital-inc-common-stock/2026/06/2b/2b244a75e42148113ab5f061fd332102f00f234faa55ad6eb958f7d61202f476/article.md",
+    "record": "articles/v1/88/mastech-digital-inc-common-stock/2026/06/2b/2b244a75e42148113ab5f061fd332102f00f234faa55ad6eb958f7d61202f476/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5422,
+    "sha256": "sha256:13679e4b9882ab52bb1b7f169fa1c9e596ee6632afbdf8f2d6147159d56a4412",
+    "normalized_content_hash": "sha256:f42e5457f3f17ed78150e47599772abf53dbcaa07e3dafd055962dc6ad83a80c"
+  },
+  "provenance": {
+    "source_item_id": "4587dc1c-6529-49fd-9871-9b2eca78261f",
+    "external_id": "https://www.mastechdigital.com/blogs/lessons-from-troubleshooting-snowflake-openflow-pipelines"
+  }
+}

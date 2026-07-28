@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab9967ca870f87accaa27d2872595b216beeae2f8af1c09ba1a1c7d63cd8451b",
+  "company": {
+    "key": "yc-mendral",
+    "name": "Mendral"
+  },
+  "source": {
+    "id": "yc-mendral-rss-072a653cc5a9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mendral.com/blog/supply-chain-attacks-dont-wait-for-cves",
+    "canonical": "https://mendral.com/blog/supply-chain-attacks-dont-wait-for-cves"
+  },
+  "title": "Supply Chain Attacks Don't Wait for CVEs",
+  "summary": "By the time a CVE exists, the bad version is already in thousands of CI pipelines. Here's the last year of npm and Actions attacks, why scanners are reactive by design, and the supply chain agent we shipped to catch dependency changes at the PR.",
+  "published_at": "2026-05-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:14.422858+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-07-28T20:51:33.971216+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-mendral/2026/05/ab/ab9967ca870f87accaa27d2872595b216beeae2f8af1c09ba1a1c7d63cd8451b/article.md",
+    "record": "articles/v1/cc/yc-mendral/2026/05/ab/ab9967ca870f87accaa27d2872595b216beeae2f8af1c09ba1a1c7d63cd8451b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14028,
+    "sha256": "sha256:21ddd241ac692ef39bcfda758ef0e9472eab98ea737a549e690f5575e6d98c8f",
+    "normalized_content_hash": "sha256:39cd413e06f036dc0a2571102c4a9426552161083186916a5b8d87d2b1f06282"
+  },
+  "provenance": {
+    "source_item_id": "0d09fccf-b05b-41bd-ac90-c2ca8296db95",
+    "external_id": "https://mendral.com/blog/supply-chain-attacks-dont-wait-for-cves"
+  }
+}

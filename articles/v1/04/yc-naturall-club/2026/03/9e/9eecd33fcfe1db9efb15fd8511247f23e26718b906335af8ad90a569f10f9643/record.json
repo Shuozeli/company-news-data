@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9eecd33fcfe1db9efb15fd8511247f23e26718b906335af8ad90a569f10f9643",
+  "company": {
+    "key": "yc-naturall-club",
+    "name": "NaturAll Club"
+  },
+  "source": {
+    "id": "yc-naturall-club-news-import-9d9d53f10345",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://naturallclub.com/blogs/the-naturall-club-blog/environmental-impact-of-hair-products",
+    "canonical": "https://naturallclub.com/blogs/the-naturall-club-blog/environmental-impact-of-hair-products"
+  },
+  "title": "Environmental Impact of Hair Products",
+  "summary": "Have you ever considered what happens when you throw out your shampoo bottle? It's a waste you can't really avoid. But what does it do to the environment?",
+  "published_at": "2026-03-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T16:39:42.968495+00:00",
+  "fetched_at": "2026-07-28T22:18:46.744033+00:00",
+  "last_updated_at": "2026-07-28T22:19:29.510811+00:00",
+  "paths": {
+    "article": "articles/v1/04/yc-naturall-club/2026/03/9e/9eecd33fcfe1db9efb15fd8511247f23e26718b906335af8ad90a569f10f9643/article.md",
+    "record": "articles/v1/04/yc-naturall-club/2026/03/9e/9eecd33fcfe1db9efb15fd8511247f23e26718b906335af8ad90a569f10f9643/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1870,
+    "sha256": "sha256:4ba63b289be795d7bfa37d641d1f43f0c34dcc8e4b2b06965a127f71c1e4c40f",
+    "normalized_content_hash": "sha256:3471c9be97382d7b8bbeb00fe57442d683357d9f005f49374ef82d56cc8b9833"
+  },
+  "provenance": {
+    "source_item_id": "3ab70a2a-b65c-4cd0-9124-a4dfa70dc7a0",
+    "external_id": "https://naturallclub.com/blogs/the-naturall-club-blog/environmental-impact-of-hair-products"
+  }
+}

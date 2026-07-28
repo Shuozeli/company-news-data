@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bc5eaba7f274b569db6bac56b539a309ab7fdfbfe9dcdccc17280afca823bcb9",
+  "company": {
+    "key": "frontier-group-holdings-inc-common-stock",
+    "name": "Frontier Group Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "frontier-group-holdings-inc-common-stock-news-import-2c3647c12c21",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.flyfrontier.com/frontier-airlines-launches-nonstop-service-from-dallas-fort-worth-international-airport-to-newark-nj-service-to-santa-ana-calif-begins-later-this-month/",
+    "canonical": "https://news.flyfrontier.com/frontier-airlines-launches-nonstop-service-from-dallas-fort-worth-international-airport-to-newark-nj-service-to-santa-ana-calif-begins-later-this-month/"
+  },
+  "title": "Frontier Airlines Launches Nonstop Service From Dallas Fort Worth International Airport to Newark, N.J.; Service to Santa Ana, Calif., Begins Later This Month",
+  "summary": "DALLAS – May 5, 2026 – Frontier Airlines (Nasdaq: ULCC) launched daily nonstop service today from Dallas Fort Worth International Airport (DFW) to Newark Liberty International Airport in New Jersey (EWR). This is ahead of new nonstop service to John Wayne Airport in Santa Ana, Calif. (SNA), launching later this month. With these new routes, ...",
+  "published_at": "2026-05-05T18:59:07+00:00",
+  "first_seen_at": "2026-07-25T05:47:03.607432+00:00",
+  "fetched_at": "2026-07-28T22:03:45.188546+00:00",
+  "last_updated_at": "2026-07-28T22:04:19.244868+00:00",
+  "paths": {
+    "article": "articles/v1/32/frontier-group-holdings-inc-common-stock/2026/05/bc/bc5eaba7f274b569db6bac56b539a309ab7fdfbfe9dcdccc17280afca823bcb9/article.md",
+    "record": "articles/v1/32/frontier-group-holdings-inc-common-stock/2026/05/bc/bc5eaba7f274b569db6bac56b539a309ab7fdfbfe9dcdccc17280afca823bcb9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4160,
+    "sha256": "sha256:7286b1f15129a31a4c0e19bfa3265235df646b57c4db37af75bca01da73cb814",
+    "normalized_content_hash": "sha256:ac791a5cd552c133beb9e490f5efa1898d34539fd428da33eea41b774e634c17"
+  },
+  "provenance": {
+    "source_item_id": "be68b314-fb37-4823-a821-e94f6d64d7cc",
+    "external_id": "https://news.flyfrontier.com/frontier-airlines-launches-nonstop-service-from-dallas-fort-worth-international-airport-to-newark-nj-service-to-santa-ana-calif-begins-later-this-month/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f79e4d686708c17f66c09f89dc148984cfdc0c13ae6626d11f8aaf58da994655",
+  "company": {
+    "key": "yc-capy",
+    "name": "Capy"
+  },
+  "source": {
+    "id": "yc-capy-news-import-ccb8c20193bf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://scrapybara.com/blog/sdk2",
+    "canonical": "https://scrapybara.com/blog/sdk2"
+  },
+  "title": "Introducing SDK 2.0",
+  "summary": "Overhauled Python and TypeScript SDKs, REST API endpoint, four new protocol APIs, subscription pricing, and more.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T04:45:19.830543+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:50.084646+00:00",
+  "paths": {
+    "article": "articles/v1/1a/yc-capy/2026/07/f7/f79e4d686708c17f66c09f89dc148984cfdc0c13ae6626d11f8aaf58da994655/article.md",
+    "record": "articles/v1/1a/yc-capy/2026/07/f7/f79e4d686708c17f66c09f89dc148984cfdc0c13ae6626d11f8aaf58da994655/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4220,
+    "sha256": "sha256:c060639441d9d9052ac13e63aab5365f6037755d43f11caf9aab68367b5a50c1",
+    "normalized_content_hash": "sha256:54829ae2c735c67ac0d7c7c5a1f4e0d00884d53d8dacde7cabf370d15f557b04"
+  },
+  "provenance": {
+    "source_item_id": "636f84fd-f1fa-490f-9686-8d5ea61351b5",
+    "external_id": "https://scrapybara.com/blog/sdk2"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c4805d89ab4b081e61ff37c7af1771a7f65a753d86ab003767f45d51ae0b1a00",
+  "company": {
+    "key": "thermon-group-holdings-inc-common-stock",
+    "name": "Thermon Group Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "thermon-group-holdings-inc-common-stock-news-import-a2a1af8cd9b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://thermon.com/news/announcing-the-ul-515a-approval-of-thermons-fire-sprinkler-freeze-protection-system/",
+    "canonical": "https://thermon.com/news/announcing-the-ul-515a-approval-of-thermons-fire-sprinkler-freeze-protection-system/"
+  },
+  "title": "Announcing the UL 515A Approval of Thermon’s Fire Sprinkler Freeze Protection System",
+  "summary": "Whether you’re looking for complete flow assurance, industrial heating, temperature maintenance, freeze protection or environmental monitoring, Thermon has you covered.",
+  "published_at": "2023-10-23T22:38:43+00:00",
+  "first_seen_at": "2026-07-22T16:34:45.413651+00:00",
+  "fetched_at": "2026-07-28T22:00:21.221344+00:00",
+  "last_updated_at": "2026-07-28T22:00:54.715488+00:00",
+  "paths": {
+    "article": "articles/v1/61/thermon-group-holdings-inc-common-stock/2023/10/c4/c4805d89ab4b081e61ff37c7af1771a7f65a753d86ab003767f45d51ae0b1a00/article.md",
+    "record": "articles/v1/61/thermon-group-holdings-inc-common-stock/2023/10/c4/c4805d89ab4b081e61ff37c7af1771a7f65a753d86ab003767f45d51ae0b1a00/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1526,
+    "sha256": "sha256:fed121c0d4cc4639c2bc672dc26145fe4272a287bd69f6b78259fbf917384c9d",
+    "normalized_content_hash": "sha256:f1a87f3e1ab7a74f7f5b259ae9bc1a9f9c703592a9e9a170751b994e2a323634"
+  },
+  "provenance": {
+    "source_item_id": "9dc3b558-0bb9-46ee-8d49-94b09b8a9634",
+    "external_id": "https://thermon.com/news/announcing-the-ul-515a-approval-of-thermons-fire-sprinkler-freeze-protection-system/"
+  }
+}

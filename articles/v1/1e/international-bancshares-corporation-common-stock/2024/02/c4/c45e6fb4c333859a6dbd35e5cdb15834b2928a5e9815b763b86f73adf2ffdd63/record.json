@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c45e6fb4c333859a6dbd35e5cdb15834b2928a5e9815b763b86f73adf2ffdd63",
+  "company": {
+    "key": "international-bancshares-corporation-common-stock",
+    "name": "International Bancshares Corporation Common Stock"
+  },
+  "source": {
+    "id": "international-bancshares-corporation-common-stock-news-import-2e07f9dd1075",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ibc.com/newsroom/press-releases/ibc-reports-37-increase-in-earnings-in-2023",
+    "canonical": "https://www.ibc.com/newsroom/press-releases/ibc-reports-37-increase-in-earnings-in-2023"
+  },
+  "title": "IBC Reports 37% Increase in Earnings in 2023",
+  "summary": "International Bancshares Corporation (NASDAQ: IBOC), one of the largest independent bank holding companies in Texas, today reported annual net income for 2023 of $411.8 million.",
+  "published_at": "2024-02-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T12:16:24.397693+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:05.362174+00:00",
+  "paths": {
+    "article": "articles/v1/1e/international-bancshares-corporation-common-stock/2024/02/c4/c45e6fb4c333859a6dbd35e5cdb15834b2928a5e9815b763b86f73adf2ffdd63/article.md",
+    "record": "articles/v1/1e/international-bancshares-corporation-common-stock/2024/02/c4/c45e6fb4c333859a6dbd35e5cdb15834b2928a5e9815b763b86f73adf2ffdd63/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4993,
+    "sha256": "sha256:ee07cbb464c6ed819bcb7b186df3e987d60f9572750e156391406b9c07c848e8",
+    "normalized_content_hash": "sha256:aee3b2215231761d8f198f0fdfbccdcb845d80e8adcfc2a59bfb71edcd9da927"
+  },
+  "provenance": {
+    "source_item_id": "3820a9a8-7fe1-4ba0-aa2f-a54e141ff3fe",
+    "external_id": "https://www.ibc.com/newsroom/press-releases/ibc-reports-37-increase-in-earnings-in-2023"
+  }
+}

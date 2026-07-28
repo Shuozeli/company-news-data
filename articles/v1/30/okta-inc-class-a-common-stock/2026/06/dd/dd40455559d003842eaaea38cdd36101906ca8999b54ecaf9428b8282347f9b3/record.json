@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd40455559d003842eaaea38cdd36101906ca8999b54ecaf9428b8282347f9b3",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-f76a50baf54b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/newsroom/press-releases/okta-for-ai-agents-core-brings-lifecycle-governance-to-regulated-environments/",
+    "canonical": "https://www.okta.com/newsroom/press-releases/okta-for-ai-agents-core-brings-lifecycle-governance-to-regulated-environments/"
+  },
+  "title": "Okta is the first independent and neutral identity platform to bring AI agent governance to highly regulated environments",
+  "summary": "Today, Okta announced general availability of Okta for AI Agents – Core for regulated environments—including FedRAMP and HIPAA environments.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:05:39.149088+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:37.678822+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/06/dd/dd40455559d003842eaaea38cdd36101906ca8999b54ecaf9428b8282347f9b3/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/06/dd/dd40455559d003842eaaea38cdd36101906ca8999b54ecaf9428b8282347f9b3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6396,
+    "sha256": "sha256:bc3082030b2b942dbc44d8f5b0467ee110d7a61f3c879daf78726b3e2042abbd",
+    "normalized_content_hash": "sha256:9451b04c7597e6a052a9086beab3710605bf0bd7f1d04cebf1d454fa7941190c"
+  },
+  "provenance": {
+    "source_item_id": "9c721a7d-a1b4-447b-b6b2-0223677d6396",
+    "external_id": "https://www.okta.com/newsroom/press-releases/okta-for-ai-agents-core-brings-lifecycle-governance-to-regulated-environments/"
+  }
+}

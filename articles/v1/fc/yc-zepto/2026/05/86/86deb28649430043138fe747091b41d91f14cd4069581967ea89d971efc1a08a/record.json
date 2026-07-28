@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "86deb28649430043138fe747091b41d91f14cd4069581967ea89d971efc1a08a",
+  "company": {
+    "key": "yc-zepto",
+    "name": "Zepto"
+  },
+  "source": {
+    "id": "yc-zepto-rss-8182f1493a2f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.zepto.com/building-a-lightning-fast-search-relevance-ranker-9319943a3880?source=rss----bd632b1d570d---4",
+    "canonical": "https://blog.zepto.com/building-a-lightning-fast-search-relevance-ranker-9319943a3880"
+  },
+  "title": "Building a Lightning-Fast Search Relevance Ranker",
+  "summary": "Teaching a Tiny Model to Think Like a Giant",
+  "published_at": "2026-05-21T07:39:12+00:00",
+  "first_seen_at": "2026-07-20T23:24:50.197566+00:00",
+  "fetched_at": "2026-07-28T20:50:36.289404+00:00",
+  "last_updated_at": "2026-07-28T20:50:58.807043+00:00",
+  "paths": {
+    "article": "articles/v1/fc/yc-zepto/2026/05/86/86deb28649430043138fe747091b41d91f14cd4069581967ea89d971efc1a08a/article.md",
+    "record": "articles/v1/fc/yc-zepto/2026/05/86/86deb28649430043138fe747091b41d91f14cd4069581967ea89d971efc1a08a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14474,
+    "sha256": "sha256:98250110fc1ef53d55dfcfe04f3fd03c83a4ca93f27f4e619f2fb691450dbb7a",
+    "normalized_content_hash": "sha256:070430e0ce6a3d64705b5cef29fde196ad770e30e89eebd35c5ff31a645c6ce3"
+  },
+  "provenance": {
+    "source_item_id": "deb130d2-fab5-4b04-8fb4-9ae1d5b92efa",
+    "external_id": "https://medium.com/p/9319943a3880"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ceb2aa8117c8c10080fae1645c1541fbfe5edc9306d67b456e7547d8052857bd",
+  "company": {
+    "key": "dynatrace-inc-common-stock",
+    "name": "Dynatrace Inc. Common Stock"
+  },
+  "source": {
+    "id": "dynatrace-inc-common-stock-news-import-04255267b1b8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dynatrace.com/news/press-release/perform-2026-ignites-new-era/",
+    "canonical": "https://www.dynatrace.com/news/press-release/perform-2026-ignites-new-era/"
+  },
+  "title": "Dynatrace Perform 2026 Ignites a New Era of Autonomous Intelligence and Innovation",
+  "summary": "At Perform 2026, Dynatrace announced a series of differentiated product enhancements and showcased the notable achievements of customers",
+  "published_at": "2026-02-27T08:23:26+00:00",
+  "first_seen_at": "2026-07-21T17:18:04.942961+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:22.459092+00:00",
+  "paths": {
+    "article": "articles/v1/90/dynatrace-inc-common-stock/2026/02/ce/ceb2aa8117c8c10080fae1645c1541fbfe5edc9306d67b456e7547d8052857bd/article.md",
+    "record": "articles/v1/90/dynatrace-inc-common-stock/2026/02/ce/ceb2aa8117c8c10080fae1645c1541fbfe5edc9306d67b456e7547d8052857bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9041,
+    "sha256": "sha256:caff420bbce8b819fefa5c5d245d0dedaaeee3163bf08887d06fa5ad5be59aae",
+    "normalized_content_hash": "sha256:38abeb4a00a95342aaec637456b4642c264e6bf930b6b69df60ae9df0e548bb0"
+  },
+  "provenance": {
+    "source_item_id": "6bd671d3-453a-4080-9a84-fe1ae7b7c0c5",
+    "external_id": "https://www.dynatrace.com/news/press-release/perform-2026-ignites-new-era/"
+  }
+}

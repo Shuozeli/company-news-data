@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e44dfc832e0943e560aa45f824902e72f21bf43a33bb699b4032469fa207691",
+  "company": {
+    "key": "abm-industries-incorporated-common-stock",
+    "name": "ABM Industries Incorporated Common Stock"
+  },
+  "source": {
+    "id": "abm-industries-incorporated-common-stock-news-import-5dd63b18d516",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.abm.com/perspectives/the-specialization-imperative-in-critical-complex-facilities",
+    "canonical": "https://www.abm.com/perspectives/the-specialization-imperative-in-critical-complex-facilities"
+  },
+  "title": "The specialization imperative in critical & complex facilities",
+  "summary": "Critical facilities demand specialized teams, advanced technical expertise, and integrated operations to maintain uptime and long-term performance.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T21:40:09.913077+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:06.942451+00:00",
+  "paths": {
+    "article": "articles/v1/f3/abm-industries-incorporated-common-stock/2026/07/3e/3e44dfc832e0943e560aa45f824902e72f21bf43a33bb699b4032469fa207691/article.md",
+    "record": "articles/v1/f3/abm-industries-incorporated-common-stock/2026/07/3e/3e44dfc832e0943e560aa45f824902e72f21bf43a33bb699b4032469fa207691/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13954,
+    "sha256": "sha256:ad9a458d317b49868ddb75c2f9b2e52972b895c15a63991f357394ad5f44a4bf",
+    "normalized_content_hash": "sha256:6b9def3c2a940046b7d3400b885e8fa0a51236fcfac411bbdbd782eb778e7e31"
+  },
+  "provenance": {
+    "source_item_id": "401ef0b8-9889-48da-a739-95181a71d570",
+    "external_id": "https://www.abm.com/perspectives/the-specialization-imperative-in-critical-complex-facilities"
+  }
+}

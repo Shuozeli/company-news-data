@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c2ea2c70cfdab72319c629bdbde50c425e630501c65183bab7eb111a10d2ce2f",
+  "company": {
+    "key": "immunic-inc-common-stock",
+    "name": "Immunic Inc. Common Stock"
+  },
+  "source": {
+    "id": "immunic-inc-common-stock-news-import-bc70b831650b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://imux.com/immunic-to-participate-in-investor-conferences-in-march-2026/",
+    "canonical": "https://imux.com/immunic-to-participate-in-investor-conferences-in-march-2026/"
+  },
+  "title": "Immunic to Participate in Investor Conferences in March",
+  "summary": "Immunic, Inc.(Nasdaq: IMUX), today announced participation in the following investor conferences in March",
+  "published_at": "2026-03-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T09:19:11.387681+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:32.207547+00:00",
+  "paths": {
+    "article": "articles/v1/dc/immunic-inc-common-stock/2026/03/c2/c2ea2c70cfdab72319c629bdbde50c425e630501c65183bab7eb111a10d2ce2f/article.md",
+    "record": "articles/v1/dc/immunic-inc-common-stock/2026/03/c2/c2ea2c70cfdab72319c629bdbde50c425e630501c65183bab7eb111a10d2ce2f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7241,
+    "sha256": "sha256:2b687d08a2b6b05c3dd22ac98fdfd8075a5a64027bc4762747fd6db8c0580c4e",
+    "normalized_content_hash": "sha256:00c031314f45e73a2ba0857e003e169f1a2d1fd1ffed269d006ec1828cffd386"
+  },
+  "provenance": {
+    "source_item_id": "cae93177-2b6c-4e62-a75a-61f972240173",
+    "external_id": "https://imux.com/immunic-to-participate-in-investor-conferences-in-march-2026/"
+  }
+}

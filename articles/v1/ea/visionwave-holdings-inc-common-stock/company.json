@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "visionwave-holdings-inc-common-stock",
+    "name": "VisionWave Holdings Inc. Common Stock"
+  },
+  "record_count": 3,
+  "first_published_at": "2025-07-14T05:12:30+00:00",
+  "last_published_at": "2025-08-19T05:13:43+00:00",
+  "partitions": [
+    {
+      "partition": "2025-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    }
+  ]
+}

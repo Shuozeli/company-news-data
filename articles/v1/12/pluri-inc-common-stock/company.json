@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pluri-inc-common-stock",
+    "name": "Pluri Inc. Common Stock"
+  },
+  "record_count": 15,
+  "first_published_at": "2021-06-29T12:36:54+00:00",
+  "last_published_at": "2026-06-14T10:57:30+00:00",
+  "partitions": [
+    {
+      "partition": "2021-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c6b6ae283fa45a13ac57dfeafe3854eb614c8dc74067dad62c1a6d4aedf33629",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-05-27.html",
+    "canonical": "https://ruger.com/news/2026-05-27.html"
+  },
+  "title": "Ruger Introduces ReadyDot® Micro Reflex Sight System for LCP® MAX Pistol",
+  "summary": "",
+  "published_at": "2026-05-27T14:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T21:55:52.188627+00:00",
+  "last_updated_at": "2026-07-28T21:56:34.187878+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/05/c6/c6b6ae283fa45a13ac57dfeafe3854eb614c8dc74067dad62c1a6d4aedf33629/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/05/c6/c6b6ae283fa45a13ac57dfeafe3854eb614c8dc74067dad62c1a6d4aedf33629/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2072,
+    "sha256": "sha256:c99e16456ccb63633841d113a1c8d2fd3423ee592cb28b349f0af793f271c43e",
+    "normalized_content_hash": "sha256:437511c0264c6efb2c5cc163c7d2460cad39c5c577ff17d330682c5e22c3d66e"
+  },
+  "provenance": {
+    "source_item_id": "7c494806-033c-48e1-be33-0fa0c2896a82",
+    "external_id": "https://ruger.com/news/2026-05-27.html"
+  }
+}

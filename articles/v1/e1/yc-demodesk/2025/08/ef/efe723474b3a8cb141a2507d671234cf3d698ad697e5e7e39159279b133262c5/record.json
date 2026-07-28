@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "efe723474b3a8cb141a2507d671234cf3d698ad697e5e7e39159279b133262c5",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/tldv-review",
+    "canonical": "https://demodesk.com/blog/tldv-review"
+  },
+  "title": "TL;DV Review 2026: A Sales Rep's Honest Take",
+  "summary": "TL;DV review in 2026: where it works (general note-taking), where it falls short for sales teams, and which alternatives fit revenue use cases.",
+  "published_at": "2025-08-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:07:17.937229+00:00",
+  "fetched_at": "2026-07-28T21:27:42.276842+00:00",
+  "last_updated_at": "2026-07-28T21:30:03.947199+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2025/08/ef/efe723474b3a8cb141a2507d671234cf3d698ad697e5e7e39159279b133262c5/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2025/08/ef/efe723474b3a8cb141a2507d671234cf3d698ad697e5e7e39159279b133262c5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5116,
+    "sha256": "sha256:d86c73b9e68138dedd1a0b9ac7af8e8f951078f70954c844fce3476c976b98ef",
+    "normalized_content_hash": "sha256:fb1e3cbb4eae26eb21f75bf21f2e629a4c2675bad040e2f54fcaf439231ad5d6"
+  },
+  "provenance": {
+    "source_item_id": "38c67ae0-8001-4990-9653-2ad82ca118c8",
+    "external_id": "https://demodesk.com/blog/tldv-review"
+  }
+}

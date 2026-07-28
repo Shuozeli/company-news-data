@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ad6df8084be2353800e7d2943633dec6873e727ac1ae2c1e8680378d04ac779",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/idi.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/idi.html"
+  },
+  "title": "Bot MD partners with the Indonesian Medical Association (IDI) to provide instant search to more than 200,000 doctors across Indonesia",
+  "summary": "Bot MD partnered with the Indonesian Medical Association (IDI) to embed its A.I. Assistant on the IDI website, enablingo over 200,000 doctor members to instantly search for association information, IDI services and national guidelines.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.567194+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/7a/7ad6df8084be2353800e7d2943633dec6873e727ac1ae2c1e8680378d04ac779/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/7a/7ad6df8084be2353800e7d2943633dec6873e727ac1ae2c1e8680378d04ac779/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1980,
+    "sha256": "sha256:41aec81c070c953435ec4519d73fd868450617b963394c578b2cd66aa88aa70b",
+    "normalized_content_hash": "sha256:fcd0421aa625d3f00dd64c1430febdc1509a2239bcc2fe1cae414f17b2eab7f5"
+  },
+  "provenance": {
+    "source_item_id": "87bbb9cc-fc8f-4b3b-9c62-cacb9630d819",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/idi.html"
+  }
+}

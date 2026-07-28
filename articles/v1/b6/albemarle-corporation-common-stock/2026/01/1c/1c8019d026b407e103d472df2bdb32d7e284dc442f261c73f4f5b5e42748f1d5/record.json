@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c8019d026b407e103d472df2bdb32d7e284dc442f261c73f4f5b5e42748f1d5",
+  "company": {
+    "key": "albemarle-corporation-common-stock",
+    "name": "Albemarle Corporation Common Stock"
+  },
+  "source": {
+    "id": "albemarle-corporation-common-stock-news-import-46b1e4b791cf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.albemarle.com/us/en/news/how-albemarles-biocides-help-protect-water-systems-and-food-supply-chain",
+    "canonical": "https://www.albemarle.com/us/en/news/how-albemarles-biocides-help-protect-water-systems-and-food-supply-chain"
+  },
+  "title": "How Albemarle’s Biocides Help Protect Water Systems and the Food",
+  "summary": "On any given day, millions of gallons of water circulate through cooling towers, industrial systems and power plants across the country. At the same time, food",
+  "published_at": "2026-01-29T19:49:08+00:00",
+  "first_seen_at": "2026-07-24T05:00:17.878170+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:35.312388+00:00",
+  "paths": {
+    "article": "articles/v1/b6/albemarle-corporation-common-stock/2026/01/1c/1c8019d026b407e103d472df2bdb32d7e284dc442f261c73f4f5b5e42748f1d5/article.md",
+    "record": "articles/v1/b6/albemarle-corporation-common-stock/2026/01/1c/1c8019d026b407e103d472df2bdb32d7e284dc442f261c73f4f5b5e42748f1d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4224,
+    "sha256": "sha256:68ecde109932b15066e485397c6a6de7a6356b589f2fd23d6e195ae48359b7a2",
+    "normalized_content_hash": "sha256:687bcf350e06c95c2e0d6de77e59809da251a21a6e92016c4417df9fc8d08e47"
+  },
+  "provenance": {
+    "source_item_id": "bb136a4f-1e49-435a-b4fd-f3f3beb5f80c",
+    "external_id": "https://www.albemarle.com/us/en/news/how-albemarles-biocides-help-protect-water-systems-and-food-supply-chain"
+  }
+}

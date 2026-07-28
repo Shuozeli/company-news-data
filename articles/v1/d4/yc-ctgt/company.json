@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-ctgt",
+    "name": "CTGT"
+  },
+  "record_count": 5,
+  "first_published_at": "2023-05-06T00:00:00+00:00",
+  "last_published_at": "2025-12-09T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    }
+  ]
+}

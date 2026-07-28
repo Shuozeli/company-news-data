@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-quantstamp",
+    "name": "Quantstamp"
+  },
+  "record_count": 98,
+  "first_published_at": "2025-06-04T18:23:59+00:00",
+  "last_published_at": "2026-07-07T14:39:26+00:00",
+  "partitions": [
+    {
+      "partition": "2025-06",
+      "record_count": 92
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

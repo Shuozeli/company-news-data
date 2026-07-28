@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-clad-labs",
+    "name": "Clad Labs"
+  },
+  "record_count": 4,
+  "first_published_at": "2025-08-22T00:00:00+00:00",
+  "last_published_at": "2025-10-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c5d91fe1b6d74516a71261da26c9a4e4dcfbf5f3c11ffc4b64d87c6e067e1ce0",
+  "company": {
+    "key": "ipg-photonics-corporation-common-stock",
+    "name": "IPG Photonics Corporation Common Stock"
+  },
+  "source": {
+    "id": "ipg-photonics-corporation-common-stock-news-import-4e17d4fcb86c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ipgphotonics.com/newsroom/stories/maximizing-robotic-arc-welding-implementation",
+    "canonical": "https://www.ipgphotonics.com/newsroom/stories/maximizing-robotic-arc-welding-implementation"
+  },
+  "title": "Maximizing Your Robotic Arc Welding Implementation",
+  "summary": "Robotic welding automation can offer many benefits. But only if it's done right.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T10:03:30.644428+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:30.629872+00:00",
+  "paths": {
+    "article": "articles/v1/8a/ipg-photonics-corporation-common-stock/2026/07/c5/c5d91fe1b6d74516a71261da26c9a4e4dcfbf5f3c11ffc4b64d87c6e067e1ce0/article.md",
+    "record": "articles/v1/8a/ipg-photonics-corporation-common-stock/2026/07/c5/c5d91fe1b6d74516a71261da26c9a4e4dcfbf5f3c11ffc4b64d87c6e067e1ce0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9463,
+    "sha256": "sha256:e3383fbe035279be7875b1ca448710eb22cd4e5305116e0b5eb565ca49be234d",
+    "normalized_content_hash": "sha256:31920e5a04bccd8f4a6bcfbb76ab306345f608bcfed8786b68c5ea0c62e64e3c"
+  },
+  "provenance": {
+    "source_item_id": "44c67de4-0c60-4649-b593-5e83830f9ba1",
+    "external_id": "https://www.ipgphotonics.com/newsroom/stories/maximizing-robotic-arc-welding-implementation"
+  }
+}

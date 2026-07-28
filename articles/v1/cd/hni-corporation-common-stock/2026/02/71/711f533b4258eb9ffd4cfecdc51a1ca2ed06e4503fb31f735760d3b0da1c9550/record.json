@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "711f533b4258eb9ffd4cfecdc51a1ca2ed06e4503fb31f735760d3b0da1c9550",
+  "company": {
+    "key": "hni-corporation-common-stock",
+    "name": "HNI Corporation Common Stock"
+  },
+  "source": {
+    "id": "hni-corporation-common-stock-rss-c13c429f2c6e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.hnicorp.com/news-releases/news-release-details/hni-corporation-reports-fourth-quarter-and-fiscal-year-2025",
+    "canonical": "https://investors.hnicorp.com/news-releases/news-release-details/hni-corporation-reports-fourth-quarter-and-fiscal-year-2025"
+  },
+  "title": "HNI Corporation Reports Fourth Quarter and Fiscal Year 2025 Results",
+  "summary": "",
+  "published_at": "2026-02-25T13:00:00+00:00",
+  "first_seen_at": "2026-07-25T08:11:31.149615+00:00",
+  "fetched_at": "2026-07-28T21:50:02.187294+00:00",
+  "last_updated_at": "2026-07-28T21:50:02.216916+00:00",
+  "paths": {
+    "article": "articles/v1/cd/hni-corporation-common-stock/2026/02/71/711f533b4258eb9ffd4cfecdc51a1ca2ed06e4503fb31f735760d3b0da1c9550/article.md",
+    "record": "articles/v1/cd/hni-corporation-common-stock/2026/02/71/711f533b4258eb9ffd4cfecdc51a1ca2ed06e4503fb31f735760d3b0da1c9550/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 697,
+    "sha256": "sha256:1ee46c822e0a3a2ecc71f841a908307693b9fefbb3e9312918987f3a3b68c266",
+    "normalized_content_hash": "sha256:aca4762628c150d9e4909e265c63f70ebcc9efad18157f8e9b2a678de1309a0f"
+  },
+  "provenance": {
+    "source_item_id": "3de82972-af8d-4324-a084-f13cda50544a",
+    "external_id": "6181"
+  }
+}

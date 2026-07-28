@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43a320bbb53f9ae8c647f647388a83d22b78b50033fd82db8486c56cd2d7644d",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-33dd9daf8236",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/crypto-bubble",
+    "canonical": "https://www.cointracker.io/blog/crypto-bubble"
+  },
+  "title": "How crypto bubbles form, burst, and impact the market",
+  "summary": "Learn what a crypto bubble is, how they form, and how to spot the warning signs before they burst. Plus, real examples and risk management tips.",
+  "published_at": "2026-03-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:51:14.288459+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:39.220728+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2026/03/43/43a320bbb53f9ae8c647f647388a83d22b78b50033fd82db8486c56cd2d7644d/article.md",
+    "record": "articles/v1/57/yc-cointracker/2026/03/43/43a320bbb53f9ae8c647f647388a83d22b78b50033fd82db8486c56cd2d7644d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11419,
+    "sha256": "sha256:1bd9600eb30d648275bdebd1f7d5fd95308e64b37579112f5e4b34ee260e052b",
+    "normalized_content_hash": "sha256:390bd79cc42ad5925563d8f87b376f4e200671721e135c683eae09f6932ab25f"
+  },
+  "provenance": {
+    "source_item_id": "6c0892ef-0661-4b09-8d62-48f20a888d80",
+    "external_id": "https://www.cointracker.io/blog/crypto-bubble"
+  }
+}

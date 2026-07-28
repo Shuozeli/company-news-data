@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00c407da24859ff80809b0d58b326a62bc36e601dadc8b87c3aeeaa748329819",
+  "company": {
+    "key": "enphase-energy-inc-common-stock",
+    "name": "Enphase Energy Inc. Common Stock"
+  },
+  "source": {
+    "id": "enphase-energy-inc-common-stock-news-import-d4eca28b4dbd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://enphase.com/blog/homeowners/get-paid-virtual-power-plants",
+    "canonical": "https://enphase.com/blog/homeowners/get-paid-virtual-power-plants"
+  },
+  "title": "Virtual Power Plant programs: How homeowners get paid to support the grid",
+  "summary": "Virtual Power Plants (VPPs) connect home batteries and solar to support the grid during peak demand. See how they work, how you get paid, and how to find programs near you.",
+  "published_at": "2026-03-06T07:12:41+00:00",
+  "first_seen_at": "2026-07-25T02:52:13.615447+00:00",
+  "fetched_at": "2026-07-28T21:26:25.193690+00:00",
+  "last_updated_at": "2026-07-28T21:26:48.909818+00:00",
+  "paths": {
+    "article": "articles/v1/47/enphase-energy-inc-common-stock/2026/03/00/00c407da24859ff80809b0d58b326a62bc36e601dadc8b87c3aeeaa748329819/article.md",
+    "record": "articles/v1/47/enphase-energy-inc-common-stock/2026/03/00/00c407da24859ff80809b0d58b326a62bc36e601dadc8b87c3aeeaa748329819/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11213,
+    "sha256": "sha256:7204234813cbad525b3b85780260e184bb7e698e595c2aba95bf724522c7e145",
+    "normalized_content_hash": "sha256:b681e7219c52ec9479559b45eb34c03526a54384515f1dc4b6190bfdfbbe3a9e"
+  },
+  "provenance": {
+    "source_item_id": "7a97c0f2-314d-4a08-b659-32451ac449c4",
+    "external_id": "https://enphase.com/blog/homeowners/get-paid-virtual-power-plants"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccb825b05ddd52f56ff5a9866c200f71cfbee72320e8a540787e1da0b4712b06",
+  "company": {
+    "key": "yc-cyberdesk",
+    "name": "Cyberdesk"
+  },
+  "source": {
+    "id": "yc-cyberdesk-rss-7fc226611edf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://cyberdesk-4xa2vgvm8-cyberdesk.vercel.app/blog/erp-reporting-with-ai-desktops",
+    "canonical": "https://cyberdesk-4xa2vgvm8-cyberdesk.vercel.app/blog/erp-reporting-with-ai-desktops"
+  },
+  "title": "Automating ERP reporting without rewriting the ERP",
+  "summary": "A short customer-facing example of using Cyberdesk to export reports from desktop-heavy finance systems.",
+  "published_at": "2026-04-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T15:57:26.427544+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-07-28T22:04:54.127715+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-cyberdesk/2026/04/cc/ccb825b05ddd52f56ff5a9866c200f71cfbee72320e8a540787e1da0b4712b06/article.md",
+    "record": "articles/v1/a3/yc-cyberdesk/2026/04/cc/ccb825b05ddd52f56ff5a9866c200f71cfbee72320e8a540787e1da0b4712b06/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4311,
+    "sha256": "sha256:37dbac236b6eb60858f31501a8ffef272388ff7414e09816146f3bd649bb62ee",
+    "normalized_content_hash": "sha256:ac5637740830cd691f6d84e240c3bc3f14a1182f598aebe54a28d74bd6441d29"
+  },
+  "provenance": {
+    "source_item_id": "4959a374-e59c-4c87-b2d6-a457af4b817f",
+    "external_id": "https://cyberdesk-4xa2vgvm8-cyberdesk.vercel.app/blog/erp-reporting-with-ai-desktops"
+  }
+}

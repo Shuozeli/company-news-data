@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01833917097e7460dd236fe8d676bd8095f019e9be24fa4be02d6f020c614745",
+  "company": {
+    "key": "genasys-inc-common-stock",
+    "name": "Genasys Inc. Common Stock"
+  },
+  "source": {
+    "id": "genasys-inc-common-stock-news-import-86acd8f701ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://genasys.com/press-releases/genasys-acoustics-orders-for-sedona-arizona-to-provide-protective-communications/",
+    "canonical": "https://genasys.com/press-releases/genasys-acoustics-orders-for-sedona-arizona-to-provide-protective-communications/"
+  },
+  "title": "Genasys Receives Acoustics Outdoor Warning Systems Orders from City of Sedona and Coconino County, AZ",
+  "summary": "Genasys Protective Communications solutions use continues to expand in Arizona",
+  "published_at": "2026-03-19T13:17:09+00:00",
+  "first_seen_at": "2026-07-25T06:23:32.722704+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-28T21:26:49.697357+00:00",
+  "paths": {
+    "article": "articles/v1/26/genasys-inc-common-stock/2026/03/01/01833917097e7460dd236fe8d676bd8095f019e9be24fa4be02d6f020c614745/article.md",
+    "record": "articles/v1/26/genasys-inc-common-stock/2026/03/01/01833917097e7460dd236fe8d676bd8095f019e9be24fa4be02d6f020c614745/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7199,
+    "sha256": "sha256:b3e6ded17d6bc76fc22f21b8786c06c5461301b5d74f1ac5f9bb1f2fe94574dc",
+    "normalized_content_hash": "sha256:6cbd4e66d13f9c09dbe45e2d924044fdc327358d58fbb6d0420c2a89258116fb"
+  },
+  "provenance": {
+    "source_item_id": "cb0fd477-c8c1-4b2b-8149-395ea1431cb2",
+    "external_id": "https://genasys.com/press-releases/genasys-acoustics-orders-for-sedona-arizona-to-provide-protective-communications/"
+  }
+}

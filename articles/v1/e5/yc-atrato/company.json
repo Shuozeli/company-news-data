@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-atrato",
+    "name": "Atrato"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-06-11T00:00:00+00:00",
+  "last_published_at": "2026-07-23T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

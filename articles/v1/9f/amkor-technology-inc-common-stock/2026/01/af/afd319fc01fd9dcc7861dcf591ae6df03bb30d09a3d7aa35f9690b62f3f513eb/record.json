@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "afd319fc01fd9dcc7861dcf591ae6df03bb30d09a3d7aa35f9690b62f3f513eb",
+  "company": {
+    "key": "amkor-technology-inc-common-stock",
+    "name": "Amkor Technology Inc. Common Stock"
+  },
+  "source": {
+    "id": "amkor-technology-inc-common-stock-news-import-c3e4c050930c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amkor.com/blog/real-world-semiconductor-learning/",
+    "canonical": "https://amkor.com/blog/real-world-semiconductor-learning/"
+  },
+  "title": "Real‑World Semiconductor Learning in Action",
+  "summary": "CUSD’s SEMI CTE program strengthens the semiconductor workforce through hands‑on learning and industry collaboration supported by Amkor.",
+  "published_at": "2026-01-16T23:39:01+00:00",
+  "first_seen_at": "2026-07-24T16:34:56.885040+00:00",
+  "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+  "last_updated_at": "2026-07-28T21:27:29.240707+00:00",
+  "paths": {
+    "article": "articles/v1/9f/amkor-technology-inc-common-stock/2026/01/af/afd319fc01fd9dcc7861dcf591ae6df03bb30d09a3d7aa35f9690b62f3f513eb/article.md",
+    "record": "articles/v1/9f/amkor-technology-inc-common-stock/2026/01/af/afd319fc01fd9dcc7861dcf591ae6df03bb30d09a3d7aa35f9690b62f3f513eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2937,
+    "sha256": "sha256:2c61ec1aefe23ba15bc6bb74b39c959465796d265cba3656f31157e579dd18fb",
+    "normalized_content_hash": "sha256:3d88b63e90f592c2c069d86b892843d5769f0296831fe475a520b4ebd2638fad"
+  },
+  "provenance": {
+    "source_item_id": "1cd62b0c-ac8f-4509-907e-c898ecc6b2ca",
+    "external_id": "https://amkor.com/blog/real-world-semiconductor-learning/"
+  }
+}

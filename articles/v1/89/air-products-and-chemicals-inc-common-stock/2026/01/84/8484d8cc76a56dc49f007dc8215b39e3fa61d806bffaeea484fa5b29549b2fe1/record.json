@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8484d8cc76a56dc49f007dc8215b39e3fa61d806bffaeea484fa5b29549b2fe1",
+  "company": {
+    "key": "air-products-and-chemicals-inc-common-stock",
+    "name": "Air Products and Chemicals Inc. Common Stock"
+  },
+  "source": {
+    "id": "air-products-and-chemicals-inc-common-stock-news-import-dc995e70a680",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.airproducts.me/company/news-center/2026/01/0130-air-products-fiscal-2026-first-quarter-earnings",
+    "canonical": "https://www.airproducts.me/company/news-center/2026/01/0130-air-products-fiscal-2026-first-quarter-earnings"
+  },
+  "title": "Air Products Reports Fiscal 2026 First Quarter Results",
+  "summary": "Air Products reported first quarter fiscal 2026 GAAP operating income of $735 million, up 14 percent from the prior year, primarily due to favorable business mix, non‑helium pricing, net of power and fuel costs, and lower costs.",
+  "published_at": "2026-01-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T03:47:45.355939+00:00",
+  "fetched_at": "2026-07-27T16:24:56.196867+00:00",
+  "last_updated_at": "2026-07-27T16:24:58.968994+00:00",
+  "paths": {
+    "article": "articles/v1/89/air-products-and-chemicals-inc-common-stock/2026/01/84/8484d8cc76a56dc49f007dc8215b39e3fa61d806bffaeea484fa5b29549b2fe1/article.md",
+    "record": "articles/v1/89/air-products-and-chemicals-inc-common-stock/2026/01/84/8484d8cc76a56dc49f007dc8215b39e3fa61d806bffaeea484fa5b29549b2fe1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6853,
+    "sha256": "sha256:24a4892f70b34fca290fab160958bf2fcf5ba81e8a46f161c4333c25f4fbec67",
+    "normalized_content_hash": "sha256:7761bb8a499a28144e4a4c9c4f851d21a0573ce5d85d619d7549fc154a7998c4"
+  },
+  "provenance": {
+    "source_item_id": "e86da502-5899-4b90-bb21-bee09b78d3b0",
+    "external_id": "https://www.airproducts.me/company/news-center/2026/01/0130-air-products-fiscal-2026-first-quarter-earnings"
+  }
+}

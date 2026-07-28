@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a86cd71e0cc26054a3a43a3fce8b66803edd0c3434a1f41da48a5b26dc340195",
+  "company": {
+    "key": "yc-intryc",
+    "name": "Intryc"
+  },
+  "source": {
+    "id": "yc-intryc-news-import-17b79f653bb0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.intryc.com/blog/sop-evaluation-gap",
+    "canonical": "https://www.intryc.com/blog/sop-evaluation-gap"
+  },
+  "title": "Your QA tool sees quality. Intryc sees compliance.",
+  "summary": "Most QA tools score how agents communicate. Intryc scores whether they followed your SOPs. The depth gap most regulated teams are missing.",
+  "published_at": "2026-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:22:23.516240+00:00",
+  "fetched_at": "2026-07-28T21:44:24.455372+00:00",
+  "last_updated_at": "2026-07-28T21:44:41.126189+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-intryc/2026/05/a8/a86cd71e0cc26054a3a43a3fce8b66803edd0c3434a1f41da48a5b26dc340195/article.md",
+    "record": "articles/v1/45/yc-intryc/2026/05/a8/a86cd71e0cc26054a3a43a3fce8b66803edd0c3434a1f41da48a5b26dc340195/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13142,
+    "sha256": "sha256:1213cb1d19698d9b61e33a00f078242c24840ccea44036877b84f2ed75405768",
+    "normalized_content_hash": "sha256:5111d6fdd208b5cba3915dd8d271ac3a88f24190fb660688540a004794e3bdc2"
+  },
+  "provenance": {
+    "source_item_id": "462fe05e-0abb-4a16-b711-28068f0d1e2c",
+    "external_id": "https://www.intryc.com/blog/sop-evaluation-gap"
+  }
+}

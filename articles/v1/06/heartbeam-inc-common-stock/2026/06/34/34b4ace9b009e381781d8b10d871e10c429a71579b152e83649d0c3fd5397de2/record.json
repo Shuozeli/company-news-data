@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34b4ace9b009e381781d8b10d871e10c429a71579b152e83649d0c3fd5397de2",
+  "company": {
+    "key": "heartbeam-inc-common-stock",
+    "name": "Heartbeam Inc. Common Stock"
+  },
+  "source": {
+    "id": "heartbeam-inc-common-stock-news-import-dd8fccbae268",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.heartbeam.com/news-events/press-releases/detail/123/heartbeam-announces-new-peer-reviewed-article-demonstrating",
+    "canonical": "https://ir.heartbeam.com/news-events/press-releases/detail/123/heartbeam-announces-new-peer-reviewed-article-demonstrating"
+  },
+  "title": "HeartBeam Announces New Peer-Reviewed Article Demonstrating Potential to Help Identify Heart Attack Risk at Home",
+  "summary": "Publication in JACC: Advances demonstrates that an algorithm combining the HeartBeam ECG device with patient risk factors and symptoms can…...",
+  "published_at": "2026-06-02T07:00:00+00:00",
+  "first_seen_at": "2026-07-23T11:04:30.106719+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:29.752387+00:00",
+  "paths": {
+    "article": "articles/v1/06/heartbeam-inc-common-stock/2026/06/34/34b4ace9b009e381781d8b10d871e10c429a71579b152e83649d0c3fd5397de2/article.md",
+    "record": "articles/v1/06/heartbeam-inc-common-stock/2026/06/34/34b4ace9b009e381781d8b10d871e10c429a71579b152e83649d0c3fd5397de2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9338,
+    "sha256": "sha256:0eca0c6a7a87b0c7ffa270349720a8c99704feefd90fbcbd1ba0b214ee60293e",
+    "normalized_content_hash": "sha256:6ac87c9058342b450472a2b20da7b6e0a8cc44996f96c717dba7fb02436f62fe"
+  },
+  "provenance": {
+    "source_item_id": "403d1af5-d166-4305-8e33-ebd54b7490c7",
+    "external_id": "https://ir.heartbeam.com/news-events/press-releases/detail/123/heartbeam-announces-new-peer-reviewed-article-demonstrating"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb4e477d738076d16227e845581d96741b669961572228b5a0f23ad3a4d4ead1",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/us-largecap-divid-fd-wisdomtree-trust-nyse-dln-declared-a-dividend-of-$0.1050-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/us-largecap-divid-fd-wisdomtree-trust-nyse-dln-declared-a-dividend-of-$0.1050-per-share/"
+  },
+  "title": "DLN Dividend Announcement $0.1050/Share 7/27/2026",
+  "summary": "NYSE:DLN US Largecap Divid Fd/WisdomTree Trust Dividend Announcement $0.1050 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.148181+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/fb/fb4e477d738076d16227e845581d96741b669961572228b5a0f23ad3a4d4ead1/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/fb/fb4e477d738076d16227e845581d96741b669961572228b5a0f23ad3a4d4ead1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2356,
+    "sha256": "sha256:91d49cf9cfcddb894425f0e48091be33820f71600c2776fdfc9686379110a5a0",
+    "normalized_content_hash": "sha256:e77ebcb1aeed7d84ea9676096d9a1a1dd0f9021c75a443ddd59ce8e0f2221f77"
+  },
+  "provenance": {
+    "source_item_id": "026c3bed-776b-444c-98b9-9b063e375767",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/us-largecap-divid-fd-wisdomtree-trust-nyse-dln-declared-a-dividend-of-$0.1050-per-share/"
+  }
+}

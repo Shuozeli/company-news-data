@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "883259da974412e0c057204a69b24dea511846a84510f99446b7700777651d85",
+  "company": {
+    "key": "yc-finvest",
+    "name": "Finvest"
+  },
+  "source": {
+    "id": "yc-finvest-news-import-dca26008b37d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.getfinvest.com/blog/credit-score/",
+    "canonical": "https://www.getfinvest.com/blog/credit-score/"
+  },
+  "title": "What actually hurts your credit score, and what to do about it",
+  "summary": "Missed payments, collections, co-signing, fraud, and lender errors can damage credit. Here is how to verify the risk and act fast.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T02:24:45.885818+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:21:58.768035+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-finvest/2026/07/88/883259da974412e0c057204a69b24dea511846a84510f99446b7700777651d85/article.md",
+    "record": "articles/v1/0e/yc-finvest/2026/07/88/883259da974412e0c057204a69b24dea511846a84510f99446b7700777651d85/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7500,
+    "sha256": "sha256:07b6ed54878d15655fb37197fa787fb486a4e22ef394ce6e6069f5589b087224",
+    "normalized_content_hash": "sha256:9d4f4d09bc28604a946928c187716ffa9cbd915dd968ca13f2b8228eba1cf1fc"
+  },
+  "provenance": {
+    "source_item_id": "e54142ac-1227-42a5-927f-ff4fdf2afa82",
+    "external_id": "https://www.getfinvest.com/blog/credit-score/"
+  }
+}

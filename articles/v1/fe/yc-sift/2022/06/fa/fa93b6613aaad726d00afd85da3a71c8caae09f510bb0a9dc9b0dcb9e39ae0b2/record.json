@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fa93b6613aaad726d00afd85da3a71c8caae09f510bb0a9dc9b0dcb9e39ae0b2",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/continuous-ml-improvements-sift-scale/",
+    "canonical": "https://engineering.sift.com/continuous-ml-improvements-sift-scale/"
+  },
+  "title": "Continuous ML Improvements @ Sift Scale",
+  "summary": "The SaaS and fraud space is dynamic and ever evolving. Customers, old and new, bring new fraud use cases that we need to adjust for. Fraudsters are also coming up with new fraud patterns and vectors of attack. That requires us to continuously update our models, experiment with new data sources, new algorithms, etc. We […]",
+  "published_at": "2022-06-09T18:33:02+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.501739+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2022/06/fa/fa93b6613aaad726d00afd85da3a71c8caae09f510bb0a9dc9b0dcb9e39ae0b2/article.md",
+    "record": "articles/v1/fe/yc-sift/2022/06/fa/fa93b6613aaad726d00afd85da3a71c8caae09f510bb0a9dc9b0dcb9e39ae0b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6965,
+    "sha256": "sha256:ad912b7d0037ff26bdd835e5c6a28c1f5fc0297a8efdf751a3f9b78e2c8d0aeb",
+    "normalized_content_hash": "sha256:f9d669eafd033d4c4c428e983762be58145856b8613bb6baec7b11468e331620"
+  },
+  "provenance": {
+    "source_item_id": "a0d9c506-781a-4a7e-8afc-5333c1d742d4",
+    "external_id": "https://engineering.sift.com/continuous-ml-improvements-sift-scale/"
+  }
+}

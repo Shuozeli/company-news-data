@@ -7,11 +7,32 @@ source_id: "yc-gusto-engineering-rss"
 canonical_url: "https://engineering.gusto.com/taste-over-tooling-craftsmanship-in-the-post-execution-era-891fbdcd5fe3"
 published_at: "2026-07-13T21:41:11+00:00"
 first_seen_at: "2026-07-19T22:15:27.842622+00:00"
-fetched_at: "2026-07-28T04:03:20.234730+00:00"
-content_hash: "sha256:932dd9146158c2549b002159c4f02a3acdca382902228da702c84361c6ee80cf"
+fetched_at: "2026-07-28T20:41:19.924237+00:00"
+content_hash: "sha256:056fea3ae617b8906fd4b4cae9787c613769047c2a0516812285ad15fe9268de"
 ---
 
 # Taste Over Tooling: Craftsmanship in the Post-Execution Era
+
+# Taste Over Tooling: Craftsmanship in the Post-Execution Era
+
+
+[Valentino](https://medium.com/@codenamev?source=post_page---byline--891fbdcd5fe3---------------------------------------)
+
+
+9 min read
+
+
+·
+
+
+Jul 13, 2026
+
+
+--
+
+
+Press enter or click to view image in full size
+
 
 Photo by[Bozhin Karaivanov](https://unsplash.com/@bkaraivanov?utm_source=medium&utm_medium=referral) on[Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
@@ -19,7 +40,7 @@ Photo by[Bozhin Karaivanov](https://unsplash.com/@bkaraivanov?utm_source=medium&
 *As AI agents commoditize the execution of code, the leverage moves to the two things a machine can’t do for you: deciding what belongs on the menu, and knowing when a finished plate is wrong.*
 
 
-### Introduction: The Shifting Medium of Craftsmanship
+## Introduction: The Shifting Medium of Craftsmanship
 
 
 Software craftsmanship has always been an evolving discipline. For the last decade, our industry was shaped by what I think of as the “happy coder” mentality. Evangelized heavily by the Ruby on Rails community and figures like David Heinemeier Hansson (DHH), we treated code primarily as a medium for human-to-human communication. We piled into rooms with whiteboards to map out dreams. We obsessed over tight feedback loops and empathy for the next developer who would read our syntax.
@@ -31,7 +52,7 @@ Today, the medium is shifting. With the rise of agentic coding, we are no longer
 The actual typing of code is slipping from our fingertips, and for many of us that feels terrifying. But craftsmanship hasn’t disappeared. It has moved up the stack.
 
 
-### The “Golden Path” Trap: The Bitter Lesson of Rigid Context
+## The “Golden Path” Trap: The Bitter Lesson of Rigid Context
 
 
 Faced with near-infinite, instantaneous execution, the industry’s first instinct has been to cage it. Teams are searching for a “golden path” to make agents reliably useful, and the result is a whirlwind of complex tooling: multi-step LLM pipelines, rigid harnesses, and sprawling context files that run to thousands of lines.
@@ -58,7 +79,7 @@ My reading, after living inside one of these systems, is that comprehensive docu
 This is the shape of a much older pattern. AI researcher Rich Sutton named it[The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) : “general methods that leverage computation are ultimately the most effective, and by a large margin.” Every time we try to build in our own hard-won structure to steer a capable model, it helps in the short term and then plateaus. As Sutton puts it, “we have to learn the bitter lesson that building in how we think does not work in the long run.” A sprawling context file is exactly that: our knowledge, encoded as rigid scaffolding, fighting a model that would often do better with less.
 
 
-### The Agentic Omakase: What the Data Says
+## The Agentic Omakase: What the Data Says
 
 
 If rigid tooling and massive context files are a trap, how do we guide the machine? The answer comes from the era we are leaving behind: **conventions** .
@@ -68,6 +89,15 @@ DHH described the Rails philosophy as[omakase](https://rubyonrails.org/doctrine#
 
 
 The agentic version is the same move. We are not the diner here and we are not the line cook. We sit in the chef’s seat. We curate a small, opinionated menu of conventions, and the agent and the developer both work from it. We pick what is on the menu; the agent cooks the meal.
+
+
+## Get Valentino’s stories in your inbox
+
+
+Join Medium for free to get updates from this writer.
+
+
+Remember me for faster sign in
 
 
 The data backs this up with surprising force. In[SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670) (Li et al., Feb 2026), the researchers built a benchmark of 86 tasks across 11 domains, with curated skills and deterministic verifiers, and ran more than 7,300 trajectories. Curated skills raised the average pass rate by 16.2 points. But the headline average hides the real lesson:
@@ -85,7 +115,7 @@ You cannot hand an agent a massive manual, and you cannot expect the agent to wr
 This is the direction I have been pushed in my own setup, almost against my instincts. My global agent config is 31 lines. My rules directory is a single file. My hooks amount to one hook, and even that one delegates its real logic to a separate binary so the instruction surface stays thin. When I built a review tool that auto-triggered on every diff and found it got in the way more than it helped, I did not rewrite it or expand its instructions. I left it in place and switched it off with a single line of config. The skill is still there when I summon it deliberately, but it no longer crowds the agent’s attention by default. Curate the menu, then have the discipline to keep things off it.
 
 
-### Quality Backpressure and the New Rigor
+## Quality Backpressure and the New Rigor
 
 
 If execution is cheap and complex tooling is a liability, what is the engineer’s actual job? I think of it as **quality backpressure** .
@@ -109,7 +139,7 @@ That is the pattern behind almost every agent mistake I have caught. The output 
 The rigor you bring to the table is not a context file you downloaded off GitHub. It is your domain expertise, your instinct for which layer to probe, and the specific, probing questions you ask the agent after it confidently hands you a thousand lines of code.
 
 
-### Conclusion: The Rise of Taste
+## Conclusion: The Rise of Taste
 
 
 Execution is becoming a smaller part of what defines good engineering work, and we should welcome that.
@@ -122,9 +152,3 @@ The happy coder of the future is not the one maintaining the most elaborate AI p
 
 
 *If navigating this shift with strong conventions, personalized rigor, and a real focus on craftsmanship sounds like your kind of work, we would love to hear from you. We are hiring. Learn more at*[gusto.com/careers](https://gusto.com/careers) *.*
-
-
----
-
-
-[Taste Over Tooling: Craftsmanship in the Post-Execution Era](https://engineering.gusto.com/taste-over-tooling-craftsmanship-in-the-post-execution-era-891fbdcd5fe3) was originally published in[Gusto Engineering](https://engineering.gusto.com/) on Medium, where people are continuing the conversation by highlighting and responding to this story.

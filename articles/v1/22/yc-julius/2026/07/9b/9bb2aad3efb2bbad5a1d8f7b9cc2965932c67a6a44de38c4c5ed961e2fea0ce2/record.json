@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9bb2aad3efb2bbad5a1d8f7b9cc2965932c67a6a44de38c4c5ed961e2fea0ce2",
+  "company": {
+    "key": "yc-julius",
+    "name": "Julius"
+  },
+  "source": {
+    "id": "yc-julius-news-import-b50522af521c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://julius.ai/articles/how-to-collapse-rows-in-google-sheets",
+    "canonical": "https://julius.ai/articles/how-to-collapse-rows-in-google-sheets"
+  },
+  "title": "How to Collapse Rows in Google Sheets: Step by Step",
+  "summary": "This guide shows you how to collapse rows in Google Sheets, from grouping to expanding sections. I also cover nested groups and common grouping fixes.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T12:53:35.092272+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:52.317699+00:00",
+  "paths": {
+    "article": "articles/v1/22/yc-julius/2026/07/9b/9bb2aad3efb2bbad5a1d8f7b9cc2965932c67a6a44de38c4c5ed961e2fea0ce2/article.md",
+    "record": "articles/v1/22/yc-julius/2026/07/9b/9bb2aad3efb2bbad5a1d8f7b9cc2965932c67a6a44de38c4c5ed961e2fea0ce2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2346,
+    "sha256": "sha256:b92698978e7f43e9b81aeeef86e453805a4b7012bb149e6e8c06b97731211aac",
+    "normalized_content_hash": "sha256:b9c54e9520d326f2ef9a9cd1df3ddbf1dd3d66cc062af250056a736b98df7721"
+  },
+  "provenance": {
+    "source_item_id": "de199488-5109-4976-84cd-c5c6548b3fa6",
+    "external_id": "https://julius.ai/articles/how-to-collapse-rows-in-google-sheets"
+  }
+}

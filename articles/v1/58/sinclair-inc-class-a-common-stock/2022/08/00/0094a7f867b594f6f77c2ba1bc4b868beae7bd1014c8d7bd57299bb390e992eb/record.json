@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0094a7f867b594f6f77c2ba1bc4b868beae7bd1014c8d7bd57299bb390e992eb",
+  "company": {
+    "key": "sinclair-inc-class-a-common-stock",
+    "name": "Sinclair Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "sinclair-inc-class-a-common-stock-news-import-000242773839",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sbgi.net/news/the-national-desk/",
+    "canonical": "https://sbgi.net/news/the-national-desk/"
+  },
+  "title": "The National Desk - Real-Time National News and Regional Stories from Sinclair Broadcast Group",
+  "summary": "",
+  "published_at": "2022-08-22T15:15:33+00:00",
+  "first_seen_at": "2026-07-22T13:36:46.781070+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.377623+00:00",
+  "paths": {
+    "article": "articles/v1/58/sinclair-inc-class-a-common-stock/2022/08/00/0094a7f867b594f6f77c2ba1bc4b868beae7bd1014c8d7bd57299bb390e992eb/article.md",
+    "record": "articles/v1/58/sinclair-inc-class-a-common-stock/2022/08/00/0094a7f867b594f6f77c2ba1bc4b868beae7bd1014c8d7bd57299bb390e992eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1328,
+    "sha256": "sha256:0710f858499ae1cc5c751a8c5e4d2dde3013065eddf0baa2c5c0cdd2fded9a2a",
+    "normalized_content_hash": "sha256:e5fc394c6b38576c6b50423d70d1322887842e32e9a33eff1ac4ca52789fa184"
+  },
+  "provenance": {
+    "source_item_id": "f0c6eedb-12b9-40f9-98ce-c2411ae9f812",
+    "external_id": "https://sbgi.net/news/the-national-desk/"
+  }
+}

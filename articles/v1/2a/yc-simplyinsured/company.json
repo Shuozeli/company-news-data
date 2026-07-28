@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-simplyinsured",
+    "name": "SimplyInsured"
+  },
+  "record_count": 6,
+  "first_published_at": "2022-10-18T13:15:00+00:00",
+  "last_published_at": "2022-12-28T17:46:31+00:00",
+  "partitions": [
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aa918fb320b22ad3b649411714293b2bab8ba12317f186c081992f8ddb74ca6b",
+  "company": {
+    "key": "helmerich-payne-inc-common-stock",
+    "name": "Helmerich & Payne Inc. Common Stock"
+  },
+  "source": {
+    "id": "helmerich-payne-inc-common-stock-news-import-087928651302",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hpinc.com/news/company-insights/hp-legal-team-wins-publication-partner-of-the-year-at-2025-good-apple-awards",
+    "canonical": "https://www.hpinc.com/news/company-insights/hp-legal-team-wins-publication-partner-of-the-year-at-2025-good-apple-awards"
+  },
+  "title": "H&P Legal Team Wins Publication Partner of the Year at 2025 Good Apple Awards",
+  "summary": "Read about H&P, Inc. legal team winning Publication Partner of the Year at the 2025 Good Apple Awards for their impactful community collaboration.",
+  "published_at": "2025-10-08T08:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:46:51.190120+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:56.456623+00:00",
+  "paths": {
+    "article": "articles/v1/96/helmerich-payne-inc-common-stock/2025/10/aa/aa918fb320b22ad3b649411714293b2bab8ba12317f186c081992f8ddb74ca6b/article.md",
+    "record": "articles/v1/96/helmerich-payne-inc-common-stock/2025/10/aa/aa918fb320b22ad3b649411714293b2bab8ba12317f186c081992f8ddb74ca6b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5899,
+    "sha256": "sha256:8d0b1f81b2a8b054161d63ec44361e0531121fe332b8547b259089846873cfdb",
+    "normalized_content_hash": "sha256:4abdb8afcb9ceb4fbe1be997d7ac36d1ef82f8331256895bb354f90f4fbb356d"
+  },
+  "provenance": {
+    "source_item_id": "8480bdc3-ad98-4e28-9fab-6db6864efe89",
+    "external_id": "https://www.hpinc.com/news/company-insights/hp-legal-team-wins-publication-partner-of-the-year-at-2025-good-apple-awards"
+  }
+}

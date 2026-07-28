@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f4c3f664837e086c16c3f2cdb46f029863c44a598152432039d76762367272d",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-share-recordings-with-external-customers-in-demodesk",
+    "canonical": "https://demodesk.com/blog/how-to-share-recordings-with-external-customers-in-demodesk"
+  },
+  "title": "How to share recordings with external customers in Demodesk",
+  "summary": "Share Demodesk call recordings with customers, partners, or prospects in seconds. Step-by-step guide to public sharing links and download access.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.684517+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/1f/1f4c3f664837e086c16c3f2cdb46f029863c44a598152432039d76762367272d/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/1f/1f4c3f664837e086c16c3f2cdb46f029863c44a598152432039d76762367272d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4503,
+    "sha256": "sha256:a0974799acac0e7c40032d535f033db616273ff0f48fe9a6bfac302e0f4641a7",
+    "normalized_content_hash": "sha256:810a94ed8e7730354db70d6cb76bf4ee8b532dcd49b44565245eb884ba2a2a20"
+  },
+  "provenance": {
+    "source_item_id": "f8e73aba-633e-4ea2-9377-2ebd8c45f6d8",
+    "external_id": "https://demodesk.com/blog/how-to-share-recordings-with-external-customers-in-demodesk"
+  }
+}

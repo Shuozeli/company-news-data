@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43a8586ab7818df17016f3f477d57bdca2d417f2200b13937266de48522ff867",
+  "company": {
+    "key": "genasys-inc-common-stock",
+    "name": "Genasys Inc. Common Stock"
+  },
+  "source": {
+    "id": "genasys-inc-common-stock-news-import-86acd8f701ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://genasys.com/investor-relations/financial-results-and-sec-filings/",
+    "canonical": "https://genasys.com/investor-relations/financial-results-and-sec-filings/"
+  },
+  "title": "Financial Results",
+  "summary": "Get insights into the financial results of Genasys. Discover the revenue, operating loss, and net loss per share for the quarter.",
+  "published_at": "2023-07-21T06:57:43+00:00",
+  "first_seen_at": "2026-07-23T10:22:03.870477+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:47.796973+00:00",
+  "paths": {
+    "article": "articles/v1/26/genasys-inc-common-stock/2023/07/43/43a8586ab7818df17016f3f477d57bdca2d417f2200b13937266de48522ff867/article.md",
+    "record": "articles/v1/26/genasys-inc-common-stock/2023/07/43/43a8586ab7818df17016f3f477d57bdca2d417f2200b13937266de48522ff867/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5371,
+    "sha256": "sha256:c92fd78000989fe6a6b9c5fe1e502df9cdc3cedf85f1a64b0c8eea93e13a2eb1",
+    "normalized_content_hash": "sha256:66d72be9c960d8238f00cf414385893413191fa2332d84259132d300cbbe6413"
+  },
+  "provenance": {
+    "source_item_id": "b7ba4926-a890-4299-8dd8-37b545401c5e",
+    "external_id": "https://genasys.com/investor-relations/financial-results-and-sec-filings/"
+  }
+}

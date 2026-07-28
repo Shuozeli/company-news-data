@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "011ff3152aa4fa0d207ca7641965f58205518a4fafdd16423c7cd89bc045e3fa",
+  "company": {
+    "key": "gt-biopharma-inc-common-stock",
+    "name": "GT Biopharma Inc. Common Stock"
+  },
+  "source": {
+    "id": "gt-biopharma-inc-common-stock-news-import-ac7c982a1b38",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gtbiopharma.com/news-media/press-releases/detail/307/gt-biopharma-to-participate-in-the-38th-annual-roth",
+    "canonical": "https://www.gtbiopharma.com/news-media/press-releases/detail/307/gt-biopharma-to-participate-in-the-38th-annual-roth"
+  },
+  "title": "GT Biopharma to Participate in the 38th Annual Roth Conference",
+  "summary": "",
+  "published_at": "2026-03-11T07:00:00+00:00",
+  "first_seen_at": "2026-07-25T07:14:57.372683+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:20.451612+00:00",
+  "paths": {
+    "article": "articles/v1/05/gt-biopharma-inc-common-stock/2026/03/01/011ff3152aa4fa0d207ca7641965f58205518a4fafdd16423c7cd89bc045e3fa/article.md",
+    "record": "articles/v1/05/gt-biopharma-inc-common-stock/2026/03/01/011ff3152aa4fa0d207ca7641965f58205518a4fafdd16423c7cd89bc045e3fa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5526,
+    "sha256": "sha256:a733926a2a723c646208cb2dc8e579a8352937624c05839f87d3792d4c936696",
+    "normalized_content_hash": "sha256:c2e27dda018b8a9d8f3a9cb14937cacb05b706314bd1ad177603248816187530"
+  },
+  "provenance": {
+    "source_item_id": "9db57dea-74c9-4ba5-9bd8-92fcc8ba7a60",
+    "external_id": "https://www.gtbiopharma.com/news-media/press-releases/detail/307/gt-biopharma-to-participate-in-the-38th-annual-roth"
+  }
+}

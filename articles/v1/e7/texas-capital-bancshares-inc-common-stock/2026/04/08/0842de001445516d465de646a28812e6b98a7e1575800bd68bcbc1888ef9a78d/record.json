@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0842de001445516d465de646a28812e6b98a7e1575800bd68bcbc1888ef9a78d",
+  "company": {
+    "key": "texas-capital-bancshares-inc-common-stock",
+    "name": "Texas Capital Bancshares Inc. Common Stock"
+  },
+  "source": {
+    "id": "texas-capital-bancshares-inc-common-stock-news-import-1c5a1e135d87",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://texascapitalbank.com/who-we-are/newsroom/news/2026/04/23/texas-capital-announces-strategic-leadership-appointments",
+    "canonical": "https://texascapitalbank.com/who-we-are/newsroom/news/2026/04/23/texas-capital-announces-strategic-leadership-appointments"
+  },
+  "title": "Texas Capital Announces Strategic Leadership Appointments",
+  "summary": "Texas Capital names Jeff Hood Chief Human Resources Officer and aligns executive leadership team to scale platform.",
+  "published_at": "2026-04-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:10:59.887411+00:00",
+  "fetched_at": "2026-07-28T21:45:30.754431+00:00",
+  "last_updated_at": "2026-07-28T21:46:24.755672+00:00",
+  "paths": {
+    "article": "articles/v1/e7/texas-capital-bancshares-inc-common-stock/2026/04/08/0842de001445516d465de646a28812e6b98a7e1575800bd68bcbc1888ef9a78d/article.md",
+    "record": "articles/v1/e7/texas-capital-bancshares-inc-common-stock/2026/04/08/0842de001445516d465de646a28812e6b98a7e1575800bd68bcbc1888ef9a78d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5353,
+    "sha256": "sha256:8205ab31676adbdca55c2e93bb991cd9760a3cd712586ad6819d607c7ccca9a6",
+    "normalized_content_hash": "sha256:b49b74897cafc6e4332fafeda616ef056c2f8ddbec07b33547b417b291b08864"
+  },
+  "provenance": {
+    "source_item_id": "7f1858fd-0649-4d1e-b933-21cad9cac9a9",
+    "external_id": "https://texascapitalbank.com/who-we-are/newsroom/news/2026/04/23/texas-capital-announces-strategic-leadership-appointments"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "844a662df1998a65a24388fd020143f47bd822746f90a17dacd9c2f18b5a2059",
+  "company": {
+    "key": "yc-capy",
+    "name": "Capy"
+  },
+  "source": {
+    "id": "yc-capy-news-import-ccb8c20193bf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://scrapybara.com/blog/cua",
+    "canonical": "https://scrapybara.com/blog/cua"
+  },
+  "title": "OpenAI CUA Starter Kit",
+  "summary": "The easiest way to deploy OpenAI's Computer-Using Agent with remote desktops in production",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T04:45:19.830543+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:50.019835+00:00",
+  "paths": {
+    "article": "articles/v1/1a/yc-capy/2026/07/84/844a662df1998a65a24388fd020143f47bd822746f90a17dacd9c2f18b5a2059/article.md",
+    "record": "articles/v1/1a/yc-capy/2026/07/84/844a662df1998a65a24388fd020143f47bd822746f90a17dacd9c2f18b5a2059/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5860,
+    "sha256": "sha256:2c1fe86f49f5f89c4bd0df97ee45acd78ef3ebee8394e0ccfc9d8b69dcf003d0",
+    "normalized_content_hash": "sha256:5570f81cd7cf4ff656bbb36a96e6ca053849a8f261674608533192c68109d9fd"
+  },
+  "provenance": {
+    "source_item_id": "5bdad244-d520-4000-874a-ad8def3f95db",
+    "external_id": "https://scrapybara.com/blog/cua"
+  }
+}

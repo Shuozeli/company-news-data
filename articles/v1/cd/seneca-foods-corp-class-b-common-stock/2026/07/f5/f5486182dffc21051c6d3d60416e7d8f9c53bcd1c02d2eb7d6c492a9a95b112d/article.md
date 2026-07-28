@@ -1,0 +1,58 @@
+---
+schema_version: "1.0.0"
+document_id: "f5486182dffc21051c6d3d60416e7d8f9c53bcd1c02d2eb7d6c492a9a95b112d"
+company_key: "seneca-foods-corp-class-b-common-stock"
+company: "Seneca Foods Corp. Class B Common Stock"
+source_id: "seneca-foods-corp-class-b-common-stock-rss-812bb00696df"
+canonical_url: "https://www.senecafoods.com/sec-filing/seneca-foods-corporation-proxy-2"
+published_at: "2026-07-07T20:31:23+00:00"
+first_seen_at: "2026-07-20T23:22:26.122079+00:00"
+fetched_at: "2026-07-28T20:43:05.623336+00:00"
+content_hash: "sha256:b3016fcdb1d57ed7a56b7926162fcf82dcdfde3e9afe8f7873f9f39ba73fd142"
+---
+
+# Seneca Foods Corporation Proxy
+
+Seneca Foods Corporation Proxy
+
+
+sfcadmin
+
+
+Tue, 07/07/2026 - 16:31
+
+
+Filing date
+
+
+Tue, 07/07/2026 - 16:10
+
+
+PDF document
+
+
+[Seneca Foods Proxy Statement 2026.pdf](https://www.senecafoods.com/sites/default/files/node-sec_filing-field_pdf_document/Seneca%20Foods%20Proxy%20Statement%202026.pdf)
+
+
+XBRL documents
+
+
+[senea-20260331.xsd](https://www.senecafoods.com/sites/default/files/node-sec_filing-field_xbrl_documents/July2026/senea-20260331.xsd)
+
+
+[senea-20260331_def.xml](https://www.senecafoods.com/sites/default/files/node-sec_filing-field_xbrl_documents/July2026/senea-20260331_def.xml)
+
+
+[senea-20260331_lab.xml](https://www.senecafoods.com/sites/default/files/node-sec_filing-field_xbrl_documents/July2026/senea-20260331_lab.xml)
+
+
+[senea-20260331_pre.xml](https://www.senecafoods.com/sites/default/files/node-sec_filing-field_xbrl_documents/July2026/senea-20260331_pre.xml)
+
+
+[senea20260618_def14a_htm.xml](https://www.senecafoods.com/sites/default/files/node-sec_filing-field_xbrl_documents/July2026/senea20260618_def14a_htm.xml)
+
+
+URL to View Documents
+
+
+[https://www.sec.gov/Archives/edgar/data/88948/000143774926022933/0001437749-26-…](https://www.sec.gov/Archives/edgar/data/88948/000143774926022933/0001437749-26-022933-index.htm)

@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "vsee-health-inc-common-stock",
+    "name": "VSee Health Inc. Common Stock"
+  },
+  "record_count": 17,
+  "first_published_at": "2016-11-15T18:04:33+00:00",
+  "last_published_at": "2026-07-20T15:51:59+00:00",
+  "partitions": [
+    {
+      "partition": "2016-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

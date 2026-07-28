@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "amtd-idea-group-american-depositary-shares-each-representing-six-6-class-a-ordinary-shares",
+    "name": "AMTD IDEA Group American Depositary Shares each representing six (6) Class A Ordinary Shares"
+  },
+  "record_count": 7,
+  "first_published_at": "2026-06-15T14:32:00+00:00",
+  "last_published_at": "2026-07-15T12:54:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

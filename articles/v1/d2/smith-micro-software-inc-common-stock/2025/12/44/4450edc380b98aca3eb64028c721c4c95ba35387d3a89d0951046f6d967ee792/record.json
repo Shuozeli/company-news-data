@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4450edc380b98aca3eb64028c721c4c95ba35387d3a89d0951046f6d967ee792",
+  "company": {
+    "key": "smith-micro-software-inc-common-stock",
+    "name": "Smith Micro Software Inc. Common Stock"
+  },
+  "source": {
+    "id": "smith-micro-software-inc-common-stock-news-import-b4a9963a09cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.smithmicro.com/press-releases/2025/12/02/smith-micro-congratulates-masorange-on-seres-foundation-award/",
+    "canonical": "https://www.smithmicro.com/press-releases/2025/12/02/smith-micro-congratulates-masorange-on-seres-foundation-award/"
+  },
+  "title": "Smith Micro Congratulates MasOrange on SERES Foundation Award",
+  "summary": "TúYo service powered by Smith Micro’s SafePath® platform recognized for promoting digital safety and family well-being.",
+  "published_at": "2025-12-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:51:11.899355+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-07-28T21:59:20.542800+00:00",
+  "paths": {
+    "article": "articles/v1/d2/smith-micro-software-inc-common-stock/2025/12/44/4450edc380b98aca3eb64028c721c4c95ba35387d3a89d0951046f6d967ee792/article.md",
+    "record": "articles/v1/d2/smith-micro-software-inc-common-stock/2025/12/44/4450edc380b98aca3eb64028c721c4c95ba35387d3a89d0951046f6d967ee792/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3735,
+    "sha256": "sha256:76c78b32c2761904b0e55fd1f7cda314044ff3597e9d9d8cefd09cb4e69ab56a",
+    "normalized_content_hash": "sha256:d85c6ed6c6a45b6277d47310ac7c348571c6ad81f883e423ef1c2cf12c79296c"
+  },
+  "provenance": {
+    "source_item_id": "91dbcf3a-82f4-4da7-855b-d4a070db211b",
+    "external_id": "https://www.smithmicro.com/press-releases/2025/12/02/smith-micro-congratulates-masorange-on-seres-foundation-award/"
+  }
+}

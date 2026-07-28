@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c8b2c13edfffdd6b6adc923e16d848b3c07b40bb4f59a08d9b67e01bb9cbaaf8",
+  "company": {
+    "key": "aqua-metals-inc-common-stock",
+    "name": "Aqua Metals Inc. Common Stock"
+  },
+  "source": {
+    "id": "aqua-metals-inc-common-stock-rss-854e9b7212e2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://aquametals.com/news/deepdive-episode-5-expanded-recycling-vision/",
+    "canonical": "https://aquametals.com/news/deepdive-episode-5-expanded-recycling-vision/"
+  },
+  "title": "DeepDive Episode 5: Expanded Recycling Vision",
+  "summary": "The latest episode of the AQMS DeepDive Podcast on upcoming plans for lithium battery recycling.",
+  "published_at": "2025-02-04T16:55:08+00:00",
+  "first_seen_at": "2026-07-24T16:32:00.375472+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-07-28T20:59:16.417256+00:00",
+  "paths": {
+    "article": "articles/v1/f0/aqua-metals-inc-common-stock/2025/02/c8/c8b2c13edfffdd6b6adc923e16d848b3c07b40bb4f59a08d9b67e01bb9cbaaf8/article.md",
+    "record": "articles/v1/f0/aqua-metals-inc-common-stock/2025/02/c8/c8b2c13edfffdd6b6adc923e16d848b3c07b40bb4f59a08d9b67e01bb9cbaaf8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6971,
+    "sha256": "sha256:e4f4074935fd3e0c1edea1aa9743a69405d1a100dcea91fccd54a5dd43692281",
+    "normalized_content_hash": "sha256:7727a948f9b9e585a6ce31e4ed60b5f54111d0dd9396db5f6b94bb86e3fc296f"
+  },
+  "provenance": {
+    "source_item_id": "fafc57a8-91ac-4505-84f0-96caa46c7b92",
+    "external_id": "https://aquametals.com/?p=12366"
+  }
+}

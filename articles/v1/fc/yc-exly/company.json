@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-exly",
+    "name": "Exly"
+  },
+  "record_count": 17,
+  "first_published_at": "2025-03-11T09:53:52+00:00",
+  "last_published_at": "2025-06-26T10:15:24+00:00",
+  "partitions": [
+    {
+      "partition": "2025-03",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 10
+    }
+  ]
+}

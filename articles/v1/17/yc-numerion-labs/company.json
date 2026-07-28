@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-numerion-labs",
+    "name": "Numerion Labs"
+  },
+  "record_count": 2,
+  "first_published_at": "2025-10-29T00:00:00+00:00",
+  "last_published_at": "2025-11-12T21:26:15+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    }
+  ]
+}

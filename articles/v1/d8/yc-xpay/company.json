@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-xpay",
+    "name": "xPay"
+  },
+  "record_count": 21,
+  "first_published_at": "2026-02-05T00:00:00+00:00",
+  "last_published_at": "2026-04-11T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

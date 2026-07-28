@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "057cf9a579f5ce1c589cdb62e4b610bc947410457e933871a79f0f0f5b3325d2",
+  "company": {
+    "key": "bristol-myers-squibb-company-common-stock",
+    "name": "Bristol-Myers Squibb Company Common Stock"
+  },
+  "source": {
+    "id": "bristol-myers-squibb-company-common-stock-news-import-68144b81ad83",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bms.com/life-and-science/insights/bringing-life-saving-medicines-to-lmic.html",
+    "canonical": "https://www.bms.com/life-and-science/insights/bringing-life-saving-medicines-to-lmic.html"
+  },
+  "title": "Bringing life-saving medicines to LMICs – Bristol Myers Squibb",
+  "summary": "Our ASPIRE initiative is more than a promise – it’s doubling access to life-saving therapies in LMICs. Read how patients from Asia to Africa are finding hope.",
+  "published_at": "2025-12-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:16:39.091941+00:00",
+  "fetched_at": "2026-07-28T22:24:55.411240+00:00",
+  "last_updated_at": "2026-07-28T22:25:01.677888+00:00",
+  "paths": {
+    "article": "articles/v1/0a/bristol-myers-squibb-company-common-stock/2025/12/05/057cf9a579f5ce1c589cdb62e4b610bc947410457e933871a79f0f0f5b3325d2/article.md",
+    "record": "articles/v1/0a/bristol-myers-squibb-company-common-stock/2025/12/05/057cf9a579f5ce1c589cdb62e4b610bc947410457e933871a79f0f0f5b3325d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4960,
+    "sha256": "sha256:19b048f0c023147aed0299a8250414c0e57f7c1be972eb0b6954a618f3769571",
+    "normalized_content_hash": "sha256:fd1b84d683edb4137ec41ac69681cefda320e64951bf6cae894cb4c4c1f46684"
+  },
+  "provenance": {
+    "source_item_id": "f184162b-17e1-4c5c-a23f-be9ee864e5bd",
+    "external_id": "https://www.bms.com/life-and-science/insights/bringing-life-saving-medicines-to-lmic.html"
+  }
+}

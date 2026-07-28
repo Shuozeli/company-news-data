@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "304be42f548a5d99db5b3309bdc73f54a66932f575ca364680006d98513fc66d",
+  "company": {
+    "key": "black-hills-corporation-common-stock",
+    "name": "Black Hills Corporation Common Stock"
+  },
+  "source": {
+    "id": "black-hills-corporation-common-stock-news-import-0c8e2008b8fc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blackhillsenergy.com/blog/keeping-cool-saving-energy-staying-safe-this-summer",
+    "canonical": "https://www.blackhillsenergy.com/blog/keeping-cool-saving-energy-staying-safe-this-summer"
+  },
+  "title": "Keeping cool, saving energy and staying safe this summer | Black Hills Energy",
+  "summary": "With summer in full swing, we all want to be cool and comfortable. But when air conditioners work overtime, energy use climbs, and so do electric bills.",
+  "published_at": "2026-06-16T22:44:34+00:00",
+  "first_seen_at": "2026-07-24T08:23:42.255630+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.825426+00:00",
+  "paths": {
+    "article": "articles/v1/9d/black-hills-corporation-common-stock/2026/06/30/304be42f548a5d99db5b3309bdc73f54a66932f575ca364680006d98513fc66d/article.md",
+    "record": "articles/v1/9d/black-hills-corporation-common-stock/2026/06/30/304be42f548a5d99db5b3309bdc73f54a66932f575ca364680006d98513fc66d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10082,
+    "sha256": "sha256:3460a6f3ed6b0e2a8ba1681b685dccc428f709b2fada88e8210fece99943ee5e",
+    "normalized_content_hash": "sha256:14000dc21a3945600cb1aacf53f6cd0963c9ae2cf24a61af01bddd1c04acdae5"
+  },
+  "provenance": {
+    "source_item_id": "9e849200-7f07-43f6-b790-14fe83ccc94b",
+    "external_id": "https://www.blackhillsenergy.com/blog/keeping-cool-saving-energy-staying-safe-this-summer"
+  }
+}

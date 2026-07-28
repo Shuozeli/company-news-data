@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "envirotech-vehicles-inc-common-stock",
+    "name": "Envirotech Vehicles Inc. Common Stock"
+  },
+  "record_count": 9,
+  "first_published_at": "2025-02-06T00:00:00+00:00",
+  "last_published_at": "2025-05-02T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    }
+  ]
+}

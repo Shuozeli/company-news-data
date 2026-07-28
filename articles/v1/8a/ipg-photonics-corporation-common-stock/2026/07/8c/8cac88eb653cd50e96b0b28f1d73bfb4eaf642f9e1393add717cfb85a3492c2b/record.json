@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8cac88eb653cd50e96b0b28f1d73bfb4eaf642f9e1393add717cfb85a3492c2b",
+  "company": {
+    "key": "ipg-photonics-corporation-common-stock",
+    "name": "IPG Photonics Corporation Common Stock"
+  },
+  "source": {
+    "id": "ipg-photonics-corporation-common-stock-news-import-744694c56dea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ipgphotonics.com/newsroom/news/ipg-photonics-announces-global-settlement-of-paten",
+    "canonical": "https://www.ipgphotonics.com/newsroom/news/ipg-photonics-announces-global-settlement-of-paten"
+  },
+  "title": "IPG Photonics Announces Global Settlement of Patent Litigation With TRUMPF",
+  "summary": "IPG Photonics Corporation",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T10:03:34.994763+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:30.466575+00:00",
+  "paths": {
+    "article": "articles/v1/8a/ipg-photonics-corporation-common-stock/2026/07/8c/8cac88eb653cd50e96b0b28f1d73bfb4eaf642f9e1393add717cfb85a3492c2b/article.md",
+    "record": "articles/v1/8a/ipg-photonics-corporation-common-stock/2026/07/8c/8cac88eb653cd50e96b0b28f1d73bfb4eaf642f9e1393add717cfb85a3492c2b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2056,
+    "sha256": "sha256:74c268e0bda26cb303527e9fa91fd2417d03429d4faa7aa3b6dae84c87d21182",
+    "normalized_content_hash": "sha256:40980e15cbde594cf7b1c4ac66da41248c203cbf00b262ce4c1722f5038af15c"
+  },
+  "provenance": {
+    "source_item_id": "67c761ae-7c03-41eb-a7c7-bde833831c04",
+    "external_id": "https://www.ipgphotonics.com/newsroom/news/ipg-photonics-announces-global-settlement-of-paten"
+  }
+}

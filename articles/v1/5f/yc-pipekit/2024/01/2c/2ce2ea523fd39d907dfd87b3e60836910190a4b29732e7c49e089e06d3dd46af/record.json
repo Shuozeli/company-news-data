@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ce2ea523fd39d907dfd87b3e60836910190a4b29732e7c49e089e06d3dd46af",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/argo-workflows-etl-examples",
+    "canonical": "https://homepage.pipekit.io/blog/argo-workflows-etl-examples"
+  },
+  "title": "Argo Workflows ETL Examples",
+  "summary": "Learn how to build an ETL pipeline with Argo Workflows using two features: steps and DAG templates.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-07-28T22:00:52.487111+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/2c/2ce2ea523fd39d907dfd87b3e60836910190a4b29732e7c49e089e06d3dd46af/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/2c/2ce2ea523fd39d907dfd87b3e60836910190a4b29732e7c49e089e06d3dd46af/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8117,
+    "sha256": "sha256:96c9c6fa7fe3b742360cc399492f72d0d37a865dc1f24c082d8b8ec5872e3cbe",
+    "normalized_content_hash": "sha256:bc1ca6f028461c5a523d2c784a1a3a2903b77c6bc9e036e5447396c32d4bf39e"
+  },
+  "provenance": {
+    "source_item_id": "afac5e78-4a07-45fc-8afc-c190ec834e7e",
+    "external_id": "https://homepage.pipekit.io/blog/argo-workflows-etl-examples"
+  }
+}

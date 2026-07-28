@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31a69e6780bb6850947d6cd8246f681fd060868c3ccdaeb2fed463b6e774a248",
+  "company": {
+    "key": "metlife-inc-common-stock",
+    "name": "MetLife Inc. Common Stock"
+  },
+  "source": {
+    "id": "metlife-inc-common-stock-news-import-8088c5b29d1d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investments.metlife.com/insights/equity/equity-2026-mid-year-investment-outlook/",
+    "canonical": "https://investments.metlife.com/insights/equity/equity-2026-mid-year-investment-outlook/"
+  },
+  "title": "2026 Midyear Equity Outlook: The Market Is Narrow. The Opportunity Set Isn’t",
+  "summary": "We see equity opportunity extending far beyond the Mag 7 in 2026 – the key to alpha potential is finding companies in any sector that harness AI to pull ahead.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T14:58:26.200392+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:27.251709+00:00",
+  "paths": {
+    "article": "articles/v1/31/metlife-inc-common-stock/2026/07/31/31a69e6780bb6850947d6cd8246f681fd060868c3ccdaeb2fed463b6e774a248/article.md",
+    "record": "articles/v1/31/metlife-inc-common-stock/2026/07/31/31a69e6780bb6850947d6cd8246f681fd060868c3ccdaeb2fed463b6e774a248/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21766,
+    "sha256": "sha256:869811d7f2a8348044948f059da86f4f458b77c9b7be1d30b9c381fe13da4cec",
+    "normalized_content_hash": "sha256:6a366bdb049775b174cf2be731fe660aaeccd2d1fdf50f9cd15459015fd82bad"
+  },
+  "provenance": {
+    "source_item_id": "b06139e2-3e91-487a-979b-2782ba985702",
+    "external_id": "https://investments.metlife.com/insights/equity/equity-2026-mid-year-investment-outlook/"
+  }
+}

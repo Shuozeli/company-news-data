@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e3d34e24c95d2f6a60a5bd8a1f223f3fb785001becbb70f832f300954cbff1c0",
+  "company": {
+    "key": "cardlytics-inc-common-stock",
+    "name": "Cardlytics Inc. Common Stock"
+  },
+  "source": {
+    "id": "cardlytics-inc-common-stock-news-import-3730911ba3dc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cardlytics.com/blog/welcoming-american-express",
+    "canonical": "https://www.cardlytics.com/blog/welcoming-american-express"
+  },
+  "title": "Welcoming American Express to the Cardlytics Network",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T00:28:08.706444+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:52.392289+00:00",
+  "paths": {
+    "article": "articles/v1/a6/cardlytics-inc-common-stock/2026/07/e3/e3d34e24c95d2f6a60a5bd8a1f223f3fb785001becbb70f832f300954cbff1c0/article.md",
+    "record": "articles/v1/a6/cardlytics-inc-common-stock/2026/07/e3/e3d34e24c95d2f6a60a5bd8a1f223f3fb785001becbb70f832f300954cbff1c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1913,
+    "sha256": "sha256:59c1fa963e54e9c524de22c2aea43e62d1789d5c2b8643ed50aca6f5d2e4bf7d",
+    "normalized_content_hash": "sha256:0df6bc4322f62871681c042ab79ef2957fe971a9e4b1a73f7a5d5d552e966668"
+  },
+  "provenance": {
+    "source_item_id": "77b6170d-956e-4e41-8f49-c1e92727c011",
+    "external_id": "https://www.cardlytics.com/blog/welcoming-american-express"
+  }
+}

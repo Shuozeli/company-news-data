@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b8e5739964cb3574c0b984e35894cd7bb0dab27c104ad1a53a830d0bbdd834eb",
+  "company": {
+    "key": "ttec-holdings-inc-common-stock",
+    "name": "TTEC Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttec-holdings-inc-common-stock-news-import-09d3aab661b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttecdigital.com/news/aws-and-ttec-collaborate-to-accelerate-ai-powered-contact-center-modernization",
+    "canonical": "https://www.ttecdigital.com/news/aws-and-ttec-collaborate-to-accelerate-ai-powered-contact-center-modernization"
+  },
+  "title": "AWS and TTEC Digital collaborate to accelerate AI-powered contact center modernization",
+  "summary": "CX Today validates the TTEC Digital and AWS partnership, analyzing how it reduces risk in cloud-native, AI contact center migration.",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:51:38.265268+00:00",
+  "fetched_at": "2026-07-28T22:13:03.870884+00:00",
+  "last_updated_at": "2026-07-28T22:15:05.623533+00:00",
+  "paths": {
+    "article": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/05/b8/b8e5739964cb3574c0b984e35894cd7bb0dab27c104ad1a53a830d0bbdd834eb/article.md",
+    "record": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/05/b8/b8e5739964cb3574c0b984e35894cd7bb0dab27c104ad1a53a830d0bbdd834eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2031,
+    "sha256": "sha256:cfd1535e2c188a4c12ff8d3e7f4c23ef06e9b0e6de00be5bf5de9cf78b4fe43b",
+    "normalized_content_hash": "sha256:474a3f7d81eb133d26860ec5a986fa82e5d54dd9f770d2984fb1a85f7aead4c7"
+  },
+  "provenance": {
+    "source_item_id": "5847f5ba-c5bb-4c80-93f0-8a81925289bf",
+    "external_id": "https://www.ttecdigital.com/news/aws-and-ttec-collaborate-to-accelerate-ai-powered-contact-center-modernization"
+  }
+}

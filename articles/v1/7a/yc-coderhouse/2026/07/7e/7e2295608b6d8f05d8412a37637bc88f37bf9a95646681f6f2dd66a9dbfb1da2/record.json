@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e2295608b6d8f05d8412a37637bc88f37bf9a95646681f6f2dd66a9dbfb1da2",
+  "company": {
+    "key": "yc-coderhouse",
+    "name": "Coderhouse"
+  },
+  "source": {
+    "id": "yc-coderhouse-news-import-7a925063f664",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coderhouse.com/coderlibrary/computer-vision-para-empresas-casos-de-uso",
+    "canonical": "https://www.coderhouse.com/coderlibrary/computer-vision-para-empresas-casos-de-uso"
+  },
+  "title": "Computer Vision para empresas: casos de uso reales | Coderhouse",
+  "summary": "Casos de uso reales de computer vision en retail, logística y manufactura, y herramientas sin código como Roboflow y Google Vision para empezar sin programar.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T07:56:38.769046+00:00",
+  "fetched_at": "2026-07-28T07:56:35.409468+00:00",
+  "last_updated_at": "2026-07-28T07:56:38.769046+00:00",
+  "paths": {
+    "article": "articles/v1/7a/yc-coderhouse/2026/07/7e/7e2295608b6d8f05d8412a37637bc88f37bf9a95646681f6f2dd66a9dbfb1da2/article.md",
+    "record": "articles/v1/7a/yc-coderhouse/2026/07/7e/7e2295608b6d8f05d8412a37637bc88f37bf9a95646681f6f2dd66a9dbfb1da2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5982,
+    "sha256": "sha256:3454ab6e5e7edb15076b2d2da212d190b5399aa44052490760eaaca558689047",
+    "normalized_content_hash": "sha256:0eb44bdac1e10e6f705cb69be365fc03c06ef72a926f066a363ad27069c48bcf"
+  },
+  "provenance": {
+    "source_item_id": "a611bcb8-15fc-4a18-adc0-3341c8819571",
+    "external_id": "https://www.coderhouse.com/coderlibrary/computer-vision-para-empresas-casos-de-uso"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b31574a3138abc3a35d5235cdcb6cb691cb8be5985a3f3278daa132d96a78ef",
+  "company": {
+    "key": "cbiz-inc-common-stock",
+    "name": "CBIZ Inc. Common Stock"
+  },
+  "source": {
+    "id": "cbiz-inc-common-stock-news-import-fcc1128aca9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cbiz.com/insights/article/how-ai-is-evolving-in-sage-intacct-and-what-it-means-for-finance-teams",
+    "canonical": "https://www.cbiz.com/insights/article/how-ai-is-evolving-in-sage-intacct-and-what-it-means-for-finance-teams"
+  },
+  "title": "How AI Is Evolving in Sage Intacct and What It Means for Finance Teams",
+  "summary": "Learn how AI in Sage Intacct embeds Finance AI and Sage Copilot while enabling secure external AI access through the AI Gateway and MCP connector.",
+  "published_at": "2026-07-10T03:41:58+00:00",
+  "first_seen_at": "2026-07-24T23:42:27.744988+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.557815+00:00",
+  "paths": {
+    "article": "articles/v1/6d/cbiz-inc-common-stock/2026/07/7b/7b31574a3138abc3a35d5235cdcb6cb691cb8be5985a3f3278daa132d96a78ef/article.md",
+    "record": "articles/v1/6d/cbiz-inc-common-stock/2026/07/7b/7b31574a3138abc3a35d5235cdcb6cb691cb8be5985a3f3278daa132d96a78ef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8881,
+    "sha256": "sha256:4f6cb47db5be308b132c680087f8f63085278526709fd698bdacafa97648b456",
+    "normalized_content_hash": "sha256:a01a4a24a3422486c56f8ae83583251adb6fc4029c8cddfc08fb8b7efdad704e"
+  },
+  "provenance": {
+    "source_item_id": "d437cdcb-d2b3-4c40-890a-8010a4bc8ffb",
+    "external_id": "https://www.cbiz.com/insights/article/how-ai-is-evolving-in-sage-intacct-and-what-it-means-for-finance-teams"
+  }
+}

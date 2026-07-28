@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "598a3e5ba677333c168ca89f36dac4262622b732b7d43cfc0cb65f45fdfd9302",
+  "company": {
+    "key": "daktronics-inc-common-stock",
+    "name": "Daktronics Inc. Common Stock"
+  },
+  "source": {
+    "id": "daktronics-inc-common-stock-rss-7af14d54c671",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.daktronics.com/news-releases/news-release-details/seattle-mariners-upgrade-video-board-t-mobile-park-daktronics",
+    "canonical": "https://investor.daktronics.com/news-releases/news-release-details/seattle-mariners-upgrade-video-board-t-mobile-park-daktronics"
+  },
+  "title": "Seattle Mariners Upgrade Video Board at T-Mobile Park with Daktronics",
+  "summary": "The Investor Relations website contains information about Daktronics, Inc.'s business for stockholders, potential investors, and financial analysts.",
+  "published_at": "2026-03-25T19:00:00+00:00",
+  "first_seen_at": "2026-07-27T07:24:02.256398+00:00",
+  "fetched_at": "2026-07-28T21:56:52.525405+00:00",
+  "last_updated_at": "2026-07-28T21:57:29.033173+00:00",
+  "paths": {
+    "article": "articles/v1/8c/daktronics-inc-common-stock/2026/03/59/598a3e5ba677333c168ca89f36dac4262622b732b7d43cfc0cb65f45fdfd9302/article.md",
+    "record": "articles/v1/8c/daktronics-inc-common-stock/2026/03/59/598a3e5ba677333c168ca89f36dac4262622b732b7d43cfc0cb65f45fdfd9302/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8390,
+    "sha256": "sha256:03d4819f55577a995837f4b6940594341090a04ec268e54fa265145645a5f476",
+    "normalized_content_hash": "sha256:a3e7b38bc74668f971f2bcf6cd29b32369f701f4e0c97bdd4ba6784edf469789"
+  },
+  "provenance": {
+    "source_item_id": "47e8a131-2c36-4586-8152-0cc074d99b7f",
+    "external_id": "21666"
+  }
+}

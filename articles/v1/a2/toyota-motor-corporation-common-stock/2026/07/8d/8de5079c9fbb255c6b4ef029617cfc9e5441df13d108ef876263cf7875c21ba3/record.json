@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8de5079c9fbb255c6b4ef029617cfc9e5441df13d108ef876263cf7875c21ba3",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/shareholders_2026/",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/shareholders_2026/"
+  },
+  "title": "General Shareholders' Meeting 2026",
+  "summary": "#TOYOTATIMES",
+  "published_at": "2026-07-01T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:06.178396+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/8d/8de5079c9fbb255c6b4ef029617cfc9e5441df13d108ef876263cf7875c21ba3/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/8d/8de5079c9fbb255c6b4ef029617cfc9e5441df13d108ef876263cf7875c21ba3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1155,
+    "sha256": "sha256:cede6b37a79e9d5483af9c69389cb2e589c0ea25f1c55a696313896245717f98",
+    "normalized_content_hash": "sha256:139c56e463e5d2470d637a82fe428484630e663159361946b001174d85618803"
+  },
+  "provenance": {
+    "source_item_id": "f1921bad-d88c-429e-a1b3-1faa913daf57",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/shareholders_2026/"
+  }
+}

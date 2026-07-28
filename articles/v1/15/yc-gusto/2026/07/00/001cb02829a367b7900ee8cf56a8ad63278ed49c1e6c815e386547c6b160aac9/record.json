@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "001cb02829a367b7900ee8cf56a8ad63278ed49c1e6c815e386547c6b160aac9",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-a18fb5381575",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/hr/team-management/hiring-employees-in-hawaii",
+    "canonical": "https://gusto.com/resources/articles/hr/team-management/hiring-employees-in-hawaii"
+  },
+  "title": "The Employer’s Guide to Hiring Employees in Hawaii",
+  "summary": "Are you an employer in Hawaii? Here's everything you need to know about hiring employee in Hawaii while remaining compliant.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:59.033602+00:00",
+  "fetched_at": "2026-07-28T11:17:57.475842+00:00",
+  "last_updated_at": "2026-07-28T11:17:59.903420+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/00/001cb02829a367b7900ee8cf56a8ad63278ed49c1e6c815e386547c6b160aac9/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/00/001cb02829a367b7900ee8cf56a8ad63278ed49c1e6c815e386547c6b160aac9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11123,
+    "sha256": "sha256:0b7af9104764fa8995c8dd96e2157c8e03e294304889650dcbffd06f760e7a51",
+    "normalized_content_hash": "sha256:831c89e8cff920e2f25472ac22ac1e19db20e9eb0ef153dcfd09faaf309dca3b"
+  },
+  "provenance": {
+    "source_item_id": "d978f823-e1af-49ce-9732-af8957b94267",
+    "external_id": "https://gusto.com/resources/articles/hr/team-management/hiring-employees-in-hawaii"
+  }
+}

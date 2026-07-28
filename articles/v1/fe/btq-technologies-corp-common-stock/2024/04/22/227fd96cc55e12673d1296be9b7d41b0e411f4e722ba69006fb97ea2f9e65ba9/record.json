@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "227fd96cc55e12673d1296be9b7d41b0e411f4e722ba69006fb97ea2f9e65ba9",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/quantum-computing-a-timeline",
+    "canonical": "https://www.btq.tech/blog/quantum-computing-a-timeline"
+  },
+  "title": "Quantum Computing: A Timeline",
+  "summary": "Discover the journey of quantum computing from its inception in the early 20th century to today's cutting-edge advancements. Learn about key milestones, from Planck and Einstein to Google's quantum supremacy, and explore what the future holds.",
+  "published_at": "2024-04-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T22:26:02.237076+00:00",
+  "last_updated_at": "2026-07-28T22:26:37.075096+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2024/04/22/227fd96cc55e12673d1296be9b7d41b0e411f4e722ba69006fb97ea2f9e65ba9/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2024/04/22/227fd96cc55e12673d1296be9b7d41b0e411f4e722ba69006fb97ea2f9e65ba9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12642,
+    "sha256": "sha256:a0f02e92dbe3504f837f3831e20d1ff3942304372b26198ae09ed4edcb78b598",
+    "normalized_content_hash": "sha256:6894c9f9d3a0840a6d6ab447dd06a234718b570d879d4c4c0f7e15c62742f0c6"
+  },
+  "provenance": {
+    "source_item_id": "e48bcff1-e88c-425c-869f-866b365a4bb9",
+    "external_id": "https://www.btq.tech/blog/quantum-computing-a-timeline"
+  }
+}

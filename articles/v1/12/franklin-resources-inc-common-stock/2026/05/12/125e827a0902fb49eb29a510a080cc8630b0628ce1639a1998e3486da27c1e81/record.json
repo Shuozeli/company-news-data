@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "125e827a0902fb49eb29a510a080cc8630b0628ce1639a1998e3486da27c1e81",
+  "company": {
+    "key": "franklin-resources-inc-common-stock",
+    "name": "Franklin Resources Inc. Common Stock"
+  },
+  "source": {
+    "id": "franklin-resources-inc-common-stock-rss-ad39536f923e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.franklinresources.com/news-center/press-releases/press-release-details/2026/Franklin-Resources-Inc--Announces-Quarterly-Dividend-8531cc9a6/default.aspx",
+    "canonical": "https://investors.franklinresources.com/news-center/press-releases/press-release-details/2026/Franklin-Resources-Inc--Announces-Quarterly-Dividend-8531cc9a6/default.aspx"
+  },
+  "title": "Franklin Resources, Inc. Announces Quarterly Dividend",
+  "summary": "",
+  "published_at": "2026-05-20T21:00:00+00:00",
+  "first_seen_at": "2026-07-25T05:39:35.013853+00:00",
+  "fetched_at": "2026-07-28T20:39:04.758896+00:00",
+  "last_updated_at": "2026-07-28T20:39:04.845937+00:00",
+  "paths": {
+    "article": "articles/v1/12/franklin-resources-inc-common-stock/2026/05/12/125e827a0902fb49eb29a510a080cc8630b0628ce1639a1998e3486da27c1e81/article.md",
+    "record": "articles/v1/12/franklin-resources-inc-common-stock/2026/05/12/125e827a0902fb49eb29a510a080cc8630b0628ce1639a1998e3486da27c1e81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 750,
+    "sha256": "sha256:1d99793f3fdc9a67febd8e4b34ce305feef7eb4145742c4a5108b1ddd8fc523f",
+    "normalized_content_hash": "sha256:89e87ed224f067bc5c28ccffaf2467ea8a27e1ce2fe3678bf3c3f574fc36e11f"
+  },
+  "provenance": {
+    "source_item_id": "8b5f4fc5-b5dc-42f3-b68c-ff66d0832d1c",
+    "external_id": "2a693bff-f95c-4eb6-bfad-b678b0476a3f"
+  }
+}

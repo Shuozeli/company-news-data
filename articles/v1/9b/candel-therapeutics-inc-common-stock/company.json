@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "candel-therapeutics-inc-common-stock",
+    "name": "Candel Therapeutics Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-05-04T12:05:29+00:00",
+  "last_published_at": "2026-07-08T20:05:28+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

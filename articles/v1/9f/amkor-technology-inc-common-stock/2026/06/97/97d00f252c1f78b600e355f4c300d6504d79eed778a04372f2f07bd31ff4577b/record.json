@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "97d00f252c1f78b600e355f4c300d6504d79eed778a04372f2f07bd31ff4577b",
+  "company": {
+    "key": "amkor-technology-inc-common-stock",
+    "name": "Amkor Technology Inc. Common Stock"
+  },
+  "source": {
+    "id": "amkor-technology-inc-common-stock-news-import-c3e4c050930c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amkor.com/blog/amkor-semiconductor-educator-bootcamp/",
+    "canonical": "https://amkor.com/blog/amkor-semiconductor-educator-bootcamp/"
+  },
+  "title": "Amkor Semiconductor Educator Bootcamp Builds Future Workforce",
+  "summary": "Amkor Technology hosted its first educator bootcamp focused on semiconductor manufacturing and workforce opportunities.",
+  "published_at": "2026-06-08T21:40:10+00:00",
+  "first_seen_at": "2026-07-24T16:34:56.885040+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-07-28T21:43:20.256579+00:00",
+  "paths": {
+    "article": "articles/v1/9f/amkor-technology-inc-common-stock/2026/06/97/97d00f252c1f78b600e355f4c300d6504d79eed778a04372f2f07bd31ff4577b/article.md",
+    "record": "articles/v1/9f/amkor-technology-inc-common-stock/2026/06/97/97d00f252c1f78b600e355f4c300d6504d79eed778a04372f2f07bd31ff4577b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3996,
+    "sha256": "sha256:4e2b823934612d0a6d6af5c5a998ffa725ef84b1372842fd2567fa79631cac23",
+    "normalized_content_hash": "sha256:b83c059908892ae9b6b3f0c208a86789f44e4beeac69214fddd7fe5312a55597"
+  },
+  "provenance": {
+    "source_item_id": "e3ba964a-0c0c-402f-8182-8f08313ab18f",
+    "external_id": "https://amkor.com/blog/amkor-semiconductor-educator-bootcamp/"
+  }
+}

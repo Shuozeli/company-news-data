@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ec3b98c97c7406dde10d1455d16028d50db31f5d1ee05f7502e5152636dd85b",
+  "company": {
+    "key": "azenta-inc",
+    "name": "Azenta Inc."
+  },
+  "source": {
+    "id": "azenta-inc-news-import-bc3dbef0d4b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.azenta.com/learning-center/blog/new-azenta-biorepository-in-greater-boston-welcoming-clients-and-offering-facility-tours",
+    "canonical": "https://www.azenta.com/learning-center/blog/new-azenta-biorepository-in-greater-boston-welcoming-clients-and-offering-facility-tours"
+  },
+  "title": "New Azenta Biorepository in Greater Boston | Azenta Life Sciences",
+  "summary": "Learn about Azenta's newly open state-of-the-art biorepository in the Greater Boston area, and request a tour of the facility!",
+  "published_at": "2025-01-07T11:56:21+00:00",
+  "first_seen_at": "2026-07-23T22:21:11.954242+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:36.825894+00:00",
+  "paths": {
+    "article": "articles/v1/1e/azenta-inc/2025/01/2e/2ec3b98c97c7406dde10d1455d16028d50db31f5d1ee05f7502e5152636dd85b/article.md",
+    "record": "articles/v1/1e/azenta-inc/2025/01/2e/2ec3b98c97c7406dde10d1455d16028d50db31f5d1ee05f7502e5152636dd85b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4495,
+    "sha256": "sha256:1f9eb3cfa006c1007af1fc96d06932cc81e72f1a195b11c20cf9b208cdc1557c",
+    "normalized_content_hash": "sha256:7f387ae7ab96ff169f72573b2f8195fe7a4e297946a7783ba7984337df80a2f8"
+  },
+  "provenance": {
+    "source_item_id": "25289ae5-034b-409c-abba-54f97e6be9e4",
+    "external_id": "https://www.azenta.com/learning-center/blog/new-azenta-biorepository-in-greater-boston-welcoming-clients-and-offering-facility-tours"
+  }
+}

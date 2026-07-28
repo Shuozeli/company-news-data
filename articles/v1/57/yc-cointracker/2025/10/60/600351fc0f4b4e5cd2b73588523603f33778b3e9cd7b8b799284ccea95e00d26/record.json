@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "600351fc0f4b4e5cd2b73588523603f33778b3e9cd7b8b799284ccea95e00d26",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-8eddc0d2ffc8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/how-we-made-adding-evm-chains-25x-faster",
+    "canonical": "https://www.cointracker.io/blog/how-we-made-adding-evm-chains-25x-faster"
+  },
+  "title": "How we made adding EVM chains 25x faster",
+  "summary": "CoinTracker’s mission is to enable everyone to use crypto with peace of mind. In practice, this means handling the tax and tracking side of crypto seamlessly while users focus on their activities across wallets, exchanges, and blockchains. To deliver on this mission, CoinTracker must support a wide variety of integrations: exchanges, blockchains, CSV uploads, and anything else that represents a user’s crypto activity. This leads to a classic fan-out problem. New blockchains and exchanges appear",
+  "published_at": "2025-10-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:51:12.353224+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-07-28T22:00:15.487050+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2025/10/60/600351fc0f4b4e5cd2b73588523603f33778b3e9cd7b8b799284ccea95e00d26/article.md",
+    "record": "articles/v1/57/yc-cointracker/2025/10/60/600351fc0f4b4e5cd2b73588523603f33778b3e9cd7b8b799284ccea95e00d26/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9481,
+    "sha256": "sha256:8df856094874d7c35718d5e1d88e6035c8b7c52dd6fb314d1091b3d91979d99a",
+    "normalized_content_hash": "sha256:0be2c0caebf388ba56f57359c9ae008c95597d797a7e02110fb74835d5de6e8b"
+  },
+  "provenance": {
+    "source_item_id": "c8dfe62d-a614-488a-b547-1fd88fbec3e9",
+    "external_id": "https://www.cointracker.io/blog/how-we-made-adding-evm-chains-25x-faster"
+  }
+}

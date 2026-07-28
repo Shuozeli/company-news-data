@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef307a67f115ec9e1962ed71aeba1b51d15d7cc7d9de08a314a0fe9d38cc8349",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/announcement-20260219-0140",
+    "canonical": "https://andiai.com/blogs/announcement-20260219-0140"
+  },
+  "title": "The Most Accurate Web Search for AI Agents",
+  "summary": "Early access open. 87% accuracy on independent benchmarks, 15 billion page index, sub-cent pricing. Built for RAG and AI agent workflows.",
+  "published_at": "2026-02-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:55:59.564380+00:00",
+  "fetched_at": "2026-07-28T21:57:40.692150+00:00",
+  "last_updated_at": "2026-07-28T21:57:58.234156+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2026/02/ef/ef307a67f115ec9e1962ed71aeba1b51d15d7cc7d9de08a314a0fe9d38cc8349/article.md",
+    "record": "articles/v1/d3/yc-andi/2026/02/ef/ef307a67f115ec9e1962ed71aeba1b51d15d7cc7d9de08a314a0fe9d38cc8349/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5563,
+    "sha256": "sha256:0b575255c155e1fda225d9d37fb40b16cfb53ad08c68e537d408f4373267c623",
+    "normalized_content_hash": "sha256:e017432eb9ea0d8364c6a28b9430379b920aecb849e1d0ab57a37433de7a7fa1"
+  },
+  "provenance": {
+    "source_item_id": "cf422076-cb69-4914-a5af-a68c6dca3e6e",
+    "external_id": "https://andiai.com/blogs/announcement-20260219-0140"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e9e26f1085de0d1561e5aa778b9157250ecaa1a6043402d7b142dc9d887c851f",
+  "company": {
+    "key": "ge-aerospace-common-stock",
+    "name": "GE Aerospace Common Stock"
+  },
+  "source": {
+    "id": "ge-aerospace-common-stock-news-import-cc3bb1578416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.geaerospace.com/news/articles/flight-deck-not-so-secret-sauce-strengthening-team-safety-and-performance-greenville",
+    "canonical": "https://www.geaerospace.com/news/articles/flight-deck-not-so-secret-sauce-strengthening-team-safety-and-performance-greenville"
+  },
+  "title": "FLIGHT DECK Is the Not-So-Secret Sauce Strengthening Team Safety and Performance in Greenville",
+  "summary": "At various points throughout the day, leaders at the GE Aerospace site in Greenville, South Carolina, can be seen walking the shop floor to observe where the work happens.",
+  "published_at": "2026-06-11T14:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:23:10.954248+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:36.064423+00:00",
+  "paths": {
+    "article": "articles/v1/96/ge-aerospace-common-stock/2026/06/e9/e9e26f1085de0d1561e5aa778b9157250ecaa1a6043402d7b142dc9d887c851f/article.md",
+    "record": "articles/v1/96/ge-aerospace-common-stock/2026/06/e9/e9e26f1085de0d1561e5aa778b9157250ecaa1a6043402d7b142dc9d887c851f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8023,
+    "sha256": "sha256:5b409af900a1208ae80a182a77efe3f59a2bd5df38ab62b45dd94c158f8285f1",
+    "normalized_content_hash": "sha256:456cf340311b1992ead368ded61c6d7fd2da093e918a7520525f29ee32a225b6"
+  },
+  "provenance": {
+    "source_item_id": "6008c462-fcaa-46f9-a79b-54a3a706829f",
+    "external_id": "https://www.geaerospace.com/news/articles/flight-deck-not-so-secret-sauce-strengthening-team-safety-and-performance-greenville"
+  }
+}

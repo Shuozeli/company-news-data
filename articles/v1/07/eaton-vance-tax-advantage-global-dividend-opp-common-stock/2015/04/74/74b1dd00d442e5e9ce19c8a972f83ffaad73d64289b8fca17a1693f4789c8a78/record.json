@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "74b1dd00d442e5e9ce19c8a972f83ffaad73d64289b8fca17a1693f4789c8a78",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/simplify-aggregate-bond-etf-simplify-exchange-traded-funds-nyse-aggh-declared-a-dividend-of-$0.1200-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/simplify-aggregate-bond-etf-simplify-exchange-traded-funds-nyse-aggh-declared-a-dividend-of-$0.1200-per-share/"
+  },
+  "title": "AGGH Dividend Announcement $0.1200/Share 7/27/2026",
+  "summary": "NYSE:AGGH Simplify Aggregate Bond ETF/Simplify Exchange Traded Funds Dividend Announcement $0.1200 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.109184+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/74/74b1dd00d442e5e9ce19c8a972f83ffaad73d64289b8fca17a1693f4789c8a78/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/74/74b1dd00d442e5e9ce19c8a972f83ffaad73d64289b8fca17a1693f4789c8a78/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1596,
+    "sha256": "sha256:33c65e1ff41838d8d1b81ea54f3aad390869d55dfc7beeca2ac43f14c148ac59",
+    "normalized_content_hash": "sha256:5ed1c32b97e90f48f6b460cafb77dd0473e0d79784a0ff0acf4cc7b896dd9129"
+  },
+  "provenance": {
+    "source_item_id": "377bf708-9106-4e6f-97bf-1a338976d600",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/simplify-aggregate-bond-etf-simplify-exchange-traded-funds-nyse-aggh-declared-a-dividend-of-$0.1200-per-share/"
+  }
+}

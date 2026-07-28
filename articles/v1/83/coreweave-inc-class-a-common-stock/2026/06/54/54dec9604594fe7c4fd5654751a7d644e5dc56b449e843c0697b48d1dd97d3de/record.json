@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "54dec9604594fe7c4fd5654751a7d644e5dc56b449e843c0697b48d1dd97d3de",
+  "company": {
+    "key": "coreweave-inc-class-a-common-stock",
+    "name": "CoreWeave Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "coreweave-inc-class-a-common-stock-news-import-30332681496c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coreweave.com/news/coreweave-completes-industry-first-bring-up-of-nvidia-vera-rubin-nvl72",
+    "canonical": "https://www.coreweave.com/news/coreweave-completes-industry-first-bring-up-of-nvidia-vera-rubin-nvl72"
+  },
+  "title": "CoreWeave Completes Industry-First Bring-Up and Validation of NVIDIA Vera Rubin NVL72",
+  "summary": "CoreWeave is the first AI cloud provider to bring up NVIDIA Vera Rubin NVL72, unlocking production-scale infrastructure for agentic AI.",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T00:41:32.785334+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-07-28T21:43:23.462702+00:00",
+  "paths": {
+    "article": "articles/v1/83/coreweave-inc-class-a-common-stock/2026/06/54/54dec9604594fe7c4fd5654751a7d644e5dc56b449e843c0697b48d1dd97d3de/article.md",
+    "record": "articles/v1/83/coreweave-inc-class-a-common-stock/2026/06/54/54dec9604594fe7c4fd5654751a7d644e5dc56b449e843c0697b48d1dd97d3de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7934,
+    "sha256": "sha256:9f6c5edbf1c7dbff5c8240047b86c1ad2b832a7b6f3e95a1f10878313cfd8c9e",
+    "normalized_content_hash": "sha256:63d17fe0f2f01c541ed4ff7165ce0775a3d6d464838bc4a10bb58172e1af4a5d"
+  },
+  "provenance": {
+    "source_item_id": "fa6fe186-fde8-49ea-a63b-17103fa33348",
+    "external_id": "https://www.coreweave.com/news/coreweave-completes-industry-first-bring-up-of-nvidia-vera-rubin-nvl72"
+  }
+}

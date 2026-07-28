@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ed93df1b664e9092c64d29a4a6d9e1f817de9730c5506a66458bc4cd2dadb25",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-02-25.html",
+    "canonical": "https://ruger.com/news/2026-02-25.html"
+  },
+  "title": "Ruger Expands Upgraded 10/22 Line with 10 Versatile New Models",
+  "summary": "",
+  "published_at": "2026-02-25T11:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:20.685653+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/02/8e/8ed93df1b664e9092c64d29a4a6d9e1f817de9730c5506a66458bc4cd2dadb25/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/02/8e/8ed93df1b664e9092c64d29a4a6d9e1f817de9730c5506a66458bc4cd2dadb25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2389,
+    "sha256": "sha256:156afae0c792ad600d43999ee1cfac270d16c6f132e555f644fb1e40be4f2c34",
+    "normalized_content_hash": "sha256:280022779e83967c18cebf7470e47a68df7be3a017682cdf96ce65db7b94ce66"
+  },
+  "provenance": {
+    "source_item_id": "10316a2c-4e95-4f3b-9f1d-767467cf2a44",
+    "external_id": "https://ruger.com/news/2026-02-25.html"
+  }
+}

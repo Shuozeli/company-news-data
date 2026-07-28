@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26ed0fe4dc32c2e751b6c1c9fa762ab693d680b19f8ce104814e7f55956af43a",
+  "company": {
+    "key": "yc-ninite",
+    "name": "Ninite"
+  },
+  "source": {
+    "id": "yc-ninite-rss-629553105472",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ninite.com/edge/",
+    "canonical": "https://ninite.com/edge/"
+  },
+  "title": "Edge updated to 150.0.4078.83.",
+  "summary": "",
+  "published_at": "2026-07-17T22:47:26+00:00",
+  "first_seen_at": "2026-07-25T16:20:56.315803+00:00",
+  "fetched_at": "2026-07-28T20:51:42.131550+00:00",
+  "last_updated_at": "2026-07-28T20:51:42.222078+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-ninite/2026/07/26/26ed0fe4dc32c2e751b6c1c9fa762ab693d680b19f8ce104814e7f55956af43a/article.md",
+    "record": "articles/v1/a5/yc-ninite/2026/07/26/26ed0fe4dc32c2e751b6c1c9fa762ab693d680b19f8ce104814e7f55956af43a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 500,
+    "sha256": "sha256:66a9f1f5ebeaa44d2b3e7fa78c4274bed96833a8da06436fcf57cc1544f1c8b4",
+    "normalized_content_hash": "sha256:b591d23ea941c8687261848d01f5382f53aa61d42763bf86f408a0e4a3217860"
+  },
+  "provenance": {
+    "source_item_id": "a57722a7-a495-4b1d-ad52-441f518743ef",
+    "external_id": "bab690bfa9499e684b32348a716371e7"
+  }
+}

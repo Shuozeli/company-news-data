@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b84928680d13eec76e41db743851546e39b10837b17289f97c8905569941ec8",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation Common Stock"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/cybersecurity-combatting-organized-retail-crime",
+    "canonical": "https://tech.target.com/blog/cybersecurity-combatting-organized-retail-crime"
+  },
+  "title": "Applying Cyber Principles to Combatting Organized Retail Crime",
+  "summary": "An article by Jodie Kautt : How Target's cyber team collaborates to combat fraud",
+  "published_at": "2023-08-29T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-07-28T21:02:23.932055+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2023/08/4b/4b84928680d13eec76e41db743851546e39b10837b17289f97c8905569941ec8/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2023/08/4b/4b84928680d13eec76e41db743851546e39b10837b17289f97c8905569941ec8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13399,
+    "sha256": "sha256:b17e84daf824c4d17f6ec9a540055a58723fff4fafbc2a018c85d5303984d8c9",
+    "normalized_content_hash": "sha256:d4ec064f08a5d7b687f9b4c941b7d3121f06de492534fd8a53b0672e54b61c56"
+  },
+  "provenance": {
+    "source_item_id": "9561c8da-1a6f-4da4-b371-6fe53acdf375",
+    "external_id": "BLOG-10056"
+  }
+}

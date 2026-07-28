@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26e2e6bc7cd5c62387ff7a6fb62d7c65dc558f704a936731b933c2442ab7e0bd",
+  "company": {
+    "key": "frontier-group-holdings-inc-common-stock",
+    "name": "Frontier Group Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "frontier-group-holdings-inc-common-stock-news-import-2c3647c12c21",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.flyfrontier.com/corporate-stats--facts/",
+    "canonical": "https://news.flyfrontier.com/corporate-stats--facts/"
+  },
+  "title": "Corporate Stats & Facts",
+  "summary": "Frontier Airlines, Inc. is a value-focused airline operating one of the youngest and most fuel-efficient fleets in the United States. With a growing network and continued investment in product upgrades, including the introduction of Starlink, the fastest Wi-Fi in the sky, First Class seating and enhanced loyalty benefits, Frontier is giving cust...",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T05:50:53.766429+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-07-28T21:53:58.383764+00:00",
+  "paths": {
+    "article": "articles/v1/32/frontier-group-holdings-inc-common-stock/2026/07/26/26e2e6bc7cd5c62387ff7a6fb62d7c65dc558f704a936731b933c2442ab7e0bd/article.md",
+    "record": "articles/v1/32/frontier-group-holdings-inc-common-stock/2026/07/26/26e2e6bc7cd5c62387ff7a6fb62d7c65dc558f704a936731b933c2442ab7e0bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3592,
+    "sha256": "sha256:e9d732bd99fa4cf374ad702155e7ec6a2f792dc4b828e79e267a60fc0aced6dc",
+    "normalized_content_hash": "sha256:b2b3ffb2468009aae84b8cc18e7cb2450bbd3f6dd16da2c8ccc253c134db1a61"
+  },
+  "provenance": {
+    "source_item_id": "28fe37f3-78b4-480d-9e52-59106b246619",
+    "external_id": "https://news.flyfrontier.com/corporate-stats--facts/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6ea7613b36e592426e11fc8304fc8e9ceca8b1cf862eb145304b0c9d248064d",
+  "company": {
+    "key": "definitive-healthcare-corp-class-a-common-stock",
+    "name": "Definitive Healthcare Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "definitive-healthcare-corp-class-a-common-stock-news-import-ac685c0fe722",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.definitivehc.com/resources/healthcare-insights/skilled-nursing-facilities-us",
+    "canonical": "https://www.definitivehc.com/resources/healthcare-insights/skilled-nursing-facilities-us"
+  },
+  "title": "How many skilled nursing facilities are in the U.S.?",
+  "summary": "Discover the number of U.S. skilled nursing facilities (SNFs), state‑by‑state totals, top operators, and occupancy trends shaping the post‑acute care market.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:02:41.427871+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:21:59.554089+00:00",
+  "paths": {
+    "article": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/f6/f6ea7613b36e592426e11fc8304fc8e9ceca8b1cf862eb145304b0c9d248064d/article.md",
+    "record": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/f6/f6ea7613b36e592426e11fc8304fc8e9ceca8b1cf862eb145304b0c9d248064d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13581,
+    "sha256": "sha256:fe8eef45aedfffb82f706e8efd66c1c47903370cc0c004ea0bae208a15774a2c",
+    "normalized_content_hash": "sha256:ef65fb5219571e64f517b12ec8029bac7e9935b2b269a8498ec80a818e9468ae"
+  },
+  "provenance": {
+    "source_item_id": "982ee096-d703-47c6-bd34-0bd552639b4e",
+    "external_id": "https://www.definitivehc.com/resources/healthcare-insights/skilled-nursing-facilities-us"
+  }
+}

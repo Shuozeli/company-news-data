@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-indee-labs",
+    "name": "Indee Labs"
+  },
+  "record_count": 21,
+  "first_published_at": "2019-06-27T00:00:00+00:00",
+  "last_published_at": "2024-09-06T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    }
+  ]
+}

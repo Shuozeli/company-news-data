@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9a71672072d68ef2c9100beb579b0d6e3ab48dd9cdbe308dcf5ab1978f022843",
+  "company": {
+    "key": "envirotech-vehicles-inc-common-stock",
+    "name": "Envirotech Vehicles Inc. Common Stock"
+  },
+  "source": {
+    "id": "envirotech-vehicles-inc-common-stock-news-import-3e250893f986",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.evtvusa.com/company/news/some-compelling-reasons-for-electrifying-your-transportation-fleet/",
+    "canonical": "https://evtvusa.com/company/news/some-compelling-reasons-for-electrifying-your-transportation-fleet"
+  },
+  "title": "Some compelling reasons for electrifying your transportation fleet",
+  "summary": "Some compelling reasons for electrifying your transportation fleet",
+  "published_at": "2025-02-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:03:58.705967+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:38.590690+00:00",
+  "paths": {
+    "article": "articles/v1/cf/envirotech-vehicles-inc-common-stock/2025/02/9a/9a71672072d68ef2c9100beb579b0d6e3ab48dd9cdbe308dcf5ab1978f022843/article.md",
+    "record": "articles/v1/cf/envirotech-vehicles-inc-common-stock/2025/02/9a/9a71672072d68ef2c9100beb579b0d6e3ab48dd9cdbe308dcf5ab1978f022843/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5801,
+    "sha256": "sha256:e84d24afbdd5f7a4142958bda12a465662356dc9b05de60d6e943718c9f53174",
+    "normalized_content_hash": "sha256:9f9935b7922cc166b0bc498e0cd6fcf5d1e9c705090ca0f25e603cd88e41c605"
+  },
+  "provenance": {
+    "source_item_id": "fc5b1f5f-6427-42ed-84d9-7983325b5065",
+    "external_id": "https://evtvusa.com/company/news/some-compelling-reasons-for-electrifying-your-transportation-fleet"
+  }
+}

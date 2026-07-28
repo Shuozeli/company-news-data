@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "839f086fd1e42dbba88649f9bdbb14e8ad472e856bc053accd4c9eb82f96b89c",
+  "company": {
+    "key": "adobe-inc-common-stock",
+    "name": "Adobe Inc. Common Stock"
+  },
+  "source": {
+    "id": "adobe-inc-common-stock-rss-28948b03acf0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.developer.adobe.com/en/publish/2026/02/new-app-builder-console-features-logs-ui-and-cdn-management",
+    "canonical": "https://blog.developer.adobe.com/en/publish/2026/02/new-app-builder-console-features-logs-ui-and-cdn-management"
+  },
+  "title": "New App Builder Console Features: Logs UI and CDN Management",
+  "summary": "Building serverless integrations should be fast and simple. That's the core promise of Adobe App Builder: remove infrastructure complexity so developers can focus on building ...",
+  "published_at": "2026-02-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:41.472965+00:00",
+  "fetched_at": "2026-07-28T20:31:19.849002+00:00",
+  "last_updated_at": "2026-07-28T20:31:20.766529+00:00",
+  "paths": {
+    "article": "articles/v1/1c/adobe-inc-common-stock/2026/02/83/839f086fd1e42dbba88649f9bdbb14e8ad472e856bc053accd4c9eb82f96b89c/article.md",
+    "record": "articles/v1/1c/adobe-inc-common-stock/2026/02/83/839f086fd1e42dbba88649f9bdbb14e8ad472e856bc053accd4c9eb82f96b89c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 838,
+    "sha256": "sha256:2c819b3236f732cb9e176c40cc655ea18aa4c465eda9e49d2cf63e238792e904",
+    "normalized_content_hash": "sha256:600dc0814333541ba367025d0d38e4d2b4ae769872b469050bdcdb093be9a58d"
+  },
+  "provenance": {
+    "source_item_id": "ed08032a-13db-4ec8-a43f-e605f539855c",
+    "external_id": "https://blog.developer.adobe.com/en/publish/2026/02/new-app-builder-console-features-logs-ui-and-cdn-management"
+  }
+}

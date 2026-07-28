@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f82520e6e3d918b820c44f912ad67fb86f1b34910cbf0cc298f39cec7e47e17",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/"
+  },
+  "title": "CrowdStrike 2026 Technology Threat Landscape Report: China’s Ambitions Fuel Attacks",
+  "summary": "Learn how China-nexus adversaries target technology companies for espionage, intellectual property theft, and supply chain access.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:38.570297+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/5f/5f82520e6e3d918b820c44f912ad67fb86f1b34910cbf0cc298f39cec7e47e17/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/5f/5f82520e6e3d918b820c44f912ad67fb86f1b34910cbf0cc298f39cec7e47e17/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7540,
+    "sha256": "sha256:02cdb12adcfe2e1b5eb0466e4fcdcbdb4a5847af18a5911d812e8733d270d4dd",
+    "normalized_content_hash": "sha256:c10de8f04f3b82311dece5eec5a97248b90bb49cb0793b77ff5bba65d884d713"
+  },
+  "provenance": {
+    "source_item_id": "25b9165d-d1c4-48ed-94db-c7b00eb9b374",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/"
+  }
+}

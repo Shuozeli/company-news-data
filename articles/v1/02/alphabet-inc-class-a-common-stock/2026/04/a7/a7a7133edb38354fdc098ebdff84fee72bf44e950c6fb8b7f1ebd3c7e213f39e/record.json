@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7a7133edb38354fdc098ebdff84fee72bf44e950c6fb8b7f1ebd3c7e213f39e",
+  "company": {
+    "key": "alphabet-inc-class-a-common-stock",
+    "name": "Alphabet Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "alphabet-inc-class-a-common-stock-news-import-277c62a3b799",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.google/innovation-and-ai/technology/health/mental-health-updates/",
+    "canonical": "https://blog.google/innovation-and-ai/technology/health/mental-health-updates/"
+  },
+  "title": "An update on our mental health work",
+  "summary": "We’re sharing an update on our mental health work, including some new changes to better connect people with the right information.",
+  "published_at": "2026-04-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:00:37.532470+00:00",
+  "fetched_at": "2026-07-28T21:25:41.488077+00:00",
+  "last_updated_at": "2026-07-28T21:26:11.695333+00:00",
+  "paths": {
+    "article": "articles/v1/02/alphabet-inc-class-a-common-stock/2026/04/a7/a7a7133edb38354fdc098ebdff84fee72bf44e950c6fb8b7f1ebd3c7e213f39e/article.md",
+    "record": "articles/v1/02/alphabet-inc-class-a-common-stock/2026/04/a7/a7a7133edb38354fdc098ebdff84fee72bf44e950c6fb8b7f1ebd3c7e213f39e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7239,
+    "sha256": "sha256:1edd7a7766fe0faf0558989e218db64843098d0d393e76eeb75e23d598e7eb99",
+    "normalized_content_hash": "sha256:1076900be48f8bfb1cb0a32a295d3512c06d36f34848f48d46f693c11c85ecfc"
+  },
+  "provenance": {
+    "source_item_id": "01aa508c-ca33-4347-8492-6cf457fc37f7",
+    "external_id": "https://blog.google/innovation-and-ai/technology/health/mental-health-updates/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f86b9888041e3c13335ac520a0411a067e524bf9a8e345303301b21ff26ac3f",
+  "company": {
+    "key": "timken-company-the-common-stock",
+    "name": "Timken Company (The) Common Stock"
+  },
+  "source": {
+    "id": "timken-company-the-common-stock-news-import-2c50bd08e8af",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.timken.com/2025-12-03-Timken-Earns-Sixth-Straight-Americas-Most-Responsible-Companies-Recognition",
+    "canonical": "https://news.timken.com/2025-12-03-Timken-Earns-Sixth-Straight-Americas-Most-Responsible-Companies-Recognition"
+  },
+  "title": "Timken Earns Sixth Straight America's Most Responsible Companies Recognition",
+  "summary": "The Timken Company (NYSE: TKR; www.timken.com), a global technology leader in engineered bearings and industrial motion, has been named to Newsweek's America's Most Responsible Companies list for...",
+  "published_at": "2025-12-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:42:35.901021+00:00",
+  "fetched_at": "2026-07-28T21:27:04.798558+00:00",
+  "last_updated_at": "2026-07-28T21:27:31.875729+00:00",
+  "paths": {
+    "article": "articles/v1/21/timken-company-the-common-stock/2025/12/4f/4f86b9888041e3c13335ac520a0411a067e524bf9a8e345303301b21ff26ac3f/article.md",
+    "record": "articles/v1/21/timken-company-the-common-stock/2025/12/4f/4f86b9888041e3c13335ac520a0411a067e524bf9a8e345303301b21ff26ac3f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4379,
+    "sha256": "sha256:718fad74b2ccb9f1c935e8e1bee43553bdfd1f39fa13072536b43e33b966e58b",
+    "normalized_content_hash": "sha256:9b37954245363b0fa9fd2bba8f5d5fa80152cd149e09f948c650cb2561b5cda6"
+  },
+  "provenance": {
+    "source_item_id": "d81412d0-4012-4665-ac41-b741b972ac66",
+    "external_id": "https://news.timken.com/2025-12-03-Timken-Earns-Sixth-Straight-Americas-Most-Responsible-Companies-Recognition"
+  }
+}

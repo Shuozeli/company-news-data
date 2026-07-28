@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fd5179ec5a96acb7316837f93fe704f2179bf6457e582e576bd55c33f26aa8e2",
+  "company": {
+    "key": "pagerduty-inc-common-stock",
+    "name": "PagerDuty Inc. Common Stock"
+  },
+  "source": {
+    "id": "pagerduty-inc-common-stock-news-import-acbaa5248d28",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pagerduty.com/newsroom/pagerduty-announces-second-quarter-fiscal2026-financial-results/",
+    "canonical": "https://www.pagerduty.com/newsroom/pagerduty-announces-second-quarter-fiscal2026-financial-results/"
+  },
+  "title": "PagerDuty Announces Second Quarter Fiscal 2026 Financial Results",
+  "summary": "PagerDuty Announces First Quarter Fiscal 2025 Financial Results. First quarter revenue increased 8% year over year to $111.2 million.",
+  "published_at": "2025-09-03T20:05:55+00:00",
+  "first_seen_at": "2026-07-25T18:32:41.950768+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-07-28T22:03:57.993892+00:00",
+  "paths": {
+    "article": "articles/v1/7f/pagerduty-inc-common-stock/2025/09/fd/fd5179ec5a96acb7316837f93fe704f2179bf6457e582e576bd55c33f26aa8e2/article.md",
+    "record": "articles/v1/7f/pagerduty-inc-common-stock/2025/09/fd/fd5179ec5a96acb7316837f93fe704f2179bf6457e582e576bd55c33f26aa8e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14662,
+    "sha256": "sha256:dcdfd8e541ea47850face6c991d652da598a67972e7ca1888fe7a84dd93c4237",
+    "normalized_content_hash": "sha256:61c51a5be03a6d4eb8ea17399fc553a5e13af4ce8989ec65f1c6008f19ad8c61"
+  },
+  "provenance": {
+    "source_item_id": "05b51b89-d3bf-4d23-b116-428890ee7a5f",
+    "external_id": "https://www.pagerduty.com/newsroom/pagerduty-announces-second-quarter-fiscal2026-financial-results/"
+  }
+}

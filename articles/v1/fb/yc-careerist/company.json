@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-careerist",
+    "name": "Careerist"
+  },
+  "record_count": 20,
+  "first_published_at": "2024-10-28T00:00:00+00:00",
+  "last_published_at": "2025-02-20T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 3
+    }
+  ]
+}

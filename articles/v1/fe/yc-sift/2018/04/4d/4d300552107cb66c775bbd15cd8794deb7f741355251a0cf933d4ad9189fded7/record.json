@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d300552107cb66c775bbd15cd8794deb7f741355251a0cf933d4ad9189fded7",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/testing-and-deploying-sifts-javascript-sdk/",
+    "canonical": "https://engineering.sift.com/testing-and-deploying-sifts-javascript-sdk/"
+  },
+  "title": "Testing and Deploying Sift’s JavaScript SDK",
+  "summary": "The rapidly evolving device and browser landscape allows us to collect increasingly rich data via our snippet. Because we host the snippet and our customers fetch it from us dynamically, expanding its functionality requires a strict eye on compatibility for all of our customers' end users. Our primary concerns are safety and iteration speed, and we’ve invested heavily in robust testing and deployment infrastructure to allow us to confidently roll changes out without spending weeks in manual testing",
+  "published_at": "2018-04-25T20:27:39+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.671076+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2018/04/4d/4d300552107cb66c775bbd15cd8794deb7f741355251a0cf933d4ad9189fded7/article.md",
+    "record": "articles/v1/fe/yc-sift/2018/04/4d/4d300552107cb66c775bbd15cd8794deb7f741355251a0cf933d4ad9189fded7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6784,
+    "sha256": "sha256:370ab84d60e8b1614a1db7c551cdacce401eeed100e091b8dd007b97d9e57c53",
+    "normalized_content_hash": "sha256:5af374b73e4a50eacdfbdaf9fb1a287fd26e69929393c9287532f0a877a33bc9"
+  },
+  "provenance": {
+    "source_item_id": "f6b48b17-ff23-4b1b-aa7c-d5b0b4914c21",
+    "external_id": "https://engineering.sift.com/testing-and-deploying-sifts-javascript-sdk/"
+  }
+}

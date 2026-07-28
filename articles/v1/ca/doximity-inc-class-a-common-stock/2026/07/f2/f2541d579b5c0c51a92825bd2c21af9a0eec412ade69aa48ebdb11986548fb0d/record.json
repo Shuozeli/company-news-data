@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2541d579b5c0c51a92825bd2c21af9a0eec412ade69aa48ebdb11986548fb0d",
+  "company": {
+    "key": "doximity-inc-class-a-common-stock",
+    "name": "Doximity Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "doximity-inc-class-a-common-stock-news-import-f92ff7c974f9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://press.doximity.com/articles/doximity-appoints-anna-bryson-to-be-chief-financial-officer",
+    "canonical": "https://press.doximity.com/articles/doximity-appoints-anna-bryson-to-be-chief-financial-officer"
+  },
+  "title": "Doximity Appoints Anna Bryson to be Chief Financial Officer",
+  "summary": "Doximity Press Releases",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:58:17.638100+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:21:54.410215+00:00",
+  "paths": {
+    "article": "articles/v1/ca/doximity-inc-class-a-common-stock/2026/07/f2/f2541d579b5c0c51a92825bd2c21af9a0eec412ade69aa48ebdb11986548fb0d/article.md",
+    "record": "articles/v1/ca/doximity-inc-class-a-common-stock/2026/07/f2/f2541d579b5c0c51a92825bd2c21af9a0eec412ade69aa48ebdb11986548fb0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3271,
+    "sha256": "sha256:2a5375c193ea07260013d338e30e9388ebb42022e59c45778498d308e2d2d765",
+    "normalized_content_hash": "sha256:bfbbc970b7d5d91ea61dbaacb5061de93a24936a3e560f99ad42db441123f50e"
+  },
+  "provenance": {
+    "source_item_id": "cc01bba9-ea66-4520-81c1-4f08d1ef70bf",
+    "external_id": "https://press.doximity.com/articles/doximity-appoints-anna-bryson-to-be-chief-financial-officer"
+  }
+}

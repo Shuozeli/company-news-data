@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae1bcdd7514dbf70543b6cc93851812eb8d81d0b99e9e7474b2a8c0895767d7f",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/kubecon-eu-2024-highlights-and-recap-from-paris",
+    "canonical": "https://homepage.pipekit.io/blog/kubecon-eu-2024-highlights-and-recap-from-paris"
+  },
+  "title": "KubeCon EU 2024: Highlights and Recap from Paris",
+  "summary": "Read a roundup of the Pipekit team’s time at ArgoCon and KubeCon Europe.",
+  "published_at": "2024-04-20T23:27:39+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-07-28T21:01:23.838630+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/04/ae/ae1bcdd7514dbf70543b6cc93851812eb8d81d0b99e9e7474b2a8c0895767d7f/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/04/ae/ae1bcdd7514dbf70543b6cc93851812eb8d81d0b99e9e7474b2a8c0895767d7f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8117,
+    "sha256": "sha256:8211251094d49ec3af951f2ddf0f49954bf64e55225ea9cd018b82e1655326d0",
+    "normalized_content_hash": "sha256:82c07dd404e55f03bc64edcc20d04273046a885f3f3f652e9e5c82225a57a4da"
+  },
+  "provenance": {
+    "source_item_id": "577346d0-e301-4527-9219-b3f844c6033d",
+    "external_id": "https://homepage.pipekit.io/blog/kubecon-eu-2024-highlights-and-recap-from-paris"
+  }
+}

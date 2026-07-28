@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c02d3e27303a3c871de36b24ecc2e160311e25c9964bbbd3b9a6d89071943f8",
+  "company": {
+    "key": "yc-rescale",
+    "name": "Rescale"
+  },
+  "source": {
+    "id": "yc-rescale-rss-a01d3810de6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rescale.com/blog/agent-accelerated-computational-chemistry/",
+    "canonical": "https://rescale.com/blog/agent-accelerated-computational-chemistry/"
+  },
+  "title": "Agent-Accelerated Computational Chemistry",
+  "summary": "Accelerate computational chemistry workflows with agentic support for molecular dynamics simulation on Rescale. Agents help researchers analyze results, propose next steps, configure new simulations, and critique outcomes with scientific context preserved, connecting HPC execution, scientific analysis, historical knowledge, and job setup into one guided workflow that keeps the researcher in control.",
+  "published_at": "2026-07-28T12:20:00+00:00",
+  "first_seen_at": "2026-07-28T12:48:29.644989+00:00",
+  "fetched_at": "2026-07-28T20:31:35.420648+00:00",
+  "last_updated_at": "2026-07-28T20:31:55.149747+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-rescale/2026/07/3c/3c02d3e27303a3c871de36b24ecc2e160311e25c9964bbbd3b9a6d89071943f8/article.md",
+    "record": "articles/v1/5a/yc-rescale/2026/07/3c/3c02d3e27303a3c871de36b24ecc2e160311e25c9964bbbd3b9a6d89071943f8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1476,
+    "sha256": "sha256:3d8e4e65ad0bfb02c2e36f53c0fd0c87a84862a7b51f7e0a22b5c5c1db387693",
+    "normalized_content_hash": "sha256:fd3187599c9f599deb2422ca6cb0e882e8b93bd1c23b3db3e5051ba730b7bd0c"
+  },
+  "provenance": {
+    "source_item_id": "eeda7358-b72d-46fb-8b82-fd9531e59463",
+    "external_id": "https://rescale.com/?p=102642"
+  }
+}

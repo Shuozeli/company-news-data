@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d4ca4517869523e88a6472c6689d16824d9f172293b815e298e28b4215d8050",
+  "company": {
+    "key": "cullen-frost-bankers-inc-common-stock",
+    "name": "Cullen/Frost Bankers Inc. Common Stock"
+  },
+  "source": {
+    "id": "cullen-frost-bankers-inc-common-stock-rss-cea94f8c0a52",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.frostbank.com/news-market-data/News-Details/2026/CULLENFROST-REPORTS-FOURTH-QUARTER-AND-2025-ANNUAL-RESULTS/default.aspx",
+    "canonical": "https://investor.frostbank.com/news-market-data/News-Details/2026/CULLENFROST-REPORTS-FOURTH-QUARTER-AND-2025-ANNUAL-RESULTS/default.aspx"
+  },
+  "title": "CULLEN/FROST REPORTS FOURTH QUARTER AND 2025 ANNUAL RESULTS",
+  "summary": "",
+  "published_at": "2026-01-29T14:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:26:42.438219+00:00",
+  "fetched_at": "2026-07-28T20:37:41.584801+00:00",
+  "last_updated_at": "2026-07-28T20:37:41.621213+00:00",
+  "paths": {
+    "article": "articles/v1/ff/cullen-frost-bankers-inc-common-stock/2026/01/1d/1d4ca4517869523e88a6472c6689d16824d9f172293b815e298e28b4215d8050/article.md",
+    "record": "articles/v1/ff/cullen-frost-bankers-inc-common-stock/2026/01/1d/1d4ca4517869523e88a6472c6689d16824d9f172293b815e298e28b4215d8050/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 730,
+    "sha256": "sha256:77770caddfef2325471b6f0f74adbaaf584cc9d344f6c3ba9727635a8111e26e",
+    "normalized_content_hash": "sha256:52c085910acc7f40c2672e561b611f5088cb42401bde7af34530eac928f8a10c"
+  },
+  "provenance": {
+    "source_item_id": "84963af5-850c-4fe8-8f5b-cedf2c650dc0",
+    "external_id": "34e3b1f0-488c-4aef-b4f5-d9242c4d21ae"
+  }
+}

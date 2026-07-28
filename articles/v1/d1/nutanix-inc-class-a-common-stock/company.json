@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nutanix-inc-class-a-common-stock",
+    "name": "Nutanix Inc. Class A Common Stock"
+  },
+  "record_count": 30,
+  "first_published_at": "2019-08-21T19:58:00+00:00",
+  "last_published_at": "2026-07-21T12:36:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ]
+}

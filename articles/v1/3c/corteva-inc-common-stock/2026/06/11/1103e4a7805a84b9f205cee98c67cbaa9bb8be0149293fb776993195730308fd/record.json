@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1103e4a7805a84b9f205cee98c67cbaa9bb8be0149293fb776993195730308fd",
+  "company": {
+    "key": "corteva-inc-common-stock",
+    "name": "Corteva Inc. Common Stock"
+  },
+  "source": {
+    "id": "corteva-inc-common-stock-rss-3bb70c9f0d40",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.corteva.com/news-releases/news-release-details/fmc-corporation-and-corteva-expand-access-breakthrough",
+    "canonical": "https://investors.corteva.com/news-releases/news-release-details/fmc-corporation-and-corteva-expand-access-breakthrough"
+  },
+  "title": "FMC Corporation and Corteva Expand Access to Breakthrough Rimisoxafen Herbicide Technology",
+  "summary": "",
+  "published_at": "2026-06-16T22:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:17:38.520764+00:00",
+  "fetched_at": "2026-07-28T21:10:58.759142+00:00",
+  "last_updated_at": "2026-07-28T21:11:27.610622+00:00",
+  "paths": {
+    "article": "articles/v1/3c/corteva-inc-common-stock/2026/06/11/1103e4a7805a84b9f205cee98c67cbaa9bb8be0149293fb776993195730308fd/article.md",
+    "record": "articles/v1/3c/corteva-inc-common-stock/2026/06/11/1103e4a7805a84b9f205cee98c67cbaa9bb8be0149293fb776993195730308fd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2445,
+    "sha256": "sha256:cbdcc41415afb04328441e3b0d75e90631b56872af4f994a96898c81cb3c6dc7",
+    "normalized_content_hash": "sha256:7ef0a329f11cf073c2f5b07ed3e50ea339dbc998f0b895cb1470308feb5ca47d"
+  },
+  "provenance": {
+    "source_item_id": "5c7e464c-0f9c-4823-9fce-56795da09213",
+    "external_id": "12336"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a09fe9cb548967aa8aad7d2dde33b76884872a74984d338e80141fb60249bb3",
+  "company": {
+    "key": "kelly-services-inc-class-b-common-stock",
+    "name": "Kelly Services Inc. Class B Common Stock"
+  },
+  "source": {
+    "id": "kelly-services-inc-class-b-common-stock-news-import-07ad70103d1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kellyservices.com/press-releases/kelly-appoints-patrick-mccall-as-chief-growth-officer",
+    "canonical": "https://www.kellyservices.com/press-releases/kelly-appoints-patrick-mccall-as-chief-growth-officer"
+  },
+  "title": "Kelly appoints Patrick McCall as Chief Growth Officer",
+  "summary": "Kelly has appointed Patrick McCall as chief growth officer, responsible for accelerating the company's organic growth and delivering industry-leading capabilities to clients and candidates.",
+  "published_at": "2026-02-11T11:50:05+00:00",
+  "first_seen_at": "2026-07-22T01:24:25.705423+00:00",
+  "fetched_at": "2026-07-28T22:20:57.996558+00:00",
+  "last_updated_at": "2026-07-28T22:21:07.171683+00:00",
+  "paths": {
+    "article": "articles/v1/04/kelly-services-inc-class-b-common-stock/2026/02/2a/2a09fe9cb548967aa8aad7d2dde33b76884872a74984d338e80141fb60249bb3/article.md",
+    "record": "articles/v1/04/kelly-services-inc-class-b-common-stock/2026/02/2a/2a09fe9cb548967aa8aad7d2dde33b76884872a74984d338e80141fb60249bb3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4719,
+    "sha256": "sha256:11ac6c282b9057a1cd427c5855bae2942d307996eb6a503ae7f981f98731a8d9",
+    "normalized_content_hash": "sha256:ac6077a70d8a566899fa56f685a0b31a23f7a3c77e5b1947f31195499b508d66"
+  },
+  "provenance": {
+    "source_item_id": "f27d3460-877c-4f63-aeb4-fae97fd44d64",
+    "external_id": "https://www.kellyservices.com/press-releases/kelly-appoints-patrick-mccall-as-chief-growth-officer"
+  }
+}

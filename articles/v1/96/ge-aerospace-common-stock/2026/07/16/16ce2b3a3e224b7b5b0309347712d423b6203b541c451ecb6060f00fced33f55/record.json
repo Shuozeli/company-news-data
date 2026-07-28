@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "16ce2b3a3e224b7b5b0309347712d423b6203b541c451ecb6060f00fced33f55",
+  "company": {
+    "key": "ge-aerospace-common-stock",
+    "name": "GE Aerospace Common Stock"
+  },
+  "source": {
+    "id": "ge-aerospace-common-stock-news-import-cc3bb1578416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.geaerospace.com/investor-relations/spin-off-resources",
+    "canonical": "https://www.geaerospace.com/investor-relations/spin-off-resources"
+  },
+  "title": "Spinoff Resources",
+  "summary": "Read about the GE spinoff across the Aviation, Healthcare, and Energy sectors. Find news, presentations, and FAQs for GE Aerospace and other major brands.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T10:20:11.575549+00:00",
+  "fetched_at": "2026-07-28T21:38:24.318832+00:00",
+  "last_updated_at": "2026-07-28T21:39:49.412352+00:00",
+  "paths": {
+    "article": "articles/v1/96/ge-aerospace-common-stock/2026/07/16/16ce2b3a3e224b7b5b0309347712d423b6203b541c451ecb6060f00fced33f55/article.md",
+    "record": "articles/v1/96/ge-aerospace-common-stock/2026/07/16/16ce2b3a3e224b7b5b0309347712d423b6203b541c451ecb6060f00fced33f55/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13196,
+    "sha256": "sha256:5a71340d1a51e20d67521d9fd23d0259bf8ee6a7bec5175ecd72938430a6e361",
+    "normalized_content_hash": "sha256:c8767444cb75884b6dad5823877740a028048849e3d19067c00209344a4c22bd"
+  },
+  "provenance": {
+    "source_item_id": "ec861f78-f376-47c9-8813-c6be6e1f7bb2",
+    "external_id": "https://www.geaerospace.com/investor-relations/spin-off-resources"
+  }
+}

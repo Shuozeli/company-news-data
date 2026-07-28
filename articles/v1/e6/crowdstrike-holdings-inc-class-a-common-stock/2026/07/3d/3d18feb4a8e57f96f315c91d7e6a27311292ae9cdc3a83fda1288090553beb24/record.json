@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3d18feb4a8e57f96f315c91d7e6a27311292ae9cdc3a83fda1288090553beb24",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/"
+  },
+  "title": "How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem",
+  "summary": "Charlotte AI underpins a security-first ecosystem for building and orchestrating agents across the SOC. Learn more!",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T12:36:48.404735+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:51.852960+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/3d/3d18feb4a8e57f96f315c91d7e6a27311292ae9cdc3a83fda1288090553beb24/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/3d/3d18feb4a8e57f96f315c91d7e6a27311292ae9cdc3a83fda1288090553beb24/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7509,
+    "sha256": "sha256:74d75f33a94cca01a2ecfc454d637d214cec024fc969718e6b30306b3bb402db",
+    "normalized_content_hash": "sha256:e785fc7cc86e940eb0466a1197d8e77ca8ad2a05e226240e59919cf3ffb33497"
+  },
+  "provenance": {
+    "source_item_id": "00f9199e-4978-4544-bbc6-70ed42f74f10",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/"
+  }
+}

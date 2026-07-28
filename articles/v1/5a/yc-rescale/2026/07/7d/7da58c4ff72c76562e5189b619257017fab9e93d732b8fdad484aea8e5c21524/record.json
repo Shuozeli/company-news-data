@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7da58c4ff72c76562e5189b619257017fab9e93d732b8fdad484aea8e5c21524",
+  "company": {
+    "key": "yc-rescale",
+    "name": "Rescale"
+  },
+  "source": {
+    "id": "yc-rescale-rss-a01d3810de6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rescale.com/blog/rescale-interlink-open-source-data-transfer-job-management/",
+    "canonical": "https://rescale.com/blog/rescale-interlink-open-source-data-transfer-job-management/"
+  },
+  "title": "Rescale Interlink: Open-Source Data Transfer and Job Management",
+  "summary": "Move simulation data between your desktop and the cloud faster with Rescale Interlink, an open-source hybrid CLI and GUI tool for managing files and jobs on Rescale. FIPS 140-3 compliant and available on Windows, Mac, and Linux, Interlink delivers multithreaded parallel transfers, a visual file browser, auto-download of completed job results, and full job submission, all in one lightweight, community-driven application.",
+  "published_at": "2026-07-17T12:01:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:48.219568+00:00",
+  "fetched_at": "2026-07-28T20:37:08.491459+00:00",
+  "last_updated_at": "2026-07-28T20:41:02.546966+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-rescale/2026/07/7d/7da58c4ff72c76562e5189b619257017fab9e93d732b8fdad484aea8e5c21524/article.md",
+    "record": "articles/v1/5a/yc-rescale/2026/07/7d/7da58c4ff72c76562e5189b619257017fab9e93d732b8fdad484aea8e5c21524/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1357,
+    "sha256": "sha256:c9828c1eb9e002da0c3f25e039b44e8db56267bf441658dbeb25a0455d6dfa30",
+    "normalized_content_hash": "sha256:663e0ea5efafe075a6c769952511681bf3be24d1b63cd97a929c3f5c0c450bce"
+  },
+  "provenance": {
+    "source_item_id": "1d111628-1f9a-4428-af9d-156a240b6467",
+    "external_id": "https://rescale.com/?p=102346"
+  }
+}

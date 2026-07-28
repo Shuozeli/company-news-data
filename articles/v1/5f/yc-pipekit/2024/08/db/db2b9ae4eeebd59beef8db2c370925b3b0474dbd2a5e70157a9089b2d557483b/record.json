@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db2b9ae4eeebd59beef8db2c370925b3b0474dbd2a5e70157a9089b2d557483b",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/argo-and-airflow-dag-examples",
+    "canonical": "https://homepage.pipekit.io/blog/argo-and-airflow-dag-examples"
+  },
+  "title": "Argo and Airflow DAG Examples",
+  "summary": "In this post we share Airflow DAG examples and Argo DAG examples that illustrate step-wise and branched workflows so you can understand how the tools differ in the way they define workflows.",
+  "published_at": "2024-08-07T11:39:23+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-07-28T20:59:58.732480+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/08/db/db2b9ae4eeebd59beef8db2c370925b3b0474dbd2a5e70157a9089b2d557483b/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/08/db/db2b9ae4eeebd59beef8db2c370925b3b0474dbd2a5e70157a9089b2d557483b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11484,
+    "sha256": "sha256:3f394dc7303effb7babfaf3bcf7ddda245754e2c128f5dfcb9042b4ab13f6c1a",
+    "normalized_content_hash": "sha256:2b6942a339c861d4041ee6b64a478e909a207861284067e0b1cdc0b58e9735bf"
+  },
+  "provenance": {
+    "source_item_id": "ffafcfcc-0150-4156-98a3-8078fe0593c7",
+    "external_id": "https://homepage.pipekit.io/blog/argo-and-airflow-dag-examples"
+  }
+}

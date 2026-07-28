@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2496e70ea1de1bf3101d2a4756a38fe19572839a24a757df9e67551a17f48dc3",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-4efa37697785",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/marc-d-miller-named-to-the-top-10-ceos-transforming-healthcare-by-the-ceo-forum-2/",
+    "canonical": "https://uhs.com/news/marc-d-miller-named-to-the-top-10-ceos-transforming-healthcare-by-the-ceo-forum-2/"
+  },
+  "title": "Marc D. Miller Named to the Top 10 CEOs Transforming Healthcare by The CEO Forum",
+  "summary": "The CEO Forum selected Marc in the exclusive category of Operational Excellence.",
+  "published_at": "2026-01-13T13:15:58+00:00",
+  "first_seen_at": "2026-07-24T05:33:05.470539+00:00",
+  "fetched_at": "2026-07-28T21:58:18.576112+00:00",
+  "last_updated_at": "2026-07-28T21:59:16.713035+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/24/2496e70ea1de1bf3101d2a4756a38fe19572839a24a757df9e67551a17f48dc3/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/24/2496e70ea1de1bf3101d2a4756a38fe19572839a24a757df9e67551a17f48dc3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4476,
+    "sha256": "sha256:219a032699047b4bc7ca39b1913d77eabe0a7414af0e7b8dd163c8724770518b",
+    "normalized_content_hash": "sha256:9a6add4987dbbad4cce3882b49fdbd2efd4835c845f7123c06659b6f23360a9c"
+  },
+  "provenance": {
+    "source_item_id": "8beae090-b3ee-49f2-9af2-3114cebb27b6",
+    "external_id": "https://uhs.com/news/marc-d-miller-named-to-the-top-10-ceos-transforming-healthcare-by-the-ceo-forum-2/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f87d478531afae1bd79b0aaa8e3971d531b7686af9a814bed422205459d44929",
+  "company": {
+    "key": "eni-s-p-a-common-stock",
+    "name": "ENI S.p.A. Common Stock"
+  },
+  "source": {
+    "id": "eni-s-p-a-common-stock-news-import-a4168499c9ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eni.com/en-IT/media/press-release/2026/07/pr-eni-opens-supercomputing-capabilities-innovation-ecosystem.html",
+    "canonical": "https://www.eni.com/en-IT/media/press-release/2026/07/pr-eni-opens-supercomputing-capabilities-innovation-ecosystem.html"
+  },
+  "title": "Eni opens its supercomputing capabilities to the innovation ecosystem",
+  "summary": "",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T20:31:12.926195+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.356441+00:00",
+  "paths": {
+    "article": "articles/v1/60/eni-s-p-a-common-stock/2026/07/f8/f87d478531afae1bd79b0aaa8e3971d531b7686af9a814bed422205459d44929/article.md",
+    "record": "articles/v1/60/eni-s-p-a-common-stock/2026/07/f8/f87d478531afae1bd79b0aaa8e3971d531b7686af9a814bed422205459d44929/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3558,
+    "sha256": "sha256:019406e91b5038d12b6038b269ac12ae1734a2b925f1a20f9e3f1d96d503a627",
+    "normalized_content_hash": "sha256:dccf6e4957dd12652c234d7829b989e877fb83556fb540ea769472696cc199a3"
+  },
+  "provenance": {
+    "source_item_id": "49d88e02-ef9c-4290-b68d-68e0ecaf4d04",
+    "external_id": "https://www.eni.com/en-IT/media/press-release/2026/07/pr-eni-opens-supercomputing-capabilities-innovation-ecosystem.html"
+  }
+}

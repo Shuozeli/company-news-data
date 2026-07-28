@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f9109d14decebceb2ae871bfdeb33ba8078d3948a6972795bfd737e15e00865",
+  "company": {
+    "key": "mercer-international-inc-common-stock",
+    "name": "Mercer International Inc. Common Stock"
+  },
+  "source": {
+    "id": "mercer-international-inc-common-stock-news-import-42d7945e1da2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mercerint.com/news/mercer-peace-river-pulp-and-svante-co%e2%82%82-capture-demonstration-unit/",
+    "canonical": "https://mercerint.com/news/mercer-peace-river-pulp-and-svante-co%e2%82%82-capture-demonstration-unit/"
+  },
+  "title": "Mercer Peace River Pulp and Svante Co₂ Capture Demonstration Unit",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:04:13.713476+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:36.961784+00:00",
+  "paths": {
+    "article": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/9f/9f9109d14decebceb2ae871bfdeb33ba8078d3948a6972795bfd737e15e00865/article.md",
+    "record": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/9f/9f9109d14decebceb2ae871bfdeb33ba8078d3948a6972795bfd737e15e00865/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5563,
+    "sha256": "sha256:94b52e5af4c7b3eac58efbfc795ad5c67d4f7ba509a9112c76fe53b754f48083",
+    "normalized_content_hash": "sha256:48bc3e2d676c31ba076a136abe9389b36e7f2678b9ff162a9912072f04ff17de"
+  },
+  "provenance": {
+    "source_item_id": "5c78a576-c4e6-456e-bbca-6c521ff90598",
+    "external_id": "https://mercerint.com/news/mercer-peace-river-pulp-and-svante-co%e2%82%82-capture-demonstration-unit/"
+  }
+}

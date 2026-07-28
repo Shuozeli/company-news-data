@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "809afb28a5e0ddafd514a7cb6d9b6ba5b63ae75c33b5e88f2177fdfec6fd4305",
+  "company": {
+    "key": "yc-dex",
+    "name": "Dex"
+  },
+  "source": {
+    "id": "yc-dex-news-import-b1dc2c550f25",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getdex.com/blog/welcome-to-dex/",
+    "canonical": "https://getdex.com/blog/welcome-to-dex"
+  },
+  "title": "Welcome to Dex [UPDATED 2024]",
+  "summary": "\"Why isn't there an app for relationships?\" you wonder to yourself, as you settle for scattered iPhone notes, Excel spreadsheets, the LinkedIn search bar, or other powerful-but-imperfect tools like Airtable and Notion. At Dex, we’re hard at work creating a better solution",
+  "published_at": "2020-07-21T15:20:56+00:00",
+  "first_seen_at": "2026-07-25T01:37:30.699775+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:26.174206+00:00",
+  "paths": {
+    "article": "articles/v1/f6/yc-dex/2020/07/80/809afb28a5e0ddafd514a7cb6d9b6ba5b63ae75c33b5e88f2177fdfec6fd4305/article.md",
+    "record": "articles/v1/f6/yc-dex/2020/07/80/809afb28a5e0ddafd514a7cb6d9b6ba5b63ae75c33b5e88f2177fdfec6fd4305/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4062,
+    "sha256": "sha256:4c5dfdd8ab798f7b2e0a3647780905030500ad4491cd385be1aee62e489985ff",
+    "normalized_content_hash": "sha256:7ea4bd6313b8bcba034c03c44748f753c5a1b18610b0e0923e4edc66d5987e81"
+  },
+  "provenance": {
+    "source_item_id": "df6e4ef9-b7f7-433d-9de0-0d7048b70be3",
+    "external_id": "https://getdex.com/blog/welcome-to-dex"
+  }
+}

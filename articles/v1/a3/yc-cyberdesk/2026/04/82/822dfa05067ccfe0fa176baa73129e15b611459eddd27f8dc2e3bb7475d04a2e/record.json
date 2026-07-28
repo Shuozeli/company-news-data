@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "822dfa05067ccfe0fa176baa73129e15b611459eddd27f8dc2e3bb7475d04a2e",
+  "company": {
+    "key": "yc-cyberdesk",
+    "name": "Cyberdesk"
+  },
+  "source": {
+    "id": "yc-cyberdesk-rss-7fc226611edf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://cyberdesk-16cincmsb-cyberdesk.vercel.app/blog/ehr-automation-sessions",
+    "canonical": "https://cyberdesk-16cincmsb-cyberdesk.vercel.app/blog/ehr-automation-sessions"
+  },
+  "title": "What reliable EHR automation needs from an AI desktop agent",
+  "summary": "A practical look at sessions, sensitive inputs, structured extraction, and human review for healthcare desktop automation.",
+  "published_at": "2026-04-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:22.214482+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-07-28T21:57:27.334423+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-cyberdesk/2026/04/82/822dfa05067ccfe0fa176baa73129e15b611459eddd27f8dc2e3bb7475d04a2e/article.md",
+    "record": "articles/v1/a3/yc-cyberdesk/2026/04/82/822dfa05067ccfe0fa176baa73129e15b611459eddd27f8dc2e3bb7475d04a2e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7303,
+    "sha256": "sha256:440482dd5ded5a0f7846b3a29febaf99cd5dea0dae40e456a682b8af224a590d",
+    "normalized_content_hash": "sha256:573c6704785cd7fea8366120f990f8046b63d5210cbb1a31fb08320b4370fadf"
+  },
+  "provenance": {
+    "source_item_id": "15920876-6690-43cf-b5ab-723e274fc7ab",
+    "external_id": "https://cyberdesk-16cincmsb-cyberdesk.vercel.app/blog/ehr-automation-sessions"
+  }
+}

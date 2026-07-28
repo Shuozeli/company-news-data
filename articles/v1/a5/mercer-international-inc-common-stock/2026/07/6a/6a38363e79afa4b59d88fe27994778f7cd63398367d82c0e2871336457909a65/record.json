@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a38363e79afa4b59d88fe27994778f7cd63398367d82c0e2871336457909a65",
+  "company": {
+    "key": "mercer-international-inc-common-stock",
+    "name": "Mercer International Inc. Common Stock"
+  },
+  "source": {
+    "id": "mercer-international-inc-common-stock-news-import-42d7945e1da2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mercerint.com/news/the-value-of-sustainability/",
+    "canonical": "https://mercerint.com/news/the-value-of-sustainability/"
+  },
+  "title": "The Value of Sustainability",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:04:13.713476+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:37.018554+00:00",
+  "paths": {
+    "article": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/6a/6a38363e79afa4b59d88fe27994778f7cd63398367d82c0e2871336457909a65/article.md",
+    "record": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/6a/6a38363e79afa4b59d88fe27994778f7cd63398367d82c0e2871336457909a65/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11683,
+    "sha256": "sha256:ff469bb90b67e4ce94495a8e800c3dc0ac250d11dc48b1ada38988e11fbc2d51",
+    "normalized_content_hash": "sha256:85d595bf191e1848ea7323d5480a18fdbc6726df9c6834bc8fe97556d50a8fa9"
+  },
+  "provenance": {
+    "source_item_id": "ec7d6359-d34b-4525-a9ce-0175848d1e8d",
+    "external_id": "https://mercerint.com/news/the-value-of-sustainability/"
+  }
+}

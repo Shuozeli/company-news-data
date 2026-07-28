@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9af71892fc7b355d7362bfd00d0cf10953e01ca4a307fdcd7f26f8117aad5c70",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/bitgo-prime-expands-liquidity-network-with-the-addition-of-virtu-financial/",
+    "canonical": "https://www.bitgo.com/resources/blog/bitgo-prime-expands-liquidity-network-with-the-addition-of-virtu-financial/"
+  },
+  "title": "BitGo Prime Expands Liquidity Network with the Addition of Virtu Financial",
+  "summary": "BitGo Prime adds Virtu Financial to its liquidity network, broadening institutional pricing and execution while assets stay in regulated custody.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:41.088269+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:21:56.954810+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/9a/9af71892fc7b355d7362bfd00d0cf10953e01ca4a307fdcd7f26f8117aad5c70/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/9a/9af71892fc7b355d7362bfd00d0cf10953e01ca4a307fdcd7f26f8117aad5c70/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7635,
+    "sha256": "sha256:b505a03fa9340719f38a5cc86f7d09cd17964a9af0d43886a07cfaedceb4425c",
+    "normalized_content_hash": "sha256:9876a46aefd56428ae1ddcdc0ddf64174630d08cd72db339341081fc9752475a"
+  },
+  "provenance": {
+    "source_item_id": "4d1d1d0c-f5cb-45ae-b101-2f7b9652c785",
+    "external_id": "https://www.bitgo.com/resources/blog/bitgo-prime-expands-liquidity-network-with-the-addition-of-virtu-financial/"
+  }
+}

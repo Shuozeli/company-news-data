@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "920ff06ac5150565561b836945294f9865f0d1e25bb0bd2cab167f6027d870cc",
+  "company": {
+    "key": "first-community-corporation-common-stock",
+    "name": "First Community Corporation Common Stock"
+  },
+  "source": {
+    "id": "first-community-corporation-common-stock-news-import-902f5a20857d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firstcommunitysc.com/about/news/2022/09/09/first-community-bank-announces-seminar-for-minority-businesses",
+    "canonical": "https://www.firstcommunitysc.com/about/news/2022/09/09/first-community-bank-announces-seminar-for-minority-businesses"
+  },
+  "title": "First Community Bank Announces Seminar for Minority Businesses",
+  "summary": "First Community Bank is hosting an event with information on how obtain access to capital for minority businesses.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T09:36:16.542051+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:53.169813+00:00",
+  "paths": {
+    "article": "articles/v1/56/first-community-corporation-common-stock/2026/07/92/920ff06ac5150565561b836945294f9865f0d1e25bb0bd2cab167f6027d870cc/article.md",
+    "record": "articles/v1/56/first-community-corporation-common-stock/2026/07/92/920ff06ac5150565561b836945294f9865f0d1e25bb0bd2cab167f6027d870cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4035,
+    "sha256": "sha256:3a8bf9acd348611e2c4a89761f1f86b934346511c140d8e4b109d41e5ad4cf3e",
+    "normalized_content_hash": "sha256:b8b43e7a1e1464df388a23ffddc97fc19956ed7fa8493e4854398c1e05753084"
+  },
+  "provenance": {
+    "source_item_id": "51a3be7a-f76a-41a1-aac6-f64cd3adf7a3",
+    "external_id": "https://www.firstcommunitysc.com/about/news/2022/09/09/first-community-bank-announces-seminar-for-minority-businesses"
+  }
+}

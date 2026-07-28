@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64322dcfd1942a95860f1f19ea42a9ecb0b2c07324b31d1aac5994f05a52ab37",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-news-import-801d48e1d714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/tutorials",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/tutorials"
+  },
+  "title": "Tutorials & Guides",
+  "summary": "Step-by-step tutorials and guides using code, low-code, no-code, and more.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T17:37:59.927743+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-07-28T21:20:55.402889+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/64/64322dcfd1942a95860f1f19ea42a9ecb0b2c07324b31d1aac5994f05a52ab37/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/64/64322dcfd1942a95860f1f19ea42a9ecb0b2c07324b31d1aac5994f05a52ab37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1250,
+    "sha256": "sha256:87e9e7c0b60773ed20aaac7e14c0c0afb8086b20230458a33d5455ebebda326c",
+    "normalized_content_hash": "sha256:dcfe29018171b491a61febc4f8db176a3e5463520291cc3a3c68574c728d0fef"
+  },
+  "provenance": {
+    "source_item_id": "267823d7-9641-4700-8dee-60b951fe52ff",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/tutorials"
+  }
+}

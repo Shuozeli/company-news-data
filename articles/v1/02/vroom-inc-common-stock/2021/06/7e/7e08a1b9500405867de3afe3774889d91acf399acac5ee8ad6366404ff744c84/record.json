@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e08a1b9500405867de3afe3774889d91acf399acac5ee8ad6366404ff744c84",
+  "company": {
+    "key": "vroom-inc-common-stock",
+    "name": "Vroom Inc. Common Stock"
+  },
+  "source": {
+    "id": "vroom-inc-common-stock-news-import-5c1422578507",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2021/06/14/2246813/0/en/vroom-inc-announces-proposed-convertible-senior-notes-offering.html",
+    "canonical": "https://www.globenewswire.com/news-release/2021/06/14/2246813/0/en/vroom-inc-announces-proposed-convertible-senior-notes-offering.html"
+  },
+  "title": "Vroom, Inc. Announces Proposed Convertible Senior Notes Offering",
+  "summary": "NEW YORK, June 14, 2021 (GLOBE NEWSWIRE) -- Vroom, Inc. (Nasdaq: VRM) (“Vroom”) today announced its intention to offer, subject to market and other...",
+  "published_at": "2021-06-14T20:05:00+00:00",
+  "first_seen_at": "2026-07-26T21:04:40.281377+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.224784+00:00",
+  "paths": {
+    "article": "articles/v1/02/vroom-inc-common-stock/2021/06/7e/7e08a1b9500405867de3afe3774889d91acf399acac5ee8ad6366404ff744c84/article.md",
+    "record": "articles/v1/02/vroom-inc-common-stock/2021/06/7e/7e08a1b9500405867de3afe3774889d91acf399acac5ee8ad6366404ff744c84/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6228,
+    "sha256": "sha256:d884f6737a49217fd9fa31082bb461e918027dc278f6d38d46f32c20ff78328a",
+    "normalized_content_hash": "sha256:adf1cfde676416397236d041a622ce48929e68144050a606b665e9f55d184d18"
+  },
+  "provenance": {
+    "source_item_id": "3e7321b6-7356-482e-ab84-89a0c9518791",
+    "external_id": "https://www.globenewswire.com/news-release/2021/06/14/2246813/0/en/vroom-inc-announces-proposed-convertible-senior-notes-offering.html"
+  }
+}

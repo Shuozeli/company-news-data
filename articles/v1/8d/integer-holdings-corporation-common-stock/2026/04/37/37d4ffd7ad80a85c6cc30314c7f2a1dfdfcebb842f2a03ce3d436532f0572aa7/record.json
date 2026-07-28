@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "37d4ffd7ad80a85c6cc30314c7f2a1dfdfcebb842f2a03ce3d436532f0572aa7",
+  "company": {
+    "key": "integer-holdings-corporation-common-stock",
+    "name": "Integer Holdings Corporation Common Stock"
+  },
+  "source": {
+    "id": "integer-holdings-corporation-common-stock-rss-3c583142efbf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.integer.net/news-and-events/news-details/2026/Integer-Announces-Board-Leadership-Transition/default.aspx",
+    "canonical": "https://www.integer.net/news-and-events/news-details/2026/Integer-Announces-Board-Leadership-Transition/default.aspx"
+  },
+  "title": "Integer Announces Board Leadership Transition",
+  "summary": "",
+  "published_at": "2026-04-06T21:00:00+00:00",
+  "first_seen_at": "2026-07-25T09:38:33.729133+00:00",
+  "fetched_at": "2026-07-28T22:03:10.708926+00:00",
+  "last_updated_at": "2026-07-28T22:03:10.745311+00:00",
+  "paths": {
+    "article": "articles/v1/8d/integer-holdings-corporation-common-stock/2026/04/37/37d4ffd7ad80a85c6cc30314c7f2a1dfdfcebb842f2a03ce3d436532f0572aa7/article.md",
+    "record": "articles/v1/8d/integer-holdings-corporation-common-stock/2026/04/37/37d4ffd7ad80a85c6cc30314c7f2a1dfdfcebb842f2a03ce3d436532f0572aa7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 706,
+    "sha256": "sha256:8f18debe1e318ff49bd6a13b28c623aad8540aa911025414ecd028cf4a0a4c7d",
+    "normalized_content_hash": "sha256:c20c7583319449afe872c9a8205088de9b03c6310c970536750de7954b9320c8"
+  },
+  "provenance": {
+    "source_item_id": "dec07119-4c6e-48df-94b6-091629e3207e",
+    "external_id": "ea76e12a-468d-4bf3-80a4-c09931603fb6"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3bb4bd9066962bec945f68042c13570c6b7d1e7bc6ec28433e6ea720910e5900",
+  "company": {
+    "key": "dana-incorporated-common-stock",
+    "name": "Dana Incorporated Common Stock"
+  },
+  "source": {
+    "id": "dana-incorporated-common-stock-news-import-0f7015fe1868",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dana.com/newsroom/press-releases/dana-incorporated-announces-agreement-to-combine-with-eatons-mobility-business-strengthens-danas-position-as-a-leading-global-powertrain-systems-provider/",
+    "canonical": "https://www.dana.com/newsroom/press-releases/dana-incorporated-announces-agreement-to-combine-with-eatons-mobility-business-strengthens-danas-position-as-a-leading-global-powertrain-systems-provider/"
+  },
+  "title": "Dana Incorporated Announces Agreement to Combine with Eaton's Mobility Business, Strengthens Dana's Position as a Leading Global Powertrain Systems Provider",
+  "summary": "Creates a premier, global powertrain leader focused on commercial and light vehicles with approximately $11 billion in sales and approximately $1.7...",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:25:38.031181+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-07-28T21:43:24.176179+00:00",
+  "paths": {
+    "article": "articles/v1/9f/dana-incorporated-common-stock/2026/06/3b/3bb4bd9066962bec945f68042c13570c6b7d1e7bc6ec28433e6ea720910e5900/article.md",
+    "record": "articles/v1/9f/dana-incorporated-common-stock/2026/06/3b/3bb4bd9066962bec945f68042c13570c6b7d1e7bc6ec28433e6ea720910e5900/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23349,
+    "sha256": "sha256:ac7846e060b0fa74ddc7ac94cadf3ae54cb40f69a96e3e4d8dbc82953ba71e56",
+    "normalized_content_hash": "sha256:ad4647ec199c42a5ababb6351365bcc95346aab9a82c22f2ac7a00eaac01d044"
+  },
+  "provenance": {
+    "source_item_id": "713dbdc4-b823-47df-b0a0-afd92e13568d",
+    "external_id": "https://www.dana.com/newsroom/press-releases/dana-incorporated-announces-agreement-to-combine-with-eatons-mobility-business-strengthens-danas-position-as-a-leading-global-powertrain-systems-provider/"
+  }
+}

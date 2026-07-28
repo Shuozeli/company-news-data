@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0bdf9757a1b9887143773e666dbf20f83e84d2083c63f7fd50239d315c0f53e",
+  "company": {
+    "key": "yc-cyberdesk",
+    "name": "Cyberdesk"
+  },
+  "source": {
+    "id": "yc-cyberdesk-rss-7fc226611edf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/introducing-cyberdriver-1-0",
+    "canonical": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/introducing-cyberdriver-1-0"
+  },
+  "title": "Introducing Cyberdriver 1.0",
+  "summary": "Cyberdriver 1.0 turns Cyberdesk's desktop agent into a RustDesk-based runtime for installing, connecting, streaming, and operating real computers with AI.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T14:30:09.608841+00:00",
+  "fetched_at": "2026-07-28T21:14:13.187831+00:00",
+  "last_updated_at": "2026-07-28T21:15:02.459346+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-cyberdesk/2026/05/f0/f0bdf9757a1b9887143773e666dbf20f83e84d2083c63f7fd50239d315c0f53e/article.md",
+    "record": "articles/v1/a3/yc-cyberdesk/2026/05/f0/f0bdf9757a1b9887143773e666dbf20f83e84d2083c63f7fd50239d315c0f53e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8222,
+    "sha256": "sha256:23f7497e30ef1e36c84ac9fd229025d069e752bfe88674772de650b84ddb4b83",
+    "normalized_content_hash": "sha256:068913292242cfd128c65820183907676df3c81a8a8677fb5725c2620344970d"
+  },
+  "provenance": {
+    "source_item_id": "3772c0cd-23a8-497d-bf36-31b26531bed3",
+    "external_id": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/introducing-cyberdriver-1-0"
+  }
+}

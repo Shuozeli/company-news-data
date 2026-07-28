@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "superior-group-of-companies-inc-common-stock",
+    "name": "Superior Group of Companies Inc. Common Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-01-06T21:05:27+00:00",
+  "last_published_at": "2026-07-21T20:05:22+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

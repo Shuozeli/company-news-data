@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a6e97faca72160d534de5edd1c9d79333d4bf9baada387a2cd75aeb54b63b67d",
+  "company": {
+    "key": "polaris-inc-common-stock",
+    "name": "Polaris Inc. Common Stock"
+  },
+  "source": {
+    "id": "polaris-inc-common-stock-news-import-7f1d8ac04206",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.polaris.com/en-us/news/company/polaris-declares-regular-cash-dividend-october-2025/",
+    "canonical": "https://www.polaris.com/en-us/news/company/polaris-declares-regular-cash-dividend-october-2025/"
+  },
+  "title": "Polaris Declares Regular Cash Dividend",
+  "summary": "Polaris Inc. announced today that its Board of Directors has declared a regular quarterly cash dividend of $0.67 per share payable on December 15, 2025 to shareholders of record at the close of business on December 1, 2025.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T19:29:36.853240+00:00",
+  "fetched_at": "2026-07-27T22:39:57.275487+00:00",
+  "last_updated_at": "2026-07-27T22:39:58.815917+00:00",
+  "paths": {
+    "article": "articles/v1/d4/polaris-inc-common-stock/2026/07/a6/a6e97faca72160d534de5edd1c9d79333d4bf9baada387a2cd75aeb54b63b67d/article.md",
+    "record": "articles/v1/d4/polaris-inc-common-stock/2026/07/a6/a6e97faca72160d534de5edd1c9d79333d4bf9baada387a2cd75aeb54b63b67d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3399,
+    "sha256": "sha256:9f390fede6f1f7374a3c957b8d7dba0df81fd71c21304b1d8784db4bf316987f",
+    "normalized_content_hash": "sha256:0f660f701cebf4d22a351093b8039508a6f576a835eb0d05b20d6db372729218"
+  },
+  "provenance": {
+    "source_item_id": "9915b1c6-53bf-4474-a2c8-a26e30895426",
+    "external_id": "https://www.polaris.com/en-us/news/company/polaris-declares-regular-cash-dividend-october-2025/"
+  }
+}

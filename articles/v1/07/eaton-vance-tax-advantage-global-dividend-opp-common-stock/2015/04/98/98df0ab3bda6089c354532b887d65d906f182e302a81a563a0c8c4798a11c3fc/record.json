@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98df0ab3bda6089c354532b887d65d906f182e302a81a563a0c8c4798a11c3fc",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/capital-bancorp-inc-md-nasdaq-cbnk-declared-a-dividend-of-$0.1400-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/capital-bancorp-inc-md-nasdaq-cbnk-declared-a-dividend-of-$0.1400-per-share/"
+  },
+  "title": "CBNK Dividend Announcement $0.1400/Share 7/27/2026",
+  "summary": "NASDAQ:CBNK Capital Bancorp Inc (MD) Dividend Announcement $0.1400 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T15:15:49.421303+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.069753+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/98/98df0ab3bda6089c354532b887d65d906f182e302a81a563a0c8c4798a11c3fc/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/98/98df0ab3bda6089c354532b887d65d906f182e302a81a563a0c8c4798a11c3fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2105,
+    "sha256": "sha256:ccbfe9b79367196c1836e7f92cf115e9e050b9ae2de4bb3cf03bac1036934ed3",
+    "normalized_content_hash": "sha256:9003e6acf26aff31c9c19f4fd2a25babdbae828d85b30bdec2888f864499b9c9"
+  },
+  "provenance": {
+    "source_item_id": "468ce5be-ffef-4de5-a389-ea4036c6562f",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/capital-bancorp-inc-md-nasdaq-cbnk-declared-a-dividend-of-$0.1400-per-share/"
+  }
+}

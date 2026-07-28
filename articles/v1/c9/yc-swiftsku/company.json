@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-swiftsku",
+    "name": "SwiftSku"
+  },
+  "record_count": 8,
+  "first_published_at": "2024-04-01T15:25:43+00:00",
+  "last_published_at": "2024-04-15T03:23:18+00:00",
+  "partitions": [
+    {
+      "partition": "2024-04",
+      "record_count": 8
+    }
+  ]
+}

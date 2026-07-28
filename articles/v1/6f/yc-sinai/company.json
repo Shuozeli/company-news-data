@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-sinai",
+    "name": "SINAI"
+  },
+  "record_count": 14,
+  "first_published_at": "2026-05-15T11:14:19.089+00:00",
+  "last_published_at": "2026-07-24T14:06:11.124+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

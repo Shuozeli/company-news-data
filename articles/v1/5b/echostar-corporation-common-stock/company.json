@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "echostar-corporation-common-stock",
+    "name": "EchoStar Corporation Common Stock"
+  },
+  "record_count": 12,
+  "first_published_at": "2025-04-17T09:12:46+00:00",
+  "last_published_at": "2025-09-25T12:45:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 3
+    }
+  ]
+}

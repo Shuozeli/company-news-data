@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f37eefa3ae7a7c7da6953b4a122a7c8588b6542eeb4062abfb158c0f4f18504",
+  "company": {
+    "key": "yc-klarity",
+    "name": "Klarity"
+  },
+  "source": {
+    "id": "yc-klarity-news-import-eb5790299337",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.klarity.ai/resources/blog/transformation-series-part-1",
+    "canonical": "https://klarity.ai/resources/blog/transformation-series-part-1"
+  },
+  "title": "Transformation Series Part 1: Transformation is Dead",
+  "summary": "Traditional Transformation is Dead. Learn why transformation fails and what to do about it.",
+  "published_at": "2025-12-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:34:36.098678+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-07-28T21:59:19.750778+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-klarity/2025/12/1f/1f37eefa3ae7a7c7da6953b4a122a7c8588b6542eeb4062abfb158c0f4f18504/article.md",
+    "record": "articles/v1/ae/yc-klarity/2025/12/1f/1f37eefa3ae7a7c7da6953b4a122a7c8588b6542eeb4062abfb158c0f4f18504/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5823,
+    "sha256": "sha256:3533a5f9bafa9e160eae3adee4c85ac14ad7891bb97aae2ff4afa9409045ab44",
+    "normalized_content_hash": "sha256:328192ff96a4026b1b52f22997b8a9c7773be491dfc74e3f9cc0914214285ee8"
+  },
+  "provenance": {
+    "source_item_id": "3a8b42c2-3a9d-40a1-9f6e-ddb1645b2553",
+    "external_id": "https://klarity.ai/resources/blog/transformation-series-part-1"
+  }
+}

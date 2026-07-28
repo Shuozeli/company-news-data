@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "409cd30d474bfe7652d0c83bbad8bb559afe4d73468837b6fb03ec97834e2fab",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/nkti-patient-education.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/nkti-patient-education.html"
+  },
+  "title": "NKTI and Bot MD launch first A.I. powered Facebook Messenger platform for Kidney Patient Education",
+  "summary": "the National Kidney and Transplant Institute (NKTI) announced its partnership with Bot MD to launch an A.I. powered Facebook Messenger and Viber-based platform for Pre-Kidney Transplant donor and patient education. The platform, called \"Bot MD Care\" will enable potential Kidney donors and recipients to undergo pre-transplant orientation at their own pace and time, through popular chat platforms without having to download a separate mobile app.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.592636+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/40/409cd30d474bfe7652d0c83bbad8bb559afe4d73468837b6fb03ec97834e2fab/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/40/409cd30d474bfe7652d0c83bbad8bb559afe4d73468837b6fb03ec97834e2fab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4004,
+    "sha256": "sha256:904b7e24954d3e92442e00456274ebf5929d5b4bd970326ac15987f9fb4adb98",
+    "normalized_content_hash": "sha256:8b9d6e99a4e7f3359f0c5047e6fe6bd4546554aeea13f037c4465a3bc06c1aa6"
+  },
+  "provenance": {
+    "source_item_id": "d34b4355-2fb8-451f-a0ce-12f54d2630a3",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/nkti-patient-education.html"
+  }
+}

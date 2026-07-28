@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7f0eb4e69ea8ebf35c5bf3857b4c0fa2873ad9f2c82dd396e14ff8a9689da2ef",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/research/reprints/",
+    "canonical": "https://www.forrester.com/research/reprints/"
+  },
+  "title": "Reprints",
+  "summary": "Buyers navigate a complex, noisy market and need help understanding how your offerings relate to major transformation or deliver specific outcomes. In a market fraught with buzzwords and hyperbole, you can separate from the pack and drive growth by connecting your value to clear research.",
+  "published_at": "2018-08-16T16:28:37+00:00",
+  "first_seen_at": "2026-07-27T02:48:29.914160+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.047710+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2018/08/7f/7f0eb4e69ea8ebf35c5bf3857b4c0fa2873ad9f2c82dd396e14ff8a9689da2ef/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2018/08/7f/7f0eb4e69ea8ebf35c5bf3857b4c0fa2873ad9f2c82dd396e14ff8a9689da2ef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4499,
+    "sha256": "sha256:f6fdd5cd5e5b5d802eb42a72638c88b73ad3b0fd8e3f6920674ab08f238b88f4",
+    "normalized_content_hash": "sha256:82c418dbf3f8fb4f19e03a9bde0ac5ef9b83e5a0e3280d6860c056eddf479147"
+  },
+  "provenance": {
+    "source_item_id": "0cd4b661-7f26-43f9-ae32-07fa67a71875",
+    "external_id": "https://www.forrester.com/research/reprints/"
+  }
+}

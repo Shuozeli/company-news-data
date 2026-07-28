@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "20526cbae89058cd83a4ed6a2778146aefa0b29fc7a2385fc06bcc16c13e510d",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-03-25.html",
+    "canonical": "https://ruger.com/news/2026-03-25.html"
+  },
+  "title": "Ruger Celebrates 250 Years of American Liberty",
+  "summary": "",
+  "published_at": "2026-03-25T11:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T22:00:16.885857+00:00",
+  "last_updated_at": "2026-07-28T22:00:52.479411+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/03/20/20526cbae89058cd83a4ed6a2778146aefa0b29fc7a2385fc06bcc16c13e510d/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/03/20/20526cbae89058cd83a4ed6a2778146aefa0b29fc7a2385fc06bcc16c13e510d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3245,
+    "sha256": "sha256:4c76dcfa438d0f8f8942de3d11f5e52b3cb2cffc4ccc42d531359ea0fa31afb7",
+    "normalized_content_hash": "sha256:7ceebde1279269a62a1e1e9fb0416a3ff541eeade15f6b6c43a55b4d28f5d83d"
+  },
+  "provenance": {
+    "source_item_id": "6276a145-e688-4720-b800-590c65b34d8b",
+    "external_id": "https://ruger.com/news/2026-03-25.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26e533e899283727b0ce50b5663bff8cdafa4672a0ba8c62097b5e2055051c80",
+  "company": {
+    "key": "celestica-inc-common-stock",
+    "name": "Celestica Inc. Common Stock"
+  },
+  "source": {
+    "id": "celestica-inc-common-stock-news-import-cf21b4db58b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.celestica.com/blog/article/powering-germanys-most-powerful-university-ai-supercomputer-celesticas-role-in-the-helma-project",
+    "canonical": "https://www.celestica.com/blog/article/powering-germanys-most-powerful-university-ai-supercomputer-celesticas-role-in-the-helma-project"
+  },
+  "title": "Powering Germany’s Most Powerful University AI Supercomputer: Celestica’s Role in the Helma Project",
+  "summary": "Discover how Celestica’s storage controllers power the Helma AI supercomputer at FAU, delivering world-class HPC and AI performance.",
+  "published_at": "2026-03-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:31:35.893158+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-07-28T22:04:19.499115+00:00",
+  "paths": {
+    "article": "articles/v1/ab/celestica-inc-common-stock/2026/03/26/26e533e899283727b0ce50b5663bff8cdafa4672a0ba8c62097b5e2055051c80/article.md",
+    "record": "articles/v1/ab/celestica-inc-common-stock/2026/03/26/26e533e899283727b0ce50b5663bff8cdafa4672a0ba8c62097b5e2055051c80/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5867,
+    "sha256": "sha256:d5580942aa5077ed6368a81090ce6b5b1059decab3973d151e0b8ce70bf4bd55",
+    "normalized_content_hash": "sha256:0182e940323a6063b4c92e388b2454bdac63dce231f36f4fb79fde970d8e54e1"
+  },
+  "provenance": {
+    "source_item_id": "37a963a8-201a-405d-bd41-eb48aeb33624",
+    "external_id": "https://www.celestica.com/blog/article/powering-germanys-most-powerful-university-ai-supercomputer-celesticas-role-in-the-helma-project"
+  }
+}

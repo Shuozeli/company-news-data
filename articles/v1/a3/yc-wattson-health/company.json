@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-wattson-health",
+    "name": "Wattson Health"
+  },
+  "record_count": 3,
+  "first_published_at": "2026-03-31T18:19:00+00:00",
+  "last_published_at": "2026-05-12T20:01:36.309+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ]
+}

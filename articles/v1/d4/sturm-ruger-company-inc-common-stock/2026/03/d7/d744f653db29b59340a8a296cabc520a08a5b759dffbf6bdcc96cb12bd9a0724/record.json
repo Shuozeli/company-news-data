@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d744f653db29b59340a8a296cabc520a08a5b759dffbf6bdcc96cb12bd9a0724",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-03-25a.html",
+    "canonical": "https://ruger.com/news/2026-03-25a.html"
+  },
+  "title": "Ruger Board of Directors Confirms Receipt of Beretta Letter Proposing a Partial Tender Offer That Has Not Commenced. Stockholders Do Not Need to Take Any Action At This Time",
+  "summary": "",
+  "published_at": "2026-03-25T17:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T22:17:49.677260+00:00",
+  "last_updated_at": "2026-07-28T22:18:44.981307+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/03/d7/d744f653db29b59340a8a296cabc520a08a5b759dffbf6bdcc96cb12bd9a0724/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/03/d7/d744f653db29b59340a8a296cabc520a08a5b759dffbf6bdcc96cb12bd9a0724/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7362,
+    "sha256": "sha256:986568d11abe0b9301f72d928dcd144228221b7cf544b5c6af1f23251fbd64e9",
+    "normalized_content_hash": "sha256:b710c255366063bba85c549eb969acad03245b69c64a3918c21a091b19629183"
+  },
+  "provenance": {
+    "source_item_id": "0d89d81e-8a95-4863-862f-a291b09a4417",
+    "external_id": "https://ruger.com/news/2026-03-25a.html"
+  }
+}

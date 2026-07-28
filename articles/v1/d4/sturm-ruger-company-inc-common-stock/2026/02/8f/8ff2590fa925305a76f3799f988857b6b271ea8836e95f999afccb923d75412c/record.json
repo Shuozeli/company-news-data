@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ff2590fa925305a76f3799f988857b6b271ea8836e95f999afccb923d75412c",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-02-23.html",
+    "canonical": "https://ruger.com/news/2026-02-23.html"
+  },
+  "title": "Ruger Advances Multi-Year Board Refreshment Strategy with Appointment of Three Independent Directors",
+  "summary": "",
+  "published_at": "2026-02-23T08:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T22:19:22.533448+00:00",
+  "last_updated_at": "2026-07-28T22:22:22.554284+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/02/8f/8ff2590fa925305a76f3799f988857b6b271ea8836e95f999afccb923d75412c/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/02/8f/8ff2590fa925305a76f3799f988857b6b271ea8836e95f999afccb923d75412c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8383,
+    "sha256": "sha256:2338cccc2346a952207f8f95b53783735ba6c2e6d892894e103bb53f3378560e",
+    "normalized_content_hash": "sha256:1034ff3c9566b259a7fccef51939bd507903070fc422f634cf33db17e0c67f19"
+  },
+  "provenance": {
+    "source_item_id": "10c40918-6eb2-4f90-9e2b-a55723b664e6",
+    "external_id": "https://ruger.com/news/2026-02-23.html"
+  }
+}

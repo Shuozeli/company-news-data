@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b54e38e1619e74aeac71d123d1e924e5ea9a9bf7cf1035dfeca2c2fc2dddedcf",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-03-24.html",
+    "canonical": "https://ruger.com/news/2026-03-24.html"
+  },
+  "title": "Ruger Launches Dedicated Shareholder Website Hosting Important Information Relating to the 2026 Annual Meeting Encourages shareholders to visit ruger.com/proxy2026",
+  "summary": "",
+  "published_at": "2026-03-24T08:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-28T21:26:53.067289+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/03/b5/b54e38e1619e74aeac71d123d1e924e5ea9a9bf7cf1035dfeca2c2fc2dddedcf/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/03/b5/b54e38e1619e74aeac71d123d1e924e5ea9a9bf7cf1035dfeca2c2fc2dddedcf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12041,
+    "sha256": "sha256:5a776bf9f8d6a4bacdcf1ce6645058711b325ba74e02fb91e02c81f5d3c27cb8",
+    "normalized_content_hash": "sha256:aa1e2ce102f27b0f34075d01fa72519f2a5861b431e3a54aacb78c20f09eab6f"
+  },
+  "provenance": {
+    "source_item_id": "db319249-cfda-41fb-86c8-25a13f9f4ef2",
+    "external_id": "https://ruger.com/news/2026-03-24.html"
+  }
+}

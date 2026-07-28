@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d894487cca90c03e55ee367c6d0e50ae3829ecd57a98659e198312262c736af4",
+  "company": {
+    "key": "yc-unsloth-ai",
+    "name": "Unsloth AI"
+  },
+  "source": {
+    "id": "yc-unsloth-ai-news-import-bb4a9dd43ab2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://unsloth.ai/blog/gemma-3n",
+    "canonical": "https://unsloth.ai/blog/gemma-3n"
+  },
+  "title": "Fine-tune & Run Gemma 3n",
+  "summary": "Gemma 3n, Google's new multimodal models. Fine-tune & Run them with Unsloth!",
+  "published_at": "2025-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:34:23.482806+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-07-28T22:03:12.360724+00:00",
+  "paths": {
+    "article": "articles/v1/a6/yc-unsloth-ai/2025/07/d8/d894487cca90c03e55ee367c6d0e50ae3829ecd57a98659e198312262c736af4/article.md",
+    "record": "articles/v1/a6/yc-unsloth-ai/2025/07/d8/d894487cca90c03e55ee367c6d0e50ae3829ecd57a98659e198312262c736af4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9192,
+    "sha256": "sha256:1728edd5aaff061c3921c4fa838a33225c243318028cdc700d96b76f079a6606",
+    "normalized_content_hash": "sha256:cd62e2df5a73c5c58e53aedcfc4b1649891c26b2b51e4f2dfbc3be9f5048984d"
+  },
+  "provenance": {
+    "source_item_id": "455d1e93-ba94-44ff-9755-dd733bdebb9b",
+    "external_id": "https://unsloth.ai/blog/gemma-3n"
+  }
+}

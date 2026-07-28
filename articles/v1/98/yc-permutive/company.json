@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-permutive",
+    "name": "Permutive"
+  },
+  "record_count": 2,
+  "first_published_at": "2025-10-23T00:00:06+00:00",
+  "last_published_at": "2025-11-14T10:24:53+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    }
+  ]
+}

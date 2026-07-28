@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "683e187f9899843c075c8ea408ff08276da5dfc7810f000f08b8c9a13649ee81",
+  "company": {
+    "key": "edison-international-common-stock",
+    "name": "Edison International Common Stock"
+  },
+  "source": {
+    "id": "edison-international-common-stock-rss-b5fde819719b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://newsroom.edison.com/edison-for-the-record/recent-eaton-fire-media-coverage-what-the-los-angeles-times-and-others-have-missed",
+    "canonical": "http://newsroom.edison.com/edison-for-the-record/recent-eaton-fire-media-coverage-what-the-los-angeles-times-and-others-have-missed"
+  },
+  "title": "Recent Eaton Fire Media Coverage: What the Los Angeles Times and Others Have Missed",
+  "summary": "With its most recent article on June 9, 2026, the Los Angeles Times continues to do a disservice to its readers and our community. The ...",
+  "published_at": "2026-06-10T20:46:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:58.102003+00:00",
+  "fetched_at": "2026-07-28T20:49:15.049109+00:00",
+  "last_updated_at": "2026-07-28T22:01:02.975011+00:00",
+  "paths": {
+    "article": "articles/v1/3a/edison-international-common-stock/2026/06/68/683e187f9899843c075c8ea408ff08276da5dfc7810f000f08b8c9a13649ee81/article.md",
+    "record": "articles/v1/3a/edison-international-common-stock/2026/06/68/683e187f9899843c075c8ea408ff08276da5dfc7810f000f08b8c9a13649ee81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5098,
+    "sha256": "sha256:78e3e88d9ccc9fca6cefe96e8a9096a612920b57f890fb8868d065f503742ec3",
+    "normalized_content_hash": "sha256:84b8a9378ef00d114d9a8ab740b1df10f546f2e18db164cd58fb8e4bfbfcba57"
+  },
+  "provenance": {
+    "source_item_id": "3886b26e-9651-4f5f-8912-adb05e8ade87",
+    "external_id": "http://newsroom.edison.com/edison-for-the-record/recent-eaton-fire-media-coverage-what-the-los-angeles-times-and-others-have-missed"
+  }
+}

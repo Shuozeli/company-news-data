@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65691c39a6f394b4e52137b64ba1900e0c61d8a7a79c1ced3d5873a7c0700890",
+  "company": {
+    "key": "yc-rulebase",
+    "name": "Rulebase"
+  },
+  "source": {
+    "id": "yc-rulebase-news-import-5f972e055457",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rulebase.co/media/rulebase-launches-ai-revenue-agents",
+    "canonical": "https://www.rulebase.co/media/rulebase-launches-ai-revenue-agents"
+  },
+  "title": "Rulebase launches AI Revenue Agents for financial services",
+  "summary": "Rulebase launches the Revenue Agent for financial services: every stalled account gets a durable task and an agent that owns it until the customer converts — driving 3x faster activation and a 120% lift in recovered accounts.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:23:50.810486+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:04.905212+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-rulebase/2026/07/65/65691c39a6f394b4e52137b64ba1900e0c61d8a7a79c1ced3d5873a7c0700890/article.md",
+    "record": "articles/v1/ec/yc-rulebase/2026/07/65/65691c39a6f394b4e52137b64ba1900e0c61d8a7a79c1ced3d5873a7c0700890/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2985,
+    "sha256": "sha256:422b4a07fda2735dd762a5c3f5e32748efd78755172c00e4b407b5c1543846ce",
+    "normalized_content_hash": "sha256:bc90dee3073645a01d28d8519049e2223099b98eae474a3c3f669eaaef46f3c7"
+  },
+  "provenance": {
+    "source_item_id": "6c16ea5f-abef-4e8e-9cd2-8857cab0711b",
+    "external_id": "https://www.rulebase.co/media/rulebase-launches-ai-revenue-agents"
+  }
+}

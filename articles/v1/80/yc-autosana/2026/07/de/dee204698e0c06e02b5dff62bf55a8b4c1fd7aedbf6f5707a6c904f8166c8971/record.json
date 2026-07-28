@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dee204698e0c06e02b5dff62bf55a8b4c1fd7aedbf6f5707a6c904f8166c8971",
+  "company": {
+    "key": "yc-autosana",
+    "name": "Autosana"
+  },
+  "source": {
+    "id": "yc-autosana-news-import-ffdc10c70484",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://autosana.ai/blogs/gobi-case-study",
+    "canonical": "https://autosana.ai/blogs/gobi-case-study"
+  },
+  "title": "'It's Like a Human Is Using Your App': How Gobi Replaced Maestro with Agentic Testing",
+  "summary": "How Tyler Becks, CTO and co-founder of Gobi, went from thirteen brittle Maestro tests to 30+ agentic Autosana flows — and told a room full of React Native engineers to rethink how they test.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:47:45.975311+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:22:58.484938+00:00",
+  "paths": {
+    "article": "articles/v1/80/yc-autosana/2026/07/de/dee204698e0c06e02b5dff62bf55a8b4c1fd7aedbf6f5707a6c904f8166c8971/article.md",
+    "record": "articles/v1/80/yc-autosana/2026/07/de/dee204698e0c06e02b5dff62bf55a8b4c1fd7aedbf6f5707a6c904f8166c8971/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11194,
+    "sha256": "sha256:0381f347949f97e1d77bfb87167658154d71ffccba0d1c4d5f57d484005cebeb",
+    "normalized_content_hash": "sha256:1ffc844a619d37017aedf35e3d966f5034ed3c5d4a0b73a3da5a54a855486aea"
+  },
+  "provenance": {
+    "source_item_id": "63bae028-8aaf-47e0-b503-90ba9c37fbe6",
+    "external_id": "https://autosana.ai/blogs/gobi-case-study"
+  }
+}

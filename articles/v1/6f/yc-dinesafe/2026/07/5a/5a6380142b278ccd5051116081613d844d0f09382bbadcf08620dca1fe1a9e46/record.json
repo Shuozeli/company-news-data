@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5a6380142b278ccd5051116081613d844d0f09382bbadcf08620dca1fe1a9e46",
+  "company": {
+    "key": "yc-dinesafe",
+    "name": "Dinesafe"
+  },
+  "source": {
+    "id": "yc-dinesafe-news-import-07d65e1cf124",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iwaspoisoned.com/news/iwaspoisoned-to-speak-at-the-130th-afdo-annual-educational-conference",
+    "canonical": "https://iwaspoisoned.com/news/iwaspoisoned-to-speak-at-the-130th-afdo-annual-educational-conference"
+  },
+  "title": "Iwaspoisoned to Speak at the 130th AFDO Annual Educational Conference",
+  "summary": "We collect and share reports with consumers, public health and restaurants. Protect friends, family & help restaurants. If you got food poisoning report it now!",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T07:41:46.778872+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:52.062654+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-dinesafe/2026/07/5a/5a6380142b278ccd5051116081613d844d0f09382bbadcf08620dca1fe1a9e46/article.md",
+    "record": "articles/v1/6f/yc-dinesafe/2026/07/5a/5a6380142b278ccd5051116081613d844d0f09382bbadcf08620dca1fe1a9e46/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4092,
+    "sha256": "sha256:149d42d49d4d96a17ef00fb14bfefcdc7f607181e01df002d6ec1959cd01ce1e",
+    "normalized_content_hash": "sha256:210d876012a279bf36bc42d75c11760c66357dbcc52c3a87402de45d2dcab430"
+  },
+  "provenance": {
+    "source_item_id": "b55b4b16-2a0c-4a49-b4f5-ec812e967974",
+    "external_id": "https://iwaspoisoned.com/news/iwaspoisoned-to-speak-at-the-130th-afdo-annual-educational-conference"
+  }
+}

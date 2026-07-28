@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0ca5b153148d67b8827839b9b8f2af9799b85ad2d1dd285c9420194d84c599d8",
+  "company": {
+    "key": "qiagen-n-v-common-shares",
+    "name": "Qiagen N.V. Common Shares"
+  },
+  "source": {
+    "id": "qiagen-n-v-common-shares-news-import-3382321b7330",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://digitalinsights.qiagen.com/news/blog/clinical/cosmic-v104-and-actionability-v20-now-available/",
+    "canonical": "https://digitalinsights.qiagen.com/news/blog/clinical/cosmic-v104-and-actionability-v20-now-available/"
+  },
+  "title": "COSMIC v104 and Actionability v20 now available",
+  "summary": "The latest COSMIC v104 and Actionability v20 release adds millions of new genomic variants, enabling users to fully contextualize variants",
+  "published_at": "2026-05-18T22:23:18+00:00",
+  "first_seen_at": "2026-07-25T20:20:54.342051+00:00",
+  "fetched_at": "2026-07-27T23:07:36.305258+00:00",
+  "last_updated_at": "2026-07-27T23:07:39.778983+00:00",
+  "paths": {
+    "article": "articles/v1/2f/qiagen-n-v-common-shares/2026/05/0c/0ca5b153148d67b8827839b9b8f2af9799b85ad2d1dd285c9420194d84c599d8/article.md",
+    "record": "articles/v1/2f/qiagen-n-v-common-shares/2026/05/0c/0ca5b153148d67b8827839b9b8f2af9799b85ad2d1dd285c9420194d84c599d8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2465,
+    "sha256": "sha256:3dfc59f42cd7abe9e3d8316f1449e1f2ed43f53130bd1b91c274a6bfd14b9440",
+    "normalized_content_hash": "sha256:2b409b6f23ddce1367a4c471ffe69855cf43c82b4ff4ba30e0fb21b9566884fe"
+  },
+  "provenance": {
+    "source_item_id": "c0d6da18-cf55-4b28-9173-bac7068bc382",
+    "external_id": "https://digitalinsights.qiagen.com/news/blog/clinical/cosmic-v104-and-actionability-v20-now-available/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "efc7d6d6be07953eedcb8fcc2238d4ade017a08979c4de5fe62beac138d4adf2",
+  "company": {
+    "key": "galaxy-digital-inc-class-a-common-stock",
+    "name": "Galaxy Digital Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "galaxy-digital-inc-class-a-common-stock-news-import-fbc635ef0517",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.galaxy.com/insights/research/anthropic-fable-5-export-controls-crypto-ai-decentralized-training",
+    "canonical": "https://www.galaxy.com/insights/research/anthropic-fable-5-export-controls-crypto-ai-decentralized-training"
+  },
+  "title": "Anthropic’s Clash With Trump Administration Strengthens Case for ‘Crypto x AI’",
+  "summary": "The Fable 5 fracas shows that access to a closed frontier model can be revoked by a third party who isn't the buyer, in hours, without recourse. These are the conditions decentralized AI projects are building for.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T06:07:02.932709+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:52.030992+00:00",
+  "paths": {
+    "article": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/ef/efc7d6d6be07953eedcb8fcc2238d4ade017a08979c4de5fe62beac138d4adf2/article.md",
+    "record": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/ef/efc7d6d6be07953eedcb8fcc2238d4ade017a08979c4de5fe62beac138d4adf2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21006,
+    "sha256": "sha256:c857847cdbd68e4d602f49634b66f648d9321328010faf3fae132f4d2589a3c6",
+    "normalized_content_hash": "sha256:b4a209bb4c80f24b6ca77c4ccf8c5252e4b827a3446927f25e420c0119d6edc4"
+  },
+  "provenance": {
+    "source_item_id": "cd5a01b9-171b-4db8-b249-2e638a10f2f9",
+    "external_id": "https://www.galaxy.com/insights/research/anthropic-fable-5-export-controls-crypto-ai-decentralized-training"
+  }
+}

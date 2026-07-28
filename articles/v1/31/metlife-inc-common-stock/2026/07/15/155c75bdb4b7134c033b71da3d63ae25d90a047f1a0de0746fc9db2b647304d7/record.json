@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "155c75bdb4b7134c033b71da3d63ae25d90a047f1a0de0746fc9db2b647304d7",
+  "company": {
+    "key": "metlife-inc-common-stock",
+    "name": "MetLife Inc. Common Stock"
+  },
+  "source": {
+    "id": "metlife-inc-common-stock-news-import-8088c5b29d1d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investments.metlife.com/insights/real-estate/selecting-multifamily-markets-for-the-next-cycle/",
+    "canonical": "https://investments.metlife.com/insights/real-estate/selecting-multifamily-markets-for-the-next-cycle/"
+  },
+  "title": "Selecting Multifamily Markets for the Next Cycle",
+  "summary": "Selecting Multifamily Markets for the Next Cycle",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T14:58:26.200392+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:27.272136+00:00",
+  "paths": {
+    "article": "articles/v1/31/metlife-inc-common-stock/2026/07/15/155c75bdb4b7134c033b71da3d63ae25d90a047f1a0de0746fc9db2b647304d7/article.md",
+    "record": "articles/v1/31/metlife-inc-common-stock/2026/07/15/155c75bdb4b7134c033b71da3d63ae25d90a047f1a0de0746fc9db2b647304d7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19134,
+    "sha256": "sha256:21df28f79c8c28f5e7636f21ac15f77c080bfc8334689f713ddf37e8c9f0a0b1",
+    "normalized_content_hash": "sha256:3bbfc49596c6b503fb8620321f72776889f5bdca2f8ee06b88fb75f1e2a6ed48"
+  },
+  "provenance": {
+    "source_item_id": "2f9aa05e-2772-4607-92e3-40bb2140d3e3",
+    "external_id": "https://investments.metlife.com/insights/real-estate/selecting-multifamily-markets-for-the-next-cycle/"
+  }
+}

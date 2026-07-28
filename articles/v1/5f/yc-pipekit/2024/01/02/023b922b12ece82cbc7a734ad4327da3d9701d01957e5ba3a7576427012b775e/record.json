@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "023b922b12ece82cbc7a734ad4327da3d9701d01957e5ba3a7576427012b775e",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/clean-up-pods-save-logs-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/clean-up-pods-save-logs-argo-workflows"
+  },
+  "title": "How to Clean Up Pods and Save Logs with Argo Workflows",
+  "summary": "Discover effective garbage collection strategies to clean up Kubernetes pods and save logs in Argo Workflows that help maximize your cluster's performance.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.160355+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/02/023b922b12ece82cbc7a734ad4327da3d9701d01957e5ba3a7576427012b775e/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/02/023b922b12ece82cbc7a734ad4327da3d9701d01957e5ba3a7576427012b775e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9034,
+    "sha256": "sha256:f2006dbeaecd454460bc8b5ee7c464d84367c8dbbbd25516792c9c23e561f8b6",
+    "normalized_content_hash": "sha256:fa3ec1e25c136da3f62eee2158cb0d8d1d6806da7e835e0476687a6fa69e46b1"
+  },
+  "provenance": {
+    "source_item_id": "6f7b8a8b-d985-4ac6-af20-dfe01457b492",
+    "external_id": "https://homepage.pipekit.io/blog/clean-up-pods-save-logs-argo-workflows"
+  }
+}

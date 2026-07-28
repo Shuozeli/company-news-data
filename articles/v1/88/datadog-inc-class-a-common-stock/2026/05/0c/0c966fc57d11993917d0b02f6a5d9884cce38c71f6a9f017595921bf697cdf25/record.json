@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c966fc57d11993917d0b02f6a5d9884cce38c71f6a9f017595921bf697cdf25",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/deploy-kubernetes-autoscaling-at-scale/",
+    "canonical": "https://www.datadoghq.com/blog/deploy-kubernetes-autoscaling-at-scale/"
+  },
+  "title": "Deploy Datadog Kubernetes Autoscaling at scale",
+  "summary": "Learn how Datadog Kubernetes Autoscaling enables fleet-wide rightsizing with in-app setup, GitOps cluster profiles, and AI-assisted PRs.",
+  "published_at": "2026-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-07-28T21:13:14.800482+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/05/0c/0c966fc57d11993917d0b02f6a5d9884cce38c71f6a9f017595921bf697cdf25/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/05/0c/0c966fc57d11993917d0b02f6a5d9884cce38c71f6a9f017595921bf697cdf25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8399,
+    "sha256": "sha256:d485319cd04da409cf0f7ad8730a19754bf8fff6a9189f84f74dfafa3e2b15f0",
+    "normalized_content_hash": "sha256:d347c0196f6c0c8e25b9ff64ff28fbe7c4d3fcc6c327ccf29aad722ce3967a44"
+  },
+  "provenance": {
+    "source_item_id": "d151a67e-5d2f-4b19-821e-e8ea6c05e6b8",
+    "external_id": "https://www.datadoghq.com/blog/deploy-kubernetes-autoscaling-at-scale/"
+  }
+}

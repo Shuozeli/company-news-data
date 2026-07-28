@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "322fb3b8f9f9187f2c2089126a1fb8b9833f6e0855a2198ad0fc6d69d075023f",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/scaling-support-with-vagrant-terraform/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/scaling-support-with-vagrant-terraform/"
+  },
+  "title": "Scaling support with Vagrant and Terraform",
+  "summary": "The Datadog Solutions Team reproduces problems that customers run into while they try using our many integrations in their own, always-unique environments.",
+  "published_at": "2017-08-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:27:25.846890+00:00",
+  "last_updated_at": "2026-07-28T22:27:30.944550+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2017/08/32/322fb3b8f9f9187f2c2089126a1fb8b9833f6e0855a2198ad0fc6d69d075023f/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2017/08/32/322fb3b8f9f9187f2c2089126a1fb8b9833f6e0855a2198ad0fc6d69d075023f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9525,
+    "sha256": "sha256:acf02263e0f2c3e3d277cc6d4554ea18d25402da1a64f12c2283ec5f2022e900",
+    "normalized_content_hash": "sha256:19efcc312c1b9cac349beb885cbbcc804d11b964854df1691ab04811a1c84948"
+  },
+  "provenance": {
+    "source_item_id": "a14a156b-1a61-4561-9aae-ca950c13cd64",
+    "external_id": "https://www.datadoghq.com/blog/engineering/scaling-support-with-vagrant-terraform/"
+  }
+}

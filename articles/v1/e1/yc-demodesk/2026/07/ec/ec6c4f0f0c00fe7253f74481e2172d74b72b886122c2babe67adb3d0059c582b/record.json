@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec6c4f0f0c00fe7253f74481e2172d74b72b886122c2babe67adb3d0059c582b",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/automated-sales-to-cs-handovers-onboarding",
+    "canonical": "https://demodesk.com/blog/automated-sales-to-cs-handovers-onboarding"
+  },
+  "title": "Automated Sales-to-CS Handovers: Onboarding That Starts With Full Context",
+  "summary": "Most churn risk starts at the sales-to-CS handover. How automated handovers move goals, promises, and stakeholder context into onboarding, without a rep writing a summary.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T00:23:23.594100+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:49.768184+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/ec/ec6c4f0f0c00fe7253f74481e2172d74b72b886122c2babe67adb3d0059c582b/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/ec/ec6c4f0f0c00fe7253f74481e2172d74b72b886122c2babe67adb3d0059c582b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5979,
+    "sha256": "sha256:ba6577cbe2d4b1246b55fba4b68a0ff6629a0bd4973a667b7a3c4d88d53f6771",
+    "normalized_content_hash": "sha256:d74c3a3a257edc846b67d703928c0bb723fab5341e0993a84f3191582bc8f4fb"
+  },
+  "provenance": {
+    "source_item_id": "df5c334f-cf51-4807-b9d5-e457178d862f",
+    "external_id": "https://demodesk.com/blog/automated-sales-to-cs-handovers-onboarding"
+  }
+}

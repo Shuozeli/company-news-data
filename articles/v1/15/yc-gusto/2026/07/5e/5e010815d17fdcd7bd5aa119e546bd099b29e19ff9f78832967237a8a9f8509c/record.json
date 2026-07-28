@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e010815d17fdcd7bd5aa119e546bd099b29e19ff9f78832967237a8a9f8509c",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-a18fb5381575",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/taxes/form-1099-nec",
+    "canonical": "https://gusto.com/resources/articles/taxes/form-1099-nec"
+  },
+  "title": "What is Form 1099-NEC?",
+  "summary": "Form 1099-NEC isn’t a new form, but it's set to replace 1099-MISC for non-employee compensation. Learn about the changes taking place for tax year 2021.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:59.033602+00:00",
+  "fetched_at": "2026-07-28T11:17:57.475842+00:00",
+  "last_updated_at": "2026-07-28T11:17:59.903420+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/5e/5e010815d17fdcd7bd5aa119e546bd099b29e19ff9f78832967237a8a9f8509c/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/5e/5e010815d17fdcd7bd5aa119e546bd099b29e19ff9f78832967237a8a9f8509c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5235,
+    "sha256": "sha256:ade148ed37639023aa2f2eabbe1f6ac13ab1270c10ef6a99a264ffb827a0352e",
+    "normalized_content_hash": "sha256:40e14efe256e7972f89d7b634a0dd43a45a003ffdaa5c6ed5cebfb8780dd91d4"
+  },
+  "provenance": {
+    "source_item_id": "84eacc63-ece7-440d-904c-256f1b3c4bfe",
+    "external_id": "https://gusto.com/resources/articles/taxes/form-1099-nec"
+  }
+}

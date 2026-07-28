@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bioaffinity-technologies-inc-common-stock",
+    "name": "bioAffinity Technologies Inc. Common Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-05-08T12:30:00+00:00",
+  "last_published_at": "2026-07-27T12:08:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

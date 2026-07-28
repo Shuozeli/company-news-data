@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "supernus-pharmaceuticals-inc-common-stock",
+    "name": "Supernus Pharmaceuticals Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-12-03T21:05:00+00:00",
+  "last_published_at": "2026-07-22T21:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

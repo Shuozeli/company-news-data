@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-nexgent",
+    "name": "NEXGENT"
+  },
+  "record_count": 30,
+  "first_published_at": "2026-03-09T00:00:00+00:00",
+  "last_published_at": "2026-06-26T18:44:12.069+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 13
+    }
+  ]
+}

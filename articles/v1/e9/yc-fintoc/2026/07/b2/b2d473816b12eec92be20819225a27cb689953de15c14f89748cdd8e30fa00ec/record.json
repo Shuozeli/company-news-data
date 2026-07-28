@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b2d473816b12eec92be20819225a27cb689953de15c14f89748cdd8e30fa00ec",
+  "company": {
+    "key": "yc-fintoc",
+    "name": "Fintoc"
+  },
+  "source": {
+    "id": "yc-fintoc-news-import-4ac2d54454f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fintoc.com/cl/blog/medios-de-pago",
+    "canonical": "https://fintoc.com/cl/blog/medios-de-pago"
+  },
+  "title": "Medios de pago",
+  "summary": "Artículos sobre Medios de pago en el blog de Fintoc.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T20:01:58.351478+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:22:00.984613+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-fintoc/2026/07/b2/b2d473816b12eec92be20819225a27cb689953de15c14f89748cdd8e30fa00ec/article.md",
+    "record": "articles/v1/e9/yc-fintoc/2026/07/b2/b2d473816b12eec92be20819225a27cb689953de15c14f89748cdd8e30fa00ec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5313,
+    "sha256": "sha256:69a5c87008b7bed71dce87089433d543e6b1bdd6e1264f429516d1bc134fa84b",
+    "normalized_content_hash": "sha256:8be1022ded845b954944b7cf2679720a1dc544c10812c46d7160dd8f1fcae510"
+  },
+  "provenance": {
+    "source_item_id": "3f89a5c9-4f81-487a-a952-4fa945af0e8c",
+    "external_id": "https://fintoc.com/cl/blog/medios-de-pago"
+  }
+}

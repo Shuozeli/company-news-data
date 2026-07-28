@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0a490c6c61f52a06a3de8f6f3be7aa46dc2bff65a6e4b66c720a0e3be417466a",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-33dd9daf8236",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/crypto-winter",
+    "canonical": "https://www.cointracker.io/blog/crypto-winter"
+  },
+  "title": "Blizzard on the blockchain: Understanding crypto winter",
+  "summary": "Crypto winters are market downturns with falling prices, low investor confidence, and slow activity. Learn what causes them and how to navigate them.",
+  "published_at": "2025-02-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:51:14.288459+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:37.580238+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2025/02/0a/0a490c6c61f52a06a3de8f6f3be7aa46dc2bff65a6e4b66c720a0e3be417466a/article.md",
+    "record": "articles/v1/57/yc-cointracker/2025/02/0a/0a490c6c61f52a06a3de8f6f3be7aa46dc2bff65a6e4b66c720a0e3be417466a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11553,
+    "sha256": "sha256:1f85b42704232a64c35f81e8cbb2c0ebd43c72e4d4a3324a7e506997777dc4e9",
+    "normalized_content_hash": "sha256:60b0915558bbced18e3408418dabdd081fdb67776594a67c7bfe1618b58fc66b"
+  },
+  "provenance": {
+    "source_item_id": "45be53bf-3757-4981-bcf3-852af2329259",
+    "external_id": "https://www.cointracker.io/blog/crypto-winter"
+  }
+}

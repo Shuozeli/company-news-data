@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b5b6707cb9c78d6faa75cc54dceb5bef37266b56d5cec41817bfad714857d8b9",
+  "company": {
+    "key": "yc-abacum",
+    "name": "Abacum"
+  },
+  "source": {
+    "id": "yc-abacum-news-import-0f3038283d34",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.abacum.ai/newsroom/abacum-achieves-built-for-netsuite-status",
+    "canonical": "https://www.abacum.ai/newsroom/abacum-achieves-built-for-netsuite-status"
+  },
+  "title": "Abacum Achieves “Built for NetSuite” Status",
+  "summary": "Abacum's new SuiteApp has achieved Built for NetSuite status, connecting NetSuite and Abacum to automate forecasting, reporting, and planning on live data.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T00:54:19.775643+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:06.030946+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-abacum/2026/07/b5/b5b6707cb9c78d6faa75cc54dceb5bef37266b56d5cec41817bfad714857d8b9/article.md",
+    "record": "articles/v1/d7/yc-abacum/2026/07/b5/b5b6707cb9c78d6faa75cc54dceb5bef37266b56d5cec41817bfad714857d8b9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4440,
+    "sha256": "sha256:4935fce3e06723da2f7ed824c9bca7d01b3a56daa0107acfc2b226abbb8f639b",
+    "normalized_content_hash": "sha256:1eb6a986f630f08f8d283a6812526cddf822d91a9987b847a59eae3e17de9eee"
+  },
+  "provenance": {
+    "source_item_id": "071ab4d2-1a48-47a1-803e-aa5869a8e87a",
+    "external_id": "https://www.abacum.ai/newsroom/abacum-achieves-built-for-netsuite-status"
+  }
+}

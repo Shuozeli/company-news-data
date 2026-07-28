@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "232fc6dc1a16c0cf749ac691c81e45b3dc934e403c1c0c064d759b3e7fe3961e",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-04-01.html",
+    "canonical": "https://ruger.com/news/2026-04-01.html"
+  },
+  "title": "Ruger Introduces Left‑Handed Models of the Ruger American Rifle Generation II",
+  "summary": "",
+  "published_at": "2026-04-01T11:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-07-28T21:57:32.432898+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/04/23/232fc6dc1a16c0cf749ac691c81e45b3dc934e403c1c0c064d759b3e7fe3961e/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/04/23/232fc6dc1a16c0cf749ac691c81e45b3dc934e403c1c0c064d759b3e7fe3961e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2769,
+    "sha256": "sha256:a08ce8b141e36db61a8a67f4cca80be79abd87a567ce70620bee41a2f063fdb1",
+    "normalized_content_hash": "sha256:49aefeec2c7caffbcb6bdb5d213bbb6a770ed7b9d989a3301f48568d576c003f"
+  },
+  "provenance": {
+    "source_item_id": "6bfaa9a7-8889-4ec9-b90b-ac12791a940e",
+    "external_id": "https://ruger.com/news/2026-04-01.html"
+  }
+}

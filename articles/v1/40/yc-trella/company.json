@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-trella",
+    "name": "Trella"
+  },
+  "record_count": 10,
+  "first_published_at": "2021-11-25T15:04:38+00:00",
+  "last_published_at": "2023-06-05T10:37:17+00:00",
+  "partitions": [
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    }
+  ]
+}

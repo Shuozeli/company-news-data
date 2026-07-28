@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-codebuff",
+    "name": "Codebuff"
+  },
+  "record_count": 9,
+  "first_published_at": "2024-12-03T00:19:51+00:00",
+  "last_published_at": "2025-09-09T07:23:52+00:00",
+  "partitions": [
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    }
+  ]
+}

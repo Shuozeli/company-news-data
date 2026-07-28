@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "25193dece75fc5c3c8533911a2827082ac92059b85e7d1d90fc1912488bff80d",
+  "company": {
+    "key": "timken-company-the-common-stock",
+    "name": "Timken Company (The) Common Stock"
+  },
+  "source": {
+    "id": "timken-company-the-common-stock-news-import-2c50bd08e8af",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.timken.com/2026-03-18-Timken-Broadens-Automated-Lubrication-Systems-Capabilities-with-Acquisition-of-Bijur-Delimon",
+    "canonical": "https://news.timken.com/2026-03-18-Timken-Broadens-Automated-Lubrication-Systems-Capabilities-with-Acquisition-of-Bijur-Delimon"
+  },
+  "title": "Timken Broadens Automated Lubrication Systems Capabilities with Acquisition of Bijur Delimon",
+  "summary": "The Timken Company (NYSE: TKR; www.timken.com), a global technology leader in engineered bearings and industrial motion, has acquired the assets and related businesses of North Carolina-based...",
+  "published_at": "2026-03-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:42:35.901021+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-28T21:26:52.365826+00:00",
+  "paths": {
+    "article": "articles/v1/21/timken-company-the-common-stock/2026/03/25/25193dece75fc5c3c8533911a2827082ac92059b85e7d1d90fc1912488bff80d/article.md",
+    "record": "articles/v1/21/timken-company-the-common-stock/2026/03/25/25193dece75fc5c3c8533911a2827082ac92059b85e7d1d90fc1912488bff80d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5652,
+    "sha256": "sha256:3d75633b09f84905e71a17c62a1951bb88a7783adc2322a16fe757217b986ad4",
+    "normalized_content_hash": "sha256:f4695fcfb9f91b0745d33495c48fbbe602f6b3e5d0438d95d11484ff10e7c761"
+  },
+  "provenance": {
+    "source_item_id": "690f68a0-bdae-418c-b6c8-7049282210df",
+    "external_id": "https://news.timken.com/2026-03-18-Timken-Broadens-Automated-Lubrication-Systems-Capabilities-with-Acquisition-of-Bijur-Delimon"
+  }
+}

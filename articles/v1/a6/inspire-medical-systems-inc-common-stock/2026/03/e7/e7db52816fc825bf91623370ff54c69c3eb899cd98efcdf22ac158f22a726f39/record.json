@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e7db52816fc825bf91623370ff54c69c3eb899cd98efcdf22ac158f22a726f39",
+  "company": {
+    "key": "inspire-medical-systems-inc-common-stock",
+    "name": "Inspire Medical Systems Inc. Common Stock"
+  },
+  "source": {
+    "id": "inspire-medical-systems-inc-common-stock-news-import-065d54e872ae",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.inspiresleep.com/en-us/blog/bus-driver-says-life-changed-after-treating-his-obstructive-sleep-apnea/",
+    "canonical": "https://www.inspiresleep.com/en-us/blog/bus-driver-says-life-changed-after-treating-his-obstructive-sleep-apnea/"
+  },
+  "title": "Bus driver says life changed after treating his obstructive sleep apnea with Inspire ® therapy",
+  "summary": "Sleep issues persisted for Michael Tandarich for several years before he found Inspire® therapy. Read his story!",
+  "published_at": "2026-03-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:05:04.457997+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:40.442279+00:00",
+  "paths": {
+    "article": "articles/v1/a6/inspire-medical-systems-inc-common-stock/2026/03/e7/e7db52816fc825bf91623370ff54c69c3eb899cd98efcdf22ac158f22a726f39/article.md",
+    "record": "articles/v1/a6/inspire-medical-systems-inc-common-stock/2026/03/e7/e7db52816fc825bf91623370ff54c69c3eb899cd98efcdf22ac158f22a726f39/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2819,
+    "sha256": "sha256:cd0bf86dfe3991cfad982b74b1e583db9ddff7fb72d70ad5f01f0f26e5043e42",
+    "normalized_content_hash": "sha256:38b52e67d3e97437fd62f661f67cab0009a56227ead001b2f705f885ee3c719d"
+  },
+  "provenance": {
+    "source_item_id": "22f51bcb-c8c7-429c-83b9-837a25d4fa0d",
+    "external_id": "https://www.inspiresleep.com/en-us/blog/bus-driver-says-life-changed-after-treating-his-obstructive-sleep-apnea/"
+  }
+}

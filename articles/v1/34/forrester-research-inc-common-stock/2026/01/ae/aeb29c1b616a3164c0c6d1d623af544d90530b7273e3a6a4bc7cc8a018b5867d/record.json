@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aeb29c1b616a3164c0c6d1d623af544d90530b7273e3a6a4bc7cc8a018b5867d",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/press-newsroom/market-watch-investors-want-more-details-on-apples-gemini-partnership/",
+    "canonical": "https://www.forrester.com/press-newsroom/market-watch-investors-want-more-details-on-apples-gemini-partnership/"
+  },
+  "title": "Market Watch – Investors Want More Details On Apple’s Gemini Partnership",
+  "summary": "MarketWatch: Vice President, Principal Analyst Thomas Husson shares how investors will likely need to wait until Apple’s Worldwide Developer Conference (WWDC) in June for more information about the tech giant’s multiyear partnership with Google to use Gemini models as the backbone for the next generation of Apple Intelligence. Read the full article here. Read more from Husson […]",
+  "published_at": "2026-01-29T11:53:29+00:00",
+  "first_seen_at": "2026-07-22T22:15:37.198406+00:00",
+  "fetched_at": "2026-07-28T22:22:56.687510+00:00",
+  "last_updated_at": "2026-07-28T22:23:14.765048+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2026/01/ae/aeb29c1b616a3164c0c6d1d623af544d90530b7273e3a6a4bc7cc8a018b5867d/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2026/01/ae/aeb29c1b616a3164c0c6d1d623af544d90530b7273e3a6a4bc7cc8a018b5867d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3749,
+    "sha256": "sha256:2596cef61eb5a32a71089ebeca3beddf59d1106b6a824ba8ea92a199f3492858",
+    "normalized_content_hash": "sha256:21c5eda4a7f462fa7d5d77f299a472c497b8204e8cb1f9daff59299c0e1848db"
+  },
+  "provenance": {
+    "source_item_id": "54e4ff82-ba1d-420f-81e8-cf57829d4c8d",
+    "external_id": "https://www.forrester.com/press-newsroom/market-watch-investors-want-more-details-on-apples-gemini-partnership/"
+  }
+}

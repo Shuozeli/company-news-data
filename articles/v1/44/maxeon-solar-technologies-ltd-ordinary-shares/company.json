@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "maxeon-solar-technologies-ltd-ordinary-shares",
+    "name": "Maxeon Solar Technologies Ltd. Ordinary Shares"
+  },
+  "record_count": 25,
+  "first_published_at": "2025-08-14T21:00:00+00:00",
+  "last_published_at": "2026-06-02T22:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    }
+  ]
+}

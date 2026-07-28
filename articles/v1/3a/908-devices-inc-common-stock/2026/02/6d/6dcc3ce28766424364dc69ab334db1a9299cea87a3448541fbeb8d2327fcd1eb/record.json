@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6dcc3ce28766424364dc69ab334db1a9299cea87a3448541fbeb8d2327fcd1eb",
+  "company": {
+    "key": "908-devices-inc-common-stock",
+    "name": "908 Devices Inc. Common Stock"
+  },
+  "source": {
+    "id": "908-devices-inc-common-stock-news-import-42d3339270d0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://908devices.com/news/908-devices-enhances-mx908-usability-and-adds-new-drug-targets/",
+    "canonical": "https://908devices.com/news/908-devices-enhances-mx908-usability-and-adds-new-drug-targets/"
+  },
+  "title": "908 Devices Enhances MX908 Usability and Adds New Drug Targets",
+  "summary": "New mission mode provides simpler and more intuitive sampling of hazardous vapors BURLINGTON, Mass.–(BUSINESS WIRE)– 908 Devices Inc. (Nasdaq: MASS), a pioneer of purpose-built handheld devices for chemical analysis, announces new capabilities for its handheld MX908 mass spectrometry device for trace chemical identification. These enhancements include an updated mission mode for hazardous vapor sampling and […]",
+  "published_at": "2026-02-05T12:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:18:26.234159+00:00",
+  "fetched_at": "2026-07-28T22:21:35.013216+00:00",
+  "last_updated_at": "2026-07-28T22:23:02.080224+00:00",
+  "paths": {
+    "article": "articles/v1/3a/908-devices-inc-common-stock/2026/02/6d/6dcc3ce28766424364dc69ab334db1a9299cea87a3448541fbeb8d2327fcd1eb/article.md",
+    "record": "articles/v1/3a/908-devices-inc-common-stock/2026/02/6d/6dcc3ce28766424364dc69ab334db1a9299cea87a3448541fbeb8d2327fcd1eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8114,
+    "sha256": "sha256:5781722762c7219578d2820b16fc186070a81990f047a69888838b984caa45b0",
+    "normalized_content_hash": "sha256:917848bcd90ffdcef8396c83fdd6fb0989573cdf10766579f315b573977619b9"
+  },
+  "provenance": {
+    "source_item_id": "2ed800c6-4724-4ba7-a38f-3a8735267038",
+    "external_id": "https://908devices.com/news/908-devices-enhances-mx908-usability-and-adds-new-drug-targets/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "gigcapital7-corp-unit",
+    "name": "GigCapital7 Corp. Unit"
+  },
+  "record_count": 14,
+  "first_published_at": "2020-02-25T04:00:32+00:00",
+  "last_published_at": "2024-09-10T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2020-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 2
+    }
+  ]
+}

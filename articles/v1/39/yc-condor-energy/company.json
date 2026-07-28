@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-condor-energy",
+    "name": "Condor Energy"
+  },
+  "record_count": 17,
+  "first_published_at": "2002-03-30T02:41:31+00:00",
+  "last_published_at": "2026-07-13T14:07:29+00:00",
+  "partitions": [
+    {
+      "partition": "2002-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2003-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2005-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

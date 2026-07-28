@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e736d2f74dc30330edb68aab18ee0b523c0511546d875f8e50dab395daefee5",
+  "company": {
+    "key": "ttec-holdings-inc-common-stock",
+    "name": "TTEC Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttec-holdings-inc-common-stock-news-import-09d3aab661b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttecdigital.com/news/ttec-digital-awarded-verint-public-sector-partner-of-the-year",
+    "canonical": "https://www.ttecdigital.com/news/ttec-digital-awarded-verint-public-sector-partner-of-the-year"
+  },
+  "title": "TTEC Digital awarded Verint Public Sector Partner of the Year",
+  "summary": "TTEC Digital was awarded the Verint Public Sector Partner of the Year at Engage 2026.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:51:38.265268+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-28T21:46:29.635476+00:00",
+  "paths": {
+    "article": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/06/3e/3e736d2f74dc30330edb68aab18ee0b523c0511546d875f8e50dab395daefee5/article.md",
+    "record": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/06/3e/3e736d2f74dc30330edb68aab18ee0b523c0511546d875f8e50dab395daefee5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1572,
+    "sha256": "sha256:5e1a7f3c470f2d472dce240f451c2b368500372f5af479dab9fbe4cedd14c665",
+    "normalized_content_hash": "sha256:dbcf47f2eec149ff1be8bf0bb543ea8ae687b1d5b88983a53735816adfd6b511"
+  },
+  "provenance": {
+    "source_item_id": "a7bf4672-ef74-46cf-b4d2-8632e7880441",
+    "external_id": "https://www.ttecdigital.com/news/ttec-digital-awarded-verint-public-sector-partner-of-the-year"
+  }
+}

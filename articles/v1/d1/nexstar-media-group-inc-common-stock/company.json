@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nexstar-media-group-inc-common-stock",
+    "name": "Nexstar Media Group Inc. Common Stock"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-06-30T14:59:09+00:00",
+  "last_published_at": "2026-07-23T14:01:07+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ]
+}

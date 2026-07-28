@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-tenjin",
+    "name": "Tenjin"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-06-04T09:24:19+00:00",
+  "last_published_at": "2026-07-21T00:52:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

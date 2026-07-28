@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a32b8e6f05fd28292de34d1549cdd873568c9ef862fcd5f6573ef33025be176",
+  "company": {
+    "key": "xcel-brands-inc-common-stock",
+    "name": "Xcel Brands Inc. Common Stock"
+  },
+  "source": {
+    "id": "xcel-brands-inc-common-stock-news-import-2fc797a26bc6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.investing.com/news/assorted/xcel-brands-signs-kbl-group-as-production-partner-for-coco-rocha-label-432SI-4776850",
+    "canonical": "https://www.investing.com/news/assorted/xcel-brands-signs-kbl-group-as-production-partner-for-coco-rocha-label-432SI-4776850"
+  },
+  "title": "Xcel Brands signs KBL Group as production partner for Coco Rocha label",
+  "summary": "Xcel Brands signs KBL Group as production partner for Coco Rocha label",
+  "published_at": "2026-07-06T14:02:03+00:00",
+  "first_seen_at": "2026-07-27T07:18:53.920178+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:10.583057+00:00",
+  "paths": {
+    "article": "articles/v1/26/xcel-brands-inc-common-stock/2026/07/3a/3a32b8e6f05fd28292de34d1549cdd873568c9ef862fcd5f6573ef33025be176/article.md",
+    "record": "articles/v1/26/xcel-brands-inc-common-stock/2026/07/3a/3a32b8e6f05fd28292de34d1549cdd873568c9ef862fcd5f6573ef33025be176/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1944,
+    "sha256": "sha256:cfbf48a296b969af7bb24bbff1aca110dacab4664efe99a0e38762050aaabbc2",
+    "normalized_content_hash": "sha256:902e8ebf3a0860f421539e92542583dc58e80d27fc4564d39101a65298c70d59"
+  },
+  "provenance": {
+    "source_item_id": "f21ff444-b791-47d4-bd19-2e05fe5190e8",
+    "external_id": "https://www.investing.com/news/assorted/xcel-brands-signs-kbl-group-as-production-partner-for-coco-rocha-label-432SI-4776850"
+  }
+}

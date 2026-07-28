@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01bd5c3e0770543bc9a83ec45b1eacc656b3a3da183b8aa494283d526c1393f6",
+  "company": {
+    "key": "yc-dinesafe",
+    "name": "Dinesafe"
+  },
+  "source": {
+    "id": "yc-dinesafe-news-import-07d65e1cf124",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iwaspoisoned.com/news/iwaspoisoned-attends-the-new-food-webinar-food-tech-digital-transformation-ai",
+    "canonical": "https://iwaspoisoned.com/news/iwaspoisoned-attends-the-new-food-webinar-food-tech-digital-transformation-ai"
+  },
+  "title": "IWaspoisoned Attends the New Food Webinar: Food Tech, Digital Transformation & AI",
+  "summary": "We collect and share reports with consumers, public health and restaurants. Protect friends, family & help restaurants. If you got food poisoning report it now!",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T07:41:46.778872+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:48.530602+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-dinesafe/2026/07/01/01bd5c3e0770543bc9a83ec45b1eacc656b3a3da183b8aa494283d526c1393f6/article.md",
+    "record": "articles/v1/6f/yc-dinesafe/2026/07/01/01bd5c3e0770543bc9a83ec45b1eacc656b3a3da183b8aa494283d526c1393f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4675,
+    "sha256": "sha256:9638298f13c498adf270ea8e7444a94779dbe6624050899bdc86788c3c0a446a",
+    "normalized_content_hash": "sha256:781c82fe92c1a45ef282c958f5c2dd30166f038da042d1576a10253e2ae86b7f"
+  },
+  "provenance": {
+    "source_item_id": "fd160b3c-e23c-4699-aac2-331efd0c7dc7",
+    "external_id": "https://iwaspoisoned.com/news/iwaspoisoned-attends-the-new-food-webinar-food-tech-digital-transformation-ai"
+  }
+}

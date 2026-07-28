@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "trio-tech-international-common-stock",
+    "name": "Trio-Tech International Common Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2023-02-17T02:37:07+00:00",
+  "last_published_at": "2025-07-17T09:07:59+00:00",
+  "partitions": [
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 10
+    }
+  ]
+}

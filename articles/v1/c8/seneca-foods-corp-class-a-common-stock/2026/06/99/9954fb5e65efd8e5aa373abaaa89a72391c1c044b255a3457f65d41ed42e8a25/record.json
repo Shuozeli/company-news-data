@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9954fb5e65efd8e5aa373abaaa89a72391c1c044b255a3457f65d41ed42e8a25",
+  "company": {
+    "key": "seneca-foods-corp-class-a-common-stock",
+    "name": "Seneca Foods Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "seneca-foods-corp-class-a-common-stock-rss-dd5d61c574ed",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.senecafoods.com/sec-filing/11k",
+    "canonical": "https://www.senecafoods.com/sec-filing/11k"
+  },
+  "title": "11K",
+  "summary": "11K sfcadmin Fri, 06/26/2026 - 16:13 Filing date Fri, 06/26/2026 - 16:10 PDF document Form 11-K as filed.pdf XBRL documents senea-20251231.xsd senea-20251231_def.xml senea-20251231_lab.xml senea-20251231_pre.xml senea-20251231_cal.xml senea20251231_11k_htm.xml URL to View Documents https://www.sec.gov/Archives/edgar/data/88948/000143774926021836/0001437749-26-…",
+  "published_at": "2026-06-26T20:13:39+00:00",
+  "first_seen_at": "2026-07-20T23:22:26.267179+00:00",
+  "fetched_at": "2026-07-28T20:40:03.821553+00:00",
+  "last_updated_at": "2026-07-28T20:40:03.868224+00:00",
+  "paths": {
+    "article": "articles/v1/c8/seneca-foods-corp-class-a-common-stock/2026/06/99/9954fb5e65efd8e5aa373abaaa89a72391c1c044b255a3457f65d41ed42e8a25/article.md",
+    "record": "articles/v1/c8/seneca-foods-corp-class-a-common-stock/2026/06/99/9954fb5e65efd8e5aa373abaaa89a72391c1c044b255a3457f65d41ed42e8a25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1910,
+    "sha256": "sha256:dd43fff6261f6f8bae873aecab6d14d7c7467bb173fe9f5c5017cbb033956703",
+    "normalized_content_hash": "sha256:f84a812f75d45f172626eb7b2b6650877dc5f21811c415becf8536739c9af263"
+  },
+  "provenance": {
+    "source_item_id": "92ac6cc4-9893-46a6-b107-3b0d37180021",
+    "external_id": "3526 at https://www.senecafoods.com"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-oto",
+    "name": "Oto"
+  },
+  "record_count": 28,
+  "first_published_at": "2021-02-15T00:00:00+00:00",
+  "last_published_at": "2023-11-29T11:31:01+00:00",
+  "partitions": [
+    {
+      "partition": "2021-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 12
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 5
+    }
+  ]
+}

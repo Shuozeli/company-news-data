@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0bb6524a9288f52e220c49dda42e2595d7c201079c193983e182c12b5b05833a",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-use-ai-chat-to-analyze-meeting-transcripts-and-generate-cust",
+    "canonical": "https://demodesk.com/blog/how-to-use-ai-chat-to-analyze-meeting-transcripts-and-generate-cust"
+  },
+  "title": "How to use AI chat to analyze meeting transcripts and generate custom summaries with Demodesk",
+  "summary": "Learn how to use Demodesk's AI chat to query meeting transcripts, adjust follow-up tone, and apply summary templates for different meeting types.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.694083+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/0b/0bb6524a9288f52e220c49dda42e2595d7c201079c193983e182c12b5b05833a/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/0b/0bb6524a9288f52e220c49dda42e2595d7c201079c193983e182c12b5b05833a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5933,
+    "sha256": "sha256:e5c9843b51a62da6d376b82518e743780b3acc7ddb5e8fd990cb6f3ffca11e5c",
+    "normalized_content_hash": "sha256:fc235d5adf261a48b00008cbd27cacdb0d17b235e8581c80c9b700f69dc4c1c2"
+  },
+  "provenance": {
+    "source_item_id": "f227882e-9640-48a4-80a5-dcf38c357f56",
+    "external_id": "https://demodesk.com/blog/how-to-use-ai-chat-to-analyze-meeting-transcripts-and-generate-cust"
+  }
+}

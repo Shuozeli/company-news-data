@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d381ad93dd392d3de2113ef09132e69ecfcb306552c9cc96153bfde7adef9e90",
+  "company": {
+    "key": "yc-mendral",
+    "name": "Mendral"
+  },
+  "source": {
+    "id": "yc-mendral-rss-072a653cc5a9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mendral.com/blog/ci-at-scale",
+    "canonical": "https://mendral.com/blog/ci-at-scale"
+  },
+  "title": "What CI Actually Looks Like at a 100-Person Team",
+  "summary": "575K CI jobs, 1.18 billion log lines, 33 million test executions in one week. What we learned building an AI agent for PostHog's CI at scale.",
+  "published_at": "2026-02-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:14.422858+00:00",
+  "fetched_at": "2026-07-28T22:21:08.932956+00:00",
+  "last_updated_at": "2026-07-28T22:21:22.753691+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-mendral/2026/02/d3/d381ad93dd392d3de2113ef09132e69ecfcb306552c9cc96153bfde7adef9e90/article.md",
+    "record": "articles/v1/cc/yc-mendral/2026/02/d3/d381ad93dd392d3de2113ef09132e69ecfcb306552c9cc96153bfde7adef9e90/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6882,
+    "sha256": "sha256:7cec7de3ca890dfbb3d964bf9bd9251f9c4172f4c2ba4ec5269905ba37ce2db0",
+    "normalized_content_hash": "sha256:a69a666efd534f79476ff7a976ceeaa0077c2cf5b3196e8f6a6fd7f38bdde733"
+  },
+  "provenance": {
+    "source_item_id": "1ccf8309-8a03-4313-8353-ba63a219af91",
+    "external_id": "https://mendral.com/blog/ci-at-scale"
+  }
+}

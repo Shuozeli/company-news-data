@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c725124e37191f636506f0655a260280bc23a495661300be6faa3c927c3b55a3",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-ac8b67a28768",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/pet-blog/article/dog-in-hot-car",
+    "canonical": "https://www.trupanion.com/pet-blog/article/dog-in-hot-car"
+  },
+  "title": "Please Don’t Leave Your Dog in the Car this Summer: 5 Reasons It’s Unsafe",
+  "summary": "As you prepare for a summer of fun with your passenger pup, don’t forget the dangers of dogs in hot cars. Can you leave a dog in the car safely? Find out!",
+  "published_at": "2025-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:24.686679+00:00",
+  "fetched_at": "2026-07-28T17:37:59.572099+00:00",
+  "last_updated_at": "2026-07-28T17:38:05.511406+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2025/06/c7/c725124e37191f636506f0655a260280bc23a495661300be6faa3c927c3b55a3/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2025/06/c7/c725124e37191f636506f0655a260280bc23a495661300be6faa3c927c3b55a3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11280,
+    "sha256": "sha256:48dcd0ca4861f873e45fb354d98782dd784261ecf874b7e1702ee35ec1cbdd0c",
+    "normalized_content_hash": "sha256:afabe4ae77d382c9662b2cf0d983c6490d621c6678e3aedcff9713ec0592b4e9"
+  },
+  "provenance": {
+    "source_item_id": "2664c228-a187-4014-a340-728d2e105053",
+    "external_id": "https://www.trupanion.com/pet-blog/article/dog-in-hot-car"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "whitefiber-inc-ordinary-shares",
+    "name": "WhiteFiber Inc. Ordinary Shares"
+  },
+  "record_count": 21,
+  "first_published_at": "2026-06-02T00:00:00+00:00",
+  "last_published_at": "2026-07-27T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 18
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

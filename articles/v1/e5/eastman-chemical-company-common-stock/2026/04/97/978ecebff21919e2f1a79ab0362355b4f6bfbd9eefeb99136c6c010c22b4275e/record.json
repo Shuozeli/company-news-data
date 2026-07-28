@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "978ecebff21919e2f1a79ab0362355b4f6bfbd9eefeb99136c6c010c22b4275e",
+  "company": {
+    "key": "eastman-chemical-company-common-stock",
+    "name": "Eastman Chemical Company Common Stock"
+  },
+  "source": {
+    "id": "eastman-chemical-company-common-stock-news-import-8dd1e0c63b7c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eastman.com/en/media-center/news-stories/2026/eastman-increases-amines-prices-may-1-2026",
+    "canonical": "https://www.eastman.com/en/media-center/news-stories/2026/eastman-increases-amines-prices-may-1-2026"
+  },
+  "title": "Eastman Increases Amines Prices on May 1, 2026",
+  "summary": "Effective May 1, 2026, or as contracts allow, Eastman Chemical Company will increase prices for the following products in the Americas.",
+  "published_at": "2026-04-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T06:01:03.029056+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:24.136589+00:00",
+  "paths": {
+    "article": "articles/v1/e5/eastman-chemical-company-common-stock/2026/04/97/978ecebff21919e2f1a79ab0362355b4f6bfbd9eefeb99136c6c010c22b4275e/article.md",
+    "record": "articles/v1/e5/eastman-chemical-company-common-stock/2026/04/97/978ecebff21919e2f1a79ab0362355b4f6bfbd9eefeb99136c6c010c22b4275e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2963,
+    "sha256": "sha256:e9ac4af6b7c223c6fe9a8590d3a2c170c0a9c2c56e6810657bb64acfbb538b4c",
+    "normalized_content_hash": "sha256:924ccf7088f51a88ed430edfdabb8607df701c02c6ba0696e987d8a3e078482a"
+  },
+  "provenance": {
+    "source_item_id": "6f363486-61be-4ea6-8634-58f6185f7983",
+    "external_id": "https://www.eastman.com/en/media-center/news-stories/2026/eastman-increases-amines-prices-may-1-2026"
+  }
+}

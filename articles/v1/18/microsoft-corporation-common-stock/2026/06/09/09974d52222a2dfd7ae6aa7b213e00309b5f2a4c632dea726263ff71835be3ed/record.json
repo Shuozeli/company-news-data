@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09974d52222a2dfd7ae6aa7b213e00309b5f2a4c632dea726263ff71835be3ed",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation Common Stock"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-0d567709f64e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.microsoft.com/en-us/power-platform/blog/2026/06/04/microsoft-dataverse-plugin-unleashing-coding-agents-on-the-enterprise-microsoft-build-2026/",
+    "canonical": "https://www.microsoft.com/en-us/power-platform/blog/2026/06/04/microsoft-dataverse-plugin-unleashing-coding-agents-on-the-enterprise-microsoft-build-2026/"
+  },
+  "title": "Microsoft Dataverse Plugin: Unleashing Coding Agents on the Enterprise – Microsoft Build 2026",
+  "summary": "See how the Dataverse plugin for coding agents turns natural-language prompts into working apps, CRM operations, and enterprise security three real scenarios.",
+  "published_at": "2026-06-04T16:00:00+00:00",
+  "first_seen_at": "2026-07-20T04:34:28.280378+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-07-28T21:13:07.314056+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/06/09/09974d52222a2dfd7ae6aa7b213e00309b5f2a4c632dea726263ff71835be3ed/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/06/09/09974d52222a2dfd7ae6aa7b213e00309b5f2a4c632dea726263ff71835be3ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9147,
+    "sha256": "sha256:c09300cf172066787eeda7dc85d94e5f4b427fc32161343567c201be5d7f9e12",
+    "normalized_content_hash": "sha256:913f5b860523caa7024d5ff9b75f93bdad98b8da39154ff0fc2a5f9c703bb4f2"
+  },
+  "provenance": {
+    "source_item_id": "f9fb4459-165f-4e41-bb66-e92ef8d6f38d",
+    "external_id": "da951f00bfb4a864ae4c397c7522b0a8"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "776f42133fef77549c8a5ccdca8efee38f00f6724afe138787f7af967ede9d82",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-8892e125c773",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nullstone.io/blog-posts/how-to-dockerized-laravel-that-just-works",
+    "canonical": "https://nullstone.io/blog-posts/how-to-dockerized-laravel-that-just-works"
+  },
+  "title": "How-To: Dockerized Laravel that just works",
+  "summary": "Dockerizing Laravel for production is challenging. In this article, we provide a pattern for dockerizing Laravel that works in production and local.",
+  "published_at": "2021-09-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:17:35.365256+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:27.704046+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2021/09/77/776f42133fef77549c8a5ccdca8efee38f00f6724afe138787f7af967ede9d82/article.md",
+    "record": "articles/v1/da/yc-nullstone/2021/09/77/776f42133fef77549c8a5ccdca8efee38f00f6724afe138787f7af967ede9d82/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7905,
+    "sha256": "sha256:1e312bfeec5461f9611d223fe8d3f5fe1419d299ed80375c026e5fbf8113a549",
+    "normalized_content_hash": "sha256:3c6e9e022a4ed6cc14baab886009b3ce5ccd71083da527a6473b1fabefe9eefa"
+  },
+  "provenance": {
+    "source_item_id": "5a48aa00-f3e2-475f-bcae-26ab2bb0b8eb",
+    "external_id": "https://nullstone.io/blog-posts/how-to-dockerized-laravel-that-just-works"
+  }
+}

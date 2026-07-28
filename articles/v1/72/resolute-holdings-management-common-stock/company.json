@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "resolute-holdings-management-common-stock",
+    "name": "Resolute Holdings Management Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-02-10T08:00:00+00:00",
+  "last_published_at": "2026-05-07T11:05:23+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ]
+}

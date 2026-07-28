@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c5d586eaadaa3f18b000f924b09b34243456c2f5d3bbbf0b2aeabe40f9126948",
+  "company": {
+    "key": "yc-algotest",
+    "name": "AlgoTest"
+  },
+  "source": {
+    "id": "yc-algotest-news-import-7cc502b412f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://algotest.in/blog/margin-calculator-by-algotest/",
+    "canonical": "https://algotest.in/blog/margin-calculator-by-algotest/"
+  },
+  "title": "F&O Margin Calculator by AlgoTest",
+  "summary": "See how F&O margin is calculated, what SPAN and exposure margin mean, and how pledging can lower it. Try AlgoTest's free margin calculator instantly.",
+  "published_at": "2026-07-20T10:48:05+00:00",
+  "first_seen_at": "2026-07-25T00:56:57.418756+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:21:49.676187+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-algotest/2026/07/c5/c5d586eaadaa3f18b000f924b09b34243456c2f5d3bbbf0b2aeabe40f9126948/article.md",
+    "record": "articles/v1/0d/yc-algotest/2026/07/c5/c5d586eaadaa3f18b000f924b09b34243456c2f5d3bbbf0b2aeabe40f9126948/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15122,
+    "sha256": "sha256:b6f6f612b020ad7bc3f6af5b4a72f05f582dc7157632852823d1409cf0e7d1a1",
+    "normalized_content_hash": "sha256:bd19f7f243d0550dbebaedbd96d81c0256ab9a1828b9bc9fbd8e6c070fa464ef"
+  },
+  "provenance": {
+    "source_item_id": "973b2ff8-c1b5-4150-9659-75e16fc4bc0f",
+    "external_id": "https://algotest.in/blog/margin-calculator-by-algotest/"
+  }
+}

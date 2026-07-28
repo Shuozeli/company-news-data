@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e411a50fc28296ca08e1bf8c6d872c193424004bddbee94b8d7e89cc60a773c7",
+  "company": {
+    "key": "osi-systems-inc-common-stock-de",
+    "name": "OSI Systems Inc. Common Stock (DE)"
+  },
+  "source": {
+    "id": "osi-systems-inc-common-stock-de-news-import-9409c2dadede",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-to-support-security-screening-at-a-major-global-sporting-event",
+    "canonical": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-to-support-security-screening-at-a-major-global-sporting-event"
+  },
+  "title": "OSI Systems to Support Security Screening at a Major Global Sporting Event",
+  "summary": "",
+  "published_at": "2026-01-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T19:25:49.220370+00:00",
+  "fetched_at": "2026-07-28T22:23:03.686122+00:00",
+  "last_updated_at": "2026-07-28T22:23:13.342336+00:00",
+  "paths": {
+    "article": "articles/v1/ae/osi-systems-inc-common-stock-de/2026/01/e4/e411a50fc28296ca08e1bf8c6d872c193424004bddbee94b8d7e89cc60a773c7/article.md",
+    "record": "articles/v1/ae/osi-systems-inc-common-stock-de/2026/01/e4/e411a50fc28296ca08e1bf8c6d872c193424004bddbee94b8d7e89cc60a773c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4434,
+    "sha256": "sha256:b41084624e4aa82004b6e08a8051b262976f8ec67b6c327604182766c8ee9485",
+    "normalized_content_hash": "sha256:5ca50521ab6f5d73b858663e4bbb8f9d193329aeb2a0f2630f2736901ecbeba2"
+  },
+  "provenance": {
+    "source_item_id": "7dc4beec-5538-4baf-ac49-16897a420bed",
+    "external_id": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-to-support-security-screening-at-a-major-global-sporting-event"
+  }
+}

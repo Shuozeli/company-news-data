@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4795ffa160aec3c8293b752d66aa885890afd0cf5bd65510e8b3fd03f5eff5b2",
+  "company": {
+    "key": "amplitech-group-inc-common-stock",
+    "name": "Amplitech Group Inc. Common Stock"
+  },
+  "source": {
+    "id": "amplitech-group-inc-common-stock-news-import-6ff367679040",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.amplitechgroup.com/news/amplitech-receives-approximately-21-9-million-of-subscriptions-in-series-a-rights-offering/",
+    "canonical": "https://www.amplitechgroup.com/news/amplitech-receives-approximately-21-9-million-of-subscriptions-in-series-a-rights-offering/"
+  },
+  "title": "AmpliTech Receives Approximately $21.9 Million of Subscriptions in Series A Rights Offering",
+  "summary": "",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T09:15:42.063753+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:21:58.059089+00:00",
+  "paths": {
+    "article": "articles/v1/bd/amplitech-group-inc-common-stock/2026/07/47/4795ffa160aec3c8293b752d66aa885890afd0cf5bd65510e8b3fd03f5eff5b2/article.md",
+    "record": "articles/v1/bd/amplitech-group-inc-common-stock/2026/07/47/4795ffa160aec3c8293b752d66aa885890afd0cf5bd65510e8b3fd03f5eff5b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7453,
+    "sha256": "sha256:158d711c3b238468eaafeea4e206b9e389e2a00393f86411ea88f11fbb7be4ba",
+    "normalized_content_hash": "sha256:8a83e36cc71d1438cdf86913f0bf5f3657f491919cf7d1b9d7760ddbf261986e"
+  },
+  "provenance": {
+    "source_item_id": "a7124f05-a9f6-416f-9253-901fcb6ed3de",
+    "external_id": "https://www.amplitechgroup.com/news/amplitech-receives-approximately-21-9-million-of-subscriptions-in-series-a-rights-offering/"
+  }
+}

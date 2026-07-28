@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c555f1afef05626433a0c65ecdde1e07ece43457f319590a24d561fcb2891cf",
+  "company": {
+    "key": "csx-corporation-common-stock",
+    "name": "CSX Corporation Common Stock"
+  },
+  "source": {
+    "id": "csx-corporation-common-stock-news-import-01c0a6565714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.csx.com/index.cfm/customers/news/service-bulletins1/csx-customer-advisory-csx-monitoring-tropical-depression-bertha/",
+    "canonical": "https://www.csx.com/index.cfm/customers/news/service-bulletins1/csx-customer-advisory-csx-monitoring-tropical-depression-bertha/"
+  },
+  "title": "CSX Customer Advisory: CSX Monitoring Tropical Depression Bertha",
+  "summary": "CSX is a leading supplier of rail-based freight transportation in North America. But there's more to CSX than you might expect. Learn all about CSX and discover what we're doing for our customers, environment and communities. Visit http://www.csx.com/.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T15:15:36.546259+00:00",
+  "fetched_at": "2026-07-27T18:55:40.824095+00:00",
+  "last_updated_at": "2026-07-27T18:55:50.661701+00:00",
+  "paths": {
+    "article": "articles/v1/92/csx-corporation-common-stock/2026/07/9c/9c555f1afef05626433a0c65ecdde1e07ece43457f319590a24d561fcb2891cf/article.md",
+    "record": "articles/v1/92/csx-corporation-common-stock/2026/07/9c/9c555f1afef05626433a0c65ecdde1e07ece43457f319590a24d561fcb2891cf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2606,
+    "sha256": "sha256:0b4a50d9ed33df92db4b5cdc4ce10127a1de7a208fd31f39bef91462c5f64c0b",
+    "normalized_content_hash": "sha256:7f4c5ae9fe6c653279db89dd4832486765af4fb41a7b8e3af279d8b7870aa3cf"
+  },
+  "provenance": {
+    "source_item_id": "95a218d8-f4cb-4edd-b4f2-9dd1d343399f",
+    "external_id": "https://www.csx.com/index.cfm/customers/news/service-bulletins1/csx-customer-advisory-csx-monitoring-tropical-depression-bertha/"
+  }
+}

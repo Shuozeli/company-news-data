@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4722fbd258d596b0eb2ed44852f22e5058f5e25b3f11a1a8920e06122a78cd6f",
+  "company": {
+    "key": "devon-energy-corporation-common-stock",
+    "name": "Devon Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "devon-energy-corporation-common-stock-news-import-bcaa6d747838",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.devonenergy.com/news/2026/Devon-Energy-Enhances-Permian-Inventory-in-Federal-Lease-Sale",
+    "canonical": "https://www.devonenergy.com/news/2026/Devon-Energy-Enhances-Permian-Inventory-in-Federal-Lease-Sale"
+  },
+  "title": "Devon Energy Enhances Permian Inventory in Federal Lease Sale",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:10:36.356012+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:42:07.784807+00:00",
+  "paths": {
+    "article": "articles/v1/35/devon-energy-corporation-common-stock/2026/07/47/4722fbd258d596b0eb2ed44852f22e5058f5e25b3f11a1a8920e06122a78cd6f/article.md",
+    "record": "articles/v1/35/devon-energy-corporation-common-stock/2026/07/47/4722fbd258d596b0eb2ed44852f22e5058f5e25b3f11a1a8920e06122a78cd6f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9047,
+    "sha256": "sha256:7981c71804adfba54949df8598c0d8c4982f804bd4a11c13842f19923064f047",
+    "normalized_content_hash": "sha256:023bce541c84969febec4dc742d7d9a519a5e14cdb9f6a1de9b3b49bd7db8404"
+  },
+  "provenance": {
+    "source_item_id": "f199bc26-e9cb-495e-b306-5698ade8ae89",
+    "external_id": "https://www.devonenergy.com/news/2026/Devon-Energy-Enhances-Permian-Inventory-in-Federal-Lease-Sale"
+  }
+}

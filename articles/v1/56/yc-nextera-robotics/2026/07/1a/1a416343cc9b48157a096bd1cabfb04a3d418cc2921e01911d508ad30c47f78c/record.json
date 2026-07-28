@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1a416343cc9b48157a096bd1cabfb04a3d418cc2921e01911d508ad30c47f78c",
+  "company": {
+    "key": "yc-nextera-robotics",
+    "name": "Nextera Robotics"
+  },
+  "source": {
+    "id": "yc-nextera-robotics-news-import-e73697723118",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nexterarobotics.com/updates/site-seeing",
+    "canonical": "https://nexterarobotics.com/updates/site-seeing"
+  },
+  "title": "Nextera joins AMD at their booth at the 2024 Robotics Summit in Boston, MA",
+  "summary": "Check out some of the cool places Didge has been “site-seeing”",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T22:57:33.859366+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:47:06.320016+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-nextera-robotics/2026/07/1a/1a416343cc9b48157a096bd1cabfb04a3d418cc2921e01911d508ad30c47f78c/article.md",
+    "record": "articles/v1/56/yc-nextera-robotics/2026/07/1a/1a416343cc9b48157a096bd1cabfb04a3d418cc2921e01911d508ad30c47f78c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1121,
+    "sha256": "sha256:424e6a5962d5a701738220afa05f97ccdb987889e7a978241e6dadbc730756ea",
+    "normalized_content_hash": "sha256:64e31100129b0b49dd69a96a86f43fa706336d3a0dd5de4e262be3571ef4520b"
+  },
+  "provenance": {
+    "source_item_id": "59cab6ea-14e6-4223-8428-a8618828000e",
+    "external_id": "https://nexterarobotics.com/updates/site-seeing"
+  }
+}

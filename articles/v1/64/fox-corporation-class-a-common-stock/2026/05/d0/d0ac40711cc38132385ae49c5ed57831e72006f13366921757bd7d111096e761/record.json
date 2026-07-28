@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d0ac40711cc38132385ae49c5ed57831e72006f13366921757bd7d111096e761",
+  "company": {
+    "key": "fox-corporation-class-a-common-stock",
+    "name": "Fox Corporation Class A Common Stock"
+  },
+  "source": {
+    "id": "fox-corporation-class-a-common-stock-rss-cf8295b0f712",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-reports-third-quarter-fiscal-2026-financial-results/",
+    "canonical": "https://www.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-reports-third-quarter-fiscal-2026-financial-results/"
+  },
+  "title": "Fox Corporation Reports Third Quarter Fiscal 2026 Financial Results",
+  "summary": "NEW YORK, NY, May 11, 2026 – Fox Corporation (Nasdaq: FOXA, FOX; “FOX” or the “Company”) today reported financial results for the three months ended March 31, 2026. Click here to view the full release.",
+  "published_at": "2026-05-11T12:02:28+00:00",
+  "first_seen_at": "2026-07-20T04:35:41.142531+00:00",
+  "fetched_at": "2026-07-28T22:08:49.880649+00:00",
+  "last_updated_at": "2026-07-28T22:12:34.924298+00:00",
+  "paths": {
+    "article": "articles/v1/64/fox-corporation-class-a-common-stock/2026/05/d0/d0ac40711cc38132385ae49c5ed57831e72006f13366921757bd7d111096e761/article.md",
+    "record": "articles/v1/64/fox-corporation-class-a-common-stock/2026/05/d0/d0ac40711cc38132385ae49c5ed57831e72006f13366921757bd7d111096e761/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 999,
+    "sha256": "sha256:5112a4af5b7392be7a1eb011bf8d5714e69a4c51c40170ea03f278902eed1f83",
+    "normalized_content_hash": "sha256:6675dfd30b5d851b965d78cc7ba365beb38f939a611e968418a45d407bf57edf"
+  },
+  "provenance": {
+    "source_item_id": "4efd48b6-7be8-4431-b38d-a2b159d8e809",
+    "external_id": "https://www.foxcorporation.com/?post_type=news&p=6896"
+  }
+}

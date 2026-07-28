@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf2ec080e9026cbb8c1443921d0d9b99bdb8ede4876cbdbe969569788f63350d",
+  "company": {
+    "key": "ouster-inc-common-stock",
+    "name": "Ouster Inc. Common Stock"
+  },
+  "source": {
+    "id": "ouster-inc-common-stock-news-import-d3df9a0809e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ouster.com/insights/blog/ouster-os1-lidar-dod-approved-for-unmanned-aircraft-and-secure-government-operations",
+    "canonical": "https://ouster.com/insights/blog/ouster-os1-lidar-dod-approved-for-unmanned-aircraft-and-secure-government-operations"
+  },
+  "title": "NDAA compliant OS1 lidar for drones and unmanned aerial vehicles | Ouster",
+  "summary": "OS1 is the first high-resolution 3D lidar sensor included in the Blue UAS Framework. It offers high performance in weight, power efficiency, and reliability.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T07:54:15.828294+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-07-28T21:20:49.118633+00:00",
+  "paths": {
+    "article": "articles/v1/b1/ouster-inc-common-stock/2026/07/cf/cf2ec080e9026cbb8c1443921d0d9b99bdb8ede4876cbdbe969569788f63350d/article.md",
+    "record": "articles/v1/b1/ouster-inc-common-stock/2026/07/cf/cf2ec080e9026cbb8c1443921d0d9b99bdb8ede4876cbdbe969569788f63350d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4366,
+    "sha256": "sha256:c7e11426d5bc54bbcce66e2f8649c9912d79b3daf3f908982e44397141592488",
+    "normalized_content_hash": "sha256:b06cc4104afd29d4565f932e416a73d6fe89d3a3071586249eff5ecdb273a52a"
+  },
+  "provenance": {
+    "source_item_id": "3d1b50df-f333-4129-9877-619c8c6031be",
+    "external_id": "https://ouster.com/insights/blog/ouster-os1-lidar-dod-approved-for-unmanned-aircraft-and-secure-government-operations"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f9a5f11317aa4832de5d1986222b286c6c2b7cb910c408f336484a2906ca232",
+  "company": {
+    "key": "yc-coderhouse",
+    "name": "Coderhouse"
+  },
+  "source": {
+    "id": "yc-coderhouse-news-import-7a925063f664",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coderhouse.com/coderlibrary/bigquery-para-analistas-de-datos-guia-completa",
+    "canonical": "https://www.coderhouse.com/coderlibrary/bigquery-para-analistas-de-datos-guia-completa"
+  },
+  "title": "BigQuery para analistas de datos: guía completa | Coderhouse",
+  "summary": "Qué es BigQuery y cómo usarlo: setup en minutos, primeras queries, diferencias con SQL clásico, costos y cuándo conviene frente a Excel o Google Sheets.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T07:56:38.769046+00:00",
+  "fetched_at": "2026-07-28T07:56:35.409468+00:00",
+  "last_updated_at": "2026-07-28T07:56:38.769046+00:00",
+  "paths": {
+    "article": "articles/v1/7a/yc-coderhouse/2026/07/3f/3f9a5f11317aa4832de5d1986222b286c6c2b7cb910c408f336484a2906ca232/article.md",
+    "record": "articles/v1/7a/yc-coderhouse/2026/07/3f/3f9a5f11317aa4832de5d1986222b286c6c2b7cb910c408f336484a2906ca232/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6303,
+    "sha256": "sha256:07dd006600fcf270dc2d5952e5fcb498c4732539c920e77666899b0a033130d8",
+    "normalized_content_hash": "sha256:7366f9a4e0648751bc29ca743ebd67e062aa96afc6ae91f1dfd75aefd3d7f2f2"
+  },
+  "provenance": {
+    "source_item_id": "b7850d45-9402-416e-8130-9a89c6f91655",
+    "external_id": "https://www.coderhouse.com/coderlibrary/bigquery-para-analistas-de-datos-guia-completa"
+  }
+}

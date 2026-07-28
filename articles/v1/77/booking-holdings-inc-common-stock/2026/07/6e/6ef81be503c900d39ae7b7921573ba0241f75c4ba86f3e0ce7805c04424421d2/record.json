@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ef81be503c900d39ae7b7921573ba0241f75c4ba86f3e0ce7805c04424421d2",
+  "company": {
+    "key": "booking-holdings-inc-common-stock",
+    "name": "Booking Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "booking-holdings-inc-common-stock-news-import-3e3816d9b8f3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.booking.com/en-us/",
+    "canonical": "https://news.booking.com/en-us/"
+  },
+  "title": "English (US) English (US)",
+  "summary": "Big savings on hotels in destinations worldwide. Browse hotel reviews and find the guaranteed best price on hotels for all budgets.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:56:49.601151+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:48.236180+00:00",
+  "paths": {
+    "article": "articles/v1/77/booking-holdings-inc-common-stock/2026/07/6e/6ef81be503c900d39ae7b7921573ba0241f75c4ba86f3e0ce7805c04424421d2/article.md",
+    "record": "articles/v1/77/booking-holdings-inc-common-stock/2026/07/6e/6ef81be503c900d39ae7b7921573ba0241f75c4ba86f3e0ce7805c04424421d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18355,
+    "sha256": "sha256:867dc05fff07da3f7eaa23d93d5729f2903a7d73c539baa4b1ff695cabb4d5e4",
+    "normalized_content_hash": "sha256:e4b7167f04b513d9cc40d486cef79734f34602eb99d4dba6e329a5d01eb93756"
+  },
+  "provenance": {
+    "source_item_id": "1396aba5-f4df-4fa1-b7cc-cedcacb77566",
+    "external_id": "https://news.booking.com/en-us/"
+  }
+}

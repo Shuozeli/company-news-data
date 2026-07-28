@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "509a3e41ca01806fd7f86a8a90040bc742c16a504ccd915ea3f4c905672436e8",
+  "company": {
+    "key": "yc-intryc",
+    "name": "Intryc"
+  },
+  "source": {
+    "id": "yc-intryc-news-import-17b79f653bb0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.intryc.com/blog/root-cause-analysis-software-for-support-teams",
+    "canonical": "https://www.intryc.com/blog/root-cause-analysis-software-for-support-teams"
+  },
+  "title": "Root Cause Analysis Software for Support Teams | Intryc",
+  "summary": "Intryc surfaces root causes from every support conversation - human and AI - not just the 5% you sample. See which failure patterns recur before they compound.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:22:23.516240+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:39.158482+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-intryc/2026/07/50/509a3e41ca01806fd7f86a8a90040bc742c16a504ccd915ea3f4c905672436e8/article.md",
+    "record": "articles/v1/45/yc-intryc/2026/07/50/509a3e41ca01806fd7f86a8a90040bc742c16a504ccd915ea3f4c905672436e8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11480,
+    "sha256": "sha256:3480974277a5ca077c6eeb99c2e68aaeb5261d06aa11ee9a7006835a35fc8dae",
+    "normalized_content_hash": "sha256:3723de9894ca501918b4578e67d2174c7a4f8cb0224c6279f2ae7bea526eed4b"
+  },
+  "provenance": {
+    "source_item_id": "d7ead273-a910-4695-af39-e6c836244653",
+    "external_id": "https://www.intryc.com/blog/root-cause-analysis-software-for-support-teams"
+  }
+}

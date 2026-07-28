@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8eb6cd4e1e1350444cb508757cfde5e7a3d96c7c1a8e8a1b2bd3f46af31c461",
+  "company": {
+    "key": "ttec-holdings-inc-common-stock",
+    "name": "TTEC Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttec-holdings-inc-common-stock-news-import-09d3aab661b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttecdigital.com/news/ttec-digital-achieves-amazon-connect-customer-competency",
+    "canonical": "https://www.ttecdigital.com/news/ttec-digital-achieves-amazon-connect-customer-competency"
+  },
+  "title": "TTEC Digital Achieves Amazon Connect Customer Competency",
+  "summary": "TTEC Digital earns Amazon Connect Customer Competency, validating its expertise in AI-powered contact center modernization with AWS.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T20:09:54.200706+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:34.728064+00:00",
+  "paths": {
+    "article": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/07/e8/e8eb6cd4e1e1350444cb508757cfde5e7a3d96c7c1a8e8a1b2bd3f46af31c461/article.md",
+    "record": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/07/e8/e8eb6cd4e1e1350444cb508757cfde5e7a3d96c7c1a8e8a1b2bd3f46af31c461/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3813,
+    "sha256": "sha256:f7532e86c959dcfd7e6368bd7782ddf43e186c92b84d9795bfaf1f9ef57726a1",
+    "normalized_content_hash": "sha256:1e51b185279213e498e336673c0fff214d0accb2f1f1d3eced4f46982669c21b"
+  },
+  "provenance": {
+    "source_item_id": "4552bc4f-e7b0-4ff5-a617-f5f92e517421",
+    "external_id": "https://www.ttecdigital.com/news/ttec-digital-achieves-amazon-connect-customer-competency"
+  }
+}

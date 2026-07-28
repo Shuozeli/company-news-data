@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2f0955f122b7ab3a42ee982f272f580db5e1c4a4971158928b0b3110ab888807",
+  "company": {
+    "key": "yc-aspect-inc",
+    "name": "Aspect"
+  },
+  "source": {
+    "id": "yc-aspect-inc-news-import-ad28d86e40e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aspect.inc/blog/codec-workflows",
+    "canonical": "https://aspect.inc/blog/codec-workflows"
+  },
+  "title": "Codec Workflows",
+  "summary": "Practical codec guidance for ProRes, DNxHR, H.265, EXR, DPX, MXF, and raw media.",
+  "published_at": "2026-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T08:02:15.371606+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:22:58.522150+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-aspect-inc/2026/06/2f/2f0955f122b7ab3a42ee982f272f580db5e1c4a4971158928b0b3110ab888807/article.md",
+    "record": "articles/v1/ad/yc-aspect-inc/2026/06/2f/2f0955f122b7ab3a42ee982f272f580db5e1c4a4971158928b0b3110ab888807/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 775,
+    "sha256": "sha256:996c55d95c32a6e1a1815acbe9c29516763bcde2d48de40fd8bc7807b10d3870",
+    "normalized_content_hash": "sha256:3aec3022c38138db8a17add54057e51f9cbf7cf94d8b6dd2686e43d2e94601d9"
+  },
+  "provenance": {
+    "source_item_id": "27d90544-7739-4eed-b48f-3c4e35c999b5",
+    "external_id": "https://aspect.inc/blog/codec-workflows"
+  }
+}

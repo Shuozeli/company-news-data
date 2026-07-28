@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "impact-biomedical-inc-common-stock",
+    "name": "Impact BioMedical Inc. Common Stock"
+  },
+  "record_count": 6,
+  "first_published_at": "2024-01-30T17:35:16+00:00",
+  "last_published_at": "2025-06-23T00:00:03+00:00",
+  "partitions": [
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    }
+  ]
+}

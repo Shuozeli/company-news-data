@@ -7,16 +7,37 @@ source_id: "yc-gusto-engineering-rss"
 canonical_url: "https://engineering.gusto.com/it-takes-a-village-building-gustos-first-ai-risk-agent-2a6aee2e6297"
 published_at: "2026-01-26T20:24:46+00:00"
 first_seen_at: "2026-07-19T22:15:27.842622+00:00"
-fetched_at: "2026-07-28T04:03:20.234730+00:00"
-content_hash: "sha256:39c4d823bb6fbc4ee433d60dc24524d337864819a194c847813193e3b2a34fa4"
+fetched_at: "2026-07-28T20:54:41.720106+00:00"
+content_hash: "sha256:45bf4d19ebc7802f31db01b94af79899e1b7ba38fcef40af9237f794cc188722"
 ---
 
 # It Takes a Village: Building Gusto’s First AI Risk Agent
 
+# It Takes a Village: Building Gusto’s First AI Risk Agent
+
+
+[Xao Yang](https://medium.com/@xao.yang?source=post_page---byline--2a6aee2e6297---------------------------------------)
+
+
+12 min read
+
+
+·
+
+
+Jan 26, 2026
+
+
+--
+
+
+Press enter or click to view image in full size
+
+
 Myth vs reality of AI Work
 
 
-### The Myth vs Reality of AI at Work
+## The Myth vs Reality of AI at Work
 
 
 As an engineer, I’ve grown skeptical whenever I hear the word “AI” thrown around as a solution. There’s an unspoken belief that AI should just figure things out on its own. Feed it enough data, write a clever prompt, and something magical happens.
@@ -34,13 +55,16 @@ The hardest part wasn’t engineering. It was teaching the AI how to think about
 This is how we learned that lesson. Unlike traditional software development, building AI isn’t deterministic. You can’t spec it out, build it, and ship it. You iterate toward a quality bar, and that requires a different playbook: domain experts as co-creators, qualitative feedback over metrics, narrow scope, pragmatic trade-offs, and a tolerance for mess. What follows is how we discovered each of these the hard way.
 
 
+Press enter or click to view image in full size
+
+
 Transitioning from a proof of concept to product
 
 
-### From POC to Product
+## From POC to Product
 
 
-#### Why It Mattered
+### Why It Mattered
 
 
 Companies onboard to Gusto to help them manage and simplify payroll. At onboarding, we use ML models to assess bad actor risk for such customers. While our ML models auto-approve much of the onboarding volume, companies whose ML score is higher than the approval threshold are required to go through manual review, whether due to compliance documentation or insufficient signals to auto-approve.
@@ -52,7 +76,7 @@ Our customers are small business owners, people more susceptible to economic unc
 But speed wasn’t the only concern. As the Risk team, we also needed to ensure bad actors weren’t getting onto the platform. After all, the companies reaching manual review were the ones that the ML models had determined to be higher risk. Our goal wasn’t just to move faster. It was to move faster without compromising quality.
 
 
-#### The Spark
+### The Spark
 
 
 The kickoff to innovate on AI was triggered by a confluence of things: one of our Risk Operations leaders was going through an introduction to prompting course and our Risk engineering manager was using AI to build risk summarization. What sparked this journey was a white-boarding session where the head of Payments and Risk, Risk operations leader and Risk engineering manager started drawing what it would take to get an AI agent for company approvals.
@@ -64,7 +88,7 @@ They tried Gusto’s enterprise versions of Gemini and ChatGPT asking things lik
 Every insight needs an action: what if we created a zero-to-one team — Gusto’s model for small, nimble teams that exist to rapidly validate new ideas. In August 2025, we decided to create one!
 
 
-#### The Team
+### The Team
 
 
 To find out if the idea could work, we needed engineers who could build the infrastructure and operations experts who understood the domain. We called ourselves the “pirate crew.” This team was meant to be scrappy, with tight iteration loops and aggressive timelines. Critically, we had leadership buy-in that gave us space to move fast without getting blocked by competing priorities.
@@ -76,19 +100,22 @@ Early plans called for RAG (Retrieval-Augmented Generation) and fine-tuning. As 
 That discovery set the tone for everything that followed.
 
 
+Press enter or click to view image in full size
+
+
 A team collaborating on building a product
 
 
-### It Takes a Village
+## It Takes a Village
 
 
-#### The Division of Labor
+### The Division of Labor
 
 
 We quickly learned that engineers and operations subject matter experts (SMEs) needed to own different parts of the problem. Engineers owned the technical infrastructure: building the framework, setting up shadow testing and backtesting, making decisions about where and how to build. Operations SMEs owned everything the AI needed to get right: domain knowledge, edge case identification, translating standard operating procedures (SOPs) into structured prompts, spot-checking outputs for accuracy, and knowing when something “felt wrong” even if it technically passed.
 
 
-#### The Feedback Loop
+### The Feedback Loop
 
 
 From mid-August through early October, the team met multiple times every week. The cycle was tight: adjust the data payload, refine the prompts, test with real cases, get SME feedback, repeat.
@@ -106,7 +133,7 @@ For example, they could look at a company’s bank account and immediately flag 
 Another example: the AI would sometimes claim that a signatory’s email “aligned with” their name when it clearly didn’t. To the AI, any plausible-sounding match was good enough. Our operations specialists knew that in fraud cases, subtle mismatches matter. We had to teach the AI to be skeptical in the way a human reviewer would be but not be so skeptical that it became totally conservative.
 
 
-#### Using AI to Write the AI’s Instructions
+### Using AI to Write the AI’s Instructions
 
 
 Here’s something we didn’t expect: we used AI to help us build the AI.
@@ -121,7 +148,7 @@ But the AI’s output was just a starting point. The operations team spot-checke
 One insight that stuck with me came from the Head of Payments & Risk: “Write your prompts like code. Just in English.” That framing helped. We stopped writing prompts like we were chatting with the AI and started writing them like specifications.
 
 
-#### Why I Couldn’t Do This Alone
+### Why I Couldn’t Do This Alone
 
 
 I want to be direct: as engineers, we could not have built GROW alone.
@@ -130,13 +157,16 @@ I want to be direct: as engineers, we could not have built GROW alone.
 The institutional knowledge wasn’t something I could learn in a few weeks. Our operations specialists had years of context about edge cases, risk signals, and evaluation nuances that no documentation could fully capture. They needed us to translate that expertise into something technical. We needed them to tell us what “right” looked like.
 
 
+Press enter or click to view image in full size
+
+
 The messy reality of building an AI product
 
 
-### The Mess
+## The Mess
 
 
-#### We Optimized for Learning
+### We Optimized for Learning
 
 
 One of our first technical decisions was where the agent should run. We had two options: build in Gusto’s dedicated AI platform service, cleanly separated from our monolith, or embed it within our existing monolith where ops workflows already lived.
@@ -153,10 +183,19 @@ We chose the monolith. It wasn’t the architecturally pure choice but it was th
 But the real reason was this: we were optimizing for learning, not architecture. Figuring out prompts, payloads, evaluation, and iteration mattered more than getting the architecture “right” from day one. Those learnings transfer even if we migrate later.
 
 
+## Get Xao Yang’s stories in your inbox
+
+
+Join Medium for free to get updates from this writer.
+
+
+Remember me for faster sign in
+
+
 That same pragmatism shaped how we approached everything else.
 
 
-#### What Failed
+### What Failed
 
 
 The actual building process was messier than any technical blog usually admits.
@@ -171,7 +210,7 @@ For example, we had a risk score where lower values indicated lower risk. We tol
 We kept discovering edge cases. The ops team would look at a result and say “that’s not how we’d handle this situation,” and we’d realize there were unwritten rules and institutional knowledge we hadn’t incorporated in our context.
 
 
-#### The Unglamorous Work
+### The Unglamorous Work
 
 
 The work that actually moved the needle wasn’t glamorous.
@@ -195,13 +234,16 @@ The approach paid off. In one test, we ran a new prompt in shadow mode where the
 We deliberately kept scope narrow for v1. We didn’t obsess over model selection or cutting-edge architecture. We picked a model that worked and focused on the iteration loop.
 
 
+Press enter or click to view image in full size
+
+
 Seeing the impact
 
 
-### Impact and What We Learned
+## Impact and What We Learned
 
 
-#### The Results
+### The Results
 
 
 GROW now reviews companies and provides risk assessments that match what human analysts would produce.
@@ -210,7 +252,7 @@ GROW now reviews companies and provides risk assessments that match what human a
 In the first three months: we have reduced manual reviews by up to 70% and have 6x faster time to approval.
 
 
-#### When GROW Gets It Wrong
+### When GROW Gets It Wrong
 
 
 Because GROW is a back-office agent, no customer ever sees its decisions directly. That gave us room to build in safeguards.
@@ -225,13 +267,13 @@ The riskier scenario: what if GROW approves a company that’s actually high-ris
 But we didn’t stop there. Our operations team became a human-in-the-loop QA team where they could review GROW’s decisions as needed. If they agree with the decision, that’s another signal to make the customer experience downstream smoother. If they disagree, we have the safeguards to establish trust in that company. The human override goes both ways.
 
 
-#### What Worked
+### What Worked
 
 
 Tight partnership, narrow scope, and leadership support. Meeting multiple times a week meant we could iterate in days, not weeks. A dedicated team and a purpose without competing priorities meant we could move fast. Side projects don’t ship this quickly.
 
 
-#### What Surprised Us
+### What Surprised Us
 
 
 Qualitative feedback mattered more than metrics. We couldn’t automate our way to “good.” We needed human judgment on whether the AI was making decisions a human would make.
@@ -243,7 +285,7 @@ The unglamorous work was where value was created. Data curation, edge case handl
 The AI didn’t figure things out. Every assumption we left implicit, it got wrong.
 
 
-#### Humans in the Loop as Our Initial Eval System
+### Humans in the Loop as Our Initial Eval System
 
 
 We didn’t initially build a formal evaluation system. We had something better: humans in the loop.
@@ -285,9 +327,3 @@ We’ve already started posting jobs for an AI Agent Manager: a role focused on 
 
 
 **If you’re interested in solving complex problems that deliver real-world value, Gusto is hiring! Learn more at**[gusto.com/careers](http://gusto.com/careers) **.**
-
-
----
-
-
-[It Takes a Village: Building Gusto’s First AI Risk Agent](https://engineering.gusto.com/it-takes-a-village-building-gustos-first-ai-risk-agent-2a6aee2e6297) was originally published in[Gusto Engineering](https://engineering.gusto.com/) on Medium, where people are continuing the conversation by highlighting and responding to this story.

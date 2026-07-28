@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "intergroup-corporation-the-common-stock",
+    "name": "Intergroup Corporation (The) Common Stock"
+  },
+  "record_count": 9,
+  "first_published_at": "2019-09-23T21:25:00+00:00",
+  "last_published_at": "2026-05-11T20:37:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ]
+}

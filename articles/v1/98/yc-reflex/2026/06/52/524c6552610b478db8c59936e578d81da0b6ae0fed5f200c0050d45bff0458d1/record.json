@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "524c6552610b478db8c59936e578d81da0b6ae0fed5f200c0050d45bff0458d1",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/themes/",
+    "canonical": "https://reflex.dev/blog/themes/"
+  },
+  "title": "Themes: Everyone is a designer",
+  "summary": "Reflex Themes is a new panel in Reflex Build for restyling your whole app — pick from eleven presets or set your own colors, fonts, and spacing.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:14.484645+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/06/52/524c6552610b478db8c59936e578d81da0b6ae0fed5f200c0050d45bff0458d1/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/06/52/524c6552610b478db8c59936e578d81da0b6ae0fed5f200c0050d45bff0458d1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3022,
+    "sha256": "sha256:09229fbf446756294324f84be4a0e1adb43166642aa22c509721b5e5b8daf6d3",
+    "normalized_content_hash": "sha256:6e34deee2c02942c23677042c1dbe7d47edec62eaf3a04b62f2b8f38c2be7aa8"
+  },
+  "provenance": {
+    "source_item_id": "5a5f3e56-7e35-4ba7-95b3-9eb21950dd9d",
+    "external_id": "https://reflex.dev/blog/themes/"
+  }
+}

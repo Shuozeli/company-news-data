@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0d66481a8b09070ce8feccc8e34fe254ca34064f5a9c4811b2670ec7a9be3e22",
+  "company": {
+    "key": "cognex-corporation-common-stock",
+    "name": "Cognex Corporation Common Stock"
+  },
+  "source": {
+    "id": "cognex-corporation-common-stock-rss-d1b80f9f3658",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.cognex.com/news/news-details/2026/Cognex-Launches-Highest-Performance-Embedded-AI-Vision-System-Powered-by-Qualcomm/default.aspx",
+    "canonical": "https://investor.cognex.com/news/news-details/2026/Cognex-Launches-Highest-Performance-Embedded-AI-Vision-System-Powered-by-Qualcomm/default.aspx"
+  },
+  "title": "Cognex Launches Highest Performance Embedded AI Vision System Powered by Qualcomm",
+  "summary": "",
+  "published_at": "2026-05-05T13:00:00+00:00",
+  "first_seen_at": "2026-07-24T22:51:25.514805+00:00",
+  "fetched_at": "2026-07-28T19:49:06.380654+00:00",
+  "last_updated_at": "2026-07-28T19:49:06.409597+00:00",
+  "paths": {
+    "article": "articles/v1/fc/cognex-corporation-common-stock/2026/05/0d/0d66481a8b09070ce8feccc8e34fe254ca34064f5a9c4811b2670ec7a9be3e22/article.md",
+    "record": "articles/v1/fc/cognex-corporation-common-stock/2026/05/0d/0d66481a8b09070ce8feccc8e34fe254ca34064f5a9c4811b2670ec7a9be3e22/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 741,
+    "sha256": "sha256:5c0c6cf45107402159e833fd78d76c7925ca0c2ae5337bee7f8ece686b46d776",
+    "normalized_content_hash": "sha256:88f768145214f9441f4a3faa5663bab83d7476b5e83890d0015c88e2f762fe33"
+  },
+  "provenance": {
+    "source_item_id": "9df59186-c0c0-4b92-b54d-14a75616756d",
+    "external_id": "47ffced6-5d51-435f-90f9-547792f84900"
+  }
+}

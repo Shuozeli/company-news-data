@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6448152e63265da1037e11dcec20fb441db05a509e44623cda27001d524e97b7",
+  "company": {
+    "key": "timken-company-the-common-stock",
+    "name": "Timken Company (The) Common Stock"
+  },
+  "source": {
+    "id": "timken-company-the-common-stock-news-import-2c50bd08e8af",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.timken.com/2026-01-07-Timken-Announces-Strategic-Leadership-Appointments-to-Accelerate-Profitable-Growth",
+    "canonical": "https://news.timken.com/2026-01-07-Timken-Announces-Strategic-Leadership-Appointments-to-Accelerate-Profitable-Growth"
+  },
+  "title": "Timken Announces Strategic Leadership Appointments to Accelerate Profitable Growth",
+  "summary": "The Timken Company (NYSE: TKR), a global technology leader in engineered bearings and industrial motion, today announced strategic leadership appointments designed to accelerate profitable growth...",
+  "published_at": "2026-01-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:42:35.901021+00:00",
+  "fetched_at": "2026-07-28T21:58:18.576112+00:00",
+  "last_updated_at": "2026-07-28T21:59:15.785553+00:00",
+  "paths": {
+    "article": "articles/v1/21/timken-company-the-common-stock/2026/01/64/6448152e63265da1037e11dcec20fb441db05a509e44623cda27001d524e97b7/article.md",
+    "record": "articles/v1/21/timken-company-the-common-stock/2026/01/64/6448152e63265da1037e11dcec20fb441db05a509e44623cda27001d524e97b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7050,
+    "sha256": "sha256:b4a70a6e2a39f0b0f1de55efe36130fa5a22e8c2f32d2068a4624094a935bb46",
+    "normalized_content_hash": "sha256:4a9550ab854cf36dace9c6b77809d7aee5ff6e562a33ed68393ac49e7d5c2e97"
+  },
+  "provenance": {
+    "source_item_id": "3a42b9e6-005b-404b-9af5-2bf21569719a",
+    "external_id": "https://news.timken.com/2026-01-07-Timken-Announces-Strategic-Leadership-Appointments-to-Accelerate-Profitable-Growth"
+  }
+}

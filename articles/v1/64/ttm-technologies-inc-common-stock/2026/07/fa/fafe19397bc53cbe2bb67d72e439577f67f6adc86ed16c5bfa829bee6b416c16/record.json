@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fafe19397bc53cbe2bb67d72e439577f67f6adc86ed16c5bfa829bee6b416c16",
+  "company": {
+    "key": "ttm-technologies-inc-common-stock",
+    "name": "TTM Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttm-technologies-inc-common-stock-news-import-6d017d0c85d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttm.com/en/blog/solving-customer-challenges-through-advanced-interconnect-solutions",
+    "canonical": "http://www.ttm.com/en/blog/solving-customer-challenges-through-advanced-interconnect-solutions"
+  },
+  "title": "TTM Technologies: Solving Customer Challenges Through Advanced Interconnect Solutions",
+  "summary": "At TTM Technologies, we're proud to highlight a milestone that reflects our commitment to pushing the boundaries of advanced interconnect solutions: the development and delivery of Asymmetric Printed Circuit Board (“PCB”) N+M Technology. Achievements like this are what cement our position as the leader in AI interconnect solutions.What is Asymmetric PCB N+M Technology?",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:50:20.236425+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:14.652394+00:00",
+  "paths": {
+    "article": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/fa/fafe19397bc53cbe2bb67d72e439577f67f6adc86ed16c5bfa829bee6b416c16/article.md",
+    "record": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/fa/fafe19397bc53cbe2bb67d72e439577f67f6adc86ed16c5bfa829bee6b416c16/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4690,
+    "sha256": "sha256:8bc8ffc339e4db6bbaf55615884e2ccfa1f5533dcb571d34a69375995f062529",
+    "normalized_content_hash": "sha256:a071df0b9da1fcfa9ecbe00161fc79023fa3b3f2ea9a2ac6c4b63adceef0ba09"
+  },
+  "provenance": {
+    "source_item_id": "285b2c15-f446-495e-bd22-31aaf444078c",
+    "external_id": "http://www.ttm.com/en/blog/solving-customer-challenges-through-advanced-interconnect-solutions"
+  }
+}

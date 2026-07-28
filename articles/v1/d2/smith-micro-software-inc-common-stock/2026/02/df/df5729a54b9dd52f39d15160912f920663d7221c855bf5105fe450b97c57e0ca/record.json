@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df5729a54b9dd52f39d15160912f920663d7221c855bf5105fe450b97c57e0ca",
+  "company": {
+    "key": "smith-micro-software-inc-common-stock",
+    "name": "Smith Micro Software Inc. Common Stock"
+  },
+  "source": {
+    "id": "smith-micro-software-inc-common-stock-news-import-b4a9963a09cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.smithmicro.com/press-releases/2026/02/25/smith-micro-schedules-teleconference-to-announce-fourth-quarter-and-fiscal-year-2025-financial-results/",
+    "canonical": "https://www.smithmicro.com/press-releases/2026/02/25/smith-micro-schedules-teleconference-to-announce-fourth-quarter-and-fiscal-year-2025-financial-results/"
+  },
+  "title": "Smith Micro Schedules Teleconference to Announce Fourth Quarter and Fiscal Year 2025 Financial Results",
+  "summary": "Smith Micro Software will report its fourth quarter and fiscal year 2025 financial results following the close of regular trading on Wednesday, March 4, 2026.",
+  "published_at": "2026-02-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:51:11.899355+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:25.171590+00:00",
+  "paths": {
+    "article": "articles/v1/d2/smith-micro-software-inc-common-stock/2026/02/df/df5729a54b9dd52f39d15160912f920663d7221c855bf5105fe450b97c57e0ca/article.md",
+    "record": "articles/v1/d2/smith-micro-software-inc-common-stock/2026/02/df/df5729a54b9dd52f39d15160912f920663d7221c855bf5105fe450b97c57e0ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2539,
+    "sha256": "sha256:8385f5d13e1d5e17d290b71a1842c4b7c42daa18a0215b097c07c4ff2b8d2d67",
+    "normalized_content_hash": "sha256:93c64b104744d9ccbeb122615406d743c4801faf4fe0cdfbb78ce3faf97ef3ce"
+  },
+  "provenance": {
+    "source_item_id": "eede4a04-a66a-40f5-ad04-5731d6fdb67f",
+    "external_id": "https://www.smithmicro.com/press-releases/2026/02/25/smith-micro-schedules-teleconference-to-announce-fourth-quarter-and-fiscal-year-2025-financial-results/"
+  }
+}

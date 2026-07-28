@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "06f80ca04c132b70fe2c59c6853cf290dbb883676ac1af599010c48ab4a5f760",
+  "company": {
+    "key": "energous-corporation-common-stock",
+    "name": "Energous Corporation Common Stock"
+  },
+  "source": {
+    "id": "energous-corporation-common-stock-news-import-d1c3bf233b09",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://energous.com/company/newsroom/news/energous-corporation-announces-1-for-30-reverse-stock-split/",
+    "canonical": "https://energous.com/company/newsroom/news/energous-corporation-announces-1-for-30-reverse-stock-split/"
+  },
+  "title": "Energous Corporation Announces 1-for-30 Reverse Stock Split",
+  "summary": "Energous Corporation Announces 1-for-30 Reverse Stock Split - Energous",
+  "published_at": "2025-08-06T11:00:11+00:00",
+  "first_seen_at": "2026-07-27T06:56:18.942558+00:00",
+  "fetched_at": "2026-07-28T21:59:46.813241+00:00",
+  "last_updated_at": "2026-07-28T22:00:08.733444+00:00",
+  "paths": {
+    "article": "articles/v1/39/energous-corporation-common-stock/2025/08/06/06f80ca04c132b70fe2c59c6853cf290dbb883676ac1af599010c48ab4a5f760/article.md",
+    "record": "articles/v1/39/energous-corporation-common-stock/2025/08/06/06f80ca04c132b70fe2c59c6853cf290dbb883676ac1af599010c48ab4a5f760/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6372,
+    "sha256": "sha256:1f3d68d4bff32a2b126e190f30939aef1cb2809791cd113bbd725cc6a9159e4c",
+    "normalized_content_hash": "sha256:c759bfe7be30beaf6881cfa45b1e7800006d45bb0ee28801f98f383fc3b9285f"
+  },
+  "provenance": {
+    "source_item_id": "08a96330-70df-4984-9b71-51b277b4a8ba",
+    "external_id": "https://energous.com/company/newsroom/news/energous-corporation-announces-1-for-30-reverse-stock-split/"
+  }
+}

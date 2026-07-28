@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f1bcead28f6d0d3015b60bc1e54a9830ebd966018fa69773e39d49a240297e67",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-bd2aa08e45c5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/payroll/how-file-w-3-form",
+    "canonical": "https://gusto.com/resources/articles/payroll/how-file-w-3-form"
+  },
+  "title": "What Is a W-3 Form and How Do I File It?",
+  "summary": "If you have even one employee for your business, you’ll need to know the W-3. W-3 forms are always filed in conjunction with W-2 forms.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:55.051983+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.934820+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/f1/f1bcead28f6d0d3015b60bc1e54a9830ebd966018fa69773e39d49a240297e67/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/f1/f1bcead28f6d0d3015b60bc1e54a9830ebd966018fa69773e39d49a240297e67/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9481,
+    "sha256": "sha256:1c456bbf18d45ea8a3c0107129c6f4fffcf563d05f62969f9b104e1c39806638",
+    "normalized_content_hash": "sha256:b50c11e23dbfec1efc5159f3bbf029471622c82815923a89f52e7c46d20f69de"
+  },
+  "provenance": {
+    "source_item_id": "c3489a71-01f0-4742-a46a-4815c0337fdb",
+    "external_id": "https://gusto.com/resources/articles/payroll/how-file-w-3-form"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b7e21df7375aaf98961f43f36004b31d682a8f8a84f4cc03fa327eadaa38beed",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-8eddc0d2ffc8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/the-ultimate-tax-guide-for-crypto-staking",
+    "canonical": "https://www.cointracker.io/blog/the-ultimate-tax-guide-for-crypto-staking"
+  },
+  "title": "Cryptocurrency Staking Tax Guide",
+  "summary": "Learn how staking cryptocurrencies can affect your taxes, understand the rules, and maximize with our comprehensive guide. Get started here!",
+  "published_at": "2023-05-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:51:12.353224+00:00",
+  "fetched_at": "2026-07-28T15:50:30.558354+00:00",
+  "last_updated_at": "2026-07-28T15:50:39.307588+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2023/05/b7/b7e21df7375aaf98961f43f36004b31d682a8f8a84f4cc03fa327eadaa38beed/article.md",
+    "record": "articles/v1/57/yc-cointracker/2023/05/b7/b7e21df7375aaf98961f43f36004b31d682a8f8a84f4cc03fa327eadaa38beed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15427,
+    "sha256": "sha256:adc0693859b870af50f49d6ebf7e53ffb37d83d2b2ac02b97ca78316fbc05941",
+    "normalized_content_hash": "sha256:94533f7a4d241d20fc8a8a246ff437ad93afd62c3c84d9f4434a8813ea7cf25a"
+  },
+  "provenance": {
+    "source_item_id": "43af96df-a478-4247-9d24-03eb789d7338",
+    "external_id": "https://www.cointracker.io/blog/the-ultimate-tax-guide-for-crypto-staking"
+  }
+}

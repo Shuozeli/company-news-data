@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d1eb7cc8cd55917ea8e4e2ee1efd1c875e803390ea3b351510becc62e3f94dcb",
+  "company": {
+    "key": "wafd-inc-depositary-shares",
+    "name": "WaFd Inc. Depositary Shares"
+  },
+  "source": {
+    "id": "wafd-inc-depositary-shares-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/security-privacy",
+    "canonical": "https://www.wafdbank.com/articles/security-privacy"
+  },
+  "title": "Online Privacy & Security Tips | WaFd Bank",
+  "summary": "Are you concerned about your privacy and security online? Read the latest tips from WaFd Bank to help protect your identity and money safe online.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T05:02:34.283464+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:25.837168+00:00",
+  "paths": {
+    "article": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/d1/d1eb7cc8cd55917ea8e4e2ee1efd1c875e803390ea3b351510becc62e3f94dcb/article.md",
+    "record": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/d1/d1eb7cc8cd55917ea8e4e2ee1efd1c875e803390ea3b351510becc62e3f94dcb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2306,
+    "sha256": "sha256:cd032d6b10bcbd0e471f2b20aa2d659c7e3d79718918d97310f5f2c6aa63864b",
+    "normalized_content_hash": "sha256:16d01f0be6a5d95cdef1bd35de92b3a92ea13cc43076b4c80687d4cf1460acf1"
+  },
+  "provenance": {
+    "source_item_id": "5bcb82d4-d6cb-42a5-8eeb-88b647c665d0",
+    "external_id": "https://www.wafdbank.com/articles/security-privacy"
+  }
+}

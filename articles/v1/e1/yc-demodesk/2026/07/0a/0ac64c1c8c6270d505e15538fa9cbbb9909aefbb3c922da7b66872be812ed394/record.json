@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0ac64c1c8c6270d505e15538fa9cbbb9909aefbb3c922da7b66872be812ed394",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-manually-invite-the-demodesk-note-taker-to-meetings",
+    "canonical": "https://demodesk.com/blog/how-to-manually-invite-the-demodesk-note-taker-to-meetings"
+  },
+  "title": "How to manually invite the Demodesk note-taker to meetings",
+  "summary": "Two ways to get the Demodesk note-taker into any meeting: add it to a calendar invite in advance, or paste the link mid-call. Step-by-step guide.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:01.219073+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/0a/0ac64c1c8c6270d505e15538fa9cbbb9909aefbb3c922da7b66872be812ed394/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/0a/0ac64c1c8c6270d505e15538fa9cbbb9909aefbb3c922da7b66872be812ed394/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4690,
+    "sha256": "sha256:2f4208cc3414b0419691477580e37b38ab7a58a3bf85b70076645b91402734fe",
+    "normalized_content_hash": "sha256:a136be96508ad8331876f127d488ba559dc0ad2da87a22be6ce085032ebd10c2"
+  },
+  "provenance": {
+    "source_item_id": "8865ab41-5039-4762-94d5-c59e43b65370",
+    "external_id": "https://demodesk.com/blog/how-to-manually-invite-the-demodesk-note-taker-to-meetings"
+  }
+}

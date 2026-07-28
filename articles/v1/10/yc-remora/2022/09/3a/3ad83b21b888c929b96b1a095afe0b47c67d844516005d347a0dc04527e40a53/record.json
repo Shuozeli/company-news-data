@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3ad83b21b888c929b96b1a095afe0b47c67d844516005d347a0dc04527e40a53",
+  "company": {
+    "key": "yc-remora",
+    "name": "Remora"
+  },
+  "source": {
+    "id": "yc-remora-rss-f395f4ff84ec",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://remoracarbon.com/hardware-to-save-a-planet-capturing-semi-truck-co2-emissions/",
+    "canonical": "https://remoracarbon.com/hardware-to-save-a-planet-capturing-semi-truck-co2-emissions/"
+  },
+  "title": "Hardware to Save a Planet: Capturing Semi-Truck CO2 Emissions",
+  "summary": "",
+  "published_at": "2022-09-01T22:30:36+00:00",
+  "first_seen_at": "2026-07-20T23:25:17.250531+00:00",
+  "fetched_at": "2026-07-28T20:51:54.544285+00:00",
+  "last_updated_at": "2026-07-28T20:51:54.604059+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-remora/2022/09/3a/3ad83b21b888c929b96b1a095afe0b47c67d844516005d347a0dc04527e40a53/article.md",
+    "record": "articles/v1/10/yc-remora/2022/09/3a/3ad83b21b888c929b96b1a095afe0b47c67d844516005d347a0dc04527e40a53/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 593,
+    "sha256": "sha256:6cf445204acc4f23a49a3dbbbb581c5df5ea780ed5f96756748fea6ac4b8d586",
+    "normalized_content_hash": "sha256:cc41986c946c20c5d0b87bb1a6a2aad40c7ed771e0d43d69aceebe802b1a9244"
+  },
+  "provenance": {
+    "source_item_id": "d70fd77a-d816-4129-a0c8-9aa33ae5e800",
+    "external_id": "https://remoracarbon.com/?p=658"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e7d705c1f5bcdf678847a42837e86a03e8879046c00d5d9ec11518d5959b04c",
+  "company": {
+    "key": "trubridge-inc-common-stock",
+    "name": "TruBridge Inc. Common Stock"
+  },
+  "source": {
+    "id": "trubridge-inc-common-stock-news-import-b9e03b8024f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trubridge.com/resources/texas-institute-for-surgery/",
+    "canonical": "https://trubridge.com/resources/texas-institute-for-surgery/"
+  },
+  "title": "Texas Institute for Surgery Case Study",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T17:19:55.782522+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:53.648986+00:00",
+  "paths": {
+    "article": "articles/v1/2a/trubridge-inc-common-stock/2026/07/3e/3e7d705c1f5bcdf678847a42837e86a03e8879046c00d5d9ec11518d5959b04c/article.md",
+    "record": "articles/v1/2a/trubridge-inc-common-stock/2026/07/3e/3e7d705c1f5bcdf678847a42837e86a03e8879046c00d5d9ec11518d5959b04c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1398,
+    "sha256": "sha256:9b66a31e61f4dce920296ad4df72b650ea4b83a466bcdbb0771d932b72088f46",
+    "normalized_content_hash": "sha256:3ad001e0b3b99644b945ad077da6833ef572d61619480a522762e1d0e7faacf8"
+  },
+  "provenance": {
+    "source_item_id": "1e1c8abd-444e-4e85-a672-1e4f01173317",
+    "external_id": "https://trubridge.com/resources/texas-institute-for-surgery/"
+  }
+}

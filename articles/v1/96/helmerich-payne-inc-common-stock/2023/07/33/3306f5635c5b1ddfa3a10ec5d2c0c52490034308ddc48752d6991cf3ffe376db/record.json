@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3306f5635c5b1ddfa3a10ec5d2c0c52490034308ddc48752d6991cf3ffe376db",
+  "company": {
+    "key": "helmerich-payne-inc-common-stock",
+    "name": "Helmerich & Payne Inc. Common Stock"
+  },
+  "source": {
+    "id": "helmerich-payne-inc-common-stock-news-import-5ae549a21ed6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hpinc.com/news/announcements/helmerich-payne-inc-announces-the-appointment-of-new-director-2023",
+    "canonical": "https://www.hpinc.com/news/announcements/helmerich-payne-inc-announces-the-appointment-of-new-director-2023"
+  },
+  "title": "H&P, Inc. Announces the Appointment of New Director",
+  "summary": "H&P, Inc. (NYSE: HP) announced that Elizabeth Killinger has been appointed to the Company’s Board of Directors.",
+  "published_at": "2023-07-03T14:36:00+00:00",
+  "first_seen_at": "2026-07-21T22:46:51.827606+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:46.669691+00:00",
+  "paths": {
+    "article": "articles/v1/96/helmerich-payne-inc-common-stock/2023/07/33/3306f5635c5b1ddfa3a10ec5d2c0c52490034308ddc48752d6991cf3ffe376db/article.md",
+    "record": "articles/v1/96/helmerich-payne-inc-common-stock/2023/07/33/3306f5635c5b1ddfa3a10ec5d2c0c52490034308ddc48752d6991cf3ffe376db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2128,
+    "sha256": "sha256:da7bbba60226a89695dd6b45ce826c7020fa30228245361cc6aca86f0cb52e7b",
+    "normalized_content_hash": "sha256:cb2182a59dd40b7cc483bb4f2cfcd9e970ca49773aa51fed5810bc91278d57cc"
+  },
+  "provenance": {
+    "source_item_id": "98359316-9101-4d75-8bc8-578b7c361347",
+    "external_id": "https://www.hpinc.com/news/announcements/helmerich-payne-inc-announces-the-appointment-of-new-director-2023"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fc44e65307e9844893d4003eddbdb79faa40b228d9f4bf7dd60f8af298c68a3a",
+  "company": {
+    "key": "german-american-bancorp-inc-common-stock",
+    "name": "German American Bancorp Inc. Common Stock"
+  },
+  "source": {
+    "id": "german-american-bancorp-inc-common-stock-news-import-decde0ffafda",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://germanamerican.com/about-us/news-events/matt_merkel_joins_german_american_bank_as_southwest_senior_regional_president",
+    "canonical": "https://germanamerican.com/about-us/news-events/matt_merkel_joins_german_american_bank_as_southwest_senior_regional_president"
+  },
+  "title": "Matt Merkel joins German American Bank as Southwest Senior Regional President",
+  "summary": "German American Bank is excited to announce that Matt Merkel has joined the company as Southwest Senior Regional President.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T09:33:03.226545+00:00",
+  "fetched_at": "2026-07-28T21:38:24.318832+00:00",
+  "last_updated_at": "2026-07-28T21:39:44.039585+00:00",
+  "paths": {
+    "article": "articles/v1/07/german-american-bancorp-inc-common-stock/2026/07/fc/fc44e65307e9844893d4003eddbdb79faa40b228d9f4bf7dd60f8af298c68a3a/article.md",
+    "record": "articles/v1/07/german-american-bancorp-inc-common-stock/2026/07/fc/fc44e65307e9844893d4003eddbdb79faa40b228d9f4bf7dd60f8af298c68a3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3395,
+    "sha256": "sha256:662359b3084d39f1aa57bbb80cfd6d92cda5594d1b56a21f274a6c0db0380536",
+    "normalized_content_hash": "sha256:0bf7ce043964aa6612440130f70c09e7677b1cf1c2c6964244c703739584e03c"
+  },
+  "provenance": {
+    "source_item_id": "45c3281a-4a51-4c70-b9ee-c8c6f162902f",
+    "external_id": "https://germanamerican.com/about-us/news-events/matt_merkel_joins_german_american_bank_as_southwest_senior_regional_president"
+  }
+}

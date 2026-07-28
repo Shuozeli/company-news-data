@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9bd196c574c98c9a58508cdc5bc171467cc46f14d8a9462d6d0d4e474942b08b",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/cb-financial-services-inc-nasdaq-cbfv-declared-a-dividend-of-$0.2800-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/cb-financial-services-inc-nasdaq-cbfv-declared-a-dividend-of-$0.2800-per-share/"
+  },
+  "title": "CBFV Dividend Announcement $0.2800/Share 7/27/2026",
+  "summary": "NASDAQ:CBFV CB Financial Services Inc Dividend Announcement $0.2800 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.073756+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/9b/9bd196c574c98c9a58508cdc5bc171467cc46f14d8a9462d6d0d4e474942b08b/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/9b/9bd196c574c98c9a58508cdc5bc171467cc46f14d8a9462d6d0d4e474942b08b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2196,
+    "sha256": "sha256:1bb78c5d5702a3e07dcf964aff0fb988820ec135ec5fdcb33765ce8f6ec62b1b",
+    "normalized_content_hash": "sha256:2a903cee32cfe89abea2f0f4b08ab7cba8c027b753ec392931ab885f1e886b62"
+  },
+  "provenance": {
+    "source_item_id": "d0b57412-40bb-4f73-a337-b4f7e4f1194f",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/cb-financial-services-inc-nasdaq-cbfv-declared-a-dividend-of-$0.2800-per-share/"
+  }
+}

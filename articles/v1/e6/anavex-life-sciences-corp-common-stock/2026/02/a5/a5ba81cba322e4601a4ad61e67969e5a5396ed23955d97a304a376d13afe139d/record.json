@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a5ba81cba322e4601a4ad61e67969e5a5396ed23955d97a304a376d13afe139d",
+  "company": {
+    "key": "anavex-life-sciences-corp-common-stock",
+    "name": "Anavex Life Sciences Corp. Common Stock"
+  },
+  "source": {
+    "id": "anavex-life-sciences-corp-common-stock-news-import-ce7f89501e77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anavex.com/news/anavex-life-sciences-q1-2026-financial-results/",
+    "canonical": "https://anavex.com/news/anavex-life-sciences-q1-2026-financial-results/"
+  },
+  "title": "Anavex Life Sciences Reports Fiscal 2026 First Quarter Financial Results and Provides Business Update | Anavex Life Sciences",
+  "summary": "Anavex Life Sciences reports Q1 fiscal 2026 financial results, clinical pipeline progress, and regulatory updates for blarcamesine in Alzheimer’s disease.",
+  "published_at": "2026-02-09T07:25:25+00:00",
+  "first_seen_at": "2026-07-24T16:43:56.840093+00:00",
+  "fetched_at": "2026-07-28T22:21:23.355424+00:00",
+  "last_updated_at": "2026-07-28T22:21:29.982551+00:00",
+  "paths": {
+    "article": "articles/v1/e6/anavex-life-sciences-corp-common-stock/2026/02/a5/a5ba81cba322e4601a4ad61e67969e5a5396ed23955d97a304a376d13afe139d/article.md",
+    "record": "articles/v1/e6/anavex-life-sciences-corp-common-stock/2026/02/a5/a5ba81cba322e4601a4ad61e67969e5a5396ed23955d97a304a376d13afe139d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11756,
+    "sha256": "sha256:d93907adb975431d73031ed3ccbe10459afb638face791f5ccd704d3f1d2ad5f",
+    "normalized_content_hash": "sha256:1bcec29c70691fac303affd7b62da94d13fb2db478e575514dfad3f563c0877c"
+  },
+  "provenance": {
+    "source_item_id": "0b55b43d-14bc-4295-8ba2-6b1f3258db06",
+    "external_id": "https://anavex.com/news/anavex-life-sciences-q1-2026-financial-results/"
+  }
+}

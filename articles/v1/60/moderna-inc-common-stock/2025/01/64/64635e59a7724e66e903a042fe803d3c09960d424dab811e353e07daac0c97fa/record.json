@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64635e59a7724e66e903a042fe803d3c09960d424dab811e353e07daac0c97fa",
+  "company": {
+    "key": "moderna-inc-common-stock",
+    "name": "Moderna Inc. Common Stock"
+  },
+  "source": {
+    "id": "moderna-inc-common-stock-rss-ffb730a7f05d",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://news.modernatx.com/news/news-details/2025/moderna--2024-shareholder-letter-from-ceo-stphane-bancel",
+    "canonical": "https://news.modernatx.com/news/news-details/2025/moderna--2024-shareholder-letter-from-ceo-stphane-bancel"
+  },
+  "title": "Moderna – 2024 Shareholder Letter from CEO Stéphane Bancel",
+  "summary": "Deliver the greatest possible impact to people through mRNA medicines.",
+  "published_at": "2025-01-06T13:28:26+00:00",
+  "first_seen_at": "2026-07-20T03:33:23.394172+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-07-28T20:59:07.956376+00:00",
+  "paths": {
+    "article": "articles/v1/60/moderna-inc-common-stock/2025/01/64/64635e59a7724e66e903a042fe803d3c09960d424dab811e353e07daac0c97fa/article.md",
+    "record": "articles/v1/60/moderna-inc-common-stock/2025/01/64/64635e59a7724e66e903a042fe803d3c09960d424dab811e353e07daac0c97fa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1573,
+    "sha256": "sha256:ede0a560bc1b9a46abcf1039f3c8bcdc9ea5e7e21f9e981e9bbd47cec07ea29f",
+    "normalized_content_hash": "sha256:80ae902bac8bd672472d514ca624ed18412cbf92443e8409a031962522b68697"
+  },
+  "provenance": {
+    "source_item_id": "168744ec-8c84-4cdc-8835-b614893f84cb",
+    "external_id": "https://news.modernatx.com/news/news-details/2025/moderna--2024-shareholder-letter-from-ceo-stphane-bancel"
+  }
+}

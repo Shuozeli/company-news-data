@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b9b24d230574952772c246315a517c7240be8fb7611512692c96c77c0163ceeb",
+  "company": {
+    "key": "t-mobile-us-inc-common-stock",
+    "name": "T-Mobile US Inc. Common Stock"
+  },
+  "source": {
+    "id": "t-mobile-us-inc-common-stock-news-import-748f5f079be8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.t-mobile.com/news/network/t-mobile-preparedness-wildfire-risk-across-western-u-s",
+    "canonical": "https://www.t-mobile.com/news/network/t-mobile-preparedness-wildfire-risk-across-western-u-s"
+  },
+  "title": "T‑Mobile Preparedness Update: Elevated Wildfire Risk Across the Western U.S. (Updated 7/15)",
+  "summary": "Update: July 15, 2026 Helping Keep First Responders Connected During Wildfire Response in the Pacific Northwest As firefighters work around the clock to",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:46:33.310465+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-28T21:46:29.146846+00:00",
+  "paths": {
+    "article": "articles/v1/69/t-mobile-us-inc-common-stock/2026/06/b9/b9b24d230574952772c246315a517c7240be8fb7611512692c96c77c0163ceeb/article.md",
+    "record": "articles/v1/69/t-mobile-us-inc-common-stock/2026/06/b9/b9b24d230574952772c246315a517c7240be8fb7611512692c96c77c0163ceeb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6466,
+    "sha256": "sha256:a47fc97acb135e674e2e66a68ba0c81e28cfd8145ee9ea3abf33a22b63f493d8",
+    "normalized_content_hash": "sha256:3d2b6319f9743a742cc9202ccc0ce8eabbe3f82b389e67ca46e391b205a97d07"
+  },
+  "provenance": {
+    "source_item_id": "e8423347-3bdf-4e02-9a90-9dedc661c87c",
+    "external_id": "https://www.t-mobile.com/news/network/t-mobile-preparedness-wildfire-risk-across-western-u-s"
+  }
+}

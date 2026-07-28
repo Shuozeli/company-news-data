@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e7fc40793af2ae49318caf8688d115fef424ea5f443b418b18dff935330c1ae6",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2024/q3/carbon-utilization-could-open-new-pathways-to-renewable-fuels",
+    "canonical": "https://www.chevron.com/newsroom/2024/q3/carbon-utilization-could-open-new-pathways-to-renewable-fuels"
+  },
+  "title": "carbon utilization could open new pathways to renewable fuels",
+  "summary": "Chevron is looking for new raw materials to help produce renewable fuels. Carbon dioxide could be one of them.",
+  "published_at": "2024-08-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2024/08/e7/e7fc40793af2ae49318caf8688d115fef424ea5f443b418b18dff935330c1ae6/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2024/08/e7/e7fc40793af2ae49318caf8688d115fef424ea5f443b418b18dff935330c1ae6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1958,
+    "sha256": "sha256:408b0ddec4999fbaedf2355abfcb7fe5e52459a178f8159e09b764efcab205c6",
+    "normalized_content_hash": "sha256:8192a2a492ec79ee31f32122d59cc437760f244290dde5f665ada826f602c90a"
+  },
+  "provenance": {
+    "source_item_id": "43b2aab1-a945-4fa3-a6c1-5e1503cb49a5",
+    "external_id": "https://www.chevron.com/newsroom/2024/q3/carbon-utilization-could-open-new-pathways-to-renewable-fuels"
+  }
+}

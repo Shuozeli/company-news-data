@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-mailwarm",
+    "name": "Mailwarm"
+  },
+  "record_count": 18,
+  "first_published_at": "2026-06-18T17:07:52.608+00:00",
+  "last_published_at": "2026-07-28T09:10:00.324+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 17
+    }
+  ]
+}

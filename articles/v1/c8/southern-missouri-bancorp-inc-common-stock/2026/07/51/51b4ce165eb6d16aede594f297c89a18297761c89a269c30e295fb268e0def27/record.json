@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "51b4ce165eb6d16aede594f297c89a18297761c89a269c30e295fb268e0def27",
+  "company": {
+    "key": "southern-missouri-bancorp-inc-common-stock",
+    "name": "Southern Missouri Bancorp Inc. Common Stock"
+  },
+  "source": {
+    "id": "southern-missouri-bancorp-inc-common-stock-news-import-52af38627077",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bankwithsouthern.com/news/what-is-mortgage-insurance/",
+    "canonical": "https://www.bankwithsouthern.com/news/what-is-mortgage-insurance/"
+  },
+  "title": "What is Mortgage Insurance & Do You Need It? | Southern Bank",
+  "summary": "Wondering about mortgage insurance and if you need it? We’ll show you the different types of mortgage insurance and how to avoid the added cost.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T01:27:46.326277+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:51.236351+00:00",
+  "paths": {
+    "article": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/51/51b4ce165eb6d16aede594f297c89a18297761c89a269c30e295fb268e0def27/article.md",
+    "record": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/51/51b4ce165eb6d16aede594f297c89a18297761c89a269c30e295fb268e0def27/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9589,
+    "sha256": "sha256:29b609de55b810cc0de686d4495c03102f2304941176ab4405102a3c23bf639a",
+    "normalized_content_hash": "sha256:77712f486a028e737385e5d97f3bfb5209252a7a997048b348b123f959271613"
+  },
+  "provenance": {
+    "source_item_id": "d7f1128b-24bc-40ea-9525-2aed0d30445f",
+    "external_id": "https://www.bankwithsouthern.com/news/what-is-mortgage-insurance/"
+  }
+}

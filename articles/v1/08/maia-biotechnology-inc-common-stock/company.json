@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "maia-biotechnology-inc-common-stock",
+    "name": "MAIA Biotechnology Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-04-08T13:00:00+00:00",
+  "last_published_at": "2026-07-08T13:45:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

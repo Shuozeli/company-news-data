@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e6ab076fb026d40c82935d6a58e9cb2ef83dd35911249d9878fca3aa819532e",
+  "company": {
+    "key": "immunic-inc-common-stock",
+    "name": "Immunic Inc. Common Stock"
+  },
+  "source": {
+    "id": "immunic-inc-common-stock-news-import-bc70b831650b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://imux.com/immunic-inc-reports-year-end-2025-financial-results-and-provides-corporate-update/",
+    "canonical": "https://imux.com/immunic-inc-reports-year-end-2025-financial-results-and-provides-corporate-update/"
+  },
+  "title": "Immunic, Inc. Reports Year-End 2025 Financial Results and Provides Corporate Update",
+  "summary": "Immunic, Inc.(Nasdaq: IMUX), today announced financial results for the year ended December 31, 2025, and provided a corporate update.",
+  "published_at": "2026-02-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T09:19:11.387681+00:00",
+  "fetched_at": "2026-07-28T21:26:27.452652+00:00",
+  "last_updated_at": "2026-07-28T21:26:52.402355+00:00",
+  "paths": {
+    "article": "articles/v1/dc/immunic-inc-common-stock/2026/02/2e/2e6ab076fb026d40c82935d6a58e9cb2ef83dd35911249d9878fca3aa819532e/article.md",
+    "record": "articles/v1/dc/immunic-inc-common-stock/2026/02/2e/2e6ab076fb026d40c82935d6a58e9cb2ef83dd35911249d9878fca3aa819532e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16689,
+    "sha256": "sha256:9efeaea085bb875c244b9ad6aa30155bfc98ae7066d39b76d439d0834e189a9d",
+    "normalized_content_hash": "sha256:25a374069df4c9db0c809161bbf7bf30832069e2e8cfd17175a0c31b703993a1"
+  },
+  "provenance": {
+    "source_item_id": "f4ed921c-96fb-406e-bc9b-c2f5d76c7ee4",
+    "external_id": "https://imux.com/immunic-inc-reports-year-end-2025-financial-results-and-provides-corporate-update/"
+  }
+}

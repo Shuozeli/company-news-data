@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "93dc687bce7e5e2ddbf41c80047a7c53a46957412c8cb22ce4a6e7a42f5add04",
+  "company": {
+    "key": "ionq-inc-common-stock",
+    "name": "IonQ Inc. Common Stock"
+  },
+  "source": {
+    "id": "ionq-inc-common-stock-news-import-8f7ead1ae5e6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ionq.com/blog/from-wall-street-hypothesis-to-nyse-production-the-real-world-arrival-ofquantum-finance",
+    "canonical": "https://www.ionq.com/blog/from-wall-street-hypothesis-to-nyse-production-the-real-world-arrival-ofquantum-finance"
+  },
+  "title": "From Wall Street Hypothesis to NYSE Production: The Real-World Arrival of Quantum Finance",
+  "summary": "The conversation in finance has officially shifted from \"when will quantum arrive?\" to \"how is quantum performing in production?\" At IonQ, we are now demonstrating that production-level portfolio optimization is solvable today.",
+  "published_at": "2026-05-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:33:28.377709+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-28T21:46:26.806384+00:00",
+  "paths": {
+    "article": "articles/v1/c6/ionq-inc-common-stock/2026/05/93/93dc687bce7e5e2ddbf41c80047a7c53a46957412c8cb22ce4a6e7a42f5add04/article.md",
+    "record": "articles/v1/c6/ionq-inc-common-stock/2026/05/93/93dc687bce7e5e2ddbf41c80047a7c53a46957412c8cb22ce4a6e7a42f5add04/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3520,
+    "sha256": "sha256:e74889ab42d987bffd825ba0b8ad97390933a9d79a2b0c4d76aaf0208ebd0d63",
+    "normalized_content_hash": "sha256:989bda899042f1b0b260ca68140ae3d82c916791a976ead00805bfbbf9c708d6"
+  },
+  "provenance": {
+    "source_item_id": "b906db09-c4ef-4343-8623-0240d6d7f807",
+    "external_id": "https://www.ionq.com/blog/from-wall-street-hypothesis-to-nyse-production-the-real-world-arrival-ofquantum-finance"
+  }
+}

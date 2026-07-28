@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2bd04bd6b4e0c66aa609067cd3972d86d31fc45e2032055b780d4d4ac6da704c",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/hpe_challenge_2026/",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/hpe_challenge_2026/"
+  },
+  "title": "Super Taikyu 2026 | TOYOTA TIMES",
+  "summary": "#TOYOTATIMES",
+  "published_at": "2026-07-27T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:29.575682+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/2b/2bd04bd6b4e0c66aa609067cd3972d86d31fc45e2032055b780d4d4ac6da704c/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/2b/2bd04bd6b4e0c66aa609067cd3972d86d31fc45e2032055b780d4d4ac6da704c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2886,
+    "sha256": "sha256:2d84b622a1506908c8ef7ae0f5abb878a0b06fea98a8716761d41a8429b84c4d",
+    "normalized_content_hash": "sha256:6ec2687a306ad8a4279dc69877bd8bbb18cbfe3e1ae91009303c2c5118dfa8b2"
+  },
+  "provenance": {
+    "source_item_id": "378e8e6d-358b-49b3-ab1a-435edac0a720",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/hpe_challenge_2026/"
+  }
+}

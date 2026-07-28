@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "zoom-communications-inc-class-a-common-stock",
+    "name": "Zoom Communications Inc. Class A Common Stock"
+  },
+  "record_count": 38,
+  "first_published_at": "2026-06-01T13:00:23+00:00",
+  "last_published_at": "2026-07-28T16:07:03+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 16
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 22
+    }
+  ]
+}

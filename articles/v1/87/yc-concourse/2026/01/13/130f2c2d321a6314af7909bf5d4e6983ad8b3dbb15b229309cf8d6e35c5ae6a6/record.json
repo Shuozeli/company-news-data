@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "130f2c2d321a6314af7909bf5d4e6983ad8b3dbb15b229309cf8d6e35c5ae6a6",
+  "company": {
+    "key": "yc-concourse",
+    "name": "Concourse"
+  },
+  "source": {
+    "id": "yc-concourse-news-import-c7979aaf4bde",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.concourse.ai/insights/concourse-12m-series-a-launches-general-availability",
+    "canonical": "https://www.concourse.co/insights/concourse-12m-series-a-launches-general-availability"
+  },
+  "title": "Concourse Raises $12M Series A and Launches General Availability",
+  "summary": "Concourse raises $12M Series A led by Standard Capital and launches general availability. AI agents helping finance teams cut manual work by 75% and produce 6x more analysis",
+  "published_at": "2026-01-27T13:30:52.441+00:00",
+  "first_seen_at": "2026-07-27T01:13:47.982979+00:00",
+  "fetched_at": "2026-07-28T22:23:04.727589+00:00",
+  "last_updated_at": "2026-07-28T22:25:37.686874+00:00",
+  "paths": {
+    "article": "articles/v1/87/yc-concourse/2026/01/13/130f2c2d321a6314af7909bf5d4e6983ad8b3dbb15b229309cf8d6e35c5ae6a6/article.md",
+    "record": "articles/v1/87/yc-concourse/2026/01/13/130f2c2d321a6314af7909bf5d4e6983ad8b3dbb15b229309cf8d6e35c5ae6a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5191,
+    "sha256": "sha256:9112326085a8fdb550d2120ca3c30c355d35634135d4868ab59782cbd275c022",
+    "normalized_content_hash": "sha256:03503b4d96a3ff2427b9a81b232a2384beb693be211c94259828a39118099087"
+  },
+  "provenance": {
+    "source_item_id": "412ff852-7ea0-40c5-b17e-9a0d256442d9",
+    "external_id": "https://www.concourse.co/insights/concourse-12m-series-a-launches-general-availability"
+  }
+}

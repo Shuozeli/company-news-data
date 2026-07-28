@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c21d5c5ec84239782f1910ac062d1dfbb676f935d8611ab9cee41ff259ede4b",
+  "company": {
+    "key": "wafd-inc-depositary-shares",
+    "name": "WaFd Inc. Depositary Shares"
+  },
+  "source": {
+    "id": "wafd-inc-depositary-shares-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/consumer-tips",
+    "canonical": "https://www.wafdbank.com/articles/consumer-tips"
+  },
+  "title": "Articles about Consumer Tips",
+  "summary": "Need money management tips to help you reach your financial goals? Read the latest consumer money tips from WaFd Bank so you can build your nest egg.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T05:02:34.283464+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:25.809769+00:00",
+  "paths": {
+    "article": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/1c/1c21d5c5ec84239782f1910ac062d1dfbb676f935d8611ab9cee41ff259ede4b/article.md",
+    "record": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/1c/1c21d5c5ec84239782f1910ac062d1dfbb676f935d8611ab9cee41ff259ede4b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2445,
+    "sha256": "sha256:763558ba00f225447511e7f17b18d0eb66f596f4737e7996d7d644a713fef924",
+    "normalized_content_hash": "sha256:4d6023d7bc0850bf70a8aa74546d794374e88daae24067fde1284fa5cf66c8c4"
+  },
+  "provenance": {
+    "source_item_id": "390f148d-df71-4721-8f26-9f5ef9fea3f0",
+    "external_id": "https://www.wafdbank.com/articles/consumer-tips"
+  }
+}

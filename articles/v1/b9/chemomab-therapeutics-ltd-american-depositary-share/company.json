@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "chemomab-therapeutics-ltd-american-depositary-share",
+    "name": "Chemomab Therapeutics Ltd. American Depositary Share"
+  },
+  "record_count": 5,
+  "first_published_at": "2025-12-02T13:00:00+00:00",
+  "last_published_at": "2026-07-08T11:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

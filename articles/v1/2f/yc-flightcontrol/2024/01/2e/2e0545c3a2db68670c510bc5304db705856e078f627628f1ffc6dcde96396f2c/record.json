@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e0545c3a2db68670c510bc5304db705856e078f627628f1ffc6dcde96396f2c",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/fix-nextjs-routing-to-have-full-type-safety",
+    "canonical": "https://www.flightcontrol.dev/blog/fix-nextjs-routing-to-have-full-type-safety"
+  },
+  "title": "Fix Next.js routing to have full type-safety",
+  "summary": "Next.js has poor built in routing type safety, but here's how to fix it once and for all.",
+  "published_at": "2024-01-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:03.757455+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2024/01/2e/2e0545c3a2db68670c510bc5304db705856e078f627628f1ffc6dcde96396f2c/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2024/01/2e/2e0545c3a2db68670c510bc5304db705856e078f627628f1ffc6dcde96396f2c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8621,
+    "sha256": "sha256:7b7ec781213d831465a23a1ebb1b7f10354a236ed9525ba5a03459bbff8cc197",
+    "normalized_content_hash": "sha256:2a823b08dd0b6bb05481726ff9b7b5c0745cb57d9ffcca4c5f3ea8092dd41bb1"
+  },
+  "provenance": {
+    "source_item_id": "a64d0ee2-200c-474b-bb26-265e0073e3a9",
+    "external_id": "https://www.flightcontrol.dev/blog/fix-nextjs-routing-to-have-full-type-safety"
+  }
+}

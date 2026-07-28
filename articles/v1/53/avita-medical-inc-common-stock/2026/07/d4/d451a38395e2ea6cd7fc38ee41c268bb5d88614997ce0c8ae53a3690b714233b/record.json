@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d451a38395e2ea6cd7fc38ee41c268bb5d88614997ce0c8ae53a3690b714233b",
+  "company": {
+    "key": "avita-medical-inc-common-stock",
+    "name": "Avita Medical Inc. Common Stock"
+  },
+  "source": {
+    "id": "avita-medical-inc-common-stock-news-import-233088ecf762",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://avitamedical.com/insights/dermal-matrices-what-matters-time-to-graft/",
+    "canonical": "https://avitamedical.com/insights/dermal-matrices-what-matters-time-to-graft/"
+  },
+  "title": "Dermal Matrices: What Features Matter Most For Time To Graft?",
+  "summary": "Dermal matrices can support tissue generation and vascularization in full-thickness skin defects. But which features matter most when it comes to time to graft?",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:40:47.171665+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:15.761321+00:00",
+  "paths": {
+    "article": "articles/v1/53/avita-medical-inc-common-stock/2026/07/d4/d451a38395e2ea6cd7fc38ee41c268bb5d88614997ce0c8ae53a3690b714233b/article.md",
+    "record": "articles/v1/53/avita-medical-inc-common-stock/2026/07/d4/d451a38395e2ea6cd7fc38ee41c268bb5d88614997ce0c8ae53a3690b714233b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7162,
+    "sha256": "sha256:e66fbda6f276afbb7aa2ab273a19850aa046a0ff6f08a89754d6b62b140bab9f",
+    "normalized_content_hash": "sha256:566ae7372dabbf2b80faf65758f88ebae6509b110afce0d7259e7eff84346130"
+  },
+  "provenance": {
+    "source_item_id": "78217842-46b6-4b07-95cd-059c5c9a3423",
+    "external_id": "https://avitamedical.com/insights/dermal-matrices-what-matters-time-to-graft/"
+  }
+}

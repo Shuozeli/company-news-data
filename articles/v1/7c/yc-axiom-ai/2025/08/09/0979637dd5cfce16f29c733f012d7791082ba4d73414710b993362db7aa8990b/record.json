@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0979637dd5cfce16f29c733f012d7791082ba4d73414710b993362db7aa8990b",
+  "company": {
+    "key": "yc-axiom-ai",
+    "name": "Axiom.ai"
+  },
+  "source": {
+    "id": "yc-axiom-ai-news-import-c535b3e44cdf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://axiom.ai/blog/writing-tests-with-llms/",
+    "canonical": "https://axiom.ai/blog/writing-tests-with-llms"
+  },
+  "title": "Writing Tests With LLMs",
+  "summary": "Learn more how to take advantage of large-language models in order to build tests for your automation scripts.",
+  "published_at": "2025-08-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:24:24.051508+00:00",
+  "fetched_at": "2026-07-28T21:27:42.276842+00:00",
+  "last_updated_at": "2026-07-28T21:30:03.388623+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-axiom-ai/2025/08/09/0979637dd5cfce16f29c733f012d7791082ba4d73414710b993362db7aa8990b/article.md",
+    "record": "articles/v1/7c/yc-axiom-ai/2025/08/09/0979637dd5cfce16f29c733f012d7791082ba4d73414710b993362db7aa8990b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13717,
+    "sha256": "sha256:b918ecd29747baf460f541293c34f17cba4d7e01e2b55a607096e8b2dd130ff6",
+    "normalized_content_hash": "sha256:3c6fa7233a0f4b7bc10b02153bb5fe4b9042067ef6a18520a9c9b71a9038766d"
+  },
+  "provenance": {
+    "source_item_id": "6571363b-515a-4188-af83-eaf831b9de5f",
+    "external_id": "https://axiom.ai/blog/writing-tests-with-llms"
+  }
+}

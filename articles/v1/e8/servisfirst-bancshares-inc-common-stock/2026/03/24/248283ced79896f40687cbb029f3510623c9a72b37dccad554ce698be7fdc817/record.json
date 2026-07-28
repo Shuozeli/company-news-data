@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "248283ced79896f40687cbb029f3510623c9a72b37dccad554ce698be7fdc817",
+  "company": {
+    "key": "servisfirst-bancshares-inc-common-stock",
+    "name": "ServisFirst Bancshares Inc. Common Stock"
+  },
+  "source": {
+    "id": "servisfirst-bancshares-inc-common-stock-news-import-c266ee980922",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://servisfirstbank.com/news/3-25-26",
+    "canonical": "https://servisfirstbank.com/news/3-25-26"
+  },
+  "title": "ServisFirst Bank Huntsville Announces New Headquarters",
+  "summary": "Read the latest from ServisFirst Bank.",
+  "published_at": "2026-03-23T16:42:00+00:00",
+  "first_seen_at": "2026-07-22T13:12:54.277406+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-28T21:26:53.186394+00:00",
+  "paths": {
+    "article": "articles/v1/e8/servisfirst-bancshares-inc-common-stock/2026/03/24/248283ced79896f40687cbb029f3510623c9a72b37dccad554ce698be7fdc817/article.md",
+    "record": "articles/v1/e8/servisfirst-bancshares-inc-common-stock/2026/03/24/248283ced79896f40687cbb029f3510623c9a72b37dccad554ce698be7fdc817/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4138,
+    "sha256": "sha256:fc45f0cea8adb145623844dd376cbe40ce6c1b5b41a10dd995b88d3a33b7f830",
+    "normalized_content_hash": "sha256:66ca25f057d5637ba60490a3d5a5b68bc66fe551c8460aa2ffc738baddee2dba"
+  },
+  "provenance": {
+    "source_item_id": "a9d58f5a-434d-412a-9301-76526c6e4d22",
+    "external_id": "https://servisfirstbank.com/news/3-25-26"
+  }
+}

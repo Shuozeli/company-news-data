@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ffd1dadff6289d30c2eaf6de7cb66be640ef8390b7657a49230576414e193014",
+  "company": {
+    "key": "wrap-technologies-inc-common-stock",
+    "name": "Wrap Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "wrap-technologies-inc-common-stock-news-import-2311bb8f0b16",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.wrap.com/news-events/press-releases/detail/409/wrap-technologies-receives-historic-atf-ruling-formally",
+    "canonical": "https://ir.wrap.com/news-events/press-releases/detail/409/wrap-technologies-receives-historic-atf-ruling-formally"
+  },
+  "title": "Wrap Technologies Receives Historic ATF Ruling Formally Classifying BolaWrap® 150 as an Instrument of Restraint — Not a Firearm or Weapon Under Federal Law",
+  "summary": "ATF Ruling 2026-2 Removes Federal Procurement Barriers Across Corrections, Civilian Safety, International Deployment, and Autonomous Response…...",
+  "published_at": "2026-07-06T07:00:00+00:00",
+  "first_seen_at": "2026-07-22T20:37:48.340685+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:03.664764+00:00",
+  "paths": {
+    "article": "articles/v1/95/wrap-technologies-inc-common-stock/2026/07/ff/ffd1dadff6289d30c2eaf6de7cb66be640ef8390b7657a49230576414e193014/article.md",
+    "record": "articles/v1/95/wrap-technologies-inc-common-stock/2026/07/ff/ffd1dadff6289d30c2eaf6de7cb66be640ef8390b7657a49230576414e193014/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14523,
+    "sha256": "sha256:6ab469bac16870ea9d52ea11e87712889ea01efb68754fb906ed47c385a4c8c1",
+    "normalized_content_hash": "sha256:8fd9080be6e91d289df5830ac1501ad0e494469e9778f01ff894b1132ff821f2"
+  },
+  "provenance": {
+    "source_item_id": "d2a28557-f635-4f67-99a0-aeff52be70e5",
+    "external_id": "https://ir.wrap.com/news-events/press-releases/detail/409/wrap-technologies-receives-historic-atf-ruling-formally"
+  }
+}

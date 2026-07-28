@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "46d88631266c20348675827dfc81f893c3ece2483defee018bc25bf05d58d9b3",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/books-and-authors/best-books-2026",
+    "canonical": "https://www.aboutamazon.com/news/books-and-authors/best-books-2026"
+  },
+  "title": "The best books of 2026 so far, according to the Amazon Editors",
+  "summary": "Tayari Jones’s ‘Kin’—a nuanced portrait of family, friendship, and race—comes in at No. 1 from Amazon’s wide selection of books released so far this year.",
+  "published_at": "2026-06-10T13:00:10.708+00:00",
+  "first_seen_at": "2026-07-21T06:14:35.460263+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:53.375205+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/06/46/46d88631266c20348675827dfc81f893c3ece2483defee018bc25bf05d58d9b3/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/06/46/46d88631266c20348675827dfc81f893c3ece2483defee018bc25bf05d58d9b3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10537,
+    "sha256": "sha256:f594d6ed3bf733d64d8829c5bc0775873769e05e8b61b9755f347413a9bc6e46",
+    "normalized_content_hash": "sha256:db4fccea4378ccf841f661feb53d651d2ac98094d6380c1a55d0b85376e46b84"
+  },
+  "provenance": {
+    "source_item_id": "c2766eb5-8473-42da-bc51-e1af5673536f",
+    "external_id": "https://www.aboutamazon.com/news/books-and-authors/best-books-2026"
+  }
+}

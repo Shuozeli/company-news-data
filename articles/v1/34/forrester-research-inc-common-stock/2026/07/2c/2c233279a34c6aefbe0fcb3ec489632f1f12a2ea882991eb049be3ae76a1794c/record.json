@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c233279a34c6aefbe0fcb3ec489632f1f12a2ea882991eb049be3ae76a1794c",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/press-newsroom/forresters-2027-budget-planning-guides/",
+    "canonical": "https://www.forrester.com/press-newsroom/forresters-2027-budget-planning-guides/"
+  },
+  "title": "Forrester’s 2027 Budget Planning Guides: After A Year Of Caution, Business And Tech Leaders Are Ready To Invest Again",
+  "summary": "According to Forrester's 2027 Budget Planning Guides, more than 80% of leaders expect their budgets to increase over the next 12 months, with as many as one-quarter anticipating growth of 10% or more.",
+  "published_at": "2026-07-15T09:00:39+00:00",
+  "first_seen_at": "2026-07-22T22:15:37.198406+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:37.472265+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2026/07/2c/2c233279a34c6aefbe0fcb3ec489632f1f12a2ea882991eb049be3ae76a1794c/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2026/07/2c/2c233279a34c6aefbe0fcb3ec489632f1f12a2ea882991eb049be3ae76a1794c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8870,
+    "sha256": "sha256:701b273304be0b18fb841284f62a39fe2f6842d3def2a535951971ead5cd5bfd",
+    "normalized_content_hash": "sha256:74c45f77d6739e884f41ff60cc05f37de9d15e11f28498b105baa807a8318baa"
+  },
+  "provenance": {
+    "source_item_id": "62ef398b-1590-431c-ad02-359196d47df2",
+    "external_id": "https://www.forrester.com/press-newsroom/forresters-2027-budget-planning-guides/"
+  }
+}

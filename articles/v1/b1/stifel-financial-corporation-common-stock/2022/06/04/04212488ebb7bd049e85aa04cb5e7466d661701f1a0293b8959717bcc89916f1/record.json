@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "04212488ebb7bd049e85aa04cb5e7466d661701f1a0293b8959717bcc89916f1",
+  "company": {
+    "key": "stifel-financial-corporation-common-stock",
+    "name": "Stifel Financial Corporation Common Stock"
+  },
+  "source": {
+    "id": "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stifel.com/docs/pdf/pressreleases/2022/Stifel-Expands-Municipal-Securities-Group-for-06.06.22.pdf",
+    "canonical": "https://www.stifel.com/docs/pdf/pressreleases/2022/Stifel-Expands-Municipal-Securities-Group-for-06.06.22.pdf"
+  },
+  "title": "STIFEL EXPANDS MUNICIPAL SECURITIES GROUP",
+  "summary": "STIFEL EXPANDS MUNICIPAL SECURITIES GROUP",
+  "published_at": "2022-06-06T15:05:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:36.708871+00:00",
+  "fetched_at": "2026-07-28T20:45:59.992574+00:00",
+  "last_updated_at": "2026-07-28T20:46:00.134260+00:00",
+  "paths": {
+    "article": "articles/v1/b1/stifel-financial-corporation-common-stock/2022/06/04/04212488ebb7bd049e85aa04cb5e7466d661701f1a0293b8959717bcc89916f1/article.md",
+    "record": "articles/v1/b1/stifel-financial-corporation-common-stock/2022/06/04/04212488ebb7bd049e85aa04cb5e7466d661701f1a0293b8959717bcc89916f1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 736,
+    "sha256": "sha256:c067f525c14240162e3d03b2bfbb33c56b96b9584a45039b13137f1a212602dc",
+    "normalized_content_hash": "sha256:325130ad67c2e1cd4c610bf4a914cca5a49389fa161bb1cde8880810cdd416ac"
+  },
+  "provenance": {
+    "source_item_id": "2a7eb874-2a36-4b9f-97b9-ca686e77c93a",
+    "external_id": "STIFEL-PRESS-RELEASE-66-2249"
+  }
+}

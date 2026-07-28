@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13f2463982deb463433773772edf74f8938be17f93ab7c2b65965ab29849cdd3",
+  "company": {
+    "key": "hormel-foods-corporation-common-stock",
+    "name": "Hormel Foods Corporation Common Stock"
+  },
+  "source": {
+    "id": "hormel-foods-corporation-common-stock-news-import-0faa90d40874",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hormelfoods.com/newsroom/press-releases/the-spam-brand-and-bachans-serve-up-crave-worthy-limited-edition-japanese-barbecue-flavor/",
+    "canonical": "https://www.hormelfoods.com/newsroom/press-releases/the-spam-brand-and-bachans-serve-up-crave-worthy-limited-edition-japanese-barbecue-flavor/"
+  },
+  "title": "The SPAM ® Brand and Bachan’s ® Serve Up Crave-Worthy, Limited-Edition Japanese Barbecue Flavor",
+  "summary": "This first-of-its-kind collaboration brings together two beloved pantry staples rooted in Asian American food culture.",
+  "published_at": "2026-03-05T12:59:09+00:00",
+  "first_seen_at": "2026-07-21T23:11:51.811758+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-07-28T22:04:21.050925+00:00",
+  "paths": {
+    "article": "articles/v1/47/hormel-foods-corporation-common-stock/2026/03/13/13f2463982deb463433773772edf74f8938be17f93ab7c2b65965ab29849cdd3/article.md",
+    "record": "articles/v1/47/hormel-foods-corporation-common-stock/2026/03/13/13f2463982deb463433773772edf74f8938be17f93ab7c2b65965ab29849cdd3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5279,
+    "sha256": "sha256:2efa38f30a96bad8eed98ec12417bd428229ddfde070b15f3fcc81379e33d742",
+    "normalized_content_hash": "sha256:bc1a880909292e2d63bc8640a3174db0c43f11026b4bdd89a10b93f74a9f7125"
+  },
+  "provenance": {
+    "source_item_id": "b969af36-d20b-4df5-8197-300561438f40",
+    "external_id": "https://www.hormelfoods.com/newsroom/press-releases/the-spam-brand-and-bachans-serve-up-crave-worthy-limited-edition-japanese-barbecue-flavor/"
+  }
+}

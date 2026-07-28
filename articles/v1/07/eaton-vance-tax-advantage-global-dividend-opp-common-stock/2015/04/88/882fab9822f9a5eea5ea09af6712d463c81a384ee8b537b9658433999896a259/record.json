@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "882fab9822f9a5eea5ea09af6712d463c81a384ee8b537b9658433999896a259",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260724/bank-of-america-corp-nyse-bac-declared-a-dividend-of-$0.3200-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260724/bank-of-america-corp-nyse-bac-declared-a-dividend-of-$0.3200-per-share/"
+  },
+  "title": "BAC Dividend Announcement $0.3200/Share 7/24/2026",
+  "summary": "NYSE:BAC Bank of America Corp Dividend Announcement $0.3200 per share on July 24, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-26T13:16:00.264154+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.982679+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/88/882fab9822f9a5eea5ea09af6712d463c81a384ee8b537b9658433999896a259/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/88/882fab9822f9a5eea5ea09af6712d463c81a384ee8b537b9658433999896a259/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2245,
+    "sha256": "sha256:70a618d4064d629822b0c7a3d5ce812d9f3853afbd0ff2999cc8418ab3a804ae",
+    "normalized_content_hash": "sha256:70be48b469a7ec5a861881a047fe9843b18a24434e72a3c3010961fa5e3007b0"
+  },
+  "provenance": {
+    "source_item_id": "1c48a515-7168-4570-8b35-b78e752ca127",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260724/bank-of-america-corp-nyse-bac-declared-a-dividend-of-$0.3200-per-share/"
+  }
+}

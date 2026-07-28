@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "95214db0c23075201a2bba58f876debc4f09d87402447e7156eada2b85a68f61",
+  "company": {
+    "key": "hormel-foods-corporation-common-stock",
+    "name": "Hormel Foods Corporation Common Stock"
+  },
+  "source": {
+    "id": "hormel-foods-corporation-common-stock-news-import-0faa90d40874",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-completes-sale-of-whole-bird-turkey-business-to-life-science-innovations/",
+    "canonical": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-completes-sale-of-whole-bird-turkey-business-to-life-science-innovations/"
+  },
+  "title": "Hormel Foods Completes Sale of Whole-Bird Turkey Business to Life-Science Innovations",
+  "summary": "Hormel Foods continues to own JENNIE-O® brand and value-added turkey product portfolio",
+  "published_at": "2026-04-24T19:04:37+00:00",
+  "first_seen_at": "2026-07-21T23:11:51.811758+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:25.733043+00:00",
+  "paths": {
+    "article": "articles/v1/47/hormel-foods-corporation-common-stock/2026/04/95/95214db0c23075201a2bba58f876debc4f09d87402447e7156eada2b85a68f61/article.md",
+    "record": "articles/v1/47/hormel-foods-corporation-common-stock/2026/04/95/95214db0c23075201a2bba58f876debc4f09d87402447e7156eada2b85a68f61/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3989,
+    "sha256": "sha256:4d70db3d8b94b7bc4ce2c97bde0aec8aafc8d96064ce60c48914b7fc08378cfb",
+    "normalized_content_hash": "sha256:d4c1c01fc35c73863c5c1bf81faf896d9d6b79ed947b3270279878bcbaf0b5d1"
+  },
+  "provenance": {
+    "source_item_id": "2d938f32-6121-48e4-9541-9e664ec888f5",
+    "external_id": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-completes-sale-of-whole-bird-turkey-business-to-life-science-innovations/"
+  }
+}

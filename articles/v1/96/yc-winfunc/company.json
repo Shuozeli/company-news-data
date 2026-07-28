@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "record_count": 36,
+  "first_published_at": "2024-01-01T00:00:00+00:00",
+  "last_published_at": "2026-07-23T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

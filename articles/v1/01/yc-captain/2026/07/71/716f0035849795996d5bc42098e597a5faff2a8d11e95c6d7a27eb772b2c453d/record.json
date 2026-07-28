@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "716f0035849795996d5bc42098e597a5faff2a8d11e95c6d7a27eb772b2c453d",
+  "company": {
+    "key": "yc-captain",
+    "name": "Captain"
+  },
+  "source": {
+    "id": "yc-captain-news-import-d4d8e424d2c9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runcaptain.com/blog/ragie-to-captain-migration",
+    "canonical": "https://www.runcaptain.com/blog/ragie-to-captain-migration"
+  },
+  "title": "Migrating from Ragie to Captain",
+  "summary": "Ragie’s hosted service will end on Sunday, July 19, 2026. To help customers keep their applications running, many Ragie customers have been migrating to Captain",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T12:23:05.765347+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:13.323091+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-captain/2026/07/71/716f0035849795996d5bc42098e597a5faff2a8d11e95c6d7a27eb772b2c453d/article.md",
+    "record": "articles/v1/01/yc-captain/2026/07/71/716f0035849795996d5bc42098e597a5faff2a8d11e95c6d7a27eb772b2c453d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6483,
+    "sha256": "sha256:392ce5e42da05763f20535dd3a158c8bf2a47ee4a4a8afe0126f8ac5d10ad7d8",
+    "normalized_content_hash": "sha256:e0fb6111c1d559d510fc2548c146b565d30a62d266273d0f1f0ab262be47f047"
+  },
+  "provenance": {
+    "source_item_id": "1415564f-b2f5-4535-8607-452c9b815111",
+    "external_id": "https://www.runcaptain.com/blog/ragie-to-captain-migration"
+  }
+}

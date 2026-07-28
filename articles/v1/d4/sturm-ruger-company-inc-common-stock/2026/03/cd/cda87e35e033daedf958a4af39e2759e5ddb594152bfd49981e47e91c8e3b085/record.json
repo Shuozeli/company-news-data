@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cda87e35e033daedf958a4af39e2759e5ddb594152bfd49981e47e91c8e3b085",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-03-27.html",
+    "canonical": "https://ruger.com/news/2026-03-27.html"
+  },
+  "title": "Ruger Appoints New Senior Vice President & Chief Financial Officer",
+  "summary": "",
+  "published_at": "2026-03-27T08:05:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T22:17:13.778547+00:00",
+  "last_updated_at": "2026-07-28T22:17:50.569464+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/03/cd/cda87e35e033daedf958a4af39e2759e5ddb594152bfd49981e47e91c8e3b085/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/03/cd/cda87e35e033daedf958a4af39e2759e5ddb594152bfd49981e47e91c8e3b085/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5684,
+    "sha256": "sha256:f6bff89615c817f65dffd12653faad1d157d757443caddd7ff541c86627a2052",
+    "normalized_content_hash": "sha256:41d0a6b57fc0d5f5d880100c0a34785a19db3bbf2102f27284563f4016758a1c"
+  },
+  "provenance": {
+    "source_item_id": "1604b810-ee21-4773-af9a-8c9fbfec5485",
+    "external_id": "https://ruger.com/news/2026-03-27.html"
+  }
+}

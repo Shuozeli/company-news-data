@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09ae62018d7bab0e832c193171f89d470a058f680651e48e0b9bed4bc2c80e70",
+  "company": {
+    "key": "definitive-healthcare-corp-class-a-common-stock",
+    "name": "Definitive Healthcare Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "definitive-healthcare-corp-class-a-common-stock-news-import-ac685c0fe722",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.definitivehc.com/resources/healthcare-insights/top-trauma-centers-by-net-patient-revenue",
+    "canonical": "https://www.definitivehc.com/resources/healthcare-insights/top-trauma-centers-by-net-patient-revenue"
+  },
+  "title": "Top trauma centers by net patient revenue",
+  "summary": "Explore a list of the top trauma centers in the U.S. according to net patient revenue. Identify the busiest trauma centers and the largest trauma hospitals.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:02:19.730773+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:36.969326+00:00",
+  "paths": {
+    "article": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/09/09ae62018d7bab0e832c193171f89d470a058f680651e48e0b9bed4bc2c80e70/article.md",
+    "record": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/09/09ae62018d7bab0e832c193171f89d470a058f680651e48e0b9bed4bc2c80e70/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13671,
+    "sha256": "sha256:156afef77130c42e31df8cd60748e7436c5ae8b405b27122656059e72ab6d1d9",
+    "normalized_content_hash": "sha256:ad0bcdf4afd32783940669190f834deceaf1734c7be589b2bec3bd2100f1f6d3"
+  },
+  "provenance": {
+    "source_item_id": "07f575b9-301b-4a26-a17b-df15943c4d07",
+    "external_id": "https://www.definitivehc.com/resources/healthcare-insights/top-trauma-centers-by-net-patient-revenue"
+  }
+}

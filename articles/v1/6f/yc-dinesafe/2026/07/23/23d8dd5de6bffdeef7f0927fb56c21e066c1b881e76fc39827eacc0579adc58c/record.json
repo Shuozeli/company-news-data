@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23d8dd5de6bffdeef7f0927fb56c21e066c1b881e76fc39827eacc0579adc58c",
+  "company": {
+    "key": "yc-dinesafe",
+    "name": "Dinesafe"
+  },
+  "source": {
+    "id": "yc-dinesafe-news-import-07d65e1cf124",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iwaspoisoned.com/news/agroknow-workshop-using-ai-to-enhance-food-safety-and-prevent-food-fraud",
+    "canonical": "https://iwaspoisoned.com/news/agroknow-workshop-using-ai-to-enhance-food-safety-and-prevent-food-fraud"
+  },
+  "title": "Iwaspoisoned Presents at Agroknow Workshop on AI and Food Safety During NAFS 2025 Conference Week",
+  "summary": "We collect and share reports with consumers, public health and restaurants. Protect friends, family & help restaurants. If you got food poisoning report it now!",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T07:41:46.778872+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:48.520479+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-dinesafe/2026/07/23/23d8dd5de6bffdeef7f0927fb56c21e066c1b881e76fc39827eacc0579adc58c/article.md",
+    "record": "articles/v1/6f/yc-dinesafe/2026/07/23/23d8dd5de6bffdeef7f0927fb56c21e066c1b881e76fc39827eacc0579adc58c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3914,
+    "sha256": "sha256:a89943df93fd504100c5f4c53f695297940cf22037132339bdd32c99bb2ea841",
+    "normalized_content_hash": "sha256:3e5609311b68de39ab19f228f60b7fccf0bb2982df713e62ef256f565c02f19b"
+  },
+  "provenance": {
+    "source_item_id": "f9f12536-84af-4bc2-95b0-8ae1f97dd9bd",
+    "external_id": "https://iwaspoisoned.com/news/agroknow-workshop-using-ai-to-enhance-food-safety-and-prevent-food-fraud"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b4ba822e363dfbebf1afc7f7fe0626aeef486896e3f131058865cc7d4b07101f",
+  "company": {
+    "key": "yc-nextera-robotics",
+    "name": "Nextera Robotics"
+  },
+  "source": {
+    "id": "yc-nextera-robotics-news-import-e73697723118",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nexterarobotics.com/updates/nextera-amd-robotics-summit",
+    "canonical": "https://nexterarobotics.com/updates/nextera-amd-robotics-summit"
+  },
+  "title": "Nextera joins AMD at their booth at the 2024 Robotics Summit in Boston, MA",
+  "summary": "Nextera joined partner AMD at their booth at the 2024 Robotics Summit in Boston, MA",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T22:57:33.859366+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:47:06.320016+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-nextera-robotics/2026/07/b4/b4ba822e363dfbebf1afc7f7fe0626aeef486896e3f131058865cc7d4b07101f/article.md",
+    "record": "articles/v1/56/yc-nextera-robotics/2026/07/b4/b4ba822e363dfbebf1afc7f7fe0626aeef486896e3f131058865cc7d4b07101f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1279,
+    "sha256": "sha256:af8e89163913bf7113dde55c7e21a7ec861907ada7f77b5b9bd8f6ae202197e8",
+    "normalized_content_hash": "sha256:de0c11672d6b204bba4d8ec2854442b3dfe9538c3d50f4348d1b204b3b1c9b74"
+  },
+  "provenance": {
+    "source_item_id": "16d727d3-de1a-46a7-b069-8d964e91e32c",
+    "external_id": "https://nexterarobotics.com/updates/nextera-amd-robotics-summit"
+  }
+}

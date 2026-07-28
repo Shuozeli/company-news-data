@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-runanywhere",
+    "name": "RunAnywhere"
+  },
+  "record_count": 15,
+  "first_published_at": "2026-02-09T00:00:00+00:00",
+  "last_published_at": "2026-07-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ]
+}

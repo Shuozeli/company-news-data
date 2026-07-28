@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9536f937ffa15a82572d3de5d087d735099635959989edade51a5ea7bcfd95bc",
+  "company": {
+    "key": "tradeweb-markets-inc-class-a-common-stock",
+    "name": "Tradeweb Markets Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "tradeweb-markets-inc-class-a-common-stock-news-import-c357aa65b261",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tradeweb.com/newsroom/monthly-activity-reports/",
+    "canonical": "https://www.tradeweb.com/newsroom/monthly-activity-reports/"
+  },
+  "title": "Monthly Activity Report",
+  "summary": "As the leading institutional, wholesale and retail marketplace for fixed income, derivatives and ETF trading, we believe that market participants will better understand the real impact of e-trading with more centralized access to data on our market activity.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:29:26.391128+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:13.800264+00:00",
+  "paths": {
+    "article": "articles/v1/e1/tradeweb-markets-inc-class-a-common-stock/2026/07/95/9536f937ffa15a82572d3de5d087d735099635959989edade51a5ea7bcfd95bc/article.md",
+    "record": "articles/v1/e1/tradeweb-markets-inc-class-a-common-stock/2026/07/95/9536f937ffa15a82572d3de5d087d735099635959989edade51a5ea7bcfd95bc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2322,
+    "sha256": "sha256:c428e1042c551b4fb6d1f3eb920bcf8e5deaae09990af18b528a6ecc2a82b324",
+    "normalized_content_hash": "sha256:e340868916754ecf25a92dee684645bbd5d25c1e62274afac5142d4b866778a2"
+  },
+  "provenance": {
+    "source_item_id": "74975800-af97-47b1-9200-37a0f38f91b8",
+    "external_id": "https://www.tradeweb.com/newsroom/monthly-activity-reports/"
+  }
+}

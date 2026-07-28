@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4182222d25df9782ab29c896d7c027cd3b031321579862f5ad52db033b752d8c",
+  "company": {
+    "key": "wyndham-hotels-resorts-inc-common-stock",
+    "name": "Wyndham Hotels & Resorts Inc. Common Stock"
+  },
+  "source": {
+    "id": "wyndham-hotels-resorts-inc-common-stock-news-import-2076c01113aa",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://development.wyndhamhotels.com/blog/skys-the-limit-ceres-diversifies-hotel-portfolio-with-wyndham/",
+    "canonical": "https://development.wyndhamhotels.com/blog/skys-the-limit-ceres-diversifies-hotel-portfolio-with-wyndham/"
+  },
+  "title": "Sky’s the Limit: Ceres Diversifies Hotel Portfolio with Wyndham | Wyndham Hotels & Resorts",
+  "summary": "",
+  "published_at": "2024-09-16T21:19:32+00:00",
+  "first_seen_at": "2026-07-26T05:43:47.084736+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:32.154300+00:00",
+  "paths": {
+    "article": "articles/v1/d4/wyndham-hotels-resorts-inc-common-stock/2024/09/41/4182222d25df9782ab29c896d7c027cd3b031321579862f5ad52db033b752d8c/article.md",
+    "record": "articles/v1/d4/wyndham-hotels-resorts-inc-common-stock/2024/09/41/4182222d25df9782ab29c896d7c027cd3b031321579862f5ad52db033b752d8c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10029,
+    "sha256": "sha256:4da581f556b5e12cdaddc427de5fb97763e99036bf3eda65f22ad86e27200e3b",
+    "normalized_content_hash": "sha256:ce450aa2c913125de74787d5529e9743943d63d625f12d91dfee09df1ad54caa"
+  },
+  "provenance": {
+    "source_item_id": "dff16909-7518-446f-ae77-6ec67c89f43b",
+    "external_id": "https://development.wyndhamhotels.com/blog/skys-the-limit-ceres-diversifies-hotel-portfolio-with-wyndham/"
+  }
+}

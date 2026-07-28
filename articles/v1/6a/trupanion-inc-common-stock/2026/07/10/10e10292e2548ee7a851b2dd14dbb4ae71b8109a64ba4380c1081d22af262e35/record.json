@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "10e10292e2548ee7a851b2dd14dbb4ae71b8109a64ba4380c1081d22af262e35",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-ac8b67a28768",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/pet-blog/article/wildlife-encounters",
+    "canonical": "https://www.trupanion.com/pet-blog/article/wildlife-encounters"
+  },
+  "title": "Spring Wildlife Encounters: Skunks, Porcupines, Snakes, and What to Do",
+  "summary": "Your guide to wildlife encounters with pets, including snakes, porcupines, and skunks. Learn how to protect your pet from wild animals.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:24.686679+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:13.839309+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/07/10/10e10292e2548ee7a851b2dd14dbb4ae71b8109a64ba4380c1081d22af262e35/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/07/10/10e10292e2548ee7a851b2dd14dbb4ae71b8109a64ba4380c1081d22af262e35/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8157,
+    "sha256": "sha256:3b1a965b76c904c7beda317b3f0ab329c03cf29ac7509aed31212c7eb26cf576",
+    "normalized_content_hash": "sha256:dddcfbbeeb4daf4841f7c4c293abc0eb4f8607fae793827941cb5fb0c9ea0bb0"
+  },
+  "provenance": {
+    "source_item_id": "2f3e5a6a-36e7-490e-a63f-29cdbb967361",
+    "external_id": "https://www.trupanion.com/pet-blog/article/wildlife-encounters"
+  }
+}

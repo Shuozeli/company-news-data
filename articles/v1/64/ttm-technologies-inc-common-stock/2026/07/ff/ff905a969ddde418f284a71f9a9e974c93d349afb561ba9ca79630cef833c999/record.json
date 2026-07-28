@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff905a969ddde418f284a71f9a9e974c93d349afb561ba9ca79630cef833c999",
+  "company": {
+    "key": "ttm-technologies-inc-common-stock",
+    "name": "TTM Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttm-technologies-inc-common-stock-news-import-6d017d0c85d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttm.com/en/blog/built-to-endure-mission-critical-electronics-for-aerospace-and-defense",
+    "canonical": "http://www.ttm.com/en/blog/built-to-endure-mission-critical-electronics-for-aerospace-and-defense"
+  },
+  "title": "Built to Endure: Mission-Critical Electronics for Aerospace & Defense",
+  "summary": "In aerospace and defense, there is no margin for error. No second chances. No acceptable failure rate. The electronics that protect nations, enable warfighters, guide aircraft, support space systems, and power mission-critical platforms have to work the first time, every time, under conditions that would defeat lesser technology.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:50:20.236425+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:14.548957+00:00",
+  "paths": {
+    "article": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/ff/ff905a969ddde418f284a71f9a9e974c93d349afb561ba9ca79630cef833c999/article.md",
+    "record": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/ff/ff905a969ddde418f284a71f9a9e974c93d349afb561ba9ca79630cef833c999/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7207,
+    "sha256": "sha256:28a3d9884ccc69ef27613b7742340d453561faeeb49e885ec199e2117ae1efd0",
+    "normalized_content_hash": "sha256:bbb43abf7c1c30bccafd29bfb519e33f2cecc74c4a7e9c50000301b7bfcc983c"
+  },
+  "provenance": {
+    "source_item_id": "c94409d2-8289-4504-a593-df5d5004a5cb",
+    "external_id": "http://www.ttm.com/en/blog/built-to-endure-mission-critical-electronics-for-aerospace-and-defense"
+  }
+}

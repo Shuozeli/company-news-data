@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55eb92a8b3d67f20bb99623663d07af3cc5edb0a8d9527d231163ba340e8f2b1",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/"
+  },
+  "title": "CrowdStrike Announces Continuous Identity for AI Agents",
+  "summary": "Innovations bring CI to AI agents, extend modern privilege access, and unify identity intel across all identities.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.362666+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/55/55eb92a8b3d67f20bb99623663d07af3cc5edb0a8d9527d231163ba340e8f2b1/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/55/55eb92a8b3d67f20bb99623663d07af3cc5edb0a8d9527d231163ba340e8f2b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9543,
+    "sha256": "sha256:29b98f55a5a272bcdf61524abef052c2e1b0f15268b36cfc10e42756f95f5e25",
+    "normalized_content_hash": "sha256:747fea0bcb3a1ea1a735106f4a9f6e0b38be19fd206934690af9aec93e898afa"
+  },
+  "provenance": {
+    "source_item_id": "3c9bbbcd-5f62-462b-994d-a01035314b2f",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/"
+  }
+}

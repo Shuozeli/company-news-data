@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd13ad9ec5bb251450871b8f7373c002d457b8a37b52e0be513320bee2f39b5a",
+  "company": {
+    "key": "yc-scentbird",
+    "name": "Scentbird"
+  },
+  "source": {
+    "id": "yc-scentbird-news-import-a752a4eed7e1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.scentbird.com/blog/why-osmanthus-perfume-will-have-you-hooked/",
+    "canonical": "https://www.scentbird.com/blog/why-osmanthus-perfume-will-have-you-hooked/"
+  },
+  "title": "Why Osmanthus Perfume Will Have You Hooked Before You Know It",
+  "summary": "Ever since I heard about the limited release of Le Labo’s Osmanthus 19 last year, I was intrigued by this unusual-sounding flower. And a couple of osmanthus perfumes later, I was entranced by…",
+  "published_at": "2026-06-01T16:59:29+00:00",
+  "first_seen_at": "2026-07-24T00:00:53.990571+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-07-28T22:07:26.060291+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-scentbird/2026/06/dd/dd13ad9ec5bb251450871b8f7373c002d457b8a37b52e0be513320bee2f39b5a/article.md",
+    "record": "articles/v1/e2/yc-scentbird/2026/06/dd/dd13ad9ec5bb251450871b8f7373c002d457b8a37b52e0be513320bee2f39b5a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8168,
+    "sha256": "sha256:dcaef5a55b35a41aec3b441d08f5bf66e20e48df44a7046d5df1782367b97418",
+    "normalized_content_hash": "sha256:6cebba9b1c61d4c69304bf2b9e3d87c45df7db43b8bc90912c13b6c4bba19ca8"
+  },
+  "provenance": {
+    "source_item_id": "0b6833b1-95c5-4d49-9e0c-3e5dddbfb7e2",
+    "external_id": "https://www.scentbird.com/blog/why-osmanthus-perfume-will-have-you-hooked/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f462a932e2e5a33399ca0fa25ce5fa5f5e5b3768073d58a96472345cee519eb",
+  "company": {
+    "key": "yc-maywood",
+    "name": "Maywood"
+  },
+  "source": {
+    "id": "yc-maywood-news-import-280be323e7e6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.maywoodai.com/news/maywood-launches-maverick",
+    "canonical": "https://www.maywoodai.com/news/maywood-launches-maverick"
+  },
+  "title": "Maywood Launches Maverick, a Compliant Proactive Agent That Surfaces Deal Signals for Senior Finance Professionals",
+  "summary": "Unlike tools that wait to be prompted, Maverick runs inside a firm's own environment, monitoring relationships and live deals to surface the outreach worth making today, with a human approving every external action.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T14:18:14.930665+00:00",
+  "fetched_at": "2026-07-27T18:12:12.349023+00:00",
+  "last_updated_at": "2026-07-27T18:12:14.013670+00:00",
+  "paths": {
+    "article": "articles/v1/dd/yc-maywood/2026/07/4f/4f462a932e2e5a33399ca0fa25ce5fa5f5e5b3768073d58a96472345cee519eb/article.md",
+    "record": "articles/v1/dd/yc-maywood/2026/07/4f/4f462a932e2e5a33399ca0fa25ce5fa5f5e5b3768073d58a96472345cee519eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3830,
+    "sha256": "sha256:17119d9a999d8a5d3003900a57afd58a23a22472ef4e7baad3c56722310288c3",
+    "normalized_content_hash": "sha256:bd8435f5dde13d2c360c08c66b70d819e3a9be4c637075a8cee547321b519ed8"
+  },
+  "provenance": {
+    "source_item_id": "0fa46e98-c412-49ff-aff9-1083121710f3",
+    "external_id": "https://www.maywoodai.com/news/maywood-launches-maverick"
+  }
+}

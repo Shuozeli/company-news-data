@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3aa37ab8a3f890e973e8e15c34971c6ff7c44f56656c6b941f3c317f1a04a339",
+  "company": {
+    "key": "yc-zepto",
+    "name": "Zepto"
+  },
+  "source": {
+    "id": "yc-zepto-rss-8182f1493a2f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.zepto.com/clickhouse-ingestion-at-scale-an-open-source-zepto-engineering-story-7f57309e2175?source=rss----bd632b1d570d---4",
+    "canonical": "https://blog.zepto.com/clickhouse-ingestion-at-scale-an-open-source-zepto-engineering-story-7f57309e2175"
+  },
+  "title": "ClickHouse Ingestion at Scale: An Open-Source Zepto Engineering Story",
+  "summary": "Much like our journey described in Debezium at Scale, our architecture relies heavily on real-time data flow. To understand user journeys…",
+  "published_at": "2026-06-17T08:59:04+00:00",
+  "first_seen_at": "2026-07-20T23:24:50.197566+00:00",
+  "fetched_at": "2026-07-28T20:48:51.430530+00:00",
+  "last_updated_at": "2026-07-28T20:48:53.171120+00:00",
+  "paths": {
+    "article": "articles/v1/fc/yc-zepto/2026/06/3a/3aa37ab8a3f890e973e8e15c34971c6ff7c44f56656c6b941f3c317f1a04a339/article.md",
+    "record": "articles/v1/fc/yc-zepto/2026/06/3a/3aa37ab8a3f890e973e8e15c34971c6ff7c44f56656c6b941f3c317f1a04a339/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14073,
+    "sha256": "sha256:dfec1dd6d156539b9a4b535872fb09e35309442855e4970c33caaa5f248c904a",
+    "normalized_content_hash": "sha256:10d4700c84ebee9d48ea3b4ecb7a12e193e6650d3f6028652fb0e91928317c55"
+  },
+  "provenance": {
+    "source_item_id": "93d66309-882e-4709-8c84-e087515908de",
+    "external_id": "https://medium.com/p/7f57309e2175"
+  }
+}

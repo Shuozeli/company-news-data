@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "diversified-energy-company-common-stock",
+    "name": "Diversified Energy Company Common Stock"
+  },
+  "record_count": 9,
+  "first_published_at": "2026-02-26T16:16:00+00:00",
+  "last_published_at": "2026-05-28T18:08:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    }
+  ]
+}

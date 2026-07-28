@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "20eb8f3505f81ab1717d926b7b0b8b0dcd9038dabf28063270f22dd8717bfdea",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation Common Stock"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/meet-targets-stores-deployment-interface-that-realizes-distributed-edge-computing-at-retail-scale",
+    "canonical": "https://tech.target.com/blog/meet-targets-stores-deployment-interface-that-realizes-distributed-edge-computing-at-retail-scale"
+  },
+  "title": "Meet Target’s Stores Deployment Interface that Realizes Distributed Edge Computing at Retail Scale",
+  "summary": "An article by Dan Woods : At the beginning of 2017... ... our engineering team embarked on a journey to facilitate rapid software delivery to Target stores to better enable innovation and more quickly respond to ever-evolving business needs.",
+  "published_at": "2018-06-20T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:06:15.160827+00:00",
+  "last_updated_at": "2026-07-28T21:07:55.628949+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2018/06/20/20eb8f3505f81ab1717d926b7b0b8b0dcd9038dabf28063270f22dd8717bfdea/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2018/06/20/20eb8f3505f81ab1717d926b7b0b8b0dcd9038dabf28063270f22dd8717bfdea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7831,
+    "sha256": "sha256:837b85368c5c00d68f22d7b1216497f7c71ccc24162b57931ba7570849aa9916",
+    "normalized_content_hash": "sha256:8ee590f0a42930d4cb6b480ae8e03222fef594f9bfa676be420dbc0e9906098a"
+  },
+  "provenance": {
+    "source_item_id": "46b19710-328d-4871-8f7b-635d46a8818e",
+    "external_id": "BLOG-10003"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "acc32282a28615146d7186e7a034cfe4fe31e7966cf6ae235f4f020010652e4f",
+  "company": {
+    "key": "under-armour-inc-class-c-common-stock",
+    "name": "Under Armour Inc. Class C Common Stock"
+  },
+  "source": {
+    "id": "under-armour-inc-class-c-common-stock-news-import-ccd679bca982",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.underarmour.com/en/stories/2026/06/ssc-welcomes-under-armour-as-official-conference-apparel-partner.html",
+    "canonical": "https://about.underarmour.com/en/stories/2026/06/ssc-welcomes-under-armour-as-official-conference-apparel-partner.html"
+  },
+  "title": "SSC Welcomes Under Armour as Official Conference Apparel Partner",
+  "summary": "The Sunshine State Conference and Under Armour announce a new five-year agreement, naming Under Armour as the official apparel provider of the 11-team conference beginning July 1, 2026.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:28:48.959244+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:03.577157+00:00",
+  "paths": {
+    "article": "articles/v1/02/under-armour-inc-class-c-common-stock/2026/07/ac/acc32282a28615146d7186e7a034cfe4fe31e7966cf6ae235f4f020010652e4f/article.md",
+    "record": "articles/v1/02/under-armour-inc-class-c-common-stock/2026/07/ac/acc32282a28615146d7186e7a034cfe4fe31e7966cf6ae235f4f020010652e4f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2953,
+    "sha256": "sha256:57da3d97c180e570af3833be5a064151e8b518bd79607e549da521dd2e3de256",
+    "normalized_content_hash": "sha256:78c69b52f8347ad608f27b8783f908fd79df2fd96143f41de2feddc394a11365"
+  },
+  "provenance": {
+    "source_item_id": "5ed1d2e5-f840-42b1-8985-ed5c0259337f",
+    "external_id": "https://about.underarmour.com/en/stories/2026/06/ssc-welcomes-under-armour-as-official-conference-apparel-partner.html"
+  }
+}

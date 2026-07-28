@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2c45114929c1c3ab9d4ece41000650e51a43c927df274629c862e842ceb6a90",
+  "company": {
+    "key": "dropbox-inc-class-a-common-stock",
+    "name": "Dropbox Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "dropbox-inc-class-a-common-stock-news-import-0470a1f405f8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://dropbox.tech/machine-learning/using-ml-to-identify-date-formats-in-file-names",
+    "canonical": "https://dropbox.tech/machine-learning/using-ml-to-identify-date-formats-in-file-names"
+  },
+  "title": "Is this a date? Using ML to identify date formats in file names",
+  "summary": "",
+  "published_at": "2023-09-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:59:28.029954+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:35:56.413419+00:00",
+  "paths": {
+    "article": "articles/v1/ac/dropbox-inc-class-a-common-stock/2023/09/f2/f2c45114929c1c3ab9d4ece41000650e51a43c927df274629c862e842ceb6a90/article.md",
+    "record": "articles/v1/ac/dropbox-inc-class-a-common-stock/2023/09/f2/f2c45114929c1c3ab9d4ece41000650e51a43c927df274629c862e842ceb6a90/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14836,
+    "sha256": "sha256:3e19112c699def54b4d36dee79216b295fc4c5cb878499416fc2fb50b2dff4f8",
+    "normalized_content_hash": "sha256:0167b59391c59d9250cfa144280ddfe2430ef72ae99a93a8fdb19d92f403cde4"
+  },
+  "provenance": {
+    "source_item_id": "c203e229-f120-4c35-b4b9-87ffc3b42ef4",
+    "external_id": "https://dropbox.tech/machine-learning/using-ml-to-identify-date-formats-in-file-names"
+  }
+}

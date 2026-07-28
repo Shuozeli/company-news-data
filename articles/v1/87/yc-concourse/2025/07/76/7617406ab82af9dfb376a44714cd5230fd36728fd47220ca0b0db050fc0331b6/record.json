@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7617406ab82af9dfb376a44714cd5230fd36728fd47220ca0b0db050fc0331b6",
+  "company": {
+    "key": "yc-concourse",
+    "name": "Concourse"
+  },
+  "source": {
+    "id": "yc-concourse-news-import-c7979aaf4bde",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.concourse.ai/insights/ai-for-flux-analysis",
+    "canonical": "https://www.concourse.co/insights/ai-for-flux-analysis"
+  },
+  "title": "AI Agents for Flux Analysis: Real-Time Variance Insights",
+  "summary": "Instantly surface and explain variances across periods—no spreadsheets, no rework. Discover how AI agents transform flux analysis.",
+  "published_at": "2025-07-23T21:42:56.456+00:00",
+  "first_seen_at": "2026-07-27T01:13:47.982979+00:00",
+  "fetched_at": "2026-07-28T21:27:44.796938+00:00",
+  "last_updated_at": "2026-07-28T21:30:31.483126+00:00",
+  "paths": {
+    "article": "articles/v1/87/yc-concourse/2025/07/76/7617406ab82af9dfb376a44714cd5230fd36728fd47220ca0b0db050fc0331b6/article.md",
+    "record": "articles/v1/87/yc-concourse/2025/07/76/7617406ab82af9dfb376a44714cd5230fd36728fd47220ca0b0db050fc0331b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14435,
+    "sha256": "sha256:261a3747b1cc80dcc512753aa164a97fb1b55213aca9de817e6036e471717b64",
+    "normalized_content_hash": "sha256:55d307cf2e4a881de00f76602d52a7d4609ee822874faff2792c770865c011a2"
+  },
+  "provenance": {
+    "source_item_id": "0d881679-a3f7-4dc6-8d9f-5b7aceb6f918",
+    "external_id": "https://www.concourse.co/insights/ai-for-flux-analysis"
+  }
+}

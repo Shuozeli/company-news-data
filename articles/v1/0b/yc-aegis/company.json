@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-aegis",
+    "name": "Aegis"
+  },
+  "record_count": 20,
+  "first_published_at": "2026-02-24T00:00:00+00:00",
+  "last_published_at": "2026-07-22T11:12:48.951+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    }
+  ]
+}

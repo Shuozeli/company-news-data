@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d096bc1d9140b5dc73f428e6cdb48fc26a044cc1e588f00fdcfc62a41a735b08",
+  "company": {
+    "key": "t-mobile-us-inc-common-stock",
+    "name": "T-Mobile US Inc. Common Stock"
+  },
+  "source": {
+    "id": "t-mobile-us-inc-common-stock-news-import-748f5f079be8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.t-mobile.com/news/network/t-mobile-wins-two-tm-forum-awards-for-ai-native-network-innovation",
+    "canonical": "https://www.t-mobile.com/news/network/t-mobile-wins-two-tm-forum-awards-for-ai-native-network-innovation"
+  },
+  "title": "T‑Mobile Wins Two TM Forum Awards for AI-Native Network Innovation",
+  "summary": "Industry honors recognize T‑Mobile's leadership in autonomous network operations and next-generation telecommunications",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:46:33.310465+00:00",
+  "fetched_at": "2026-07-28T22:36:35.395462+00:00",
+  "last_updated_at": "2026-07-28T22:37:11.073722+00:00",
+  "paths": {
+    "article": "articles/v1/69/t-mobile-us-inc-common-stock/2026/07/d0/d096bc1d9140b5dc73f428e6cdb48fc26a044cc1e588f00fdcfc62a41a735b08/article.md",
+    "record": "articles/v1/69/t-mobile-us-inc-common-stock/2026/07/d0/d096bc1d9140b5dc73f428e6cdb48fc26a044cc1e588f00fdcfc62a41a735b08/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4856,
+    "sha256": "sha256:414c822a1abff147aaa9389c1ad91177c6d6df4844b0c9deca5e844de58623e7",
+    "normalized_content_hash": "sha256:dd47d5c2f81406d3157323c3e207ad22553351fb2e666be0070c16ccfa88f033"
+  },
+  "provenance": {
+    "source_item_id": "15df3f30-20d1-4821-8ebf-5d684ce13ce5",
+    "external_id": "https://www.t-mobile.com/news/network/t-mobile-wins-two-tm-forum-awards-for-ai-native-network-innovation"
+  }
+}

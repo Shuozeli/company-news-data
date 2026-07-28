@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fcd13297c3246b7aff08ebdfcb3c511e114dedc3a7f13a9bdf138a579d3202ee",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-ac8b67a28768",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/pet-blog/article/fireworks-pet-safety",
+    "canonical": "https://www.trupanion.com/pet-blog/article/fireworks-pet-safety"
+  },
+  "title": "Pets & Fireworks: How to Protect Against Disaster",
+  "summary": "Fireworks can cause stress in dogs and cats and even be toxic to pet health. Learn these safety tips to prevent lost pets and avoid trips to the vet.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T03:12:24.686679+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:55.959313+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/07/fc/fcd13297c3246b7aff08ebdfcb3c511e114dedc3a7f13a9bdf138a579d3202ee/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/07/fc/fcd13297c3246b7aff08ebdfcb3c511e114dedc3a7f13a9bdf138a579d3202ee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11092,
+    "sha256": "sha256:991bed332ee879b7150a4659d3be71f82df48d5aef158a6003a3148c7213d719",
+    "normalized_content_hash": "sha256:7486c7150b6aeefae78b7f83e7f943b676fe46b8b70f0f8bdf5cb86a04572251"
+  },
+  "provenance": {
+    "source_item_id": "268ddf71-4d47-4a55-a40b-0ff08d142eae",
+    "external_id": "https://www.trupanion.com/pet-blog/article/fireworks-pet-safety"
+  }
+}

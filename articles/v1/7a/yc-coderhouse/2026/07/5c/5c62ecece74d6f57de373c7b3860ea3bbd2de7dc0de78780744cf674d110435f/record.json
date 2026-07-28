@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5c62ecece74d6f57de373c7b3860ea3bbd2de7dc0de78780744cf674d110435f",
+  "company": {
+    "key": "yc-coderhouse",
+    "name": "Coderhouse"
+  },
+  "source": {
+    "id": "yc-coderhouse-news-import-7a925063f664",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coderhouse.com/coderlibrary/bonsai-27b-modelo-ia-celular-offline",
+    "canonical": "https://www.coderhouse.com/coderlibrary/bonsai-27b-modelo-ia-celular-offline"
+  },
+  "title": "Bonsai 27B: modelo de IA que corre en tu celular offline | Coderhouse",
+  "summary": "Bonsai 27B corre 27.000 millones de parámetros en 3,9 GB con cuantización 1-bit: cómo funciona en el celular sin internet y qué cambia para los developers.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T07:56:38.769046+00:00",
+  "fetched_at": "2026-07-28T07:56:35.409468+00:00",
+  "last_updated_at": "2026-07-28T07:56:38.769046+00:00",
+  "paths": {
+    "article": "articles/v1/7a/yc-coderhouse/2026/07/5c/5c62ecece74d6f57de373c7b3860ea3bbd2de7dc0de78780744cf674d110435f/article.md",
+    "record": "articles/v1/7a/yc-coderhouse/2026/07/5c/5c62ecece74d6f57de373c7b3860ea3bbd2de7dc0de78780744cf674d110435f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5776,
+    "sha256": "sha256:6afd325f72948199962fb9b6b6b8d4155ff6d12a4c1888e850b90959d743e446",
+    "normalized_content_hash": "sha256:27d70e00b10342facedce311d1b2dd27289fc8e369e5cedb8c8552499a47ffe5"
+  },
+  "provenance": {
+    "source_item_id": "1767058f-3c00-4b19-a22c-189d6d686060",
+    "external_id": "https://www.coderhouse.com/coderlibrary/bonsai-27b-modelo-ia-celular-offline"
+  }
+}

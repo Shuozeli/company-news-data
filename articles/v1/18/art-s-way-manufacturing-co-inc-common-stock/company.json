@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "art-s-way-manufacturing-co-inc-common-stock",
+    "name": "Art's-Way Manufacturing Co. Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2016-08-16T05:00:00+00:00",
+  "last_published_at": "2021-08-19T20:31:00+00:00",
+  "partitions": [
+    {
+      "partition": "2016-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    }
+  ]
+}

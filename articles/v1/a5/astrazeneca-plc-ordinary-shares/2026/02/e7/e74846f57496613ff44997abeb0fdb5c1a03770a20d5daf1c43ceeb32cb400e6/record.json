@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e74846f57496613ff44997abeb0fdb5c1a03770a20d5daf1c43ceeb32cb400e6",
+  "company": {
+    "key": "astrazeneca-plc-ordinary-shares",
+    "name": "AstraZeneca PLC Ordinary Shares"
+  },
+  "source": {
+    "id": "astrazeneca-plc-ordinary-shares-rss-c5fb94799a27",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/astrazeneca-begins-trading-on-NYSE.html",
+    "canonical": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/astrazeneca-begins-trading-on-NYSE.html"
+  },
+  "title": "AstraZeneca begins trading on the New York Stock Exchange",
+  "summary": "",
+  "published_at": "2026-02-02T01:30:00+00:00",
+  "first_seen_at": "2026-07-26T23:00:47.318234+00:00",
+  "fetched_at": "2026-07-28T03:42:03.141221+00:00",
+  "last_updated_at": "2026-07-28T03:42:03.420996+00:00",
+  "paths": {
+    "article": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2026/02/e7/e74846f57496613ff44997abeb0fdb5c1a03770a20d5daf1c43ceeb32cb400e6/article.md",
+    "record": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2026/02/e7/e74846f57496613ff44997abeb0fdb5c1a03770a20d5daf1c43ceeb32cb400e6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 687,
+    "sha256": "sha256:084a3782f429b230f8be64697d149738d41a359d439dca4f2a89f4f9f62967f3",
+    "normalized_content_hash": "sha256:546fcbf322f1afd9038cd899b2f7ce40c97356390e9fb4aec0daba62adfe7469"
+  },
+  "provenance": {
+    "source_item_id": "51588d90-adae-4fd4-9f9b-dd2a16becd7c",
+    "external_id": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/astrazeneca-begins-trading-on-NYSE.html"
+  }
+}

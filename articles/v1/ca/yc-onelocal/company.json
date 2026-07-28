@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-onelocal",
+    "name": "OneLocal"
+  },
+  "record_count": 6,
+  "first_published_at": "2024-11-18T00:00:00+00:00",
+  "last_published_at": "2025-07-03T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    }
+  ]
+}

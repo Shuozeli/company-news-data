@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e4eba68d97ff8f2b76b6446d5c34480a4c72795dbd24a326f7ec65759aa31c8f",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-set-up-automated-scorecard-and-skill-selection-by-meeting-ty",
+    "canonical": "https://demodesk.com/blog/how-to-set-up-automated-scorecard-and-skill-selection-by-meeting-ty"
+  },
+  "title": "How to set up automated scorecard and skill selection by meeting type in Demodesk",
+  "summary": "Set up AI Coach automation rules in Demodesk so the right scorecard and skills are applied to every call based on meeting type, user group, or keywords.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.639395+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/e4/e4eba68d97ff8f2b76b6446d5c34480a4c72795dbd24a326f7ec65759aa31c8f/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/e4/e4eba68d97ff8f2b76b6446d5c34480a4c72795dbd24a326f7ec65759aa31c8f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6065,
+    "sha256": "sha256:9b70d344abc8275d885051afb62f930fb5d7d8ad3fd82308aa69027d33d625ad",
+    "normalized_content_hash": "sha256:88ca188422d155a312a1941e033b35859f90ed37b0fc1efadca48c12c7510e8f"
+  },
+  "provenance": {
+    "source_item_id": "ab4c7c14-c87e-400e-9dd2-8e1c179a0e00",
+    "external_id": "https://demodesk.com/blog/how-to-set-up-automated-scorecard-and-skill-selection-by-meeting-ty"
+  }
+}

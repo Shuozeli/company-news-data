@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-relari",
+    "name": "Relari"
+  },
+  "record_count": 5,
+  "first_published_at": "2024-11-15T00:00:00+00:00",
+  "last_published_at": "2025-09-22T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    }
+  ]
+}

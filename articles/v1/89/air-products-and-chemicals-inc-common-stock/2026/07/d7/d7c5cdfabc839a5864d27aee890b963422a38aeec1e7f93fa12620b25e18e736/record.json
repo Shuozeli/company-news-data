@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7c5cdfabc839a5864d27aee890b963422a38aeec1e7f93fa12620b25e18e736",
+  "company": {
+    "key": "air-products-and-chemicals-inc-common-stock",
+    "name": "Air Products and Chemicals Inc. Common Stock"
+  },
+  "source": {
+    "id": "air-products-and-chemicals-inc-common-stock-news-import-7569d5253b81",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.airproducts.com/company/news-center/2026/07/0721-air-products-to-expand-gas-supply-network-for-semiconductor-manufacturer-in-taiwan",
+    "canonical": "https://www.airproducts.com/company/news-center/2026/07/0721-air-products-to-expand-gas-supply-network-for-semiconductor-manufacturer-in-taiwan"
+  },
+  "title": "Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan",
+  "summary": "Air Products San Fu has been awarded a long-term agreement to support a semiconductor manufacturer’s expansion in Taiwan.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T22:01:56.955865+00:00",
+  "fetched_at": "2026-07-27T23:33:45.548928+00:00",
+  "last_updated_at": "2026-07-27T23:33:47.284070+00:00",
+  "paths": {
+    "article": "articles/v1/89/air-products-and-chemicals-inc-common-stock/2026/07/d7/d7c5cdfabc839a5864d27aee890b963422a38aeec1e7f93fa12620b25e18e736/article.md",
+    "record": "articles/v1/89/air-products-and-chemicals-inc-common-stock/2026/07/d7/d7c5cdfabc839a5864d27aee890b963422a38aeec1e7f93fa12620b25e18e736/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5536,
+    "sha256": "sha256:292daf9a4783081fa97502d4aa3eefbc00acb9357c9dd2cd8f392690d921638a",
+    "normalized_content_hash": "sha256:5825ea950e74d3931152137198580285c6945897939d2ca5bd55483826e0cf94"
+  },
+  "provenance": {
+    "source_item_id": "e0ea5fb2-be8a-4ff8-975f-b43741ff82c2",
+    "external_id": "https://www.airproducts.com/company/news-center/2026/07/0721-air-products-to-expand-gas-supply-network-for-semiconductor-manufacturer-in-taiwan"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b1953538d7cfd7fb6ccfa06c947e0c070cbcac897cbd66cba30161d15d32174",
+  "company": {
+    "key": "everpure-inc",
+    "name": "Everpure Inc."
+  },
+  "source": {
+    "id": "everpure-inc-news-import-40750db1f3d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.everpuredata.com/company/newsroom/letters/a-letter-to-our-customers-on-the-current-supply-chain-crisis.html",
+    "canonical": "https://www.everpuredata.com/company/newsroom/letters/a-letter-to-our-customers-on-the-current-supply-chain-crisis.html"
+  },
+  "title": "A Letter to Our Customers on the Current Supply Chain Crisis | Everpure",
+  "summary": "This letter provides detailed information on current supply chain crisis and how we are committed to transparency in our pricing and consistency in our engagement.",
+  "published_at": "2026-04-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:53:00.198674+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-07-28T21:51:25.515999+00:00",
+  "paths": {
+    "article": "articles/v1/0c/everpure-inc/2026/04/6b/6b1953538d7cfd7fb6ccfa06c947e0c070cbcac897cbd66cba30161d15d32174/article.md",
+    "record": "articles/v1/0c/everpure-inc/2026/04/6b/6b1953538d7cfd7fb6ccfa06c947e0c070cbcac897cbd66cba30161d15d32174/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7508,
+    "sha256": "sha256:db316d19e95f46f2ae6e47232c3ce02707950c2e6f9b0b3fe543f5934bb74fd2",
+    "normalized_content_hash": "sha256:055380c817dc674d160d15b857105c707b66a74608e7aa9e64d6cd86c8ad8708"
+  },
+  "provenance": {
+    "source_item_id": "2390366d-f008-46de-a42d-a8133818ccdb",
+    "external_id": "https://www.everpuredata.com/company/newsroom/letters/a-letter-to-our-customers-on-the-current-supply-chain-crisis.html"
+  }
+}

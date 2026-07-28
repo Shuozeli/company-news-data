@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "367519eeb56e686b52a4260123a7c3160836f27be8886d88e409ac6c2f43c794",
+  "company": {
+    "key": "mercer-international-inc-common-stock",
+    "name": "Mercer International Inc. Common Stock"
+  },
+  "source": {
+    "id": "mercer-international-inc-common-stock-news-import-42d7945e1da2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mercerint.com/news/technology-and-traditional-knowledge/",
+    "canonical": "https://mercerint.com/news/technology-and-traditional-knowledge/"
+  },
+  "title": "Mapping What We Cannot See: How Technology and Traditional Knowledge Protect the Boreal Wetlands",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:04:13.713476+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:37.009070+00:00",
+  "paths": {
+    "article": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/36/367519eeb56e686b52a4260123a7c3160836f27be8886d88e409ac6c2f43c794/article.md",
+    "record": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/36/367519eeb56e686b52a4260123a7c3160836f27be8886d88e409ac6c2f43c794/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8943,
+    "sha256": "sha256:0ec72569ff0d15a6a46f37836977118c69d8fdee0dcb3ae0348ff3f497f2b6fa",
+    "normalized_content_hash": "sha256:a8300ad1914016d28bf65606bc43af2a3eda32e735c3461306dd4b4b63cabaed"
+  },
+  "provenance": {
+    "source_item_id": "65dd1e57-0bc5-41df-ad86-97fc01fc1cb4",
+    "external_id": "https://mercerint.com/news/technology-and-traditional-knowledge/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fd3c3fa6bf9de872bb73f5df89fd026c0a452883b2bd9c14280d9dda896c983d",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-fedramp-high-authorization/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-fedramp-high-authorization/"
+  },
+  "title": "CrowdStrike Achieves FedRAMP® High Authorization",
+  "summary": "Read this blog on CrowdStrike achieving FedRAMP High Authorization, reinforcing its commitment to protecting the U.S. government's most sensitive systems.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:38.583255+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/fd/fd3c3fa6bf9de872bb73f5df89fd026c0a452883b2bd9c14280d9dda896c983d/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/fd/fd3c3fa6bf9de872bb73f5df89fd026c0a452883b2bd9c14280d9dda896c983d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9971,
+    "sha256": "sha256:a9d25cbdabfa42ce2e436df2cf6689da7f8f418206397077ed1dfda86535049d",
+    "normalized_content_hash": "sha256:348479bd453f59a300b9ab5b50e5955e4771730c983eb6d647a73062e6b2b5f3"
+  },
+  "provenance": {
+    "source_item_id": "85d8983e-0855-4452-a710-95625fbea3f7",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-fedramp-high-authorization/"
+  }
+}

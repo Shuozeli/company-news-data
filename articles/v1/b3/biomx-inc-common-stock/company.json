@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "biomx-inc-common-stock",
+    "name": "BiomX Inc. COmmon Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-06-01T13:25:00+00:00",
+  "last_published_at": "2026-07-28T13:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ]
+}

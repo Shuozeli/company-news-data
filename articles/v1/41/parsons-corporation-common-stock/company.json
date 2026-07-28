@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "parsons-corporation-common-stock",
+    "name": "Parsons Corporation Common Stock"
+  },
+  "record_count": 14,
+  "first_published_at": "2026-07-08T14:43:36+00:00",
+  "last_published_at": "2026-07-27T19:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "300353eb784e428a7b796246acbe216884c3d7bf0c6386778e26a7fd9adb00cc",
+  "company": {
+    "key": "arbor-realty-trust-common-stock",
+    "name": "Arbor Realty Trust Common Stock"
+  },
+  "source": {
+    "id": "arbor-realty-trust-common-stock-news-import-12a525816063",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://arbor.com/blog/small-multifamily-investment-snapshot-june-2026/",
+    "canonical": "https://arbor.com/blog/small-multifamily-investment-snapshot-june-2026/"
+  },
+  "title": "Small Multifamily Investment Snapshot — June 2026",
+  "summary": "The small multifamily sector entered 2026 on a strong note, even as lending conditions remained shaped by persistently high interest rates and regulatory uncertainties.",
+  "published_at": "2026-06-11T12:00:23+00:00",
+  "first_seen_at": "2026-07-26T07:56:47.567117+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-07-28T21:43:20.264046+00:00",
+  "paths": {
+    "article": "articles/v1/5f/arbor-realty-trust-common-stock/2026/06/30/300353eb784e428a7b796246acbe216884c3d7bf0c6386778e26a7fd9adb00cc/article.md",
+    "record": "articles/v1/5f/arbor-realty-trust-common-stock/2026/06/30/300353eb784e428a7b796246acbe216884c3d7bf0c6386778e26a7fd9adb00cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2145,
+    "sha256": "sha256:ea631e036d653aa426d507a12e1d1be41e81c867f9ae9cfc170315684e9ed058",
+    "normalized_content_hash": "sha256:074a552aa017f0c322cc644a7742a640f89284a5b4dcc989cc38c2ddd67a9fad"
+  },
+  "provenance": {
+    "source_item_id": "3fa5fa9c-b12c-430b-91af-312befe3eaf4",
+    "external_id": "https://arbor.com/blog/small-multifamily-investment-snapshot-june-2026/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd162e4aca5ad9d54261bbe0785ef1fa26b5e4f658f189f795735b256ed0fcda",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
+    "canonical": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/"
+  },
+  "title": "Making ast.walk 220x Faster",
+  "summary": "Why ast.walk when you can ast.sprint? How we made Python AST traversal 220x faster while building a custom linter for Reflex's AI code generation.",
+  "published_at": "2026-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-07-28T21:43:22.558395+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/06/dd/dd162e4aca5ad9d54261bbe0785ef1fa26b5e4f658f189f795735b256ed0fcda/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/06/dd/dd162e4aca5ad9d54261bbe0785ef1fa26b5e4f658f189f795735b256ed0fcda/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8215,
+    "sha256": "sha256:0e78a1ec2711140d4b713c3d82f70f11f967edc2376f6388220b434f0f88f403",
+    "normalized_content_hash": "sha256:1b77e22f3d1ee3635adcd1e449a6fc4c59cb3c27603e1628cd8f260a9a388281"
+  },
+  "provenance": {
+    "source_item_id": "8e2fa0ea-295a-4e4a-8e48-2b57ad6f86e7",
+    "external_id": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/"
+  }
+}

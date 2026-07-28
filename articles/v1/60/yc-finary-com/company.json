@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-finary-com",
+    "name": "Finary.com"
+  },
+  "record_count": 41,
+  "first_published_at": "2022-06-15T00:00:00+00:00",
+  "last_published_at": "2026-07-22T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    }
+  ]
+}

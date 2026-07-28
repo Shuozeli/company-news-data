@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "600d19e14e2e90f4c91e23ffc425f28f12cbb3a611dfb9256d4156c76631ba51",
+  "company": {
+    "key": "leidos-holdings-inc-common-stock",
+    "name": "Leidos Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "leidos-holdings-inc-common-stock-news-import-4f5f8dbd1dc3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.leidos.com/insights/ai-cyber-and-future-national-security",
+    "canonical": "https://www.leidos.com/insights/ai-cyber-and-future-national-security"
+  },
+  "title": "AI, cyber and the future of national security",
+  "summary": "Key insights on AI, cybersecurity, resilience and the future of national security from Leidos CTO Katea Murray.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T12:03:04.992780+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:39.353448+00:00",
+  "paths": {
+    "article": "articles/v1/0d/leidos-holdings-inc-common-stock/2026/07/60/600d19e14e2e90f4c91e23ffc425f28f12cbb3a611dfb9256d4156c76631ba51/article.md",
+    "record": "articles/v1/0d/leidos-holdings-inc-common-stock/2026/07/60/600d19e14e2e90f4c91e23ffc425f28f12cbb3a611dfb9256d4156c76631ba51/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1798,
+    "sha256": "sha256:6462bcc21f8bdf61e29346b909fcc43f5554e2abde0900b225422e91dad4380c",
+    "normalized_content_hash": "sha256:0c892ada8610bd7b3490b470503adc491fc857b73e2416c4c820ddb39df6290f"
+  },
+  "provenance": {
+    "source_item_id": "62f4f830-ff63-4e72-aa47-e4062a711430",
+    "external_id": "https://www.leidos.com/insights/ai-cyber-and-future-national-security"
+  }
+}

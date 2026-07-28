@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f4afddb4a6df441994793914545e6cb396a861a91649d64510cd0e1ccece898e",
+  "company": {
+    "key": "synaptics-incorporated-common-stock-0-001-par-value",
+    "name": "Synaptics Incorporated Common Stock $0.001 Par Value"
+  },
+  "source": {
+    "id": "synaptics-incorporated-common-stock-0-001-par-value-news-import-67901354d8df",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.synaptics.com/company/blog/physical-ai-when-edge-devices-begin-to-understand-the-real-world",
+    "canonical": "https://www.synaptics.com/company/blog/physical-ai-when-edge-devices-begin-to-understand-the-real-world"
+  },
+  "title": "Physical AI: When Edge Devices Begin to Understand the Real World",
+  "summary": "Discover how Physical AI enables intelligent systems to continuously adapt to real-world environments through sensing, inference, and edge-based decision-making.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:29:20.825354+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:45.221412+00:00",
+  "paths": {
+    "article": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/f4/f4afddb4a6df441994793914545e6cb396a861a91649d64510cd0e1ccece898e/article.md",
+    "record": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/f4/f4afddb4a6df441994793914545e6cb396a861a91649d64510cd0e1ccece898e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11609,
+    "sha256": "sha256:0bf9056e2d19b3fb5742fd0e0bee32d4b339e1a51666f911aec74139b1bfefea",
+    "normalized_content_hash": "sha256:ce30be95848bca1d4d41905d259a9c3be2b79032cdaae1a526739f5e0eafd7b7"
+  },
+  "provenance": {
+    "source_item_id": "99b43f1a-e65c-4639-922c-d97a2dcb35fc",
+    "external_id": "https://www.synaptics.com/company/blog/physical-ai-when-edge-devices-begin-to-understand-the-real-world"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "791cc941a923cacb1276f4ce0f9aba8940ba1ca5a655946ffbbe95f3cef45060",
+  "company": {
+    "key": "yc-plate-iq",
+    "name": "Plate IQ"
+  },
+  "source": {
+    "id": "yc-plate-iq-news-import-9b094f88901e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ottimate.com/resources/west-harbor-healthcare/",
+    "canonical": "https://ottimate.com/resources/west-harbor-healthcare/"
+  },
+  "title": "West Harbor Healthcare - Healthcare Case Study",
+  "summary": "Download your copy and discover how West Harbor Healthcare was able to spend less time on AP and more with patients thanks to Ottimate.",
+  "published_at": "2023-11-21T23:46:27+00:00",
+  "first_seen_at": "2026-07-25T19:18:34.539472+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:35:59.042602+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-plate-iq/2023/11/79/791cc941a923cacb1276f4ce0f9aba8940ba1ca5a655946ffbbe95f3cef45060/article.md",
+    "record": "articles/v1/48/yc-plate-iq/2023/11/79/791cc941a923cacb1276f4ce0f9aba8940ba1ca5a655946ffbbe95f3cef45060/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1925,
+    "sha256": "sha256:79e1469817b6838a91e01b92ad215fc5824c36a81ef2e8fd29e2ba8a38393d35",
+    "normalized_content_hash": "sha256:6812b6dd5f1e7f191bafe8b509361d4ef6cc14473b2c61142e005017b8c66e16"
+  },
+  "provenance": {
+    "source_item_id": "bd863bf1-b461-433c-9179-83e66ea4e4a8",
+    "external_id": "https://ottimate.com/resources/west-harbor-healthcare/"
+  }
+}

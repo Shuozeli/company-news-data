@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b64dd0196f8522694f605f0e9b9e54c3faa6d3ab66b92686ce65bd22f6f92b81",
+  "company": {
+    "key": "adobe-inc-common-stock",
+    "name": "Adobe Inc. Common Stock"
+  },
+  "source": {
+    "id": "adobe-inc-common-stock-rss-28948b03acf0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.developer.adobe.com/en/publish/2026/02/building-adobe-express-add-ons-in-24-hours",
+    "canonical": "https://blog.developer.adobe.com/en/publish/2026/02/building-adobe-express-add-ons-in-24-hours"
+  },
+  "title": "Building Adobe Express Add‑ons in 24 Hours: Pixel Pluck’s Hackathon Story",
+  "summary": "When our team first saw the announcement of an Adobe Express Add-ons for Enterprise hackathon (check out Adobe’s post about the event) through our college’s ...",
+  "published_at": "2026-02-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:41.472965+00:00",
+  "fetched_at": "2026-07-28T20:31:19.849002+00:00",
+  "last_updated_at": "2026-07-28T20:31:20.766529+00:00",
+  "paths": {
+    "article": "articles/v1/1c/adobe-inc-common-stock/2026/02/b6/b64dd0196f8522694f605f0e9b9e54c3faa6d3ab66b92686ce65bd22f6f92b81/article.md",
+    "record": "articles/v1/1c/adobe-inc-common-stock/2026/02/b6/b64dd0196f8522694f605f0e9b9e54c3faa6d3ab66b92686ce65bd22f6f92b81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 824,
+    "sha256": "sha256:8c2ee0d0b4481b1e535f75d4294c224721ff3a207992af26b6c024e3b82bd48b",
+    "normalized_content_hash": "sha256:bd2dd425287905afb4a2fa8955660729acf27182f8a405d91e5c1b3ba812bf12"
+  },
+  "provenance": {
+    "source_item_id": "f803ee10-93cc-47fa-84cd-68b763d33e12",
+    "external_id": "https://blog.developer.adobe.com/en/publish/2026/02/building-adobe-express-add-ons-in-24-hours"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "70399f2afe439a4849254d0e3351e8aa598f5c299cad92458ff0df723671540f",
+  "company": {
+    "key": "international-bancshares-corporation-common-stock",
+    "name": "International Bancshares Corporation Common Stock"
+  },
+  "source": {
+    "id": "international-bancshares-corporation-common-stock-news-import-8e35271f6bc5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ibc.com/newsroom/press-releases/ibc-continues-to-deliver-exceptional-earnings",
+    "canonical": "https://www.ibc.com/newsroom/press-releases/ibc-continues-to-deliver-exceptional-earnings"
+  },
+  "title": "IBC Continues to Deliver Exceptional Earnings",
+  "summary": "International Bancshares Corporation (NASDAQ:IBOC), one of the largest independent bank holding companies in Texas, today reported net income for the nine months ended September 30, 2023.",
+  "published_at": "2023-11-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T12:16:23.888488+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:05.332844+00:00",
+  "paths": {
+    "article": "articles/v1/1e/international-bancshares-corporation-common-stock/2023/11/70/70399f2afe439a4849254d0e3351e8aa598f5c299cad92458ff0df723671540f/article.md",
+    "record": "articles/v1/1e/international-bancshares-corporation-common-stock/2023/11/70/70399f2afe439a4849254d0e3351e8aa598f5c299cad92458ff0df723671540f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5112,
+    "sha256": "sha256:9ff050aee7cfda319d470ea319889bc6e4bbbebc4a9936ca7aa7bc3de17d7adc",
+    "normalized_content_hash": "sha256:a3e811b91e8c2f7a8aa82d84933af030c3b140b9d4cef5be254d06d108098251"
+  },
+  "provenance": {
+    "source_item_id": "69470277-e906-4379-aaea-ef086850c903",
+    "external_id": "https://www.ibc.com/newsroom/press-releases/ibc-continues-to-deliver-exceptional-earnings"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "72e654ecfe3123a48d863e79d331ae33cad6a3f695931adb7218cfbdb9dd29ad",
+  "company": {
+    "key": "proto-labs-inc-common-stock",
+    "name": "Proto Labs Inc. Common stock"
+  },
+  "source": {
+    "id": "proto-labs-inc-common-stock-news-import-0f8bb12cc68e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.protolabs.com/de-de/ressourcen/blog/first-article-inspection/",
+    "canonical": "https://www.protolabs.com/de-de/ressourcen/blog/first-article-inspection/"
+  },
+  "title": "Einsatz der Erstmusterprüfung (FAI) für Teilequalität und Konsistenz bei hoher Geschwindigkeit",
+  "summary": "Nutzen Sie digitale Fertigungsverfahren, zu denen auch wissenschaftliche Formverfahren gehören können, in Kombination mit spezifischen Methoden zur Qualitätssicherung und -kontrolle, um Teile schnell und in gleichbleibender Qualität herzustellen.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:35:08.710119+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:54.440361+00:00",
+  "paths": {
+    "article": "articles/v1/25/proto-labs-inc-common-stock/2026/07/72/72e654ecfe3123a48d863e79d331ae33cad6a3f695931adb7218cfbdb9dd29ad/article.md",
+    "record": "articles/v1/25/proto-labs-inc-common-stock/2026/07/72/72e654ecfe3123a48d863e79d331ae33cad6a3f695931adb7218cfbdb9dd29ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9631,
+    "sha256": "sha256:f486cad325a86a532ddfafd2bc407c2cd29072be7805883b194cb4959fb48f3e",
+    "normalized_content_hash": "sha256:19c645995f2804455e13e14ce60d9c0aef927da2238cb56c7f716c4b290e2abd"
+  },
+  "provenance": {
+    "source_item_id": "f3cd71da-39cc-43ec-8555-463821dcf5a2",
+    "external_id": "https://www.protolabs.com/de-de/ressourcen/blog/first-article-inspection/"
+  }
+}

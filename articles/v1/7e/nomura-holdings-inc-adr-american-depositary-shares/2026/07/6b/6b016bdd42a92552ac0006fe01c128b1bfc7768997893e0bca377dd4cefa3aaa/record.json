@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b016bdd42a92552ac0006fe01c128b1bfc7768997893e0bca377dd4cefa3aaa",
+  "company": {
+    "key": "nomura-holdings-inc-adr-american-depositary-shares",
+    "name": "Nomura Holdings Inc ADR American Depositary Shares"
+  },
+  "source": {
+    "id": "nomura-holdings-inc-adr-american-depositary-shares-news-import-dd14f61350db",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nomuraholdings.com/en/news/nr/nam20260714.html",
+    "canonical": "https://www.nomuraholdings.com/en/news/nr/nam20260714.html"
+  },
+  "title": "Nomura Lists NEXT FUNDS Japan Equity Policy Focus Exchange Traded Fund on TSE",
+  "summary": "You can see the Nomura Lists NEXT FUNDS Japan Equity Policy Focus Exchange Traded Fund on TSE of Nomura Group.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:23:15.447276+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:12.238137+00:00",
+  "paths": {
+    "article": "articles/v1/7e/nomura-holdings-inc-adr-american-depositary-shares/2026/07/6b/6b016bdd42a92552ac0006fe01c128b1bfc7768997893e0bca377dd4cefa3aaa/article.md",
+    "record": "articles/v1/7e/nomura-holdings-inc-adr-american-depositary-shares/2026/07/6b/6b016bdd42a92552ac0006fe01c128b1bfc7768997893e0bca377dd4cefa3aaa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2765,
+    "sha256": "sha256:8ed9568735f8e149d709c9542c94fe9ea041b83977c8c6e35d54282fb7903aaa",
+    "normalized_content_hash": "sha256:42e35ec4945c1434e885fd3fdc973104d11533b311b54ee332c4a9170d106d95"
+  },
+  "provenance": {
+    "source_item_id": "b8defbc7-2f7c-4758-ad27-d53a6f696f46",
+    "external_id": "https://www.nomuraholdings.com/en/news/nr/nam20260714.html"
+  }
+}

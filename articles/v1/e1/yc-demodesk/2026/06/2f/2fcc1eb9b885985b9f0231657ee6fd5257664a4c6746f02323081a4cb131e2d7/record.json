@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2fcc1eb9b885985b9f0231657ee6fd5257664a4c6746f02323081a4cb131e2d7",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/knowledge-base-integration-ai-sales-support",
+    "canonical": "https://demodesk.com/blog/knowledge-base-integration-ai-sales-support"
+  },
+  "title": "How to Integrate Knowledge Bases with AI for Sales Support",
+  "summary": "How to connect knowledge bases to AI sales agents so reps get predefined answers, accurate product info, and faster responses during and after calls.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:13.894939+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/06/2f/2fcc1eb9b885985b9f0231657ee6fd5257664a4c6746f02323081a4cb131e2d7/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/06/2f/2fcc1eb9b885985b9f0231657ee6fd5257664a4c6746f02323081a4cb131e2d7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9994,
+    "sha256": "sha256:978cecbae64e1043c6b72f8aa3a361c399fe4e9fc3f1ffa9bc2295dfcb5f6a14",
+    "normalized_content_hash": "sha256:151a9191ca7f9f1bda45db0f69dd9835a2129e5b576d78dcc28149d008ffcff6"
+  },
+  "provenance": {
+    "source_item_id": "e2a9267b-ec49-43ab-b819-584faf63b494",
+    "external_id": "https://demodesk.com/blog/knowledge-base-integration-ai-sales-support"
+  }
+}

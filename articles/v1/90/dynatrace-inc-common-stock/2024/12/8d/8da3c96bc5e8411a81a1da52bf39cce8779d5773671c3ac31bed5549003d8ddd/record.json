@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8da3c96bc5e8411a81a1da52bf39cce8779d5773671c3ac31bed5549003d8ddd",
+  "company": {
+    "key": "dynatrace-inc-common-stock",
+    "name": "Dynatrace Inc. Common Stock"
+  },
+  "source": {
+    "id": "dynatrace-inc-common-stock-news-import-04255267b1b8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dynatrace.com/news/press-release/dynatrace-named-the-2024-aws-emea-technology-partner-of-the-year/",
+    "canonical": "https://www.dynatrace.com/news/press-release/dynatrace-named-the-2024-aws-emea-technology-partner-of-the-year/"
+  },
+  "title": "Dynatrace Named the 2024 AWS EMEA Technology Partner of the Year",
+  "summary": "Dynatrace is recognized for empowering AWS customers to drive innovation and business resilience.",
+  "published_at": "2024-12-03T12:50:04+00:00",
+  "first_seen_at": "2026-07-21T17:18:04.942961+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:38.434755+00:00",
+  "paths": {
+    "article": "articles/v1/90/dynatrace-inc-common-stock/2024/12/8d/8da3c96bc5e8411a81a1da52bf39cce8779d5773671c3ac31bed5549003d8ddd/article.md",
+    "record": "articles/v1/90/dynatrace-inc-common-stock/2024/12/8d/8da3c96bc5e8411a81a1da52bf39cce8779d5773671c3ac31bed5549003d8ddd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5061,
+    "sha256": "sha256:8fa63064dcffd1fa0c088f7f42a5e7311a74861389a045871403107ce8311afd",
+    "normalized_content_hash": "sha256:a3fe967eeb808fe33af85cfa0f8c6b11cd6fb881b1057abdaead97f7774b74dd"
+  },
+  "provenance": {
+    "source_item_id": "5a16513d-1b74-49e9-9591-5704cae8e533",
+    "external_id": "https://www.dynatrace.com/news/press-release/dynatrace-named-the-2024-aws-emea-technology-partner-of-the-year/"
+  }
+}

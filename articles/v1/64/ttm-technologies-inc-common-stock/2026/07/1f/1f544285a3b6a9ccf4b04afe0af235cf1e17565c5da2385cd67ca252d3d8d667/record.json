@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f544285a3b6a9ccf4b04afe0af235cf1e17565c5da2385cd67ca252d3d8d667",
+  "company": {
+    "key": "ttm-technologies-inc-common-stock",
+    "name": "TTM Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttm-technologies-inc-common-stock-news-import-6d017d0c85d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttm.com/en/blog/powering-the-ai-revolution",
+    "canonical": "http://www.ttm.com/en/blog/powering-the-ai-revolution"
+  },
+  "title": "Powering the AI Revolution: TTM Technologies' Advanced PCBs for Hyperscale Data Centers",
+  "summary": "AI adoption is accelerating, and so is the pressure on the hardware that powers it. Data centers rely on high-performance server CPUs and processor platforms to keep pace with growing AI workloads. TTM Technologies (\"TTM\") partners with a UK customer in this space to deliver advanced printed circuit boards (\"PCB\"s) engineered to meet those demands.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:50:20.236425+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:14.634628+00:00",
+  "paths": {
+    "article": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/1f/1f544285a3b6a9ccf4b04afe0af235cf1e17565c5da2385cd67ca252d3d8d667/article.md",
+    "record": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/1f/1f544285a3b6a9ccf4b04afe0af235cf1e17565c5da2385cd67ca252d3d8d667/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3751,
+    "sha256": "sha256:ecf6c2e98dc7519a1a0a8442e9febb9b4dd8cb9beee00b693e27c8bb3bea0d42",
+    "normalized_content_hash": "sha256:d05d8bae618020dd745ca81b584c10bae5a660468b2a271207972b8b18c3a113"
+  },
+  "provenance": {
+    "source_item_id": "87662676-b68b-4a14-afdb-e226fd653a8e",
+    "external_id": "http://www.ttm.com/en/blog/powering-the-ai-revolution"
+  }
+}

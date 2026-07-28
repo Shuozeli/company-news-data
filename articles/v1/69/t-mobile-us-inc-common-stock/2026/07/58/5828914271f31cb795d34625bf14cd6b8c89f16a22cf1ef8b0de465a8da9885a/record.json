@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5828914271f31cb795d34625bf14cd6b8c89f16a22cf1ef8b0de465a8da9885a",
+  "company": {
+    "key": "t-mobile-us-inc-common-stock",
+    "name": "T-Mobile US Inc. Common Stock"
+  },
+  "source": {
+    "id": "t-mobile-us-inc-common-stock-news-import-748f5f079be8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.t-mobile.com/news/network/t-mobile-responds-to-central-texas-flooding",
+    "canonical": "https://www.t-mobile.com/news/network/t-mobile-responds-to-central-texas-flooding"
+  },
+  "title": "T‑Mobile Responds to Central Texas Flooding",
+  "summary": "Working alongside emergency management partners to help keep communities and first responders connected",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:46:33.310465+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:42.684941+00:00",
+  "paths": {
+    "article": "articles/v1/69/t-mobile-us-inc-common-stock/2026/07/58/5828914271f31cb795d34625bf14cd6b8c89f16a22cf1ef8b0de465a8da9885a/article.md",
+    "record": "articles/v1/69/t-mobile-us-inc-common-stock/2026/07/58/5828914271f31cb795d34625bf14cd6b8c89f16a22cf1ef8b0de465a8da9885a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5166,
+    "sha256": "sha256:856084cbbc8c4621430806cb547cfb349899971aa722cabf74a934fb666528f6",
+    "normalized_content_hash": "sha256:39613619865f1695f20d9c7c2e9c6ef4c2b39588f603f4fa78070903ac402164"
+  },
+  "provenance": {
+    "source_item_id": "6ebdc068-47d8-4924-95da-72e19c3b3903",
+    "external_id": "https://www.t-mobile.com/news/network/t-mobile-responds-to-central-texas-flooding"
+  }
+}

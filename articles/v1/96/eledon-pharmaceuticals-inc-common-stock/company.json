@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "eledon-pharmaceuticals-inc-common-stock",
+    "name": "Eledon Pharmaceuticals Inc. Common Stock"
+  },
+  "record_count": 20,
+  "first_published_at": "2026-03-04T21:05:00+00:00",
+  "last_published_at": "2026-07-20T21:49:21+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

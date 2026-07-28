@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b468134ce055fc055b1b5d3c7cc325e1fae5ae5abce5d02b4a8f7cceb20bbd6e",
+  "company": {
+    "key": "yc-arketa",
+    "name": "Arketa"
+  },
+  "source": {
+    "id": "yc-arketa-news-import-7361d09b0420",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arketa.com/blog/claude-reporting-mcp",
+    "canonical": "https://www.arketa.com/blog/claude-reporting-mcp"
+  },
+  "title": "Connect Claude to Your Arketa Data with the Arketa Reporting MCP",
+  "summary": "Connect Claude to your Arketa account and ask plain-English questions about revenue, retention, attendance, and more.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T00:48:42.779741+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:52.050458+00:00",
+  "paths": {
+    "article": "articles/v1/17/yc-arketa/2026/07/b4/b468134ce055fc055b1b5d3c7cc325e1fae5ae5abce5d02b4a8f7cceb20bbd6e/article.md",
+    "record": "articles/v1/17/yc-arketa/2026/07/b4/b468134ce055fc055b1b5d3c7cc325e1fae5ae5abce5d02b4a8f7cceb20bbd6e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2664,
+    "sha256": "sha256:a23dfdfcfb5647cebc92e415fa40031c682610660bf1bd5e7828dde66cb07b51",
+    "normalized_content_hash": "sha256:d639f9232ab4ea7e60bdca5c91fdc89dc2cec2ea886bea687d3517456be96942"
+  },
+  "provenance": {
+    "source_item_id": "79798754-27fd-4781-9ce5-23ebffb359a7",
+    "external_id": "https://www.arketa.com/blog/claude-reporting-mcp"
+  }
+}

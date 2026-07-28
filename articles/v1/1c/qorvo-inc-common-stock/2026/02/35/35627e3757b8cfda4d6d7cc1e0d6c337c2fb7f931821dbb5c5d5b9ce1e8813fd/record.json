@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "35627e3757b8cfda4d6d7cc1e0d6c337c2fb7f931821dbb5c5d5b9ce1e8813fd",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/danalto-enables-next-generation-uwb-rtls-through-cardinal-framework-integration-with-qorvo-uwb-soc",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/danalto-enables-next-generation-uwb-rtls-through-cardinal-framework-integration-with-qorvo-uwb-soc"
+  },
+  "title": "Danalto Enables Next-Generation UWB RTLS Through Cardinal™ Framework Integration with Qorvo UWB SoC",
+  "summary": "Danalto, a pioneer in location intelligence software, today announced the successful integration of Danalto’s Cardinal™ Cloud Location Engine (CLE) with Qorvo’s latest Ultra-Wideband (UWB) System-on-Chip (SoC) and industrial and enterprise SDK.",
+  "published_at": "2026-02-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T22:20:57.996558+00:00",
+  "last_updated_at": "2026-07-28T22:21:07.368941+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/02/35/35627e3757b8cfda4d6d7cc1e0d6c337c2fb7f931821dbb5c5d5b9ce1e8813fd/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/02/35/35627e3757b8cfda4d6d7cc1e0d6c337c2fb7f931821dbb5c5d5b9ce1e8813fd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2423,
+    "sha256": "sha256:cd7d4bb56cb57eb029f5732e2b5279c9d6e30fba53483129c1dd4f722cd17e62",
+    "normalized_content_hash": "sha256:bcb05e090a7f725a0fd6f2c4fe8570b09b6c6b70fe95f3fa4f7bf10715e88e78"
+  },
+  "provenance": {
+    "source_item_id": "5083625c-07d8-4f40-a293-242e933fd541",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/danalto-enables-next-generation-uwb-rtls-through-cardinal-framework-integration-with-qorvo-uwb-soc"
+  }
+}

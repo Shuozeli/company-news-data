@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f2eb44fc8c3c0a95f8121b8444ab9cf6ef810b62b3fe58ef0596be710fd6ea4",
+  "company": {
+    "key": "news-corporation-class-b-common-stock",
+    "name": "News Corporation Class B Common Stock"
+  },
+  "source": {
+    "id": "news-corporation-class-b-common-stock-rss-52db3627f9af",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://newscorp.com/2026/01/20/news-corp-to-report-fiscal-2026-second-quarter-earnings/",
+    "canonical": "https://newscorp.com/2026/01/20/news-corp-to-report-fiscal-2026-second-quarter-earnings/"
+  },
+  "title": "News Corp to Report Fiscal 2026 Second Quarter Earnings",
+  "summary": "News Corp to Report Fiscal 2026 Second Quarter Earnings New York, NY (January 20, 2026) — News Corp will release its second quarter Fiscal 2026 results on Thursday, February 5, 2026. News Corp Chief Executive Robert Thomson and Chief Financial Officer Lavanya Chandrashekar will discuss the results via a live audio webcast at 5:00 p.m. […]",
+  "published_at": "2026-01-20T21:49:52+00:00",
+  "first_seen_at": "2026-07-20T04:35:56.495555+00:00",
+  "fetched_at": "2026-07-28T22:23:18.090789+00:00",
+  "last_updated_at": "2026-07-28T22:24:53.084457+00:00",
+  "paths": {
+    "article": "articles/v1/7b/news-corporation-class-b-common-stock/2026/01/0f/0f2eb44fc8c3c0a95f8121b8444ab9cf6ef810b62b3fe58ef0596be710fd6ea4/article.md",
+    "record": "articles/v1/7b/news-corporation-class-b-common-stock/2026/01/0f/0f2eb44fc8c3c0a95f8121b8444ab9cf6ef810b62b3fe58ef0596be710fd6ea4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2687,
+    "sha256": "sha256:de60ad854e1de7879015001dc7540ae71f0410c54c7ccaf95d627c9410f4341e",
+    "normalized_content_hash": "sha256:013ec7a895441f3364889166c641646085944a0d4e842cc5509c1c9dd0046cd6"
+  },
+  "provenance": {
+    "source_item_id": "bd152f26-282a-464f-bdcf-b1f3f177d8c3",
+    "external_id": "https://newscorp.com/?p=140683"
+  }
+}

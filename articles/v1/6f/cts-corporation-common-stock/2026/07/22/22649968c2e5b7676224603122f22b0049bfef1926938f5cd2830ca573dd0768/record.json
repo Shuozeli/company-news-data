@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "22649968c2e5b7676224603122f22b0049bfef1926938f5cd2830ca573dd0768",
+  "company": {
+    "key": "cts-corporation-common-stock",
+    "name": "CTS Corporation Common Stock"
+  },
+  "source": {
+    "id": "cts-corporation-common-stock-news-import-129d6406f8cd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ctscorp.com/Resources/Press-Releases/Maglab-Resources-Transitioning-to-CTS-Corporation",
+    "canonical": "https://www.ctscorp.com/Resources/Press-Releases/Maglab-Resources-Transitioning-to-CTS-Corporation"
+  },
+  "title": "Maglab Resources Transitioning to CTS Corporation!",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T15:30:07.974813+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:42:07.630559+00:00",
+  "paths": {
+    "article": "articles/v1/6f/cts-corporation-common-stock/2026/07/22/22649968c2e5b7676224603122f22b0049bfef1926938f5cd2830ca573dd0768/article.md",
+    "record": "articles/v1/6f/cts-corporation-common-stock/2026/07/22/22649968c2e5b7676224603122f22b0049bfef1926938f5cd2830ca573dd0768/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5810,
+    "sha256": "sha256:3459e5dbeaf08121f1f5d943d1553d58f43f78535f78a1e1e396d95b0ab1bd6f",
+    "normalized_content_hash": "sha256:9c9d8b0b642cc7407638867cdf4ad7717e9180c2ca2779db39bb7751c28b2887"
+  },
+  "provenance": {
+    "source_item_id": "c4010275-97ca-4a42-ac05-1c20138bc1c0",
+    "external_id": "https://www.ctscorp.com/Resources/Press-Releases/Maglab-Resources-Transitioning-to-CTS-Corporation"
+  }
+}

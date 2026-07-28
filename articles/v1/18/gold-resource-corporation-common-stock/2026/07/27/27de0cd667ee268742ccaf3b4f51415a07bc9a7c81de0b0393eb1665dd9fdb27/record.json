@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "27de0cd667ee268742ccaf3b4f51415a07bc9a7c81de0b0393eb1665dd9fdb27",
+  "company": {
+    "key": "gold-resource-corporation-common-stock",
+    "name": "Gold Resource Corporation Common Stock"
+  },
+  "source": {
+    "id": "gold-resource-corporation-common-stock-news-import-99761546cc98",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://goldresourcecorp.com/news-releases/goldgroup-mining-and-gold-resource-corporation-ann-15351/",
+    "canonical": "https://goldresourcecorp.com/news-releases/goldgroup-mining-and-gold-resource-corporation-ann-15351/"
+  },
+  "title": "Gold Resource Corporation",
+  "summary": "Gold Resource Corporation (NYSE American: GORO) is a gold and silver producer targeting projects that feature low operating costs and high returns on capital.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T09:33:56.000790+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:21:51.649790+00:00",
+  "paths": {
+    "article": "articles/v1/18/gold-resource-corporation-common-stock/2026/07/27/27de0cd667ee268742ccaf3b4f51415a07bc9a7c81de0b0393eb1665dd9fdb27/article.md",
+    "record": "articles/v1/18/gold-resource-corporation-common-stock/2026/07/27/27de0cd667ee268742ccaf3b4f51415a07bc9a7c81de0b0393eb1665dd9fdb27/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8939,
+    "sha256": "sha256:773db5b260867c03af17a8676f221a83653e49844d3f4181ef8338fc1ad419b7",
+    "normalized_content_hash": "sha256:9cc004411b27fe2bdf5d36f2d7b1ef2f90302f0e50b3c396a0dea8d3ce3fe8c0"
+  },
+  "provenance": {
+    "source_item_id": "36df6e81-7c21-4f0a-8563-761e67352c1f",
+    "external_id": "https://goldresourcecorp.com/news-releases/goldgroup-mining-and-gold-resource-corporation-ann-15351/"
+  }
+}

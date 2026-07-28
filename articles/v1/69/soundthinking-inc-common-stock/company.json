@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "soundthinking-inc-common-stock",
+    "name": "SoundThinking Inc. Common Stock"
+  },
+  "record_count": 32,
+  "first_published_at": "2024-01-04T22:11:17+00:00",
+  "last_published_at": "2026-07-24T19:14:41.946+00:00",
+  "partitions": [
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 15
+    }
+  ]
+}

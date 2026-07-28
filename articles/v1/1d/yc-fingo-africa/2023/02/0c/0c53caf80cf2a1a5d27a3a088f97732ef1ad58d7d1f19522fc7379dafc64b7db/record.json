@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c53caf80cf2a1a5d27a3a088f97732ef1ad58d7d1f19522fc7379dafc64b7db",
+  "company": {
+    "key": "yc-fingo-africa",
+    "name": "Fingo Africa"
+  },
+  "source": {
+    "id": "yc-fingo-africa-news-import-93d91d85313d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://fingo.africa/post/using-qr-codes-to-make-payments",
+    "canonical": "https://fingo.africa/post/using-qr-codes-to-make-payments"
+  },
+  "title": "Using QR Codes to make payments",
+  "summary": "",
+  "published_at": "2023-02-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:52:19.824585+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:39.370476+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-fingo-africa/2023/02/0c/0c53caf80cf2a1a5d27a3a088f97732ef1ad58d7d1f19522fc7379dafc64b7db/article.md",
+    "record": "articles/v1/1d/yc-fingo-africa/2023/02/0c/0c53caf80cf2a1a5d27a3a088f97732ef1ad58d7d1f19522fc7379dafc64b7db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2318,
+    "sha256": "sha256:c4590e345573216509cd713ec53946b23444de60e25c1507cc1ec0ab3d528b24",
+    "normalized_content_hash": "sha256:3a7607708697963d1bf1ed755c8e03af04277a70e14ff9b81a6ad8ac901ce9fd"
+  },
+  "provenance": {
+    "source_item_id": "8d0f5f6d-d90a-4cfb-93df-0e763afffa27",
+    "external_id": "https://fingo.africa/post/using-qr-codes-to-make-payments"
+  }
+}

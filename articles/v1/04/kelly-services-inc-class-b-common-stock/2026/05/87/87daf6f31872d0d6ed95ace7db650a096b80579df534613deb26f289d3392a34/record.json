@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "87daf6f31872d0d6ed95ace7db650a096b80579df534613deb26f289d3392a34",
+  "company": {
+    "key": "kelly-services-inc-class-b-common-stock",
+    "name": "Kelly Services Inc. Class B Common Stock"
+  },
+  "source": {
+    "id": "kelly-services-inc-class-b-common-stock-news-import-07ad70103d1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kellyservices.com/press-releases/kelly-pediatric-therapy-names-2026-providers-of-the-year",
+    "canonical": "https://www.kellyservices.com/press-releases/kelly-pediatric-therapy-names-2026-providers-of-the-year"
+  },
+  "title": "Kelly Pediatric Therapy Names 2026 Providers of the Year",
+  "summary": "Kelly Pediatric Therapy announces the recipients of the Provider of the Year Award, honoring three individuals whose compassion defines exceptional care.",
+  "published_at": "2026-05-04T12:39:38+00:00",
+  "first_seen_at": "2026-07-22T01:24:25.705423+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-07-28T21:57:34.172777+00:00",
+  "paths": {
+    "article": "articles/v1/04/kelly-services-inc-class-b-common-stock/2026/05/87/87daf6f31872d0d6ed95ace7db650a096b80579df534613deb26f289d3392a34/article.md",
+    "record": "articles/v1/04/kelly-services-inc-class-b-common-stock/2026/05/87/87daf6f31872d0d6ed95ace7db650a096b80579df534613deb26f289d3392a34/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7163,
+    "sha256": "sha256:42358b94c46fac470cb29dc42cccd2c2c72bf09808edf35ecf5633aac7918dc4",
+    "normalized_content_hash": "sha256:9981b2868aeb0e48e87857c78cdcd95f443590e190c531ea0d4023c9c0d998ec"
+  },
+  "provenance": {
+    "source_item_id": "36b32d40-422f-4424-b503-02320bdfbcb6",
+    "external_id": "https://www.kellyservices.com/press-releases/kelly-pediatric-therapy-names-2026-providers-of-the-year"
+  }
+}

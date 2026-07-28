@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a4f80392c1c5196641e11a0fc3964441c5230db69ccf8c6e36f737a589bcae16",
+  "company": {
+    "key": "stewart-information-services-corporation-common-stock",
+    "name": "Stewart Information Services Corporation Common Stock"
+  },
+  "source": {
+    "id": "stewart-information-services-corporation-common-stock-news-import-059ce5f09fd1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stewart.com/en/insights/property-taxes-and-escrow-explained-for-homebuyers",
+    "canonical": "https://www.stewart.com/en/insights/property-taxes-and-escrow-explained-for-homebuyers"
+  },
+  "title": "Property Taxes and Escrow Explained for Homebuyers",
+  "summary": "Learn how property taxes and escrow accounts work, what homebuyers should expect and how lenders manage payments through escrow.",
+  "published_at": "2026-07-20T17:29:27+00:00",
+  "first_seen_at": "2026-07-27T05:27:18.537573+00:00",
+  "fetched_at": "2026-07-27T18:16:10.481356+00:00",
+  "last_updated_at": "2026-07-27T18:16:12.990187+00:00",
+  "paths": {
+    "article": "articles/v1/12/stewart-information-services-corporation-common-stock/2026/07/a4/a4f80392c1c5196641e11a0fc3964441c5230db69ccf8c6e36f737a589bcae16/article.md",
+    "record": "articles/v1/12/stewart-information-services-corporation-common-stock/2026/07/a4/a4f80392c1c5196641e11a0fc3964441c5230db69ccf8c6e36f737a589bcae16/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8970,
+    "sha256": "sha256:e5ec69746072b6f99636f6af26b552aeb0d22923f031eb9b7e7c54fef3f6ee0c",
+    "normalized_content_hash": "sha256:2f96206c633e7572b8550f1a150bad3f78927019364b7c6fe71375725e9df6fa"
+  },
+  "provenance": {
+    "source_item_id": "be4225fe-9653-4ef5-8e0b-a1fee9d9eb8b",
+    "external_id": "https://www.stewart.com/en/insights/property-taxes-and-escrow-explained-for-homebuyers"
+  }
+}

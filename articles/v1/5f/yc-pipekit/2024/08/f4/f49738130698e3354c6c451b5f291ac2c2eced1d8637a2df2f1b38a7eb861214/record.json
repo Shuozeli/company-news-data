@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f49738130698e3354c6c451b5f291ac2c2eced1d8637a2df2f1b38a7eb861214",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/mlflow-vs-argo",
+    "canonical": "https://homepage.pipekit.io/blog/mlflow-vs-argo"
+  },
+  "title": "MLflow vs. Argo Workflows",
+  "summary": "Argo Workflows lets you define tasks as Kubernetes Pods and run them as DAGs. By contrast, MLflow focuses on machine learning use cases and doesn’t use any DAGs.",
+  "published_at": "2024-08-12T11:21:11+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-07-28T20:59:58.859311+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/08/f4/f49738130698e3354c6c451b5f291ac2c2eced1d8637a2df2f1b38a7eb861214/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/08/f4/f49738130698e3354c6c451b5f291ac2c2eced1d8637a2df2f1b38a7eb861214/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11080,
+    "sha256": "sha256:9e35f4684b783c78f08679cb8f043ac84006de1a3a5ff298ea449beec29fd3ee",
+    "normalized_content_hash": "sha256:919302aced21b9d0d79400d10e7c21dca60d38541da7d3e004c4311c46c36daa"
+  },
+  "provenance": {
+    "source_item_id": "d8e53044-95c2-47a7-8086-25111da33829",
+    "external_id": "https://homepage.pipekit.io/blog/mlflow-vs-argo"
+  }
+}

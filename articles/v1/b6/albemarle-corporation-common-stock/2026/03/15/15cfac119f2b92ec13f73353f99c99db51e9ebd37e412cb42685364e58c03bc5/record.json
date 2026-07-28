@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "15cfac119f2b92ec13f73353f99c99db51e9ebd37e412cb42685364e58c03bc5",
+  "company": {
+    "key": "albemarle-corporation-common-stock",
+    "name": "Albemarle Corporation Common Stock"
+  },
+  "source": {
+    "id": "albemarle-corporation-common-stock-news-import-46b1e4b791cf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.albemarle.com/us/en/news/grid-energy-storage-101-what-it-and-why-it-matters",
+    "canonical": "https://www.albemarle.com/us/en/news/grid-energy-storage-101-what-it-and-why-it-matters"
+  },
+  "title": "Grid Energy Storage 101: What It Is and Why It Matters",
+  "summary": "Demand for stationary energy storage is surging as countries strengthen grids and support the energy transition, with output expected to jump in 2026. AI and data",
+  "published_at": "2026-03-31T16:09:42+00:00",
+  "first_seen_at": "2026-07-24T05:00:17.878170+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-07-28T21:57:33.154453+00:00",
+  "paths": {
+    "article": "articles/v1/b6/albemarle-corporation-common-stock/2026/03/15/15cfac119f2b92ec13f73353f99c99db51e9ebd37e412cb42685364e58c03bc5/article.md",
+    "record": "articles/v1/b6/albemarle-corporation-common-stock/2026/03/15/15cfac119f2b92ec13f73353f99c99db51e9ebd37e412cb42685364e58c03bc5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2800,
+    "sha256": "sha256:8eea2439e94181bdde8209f6516eaf5a9f941de981418b9173488435e89e73d2",
+    "normalized_content_hash": "sha256:5a35b222c2e6f85648c03691934bf2b8f1aca22f21bbcd144f001a55aeab7665"
+  },
+  "provenance": {
+    "source_item_id": "9b8ddb93-c217-4b89-a03f-827df6440129",
+    "external_id": "https://www.albemarle.com/us/en/news/grid-energy-storage-101-what-it-and-why-it-matters"
+  }
+}

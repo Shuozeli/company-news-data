@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e3d381b822692a8ed8c7e757c59a72644a0e5f9140e3e68f8091c694f3d1e27",
+  "company": {
+    "key": "best-buy-co-inc-common-stock",
+    "name": "Best Buy Co. Inc. Common Stock"
+  },
+  "source": {
+    "id": "best-buy-co-inc-common-stock-rss-b540a0bdf05a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://corporate.bestbuy.com/2026/executive-team-updates/?utm_source=rss&utm_medium=rss&utm_campaign=executive-team-updates",
+    "canonical": "https://corporate.bestbuy.com/2026/executive-team-updates/"
+  },
+  "title": "Best Buy announces Executive Team updates",
+  "summary": "As a part of its CEO transition, this evolution of the company’s leadership team positions Best Buy to accelerate its strategic priorities.",
+  "published_at": "2026-07-14T18:55:03+00:00",
+  "first_seen_at": "2026-07-20T03:32:42.110269+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-07-28T21:53:55.060046+00:00",
+  "paths": {
+    "article": "articles/v1/c6/best-buy-co-inc-common-stock/2026/07/7e/7e3d381b822692a8ed8c7e757c59a72644a0e5f9140e3e68f8091c694f3d1e27/article.md",
+    "record": "articles/v1/c6/best-buy-co-inc-common-stock/2026/07/7e/7e3d381b822692a8ed8c7e757c59a72644a0e5f9140e3e68f8091c694f3d1e27/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7484,
+    "sha256": "sha256:49a2334b037b9eea428c407c3f8fd84ec628fb29068afaf04d1f79f7e6c5055e",
+    "normalized_content_hash": "sha256:1c0258878ea5b53df9438cb9ecdf6108405a6e4cc1df5da1ada0d8b11d8b6a76"
+  },
+  "provenance": {
+    "source_item_id": "4a2af85d-e92c-4ee4-8315-7af497aa2ceb",
+    "external_id": "https://corporate.bestbuy.com/?p=32556"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b4d9dbce49299ecf42b1fba2dfce302dfe919a320ff5a5210b6d704c1693444a",
+  "company": {
+    "key": "v-f-corporation-common-stock",
+    "name": "V.F. Corporation Common Stock"
+  },
+  "source": {
+    "id": "v-f-corporation-common-stock-news-import-58a7e50f0771",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.vfc.com/news/press-release/1859/vf-corporation-releases-second-quarter-fiscal-2026",
+    "canonical": "https://www.vfc.com/news/press-release/1859/vf-corporation-releases-second-quarter-fiscal-2026"
+  },
+  "title": "VF Corporation Releases Second Quarter Fiscal 2026 Financial Results",
+  "summary": "VF Corporation outfits consumers around the world with its diverse portfolio of iconic outdoor and activity-based lifestyle and workwear brands.",
+  "published_at": "2026-07-08T16:30:00+00:00",
+  "first_seen_at": "2026-07-22T18:51:34.655515+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:14.238394+00:00",
+  "paths": {
+    "article": "articles/v1/39/v-f-corporation-common-stock/2026/07/b4/b4d9dbce49299ecf42b1fba2dfce302dfe919a320ff5a5210b6d704c1693444a/article.md",
+    "record": "articles/v1/39/v-f-corporation-common-stock/2026/07/b4/b4d9dbce49299ecf42b1fba2dfce302dfe919a320ff5a5210b6d704c1693444a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30932,
+    "sha256": "sha256:aee0a752afc7ed5da68c548e7f6719c9a042c4f22987c34e158d85a79bea9790",
+    "normalized_content_hash": "sha256:9ea5bd1b52c1df6dae1c098b5d8538c91bd203c30062a9d241d1f4b9989e7b95"
+  },
+  "provenance": {
+    "source_item_id": "49587f69-232d-4f0f-b4bd-0742abf1968d",
+    "external_id": "https://www.vfc.com/news/press-release/1859/vf-corporation-releases-second-quarter-fiscal-2026"
+  }
+}

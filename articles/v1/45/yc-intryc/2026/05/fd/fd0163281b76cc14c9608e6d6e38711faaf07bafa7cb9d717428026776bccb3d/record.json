@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fd0163281b76cc14c9608e6d6e38711faaf07bafa7cb9d717428026776bccb3d",
+  "company": {
+    "key": "yc-intryc",
+    "name": "Intryc"
+  },
+  "source": {
+    "id": "yc-intryc-news-import-17b79f653bb0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.intryc.com/blog/not-broken-not-reliable",
+    "canonical": "https://www.intryc.com/blog/not-broken-not-reliable"
+  },
+  "title": "It's not broken, but it's not reliable.",
+  "summary": "Running MaestroQA or Playvox? Here are the 3 failure modes each tool can't fix, and the quiet moment QA leaders recognize before they switch.",
+  "published_at": "2026-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:22:23.516240+00:00",
+  "fetched_at": "2026-07-28T21:44:24.455372+00:00",
+  "last_updated_at": "2026-07-28T21:44:41.110814+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-intryc/2026/05/fd/fd0163281b76cc14c9608e6d6e38711faaf07bafa7cb9d717428026776bccb3d/article.md",
+    "record": "articles/v1/45/yc-intryc/2026/05/fd/fd0163281b76cc14c9608e6d6e38711faaf07bafa7cb9d717428026776bccb3d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10722,
+    "sha256": "sha256:d0b5fdad36b32165330cd23d52482e5329fd19d3cf67d824f41dd7de85eb25ce",
+    "normalized_content_hash": "sha256:12b70e80ba984b1c31eafe8d0e85077c6768c6ea818735a5e1c6e158f0d246c2"
+  },
+  "provenance": {
+    "source_item_id": "ee27a828-2b2c-4f04-b0f2-c1119c52ca56",
+    "external_id": "https://www.intryc.com/blog/not-broken-not-reliable"
+  }
+}

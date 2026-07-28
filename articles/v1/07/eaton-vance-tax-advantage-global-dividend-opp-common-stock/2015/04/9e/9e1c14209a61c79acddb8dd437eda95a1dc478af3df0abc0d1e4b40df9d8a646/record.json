@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e1c14209a61c79acddb8dd437eda95a1dc478af3df0abc0d1e4b40df9d8a646",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/astec-industries,-inc.-nasdaq-aste-declared-a-dividend-of-$0.1300-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/astec-industries,-inc.-nasdaq-aste-declared-a-dividend-of-$0.1300-per-share/"
+  },
+  "title": "ASTE Dividend Announcement $0.1300/Share 7/27/2026",
+  "summary": "NASDAQ:ASTE Astec Industries, Inc. Dividend Announcement $0.1300 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T15:15:49.421303+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.066213+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/9e/9e1c14209a61c79acddb8dd437eda95a1dc478af3df0abc0d1e4b40df9d8a646/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/9e/9e1c14209a61c79acddb8dd437eda95a1dc478af3df0abc0d1e4b40df9d8a646/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2226,
+    "sha256": "sha256:cc45901a72214435b96b863ca0560085b343fa920870af04e7103b4bc6d38db7",
+    "normalized_content_hash": "sha256:dc426aabc7fdc68ce68e08fbc0df7bf11035218be4a6d4bb9eb32fc45e45b08b"
+  },
+  "provenance": {
+    "source_item_id": "4117ff1d-1387-4b53-bd73-74b3c3ca95d0",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/astec-industries,-inc.-nasdaq-aste-declared-a-dividend-of-$0.1300-per-share/"
+  }
+}

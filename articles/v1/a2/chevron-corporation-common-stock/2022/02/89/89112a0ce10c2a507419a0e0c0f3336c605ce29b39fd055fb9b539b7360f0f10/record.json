@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "89112a0ce10c2a507419a0e0c0f3336c605ce29b39fd055fb9b539b7360f0f10",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/people-and-community",
+    "canonical": "https://www.chevron.com/newsroom/people-and-community"
+  },
+  "title": "People and Community Newsroom",
+  "summary": "Our people and community news. Meet the people who make us the human energy company, and find out what we're doing in the communities where we operate.",
+  "published_at": "2022-02-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2022/02/89/89112a0ce10c2a507419a0e0c0f3336c605ce29b39fd055fb9b539b7360f0f10/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2022/02/89/89112a0ce10c2a507419a0e0c0f3336c605ce29b39fd055fb9b539b7360f0f10/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5078,
+    "sha256": "sha256:eb3d085f53eca2353521994ac9bdcdeff83ab939d1f23682b5249094ba8d34e7",
+    "normalized_content_hash": "sha256:6d7f3d9ffb6b76847b3b3b1073dfc42e343466948b0fb822b35a848787ff2590"
+  },
+  "provenance": {
+    "source_item_id": "975111e5-ad0e-4004-af42-93591e8fd57e",
+    "external_id": "https://www.chevron.com/newsroom/people-and-community"
+  }
+}

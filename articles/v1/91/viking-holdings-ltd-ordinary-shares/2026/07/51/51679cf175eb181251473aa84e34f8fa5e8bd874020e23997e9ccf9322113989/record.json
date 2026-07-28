@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "51679cf175eb181251473aa84e34f8fa5e8bd874020e23997e9ccf9322113989",
+  "company": {
+    "key": "viking-holdings-ltd-ordinary-shares",
+    "name": "Viking Holdings Ltd Ordinary Shares"
+  },
+  "source": {
+    "id": "viking-holdings-ltd-ordinary-shares-news-import-b684e47025c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.vikingcruises.com/press/press-releases/2026-06-05-viking-announces-new-offerings-for-european-river-voyages.html",
+    "canonical": "https://www.vikingcruises.com/press/press-releases/2026-06-05-viking-announces-new-offerings-for-european-river-voyages.html"
+  },
+  "title": "Viking Announces New Offerings for European River Voyages-2026-06-05-viking-announces-new-offerings-for-european-river-voyages",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T04:39:29.979249+00:00",
+  "fetched_at": "2026-07-27T18:41:59.963728+00:00",
+  "last_updated_at": "2026-07-27T18:42:05.288368+00:00",
+  "paths": {
+    "article": "articles/v1/91/viking-holdings-ltd-ordinary-shares/2026/07/51/51679cf175eb181251473aa84e34f8fa5e8bd874020e23997e9ccf9322113989/article.md",
+    "record": "articles/v1/91/viking-holdings-ltd-ordinary-shares/2026/07/51/51679cf175eb181251473aa84e34f8fa5e8bd874020e23997e9ccf9322113989/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15560,
+    "sha256": "sha256:1b814db74ae70fb9610f95877a096793ef6acecf45ea776b7e60f39f0733e758",
+    "normalized_content_hash": "sha256:6fc10717dc8044e21f3fa71d60d198b8e8b395a350b46a7e7a62dcd87ecd3c24"
+  },
+  "provenance": {
+    "source_item_id": "7afe2279-2365-4121-9952-ef810ad09179",
+    "external_id": "https://www.vikingcruises.com/press/press-releases/2026-06-05-viking-announces-new-offerings-for-european-river-voyages.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "516dcc5d04ea1e85bdbc541c16649223fa52b43dc8150de05c45f9aa94a9aef2",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-a18fb5381575",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/hr/team-management/hiring-employees-in-connecticut",
+    "canonical": "https://gusto.com/resources/articles/hr/team-management/hiring-employees-in-connecticut"
+  },
+  "title": "The Employer’s Guide to Hiring Employees in Connecticut",
+  "summary": "Are you an employer in Connecticut? Here's your guide on how to hire employees in Connecticut while remaining compliant.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:59.033602+00:00",
+  "fetched_at": "2026-07-28T11:17:57.475842+00:00",
+  "last_updated_at": "2026-07-28T11:17:59.903420+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/51/516dcc5d04ea1e85bdbc541c16649223fa52b43dc8150de05c45f9aa94a9aef2/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/51/516dcc5d04ea1e85bdbc541c16649223fa52b43dc8150de05c45f9aa94a9aef2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11938,
+    "sha256": "sha256:fb9a57c64495d6d8b32e5ceba2e9c9e857e9485bb95307d047b1c7ef33f2b1fd",
+    "normalized_content_hash": "sha256:8ed976ff30afa74411dc2bdf47d4da0a9d4affd7b746c7feed22ff6803459fc5"
+  },
+  "provenance": {
+    "source_item_id": "d3a9c996-14d2-43f5-a81a-040cb7ecbf42",
+    "external_id": "https://gusto.com/resources/articles/hr/team-management/hiring-employees-in-connecticut"
+  }
+}

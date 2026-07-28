@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-pandai",
+    "name": "Pandai"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-05-29T04:08:50+00:00",
+  "last_published_at": "2026-07-23T06:19:08+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    }
+  ]
+}

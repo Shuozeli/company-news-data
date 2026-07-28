@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "877bad587b2b95cdb43fc4ce06616e67522b39a09e45049d63104a4a011382b1",
+  "company": {
+    "key": "nephros-inc-common-stock",
+    "name": "Nephros Inc. Common Stock"
+  },
+  "source": {
+    "id": "nephros-inc-common-stock-news-import-8d494376924e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nephros.com/blog/safe-drinking-water-microplastic-nanoplastic-risk/",
+    "canonical": "https://www.nephros.com/blog/safe-drinking-water-microplastic-nanoplastic-risk/"
+  },
+  "title": "Safe Drinking Water: Microplastics, Nanoplastics & Ultrafiltration | Nephros",
+  "summary": "Learn why ultrafiltration technology is becoming a key water-quality solution in managing microplastics and nanoplastics for drinking water.",
+  "published_at": "2026-07-08T21:23:19+00:00",
+  "first_seen_at": "2026-07-22T05:35:36.740821+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:11.365023+00:00",
+  "paths": {
+    "article": "articles/v1/51/nephros-inc-common-stock/2026/07/87/877bad587b2b95cdb43fc4ce06616e67522b39a09e45049d63104a4a011382b1/article.md",
+    "record": "articles/v1/51/nephros-inc-common-stock/2026/07/87/877bad587b2b95cdb43fc4ce06616e67522b39a09e45049d63104a4a011382b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12113,
+    "sha256": "sha256:69705f52ce9f6859c0fe1db0b8fb6c9a0e02670d9b6d30b6e3cc0d2bcb7ab8cf",
+    "normalized_content_hash": "sha256:51a4936fcc84d775c2252cea487a677122d56893e01c919d57ff2e78dface329"
+  },
+  "provenance": {
+    "source_item_id": "9306b80b-d9c0-4faf-8b9a-507487b37055",
+    "external_id": "https://www.nephros.com/blog/safe-drinking-water-microplastic-nanoplastic-risk/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f3411ea3b55b12fdc8566d1f2c3720599a04e051bdd9247477ec34c02e4e6893",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-news-import-801d48e1d714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/tutorials/product",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/tutorials/product"
+  },
+  "title": "Product Tutorials & Guides",
+  "summary": "Hands-on guides for using Twilio products, from sending your first SMS to building advanced customer engagement workflows.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T17:37:59.927743+00:00",
+  "fetched_at": "2026-07-28T22:07:07.393518+00:00",
+  "last_updated_at": "2026-07-28T22:08:15.213042+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/f3/f3411ea3b55b12fdc8566d1f2c3720599a04e051bdd9247477ec34c02e4e6893/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/f3/f3411ea3b55b12fdc8566d1f2c3720599a04e051bdd9247477ec34c02e4e6893/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2841,
+    "sha256": "sha256:ee61edbb5dc4e4ddbd3386b332fdd8e97cf6c3611b7792747df4828be85131aa",
+    "normalized_content_hash": "sha256:0fa2ca6001b75f8194c98e1c56d1dbadf74c55b215208e6ebf2ea2c20273721c"
+  },
+  "provenance": {
+    "source_item_id": "2c9829d9-4780-4169-be6d-5f84b6bf7102",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/tutorials/product"
+  }
+}

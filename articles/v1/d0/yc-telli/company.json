@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-telli",
+    "name": "telli"
+  },
+  "record_count": 15,
+  "first_published_at": "2026-07-17T16:06:03.882+00:00",
+  "last_published_at": "2026-07-28T10:50:09.766+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 15
+    }
+  ]
+}

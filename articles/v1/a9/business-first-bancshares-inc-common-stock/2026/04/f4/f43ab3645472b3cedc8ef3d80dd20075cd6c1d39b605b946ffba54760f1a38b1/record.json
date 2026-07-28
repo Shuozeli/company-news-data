@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f43ab3645472b3cedc8ef3d80dd20075cd6c1d39b605b946ffba54760f1a38b1",
+  "company": {
+    "key": "business-first-bancshares-inc-common-stock",
+    "name": "Business First Bancshares Inc. Common Stock"
+  },
+  "source": {
+    "id": "business-first-bancshares-inc-common-stock-news-import-4e89ed4c1e40",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.b1bank.com/shareholder-info/press-releases/business-first-bancshares-inc-announces-financial-results-q1-2026",
+    "canonical": "https://www.b1bank.com/shareholder-info/press-releases/business-first-bancshares-inc-announces-financial-results-q1-2026"
+  },
+  "title": "Business First Bancshares, Inc., Announces Financial Results for Q1 2026",
+  "summary": "",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:15:16.525025+00:00",
+  "fetched_at": "2026-07-27T19:41:18.141343+00:00",
+  "last_updated_at": "2026-07-27T19:41:20.649019+00:00",
+  "paths": {
+    "article": "articles/v1/a9/business-first-bancshares-inc-common-stock/2026/04/f4/f43ab3645472b3cedc8ef3d80dd20075cd6c1d39b605b946ffba54760f1a38b1/article.md",
+    "record": "articles/v1/a9/business-first-bancshares-inc-common-stock/2026/04/f4/f43ab3645472b3cedc8ef3d80dd20075cd6c1d39b605b946ffba54760f1a38b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17650,
+    "sha256": "sha256:b0c9b46553a682232e0e4a498b3e7732a91f08e7656e78693a8bdb0fce3a4bf2",
+    "normalized_content_hash": "sha256:69c7de90c14971b9fc1046f8d42a152d7d1b223d0804a6516191080c1486b859"
+  },
+  "provenance": {
+    "source_item_id": "689fd346-f534-4a62-89a3-09aaeb892ce0",
+    "external_id": "https://www.b1bank.com/shareholder-info/press-releases/business-first-bancshares-inc-announces-financial-results-q1-2026"
+  }
+}

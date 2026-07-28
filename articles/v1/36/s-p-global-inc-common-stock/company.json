@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "s-p-global-inc-common-stock",
+    "name": "S&P Global Inc. Common Stock"
+  },
+  "record_count": 24,
+  "first_published_at": "2024-04-03T09:40:34+00:00",
+  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    }
+  ]
+}

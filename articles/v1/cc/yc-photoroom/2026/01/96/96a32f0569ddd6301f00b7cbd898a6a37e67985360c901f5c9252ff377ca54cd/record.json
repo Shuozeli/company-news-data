@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "96a32f0569ddd6301f00b7cbd898a6a37e67985360c901f5c9252ff377ca54cd",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/building-google-docs-like-live-collaboration-for-a-cross-platform-app-used-by-millions-in-rust-",
+    "canonical": "https://www.photoroom.com/inside-photoroom/building-google-docs-like-live-collaboration-for-a-cross-platform-app-used-by-millions-in-rust-"
+  },
+  "title": "Building Google-Docs-like live collaboration for a cross-platform app used by millions (in Rust)",
+  "summary": "",
+  "published_at": "2026-01-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-07-28T21:49:00.065058+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/01/96/96a32f0569ddd6301f00b7cbd898a6a37e67985360c901f5c9252ff377ca54cd/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/01/96/96a32f0569ddd6301f00b7cbd898a6a37e67985360c901f5c9252ff377ca54cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3352,
+    "sha256": "sha256:5cff01938668c988bfae22198a82d92536a616c8559d32ee9edf6ee0c1f3fc65",
+    "normalized_content_hash": "sha256:bf376fe3ee993ea4c1c6c8a4e7998d75c51223b75694e9eb2c903c1cfef32184"
+  },
+  "provenance": {
+    "source_item_id": "81942cc7-e5e1-4076-9133-f62ef6b2cea4",
+    "external_id": "https://www.photoroom.com/inside-photoroom/building-google-docs-like-live-collaboration-for-a-cross-platform-app-used-by-millions-in-rust-"
+  }
+}

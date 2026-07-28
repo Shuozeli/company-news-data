@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "234bb9a6adbab7e9bf283c86cb3884031c1961615ffe3a7ca8458e6df085392d",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/dask-argo-workflows-big-data",
+    "canonical": "https://homepage.pipekit.io/blog/dask-argo-workflows-big-data"
+  },
+  "title": "How to Orchestrate Dask with Argo Workflows for Big Data Workloads",
+  "summary": "Learn how to combine Kubernetes-native Argo Workflows with the low-latency scalability of Dask to distribute extremely large data jobs.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.175869+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/23/234bb9a6adbab7e9bf283c86cb3884031c1961615ffe3a7ca8458e6df085392d/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/23/234bb9a6adbab7e9bf283c86cb3884031c1961615ffe3a7ca8458e6df085392d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8467,
+    "sha256": "sha256:ef7991d7466e1272cdd72d2245846c3e2820cc05d561a24bfd57b8d61fd241bf",
+    "normalized_content_hash": "sha256:2928ff28a89b9b7b9466b7d9d96da0456322648549a90ea2564f9eb9d553cfe8"
+  },
+  "provenance": {
+    "source_item_id": "12794430-6739-4ddd-a215-ad6d3d7ae27e",
+    "external_id": "https://homepage.pipekit.io/blog/dask-argo-workflows-big-data"
+  }
+}

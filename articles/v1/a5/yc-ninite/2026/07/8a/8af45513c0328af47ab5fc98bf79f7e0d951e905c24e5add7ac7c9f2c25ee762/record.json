@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8af45513c0328af47ab5fc98bf79f7e0d951e905c24e5add7ac7c9f2c25ee762",
+  "company": {
+    "key": "yc-ninite",
+    "name": "Ninite"
+  },
+  "source": {
+    "id": "yc-ninite-rss-629553105472",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ninite.com/anydesk/",
+    "canonical": "https://ninite.com/anydesk/"
+  },
+  "title": "AnyDesk updated to 9.7.11.",
+  "summary": "",
+  "published_at": "2026-07-22T11:33:19+00:00",
+  "first_seen_at": "2026-07-25T16:20:56.315803+00:00",
+  "fetched_at": "2026-07-28T20:51:42.131550+00:00",
+  "last_updated_at": "2026-07-28T20:51:42.222078+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-ninite/2026/07/8a/8af45513c0328af47ab5fc98bf79f7e0d951e905c24e5add7ac7c9f2c25ee762/article.md",
+    "record": "articles/v1/a5/yc-ninite/2026/07/8a/8af45513c0328af47ab5fc98bf79f7e0d951e905c24e5add7ac7c9f2c25ee762/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 499,
+    "sha256": "sha256:e70bf2411557299b85c74a2adddf72ba69ce8c92be84735f1541f025b5efc333",
+    "normalized_content_hash": "sha256:91468dff38e5d3a73b501e0224c08583e007e017f4117d421d8230cdf510d8d3"
+  },
+  "provenance": {
+    "source_item_id": "792b39b4-7392-4f7e-a63f-a01c5fa496dc",
+    "external_id": "e5c3b487a15c1df8341e9b02a9a912de"
+  }
+}

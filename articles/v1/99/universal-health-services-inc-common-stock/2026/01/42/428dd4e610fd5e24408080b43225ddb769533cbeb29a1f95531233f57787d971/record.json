@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "428dd4e610fd5e24408080b43225ddb769533cbeb29a1f95531233f57787d971",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-4efa37697785",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/beckers-ai-search-brand-differentiation-17-top-health-systems-2026-marketing-priorities/",
+    "canonical": "https://uhs.com/news/beckers-ai-search-brand-differentiation-17-top-health-systems-2026-marketing-priorities/"
+  },
+  "title": "Becker’s: AI Search, Brand Differentiation: 17 Top Health Systems’ 2026 Marketing Priorities",
+  "summary": "UHS Vice President and Chief Marketing and Communications Officer Roselle Charlier recently spoke to Becker’s Hospital Review and offered perspective on top priorities for the next year.",
+  "published_at": "2026-01-22T13:34:43+00:00",
+  "first_seen_at": "2026-07-24T05:33:05.470539+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:34.812747+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/42/428dd4e610fd5e24408080b43225ddb769533cbeb29a1f95531233f57787d971/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/42/428dd4e610fd5e24408080b43225ddb769533cbeb29a1f95531233f57787d971/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4507,
+    "sha256": "sha256:b238833fc4fa035be1ca34650aa77190fb01e0b65fe39c0750a5aa9448594994",
+    "normalized_content_hash": "sha256:c68774e00f4869adfd98de1fa38d87ea62be3b0fc73b13089a0673a8fa137300"
+  },
+  "provenance": {
+    "source_item_id": "70db0cc6-0387-42ac-86df-84b1e1965e9b",
+    "external_id": "https://uhs.com/news/beckers-ai-search-brand-differentiation-17-top-health-systems-2026-marketing-priorities/"
+  }
+}

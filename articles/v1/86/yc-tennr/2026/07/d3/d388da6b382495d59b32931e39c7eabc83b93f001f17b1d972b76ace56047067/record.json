@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d388da6b382495d59b32931e39c7eabc83b93f001f17b1d972b76ace56047067",
+  "company": {
+    "key": "yc-tennr",
+    "name": "Tennr"
+  },
+  "source": {
+    "id": "yc-tennr-news-import-b8ee8a34d088",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tennr.com/resources/behind-the-headlines-of-the-mit-study",
+    "canonical": "https://www.tennr.com/resources/behind-the-headlines-of-the-mit-study"
+  },
+  "title": "MIT Study Reveals That Custom IT Projects Are Hard",
+  "summary": "The response to MIT’s study showing ‘95% of Enterprise AI projects are failing’ has been one of gleeful schadenfreud for people like me who love soapboxing about how most technology headlines are fake, fraud, or grossly exaggerated.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T02:41:53.775323+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:55.906880+00:00",
+  "paths": {
+    "article": "articles/v1/86/yc-tennr/2026/07/d3/d388da6b382495d59b32931e39c7eabc83b93f001f17b1d972b76ace56047067/article.md",
+    "record": "articles/v1/86/yc-tennr/2026/07/d3/d388da6b382495d59b32931e39c7eabc83b93f001f17b1d972b76ace56047067/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3650,
+    "sha256": "sha256:a8fb298bcfb8d10dac4a2fbc3460ec84fb43e736737cd624801bebe0b024c9cc",
+    "normalized_content_hash": "sha256:cb6c6bfde95a7c96f66c5a567388421daa4518dd737dac577ddd8ac458fdc4c6"
+  },
+  "provenance": {
+    "source_item_id": "eff80a13-c3f3-435e-befb-1fa468fb4a4e",
+    "external_id": "https://www.tennr.com/resources/behind-the-headlines-of-the-mit-study"
+  }
+}

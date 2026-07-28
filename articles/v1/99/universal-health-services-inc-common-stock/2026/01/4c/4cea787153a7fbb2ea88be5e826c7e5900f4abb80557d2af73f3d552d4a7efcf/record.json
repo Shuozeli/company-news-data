@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4cea787153a7fbb2ea88be5e826c7e5900f4abb80557d2af73f3d552d4a7efcf",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-4efa37697785",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/beckers-interview-roselle-charlier-on-patient-engagement/",
+    "canonical": "https://uhs.com/news/beckers-interview-roselle-charlier-on-patient-engagement/"
+  },
+  "title": "Becker’s Interview: UHS’ Roselle Charlier on Patient Engagement",
+  "summary": "In 2025, UHS sent more than 1 million text messages to patients to solicit Google reviews, which remain vital for health systems even in the era of AI search, a leader told Becker’s.",
+  "published_at": "2026-01-30T15:38:09+00:00",
+  "first_seen_at": "2026-07-24T05:33:05.470539+00:00",
+  "fetched_at": "2026-07-28T22:22:53.892181+00:00",
+  "last_updated_at": "2026-07-28T22:23:02.743299+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/4c/4cea787153a7fbb2ea88be5e826c7e5900f4abb80557d2af73f3d552d4a7efcf/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/4c/4cea787153a7fbb2ea88be5e826c7e5900f4abb80557d2af73f3d552d4a7efcf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4369,
+    "sha256": "sha256:8954cdc8a5a772bc1d2cbf13f45291bb5b5e3e329496c0f58d9b83132be1d27c",
+    "normalized_content_hash": "sha256:cb9dd3c1df7a3e0cb67e68c80f6a91ae350d3b1741981bb1cc2f746201eca0c9"
+  },
+  "provenance": {
+    "source_item_id": "be3f3951-ae56-4899-9fb3-86b1bbf826a3",
+    "external_id": "https://uhs.com/news/beckers-interview-roselle-charlier-on-patient-engagement/"
+  }
+}

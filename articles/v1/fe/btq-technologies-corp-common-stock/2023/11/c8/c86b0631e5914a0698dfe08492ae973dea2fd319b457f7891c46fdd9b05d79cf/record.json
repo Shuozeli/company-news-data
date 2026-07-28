@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c86b0631e5914a0698dfe08492ae973dea2fd319b457f7891c46fdd9b05d79cf",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/is-quantum-computing-killing-blockchains",
+    "canonical": "https://www.btq.tech/blog/is-quantum-computing-killing-blockchains"
+  },
+  "title": "Is Quantum Computing Killing Blockchains?",
+  "summary": "Blockchain technology has changed the way we think about digital transactions and added a new level of security and transparency in the digital world that no bank has been able to compete with. One of the key features that make blockchains so secure is their immutability—once data is put on the blockchain, changing it...",
+  "published_at": "2023-11-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:02.713987+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2023/11/c8/c86b0631e5914a0698dfe08492ae973dea2fd319b457f7891c46fdd9b05d79cf/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2023/11/c8/c86b0631e5914a0698dfe08492ae973dea2fd319b457f7891c46fdd9b05d79cf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9797,
+    "sha256": "sha256:22778997e0de0a5a0213ee5abe89fb6b48bf9c2516310e66c5333a80b4f6e09c",
+    "normalized_content_hash": "sha256:d6f0ca9b16e76bbe4845ae05d5987b3b453242c731ebca77353ff8b63c0d3b05"
+  },
+  "provenance": {
+    "source_item_id": "cdadd796-fd81-41b0-aaad-a7329946792e",
+    "external_id": "https://www.btq.tech/blog/is-quantum-computing-killing-blockchains"
+  }
+}

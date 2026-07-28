@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dbc307f9b96857dc218f55c795897559646bc9954d4c30f93fdffae73b589b30",
+  "company": {
+    "key": "thermon-group-holdings-inc-common-stock",
+    "name": "Thermon Group Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "thermon-group-holdings-inc-common-stock-news-import-a2a1af8cd9b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://thermon.com/news/announcing-the-release-of-genesis-duo-firmware-v150/",
+    "canonical": "https://thermon.com/news/announcing-the-release-of-genesis-duo-firmware-v150/"
+  },
+  "title": "Announcing the release of Genesis Duo Firmware Version 1.5.0",
+  "summary": "Whether you’re looking for complete flow assurance, industrial heating, temperature maintenance, freeze protection or environmental monitoring, Thermon has you covered.",
+  "published_at": "2026-07-18T10:01:40+00:00",
+  "first_seen_at": "2026-07-22T16:34:45.413651+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:21:56.324+00:00",
+  "paths": {
+    "article": "articles/v1/61/thermon-group-holdings-inc-common-stock/2026/07/db/dbc307f9b96857dc218f55c795897559646bc9954d4c30f93fdffae73b589b30/article.md",
+    "record": "articles/v1/61/thermon-group-holdings-inc-common-stock/2026/07/db/dbc307f9b96857dc218f55c795897559646bc9954d4c30f93fdffae73b589b30/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2460,
+    "sha256": "sha256:61b1ee97039e0cfad31df53884ad539cf9b62aa682bf026684d39a0d651a821a",
+    "normalized_content_hash": "sha256:64a94cbc0ddae97382b6af50f11c0fa373412817070fa452024302b35aa948c3"
+  },
+  "provenance": {
+    "source_item_id": "3f5131da-7874-454c-9e5c-59934b5e76c9",
+    "external_id": "https://thermon.com/news/announcing-the-release-of-genesis-duo-firmware-v150/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "capital-city-bank-group-common-stock",
+    "name": "Capital City Bank Group Common Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-04-01T12:30:00+00:00",
+  "last_published_at": "2026-07-21T11:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ]
+}

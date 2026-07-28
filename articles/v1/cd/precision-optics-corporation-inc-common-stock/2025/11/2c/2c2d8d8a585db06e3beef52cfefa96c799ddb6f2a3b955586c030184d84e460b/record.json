@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c2d8d8a585db06e3beef52cfefa96c799ddb6f2a3b955586c030184d84e460b",
+  "company": {
+    "key": "precision-optics-corporation-inc-common-stock",
+    "name": "Precision Optics Corporation Inc. Common stock"
+  },
+  "source": {
+    "id": "precision-optics-corporation-inc-common-stock-news-import-4ae7401a5aa4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.poci.com/press-releases/precision-optics-reports-first-quarter-fiscal-year-2026-financial-results/",
+    "canonical": "https://www.poci.com/press-releases/precision-optics-reports-first-quarter-fiscal-year-2026-financial-results/"
+  },
+  "title": "Precision Optics Reports First Quarter Fiscal Year 2026 Financial Results",
+  "summary": "",
+  "published_at": "2025-11-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:48:26.579797+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:40.953577+00:00",
+  "paths": {
+    "article": "articles/v1/cd/precision-optics-corporation-inc-common-stock/2025/11/2c/2c2d8d8a585db06e3beef52cfefa96c799ddb6f2a3b955586c030184d84e460b/article.md",
+    "record": "articles/v1/cd/precision-optics-corporation-inc-common-stock/2025/11/2c/2c2d8d8a585db06e3beef52cfefa96c799ddb6f2a3b955586c030184d84e460b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11963,
+    "sha256": "sha256:4e4d11efe0060959be0652ec64d9676defbc9efdfcef425ed1ec2b86d11134c0",
+    "normalized_content_hash": "sha256:b61c39b083b64b8abbef35ad730664bfa538657405c9047ac2ed1770a7e30e9b"
+  },
+  "provenance": {
+    "source_item_id": "3ee4d5e7-f141-4e69-9573-1851f7bbae38",
+    "external_id": "https://www.poci.com/press-releases/precision-optics-reports-first-quarter-fiscal-year-2026-financial-results/"
+  }
+}

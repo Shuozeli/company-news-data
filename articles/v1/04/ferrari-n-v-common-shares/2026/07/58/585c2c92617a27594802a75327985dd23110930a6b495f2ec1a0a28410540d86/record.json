@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "585c2c92617a27594802a75327985dd23110930a6b495f2ec1a0a28410540d86",
+  "company": {
+    "key": "ferrari-n-v-common-shares",
+    "name": "Ferrari N.V. Common Shares"
+  },
+  "source": {
+    "id": "ferrari-n-v-common-shares-news-import-597b1f1fc06e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ferrari.com/en-EN/media-centre/articles/hungarian-grand-prix-2026-saturday-report",
+    "canonical": "https://www.ferrari.com/en-EN/media-centre/articles/hungarian-grand-prix-2026-saturday-report"
+  },
+  "title": "Hungarian Grand Prix - Charles on the front row, Lewis ready to fight back",
+  "summary": "",
+  "published_at": "2026-07-25T17:26:06+00:00",
+  "first_seen_at": "2026-07-27T02:21:11.609413+00:00",
+  "fetched_at": "2026-07-27T02:21:08.113880+00:00",
+  "last_updated_at": "2026-07-27T02:21:11.609413+00:00",
+  "paths": {
+    "article": "articles/v1/04/ferrari-n-v-common-shares/2026/07/58/585c2c92617a27594802a75327985dd23110930a6b495f2ec1a0a28410540d86/article.md",
+    "record": "articles/v1/04/ferrari-n-v-common-shares/2026/07/58/585c2c92617a27594802a75327985dd23110930a6b495f2ec1a0a28410540d86/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4766,
+    "sha256": "sha256:d2229d42bf1b53ed6655c494b28e9daa0b313def23c1a7de815f5ce7fd32687d",
+    "normalized_content_hash": "sha256:9be2302a82f8c0732c8221cd46a8c52044f0d790f5b24fb21816c5c9028fa186"
+  },
+  "provenance": {
+    "source_item_id": "39f62923-220c-4bdc-bd7b-2b4ad33378de",
+    "external_id": "https://www.ferrari.com/en-EN/media-centre/articles/hungarian-grand-prix-2026-saturday-report"
+  }
+}

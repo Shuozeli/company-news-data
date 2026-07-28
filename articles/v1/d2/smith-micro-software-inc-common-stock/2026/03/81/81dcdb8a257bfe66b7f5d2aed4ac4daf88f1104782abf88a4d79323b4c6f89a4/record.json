@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81dcdb8a257bfe66b7f5d2aed4ac4daf88f1104782abf88a4d79323b4c6f89a4",
+  "company": {
+    "key": "smith-micro-software-inc-common-stock",
+    "name": "Smith Micro Software Inc. Common Stock"
+  },
+  "source": {
+    "id": "smith-micro-software-inc-common-stock-news-import-b4a9963a09cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.smithmicro.com/press-releases/2026/03/04/smith-micro-reports-fourth-quarter-and-fiscal-year-2025-financial-results/",
+    "canonical": "https://www.smithmicro.com/press-releases/2026/03/04/smith-micro-reports-fourth-quarter-and-fiscal-year-2025-financial-results/"
+  },
+  "title": "Smith Micro Reports Fourth Quarter and Fiscal Year 2025 Financial Results",
+  "summary": "Q4 highlights cost reductions and SafePath OS™ growth strategy",
+  "published_at": "2026-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:51:11.899355+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:41.978177+00:00",
+  "paths": {
+    "article": "articles/v1/d2/smith-micro-software-inc-common-stock/2026/03/81/81dcdb8a257bfe66b7f5d2aed4ac4daf88f1104782abf88a4d79323b4c6f89a4/article.md",
+    "record": "articles/v1/d2/smith-micro-software-inc-common-stock/2026/03/81/81dcdb8a257bfe66b7f5d2aed4ac4daf88f1104782abf88a4d79323b4c6f89a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13082,
+    "sha256": "sha256:973a87c47981a004cbba000c74c3dd3d51569599e7f904fd5b93dc6737dec59c",
+    "normalized_content_hash": "sha256:4a610f2146eef56e27f8123acc51d1be44e56f9fa45c9baf3adb304aea89ead4"
+  },
+  "provenance": {
+    "source_item_id": "2143412f-7a47-4be2-85e9-b5a8871a246d",
+    "external_id": "https://www.smithmicro.com/press-releases/2026/03/04/smith-micro-reports-fourth-quarter-and-fiscal-year-2025-financial-results/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "42c58e7ee798785d6180f46b4bd6c9541d4ad3ffa51933e06a8f21aa31537ee1",
+  "company": {
+    "key": "cbiz-inc-common-stock",
+    "name": "CBIZ Inc. Common Stock"
+  },
+  "source": {
+    "id": "cbiz-inc-common-stock-news-import-fcc1128aca9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cbiz.com/insights/nfp-education",
+    "canonical": "https://www.cbiz.com/insights/nfp-education"
+  },
+  "title": "NFP & Education Insights | CBIZ",
+  "summary": "Read the latest Not-for-Profit & Education insights and news from CBIZ's thought leadership professionals.",
+  "published_at": "2025-03-12T16:55:37+00:00",
+  "first_seen_at": "2026-07-24T23:42:27.744988+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:07.116633+00:00",
+  "paths": {
+    "article": "articles/v1/6d/cbiz-inc-common-stock/2025/03/42/42c58e7ee798785d6180f46b4bd6c9541d4ad3ffa51933e06a8f21aa31537ee1/article.md",
+    "record": "articles/v1/6d/cbiz-inc-common-stock/2025/03/42/42c58e7ee798785d6180f46b4bd6c9541d4ad3ffa51933e06a8f21aa31537ee1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1213,
+    "sha256": "sha256:b6c60d87b10c51db168d79bf158b6322f0100317cf9e3be016575f23148a088d",
+    "normalized_content_hash": "sha256:a41849da2b6a2e225dcd226188694cb120030e0bd929eb53bdb06482110d7fdf"
+  },
+  "provenance": {
+    "source_item_id": "28a97b13-04f4-46a9-aad2-0d43e3c5aa80",
+    "external_id": "https://www.cbiz.com/insights/nfp-education"
+  }
+}

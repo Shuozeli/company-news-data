@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4346e4a74a8229db544bd0566716910a3c3d6ae37fc0fe2c2e173edc9ed92c74",
+  "company": {
+    "key": "cts-corporation-common-stock",
+    "name": "CTS Corporation Common Stock"
+  },
+  "source": {
+    "id": "cts-corporation-common-stock-news-import-47f21efce330",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ctscorp.com/Resources/Blog/QA-with-Martin-Baumeister",
+    "canonical": "https://www.ctscorp.com/Resources/Blog/QA-with-Martin-Baumeister"
+  },
+  "title": "Driving the Future of Automotive and Industrial Innovation",
+  "summary": "",
+  "published_at": "2025-06-11T01:35:28.843+00:00",
+  "first_seen_at": "2026-07-21T15:29:46.953658+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T22:02:55.723848+00:00",
+  "paths": {
+    "article": "articles/v1/6f/cts-corporation-common-stock/2025/06/43/4346e4a74a8229db544bd0566716910a3c3d6ae37fc0fe2c2e173edc9ed92c74/article.md",
+    "record": "articles/v1/6f/cts-corporation-common-stock/2025/06/43/4346e4a74a8229db544bd0566716910a3c3d6ae37fc0fe2c2e173edc9ed92c74/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6278,
+    "sha256": "sha256:1d47fe42aa9c7299740b64fe4d464e4c8a5f1e490fadcbde0b5a8a2fd5b48618",
+    "normalized_content_hash": "sha256:1263975822278d906f1a9c5c7e5fea2d2a901b7f740d50c27a1493a33f30557f"
+  },
+  "provenance": {
+    "source_item_id": "720a07a3-a95c-4959-9a2c-bad6300695a6",
+    "external_id": "https://www.ctscorp.com/Resources/Blog/QA-with-Martin-Baumeister"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a5f87a31486de667247bbbd01945ec6fcf1613815f797bed10392c853138eccd",
+  "company": {
+    "key": "sinclair-inc-class-a-common-stock",
+    "name": "Sinclair Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "sinclair-inc-class-a-common-stock-news-import-000242773839",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sbgi.net/news/investigative-stories/",
+    "canonical": "https://sbgi.net/news/investigative-stories/"
+  },
+  "title": "Investigative Stories at Local Sinclair Stations Have Won Dozens of Local and National Awards",
+  "summary": "",
+  "published_at": "2022-08-17T16:41:48+00:00",
+  "first_seen_at": "2026-07-22T13:36:46.781070+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.365442+00:00",
+  "paths": {
+    "article": "articles/v1/58/sinclair-inc-class-a-common-stock/2022/08/a5/a5f87a31486de667247bbbd01945ec6fcf1613815f797bed10392c853138eccd/article.md",
+    "record": "articles/v1/58/sinclair-inc-class-a-common-stock/2022/08/a5/a5f87a31486de667247bbbd01945ec6fcf1613815f797bed10392c853138eccd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2105,
+    "sha256": "sha256:bc9ed476ea06c53ea68a58f3da1997cf7aedb2a439c7159699b982ea44f0cecb",
+    "normalized_content_hash": "sha256:e43e09084140ed6cc5892739444b8c392d327e14d21242832104c5dd18258209"
+  },
+  "provenance": {
+    "source_item_id": "c2396a23-518c-4330-ac60-57725e7ad639",
+    "external_id": "https://sbgi.net/news/investigative-stories/"
+  }
+}

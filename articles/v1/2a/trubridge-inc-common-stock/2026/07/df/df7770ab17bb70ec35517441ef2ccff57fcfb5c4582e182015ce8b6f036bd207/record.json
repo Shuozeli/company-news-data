@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df7770ab17bb70ec35517441ef2ccff57fcfb5c4582e182015ce8b6f036bd207",
+  "company": {
+    "key": "trubridge-inc-common-stock",
+    "name": "TruBridge Inc. Common Stock"
+  },
+  "source": {
+    "id": "trubridge-inc-common-stock-news-import-b9e03b8024f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trubridge.com/resources/ehr-optimization-helps-ozarks-community-hospital-enhance-rural-healthcare-access-and-financial-stability-2/",
+    "canonical": "https://trubridge.com/resources/ehr-optimization-helps-ozarks-community-hospital-enhance-rural-healthcare-access-and-financial-stability-2/"
+  },
+  "title": "EHR Optimization Helps Ozarks Community Hospital Enhance Rural Healthcare Access and Financial Stability – TruBridge",
+  "summary": "By supporting innovative care models, TruBridge helps improve patient outcomes and revenues for rural hospitals such as Ozarks Community Hospital.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:32:11.537053+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-07-28T21:38:16.709877+00:00",
+  "paths": {
+    "article": "articles/v1/2a/trubridge-inc-common-stock/2026/07/df/df7770ab17bb70ec35517441ef2ccff57fcfb5c4582e182015ce8b6f036bd207/article.md",
+    "record": "articles/v1/2a/trubridge-inc-common-stock/2026/07/df/df7770ab17bb70ec35517441ef2ccff57fcfb5c4582e182015ce8b6f036bd207/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1885,
+    "sha256": "sha256:45b82ef3e3b05c4269ecb1829c74bdd2b132c7dd6fd27b3fea1bd89985c49e25",
+    "normalized_content_hash": "sha256:0ebb5abaf32609f38fd124bbb6281d9c764222503c0360cfa36707e43163ef60"
+  },
+  "provenance": {
+    "source_item_id": "a2e72c59-991c-45da-bf1d-1b8e46a96dc6",
+    "external_id": "https://trubridge.com/resources/ehr-optimization-helps-ozarks-community-hospital-enhance-rural-healthcare-access-and-financial-stability-2/"
+  }
+}

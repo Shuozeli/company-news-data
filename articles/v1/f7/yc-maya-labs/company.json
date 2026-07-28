@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-maya-labs",
+    "name": "Maya Labs"
+  },
+  "record_count": 3,
+  "first_published_at": "2020-12-12T16:30:00+00:00",
+  "last_published_at": "2023-03-20T10:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2020-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    }
+  ]
+}

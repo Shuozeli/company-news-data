@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "be3017e374ece6adc22727b572e14b7ffeccae0631fb3f395ce8142079610740",
+  "company": {
+    "key": "leonardo-drs-inc-common-stock",
+    "name": "Leonardo DRS Inc. Common Stock"
+  },
+  "source": {
+    "id": "leonardo-drs-inc-common-stock-news-import-5f9388999390",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.leonardodrs.com/news/in-the-news/leonardo-drs-demonstrates-counter-drone-package-on-unmanned-surface-vessel/",
+    "canonical": "https://www.leonardodrs.com/news/in-the-news/leonardo-drs-demonstrates-counter-drone-package-on-unmanned-surface-vessel/"
+  },
+  "title": "Counter-Drone Package On Unmanned Surface Vessel",
+  "summary": "Leonardo DRS [DRS] recently successfully demonstrated these technologies aboard a small unmanned surface vessel (USV) in the open water for naval fleet protection.",
+  "published_at": "2025-08-19T20:06:26+00:00",
+  "first_seen_at": "2026-07-27T05:38:50.671866+00:00",
+  "fetched_at": "2026-07-27T18:28:40.167813+00:00",
+  "last_updated_at": "2026-07-27T18:28:52.445700+00:00",
+  "paths": {
+    "article": "articles/v1/be/leonardo-drs-inc-common-stock/2025/08/be/be3017e374ece6adc22727b572e14b7ffeccae0631fb3f395ce8142079610740/article.md",
+    "record": "articles/v1/be/leonardo-drs-inc-common-stock/2025/08/be/be3017e374ece6adc22727b572e14b7ffeccae0631fb3f395ce8142079610740/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7195,
+    "sha256": "sha256:42868eb620ff0ace007f9f575727d5be4cd5f053f8e054aaf7861954fcb2af0d",
+    "normalized_content_hash": "sha256:a9c962247804c67ce3e389d0d0798ec9c940af2882ab210badfd9ee300ee68c6"
+  },
+  "provenance": {
+    "source_item_id": "e2411418-adf4-4573-ac7f-526439c4c718",
+    "external_id": "https://www.leonardodrs.com/news/in-the-news/leonardo-drs-demonstrates-counter-drone-package-on-unmanned-surface-vessel/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "personalis-inc-common-stock",
+    "name": "Personalis Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2022-05-23T19:49:00+00:00",
+  "last_published_at": "2024-05-21T15:15:56+00:00",
+  "partitions": [
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    }
+  ]
+}

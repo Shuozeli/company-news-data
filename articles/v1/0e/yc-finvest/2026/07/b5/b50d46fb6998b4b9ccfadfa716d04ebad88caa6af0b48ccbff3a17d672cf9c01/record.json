@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b50d46fb6998b4b9ccfadfa716d04ebad88caa6af0b48ccbff3a17d672cf9c01",
+  "company": {
+    "key": "yc-finvest",
+    "name": "Finvest"
+  },
+  "source": {
+    "id": "yc-finvest-news-import-dca26008b37d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.getfinvest.com/blog/how-much-emergency-fund/",
+    "canonical": "https://www.getfinvest.com/blog/how-much-emergency-fund/"
+  },
+  "title": "Your emergency fund is not lazy money",
+  "summary": "How much cash to keep before investing, paying debt, buying a home, or helping family, and when it is safe to use the rest.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T02:24:45.885818+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:22:00.567126+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-finvest/2026/07/b5/b50d46fb6998b4b9ccfadfa716d04ebad88caa6af0b48ccbff3a17d672cf9c01/article.md",
+    "record": "articles/v1/0e/yc-finvest/2026/07/b5/b50d46fb6998b4b9ccfadfa716d04ebad88caa6af0b48ccbff3a17d672cf9c01/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4788,
+    "sha256": "sha256:c7726cd73f0dc80c86c6a589ae01ad9792923dfaf013d868cf2f6bb16c23fc08",
+    "normalized_content_hash": "sha256:66130cbc0d611693702b187f4e08935a03156515efa93f3889db0fe770dcff7b"
+  },
+  "provenance": {
+    "source_item_id": "b45ac47e-6014-4c51-8cc9-b69874e34496",
+    "external_id": "https://www.getfinvest.com/blog/how-much-emergency-fund/"
+  }
+}

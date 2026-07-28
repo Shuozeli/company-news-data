@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4949af5241d2196bce59bca5ccc3cb896e488cf1a556a86692fbb75b22f64176",
+  "company": {
+    "key": "kore-group-holdings-inc-common-stock",
+    "name": "KORE Group Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "kore-group-holdings-inc-common-stock-news-import-0148a2e8069f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.korewireless.com/news-events/press-releases/detail/261/kore-reports-third-quarter-2025-results",
+    "canonical": "https://ir.korewireless.com/news-events/press-releases/detail/261/kore-reports-third-quarter-2025-results"
+  },
+  "title": "KORE Reports Third Quarter 2025 Results",
+  "summary": "",
+  "published_at": "2025-11-12T16:15:00+00:00",
+  "first_seen_at": "2026-07-22T01:40:58.292130+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:32.625522+00:00",
+  "paths": {
+    "article": "articles/v1/63/kore-group-holdings-inc-common-stock/2025/11/49/4949af5241d2196bce59bca5ccc3cb896e488cf1a556a86692fbb75b22f64176/article.md",
+    "record": "articles/v1/63/kore-group-holdings-inc-common-stock/2025/11/49/4949af5241d2196bce59bca5ccc3cb896e488cf1a556a86692fbb75b22f64176/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19382,
+    "sha256": "sha256:e5412a1d7e8878feb070a947291f905d7ccbd7001d716ecb0e3e2449a126b27d",
+    "normalized_content_hash": "sha256:8df61485eb66f206b5f95d97c033c93602b7ee70131acd6a278495c61633fb20"
+  },
+  "provenance": {
+    "source_item_id": "440dbc76-9c06-4330-b124-61cfe2bc1943",
+    "external_id": "https://ir.korewireless.com/news-events/press-releases/detail/261/kore-reports-third-quarter-2025-results"
+  }
+}

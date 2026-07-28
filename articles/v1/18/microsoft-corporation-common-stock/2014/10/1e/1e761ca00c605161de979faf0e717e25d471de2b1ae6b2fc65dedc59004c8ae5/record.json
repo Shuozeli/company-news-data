@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e761ca00c605161de979faf0e717e25d471de2b1ae6b2fc65dedc59004c8ae5",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation Common Stock"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-865bfd380f75",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.microsoft.com/facts-about-microsoft/",
+    "canonical": "https://news.microsoft.com/facts-about-microsoft/"
+  },
+  "title": "Facts About Microsoft",
+  "summary": "Microsoft creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more. Corporate Address Important Dates Board […]",
+  "published_at": "2014-10-23T10:30:57+00:00",
+  "first_seen_at": "2026-07-24T04:13:24.032881+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:28.102844+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2014/10/1e/1e761ca00c605161de979faf0e717e25d471de2b1ae6b2fc65dedc59004c8ae5/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2014/10/1e/1e761ca00c605161de979faf0e717e25d471de2b1ae6b2fc65dedc59004c8ae5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10492,
+    "sha256": "sha256:f1bd6d074f057c655b86130a23d75463211ba9a08187e4d61cbb8ebc0e27ea37",
+    "normalized_content_hash": "sha256:e0435178cc4899f03933f843c96cfa0c7129c99c602ecb40b209fce662a7fb86"
+  },
+  "provenance": {
+    "source_item_id": "759cafde-13e9-4606-9a3c-38f55e2b2197",
+    "external_id": "https://news.microsoft.com/facts-about-microsoft/"
+  }
+}

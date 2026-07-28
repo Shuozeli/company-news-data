@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-mocha",
+    "name": "Mocha"
+  },
+  "record_count": 30,
+  "first_published_at": "2025-01-20T00:00:00+00:00",
+  "last_published_at": "2026-05-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ]
+}

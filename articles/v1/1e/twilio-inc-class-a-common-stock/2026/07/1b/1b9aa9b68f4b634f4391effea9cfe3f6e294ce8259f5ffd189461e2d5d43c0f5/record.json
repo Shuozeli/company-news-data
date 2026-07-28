@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b9aa9b68f4b634f4391effea9cfe3f6e294ce8259f5ffd189461e2d5d43c0f5",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-news-import-801d48e1d714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/community",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/community"
+  },
+  "title": "Community Content",
+  "summary": "Explore tutorials, projects, and stories from the Twilio community, plus spotlights on Champions and standout developer solutions.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T17:37:59.927743+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-07-28T21:20:55.392147+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/1b/1b9aa9b68f4b634f4391effea9cfe3f6e294ce8259f5ffd189461e2d5d43c0f5/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/1b/1b9aa9b68f4b634f4391effea9cfe3f6e294ce8259f5ffd189461e2d5d43c0f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2613,
+    "sha256": "sha256:f2f815c13115685b0f0138294d543313d878196df9881ae08d8f76598e6da162",
+    "normalized_content_hash": "sha256:91fb1ff18ef1eadc24fe9c8a9ac7f144db91bba167217ad397249e24a6d7c0f1"
+  },
+  "provenance": {
+    "source_item_id": "e793de55-fc69-4289-8fe9-0a3cfe502984",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/community"
+  }
+}

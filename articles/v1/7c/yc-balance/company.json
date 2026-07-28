@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-balance",
+    "name": "Balance"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-05-21T07:14:46+00:00",
+  "last_published_at": "2025-12-30T13:16:35+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    }
+  ]
+}

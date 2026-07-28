@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a50ff5aa2bbc3ab9f6725472d824699d943bf9f04cfadb2de6bcff0ee4db3d17",
+  "company": {
+    "key": "insperity-inc-common-stock",
+    "name": "Insperity Inc. Common Stock"
+  },
+  "source": {
+    "id": "insperity-inc-common-stock-news-import-506516edf724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.insperity.com/investor-relations/finance-committee",
+    "canonical": "https://ir.insperity.com/investor-relations/finance-committee"
+  },
+  "title": "Finance, Risk Management and Audit Committee Charter",
+  "summary": "Insperity Investor Relations puts our corporate profile, NYSE (NSP) stock price and other valuable company information at your fingertips. Click for details.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T00:04:11.880875+00:00",
+  "fetched_at": "2026-07-23T17:49:13.551191+00:00",
+  "last_updated_at": "2026-07-23T17:49:14.187767+00:00",
+  "paths": {
+    "article": "articles/v1/b8/insperity-inc-common-stock/2026/07/a5/a50ff5aa2bbc3ab9f6725472d824699d943bf9f04cfadb2de6bcff0ee4db3d17/article.md",
+    "record": "articles/v1/b8/insperity-inc-common-stock/2026/07/a5/a50ff5aa2bbc3ab9f6725472d824699d943bf9f04cfadb2de6bcff0ee4db3d17/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22296,
+    "sha256": "sha256:fbcfa7f7d9acb7ebfb50c54e1d31cd051c7b4342e7121f8f46eb92c095423541",
+    "normalized_content_hash": "sha256:5747c32d44617c82ed6626256f138a927ca5788d6d61f34453f9c2672d6aae9b"
+  },
+  "provenance": {
+    "source_item_id": "85511e08-1807-483d-804c-9fedf6376de0",
+    "external_id": "https://ir.insperity.com/investor-relations/finance-committee"
+  }
+}

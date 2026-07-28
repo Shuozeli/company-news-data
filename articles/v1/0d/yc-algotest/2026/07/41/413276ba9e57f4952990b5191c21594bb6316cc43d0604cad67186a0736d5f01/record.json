@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "413276ba9e57f4952990b5191c21594bb6316cc43d0604cad67186a0736d5f01",
+  "company": {
+    "key": "yc-algotest",
+    "name": "AlgoTest"
+  },
+  "source": {
+    "id": "yc-algotest-news-import-7cc502b412f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://algotest.in/blog/nifty-lot-size/",
+    "canonical": "https://algotest.in/blog/nifty-lot-size/"
+  },
+  "title": "Nifty Lot Size Explained: Nifty, Bank Nifty, FINNIFTY & Midcap Nifty Lot Sizes",
+  "summary": "A lot size is the fixed number of units you trade in one Nifty futures or options contract. You don't buy",
+  "published_at": "2026-07-21T08:26:56+00:00",
+  "first_seen_at": "2026-07-25T00:56:57.418756+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:21:49.883221+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-algotest/2026/07/41/413276ba9e57f4952990b5191c21594bb6316cc43d0604cad67186a0736d5f01/article.md",
+    "record": "articles/v1/0d/yc-algotest/2026/07/41/413276ba9e57f4952990b5191c21594bb6316cc43d0604cad67186a0736d5f01/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11902,
+    "sha256": "sha256:08b0e2f867179812feb129c956b3f15b73f4310df0e5cda8085e61c3f85f4d0a",
+    "normalized_content_hash": "sha256:30dd99a6248db394da9ba29992b5d643c0aaf3a1e8278228f2c564d2516445c2"
+  },
+  "provenance": {
+    "source_item_id": "2207309c-c316-4912-af5d-b5345226d34b",
+    "external_id": "https://algotest.in/blog/nifty-lot-size/"
+  }
+}

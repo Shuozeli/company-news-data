@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "odyssey-marine-exploration-inc-common-stock",
+    "name": "Odyssey Marine Exploration Inc. Common Stock"
+  },
+  "record_count": 14,
+  "first_published_at": "2026-02-10T18:32:33+00:00",
+  "last_published_at": "2026-07-24T15:43:35+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    }
+  ]
+}

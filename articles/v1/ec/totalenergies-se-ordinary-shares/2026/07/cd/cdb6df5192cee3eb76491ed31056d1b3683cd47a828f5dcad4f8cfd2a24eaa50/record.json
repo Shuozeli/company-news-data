@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cdb6df5192cee3eb76491ed31056d1b3683cd47a828f5dcad4f8cfd2a24eaa50",
+  "company": {
+    "key": "totalenergies-se-ordinary-shares",
+    "name": "TotalEnergies SE Ordinary Shares"
+  },
+  "source": {
+    "id": "totalenergies-se-ordinary-shares-rss-0b5f374ddc49",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://totalenergies.com/newsroom/resultats-du-deuxieme-trimestre-et-du-premier-semestre-2026-485530/",
+    "canonical": "https://totalenergies.com/newsroom/resultats-du-deuxieme-trimestre-et-du-premier-semestre-2026-485530/"
+  },
+  "title": "Résultats du deuxième trimestre et du premier semestre 2026",
+  "summary": "Dans un environnement de prix élevé, TotalEnergies tire parti de son modèle intégré pour afficher un cash-flow et un résultat net ajusté en hausse à 9,8 G$ et 6 G$ sur le trimestre TotalEnergies donne priorité à son désendettement, avec un ratio d’endettement en baisse à 13 %, et à la croissance du dividende avec […]",
+  "published_at": "2026-07-23T06:02:03+00:00",
+  "first_seen_at": "2026-07-24T06:28:10.383635+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-07-28T21:52:18.596122+00:00",
+  "paths": {
+    "article": "articles/v1/ec/totalenergies-se-ordinary-shares/2026/07/cd/cdb6df5192cee3eb76491ed31056d1b3683cd47a828f5dcad4f8cfd2a24eaa50/article.md",
+    "record": "articles/v1/ec/totalenergies-se-ordinary-shares/2026/07/cd/cdb6df5192cee3eb76491ed31056d1b3683cd47a828f5dcad4f8cfd2a24eaa50/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1048,
+    "sha256": "sha256:b86375f3d95567b425ed7dc0767b9ffcd3564bb801936c1d25604682e9206110",
+    "normalized_content_hash": "sha256:1c82c61a96f5299cc3da18f2046b6de1ec316c2828196ce50545ef610a8ab931"
+  },
+  "provenance": {
+    "source_item_id": "151e849c-b438-46b2-9f16-56cd73c98465",
+    "external_id": "https://totalenergies.com/newsroom/?p=73218"
+  }
+}

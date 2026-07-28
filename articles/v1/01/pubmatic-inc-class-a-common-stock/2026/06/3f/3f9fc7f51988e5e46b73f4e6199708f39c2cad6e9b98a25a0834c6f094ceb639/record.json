@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f9fc7f51988e5e46b73f4e6199708f39c2cad6e9b98a25a0834c6f094ceb639",
+  "company": {
+    "key": "pubmatic-inc-class-a-common-stock",
+    "name": "PubMatic Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "pubmatic-inc-class-a-common-stock-rss-0ec8ce99262b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pubmatic.com/news/level-agency-tests-agenticos-against-its-incumbent-dsp/",
+    "canonical": "https://pubmatic.com/news/level-agency-tests-agenticos-against-its-incumbent-dsp/"
+  },
+  "title": "Level Agency Tests AgenticOS Against Its Incumbent DSP, Doubles Reach Per Dollar",
+  "summary": "In a controlled, simultaneous comparison, PubMatic’s AgenticOS outperformed the incumbent DSP on every meaningful metric – and expanded Level Agency’s spend on the open internet.",
+  "published_at": "2026-06-22T11:30:21+00:00",
+  "first_seen_at": "2026-07-20T23:22:59.422019+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-07-28T21:11:29.539150+00:00",
+  "paths": {
+    "article": "articles/v1/01/pubmatic-inc-class-a-common-stock/2026/06/3f/3f9fc7f51988e5e46b73f4e6199708f39c2cad6e9b98a25a0834c6f094ceb639/article.md",
+    "record": "articles/v1/01/pubmatic-inc-class-a-common-stock/2026/06/3f/3f9fc7f51988e5e46b73f4e6199708f39c2cad6e9b98a25a0834c6f094ceb639/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7863,
+    "sha256": "sha256:05e871ef06b43ff377c08c863c313f94987f1ac5cff7a84116f68afe6235ce2d",
+    "normalized_content_hash": "sha256:e469ca08c4c2e245d89715e4a92cdcc73255cc492894d428e057de14a888ccdc"
+  },
+  "provenance": {
+    "source_item_id": "b309e0a8-20b9-4bd4-bf73-b4187cdfea3f",
+    "external_id": "https://pubmatic.com/?post_type=news&p=73816"
+  }
+}

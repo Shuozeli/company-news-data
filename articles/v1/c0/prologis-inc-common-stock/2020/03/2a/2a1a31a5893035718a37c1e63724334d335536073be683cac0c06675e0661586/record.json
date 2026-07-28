@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a1a31a5893035718a37c1e63724334d335536073be683cac0c06675e0661586",
+  "company": {
+    "key": "prologis-inc-common-stock",
+    "name": "Prologis Inc. Common Stock"
+  },
+  "source": {
+    "id": "prologis-inc-common-stock-news-import-d85fcd7e4fe3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.prologis.com/insights-news/research/covid-19-special-report-2-five-themes-shaping-logistics-real-estate",
+    "canonical": "https://www.prologis.com/insights-news/research/covid-19-special-report-2-five-themes-shaping-logistics-real-estate"
+  },
+  "title": "COVID-19 Special Report #2: Five Themes Shaping Logistics Real Estate",
+  "summary": "Supply chains remain critical. While near-term conditions remain uncertain, a recession is becoming increasingly probable and Prologis has identified five areas that will shape market conditions.",
+  "published_at": "2020-03-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:57:29.987513+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:33.467831+00:00",
+  "paths": {
+    "article": "articles/v1/c0/prologis-inc-common-stock/2020/03/2a/2a1a31a5893035718a37c1e63724334d335536073be683cac0c06675e0661586/article.md",
+    "record": "articles/v1/c0/prologis-inc-common-stock/2020/03/2a/2a1a31a5893035718a37c1e63724334d335536073be683cac0c06675e0661586/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9990,
+    "sha256": "sha256:1d8236a06c0cf82d2b7a27115d6afc92045a8c51d512bbd89363c04d3761d302",
+    "normalized_content_hash": "sha256:b3070bc06d4010b8ae3041050ec3fd7c8b897d67528f0e4c549f16777d9c3408"
+  },
+  "provenance": {
+    "source_item_id": "31955b32-b112-4a0f-b25e-d8561c84dc4b",
+    "external_id": "https://www.prologis.com/insights-news/research/covid-19-special-report-2-five-themes-shaping-logistics-real-estate"
+  }
+}

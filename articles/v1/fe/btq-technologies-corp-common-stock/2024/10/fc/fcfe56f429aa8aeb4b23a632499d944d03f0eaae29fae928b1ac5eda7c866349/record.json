@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fcfe56f429aa8aeb4b23a632499d944d03f0eaae29fae928b1ac5eda7c866349",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/ethereums-roadmap-post-quantum-cryptography",
+    "canonical": "https://www.btq.tech/blog/ethereums-roadmap-post-quantum-cryptography"
+  },
+  "title": "Ethereum’s Roadmap for Post-Quantum Cryptography",
+  "summary": "Explore how Ethereum is preparing for the quantum computing era, addressing potential threats to its cryptographic security with quantum-resistant solutions like zk-STARKs and lattice-based cryptography.",
+  "published_at": "2024-10-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:36.538120+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2024/10/fc/fcfe56f429aa8aeb4b23a632499d944d03f0eaae29fae928b1ac5eda7c866349/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2024/10/fc/fcfe56f429aa8aeb4b23a632499d944d03f0eaae29fae928b1ac5eda7c866349/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8780,
+    "sha256": "sha256:7f7f448ed78c70c2bccbf1f321a3cba6a8bc7320749380ebedb060963e6cadb2",
+    "normalized_content_hash": "sha256:6955b2b58d98d62d6805eed6c1ee23536bc59cff6b60f7b1d24b3c1c97070816"
+  },
+  "provenance": {
+    "source_item_id": "c83a1925-b466-4611-b35f-d946e10b9e28",
+    "external_id": "https://www.btq.tech/blog/ethereums-roadmap-post-quantum-cryptography"
+  }
+}

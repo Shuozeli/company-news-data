@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c896b269c1bb6a1005ee485725377ab234915b19baa6e8d7a3dc36aadadab86d",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/airun-prompts-as-programs",
+    "canonical": "https://andiai.com/blogs/airun-prompts-as-programs"
+  },
+  "title": "Prompts should be programs",
+  "summary": "A free open-source CLI that makes markdown files executable. Write a prompt, add a shebang, run it like any script.",
+  "published_at": "2026-02-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:55:59.564380+00:00",
+  "fetched_at": "2026-07-28T22:20:36.551441+00:00",
+  "last_updated_at": "2026-07-28T22:20:55.484576+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2026/02/c8/c896b269c1bb6a1005ee485725377ab234915b19baa6e8d7a3dc36aadadab86d/article.md",
+    "record": "articles/v1/d3/yc-andi/2026/02/c8/c896b269c1bb6a1005ee485725377ab234915b19baa6e8d7a3dc36aadadab86d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5730,
+    "sha256": "sha256:9064e0757a54b0a6f7b7e8f818ef5890598024ece7fb1e4c8e21e8c46583bb28",
+    "normalized_content_hash": "sha256:b58ef92e40e6fff9b3569e3c868317b3034d463d7c113778ad1d4614dc0b4268"
+  },
+  "provenance": {
+    "source_item_id": "13b44a36-7153-46e1-961c-192840e438b5",
+    "external_id": "https://andiai.com/blogs/airun-prompts-as-programs"
+  }
+}

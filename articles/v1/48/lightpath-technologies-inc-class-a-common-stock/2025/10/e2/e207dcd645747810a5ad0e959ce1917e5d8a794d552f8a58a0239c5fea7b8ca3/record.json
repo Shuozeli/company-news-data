@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e207dcd645747810a5ad0e959ce1917e5d8a794d552f8a58a0239c5fea7b8ca3",
+  "company": {
+    "key": "lightpath-technologies-inc-class-a-common-stock",
+    "name": "LightPath Technologies Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "lightpath-technologies-inc-class-a-common-stock-news-import-80e4a1dafb5b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lightpath.com/blog/ir-camera-for-drone-integration-what-system-builders-actually-need-to-know",
+    "canonical": "https://www.lightpath.com/blog/ir-camera-for-drone-integration-what-system-builders-actually-need-to-know"
+  },
+  "title": "Thermal Drone Camera: OEM Selection Guide for UAV Platforms",
+  "summary": "IR camera for drone integration guide for OEMs and system builders. Specs, payload weight, gimbal compatibility, and compliance for UAV thermal imaging programs.",
+  "published_at": "2025-10-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:25:24.099506+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:57.081101+00:00",
+  "paths": {
+    "article": "articles/v1/48/lightpath-technologies-inc-class-a-common-stock/2025/10/e2/e207dcd645747810a5ad0e959ce1917e5d8a794d552f8a58a0239c5fea7b8ca3/article.md",
+    "record": "articles/v1/48/lightpath-technologies-inc-class-a-common-stock/2025/10/e2/e207dcd645747810a5ad0e959ce1917e5d8a794d552f8a58a0239c5fea7b8ca3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18855,
+    "sha256": "sha256:b393d3abe44595df94b12bbadf2b092530c454869c4e47f57328ec9850003867",
+    "normalized_content_hash": "sha256:bcb2d08742128ca4d077d4dd4b846338466fd6844217c6ae4cb302afd54fb177"
+  },
+  "provenance": {
+    "source_item_id": "e5fac568-09d4-4f10-9ca5-5fe0caa7ed5c",
+    "external_id": "https://www.lightpath.com/blog/ir-camera-for-drone-integration-what-system-builders-actually-need-to-know"
+  }
+}

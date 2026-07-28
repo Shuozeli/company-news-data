@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "172ce87beda591251c91c1231fe7261c758380685d749ef5f34e231894091edd",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2024/q4/hydrogen-project-tour-highlights-expertise-role-in-energy-market",
+    "canonical": "https://www.chevron.com/newsroom/2024/q4/hydrogen-project-tour-highlights-expertise-role-in-energy-market"
+  },
+  "title": "hydrogen project tour highlights expertise, role in energy market",
+  "summary": "Chevron CEO Mike Wirth tours the ACES (Advanced Clean Energy Storage) project in Delta, Utah.",
+  "published_at": "2024-11-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2024/11/17/172ce87beda591251c91c1231fe7261c758380685d749ef5f34e231894091edd/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2024/11/17/172ce87beda591251c91c1231fe7261c758380685d749ef5f34e231894091edd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2041,
+    "sha256": "sha256:82bbbadf909036115f141f70a98667cc4fdeb30fe7631e10bd86b79d824184ae",
+    "normalized_content_hash": "sha256:be87f39476f3008e78bff4fb9a616af73366ea15f5ca8a9dcacb59405b03cabe"
+  },
+  "provenance": {
+    "source_item_id": "bcf45ca6-565d-4d20-8ae8-7ffc3b1824ab",
+    "external_id": "https://www.chevron.com/newsroom/2024/q4/hydrogen-project-tour-highlights-expertise-role-in-energy-market"
+  }
+}

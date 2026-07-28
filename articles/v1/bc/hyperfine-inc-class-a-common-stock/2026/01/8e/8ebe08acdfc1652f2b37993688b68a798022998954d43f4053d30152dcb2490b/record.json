@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ebe08acdfc1652f2b37993688b68a798022998954d43f4053d30152dcb2490b",
+  "company": {
+    "key": "hyperfine-inc-class-a-common-stock",
+    "name": "Hyperfine Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "hyperfine-inc-class-a-common-stock-news-import-4085375bb62e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hyperfinemri.com/about/news/press-release-hyperfine-reports-preliminary-unaudited-fourth-quarter-and-full-year-2025-financial-results",
+    "canonical": "https://www.hyperfinemri.com/about/news/press-release-hyperfine-reports-preliminary-unaudited-fourth-quarter-and-full-year-2025-financial-results"
+  },
+  "title": "Hyperfine Reports Preliminary, Unaudited Fourth Quarter and Full Year 2025 Financial Results",
+  "summary": "Hyperfine today announced preliminary, unaudited revenue, net cash burn, and cash and cash equivalents for the fourth quarter and full year ended December 31, 2025.",
+  "published_at": "2026-01-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:14:33.279683+00:00",
+  "fetched_at": "2026-07-28T22:23:44.568277+00:00",
+  "last_updated_at": "2026-07-28T22:25:00.468782+00:00",
+  "paths": {
+    "article": "articles/v1/bc/hyperfine-inc-class-a-common-stock/2026/01/8e/8ebe08acdfc1652f2b37993688b68a798022998954d43f4053d30152dcb2490b/article.md",
+    "record": "articles/v1/bc/hyperfine-inc-class-a-common-stock/2026/01/8e/8ebe08acdfc1652f2b37993688b68a798022998954d43f4053d30152dcb2490b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13303,
+    "sha256": "sha256:64a362d250e74df278c14d669f5e50c45e9c47d41393c8c3ac036d5f78e7454f",
+    "normalized_content_hash": "sha256:ae9981cfbc9e64921ba6cf42918504b9db548a1b2d9af006fb8042e9ed432729"
+  },
+  "provenance": {
+    "source_item_id": "5eaa239f-0de9-466a-86ba-3105cf21ef12",
+    "external_id": "https://www.hyperfinemri.com/about/news/press-release-hyperfine-reports-preliminary-unaudited-fourth-quarter-and-full-year-2025-financial-results"
+  }
+}

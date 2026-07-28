@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "856e419d28e8e1ff501f33e03a42cfe7987ce7c97e64cc24f29eab803c61eb32",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-33dd9daf8236",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/nasdaq-and-kraken-are-building-tokenized-stock-infra",
+    "canonical": "https://www.cointracker.io/blog/nasdaq-and-kraken-are-building-tokenized-stock-infra"
+  },
+  "title": "Nasdaq and Kraken are building tokenized stock infrastructure",
+  "summary": "Nasdaq and Kraken announced a landmark partnership to build the first regulated 24/7 tokenized stock trading platform, targeting a 2027 launch. Your controller needs to start thinking about what that means for your balance sheet.",
+  "published_at": "2026-03-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:51:14.288459+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:19.254494+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2026/03/85/856e419d28e8e1ff501f33e03a42cfe7987ce7c97e64cc24f29eab803c61eb32/article.md",
+    "record": "articles/v1/57/yc-cointracker/2026/03/85/856e419d28e8e1ff501f33e03a42cfe7987ce7c97e64cc24f29eab803c61eb32/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9611,
+    "sha256": "sha256:617cf751a439ee9d704fbac7697c9877675c14b2fc9c267638e7f14ee10588be",
+    "normalized_content_hash": "sha256:839a1550dde54028c8c5ad7ac942b0f9f024edfe82c4d823bfb133e7bf987a44"
+  },
+  "provenance": {
+    "source_item_id": "ab38d037-1162-4cc3-bcd5-7d17a6cd4d03",
+    "external_id": "https://www.cointracker.io/blog/nasdaq-and-kraken-are-building-tokenized-stock-infra"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "58b11e68856e1883094888061936ce1a37c2281b6738e1b9c4742aa409161687",
+  "company": {
+    "key": "bloomin-brands-inc-common-stock",
+    "name": "Bloomin' Brands Inc. Common Stock"
+  },
+  "source": {
+    "id": "bloomin-brands-inc-common-stock-news-import-7368c80ac451",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bloominbrands.com/newsroom/news-releases/news-release/outback-steakhouse-gives-mums-the-moment-they-deserve-this-mother-s-day",
+    "canonical": "https://www.bloominbrands.com/newsroom/news-releases/news-release/outback-steakhouse-gives-mums-the-moment-they-deserve-this-mother-s-day"
+  },
+  "title": "Outback Steakhouse Gives Mums the Moment They Deserve This Mother’s Day",
+  "summary": "",
+  "published_at": "2025-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:48:00.320591+00:00",
+  "fetched_at": "2026-07-27T16:42:21.600685+00:00",
+  "last_updated_at": "2026-07-27T16:42:30.133315+00:00",
+  "paths": {
+    "article": "articles/v1/ed/bloomin-brands-inc-common-stock/2025/05/58/58b11e68856e1883094888061936ce1a37c2281b6738e1b9c4742aa409161687/article.md",
+    "record": "articles/v1/ed/bloomin-brands-inc-common-stock/2025/05/58/58b11e68856e1883094888061936ce1a37c2281b6738e1b9c4742aa409161687/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3351,
+    "sha256": "sha256:d0c9422fd255e9ebcd46340674903731fdad3c0a911e00f20157bac4049be9ef",
+    "normalized_content_hash": "sha256:7e693f9c7d1af62212c3b736b4154d3dd36c9584e8a48f6b5b8cdfc929c78676"
+  },
+  "provenance": {
+    "source_item_id": "34c983b6-48aa-40c6-9dab-7daaa66e4bdc",
+    "external_id": "https://www.bloominbrands.com/newsroom/news-releases/news-release/outback-steakhouse-gives-mums-the-moment-they-deserve-this-mother-s-day"
+  }
+}

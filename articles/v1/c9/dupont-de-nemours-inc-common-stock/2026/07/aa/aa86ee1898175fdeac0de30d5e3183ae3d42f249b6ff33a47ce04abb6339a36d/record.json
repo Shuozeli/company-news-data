@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aa86ee1898175fdeac0de30d5e3183ae3d42f249b6ff33a47ce04abb6339a36d",
+  "company": {
+    "key": "dupont-de-nemours-inc-common-stock",
+    "name": "DuPont de Nemours Inc. Common Stock"
+  },
+  "source": {
+    "id": "dupont-de-nemours-inc-common-stock-news-import-04f21902a6e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dupont.com/news/dupont-announces-new-2035-sustainability-goals.html",
+    "canonical": "https://www.dupont.com/news/dupont-announces-new-2035-sustainability-goals.html"
+  },
+  "title": "DuPont Announces New 2035 Sustainability Goals",
+  "summary": "DuPont announced its new 2035 Sustainability Goals, outlining how the company will deliver growth through its progress in key impact areas of Sustainable Innovation, Resilient Operations, and People, Partners and Communities — all rooted in Strong Governance.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T02:01:54.190707+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:24.255715+00:00",
+  "paths": {
+    "article": "articles/v1/c9/dupont-de-nemours-inc-common-stock/2026/07/aa/aa86ee1898175fdeac0de30d5e3183ae3d42f249b6ff33a47ce04abb6339a36d/article.md",
+    "record": "articles/v1/c9/dupont-de-nemours-inc-common-stock/2026/07/aa/aa86ee1898175fdeac0de30d5e3183ae3d42f249b6ff33a47ce04abb6339a36d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3936,
+    "sha256": "sha256:0ba14698283443dfc5c24c282f6fd9b53343e2b8c362dcbb7c4de2d0709e1627",
+    "normalized_content_hash": "sha256:5891062a7703ceb160da66397b2771509116ced1e6fdefeee4e86810fdbd4c88"
+  },
+  "provenance": {
+    "source_item_id": "1a7827a4-e288-476a-88ab-73edec98699a",
+    "external_id": "https://www.dupont.com/news/dupont-announces-new-2035-sustainability-goals.html"
+  }
+}

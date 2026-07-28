@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-corelayer",
+    "name": "Corelayer"
+  },
+  "record_count": 4,
+  "first_published_at": "2025-10-01T17:16:00+00:00",
+  "last_published_at": "2026-04-07T16:35:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ]
+}

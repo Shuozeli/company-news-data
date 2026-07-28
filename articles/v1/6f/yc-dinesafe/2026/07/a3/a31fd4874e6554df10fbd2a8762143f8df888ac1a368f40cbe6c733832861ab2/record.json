@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a31fd4874e6554df10fbd2a8762143f8df888ac1a368f40cbe6c733832861ab2",
+  "company": {
+    "key": "yc-dinesafe",
+    "name": "Dinesafe"
+  },
+  "source": {
+    "id": "yc-dinesafe-news-import-07d65e1cf124",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iwaspoisoned.com/news/the-anatomy-of-a-food-recall-how-information-flows-and-sometimes-doesnt",
+    "canonical": "https://iwaspoisoned.com/news/the-anatomy-of-a-food-recall-how-information-flows-and-sometimes-doesnt"
+  },
+  "title": "The Anatomy of a Food Recall: How Information Flows (And Sometimes Doesn't)",
+  "summary": "Why waiting for companies to announce food recalls can put your family at risk. This investigation into Reser's Fine Foods' tuna salad recall reveals critical communica",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T07:41:46.778872+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:52.199979+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-dinesafe/2026/07/a3/a31fd4874e6554df10fbd2a8762143f8df888ac1a368f40cbe6c733832861ab2/article.md",
+    "record": "articles/v1/6f/yc-dinesafe/2026/07/a3/a31fd4874e6554df10fbd2a8762143f8df888ac1a368f40cbe6c733832861ab2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7454,
+    "sha256": "sha256:de8c6aa3e816514f9568628fc2f371c4672aba5562d4e81260fdff65ce42ad5a",
+    "normalized_content_hash": "sha256:df02ca638a3f21e2759d6f84993433f331b7572343fa97b005a69ae8232908e4"
+  },
+  "provenance": {
+    "source_item_id": "c979a09c-1c78-46a6-a5b1-30279545e2a3",
+    "external_id": "https://iwaspoisoned.com/news/the-anatomy-of-a-food-recall-how-information-flows-and-sometimes-doesnt"
+  }
+}

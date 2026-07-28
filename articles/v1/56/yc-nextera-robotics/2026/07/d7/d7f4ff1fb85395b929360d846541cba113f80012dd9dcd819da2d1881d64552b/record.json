@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7f4ff1fb85395b929360d846541cba113f80012dd9dcd819da2d1881d64552b",
+  "company": {
+    "key": "yc-nextera-robotics",
+    "name": "Nextera Robotics"
+  },
+  "source": {
+    "id": "yc-nextera-robotics-news-import-e73697723118",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nexterarobotics.com/updates/autonomy-on-the-jobsite",
+    "canonical": "https://nexterarobotics.com/updates/autonomy-on-the-jobsite"
+  },
+  "title": "Autonomy on the jobsite",
+  "summary": "Through several years of research and development efforts - Nextera has found success in designing a mobile robotics system capable of autonomously navigating any job site.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T22:57:33.859366+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-07-28T21:47:06.320016+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-nextera-robotics/2026/07/d7/d7f4ff1fb85395b929360d846541cba113f80012dd9dcd819da2d1881d64552b/article.md",
+    "record": "articles/v1/56/yc-nextera-robotics/2026/07/d7/d7f4ff1fb85395b929360d846541cba113f80012dd9dcd819da2d1881d64552b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3744,
+    "sha256": "sha256:495c5ade3775dab719e0257c88de0ee8c12c560ce0d65cef10eed61c26d47ead",
+    "normalized_content_hash": "sha256:3fad366edd74381244f9fe8d0e323c75c8768e98e89296ca4b3ea3a437d6a857"
+  },
+  "provenance": {
+    "source_item_id": "2299b9d4-645b-4f78-9828-9111675f7a7d",
+    "external_id": "https://nexterarobotics.com/updates/autonomy-on-the-jobsite"
+  }
+}

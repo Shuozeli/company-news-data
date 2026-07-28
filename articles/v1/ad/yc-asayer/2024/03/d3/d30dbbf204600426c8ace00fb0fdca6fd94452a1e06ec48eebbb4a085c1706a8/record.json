@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d30dbbf204600426c8ace00fb0fdca6fd94452a1e06ec48eebbb4a085c1706a8",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-4c61467398db",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/our-ios-sdk-is-out/64",
+    "canonical": "https://forum.openreplay.com/t/our-ios-sdk-is-out/64"
+  },
+  "title": "Our iOS SDK is out!",
+  "summary": "Using session replay tools is a game changer for understanding user behavior and troubleshooting errors , but relying on tools that only support web apps might mean you need another tool for mobile, increasing costs and time. In fact, developers often find the lack of tools supporting session replay on both mobile and web frustrating. Addressing this gap, we have extended its capabilities to include session replay for native iOS apps, allowing developers to capture, troubleshoot and analyze user...",
+  "published_at": "2024-03-27T20:59:19+00:00",
+  "first_seen_at": "2026-07-25T17:39:50.908347+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-07-28T21:01:23.807508+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2024/03/d3/d30dbbf204600426c8ace00fb0fdca6fd94452a1e06ec48eebbb4a085c1706a8/article.md",
+    "record": "articles/v1/ad/yc-asayer/2024/03/d3/d30dbbf204600426c8ace00fb0fdca6fd94452a1e06ec48eebbb4a085c1706a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 831,
+    "sha256": "sha256:6a00f917aad82fdea7ee747cfbc7eed59df53a7a0a510b73f735ba610dce1487",
+    "normalized_content_hash": "sha256:875e52cf9bad7d6ccea9e647d5172d8ec2caf27c12445f294dd82aaaed8835ec"
+  },
+  "provenance": {
+    "source_item_id": "dc6741c4-f86b-47b3-90ca-5dbe7f9caf35",
+    "external_id": "forum.openreplay.com-topic-64"
+  }
+}

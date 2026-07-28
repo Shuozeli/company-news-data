@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4544856f65d3a77ac7584edb5735ca45956271d37c7323521644be5a9741ebae",
+  "company": {
+    "key": "phreesia-inc-common-stock",
+    "name": "Phreesia Inc. Common Stock"
+  },
+  "source": {
+    "id": "phreesia-inc-common-stock-news-import-cead8757aead",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.phreesia.com/news/phreesia-appoints-jon-kessler-to-board-of-directors/",
+    "canonical": "https://www.phreesia.com/news/phreesia-appoints-jon-kessler-to-board-of-directors/"
+  },
+  "title": "Phreesia Appoints Jon Kessler to Board of Directors",
+  "summary": "Phreesia today announced that it has appointed Jon Kessler to its Board, effective April 6, 2026",
+  "published_at": "2026-02-24T02:04:46+00:00",
+  "first_seen_at": "2026-07-22T08:58:34.364465+00:00",
+  "fetched_at": "2026-07-28T22:19:12.535128+00:00",
+  "last_updated_at": "2026-07-28T22:23:35.708922+00:00",
+  "paths": {
+    "article": "articles/v1/cb/phreesia-inc-common-stock/2026/02/45/4544856f65d3a77ac7584edb5735ca45956271d37c7323521644be5a9741ebae/article.md",
+    "record": "articles/v1/cb/phreesia-inc-common-stock/2026/02/45/4544856f65d3a77ac7584edb5735ca45956271d37c7323521644be5a9741ebae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5784,
+    "sha256": "sha256:0b88cf5814fdcb22e7ff70a61a350923dbb228e5b514fdb19834d70ef5aceaa4",
+    "normalized_content_hash": "sha256:d0409d44e7f55d85c906b793d18d34d86ad90c83096e20f592e68dadd38b1ff9"
+  },
+  "provenance": {
+    "source_item_id": "8e69cffe-c8e8-47a5-abaf-df973c363b9a",
+    "external_id": "https://www.phreesia.com/news/phreesia-appoints-jon-kessler-to-board-of-directors/"
+  }
+}

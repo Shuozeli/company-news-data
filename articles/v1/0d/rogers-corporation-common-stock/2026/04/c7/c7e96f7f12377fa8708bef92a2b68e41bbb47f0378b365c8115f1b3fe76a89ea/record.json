@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7e96f7f12377fa8708bef92a2b68e41bbb47f0378b365c8115f1b3fe76a89ea",
+  "company": {
+    "key": "rogers-corporation-common-stock",
+    "name": "Rogers Corporation Common Stock"
+  },
+  "source": {
+    "id": "rogers-corporation-common-stock-news-import-acbe4bc4b431",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.rogerscorp.com/news/2026/rogers-corporation-reports-first-quarter-2026-results",
+    "canonical": "https://www.rogerscorp.com/news/2026/rogers-corporation-reports-first-quarter-2026-results"
+  },
+  "title": "Rogers Corporation Reports First Quarter 2026 Results",
+  "summary": "Chandler, Arizona, April 28, 2026: Rogers Corporation (NYSE:ROG) today announced financial results for the first quarter of 2026.",
+  "published_at": "2026-04-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:10:22.726535+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:28.651359+00:00",
+  "paths": {
+    "article": "articles/v1/0d/rogers-corporation-common-stock/2026/04/c7/c7e96f7f12377fa8708bef92a2b68e41bbb47f0378b365c8115f1b3fe76a89ea/article.md",
+    "record": "articles/v1/0d/rogers-corporation-common-stock/2026/04/c7/c7e96f7f12377fa8708bef92a2b68e41bbb47f0378b365c8115f1b3fe76a89ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10100,
+    "sha256": "sha256:4db58b820d1a20ad138262fb8afa684679bd46bd040670101d22b896def8e349",
+    "normalized_content_hash": "sha256:cbade21f7c993c8f7c42e03ca6fa868ceddc9224d923d70694a9ac8354efd881"
+  },
+  "provenance": {
+    "source_item_id": "c8a0ae35-32ac-41f3-89f6-d4479a66bfc6",
+    "external_id": "https://www.rogerscorp.com/news/2026/rogers-corporation-reports-first-quarter-2026-results"
+  }
+}

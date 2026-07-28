@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "navigator-holdings-ltd-ordinary-shares-marshall-islands",
+    "name": "Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)"
+  },
+  "record_count": 10,
+  "first_published_at": "2021-11-17T13:52:45+00:00",
+  "last_published_at": "2023-04-24T12:35:54+00:00",
+  "partitions": [
+    {
+      "partition": "2021-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    }
+  ]
+}

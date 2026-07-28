@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-codyco",
+    "name": "Codyco"
+  },
+  "record_count": 2,
+  "first_published_at": "2025-09-05T00:00:00+00:00",
+  "last_published_at": "2025-10-30T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    }
+  ]
+}

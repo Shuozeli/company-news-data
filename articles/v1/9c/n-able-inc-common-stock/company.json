@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "n-able-inc-common-stock",
+    "name": "N-able Inc. Common Stock"
+  },
+  "record_count": 35,
+  "first_published_at": "2026-02-24T11:00:38+00:00",
+  "last_published_at": "2026-07-28T14:21:58+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 19
+    }
+  ]
+}

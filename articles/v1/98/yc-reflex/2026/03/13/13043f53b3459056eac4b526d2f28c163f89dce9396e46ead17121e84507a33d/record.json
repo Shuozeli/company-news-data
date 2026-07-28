@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13043f53b3459056eac4b526d2f28c163f89dce9396e46ead17121e84507a33d",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/how-to-build-python-web-app-complete-tutorial/",
+    "canonical": "https://reflex.dev/blog/how-to-build-python-web-app-complete-tutorial/"
+  },
+  "title": "How to Build a Python Web App: Complete Tutorial",
+  "summary": "Set up your environment, build UI in Python, manage state, connect a database, and deploy with Reflex—full-stack web apps without writing JavaScript.",
+  "published_at": "2026-03-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-07-28T22:00:54.830514+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/03/13/13043f53b3459056eac4b526d2f28c163f89dce9396e46ead17121e84507a33d/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/03/13/13043f53b3459056eac4b526d2f28c163f89dce9396e46ead17121e84507a33d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11559,
+    "sha256": "sha256:12ae9760d8672298b0b9f214b5d565a67897b1ea68beed7884b8ae96f312b7ec",
+    "normalized_content_hash": "sha256:8448abea22bf055187ae476236003a7e1147a19e90170761ccb249ee4a225d40"
+  },
+  "provenance": {
+    "source_item_id": "a97dff5c-50c9-4699-9112-2c4de89650de",
+    "external_id": "https://reflex.dev/blog/how-to-build-python-web-app-complete-tutorial/"
+  }
+}

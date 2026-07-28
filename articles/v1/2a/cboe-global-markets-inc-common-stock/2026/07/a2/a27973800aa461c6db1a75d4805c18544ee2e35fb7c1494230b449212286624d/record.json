@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a27973800aa461c6db1a75d4805c18544ee2e35fb7c1494230b449212286624d",
+  "company": {
+    "key": "cboe-global-markets-inc-common-stock",
+    "name": "Cboe Global Markets Inc. Common Stock"
+  },
+  "source": {
+    "id": "cboe-global-markets-inc-common-stock-news-import-30e516920ce8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cboe.com/insights/posts/xsp-more-potential-benefits-than-spy",
+    "canonical": "https://www.cboe.com/insights/posts/xsp-more-potential-benefits-than-spy/"
+  },
+  "title": "XSP: More Potential Benefits Than SPY",
+  "summary": "Cboe Global Markets, a leading provider of market infrastructure and tradable products, delivers cutting-edge trading, clearing and investment solutions to market participants around the world.",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T00:32:19.910168+00:00",
+  "fetched_at": "2026-07-28T21:16:46.713740+00:00",
+  "last_updated_at": "2026-07-28T21:18:14.778774+00:00",
+  "paths": {
+    "article": "articles/v1/2a/cboe-global-markets-inc-common-stock/2026/07/a2/a27973800aa461c6db1a75d4805c18544ee2e35fb7c1494230b449212286624d/article.md",
+    "record": "articles/v1/2a/cboe-global-markets-inc-common-stock/2026/07/a2/a27973800aa461c6db1a75d4805c18544ee2e35fb7c1494230b449212286624d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3134,
+    "sha256": "sha256:69207372147e654e195a3ba72af3b1b9204d6b0fe7235f309dd879603e93ac63",
+    "normalized_content_hash": "sha256:ee2f0fe49b22150a29da6f79cec8ff8695b7f224eef69423365d6b347f2fec52"
+  },
+  "provenance": {
+    "source_item_id": "f4b53a43-ffc9-4fd7-9bf7-ac3f3dfab28b",
+    "external_id": "https://www.cboe.com/insights/posts/xsp-more-potential-benefits-than-spy/"
+  }
+}

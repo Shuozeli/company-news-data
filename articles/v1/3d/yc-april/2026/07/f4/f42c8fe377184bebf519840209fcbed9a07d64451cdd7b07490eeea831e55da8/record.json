@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f42c8fe377184bebf519840209fcbed9a07d64451cdd7b07490eeea831e55da8",
+  "company": {
+    "key": "yc-april",
+    "name": "April"
+  },
+  "source": {
+    "id": "yc-april-news-import-bfefb06ada77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tryapril.com/blog/the-productivity-revolution",
+    "canonical": "https://tryapril.com/blog/the-productivity-revolution"
+  },
+  "title": "The Productivity Revolution",
+  "summary": "April - AI voice executive assistant that manages email and calendar hands-free. Achieve inbox zero while driving. Save 2+ hours daily with natural voice commands.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T02:08:34.112943+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:53.734447+00:00",
+  "paths": {
+    "article": "articles/v1/3d/yc-april/2026/07/f4/f42c8fe377184bebf519840209fcbed9a07d64451cdd7b07490eeea831e55da8/article.md",
+    "record": "articles/v1/3d/yc-april/2026/07/f4/f42c8fe377184bebf519840209fcbed9a07d64451cdd7b07490eeea831e55da8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3492,
+    "sha256": "sha256:3ff27a762dc867ed60da320443c5e7a22f592646a3afbefb6cc34eae988673be",
+    "normalized_content_hash": "sha256:9ed4041755d9cec1b89818896b8efa0d5cdb590618a919342b6dd12b489dd093"
+  },
+  "provenance": {
+    "source_item_id": "395dd94e-e183-4fcd-babc-c93d9f60ffd4",
+    "external_id": "https://tryapril.com/blog/the-productivity-revolution"
+  }
+}

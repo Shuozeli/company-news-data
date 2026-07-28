@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b6f76d03ea3d09c1bdcbf50f1624b080409e9032c34030cd7b45671af846988",
+  "company": {
+    "key": "firstsun-capital-bancorp-common-stock",
+    "name": "FirstSun Capital Bancorp Common Stock"
+  },
+  "source": {
+    "id": "firstsun-capital-bancorp-common-stock-news-import-15d9867b0720",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sunflowerbank.com/about-us/news/firstsun-capital-bancorp-reports-second-quarter-2026-results",
+    "canonical": "https://www.sunflowerbank.com/about-us/news/firstsun-capital-bancorp-reports-second-quarter-2026-results"
+  },
+  "title": "FirstSun Capital Bancorp Reports Second Quarter 2026 Results and Board of Directors Authorizes $150 Million Share Repurchase Program",
+  "summary": "FirstSun Capital Bancorp (“FirstSun”) (NASDAQ: FSUN) reported net loss of $(22.9) million for the second quarter of 2026 compared to net income of $26.4 million for the second quarter of 2025.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T07:15:14.168185+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:34.451826+00:00",
+  "paths": {
+    "article": "articles/v1/f6/firstsun-capital-bancorp-common-stock/2026/07/4b/4b6f76d03ea3d09c1bdcbf50f1624b080409e9032c34030cd7b45671af846988/article.md",
+    "record": "articles/v1/f6/firstsun-capital-bancorp-common-stock/2026/07/4b/4b6f76d03ea3d09c1bdcbf50f1624b080409e9032c34030cd7b45671af846988/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11524,
+    "sha256": "sha256:e59f7e44eb134da3006e3f7a9c20b57ab961984268f7cb8d7dfc3c84cfc651de",
+    "normalized_content_hash": "sha256:eb43337cdec1861e449129b79c513f62f893394069481f9714fd55397adf3235"
+  },
+  "provenance": {
+    "source_item_id": "4ad27163-79f1-42a0-a266-8390d01fee20",
+    "external_id": "https://www.sunflowerbank.com/about-us/news/firstsun-capital-bancorp-reports-second-quarter-2026-results"
+  }
+}

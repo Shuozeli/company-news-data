@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9bfa2790dcaf61398dc6bde44abd24d9884b9aed62efcb42c62299d4c8505a1a",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/b2b-sales-software-with-ai",
+    "canonical": "https://demodesk.com/blog/b2b-sales-software-with-ai"
+  },
+  "title": "B2B Sales in 2026: The AI Playbook That Works",
+  "summary": "B2B sales in 2026: how high-performing teams structure ICP, prospecting, qualification, and follow-up around AI sales agents instead of around tool sprawl.",
+  "published_at": "2025-05-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:07:17.937229+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:44.912291+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2025/05/9b/9bfa2790dcaf61398dc6bde44abd24d9884b9aed62efcb42c62299d4c8505a1a/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2025/05/9b/9bfa2790dcaf61398dc6bde44abd24d9884b9aed62efcb42c62299d4c8505a1a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6589,
+    "sha256": "sha256:5243ff55f73d0a36135095e44b5325322f3faf681c4f8de4918a54349893cb09",
+    "normalized_content_hash": "sha256:a055860c0fd6e0533b11a1e92d3be4a9b243d4c8cfb049cf25f9582560f4604c"
+  },
+  "provenance": {
+    "source_item_id": "427a5d98-b98b-40da-87ca-8ac7fed52cd3",
+    "external_id": "https://demodesk.com/blog/b2b-sales-software-with-ai"
+  }
+}

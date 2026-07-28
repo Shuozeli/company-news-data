@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65db4ef87ddc0899efd58f8cede6327680f46aefe480ef4683b7dc10fab8bc7d",
+  "company": {
+    "key": "blackstone-inc-common-stock",
+    "name": "Blackstone Inc. Common Stock"
+  },
+  "source": {
+    "id": "blackstone-inc-common-stock-news-import-2d5dbb90454a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blackstone.com/news/press/kuwait-oil-company-signs-us-16-0-billion-infrastructure-partnership-involving-its-crude-oil-pipeline-network-with-a-consortium-comprising-blackstone-brookfield-and-kkr/",
+    "canonical": "https://www.blackstone.com/news/press/kuwait-oil-company-signs-us-16-0-billion-infrastructure-partnership-involving-its-crude-oil-pipeline-network-with-a-consortium-comprising-blackstone-brookfield-and-kkr/"
+  },
+  "title": "Kuwait Oil Company Signs US$ 16.0 Billion Infrastructure Partnership Involving Its Crude Oil Pipeline Network With a Consortium Comprising Blackstone, Brookfield and KKR",
+  "summary": "Press releases, portfolio company news, and timely updates on our business.",
+  "published_at": "2026-07-28T16:24:26+00:00",
+  "first_seen_at": "2026-07-28T17:23:41.080673+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:29.948058+00:00",
+  "paths": {
+    "article": "articles/v1/76/blackstone-inc-common-stock/2026/07/65/65db4ef87ddc0899efd58f8cede6327680f46aefe480ef4683b7dc10fab8bc7d/article.md",
+    "record": "articles/v1/76/blackstone-inc-common-stock/2026/07/65/65db4ef87ddc0899efd58f8cede6327680f46aefe480ef4683b7dc10fab8bc7d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13365,
+    "sha256": "sha256:f4dcd7b8e18b29bbd01b4eb57974b6a0c08f7f154bd5973b03bc45397b49385d",
+    "normalized_content_hash": "sha256:012c8fb5c5c3b97e5e4aebe004cf8058674fc6e42c58d5630961e15b0976ca9a"
+  },
+  "provenance": {
+    "source_item_id": "6e12f4fe-46ee-42a6-b967-5669338d6c7c",
+    "external_id": "https://www.blackstone.com/news/press/kuwait-oil-company-signs-us-16-0-billion-infrastructure-partnership-involving-its-crude-oil-pipeline-network-with-a-consortium-comprising-blackstone-brookfield-and-kkr/"
+  }
+}

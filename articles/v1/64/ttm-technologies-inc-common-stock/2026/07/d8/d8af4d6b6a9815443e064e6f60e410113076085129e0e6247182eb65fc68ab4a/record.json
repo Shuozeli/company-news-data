@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d8af4d6b6a9815443e064e6f60e410113076085129e0e6247182eb65fc68ab4a",
+  "company": {
+    "key": "ttm-technologies-inc-common-stock",
+    "name": "TTM Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttm-technologies-inc-common-stock-news-import-6d017d0c85d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttm.com/en/blog/agility-isnt-a-strategy-but-a-competitive-advantage",
+    "canonical": "http://www.ttm.com/en/blog/agility-isnt-a-strategy-but-a-competitive-advantage"
+  },
+  "title": "TTM Technologies: Agility Isn’t a Strategy. It’s a Competitive Advantage.",
+  "summary": "At TTM, we identify the demand signals early and invest in infrastructure and technology before the market forces the issue. The result is a company that doesn’t react to change but anticipates it.Expanding America’s Advanced Manufacturing Footprint",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:50:20.236425+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:14.536355+00:00",
+  "paths": {
+    "article": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/d8/d8af4d6b6a9815443e064e6f60e410113076085129e0e6247182eb65fc68ab4a/article.md",
+    "record": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/d8/d8af4d6b6a9815443e064e6f60e410113076085129e0e6247182eb65fc68ab4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4199,
+    "sha256": "sha256:a5b3be068fde65d3da55b7fe2f17a2e60b8de48c41cf3fe96378928904aead73",
+    "normalized_content_hash": "sha256:29ddfc1b9343a54e643ff71da24e3376b9e749ae04f0417db92b88778b944fb1"
+  },
+  "provenance": {
+    "source_item_id": "554d6864-3db0-44a0-8b52-4698610c837d",
+    "external_id": "http://www.ttm.com/en/blog/agility-isnt-a-strategy-but-a-competitive-advantage"
+  }
+}

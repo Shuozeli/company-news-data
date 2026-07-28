@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01f8e7b75aabe5fde27446cf41556015a5f275f24f2713e3060d3425f4ae7a87",
+  "company": {
+    "key": "yc-algotest",
+    "name": "AlgoTest"
+  },
+  "source": {
+    "id": "yc-algotest-news-import-7cc502b412f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://algotest.in/blog/max-pain-in-options-trading-what-it-means-and-how-it-works/",
+    "canonical": "https://algotest.in/blog/max-pain-in-options-trading-what-it-means-and-how-it-works/"
+  },
+  "title": "Max Pain in Options Trading: What It Means & How It Works",
+  "summary": "Max pain in options trading is the strike where buyers lose the most and writers pay the least. Learn how it's calculated and how to track Sensex max pain.",
+  "published_at": "2026-07-28T10:05:02+00:00",
+  "first_seen_at": "2026-07-28T18:24:39.553303+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:24.573143+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-algotest/2026/07/01/01f8e7b75aabe5fde27446cf41556015a5f275f24f2713e3060d3425f4ae7a87/article.md",
+    "record": "articles/v1/0d/yc-algotest/2026/07/01/01f8e7b75aabe5fde27446cf41556015a5f275f24f2713e3060d3425f4ae7a87/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11176,
+    "sha256": "sha256:cefb5e15b3631ef86e7fc1bc82ea0a3486058a6719412a5cdd0e95e3f2656aa5",
+    "normalized_content_hash": "sha256:e776f2650cdf8896732e71da9d80077793962befae651df259325c53402a310d"
+  },
+  "provenance": {
+    "source_item_id": "5c849e50-93ef-4d1b-8b9c-4e8b192d3900",
+    "external_id": "https://algotest.in/blog/max-pain-in-options-trading-what-it-means-and-how-it-works/"
+  }
+}

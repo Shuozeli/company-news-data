@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55f45637565c8f18f85bc9342825143ae10b172a8d2d5af9e6953d4dbe982649",
+  "company": {
+    "key": "yc-let-s-do-this",
+    "name": "Let's Do This"
+  },
+  "source": {
+    "id": "yc-let-s-do-this-news-import-089850d1dce8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.letsdothis.com/blog/see-what-emails-actually-drive-registrations-with-nova",
+    "canonical": "https://www.letsdothis.com/blog/see-what-emails-actually-drive-registrations-with-nova"
+  },
+  "title": "See what emails actually drive registrations with Nova",
+  "summary": "We've given Nova access to your email marketing data! Nova can analyze your Let's Do This email campaign data. Your email data is automatically available to Nova with no setup required.",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T03:27:21.649983+00:00",
+  "fetched_at": "2026-07-28T17:03:43.252612+00:00",
+  "last_updated_at": "2026-07-28T17:03:45.108032+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-let-s-do-this/2026/07/55/55f45637565c8f18f85bc9342825143ae10b172a8d2d5af9e6953d4dbe982649/article.md",
+    "record": "articles/v1/d3/yc-let-s-do-this/2026/07/55/55f45637565c8f18f85bc9342825143ae10b172a8d2d5af9e6953d4dbe982649/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2186,
+    "sha256": "sha256:24afd76fe54f345aed2d9b761686786e213a2d64ae489c6404154c420ce36521",
+    "normalized_content_hash": "sha256:767efbf98e06d27decd8adfb5cd937c8b1f2de58a598a0cb0ccea1de932d96af"
+  },
+  "provenance": {
+    "source_item_id": "e4eed410-fcaf-40f6-aa0f-ac8cb12a3a29",
+    "external_id": "https://www.letsdothis.com/blog/see-what-emails-actually-drive-registrations-with-nova"
+  }
+}

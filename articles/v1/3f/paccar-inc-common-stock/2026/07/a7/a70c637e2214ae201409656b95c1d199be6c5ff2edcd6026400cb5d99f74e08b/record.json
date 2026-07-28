@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a70c637e2214ae201409656b95c1d199be6c5ff2edcd6026400cb5d99f74e08b",
+  "company": {
+    "key": "paccar-inc-common-stock",
+    "name": "PACCAR Inc. Common Stock"
+  },
+  "source": {
+    "id": "paccar-inc-common-stock-news-import-2cf1de5bfa55",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.paccar.com/news/current-news/2024/paccar-investor-conference/",
+    "canonical": "https://www.paccar.com/news/current-news/2024/paccar-investor-conference/"
+  },
+  "title": "PACCAR Investor Conference",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T11:01:05.418267+00:00",
+  "fetched_at": "2026-07-27T23:51:20.169687+00:00",
+  "last_updated_at": "2026-07-27T23:51:21.857840+00:00",
+  "paths": {
+    "article": "articles/v1/3f/paccar-inc-common-stock/2026/07/a7/a70c637e2214ae201409656b95c1d199be6c5ff2edcd6026400cb5d99f74e08b/article.md",
+    "record": "articles/v1/3f/paccar-inc-common-stock/2026/07/a7/a70c637e2214ae201409656b95c1d199be6c5ff2edcd6026400cb5d99f74e08b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1348,
+    "sha256": "sha256:0b2796fbe553120fa9a79c77364ace231997727e5ea21ff00bf80a4e692b5293",
+    "normalized_content_hash": "sha256:42a5587ed0e03531010acdd647e782fb02a36854a110634e251737f34b3b721a"
+  },
+  "provenance": {
+    "source_item_id": "b9e14028-fdb3-4fd9-aeb7-d55dcdc38793",
+    "external_id": "https://www.paccar.com/news/current-news/2024/paccar-investor-conference/"
+  }
+}

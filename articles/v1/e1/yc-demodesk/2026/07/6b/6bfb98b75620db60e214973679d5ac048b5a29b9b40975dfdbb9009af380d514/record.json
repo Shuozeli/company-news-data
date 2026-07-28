@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6bfb98b75620db60e214973679d5ac048b5a29b9b40975dfdbb9009af380d514",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-create-custom-meeting-type-detection-rules-in-demodesk-sc1-s",
+    "canonical": "https://demodesk.com/blog/how-to-create-custom-meeting-type-detection-rules-in-demodesk-sc1-s"
+  },
+  "title": "How to create custom meeting-type detection rules in Demodesk (SC1, SC2, etc.)",
+  "summary": "Set up automation rules in Demodesk to auto-detect meeting types (SC1, SC2, demos) and trigger the right scorecard and summary template for every call.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.594761+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/6b/6bfb98b75620db60e214973679d5ac048b5a29b9b40975dfdbb9009af380d514/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/6b/6bfb98b75620db60e214973679d5ac048b5a29b9b40975dfdbb9009af380d514/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6226,
+    "sha256": "sha256:5ca7dccc6d964d472a068e782ae3ef35ebb07a951aa3fb44a34223ba1f952dfc",
+    "normalized_content_hash": "sha256:eb1482c50018956025ce603b0337b6ce7267a2a804d77d7e393973e413fb586f"
+  },
+  "provenance": {
+    "source_item_id": "5b083c54-a985-4aef-ba64-11f64230b6d5",
+    "external_id": "https://demodesk.com/blog/how-to-create-custom-meeting-type-detection-rules-in-demodesk-sc1-s"
+  }
+}

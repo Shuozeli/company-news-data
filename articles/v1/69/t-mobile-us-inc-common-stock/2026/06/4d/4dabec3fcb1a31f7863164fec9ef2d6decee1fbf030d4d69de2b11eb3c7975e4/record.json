@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4dabec3fcb1a31f7863164fec9ef2d6decee1fbf030d4d69de2b11eb3c7975e4",
+  "company": {
+    "key": "t-mobile-us-inc-common-stock",
+    "name": "T-Mobile US Inc. Common Stock"
+  },
+  "source": {
+    "id": "t-mobile-us-inc-common-stock-news-import-748f5f079be8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.t-mobile.com/news/network/tropical-storm-arthur-gulf-coast-t-mobile-is-ready",
+    "canonical": "https://www.t-mobile.com/news/network/tropical-storm-arthur-gulf-coast-t-mobile-is-ready"
+  },
+  "title": "As Tropical Storm Arthur Approaches the Gulf Coast, T‑Mobile is Ready",
+  "summary": "Tropical Storm Arthur is bringing heavy rain, flooding concerns and tropical-storm-force winds to parts of the Gulf Coast. As communities across Texas,",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:46:33.310465+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:20.853372+00:00",
+  "paths": {
+    "article": "articles/v1/69/t-mobile-us-inc-common-stock/2026/06/4d/4dabec3fcb1a31f7863164fec9ef2d6decee1fbf030d4d69de2b11eb3c7975e4/article.md",
+    "record": "articles/v1/69/t-mobile-us-inc-common-stock/2026/06/4d/4dabec3fcb1a31f7863164fec9ef2d6decee1fbf030d4d69de2b11eb3c7975e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4078,
+    "sha256": "sha256:3fd2225c6023654aca38d22fa75d182a9fad8c6530f93980de06e7d9c249d6b9",
+    "normalized_content_hash": "sha256:5e8a80d0e5400ae4dea78f91c61de1e6ac1fb2ea0a6fc3d37d396a37651b9b33"
+  },
+  "provenance": {
+    "source_item_id": "69c6f664-3b36-4f97-a7fa-03d7e6e4f177",
+    "external_id": "https://www.t-mobile.com/news/network/tropical-storm-arthur-gulf-coast-t-mobile-is-ready"
+  }
+}

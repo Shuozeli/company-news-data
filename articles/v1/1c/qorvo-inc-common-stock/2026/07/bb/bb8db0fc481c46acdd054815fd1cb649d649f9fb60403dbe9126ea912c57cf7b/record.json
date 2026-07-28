@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb8db0fc481c46acdd054815fd1cb649d649f9fb60403dbe9126ea912c57cf7b",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/rochester-electronics-and-qorvo-team-to-offer-long-term-availability-of-rf-components",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/rochester-electronics-and-qorvo-team-to-offer-long-term-availability-of-rf-components"
+  },
+  "title": "Rochester Electronics and Qorvo® Team to Offer Long-Term Availability of RF Components",
+  "summary": "Danalto, a pioneer in location intelligence software, today announced the successful integration of Danalto’s Cardinal™ Cloud Location Engine (CLE) with Qorvo’s latest Ultra-Wideband (UWB) System-on-Chip (SoC) and industrial and enterprise SDK.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:13.025239+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/bb/bb8db0fc481c46acdd054815fd1cb649d649f9fb60403dbe9126ea912c57cf7b/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/bb/bb8db0fc481c46acdd054815fd1cb649d649f9fb60403dbe9126ea912c57cf7b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4185,
+    "sha256": "sha256:89f1695bdd6b8d088c5c735042c0d669fb5a6517f3d8d54ca18d52045ebb3a36",
+    "normalized_content_hash": "sha256:72f71c079e78f1ad7ef7df3890a7ef150edd31e910423a63b5b0807279bfd442"
+  },
+  "provenance": {
+    "source_item_id": "c2b5aaed-2bd0-4503-9bef-e01bb0a7ac6e",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/rochester-electronics-and-qorvo-team-to-offer-long-term-availability-of-rf-components"
+  }
+}

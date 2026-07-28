@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "35838eb1e6859d5db7c28d0d72f7e0eb44c176aad82ef0f0280af4ebffce63b8",
+  "company": {
+    "key": "yc-momento",
+    "name": "Momento"
+  },
+  "source": {
+    "id": "yc-momento-news-import-ecd11f38dbc6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tumomento.com/blog/autos-15-mil-pesos/",
+    "canonical": "https://www.tumomento.com/blog/autos-15-mil-pesos/"
+  },
+  "title": "Autos de 15 a 20 Mil Pesos: ¿Qué debes saber antes de comprar uno?",
+  "summary": "Descubre cómo comprar un auto usado entre 15,000 y 20,000 pesos. Consejos, modelos recomendados y todo lo que necesitas saber para hacer una compra segura.",
+  "published_at": "2025-11-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:45:59.826435+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:44.697422+00:00",
+  "paths": {
+    "article": "articles/v1/8a/yc-momento/2025/11/35/35838eb1e6859d5db7c28d0d72f7e0eb44c176aad82ef0f0280af4ebffce63b8/article.md",
+    "record": "articles/v1/8a/yc-momento/2025/11/35/35838eb1e6859d5db7c28d0d72f7e0eb44c176aad82ef0f0280af4ebffce63b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5202,
+    "sha256": "sha256:2ebfcee61d97b9a542ae57968f7b582522a4d238b3553caeb073075c353e2889",
+    "normalized_content_hash": "sha256:43cd15b938c624dbd5206d02f56ae603bac726f06cc69a1840b7fec56c66fa51"
+  },
+  "provenance": {
+    "source_item_id": "fd5c9008-4579-4597-a350-960593c5bafe",
+    "external_id": "https://www.tumomento.com/blog/autos-15-mil-pesos/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d8898e7ac874c7438e36b11ee10367f7e4d4dd20dfec895f41e0a8a0e665479",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/"
+  },
+  "title": "CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access",
+  "summary": "Learn how CrowdStrike Falcon Next-Gen Identity Security integrates with Zscaler to deliver real-time risk-based access and Zero Trust protection.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.588273+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/4d/4d8898e7ac874c7438e36b11ee10367f7e4d4dd20dfec895f41e0a8a0e665479/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/4d/4d8898e7ac874c7438e36b11ee10367f7e4d4dd20dfec895f41e0a8a0e665479/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6861,
+    "sha256": "sha256:17cd69911ed9ba64f5ae27173766e6c65875a25b02645bbbda6a7f2badc7e859",
+    "normalized_content_hash": "sha256:be32a104d4ca42103f8b689acab29e08ec086ff97c01fada23a5d17f2b248b07"
+  },
+  "provenance": {
+    "source_item_id": "a85731ee-d45c-4691-8874-a55f42b45163",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/"
+  }
+}

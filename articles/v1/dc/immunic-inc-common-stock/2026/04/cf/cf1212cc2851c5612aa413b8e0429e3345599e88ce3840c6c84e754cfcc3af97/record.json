@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf1212cc2851c5612aa413b8e0429e3345599e88ce3840c6c84e754cfcc3af97",
+  "company": {
+    "key": "immunic-inc-common-stock",
+    "name": "Immunic Inc. Common Stock"
+  },
+  "source": {
+    "id": "immunic-inc-common-stock-news-import-bc70b831650b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://imux.com/immunic-regains-compliance-with-nasdaq-minimum-bid-price-requirement/",
+    "canonical": "https://imux.com/immunic-regains-compliance-with-nasdaq-minimum-bid-price-requirement/"
+  },
+  "title": "Immunic Regains Compliance with Nasdaq Minimum Bid Price Requirement",
+  "summary": "Immunic, Inc. (Nasdaq: IMUX), today announced that it received written notice (the “Notice”) from the Listing Qualifications Department of The Nasdaq Stock Market LLC (\"Nasdaq\")",
+  "published_at": "2026-04-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T09:19:11.387681+00:00",
+  "fetched_at": "2026-07-28T21:25:41.488077+00:00",
+  "last_updated_at": "2026-07-28T21:26:13.394234+00:00",
+  "paths": {
+    "article": "articles/v1/dc/immunic-inc-common-stock/2026/04/cf/cf1212cc2851c5612aa413b8e0429e3345599e88ce3840c6c84e754cfcc3af97/article.md",
+    "record": "articles/v1/dc/immunic-inc-common-stock/2026/04/cf/cf1212cc2851c5612aa413b8e0429e3345599e88ce3840c6c84e754cfcc3af97/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6745,
+    "sha256": "sha256:8eec4fb3bfa352df6387a4b2cede76af98da552abcdb75717a28c602bff3ddce",
+    "normalized_content_hash": "sha256:86a13bf629f39bbfadff4c1986b0804da60cce083e1e35d8ce579acd9d35dde0"
+  },
+  "provenance": {
+    "source_item_id": "c8a485e5-a6f5-409b-ae86-9cead3ab2728",
+    "external_id": "https://imux.com/immunic-regains-compliance-with-nasdaq-minimum-bid-price-requirement/"
+  }
+}

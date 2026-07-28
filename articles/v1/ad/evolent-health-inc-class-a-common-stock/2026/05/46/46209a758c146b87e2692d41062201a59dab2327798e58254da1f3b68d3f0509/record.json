@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "46209a758c146b87e2692d41062201a59dab2327798e58254da1f3b68d3f0509",
+  "company": {
+    "key": "evolent-health-inc-class-a-common-stock",
+    "name": "Evolent Health Inc Class A Common Stock"
+  },
+  "source": {
+    "id": "evolent-health-inc-class-a-common-stock-news-import-8421a79a6c29",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.evolent.com/2026-05-07-Evolent-Announces-First-Quarter-2026-Results",
+    "canonical": "https://ir.evolent.com/2026-05-07-Evolent-Announces-First-Quarter-2026-Results"
+  },
+  "title": "Evolent Announces First Quarter 2026 Results",
+  "summary": "Evolent Health, Inc. (NYSE: EVH) (\"Evolent\" or the \"Company\"), a company that specializes in better health outcomes for people with complex conditions through proven solutions that make health...",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T02:14:03.732802+00:00",
+  "fetched_at": "2026-07-28T21:44:45.479848+00:00",
+  "last_updated_at": "2026-07-28T21:45:23.542714+00:00",
+  "paths": {
+    "article": "articles/v1/ad/evolent-health-inc-class-a-common-stock/2026/05/46/46209a758c146b87e2692d41062201a59dab2327798e58254da1f3b68d3f0509/article.md",
+    "record": "articles/v1/ad/evolent-health-inc-class-a-common-stock/2026/05/46/46209a758c146b87e2692d41062201a59dab2327798e58254da1f3b68d3f0509/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 39140,
+    "sha256": "sha256:7d909636de3735aeab21335f55c51997d575d44ef2d1367d627785505cb24fe9",
+    "normalized_content_hash": "sha256:e2f262b76a9752f4b99d4e542f7e3f05e8538e6c940544f85049670d36375449"
+  },
+  "provenance": {
+    "source_item_id": "293d60c3-ba07-4c15-a212-a00cccdc29d3",
+    "external_id": "https://ir.evolent.com/2026-05-07-Evolent-Announces-First-Quarter-2026-Results"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34ef6afa104113b03208ad18512b60e32073a2f57e09b2818711848b0cb70c8f",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/switching-from-t4-to-a10",
+    "canonical": "https://www.photoroom.com/inside-photoroom/switching-from-t4-to-a10"
+  },
+  "title": "How we divided our server latency by 3 by switching from T4 GPUs to A10g",
+  "summary": "Photoroom enhances its photo editing apps by optimizing inference latency, leveraging deep learning models compiled to TensorRT and the latest GPUs like the A10g, resulting in a remarkable server-side latency reduction by 3x with minimal cost. Using tools like Locust, they compare T4 and A10g configurations, finding A10g's lower latencies make it more cost-effective despite fewer instances needed.",
+  "published_at": "2022-10-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-07-28T21:49:00.436395+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2022/10/34/34ef6afa104113b03208ad18512b60e32073a2f57e09b2818711848b0cb70c8f/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2022/10/34/34ef6afa104113b03208ad18512b60e32073a2f57e09b2818711848b0cb70c8f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4671,
+    "sha256": "sha256:65760b54b4ff55af1624a5da1c04eb572cec7575b83ac6fa6c51b75ab84bec71",
+    "normalized_content_hash": "sha256:dbfd61270f668c504f1a201ec643a8bd21c79f2a07d2bc9618cefe5214dd1fc1"
+  },
+  "provenance": {
+    "source_item_id": "3243f22f-ab1a-482f-82c6-c673227c7850",
+    "external_id": "https://www.photoroom.com/inside-photoroom/switching-from-t4-to-a10"
+  }
+}

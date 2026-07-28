@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e8ca69a3e94bbba3f7de335b1189370ec4b626ca0d8174f027fb31983219f4b",
+  "company": {
+    "key": "bloomin-brands-inc-common-stock",
+    "name": "Bloomin' Brands Inc. Common Stock"
+  },
+  "source": {
+    "id": "bloomin-brands-inc-common-stock-news-import-7368c80ac451",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bloominbrands.com/newsroom/news-releases/news-release/outback-steakhouse-celebrates-national-onion-day-with-2-days-of-free-bloomin-onions",
+    "canonical": "https://www.bloominbrands.com/newsroom/news-releases/news-release/outback-steakhouse-celebrates-national-onion-day-with-2-days-of-free-bloomin-onions"
+  },
+  "title": "Outback Steakhouse Celebrates National Onion Day With Free Bloomin’ Onions",
+  "summary": "",
+  "published_at": "2024-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:48:00.320591+00:00",
+  "fetched_at": "2026-07-27T16:42:21.600685+00:00",
+  "last_updated_at": "2026-07-27T16:42:30.133315+00:00",
+  "paths": {
+    "article": "articles/v1/ed/bloomin-brands-inc-common-stock/2024/06/9e/9e8ca69a3e94bbba3f7de335b1189370ec4b626ca0d8174f027fb31983219f4b/article.md",
+    "record": "articles/v1/ed/bloomin-brands-inc-common-stock/2024/06/9e/9e8ca69a3e94bbba3f7de335b1189370ec4b626ca0d8174f027fb31983219f4b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3380,
+    "sha256": "sha256:1c3c0b0a8cce46abc40f847e04619e5d81c67833307f48fac900f521708789f4",
+    "normalized_content_hash": "sha256:f86a171422354b3a5eebc7bf8a1bbfbb90c680fd8a4ed2d052e174889077ccf7"
+  },
+  "provenance": {
+    "source_item_id": "e0d25cba-84a6-459f-b47d-0e694b6163c4",
+    "external_id": "https://www.bloominbrands.com/newsroom/news-releases/news-release/outback-steakhouse-celebrates-national-onion-day-with-2-days-of-free-bloomin-onions"
+  }
+}

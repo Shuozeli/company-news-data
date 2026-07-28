@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c01b3a25be007c70cb2fe79ab4818faa814dc63d9ff5d871377f1d745887abee",
+  "company": {
+    "key": "yc-captain",
+    "name": "Captain"
+  },
+  "source": {
+    "id": "yc-captain-news-import-d4d8e424d2c9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runcaptain.com/blog/captain-v2-launch",
+    "canonical": "https://www.runcaptain.com/blog/captain-v2-launch"
+  },
+  "title": "Captain v2 API Launch",
+  "summary": "We've been busy this holiday season, shipping optimizations throughout the stack. I'm thrilled to announce the stable release of our v2 API, among other product",
+  "published_at": "2026-01-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T12:23:05.765347+00:00",
+  "fetched_at": "2026-07-28T22:24:14.621256+00:00",
+  "last_updated_at": "2026-07-28T22:24:44.147536+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-captain/2026/01/c0/c01b3a25be007c70cb2fe79ab4818faa814dc63d9ff5d871377f1d745887abee/article.md",
+    "record": "articles/v1/01/yc-captain/2026/01/c0/c01b3a25be007c70cb2fe79ab4818faa814dc63d9ff5d871377f1d745887abee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3341,
+    "sha256": "sha256:b04683b593b46f1490a739fa818e82acf6e25405a94741a069c87a598e4097b2",
+    "normalized_content_hash": "sha256:4b7b7b9ad004574808f2ce36a092b20ffc4d957dcdb2c22c78c87eaa950192f7"
+  },
+  "provenance": {
+    "source_item_id": "560daddf-a41d-4aa0-8a74-5e7473d46501",
+    "external_id": "https://www.runcaptain.com/blog/captain-v2-launch"
+  }
+}

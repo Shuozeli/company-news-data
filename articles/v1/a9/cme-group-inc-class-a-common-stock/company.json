@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cme-group-inc-class-a-common-stock",
+    "name": "CME Group Inc. Class A Common Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-06-11T21:15:00+00:00",
+  "last_published_at": "2026-07-27T18:10:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    }
+  ]
+}

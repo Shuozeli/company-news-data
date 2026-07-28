@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e1d0b12720455ec260ca4932bdd2905d0632adb0605fe807f355cf771901e00",
+  "company": {
+    "key": "bellring-brands-inc-common-stock",
+    "name": "BellRing Brands Inc. Common Stock"
+  },
+  "source": {
+    "id": "bellring-brands-inc-common-stock-news-import-2c617c712b34",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bellring.com/news/bellring-brands-appoints-david-finkelstein-board-directors",
+    "canonical": "https://bellring.com/news/bellring-brands-appoints-david-finkelstein-board-directors"
+  },
+  "title": "BellRing Brands Appoints David Finkelstein to Board of Directors",
+  "summary": "BellRing Brands Appoints David Finkelstein to Board of Directors",
+  "published_at": "2025-11-14T13:00:00+00:00",
+  "first_seen_at": "2026-07-24T19:24:47.594073+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:30.022061+00:00",
+  "paths": {
+    "article": "articles/v1/40/bellring-brands-inc-common-stock/2025/11/3e/3e1d0b12720455ec260ca4932bdd2905d0632adb0605fe807f355cf771901e00/article.md",
+    "record": "articles/v1/40/bellring-brands-inc-common-stock/2025/11/3e/3e1d0b12720455ec260ca4932bdd2905d0632adb0605fe807f355cf771901e00/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2955,
+    "sha256": "sha256:af8264fac96603ee6b413a4d6d41c88c727abd2a2ebd20d958b5fb59be79af85",
+    "normalized_content_hash": "sha256:b9b48ad8e041360bc872f23f5335243a634a0cb96fe64cf52366ca91dafcc825"
+  },
+  "provenance": {
+    "source_item_id": "7c907fd4-b5dd-4747-a9c3-efa02debf392",
+    "external_id": "https://bellring.com/news/bellring-brands-appoints-david-finkelstein-board-directors"
+  }
+}

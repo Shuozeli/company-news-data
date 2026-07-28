@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7d44f024491c814d3cb02a6603131af4e0c10a2aeab5d381b96c1e8e24054629",
+  "company": {
+    "key": "arm-holdings-plc-american-depositary-shares",
+    "name": "Arm Holdings plc American Depositary Shares"
+  },
+  "source": {
+    "id": "arm-holdings-plc-american-depositary-shares-news-import-5227abe14b68",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://newsroom.arm.com/subscribe-for-news-alerts",
+    "canonical": "https://newsroom.arm.com/subscribe-for-news-alerts"
+  },
+  "title": "Subscribe for News Alerts",
+  "summary": "If you are an analyst or reporter and would like to receive news alerts from Arm, please complete the information below. Subscription is limited to analysts and reporters. If you are not an analyst or reporter and want to keep up to date with the latest developments from Arm:",
+  "published_at": "2023-07-14T10:58:55+00:00",
+  "first_seen_at": "2026-07-24T17:08:05.221578+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:41.289365+00:00",
+  "paths": {
+    "article": "articles/v1/dd/arm-holdings-plc-american-depositary-shares/2023/07/7d/7d44f024491c814d3cb02a6603131af4e0c10a2aeab5d381b96c1e8e24054629/article.md",
+    "record": "articles/v1/dd/arm-holdings-plc-american-depositary-shares/2023/07/7d/7d44f024491c814d3cb02a6603131af4e0c10a2aeab5d381b96c1e8e24054629/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1172,
+    "sha256": "sha256:4488840fbbfada4ba255e1e47085a608a55dfc770f4a65729211603e1aec4d43",
+    "normalized_content_hash": "sha256:b12f7ceaed6aa0a0996b9082404ea4caab14bdabfb4d1c56d596cbef83acd532"
+  },
+  "provenance": {
+    "source_item_id": "1f5e1e25-3fba-4c0b-a25f-e226cfaedbf0",
+    "external_id": "https://newsroom.arm.com/subscribe-for-news-alerts"
+  }
+}

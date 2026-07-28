@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ddfd99ae841f0747abbfa27727b0a046c78bff620bad72fc826f8ce09f4df20",
+  "company": {
+    "key": "yc-concourse",
+    "name": "Concourse"
+  },
+  "source": {
+    "id": "yc-concourse-news-import-c7979aaf4bde",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.concourse.ai/insights/ai-agents-for-cfos",
+    "canonical": "https://www.concourse.co/insights/ai-agents-for-cfos"
+  },
+  "title": "How CFOs Use AI Agents to Streamline Finance Workflows",
+  "summary": "Learn how AI agents help CFOs automate workflows like close, forecasting, and variance analysis—without replacing your ERP or team.",
+  "published_at": "2025-07-21T17:27:46.737+00:00",
+  "first_seen_at": "2026-07-27T01:13:47.982979+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-07-28T22:03:13.562073+00:00",
+  "paths": {
+    "article": "articles/v1/87/yc-concourse/2025/07/2d/2ddfd99ae841f0747abbfa27727b0a046c78bff620bad72fc826f8ce09f4df20/article.md",
+    "record": "articles/v1/87/yc-concourse/2025/07/2d/2ddfd99ae841f0747abbfa27727b0a046c78bff620bad72fc826f8ce09f4df20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17623,
+    "sha256": "sha256:b5f82c8df2de243b83e8c3fa831484b585e3af0f9a931bdf72f0f8e6cc9b3389",
+    "normalized_content_hash": "sha256:b76f43ca7a4f0b356a1165914f6a87221094b3d6c7a48414011062146415beac"
+  },
+  "provenance": {
+    "source_item_id": "ef70e01d-8a7f-4c5e-a21f-cfc772fee4fd",
+    "external_id": "https://www.concourse.co/insights/ai-agents-for-cfos"
+  }
+}

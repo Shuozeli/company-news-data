@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc35f8080f83795bab1802d670365b2ea83ceb5d7e962e6dcd8bf60adb939b09",
+  "company": {
+    "key": "cae-inc-ordinary-shares",
+    "name": "CAE Inc. Ordinary Shares"
+  },
+  "source": {
+    "id": "cae-inc-ordinary-shares-news-import-886ba6e545ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.newswire.ca/news-releases/cae-announces-renewal-of-normal-course-issuer-bid-890772822.html",
+    "canonical": "https://www.newswire.ca/news-releases/cae-announces-renewal-of-normal-course-issuer-bid-890772822.html"
+  },
+  "title": "CAE announces renewal of normal course issuer bid",
+  "summary": "/CNW/ - (NYSE: CAE) (TSX: CAE) – CAE Inc. (\"CAE\") today announced that it has received regulatory approval to renew its normal course issuer bid (\"NCIB\") to...",
+  "published_at": "2026-06-05T10:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:18:39.376795+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:56.975345+00:00",
+  "paths": {
+    "article": "articles/v1/e2/cae-inc-ordinary-shares/2026/06/cc/cc35f8080f83795bab1802d670365b2ea83ceb5d7e962e6dcd8bf60adb939b09/article.md",
+    "record": "articles/v1/e2/cae-inc-ordinary-shares/2026/06/cc/cc35f8080f83795bab1802d670365b2ea83ceb5d7e962e6dcd8bf60adb939b09/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11322,
+    "sha256": "sha256:ff5a2244a27a1987005a758e13f90ede62a250f1995df37716af878cdaa2d995",
+    "normalized_content_hash": "sha256:a6438e3687f5f2f4614ec12d2fe1e1494171384d557c2552e03a18d88e2c2785"
+  },
+  "provenance": {
+    "source_item_id": "552f1c5a-3012-4a3e-af30-6ede17ff14fe",
+    "external_id": "https://www.newswire.ca/news-releases/cae-announces-renewal-of-normal-course-issuer-bid-890772822.html"
+  }
+}

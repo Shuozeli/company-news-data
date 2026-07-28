@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b56038a7e882bf01aceb3ae92d5208f1e19d57fe1187c46aaff01188f38b656e",
+  "company": {
+    "key": "southern-missouri-bancorp-inc-common-stock",
+    "name": "Southern Missouri Bancorp Inc. Common Stock"
+  },
+  "source": {
+    "id": "southern-missouri-bancorp-inc-common-stock-news-import-52af38627077",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bankwithsouthern.com/news/how-to-buy-your-first-car/",
+    "canonical": "https://www.bankwithsouthern.com/news/how-to-buy-your-first-car/"
+  },
+  "title": "How to buy your first car | Southern Bank",
+  "summary": "Excited to purchase your first car? We can help you through the process and give you everything you need to know.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T01:27:46.326277+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:51.198347+00:00",
+  "paths": {
+    "article": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/b5/b56038a7e882bf01aceb3ae92d5208f1e19d57fe1187c46aaff01188f38b656e/article.md",
+    "record": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/b5/b56038a7e882bf01aceb3ae92d5208f1e19d57fe1187c46aaff01188f38b656e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11514,
+    "sha256": "sha256:aabc4354a2f0f5d3e3b6b6eb9fd3f16f1717924d337ccb6733b9934254ca7a02",
+    "normalized_content_hash": "sha256:c380166a9db1d2fca64ec424d5764e2070f898d8aa7d02d81cad6fade80ea736"
+  },
+  "provenance": {
+    "source_item_id": "f476aa1a-fb7a-4285-b06d-63b51fa6570e",
+    "external_id": "https://www.bankwithsouthern.com/news/how-to-buy-your-first-car/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1ba15debc679bbb0f575e59802eeb86811079c06b94f1b081441d2738d8a68df",
+  "company": {
+    "key": "yc-oto",
+    "name": "Oto"
+  },
+  "source": {
+    "id": "yc-oto-news-import-c7d19ad35351",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://joinoto.com/articles/morning-tinnitus",
+    "canonical": "https://joinoto.com/articles/morning-tinnitus"
+  },
+  "title": "Morning Tinnitus: Why It's Worse When You Wake Up",
+  "summary": "Why tinnitus feels worst on waking, the role of sleep, stress and silence, plus practical steps to manage it. Clinically reviewed by Dr Evan Davies, AuD",
+  "published_at": "2023-09-13T17:48:52+00:00",
+  "first_seen_at": "2026-07-24T10:19:33.646774+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:35:58.163268+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-oto/2023/09/1b/1ba15debc679bbb0f575e59802eeb86811079c06b94f1b081441d2738d8a68df/article.md",
+    "record": "articles/v1/6f/yc-oto/2023/09/1b/1ba15debc679bbb0f575e59802eeb86811079c06b94f1b081441d2738d8a68df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10982,
+    "sha256": "sha256:59fb958dbecacfb7d19eb98d4a3b92993850f1d08ec02775fcbdba6b9442c8d6",
+    "normalized_content_hash": "sha256:f9a06d957ec2cc32ae3f98c1bc5616bbb75ee9ed115180edb8016412eeef18c8"
+  },
+  "provenance": {
+    "source_item_id": "bcada551-7f76-4146-b037-0d2f3cbae364",
+    "external_id": "https://joinoto.com/articles/morning-tinnitus"
+  }
+}

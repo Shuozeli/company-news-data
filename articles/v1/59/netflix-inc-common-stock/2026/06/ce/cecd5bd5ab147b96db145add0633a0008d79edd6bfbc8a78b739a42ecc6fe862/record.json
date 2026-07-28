@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cecd5bd5ab147b96db145add0633a0008d79edd6bfbc8a78b739a42ecc6fe862",
+  "company": {
+    "key": "netflix-inc-common-stock",
+    "name": "Netflix Inc. Common Stock"
+  },
+  "source": {
+    "id": "netflix-inc-common-stock-rss-c4c725f6f796",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
+    "canonical": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c"
+  },
+  "title": "How Netflix Simplified Batch Compute with Kueue",
+  "summary": "By Alvin Bao, Alex Petrov, Jennifer Lai, Aidan Sherr, and Samartha Chandrashekar",
+  "published_at": "2026-06-22T21:35:01+00:00",
+  "first_seen_at": "2026-07-20T03:30:10.154272+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-07-28T21:13:52.096543+00:00",
+  "paths": {
+    "article": "articles/v1/59/netflix-inc-common-stock/2026/06/ce/cecd5bd5ab147b96db145add0633a0008d79edd6bfbc8a78b739a42ecc6fe862/article.md",
+    "record": "articles/v1/59/netflix-inc-common-stock/2026/06/ce/cecd5bd5ab147b96db145add0633a0008d79edd6bfbc8a78b739a42ecc6fe862/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10830,
+    "sha256": "sha256:a054e3d2b12748867974bf22c48db1bb9232a6213a38184fb17149a8c235b9cc",
+    "normalized_content_hash": "sha256:9cd47102cf3e9155ce2a01faac8986203d4b0200ae3304f44fc7be7b4fc37c16"
+  },
+  "provenance": {
+    "source_item_id": "25bd698a-a415-416c-a6f5-ffa95f0c1d9b",
+    "external_id": "https://medium.com/p/87860682629c"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "845c61cde62c245f794190e30798c6b913b3ce63166ac3e91439d455c763d5b2",
+  "company": {
+    "key": "yc-coderhouse",
+    "name": "Coderhouse"
+  },
+  "source": {
+    "id": "yc-coderhouse-news-import-7a925063f664",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coderhouse.com/coderlibrary/amd-5000-millones-anthropic-infraestructura-ia",
+    "canonical": "https://www.coderhouse.com/coderlibrary/amd-5000-millones-anthropic-infraestructura-ia"
+  },
+  "title": "AMD invierte USD 5.000M en Anthropic: qué implica | Coderhouse",
+  "summary": "AMD invierte hasta USD 5.000M en Anthropic y desplegará 2 GW de GPUs. Qué significa para la guerra de infraestructura de IA y los desarrolladores.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:14:27.351931+00:00",
+  "fetched_at": "2026-07-26T17:47:43.233939+00:00",
+  "last_updated_at": "2026-07-26T17:47:48.347408+00:00",
+  "paths": {
+    "article": "articles/v1/7a/yc-coderhouse/2026/07/84/845c61cde62c245f794190e30798c6b913b3ce63166ac3e91439d455c763d5b2/article.md",
+    "record": "articles/v1/7a/yc-coderhouse/2026/07/84/845c61cde62c245f794190e30798c6b913b3ce63166ac3e91439d455c763d5b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8029,
+    "sha256": "sha256:5128d3aeded3de5d634de1b7407a6b25f6fbba444aaff527bca4fd006d8d677e",
+    "normalized_content_hash": "sha256:f4d3acd4cae8da1fe23121f29c50716835a07722a520075cede5d484a58b5320"
+  },
+  "provenance": {
+    "source_item_id": "4fbdc7e6-71cb-49bf-8788-238821344961",
+    "external_id": "https://www.coderhouse.com/coderlibrary/amd-5000-millones-anthropic-infraestructura-ia"
+  }
+}

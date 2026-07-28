@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb090633b44ca61bf75427ea250d2e7ddd603781af57c9ffc42088c60c498fe6",
+  "company": {
+    "key": "acadia-pharmaceuticals-inc-common-stock",
+    "name": "ACADIA Pharmaceuticals Inc. Common Stock"
+  },
+  "source": {
+    "id": "acadia-pharmaceuticals-inc-common-stock-news-import-345aae7b0ea3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://acadia.com/en-us/media/perspectives/patient-stories/rett-stories-minna",
+    "canonical": "https://acadia.com/en-us/media/perspectives/patient-stories/rett-stories-minna"
+  },
+  "title": "Rett Stories: Minna",
+  "summary": "Life with Minna, who has Rett syndrome, requires patience and can be challenging, says her mom, Caroline. But, it is also an amazing experience for their family, brother Oscar, Minna’s dad Chris, and Caroline.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T23:08:14.715675+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:13.540464+00:00",
+  "paths": {
+    "article": "articles/v1/68/acadia-pharmaceuticals-inc-common-stock/2026/07/bb/bb090633b44ca61bf75427ea250d2e7ddd603781af57c9ffc42088c60c498fe6/article.md",
+    "record": "articles/v1/68/acadia-pharmaceuticals-inc-common-stock/2026/07/bb/bb090633b44ca61bf75427ea250d2e7ddd603781af57c9ffc42088c60c498fe6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1515,
+    "sha256": "sha256:40a0c03c972e0550044acdff4e660e4fa291900c457fed7cc1b8dce54ac4af24",
+    "normalized_content_hash": "sha256:9ab32a25f80d8143e55e54d3ed18cea6753fa1f042f2a121fefb6fe6861fc706"
+  },
+  "provenance": {
+    "source_item_id": "4a6a3ee2-2398-4a28-906f-ac4654eef480",
+    "external_id": "https://acadia.com/en-us/media/perspectives/patient-stories/rett-stories-minna"
+  }
+}

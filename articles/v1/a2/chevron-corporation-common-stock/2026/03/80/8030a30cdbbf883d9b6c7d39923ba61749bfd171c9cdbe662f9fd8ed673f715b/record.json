@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8030a30cdbbf883d9b6c7d39923ba61749bfd171c9cdbe662f9fd8ed673f715b",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2026/q1/how-an-energy-abundance-mindset-can-give-america-a-competitive-edge",
+    "canonical": "https://www.chevron.com/newsroom/2026/q1/how-an-energy-abundance-mindset-can-give-america-a-competitive-edge"
+  },
+  "title": "How an energy abundance mindset can give America a competitive edge",
+  "summary": "During a March 12, 2026, appearance on the Ruthless Podcast, Chevron Chairman and CEO Mike Wirth said America’s energy abundance should be developed to support economic growth, U.S. competitiveness and national security.",
+  "published_at": "2026-03-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2026/03/80/8030a30cdbbf883d9b6c7d39923ba61749bfd171c9cdbe662f9fd8ed673f715b/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2026/03/80/8030a30cdbbf883d9b6c7d39923ba61749bfd171c9cdbe662f9fd8ed673f715b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4633,
+    "sha256": "sha256:75bbf0d1bd77dfc8698bfc4f15ea88bf7f1d9a6cfd54095d29f5a429e9ec42d7",
+    "normalized_content_hash": "sha256:d4e8b33b61504e6548f725c0f93f6796e1be7b29d379d6ea9eee18f97ea3f8e0"
+  },
+  "provenance": {
+    "source_item_id": "f7af791b-36c0-4fe0-ba43-0b35a72e94fb",
+    "external_id": "https://www.chevron.com/newsroom/2026/q1/how-an-energy-abundance-mindset-can-give-america-a-competitive-edge"
+  }
+}

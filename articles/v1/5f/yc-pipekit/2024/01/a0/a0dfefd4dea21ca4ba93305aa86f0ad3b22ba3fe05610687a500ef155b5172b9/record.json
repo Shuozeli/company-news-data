@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a0dfefd4dea21ca4ba93305aa86f0ad3b22ba3fe05610687a500ef155b5172b9",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/building-backtesting-pipeline-python-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/building-backtesting-pipeline-python-argo-workflows"
+  },
+  "title": "Building a Backtesting Pipeline with Python and Argo Workflows",
+  "summary": "Learn how Python and ArgoWorkflows can help you develop financial and ML models for more efficient backtesting activities.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.138964+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/a0/a0dfefd4dea21ca4ba93305aa86f0ad3b22ba3fe05610687a500ef155b5172b9/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/a0/a0dfefd4dea21ca4ba93305aa86f0ad3b22ba3fe05610687a500ef155b5172b9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8974,
+    "sha256": "sha256:cbde2b832373fad3f281236cb08549507aacaa7415783ada03e3e2bbc932cfd2",
+    "normalized_content_hash": "sha256:96efcc45f4b68b81f8c6f85f962b44fa2faa8cbcf05afe26629b92b7afbac44d"
+  },
+  "provenance": {
+    "source_item_id": "4ca08fd3-3909-4dc2-a6a5-a77925b89707",
+    "external_id": "https://homepage.pipekit.io/blog/building-backtesting-pipeline-python-argo-workflows"
+  }
+}

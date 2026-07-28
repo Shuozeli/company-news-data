@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e353691d1f42689f620277256b10fb717c5898996d9ee596a80b65afc815bf10",
+  "company": {
+    "key": "ferrari-n-v-common-shares",
+    "name": "Ferrari N.V. Common Shares"
+  },
+  "source": {
+    "id": "ferrari-n-v-common-shares-news-import-597b1f1fc06e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ferrari.com/en-EN/media-centre/articles/gilbert-yates-and-beighton-take-home-championship-wins",
+    "canonical": "https://www.ferrari.com/en-EN/media-centre/articles/gilbert-yates-and-beighton-take-home-championship-wins"
+  },
+  "title": "Gilbert Yates and Beighton take home championship wins",
+  "summary": "",
+  "published_at": "2026-07-26T18:04:04+00:00",
+  "first_seen_at": "2026-07-27T02:21:11.609413+00:00",
+  "fetched_at": "2026-07-28T03:18:52.271990+00:00",
+  "last_updated_at": "2026-07-28T03:18:55.566347+00:00",
+  "paths": {
+    "article": "articles/v1/04/ferrari-n-v-common-shares/2026/07/e3/e353691d1f42689f620277256b10fb717c5898996d9ee596a80b65afc815bf10/article.md",
+    "record": "articles/v1/04/ferrari-n-v-common-shares/2026/07/e3/e353691d1f42689f620277256b10fb717c5898996d9ee596a80b65afc815bf10/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3500,
+    "sha256": "sha256:d8cb699f33d9bea9c895df162252daa9e318277eed5612c7a15d22af5f947c2a",
+    "normalized_content_hash": "sha256:d877cf09996dd26478d1558f0ec414e9fe4124aff7a04df6371510ad1eb4ef24"
+  },
+  "provenance": {
+    "source_item_id": "db918632-b5a1-4185-abb3-9f08e4c2c898",
+    "external_id": "https://www.ferrari.com/en-EN/media-centre/articles/gilbert-yates-and-beighton-take-home-championship-wins"
+  }
+}

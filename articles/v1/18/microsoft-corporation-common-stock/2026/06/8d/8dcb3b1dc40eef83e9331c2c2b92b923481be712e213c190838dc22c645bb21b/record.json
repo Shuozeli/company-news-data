@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8dcb3b1dc40eef83e9331c2c2b92b923481be712e213c190838dc22c645bb21b",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation Common Stock"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-0d567709f64e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.microsoft.com/en-us/power-platform/blog/2026/06/11/whats-new-in-power-platform-june-2026-feature-update/",
+    "canonical": "https://www.microsoft.com/en-us/power-platform/blog/2026/06/11/whats-new-in-power-platform-june-2026-feature-update/"
+  },
+  "title": "What’s new in Power Platform: June 2026 feature update",
+  "summary": "Get the latest news in Power Platform from the last month, so you can find a summary of product, community, and learning updates from Power Platform in one easy place.",
+  "published_at": "2026-06-11T15:31:27+00:00",
+  "first_seen_at": "2026-07-20T04:34:28.280378+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-07-28T21:12:52.344702+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/06/8d/8dcb3b1dc40eef83e9331c2c2b92b923481be712e213c190838dc22c645bb21b/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/06/8d/8dcb3b1dc40eef83e9331c2c2b92b923481be712e213c190838dc22c645bb21b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 151560,
+    "sha256": "sha256:b8aa3391c920be19cdcbfecd0f92d072da2109a81887d251aae203333b7d4e64",
+    "normalized_content_hash": "sha256:4a0d456825d0d9c4d5d3369b3197f2d3d96292cd9c4a9859d466293d9f6e0c59"
+  },
+  "provenance": {
+    "source_item_id": "299e71fe-d29d-4904-971c-86612ebdbf8b",
+    "external_id": "https://www.microsoft.com/en-us/power-platform/blog/?p=134304"
+  }
+}

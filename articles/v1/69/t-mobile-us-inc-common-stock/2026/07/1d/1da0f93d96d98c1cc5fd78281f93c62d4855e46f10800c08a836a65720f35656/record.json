@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1da0f93d96d98c1cc5fd78281f93c62d4855e46f10800c08a836a65720f35656",
+  "company": {
+    "key": "t-mobile-us-inc-common-stock",
+    "name": "T-Mobile US Inc. Common Stock"
+  },
+  "source": {
+    "id": "t-mobile-us-inc-common-stock-news-import-748f5f079be8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.t-mobile.com/news/network/how-t-mobile-is-keeping-people-connected-across-host-cities",
+    "canonical": "https://www.t-mobile.com/news/network/how-t-mobile-is-keeping-people-connected-across-host-cities"
+  },
+  "title": "Inside the Network: How T‑Mobile Is Helping Keep People Connected Across Host Cities (Updated July 1, 2026)",
+  "summary": "July 1, 2026Spotlight: Supporting First Responders in Dallas/Fort Worth While fans gather across North Texas for tournament matches and related",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:46:33.310465+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-28T21:46:29.134939+00:00",
+  "paths": {
+    "article": "articles/v1/69/t-mobile-us-inc-common-stock/2026/07/1d/1da0f93d96d98c1cc5fd78281f93c62d4855e46f10800c08a836a65720f35656/article.md",
+    "record": "articles/v1/69/t-mobile-us-inc-common-stock/2026/07/1d/1da0f93d96d98c1cc5fd78281f93c62d4855e46f10800c08a836a65720f35656/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8292,
+    "sha256": "sha256:ad361a44d5fa440c3444f963d762ee875c40bd516d78c8af6cb386b470fbb690",
+    "normalized_content_hash": "sha256:087090c8175f29b23e47321d4d6c88866e7d5570c27c2076c53ddeb16ec518f3"
+  },
+  "provenance": {
+    "source_item_id": "a4471907-e73b-4677-be6e-9c8bc2d2c0d5",
+    "external_id": "https://www.t-mobile.com/news/network/how-t-mobile-is-keeping-people-connected-across-host-cities"
+  }
+}

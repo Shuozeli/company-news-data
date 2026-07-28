@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3af9a63802b5a9bd2882fd17649bf69617417ffa91fc484185c3eeb49f590aa8",
+  "company": {
+    "key": "origin-bancorp-inc-common-stock",
+    "name": "Origin Bancorp Inc. Common Stock"
+  },
+  "source": {
+    "id": "origin-bancorp-inc-common-stock-news-import-0b81fb9579fc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.origin.bank/news/origin-bank-continues-southeast-market-expansion-with-opening-fairhope-location/",
+    "canonical": "https://www.origin.bank/news/origin-bank-continues-southeast-market-expansion-with-opening-fairhope-location/"
+  },
+  "title": "Origin Bank Continues Southeast Market Expansion | Origin Bank",
+  "summary": "Origin Bank continues to expand its Southeast market presence with the opening of its first banking center in Fairhope, Alabama. Located at 508 Fairhope Avenue, the banking center will serve as a temporary location while the bank seeks a permanent location within the community.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T19:20:31.415693+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:12.335502+00:00",
+  "paths": {
+    "article": "articles/v1/7a/origin-bancorp-inc-common-stock/2026/07/3a/3af9a63802b5a9bd2882fd17649bf69617417ffa91fc484185c3eeb49f590aa8/article.md",
+    "record": "articles/v1/7a/origin-bancorp-inc-common-stock/2026/07/3a/3af9a63802b5a9bd2882fd17649bf69617417ffa91fc484185c3eeb49f590aa8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2875,
+    "sha256": "sha256:f57433088fc68f83523d83dfa411bd2011c04c818be6181a2052fbde0f7ba3ae",
+    "normalized_content_hash": "sha256:45a693ff186fd8a905d382e510aa5859ff7733cce14b834fb0cba4760e7a94df"
+  },
+  "provenance": {
+    "source_item_id": "49401eef-3738-4c0c-bfc5-22b4a88f5a3d",
+    "external_id": "https://www.origin.bank/news/origin-bank-continues-southeast-market-expansion-with-opening-fairhope-location/"
+  }
+}

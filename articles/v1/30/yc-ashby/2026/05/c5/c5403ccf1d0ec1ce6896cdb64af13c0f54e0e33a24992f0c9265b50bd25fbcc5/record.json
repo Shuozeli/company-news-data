@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c5403ccf1d0ec1ce6896cdb64af13c0f54e0e33a24992f0c9265b50bd25fbcc5",
+  "company": {
+    "key": "yc-ashby",
+    "name": "Ashby"
+  },
+  "source": {
+    "id": "yc-ashby-news-import-72f22fd66301",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ashbyhq.com/blog/culture",
+    "canonical": "https://www.ashbyhq.com/blog/ashby%20culture"
+  },
+  "title": "Ashby Culture",
+  "summary": "Building people software for high growth companies.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:59:34.035471+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-07-28T21:57:31.708583+00:00",
+  "paths": {
+    "article": "articles/v1/30/yc-ashby/2026/05/c5/c5403ccf1d0ec1ce6896cdb64af13c0f54e0e33a24992f0c9265b50bd25fbcc5/article.md",
+    "record": "articles/v1/30/yc-ashby/2026/05/c5/c5403ccf1d0ec1ce6896cdb64af13c0f54e0e33a24992f0c9265b50bd25fbcc5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3078,
+    "sha256": "sha256:388b88ee28682846253f8ba8e622215fd433c532364ec64a77996236aedf01d1",
+    "normalized_content_hash": "sha256:634bb4d11427cc87af0de06043eab00bcf37ed44a2c0916bcef52f5055875f53"
+  },
+  "provenance": {
+    "source_item_id": "8fe44bc6-08fa-4382-ba94-9b2656268164",
+    "external_id": "https://www.ashbyhq.com/blog/ashby%20culture"
+  }
+}

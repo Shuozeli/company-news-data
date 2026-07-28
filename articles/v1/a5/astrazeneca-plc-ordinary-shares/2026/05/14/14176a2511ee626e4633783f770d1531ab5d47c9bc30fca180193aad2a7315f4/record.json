@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "14176a2511ee626e4633783f770d1531ab5d47c9bc30fca180193aad2a7315f4",
+  "company": {
+    "key": "astrazeneca-plc-ordinary-shares",
+    "name": "AstraZeneca PLC Ordinary Shares"
+  },
+  "source": {
+    "id": "astrazeneca-plc-ordinary-shares-rss-c5fb94799a27",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/enhertu-recommended-in-eu-for-her2-solid-tumours.html",
+    "canonical": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/enhertu-recommended-in-eu-for-her2-solid-tumours.html"
+  },
+  "title": "Enhertu recommended for approval in the EU by CHMP for patients with previously treated HER2-positive metastatic solid tumours",
+  "summary": "",
+  "published_at": "2026-05-22T12:00:00+00:00",
+  "first_seen_at": "2026-07-26T23:00:47.318234+00:00",
+  "fetched_at": "2026-07-28T03:42:03.141221+00:00",
+  "last_updated_at": "2026-07-28T03:42:03.420996+00:00",
+  "paths": {
+    "article": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2026/05/14/14176a2511ee626e4633783f770d1531ab5d47c9bc30fca180193aad2a7315f4/article.md",
+    "record": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2026/05/14/14176a2511ee626e4633783f770d1531ab5d47c9bc30fca180193aad2a7315f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 770,
+    "sha256": "sha256:83a260f011cbd060b74d41d258e35d055b6f49d855cde3cb150995338fe2bde4",
+    "normalized_content_hash": "sha256:32404e85e8d9d0edbbd969ae27f6e2e37bc23bc6397f5b73c8bb2fe0e5949a2d"
+  },
+  "provenance": {
+    "source_item_id": "b89ebf49-97ae-4bc0-bbc3-5f09cd5906c1",
+    "external_id": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/enhertu-recommended-in-eu-for-her2-solid-tumours.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65d884873fcd6e3d1b7fd23d9a4bc50e7c8615ea1aa8727fdf575898a36997dd",
+  "company": {
+    "key": "alliant-energy-corporation-common-stock",
+    "name": "Alliant Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "alliant-energy-corporation-common-stock-news-import-5331c2900a0f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/05/050726-qts",
+    "canonical": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/05/050726-qts"
+  },
+  "title": "U.S. Department of Energy Secretary visits QTS site in Cedar Rapids",
+  "summary": "Alliant Energy was honored to help host U.S. Secretary of Energy Chris Wright during his recent visit to the Big Cedar Industrial Center and QTS data center site in Cedar Rapids.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:32:38.450273+00:00",
+  "fetched_at": "2026-07-27T11:32:36.077817+00:00",
+  "last_updated_at": "2026-07-27T11:32:38.450273+00:00",
+  "paths": {
+    "article": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/05/65/65d884873fcd6e3d1b7fd23d9a4bc50e7c8615ea1aa8727fdf575898a36997dd/article.md",
+    "record": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/05/65/65d884873fcd6e3d1b7fd23d9a4bc50e7c8615ea1aa8727fdf575898a36997dd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4312,
+    "sha256": "sha256:0e39e64aaeb0e77076f1e7903781da773c25eb4f5c1355615918d43d9692c39d",
+    "normalized_content_hash": "sha256:29f03355f06624420db0ecb7fa72eb601236ffb65d95b7643012612c4c53f938"
+  },
+  "provenance": {
+    "source_item_id": "515adaf4-f9d7-4b2a-861e-3f81aed472bc",
+    "external_id": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/05/050726-qts"
+  }
+}

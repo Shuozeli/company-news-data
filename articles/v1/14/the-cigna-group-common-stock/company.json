@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "the-cigna-group-common-stock",
+    "name": "The Cigna Group Common Stock"
+  },
+  "record_count": 6,
+  "first_published_at": "2026-06-02T19:00:00+00:00",
+  "last_published_at": "2026-07-22T18:02:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2f7f14522c338451fd521dd505bc49210be2cdb2348e919695ff38420057fe65",
+  "company": {
+    "key": "cirrus-logic-inc-common-stock",
+    "name": "Cirrus Logic Inc. Common Stock"
+  },
+  "source": {
+    "id": "cirrus-logic-inc-common-stock-news-import-2267740f74eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cirrus.com/company/media-center/releases/2026/cirrus-logic-named-to-fast-companys-annual-list-of-the-worlds-most-innovative-companies-of-2026",
+    "canonical": "https://www.cirrus.com/company/media-center/releases/2026/cirrus-logic-named-to-fast-companys-annual-list-of-the-worlds-most-innovative-companies-of-2026"
+  },
+  "title": "Cirrus Logic Named to Fast Company’s Annual List of the World's Most Innovative Companies of 2026",
+  "summary": "",
+  "published_at": "2026-03-24T06:01:00+00:00",
+  "first_seen_at": "2026-07-27T00:50:02.818872+00:00",
+  "fetched_at": "2026-07-28T01:36:08.593579+00:00",
+  "last_updated_at": "2026-07-28T01:36:12.448871+00:00",
+  "paths": {
+    "article": "articles/v1/a6/cirrus-logic-inc-common-stock/2026/03/2f/2f7f14522c338451fd521dd505bc49210be2cdb2348e919695ff38420057fe65/article.md",
+    "record": "articles/v1/a6/cirrus-logic-inc-common-stock/2026/03/2f/2f7f14522c338451fd521dd505bc49210be2cdb2348e919695ff38420057fe65/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4916,
+    "sha256": "sha256:81c7bca731fe71829708c54d5bf7c08eae11c3a8f1200d282ee729c71cdb9e98",
+    "normalized_content_hash": "sha256:d1346e0177e055d54aad1a935f16ceb627e43a1d7035d80d135375ec715cacdd"
+  },
+  "provenance": {
+    "source_item_id": "94e4ea5c-9a09-466e-8f6b-bddd306daf67",
+    "external_id": "https://www.cirrus.com/company/media-center/releases/2026/cirrus-logic-named-to-fast-companys-annual-list-of-the-worlds-most-innovative-companies-of-2026"
+  }
+}

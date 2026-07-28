@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f0f1a1ec9719d6d7734e71dd3c07b34e7d7ba5b0af79f57d1c36af4b3b3e8de",
+  "company": {
+    "key": "wafd-inc-depositary-shares",
+    "name": "WaFd Inc. Depositary Shares"
+  },
+  "source": {
+    "id": "wafd-inc-depositary-shares-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/family-finance",
+    "canonical": "https://www.wafdbank.com/articles/family-finance"
+  },
+  "title": "Articles about Family Finance",
+  "summary": "Are you looking to improve your family finances? Read the latest tips and articles from WaFd Bank to help you get your family finances in shape.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T05:02:34.283464+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:25.819346+00:00",
+  "paths": {
+    "article": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/1f/1f0f1a1ec9719d6d7734e71dd3c07b34e7d7ba5b0af79f57d1c36af4b3b3e8de/article.md",
+    "record": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/1f/1f0f1a1ec9719d6d7734e71dd3c07b34e7d7ba5b0af79f57d1c36af4b3b3e8de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1482,
+    "sha256": "sha256:2860c2703a39b553e6067124df3500554a6d85aaba5f1e9c2145077fe6bfdc53",
+    "normalized_content_hash": "sha256:c0556d92d9d7c2f9ccb0d6029378fe6c8eb04c3dd451e5d27d15c49e72d261f0"
+  },
+  "provenance": {
+    "source_item_id": "8a6a41d4-1d65-4631-9536-bde56a2c7935",
+    "external_id": "https://www.wafdbank.com/articles/family-finance"
+  }
+}

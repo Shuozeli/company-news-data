@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dae26118882425bbb56127576234e8de27513552e60f4f75602b00570765f6ba",
+  "company": {
+    "key": "claritev-corporation-class-a-common-stock",
+    "name": "Claritev Corporation Class A Common Stock"
+  },
+  "source": {
+    "id": "claritev-corporation-class-a-common-stock-news-import-9cbe2e16c60e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.claritev.com/newsroom/claritev-corporation-reports-fourth-quarter-2025-results/",
+    "canonical": "https://www.claritev.com/newsroom/claritev-corporation-reports-fourth-quarter-2025-results/"
+  },
+  "title": "Claritev Corporation Reports Fourth Quarter 2025 Results",
+  "summary": "Claritev Corporation reports financial results for the fourth quarter ended December 31, 2025 highlighting growth.",
+  "published_at": "2026-02-23T21:05:55+00:00",
+  "first_seen_at": "2026-07-24T01:43:41.794053+00:00",
+  "fetched_at": "2026-07-28T22:19:22.533448+00:00",
+  "last_updated_at": "2026-07-28T22:22:22.743625+00:00",
+  "paths": {
+    "article": "articles/v1/fc/claritev-corporation-class-a-common-stock/2026/02/da/dae26118882425bbb56127576234e8de27513552e60f4f75602b00570765f6ba/article.md",
+    "record": "articles/v1/fc/claritev-corporation-class-a-common-stock/2026/02/da/dae26118882425bbb56127576234e8de27513552e60f4f75602b00570765f6ba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2763,
+    "sha256": "sha256:95a74f1f63adcfd3ac6ceca647404436269ccbbd609b8cb023a66efa6ed0b897",
+    "normalized_content_hash": "sha256:ae8c52a353ced8f495348eb33cf4e53e8cac439192b2249504163109e4845956"
+  },
+  "provenance": {
+    "source_item_id": "8bfcaef3-a0e5-480b-8c9b-be662870f6d8",
+    "external_id": "https://www.claritev.com/newsroom/claritev-corporation-reports-fourth-quarter-2025-results/"
+  }
+}

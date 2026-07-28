@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e62a82859e69451d332c939a6eb319e78df22088c250cac99f86ab91f2e2958",
+  "company": {
+    "key": "paccar-inc-common-stock",
+    "name": "PACCAR Inc. Common Stock"
+  },
+  "source": {
+    "id": "paccar-inc-common-stock-news-import-2cf1de5bfa55",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.paccar.com/news/current-news/2024/accelera-by-cummins-daimler-truck-and-paccar-complete-battery-joint-venture-transaction-to-form-amplify-cell-technologies-and-name-new-ceo/",
+    "canonical": "https://www.paccar.com/news/current-news/2024/accelera-by-cummins-daimler-truck-and-paccar-complete-battery-joint-venture-transaction-to-form-amplify-cell-technologies-and-name-new-ceo/"
+  },
+  "title": "Accelera by Cummins, Daimler Truck and PACCAR Complete Battery Joint Venture Transaction to Form Amplify Cell Technologies and Name New CEO",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T11:01:05.418267+00:00",
+  "fetched_at": "2026-07-27T23:51:20.169687+00:00",
+  "last_updated_at": "2026-07-27T23:51:21.857840+00:00",
+  "paths": {
+    "article": "articles/v1/3f/paccar-inc-common-stock/2026/07/7e/7e62a82859e69451d332c939a6eb319e78df22088c250cac99f86ab91f2e2958/article.md",
+    "record": "articles/v1/3f/paccar-inc-common-stock/2026/07/7e/7e62a82859e69451d332c939a6eb319e78df22088c250cac99f86ab91f2e2958/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6798,
+    "sha256": "sha256:3f13d214c241c7cb42d5379f77c14ef4b16b790b64ce26b2a14de1ef33fd8666",
+    "normalized_content_hash": "sha256:e63ceca3eeebcc4351cf8b304ee818907bffd5997c642e977e4d283eb1baba7b"
+  },
+  "provenance": {
+    "source_item_id": "152bd60a-0196-4b7b-af18-857f0fda4ed1",
+    "external_id": "https://www.paccar.com/news/current-news/2024/accelera-by-cummins-daimler-truck-and-paccar-complete-battery-joint-venture-transaction-to-form-amplify-cell-technologies-and-name-new-ceo/"
+  }
+}

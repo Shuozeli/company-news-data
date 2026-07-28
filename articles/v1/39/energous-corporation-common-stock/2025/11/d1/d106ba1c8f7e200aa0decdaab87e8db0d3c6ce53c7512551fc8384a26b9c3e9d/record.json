@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d106ba1c8f7e200aa0decdaab87e8db0d3c6ce53c7512551fc8384a26b9c3e9d",
+  "company": {
+    "key": "energous-corporation-common-stock",
+    "name": "Energous Corporation Common Stock"
+  },
+  "source": {
+    "id": "energous-corporation-common-stock-news-import-d1c3bf233b09",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://energous.com/company/newsroom/news/energous-wireless-power-solutions-reports-third-quarter-2025-results/",
+    "canonical": "https://energous.com/company/newsroom/news/energous-wireless-power-solutions-reports-third-quarter-2025-results/"
+  },
+  "title": "Energous Wireless Power Solutions Reports Third Quarter 2025 Results",
+  "summary": "Energous Wireless Power Solutions Reports Third Quarter 2025 Results - Energous",
+  "published_at": "2025-11-12T12:00:11+00:00",
+  "first_seen_at": "2026-07-27T06:56:18.942558+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:31.246806+00:00",
+  "paths": {
+    "article": "articles/v1/39/energous-corporation-common-stock/2025/11/d1/d106ba1c8f7e200aa0decdaab87e8db0d3c6ce53c7512551fc8384a26b9c3e9d/article.md",
+    "record": "articles/v1/39/energous-corporation-common-stock/2025/11/d1/d106ba1c8f7e200aa0decdaab87e8db0d3c6ce53c7512551fc8384a26b9c3e9d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13716,
+    "sha256": "sha256:7a11213adb89a1b9ef5928e9fa3cf05d57f1e7d0974635d843a471666e2f5e4b",
+    "normalized_content_hash": "sha256:0a28490ea59ad9c159aaba0eb3ea1057e1fc4defb870e33036e1f4e75de95914"
+  },
+  "provenance": {
+    "source_item_id": "37f49ca0-bce9-482b-9c19-c065cb86cf31",
+    "external_id": "https://energous.com/company/newsroom/news/energous-wireless-power-solutions-reports-third-quarter-2025-results/"
+  }
+}

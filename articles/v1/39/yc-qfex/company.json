@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-qfex",
+    "name": "QFEX"
+  },
+  "record_count": 12,
+  "first_published_at": "2025-08-29T14:35:44+00:00",
+  "last_published_at": "2026-06-15T10:11:29+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    }
+  ]
+}

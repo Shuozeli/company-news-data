@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61a45130ef09eee79a35d8cc27e846c1baf737853f852413f0f4e43e609b5571",
+  "company": {
+    "key": "idex-corporation-common-stock",
+    "name": "IDEX Corporation Common Stock"
+  },
+  "source": {
+    "id": "idex-corporation-common-stock-news-import-f4b544a094be",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://idexcorp.com/news/news-item/idex-indias-inaugural-food-drive-collects-over-12000-kg-of-food-to-aid-local-communities/",
+    "canonical": "https://idexcorp.com/news/news-item/idex-indias-inaugural-food-drive-collects-over-12000-kg-of-food-to-aid-local-communities/"
+  },
+  "title": "IDEX India’s Inaugural Food Drive Collects Over 12,000 kg of Food to Aid Local Communities",
+  "summary": "Since 2020, the annual IDEX Food Insecurity Challenge has consistently served as a catalyst for action within the communities where we live and work. This year, in conjunction with the IDEX Foundation’s 6th Annual Food Drive, IDEX Foundation India hosted the same initiative for the first time with the support of 326 employees in Mumbai, Vadodara and Sanand. IDEX India […]",
+  "published_at": "2025-09-05T16:27:52+00:00",
+  "first_seen_at": "2026-07-25T09:02:34.151857+00:00",
+  "fetched_at": "2026-07-28T21:59:45.283870+00:00",
+  "last_updated_at": "2026-07-28T22:00:08.880828+00:00",
+  "paths": {
+    "article": "articles/v1/46/idex-corporation-common-stock/2025/09/61/61a45130ef09eee79a35d8cc27e846c1baf737853f852413f0f4e43e609b5571/article.md",
+    "record": "articles/v1/46/idex-corporation-common-stock/2025/09/61/61a45130ef09eee79a35d8cc27e846c1baf737853f852413f0f4e43e609b5571/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2060,
+    "sha256": "sha256:76e77b493a9e732585cbe7763be396ce5963e82ef181c5ce6054940d3b9cbcb9",
+    "normalized_content_hash": "sha256:b9f69530c8ebc6a23da63a2c2841a1384cbf07f328c165192917789add22adce"
+  },
+  "provenance": {
+    "source_item_id": "0c0cda50-97e4-4db8-8c78-44d163cb0ceb",
+    "external_id": "https://idexcorp.com/news/news-item/idex-indias-inaugural-food-drive-collects-over-12000-kg-of-food-to-aid-local-communities/"
+  }
+}

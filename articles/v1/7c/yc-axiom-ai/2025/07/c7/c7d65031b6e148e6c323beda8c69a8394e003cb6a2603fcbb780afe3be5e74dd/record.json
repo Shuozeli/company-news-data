@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7d65031b6e148e6c323beda8c69a8394e003cb6a2603fcbb780afe3be5e74dd",
+  "company": {
+    "key": "yc-axiom-ai",
+    "name": "Axiom.ai"
+  },
+  "source": {
+    "id": "yc-axiom-ai-news-import-c535b3e44cdf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://axiom.ai/blog/web-scraping-with-python/",
+    "canonical": "https://axiom.ai/blog/web-scraping-with-python"
+  },
+  "title": "Web Scraping With Python Tutorial",
+  "summary": "Learn how to scrape the web with your python scripts to give you full control over your scraping process.",
+  "published_at": "2025-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:24:24.051508+00:00",
+  "fetched_at": "2026-07-28T21:59:46.813241+00:00",
+  "last_updated_at": "2026-07-28T22:00:07.421437+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-axiom-ai/2025/07/c7/c7d65031b6e148e6c323beda8c69a8394e003cb6a2603fcbb780afe3be5e74dd/article.md",
+    "record": "articles/v1/7c/yc-axiom-ai/2025/07/c7/c7d65031b6e148e6c323beda8c69a8394e003cb6a2603fcbb780afe3be5e74dd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9661,
+    "sha256": "sha256:e791e1a69dcba26f80c628ad5454a3cb94b14760f853eea347e23f5b2cddf86e",
+    "normalized_content_hash": "sha256:76d097d17a63a6cf091666328dedca6577b124af75cfa3b0d3812d0a5b19253c"
+  },
+  "provenance": {
+    "source_item_id": "bfb04c59-a91c-47bb-a5b6-30f81da4e37a",
+    "external_id": "https://axiom.ai/blog/web-scraping-with-python"
+  }
+}

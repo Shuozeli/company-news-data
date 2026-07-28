@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23fd2387d8df6371be923519c229d91f7aa99d9be7db19d7fb8bbb1bf158318e",
+  "company": {
+    "key": "yc-plate-iq",
+    "name": "Plate IQ"
+  },
+  "source": {
+    "id": "yc-plate-iq-news-import-9b094f88901e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ottimate.com/blog/supplier-invoice-tracker/",
+    "canonical": "https://ottimate.com/blog/supplier-invoice-tracker/"
+  },
+  "title": "Introducing Supplier Invoice Tracker: Self-Service Visibility for Suppliers",
+  "summary": "If there’s one question AP teams hear more than any other, it’s probably this: “What’s the status of my invoice?” The question itself is pretty",
+  "published_at": "2026-06-10T12:12:37+00:00",
+  "first_seen_at": "2026-07-27T09:28:12.399111+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-07-28T21:43:23.288594+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-plate-iq/2026/06/23/23fd2387d8df6371be923519c229d91f7aa99d9be7db19d7fb8bbb1bf158318e/article.md",
+    "record": "articles/v1/48/yc-plate-iq/2026/06/23/23fd2387d8df6371be923519c229d91f7aa99d9be7db19d7fb8bbb1bf158318e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17841,
+    "sha256": "sha256:7a0d4ab59033935298ebd75710f5b1ac7dceec12c03bf72a7c47675bef9cded7",
+    "normalized_content_hash": "sha256:a211fc9c7776cc0467d01c2fa8687243fcf86b866e2e4b6c4ddb74bf28a3b9c5"
+  },
+  "provenance": {
+    "source_item_id": "b515d2a4-6be9-4a1f-9e55-139e298f62b7",
+    "external_id": "https://ottimate.com/blog/supplier-invoice-tracker/"
+  }
+}

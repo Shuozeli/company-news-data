@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ff560a57a2ad8e4871ebe51be5d05b12ec20aaf2d196ef354bb0775c9b99cae",
+  "company": {
+    "key": "lument-finance-trust-inc-common-stock",
+    "name": "Lument Finance Trust Inc. Common Stock"
+  },
+  "source": {
+    "id": "lument-finance-trust-inc-common-stock-news-import-b36cdac866c1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lument.com/lument-provides-27-3-million-freddie-mac-refinance-for-texas-multifamily-communities/",
+    "canonical": "https://www.lument.com/lument-provides-27-3-million-freddie-mac-refinance-for-texas-multifamily-communities/"
+  },
+  "title": "Lument Provides $27.3 Million Freddie Mac Refinance for Texas Multifamily Communities",
+  "summary": "Lument navigated volatile treasury yields and pending loan maturities to close the deal.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T13:23:44.024839+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:31.811829+00:00",
+  "paths": {
+    "article": "articles/v1/5a/lument-finance-trust-inc-common-stock/2026/07/6f/6ff560a57a2ad8e4871ebe51be5d05b12ec20aaf2d196ef354bb0775c9b99cae/article.md",
+    "record": "articles/v1/5a/lument-finance-trust-inc-common-stock/2026/07/6f/6ff560a57a2ad8e4871ebe51be5d05b12ec20aaf2d196ef354bb0775c9b99cae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2884,
+    "sha256": "sha256:ddf30c293a13544dca68ac219315789c045f6862648abbab5887633d71e5f2e5",
+    "normalized_content_hash": "sha256:f93ef2a2adefa08d9245d2357b27826bbfd50e4979d943f82da7677c0d057c2c"
+  },
+  "provenance": {
+    "source_item_id": "6e82c43a-4008-4fad-998a-e4d688826618",
+    "external_id": "https://www.lument.com/lument-provides-27-3-million-freddie-mac-refinance-for-texas-multifamily-communities/"
+  }
+}

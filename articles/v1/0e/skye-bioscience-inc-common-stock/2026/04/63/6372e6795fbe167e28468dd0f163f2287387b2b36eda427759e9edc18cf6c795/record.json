@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6372e6795fbe167e28468dd0f163f2287387b2b36eda427759e9edc18cf6c795",
+  "company": {
+    "key": "skye-bioscience-inc-common-stock",
+    "name": "Skye Bioscience Inc. Common Stock"
+  },
+  "source": {
+    "id": "skye-bioscience-inc-common-stock-news-import-de2c89c70e5f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.skyebioscience.com/news-releases/detail/256/skye-bioscience-treats-first-patient-in-nimacimab-higher-dose-expansion-study-evaluating-exposure-response-to-inform-phase-2b-dose-selection-for-glp-1-combination-development",
+    "canonical": "https://ir.skyebioscience.com/news-releases/detail/256/skye-bioscience-treats-first-patient-in-nimacimab-higher-dose-expansion-study-evaluating-exposure-response-to-inform-phase-2b-dose-selection-for-glp-1-combination-development"
+  },
+  "title": "Skye Bioscience Treats First Patient in Nimacimab Higher-Dose Expansion Study Evaluating Exposure-Response to Inform Phase 2b Dose Selection for GLP-1 Combination Development",
+  "summary": "Topline safety and pharmacokinetic data expected in Q4 2026; an independent Data Monitoring Committee is overseeing the study SAN DIEGO, April …...",
+  "published_at": "2026-04-02T07:00:00+00:00",
+  "first_seen_at": "2026-07-22T13:42:55.931065+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-07-28T21:57:31.102274+00:00",
+  "paths": {
+    "article": "articles/v1/0e/skye-bioscience-inc-common-stock/2026/04/63/6372e6795fbe167e28468dd0f163f2287387b2b36eda427759e9edc18cf6c795/article.md",
+    "record": "articles/v1/0e/skye-bioscience-inc-common-stock/2026/04/63/6372e6795fbe167e28468dd0f163f2287387b2b36eda427759e9edc18cf6c795/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12578,
+    "sha256": "sha256:7b1f3db9fb5b06fcac8706c5930df8b8287f6169366e9f5efedeb3cd696b18e2",
+    "normalized_content_hash": "sha256:95bb956a351bc0560b3f79127f4a1683756f2e940aad46df0c49fadef3c2767b"
+  },
+  "provenance": {
+    "source_item_id": "20a29d97-14b4-4339-afef-cf2aab1fa31c",
+    "external_id": "https://ir.skyebioscience.com/news-releases/detail/256/skye-bioscience-treats-first-patient-in-nimacimab-higher-dose-expansion-study-evaluating-exposure-response-to-inform-phase-2b-dose-selection-for-glp-1-combination-development"
+  }
+}

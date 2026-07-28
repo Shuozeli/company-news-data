@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11845f0adbd94b465ddc9991257c295b5d5bb2a033fe3155257443dfb53e18a9",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-ac8b67a28768",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/pet-blog/article/manx-cat-breed-guide",
+    "canonical": "https://www.trupanion.com/pet-blog/article/manx-cat-breed-guide"
+  },
+  "title": "Manx: A Cat Breed Guide",
+  "summary": "Learn about the Manx cat breed, including its personality, appearance, grooming needs, lifespan, health concerns, and whether a Manx is right for you.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:24.686679+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-07-28T21:22:02.740751+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/07/11/11845f0adbd94b465ddc9991257c295b5d5bb2a033fe3155257443dfb53e18a9/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/07/11/11845f0adbd94b465ddc9991257c295b5d5bb2a033fe3155257443dfb53e18a9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11217,
+    "sha256": "sha256:58c2f802010fab70ed3b375070b62577eecc71ec86a6e9385812190ad4fa1982",
+    "normalized_content_hash": "sha256:ccf1d5c77b19e2a2f8fc48cd7c24feeee6a373d62a1f9760be5af67e1df8a05d"
+  },
+  "provenance": {
+    "source_item_id": "d959514d-285a-4a57-a798-a943742a01e0",
+    "external_id": "https://www.trupanion.com/pet-blog/article/manx-cat-breed-guide"
+  }
+}

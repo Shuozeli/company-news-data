@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "62ed0936ddc5318ba70a8aebfe5e75078baea8b13758481501861915730d49e5",
+  "company": {
+    "key": "park-national-corporation-common-stock",
+    "name": "Park National Corporation Common Stock"
+  },
+  "source": {
+    "id": "park-national-corporation-common-stock-news-import-87114de23b09",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://parknationalbank.com/article/park-national-corporation-reports-financial-results-for-first-quarter-2026/",
+    "canonical": "https://parknationalbank.com/article/park-national-corporation-reports-financial-results-for-first-quarter-2026/"
+  },
+  "title": "Park National Corporation reports financial results for first quarter 2026",
+  "summary": "April 24, 2026 Park National Corporation (Park) (NYSE American: PRK) today reported financial results for…",
+  "published_at": "2026-04-27T12:47:42+00:00",
+  "first_seen_at": "2026-07-22T08:17:12.979183+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-07-28T21:26:16.243128+00:00",
+  "paths": {
+    "article": "articles/v1/dd/park-national-corporation-common-stock/2026/04/62/62ed0936ddc5318ba70a8aebfe5e75078baea8b13758481501861915730d49e5/article.md",
+    "record": "articles/v1/dd/park-national-corporation-common-stock/2026/04/62/62ed0936ddc5318ba70a8aebfe5e75078baea8b13758481501861915730d49e5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3833,
+    "sha256": "sha256:097462d9de24ab8c6e531d73ea1bd3f9311c4ed4a47b0105915093b14b4f235c",
+    "normalized_content_hash": "sha256:079fe424e04475af531b404d38463ff77782af3900925abdf4ec260dc113d497"
+  },
+  "provenance": {
+    "source_item_id": "4663ef34-8c2a-435e-b0a0-53b40f9f2a97",
+    "external_id": "https://parknationalbank.com/article/park-national-corporation-reports-financial-results-for-first-quarter-2026/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2bb9de6b3c4bcfef41a69309a0e519ac85d77514567a11b05b31ccdffba6949d",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/alternative-fuels",
+    "canonical": "https://www.chevron.com/newsroom/alternative-fuels"
+  },
+  "title": "Alternative Fuels Newsroom",
+  "summary": "Tap into the latest news on hydrogen and renewable fuels, like biodiesel, renewable natural gas, and sustainable aviation fuel.",
+  "published_at": "2022-02-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2022/02/2b/2bb9de6b3c4bcfef41a69309a0e519ac85d77514567a11b05b31ccdffba6949d/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2022/02/2b/2bb9de6b3c4bcfef41a69309a0e519ac85d77514567a11b05b31ccdffba6949d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5067,
+    "sha256": "sha256:0c27149586f791b83b7dd0954a9ba26c5b35ad12bce6b4c8325c2d7135cb0b96",
+    "normalized_content_hash": "sha256:298f35568ca5ae8593d3cc6d6dc53f61e8aa5298866bd5ec35031f1a8765eebe"
+  },
+  "provenance": {
+    "source_item_id": "895f05c7-ef1a-4eef-b06c-7797747e12e4",
+    "external_id": "https://www.chevron.com/newsroom/alternative-fuels"
+  }
+}

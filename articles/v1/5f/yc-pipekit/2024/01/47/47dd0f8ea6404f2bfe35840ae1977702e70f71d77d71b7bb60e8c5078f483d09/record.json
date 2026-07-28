@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "47dd0f8ea6404f2bfe35840ae1977702e70f71d77d71b7bb60e8c5078f483d09",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/orchestrating-elt-with-argo-workflows-and-dbt",
+    "canonical": "https://homepage.pipekit.io/blog/orchestrating-elt-with-argo-workflows-and-dbt"
+  },
+  "title": "Orchestrating ELT with Argo Workflows and dbt",
+  "summary": "Discover the advantages of orchestrating ELT workflows with Argo Workflows and how to do so with dbt.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.293570+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/47/47dd0f8ea6404f2bfe35840ae1977702e70f71d77d71b7bb60e8c5078f483d09/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/47/47dd0f8ea6404f2bfe35840ae1977702e70f71d77d71b7bb60e8c5078f483d09/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11533,
+    "sha256": "sha256:bafa30dc661c97fc5de47f1cadb3fa65f39afc0f6410ccc886d1e1d1a60602b8",
+    "normalized_content_hash": "sha256:37c6fe2ba0c95d166e146d3ac791083e49d6fac007deabfa9a4706cd50050b89"
+  },
+  "provenance": {
+    "source_item_id": "ba802856-6f2f-4058-a9a7-7959104c329c",
+    "external_id": "https://homepage.pipekit.io/blog/orchestrating-elt-with-argo-workflows-and-dbt"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "341b73351a920c5185422fe433427aad7d8aa6f2fe3dee0b62cf43cbc335ee3b",
+  "company": {
+    "key": "dlocal-limited-class-a-common-shares",
+    "name": "DLocal Limited Class A Common Shares"
+  },
+  "source": {
+    "id": "dlocal-limited-class-a-common-shares-news-import-6a9c68791fc2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dlocal.com/press-releases/dlocal-and-felix-launch-instant-stablecoin-funded-whatsapp-remittances-across-latin-america/",
+    "canonical": "https://www.dlocal.com/press-releases/dlocal-and-felix-launch-instant-stablecoin-funded-whatsapp-remittances-across-latin-america/"
+  },
+  "title": "dLocal and Félix launch instant, stablecoin-funded WhatsApp remittances across Latin America",
+  "summary": "The partnership utilizes USD Coin (USDC) to fund real-time payouts in local currency, reducing settlement time from next day to minutes, and enhancing reliability for cross-border transfers.",
+  "published_at": "2025-11-13T13:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:40:35.099772+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:36.290214+00:00",
+  "paths": {
+    "article": "articles/v1/18/dlocal-limited-class-a-common-shares/2025/11/34/341b73351a920c5185422fe433427aad7d8aa6f2fe3dee0b62cf43cbc335ee3b/article.md",
+    "record": "articles/v1/18/dlocal-limited-class-a-common-shares/2025/11/34/341b73351a920c5185422fe433427aad7d8aa6f2fe3dee0b62cf43cbc335ee3b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4848,
+    "sha256": "sha256:220aa9c8d5ed0abf9d3d205b848aac4ebf6bda481fe8278f603273206d5ece82",
+    "normalized_content_hash": "sha256:c85fcf64cb1af5ad70125e2c8f2755b8fc361245fe7a057add391b5919bfaf8f"
+  },
+  "provenance": {
+    "source_item_id": "8c8d209b-a7dd-4ca4-8fd3-9ce9c590122f",
+    "external_id": "https://www.dlocal.com/press-releases/dlocal-and-felix-launch-instant-stablecoin-funded-whatsapp-remittances-across-latin-america/"
+  }
+}

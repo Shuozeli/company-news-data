@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2194e5eecd048c69b1e67fc5930ad5dd432272d5349cd52a55de7de737f98c81",
+  "company": {
+    "key": "eastman-chemical-company-common-stock",
+    "name": "Eastman Chemical Company Common Stock"
+  },
+  "source": {
+    "id": "eastman-chemical-company-common-stock-news-import-8dd1e0c63b7c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eastman.com/en/media-center/news-stories/2026/eastman-announces-first-quarter-2026-financial-results",
+    "canonical": "https://www.eastman.com/en/media-center/news-stories/2026/eastman-announces-first-quarter-2026-financial-results"
+  },
+  "title": "Eastman announces first-quarter 2026 financial results",
+  "summary": "Eastman (NYSE:EMN) has announced its first-quarter 2026 financial results.",
+  "published_at": "2026-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:10:33.504059+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-07-28T21:57:32.704095+00:00",
+  "paths": {
+    "article": "articles/v1/e5/eastman-chemical-company-common-stock/2026/05/21/2194e5eecd048c69b1e67fc5930ad5dd432272d5349cd52a55de7de737f98c81/article.md",
+    "record": "articles/v1/e5/eastman-chemical-company-common-stock/2026/05/21/2194e5eecd048c69b1e67fc5930ad5dd432272d5349cd52a55de7de737f98c81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17949,
+    "sha256": "sha256:6e3f23f5d0bbe8bbae1b4f1b21c8d7d60912c5605f6f3e9abbdbfa9c1a126e8e",
+    "normalized_content_hash": "sha256:0f4914d34d75a15f0c5dcbfad789d3d7aff6cb7757b9b9730ce775899ba451fb"
+  },
+  "provenance": {
+    "source_item_id": "d973ad11-912b-41db-b854-feda1eec5474",
+    "external_id": "https://www.eastman.com/en/media-center/news-stories/2026/eastman-announces-first-quarter-2026-financial-results"
+  }
+}

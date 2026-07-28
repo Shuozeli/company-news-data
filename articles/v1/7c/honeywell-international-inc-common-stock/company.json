@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "honeywell-international-inc-common-stock",
+    "name": "Honeywell International Inc. Common Stock"
+  },
+  "record_count": 33,
+  "first_published_at": "2023-10-09T21:00:00+00:00",
+  "last_published_at": "2026-07-27T11:19:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    }
+  ]
+}

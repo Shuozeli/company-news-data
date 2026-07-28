@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d292fd846a33fe1b1afaa726b9121250c0d70b02057dffc096ae2619200e54c0",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/metaflow-vs-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/metaflow-vs-argo-workflows"
+  },
+  "title": "Metaflow vs. Argo Workflows",
+  "summary": "In this post, we'll compare Metaflow vs. Argo Workflows including what they are, their advantages and tradeoffs, and which to choose for your needs.",
+  "published_at": "2024-08-07T11:39:23+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-07-28T20:59:58.842653+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/08/d2/d292fd846a33fe1b1afaa726b9121250c0d70b02057dffc096ae2619200e54c0/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/08/d2/d292fd846a33fe1b1afaa726b9121250c0d70b02057dffc096ae2619200e54c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9791,
+    "sha256": "sha256:7b92dcc7e5665393762e4432e183f6a9f7df38a69c063c4002d083dd01382073",
+    "normalized_content_hash": "sha256:96b7a89be7eee751d98131965621840c7d966c7cd2254c35fcf2e34a2654f41d"
+  },
+  "provenance": {
+    "source_item_id": "bdb8c16e-872e-43e3-89de-4665d8f993fa",
+    "external_id": "https://homepage.pipekit.io/blog/metaflow-vs-argo-workflows"
+  }
+}

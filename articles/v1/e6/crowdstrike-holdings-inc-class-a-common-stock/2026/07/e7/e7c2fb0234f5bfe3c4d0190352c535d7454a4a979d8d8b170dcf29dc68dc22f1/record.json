@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e7c2fb0234f5bfe3c4d0190352c535d7454a4a979d8d8b170dcf29dc68dc22f1",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/"
+  },
+  "title": "CrowdStrike Named a Leader in the First-Ever Gartner® Magic Quadrant™ for Cyberthreat Intelligence Technologies",
+  "summary": "CrowdStrike is named a Leader in the Gartner Magic Quadrant for Cyberthreat Intelligence Technologies, positioned furthest to the right for Completeness of Vision.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.465142+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/e7/e7c2fb0234f5bfe3c4d0190352c535d7454a4a979d8d8b170dcf29dc68dc22f1/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/e7/e7c2fb0234f5bfe3c4d0190352c535d7454a4a979d8d8b170dcf29dc68dc22f1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8175,
+    "sha256": "sha256:5bb47f98579917b80eab30e1fe8774ae4bbf119410e889f13c093e830b9f2f18",
+    "normalized_content_hash": "sha256:fcd833a72124a7103f25cb042307b8a3720060f037b2fa2c7abd905082ca6c65"
+  },
+  "provenance": {
+    "source_item_id": "9aa0e3cb-8b58-4dd5-96cb-be9e3cc9826d",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/"
+  }
+}

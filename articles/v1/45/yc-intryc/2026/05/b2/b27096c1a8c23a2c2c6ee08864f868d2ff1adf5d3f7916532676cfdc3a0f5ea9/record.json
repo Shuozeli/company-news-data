@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b27096c1a8c23a2c2c6ee08864f868d2ff1adf5d3f7916532676cfdc3a0f5ea9",
+  "company": {
+    "key": "yc-intryc",
+    "name": "Intryc"
+  },
+  "source": {
+    "id": "yc-intryc-news-import-17b79f653bb0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.intryc.com/blog/ai-that-disappoints-customers-5-takeaways",
+    "canonical": "https://www.intryc.com/blog/ai-that-disappoints-customers-5-takeaways"
+  },
+  "title": "AI That Disappoints Customers: 5 CX Takeaways",
+  "summary": "5 takeaways from AutoDS CX director Avner Firon on why deflection rate is a vanity metric, how to fix AI hallucinations at the source, and sequencing an AI rollout.",
+  "published_at": "2026-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:22:23.516240+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-07-28T22:07:26.720216+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-intryc/2026/05/b2/b27096c1a8c23a2c2c6ee08864f868d2ff1adf5d3f7916532676cfdc3a0f5ea9/article.md",
+    "record": "articles/v1/45/yc-intryc/2026/05/b2/b27096c1a8c23a2c2c6ee08864f868d2ff1adf5d3f7916532676cfdc3a0f5ea9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8164,
+    "sha256": "sha256:fb0033cf890e44660953ffc1915822f21ea265ca36af221984dee930a8799fd3",
+    "normalized_content_hash": "sha256:9ceb7fe7275128d82ed3a2a3b365d57d773d87c186c3e125fb8c4293a87ed014"
+  },
+  "provenance": {
+    "source_item_id": "e8ac7b5b-194a-49ec-95d4-a73d794e7dbf",
+    "external_id": "https://www.intryc.com/blog/ai-that-disappoints-customers-5-takeaways"
+  }
+}

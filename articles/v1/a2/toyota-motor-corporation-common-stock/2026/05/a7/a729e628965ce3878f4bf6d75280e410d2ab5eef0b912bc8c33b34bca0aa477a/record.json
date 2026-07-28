@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a729e628965ce3878f4bf6d75280e410d2ab5eef0b912bc8c33b34bca0aa477a",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/financial_results_2026/002.html",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/financial_results_2026/002.html"
+  },
+  "title": "Beyond Tariffs and the Middle East Situation: Returning to Sustainable Growth",
+  "summary": "Toyota announced its financial results for FY2026. With impacts from tariffs and the situation in the Middle East, the company forecasts a third consecutive year of profit decline. How will Toyota return to sustainable growth while building earning power #TOYOTATIMES",
+  "published_at": "2026-05-07T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-07-28T21:45:25.188602+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/05/a7/a729e628965ce3878f4bf6d75280e410d2ab5eef0b912bc8c33b34bca0aa477a/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/05/a7/a729e628965ce3878f4bf6d75280e410d2ab5eef0b912bc8c33b34bca0aa477a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1029,
+    "sha256": "sha256:392f1fa766eb6ab259b395382c4d13236b9cf802e26f64ce443cd25765fd6bca",
+    "normalized_content_hash": "sha256:1d9fcffbf2122e69039aed5470f0871acba55a53cf88631e643d4d7e22f86bad"
+  },
+  "provenance": {
+    "source_item_id": "8f40453d-1b88-495c-bb55-fe7eb55d2403",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/financial_results_2026/002.html"
+  }
+}

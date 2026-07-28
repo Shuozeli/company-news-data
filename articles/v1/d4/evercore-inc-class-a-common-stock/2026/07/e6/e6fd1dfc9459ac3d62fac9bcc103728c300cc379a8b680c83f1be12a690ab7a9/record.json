@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6fd1dfc9459ac3d62fac9bcc103728c300cc379a8b680c83f1be12a690ab7a9",
+  "company": {
+    "key": "evercore-inc-class-a-common-stock",
+    "name": "Evercore Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "evercore-inc-class-a-common-stock-news-import-3fbf37355688",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://evercorewealthandtrust.com/news/sean-brady-promoted-partner/",
+    "canonical": "https://evercorewealthandtrust.com/news/sean-brady-promoted-partner/"
+  },
+  "title": "Sean Brady Promoted to Partner - Evercore Wealth Management",
+  "summary": "Evercore Wealth Management today announced the promotion of Sean Brady to Partner. Mr. Brady is a Wealth & Fiduciary advisor at Evercore Wealth Management",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T13:49:30.653089+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.543315+00:00",
+  "paths": {
+    "article": "articles/v1/d4/evercore-inc-class-a-common-stock/2026/07/e6/e6fd1dfc9459ac3d62fac9bcc103728c300cc379a8b680c83f1be12a690ab7a9/article.md",
+    "record": "articles/v1/d4/evercore-inc-class-a-common-stock/2026/07/e6/e6fd1dfc9459ac3d62fac9bcc103728c300cc379a8b680c83f1be12a690ab7a9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1605,
+    "sha256": "sha256:c2e93f2ada10f1b938ba8bf23a884383615d7488e516730d8a50c2762a0c0692",
+    "normalized_content_hash": "sha256:9a399f67417e25751d882ea279bc2525ec81b75967d2565ab420afc4f8ea43ef"
+  },
+  "provenance": {
+    "source_item_id": "7c0b769e-c12e-4a38-9d5f-6d3823db07fc",
+    "external_id": "https://evercorewealthandtrust.com/news/sean-brady-promoted-partner/"
+  }
+}

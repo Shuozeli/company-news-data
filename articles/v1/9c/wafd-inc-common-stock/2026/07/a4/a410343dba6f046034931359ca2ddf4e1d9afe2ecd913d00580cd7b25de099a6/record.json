@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a410343dba6f046034931359ca2ddf4e1d9afe2ecd913d00580cd7b25de099a6",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/small-business",
+    "canonical": "https://www.wafdbank.com/articles/small-business"
+  },
+  "title": "Small Business Banking - Resources & Tips | WaFd Bank",
+  "summary": "Explore expert insights on business banking, lending, marketing, SBA loans, and startup growth. Learn how WaFd Bank helps small businesses thrive.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T23:37:32.572003+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:42:03.714064+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/a4/a410343dba6f046034931359ca2ddf4e1d9afe2ecd913d00580cd7b25de099a6/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/a4/a410343dba6f046034931359ca2ddf4e1d9afe2ecd913d00580cd7b25de099a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1891,
+    "sha256": "sha256:2bb67a9f2887b9c7338f02c65add42b5e9f85c9f314c39be49d3a6a65908d01b",
+    "normalized_content_hash": "sha256:b9bf1f2b8474c94408396f702491179e8b86ed2b9926523be16f4674da1b462a"
+  },
+  "provenance": {
+    "source_item_id": "5651efd6-7edf-45dd-9441-b60631abb4b7",
+    "external_id": "https://www.wafdbank.com/articles/small-business"
+  }
+}

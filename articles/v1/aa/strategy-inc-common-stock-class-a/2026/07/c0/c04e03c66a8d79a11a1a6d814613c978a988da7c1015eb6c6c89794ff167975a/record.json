@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c04e03c66a8d79a11a1a6d814613c978a988da7c1015eb6c6c89794ff167975a",
+  "company": {
+    "key": "strategy-inc-common-stock-class-a",
+    "name": "Strategy Inc Common Stock Class A"
+  },
+  "source": {
+    "id": "strategy-inc-common-stock-class-a-news-import-7844395447f9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.strategy.com/press/strategy-initiates-strc-repurchases-and-announces-ongoing-buyback-policy_07-27-2026",
+    "canonical": "https://www.strategy.com/press/strategy-initiates-strc-repurchases-and-announces-ongoing-buyback-policy_07-27-2026"
+  },
+  "title": "Strategy Initiates STRC Repurchases and Announces Ongoing Buyback Policy",
+  "summary": "July 27, 2026",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T15:34:53.861283+00:00",
+  "fetched_at": "2026-07-27T15:34:51.669202+00:00",
+  "last_updated_at": "2026-07-27T15:34:53.861283+00:00",
+  "paths": {
+    "article": "articles/v1/aa/strategy-inc-common-stock-class-a/2026/07/c0/c04e03c66a8d79a11a1a6d814613c978a988da7c1015eb6c6c89794ff167975a/article.md",
+    "record": "articles/v1/aa/strategy-inc-common-stock-class-a/2026/07/c0/c04e03c66a8d79a11a1a6d814613c978a988da7c1015eb6c6c89794ff167975a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10422,
+    "sha256": "sha256:4f0221eda7f9862145ec4a0465368131b89044c65027727147d130a526f67d57",
+    "normalized_content_hash": "sha256:d7c2d36573f86385b929214aaa5a0426090cffbc2a856edb555c2688591c7864"
+  },
+  "provenance": {
+    "source_item_id": "7b1b45bd-17ff-4934-84cb-63d02da73a05",
+    "external_id": "https://www.strategy.com/press/strategy-initiates-strc-repurchases-and-announces-ongoing-buyback-policy_07-27-2026"
+  }
+}

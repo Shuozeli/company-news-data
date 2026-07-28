@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ded1c0b1337a9ee84e0fa275e01b0a7393a397e13252bceb78f7f4ceba9a81cd",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/aws/anthropic-claude-4-opus-sonnet-amazon-bedrock",
+    "canonical": "https://www.aboutamazon.com/news/aws/anthropic-claude-4-opus-sonnet-amazon-bedrock"
+  },
+  "title": "Claude Opus 5 now available on AWS",
+  "summary": "Anthropic's most advanced Opus model delivers top-tier intelligence for agentic coding and knowledge work—now available on Amazon Bedrock and Claude Platform on AWS.",
+  "published_at": "2025-05-22T19:53:30.455+00:00",
+  "first_seen_at": "2026-07-21T06:14:35.460263+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:49.634578+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2025/05/de/ded1c0b1337a9ee84e0fa275e01b0a7393a397e13252bceb78f7f4ceba9a81cd/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2025/05/de/ded1c0b1337a9ee84e0fa275e01b0a7393a397e13252bceb78f7f4ceba9a81cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5251,
+    "sha256": "sha256:4de1208b107e395810e814474b062799987947b79f9444b35c37af398ba1458f",
+    "normalized_content_hash": "sha256:669dca8412af65b0a19baf47c632eca6083e563f9638fc61d3af85f68cee78a2"
+  },
+  "provenance": {
+    "source_item_id": "653332b3-dcba-4a94-a0e3-f294b63f3f73",
+    "external_id": "https://www.aboutamazon.com/news/aws/anthropic-claude-4-opus-sonnet-amazon-bedrock"
+  }
+}

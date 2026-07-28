@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbe8a89f4bddff49d03c37096898ceb39f5b32493405bf4871320f5df402114c",
+  "company": {
+    "key": "sinclair-inc-class-a-common-stock",
+    "name": "Sinclair Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "sinclair-inc-class-a-common-stock-news-import-000242773839",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sbgi.net/news/connect-to-congress/",
+    "canonical": "https://sbgi.net/news/connect-to-congress/"
+  },
+  "title": "Connect to Congress - Legislators Speak Directly to Constituents in Local Markets - Sinclair Broadcast Group",
+  "summary": "",
+  "published_at": "2022-08-17T16:41:29+00:00",
+  "first_seen_at": "2026-07-22T13:36:46.781070+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.340874+00:00",
+  "paths": {
+    "article": "articles/v1/58/sinclair-inc-class-a-common-stock/2022/08/bb/bbe8a89f4bddff49d03c37096898ceb39f5b32493405bf4871320f5df402114c/article.md",
+    "record": "articles/v1/58/sinclair-inc-class-a-common-stock/2022/08/bb/bbe8a89f4bddff49d03c37096898ceb39f5b32493405bf4871320f5df402114c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1134,
+    "sha256": "sha256:ec1142c863fc70b4af5274d3f22a51b12978d22773216fd7a3f1914f7b5f5c71",
+    "normalized_content_hash": "sha256:196c77e3dbdaeaf4381054d5201872af2eb698ee0c9275df4a280d029d83b64d"
+  },
+  "provenance": {
+    "source_item_id": "76cd8120-1459-4a22-8d55-c74504bf62a7",
+    "external_id": "https://sbgi.net/news/connect-to-congress/"
+  }
+}

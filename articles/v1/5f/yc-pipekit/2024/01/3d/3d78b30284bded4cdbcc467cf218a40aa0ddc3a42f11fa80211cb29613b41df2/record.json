@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3d78b30284bded4cdbcc467cf218a40aa0ddc3a42f11fa80211cb29613b41df2",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/artifacts-management-at-scale-for-ci-and-data-processing-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/artifacts-management-at-scale-for-ci-and-data-processing-workflows"
+  },
+  "title": "Artifacts Management at Scale for CI and Data Processing Workflows",
+  "summary": "Discover the different types of artifacts, the persistence of data, how to choose the right storage type, and how to configure artifact management in this talk from ArgoCon Europe.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.131507+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/3d/3d78b30284bded4cdbcc467cf218a40aa0ddc3a42f11fa80211cb29613b41df2/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/3d/3d78b30284bded4cdbcc467cf218a40aa0ddc3a42f11fa80211cb29613b41df2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9003,
+    "sha256": "sha256:599387b1c4946a792f6750e930945ee37da1e99adea63a43e92d80f9750e2320",
+    "normalized_content_hash": "sha256:cb2b1ae8dde505931e59cd3b0538ff6406209e55ce581a3d0b594cc004109adf"
+  },
+  "provenance": {
+    "source_item_id": "3fe9d8ed-3bd9-406c-9c1a-ec0ecf3f5260",
+    "external_id": "https://homepage.pipekit.io/blog/artifacts-management-at-scale-for-ci-and-data-processing-workflows"
+  }
+}

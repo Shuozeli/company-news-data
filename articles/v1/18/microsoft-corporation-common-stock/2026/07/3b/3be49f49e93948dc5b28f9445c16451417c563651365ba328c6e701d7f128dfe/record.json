@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3be49f49e93948dc5b28f9445c16451417c563651365ba328c6e701d7f128dfe",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation Common Stock"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-865bfd380f75",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/",
+    "canonical": "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/"
+  },
+  "title": "New AI-powered library lets people meet Theodore Roosevelt in a whole new way",
+  "summary": "The new Theodore Roosevelt Presidential Library uses AI to transform hundreds of thousands of historical documents into interactive experiences, including a digital research tool and a lifelike Roosevelt avatar.",
+  "published_at": "2026-07-01T14:56:35+00:00",
+  "first_seen_at": "2026-07-21T16:11:46.582459+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:04.323563+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/07/3b/3be49f49e93948dc5b28f9445c16451417c563651365ba328c6e701d7f128dfe/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/07/3b/3be49f49e93948dc5b28f9445c16451417c563651365ba328c6e701d7f128dfe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6405,
+    "sha256": "sha256:e75ea1a2951ad080b05d978e17618cd5aa526ada8d2d40655539bc3c0e8f5e7b",
+    "normalized_content_hash": "sha256:ca79088bb86f2fa1f66427fa3d9b1edf27b6ceedc9962e706e2043b47dec770e"
+  },
+  "provenance": {
+    "source_item_id": "c25b5bf1-2a82-40d5-b097-c011f88c3efb",
+    "external_id": "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/"
+  }
+}

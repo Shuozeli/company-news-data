@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6cee206dcd00921e39e927f429b9fae371d37ebbc3793d65403808c0e57b212",
+  "company": {
+    "key": "yc-dex",
+    "name": "Dex"
+  },
+  "source": {
+    "id": "yc-dex-news-import-b1dc2c550f25",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getdex.com/blog/networking-for-mba-students/",
+    "canonical": "https://getdex.com/blog/networking-for-mba-students/"
+  },
+  "title": "Guide: Networking for MBA Students",
+  "summary": "Strategic networking during your MBA isn't just about business cards; it's about laying the groundwork for the future.",
+  "published_at": "2023-08-25T18:36:06+00:00",
+  "first_seen_at": "2026-07-25T01:37:30.699775+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:35:57.473856+00:00",
+  "paths": {
+    "article": "articles/v1/f6/yc-dex/2023/08/e6/e6cee206dcd00921e39e927f429b9fae371d37ebbc3793d65403808c0e57b212/article.md",
+    "record": "articles/v1/f6/yc-dex/2023/08/e6/e6cee206dcd00921e39e927f429b9fae371d37ebbc3793d65403808c0e57b212/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 49635,
+    "sha256": "sha256:d2caed4bbc0da2a558111151c1e064c58b36ea5ec945c0e9ba3d35a9086d061d",
+    "normalized_content_hash": "sha256:85a25a24eb507bc4d14c8626bbb5c505fb92ccf2a5be6350fe071b7ce89e3b48"
+  },
+  "provenance": {
+    "source_item_id": "40d9ee8b-8faa-466b-98ab-f6592817146d",
+    "external_id": "https://getdex.com/blog/networking-for-mba-students/"
+  }
+}

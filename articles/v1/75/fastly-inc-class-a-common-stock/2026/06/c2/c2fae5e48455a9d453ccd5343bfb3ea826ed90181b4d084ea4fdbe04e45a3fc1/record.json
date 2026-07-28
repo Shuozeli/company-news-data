@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c2fae5e48455a9d453ccd5343bfb3ea826ed90181b4d084ea4fdbe04e45a3fc1",
+  "company": {
+    "key": "fastly-inc-class-a-common-stock",
+    "name": "Fastly Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "fastly-inc-class-a-common-stock-rss-83c7761b19d9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.fastly.com/blog/how-fastly-skyfire-enable-trusted-agentic-commerce-at-the-edge/",
+    "canonical": "https://www.fastly.com/blog/how-fastly-skyfire-enable-trusted-agentic-commerce-at-the-edge/"
+  },
+  "title": "How Fastly and Skyfire Enable Trusted Agentic Commerce at the Edge",
+  "summary": "Discover how Fastly and Skyfire help businesses verify AI agents, enable payments, and enforce trusted access at the edge.",
+  "published_at": "2026-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:23.235793+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-07-28T21:12:51.614331+00:00",
+  "paths": {
+    "article": "articles/v1/75/fastly-inc-class-a-common-stock/2026/06/c2/c2fae5e48455a9d453ccd5343bfb3ea826ed90181b4d084ea4fdbe04e45a3fc1/article.md",
+    "record": "articles/v1/75/fastly-inc-class-a-common-stock/2026/06/c2/c2fae5e48455a9d453ccd5343bfb3ea826ed90181b4d084ea4fdbe04e45a3fc1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7251,
+    "sha256": "sha256:ce9652c21b33eeefd850ded04e29a16d12598bae0ad95bd53c3c135b92dc9bef",
+    "normalized_content_hash": "sha256:bf5cb186380569a6ca98c5b3b9df851cb89a38af04d26d690ceb6045081909f4"
+  },
+  "provenance": {
+    "source_item_id": "01c117c0-b171-4b0f-93c5-c5cc3a265495",
+    "external_id": "https://www.fastly.com/blog/how-fastly-skyfire-enable-trusted-agentic-commerce-at-the-edge/"
+  }
+}

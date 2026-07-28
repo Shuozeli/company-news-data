@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb403c7798af17b946441e01f7429ca21e55d6d2e96974487ab98fa7a0c7ae50",
+  "company": {
+    "key": "entergy-corporation-common-stock",
+    "name": "Entergy Corporation Common Stock"
+  },
+  "source": {
+    "id": "entergy-corporation-common-stock-news-import-7a9a94de3de4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.entergy.com/news/entergy-texas-awarded-200-million-to-better-protect-the-southeast-texas-power-grid-from-severe-weather",
+    "canonical": "https://www.entergy.com/news/entergy-texas-awarded-200-million-to-better-protect-the-southeast-texas-power-grid-from-severe-weather"
+  },
+  "title": "Entergy Texas to protect the power grid from severe weather",
+  "summary": "Entergy Texas awarded ~$200 million to better protect the Southeast Texas power grid from severe weather",
+  "published_at": "2026-06-15T20:43:05+00:00",
+  "first_seen_at": "2026-07-25T03:00:12.636026+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-07-28T21:43:24.304556+00:00",
+  "paths": {
+    "article": "articles/v1/a4/entergy-corporation-common-stock/2026/06/bb/bb403c7798af17b946441e01f7429ca21e55d6d2e96974487ab98fa7a0c7ae50/article.md",
+    "record": "articles/v1/a4/entergy-corporation-common-stock/2026/06/bb/bb403c7798af17b946441e01f7429ca21e55d6d2e96974487ab98fa7a0c7ae50/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5153,
+    "sha256": "sha256:2e4ed666a019e69843900eb00fd69f000ad172b3485c6e818d8e7699d6347341",
+    "normalized_content_hash": "sha256:a14e120bb6aa5d1bd1e359f958ea34624a401ab73e0a9bd8bff0c9efb9d75da4"
+  },
+  "provenance": {
+    "source_item_id": "683d1320-1151-4269-a1cf-94e36fe56ed8",
+    "external_id": "https://www.entergy.com/news/entergy-texas-awarded-200-million-to-better-protect-the-southeast-texas-power-grid-from-severe-weather"
+  }
+}

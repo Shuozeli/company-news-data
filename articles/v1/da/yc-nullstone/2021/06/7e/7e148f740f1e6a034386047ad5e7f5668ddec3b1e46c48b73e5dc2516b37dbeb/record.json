@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e148f740f1e6a034386047ad5e7f5668ddec3b1e46c48b73e5dc2516b37dbeb",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-8892e125c773",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nullstone.io/blog-posts/phase2-growth",
+    "canonical": "https://nullstone.io/blog-posts/phase2-growth"
+  },
+  "title": "Application Infrastructure: Navigating the Growth Phase",
+  "summary": "Moving from an idea-stage startup to the growth-stage brings different challenges. In this article, we highlight the challenges and discuss Nullstone as a solution.",
+  "published_at": "2021-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:17:35.365256+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:27.716091+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2021/06/7e/7e148f740f1e6a034386047ad5e7f5668ddec3b1e46c48b73e5dc2516b37dbeb/article.md",
+    "record": "articles/v1/da/yc-nullstone/2021/06/7e/7e148f740f1e6a034386047ad5e7f5668ddec3b1e46c48b73e5dc2516b37dbeb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7980,
+    "sha256": "sha256:76f729409b29f42c6b69777116db73f326b2690a3d3e67e305f2f496657a49ff",
+    "normalized_content_hash": "sha256:0ea78f0e173a91f038659b832946797e681ede8d1e199cdbc3d4205447d47e5e"
+  },
+  "provenance": {
+    "source_item_id": "d04d0b09-fa17-4ae8-8df3-0be52aeacfb1",
+    "external_id": "https://nullstone.io/blog-posts/phase2-growth"
+  }
+}

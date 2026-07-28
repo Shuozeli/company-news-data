@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8fc5219b6918958d0723940e7091af1a40c28426e10739c0bfd1e4e04ff6e750",
+  "company": {
+    "key": "old-national-bancorp-common-stock",
+    "name": "Old National Bancorp Common Stock"
+  },
+  "source": {
+    "id": "old-national-bancorp-common-stock-news-import-a0046f23c9ee",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.oldnational.com/resources/insights/how-old-national-bank-invests-13-6m-in-the-midwest-southeast-communities-we-call-home/",
+    "canonical": "https://www.oldnational.com/resources/insights/how-old-national-bank-invests-13-6m-in-the-midwest-southeast-communities-we-call-home/"
+  },
+  "title": "How Old National Bank Invests $13.6M in the Midwest, Southeast Communities We Call Home",
+  "summary": "At Old National Bank, community investment is more than a commitment, it is a responsibility. Across the Midwest and Southeast, Old National",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:07:17.538546+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:12.497986+00:00",
+  "paths": {
+    "article": "articles/v1/30/old-national-bancorp-common-stock/2026/07/8f/8fc5219b6918958d0723940e7091af1a40c28426e10739c0bfd1e4e04ff6e750/article.md",
+    "record": "articles/v1/30/old-national-bancorp-common-stock/2026/07/8f/8fc5219b6918958d0723940e7091af1a40c28426e10739c0bfd1e4e04ff6e750/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4297,
+    "sha256": "sha256:a52572d99c0998f8ba34edf12824e55bc72ee347dc0e18e3df8442a50c997786",
+    "normalized_content_hash": "sha256:ee03c9a94bbc214b702347790b627787afdb58723a6b7c1e49f4acc1f7fde19c"
+  },
+  "provenance": {
+    "source_item_id": "20931e3e-ad14-4941-b48a-4e37a29dee5f",
+    "external_id": "https://www.oldnational.com/resources/insights/how-old-national-bank-invests-13-6m-in-the-midwest-southeast-communities-we-call-home/"
+  }
+}

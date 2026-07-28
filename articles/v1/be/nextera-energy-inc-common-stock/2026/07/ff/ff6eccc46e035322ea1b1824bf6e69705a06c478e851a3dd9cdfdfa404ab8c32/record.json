@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff6eccc46e035322ea1b1824bf6e69705a06c478e851a3dd9cdfdfa404ab8c32",
+  "company": {
+    "key": "nextera-energy-inc-common-stock",
+    "name": "NextEra Energy Inc. Common Stock"
+  },
+  "source": {
+    "id": "nextera-energy-inc-common-stock-news-import-8162e4e0df43",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://newsroom.nexteraenergy.com/The-Sher-sisters-share-a-charge-in-the-energy-industry?l=12",
+    "canonical": "https://newsroom.nexteraenergy.com/The-Sher-sisters-share-a-charge-in-the-energy-industry"
+  },
+  "title": "The Sher sisters share a charge in the energy industry",
+  "summary": "Separated by miles but united by purpose, sisters Lauren and Rebecca Sher are building meaningful careers at NextEra Energy Resources while inspiring each other every step of the way.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T16:56:50.585655+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:28.259503+00:00",
+  "paths": {
+    "article": "articles/v1/be/nextera-energy-inc-common-stock/2026/07/ff/ff6eccc46e035322ea1b1824bf6e69705a06c478e851a3dd9cdfdfa404ab8c32/article.md",
+    "record": "articles/v1/be/nextera-energy-inc-common-stock/2026/07/ff/ff6eccc46e035322ea1b1824bf6e69705a06c478e851a3dd9cdfdfa404ab8c32/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4629,
+    "sha256": "sha256:a25641071bee4f523839b2d3f3abe5c86cb42fc9df7d93206ee71b8424df2cb7",
+    "normalized_content_hash": "sha256:f6fd1d0e94c545fe138405fc92b0ea82d15badc7cb57bb24426324be5abccc7a"
+  },
+  "provenance": {
+    "source_item_id": "08f7a7d7-8fe2-43b6-b167-ccedfdc9fdca",
+    "external_id": "https://newsroom.nexteraenergy.com/The-Sher-sisters-share-a-charge-in-the-energy-industry?l=12"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a8f051edc3b555050a980718f676975c04026835556d975e79c4874d342327eb",
+  "company": {
+    "key": "bloomin-brands-inc-common-stock",
+    "name": "Bloomin' Brands Inc. Common Stock"
+  },
+  "source": {
+    "id": "bloomin-brands-inc-common-stock-news-import-7368c80ac451",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bloominbrands.com/newsroom/news-releases/news-release/bloomin-brands-announces-leadership-changes",
+    "canonical": "https://www.bloominbrands.com/newsroom/news-releases/news-release/bloomin-brands-announces-leadership-changes"
+  },
+  "title": "Bloomin’ Brands Announces Leadership Changes",
+  "summary": "",
+  "published_at": "2025-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:48:00.320591+00:00",
+  "fetched_at": "2026-07-27T16:42:21.600685+00:00",
+  "last_updated_at": "2026-07-27T16:42:30.133315+00:00",
+  "paths": {
+    "article": "articles/v1/ed/bloomin-brands-inc-common-stock/2025/08/a8/a8f051edc3b555050a980718f676975c04026835556d975e79c4874d342327eb/article.md",
+    "record": "articles/v1/ed/bloomin-brands-inc-common-stock/2025/08/a8/a8f051edc3b555050a980718f676975c04026835556d975e79c4874d342327eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9311,
+    "sha256": "sha256:0fb5b1c528dc1da497ef7db30806f224215757cf50d2dd12a009aa0837aac4c0",
+    "normalized_content_hash": "sha256:f70fb4172efa88e55b1841447a258c7e6a632f16908497559f082b00c3cb7950"
+  },
+  "provenance": {
+    "source_item_id": "a98bfa17-14c4-4f5b-8c9e-16480c7d92aa",
+    "external_id": "https://www.bloominbrands.com/newsroom/news-releases/news-release/bloomin-brands-announces-leadership-changes"
+  }
+}

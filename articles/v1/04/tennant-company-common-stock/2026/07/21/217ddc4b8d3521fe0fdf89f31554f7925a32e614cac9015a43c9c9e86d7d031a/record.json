@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "217ddc4b8d3521fe0fdf89f31554f7925a32e614cac9015a43c9c9e86d7d031a",
+  "company": {
+    "key": "tennant-company-common-stock",
+    "name": "Tennant Company Common Stock"
+  },
+  "source": {
+    "id": "tennant-company-common-stock-news-import-ac7daaf2453d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tennantco.com/en_us/blog/custodians-are-key-winner-2024.html",
+    "canonical": "https://www.tennantco.com/en_us/blog/custodians-are-key-winner-2024.html"
+  },
+  "title": "Tennant’s 5th Annual Custodians are Key Contest | Tennant Blog",
+  "summary": "Read about Tennant’s 5th annual Custodians are Key contest winner and his impact on his school and community.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T02:41:35.743463+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:55.876476+00:00",
+  "paths": {
+    "article": "articles/v1/04/tennant-company-common-stock/2026/07/21/217ddc4b8d3521fe0fdf89f31554f7925a32e614cac9015a43c9c9e86d7d031a/article.md",
+    "record": "articles/v1/04/tennant-company-common-stock/2026/07/21/217ddc4b8d3521fe0fdf89f31554f7925a32e614cac9015a43c9c9e86d7d031a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6103,
+    "sha256": "sha256:6c6f3f3425a34937c1304a51de5e6ba45c22b520285ed601eebdfb9e1d878a89",
+    "normalized_content_hash": "sha256:c07486ae181b076c926b415f0f9b40baf0a32df153f4bcbb3378c771abbe0b9d"
+  },
+  "provenance": {
+    "source_item_id": "8ccbc6bc-28e4-4194-9d2e-b1309f29c43c",
+    "external_id": "https://www.tennantco.com/en_us/blog/custodians-are-key-winner-2024.html"
+  }
+}

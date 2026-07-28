@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65c2eb552a83751aa89ca2b08d2c3dad998158936686b4c66005d9992b633c20",
+  "company": {
+    "key": "re-max-holdings-inc-class-a-common-stock",
+    "name": "RE/MAX Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "re-max-holdings-inc-class-a-common-stock-news-import-1d5455dae528",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.remax.com/remax-agent-prepares-for-golfs-biggest-tournament",
+    "canonical": "https://news.remax.com/remax-agent-prepares-for-golfs-biggest-tournament"
+  },
+  "title": "REMAX Agent Prepares for Golf’s Biggest Tournament",
+  "summary": "Agent Brandon Holtz heads to Augusta, balancing his business and his golf game",
+  "published_at": "2026-04-02T22:15:11+00:00",
+  "first_seen_at": "2026-07-25T21:01:10.315183+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-07-28T21:57:31.924128+00:00",
+  "paths": {
+    "article": "articles/v1/8b/re-max-holdings-inc-class-a-common-stock/2026/04/65/65c2eb552a83751aa89ca2b08d2c3dad998158936686b4c66005d9992b633c20/article.md",
+    "record": "articles/v1/8b/re-max-holdings-inc-class-a-common-stock/2026/04/65/65c2eb552a83751aa89ca2b08d2c3dad998158936686b4c66005d9992b633c20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5294,
+    "sha256": "sha256:9cba501510e12b6c2a8516b6d721d5191fc6f5e7cbb9d5c8572103c48f10428d",
+    "normalized_content_hash": "sha256:23bccc3fc058c709d282b36a989dccd3dffc4cf110e4d8c95e5c84d37f043e11"
+  },
+  "provenance": {
+    "source_item_id": "e2a32a12-963f-4607-a287-0443fe9dafb4",
+    "external_id": "https://news.remax.com/remax-agent-prepares-for-golfs-biggest-tournament"
+  }
+}

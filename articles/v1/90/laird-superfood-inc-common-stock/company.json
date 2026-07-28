@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "laird-superfood-inc-common-stock",
+    "name": "Laird Superfood Inc. Common Stock"
+  },
+  "record_count": 60,
+  "first_published_at": "2025-02-14T21:50:24+00:00",
+  "last_published_at": "2026-01-08T17:32:45+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 14
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 13
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    }
+  ]
+}

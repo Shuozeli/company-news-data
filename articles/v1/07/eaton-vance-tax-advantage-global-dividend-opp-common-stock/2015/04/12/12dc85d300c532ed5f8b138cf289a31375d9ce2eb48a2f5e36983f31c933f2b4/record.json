@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12dc85d300c532ed5f8b138cf289a31375d9ce2eb48a2f5e36983f31c933f2b4",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/us-midcap-divid-fd-wisdomtree-trust-nyse-don-declared-a-dividend-of-$0.0950-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/us-midcap-divid-fd-wisdomtree-trust-nyse-don-declared-a-dividend-of-$0.0950-per-share/"
+  },
+  "title": "DON Dividend Announcement $0.0950/Share 7/27/2026",
+  "summary": "NYSE:DON US MidCap Divid Fd/WisdomTree Trust Dividend Announcement $0.0950 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.153450+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/12/12dc85d300c532ed5f8b138cf289a31375d9ce2eb48a2f5e36983f31c933f2b4/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/12/12dc85d300c532ed5f8b138cf289a31375d9ce2eb48a2f5e36983f31c933f2b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2345,
+    "sha256": "sha256:e86e47fe8c0bfef191c0413959c111e3ff8dbcc6812fc7955d7250118f908293",
+    "normalized_content_hash": "sha256:1fc539a84677332e23f7204468ed2092d54e1360ccf5b38d6f588fa95144334a"
+  },
+  "provenance": {
+    "source_item_id": "986cca87-06ac-48f6-be3b-001bf4a6db38",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/us-midcap-divid-fd-wisdomtree-trust-nyse-don-declared-a-dividend-of-$0.0950-per-share/"
+  }
+}

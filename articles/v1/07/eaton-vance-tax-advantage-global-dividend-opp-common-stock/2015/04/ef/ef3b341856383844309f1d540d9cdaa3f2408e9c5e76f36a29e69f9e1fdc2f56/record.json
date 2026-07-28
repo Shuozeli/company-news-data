@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef3b341856383844309f1d540d9cdaa3f2408e9c5e76f36a29e69f9e1fdc2f56",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/simplify-opportunistic-income-etf-simplify-exchange-traded-funds-nyse-crdt-declared-a-dividend-of-$0.1000-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/simplify-opportunistic-income-etf-simplify-exchange-traded-funds-nyse-crdt-declared-a-dividend-of-$0.1000-per-share/"
+  },
+  "title": "CRDT Dividend Announcement $0.1000/Share 7/27/2026",
+  "summary": "NYSE:CRDT Simplify Opportunistic Income ETF/Simplify Exchange Traded Funds Dividend Announcement $0.1000 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.129786+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/ef/ef3b341856383844309f1d540d9cdaa3f2408e9c5e76f36a29e69f9e1fdc2f56/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/ef/ef3b341856383844309f1d540d9cdaa3f2408e9c5e76f36a29e69f9e1fdc2f56/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1620,
+    "sha256": "sha256:9b2d11c37cc3ea08f860f3c5296cbde33ad9a7229d37903abaf9d4068ac5b0f1",
+    "normalized_content_hash": "sha256:a9887af469d1b4ebe1b64fb1517664ce6ebe48cef713f8a6b5aadf0177e0793a"
+  },
+  "provenance": {
+    "source_item_id": "60ef268c-45e3-427f-aad4-7803c461d8ae",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/simplify-opportunistic-income-etf-simplify-exchange-traded-funds-nyse-crdt-declared-a-dividend-of-$0.1000-per-share/"
+  }
+}

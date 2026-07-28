@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "347821223d71b24cf777a34b09d8f56f1944f8b15e39528c4e54b79fbebf88c7",
+  "company": {
+    "key": "hormel-foods-corporation-common-stock",
+    "name": "Hormel Foods Corporation Common Stock"
+  },
+  "source": {
+    "id": "hormel-foods-corporation-common-stock-news-import-0faa90d40874",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-corporation-declares-quarterly-dividend-53/",
+    "canonical": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-corporation-declares-quarterly-dividend-53/"
+  },
+  "title": "Hormel Foods announced its quarterly dividend on the common stock, authorized by the Board of Directors at 29.25 cents ($0.2925) a share on…",
+  "summary": "Hormel Foods announced its quarterly dividend on the common stock, authorized by the Board of Directors at 29.25 cents ($0.2925) a share on May 18, 2026, will be paid August 17, 2026, to stockholders of record at the close of business on July 13, 2026.",
+  "published_at": "2026-05-19T00:03:52+00:00",
+  "first_seen_at": "2026-07-21T23:11:51.811758+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-07-28T21:45:26.930154+00:00",
+  "paths": {
+    "article": "articles/v1/47/hormel-foods-corporation-common-stock/2026/05/34/347821223d71b24cf777a34b09d8f56f1944f8b15e39528c4e54b79fbebf88c7/article.md",
+    "record": "articles/v1/47/hormel-foods-corporation-common-stock/2026/05/34/347821223d71b24cf777a34b09d8f56f1944f8b15e39528c4e54b79fbebf88c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2475,
+    "sha256": "sha256:29364b4ede84a2993782bfffcf8aeb26f593978a366db396bc210d4be79b0e40",
+    "normalized_content_hash": "sha256:4034bbb1ade7aadb32077ababb804d60c916c53acddf4162217ce86cd0d1c155"
+  },
+  "provenance": {
+    "source_item_id": "cf29fde6-ebbb-4f67-8a5e-c16c02ab4e1e",
+    "external_id": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-corporation-declares-quarterly-dividend-53/"
+  }
+}

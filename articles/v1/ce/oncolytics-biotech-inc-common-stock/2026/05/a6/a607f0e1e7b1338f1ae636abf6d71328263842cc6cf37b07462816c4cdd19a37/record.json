@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a607f0e1e7b1338f1ae636abf6d71328263842cc6cf37b07462816c4cdd19a37",
+  "company": {
+    "key": "oncolytics-biotech-inc-common-stock",
+    "name": "Oncolytics Biotech Inc. Common Stock"
+  },
+  "source": {
+    "id": "oncolytics-biotech-inc-common-stock-news-import-9522787e6dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2026/05/04/3286772/0/en/oncolytics-biotech-reports-durable-responses-in-second-line-ras-mutant-mss-colorectal-cancer.html",
+    "canonical": "https://www.globenewswire.com/news-release/2026/05/04/3286772/0/en/oncolytics-biotech-reports-durable-responses-in-second-line-ras-mutant-mss-colorectal-cancer.html"
+  },
+  "title": "Oncolytics Biotech® Reports Durable Responses in Second-Line RAS-Mutant MSS Colorectal Cancer",
+  "summary": "Oncolytics announced new data in metastatic colorectal cancer, demonstrating 3-4x improvement in duration response vs. historical 4-6 month benchmark....",
+  "published_at": "2026-05-04T13:00:00+00:00",
+  "first_seen_at": "2026-07-23T19:02:14.714350+00:00",
+  "fetched_at": "2026-07-28T21:46:34.244883+00:00",
+  "last_updated_at": "2026-07-28T21:56:32.390945+00:00",
+  "paths": {
+    "article": "articles/v1/ce/oncolytics-biotech-inc-common-stock/2026/05/a6/a607f0e1e7b1338f1ae636abf6d71328263842cc6cf37b07462816c4cdd19a37/article.md",
+    "record": "articles/v1/ce/oncolytics-biotech-inc-common-stock/2026/05/a6/a607f0e1e7b1338f1ae636abf6d71328263842cc6cf37b07462816c4cdd19a37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7887,
+    "sha256": "sha256:983313c89e053e1c19b8d36eecdaa77b8b620b58eced144052e4571b7ff9f153",
+    "normalized_content_hash": "sha256:1410b61454da011ee76df589c57942e28a31a2aab8c0962226bfb9ff528bdff1"
+  },
+  "provenance": {
+    "source_item_id": "2eb70cac-c1cf-423f-bbee-759e1e8408ac",
+    "external_id": "https://www.globenewswire.com/news-release/2026/05/04/3286772/0/en/oncolytics-biotech-reports-durable-responses-in-second-line-ras-mutant-mss-colorectal-cancer.html"
+  }
+}

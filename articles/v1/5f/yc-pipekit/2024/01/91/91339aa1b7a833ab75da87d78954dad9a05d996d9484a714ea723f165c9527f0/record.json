@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "91339aa1b7a833ab75da87d78954dad9a05d996d9484a714ea723f165c9527f0",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/why-teams-use-argo-workflows-to-run-cloud-native-spark-jobs",
+    "canonical": "https://homepage.pipekit.io/blog/why-teams-use-argo-workflows-to-run-cloud-native-spark-jobs"
+  },
+  "title": "Why teams use Argo Workflows to run cloud-native Spark jobs",
+  "summary": "Explore the advantages of using Argo Workflows to run, manage, and scale Spark jobs on Kubernetes from our ArgoCon talk, then watch the full recording and demo.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.356168+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/91/91339aa1b7a833ab75da87d78954dad9a05d996d9484a714ea723f165c9527f0/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/91/91339aa1b7a833ab75da87d78954dad9a05d996d9484a714ea723f165c9527f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8577,
+    "sha256": "sha256:a06fbf0411981d7a949d4ffb2d624e38c2c8820108134a34c2535238e8b88c50",
+    "normalized_content_hash": "sha256:2c8c217a72adccad3f437ae52894ff9a409de34ed7ae2459af4e3bec2dc14c8f"
+  },
+  "provenance": {
+    "source_item_id": "38d3cabf-c251-4ab4-ae2f-11b538a8ef25",
+    "external_id": "https://homepage.pipekit.io/blog/why-teams-use-argo-workflows-to-run-cloud-native-spark-jobs"
+  }
+}

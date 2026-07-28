@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d6ae2d93e0374a53b91a5ec9bc91840a7ce6d1940101dfef5322e86d6f84ffe",
+  "company": {
+    "key": "yc-coval",
+    "name": "Coval"
+  },
+  "source": {
+    "id": "yc-coval-news-import-66f2770dd546",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coval.ai/blog/coval-series-a",
+    "canonical": "https://www.coval.ai/blog/coval-series-a/"
+  },
+  "title": "Coval Raises $28M Series A to Make Voice AI Reliable in Production",
+  "summary": "A letter from founder and CEO Brooke Hopkins on Coval's $28M Series A, led by Norwest, and the mission to make voice AI agents reliable in production.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T15:11:00.592145+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:18.558653+00:00",
+  "paths": {
+    "article": "articles/v1/a0/yc-coval/2026/06/9d/9d6ae2d93e0374a53b91a5ec9bc91840a7ce6d1940101dfef5322e86d6f84ffe/article.md",
+    "record": "articles/v1/a0/yc-coval/2026/06/9d/9d6ae2d93e0374a53b91a5ec9bc91840a7ce6d1940101dfef5322e86d6f84ffe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4445,
+    "sha256": "sha256:5d3557b2c57ef64c6ecd1ba24e4a8b07179463ee3c1c5739225bc3ae621c3195",
+    "normalized_content_hash": "sha256:d62dce392c0e4c11b9550819b651e173a86a47d6da99745347bcdb777886838c"
+  },
+  "provenance": {
+    "source_item_id": "f23eb58f-fc3e-4b58-827a-5d49360acb8d",
+    "external_id": "https://www.coval.ai/blog/coval-series-a/"
+  }
+}

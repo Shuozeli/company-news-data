@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c72218e4f8a9dcd7ef7e546816b6390d825362e52493b4ef34edc68794c35f9a",
+  "company": {
+    "key": "polaris-inc-common-stock",
+    "name": "Polaris Inc. Common Stock"
+  },
+  "source": {
+    "id": "polaris-inc-common-stock-news-import-7f1d8ac04206",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.polaris.com/en-us/news/company/branden-sims-leads-polaris-podium-57-score-baja-500/",
+    "canonical": "https://www.polaris.com/en-us/news/company/branden-sims-leads-polaris-podium-57-score-baja-500/"
+  },
+  "title": "Polaris Sweeps Baja 500 UTV Overall Podium As Branden Sims Claims Victory",
+  "summary": "Sims Leads All-Polaris Podium, Followed by Wayne Matlock in Second and First-Year RZR Factory Racing Driver Ethan Groom in Third. Polaris Locks Out Top Nine at Baja 500, Including Top Six with RZR Pro R Factory Machines",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T19:29:36.853240+00:00",
+  "fetched_at": "2026-07-26T21:00:35.177543+00:00",
+  "last_updated_at": "2026-07-26T21:00:37.939581+00:00",
+  "paths": {
+    "article": "articles/v1/d4/polaris-inc-common-stock/2026/07/c7/c72218e4f8a9dcd7ef7e546816b6390d825362e52493b4ef34edc68794c35f9a/article.md",
+    "record": "articles/v1/d4/polaris-inc-common-stock/2026/07/c7/c72218e4f8a9dcd7ef7e546816b6390d825362e52493b4ef34edc68794c35f9a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7430,
+    "sha256": "sha256:6764f7f8c5618f93084220f542b1ae5db1673770e5986ecf560935ab4447e94f",
+    "normalized_content_hash": "sha256:c19040316152e707fd75395924b2a9e64e584c6159fbda2df85e0c8ba2070c9f"
+  },
+  "provenance": {
+    "source_item_id": "f8787578-e673-44d0-90d8-b604f7f75750",
+    "external_id": "https://www.polaris.com/en-us/news/company/branden-sims-leads-polaris-podium-57-score-baja-500/"
+  }
+}

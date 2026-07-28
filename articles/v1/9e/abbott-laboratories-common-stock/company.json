@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "abbott-laboratories-common-stock",
+    "name": "Abbott Laboratories Common Stock"
+  },
+  "record_count": 6,
+  "first_published_at": "2026-06-08T13:00:00+00:00",
+  "last_published_at": "2026-07-28T12:42:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

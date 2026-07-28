@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "q32-bio-inc-common-stock",
+    "name": "Q32 Bio Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-02-17T11:59:00+00:00",
+  "last_published_at": "2026-07-15T02:58:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd229faa8783771c442511e996d6f2dab093fe2ec136ebcac9345afa8d295e77",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/whats-the-difference-between-todays-cryptography-and-post-quantum-cryptography",
+    "canonical": "https://www.btq.tech/blog/whats-the-difference-between-todays-cryptography-and-post-quantum-cryptography"
+  },
+  "title": "What’s the Difference Between Today’s Cryptography and Post-Quantum Cryptography?",
+  "summary": "Cryptography, or the study of securing our data, is the only reason our digital world expanded as it did. We use cryptographic algorithms to keep our data safe when we are online. But here's the catch - the rise of quantum computing could shake things up and completely destroy online security. Luckily, there’s a solution on the horizon. Post-quantum cryptography (PQC) is the next-gen security scheme built to stand firm against even the most powerful quantum computers. Though today's cryptography",
+  "published_at": "2023-09-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:02.794516+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2023/09/dd/dd229faa8783771c442511e996d6f2dab093fe2ec136ebcac9345afa8d295e77/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2023/09/dd/dd229faa8783771c442511e996d6f2dab093fe2ec136ebcac9345afa8d295e77/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10981,
+    "sha256": "sha256:788eee3217d1309eb10e3ecbb9e9d7053e55728b89a25c90132aa281bf6b6dfb",
+    "normalized_content_hash": "sha256:1861c66ac7a9d68de415110793df069bef02d0265c102861e03754cebb12511d"
+  },
+  "provenance": {
+    "source_item_id": "4878a65b-0aee-4fa7-89e0-8dcb128515e0",
+    "external_id": "https://www.btq.tech/blog/whats-the-difference-between-todays-cryptography-and-post-quantum-cryptography"
+  }
+}

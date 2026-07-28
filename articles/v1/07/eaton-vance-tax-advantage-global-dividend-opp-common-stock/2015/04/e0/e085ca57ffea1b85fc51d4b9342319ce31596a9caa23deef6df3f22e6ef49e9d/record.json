@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e085ca57ffea1b85fc51d4b9342319ce31596a9caa23deef6df3f22e6ef49e9d",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260724/baba-weeklypay-etf-roundhill-etf-trust-bats-babw-declared-a-dividend-of-$0.2246-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260724/baba-weeklypay-etf-roundhill-etf-trust-bats-babw-declared-a-dividend-of-$0.2246-per-share/"
+  },
+  "title": "BABW Dividend Announcement $0.2246/Share 7/24/2026",
+  "summary": "BATS:BABW Baba Weeklypay ETF/Roundhill ETF Trust Dividend Announcement $0.2246 per share on July 24, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-26T13:16:00.264154+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.978605+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/e0/e085ca57ffea1b85fc51d4b9342319ce31596a9caa23deef6df3f22e6ef49e9d/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/e0/e085ca57ffea1b85fc51d4b9342319ce31596a9caa23deef6df3f22e6ef49e9d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1593,
+    "sha256": "sha256:2f0dbfd4ceb608efa2267b6d292019db188bdb039bbf61b3760b6a7e62c81dba",
+    "normalized_content_hash": "sha256:6777e9fd281e7efade97b3ad2df666d66b120d72030e8428d0ebdc9567df20ff"
+  },
+  "provenance": {
+    "source_item_id": "e82891f2-dd61-4fa7-9c8f-4e0a2912d2aa",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260724/baba-weeklypay-etf-roundhill-etf-trust-bats-babw-declared-a-dividend-of-$0.2246-per-share/"
+  }
+}

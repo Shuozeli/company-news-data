@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b413d33f79cbb88c487d7fd13c4a9a12a7ee49bf3da7743c5340c6153da5f4cb",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/ultimate-guide-to-multi-tenant-saas-data-modeling",
+    "canonical": "https://www.flightcontrol.dev/blog/ultimate-guide-to-multi-tenant-saas-data-modeling"
+  },
+  "title": "Ultimate guide to multi-tenant SaaS data modeling",
+  "summary": "You should build “teams” functionality from day one. This guide explains how (and why)",
+  "published_at": "2024-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T22:25:56.029782+00:00",
+  "last_updated_at": "2026-07-28T22:26:16.576834+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2024/05/b4/b413d33f79cbb88c487d7fd13c4a9a12a7ee49bf3da7743c5340c6153da5f4cb/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2024/05/b4/b413d33f79cbb88c487d7fd13c4a9a12a7ee49bf3da7743c5340c6153da5f4cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26478,
+    "sha256": "sha256:5647acc2bb544837a686fe0816bfa736189eeb63c9c7d43cfa9eb92913ac2c78",
+    "normalized_content_hash": "sha256:3f4aa0b0dbae58ce8459a957f181c815e0dbf097c2c1f380bfac1d51907f7a7d"
+  },
+  "provenance": {
+    "source_item_id": "147113bc-e8bd-4ca9-8415-cdc1ec180a7a",
+    "external_id": "https://www.flightcontrol.dev/blog/ultimate-guide-to-multi-tenant-saas-data-modeling"
+  }
+}

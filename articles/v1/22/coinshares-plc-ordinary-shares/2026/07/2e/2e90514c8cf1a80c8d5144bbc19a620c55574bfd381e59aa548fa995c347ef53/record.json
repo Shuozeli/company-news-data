@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e90514c8cf1a80c8d5144bbc19a620c55574bfd381e59aa548fa995c347ef53",
+  "company": {
+    "key": "coinshares-plc-ordinary-shares",
+    "name": "CoinShares PLC Ordinary Shares"
+  },
+  "source": {
+    "id": "coinshares-plc-ordinary-shares-news-import-4e1ad97aaad3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://coinshares.com/insights/knowledge/uniswap-the-fee-machine-at-the-heart-of-robinhoods-new-chain/",
+    "canonical": "https://coinshares.com/insights/knowledge/uniswap-the-fee-machine-at-the-heart-of-robinhoods-new-chain/"
+  },
+  "title": "Uniswap, the fee machine at the heart of Robinhood's new chain",
+  "summary": "Uniswap has generated over $5B in fees, more than any other DeFi protocol. It now powers Robinhood Chain's AMM, turning a public utility into real, measurable protocol revenue for investors.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T14:25:09.378792+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:16.144980+00:00",
+  "paths": {
+    "article": "articles/v1/22/coinshares-plc-ordinary-shares/2026/07/2e/2e90514c8cf1a80c8d5144bbc19a620c55574bfd381e59aa548fa995c347ef53/article.md",
+    "record": "articles/v1/22/coinshares-plc-ordinary-shares/2026/07/2e/2e90514c8cf1a80c8d5144bbc19a620c55574bfd381e59aa548fa995c347ef53/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5273,
+    "sha256": "sha256:5a7c8bd5d6327ed619fdb3363a40f2093ebae34216ff12582502924ae17cbef0",
+    "normalized_content_hash": "sha256:ec287d3e55fc93d67164018d8de355cf0089f5b1519da560eaeaf580641af560"
+  },
+  "provenance": {
+    "source_item_id": "d1be7db0-cf5e-438d-b246-1d7434627fed",
+    "external_id": "https://coinshares.com/insights/knowledge/uniswap-the-fee-machine-at-the-heart-of-robinhoods-new-chain/"
+  }
+}

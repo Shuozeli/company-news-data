@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "turn-therapeutics-inc-common-stock",
+    "name": "Turn Therapeutics Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-10-14T17:56:55+00:00",
+  "last_published_at": "2025-11-12T03:12:04+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 4
+    }
+  ]
+}

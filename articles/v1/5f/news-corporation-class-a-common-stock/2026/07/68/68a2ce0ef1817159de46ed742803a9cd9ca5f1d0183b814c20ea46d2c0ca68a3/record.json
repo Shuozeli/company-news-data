@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68a2ce0ef1817159de46ed742803a9cd9ca5f1d0183b814c20ea46d2c0ca68a3",
+  "company": {
+    "key": "news-corporation-class-a-common-stock",
+    "name": "News Corporation Class A Common Stock"
+  },
+  "source": {
+    "id": "news-corporation-class-a-common-stock-rss-4854b89b29ce",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://newscorp.com/2026/07/21/news-corp-to-report-fiscal-2026-fourth-quarter-and-full-year-earnings/",
+    "canonical": "https://newscorp.com/2026/07/21/news-corp-to-report-fiscal-2026-fourth-quarter-and-full-year-earnings/"
+  },
+  "title": "News Corp to Report Fiscal 2026 Fourth Quarter and Full Year Earnings",
+  "summary": "News Corp to Report Fiscal 2026 Fourth Quarter and Full Year Earnings New York, NY (July 21, 2026) — News Corp will release its fourth quarter and full year Fiscal 2026 results on Wednesday, August 5, 2026. News Corp Chief Executive Robert Thomson and Chief Financial Officer Lavanya Chandrashekar will discuss the results via a […]",
+  "published_at": "2026-07-21T20:15:16+00:00",
+  "first_seen_at": "2026-07-22T17:16:37.796071+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-07-28T21:52:17.779817+00:00",
+  "paths": {
+    "article": "articles/v1/5f/news-corporation-class-a-common-stock/2026/07/68/68a2ce0ef1817159de46ed742803a9cd9ca5f1d0183b814c20ea46d2c0ca68a3/article.md",
+    "record": "articles/v1/5f/news-corporation-class-a-common-stock/2026/07/68/68a2ce0ef1817159de46ed742803a9cd9ca5f1d0183b814c20ea46d2c0ca68a3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2570,
+    "sha256": "sha256:c20bfc811b2b963500937af6b9563a4b44258c7e7bd38a8cef66395b571987ef",
+    "normalized_content_hash": "sha256:fc3a40d69a62a291dbd27a9a4e2820976d7fe16b82cf168bdd05d06638cacf25"
+  },
+  "provenance": {
+    "source_item_id": "714e4e3d-0175-4259-9d1b-308e5dc1c1fb",
+    "external_id": "https://newscorp.com/?p=148843"
+  }
+}

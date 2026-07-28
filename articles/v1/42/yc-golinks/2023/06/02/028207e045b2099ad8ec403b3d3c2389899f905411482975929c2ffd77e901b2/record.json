@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "028207e045b2099ad8ec403b3d3c2389899f905411482975929c2ffd77e901b2",
+  "company": {
+    "key": "yc-golinks",
+    "name": "GoLinks"
+  },
+  "source": {
+    "id": "yc-golinks-news-import-00b983687ae2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.golinks.com/blog/generative-ai-keep-workplace-knowledge-intact/",
+    "canonical": "https://www.golinks.com/blog/generative-ai-keep-workplace-knowledge-intact/"
+  },
+  "title": "Keeping Workplace Knowledge Intact with Generative AI: A Vital Tool",
+  "summary": "Generative AI is a powerful way to help prevent knowledge loss within your org. Here's how you should be using it.",
+  "published_at": "2023-06-15T21:57:01+00:00",
+  "first_seen_at": "2026-07-27T02:47:04.931568+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:46.214444+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-golinks/2023/06/02/028207e045b2099ad8ec403b3d3c2389899f905411482975929c2ffd77e901b2/article.md",
+    "record": "articles/v1/42/yc-golinks/2023/06/02/028207e045b2099ad8ec403b3d3c2389899f905411482975929c2ffd77e901b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11053,
+    "sha256": "sha256:8df3e440dd40f6c577b88a145ca806222cf22d82304356dade91c14c98806163",
+    "normalized_content_hash": "sha256:c3d5f26fa2fbc685480b28a5cf0e7a6c499a794149f9e24a1211bba475183420"
+  },
+  "provenance": {
+    "source_item_id": "b1b46ce4-46e9-4f2e-a71b-3f5541b802e5",
+    "external_id": "https://www.golinks.com/blog/generative-ai-keep-workplace-knowledge-intact/"
+  }
+}

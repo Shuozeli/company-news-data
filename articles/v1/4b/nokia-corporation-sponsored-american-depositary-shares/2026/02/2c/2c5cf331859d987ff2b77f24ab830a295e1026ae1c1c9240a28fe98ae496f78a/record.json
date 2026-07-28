@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c5cf331859d987ff2b77f24ab830a295e1026ae1c1c9240a28fe98ae496f78a",
+  "company": {
+    "key": "nokia-corporation-sponsored-american-depositary-shares",
+    "name": "Nokia Corporation Sponsored American Depositary Shares"
+  },
+  "source": {
+    "id": "nokia-corporation-sponsored-american-depositary-shares-news-import-bb650893ccf7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nokia.com/blog/co-creating-ai-native-wireless-networks-to-deliver-next-level-reliability/",
+    "canonical": "https://www.nokia.com/blog/co-creating-ai-native-wireless-networks-to-deliver-next-level-reliability/"
+  },
+  "title": "Co-creating AI-native wireless networks to deliver next-level reliability",
+  "summary": "In a wireless network, not all signals are created equal. Some carry user data such as video, voice, and messages, while others quietly keep the system reliable.",
+  "published_at": "2026-02-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:04:49.665774+00:00",
+  "fetched_at": "2026-07-27T20:24:08.774797+00:00",
+  "last_updated_at": "2026-07-27T20:24:15.457712+00:00",
+  "paths": {
+    "article": "articles/v1/4b/nokia-corporation-sponsored-american-depositary-shares/2026/02/2c/2c5cf331859d987ff2b77f24ab830a295e1026ae1c1c9240a28fe98ae496f78a/article.md",
+    "record": "articles/v1/4b/nokia-corporation-sponsored-american-depositary-shares/2026/02/2c/2c5cf331859d987ff2b77f24ab830a295e1026ae1c1c9240a28fe98ae496f78a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4619,
+    "sha256": "sha256:fe91999dead9969ef23e017aa4f80b9db3d071d763e7c77668f457ef64a338b5",
+    "normalized_content_hash": "sha256:b786aef4ca20626761a7cff7a89127e80433271b254943b912b3e4e5facb663a"
+  },
+  "provenance": {
+    "source_item_id": "8e0b150b-003b-471a-8c17-1682e898d947",
+    "external_id": "https://www.nokia.com/blog/co-creating-ai-native-wireless-networks-to-deliver-next-level-reliability/"
+  }
+}

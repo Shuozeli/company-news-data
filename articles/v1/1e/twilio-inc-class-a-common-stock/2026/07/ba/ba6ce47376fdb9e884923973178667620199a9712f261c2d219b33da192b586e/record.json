@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba6ce47376fdb9e884923973178667620199a9712f261c2d219b33da192b586e",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-news-import-801d48e1d714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/tutorials/product/integrate-openai-twilio-voice-using-conversationrelay",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/tutorials/product/integrate-openai-twilio-voice-using-conversationrelay"
+  },
+  "title": "Integrate OpenAI with Twilio Voice Using Conversation Relay",
+  "summary": "Learn to integrate OpenAI LLMs with Twilio Voice using Conversation Relay in this basic Voice AI demo using Node.js and the OpenAI Chat Responses API.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T17:37:59.927743+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:42:01.747026+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/ba/ba6ce47376fdb9e884923973178667620199a9712f261c2d219b33da192b586e/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/ba/ba6ce47376fdb9e884923973178667620199a9712f261c2d219b33da192b586e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13140,
+    "sha256": "sha256:04b0290e0bb9c561ff9620b3174a68565b3f72c0d1a7c9c291d02e9e04e516c4",
+    "normalized_content_hash": "sha256:0035d82994cd45bd01e9953af7f94d6ecb25fc6795faa0dc3aaef46adb560a08"
+  },
+  "provenance": {
+    "source_item_id": "4c72eea6-0520-4ebc-90f5-46c78e01cdaa",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/tutorials/product/integrate-openai-twilio-voice-using-conversationrelay"
+  }
+}

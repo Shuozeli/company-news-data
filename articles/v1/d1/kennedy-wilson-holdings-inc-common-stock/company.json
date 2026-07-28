@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "kennedy-wilson-holdings-inc-common-stock",
+    "name": "Kennedy-Wilson Holdings Inc. Common Stock"
+  },
+  "record_count": 5,
+  "first_published_at": "2017-01-22T22:40:47+00:00",
+  "last_published_at": "2022-02-10T20:49:38+00:00",
+  "partitions": [
+    {
+      "partition": "2017-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aefde29badb644fc9726044c4a0496aeb3212c89a50878ef80bb4c4a7ddeffc0",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/research/forrester-ai/",
+    "canonical": "https://www.forrester.com/research/forrester-ai/"
+  },
+  "title": "Forrester AI",
+  "summary": "",
+  "published_at": "2024-03-29T18:29:46+00:00",
+  "first_seen_at": "2026-07-27T02:48:29.914160+00:00",
+  "fetched_at": "2026-07-28T22:26:02.237076+00:00",
+  "last_updated_at": "2026-07-28T22:26:37.195473+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2024/03/ae/aefde29badb644fc9726044c4a0496aeb3212c89a50878ef80bb4c4a7ddeffc0/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2024/03/ae/aefde29badb644fc9726044c4a0496aeb3212c89a50878ef80bb4c4a7ddeffc0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7114,
+    "sha256": "sha256:3cd329ee1cd69e55e3e6a53e3953c5a7502682242beb4d33f9567cefbe1b8432",
+    "normalized_content_hash": "sha256:198b3f42718fcd67f6c4ad99bd94229c1454a8bdfd3fc9aedcbde81227354394"
+  },
+  "provenance": {
+    "source_item_id": "bc78f902-be4a-4bb6-842a-236b61432ca9",
+    "external_id": "https://www.forrester.com/research/forrester-ai/"
+  }
+}

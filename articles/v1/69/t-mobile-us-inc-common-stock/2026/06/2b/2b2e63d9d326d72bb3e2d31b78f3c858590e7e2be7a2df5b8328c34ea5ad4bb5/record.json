@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b2e63d9d326d72bb3e2d31b78f3c858590e7e2be7a2df5b8328c34ea5ad4bb5",
+  "company": {
+    "key": "t-mobile-us-inc-common-stock",
+    "name": "T-Mobile US Inc. Common Stock"
+  },
+  "source": {
+    "id": "t-mobile-us-inc-common-stock-news-import-748f5f079be8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.t-mobile.com/news/network/a-championship-for-the-knicks-and-a-showcase-for-new-york-citys-connectivity",
+    "canonical": "https://www.t-mobile.com/news/network/a-championship-for-the-knicks-and-a-showcase-for-new-york-citys-connectivity"
+  },
+  "title": "A Championship for the Knicks and a Showcase of New York City’s Connectivity",
+  "summary": "As New York celebrates a championship and prepares for a summer of major events, T‑Mobile supports the communications and public safety infrastructure that keeps the city moving",
+  "published_at": "2026-06-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:46:33.310465+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:40.296584+00:00",
+  "paths": {
+    "article": "articles/v1/69/t-mobile-us-inc-common-stock/2026/06/2b/2b2e63d9d326d72bb3e2d31b78f3c858590e7e2be7a2df5b8328c34ea5ad4bb5/article.md",
+    "record": "articles/v1/69/t-mobile-us-inc-common-stock/2026/06/2b/2b2e63d9d326d72bb3e2d31b78f3c858590e7e2be7a2df5b8328c34ea5ad4bb5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5896,
+    "sha256": "sha256:0284fb16a6ae5e11ab5a3334aeffe82d3b0d40a20f46599985b4e49f7b9571cf",
+    "normalized_content_hash": "sha256:0292cca0802e3b1aab08de763a16859cab4076478943de6845436348641cad2b"
+  },
+  "provenance": {
+    "source_item_id": "3e454659-db61-47ab-882e-a30f43ab3d57",
+    "external_id": "https://www.t-mobile.com/news/network/a-championship-for-the-knicks-and-a-showcase-for-new-york-citys-connectivity"
+  }
+}

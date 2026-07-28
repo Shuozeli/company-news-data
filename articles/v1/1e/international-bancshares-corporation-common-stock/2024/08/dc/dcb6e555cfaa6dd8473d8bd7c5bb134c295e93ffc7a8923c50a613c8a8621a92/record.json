@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dcb6e555cfaa6dd8473d8bd7c5bb134c295e93ffc7a8923c50a613c8a8621a92",
+  "company": {
+    "key": "international-bancshares-corporation-common-stock",
+    "name": "International Bancshares Corporation Common Stock"
+  },
+  "source": {
+    "id": "international-bancshares-corporation-common-stock-news-import-2e07f9dd1075",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ibc.com/newsroom/press-releases/international-bancshares-corporation-announces-cash-dividend-for-shareholders",
+    "canonical": "https://www.ibc.com/newsroom/press-releases/international-bancshares-corporation-announces-cash-dividend-for-shareholders"
+  },
+  "title": "International Bancshares Corporation Announces Cash Dividend",
+  "summary": "International Bancshares Corporation (NASDAQ: IBOC) announced today that on July 31, 2024, IBC’s Board of Directors approved the declaration of a 66 cents per share cash dividend for shareholders of record of Common Stock, $1.00 par value, as of the close of business on Aug. 14, 2024, payable on Aug. 28, 2024.",
+  "published_at": "2024-08-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T12:16:24.397693+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:14.052073+00:00",
+  "paths": {
+    "article": "articles/v1/1e/international-bancshares-corporation-common-stock/2024/08/dc/dcb6e555cfaa6dd8473d8bd7c5bb134c295e93ffc7a8923c50a613c8a8621a92/article.md",
+    "record": "articles/v1/1e/international-bancshares-corporation-common-stock/2024/08/dc/dcb6e555cfaa6dd8473d8bd7c5bb134c295e93ffc7a8923c50a613c8a8621a92/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2728,
+    "sha256": "sha256:f02dae367491abf01da3236b453adaf64b30c00c698827449167483e0098db80",
+    "normalized_content_hash": "sha256:727ed0d1a7bdd754902348c7e689f0d372a5f0e99680545c63d1cf322026c2bf"
+  },
+  "provenance": {
+    "source_item_id": "cbb20a97-a506-4bcd-ae9f-4bbe2c576a87",
+    "external_id": "https://www.ibc.com/newsroom/press-releases/international-bancshares-corporation-announces-cash-dividend-for-shareholders"
+  }
+}

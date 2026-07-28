@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "749809147f4bcc0505d70183166b2d1b72a42a0bbc3a07b090f60ce087ad20ff",
+  "company": {
+    "key": "ingles-markets-incorporated-class-a-common-stock",
+    "name": "Ingles Markets Incorporated Class A Common Stock"
+  },
+  "source": {
+    "id": "ingles-markets-incorporated-class-a-common-stock-news-import-fc4f824706bd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ingles-markets.com/corporate/cg2/investor/financial-press-releases/ingles-markets-issues-open-letter-to-shareholders",
+    "canonical": "https://www.ingles-markets.com/corporate/cg2/investor/financial-press-releases/ingles-markets-issues-open-letter-to-shareholders"
+  },
+  "title": "Ingles Markets Issues Open Letter to Shareholders",
+  "summary": "",
+  "published_at": "2026-04-20T13:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:53:45.476112+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:23.293349+00:00",
+  "paths": {
+    "article": "articles/v1/99/ingles-markets-incorporated-class-a-common-stock/2026/04/74/749809147f4bcc0505d70183166b2d1b72a42a0bbc3a07b090f60ce087ad20ff/article.md",
+    "record": "articles/v1/99/ingles-markets-incorporated-class-a-common-stock/2026/04/74/749809147f4bcc0505d70183166b2d1b72a42a0bbc3a07b090f60ce087ad20ff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27459,
+    "sha256": "sha256:f2c8e531cb0d6ce3cb11692e1be8f66336df33ac6a5ffb86fb54d87cbfff3ba4",
+    "normalized_content_hash": "sha256:e7d66947ea0e678dc5713115262f63b5fff001d33ae157722d16e9b775218388"
+  },
+  "provenance": {
+    "source_item_id": "50f577d3-cc79-43d0-bd57-e254394332fa",
+    "external_id": "https://www.ingles-markets.com/corporate/cg2/investor/financial-press-releases/ingles-markets-issues-open-letter-to-shareholders"
+  }
+}

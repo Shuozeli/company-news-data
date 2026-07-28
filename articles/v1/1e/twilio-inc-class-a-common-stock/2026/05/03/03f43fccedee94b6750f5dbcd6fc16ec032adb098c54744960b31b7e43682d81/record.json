@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "03f43fccedee94b6750f5dbcd6fc16ec032adb098c54744960b31b7e43682d81",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-news-import-801d48e1d714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/introducing-ola-agent-control-communications-channel",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/introducing-ola-agent-control-communications-channel"
+  },
+  "title": "Introducing Ola: An Agent-Native Communication Channel and Oversight Platform from Twilio Forward",
+  "summary": "Introducing Ola, a dedicated channel to communicate with all your AI agents – assign tasks, manage permissions, approve actions, and verify past activity.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T17:37:59.927743+00:00",
+  "fetched_at": "2026-07-28T22:12:44.576485+00:00",
+  "last_updated_at": "2026-07-28T22:13:03.308613+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/05/03/03f43fccedee94b6750f5dbcd6fc16ec032adb098c54744960b31b7e43682d81/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/05/03/03f43fccedee94b6750f5dbcd6fc16ec032adb098c54744960b31b7e43682d81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9924,
+    "sha256": "sha256:7f32eae42454248ec79f0d72fde2e8cdba0b815fdac2aed7cb08667ce3024f96",
+    "normalized_content_hash": "sha256:55a4aa895f66f26455d1da06ca391ca985a7506c583f17056e0602fdd5f27f7a"
+  },
+  "provenance": {
+    "source_item_id": "e77ab936-43c4-46bb-9f9e-e75ff5b8c7fa",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/introducing-ola-agent-control-communications-channel"
+  }
+}

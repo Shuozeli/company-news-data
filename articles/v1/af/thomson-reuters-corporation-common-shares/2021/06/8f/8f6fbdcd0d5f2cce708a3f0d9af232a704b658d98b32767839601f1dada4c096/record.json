@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f6fbdcd0d5f2cce708a3f0d9af232a704b658d98b32767839601f1dada4c096",
+  "company": {
+    "key": "thomson-reuters-corporation-common-shares",
+    "name": "Thomson Reuters Corporation Common Shares"
+  },
+  "source": {
+    "id": "thomson-reuters-corporation-common-shares-news-import-8fd0ff191d4d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.thomsonreuters.com/en-us/posts/on-demand-webinars/",
+    "canonical": "https://www.thomsonreuters.com/en-us/posts/on-demand-webinars/"
+  },
+  "title": "Thomson Reuters Institute On-Demand Webinars",
+  "summary": "Browse our library of pan-industry content and access world-class webinars",
+  "published_at": "2021-06-02T12:29:24+00:00",
+  "first_seen_at": "2026-07-24T04:42:49.125259+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:34.051828+00:00",
+  "paths": {
+    "article": "articles/v1/af/thomson-reuters-corporation-common-shares/2021/06/8f/8f6fbdcd0d5f2cce708a3f0d9af232a704b658d98b32767839601f1dada4c096/article.md",
+    "record": "articles/v1/af/thomson-reuters-corporation-common-shares/2021/06/8f/8f6fbdcd0d5f2cce708a3f0d9af232a704b658d98b32767839601f1dada4c096/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1840,
+    "sha256": "sha256:6c6c89bba1a1a399cb20b300de44c53d8101368243cee0d375f19e0bcbe97e0f",
+    "normalized_content_hash": "sha256:6688593a1376f9e565446510d3590bc3247c1f2cc37eab16e23771cc1618c15d"
+  },
+  "provenance": {
+    "source_item_id": "aeaa4bea-8553-413a-9d63-6875361db3b6",
+    "external_id": "https://www.thomsonreuters.com/en-us/posts/on-demand-webinars/"
+  }
+}

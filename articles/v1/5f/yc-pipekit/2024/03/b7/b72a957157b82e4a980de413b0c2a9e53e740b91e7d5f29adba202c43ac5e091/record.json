@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b72a957157b82e4a980de413b0c2a9e53e740b91e7d5f29adba202c43ac5e091",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/migrate-ci-cd-fjenkins-argo",
+    "canonical": "https://homepage.pipekit.io/blog/migrate-ci-cd-fjenkins-argo"
+  },
+  "title": "Why it’s Time to Migrate Your CI/CD from Jenkins to Argo",
+  "summary": "Explore the challenges, solutions, and benefits of Argo for CI/CD and why you should transition from Jenkins.",
+  "published_at": "2024-03-19T19:19:56+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:07.231499+00:00",
+  "last_updated_at": "2026-07-28T22:26:12.463846+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/03/b7/b72a957157b82e4a980de413b0c2a9e53e740b91e7d5f29adba202c43ac5e091/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/03/b7/b72a957157b82e4a980de413b0c2a9e53e740b91e7d5f29adba202c43ac5e091/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7565,
+    "sha256": "sha256:59e066d657ed920274c3db18f9168ea475148c6f3ce1a6b8425350b190e18788",
+    "normalized_content_hash": "sha256:48e4575d2dfdfafe14a25ff9c085f6afe7fcdc30c63c01bb08315c5f5f0cf9bc"
+  },
+  "provenance": {
+    "source_item_id": "24118364-043a-424c-837d-38bdaf81b7f8",
+    "external_id": "https://homepage.pipekit.io/blog/migrate-ci-cd-fjenkins-argo"
+  }
+}

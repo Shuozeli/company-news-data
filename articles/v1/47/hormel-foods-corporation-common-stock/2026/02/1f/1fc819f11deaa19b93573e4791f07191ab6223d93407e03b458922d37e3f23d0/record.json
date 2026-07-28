@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1fc819f11deaa19b93573e4791f07191ab6223d93407e03b458922d37e3f23d0",
+  "company": {
+    "key": "hormel-foods-corporation-common-stock",
+    "name": "Hormel Foods Corporation Common Stock"
+  },
+  "source": {
+    "id": "hormel-foods-corporation-common-stock-news-import-0faa90d40874",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-appoints-donald-monk-as-companys-first-chief-technology-officer/",
+    "canonical": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-appoints-donald-monk-as-companys-first-chief-technology-officer/"
+  },
+  "title": "Hormel Foods Appoints Donald Monk as Company’s First Chief Technology Officer",
+  "summary": "New role underscores company’s commitment to modernizing technology, digital and data capabilities",
+  "published_at": "2026-02-24T21:31:06+00:00",
+  "first_seen_at": "2026-07-21T23:11:51.811758+00:00",
+  "fetched_at": "2026-07-28T22:19:05.004303+00:00",
+  "last_updated_at": "2026-07-28T22:19:30.926106+00:00",
+  "paths": {
+    "article": "articles/v1/47/hormel-foods-corporation-common-stock/2026/02/1f/1fc819f11deaa19b93573e4791f07191ab6223d93407e03b458922d37e3f23d0/article.md",
+    "record": "articles/v1/47/hormel-foods-corporation-common-stock/2026/02/1f/1fc819f11deaa19b93573e4791f07191ab6223d93407e03b458922d37e3f23d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4883,
+    "sha256": "sha256:570712303da6b17bd9b574317b59d54583d01a8f22402bf6c4c245511efd2b11",
+    "normalized_content_hash": "sha256:7d69655699cca00e5590f138020c8aadd70f5bdef6f42dee35a779928f32e9ef"
+  },
+  "provenance": {
+    "source_item_id": "ac8c2339-19fb-4fb1-ba3b-f792aa08aace",
+    "external_id": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-appoints-donald-monk-as-companys-first-chief-technology-officer/"
+  }
+}

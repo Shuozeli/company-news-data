@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec788569c349e4878c92477902cefc6a89e1ed9b910861d3263e51f290ffb760",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/advent-convertible-bond-etf-rbb-fund-inc-nyse-acvt-declared-a-dividend-of-$0.0300-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/advent-convertible-bond-etf-rbb-fund-inc-nyse-acvt-declared-a-dividend-of-$0.0300-per-share/"
+  },
+  "title": "ACVT Dividend Announcement $0.0300/Share 7/27/2026",
+  "summary": "NYSE:ACVT Advent Convertible Bond ETF/RBB Fund Inc Dividend Announcement $0.0300 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.043736+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/ec/ec788569c349e4878c92477902cefc6a89e1ed9b910861d3263e51f290ffb760/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/ec/ec788569c349e4878c92477902cefc6a89e1ed9b910861d3263e51f290ffb760/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1524,
+    "sha256": "sha256:7c26fe69e72b75d18ad6565fabe2d133e034bc4bb140f6e3f313ca871d75c011",
+    "normalized_content_hash": "sha256:48a9de30581f0712a00ff5799521a1353afaced9ccc7c0eb712797ee415d49fa"
+  },
+  "provenance": {
+    "source_item_id": "7999e187-6051-46fa-aa9d-476dfcc8503a",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/advent-convertible-bond-etf-rbb-fund-inc-nyse-acvt-declared-a-dividend-of-$0.0300-per-share/"
+  }
+}

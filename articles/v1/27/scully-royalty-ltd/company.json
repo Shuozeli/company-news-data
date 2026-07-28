@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "scully-royalty-ltd",
+    "name": "Scully Royalty Ltd."
+  },
+  "record_count": 13,
+  "first_published_at": "2021-12-29T00:00:00+00:00",
+  "last_published_at": "2026-07-12T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

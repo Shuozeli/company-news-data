@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "rogers-communication-inc-common-stock",
+    "name": "Rogers Communication Inc. Common Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-06-15T18:31:05+00:00",
+  "last_published_at": "2026-07-28T16:01:41+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ]
+}

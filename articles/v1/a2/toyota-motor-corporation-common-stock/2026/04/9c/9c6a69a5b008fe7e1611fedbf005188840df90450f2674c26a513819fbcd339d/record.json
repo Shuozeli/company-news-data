@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c6a69a5b008fe7e1611fedbf005188840df90450f2674c26a513819fbcd339d",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/1102.html",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/1102.html"
+  },
+  "title": "A Thank You to All Who Love Cars--Automobile Business & Culture Association CSP Awards",
+  "summary": "The 5th Cars, Culture & Society Partnership Awards were presented at a ceremony organized by the Automobile Business & Culture Association of Japan. Chairman Akio Toyoda spoke about the intention behind these awards. #TOYOTATIMES",
+  "published_at": "2026-04-20T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-07-28T21:26:17.105320+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/04/9c/9c6a69a5b008fe7e1611fedbf005188840df90450f2674c26a513819fbcd339d/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/04/9c/9c6a69a5b008fe7e1611fedbf005188840df90450f2674c26a513819fbcd339d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7273,
+    "sha256": "sha256:13870b0140043c7c68bc16f1b5b8ee3a5ec37b981d313175cbc18f36bc64540c",
+    "normalized_content_hash": "sha256:fa09f8436c95d660002c51ef157985d5cf56142aba645fd15ab10ad18bad872d"
+  },
+  "provenance": {
+    "source_item_id": "f701bbed-5132-47b4-8606-6b7e1c2e449a",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/1102.html"
+  }
+}

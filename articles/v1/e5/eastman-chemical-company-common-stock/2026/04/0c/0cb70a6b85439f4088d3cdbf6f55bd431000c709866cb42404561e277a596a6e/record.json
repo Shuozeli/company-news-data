@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0cb70a6b85439f4088d3cdbf6f55bd431000c709866cb42404561e277a596a6e",
+  "company": {
+    "key": "eastman-chemical-company-common-stock",
+    "name": "Eastman Chemical Company Common Stock"
+  },
+  "source": {
+    "id": "eastman-chemical-company-common-stock-news-import-8dd1e0c63b7c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eastman.com/en/media-center/news-stories/2026/eastman-increases-plasticizers-prices-on-may-1-2026",
+    "canonical": "https://www.eastman.com/en/media-center/news-stories/2026/eastman-increases-plasticizers-prices-on-may-1-2026"
+  },
+  "title": "Eastman increases Plasticizers prices on May 1, 2026",
+  "summary": "Eastman Chemical Company is announcing a price increase in Plasticizers, effective May 1, 2026, or as contracts allow.",
+  "published_at": "2026-04-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T06:01:03.029056+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:22.474100+00:00",
+  "paths": {
+    "article": "articles/v1/e5/eastman-chemical-company-common-stock/2026/04/0c/0cb70a6b85439f4088d3cdbf6f55bd431000c709866cb42404561e277a596a6e/article.md",
+    "record": "articles/v1/e5/eastman-chemical-company-common-stock/2026/04/0c/0cb70a6b85439f4088d3cdbf6f55bd431000c709866cb42404561e277a596a6e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2846,
+    "sha256": "sha256:4384848e01d2a45bcb8dea50683cde288ec94d2bdf8ef977363c905a5219e632",
+    "normalized_content_hash": "sha256:58cb5ebe613293dd7c0a2d8d43b413f3d09265ed29a58dfef4629c23512a0606"
+  },
+  "provenance": {
+    "source_item_id": "69cbb715-f992-4002-91eb-574d084ad9f3",
+    "external_id": "https://www.eastman.com/en/media-center/news-stories/2026/eastman-increases-plasticizers-prices-on-may-1-2026"
+  }
+}

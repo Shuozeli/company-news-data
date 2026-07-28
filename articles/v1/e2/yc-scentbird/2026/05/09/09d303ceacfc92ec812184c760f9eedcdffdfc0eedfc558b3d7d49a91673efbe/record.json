@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09d303ceacfc92ec812184c760f9eedcdffdfc0eedfc558b3d7d49a91673efbe",
+  "company": {
+    "key": "yc-scentbird",
+    "name": "Scentbird"
+  },
+  "source": {
+    "id": "yc-scentbird-news-import-a752a4eed7e1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.scentbird.com/blog/banana-matcha-marshmallow-perfume-gourmand-fragrances/",
+    "canonical": "https://www.scentbird.com/blog/banana-matcha-marshmallow-perfume-gourmand-fragrances/"
+  },
+  "title": "Matcha, Banana, & Marshmallow Perfume: The New Era of Gourmand Fragrances",
+  "summary": "It’s no secret that gourmand fragrances have completely taken over the industry. For years, notes that sound good enough to eat–think vanilla, caramel, hazelnut, and now pistachio–have been dominat…",
+  "published_at": "2026-05-19T16:12:49+00:00",
+  "first_seen_at": "2026-07-24T00:00:53.990571+00:00",
+  "fetched_at": "2026-07-28T22:36:38.456755+00:00",
+  "last_updated_at": "2026-07-28T22:36:44.989372+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-scentbird/2026/05/09/09d303ceacfc92ec812184c760f9eedcdffdfc0eedfc558b3d7d49a91673efbe/article.md",
+    "record": "articles/v1/e2/yc-scentbird/2026/05/09/09d303ceacfc92ec812184c760f9eedcdffdfc0eedfc558b3d7d49a91673efbe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5115,
+    "sha256": "sha256:1a1d7b2d2d67a5e0af7006390a6354fcdefbd2f82d3a416332291db8a1236eae",
+    "normalized_content_hash": "sha256:3ab3abddda8b9331bbb4a86c14a5098dfd39044022c3445b0eca06b6b43a12ea"
+  },
+  "provenance": {
+    "source_item_id": "6f73ad9f-5966-4498-a793-83e026d1ae91",
+    "external_id": "https://www.scentbird.com/blog/banana-matcha-marshmallow-perfume-gourmand-fragrances/"
+  }
+}

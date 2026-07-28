@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1bdc727d113e6a40eb02dfd2aba5f05755a389ce2d9994db61399c5ba3bd9864",
+  "company": {
+    "key": "shake-shack-inc-class-a-common-stock",
+    "name": "Shake Shack Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "shake-shack-inc-class-a-common-stock-rss-d9ffffb10238",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.shakeshack.com/press-releases/press-release-details/2026/Shake-Shack-to-Participate-in-June-Investor-Conferences/default.aspx",
+    "canonical": "https://investor.shakeshack.com/press-releases/press-release-details/2026/Shake-Shack-to-Participate-in-June-Investor-Conferences/default.aspx"
+  },
+  "title": "Shake Shack to Participate in June Investor Conferences",
+  "summary": "",
+  "published_at": "2026-06-01T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:45:04.685271+00:00",
+  "fetched_at": "2026-07-28T20:33:39.187532+00:00",
+  "last_updated_at": "2026-07-28T20:33:39.230963+00:00",
+  "paths": {
+    "article": "articles/v1/91/shake-shack-inc-class-a-common-stock/2026/06/1b/1bdc727d113e6a40eb02dfd2aba5f05755a389ce2d9994db61399c5ba3bd9864/article.md",
+    "record": "articles/v1/91/shake-shack-inc-class-a-common-stock/2026/06/1b/1bdc727d113e6a40eb02dfd2aba5f05755a389ce2d9994db61399c5ba3bd9864/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 728,
+    "sha256": "sha256:21a095e916a40f9565c998693295a9bd774732ed6219038b6bb86b23aad818d4",
+    "normalized_content_hash": "sha256:3a750eea0361bd85850bddb56d3c8ba0eaf4777f371dc7476367f14a446b0c6f"
+  },
+  "provenance": {
+    "source_item_id": "080cb48a-da9b-433d-b7f5-75905e88d247",
+    "external_id": "ed551700-e8af-418b-b39d-51f96e775b63"
+  }
+}

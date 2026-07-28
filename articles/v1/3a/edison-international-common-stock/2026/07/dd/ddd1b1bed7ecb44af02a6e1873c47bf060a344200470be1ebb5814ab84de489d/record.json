@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ddd1b1bed7ecb44af02a6e1873c47bf060a344200470be1ebb5814ab84de489d",
+  "company": {
+    "key": "edison-international-common-stock",
+    "name": "Edison International Common Stock"
+  },
+  "source": {
+    "id": "edison-international-common-stock-rss-1315327e8509",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://energized.edison.com/stories/keeping-threatened-toads-safe-during-breeding-season",
+    "canonical": "http://energized.edison.com/stories/keeping-threatened-toads-safe-during-breeding-season"
+  },
+  "title": "Keeping Threatened Toads Safe During Breeding Season",
+  "summary": "Why did the Yosemite toad cross the road? To find a mate and help continue its species — all while avoiding traffic, something Southern California Edison is helping make sure ...",
+  "published_at": "2026-07-21T07:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:39:14.658813+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-07-28T20:36:45.610051+00:00",
+  "paths": {
+    "article": "articles/v1/3a/edison-international-common-stock/2026/07/dd/ddd1b1bed7ecb44af02a6e1873c47bf060a344200470be1ebb5814ab84de489d/article.md",
+    "record": "articles/v1/3a/edison-international-common-stock/2026/07/dd/ddd1b1bed7ecb44af02a6e1873c47bf060a344200470be1ebb5814ab84de489d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4923,
+    "sha256": "sha256:efa26e7f587bb6a5bcca979a3e452bca57fb37772bafce10ea506ad1e64788ca",
+    "normalized_content_hash": "sha256:cac7f54703ace06d26c15a38c6763fd0b71b40b0bb3a7993457544b704527457"
+  },
+  "provenance": {
+    "source_item_id": "fc3ebb29-ccb4-49b5-abd5-4c46143d464e",
+    "external_id": "http://energized.edison.com/stories/keeping-threatened-toads-safe-during-breeding-season"
+  }
+}

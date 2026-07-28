@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66dce2d306b2c6994d166b148df39d8a5bb6e7d5698a8781fce166a5d1a368fe",
+  "company": {
+    "key": "yc-expo",
+    "name": "Expo"
+  },
+  "source": {
+    "id": "yc-expo-rss-ee8e6cc345e2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://expo.dev/blog/expo-ui-stable-sdk-56",
+    "canonical": "https://expo.dev/blog/expo-ui-stable-sdk-56"
+  },
+  "title": "Expo UI is now stable: SwiftUI and Jetpack Compose from a single import",
+  "summary": "Starting with SDK 56, @expo/ui is stable. One import gives you SwiftUI on iOS and Jetpack Compose on Android. No JS reimplementation.",
+  "published_at": "2026-05-26T13:15:16+00:00",
+  "first_seen_at": "2026-07-25T03:54:08.173860+00:00",
+  "fetched_at": "2026-07-28T19:46:04.624713+00:00",
+  "last_updated_at": "2026-07-28T19:46:04.660222+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-expo/2026/05/66/66dce2d306b2c6994d166b148df39d8a5bb6e7d5698a8781fce166a5d1a368fe/article.md",
+    "record": "articles/v1/c7/yc-expo/2026/05/66/66dce2d306b2c6994d166b148df39d8a5bb6e7d5698a8781fce166a5d1a368fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 687,
+    "sha256": "sha256:63c166e7643054d661c1aef6bb48a503df5498938f68e9618f7e97f1bbbdf042",
+    "normalized_content_hash": "sha256:64f2e1ffa2c2d7f6b9cdcf2345187a12c279711bb2a35cac4f612ede197f55e4"
+  },
+  "provenance": {
+    "source_item_id": "d3f6149f-63ab-4f2f-b454-9953b4cc0677",
+    "external_id": "85fc1f0b-b301-4a11-8fe7-5675f0f61227"
+  }
+}

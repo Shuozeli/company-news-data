@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-elyos-ai",
+    "name": "Elyos AI"
+  },
+  "record_count": 8,
+  "first_published_at": "2025-08-27T18:37:28.388+00:00",
+  "last_published_at": "2026-01-26T08:37:14.245+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "57808f5661a5b9286d823bb3d47fe5df8b7dbd651b133963b65e8e5806b85bb4",
+  "company": {
+    "key": "zoominfo-technologies-inc-common-stock",
+    "name": "ZoomInfo Technologies Inc Common Stock"
+  },
+  "source": {
+    "id": "zoominfo-technologies-inc-common-stock-news-import-8d5d92e532e7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.zoominfo.com/managing-kubernetes-cluster-components-at-scale-migrating-from-terraform-to-argocd",
+    "canonical": "https://engineering.zoominfo.com/managing-kubernetes-cluster-components-at-scale-migrating-from-terraform-to-argocd"
+  },
+  "title": "Managing Kubernetes Cluster Components at Scale: Migrating from Terraform to ArgoCD",
+  "summary": "Background One of my first projects at Zoominfo was to establish a pattern for setting up and managing Kubernetes clusters for our infrastructure platform. This involved two main components: the cluster itself and the platform cluster components used for networking, security, and observability. Our requirements were to support multiple clouds,…",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T06:38:16.632877+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.625424+00:00",
+  "paths": {
+    "article": "articles/v1/68/zoominfo-technologies-inc-common-stock/2026/07/57/57808f5661a5b9286d823bb3d47fe5df8b7dbd651b133963b65e8e5806b85bb4/article.md",
+    "record": "articles/v1/68/zoominfo-technologies-inc-common-stock/2026/07/57/57808f5661a5b9286d823bb3d47fe5df8b7dbd651b133963b65e8e5806b85bb4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7606,
+    "sha256": "sha256:6e4432ab4d3ad4e8697f83cabc9567476d8ac8dab7a2210d2d5c7806028c29e3",
+    "normalized_content_hash": "sha256:e4c03759ff6b498eaf18777e5492c04df16b9290fa71d77b082c5dd8734f257b"
+  },
+  "provenance": {
+    "source_item_id": "22053375-4369-4816-bfc2-8cf76de0e563",
+    "external_id": "https://engineering.zoominfo.com/managing-kubernetes-cluster-components-at-scale-migrating-from-terraform-to-argocd"
+  }
+}

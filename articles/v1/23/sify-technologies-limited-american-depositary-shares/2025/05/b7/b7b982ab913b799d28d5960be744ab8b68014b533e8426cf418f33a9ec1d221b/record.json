@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b7b982ab913b799d28d5960be744ab8b68014b533e8426cf418f33a9ec1d221b",
+  "company": {
+    "key": "sify-technologies-limited-american-depositary-shares",
+    "name": "Sify Technologies Limited American Depositary Shares"
+  },
+  "source": {
+    "id": "sify-technologies-limited-american-depositary-shares-news-import-976ff95ce869",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sifytechnologies.com/news/sifys-chennai-and-noida-data-center-facilities-achieve-nvidia-dgx-ready-certification-for-liquid-cooling/",
+    "canonical": "http://www.sifytechnologies.com/news/sifys-chennai-and-noida-data-center-facilities-achieve-nvidia-dgx-ready-certification-for-liquid-cooling/"
+  },
+  "title": "Sify’s Chennai and Noida Data Center facilities Achieve NVIDIA DGX-Ready Certification for liquid cooling",
+  "summary": "Sify CloudInfinit+AI: GPU-as-a-Service for AI and data workloads. Scalable, cost-effective, with hybrid cloud support and low-latency interconnects.",
+  "published_at": "2025-05-07T05:18:13+00:00",
+  "first_seen_at": "2026-07-22T13:26:10.470949+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:55.923811+00:00",
+  "paths": {
+    "article": "articles/v1/23/sify-technologies-limited-american-depositary-shares/2025/05/b7/b7b982ab913b799d28d5960be744ab8b68014b533e8426cf418f33a9ec1d221b/article.md",
+    "record": "articles/v1/23/sify-technologies-limited-american-depositary-shares/2025/05/b7/b7b982ab913b799d28d5960be744ab8b68014b533e8426cf418f33a9ec1d221b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5741,
+    "sha256": "sha256:41db4cf769d1511eb32ac39890e91ca4035664981327e1aef2f81f033cf9bff6",
+    "normalized_content_hash": "sha256:0837d8308ff49631f4dc7d51591c4eeb464ea98701906bab37d1e80cb0503800"
+  },
+  "provenance": {
+    "source_item_id": "884fd950-8131-4049-aa24-418f4793c050",
+    "external_id": "http://www.sifytechnologies.com/news/sifys-chennai-and-noida-data-center-facilities-achieve-nvidia-dgx-ready-certification-for-liquid-cooling/"
+  }
+}

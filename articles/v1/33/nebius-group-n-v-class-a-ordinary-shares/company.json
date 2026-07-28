@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nebius-group-n-v-class-a-ordinary-shares",
+    "name": "Nebius Group N.V. Class A Ordinary Shares"
+  },
+  "record_count": 20,
+  "first_published_at": "2026-03-17T00:00:00+00:00",
+  "last_published_at": "2026-07-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3af8e71197cfcffa8692f32e46cce5f26e96a8b91121d93a05f77ebe42ef568e",
+  "company": {
+    "key": "century-casinos-inc-common-stock",
+    "name": "Century Casinos Inc. Common Stock"
+  },
+  "source": {
+    "id": "century-casinos-inc-common-stock-news-import-b0fd0f44f8f5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cnty.com/investor/press-releases/details/detail/century-casinos-announces-appointment-to-top-leadership-role-in-the-united-states",
+    "canonical": "https://www.cnty.com/investor/press-releases/details/detail/century-casinos-announces-appointment-to-top-leadership-role-in-the-united-states"
+  },
+  "title": "Century Casinos Announces Appointment to Top Leadership Role in the United States",
+  "summary": "",
+  "published_at": "2026-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T08:24:31.629137+00:00",
+  "fetched_at": "2026-07-27T08:24:30.976817+00:00",
+  "last_updated_at": "2026-07-27T08:24:31.629137+00:00",
+  "paths": {
+    "article": "articles/v1/13/century-casinos-inc-common-stock/2026/05/3a/3af8e71197cfcffa8692f32e46cce5f26e96a8b91121d93a05f77ebe42ef568e/article.md",
+    "record": "articles/v1/13/century-casinos-inc-common-stock/2026/05/3a/3af8e71197cfcffa8692f32e46cce5f26e96a8b91121d93a05f77ebe42ef568e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5657,
+    "sha256": "sha256:f3653be4ddc287ced6bb29231d46b87526785be134d788816facc021da9d35da",
+    "normalized_content_hash": "sha256:78f64b091588b10fcfe188f6e9b0456dc9579e24a9c0040a980ece7c3e72d50f"
+  },
+  "provenance": {
+    "source_item_id": "d6bf423c-308a-4789-af1a-6a4d19141aae",
+    "external_id": "https://www.cnty.com/investor/press-releases/details/detail/century-casinos-announces-appointment-to-top-leadership-role-in-the-united-states"
+  }
+}

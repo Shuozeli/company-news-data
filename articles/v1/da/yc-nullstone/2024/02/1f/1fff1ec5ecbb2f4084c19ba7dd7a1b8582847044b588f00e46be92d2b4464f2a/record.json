@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1fff1ec5ecbb2f4084c19ba7dd7a1b8582847044b588f00e46be92d2b4464f2a",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-8892e125c773",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nullstone.io/blog-posts/ephemeral-environments-primer",
+    "canonical": "https://nullstone.io/blog-posts/ephemeral-environments-primer"
+  },
+  "title": "Ephemeral Environments Primer: Benefits, Challenges, and Pitfalls",
+  "summary": "Ephemeral environments offer developers a tool to solicit feedback from stakeholders, verify features and bug fixes before releasing to production, and perform automated end-to-end or performance testing. Equipped with Infrastructure-as-code (IaC), it’s quite easy to launch a new environment. However, teams face many challenges when setting up and managing ephemeral environments. This article goes deep into various use cases, benefits, challenges, and pitfalls of using ephemeral environments.",
+  "published_at": "2024-02-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:17:35.365256+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:35:58.959969+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2024/02/1f/1fff1ec5ecbb2f4084c19ba7dd7a1b8582847044b588f00e46be92d2b4464f2a/article.md",
+    "record": "articles/v1/da/yc-nullstone/2024/02/1f/1fff1ec5ecbb2f4084c19ba7dd7a1b8582847044b588f00e46be92d2b4464f2a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9112,
+    "sha256": "sha256:7fe0351d34c7b8d4eaeaee8b0fad0477d87cad8a0ecbc894699b169e27a27184",
+    "normalized_content_hash": "sha256:f42e77d33783b419555718a6b434d312464d1b10aff4ccb76736217b92ed3506"
+  },
+  "provenance": {
+    "source_item_id": "286b4863-fe5b-4ba9-ba00-67c2dc49b0e7",
+    "external_id": "https://nullstone.io/blog-posts/ephemeral-environments-primer"
+  }
+}

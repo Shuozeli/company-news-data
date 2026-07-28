@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3d4aeab2ab8ee98024c57ad72f33500eda954c2d87320ba757365732813698b4",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/securing-the-future-understanding-hash-based-cryptographys-role-in-quantum-resistance",
+    "canonical": "https://www.btq.tech/blog/securing-the-future-understanding-hash-based-cryptographys-role-in-quantum-resistance"
+  },
+  "title": "Securing the Future: Understanding Hash-Based Cryptography's Role in Quantum Resistance",
+  "summary": "What do we do about the quantum threat? There are multiple families of quantum-resistant algorithms being evaluated by the National Institute of Standards and Technology (NIST) through the Post-Quantum Cryptography (PQC) competition to secure against quantum computing attacks. Hash-based cryptography is one of those cryptographic families being considered. But what is hash-based cryptography, why is it secure, and how is it being used today? And what is its future in a world where large-scale",
+  "published_at": "2023-12-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:02.765249+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2023/12/3d/3d4aeab2ab8ee98024c57ad72f33500eda954c2d87320ba757365732813698b4/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2023/12/3d/3d4aeab2ab8ee98024c57ad72f33500eda954c2d87320ba757365732813698b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8828,
+    "sha256": "sha256:145d1658e91b06b0a6b89e2488f8de7480519f6e4525e4bb8051890a46b0e320",
+    "normalized_content_hash": "sha256:fefa28016cb3d5d79fedabbd79de067b32404569c5160afca584b40e87aa9810"
+  },
+  "provenance": {
+    "source_item_id": "969d7411-de0a-41c2-ad32-ede7c7c9635e",
+    "external_id": "https://www.btq.tech/blog/securing-the-future-understanding-hash-based-cryptographys-role-in-quantum-resistance"
+  }
+}

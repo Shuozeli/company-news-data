@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e7494ca190e283b83e115e95787357b1893334a7bcc78c18e57362b55dbbbc94",
+  "company": {
+    "key": "redwire-corporation-common-stock",
+    "name": "Redwire Corporation Common Stock"
+  },
+  "source": {
+    "id": "redwire-corporation-common-stock-rss-a3eb383a60df",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rdw.com/newsroom/redwire-cfo-chris-edmunds-delivers-takeaways-from-firms-q1-earnings/",
+    "canonical": "https://rdw.com/newsroom/redwire-cfo-chris-edmunds-delivers-takeaways-from-firms-q1-earnings/"
+  },
+  "title": "Redwire CFO Chris Edmunds Delivers Takeaways from Firm’s Q1 Earnings",
+  "summary": "",
+  "published_at": "2026-05-20T20:56:23+00:00",
+  "first_seen_at": "2026-07-20T23:18:23.159838+00:00",
+  "fetched_at": "2026-07-28T21:23:50.998713+00:00",
+  "last_updated_at": "2026-07-28T21:23:51.097697+00:00",
+  "paths": {
+    "article": "articles/v1/f0/redwire-corporation-common-stock/2026/05/e7/e7494ca190e283b83e115e95787357b1893334a7bcc78c18e57362b55dbbbc94/article.md",
+    "record": "articles/v1/f0/redwire-corporation-common-stock/2026/05/e7/e7494ca190e283b83e115e95787357b1893334a7bcc78c18e57362b55dbbbc94/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 681,
+    "sha256": "sha256:8fad4d676bf824b60f27ef3f126c0a893ededdbef382f4350a8b95062b4900b0",
+    "normalized_content_hash": "sha256:1389837c16a42c91946726b78dbb42aedd082eb81cf44fefe4cd537881c20bfd"
+  },
+  "provenance": {
+    "source_item_id": "4cc4a8ee-bf46-4c44-8054-8da8453c96ef",
+    "external_id": "https://rdw.com/?p=96321"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df6d05d8f213b17f96ed01b36dba6049e5109d9d072558ecba194d9ddc0b674e",
+  "company": {
+    "key": "dlocal-limited-class-a-common-shares",
+    "name": "DLocal Limited Class A Common Shares"
+  },
+  "source": {
+    "id": "dlocal-limited-class-a-common-shares-news-import-6a9c68791fc2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dlocal.com/press-releases/dlocal-and-open-english-roll-out-bre-b-instant-payments-for-students-in-colombia/",
+    "canonical": "https://www.dlocal.com/press-releases/dlocal-and-open-english-roll-out-bre-b-instant-payments-for-students-in-colombia/"
+  },
+  "title": "dLocal and Open English roll out Bre-B instant payments for students in Colombia",
+  "summary": "The launch introduces Colombia’s real-time payment rail at checkout, allowing students to pay instantly from any bank or eWallet",
+  "published_at": "2026-02-19T13:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:40:35.099772+00:00",
+  "fetched_at": "2026-07-28T22:19:38.682305+00:00",
+  "last_updated_at": "2026-07-28T22:24:07.412372+00:00",
+  "paths": {
+    "article": "articles/v1/18/dlocal-limited-class-a-common-shares/2026/02/df/df6d05d8f213b17f96ed01b36dba6049e5109d9d072558ecba194d9ddc0b674e/article.md",
+    "record": "articles/v1/18/dlocal-limited-class-a-common-shares/2026/02/df/df6d05d8f213b17f96ed01b36dba6049e5109d9d072558ecba194d9ddc0b674e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4984,
+    "sha256": "sha256:6e0d1c7aa582fb7b09866d342e6333054cfab78dd5c7aee42b7d68c68ef6c18d",
+    "normalized_content_hash": "sha256:8156f4668deb819bf999dbd948bad28224ffc4b765f38c589642308b8bc11a36"
+  },
+  "provenance": {
+    "source_item_id": "8fbb801c-b9f1-4673-8aea-8b7037e569cf",
+    "external_id": "https://www.dlocal.com/press-releases/dlocal-and-open-english-roll-out-bre-b-instant-payments-for-students-in-colombia/"
+  }
+}

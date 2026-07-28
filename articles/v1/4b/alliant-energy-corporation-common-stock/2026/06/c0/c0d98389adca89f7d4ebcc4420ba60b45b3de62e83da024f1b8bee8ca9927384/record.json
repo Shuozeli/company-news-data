@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c0d98389adca89f7d4ebcc4420ba60b45b3de62e83da024f1b8bee8ca9927384",
+  "company": {
+    "key": "alliant-energy-corporation-common-stock",
+    "name": "Alliant Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "alliant-energy-corporation-common-stock-news-import-5331c2900a0f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/06/060526-phtvtip",
+    "canonical": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/06/060526-phtvtip"
+  },
+  "title": "PowerHouse June Tip of the Month: Install a smart thermostat to save energy and earn rewards",
+  "summary": "Smart thermostats automatically adjust heating and cooling settings based on your schedule to help keep your home comfortable without running your system more than necessary.",
+  "published_at": "2026-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:32:38.450273+00:00",
+  "fetched_at": "2026-07-27T11:32:36.077817+00:00",
+  "last_updated_at": "2026-07-27T11:32:38.450273+00:00",
+  "paths": {
+    "article": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/06/c0/c0d98389adca89f7d4ebcc4420ba60b45b3de62e83da024f1b8bee8ca9927384/article.md",
+    "record": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/06/c0/c0d98389adca89f7d4ebcc4420ba60b45b3de62e83da024f1b8bee8ca9927384/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3664,
+    "sha256": "sha256:d865c5736986605fbb159d16463baddefb479de54eac6aeff6285e58e8f7fa93",
+    "normalized_content_hash": "sha256:ded56783e321f7d700e6da72a0ce2025368362b05bb9d943ac66c3a6314d72c3"
+  },
+  "provenance": {
+    "source_item_id": "60a72502-516a-4e84-a562-402106450077",
+    "external_id": "https://www.alliantenergy.com/news/illuminate/,-w-,/2026/06/060526-phtvtip"
+  }
+}

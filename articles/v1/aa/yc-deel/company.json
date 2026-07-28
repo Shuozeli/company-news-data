@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-deel",
+    "name": "Deel"
+  },
+  "record_count": 3,
+  "first_published_at": "2023-12-01T03:27:50+00:00",
+  "last_published_at": "2024-04-09T10:28:29+00:00",
+  "partitions": [
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    }
+  ]
+}

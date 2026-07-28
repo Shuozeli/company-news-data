@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "richtech-robotics-inc-class-b-common-stock",
+    "name": "Richtech Robotics Inc. Class B Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-04-29T12:00:00+00:00",
+  "last_published_at": "2026-06-18T12:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    }
+  ]
+}

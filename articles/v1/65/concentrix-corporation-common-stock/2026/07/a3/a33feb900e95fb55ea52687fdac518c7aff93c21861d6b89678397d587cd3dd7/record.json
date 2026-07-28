@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a33feb900e95fb55ea52687fdac518c7aff93c21861d6b89678397d587cd3dd7",
+  "company": {
+    "key": "concentrix-corporation-common-stock",
+    "name": "Concentrix Corporation Common Stock"
+  },
+  "source": {
+    "id": "concentrix-corporation-common-stock-news-import-94fd497042a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.concentrix.com/about/news/press-release/concentrix-turns-everyday-action-into-sustainability-progress-at-scale/",
+    "canonical": "https://www.concentrix.com/about/news/press-release/concentrix-turns-everyday-action-into-sustainability-progress-at-scale/"
+  },
+  "title": "Concentrix Turns Everyday Action into Sustainability Progress at Scale",
+  "summary": "New report details responsible AI, cleaner operations, and demonstrated progress in sustainability and performance across climate, people, and communities",
+  "published_at": "2026-07-07T13:00:00+00:00",
+  "first_seen_at": "2026-07-25T00:29:36.069212+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.224857+00:00",
+  "paths": {
+    "article": "articles/v1/65/concentrix-corporation-common-stock/2026/07/a3/a33feb900e95fb55ea52687fdac518c7aff93c21861d6b89678397d587cd3dd7/article.md",
+    "record": "articles/v1/65/concentrix-corporation-common-stock/2026/07/a3/a33feb900e95fb55ea52687fdac518c7aff93c21861d6b89678397d587cd3dd7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6607,
+    "sha256": "sha256:6eb32949859874b4e141a59d6bb35bad43b436418b0713370e5b6efea348a1ba",
+    "normalized_content_hash": "sha256:0b53bd72df84415073d0cd6ec23b0cd3598884255fea7face05a7ec9e99c65be"
+  },
+  "provenance": {
+    "source_item_id": "28344cb5-8f8b-4488-ab39-0af4dff66064",
+    "external_id": "https://www.concentrix.com/about/news/press-release/concentrix-turns-everyday-action-into-sustainability-progress-at-scale/"
+  }
+}

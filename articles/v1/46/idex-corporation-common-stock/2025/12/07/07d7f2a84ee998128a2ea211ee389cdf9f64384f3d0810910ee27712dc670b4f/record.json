@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "07d7f2a84ee998128a2ea211ee389cdf9f64384f3d0810910ee27712dc670b4f",
+  "company": {
+    "key": "idex-corporation-common-stock",
+    "name": "IDEX Corporation Common Stock"
+  },
+  "source": {
+    "id": "idex-corporation-common-stock-rss-3d65fe064e9e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://idexcorp.com/news/news-item/idex-corporation-appoints-sean-gillen-as-svp-chief-financial-officer/",
+    "canonical": "https://idexcorp.com/news/news-item/idex-corporation-appoints-sean-gillen-as-svp-chief-financial-officer/"
+  },
+  "title": "IDEX Corporation Appoints Sean Gillen as SVP, Chief Financial Officer",
+  "summary": "NORTHBROOK, IL (December 4, 2025) – IDEX Corporation (NYSE:IEX) today announced the appointment of Sean M. Gillen as Senior Vice President and Chief Financial Officer of the Company, effective January 5, 2026. Akhil Mahendra, who has served as the Company’s interim Chief Financial Officer since May 2025, will return to his role as Vice President, […]",
+  "published_at": "2025-12-04T22:47:37+00:00",
+  "first_seen_at": "2026-07-25T01:08:03.545033+00:00",
+  "fetched_at": "2026-07-28T20:55:05.658267+00:00",
+  "last_updated_at": "2026-07-28T21:54:50.596451+00:00",
+  "paths": {
+    "article": "articles/v1/46/idex-corporation-common-stock/2025/12/07/07d7f2a84ee998128a2ea211ee389cdf9f64384f3d0810910ee27712dc670b4f/article.md",
+    "record": "articles/v1/46/idex-corporation-common-stock/2025/12/07/07d7f2a84ee998128a2ea211ee389cdf9f64384f3d0810910ee27712dc670b4f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4628,
+    "sha256": "sha256:1c2870b85e6f1bbb8fa11da3c61deceb442bf147685fe070f725c8090ef4556c",
+    "normalized_content_hash": "sha256:b247e879b2c2fdad7ab4f8d9302508a8eeea6585fa30e7dcda971b02a3a9ef3c"
+  },
+  "provenance": {
+    "source_item_id": "eb7478d4-b4b6-48b1-89be-f3fcd21eb54d",
+    "external_id": "https://idexcorp.com/?p=4880"
+  }
+}

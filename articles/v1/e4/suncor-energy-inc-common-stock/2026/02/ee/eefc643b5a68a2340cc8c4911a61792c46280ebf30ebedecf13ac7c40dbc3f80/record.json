@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eefc643b5a68a2340cc8c4911a61792c46280ebf30ebedecf13ac7c40dbc3f80",
+  "company": {
+    "key": "suncor-energy-inc-common-stock",
+    "name": "Suncor Energy Inc. Common Stock"
+  },
+  "source": {
+    "id": "suncor-energy-inc-common-stock-news-import-e3c4871ca239",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.suncor.com/en-ca/news-and-stories/our-stories/3-in-2-beating-targets-and-exceeding-expectations",
+    "canonical": "https://www.suncor.com/en-ca/news-and-stories/our-stories/3-in-2-beating-targets-and-exceeding-expectations"
+  },
+  "title": "3 in 2: beating targets and exceeding expectations",
+  "summary": "Suncor has been successful in meeting its ambitious 3-year targets early",
+  "published_at": "2026-02-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T18:21:10.879696+00:00",
+  "fetched_at": "2026-07-28T22:22:17.354714+00:00",
+  "last_updated_at": "2026-07-28T22:25:01.822529+00:00",
+  "paths": {
+    "article": "articles/v1/e4/suncor-energy-inc-common-stock/2026/02/ee/eefc643b5a68a2340cc8c4911a61792c46280ebf30ebedecf13ac7c40dbc3f80/article.md",
+    "record": "articles/v1/e4/suncor-energy-inc-common-stock/2026/02/ee/eefc643b5a68a2340cc8c4911a61792c46280ebf30ebedecf13ac7c40dbc3f80/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1380,
+    "sha256": "sha256:65a856bbd4c8fead79039cbca39dc37df8abe453056fceb2a67e2241d4321350",
+    "normalized_content_hash": "sha256:adae3fd07e44865a22b0f54f92d8e7009b27f88e427ba2a0d2adb23e61ef4623"
+  },
+  "provenance": {
+    "source_item_id": "a52f6cba-ec04-453f-800d-ab7bcc69e5e5",
+    "external_id": "https://www.suncor.com/en-ca/news-and-stories/our-stories/3-in-2-beating-targets-and-exceeding-expectations"
+  }
+}

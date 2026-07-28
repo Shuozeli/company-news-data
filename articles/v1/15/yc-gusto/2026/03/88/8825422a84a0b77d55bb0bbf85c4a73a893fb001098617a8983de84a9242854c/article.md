@@ -7,13 +7,34 @@ source_id: "yc-gusto-engineering-rss"
 canonical_url: "https://engineering.gusto.com/worth-the-squeeze-27ccf56777fa"
 published_at: "2026-03-27T00:07:31+00:00"
 first_seen_at: "2026-07-19T22:15:27.842622+00:00"
-fetched_at: "2026-07-28T04:03:20.234730+00:00"
-content_hash: "sha256:d92f937f387713687ce4c177bf612c20a4ab20aa09e79214c7a843cd8ded7a9c"
+fetched_at: "2026-07-28T22:00:16.885857+00:00"
+content_hash: "sha256:f17c81e156fc225a8490959587750a40c80fadd170e149e48e72d5d613d78eb0"
 ---
 
 # Worth the Squeeze
 
+# **Worth the Squeeze**
+
+
+[Jose Miguel Colella](https://medium.com/@colellajosemiguel?source=post_page---byline--27ccf56777fa---------------------------------------)
+
+
+8 min read
+
+
+·
+
+
+Mar 27, 2026
+
+
+--
+
+
 How Agentic Workflows Make Large-Scale Refactors Justifiable
+
+
+Press enter or click to view image in full size
 
 
 Before solving a Rubik cube, a person thinks about the different steps to solve it
@@ -34,7 +55,7 @@ The revelation wasn’t that AI could generate the replacement code, that part w
 Let me walk you through what that iteration looked like.
 
 
-### The Cost of Standing Still
+## The Cost of Standing Still
 
 
 Here’s a pattern I suspect every engineer recognizes: a deprecated construct proliferates through the codebase because it works “well enough.” Teams naturally prioritize product work over migrations when the cost is high and the benefit feels abstract.
@@ -49,7 +70,7 @@ Creating an OpenStruct is 20–50x slower than a Struct or Hash. Each instance u
 Historically, knowing all of this still wasn’t enough. The cost to fix it was simply too high for any single engineer or team to absorb. The business case existed, but the execution plan didn’t.
 
 
-### The Naive Approach (and Why It Fails)
+## The Naive Approach (and Why It Fails)
 
 
 When powerful agentic AI tools first made it possible to generate replacement code at scale, the temptation was obvious: one massive pull request. Scan the codebase, replace everything, ship it.
@@ -69,7 +90,7 @@ Code throughput is not review throughput. AI can generate changes at enormous sp
 This realization is what set me on the path of iterating on the decomposition strategy itself.
 
 
-### Iteration 1: Group by Pack
+## Iteration 1: Group by Pack
 
 
 My first instinct was to decompose at the most granular level. Our codebase is organized into packs, modular boundaries you can read about[here](https://engineering.gusto.com/a-how-to-guide-to-ruby-packs-gustos-gem-ecosystem-for-modularizing-ruby-applications-e236126b8c2c) , so I created one PR per pack. Each PR was small, focused, and easy to review in isolation.
@@ -81,13 +102,16 @@ Within an hour, the AI had generated dozens of PRs ready for review.
 The result? Reviewer fatigue.
 
 
+Press enter or click to view image in full size
+
+
 *Diagram showing one PR per pack causing reviewer fatigue for the reviewing team*
 
 
 Here’s the structural mismatch I missed: one team often owns many packs. Creating a PR per pack meant a single reviewer might get pinged ten separate times, once for each module they maintain. Ten “quick reviews” still add up to a significant interruption. I was optimizing for code boundaries when I should have been optimizing for review boundaries.
 
 
-### Iteration 2: Group by Team
+## Iteration 2: Group by Team
 
 
 The pivot was straightforward once I saw the problem: match work units to review units. Instead of one PR per pack, I created one PR per team covering every pack they owned. If that meant a single PR touching six packs, it resulted in one review, one merge, one interruption.
@@ -96,7 +120,7 @@ The pivot was straightforward once I saw the problem: match work units to review
 For teams with unusually large change sets, I broke them into batches. But in most cases, a single pull request covered everything. Review throughput went up immediately. The same body of work that created reviewer fatigue in Iteration 1 now moved smoothly through the organization.
 
 
-### Iteration 3: Creating a Repeatable Skill
+## Iteration 3: Creating a Repeatable Skill
 
 
 After two iterations of manually refining the decomposition strategy, I realized the process itself had become a formula:
@@ -106,6 +130,15 @@ After two iterations of manually refining the decomposition strategy, I realized
 
 
 2. Group instances by team ownership
+
+
+## Get Jose Miguel Colella’s stories in your inbox
+
+
+Join Medium for free to get updates from this writer.
+
+
+Remember me for faster sign in
 
 
 3. Generate replacement code for each group
@@ -125,10 +158,13 @@ I want to be able to create a claude skill that allows me to run the following: 
 ```
 
 
+Press enter or click to view image in full size
+
+
 *The five-step refactoring pipeline packaged as a reusable Claude Code skill: scan, group by team, generate replacements, create PRs, measure performance*
 
 
-### The Living Dashboard
+## The Living Dashboard
 
 
 One of the most valuable practices that emerged from this effort was using a persistent layer, in this case GitHub issues as a living dashboard for the entire refactor.
@@ -143,7 +179,7 @@ As the refactor progressed, the issue evolved. Each batch of PRs was logged with
 The GitHub issue became the context for Claude Code itself. When I started a new session with Claude Code, I could point it at the tracking issue and it would pick up exactly where we left off. It could read its own progress, understand what had been done, and identify what remained. The living dashboard doubled as shared memory between me and the AI agent
 
 
-### Scaling Up: Agent Teams and Worktrees
+## Scaling Up: Agent Teams and Worktrees
 
 
 Once the framework was solid, the next question was: how do we parallelize?
@@ -159,6 +195,9 @@ I set up a two-agent team:
 
 
 **Agent 2: The Performance Analyst** . This agent’s sole job was measurement. For each batch of changes, it would run[allocation profiling](https://github.com/SamSaffron/memory_profiler) and[benchmarks](https://github.com/evanphx/benchmark-ips) before and after, calculate memory savings, benchmark instantiation speed, and produce a summary of concrete impact numbers.
+
+
+Press enter or click to view image in full size
 
 
 *Two-agent architecture: Agent 1 (Refactorer) creates worktree and generates code changes, Agent 2 (Performance Analyst) waits for completion then benchmarks before and after*
@@ -178,7 +217,7 @@ Here’s what those numbers actually looked like for one team’s batch:
 Automated refactoring plus automated measurement answered the ***“is it worth it?”*** question with hard numbers instead of hand-waving. It transformed the refactor from a ***“trust me, this is better”*** conversation into a data-backed improvement with receipts.
 
 
-### What I Learned
+## What I Learned
 
 
 The modern software engineer’s superpower is problem decomposition and quality control.
@@ -187,10 +226,13 @@ The modern software engineer’s superpower is problem decomposition and quality
 Think of a lemonade stand. Historically, software engineering meant optimizing how you cut and squeeze lemons; better frameworks, better tooling, better technique. With AI agents, the squeezing is handled for you. Your job shifts to managing the stand: designing the menu, giving clear instructions, and tasting every batch before it goes out. The AI writes the code, but you own the quality of what ships.
 
 
+Press enter or click to view image in full size
+
+
 A napkin sketch showing the transition from manual labor and mechanical tools (IDEs/Frameworks) to AI Agents, where AI handles execution and humans focus on quality control and management.
 
 
-### Worth the Squeeze
+## Worth the Squeeze
 
 
 Was it worth the squeeze? A refactor that would have taken months got compressed into weeks. We removed a deprecated pattern entirely from the codebase, got measurable performance improvements, and built a reusable framework along the way.
@@ -206,9 +248,3 @@ Onto the next major refactor. Time to drink that lemonade!
 
 
 Gusto is hiring engineers who care about code quality at scale. Learn more at[https://gusto.com/about/careers](https://gusto.com/about/careers)
-
-
----
-
-
-[Worth the Squeeze](https://engineering.gusto.com/worth-the-squeeze-27ccf56777fa) was originally published in[Gusto Engineering](https://engineering.gusto.com/) on Medium, where people are continuing the conversation by highlighting and responding to this story.

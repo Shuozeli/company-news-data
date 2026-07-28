@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c8581bdd55b3bf4a986c17da91013cd30e06499e6fe4e28cef0c0e574b23b67",
+  "company": {
+    "key": "commvault-systems-inc-common-stock",
+    "name": "Commvault Systems Inc. Common Stock"
+  },
+  "source": {
+    "id": "commvault-systems-inc-common-stock-news-import-d7ff9e033aa3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.commvault.com/blogs/how-to-architect-unified-data-protection-a-single-platform-for-modern-workloads",
+    "canonical": "https://www.commvault.com/blogs/how-to-architect-unified-data-protection-a-single-platform-for-modern-workloads"
+  },
+  "title": "How to Architect Unified Data Protection for Modern Workloads | Commvault",
+  "summary": "Learn how Commvault Cloud unifies data protection across hybrid and multi-cloud environments — with Geo Shield, Dedicated Instance, Synthetic Recovery, and AI-enabled governance.",
+  "published_at": "2026-07-23T14:48:35+00:00",
+  "first_seen_at": "2026-07-28T17:42:13.769964+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:52.024086+00:00",
+  "paths": {
+    "article": "articles/v1/83/commvault-systems-inc-common-stock/2026/07/9c/9c8581bdd55b3bf4a986c17da91013cd30e06499e6fe4e28cef0c0e574b23b67/article.md",
+    "record": "articles/v1/83/commvault-systems-inc-common-stock/2026/07/9c/9c8581bdd55b3bf4a986c17da91013cd30e06499e6fe4e28cef0c0e574b23b67/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3303,
+    "sha256": "sha256:5ff7eda622406c23dbce1b6587248fa3072afbf3978f56795b638120d87e08bc",
+    "normalized_content_hash": "sha256:530845015bf23adbc585f03af1926a829c3bf8ded47da7488a8b668e201b5a47"
+  },
+  "provenance": {
+    "source_item_id": "f38f0136-d188-4df5-bef0-4a5ee56cadca",
+    "external_id": "https://www.commvault.com/blogs/how-to-architect-unified-data-protection-a-single-platform-for-modern-workloads"
+  }
+}

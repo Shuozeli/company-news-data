@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-scout-2",
+    "name": "Scout"
+  },
+  "record_count": 7,
+  "first_published_at": "2019-07-18T00:00:00+00:00",
+  "last_published_at": "2023-04-10T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    }
+  ]
+}

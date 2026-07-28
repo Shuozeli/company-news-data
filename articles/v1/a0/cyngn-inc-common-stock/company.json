@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cyngn-inc-common-stock",
+    "name": "Cyngn Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2024-09-11T16:00:00+00:00",
+  "last_published_at": "2026-06-10T22:37:17+00:00",
+  "partitions": [
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24d8cab9d3fbf1dc18584715255c91ed2f49f660daada7091a4192a9ec9d948e",
+  "company": {
+    "key": "airbnb-inc-class-a-common-stock",
+    "name": "Airbnb Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "airbnb-inc-class-a-common-stock-rss-d1a7958eece3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss----53c7c27702d5---4",
+    "canonical": "https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c"
+  },
+  "title": "When history fails you, borrow from geography",
+  "summary": "How Airbnb used sequential geographic recovery signals and prior propagation to generate reliable corridor-level forecasts when local data…",
+  "published_at": "2026-06-02T17:01:04+00:00",
+  "first_seen_at": "2026-07-20T04:35:41.377728+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:52.406683+00:00",
+  "paths": {
+    "article": "articles/v1/27/airbnb-inc-class-a-common-stock/2026/06/24/24d8cab9d3fbf1dc18584715255c91ed2f49f660daada7091a4192a9ec9d948e/article.md",
+    "record": "articles/v1/27/airbnb-inc-class-a-common-stock/2026/06/24/24d8cab9d3fbf1dc18584715255c91ed2f49f660daada7091a4192a9ec9d948e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17099,
+    "sha256": "sha256:76af4f6083b114e7193dd56d5ffc47658fc251941641a616861dd23c15eef210",
+    "normalized_content_hash": "sha256:35be1a3be4c82363e82ca77f23b52b6d68b933634b327f0cccfd0177728e4ffa"
+  },
+  "provenance": {
+    "source_item_id": "e3b71626-438d-4c76-b9db-17ffdbb500e0",
+    "external_id": "https://medium.com/p/915a72b91b5c"
+  }
+}

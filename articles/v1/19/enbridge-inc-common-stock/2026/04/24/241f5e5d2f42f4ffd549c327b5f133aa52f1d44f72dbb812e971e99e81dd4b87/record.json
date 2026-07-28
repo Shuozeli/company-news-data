@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "241f5e5d2f42f4ffd549c327b5f133aa52f1d44f72dbb812e971e99e81dd4b87",
+  "company": {
+    "key": "enbridge-inc-common-stock",
+    "name": "Enbridge Inc Common Stock"
+  },
+  "source": {
+    "id": "enbridge-inc-common-stock-news-import-2b8a4b0103c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.enbridge.com/stories/2026/april/mikmawey-debert-cultural-centre-nova-scotia-return-of-repatriated-ancestral-collections",
+    "canonical": "https://www.enbridge.com/stories/2026/april/mikmawey-debert-cultural-centre-nova-scotia-return-of-repatriated-ancestral-collections"
+  },
+  "title": "‘Share our stories, protect our past and explore our histories’",
+  "summary": "New Mi’kmawey Debert Cultural Centre in Nova Scotia preparing for the return of repatriated ancestral collections",
+  "published_at": "2026-04-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:43:52.877671+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-07-28T21:57:33.997387+00:00",
+  "paths": {
+    "article": "articles/v1/19/enbridge-inc-common-stock/2026/04/24/241f5e5d2f42f4ffd549c327b5f133aa52f1d44f72dbb812e971e99e81dd4b87/article.md",
+    "record": "articles/v1/19/enbridge-inc-common-stock/2026/04/24/241f5e5d2f42f4ffd549c327b5f133aa52f1d44f72dbb812e971e99e81dd4b87/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5397,
+    "sha256": "sha256:724e9483769bcddcb807e92d7417981f687f640de98c0d814a6a96d83420cae9",
+    "normalized_content_hash": "sha256:9e84971317cca8e907eaa9e9ad81642d0160739b5c29722a112e4825c244cafa"
+  },
+  "provenance": {
+    "source_item_id": "cb0093f8-c74c-4971-918f-1ea0de5286a2",
+    "external_id": "https://www.enbridge.com/stories/2026/april/mikmawey-debert-cultural-centre-nova-scotia-return-of-repatriated-ancestral-collections"
+  }
+}

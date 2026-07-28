@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43acc35af9e5ee77351ef59cb0a041aa3dc1bf6c246976ed551dfe3135811a61",
+  "company": {
+    "key": "yc-autosana",
+    "name": "Autosana"
+  },
+  "source": {
+    "id": "yc-autosana-news-import-ffdc10c70484",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://autosana.ai/blogs/autosana-acquires-meadow",
+    "canonical": "https://autosana.ai/blogs/autosana-acquires-meadow"
+  },
+  "title": "Autosana Acquires Meadow",
+  "summary": "Autosana has acquired Meadow, adding Persona-Aware testing to the E2E loop to help teams ship faster with more confidence.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T08:42:48.440297+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:13.052948+00:00",
+  "paths": {
+    "article": "articles/v1/80/yc-autosana/2026/06/43/43acc35af9e5ee77351ef59cb0a041aa3dc1bf6c246976ed551dfe3135811a61/article.md",
+    "record": "articles/v1/80/yc-autosana/2026/06/43/43acc35af9e5ee77351ef59cb0a041aa3dc1bf6c246976ed551dfe3135811a61/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10067,
+    "sha256": "sha256:0d6c9dccaa7d45f3d96a6c05839d8db78d5d421b27216e09c625e653237d43a5",
+    "normalized_content_hash": "sha256:b08bf45f497eb87e60ae21fcbb0f0ef67cea44312117e9735547ff5db493ea42"
+  },
+  "provenance": {
+    "source_item_id": "966674d8-e24e-46f9-aa8c-d1bc277a4c67",
+    "external_id": "https://autosana.ai/blogs/autosana-acquires-meadow"
+  }
+}

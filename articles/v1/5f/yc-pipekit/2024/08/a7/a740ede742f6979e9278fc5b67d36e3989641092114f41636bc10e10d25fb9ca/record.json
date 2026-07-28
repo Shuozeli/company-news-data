@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a740ede742f6979e9278fc5b67d36e3989641092114f41636bc10e10d25fb9ca",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/kubeflow-vs-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/kubeflow-vs-argo-workflows"
+  },
+  "title": "Kubeflow vs. Argo Workflows",
+  "summary": "Here’s a side-by-side comparison of Kubeflow and Argo Workflows highlighting their advantages and differences to help you decide which is best for you.",
+  "published_at": "2024-08-07T11:56:16+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-07-28T20:59:58.826405+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/08/a7/a740ede742f6979e9278fc5b67d36e3989641092114f41636bc10e10d25fb9ca/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/08/a7/a740ede742f6979e9278fc5b67d36e3989641092114f41636bc10e10d25fb9ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9814,
+    "sha256": "sha256:2c65a2a3bd9451dae2698f54b4554a98cb6b6fb5e51ca7d21732da33a9d9d647",
+    "normalized_content_hash": "sha256:f855afb0904358693bc795c86d3976dc76e8c8e0114a410f3b8dc0092175f2ed"
+  },
+  "provenance": {
+    "source_item_id": "ef109357-535e-4460-a338-c9bee533b916",
+    "external_id": "https://homepage.pipekit.io/blog/kubeflow-vs-argo-workflows"
+  }
+}

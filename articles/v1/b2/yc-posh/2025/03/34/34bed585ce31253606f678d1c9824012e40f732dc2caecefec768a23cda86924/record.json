@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34bed585ce31253606f678d1c9824012e40f732dc2caecefec768a23cda86924",
+  "company": {
+    "key": "yc-posh",
+    "name": "Posh"
+  },
+  "source": {
+    "id": "yc-posh-news-import-00809a778e56",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://poshenergy.com/articles/navigating-dsa-requirements-for-bess-and-streamlining-deployment-with-posh-energys-cabinet-solution",
+    "canonical": "https://poshenergy.com/articles/navigating-dsa-requirements-for-bess-and-streamlining-deployment-with-posh-energys-cabinet-solution"
+  },
+  "title": "Navigating DSA Requirements for BESS and Streamlining Deployment with Posh Energy’s Cabinet Solution",
+  "summary": "Deploying battery energy storage systems (BESS) in California's public sector requires navigating complex structural, fire, and electrical codes. Posh Energy's pre-engineered cabinet solution simplifies compliance, accelerates DSA approval, reduces costs, and offers flexible, modular deployment. EPC developers and facility managers benefit from streamlined processes, predictable timelines, and regulatory ease.",
+  "published_at": "2025-03-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:39:36.446390+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:05.296152+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-posh/2025/03/34/34bed585ce31253606f678d1c9824012e40f732dc2caecefec768a23cda86924/article.md",
+    "record": "articles/v1/b2/yc-posh/2025/03/34/34bed585ce31253606f678d1c9824012e40f732dc2caecefec768a23cda86924/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6825,
+    "sha256": "sha256:d77aa24e9cb6a79b79db701109f44c4022dae4b4b9c9c5da2f1eb684f0f59a41",
+    "normalized_content_hash": "sha256:eaa7045e79a11663fb768c2aab623513d8bf13d420a1ed43e4de88a1978534cd"
+  },
+  "provenance": {
+    "source_item_id": "86651174-5b2a-4f62-a2a8-595ee7444692",
+    "external_id": "https://poshenergy.com/articles/navigating-dsa-requirements-for-bess-and-streamlining-deployment-with-posh-energys-cabinet-solution"
+  }
+}

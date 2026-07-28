@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e37958cbc8679ea3acffc62c9e4a5c5ec269181667a5f7ba968f677c8de8b7fe",
+  "company": {
+    "key": "yc-momento",
+    "name": "Momento"
+  },
+  "source": {
+    "id": "yc-momento-news-import-ecd11f38dbc6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tumomento.com/blog/tr%C3%A1mites-y-burocracia/",
+    "canonical": "https://www.tumomento.com/blog/tr%C3%A1mites-y-burocracia/"
+  },
+  "title": "Trámites y Burocracia",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:45:59.826435+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:47.778064+00:00",
+  "paths": {
+    "article": "articles/v1/8a/yc-momento/2026/07/e3/e37958cbc8679ea3acffc62c9e4a5c5ec269181667a5f7ba968f677c8de8b7fe/article.md",
+    "record": "articles/v1/8a/yc-momento/2026/07/e3/e37958cbc8679ea3acffc62c9e4a5c5ec269181667a5f7ba968f677c8de8b7fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7774,
+    "sha256": "sha256:f16a2a0daddec97667b01e561bf5b9f98aaad309c973cd9a912a95961e4c25c2",
+    "normalized_content_hash": "sha256:ca44d5d3911c807c60ffc1e84aae545e58b1cd1e8f9e74eb9b63c790c5ea1c0d"
+  },
+  "provenance": {
+    "source_item_id": "80422d78-e07c-4738-915f-e1fde077a365",
+    "external_id": "https://www.tumomento.com/blog/tr%C3%A1mites-y-burocracia/"
+  }
+}

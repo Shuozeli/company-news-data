@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f7eadea5b0b35a009436b5cebb100d9fbb01e7e62df4e38acb3d212867d3c3c",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/upgrade-to-kubernetes-127-take-advantage-of-performance-improvements",
+    "canonical": "https://homepage.pipekit.io/blog/upgrade-to-kubernetes-127-take-advantage-of-performance-improvements"
+  },
+  "title": "Upgrade to K8s 1.27+ to Take Advantage of Argo Workflows Performance Improvements",
+  "summary": "Tim briefly highlights recent Kubernetes performance improvements allowing you to run Argo Workflows at scale without impacting cluster performance.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.330441+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/0f/0f7eadea5b0b35a009436b5cebb100d9fbb01e7e62df4e38acb3d212867d3c3c/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/0f/0f7eadea5b0b35a009436b5cebb100d9fbb01e7e62df4e38acb3d212867d3c3c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3323,
+    "sha256": "sha256:474e64bb19dff1fd800c6b5dc47c1f9011a32b35e9641ad7d8e0b2615ee6de42",
+    "normalized_content_hash": "sha256:535d8f8ca80c44d55bb1c5febc7e2e768e5327169323d234962ff983ed464333"
+  },
+  "provenance": {
+    "source_item_id": "8566d983-7d22-4ad6-a1d0-f2e834125413",
+    "external_id": "https://homepage.pipekit.io/blog/upgrade-to-kubernetes-127-take-advantage-of-performance-improvements"
+  }
+}

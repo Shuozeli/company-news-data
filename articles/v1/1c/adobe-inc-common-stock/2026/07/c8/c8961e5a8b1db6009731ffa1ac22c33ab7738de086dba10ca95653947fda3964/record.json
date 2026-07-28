@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c8961e5a8b1db6009731ffa1ac22c33ab7738de086dba10ca95653947fda3964",
+  "company": {
+    "key": "adobe-inc-common-stock",
+    "name": "Adobe Inc. Common Stock"
+  },
+  "source": {
+    "id": "adobe-inc-common-stock-rss-28948b03acf0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.developer.adobe.com/en/publish/2026/06/dark-mode-is-coming-to-adobe-express-what-add-on-developers-need-to-know",
+    "canonical": "https://blog.developer.adobe.com/en/publish/2026/06/dark-mode-is-coming-to-adobe-express-what-add-on-developers-need-to-know"
+  },
+  "title": "Dark Mode Is Coming to Adobe Express: What Add-on Developers Need to Know",
+  "summary": "Adobe Express is adding dark mode to the application experience, giving creators more flexibility to personalize their workspace and work comfortably in the environment that ...",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:41.472965+00:00",
+  "fetched_at": "2026-07-28T20:31:19.849002+00:00",
+  "last_updated_at": "2026-07-28T20:31:20.766529+00:00",
+  "paths": {
+    "article": "articles/v1/1c/adobe-inc-common-stock/2026/07/c8/c8961e5a8b1db6009731ffa1ac22c33ab7738de086dba10ca95653947fda3964/article.md",
+    "record": "articles/v1/1c/adobe-inc-common-stock/2026/07/c8/c8961e5a8b1db6009731ffa1ac22c33ab7738de086dba10ca95653947fda3964/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 863,
+    "sha256": "sha256:bdfc36544676b7d9b91fece90f8ccaab5a5513d2a0a3bfe243bd09cfc547a82c",
+    "normalized_content_hash": "sha256:b8cc0d76416958c4ae5b909fdda295cda0a08772d7b64e0c139e9b7631d77343"
+  },
+  "provenance": {
+    "source_item_id": "5b745bb6-0dd1-4455-ba13-f81ca3a324ef",
+    "external_id": "https://blog.developer.adobe.com/en/publish/2026/06/dark-mode-is-coming-to-adobe-express-what-add-on-developers-need-to-know"
+  }
+}

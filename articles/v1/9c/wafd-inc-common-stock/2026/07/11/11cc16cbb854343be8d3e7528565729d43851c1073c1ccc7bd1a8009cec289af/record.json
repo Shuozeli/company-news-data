@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11cc16cbb854343be8d3e7528565729d43851c1073c1ccc7bd1a8009cec289af",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/family-finance",
+    "canonical": "https://www.wafdbank.com/articles/family-finance"
+  },
+  "title": "Articles about Family Finance",
+  "summary": "Are you looking to improve your family finances? Read the latest tips and articles from WaFd Bank to help you get your family finances in shape.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T23:37:32.572003+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:42:03.665398+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/11/11cc16cbb854343be8d3e7528565729d43851c1073c1ccc7bd1a8009cec289af/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/11/11cc16cbb854343be8d3e7528565729d43851c1073c1ccc7bd1a8009cec289af/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1467,
+    "sha256": "sha256:ef5cfda7e40ab55c7b7c442d8086650d45e0495f2e43de6388b2bdcd16797105",
+    "normalized_content_hash": "sha256:c0556d92d9d7c2f9ccb0d6029378fe6c8eb04c3dd451e5d27d15c49e72d261f0"
+  },
+  "provenance": {
+    "source_item_id": "9c6abd3b-d437-424d-ade3-328b1f4ddef7",
+    "external_id": "https://www.wafdbank.com/articles/family-finance"
+  }
+}

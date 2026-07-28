@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "teekay-corporation-ltd-common-stock",
+    "name": "Teekay Corporation Ltd. Common Stock"
+  },
+  "record_count": 14,
+  "first_published_at": "2026-05-13T20:30:48+00:00",
+  "last_published_at": "2026-07-28T05:16:33+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b9816731cc976f6f7a4cd161513c641b40e55efc203875785ba09be0c27911e8",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/introducing-resourcerer-declarative-react-data-fetching-for-rest-apis/",
+    "canonical": "https://engineering.sift.com/introducing-resourcerer-declarative-react-data-fetching-for-rest-apis/"
+  },
+  "title": "Introducing Resourcerer: Declarative React Data-Fetching for REST APIs",
+  "summary": "We are excited to announce the public release of a package we’ve been using internally at Sift to handle our client-side data fetching for over two years now: resourcerer. Resourcerer contains a React higher-order component (HOC) called withResources that allows you to easily and declaratively manage your components’ data flows, while also handling loading states […]",
+  "published_at": "2019-10-17T21:30:30+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.576331+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2019/10/b9/b9816731cc976f6f7a4cd161513c641b40e55efc203875785ba09be0c27911e8/article.md",
+    "record": "articles/v1/fe/yc-sift/2019/10/b9/b9816731cc976f6f7a4cd161513c641b40e55efc203875785ba09be0c27911e8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9215,
+    "sha256": "sha256:a86d7c23a03f5b7545f8c18e29fdc662e787ba453f175eda92622e3fe4e9d8c5",
+    "normalized_content_hash": "sha256:47648d4cdc10f2142f883dc5a6f2b0c1bc23b5419cea886a6ffd77f74daceb62"
+  },
+  "provenance": {
+    "source_item_id": "436921a2-1b2c-46d2-922a-2de36ec68db7",
+    "external_id": "https://engineering.sift.com/introducing-resourcerer-declarative-react-data-fetching-for-rest-apis/"
+  }
+}

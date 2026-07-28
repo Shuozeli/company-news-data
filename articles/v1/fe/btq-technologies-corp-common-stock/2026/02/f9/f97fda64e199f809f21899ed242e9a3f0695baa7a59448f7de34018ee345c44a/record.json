@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f97fda64e199f809f21899ed242e9a3f0695baa7a59448f7de34018ee345c44a",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/quantum-secure-identity-the-future-of-digital-authentication",
+    "canonical": "https://www.btq.tech/blog/quantum-secure-identity-the-future-of-digital-authentication"
+  },
+  "title": "Quantum-Secure Identity: The Future of Digital Authentication",
+  "summary": "Quantum secure identity is becoming essential as NIST finalizes post quantum cryptography standards. Learn how PQC, zero knowledge proofs, and secure hardware can protect digital authentication and online trust in the quantum era.",
+  "published_at": "2026-02-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:51:24.452884+00:00",
+  "fetched_at": "2026-07-28T22:19:43.789522+00:00",
+  "last_updated_at": "2026-07-28T22:21:33.243204+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2026/02/f9/f97fda64e199f809f21899ed242e9a3f0695baa7a59448f7de34018ee345c44a/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2026/02/f9/f97fda64e199f809f21899ed242e9a3f0695baa7a59448f7de34018ee345c44a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12828,
+    "sha256": "sha256:ca8e92852ef761058db5553bf4799d6ed1ea8925ad7eb02c35b3dbbde8b7345f",
+    "normalized_content_hash": "sha256:8211c04601173ef104148acf6fb6a3a442f00e0859497b0ce331901185796875"
+  },
+  "provenance": {
+    "source_item_id": "871280a9-9ad4-45dc-9ee3-fec190e2aa6b",
+    "external_id": "https://www.btq.tech/blog/quantum-secure-identity-the-future-of-digital-authentication"
+  }
+}

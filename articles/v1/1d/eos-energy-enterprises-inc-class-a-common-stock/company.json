@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "eos-energy-enterprises-inc-class-a-common-stock",
+    "name": "Eos Energy Enterprises Inc. Class A Common Stock"
+  },
+  "record_count": 9,
+  "first_published_at": "2026-06-22T21:45:01+00:00",
+  "last_published_at": "2026-07-15T23:03:32+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ]
+}

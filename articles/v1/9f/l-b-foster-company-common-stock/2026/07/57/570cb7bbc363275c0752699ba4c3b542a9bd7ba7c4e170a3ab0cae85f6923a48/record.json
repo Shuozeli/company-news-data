@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "570cb7bbc363275c0752699ba4c3b542a9bd7ba7c4e170a3ab0cae85f6923a48",
+  "company": {
+    "key": "l-b-foster-company-common-stock",
+    "name": "L.B. Foster Company Common Stock"
+  },
+  "source": {
+    "id": "l-b-foster-company-common-stock-news-import-1fc5582d68d4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://lbfoster.com/news/envirocast-wall-system-three-story-precast-concrete-home-in-fort-meyers-fl",
+    "canonical": "https://lbfoster.com/news/envirocast-wall-system-three-story-precast-concrete-home-in-fort-meyers-fl"
+  },
+  "title": "Watch: Envirocast® Wall System Used in the Build of a Three-Story Home in Fort Meyers, FL",
+  "summary": "CXT® Inc. is a licensee of Envirocast, LLC. Envirocast is a registered trademark of Envirocast, LLC.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T11:50:22.089796+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:27.684070+00:00",
+  "paths": {
+    "article": "articles/v1/9f/l-b-foster-company-common-stock/2026/07/57/570cb7bbc363275c0752699ba4c3b542a9bd7ba7c4e170a3ab0cae85f6923a48/article.md",
+    "record": "articles/v1/9f/l-b-foster-company-common-stock/2026/07/57/570cb7bbc363275c0752699ba4c3b542a9bd7ba7c4e170a3ab0cae85f6923a48/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1171,
+    "sha256": "sha256:f80f89ab63e4cb91fef7267e108bcc408ba6d1169f8a2f2158088f7b95fd6a7d",
+    "normalized_content_hash": "sha256:8fe10fd62e0d6feda28993da35f75e3e3004c67a5699741701c8f808ae446930"
+  },
+  "provenance": {
+    "source_item_id": "c7fe65c4-7f4e-4a1f-94a9-02b338dfec75",
+    "external_id": "https://lbfoster.com/news/envirocast-wall-system-three-story-precast-concrete-home-in-fort-meyers-fl"
+  }
+}

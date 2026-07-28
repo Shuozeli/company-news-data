@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "procter-gamble-company-the-common-stock",
+    "name": "Procter & Gamble Company (The) Common Stock"
+  },
+  "record_count": 39,
+  "first_published_at": "2024-06-11T07:44:09.754+00:00",
+  "last_published_at": "2026-07-22T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    }
+  ]
+}

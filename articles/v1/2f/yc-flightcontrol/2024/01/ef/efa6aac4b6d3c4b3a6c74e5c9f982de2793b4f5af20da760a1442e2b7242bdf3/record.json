@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "efa6aac4b6d3c4b3a6c74e5c9f982de2793b4f5af20da760a1442e2b7242bdf3",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/9-ways-to-improve-how-you-ship-software",
+    "canonical": "https://www.flightcontrol.dev/blog/9-ways-to-improve-how-you-ship-software"
+  },
+  "title": "9 ways to improve how you ship software",
+  "summary": "Article covers 7 principles and 9 tactics for improving your engineering team's productivity",
+  "published_at": "2024-01-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:03.718647+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2024/01/ef/efa6aac4b6d3c4b3a6c74e5c9f982de2793b4f5af20da760a1442e2b7242bdf3/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2024/01/ef/efa6aac4b6d3c4b3a6c74e5c9f982de2793b4f5af20da760a1442e2b7242bdf3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20448,
+    "sha256": "sha256:434110408e3475292a263bc715b534e2a8cf9f0e0d3fb396bf7e099882a9dd29",
+    "normalized_content_hash": "sha256:d5838ca505f9e4509ed3c077d7609916accadfdb06d0fe2d7f1f83cd9a716f6a"
+  },
+  "provenance": {
+    "source_item_id": "6a9f89e0-c512-4cc1-90aa-9dc7858bad6f",
+    "external_id": "https://www.flightcontrol.dev/blog/9-ways-to-improve-how-you-ship-software"
+  }
+}

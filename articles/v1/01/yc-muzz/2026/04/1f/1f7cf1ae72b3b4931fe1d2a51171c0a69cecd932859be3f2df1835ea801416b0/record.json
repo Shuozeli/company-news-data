@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f7cf1ae72b3b4931fe1d2a51171c0a69cecd932859be3f2df1835ea801416b0",
+  "company": {
+    "key": "yc-muzz",
+    "name": "Muzz"
+  },
+  "source": {
+    "id": "yc-muzz-news-import-8560c890bd85",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://muzz.com/us/en/blog/relationships/muslims-dont-date-we-marry-what-that-really-means/",
+    "canonical": "https://muzz.com/us/en/blog/relationships/muslims-dont-date-we-marry-what-that-really-means/"
+  },
+  "title": "Muslims Don’t Date, We Marry: What That Really Means?",
+  "summary": "\"Muslims don’t date, we marry.” It’s a phrase you’ve probably heard a dozen times, but often the phrase is misunderstood.",
+  "published_at": "2026-04-30T13:24:09+00:00",
+  "first_seen_at": "2026-07-25T16:23:30.018891+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-07-28T21:26:16.284930+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-muzz/2026/04/1f/1f7cf1ae72b3b4931fe1d2a51171c0a69cecd932859be3f2df1835ea801416b0/article.md",
+    "record": "articles/v1/01/yc-muzz/2026/04/1f/1f7cf1ae72b3b4931fe1d2a51171c0a69cecd932859be3f2df1835ea801416b0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2511,
+    "sha256": "sha256:41958a27f690ffa91a7598dd03969a162fe4309c7d43555cbd22cabfbaac684d",
+    "normalized_content_hash": "sha256:a13b7d7c8d909073408acbe4f2325d8210900065425e3f1903b4f1a9238e7952"
+  },
+  "provenance": {
+    "source_item_id": "b85b54f4-f433-41a4-a6c5-bdf9b85e67ef",
+    "external_id": "https://muzz.com/us/en/blog/relationships/muslims-dont-date-we-marry-what-that-really-means/"
+  }
+}

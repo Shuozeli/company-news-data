@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f8f43840b361f6538c656de095fa34e77464975dbbd564a3b4ea02abbbc2a8da",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/how-to-install-argo-workflows-in-multiple-namespaces",
+    "canonical": "https://homepage.pipekit.io/blog/how-to-install-argo-workflows-in-multiple-namespaces"
+  },
+  "title": "How to Install Argo Workflows in Multiple Namespaces",
+  "summary": "Learn how to install Argo Workflows in multiple namespaces to separate installations by team, customer, or dev environment.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:18.654833+00:00",
+  "last_updated_at": "2026-07-28T22:26:23.228468+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/f8/f8f43840b361f6538c656de095fa34e77464975dbbd564a3b4ea02abbbc2a8da/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/f8/f8f43840b361f6538c656de095fa34e77464975dbbd564a3b4ea02abbbc2a8da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9456,
+    "sha256": "sha256:05697ead7564a779c7fade4fa65617ad18b78ef0f47d8d1ed3623e44411d3d26",
+    "normalized_content_hash": "sha256:bde3105d7ae1c304c139ed4da067c4810718ad1720eef4b67122f5f3c32c83e8"
+  },
+  "provenance": {
+    "source_item_id": "efd5398c-049f-4dbd-8e0c-81d86f70c91a",
+    "external_id": "https://homepage.pipekit.io/blog/how-to-install-argo-workflows-in-multiple-namespaces"
+  }
+}

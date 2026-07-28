@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ffdf0b0635ecac9717dea8c056904e5f4b207e191316ab54bb923dd511832ab7",
+  "company": {
+    "key": "soundthinking-inc-common-stock",
+    "name": "SoundThinking Inc. Common Stock"
+  },
+  "source": {
+    "id": "soundthinking-inc-common-stock-news-import-78496ddc2424",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.soundthinking.com/blog/shotspotter-fires-back-response-to-brooklyn-defender-services-report",
+    "canonical": "http://www.soundthinking.com/blog/shotspotter-fires-back-response-to-brooklyn-defender-services-report"
+  },
+  "title": "ShotSpotter Fires Back: Response to Brooklyn Defender Services’ Report",
+  "summary": "This story highlights the two primary ways ShotSpotter helps police. It is this evidentiary value that makes a recent report by the Brooklyn Defender Services (BDS) so suspect. BDS is not a news outlet or an academic institution, of course. It is a legal aid organization, dedicated to defending people accused of committing crimes.",
+  "published_at": "2024-12-06T22:06:56+00:00",
+  "first_seen_at": "2026-07-22T14:19:40.145434+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:44.715826+00:00",
+  "paths": {
+    "article": "articles/v1/69/soundthinking-inc-common-stock/2024/12/ff/ffdf0b0635ecac9717dea8c056904e5f4b207e191316ab54bb923dd511832ab7/article.md",
+    "record": "articles/v1/69/soundthinking-inc-common-stock/2024/12/ff/ffdf0b0635ecac9717dea8c056904e5f4b207e191316ab54bb923dd511832ab7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6701,
+    "sha256": "sha256:fb66b81e67e9288476aaf7dc13d0767e6deff3fa9b4556a1e7b368d3f10c72e6",
+    "normalized_content_hash": "sha256:751a53a5a82580bd6f99ca18d35946ef24da787b9e80f62c6daf7d5982df9b2d"
+  },
+  "provenance": {
+    "source_item_id": "decaa9a0-1532-4452-ab4d-14d632c802b2",
+    "external_id": "http://www.soundthinking.com/blog/shotspotter-fires-back-response-to-brooklyn-defender-services-report"
+  }
+}

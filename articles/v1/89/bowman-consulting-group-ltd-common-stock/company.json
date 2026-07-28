@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bowman-consulting-group-ltd-common-stock",
+    "name": "Bowman Consulting Group Ltd. Common Stock"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-05-27T12:32:11+00:00",
+  "last_published_at": "2026-07-21T21:52:18+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "307cf5a0421d4b81db1c392a4a5dda3009abebd12eaaa83b94902db2ab9d44e6",
+  "company": {
+    "key": "xcel-brands-inc-common-stock",
+    "name": "Xcel Brands Inc. Common Stock"
+  },
+  "source": {
+    "id": "xcel-brands-inc-common-stock-news-import-2fc797a26bc6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.investing.com/news/company-news/xcel-brands-partners-with-kbl-group-for-coco-rocha-line-93CH-4776860",
+    "canonical": "https://www.investing.com/news/company-news/xcel-brands-partners-with-kbl-group-for-coco-rocha-line-93CH-4776860"
+  },
+  "title": "Xcel Brands partners with KBL Group for Coco Rocha line",
+  "summary": "Xcel Brands partners with KBL Group for Coco Rocha line",
+  "published_at": "2026-07-06T14:04:49+00:00",
+  "first_seen_at": "2026-07-27T07:18:53.920178+00:00",
+  "fetched_at": "2026-07-28T09:00:13.919343+00:00",
+  "last_updated_at": "2026-07-28T09:00:20.777659+00:00",
+  "paths": {
+    "article": "articles/v1/26/xcel-brands-inc-common-stock/2026/07/30/307cf5a0421d4b81db1c392a4a5dda3009abebd12eaaa83b94902db2ab9d44e6/article.md",
+    "record": "articles/v1/26/xcel-brands-inc-common-stock/2026/07/30/307cf5a0421d4b81db1c392a4a5dda3009abebd12eaaa83b94902db2ab9d44e6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3876,
+    "sha256": "sha256:9375ecdd0e020e33ef17e7cc70c7ddfba5eb90f1f7c1125998229afaa57cd8e3",
+    "normalized_content_hash": "sha256:bdcbcabfc30bc10fd43229b08d0db5518ac60da2bf99489cfa4904cf288bdabd"
+  },
+  "provenance": {
+    "source_item_id": "ebe417af-5041-40a7-a3c3-197233bb5c63",
+    "external_id": "https://www.investing.com/news/company-news/xcel-brands-partners-with-kbl-group-for-coco-rocha-line-93CH-4776860"
+  }
+}

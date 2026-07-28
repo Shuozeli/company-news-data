@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ca215eb38f1c9d4048a7e2324b1e5e8d6abf538487f0bab4282fc922e6599281",
+  "company": {
+    "key": "mgic-investment-corporation-common-stock",
+    "name": "MGIC Investment Corporation Common Stock"
+  },
+  "source": {
+    "id": "mgic-investment-corporation-common-stock-news-import-5c9035f6eb57",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.prnewswire.com/news-releases/mgic-investment-corporation-reports-fourth-quarter-2024-results-302366733.html",
+    "canonical": "https://www.prnewswire.com/news-releases/mgic-investment-corporation-reports-fourth-quarter-2024-results-302366733.html"
+  },
+  "title": "MGIC Investment Corporation Reports Fourth Quarter 2024 Results",
+  "summary": "/PRNewswire/ -- MGIC Investment Corporation (NYSE: MTG) today reported operating and financial results for the fourth quarter of 2024....",
+  "published_at": "2025-02-03T21:05:00+00:00",
+  "first_seen_at": "2026-07-25T15:05:52.047818+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:43.293598+00:00",
+  "paths": {
+    "article": "articles/v1/7f/mgic-investment-corporation-common-stock/2025/02/ca/ca215eb38f1c9d4048a7e2324b1e5e8d6abf538487f0bab4282fc922e6599281/article.md",
+    "record": "articles/v1/7f/mgic-investment-corporation-common-stock/2025/02/ca/ca215eb38f1c9d4048a7e2324b1e5e8d6abf538487f0bab4282fc922e6599281/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 115837,
+    "sha256": "sha256:e01319d5e86d71f3b4903404a543884ba5b673d21728470813f1ab7b9726b8c0",
+    "normalized_content_hash": "sha256:3b354f0f9f7fd7a9764e679c2d583db5c009b45979782e6652eac398a4c9553b"
+  },
+  "provenance": {
+    "source_item_id": "4e77b563-7fab-4c2a-a77b-eea2e75a4b3d",
+    "external_id": "https://www.prnewswire.com/news-releases/mgic-investment-corporation-reports-fourth-quarter-2024-results-302366733.html"
+  }
+}

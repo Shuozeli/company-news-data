@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "17f0518abc41d404cd2e76f48a109ac077e5e9baa2c185ca41fe6ce2354552da",
+  "company": {
+    "key": "kennametal-inc-common-stock",
+    "name": "Kennametal Inc. Common Stock"
+  },
+  "source": {
+    "id": "kennametal-inc-common-stock-news-import-b1531c135564",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kennametal.com/us/en/news/123199.html",
+    "canonical": "https://www.kennametal.com/us/en/news/123199.html"
+  },
+  "title": "Kennametal Inc. Announces Final Results and Expiration of Cash Tender Offer for Debt Securities",
+  "summary": "<p>Kennametal Inc. (NYSE: KMT) (the \"Company\") today announced the final results and expiration of its previously announced cash tender offer (the \"Tender Offer\") to purchase any and all of the...</p>",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T10:36:33.938073+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:30.889186+00:00",
+  "paths": {
+    "article": "articles/v1/a9/kennametal-inc-common-stock/2026/07/17/17f0518abc41d404cd2e76f48a109ac077e5e9baa2c185ca41fe6ce2354552da/article.md",
+    "record": "articles/v1/a9/kennametal-inc-common-stock/2026/07/17/17f0518abc41d404cd2e76f48a109ac077e5e9baa2c185ca41fe6ce2354552da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7990,
+    "sha256": "sha256:269137639d63b718cdd589577b78dfc538079e4ea75096802b209030ee705ae6",
+    "normalized_content_hash": "sha256:92ce8182b6334727451a707a7f0933c87acd1073c1f86c9b5ef5cb497b89ebad"
+  },
+  "provenance": {
+    "source_item_id": "4bc962c1-8bae-4e46-bbf6-c3d9fdffaa7f",
+    "external_id": "https://www.kennametal.com/us/en/news/123199.html"
+  }
+}

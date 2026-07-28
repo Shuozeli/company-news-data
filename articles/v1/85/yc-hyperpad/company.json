@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-hyperpad",
+    "name": "Hyperpad"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-05-06T20:14:51+00:00",
+  "last_published_at": "2026-07-17T10:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

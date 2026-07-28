@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nuburu-inc-common-stock",
+    "name": "Nuburu Inc. Common Stock"
+  },
+  "record_count": 20,
+  "first_published_at": "2023-05-05T13:52:11+00:00",
+  "last_published_at": "2026-07-21T14:06:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-05",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    }
+  ]
+}

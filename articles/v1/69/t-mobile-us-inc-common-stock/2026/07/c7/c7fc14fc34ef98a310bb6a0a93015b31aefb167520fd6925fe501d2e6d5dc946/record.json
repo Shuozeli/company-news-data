@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7fc14fc34ef98a310bb6a0a93015b31aefb167520fd6925fe501d2e6d5dc946",
+  "company": {
+    "key": "t-mobile-us-inc-common-stock",
+    "name": "T-Mobile US Inc. Common Stock"
+  },
+  "source": {
+    "id": "t-mobile-us-inc-common-stock-news-import-748f5f079be8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.t-mobile.com/news/un-carrier/t-mobile-america250-july-4",
+    "canonical": "https://www.t-mobile.com/news/un-carrier/t-mobile-america250-july-4"
+  },
+  "title": "T‑Mobile Joins America250 for Coast-to-Coast July 4 Celebrations",
+  "summary": "From One Times Square to the Los Angeles Memorial Coliseum, T‑Mobile and America’s Best Network will help people celebrate one of the country’s biggest milestones yet",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:46:33.310465+00:00",
+  "fetched_at": "2026-07-28T21:52:24.088997+00:00",
+  "last_updated_at": "2026-07-28T21:56:41.064158+00:00",
+  "paths": {
+    "article": "articles/v1/69/t-mobile-us-inc-common-stock/2026/07/c7/c7fc14fc34ef98a310bb6a0a93015b31aefb167520fd6925fe501d2e6d5dc946/article.md",
+    "record": "articles/v1/69/t-mobile-us-inc-common-stock/2026/07/c7/c7fc14fc34ef98a310bb6a0a93015b31aefb167520fd6925fe501d2e6d5dc946/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10315,
+    "sha256": "sha256:7b5ff0c86d3cf13800b76692193bf1ef1fd3ec3a5c9280ba8b0511f1f803ec2e",
+    "normalized_content_hash": "sha256:5c58d29d9e8f2ba2afcb87c0148d9c33453a531583e75472c4026e4c81ae8750"
+  },
+  "provenance": {
+    "source_item_id": "e2c4069d-3278-4f3d-bc96-da83a8b42730",
+    "external_id": "https://www.t-mobile.com/news/un-carrier/t-mobile-america250-july-4"
+  }
+}

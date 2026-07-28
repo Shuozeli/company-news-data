@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e6a608f57064e1e2f5a24ad5656c3bdbff7db1bb6a25c60750f7ddb22251c6a",
+  "company": {
+    "key": "pacific-biosciences-of-california-inc-common-stock",
+    "name": "Pacific Biosciences of California Inc. Common Stock"
+  },
+  "source": {
+    "id": "pacific-biosciences-of-california-inc-common-stock-news-import-446448bf94cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pacb.com/blog/hifi-multiomics-reveals-how-biology-shapes-life-on-earth/",
+    "canonical": "https://www.pacb.com/blog/hifi-multiomics-reveals-how-biology-shapes-life-on-earth/"
+  },
+  "title": "HiFi multiomics reveals how biology shapes life on Earth",
+  "summary": "See how gene editing and HiFi sequencing are unlocking new ways to grow resilient crops and protect the planet’s biodiversity.",
+  "published_at": "2026-04-22T13:00:30+00:00",
+  "first_seen_at": "2026-07-22T08:02:43.432836+00:00",
+  "fetched_at": "2026-07-28T21:45:30.754431+00:00",
+  "last_updated_at": "2026-07-28T21:46:28.293172+00:00",
+  "paths": {
+    "article": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/04/3e/3e6a608f57064e1e2f5a24ad5656c3bdbff7db1bb6a25c60750f7ddb22251c6a/article.md",
+    "record": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/04/3e/3e6a608f57064e1e2f5a24ad5656c3bdbff7db1bb6a25c60750f7ddb22251c6a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11960,
+    "sha256": "sha256:0f4854671272e8ed413e3e57efbf8723b412739a13a25ed849a68fb76b1ed340",
+    "normalized_content_hash": "sha256:a08c9b52ee0c924261152350683fbc660bbcef1fdc4e34f8b48f79d5b70a5926"
+  },
+  "provenance": {
+    "source_item_id": "e6a4ca02-544f-4092-8313-01292927f2d7",
+    "external_id": "https://www.pacb.com/blog/hifi-multiomics-reveals-how-biology-shapes-life-on-earth/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d44169b93744d58d4c6fdfc23f7b6070c5e66c669895f0b8ce75bb9ab99043cf",
+  "company": {
+    "key": "boeing-company-the-common-stock",
+    "name": "Boeing Company (The) Common Stock"
+  },
+  "source": {
+    "id": "boeing-company-the-common-stock-rss-76526cfc8662",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://investors.boeing.com/investors/news/press-release-details/2026/Boeing-and-Philippine-Airlines-Announce-Commitment-for-up-to-20-787-Dreamliner-Jets/default.aspx",
+    "canonical": "http://investors.boeing.com/investors/news/press-release-details/2026/Boeing-and-Philippine-Airlines-Announce-Commitment-for-up-to-20-787-Dreamliner-Jets/default.aspx"
+  },
+  "title": "Boeing and Philippine Airlines Announce Commitment for up to 20 787 Dreamliner Jets",
+  "summary": "",
+  "published_at": "2026-07-20T10:43:00+00:00",
+  "first_seen_at": "2026-07-26T23:54:21.829354+00:00",
+  "fetched_at": "2026-07-28T20:43:51.874638+00:00",
+  "last_updated_at": "2026-07-28T20:43:51.935421+00:00",
+  "paths": {
+    "article": "articles/v1/76/boeing-company-the-common-stock/2026/07/d4/d44169b93744d58d4c6fdfc23f7b6070c5e66c669895f0b8ce75bb9ab99043cf/article.md",
+    "record": "articles/v1/76/boeing-company-the-common-stock/2026/07/d4/d44169b93744d58d4c6fdfc23f7b6070c5e66c669895f0b8ce75bb9ab99043cf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 766,
+    "sha256": "sha256:a8dc04e5a5fcb377c11ada4eb13b10b9b40838e5f7a333d76f77de0910bacf5c",
+    "normalized_content_hash": "sha256:1cea457175dace42708238e6e63a76d656ee308542c086de95e50f11e692c471"
+  },
+  "provenance": {
+    "source_item_id": "9646fd2d-51d1-4967-9752-d94ce23ce271",
+    "external_id": "c09dd373-0fe8-4a73-a036-bf7e57a0fe70"
+  }
+}

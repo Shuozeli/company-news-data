@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09f849a4de5954b3426668765d79df786ec12933f1002517608fe35329a2c401",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-40c8a89d7155",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/uhs-receives-2025-press-ganey-human-experience-guardian-of-excellence-award/",
+    "canonical": "https://uhs.com/news/uhs-receives-2025-press-ganey-human-experience-guardian-of-excellence-award/"
+  },
+  "title": "UHS Receives 2025 Press Ganey Human Experience Guardian of Excellence Award®",
+  "summary": "For the third consecutive year, UHS is recognized as a leader in consumer experience within the healthcare industry.",
+  "published_at": "2026-01-15T14:26:07+00:00",
+  "first_seen_at": "2026-07-24T05:33:01.391339+00:00",
+  "fetched_at": "2026-07-28T22:23:32.114893+00:00",
+  "last_updated_at": "2026-07-28T22:23:42.690173+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/09/09f849a4de5954b3426668765d79df786ec12933f1002517608fe35329a2c401/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/09/09f849a4de5954b3426668765d79df786ec12933f1002517608fe35329a2c401/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5370,
+    "sha256": "sha256:75a1f22386e64c2a6ab07c5465a58374da3e0e715812cb40f1975db718470973",
+    "normalized_content_hash": "sha256:1de82e993c680ca1038a220993d11166b0bc97c2ab94bbeda8dcd5a0afbfd5fa"
+  },
+  "provenance": {
+    "source_item_id": "9bc8a494-53aa-4691-9d08-73ea29415b25",
+    "external_id": "https://uhs.com/news/uhs-receives-2025-press-ganey-human-experience-guardian-of-excellence-award/"
+  }
+}

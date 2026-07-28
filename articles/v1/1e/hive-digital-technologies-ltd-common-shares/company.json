@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "hive-digital-technologies-ltd-common-shares",
+    "name": "HIVE Digital Technologies Ltd. Common Shares"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-05-18T00:00:00+00:00",
+  "last_published_at": "2026-06-30T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    }
+  ]
+}

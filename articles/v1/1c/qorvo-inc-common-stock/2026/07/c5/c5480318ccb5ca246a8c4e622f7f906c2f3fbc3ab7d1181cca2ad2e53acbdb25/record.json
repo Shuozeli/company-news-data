@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c5480318ccb5ca246a8c4e622f7f906c2f3fbc3ab7d1181cca2ad2e53acbdb25",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/qorvo-recognized-with-2026-handshake-early-talent-award",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/qorvo-recognized-with-2026-handshake-early-talent-award"
+  },
+  "title": "Qorvo Recognized with 2026 Handshake Early Talent Award",
+  "summary": "Qorvo® (Nasdaq: QRVO), a leading global provider of connectivity and power solutions, today announced it has been named a recipient of the 2026 Handshake Early Talent Award (ETA), recognizing Qorvo as a top employer for Gen Z talent.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:12.897003+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/c5/c5480318ccb5ca246a8c4e622f7f906c2f3fbc3ab7d1181cca2ad2e53acbdb25/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/c5/c5480318ccb5ca246a8c4e622f7f906c2f3fbc3ab7d1181cca2ad2e53acbdb25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8986,
+    "sha256": "sha256:9dab8487acb45546986653bef8ab20a8c81606e03d6414ad2a03eb3d7775672a",
+    "normalized_content_hash": "sha256:ff4bb80cd86469ac325d0a43ccc401da94a69f595735c901a85751608a1654fc"
+  },
+  "provenance": {
+    "source_item_id": "6605d015-eac9-4f39-af7a-24f0dde72a8b",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/qorvo-recognized-with-2026-handshake-early-talent-award"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-kamion",
+    "name": "Kamion"
+  },
+  "record_count": 10,
+  "first_published_at": "2024-11-14T07:28:18+00:00",
+  "last_published_at": "2026-06-25T08:56:28+00:00",
+  "partitions": [
+    {
+      "partition": "2024-11",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ]
+}

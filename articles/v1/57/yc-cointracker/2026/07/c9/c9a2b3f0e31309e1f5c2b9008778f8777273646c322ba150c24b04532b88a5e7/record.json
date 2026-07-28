@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c9a2b3f0e31309e1f5c2b9008778f8777273646c322ba150c24b04532b88a5e7",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-8eddc0d2ffc8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/what-is-phantom-wallet",
+    "canonical": "https://www.cointracker.io/blog/what-is-phantom-wallet"
+  },
+  "title": "What’s Phantom Wallet? Plus, how to set up and use it",
+  "summary": "Looking for somewhere to store your SOL? Learn what the Phantom Wallet is and whether it's Solana's safest option.",
+  "published_at": "2026-07-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:51:12.353224+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.998833+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2026/07/c9/c9a2b3f0e31309e1f5c2b9008778f8777273646c322ba150c24b04532b88a5e7/article.md",
+    "record": "articles/v1/57/yc-cointracker/2026/07/c9/c9a2b3f0e31309e1f5c2b9008778f8777273646c322ba150c24b04532b88a5e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9879,
+    "sha256": "sha256:a3c30261afb1efb03fd60a29d810bb2ec13eb60c83efa0262298f4dad75fa885",
+    "normalized_content_hash": "sha256:45c2efd4629219c4d8afd93c4c0377f3848372f57769199571453486aeefec8f"
+  },
+  "provenance": {
+    "source_item_id": "ebb29069-6240-486a-b174-201711f7c04e",
+    "external_id": "https://www.cointracker.io/blog/what-is-phantom-wallet"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "jinkosolar-holding-company-limited-american-depositary-shares-each-representing-4-common-shares",
+    "name": "JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares)"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-02-27T12:50:00+00:00",
+  "last_published_at": "2026-06-25T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c59368b4a57c0a97934a493e932860919b5f2143d281eaf81f71ece2fa5b70d",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/security-bulletin-aws-reported-ami-issue/",
+    "canonical": "https://engineering.sift.com/security-bulletin-aws-reported-ami-issue/"
+  },
+  "title": "Security Bulletin – AWS Reported AMI Issue",
+  "summary": "AWS notified Sift on September 18th, 2018, of an issue where AWS incorrectly labeled Amazon Machine Images associated with Sift’s account. AWS incorrectly labeled AMIs as encrypted when the images were unencrypted. Sift engineers investigated and confirmed that the mislabeled AMIs did not place customer data at risk, and that affected systems will receive corrected […]",
+  "published_at": "2018-09-21T23:40:52+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.602861+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2018/09/0c/0c59368b4a57c0a97934a493e932860919b5f2143d281eaf81f71ece2fa5b70d/article.md",
+    "record": "articles/v1/fe/yc-sift/2018/09/0c/0c59368b4a57c0a97934a493e932860919b5f2143d281eaf81f71ece2fa5b70d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1499,
+    "sha256": "sha256:cb477586a45459f043a10946b94ceb78a8c84e0b34b1a20fd7ab917521cda61b",
+    "normalized_content_hash": "sha256:7780b250411cb42b768b09e8bfbe67239d1fa4f0ac7e0d650af218894c8ebe0f"
+  },
+  "provenance": {
+    "source_item_id": "b67563fe-e93e-4f9f-a3cc-798341d5eac6",
+    "external_id": "https://engineering.sift.com/security-bulletin-aws-reported-ami-issue/"
+  }
+}

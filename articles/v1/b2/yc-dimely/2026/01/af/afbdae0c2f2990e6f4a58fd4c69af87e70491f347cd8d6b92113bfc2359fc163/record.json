@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "afbdae0c2f2990e6f4a58fd4c69af87e70491f347cd8d6b92113bfc2359fc163",
+  "company": {
+    "key": "yc-dimely",
+    "name": "Dimely"
+  },
+  "source": {
+    "id": "yc-dimely-rss-a84043c4c476",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.dimely.com/post/the-crucial-role-of-unique-identifiers-why-every-business-needs-them-today",
+    "canonical": "https://www.dimely.com/post/the-crucial-role-of-unique-identifiers-why-every-business-needs-them-today"
+  },
+  "title": "The Crucial Role of Unique Identifiers: Why Every Business Needs Them Today",
+  "summary": "In an era where data drives decisions, accuracy is king. Yet many businesses unintentionally invite chaos by failing to assign a proper, unique identifier (ID) to the key objects in their systems—such as orders, products, customers, or invoices. The result? Fuzzy matching errors, reconciliation nightmares, and a spike in hidden costs.Below is a deeper look at why IDs matter, what happens when you ignore them, and how you can get started implementing them effectively.1. The Cost of Poor or Missin",
+  "published_at": "2026-01-19T22:35:04+00:00",
+  "first_seen_at": "2026-07-20T23:20:24.442258+00:00",
+  "fetched_at": "2026-07-28T22:23:25.248280+00:00",
+  "last_updated_at": "2026-07-28T22:23:33.455620+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-dimely/2026/01/af/afbdae0c2f2990e6f4a58fd4c69af87e70491f347cd8d6b92113bfc2359fc163/article.md",
+    "record": "articles/v1/b2/yc-dimely/2026/01/af/afbdae0c2f2990e6f4a58fd4c69af87e70491f347cd8d6b92113bfc2359fc163/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5937,
+    "sha256": "sha256:40c8d86775692501b2cb548454b5c07bc192996ebfb843904d40c395c2a412d4",
+    "normalized_content_hash": "sha256:e0b839537a2381c507ec49c340fa055aeb2e1e95de8e0f1f49040e557b58565f"
+  },
+  "provenance": {
+    "source_item_id": "1c92b91e-3fc2-4254-b71f-782b2d0901dc",
+    "external_id": "696eb11ac7890172bd2c883e"
+  }
+}

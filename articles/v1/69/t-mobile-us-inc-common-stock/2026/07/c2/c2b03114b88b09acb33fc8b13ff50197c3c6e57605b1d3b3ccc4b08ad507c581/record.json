@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c2b03114b88b09acb33fc8b13ff50197c3c6e57605b1d3b3ccc4b08ad507c581",
+  "company": {
+    "key": "t-mobile-us-inc-common-stock",
+    "name": "T-Mobile US Inc. Common Stock"
+  },
+  "source": {
+    "id": "t-mobile-us-inc-common-stock-news-import-748f5f079be8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.t-mobile.com/news/un-carrier/t-mobile-and-umbro-exclusive-soccer-jersey-collab",
+    "canonical": "https://www.t-mobile.com/news/un-carrier/t-mobile-and-umbro-exclusive-soccer-jersey-collab"
+  },
+  "title": "T‑Mobile Teams Up with Soccer Icon Umbro to Launch Exclusive Jerseys",
+  "summary": "Inspired by the pitch and built for everyday wear, the limited-edition T‑Mobile x Umbro jerseys drop exclusively for T‑Mobile members in the T-Life app starting July 7",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:46:33.310465+00:00",
+  "fetched_at": "2026-07-28T21:52:24.088997+00:00",
+  "last_updated_at": "2026-07-28T21:56:41.091122+00:00",
+  "paths": {
+    "article": "articles/v1/69/t-mobile-us-inc-common-stock/2026/07/c2/c2b03114b88b09acb33fc8b13ff50197c3c6e57605b1d3b3ccc4b08ad507c581/article.md",
+    "record": "articles/v1/69/t-mobile-us-inc-common-stock/2026/07/c2/c2b03114b88b09acb33fc8b13ff50197c3c6e57605b1d3b3ccc4b08ad507c581/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7309,
+    "sha256": "sha256:62ed3b74a1cd08829c7645586bdf21d7a75cb49589852543cd303b1756512728",
+    "normalized_content_hash": "sha256:ad2908092186d2f182e09ea74458c147a8bff63454fb6aafd674c7881730b1b9"
+  },
+  "provenance": {
+    "source_item_id": "26f30515-7f70-405e-9cae-e369d22064b8",
+    "external_id": "https://www.t-mobile.com/news/un-carrier/t-mobile-and-umbro-exclusive-soccer-jersey-collab"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "69535c2085e3a7974c6db51ce11603cb45e89fa93acaa11de1ca32170d3ff203",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/"
+  },
+  "title": "Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs",
+  "summary": "CrowdStrike is a founding member of Anthropic’s security coalition for the Mythos frontier model, securing AI where it executes. Learn more.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.418575+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/69/69535c2085e3a7974c6db51ce11603cb45e89fa93acaa11de1ca32170d3ff203/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/69/69535c2085e3a7974c6db51ce11603cb45e89fa93acaa11de1ca32170d3ff203/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6614,
+    "sha256": "sha256:79823abcd7d67ae9be026d752512ccbd9818d8dce5cb617ba955b7474bfedf7a",
+    "normalized_content_hash": "sha256:d8c7bca11a00f837fa59138697046b30c754fdbd3dbc575348a80653d50b35b7"
+  },
+  "provenance": {
+    "source_item_id": "ceeca98c-97d1-4ee2-8eeb-e0da2be9cad3",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/"
+  }
+}

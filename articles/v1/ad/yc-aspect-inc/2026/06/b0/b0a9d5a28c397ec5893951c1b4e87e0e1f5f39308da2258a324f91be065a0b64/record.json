@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b0a9d5a28c397ec5893951c1b4e87e0e1f5f39308da2258a324f91be065a0b64",
+  "company": {
+    "key": "yc-aspect-inc",
+    "name": "Aspect"
+  },
+  "source": {
+    "id": "yc-aspect-inc-news-import-ad28d86e40e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aspect.inc/blog/camera-workflows",
+    "canonical": "https://aspect.inc/blog/camera-workflows"
+  },
+  "title": "Camera Workflows",
+  "summary": "Camera-native production workflows across RED, ARRI, Blackmagic, Sony, Canon, and Panasonic.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T08:02:15.371606+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:22:58.487271+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-aspect-inc/2026/06/b0/b0a9d5a28c397ec5893951c1b4e87e0e1f5f39308da2258a324f91be065a0b64/article.md",
+    "record": "articles/v1/ad/yc-aspect-inc/2026/06/b0/b0a9d5a28c397ec5893951c1b4e87e0e1f5f39308da2258a324f91be065a0b64/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 775,
+    "sha256": "sha256:e1a09e037fe00a8cb4fc52bdf125f83ece03c697ec69b32d966ecd3acd0e1257",
+    "normalized_content_hash": "sha256:ca5bd7b9f965bf30b6c27b3e8e5408f00fcdbac5fdfa5a82e95e4ad845e37f21"
+  },
+  "provenance": {
+    "source_item_id": "ba543eef-95da-4942-9fb6-b29ce2fba2ab",
+    "external_id": "https://aspect.inc/blog/camera-workflows"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3dd3ce7f1b9f0b0231b659ca661818b685b098488960be98d71f1ce10b63208f",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-40c8a89d7155",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/universal-health-services-inc-ranked-by-fortune-among-worlds-most-admired-companies-in-2026/",
+    "canonical": "https://uhs.com/news/universal-health-services-inc-ranked-by-fortune-among-worlds-most-admired-companies-in-2026/"
+  },
+  "title": "Universal Health Services, Inc. Ranked by Fortune Among World’s Most Admired Companies in 2026",
+  "summary": "Excellence in care, innovation and value creation supports recognition on the list for 16 consecutive years.",
+  "published_at": "2026-03-11T15:12:00+00:00",
+  "first_seen_at": "2026-07-24T05:33:01.391339+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:18.174425+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2026/03/3d/3dd3ce7f1b9f0b0231b659ca661818b685b098488960be98d71f1ce10b63208f/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2026/03/3d/3dd3ce7f1b9f0b0231b659ca661818b685b098488960be98d71f1ce10b63208f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6234,
+    "sha256": "sha256:587371c5d245bb6bc5ea4788f3ca528eaffd3a9aea96db19f39e9ec6292339e2",
+    "normalized_content_hash": "sha256:308615d1ed4a7a415f016b03adc0d004c851fe2f0321ae96ac48d8e34fb3f46c"
+  },
+  "provenance": {
+    "source_item_id": "0c652bf8-8028-42a8-aea4-9486287f973b",
+    "external_id": "https://uhs.com/news/universal-health-services-inc-ranked-by-fortune-among-worlds-most-admired-companies-in-2026/"
+  }
+}

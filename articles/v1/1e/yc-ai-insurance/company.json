@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-ai-insurance",
+    "name": "AI Insurance"
+  },
+  "record_count": 6,
+  "first_published_at": "2025-08-05T20:08:00+00:00",
+  "last_published_at": "2026-02-02T16:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    }
+  ]
+}

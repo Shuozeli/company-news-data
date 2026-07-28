@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98f3a378b1cd2dfc05f4ebac46bf4db7b84c5a33b44831b17c0dd539bf35796b",
+  "company": {
+    "key": "impinj-inc-common-stock",
+    "name": "Impinj Inc. Common Stock"
+  },
+  "source": {
+    "id": "impinj-inc-common-stock-news-import-2220e02ed419",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.impinj.com/library/blog/psbj-names-impinj-one-of-washingtons-best-workplac",
+    "canonical": "https://www.impinj.com/library/blog/psbj-names-impinj-one-of-washingtons-best-workplac"
+  },
+  "title": "PSBJ Names Impinj One of Washington’s Best Workplaces",
+  "summary": "Impinj ranked #2 in Puget Sound Business Journal’s annual top workplace roundup.",
+  "published_at": "2023-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:38:58.873388+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:05.476817+00:00",
+  "paths": {
+    "article": "articles/v1/7b/impinj-inc-common-stock/2023/08/98/98f3a378b1cd2dfc05f4ebac46bf4db7b84c5a33b44831b17c0dd539bf35796b/article.md",
+    "record": "articles/v1/7b/impinj-inc-common-stock/2023/08/98/98f3a378b1cd2dfc05f4ebac46bf4db7b84c5a33b44831b17c0dd539bf35796b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4850,
+    "sha256": "sha256:31e2502bc3c9abf272d3c836110ff09250d0edcf477f43daa1fb1ee2b10665b7",
+    "normalized_content_hash": "sha256:88f30b259b96036d60ec7cd1f8e64159308fa2d8c394136f8d02608f839cc012"
+  },
+  "provenance": {
+    "source_item_id": "a1ae75b1-8ea7-4618-988b-9eb1e174b050",
+    "external_id": "https://www.impinj.com/library/blog/psbj-names-impinj-one-of-washingtons-best-workplac"
+  }
+}

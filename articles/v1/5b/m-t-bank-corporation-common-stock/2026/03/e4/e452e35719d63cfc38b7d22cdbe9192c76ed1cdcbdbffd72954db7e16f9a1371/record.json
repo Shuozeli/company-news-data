@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e452e35719d63cfc38b7d22cdbe9192c76ed1cdcbdbffd72954db7e16f9a1371",
+  "company": {
+    "key": "m-t-bank-corporation-common-stock",
+    "name": "M&T Bank Corporation Common Stock"
+  },
+  "source": {
+    "id": "m-t-bank-corporation-common-stock-news-import-ec3805df6f49",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://newsroom.mtb.com/2026-03-16-M-T-Bank-CEO-Rene-Jones-Highlights-Strong-Performance,-Technology-Transformation-in-Annual-Letter",
+    "canonical": "https://newsroom.mtb.com/2026-03-16-M-T-Bank-CEO-Rene-Jones-Highlights-Strong-Performance,-Technology-Transformation-in-Annual-Letter"
+  },
+  "title": "M&T Bank CEO René Jones Highlights Strong Performance, Technology Transformation in Annual Letter",
+  "summary": "M&T Bank (NYSE:MTB) Chairman and CEO René Jones has released his annual message to shareholders, which highlights the bank's consistent, strong financial performance and its investments in...",
+  "published_at": "2026-03-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:48:15.516769+00:00",
+  "fetched_at": "2026-07-28T21:26:25.193690+00:00",
+  "last_updated_at": "2026-07-28T21:26:51.891179+00:00",
+  "paths": {
+    "article": "articles/v1/5b/m-t-bank-corporation-common-stock/2026/03/e4/e452e35719d63cfc38b7d22cdbe9192c76ed1cdcbdbffd72954db7e16f9a1371/article.md",
+    "record": "articles/v1/5b/m-t-bank-corporation-common-stock/2026/03/e4/e452e35719d63cfc38b7d22cdbe9192c76ed1cdcbdbffd72954db7e16f9a1371/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4915,
+    "sha256": "sha256:38b24981e789d89fa84e3ac429a7b9f191615883583992adf82c9780d77a0875",
+    "normalized_content_hash": "sha256:88bfe6efa197d35053acb042b57ad45d665f617523a3fde9d5a7eaea86e2e926"
+  },
+  "provenance": {
+    "source_item_id": "a36b1dc3-728b-459a-98ff-dcf42c1ddad9",
+    "external_id": "https://newsroom.mtb.com/2026-03-16-M-T-Bank-CEO-Rene-Jones-Highlights-Strong-Performance,-Technology-Transformation-in-Annual-Letter"
+  }
+}

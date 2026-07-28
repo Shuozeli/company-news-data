@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5bd027ff94dda477e2ae18ad51271c4c2b619220d7a30431b82acb4036dca8cc",
+  "company": {
+    "key": "airbnb-inc-class-a-common-stock",
+    "name": "Airbnb Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "airbnb-inc-class-a-common-stock-rss-d1a7958eece3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4",
+    "canonical": "https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017"
+  },
+  "title": "Building a fault-tolerant metrics storage system at Airbnb",
+  "summary": "How we built a storage system that ingests 50 million samples per second and stores 2.5 petabytes of logical time series data.",
+  "published_at": "2026-04-21T17:01:06+00:00",
+  "first_seen_at": "2026-07-20T04:35:41.377728+00:00",
+  "fetched_at": "2026-07-28T22:15:46.234407+00:00",
+  "last_updated_at": "2026-07-28T22:15:58.677023+00:00",
+  "paths": {
+    "article": "articles/v1/27/airbnb-inc-class-a-common-stock/2026/04/5b/5bd027ff94dda477e2ae18ad51271c4c2b619220d7a30431b82acb4036dca8cc/article.md",
+    "record": "articles/v1/27/airbnb-inc-class-a-common-stock/2026/04/5b/5bd027ff94dda477e2ae18ad51271c4c2b619220d7a30431b82acb4036dca8cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15224,
+    "sha256": "sha256:2d11cca89d32e43d334528f7fcbfe8bde231623c50c53a3c223a73ad431196fd",
+    "normalized_content_hash": "sha256:50b63f08c55f2cfa2e3e17a527586aa700ad503e9370dec166d6ef2a0d5b9334"
+  },
+  "provenance": {
+    "source_item_id": "eb264c67-2084-4ba7-8f50-a9619e76600b",
+    "external_id": "https://medium.com/p/26a01a6e7017"
+  }
+}

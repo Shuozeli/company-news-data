@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-airmyne",
+    "name": "AirMyne"
+  },
+  "record_count": 8,
+  "first_published_at": "2024-03-20T00:57:00+00:00",
+  "last_published_at": "2024-09-19T00:58:03+00:00",
+  "partitions": [
+    {
+      "partition": "2024-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 2
+    }
+  ]
+}

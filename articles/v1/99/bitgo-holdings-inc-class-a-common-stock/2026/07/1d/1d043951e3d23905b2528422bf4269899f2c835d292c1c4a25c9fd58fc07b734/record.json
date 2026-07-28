@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d043951e3d23905b2528422bf4269899f2c835d292c1c4a25c9fd58fc07b734",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/stablecoin-insurance-institutions/",
+    "canonical": "https://www.bitgo.com/resources/blog/stablecoin-insurance-institutions/"
+  },
+  "title": "Stablecoin Insurance: How Institutions Protect Fiat-backed Stablecoins Holdings",
+  "summary": "Explore how institutions approach stablecoin insurance from reserve risk and custodial coverage to regulatory frameworks and policy structures designed for digital dollar holdings.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:41.088269+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:07.211360+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/1d/1d043951e3d23905b2528422bf4269899f2c835d292c1c4a25c9fd58fc07b734/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/1d/1d043951e3d23905b2528422bf4269899f2c835d292c1c4a25c9fd58fc07b734/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16233,
+    "sha256": "sha256:350949f1b2ce6c703f52ccf88c966a45d5abdc658bd1d54a3cb3f0bf08d1e1c1",
+    "normalized_content_hash": "sha256:5e723265a1891850f02b8f0328b9fe7bcab875f15bcea4064480f12dba040cec"
+  },
+  "provenance": {
+    "source_item_id": "b1a77870-6b95-4cf6-a680-439c9eb86dfa",
+    "external_id": "https://www.bitgo.com/resources/blog/stablecoin-insurance-institutions/"
+  }
+}

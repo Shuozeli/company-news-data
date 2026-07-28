@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "renew-energy-global-plc-class-a-ordinary-shares",
+    "name": "ReNew Energy Global plc Class A Ordinary Shares"
+  },
+  "record_count": 8,
+  "first_published_at": "2026-03-03T05:39:43+00:00",
+  "last_published_at": "2026-07-21T04:20:06+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ]
+}

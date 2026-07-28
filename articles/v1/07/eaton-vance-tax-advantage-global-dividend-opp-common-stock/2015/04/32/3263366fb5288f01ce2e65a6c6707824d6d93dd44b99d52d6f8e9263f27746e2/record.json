@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3263366fb5288f01ce2e65a6c6707824d6d93dd44b99d52d6f8e9263f27746e2",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/units-lp-int-alliance-resource-partners-lp-nasdaq-arlp-declared-a-dividend-of-$0.6000-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/units-lp-int-alliance-resource-partners-lp-nasdaq-arlp-declared-a-dividend-of-$0.6000-per-share/"
+  },
+  "title": "ARLP Dividend Announcement $0.6000/Share 7/27/2026",
+  "summary": "NASDAQ:ARLP Units LP Int/Alliance Resource Partners LP Dividend Announcement $0.6000 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.137910+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/32/3263366fb5288f01ce2e65a6c6707824d6d93dd44b99d52d6f8e9263f27746e2/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/32/3263366fb5288f01ce2e65a6c6707824d6d93dd44b99d52d6f8e9263f27746e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2253,
+    "sha256": "sha256:0713209ae7cbdc752bc224ed4fc15074cdb0f379d150aee5e343d93ae5acf5f6",
+    "normalized_content_hash": "sha256:398cffe65178dafd9a73994ec3d374d729d63e3bee45d8b80af16ffe2337614e"
+  },
+  "provenance": {
+    "source_item_id": "3da6f361-c5af-4ccd-8d9b-66f18b6030b1",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/units-lp-int-alliance-resource-partners-lp-nasdaq-arlp-declared-a-dividend-of-$0.6000-per-share/"
+  }
+}

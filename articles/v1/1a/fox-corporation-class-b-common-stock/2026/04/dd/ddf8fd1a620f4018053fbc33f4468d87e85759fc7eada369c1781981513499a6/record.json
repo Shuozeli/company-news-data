@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ddf8fd1a620f4018053fbc33f4468d87e85759fc7eada369c1781981513499a6",
+  "company": {
+    "key": "fox-corporation-class-b-common-stock",
+    "name": "Fox Corporation Class B Common Stock"
+  },
+  "source": {
+    "id": "fox-corporation-class-b-common-stock-news-import-00d28a5b5235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investor.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-executives-to-discuss-third-quarter-fiscal-2026-financial-results-via-webcast/",
+    "canonical": "https://investor.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-executives-to-discuss-third-quarter-fiscal-2026-financial-results-via-webcast/"
+  },
+  "title": "Fox Corporation Executives to Discuss Third Quarter Fiscal 2026 Financial Results Via Webcast",
+  "summary": "New York, NY and Los Angeles, CA – April 20, 2026 – Fox Corporation (Nasdaq: FOXA, FOX) will discuss third quarter fiscal 2026 financial results via a live audio webcast beginning at 8:30 a.m. ET / 5:30 a.m. PT on May 11, 2026. Results will be released at approximately 8:00 a.m. ET / 5:00 a.m. […]",
+  "published_at": "2026-04-20T16:03:49+00:00",
+  "first_seen_at": "2026-07-23T10:02:45.097597+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-07-28T21:26:13.649475+00:00",
+  "paths": {
+    "article": "articles/v1/1a/fox-corporation-class-b-common-stock/2026/04/dd/ddf8fd1a620f4018053fbc33f4468d87e85759fc7eada369c1781981513499a6/article.md",
+    "record": "articles/v1/1a/fox-corporation-class-b-common-stock/2026/04/dd/ddf8fd1a620f4018053fbc33f4468d87e85759fc7eada369c1781981513499a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2409,
+    "sha256": "sha256:43e8546cf55654b19659f6f4d81e5eaf3847236c42461d77a6975913f5b13da9",
+    "normalized_content_hash": "sha256:fa844b755586fd6b00b12a76091fb05c76542cd8c739f45fb0a1cd51ff55dec5"
+  },
+  "provenance": {
+    "source_item_id": "46bc2110-7b0a-4b59-b11f-e16d0d03d882",
+    "external_id": "https://investor.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-executives-to-discuss-third-quarter-fiscal-2026-financial-results-via-webcast/"
+  }
+}

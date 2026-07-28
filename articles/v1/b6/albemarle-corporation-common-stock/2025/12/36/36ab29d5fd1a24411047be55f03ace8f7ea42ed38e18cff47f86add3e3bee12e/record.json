@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "36ab29d5fd1a24411047be55f03ace8f7ea42ed38e18cff47f86add3e3bee12e",
+  "company": {
+    "key": "albemarle-corporation-common-stock",
+    "name": "Albemarle Corporation Common Stock"
+  },
+  "source": {
+    "id": "albemarle-corporation-common-stock-news-import-46b1e4b791cf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.albemarle.com/us/en/news/albemarle-food-safety-products-help-protect-families",
+    "canonical": "https://www.albemarle.com/us/en/news/albemarle-food-safety-products-help-protect-families"
+  },
+  "title": "Albemarle Food Safety Products Help Protect Families",
+  "summary": "Albemarle is working behind the scenes to help keep foods safe. Our product portfolio helps ensure that poultry, beef and pork reach your celebrations safely",
+  "published_at": "2025-12-09T14:48:57+00:00",
+  "first_seen_at": "2026-07-24T05:00:17.878170+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-07-28T21:59:18.187598+00:00",
+  "paths": {
+    "article": "articles/v1/b6/albemarle-corporation-common-stock/2025/12/36/36ab29d5fd1a24411047be55f03ace8f7ea42ed38e18cff47f86add3e3bee12e/article.md",
+    "record": "articles/v1/b6/albemarle-corporation-common-stock/2025/12/36/36ab29d5fd1a24411047be55f03ace8f7ea42ed38e18cff47f86add3e3bee12e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2900,
+    "sha256": "sha256:261458352ba84e920cb54a9c946afd7d57437b2b166a9b94be8bfcc2998a3749",
+    "normalized_content_hash": "sha256:5f60198e3df6306b950eadbe91b44ac869100671815268b90b60656d08f2c592"
+  },
+  "provenance": {
+    "source_item_id": "f7f17e0d-9b0a-4f39-9914-e6c6d50a5ab0",
+    "external_id": "https://www.albemarle.com/us/en/news/albemarle-food-safety-products-help-protect-families"
+  }
+}

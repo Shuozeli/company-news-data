@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a24bdc16b76625a1b36ea0479c17306d12c0be3651f44d9125f1bb850af4aaac",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-e3018e454ae6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/design-hub/blog/redefining-industrial-safety-and-efficiency-with-ultra-wideband-technology",
+    "canonical": "https://www.qorvo.com/design-hub/blog/redefining-industrial-safety-and-efficiency-with-ultra-wideband-technology"
+  },
+  "title": "Redefining Industrial Safety and Efficiency with Ultra Wideband Technology",
+  "summary": "Safety and productivity finally align. Redpoint Positioning and Tsingoal use Qorvo UWB to deliver centimeter-level, SIL2-certified location accuracy.",
+  "published_at": "2026-03-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:14:16.870814+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:22.139330+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/03/a2/a24bdc16b76625a1b36ea0479c17306d12c0be3651f44d9125f1bb850af4aaac/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/03/a2/a24bdc16b76625a1b36ea0479c17306d12c0be3651f44d9125f1bb850af4aaac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6458,
+    "sha256": "sha256:2d27b2a2f3426c635606dbd8262f1687a40bdc85a40904064d45acd3230f14a2",
+    "normalized_content_hash": "sha256:c73048c3fef336315a580daa41be5aa0b936a47bcdb8ea43b095b0d6aa06ead7"
+  },
+  "provenance": {
+    "source_item_id": "3f26e0ad-72c6-4350-a9db-81035d0c98e4",
+    "external_id": "https://www.qorvo.com/design-hub/blog/redefining-industrial-safety-and-efficiency-with-ultra-wideband-technology"
+  }
+}

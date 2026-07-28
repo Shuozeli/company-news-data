@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "johnson-controls-international-plc-ordinary-share",
+    "name": "Johnson Controls International plc Ordinary Share"
+  },
+  "record_count": 7,
+  "first_published_at": "2026-06-03T00:00:00+00:00",
+  "last_published_at": "2026-07-27T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-cambly",
+    "name": "Cambly"
+  },
+  "record_count": 12,
+  "first_published_at": "2018-12-18T07:56:46+00:00",
+  "last_published_at": "2022-11-30T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2018-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-01",
+      "record_count": 7
+    },
+    {
+      "partition": "2019-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 2
+    }
+  ]
+}

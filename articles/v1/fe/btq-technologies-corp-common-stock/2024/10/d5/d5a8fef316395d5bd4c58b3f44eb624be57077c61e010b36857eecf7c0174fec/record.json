@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d5a8fef316395d5bd4c58b3f44eb624be57077c61e010b36857eecf7c0174fec",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/will-quantum-computers-break-bitcoin",
+    "canonical": "https://www.btq.tech/blog/will-quantum-computers-break-bitcoin"
+  },
+  "title": "Will Quantum Computers Break Bitcoin?",
+  "summary": "Explore how quantum computing threatens Bitcoin's cryptographic security, the fundamentals of Bitcoin's decentralized framework, and the need for post-quantum algorithms to safeguard the future of cryptocurrency.",
+  "published_at": "2024-10-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:36.556815+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2024/10/d5/d5a8fef316395d5bd4c58b3f44eb624be57077c61e010b36857eecf7c0174fec/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2024/10/d5/d5a8fef316395d5bd4c58b3f44eb624be57077c61e010b36857eecf7c0174fec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6449,
+    "sha256": "sha256:6534a0cfdbeae437175627807d92c5e71a48a3006e61102160e9e08824f0cc01",
+    "normalized_content_hash": "sha256:e7beeea5c3d9c22b91bd72ce1f7f6a7efee5cb7181b3c8a5ca640e22c48bbad8"
+  },
+  "provenance": {
+    "source_item_id": "7a4a1c99-6656-4130-b338-d73c2fb195f8",
+    "external_id": "https://www.btq.tech/blog/will-quantum-computers-break-bitcoin"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b4c26e70c23e0d383a00f158f23b859dcdc10c48c4219e29b89229dc8cb9abf",
+  "company": {
+    "key": "paccar-inc-common-stock",
+    "name": "PACCAR Inc. Common Stock"
+  },
+  "source": {
+    "id": "paccar-inc-common-stock-news-import-2cf1de5bfa55",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.paccar.com/news/current-news/2024/paccar-elects-new-director/",
+    "canonical": "https://www.paccar.com/news/current-news/2024/paccar-elects-new-director/"
+  },
+  "title": "PACCAR Elects New Director",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T11:01:05.418267+00:00",
+  "fetched_at": "2026-07-27T23:51:20.169687+00:00",
+  "last_updated_at": "2026-07-27T23:51:21.857840+00:00",
+  "paths": {
+    "article": "articles/v1/3f/paccar-inc-common-stock/2026/07/6b/6b4c26e70c23e0d383a00f158f23b859dcdc10c48c4219e29b89229dc8cb9abf/article.md",
+    "record": "articles/v1/3f/paccar-inc-common-stock/2026/07/6b/6b4c26e70c23e0d383a00f158f23b859dcdc10c48c4219e29b89229dc8cb9abf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2452,
+    "sha256": "sha256:fd96a6817186aec5a54454d6954a17ec07b35c7ff3ac62fe8595fdef02decfbc",
+    "normalized_content_hash": "sha256:a355dc25e32f54097ab05665830ddb763d86b478754b50f269bff0abbcaf34c9"
+  },
+  "provenance": {
+    "source_item_id": "ab74a475-e314-46d9-aa28-d8dcb4892f78",
+    "external_id": "https://www.paccar.com/news/current-news/2024/paccar-elects-new-director/"
+  }
+}

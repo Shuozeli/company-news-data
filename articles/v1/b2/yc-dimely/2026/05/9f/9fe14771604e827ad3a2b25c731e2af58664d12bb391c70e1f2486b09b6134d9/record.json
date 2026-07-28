@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9fe14771604e827ad3a2b25c731e2af58664d12bb391c70e1f2486b09b6134d9",
+  "company": {
+    "key": "yc-dimely",
+    "name": "Dimely"
+  },
+  "source": {
+    "id": "yc-dimely-rss-a84043c4c476",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.dimely.com/post/contract-aware-billing-saas",
+    "canonical": "https://www.dimely.com/post/contract-aware-billing-saas"
+  },
+  "title": "What Is Contract-Aware Billing for SaaS?",
+  "summary": "Contract-aware billing validates signed contract terms against system data for accurate invoices and revenue recognition, preventing SaaS billing errors",
+  "published_at": "2026-05-12T03:33:04+00:00",
+  "first_seen_at": "2026-07-20T23:20:24.442258+00:00",
+  "fetched_at": "2026-07-28T22:14:43.061733+00:00",
+  "last_updated_at": "2026-07-28T22:17:12.007743+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-dimely/2026/05/9f/9fe14771604e827ad3a2b25c731e2af58664d12bb391c70e1f2486b09b6134d9/article.md",
+    "record": "articles/v1/b2/yc-dimely/2026/05/9f/9fe14771604e827ad3a2b25c731e2af58664d12bb391c70e1f2486b09b6134d9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23037,
+    "sha256": "sha256:fed17b9b3a43bed53ec50049630e02373eb728ece12972935babb8705f41f610",
+    "normalized_content_hash": "sha256:8a7bdd1253bd9ac3c2168417c53d2154e2e5204105cdfc953555c4915b607524"
+  },
+  "provenance": {
+    "source_item_id": "85495822-16cb-4cf0-a8ad-1e12573fe6a7",
+    "external_id": "69e822d8e30ec41b7d09ab2a"
+  }
+}

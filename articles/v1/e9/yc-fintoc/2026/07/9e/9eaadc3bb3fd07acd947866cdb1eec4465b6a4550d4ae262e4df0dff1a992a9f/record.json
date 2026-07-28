@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9eaadc3bb3fd07acd947866cdb1eec4465b6a4550d4ae262e4df0dff1a992a9f",
+  "company": {
+    "key": "yc-fintoc",
+    "name": "Fintoc"
+  },
+  "source": {
+    "id": "yc-fintoc-news-import-4ac2d54454f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fintoc.com/cl/blog/presentando-el-mcp-de-fintoc",
+    "canonical": "https://fintoc.com/cl/blog/presentando-el-mcp-de-fintoc"
+  },
+  "title": "Presentando el MCP de Fintoc",
+  "summary": "Lanzamos el MCP de Fintoc, un servidor en mcp.fintoc.com que permite que Claude, Cursor, ChatGPT y otros accedan a información sobre tu organización en Fintoc d",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T20:01:58.351478+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:22:01.002523+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-fintoc/2026/07/9e/9eaadc3bb3fd07acd947866cdb1eec4465b6a4550d4ae262e4df0dff1a992a9f/article.md",
+    "record": "articles/v1/e9/yc-fintoc/2026/07/9e/9eaadc3bb3fd07acd947866cdb1eec4465b6a4550d4ae262e4df0dff1a992a9f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4085,
+    "sha256": "sha256:e5133a20ee8d0e95492a993d68315324783a36ef41b8d23d7ae7e776e5c16012",
+    "normalized_content_hash": "sha256:e34f57096a3e20405df7955104129139ae999e36daddd1f0d1bb9cc468c8bf4c"
+  },
+  "provenance": {
+    "source_item_id": "eaf654ba-6c03-4769-9ac6-a35bb749a412",
+    "external_id": "https://fintoc.com/cl/blog/presentando-el-mcp-de-fintoc"
+  }
+}

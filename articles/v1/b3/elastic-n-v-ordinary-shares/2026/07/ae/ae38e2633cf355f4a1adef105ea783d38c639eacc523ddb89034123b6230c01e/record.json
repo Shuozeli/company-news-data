@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae38e2633cf355f4a1adef105ea783d38c639eacc523ddb89034123b6230c01e",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V. Ordinary Shares"
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/elasticsearch-nvidia-inference",
+    "canonical": "https://www.elastic.co/search-labs/blog/elasticsearch-nvidia-inference"
+  },
+  "title": "4 NVIDIA AI tasks, 1 Elasticsearch API: Embeddings, chat, completion, and rerank",
+  "summary": "Run NVIDIA hosted models in Elasticsearch for text embedding, completion, chat completion and reranking, with no custom integration code needed.",
+  "published_at": "2026-07-13T10:17:51+00:00",
+  "first_seen_at": "2026-07-21T17:41:41.822757+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:09.496136+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/ae/ae38e2633cf355f4a1adef105ea783d38c639eacc523ddb89034123b6230c01e/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/ae/ae38e2633cf355f4a1adef105ea783d38c639eacc523ddb89034123b6230c01e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24379,
+    "sha256": "sha256:a8fa2453dde8fb2dd527534aab29889fbe6f9bf004a2a52e060342f0dc04adf3",
+    "normalized_content_hash": "sha256:a0795dab674042cc7c3bca473da4a8d9ea7eadfd4bf1ad525a9d6edbb4e4ec44"
+  },
+  "provenance": {
+    "source_item_id": "550da812-104c-4f52-a27d-867b8de1f8b0",
+    "external_id": "https://www.elastic.co/search-labs/blog/elasticsearch-nvidia-inference"
+  }
+}

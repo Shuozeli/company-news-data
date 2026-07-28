@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6246a573b38b5bbcd3a2cf080f0baa07530e8ca62b3613cc1c0a965de009421e",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/vaccination.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/vaccination.html"
+  },
+  "title": "Bot MD - A.I. powered vaccination scheduling and monitoring in Indonesia",
+  "summary": "Bot MD has partnered with leading vaccination clinic chain inHarmony Clinic to help automate their vaccination scheduling and post-vaccination monitoring workflows through an A.I. powered WhatsApp interface to improve convenience and access for their patients.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.639472+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/62/6246a573b38b5bbcd3a2cf080f0baa07530e8ca62b3613cc1c0a965de009421e/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/62/6246a573b38b5bbcd3a2cf080f0baa07530e8ca62b3613cc1c0a965de009421e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2031,
+    "sha256": "sha256:39208f39604a0a54180028dd19c207a5dd57ef0431e529929a234f4b07faa789",
+    "normalized_content_hash": "sha256:f6fef9af92e57db5a85a3d5bc49a88742a7a99cbe04dac4c992ebe567ec2323d"
+  },
+  "provenance": {
+    "source_item_id": "1cfab428-c525-4116-b418-3c8cccc20aeb",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/vaccination.html"
+  }
+}

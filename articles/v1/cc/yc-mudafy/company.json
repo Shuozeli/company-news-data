@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-mudafy",
+    "name": "Mudafy"
+  },
+  "record_count": 31,
+  "first_published_at": "2022-12-01T00:00:00+00:00",
+  "last_published_at": "2026-05-28T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ]
+}

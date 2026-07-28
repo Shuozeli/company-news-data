@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d5f50e43ec185780331ceb28a2b4ce91e6ec20d7a99ddfcc2f6032b228319db6",
+  "company": {
+    "key": "pagerduty-inc-common-stock",
+    "name": "PagerDuty Inc. Common Stock"
+  },
+  "source": {
+    "id": "pagerduty-inc-common-stock-rss-b3e2d0380f72",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.pagerduty.com/eng/production-ai-agents-closing-the-gaps-between-idea-and-reality/",
+    "canonical": "https://www.pagerduty.com/eng/production-ai-agents-closing-the-gaps-between-idea-and-reality/"
+  },
+  "title": "Production AI Agents: Closing the Gaps Between Idea and Reality by João Freitas",
+  "summary": "This article explores the complexities of transitioning AI agents from successful prototypes to reliable, production-ready systems.",
+  "published_at": "2026-06-11T12:16:45+00:00",
+  "first_seen_at": "2026-07-20T23:19:31.841537+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-07-28T21:12:52.599958+00:00",
+  "paths": {
+    "article": "articles/v1/7f/pagerduty-inc-common-stock/2026/06/d5/d5f50e43ec185780331ceb28a2b4ce91e6ec20d7a99ddfcc2f6032b228319db6/article.md",
+    "record": "articles/v1/7f/pagerduty-inc-common-stock/2026/06/d5/d5f50e43ec185780331ceb28a2b4ce91e6ec20d7a99ddfcc2f6032b228319db6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21138,
+    "sha256": "sha256:1c703a5d473a75737ba9891fd9d34f2d38fab81de654e1620369f276b1f79c2f",
+    "normalized_content_hash": "sha256:4cad7bc543818db8a14e6935e2adb2280be6e00b6042ca57f5852af8cb9846dc"
+  },
+  "provenance": {
+    "source_item_id": "5a859c69-1f96-49c3-a397-50d966e876e8",
+    "external_id": "https://www.pagerduty.foo/?post_type=eng-blog&p=100274"
+  }
+}

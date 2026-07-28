@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00f95038cb590902627715c2e0e4f9cd5807e5c607bea4d50bc867cd683154c5",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/qorvo-wins-supplier-champion-award--from-solid-state-storage-technology-corporation",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/qorvo-wins-supplier-champion-award--from-solid-state-storage-technology-corporation"
+  },
+  "title": "Qorvo Wins Supplier Champion Award from Solid State Storage Technology Corporation",
+  "summary": "Qorvo® (Nasdaq: QRVO), a leading global provider of connectivity and power solutions, announced today it has received the Supplier Champion Award for Power from Solid State Storage Technology Corporation (SSSTC). The award is presented annually to the supplier with the strongest overall performance in SSSTC’s quality assessment.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T22:07:07.393518+00:00",
+  "last_updated_at": "2026-07-28T22:08:14.832811+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/00/00f95038cb590902627715c2e0e4f9cd5807e5c607bea4d50bc867cd683154c5/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/00/00f95038cb590902627715c2e0e4f9cd5807e5c607bea4d50bc867cd683154c5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8239,
+    "sha256": "sha256:9202285b932a7399afcce5e26012ce402f7a75d824e235bb6e8e1730c91befc1",
+    "normalized_content_hash": "sha256:02373b6feaed66217e7c627a6d0896f76bfb48247f6ef196461a5407b0ea7450"
+  },
+  "provenance": {
+    "source_item_id": "e18b2aa9-1b5e-4199-80b9-31ab22857580",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/qorvo-wins-supplier-champion-award--from-solid-state-storage-technology-corporation"
+  }
+}

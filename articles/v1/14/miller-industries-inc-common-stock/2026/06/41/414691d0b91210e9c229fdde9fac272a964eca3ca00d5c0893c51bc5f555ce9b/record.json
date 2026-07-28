@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "414691d0b91210e9c229fdde9fac272a964eca3ca00d5c0893c51bc5f555ce9b",
+  "company": {
+    "key": "miller-industries-inc-common-stock",
+    "name": "Miller Industries Inc. Common Stock"
+  },
+  "source": {
+    "id": "miller-industries-inc-common-stock-rss-6fb29c407414",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://news.millerind.com/index.php/blog/towing-a-generation-5-freightliner-cascadia",
+    "canonical": "https://news.millerind.com/index.php/blog/towing-a-generation-5-freightliner-cascadia"
+  },
+  "title": "Towing a Generation 5 Freightliner Cascadia",
+  "summary": "Current news and information related to Miller Industries products and services.",
+  "published_at": "2026-06-09T19:12:00+00:00",
+  "first_seen_at": "2026-07-20T23:22:45.185337+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-07-28T21:13:01.152494+00:00",
+  "paths": {
+    "article": "articles/v1/14/miller-industries-inc-common-stock/2026/06/41/414691d0b91210e9c229fdde9fac272a964eca3ca00d5c0893c51bc5f555ce9b/article.md",
+    "record": "articles/v1/14/miller-industries-inc-common-stock/2026/06/41/414691d0b91210e9c229fdde9fac272a964eca3ca00d5c0893c51bc5f555ce9b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1026,
+    "sha256": "sha256:ca49e64d36ea6b9c82338b5c2e6eade88c0073b29c6c8f84023c763f676857c5",
+    "normalized_content_hash": "sha256:85b2119c50c2dd87c740d751738ccfeb41b66653a5860c70ac41a604fc9126c8"
+  },
+  "provenance": {
+    "source_item_id": "f7ba840f-af0c-46da-91f5-6dae76cf1187",
+    "external_id": "https://news.millerind.com/index.php/blog/towing-a-generation-5-freightliner-cascadia"
+  }
+}

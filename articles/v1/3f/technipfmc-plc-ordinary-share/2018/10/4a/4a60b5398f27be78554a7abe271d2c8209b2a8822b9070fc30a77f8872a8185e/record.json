@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4a60b5398f27be78554a7abe271d2c8209b2a8822b9070fc30a77f8872a8185e",
+  "company": {
+    "key": "technipfmc-plc-ordinary-share",
+    "name": "TechnipFMC plc Ordinary Share"
+  },
+  "source": {
+    "id": "technipfmc-plc-ordinary-share-rss-e927dfc37f01",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2018/10/new-ammonia-production-plant-starting-up-in-slovakia/",
+    "canonical": "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2018/10/new-ammonia-production-plant-starting-up-in-slovakia/"
+  },
+  "title": "New ammonia production plant starting up in Slovakia",
+  "summary": "",
+  "published_at": "2018-10-16T01:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:08:54.270037+00:00",
+  "fetched_at": "2026-07-28T21:51:21.094676+00:00",
+  "last_updated_at": "2026-07-28T21:51:21.161668+00:00",
+  "paths": {
+    "article": "articles/v1/3f/technipfmc-plc-ordinary-share/2018/10/4a/4a60b5398f27be78554a7abe271d2c8209b2a8822b9070fc30a77f8872a8185e/article.md",
+    "record": "articles/v1/3f/technipfmc-plc-ordinary-share/2018/10/4a/4a60b5398f27be78554a7abe271d2c8209b2a8822b9070fc30a77f8872a8185e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 688,
+    "sha256": "sha256:78db00b6998e5dbe96811330ca3c6b105d4f6ef651fae03c1437f8ae089befd4",
+    "normalized_content_hash": "sha256:6d6d4b9eb97313600b8ad408f5b46edabe0fe291d77012c29023163eeb2ed713"
+  },
+  "provenance": {
+    "source_item_id": "4b30b648-18fc-4598-814f-e20a6bb6c633",
+    "external_id": "{d4e4261d-5037-4b06-b07e-7f32c3b45686}"
+  }
+}

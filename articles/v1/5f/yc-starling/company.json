@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-starling",
+    "name": "Starling"
+  },
+  "record_count": 6,
+  "first_published_at": "2024-12-09T16:01:37+00:00",
+  "last_published_at": "2025-08-28T19:10:31+00:00",
+  "partitions": [
+    {
+      "partition": "2024-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1b02255b789d7f59304193c9f2fa8bcad87978f3f8684b18cf5cee067b42da4",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-8892e125c773",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nullstone.io/blog-posts/composable-developer-platforms",
+    "canonical": "https://nullstone.io/blog-posts/composable-developer-platforms"
+  },
+  "title": "Why Composable Developer Platforms are the Future of Developer Platforms",
+  "summary": "There are many varieties of dev platforms from PaaS to dev portals to homegrown. In this article, we'll highlight each platform and a composable approach.",
+  "published_at": "2023-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:17:35.365256+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:41.435157+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2023/07/b1/b1b02255b789d7f59304193c9f2fa8bcad87978f3f8684b18cf5cee067b42da4/article.md",
+    "record": "articles/v1/da/yc-nullstone/2023/07/b1/b1b02255b789d7f59304193c9f2fa8bcad87978f3f8684b18cf5cee067b42da4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17196,
+    "sha256": "sha256:eeef6d1f920e254f6ef4fa2f1a49f895aca02ed67eb2ee8d67d0d04aa8a4f001",
+    "normalized_content_hash": "sha256:668dabf82cece97509183d92e498302082e7d27b1ddb59c0f5354bb393f9ed07"
+  },
+  "provenance": {
+    "source_item_id": "99db0410-5fd2-464a-97f2-49a268e1fbb3",
+    "external_id": "https://nullstone.io/blog-posts/composable-developer-platforms"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9b726c9ef1e9a0ee48849e86ac47b6687a03c9c7059aae5d5d86f5365a093316",
+  "company": {
+    "key": "sierra-bancorp-common-stock",
+    "name": "Sierra Bancorp Common Stock"
+  },
+  "source": {
+    "id": "sierra-bancorp-common-stock-news-import-b91bc90c535f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bankofthesierra.com/bank-of-the-sierra-names-donald-terry-community-reinvestment-act-officer/",
+    "canonical": "https://www.bankofthesierra.com/bank-of-the-sierra-names-donald-terry-community-reinvestment-act-officer/"
+  },
+  "title": "Bank of the Sierra Names Donald Terry Community Reinvestment Act Officer",
+  "summary": "Porterville, Calif. – Bank of the Sierra announced today that Donald Terry has been named its Community Reinvestment Act (CRA) Officer.",
+  "published_at": "2023-06-05T18:46:16+00:00",
+  "first_seen_at": "2026-07-26T00:03:50.725587+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:44.086945+00:00",
+  "paths": {
+    "article": "articles/v1/24/sierra-bancorp-common-stock/2023/06/9b/9b726c9ef1e9a0ee48849e86ac47b6687a03c9c7059aae5d5d86f5365a093316/article.md",
+    "record": "articles/v1/24/sierra-bancorp-common-stock/2023/06/9b/9b726c9ef1e9a0ee48849e86ac47b6687a03c9c7059aae5d5d86f5365a093316/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3537,
+    "sha256": "sha256:14b5794d0d38a5d0e5846db0e22e2751c56b1bbfd8958e6083b47c75643ebc22",
+    "normalized_content_hash": "sha256:63475773efcb0bcd92318a176fc3222daa9eb92bcd6858fcb7c7ede88cd2dd41"
+  },
+  "provenance": {
+    "source_item_id": "89e91022-099d-4cc1-9f4e-af830c6fefc9",
+    "external_id": "https://www.bankofthesierra.com/bank-of-the-sierra-names-donald-terry-community-reinvestment-act-officer/"
+  }
+}

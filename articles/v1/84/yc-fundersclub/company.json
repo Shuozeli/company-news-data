@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-fundersclub",
+    "name": "FundersClub"
+  },
+  "record_count": 15,
+  "first_published_at": "2019-04-15T18:34:25+00:00",
+  "last_published_at": "2022-08-02T18:55:26+00:00",
+  "partitions": [
+    {
+      "partition": "2019-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    }
+  ]
+}

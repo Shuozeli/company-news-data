@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "80e8d2a6e1bcbb2db00efaf8c2126244848299fe9b0c6ce4098ccf19990eadd8",
+  "company": {
+    "key": "yc-phoenix",
+    "name": "Phoenix"
+  },
+  "source": {
+    "id": "yc-phoenix-news-import-be2e24644a46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.phoenix.ca/blog/how-much-protein-per-day-to-lose-weight-without-losing-muscle",
+    "canonical": "https://www.phoenix.ca/blog/how-much-protein-per-day-to-lose-weight-without-losing-muscle"
+  },
+  "title": "How Much Protein Per Day to Lose Weight",
+  "summary": "Learn how much protein per day to lose weight without losing muscle. Research supports 1.2-1.6g/kg for men. Five common mistakes and a simple daily plan.",
+  "published_at": "2026-04-10T19:05:52.757+00:00",
+  "first_seen_at": "2026-07-25T19:08:38.231288+00:00",
+  "fetched_at": "2026-07-28T22:15:54.285032+00:00",
+  "last_updated_at": "2026-07-28T22:18:34.194794+00:00",
+  "paths": {
+    "article": "articles/v1/dd/yc-phoenix/2026/04/80/80e8d2a6e1bcbb2db00efaf8c2126244848299fe9b0c6ce4098ccf19990eadd8/article.md",
+    "record": "articles/v1/dd/yc-phoenix/2026/04/80/80e8d2a6e1bcbb2db00efaf8c2126244848299fe9b0c6ce4098ccf19990eadd8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11051,
+    "sha256": "sha256:14d5436f172f9114d9f4f90ec88e732a8f69cffc509a9ec8320fbd6a1585b470",
+    "normalized_content_hash": "sha256:ef9bf0a0937b64babcfc488b0478c0cbcb0deea815ab70000343ddc1197f99a9"
+  },
+  "provenance": {
+    "source_item_id": "bb2bcaa3-b382-419d-adfb-a2f9ceca84af",
+    "external_id": "https://www.phoenix.ca/blog/how-much-protein-per-day-to-lose-weight-without-losing-muscle"
+  }
+}

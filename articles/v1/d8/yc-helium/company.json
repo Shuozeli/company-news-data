@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-helium",
+    "name": "Helium"
+  },
+  "record_count": 3,
+  "first_published_at": "2026-02-04T03:03:15.258+00:00",
+  "last_published_at": "2026-05-25T17:57:22.513+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ]
+}

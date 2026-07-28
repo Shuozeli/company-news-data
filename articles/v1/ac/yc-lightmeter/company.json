@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-lightmeter",
+    "name": "Lightmeter"
+  },
+  "record_count": 1,
+  "first_published_at": "2024-02-05T16:55:07+00:00",
+  "last_published_at": "2024-02-05T16:55:07+00:00",
+  "partitions": [
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    }
+  ]
+}

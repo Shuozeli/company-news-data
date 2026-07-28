@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5d7ae1095ce3f61b32b6ca473e45bc4e3f47552718a9f9787f0a195556f08be6",
+  "company": {
+    "key": "us-foods-holding-corp-common-stock",
+    "name": "US Foods Holding Corp. Common Stock"
+  },
+  "source": {
+    "id": "us-foods-holding-corp-common-stock-rss-30d949f49940",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.usfoods.com/newsroom/news/news-details/2026/US-Foods-to-Present-at-the-Deutsche-Bank-Access-Global-Consumer-Conference-2026/default.aspx",
+    "canonical": "https://ir.usfoods.com/newsroom/news/news-details/2026/US-Foods-to-Present-at-the-Deutsche-Bank-Access-Global-Consumer-Conference-2026/default.aspx"
+  },
+  "title": "US Foods to Present at the Deutsche Bank Access Global Consumer Conference 2026",
+  "summary": "",
+  "published_at": "2026-05-27T10:45:00+00:00",
+  "first_seen_at": "2026-07-26T04:01:44.747450+00:00",
+  "fetched_at": "2026-07-28T20:21:41.743032+00:00",
+  "last_updated_at": "2026-07-28T20:21:41.794397+00:00",
+  "paths": {
+    "article": "articles/v1/32/us-foods-holding-corp-common-stock/2026/05/5d/5d7ae1095ce3f61b32b6ca473e45bc4e3f47552718a9f9787f0a195556f08be6/article.md",
+    "record": "articles/v1/32/us-foods-holding-corp-common-stock/2026/05/5d/5d7ae1095ce3f61b32b6ca473e45bc4e3f47552718a9f9787f0a195556f08be6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 751,
+    "sha256": "sha256:57e47a1b9b636099f3fa8cd0b20bec86f140d6632a6ac1e254349ea6854f3a2e",
+    "normalized_content_hash": "sha256:6a550fe3cee2d2af8423cf2999a57fe1f7d53d246f2f4176aa2e65a2d51bbb64"
+  },
+  "provenance": {
+    "source_item_id": "550e4798-d802-47e5-bd36-ff5ddd30056d",
+    "external_id": "74cadbb1-856e-43e4-aeba-160b0d0793aa"
+  }
+}

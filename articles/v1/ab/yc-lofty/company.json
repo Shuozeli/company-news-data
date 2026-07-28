@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-lofty",
+    "name": "Lofty"
+  },
+  "record_count": 8,
+  "first_published_at": "2026-02-20T00:00:00+00:00",
+  "last_published_at": "2026-07-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "82c66a6670ce9a49d892c23bb3385b29f6afa12f638b30548cd50212db7ff7a8",
+  "company": {
+    "key": "mccormick-company-incorporated-common-stock",
+    "name": "McCormick & Company Incorporated Common Stock"
+  },
+  "source": {
+    "id": "mccormick-company-incorporated-common-stock-news-import-3f6512570bb3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.mccormick.com/simply-asia",
+    "canonical": "https://news.mccormick.com/simply-asia"
+  },
+  "title": "Simply® Asia",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T14:19:45.596667+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:28.232444+00:00",
+  "paths": {
+    "article": "articles/v1/fc/mccormick-company-incorporated-common-stock/2026/07/82/82c66a6670ce9a49d892c23bb3385b29f6afa12f638b30548cd50212db7ff7a8/article.md",
+    "record": "articles/v1/fc/mccormick-company-incorporated-common-stock/2026/07/82/82c66a6670ce9a49d892c23bb3385b29f6afa12f638b30548cd50212db7ff7a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1096,
+    "sha256": "sha256:689e04c5c2e2a97875a10806dc7645011fc165ee5e92ee1974516c8563870f83",
+    "normalized_content_hash": "sha256:5ba155a35590408959c49716631d94ec9dda631597423141c48d7712f9b11908"
+  },
+  "provenance": {
+    "source_item_id": "ffec0ec0-a2af-4d7a-a181-b5f8e2245abf",
+    "external_id": "https://news.mccormick.com/simply-asia"
+  }
+}

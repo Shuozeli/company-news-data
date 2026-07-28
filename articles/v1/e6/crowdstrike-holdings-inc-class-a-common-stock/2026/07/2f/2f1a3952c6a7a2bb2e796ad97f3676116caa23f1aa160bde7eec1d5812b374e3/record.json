@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2f1a3952c6a7a2bb2e796ad97f3676116caa23f1aa160bde7eec1d5812b374e3",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/"
+  },
+  "title": "CrowdStrike Flex for Services Expands Access to Elite Security Expertise",
+  "summary": "CrowdStrike Flex for Services applies the successful Falcon Flex approach to expert-led cybersecurity services. Learn more!",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.401692+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/2f/2f1a3952c6a7a2bb2e796ad97f3676116caa23f1aa160bde7eec1d5812b374e3/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/2f/2f1a3952c6a7a2bb2e796ad97f3676116caa23f1aa160bde7eec1d5812b374e3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5706,
+    "sha256": "sha256:af1a43d85a81da18082f63d4c93c14e0d3177a2bbc9dd465289ffc86fdb3c112",
+    "normalized_content_hash": "sha256:13221afedc840b73c8df491def70ad63ef987429637bdf6558dc9a5d331dd4c7"
+  },
+  "provenance": {
+    "source_item_id": "df6b9836-3fe8-427e-96f2-60177455c849",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/"
+  }
+}

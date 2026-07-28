@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "guardian-pharmacy-services-inc-class-a-common-stock",
+    "name": "Guardian Pharmacy Services Inc. Class A Common Stock"
+  },
+  "record_count": 25,
+  "first_published_at": "2025-09-02T13:55:20+00:00",
+  "last_published_at": "2026-07-10T16:58:49+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

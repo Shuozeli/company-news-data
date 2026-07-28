@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c67b629356c9843676c3c370adbbc5bff309850a9d039d037e4b3e37a8daf935",
+  "company": {
+    "key": "edison-international-common-stock",
+    "name": "Edison International Common Stock"
+  },
+  "source": {
+    "id": "edison-international-common-stock-rss-1315327e8509",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://energized.edison.com/stories/california-heat-wave-intensifies",
+    "canonical": "http://energized.edison.com/stories/california-heat-wave-intensifies"
+  },
+  "title": "California Heat Wave Intensifies",
+  "summary": "With extreme heat in the forecast, SCE crews are monitoring conditions and preparing to respond to potential outages.",
+  "published_at": "2026-07-13T23:52:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:20.584311+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-07-28T20:42:29.322894+00:00",
+  "paths": {
+    "article": "articles/v1/3a/edison-international-common-stock/2026/07/c6/c67b629356c9843676c3c370adbbc5bff309850a9d039d037e4b3e37a8daf935/article.md",
+    "record": "articles/v1/3a/edison-international-common-stock/2026/07/c6/c67b629356c9843676c3c370adbbc5bff309850a9d039d037e4b3e37a8daf935/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2198,
+    "sha256": "sha256:2629d2e87d699ace2e62cad585c01ce24228af753570eabc4f020a2e0fe1da61",
+    "normalized_content_hash": "sha256:ddb394af56e3cf675799553bb06b1398c37aefd5b999bf144d4cb11eded5f987"
+  },
+  "provenance": {
+    "source_item_id": "553befdc-73ef-406f-9edd-246d9347d647",
+    "external_id": "http://energized.edison.com/stories/california-heat-wave-intensifies"
+  }
+}

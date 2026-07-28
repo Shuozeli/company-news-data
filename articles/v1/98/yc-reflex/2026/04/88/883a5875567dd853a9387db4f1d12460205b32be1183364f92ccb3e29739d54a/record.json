@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "883a5875567dd853a9387db4f1d12460205b32be1183364f92ccb3e29739d54a",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/build-chatbot-llm-python/",
+    "canonical": "https://reflex.dev/blog/build-chatbot-llm-python/"
+  },
+  "title": "Build LLM Chat App in Python Guide April 2026",
+  "summary": "Learn how to build a chat app with LLM in Python with streaming, RAG, and production interfaces. Complete implementation guide for April 2026.",
+  "published_at": "2026-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:20.584167+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/04/88/883a5875567dd853a9387db4f1d12460205b32be1183364f92ccb3e29739d54a/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/04/88/883a5875567dd853a9387db4f1d12460205b32be1183364f92ccb3e29739d54a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14764,
+    "sha256": "sha256:9eb9d2b36277c2a324e34b37b1a16e7c955830b80036e94ebf7ce0f2d20e76fc",
+    "normalized_content_hash": "sha256:d85f1fcbf5a888db32510048657949aba00020e3b184f8df4b98f9d384e1870a"
+  },
+  "provenance": {
+    "source_item_id": "0113ef57-86c6-43b0-9ef6-af2da3fdc100",
+    "external_id": "https://reflex.dev/blog/build-chatbot-llm-python/"
+  }
+}

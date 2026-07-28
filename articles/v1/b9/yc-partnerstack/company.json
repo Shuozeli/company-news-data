@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-partnerstack",
+    "name": "PartnerStack"
+  },
+  "record_count": 33,
+  "first_published_at": "2025-03-14T16:38:23.389+00:00",
+  "last_published_at": "2025-03-14T16:38:23.389+00:00",
+  "partitions": [
+    {
+      "partition": "2025-03",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 13
+    }
+  ]
+}

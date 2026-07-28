@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-fingo-africa",
+    "name": "Fingo Africa"
+  },
+  "record_count": 20,
+  "first_published_at": "2023-02-03T00:00:00+00:00",
+  "last_published_at": "2024-07-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-02",
+      "record_count": 12
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    }
+  ]
+}

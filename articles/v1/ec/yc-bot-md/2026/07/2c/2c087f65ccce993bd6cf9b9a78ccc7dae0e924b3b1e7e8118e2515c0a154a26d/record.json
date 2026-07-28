@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c087f65ccce993bd6cf9b9a78ccc7dae0e924b3b1e7e8118e2515c0a154a26d",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/siloam-hospitals.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/siloam-hospitals.html"
+  },
+  "title": "Bot MD x Siloam Hospitals",
+  "summary": "Siloam Hospitals Group signed a Memorandum of Understanding (MoU) with A.I. health tech start-up Bot MD to automate and scale patient reported outcome measures across their entire hospital chain. This partnership will help improve the quality of care for Siloam patients through automating the collection of patient outcomes before and after treatment using clinical gold standards for Patient Reported Outcomes Measures (PROMs).",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.626774+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/2c/2c087f65ccce993bd6cf9b9a78ccc7dae0e924b3b1e7e8118e2515c0a154a26d/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/2c/2c087f65ccce993bd6cf9b9a78ccc7dae0e924b3b1e7e8118e2515c0a154a26d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2684,
+    "sha256": "sha256:f46b26b0e97bc0f80deda55611f2b6135268e5974c2c5f5c7098c4b00f3fd114",
+    "normalized_content_hash": "sha256:6bf814332c6f876f337d1a643a2b0c0982c84489cf27fe35495a41d38c5474f0"
+  },
+  "provenance": {
+    "source_item_id": "82565526-ca3d-4fea-851e-03b112122b85",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/siloam-hospitals.html"
+  }
+}

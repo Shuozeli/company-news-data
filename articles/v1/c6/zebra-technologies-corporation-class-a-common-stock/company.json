@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "zebra-technologies-corporation-class-a-common-stock",
+    "name": "Zebra Technologies Corporation Class A Common Stock"
+  },
+  "record_count": 120,
+  "first_published_at": "2026-02-10T00:00:00+00:00",
+  "last_published_at": "2026-07-22T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 113
+    }
+  ]
+}

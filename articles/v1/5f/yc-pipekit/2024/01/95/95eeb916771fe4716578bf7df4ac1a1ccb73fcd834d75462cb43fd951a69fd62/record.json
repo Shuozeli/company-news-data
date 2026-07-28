@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "95eeb916771fe4716578bf7df4ac1a1ccb73fcd834d75462cb43fd951a69fd62",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/fine-tune-llm-argo-workflows-hera",
+    "canonical": "https://homepage.pipekit.io/blog/fine-tune-llm-argo-workflows-hera"
+  },
+  "title": "How to Fine-Tune an LLM with Argo Workflows and Hera",
+  "summary": "Discover how to make LLMs work for your needs by fine-tuning with Argo Workflows and Hera. Dive into infrastructure setup, distributed training, and efficient tear-down.",
+  "published_at": "2024-01-31T03:37:01+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:16.511012+00:00",
+  "last_updated_at": "2026-07-28T22:26:21.557764+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/95/95eeb916771fe4716578bf7df4ac1a1ccb73fcd834d75462cb43fd951a69fd62/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/95/95eeb916771fe4716578bf7df4ac1a1ccb73fcd834d75462cb43fd951a69fd62/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10162,
+    "sha256": "sha256:2a96dcf583d170a402679a745dd65dd66479553cba21d10ed4e8444ad904f977",
+    "normalized_content_hash": "sha256:148e18450956afe49bacacb556edc7b9d5e00c1563eb18842f2262e37fe047fd"
+  },
+  "provenance": {
+    "source_item_id": "88b5f646-a36f-4936-94dd-778d3dc18230",
+    "external_id": "https://homepage.pipekit.io/blog/fine-tune-llm-argo-workflows-hera"
+  }
+}

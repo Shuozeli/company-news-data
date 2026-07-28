@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "499b53cddfed587fb5c1ae6d4ba398943824403ae5da8f6dfc252e73241807b2",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/1104.html",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/1104.html"
+  },
+  "title": "Lexus TZ World Premiere Held at the Toyota Technical Center Shimoyama--the Development Site Where Roads Build Cars",
+  "summary": "The Lexus TZ is the brand’s first three-row BEV SUV. We covered the world premiere held at the Toyota Technical Center Shimoyama, a development facility where vehicles are refined through an integrated, end-to-end development process. #TOYOTATIMES",
+  "published_at": "2026-05-18T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-07-28T21:45:25.183143+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/05/49/499b53cddfed587fb5c1ae6d4ba398943824403ae5da8f6dfc252e73241807b2/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/05/49/499b53cddfed587fb5c1ae6d4ba398943824403ae5da8f6dfc252e73241807b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3051,
+    "sha256": "sha256:c1c025bfa3bfc68ab2f2ac5675661c06964182c09b061ab6f2136af24bb9d1a7",
+    "normalized_content_hash": "sha256:33bf1f2a7dddb1379b215fe1503feffa91781df15bd966b337bde30f407f91f2"
+  },
+  "provenance": {
+    "source_item_id": "a5c7b1a6-fa39-4284-839b-0ac9b3d72262",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/1104.html"
+  }
+}

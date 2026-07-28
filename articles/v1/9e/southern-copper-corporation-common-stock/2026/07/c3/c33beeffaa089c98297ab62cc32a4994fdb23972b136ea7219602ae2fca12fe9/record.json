@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c33beeffaa089c98297ab62cc32a4994fdb23972b136ea7219602ae2fca12fe9",
+  "company": {
+    "key": "southern-copper-corporation-common-stock",
+    "name": "Southern Copper Corporation Common Stock"
+  },
+  "source": {
+    "id": "southern-copper-corporation-common-stock-rss-5419fc9764c8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://southerncoppercorp.com/eng/pr260716/",
+    "canonical": "https://southerncoppercorp.com/eng/pr260716/"
+  },
+  "title": "Dividend announcement",
+  "summary": "El cargo Dividend announcement apareció primero en SCC - Eng .",
+  "published_at": "2026-07-17T00:18:13+00:00",
+  "first_seen_at": "2026-07-20T03:32:01.123899+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-07-28T21:11:25.218510+00:00",
+  "paths": {
+    "article": "articles/v1/9e/southern-copper-corporation-common-stock/2026/07/c3/c33beeffaa089c98297ab62cc32a4994fdb23972b136ea7219602ae2fca12fe9/article.md",
+    "record": "articles/v1/9e/southern-copper-corporation-common-stock/2026/07/c3/c33beeffaa089c98297ab62cc32a4994fdb23972b136ea7219602ae2fca12fe9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1481,
+    "sha256": "sha256:6fc15918cebb1ed4c4691179b0efc3122a20bb0ced17efe40d641b0d3ce14216",
+    "normalized_content_hash": "sha256:1b148b89be2551f76f33d8b7f1c80ce75cbc975aa3d29b8c5d777e6309e51161"
+  },
+  "provenance": {
+    "source_item_id": "5f120062-6600-4819-ac4e-288b2c7f3e81",
+    "external_id": "https://southerncoppercorp.com/eng/?p=723"
+  }
+}

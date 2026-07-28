@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23b23136509eb3188536620f121116d2da4c05dab152f0414ee3a4f89191738c",
+  "company": {
+    "key": "re-max-holdings-inc-class-a-common-stock",
+    "name": "RE/MAX Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "re-max-holdings-inc-class-a-common-stock-news-import-1d5455dae528",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.remax.com/southern-oregon-coast-luxury-log-cabin-home-sells-for-record-breaking-7-75m",
+    "canonical": "https://news.remax.com/southern-oregon-coast-luxury-log-cabin-home-sells-for-record-breaking-7-75m"
+  },
+  "title": "Southern Oregon Coast Luxury “Log Cabin” Home Sells for Record Breaking $7.75M",
+  "summary": "How REMAX affiliate Marie Curtis leveraged local expertise and global reach to support both the listing and sale.",
+  "published_at": "2026-04-16T00:20:07+00:00",
+  "first_seen_at": "2026-07-25T21:01:10.315183+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-07-28T21:57:31.933206+00:00",
+  "paths": {
+    "article": "articles/v1/8b/re-max-holdings-inc-class-a-common-stock/2026/04/23/23b23136509eb3188536620f121116d2da4c05dab152f0414ee3a4f89191738c/article.md",
+    "record": "articles/v1/8b/re-max-holdings-inc-class-a-common-stock/2026/04/23/23b23136509eb3188536620f121116d2da4c05dab152f0414ee3a4f89191738c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6933,
+    "sha256": "sha256:d2a83945afbfb7b49073bc881b4d5d8c1b5537e162d01f9ab5b3f0933ed369f4",
+    "normalized_content_hash": "sha256:fc42f40f53227cecc33a58f28112b8a0a6eddd62cc4ba959e579a59657632782"
+  },
+  "provenance": {
+    "source_item_id": "84705e08-f866-4f55-85e7-45a992bd8eca",
+    "external_id": "https://news.remax.com/southern-oregon-coast-luxury-log-cabin-home-sells-for-record-breaking-7-75m"
+  }
+}

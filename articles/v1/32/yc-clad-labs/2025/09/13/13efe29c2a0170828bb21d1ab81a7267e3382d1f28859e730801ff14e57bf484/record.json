@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13efe29c2a0170828bb21d1ab81a7267e3382d1f28859e730801ff14e57bf484",
+  "company": {
+    "key": "yc-clad-labs",
+    "name": "Clad Labs"
+  },
+  "source": {
+    "id": "yc-clad-labs-news-import-822bb409d95b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cladlabs.ai/blog/ai-code-review",
+    "canonical": "https://www.cladlabs.ai/blog/ai-code-review"
+  },
+  "title": "How AI is Transforming Code Review Processes",
+  "summary": "Code review is a critical quality assurance mechanism in software engineering, with empirical studies demonstrating defect detection rates of 60-90% prior to pr",
+  "published_at": "2025-09-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:42:23.662267+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-07-28T22:00:15.363226+00:00",
+  "paths": {
+    "article": "articles/v1/32/yc-clad-labs/2025/09/13/13efe29c2a0170828bb21d1ab81a7267e3382d1f28859e730801ff14e57bf484/article.md",
+    "record": "articles/v1/32/yc-clad-labs/2025/09/13/13efe29c2a0170828bb21d1ab81a7267e3382d1f28859e730801ff14e57bf484/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33708,
+    "sha256": "sha256:f9ed8a0b138d5a4c56979ea56e2b40795da8c0ab6c69e06cb33fdcce945c9b94",
+    "normalized_content_hash": "sha256:12d6a3f7d157431fb020194ef761ede9633372714afe448a21b4f5ae78c5d259"
+  },
+  "provenance": {
+    "source_item_id": "91b62b84-4bd3-4879-ba98-25082db6cc63",
+    "external_id": "https://www.cladlabs.ai/blog/ai-code-review"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a46fc4701d2539c2a5e51a4b28b914ed3d7454073a018c8b1f0875ec7270ff05",
+  "company": {
+    "key": "definitive-healthcare-corp-class-a-common-stock",
+    "name": "Definitive Healthcare Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "definitive-healthcare-corp-class-a-common-stock-news-import-ac685c0fe722",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.definitivehc.com/resources/research/2026-industry-pulse-providers",
+    "canonical": "https://www.definitivehc.com/resources/research/2026-industry-pulse-providers"
+  },
+  "title": "2026 Industry Pulse: Providers",
+  "summary": "Download the report for a data-driven rundown of the challenges and solutions facing provider organizations in 2026.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:02:19.730773+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:21:59.462947+00:00",
+  "paths": {
+    "article": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/a4/a46fc4701d2539c2a5e51a4b28b914ed3d7454073a018c8b1f0875ec7270ff05/article.md",
+    "record": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/a4/a46fc4701d2539c2a5e51a4b28b914ed3d7454073a018c8b1f0875ec7270ff05/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1426,
+    "sha256": "sha256:4eb5f748ecde014e74b215607a1cf68a9d60aa3dc2e5a884e4c681f202aa56f5",
+    "normalized_content_hash": "sha256:05979a5f6b2b1309f9f69b2a970a6b535e3fb66aa4c87f89e459600cb166dc08"
+  },
+  "provenance": {
+    "source_item_id": "7332c5f5-e706-4428-a976-fcb44221c97b",
+    "external_id": "https://www.definitivehc.com/resources/research/2026-industry-pulse-providers"
+  }
+}

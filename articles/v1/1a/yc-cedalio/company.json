@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-cedalio",
+    "name": "Cedalio"
+  },
+  "record_count": 29,
+  "first_published_at": "2023-11-03T18:32:12+00:00",
+  "last_published_at": "2026-04-22T17:16:53+00:00",
+  "partitions": [
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    }
+  ]
+}

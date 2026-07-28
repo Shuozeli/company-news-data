@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-aurabeat",
+    "name": "Aurabeat"
+  },
+  "record_count": 9,
+  "first_published_at": "2020-10-01T04:44:15+00:00",
+  "last_published_at": "2021-09-24T05:08:03+00:00",
+  "partitions": [
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 1
+    }
+  ]
+}

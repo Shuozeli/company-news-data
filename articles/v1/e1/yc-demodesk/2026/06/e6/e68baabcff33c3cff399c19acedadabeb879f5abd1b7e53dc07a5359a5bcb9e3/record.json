@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e68baabcff33c3cff399c19acedadabeb879f5abd1b7e53dc07a5359a5bcb9e3",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/handle-we-already-have-microsoft-copilot-objections",
+    "canonical": "https://demodesk.com/blog/handle-we-already-have-microsoft-copilot-objections"
+  },
+  "title": "You Already Have Microsoft Copilot. Here's Why Your Sales Team Still Needs Demodesk.",
+  "summary": "Microsoft Copilot helps your company write faster. It does not record every sales call, score reps against MEDDIC, or write to your CRM. Here is what revenue teams still need.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:23:00.533620+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/06/e6/e68baabcff33c3cff399c19acedadabeb879f5abd1b7e53dc07a5359a5bcb9e3/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/06/e6/e68baabcff33c3cff399c19acedadabeb879f5abd1b7e53dc07a5359a5bcb9e3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8300,
+    "sha256": "sha256:1c985953ceedad7a572cf60c25c3627aec5be623ae535e1a3899ddd2dad68b9d",
+    "normalized_content_hash": "sha256:dcd5794f03243b623e74b5eb791429d606ed8ec9180d960bfdb61af60160fbfb"
+  },
+  "provenance": {
+    "source_item_id": "5145a321-63c1-42b9-9666-bf17318bd57b",
+    "external_id": "https://demodesk.com/blog/handle-we-already-have-microsoft-copilot-objections"
+  }
+}

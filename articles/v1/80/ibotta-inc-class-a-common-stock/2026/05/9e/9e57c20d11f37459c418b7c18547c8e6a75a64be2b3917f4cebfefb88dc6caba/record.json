@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e57c20d11f37459c418b7c18547c8e6a75a64be2b3917f4cebfefb88dc6caba",
+  "company": {
+    "key": "ibotta-inc-class-a-common-stock",
+    "name": "Ibotta Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "ibotta-inc-class-a-common-stock-rss-c3b7d95e3f66",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.ibotta.com/news-events/press-releases/detail/144/ibotta-reports-first-quarter-2026-financial-results",
+    "canonical": "https://investors.ibotta.com/news-events/press-releases/detail/144/ibotta-reports-first-quarter-2026-financial-results"
+  },
+  "title": "Ibotta Reports First Quarter 2026 Financial Results",
+  "summary": "Ibotta’s first quarter financial results exceeded the upper end of the guidance range for both revenue and adjusted EBITDA Revenue declined…...",
+  "published_at": "2026-05-06T20:10:00+00:00",
+  "first_seen_at": "2026-07-20T23:17:57.966386+00:00",
+  "fetched_at": "2026-07-28T21:44:45.479848+00:00",
+  "last_updated_at": "2026-07-28T21:45:20.009984+00:00",
+  "paths": {
+    "article": "articles/v1/80/ibotta-inc-class-a-common-stock/2026/05/9e/9e57c20d11f37459c418b7c18547c8e6a75a64be2b3917f4cebfefb88dc6caba/article.md",
+    "record": "articles/v1/80/ibotta-inc-class-a-common-stock/2026/05/9e/9e57c20d11f37459c418b7c18547c8e6a75a64be2b3917f4cebfefb88dc6caba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23894,
+    "sha256": "sha256:91b8fe14cc02b20059026d1cb5ec5a0ed44bf5dc317163f980258131e37d70ff",
+    "normalized_content_hash": "sha256:f08b2aba4c2be94f6408194287f92296131ee5addc111e0af0318b81adf36253"
+  },
+  "provenance": {
+    "source_item_id": "a8de4a38-c938-4a19-be69-3f234542fb60",
+    "external_id": "https://investors.ibotta.com/news-events/press-releases/detail/144/ibotta-reports-first-quarter-2026-financial-results"
+  }
+}

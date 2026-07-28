@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bedb3b5229ffbdbd851403b820e7641f1b8ac3f47a12a225a5a1546c0d310a52",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/"
+  },
+  "title": "CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns",
+  "summary": "Learn common patterns and issues driving cyber risk based on a large sample of CrowdStrike Technical Risk Assessments.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.555375+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/be/bedb3b5229ffbdbd851403b820e7641f1b8ac3f47a12a225a5a1546c0d310a52/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/be/bedb3b5229ffbdbd851403b820e7641f1b8ac3f47a12a225a5a1546c0d310a52/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14342,
+    "sha256": "sha256:703d5437b9b0a190eeb5da8cd5722a1b760e937b17a0dd559c68d437bc70523e",
+    "normalized_content_hash": "sha256:4f0901352d0fb2930b30a874f4663d4b5e0add052c01679ba173fe61d1fb4ef4"
+  },
+  "provenance": {
+    "source_item_id": "ea6712b2-fe5c-4484-9d30-369e2016917d",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/"
+  }
+}

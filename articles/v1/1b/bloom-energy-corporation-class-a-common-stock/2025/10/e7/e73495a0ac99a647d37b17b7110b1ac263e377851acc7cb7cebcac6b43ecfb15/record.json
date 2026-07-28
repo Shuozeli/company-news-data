@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e73495a0ac99a647d37b17b7110b1ac263e377851acc7cb7cebcac6b43ecfb15",
+  "company": {
+    "key": "bloom-energy-corporation-class-a-common-stock",
+    "name": "Bloom Energy Corporation Class A Common Stock"
+  },
+  "source": {
+    "id": "bloom-energy-corporation-class-a-common-stock-news-import-b9577482fead",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bloomenergy.com/news/bloom-energy-corporation-announces-proposed-convertible-senior-notes-offering-2/",
+    "canonical": "https://www.bloomenergy.com/news/bloom-energy-corporation-announces-proposed-convertible-senior-notes-offering-2/"
+  },
+  "title": "Bloom Energy Corporation Announces Proposed Convertible Senior Notes Offering",
+  "summary": "Bloom Energy Corporation (NYSE: BE) today announced its intention to offer, subject to market and other conditions, $1.75 billion aggregate principal amount of 0% convertible senior notes due 2030",
+  "published_at": "2025-10-30T08:00:24+00:00",
+  "first_seen_at": "2026-07-23T03:50:14.533853+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:34.757853+00:00",
+  "paths": {
+    "article": "articles/v1/1b/bloom-energy-corporation-class-a-common-stock/2025/10/e7/e73495a0ac99a647d37b17b7110b1ac263e377851acc7cb7cebcac6b43ecfb15/article.md",
+    "record": "articles/v1/1b/bloom-energy-corporation-class-a-common-stock/2025/10/e7/e73495a0ac99a647d37b17b7110b1ac263e377851acc7cb7cebcac6b43ecfb15/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7435,
+    "sha256": "sha256:b845e4f227f00c7651f2e9ae2a89689d27a0859df3cb0d2519855b387f44c207",
+    "normalized_content_hash": "sha256:329e50b67037860136e17dfa3ea22ac69a515703e60acfa918792c3cf904defa"
+  },
+  "provenance": {
+    "source_item_id": "0e268be8-3aa3-44a1-aa19-de45e78dad67",
+    "external_id": "https://www.bloomenergy.com/news/bloom-energy-corporation-announces-proposed-convertible-senior-notes-offering-2/"
+  }
+}

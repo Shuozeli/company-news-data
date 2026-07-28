@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c9b4248139f8a672a06006e60798598505cdbca1727ee66c2602b17b55047f6a",
+  "company": {
+    "key": "lesaka-technologies-inc-common-stock",
+    "name": "Lesaka Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "lesaka-technologies-inc-common-stock-news-import-fa56b28e5553",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://lesakatech.com/newsroom-all/lesaka-reported-a-strong-third-quarter-driven-by-improving-profitability-and-growth",
+    "canonical": "https://lesakatech.com/newsroom-all/lesaka-reported-a-strong-third-quarter-driven-by-improving-profitability-and-growth"
+  },
+  "title": "Lesaka reported a strong third quarter driven by improving profitability and growth",
+  "summary": "Lesaka provides secure, affordable transaction channels connecting formal businesses with unbanked and underbanked individuals, empowering underserved Southern African consumers and merchants with tailored, innovative financial services.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T12:11:17.016437+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-07-28T21:57:29.503272+00:00",
+  "paths": {
+    "article": "articles/v1/aa/lesaka-technologies-inc-common-stock/2026/05/c9/c9b4248139f8a672a06006e60798598505cdbca1727ee66c2602b17b55047f6a/article.md",
+    "record": "articles/v1/aa/lesaka-technologies-inc-common-stock/2026/05/c9/c9b4248139f8a672a06006e60798598505cdbca1727ee66c2602b17b55047f6a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1186,
+    "sha256": "sha256:3fa4d6a846fc94de5142d002f4b5917a1ecff9a73cca5492dd374cefe43e8872",
+    "normalized_content_hash": "sha256:dd88ce8cd8471e03554e0b02e7a4ca629a8cb80a56e558738fbfd02f2407d9a6"
+  },
+  "provenance": {
+    "source_item_id": "8b59a78e-72e3-4a0c-8d0f-b314b9fa43b3",
+    "external_id": "https://lesakatech.com/newsroom-all/lesaka-reported-a-strong-third-quarter-driven-by-improving-profitability-and-growth"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "91c4fd96decba8d13a54a0c322137e7999693cc4f112832701e498cc9a6ddfd9",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/less-is-more",
+    "canonical": "https://andiai.com/blogs/less-is-more"
+  },
+  "title": "Less is More",
+  "summary": "With answers, whether from an LLM or Human - It's actually more difficult to be concise rather than verbose. This post explores how we're tackling search accuracy and brevity at Andi.",
+  "published_at": "2025-02-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:48:18.083780+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:29.939131+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2025/02/91/91c4fd96decba8d13a54a0c322137e7999693cc4f112832701e498cc9a6ddfd9/article.md",
+    "record": "articles/v1/d3/yc-andi/2025/02/91/91c4fd96decba8d13a54a0c322137e7999693cc4f112832701e498cc9a6ddfd9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3137,
+    "sha256": "sha256:272f679e5aed29468bb08677b1f2c72d3b36e1a74e9bd815d9fa4ad0223a9ef5",
+    "normalized_content_hash": "sha256:bfb3b7d0a01aa6dbf85416bcbabbbc9e854a7199a22833c3333ad22b1a1fd325"
+  },
+  "provenance": {
+    "source_item_id": "b5cdba04-b7f1-4b45-a547-5b252389e3e7",
+    "external_id": "https://andiai.com/blogs/less-is-more"
+  }
+}

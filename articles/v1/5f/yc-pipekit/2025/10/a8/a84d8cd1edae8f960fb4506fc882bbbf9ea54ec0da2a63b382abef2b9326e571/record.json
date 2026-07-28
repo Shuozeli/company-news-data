@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a84d8cd1edae8f960fb4506fc882bbbf9ea54ec0da2a63b382abef2b9326e571",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/the-importance-of-setting-resource-requests-on-all-argo-workflows-containers",
+    "canonical": "https://homepage.pipekit.io/blog/the-importance-of-setting-resource-requests-on-all-argo-workflows-containers"
+  },
+  "title": "The Importance of Setting Resource Requests on All Argo Workflows Containers",
+  "summary": "This guide explains why setting resource requests on the init, wait, and main containers is crucial for reliable workflow execution.",
+  "published_at": "2025-10-14T20:55:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:55:41.466450+00:00",
+  "last_updated_at": "2026-07-28T20:56:23.939291+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2025/10/a8/a84d8cd1edae8f960fb4506fc882bbbf9ea54ec0da2a63b382abef2b9326e571/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2025/10/a8/a84d8cd1edae8f960fb4506fc882bbbf9ea54ec0da2a63b382abef2b9326e571/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11480,
+    "sha256": "sha256:fafe7ace1d295fb2f6b2732c3901b5729b656581da69cae6efcc9a5421a348cd",
+    "normalized_content_hash": "sha256:fb62bae1150a33b3f4e916ce30923f0f6335badac8d648029843a98fec773237"
+  },
+  "provenance": {
+    "source_item_id": "ebd253c5-7506-41a5-b810-32d620a30fbc",
+    "external_id": "https://homepage.pipekit.io/blog/the-importance-of-setting-resource-requests-on-all-argo-workflows-containers"
+  }
+}

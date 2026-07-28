@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "87ea92eac71a4dc28d7ddd1d5a3e2a1984d778d598652cf2e62955b2d6d8862d",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-ac8b67a28768",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/pet-blog/article/how-to-know-if-you-are-ready-for-a-pet",
+    "canonical": "https://www.trupanion.com/pet-blog/article/how-to-know-if-you-are-ready-for-a-pet"
+  },
+  "title": "Is Your Household Ready for a Pet? What to Know Before Bringing One Home",
+  "summary": "Want a pet but not sure if you're ready for the responsibility? Learn the questions to ask yourself about being ready for a dog or cat, plus new pet owner tips.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:24.686679+00:00",
+  "fetched_at": "2026-07-28T17:37:59.572099+00:00",
+  "last_updated_at": "2026-07-28T17:38:05.511406+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/07/87/87ea92eac71a4dc28d7ddd1d5a3e2a1984d778d598652cf2e62955b2d6d8862d/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/07/87/87ea92eac71a4dc28d7ddd1d5a3e2a1984d778d598652cf2e62955b2d6d8862d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11238,
+    "sha256": "sha256:80c9600bc27ead9cf770746722d217b518f84b2a121d4b9d267a18587f137802",
+    "normalized_content_hash": "sha256:a2eab60d7702673b0ec7616a70206066a3569f0e5e7acc122cfd37e74557cf9d"
+  },
+  "provenance": {
+    "source_item_id": "90a63adf-4bb1-4a21-a90c-278d0ba55225",
+    "external_id": "https://www.trupanion.com/pet-blog/article/how-to-know-if-you-are-ready-for-a-pet"
+  }
+}

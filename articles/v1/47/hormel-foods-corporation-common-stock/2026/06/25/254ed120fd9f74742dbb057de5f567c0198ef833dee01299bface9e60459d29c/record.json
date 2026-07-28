@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "254ed120fd9f74742dbb057de5f567c0198ef833dee01299bface9e60459d29c",
+  "company": {
+    "key": "hormel-foods-corporation-common-stock",
+    "name": "Hormel Foods Corporation Common Stock"
+  },
+  "source": {
+    "id": "hormel-foods-corporation-common-stock-news-import-57e287ff0403",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hormelfoods.com/newsroom/updates/2026-interns-hit-the-ground-running/",
+    "canonical": "https://www.hormelfoods.com/newsroom/updates/2026-interns-hit-the-ground-running/"
+  },
+  "title": "2026 Interns Hit the Ground Running",
+  "summary": "The 2026 Hormel Foods summer internship program is underway, and students are gaining hands-on experience across the company.",
+  "published_at": "2026-06-05T18:43:04+00:00",
+  "first_seen_at": "2026-07-21T23:11:55.164919+00:00",
+  "fetched_at": "2026-07-28T21:46:31.447870+00:00",
+  "last_updated_at": "2026-07-28T21:47:31.707724+00:00",
+  "paths": {
+    "article": "articles/v1/47/hormel-foods-corporation-common-stock/2026/06/25/254ed120fd9f74742dbb057de5f567c0198ef833dee01299bface9e60459d29c/article.md",
+    "record": "articles/v1/47/hormel-foods-corporation-common-stock/2026/06/25/254ed120fd9f74742dbb057de5f567c0198ef833dee01299bface9e60459d29c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2170,
+    "sha256": "sha256:cd73f51d5b9d3a340c76708d1db87f067cc36cf3d87d8a843aab221592818340",
+    "normalized_content_hash": "sha256:aef17e0c89dc94589fe4bcb534e472969ecbe00f82978af6613997700d201205"
+  },
+  "provenance": {
+    "source_item_id": "43ff2f34-8026-4fc6-b237-10057cced5df",
+    "external_id": "https://www.hormelfoods.com/newsroom/updates/2026-interns-hit-the-ground-running/"
+  }
+}

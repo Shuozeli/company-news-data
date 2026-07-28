@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "258ca06cd180fe228bfa1ecf9fb28a405a2e32e3ccd5680f269c08c997a71c28",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V. American Depositary Shares"
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2022-08-01-three-learnings-switching-to-typescript/",
+    "canonical": "https://tech.trivago.com/post/2022-08-01-three-learnings-switching-to-typescript/"
+  },
+  "title": "3 Things We Learned When Switching to TypeScript",
+  "summary": "With the rewrite of our core product web application, we moved from a PHP/JavaScript tech stack to a Next.js stack. One of ...",
+  "published_at": "2022-08-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-07-28T21:04:39.394514+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2022/08/25/258ca06cd180fe228bfa1ecf9fb28a405a2e32e3ccd5680f269c08c997a71c28/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2022/08/25/258ca06cd180fe228bfa1ecf9fb28a405a2e32e3ccd5680f269c08c997a71c28/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8905,
+    "sha256": "sha256:4dc87bfc9277f87ced8c14e293b282894498fee3f3c65600e3aeb6038f956a4b",
+    "normalized_content_hash": "sha256:b8c25d5af5511a9c52750d802d93c5d2791dde750c53acd0a38a1a9b7c6a7303"
+  },
+  "provenance": {
+    "source_item_id": "b5269855-4092-4c65-bd82-7ef3f19679fb",
+    "external_id": "https://tech.trivago.com/post/2022-08-01-three-learnings-switching-to-typescript/"
+  }
+}

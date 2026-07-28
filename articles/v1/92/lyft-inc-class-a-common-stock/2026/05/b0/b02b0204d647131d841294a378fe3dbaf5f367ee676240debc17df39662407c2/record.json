@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b02b0204d647131d841294a378fe3dbaf5f367ee676240debc17df39662407c2",
+  "company": {
+    "key": "lyft-inc-class-a-common-stock",
+    "name": "Lyft Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "lyft-inc-class-a-common-stock-news-import-f0ec9226ab22",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lyft.com/blog/posts/lyft-mobility-expertise-powers-av-partners",
+    "canonical": "https://www.lyft.com/blog/posts/lyft-mobility-expertise-powers-av-partners"
+  },
+  "title": "How Lyft's Mobility Expertise Powers AV Partner Success",
+  "summary": "Lyft brings maps, fleet data, and real-world mobility experience to help autonomous vehicle developers scale faster and smarter. Here's how.",
+  "published_at": "2026-05-04T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T12:14:07.777864+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-07-28T21:57:34.567054+00:00",
+  "paths": {
+    "article": "articles/v1/92/lyft-inc-class-a-common-stock/2026/05/b0/b02b0204d647131d841294a378fe3dbaf5f367ee676240debc17df39662407c2/article.md",
+    "record": "articles/v1/92/lyft-inc-class-a-common-stock/2026/05/b0/b02b0204d647131d841294a378fe3dbaf5f367ee676240debc17df39662407c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8761,
+    "sha256": "sha256:02f3973f1924c0a4815bfbef70450af93377297ca703fc75ca04d4cdce0d449a",
+    "normalized_content_hash": "sha256:9aad61ba31d7a9fa1bc2544da6489674abf10e504f6de1cea50ff21454120728"
+  },
+  "provenance": {
+    "source_item_id": "5165af7c-3648-4d7d-bd4d-05ddf92f88f4",
+    "external_id": "https://www.lyft.com/blog/posts/lyft-mobility-expertise-powers-av-partners"
+  }
+}

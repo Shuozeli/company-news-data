@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "telephone-and-data-systems-inc-common-shares",
+    "name": "Telephone and Data Systems Inc. Common Shares"
+  },
+  "record_count": 27,
+  "first_published_at": "2014-11-20T14:28:38+00:00",
+  "last_published_at": "2026-07-23T18:10:34+00:00",
+  "partitions": [
+    {
+      "partition": "2014-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ]
+}

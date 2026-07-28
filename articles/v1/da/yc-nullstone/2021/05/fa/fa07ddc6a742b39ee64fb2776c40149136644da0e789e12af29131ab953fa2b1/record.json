@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fa07ddc6a742b39ee64fb2776c40149136644da0e789e12af29131ab953fa2b1",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-8892e125c773",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nullstone.io/blog-posts/phase1-startup",
+    "canonical": "https://nullstone.io/blog-posts/phase1-startup"
+  },
+  "title": "Application Infrastructure: Launching a Technology Startup",
+  "summary": "Launch a tech startup is a risky and difficult endeavor. In this article, we take a high-level look at infrastructure choices.",
+  "published_at": "2021-05-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:17:35.365256+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:27.709317+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2021/05/fa/fa07ddc6a742b39ee64fb2776c40149136644da0e789e12af29131ab953fa2b1/article.md",
+    "record": "articles/v1/da/yc-nullstone/2021/05/fa/fa07ddc6a742b39ee64fb2776c40149136644da0e789e12af29131ab953fa2b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6315,
+    "sha256": "sha256:188e4df3e998dba20e1ee5220e5d97a0736f0c7d973b3c344b784e3a7a88bd15",
+    "normalized_content_hash": "sha256:37f938cad03ee77286207c9581e4cb271886e166d0b4271010849b0c89a35fb4"
+  },
+  "provenance": {
+    "source_item_id": "4199d98b-3054-4082-95eb-49d9627c03b8",
+    "external_id": "https://nullstone.io/blog-posts/phase1-startup"
+  }
+}

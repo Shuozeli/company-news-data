@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "531e7a93b530329f922be6084f0a6ad2c5c2a16edb8d45fe266f9298d98d6fd3",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation Common Stock"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-b1ffd1321f3f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
+    "canonical": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/"
+  },
+  "title": "New and improved: Computer-using agents, a new workflows experience, and real-time voice experiences",
+  "summary": "Explore what's new in Copilot Studio, May 2026: computer-using agents are now available, plus redesigned workflows and Work IQ extensibility.",
+  "published_at": "2026-05-26T16:00:00+00:00",
+  "first_seen_at": "2026-07-20T04:34:28.173713+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-07-28T22:11:16.519366+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/05/53/531e7a93b530329f922be6084f0a6ad2c5c2a16edb8d45fe266f9298d98d6fd3/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/05/53/531e7a93b530329f922be6084f0a6ad2c5c2a16edb8d45fe266f9298d98d6fd3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15136,
+    "sha256": "sha256:90226615d449c34568c7280d63f5163bdc2ead21732e89f39b56ee9d5c91bcc2",
+    "normalized_content_hash": "sha256:2e0da175053a3425678d685b2d54d8485a3a8ab5f47c2b462dafa8884b715305"
+  },
+  "provenance": {
+    "source_item_id": "d416249e-8831-4345-8857-9be9cd614504",
+    "external_id": "https://www.microsoft.com/en-us/microsoft-365/blog/?p=281412"
+  }
+}

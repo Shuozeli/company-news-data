@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c63c3b33a8bdcd4e8ebdae677f4f57ab972048622c792c2a2c42da9da0971445",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/retail/design-merch-with-ai-alexa-for-shopping",
+    "canonical": "https://www.aboutamazon.com/news/retail/design-merch-with-ai-alexa-for-shopping"
+  },
+  "title": "Customers can now design merch with Alexa for Shopping on Amazon",
+  "summary": "From personalized pet portraits on tumblers to matching group shirts, the new feature uses AI to turn ideas into designs you’ll want to share and wear.",
+  "published_at": "2026-06-08T13:00:08.798+00:00",
+  "first_seen_at": "2026-07-21T06:14:35.460263+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-07-28T21:45:17.372146+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/06/c6/c63c3b33a8bdcd4e8ebdae677f4f57ab972048622c792c2a2c42da9da0971445/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/06/c6/c63c3b33a8bdcd4e8ebdae677f4f57ab972048622c792c2a2c42da9da0971445/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6625,
+    "sha256": "sha256:9396ee519487e4f23cc7e0c85aecbc284577c33e2fbc6277636d2d2352fd4bbc",
+    "normalized_content_hash": "sha256:e55199e932197e1870ce813414e45d96f6ef8002da57962c47469cb42aafb4d3"
+  },
+  "provenance": {
+    "source_item_id": "93baf19b-c234-4bf6-9271-cf9edd3c5d10",
+    "external_id": "https://www.aboutamazon.com/news/retail/design-merch-with-ai-alexa-for-shopping"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6527417991c07663d49868851ae6d547554952cca3f6270719f13232900a60b",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/press-newsroom/forrester-to-broadcast-its-2026-second-quarter-earnings-conference-call/",
+    "canonical": "https://www.forrester.com/press-newsroom/forrester-to-broadcast-its-2026-second-quarter-earnings-conference-call/"
+  },
+  "title": "Forrester Research To Broadcast Its 2026 Second-Quarter Earnings Conference Call",
+  "summary": "Forrester will broadcast its second-quarter earnings conference call at 4:30 p.m. ET on July 30, 2026.",
+  "published_at": "2026-07-16T15:05:34+00:00",
+  "first_seen_at": "2026-07-22T22:15:37.198406+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:21:58.440704+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2026/07/b6/b6527417991c07663d49868851ae6d547554952cca3f6270719f13232900a60b/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2026/07/b6/b6527417991c07663d49868851ae6d547554952cca3f6270719f13232900a60b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4913,
+    "sha256": "sha256:2ca79cbc23ccbab98a5b0512955b55eca9054c56f8f140562fa2d6193fce68d4",
+    "normalized_content_hash": "sha256:89a055dbb0d704ff9ac8e731872469b288cb1595a107ffd0f108d463325108be"
+  },
+  "provenance": {
+    "source_item_id": "b589a678-6945-4c4c-8791-77c0aaf4a063",
+    "external_id": "https://www.forrester.com/press-newsroom/forrester-to-broadcast-its-2026-second-quarter-earnings-conference-call/"
+  }
+}

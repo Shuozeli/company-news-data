@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff5af21886757415d204f0569239c8203617ef61a04a24c3e0c1a0a7f8ee100a",
+  "company": {
+    "key": "edison-international-common-stock",
+    "name": "Edison International Common Stock"
+  },
+  "source": {
+    "id": "edison-international-common-stock-rss-1315327e8509",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://energized.edison.com/stories/what-sierra-snow-says-about-californias-water",
+    "canonical": "http://energized.edison.com/stories/what-sierra-snow-says-about-californias-water"
+  },
+  "title": "What Sierra Snow Says About California’s Water",
+  "summary": "SCE hydrographers measure a highly variable snowpack to help Californians plan for water supply and hydropower.",
+  "published_at": "2026-05-21T21:18:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:20.584311+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-07-28T20:51:31.243303+00:00",
+  "paths": {
+    "article": "articles/v1/3a/edison-international-common-stock/2026/05/ff/ff5af21886757415d204f0569239c8203617ef61a04a24c3e0c1a0a7f8ee100a/article.md",
+    "record": "articles/v1/3a/edison-international-common-stock/2026/05/ff/ff5af21886757415d204f0569239c8203617ef61a04a24c3e0c1a0a7f8ee100a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5122,
+    "sha256": "sha256:7380b348a380bc1bf6825b8a9a96da0dc588c1d1443cd175fb8ee87585401904",
+    "normalized_content_hash": "sha256:d438fdb7e89793c1edd3ec027dcf5d2313e1e7eb1bdd966e8690ce1874031f14"
+  },
+  "provenance": {
+    "source_item_id": "64b1302f-49c9-4476-83d1-65ff694980e3",
+    "external_id": "http://energized.edison.com/stories/what-sierra-snow-says-about-californias-water"
+  }
+}

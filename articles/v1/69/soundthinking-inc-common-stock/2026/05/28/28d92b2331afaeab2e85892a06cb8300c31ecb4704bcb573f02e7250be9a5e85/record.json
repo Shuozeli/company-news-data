@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28d92b2331afaeab2e85892a06cb8300c31ecb4704bcb573f02e7250be9a5e85",
+  "company": {
+    "key": "soundthinking-inc-common-stock",
+    "name": "SoundThinking Inc. Common Stock"
+  },
+  "source": {
+    "id": "soundthinking-inc-common-stock-news-import-78496ddc2424",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.soundthinking.com/blog/evaluating-gunshot-detection-technology-impact-requires-the-right-measures",
+    "canonical": "http://www.soundthinking.com/blog/evaluating-gunshot-detection-technology-impact-requires-the-right-measures"
+  },
+  "title": "Evaluating Gunshot Detection Technology Impact Requires the Right Measures",
+  "summary": "New claims about ShotSpotter's removal in Chicago don't hold up. Six peer-reviewed studies and CPD's own data tell a very different story about response times.",
+  "published_at": "2026-05-29T04:32:39+00:00",
+  "first_seen_at": "2026-07-22T14:19:40.145434+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-07-28T22:07:27.617799+00:00",
+  "paths": {
+    "article": "articles/v1/69/soundthinking-inc-common-stock/2026/05/28/28d92b2331afaeab2e85892a06cb8300c31ecb4704bcb573f02e7250be9a5e85/article.md",
+    "record": "articles/v1/69/soundthinking-inc-common-stock/2026/05/28/28d92b2331afaeab2e85892a06cb8300c31ecb4704bcb573f02e7250be9a5e85/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24103,
+    "sha256": "sha256:e076ce0f066ea3e4ce7c9b8b1284fe5548bafbf97c92aec7c0685f6565105348",
+    "normalized_content_hash": "sha256:e866f0cba070c59ec8449a8acf983cbb083b4f043c08dda0288f5ef36463cfc0"
+  },
+  "provenance": {
+    "source_item_id": "77673729-25ef-47a8-beb5-4948668b1a7e",
+    "external_id": "http://www.soundthinking.com/blog/evaluating-gunshot-detection-technology-impact-requires-the-right-measures"
+  }
+}

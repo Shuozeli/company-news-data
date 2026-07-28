@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7178992a14a209eb00105a62bb4f10aa4eb600fe7878af1f3391943bcab928a7",
+  "company": {
+    "key": "blackstone-inc-common-stock",
+    "name": "Blackstone Inc. Common Stock"
+  },
+  "source": {
+    "id": "blackstone-inc-common-stock-news-import-2d5dbb90454a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blackstone.com/news/highlights/blackstone-wins-14-awards-from-private-equity-international-publications/",
+    "canonical": "https://www.blackstone.com/news/highlights/blackstone-wins-14-awards-from-private-equity-international-publications/"
+  },
+  "title": "Blackstone Wins 14 Awards from Private Equity International Publications",
+  "summary": "Press releases, portfolio company news, and timely updates on our business.",
+  "published_at": "2026-03-02T21:26:41+00:00",
+  "first_seen_at": "2026-07-21T10:38:18.226323+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:38.830540+00:00",
+  "paths": {
+    "article": "articles/v1/76/blackstone-inc-common-stock/2026/03/71/7178992a14a209eb00105a62bb4f10aa4eb600fe7878af1f3391943bcab928a7/article.md",
+    "record": "articles/v1/76/blackstone-inc-common-stock/2026/03/71/7178992a14a209eb00105a62bb4f10aa4eb600fe7878af1f3391943bcab928a7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1975,
+    "sha256": "sha256:72822463d8ab3e1e77298a057aaa30ef3bf4d02af611620708016d25bea0819e",
+    "normalized_content_hash": "sha256:3cde849a54bef5813887b5fdcc67cf8b21647357f461034327992d560e49db81"
+  },
+  "provenance": {
+    "source_item_id": "4237c37a-ead8-48d9-8cc4-0d32168839ac",
+    "external_id": "https://www.blackstone.com/news/highlights/blackstone-wins-14-awards-from-private-equity-international-publications/"
+  }
+}

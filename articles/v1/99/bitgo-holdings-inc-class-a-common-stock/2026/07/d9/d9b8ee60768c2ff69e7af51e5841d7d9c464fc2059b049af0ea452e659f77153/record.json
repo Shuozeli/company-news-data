@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9b8ee60768c2ff69e7af51e5841d7d9c464fc2059b049af0ea452e659f77153",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/what-to-look-for-in-an-institutional-crypto-custody-provider/",
+    "canonical": "https://www.bitgo.com/resources/blog/what-to-look-for-in-an-institutional-crypto-custody-provider/"
+  },
+  "title": "Institutional Crypto Custody: A Guide for Asset Managers",
+  "summary": "Institutional crypto custody protects digital assets at scale - through cold storage, insurance, multi-sig security, and regulatory compliance. Here's what to know.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:41.088269+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:52.136691+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/d9/d9b8ee60768c2ff69e7af51e5841d7d9c464fc2059b049af0ea452e659f77153/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/d9/d9b8ee60768c2ff69e7af51e5841d7d9c464fc2059b049af0ea452e659f77153/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 32559,
+    "sha256": "sha256:9150df4ff3b4f16d49d70f714a2b6761746a71708de48d5a03fa390f3f8cdd75",
+    "normalized_content_hash": "sha256:ee4e4b7059b62ea68ddd118cb8bc80a75ff627f0b69b0f2a30984705f9c80684"
+  },
+  "provenance": {
+    "source_item_id": "1b26c43a-04e1-4fbc-ab75-fa183b178419",
+    "external_id": "https://www.bitgo.com/resources/blog/what-to-look-for-in-an-institutional-crypto-custody-provider/"
+  }
+}

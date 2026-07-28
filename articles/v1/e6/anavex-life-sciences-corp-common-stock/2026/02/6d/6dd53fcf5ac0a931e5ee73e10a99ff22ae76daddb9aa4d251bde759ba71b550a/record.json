@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6dd53fcf5ac0a931e5ee73e10a99ff22ae76daddb9aa4d251bde759ba71b550a",
+  "company": {
+    "key": "anavex-life-sciences-corp-common-stock",
+    "name": "Anavex Life Sciences Corp. Common Stock"
+  },
+  "source": {
+    "id": "anavex-life-sciences-corp-common-stock-news-import-ce7f89501e77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anavex.com/news/anavex-presents-td-cowen-health-care-conference-2026/",
+    "canonical": "https://anavex.com/news/anavex-presents-td-cowen-health-care-conference-2026/"
+  },
+  "title": "Anavex Life Sciences to Present at the 46th TD Cowen Annual Health Care Conference | Anavex Life Sciences",
+  "summary": "Anavex (Nasdaq: AVXL) will present at the 46th TD Cowen Health Care Conference on March 2, 2026. Live investor webcast available.",
+  "published_at": "2026-02-25T07:25:51+00:00",
+  "first_seen_at": "2026-07-24T16:43:56.840093+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:11.335678+00:00",
+  "paths": {
+    "article": "articles/v1/e6/anavex-life-sciences-corp-common-stock/2026/02/6d/6dd53fcf5ac0a931e5ee73e10a99ff22ae76daddb9aa4d251bde759ba71b550a/article.md",
+    "record": "articles/v1/e6/anavex-life-sciences-corp-common-stock/2026/02/6d/6dd53fcf5ac0a931e5ee73e10a99ff22ae76daddb9aa4d251bde759ba71b550a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4933,
+    "sha256": "sha256:ad216bc0812bf8a653671e4039cbb3a55b0b701c06bd00e9046662c43b9b677f",
+    "normalized_content_hash": "sha256:a4e8a044e5ef6fb1d47d4b0ed97d7a42485e74ae319de4b53a5009386547cd2c"
+  },
+  "provenance": {
+    "source_item_id": "3d141c6f-e38c-4fc4-886f-d750737c5e10",
+    "external_id": "https://anavex.com/news/anavex-presents-td-cowen-health-care-conference-2026/"
+  }
+}

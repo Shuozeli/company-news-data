@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b07cc844986d165dbbc1b39bc6b1dd198063d689602846351baab8009a05bd0",
+  "company": {
+    "key": "siteone-landscape-supply-inc-common-stock",
+    "name": "SiteOne Landscape Supply Inc. Common Stock"
+  },
+  "source": {
+    "id": "siteone-landscape-supply-inc-common-stock-news-import-a5d84d562683",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.siteone.com/en/articles/turf-care",
+    "canonical": "https://www.siteone.com/en/articles/turf-care"
+  },
+  "title": "Turf Care",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T00:35:17.026374+00:00",
+  "fetched_at": "2026-07-28T02:13:33.453476+00:00",
+  "last_updated_at": "2026-07-28T02:13:37.652253+00:00",
+  "paths": {
+    "article": "articles/v1/68/siteone-landscape-supply-inc-common-stock/2026/07/0b/0b07cc844986d165dbbc1b39bc6b1dd198063d689602846351baab8009a05bd0/article.md",
+    "record": "articles/v1/68/siteone-landscape-supply-inc-common-stock/2026/07/0b/0b07cc844986d165dbbc1b39bc6b1dd198063d689602846351baab8009a05bd0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10620,
+    "sha256": "sha256:389c78b0468f94fb3f8a6d554c62c4ba5f9cd2390baee0d9e1b7f5321423830c",
+    "normalized_content_hash": "sha256:72030a6b899c89a317c84c90b52de7572821e1ba994aa79a3ebb15ea740d6285"
+  },
+  "provenance": {
+    "source_item_id": "ff8de4eb-aabc-4702-ab07-3fb23af4e441",
+    "external_id": "https://www.siteone.com/en/articles/turf-care"
+  }
+}

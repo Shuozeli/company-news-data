@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e77c06ed4faaebd80463e5c9cde071dcf1fb4d1bf04f91b8ce63d0e3a63b4f8d",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/product-release-notes/",
+    "canonical": "https://www.bitgo.com/resources/blog/product-release-notes/"
+  },
+  "title": "Product Release Notes",
+  "summary": "Stay up to date on updates to the BitGo platform.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:41.088269+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.232347+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/e7/e77c06ed4faaebd80463e5c9cde071dcf1fb4d1bf04f91b8ce63d0e3a63b4f8d/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/e7/e77c06ed4faaebd80463e5c9cde071dcf1fb4d1bf04f91b8ce63d0e3a63b4f8d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21980,
+    "sha256": "sha256:5fe1bedac3ee99dbdc5969841cf444255cf7e9989ce4268779a3bc84d04629b0",
+    "normalized_content_hash": "sha256:47d421270a2b51e76364f4f87666f1f1ab92be5f0d27fdf26b2f2c4ccbaff4f6"
+  },
+  "provenance": {
+    "source_item_id": "03ebd562-ee45-4465-ac4e-67e1cf4f0042",
+    "external_id": "https://www.bitgo.com/resources/blog/product-release-notes/"
+  }
+}

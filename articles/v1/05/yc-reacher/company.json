@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-reacher",
+    "name": "Reacher"
+  },
+  "record_count": 32,
+  "first_published_at": "2024-08-26T00:00:00+00:00",
+  "last_published_at": "2026-07-16T12:46:07.856+00:00",
+  "partitions": [
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 21
+    }
+  ]
+}

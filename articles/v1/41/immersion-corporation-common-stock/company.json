@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "immersion-corporation-common-stock",
+    "name": "Immersion Corporation Common Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2019-01-16T04:16:30+00:00",
+  "last_published_at": "2021-05-29T18:08:05+00:00",
+  "partitions": [
+    {
+      "partition": "2019-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 1
+    }
+  ]
+}

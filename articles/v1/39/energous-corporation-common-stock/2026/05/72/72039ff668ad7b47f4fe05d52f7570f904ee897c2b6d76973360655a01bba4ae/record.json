@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "72039ff668ad7b47f4fe05d52f7570f904ee897c2b6d76973360655a01bba4ae",
+  "company": {
+    "key": "energous-corporation-common-stock",
+    "name": "Energous Corporation Common Stock"
+  },
+  "source": {
+    "id": "energous-corporation-common-stock-news-import-d1c3bf233b09",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://energous.com/company/newsroom/news/energous-wireless-power-solutions-reports-first-quarter-2026-results/",
+    "canonical": "https://energous.com/company/newsroom/news/energous-wireless-power-solutions-reports-first-quarter-2026-results/"
+  },
+  "title": "Energous Wireless Power Solutions Reports First Quarter 2026 Results",
+  "summary": "Energous Wireless Power Solutions Reports First Quarter 2026 Results - Energous",
+  "published_at": "2026-05-13T20:15:51+00:00",
+  "first_seen_at": "2026-07-27T06:56:18.942558+00:00",
+  "fetched_at": "2026-07-28T21:55:55.482044+00:00",
+  "last_updated_at": "2026-07-28T21:56:30.662450+00:00",
+  "paths": {
+    "article": "articles/v1/39/energous-corporation-common-stock/2026/05/72/72039ff668ad7b47f4fe05d52f7570f904ee897c2b6d76973360655a01bba4ae/article.md",
+    "record": "articles/v1/39/energous-corporation-common-stock/2026/05/72/72039ff668ad7b47f4fe05d52f7570f904ee897c2b6d76973360655a01bba4ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12802,
+    "sha256": "sha256:479a7fb277ec4067586ad888ab191f1f9c31de953d6a0e4eac1c42465fa16e6e",
+    "normalized_content_hash": "sha256:e8fb53dbb12a13187081c21284cf5b781d8d59397646e31acf8ac45bd56c94b0"
+  },
+  "provenance": {
+    "source_item_id": "1c85d971-ca2d-4d6c-b9ce-1e5ff26316f4",
+    "external_id": "https://energous.com/company/newsroom/news/energous-wireless-power-solutions-reports-first-quarter-2026-results/"
+  }
+}

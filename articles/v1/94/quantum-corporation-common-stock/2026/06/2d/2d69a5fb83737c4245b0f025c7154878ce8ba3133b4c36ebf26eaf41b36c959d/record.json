@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2d69a5fb83737c4245b0f025c7154878ce8ba3133b4c36ebf26eaf41b36c959d",
+  "company": {
+    "key": "quantum-corporation-common-stock",
+    "name": "Quantum Corporation Common Stock"
+  },
+  "source": {
+    "id": "quantum-corporation-common-stock-news-import-2aac2fe9745c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investors.quantum.com/news-events/press-releases/detail/262/quantum-to-participate-in-the-northland-growth-conference",
+    "canonical": "https://investors.quantum.com/news-events/press-releases/detail/262/quantum-to-participate-in-the-northland-growth-conference"
+  },
+  "title": "Quantum to Participate in the Northland Growth Conference on June 23",
+  "summary": "",
+  "published_at": "2026-06-17T16:30:00+00:00",
+  "first_seen_at": "2026-07-22T10:39:44.415640+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:14.961591+00:00",
+  "paths": {
+    "article": "articles/v1/94/quantum-corporation-common-stock/2026/06/2d/2d69a5fb83737c4245b0f025c7154878ce8ba3133b4c36ebf26eaf41b36c959d/article.md",
+    "record": "articles/v1/94/quantum-corporation-common-stock/2026/06/2d/2d69a5fb83737c4245b0f025c7154878ce8ba3133b4c36ebf26eaf41b36c959d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2782,
+    "sha256": "sha256:ff8803bcb0b18e5c393ae65771e95e81a3ce45a233b7d567fa30e181ece8e9bb",
+    "normalized_content_hash": "sha256:3b4e6d2ee2fcfabf6a349266e1a20053f6124078250ae6258799e94d9cdcedbf"
+  },
+  "provenance": {
+    "source_item_id": "14f12b7b-89ce-4dfc-abae-d77872fb2e82",
+    "external_id": "https://investors.quantum.com/news-events/press-releases/detail/262/quantum-to-participate-in-the-northland-growth-conference"
+  }
+}

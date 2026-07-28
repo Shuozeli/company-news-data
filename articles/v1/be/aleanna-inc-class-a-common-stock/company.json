@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "aleanna-inc-class-a-common-stock",
+    "name": "AleAnna Inc. Class A Common Stock"
+  },
+  "record_count": 25,
+  "first_published_at": "2024-12-12T21:36:12.672+00:00",
+  "last_published_at": "2026-05-21T11:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 15
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    }
+  ]
+}

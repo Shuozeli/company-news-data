@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "gogo-inc-common-stock",
+    "name": "Gogo Inc. Common Stock"
+  },
+  "record_count": 5,
+  "first_published_at": "2024-10-22T12:00:00+00:00",
+  "last_published_at": "2024-12-04T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    }
+  ]
+}

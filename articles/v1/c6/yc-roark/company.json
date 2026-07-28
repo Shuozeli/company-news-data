@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "record_count": 25,
+  "first_published_at": "2025-01-07T00:00:00+00:00",
+  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 23
+    }
+  ]
+}

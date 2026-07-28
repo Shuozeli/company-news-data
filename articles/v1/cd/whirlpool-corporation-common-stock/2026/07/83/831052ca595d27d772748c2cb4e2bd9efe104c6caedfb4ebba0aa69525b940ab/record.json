@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "831052ca595d27d772748c2cb4e2bd9efe104c6caedfb4ebba0aa69525b940ab",
+  "company": {
+    "key": "whirlpool-corporation-common-stock",
+    "name": "Whirlpool Corporation Common Stock"
+  },
+  "source": {
+    "id": "whirlpool-corporation-common-stock-rss-9b451b6cb451",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.whirlpoolcorp.com/news-and-events/news/news-details/2026/WHIRLPOOL-CORPORATION-TO-ANNOUNCE-SECOND-QUARTER-RESULTS-ON-JULY-27TH-AND-HOLD-CONFERENCE-CALL-ON-JULY-28TH/default.aspx",
+    "canonical": "https://investors.whirlpoolcorp.com/news-and-events/news/news-details/2026/WHIRLPOOL-CORPORATION-TO-ANNOUNCE-SECOND-QUARTER-RESULTS-ON-JULY-27TH-AND-HOLD-CONFERENCE-CALL-ON-JULY-28TH/default.aspx"
+  },
+  "title": "WHIRLPOOL CORPORATION TO ANNOUNCE SECOND-QUARTER RESULTS ON JULY 27TH AND HOLD CONFERENCE CALL ON JULY 28TH",
+  "summary": "",
+  "published_at": "2026-07-20T20:05:00+00:00",
+  "first_seen_at": "2026-07-27T06:37:12.153769+00:00",
+  "fetched_at": "2026-07-28T21:34:55.091619+00:00",
+  "last_updated_at": "2026-07-28T21:34:55.180471+00:00",
+  "paths": {
+    "article": "articles/v1/cd/whirlpool-corporation-common-stock/2026/07/83/831052ca595d27d772748c2cb4e2bd9efe104c6caedfb4ebba0aa69525b940ab/article.md",
+    "record": "articles/v1/cd/whirlpool-corporation-common-stock/2026/07/83/831052ca595d27d772748c2cb4e2bd9efe104c6caedfb4ebba0aa69525b940ab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 826,
+    "sha256": "sha256:86e6691c3986ea1923b8d1e62557cd8cdbcc8c451360646988351ade53355cd3",
+    "normalized_content_hash": "sha256:b95c79192c1819015b7537be42d47bf3d36e7997bbef81c80a5e765927c9deaa"
+  },
+  "provenance": {
+    "source_item_id": "262d145e-f302-4449-aa15-83d0516c4675",
+    "external_id": "558ae548-cfc2-4bfc-99b5-9faac289f8c5"
+  }
+}

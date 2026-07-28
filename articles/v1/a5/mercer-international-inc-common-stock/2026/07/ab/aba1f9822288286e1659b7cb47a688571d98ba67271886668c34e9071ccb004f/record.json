@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aba1f9822288286e1659b7cb47a688571d98ba67271886668c34e9071ccb004f",
+  "company": {
+    "key": "mercer-international-inc-common-stock",
+    "name": "Mercer International Inc. Common Stock"
+  },
+  "source": {
+    "id": "mercer-international-inc-common-stock-news-import-42d7945e1da2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mercerint.com/news/20-years-of-mercer-holz/",
+    "canonical": "https://mercerint.com/news/20-years-of-mercer-holz/"
+  },
+  "title": "20 years of Mercer Holz: Hagen Seidel on responsibility, trust, and sustainable wood procurement",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:04:13.713476+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-07-28T21:20:48.207760+00:00",
+  "paths": {
+    "article": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/ab/aba1f9822288286e1659b7cb47a688571d98ba67271886668c34e9071ccb004f/article.md",
+    "record": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/ab/aba1f9822288286e1659b7cb47a688571d98ba67271886668c34e9071ccb004f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1289,
+    "sha256": "sha256:90065e2bcef9974a4956170cfd4801bdc753abd527f956c7b38d9095112924ae",
+    "normalized_content_hash": "sha256:adb79eb245460258c958c1567afb10a51a5727e35c652c3f115889a61a74c46a"
+  },
+  "provenance": {
+    "source_item_id": "7bbd7df2-329c-43b5-8c03-c85a4dc4c13a",
+    "external_id": "https://mercerint.com/news/20-years-of-mercer-holz/"
+  }
+}

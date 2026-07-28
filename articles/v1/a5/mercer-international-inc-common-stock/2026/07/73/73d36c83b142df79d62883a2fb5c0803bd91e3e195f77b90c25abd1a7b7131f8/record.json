@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "73d36c83b142df79d62883a2fb5c0803bd91e3e195f77b90c25abd1a7b7131f8",
+  "company": {
+    "key": "mercer-international-inc-common-stock",
+    "name": "Mercer International Inc. Common Stock"
+  },
+  "source": {
+    "id": "mercer-international-inc-common-stock-news-import-42d7945e1da2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mercerint.com/news/mercers-cdp-triple-b/",
+    "canonical": "https://mercerint.com/news/mercers-cdp-triple-b/"
+  },
+  "title": "Mercer’s CDP “Triple B”: What It Signals to Stakeholders",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:04:13.713476+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:36.972433+00:00",
+  "paths": {
+    "article": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/73/73d36c83b142df79d62883a2fb5c0803bd91e3e195f77b90c25abd1a7b7131f8/article.md",
+    "record": "articles/v1/a5/mercer-international-inc-common-stock/2026/07/73/73d36c83b142df79d62883a2fb5c0803bd91e3e195f77b90c25abd1a7b7131f8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6137,
+    "sha256": "sha256:b00d3243238ccb2f4abc8851fcd13a4bdc5c21cb8bfa6d22486d83197c58b70d",
+    "normalized_content_hash": "sha256:8e106a88e62bacfc99eac66ee77f497fdfe67f43e9d2e9078a70fb80e8d5dbc7"
+  },
+  "provenance": {
+    "source_item_id": "8a15b68b-d092-47cb-bc68-382a9c7ba838",
+    "external_id": "https://mercerint.com/news/mercers-cdp-triple-b/"
+  }
+}

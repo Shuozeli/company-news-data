@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d3edb6da74da93947aeab8fa12af44535a548bb5030367b85297af6050b99b5",
+  "company": {
+    "key": "vroom-inc-common-stock",
+    "name": "Vroom Inc. Common Stock"
+  },
+  "source": {
+    "id": "vroom-inc-common-stock-news-import-5c1422578507",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2021/07/09/2260757/0/en/vroom-announces-second-quarter-2021-earnings-conference-call-and-audio-webcast-scheduled-for-august-11-2021.html",
+    "canonical": "https://www.globenewswire.com/news-release/2021/07/09/2260757/0/en/vroom-announces-second-quarter-2021-earnings-conference-call-and-audio-webcast-scheduled-for-august-11-2021.html"
+  },
+  "title": "Vroom Announces Second Quarter 2021 Earnings Conference Call and Audio Webcast Scheduled for August 11, 2021",
+  "summary": "NEW YORK, July 09, 2021 (GLOBE NEWSWIRE) -- Vroom, Inc. (Nasdaq: VRM), a leading e-commerce platform for buying and selling used vehicles, today...",
+  "published_at": "2021-07-09T20:23:15+00:00",
+  "first_seen_at": "2026-07-26T21:04:40.281377+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.241893+00:00",
+  "paths": {
+    "article": "articles/v1/02/vroom-inc-common-stock/2021/07/1d/1d3edb6da74da93947aeab8fa12af44535a548bb5030367b85297af6050b99b5/article.md",
+    "record": "articles/v1/02/vroom-inc-common-stock/2021/07/1d/1d3edb6da74da93947aeab8fa12af44535a548bb5030367b85297af6050b99b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2342,
+    "sha256": "sha256:96c3dad75dda9b87cfcaada502649feede8694b4eb6ed4df76434dabb50be75b",
+    "normalized_content_hash": "sha256:ebef1e7ed3564965917eeb1a765335185138ac930d366615753fe9c2e09e2546"
+  },
+  "provenance": {
+    "source_item_id": "6e61bf95-af6e-4a0f-b5b3-7e21d33de338",
+    "external_id": "https://www.globenewswire.com/news-release/2021/07/09/2260757/0/en/vroom-announces-second-quarter-2021-earnings-conference-call-and-audio-webcast-scheduled-for-august-11-2021.html"
+  }
+}

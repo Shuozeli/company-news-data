@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "77c1801bb0cdad41269021c49b2b1a3c526e670a963fd66880ba2304c7cc6cba",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/inside-the-infrastructure-powering-dtccs-tokenized-securities-milestone/",
+    "canonical": "https://www.bitgo.com/resources/blog/inside-the-infrastructure-powering-dtccs-tokenized-securities-milestone/"
+  },
+  "title": "Inside the Infrastructure Powering DTCC's Tokenized Securities Milestone",
+  "summary": "How BitGo and industry partners demonstrated the secure custody, movement, and settlement of tokenized securities in institutional capital markets.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:41.088269+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-07-28T21:21:54.943655+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/77/77c1801bb0cdad41269021c49b2b1a3c526e670a963fd66880ba2304c7cc6cba/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/77/77c1801bb0cdad41269021c49b2b1a3c526e670a963fd66880ba2304c7cc6cba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15496,
+    "sha256": "sha256:2efe6b13b9d2e3d5b8e632cdff78d9a471daa22125425b0bc679d767239fcd40",
+    "normalized_content_hash": "sha256:a940e932f8caa6c4c34eb9a6458d8c4d5c04935c452bdbc73ef81721240a3c83"
+  },
+  "provenance": {
+    "source_item_id": "d1cb906a-58df-4488-ab39-e1c260bfaa0a",
+    "external_id": "https://www.bitgo.com/resources/blog/inside-the-infrastructure-powering-dtccs-tokenized-securities-milestone/"
+  }
+}

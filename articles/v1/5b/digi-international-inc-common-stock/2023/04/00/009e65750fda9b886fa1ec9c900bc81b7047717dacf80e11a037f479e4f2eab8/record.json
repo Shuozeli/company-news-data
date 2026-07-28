@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "009e65750fda9b886fa1ec9c900bc81b7047717dacf80e11a037f479e4f2eab8",
+  "company": {
+    "key": "digi-international-inc-common-stock",
+    "name": "Digi International Inc. Common Stock"
+  },
+  "source": {
+    "id": "digi-international-inc-common-stock-rss-07357ecbf6bf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.digi.com/blog/post/wan-bonding-enhancing-network-performance?utm_source=subscribe&utm_medium=rss",
+    "canonical": "https://www.digi.com/blog/post/wan-bonding-enhancing-network-performance"
+  },
+  "title": "WAN Bonding: Enhancing Network Connectivity and Reliability",
+  "summary": "WAN bonding combines two or more separate Internet connections into a single, virtual connection. The goal of WAN bonding is to improve network performance...",
+  "published_at": "2023-04-18T06:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:12:11.073636+00:00",
+  "fetched_at": "2026-07-28T19:57:03.884720+00:00",
+  "last_updated_at": "2026-07-28T19:57:04.075535+00:00",
+  "paths": {
+    "article": "articles/v1/5b/digi-international-inc-common-stock/2023/04/00/009e65750fda9b886fa1ec9c900bc81b7047717dacf80e11a037f479e4f2eab8/article.md",
+    "record": "articles/v1/5b/digi-international-inc-common-stock/2023/04/00/009e65750fda9b886fa1ec9c900bc81b7047717dacf80e11a037f479e4f2eab8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 817,
+    "sha256": "sha256:7a24e4ee34387e4e485b6e0f733b293fa3c85a9841ce4d67b5acdeb2d66d17fa",
+    "normalized_content_hash": "sha256:e7f65c80f30be083df4652fb3de29359eaaeead9125cdee05c662a84db220f4d"
+  },
+  "provenance": {
+    "source_item_id": "c78a7f55-d765-4e5c-bc81-ff8e66f587d0",
+    "external_id": "140d727d-a26d-4508-912b-9330e0838029"
+  }
+}

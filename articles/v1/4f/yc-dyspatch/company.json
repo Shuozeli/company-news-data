@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-dyspatch",
+    "name": "Dyspatch"
+  },
+  "record_count": 24,
+  "first_published_at": "2021-11-03T11:35:44+00:00",
+  "last_published_at": "2026-07-06T18:24:58+00:00",
+  "partitions": [
+    {
+      "partition": "2021-11",
+      "record_count": 14
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

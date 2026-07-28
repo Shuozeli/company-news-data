@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9dfba5fbaaa778fa178084492bbe2b75213a3ae2a274ed8e2ada2208cd9f84dd",
+  "company": {
+    "key": "edison-international-common-stock",
+    "name": "Edison International Common Stock"
+  },
+  "source": {
+    "id": "edison-international-common-stock-rss-b5fde819719b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://newsroom.edison.com/releases/edison-international-declares-q2-dividend-6924419",
+    "canonical": "http://newsroom.edison.com/releases/edison-international-declares-q2-dividend-6924419"
+  },
+  "title": "Edison International Declares Q2 Dividend",
+  "summary": "Investor Relations: Sam Ramraj, (626) 302-2540Media Relations: (626) 302-2255News@sce.com ROSEMEAD, Calif., June 24, 2026 — The board of ...",
+  "published_at": "2026-06-24T16:45:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:58.102003+00:00",
+  "fetched_at": "2026-07-28T20:48:18.651537+00:00",
+  "last_updated_at": "2026-07-28T22:01:02.975011+00:00",
+  "paths": {
+    "article": "articles/v1/3a/edison-international-common-stock/2026/06/9d/9dfba5fbaaa778fa178084492bbe2b75213a3ae2a274ed8e2ada2208cd9f84dd/article.md",
+    "record": "articles/v1/3a/edison-international-common-stock/2026/06/9d/9dfba5fbaaa778fa178084492bbe2b75213a3ae2a274ed8e2ada2208cd9f84dd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2808,
+    "sha256": "sha256:157a63053f16649cfa0d6ae9de3312b2fe7277f0d4ba7dc99cace96c28db7a3b",
+    "normalized_content_hash": "sha256:89bec274e17f05c6f7edf14dd8bd38e8c271e8c64e847873803e794cb5cd2318"
+  },
+  "provenance": {
+    "source_item_id": "06249363-2162-4852-9512-d459948418db",
+    "external_id": "http://newsroom.edison.com/releases/edison-international-declares-q2-dividend-6924419"
+  }
+}

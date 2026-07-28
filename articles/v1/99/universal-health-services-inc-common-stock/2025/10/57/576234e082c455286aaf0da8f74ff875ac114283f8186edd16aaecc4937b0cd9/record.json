@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "576234e082c455286aaf0da8f74ff875ac114283f8186edd16aaecc4937b0cd9",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-40c8a89d7155",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/universal-health-services-accountable-care-organizations-acos-drive-record-results-saving-medicare-100-million-in-2024/",
+    "canonical": "https://uhs.com/news/universal-health-services-accountable-care-organizations-acos-drive-record-results-saving-medicare-100-million-in-2024/"
+  },
+  "title": "Universal Health Services Accountable Care Organizations (ACOs) Drive Record Results, Saving Medicare $100 Million in 2024",
+  "summary": "With five participating ACOs across five U.S. states and the District of Columbia, Prominence Health and its partner clinicians continue to drive significant savings for Medicare.",
+  "published_at": "2025-10-15T13:59:25+00:00",
+  "first_seen_at": "2026-07-24T05:33:01.391339+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:53.855219+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2025/10/57/576234e082c455286aaf0da8f74ff875ac114283f8186edd16aaecc4937b0cd9/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2025/10/57/576234e082c455286aaf0da8f74ff875ac114283f8186edd16aaecc4937b0cd9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9387,
+    "sha256": "sha256:e41cf53e1870c0058972a7b2fb54db25fddddedc81eb879e1499165cbfcb7c78",
+    "normalized_content_hash": "sha256:9fddcbe0dd9ccedfaa5740f2a0621373a63a9e7797e41d72c1f515f7aeb7ceaf"
+  },
+  "provenance": {
+    "source_item_id": "84cca4e6-22c3-4d2d-8066-17f2d090b38f",
+    "external_id": "https://uhs.com/news/universal-health-services-accountable-care-organizations-acos-drive-record-results-saving-medicare-100-million-in-2024/"
+  }
+}

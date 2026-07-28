@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "76044916b5133bef7d7324deca6083a173dca723acec694484a75cc03797a8f5",
+  "company": {
+    "key": "boeing-company-the-common-stock",
+    "name": "Boeing Company (The) Common Stock"
+  },
+  "source": {
+    "id": "boeing-company-the-common-stock-news-import-e210b95a0fc8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.boeing-me.com/en/news/2025/injaz-bahrain-boeing-open-stem-hum-manama",
+    "canonical": "https://www.boeing-me.com/en/news/2025/injaz-bahrain-boeing-open-stem-hum-manama"
+  },
+  "title": "INJAZ Bahrain and Boeing Open New STEM Hub in Manama",
+  "summary": "",
+  "published_at": "2025-12-11T11:19:31+00:00",
+  "first_seen_at": "2026-07-26T23:54:02.763876+00:00",
+  "fetched_at": "2026-07-28T22:25:00.065453+00:00",
+  "last_updated_at": "2026-07-28T22:26:06.366228+00:00",
+  "paths": {
+    "article": "articles/v1/76/boeing-company-the-common-stock/2025/12/76/76044916b5133bef7d7324deca6083a173dca723acec694484a75cc03797a8f5/article.md",
+    "record": "articles/v1/76/boeing-company-the-common-stock/2025/12/76/76044916b5133bef7d7324deca6083a173dca723acec694484a75cc03797a8f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4268,
+    "sha256": "sha256:c9be2d8e6509fd05cd4ad8d70a68cd8d9c0241302025728ea2ed0fb2233f5d07",
+    "normalized_content_hash": "sha256:83c7230a04b2d7dd70c2fd310545c1f317e24940ac1b1fb8153060624e244fd3"
+  },
+  "provenance": {
+    "source_item_id": "8ab1798e-6bff-440f-9939-99960e3b2937",
+    "external_id": "https://www.boeing-me.com/en/news/2025/injaz-bahrain-boeing-open-stem-hum-manama"
+  }
+}

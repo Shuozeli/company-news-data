@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "loop-industries-inc-common-stock",
+    "name": "Loop Industries Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-02-23T00:01:00+00:00",
+  "last_published_at": "2026-02-17T14:08:47+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    }
+  ]
+}

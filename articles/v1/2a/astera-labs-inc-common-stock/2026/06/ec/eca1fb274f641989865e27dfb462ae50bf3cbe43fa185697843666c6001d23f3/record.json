@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eca1fb274f641989865e27dfb462ae50bf3cbe43fa185697843666c6001d23f3",
+  "company": {
+    "key": "astera-labs-inc-common-stock",
+    "name": "Astera Labs Inc. Common Stock"
+  },
+  "source": {
+    "id": "astera-labs-inc-common-stock-rss-6ea615f4bb0d",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.asteralabs.com/scaling-agentic-ai-with-cxl-memory-expansion-and-extended-pcie-6-signal-reach/",
+    "canonical": "https://www.asteralabs.com/scaling-agentic-ai-with-cxl-memory-expansion-and-extended-pcie-6-signal-reach/"
+  },
+  "title": "Scaling Agentic AI With CXL Memory Expansion and Extended PCIe 6 Signal Reach",
+  "summary": "Arm's AGI CPU & Astera Labs' Aries PCIe 6 retimers & Leo CXL memory controllers improve signal reach and solve memory bottlenecks for agentic AI.",
+  "published_at": "2026-06-10T00:20:28+00:00",
+  "first_seen_at": "2026-07-20T23:21:25.038635+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-07-28T21:12:50.542185+00:00",
+  "paths": {
+    "article": "articles/v1/2a/astera-labs-inc-common-stock/2026/06/ec/eca1fb274f641989865e27dfb462ae50bf3cbe43fa185697843666c6001d23f3/article.md",
+    "record": "articles/v1/2a/astera-labs-inc-common-stock/2026/06/ec/eca1fb274f641989865e27dfb462ae50bf3cbe43fa185697843666c6001d23f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11067,
+    "sha256": "sha256:bf641445c17c6bcb1c81ffc868f3424c1b1d50c9445753ec4bc70eea13edc99d",
+    "normalized_content_hash": "sha256:e6995377f65d83fb373394340b64aaf056f00115fae88a364b2930faab66270a"
+  },
+  "provenance": {
+    "source_item_id": "68e340a0-7aad-46dc-b815-832e83356b3b",
+    "external_id": "https://www.asteralabs.com/?p=30197"
+  }
+}

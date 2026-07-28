@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e5f941d1bca26faae31f032c6bb0b88e11408703f6cee0b66bc36a94353aaabc",
+  "company": {
+    "key": "cbiz-inc-common-stock",
+    "name": "CBIZ Inc. Common Stock"
+  },
+  "source": {
+    "id": "cbiz-inc-common-stock-news-import-fcc1128aca9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cbiz.com/insights/article/when-homegrown-financial-systems-cant-scale-why-manufacturers-are-turning-to-acumatica",
+    "canonical": "https://www.cbiz.com/insights/article/when-homegrown-financial-systems-cant-scale-why-manufacturers-are-turning-to-acumatica"
+  },
+  "title": "When Homegrown Financial Systems Can’t Scale: Why Manufacturers Are Turning to Acumatica",
+  "summary": "Manufacturers are increasingly transitioning off homegrown financial systems toward a more scalable solution like Acumatica. Learn why.",
+  "published_at": "2026-06-18T13:00:18+00:00",
+  "first_seen_at": "2026-07-24T23:42:27.744988+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:23.568002+00:00",
+  "paths": {
+    "article": "articles/v1/6d/cbiz-inc-common-stock/2026/06/e5/e5f941d1bca26faae31f032c6bb0b88e11408703f6cee0b66bc36a94353aaabc/article.md",
+    "record": "articles/v1/6d/cbiz-inc-common-stock/2026/06/e5/e5f941d1bca26faae31f032c6bb0b88e11408703f6cee0b66bc36a94353aaabc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7824,
+    "sha256": "sha256:81880e240b76a73aebb86f0adfcc5c53043d970f22a4d12fbe11293128bfc0f8",
+    "normalized_content_hash": "sha256:78493b045f612a16cf0bcc370456658eaafa4f01bc339e10ca7a6d28806aaee2"
+  },
+  "provenance": {
+    "source_item_id": "9e0b8768-7eb4-43c3-99c2-e767d570c376",
+    "external_id": "https://www.cbiz.com/insights/article/when-homegrown-financial-systems-cant-scale-why-manufacturers-are-turning-to-acumatica"
+  }
+}

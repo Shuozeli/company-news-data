@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ddb380eca73938d4ee8db2c31cc2f01a826f34b41a37cefe710d8209dc4ed25b",
+  "company": {
+    "key": "bristol-myers-squibb-company-common-stock",
+    "name": "Bristol-Myers Squibb Company Common Stock"
+  },
+  "source": {
+    "id": "bristol-myers-squibb-company-common-stock-news-import-68144b81ad83",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bms.com/life-and-science/insights/c2c4c-2026-cancer-research.html",
+    "canonical": "https://www.bms.com/life-and-science/insights/c2c4c-2026-cancer-research.html"
+  },
+  "title": "Bristol Myers Squibb employees cycle across four continents to advance cancer research – Bristol Myers Squibb",
+  "summary": "More than 325 Bristol Myers Squibb employees from over 30 markets will ride nearly 6,000 miles across four continents in 2026, coming together through C2C4C to support cancer research worldwide.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:16:39.091941+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.122643+00:00",
+  "paths": {
+    "article": "articles/v1/0a/bristol-myers-squibb-company-common-stock/2026/06/dd/ddb380eca73938d4ee8db2c31cc2f01a826f34b41a37cefe710d8209dc4ed25b/article.md",
+    "record": "articles/v1/0a/bristol-myers-squibb-company-common-stock/2026/06/dd/ddb380eca73938d4ee8db2c31cc2f01a826f34b41a37cefe710d8209dc4ed25b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1900,
+    "sha256": "sha256:365f1274c7722a09f94c861cdc4c3ece1ac1118b42ae0d5fa609ea3746f0c753",
+    "normalized_content_hash": "sha256:bc9497fe65f9b7bc6cf1a29c56d466779ce151bdf589230ad4cb375d25817fd2"
+  },
+  "provenance": {
+    "source_item_id": "6f2fd2ec-83e1-4306-bc28-b26e4bceb165",
+    "external_id": "https://www.bms.com/life-and-science/insights/c2c4c-2026-cancer-research.html"
+  }
+}

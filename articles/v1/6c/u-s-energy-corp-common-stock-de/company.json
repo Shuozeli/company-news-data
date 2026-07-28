@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "u-s-energy-corp-common-stock-de",
+    "name": "U.S. Energy Corp. Common Stock (DE)"
+  },
+  "record_count": 5,
+  "first_published_at": "2023-05-02T07:27:56+00:00",
+  "last_published_at": "2025-01-31T17:29:12+00:00",
+  "partitions": [
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 4
+    }
+  ]
+}

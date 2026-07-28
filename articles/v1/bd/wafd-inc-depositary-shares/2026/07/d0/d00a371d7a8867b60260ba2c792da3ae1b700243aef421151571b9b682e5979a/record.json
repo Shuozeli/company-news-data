@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d00a371d7a8867b60260ba2c792da3ae1b700243aef421151571b9b682e5979a",
+  "company": {
+    "key": "wafd-inc-depositary-shares",
+    "name": "WaFd Inc. Depositary Shares"
+  },
+  "source": {
+    "id": "wafd-inc-depositary-shares-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/security-privacy/protect-your-bank-accounts",
+    "canonical": "https://www.wafdbank.com/articles/security-privacy/protect-your-bank-accounts"
+  },
+  "title": "Protect Your Bank Accounts",
+  "summary": "Find out the top tips from WaFd Bank on how to protect your bank accounts from hackers including secure passwords, Wi-Fi tips, vigilance and more.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T05:02:34.283464+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:25.845916+00:00",
+  "paths": {
+    "article": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/d0/d00a371d7a8867b60260ba2c792da3ae1b700243aef421151571b9b682e5979a/article.md",
+    "record": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/d0/d00a371d7a8867b60260ba2c792da3ae1b700243aef421151571b9b682e5979a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4471,
+    "sha256": "sha256:63407956016a0aeb174428ce0ca90df12716cda5689aa30e1bfa79fc460af38a",
+    "normalized_content_hash": "sha256:85cb979b587e62132600c267791c056cb5557f38edfdae70bebf9f36c21fa335"
+  },
+  "provenance": {
+    "source_item_id": "69b05f67-ccb8-44a6-b501-b7fcbde341f8",
+    "external_id": "https://www.wafdbank.com/articles/security-privacy/protect-your-bank-accounts"
+  }
+}

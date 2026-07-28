@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "motorcar-parts-of-america-inc-common-stock",
+    "name": "Motorcar Parts of America Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2020-10-29T19:38:11+00:00",
+  "last_published_at": "2025-06-11T18:32:12+00:00",
+  "partitions": [
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    }
+  ]
+}

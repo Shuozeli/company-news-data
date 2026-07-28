@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "082701223d0a7f924a316cf24da31bf21ed0d10bc0d8cd6b08019e6b652823eb",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/archiving-argo-workflows-postgres-database-setup",
+    "canonical": "https://homepage.pipekit.io/blog/archiving-argo-workflows-postgres-database-setup"
+  },
+  "title": "Archiving Argo Workflows: Postgres Database Setup",
+  "summary": "Archiving Argo Workflows is straightforward using a Postgres database. We'll configure a Postgres database on a local Kubernetes cluster and walk through how to archive workflows.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-07-28T22:00:52.469050+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/08/082701223d0a7f924a316cf24da31bf21ed0d10bc0d8cd6b08019e6b652823eb/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/08/082701223d0a7f924a316cf24da31bf21ed0d10bc0d8cd6b08019e6b652823eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10292,
+    "sha256": "sha256:97244ebc6db6d9a1c5a09f92aa215cb1994327e5f727ab4f557b3a07fb2c8dfa",
+    "normalized_content_hash": "sha256:ee4e3015fa26bf8cd25756898a14c2fe4e1f5aade5b7ed8f0504a2cbb5aacb7e"
+  },
+  "provenance": {
+    "source_item_id": "e9c66c54-1633-454c-9b57-e5f91129ae70",
+    "external_id": "https://homepage.pipekit.io/blog/archiving-argo-workflows-postgres-database-setup"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ffcc071e2673729c24dd2b9dcdb758b91bb1556c0dc3dc6e90fe5bc878e8248d",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/books-and-authors/amazon-kindle-translate-books-authors",
+    "canonical": "https://www.aboutamazon.com/news/books-and-authors/amazon-kindle-translate-books-authors"
+  },
+  "title": "Amazon expands Kindle Translate, an AI-powered translation service, to six languages for authors to reach global readers",
+  "summary": "The service now supports translations between English and Spanish, German, French, Italian, and Portuguese, expanding opportunities for Kindle Direct Publishing authors.",
+  "published_at": "2025-11-06T17:09:14.768+00:00",
+  "first_seen_at": "2026-07-21T06:14:35.460263+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:34.047216+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2025/11/ff/ffcc071e2673729c24dd2b9dcdb758b91bb1556c0dc3dc6e90fe5bc878e8248d/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2025/11/ff/ffcc071e2673729c24dd2b9dcdb758b91bb1556c0dc3dc6e90fe5bc878e8248d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5299,
+    "sha256": "sha256:75c39293ca273cd582f49a23f9a4b4c1677b413b3a06bde98afcc7dd2c6ff5b9",
+    "normalized_content_hash": "sha256:de7719938f0aa1dce41fc5fca84273c38d991b145559e122e7b6821ab65e8a91"
+  },
+  "provenance": {
+    "source_item_id": "319bd85e-e10e-45ae-bd12-7271ea11c662",
+    "external_id": "https://www.aboutamazon.com/news/books-and-authors/amazon-kindle-translate-books-authors"
+  }
+}

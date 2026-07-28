@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a252136c647a4b7f25e60bcae468d1e33d8b1a791c1b6a9b199260a10ddd469c",
+  "company": {
+    "key": "axos-financial-inc-common-stock",
+    "name": "Axos Financial Inc. Common Stock"
+  },
+  "source": {
+    "id": "axos-financial-inc-common-stock-news-import-fdd272e29824",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.axosbank.com/personal/insights/loans/home/how-to-pay-off-your-mortgage-early",
+    "canonical": "https://www.axosbank.com/personal/insights/loans/home/how-to-pay-off-your-mortgage-early"
+  },
+  "title": "How to pay off your mortgage early?",
+  "summary": "The most effective way to pay off your mortgage early is to make extra payments directly toward your principal, meaning the amount you originally borrowed.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T23:21:43.610130+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:15.578084+00:00",
+  "paths": {
+    "article": "articles/v1/45/axos-financial-inc-common-stock/2026/06/a2/a252136c647a4b7f25e60bcae468d1e33d8b1a791c1b6a9b199260a10ddd469c/article.md",
+    "record": "articles/v1/45/axos-financial-inc-common-stock/2026/06/a2/a252136c647a4b7f25e60bcae468d1e33d8b1a791c1b6a9b199260a10ddd469c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6530,
+    "sha256": "sha256:b21538eb25e32e49ff810dd42f059db4998f876fc2f86eb665ae8eebb24cf76d",
+    "normalized_content_hash": "sha256:5902e52551209d46e3ac05ae41bce83a484095974c91b175b00117192bae586c"
+  },
+  "provenance": {
+    "source_item_id": "924eda75-42c3-4616-a5a2-04e560093446",
+    "external_id": "https://www.axosbank.com/personal/insights/loans/home/how-to-pay-off-your-mortgage-early"
+  }
+}

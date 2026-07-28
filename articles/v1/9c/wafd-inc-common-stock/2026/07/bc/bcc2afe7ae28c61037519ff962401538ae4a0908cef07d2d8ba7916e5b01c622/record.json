@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bcc2afe7ae28c61037519ff962401538ae4a0908cef07d2d8ba7916e5b01c622",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/small-business/how-to-grow-small-business",
+    "canonical": "https://www.wafdbank.com/articles/small-business/how-to-grow-small-business"
+  },
+  "title": "How to Step Up Your Small Business Growth",
+  "summary": "Are you looking to grow your small business? Read our guide on how to grow your business so your business can thrive in today's ever changing climate.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T11:45:59.162043+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:25.343601+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/bc/bcc2afe7ae28c61037519ff962401538ae4a0908cef07d2d8ba7916e5b01c622/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/bc/bcc2afe7ae28c61037519ff962401538ae4a0908cef07d2d8ba7916e5b01c622/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7910,
+    "sha256": "sha256:436bfdfd54507aa9b314d4c8ae9d144f51407aae483ae127642361dc28e09652",
+    "normalized_content_hash": "sha256:c88fc14b7fc7cdd2350a7cd68e331eab82ce44a9110c1a7066a5409741df4e43"
+  },
+  "provenance": {
+    "source_item_id": "508b4979-6dcd-4737-bb38-42b3e27a3e83",
+    "external_id": "https://www.wafdbank.com/articles/small-business/how-to-grow-small-business"
+  }
+}

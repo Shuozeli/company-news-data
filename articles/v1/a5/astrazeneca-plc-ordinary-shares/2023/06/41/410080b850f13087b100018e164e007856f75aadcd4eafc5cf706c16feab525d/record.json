@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "410080b850f13087b100018e164e007856f75aadcd4eafc5cf706c16feab525d",
+  "company": {
+    "key": "astrazeneca-plc-ordinary-shares",
+    "name": "AstraZeneca PLC Ordinary Shares"
+  },
+  "source": {
+    "id": "astrazeneca-plc-ordinary-shares-rss-c5fb94799a27",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2023/lynparza-approved-in-us-for-brcam-prostate-cancer.html",
+    "canonical": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2023/lynparza-approved-in-us-for-brcam-prostate-cancer.html"
+  },
+  "title": "Lynparza plus abiraterone approved in the US for the treatment of BRCA-mutated metastatic castration-resistant prostate cancer",
+  "summary": "",
+  "published_at": "2023-06-01T01:30:00+00:00",
+  "first_seen_at": "2026-07-26T23:00:47.318234+00:00",
+  "fetched_at": "2026-07-28T03:42:03.141221+00:00",
+  "last_updated_at": "2026-07-28T03:42:03.420996+00:00",
+  "paths": {
+    "article": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2023/06/41/410080b850f13087b100018e164e007856f75aadcd4eafc5cf706c16feab525d/article.md",
+    "record": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2023/06/41/410080b850f13087b100018e164e007856f75aadcd4eafc5cf706c16feab525d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 771,
+    "sha256": "sha256:0d84648a21f2a7baeec865284c0e734412d219c39de4891a3525a8a16e23b97c",
+    "normalized_content_hash": "sha256:21b41462a0aea984ab836a211ba840829806da9b030bfc6929376b2cc762b332"
+  },
+  "provenance": {
+    "source_item_id": "e0aa9d69-78ec-498d-af58-813528bf86a7",
+    "external_id": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2023/lynparza-approved-in-us-for-brcam-prostate-cancer.html"
+  }
+}

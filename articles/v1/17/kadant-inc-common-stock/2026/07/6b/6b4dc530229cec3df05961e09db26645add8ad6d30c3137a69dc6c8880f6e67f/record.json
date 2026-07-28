@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b4dc530229cec3df05961e09db26645add8ad6d30c3137a69dc6c8880f6e67f",
+  "company": {
+    "key": "kadant-inc-common-stock",
+    "name": "Kadant Inc Common Stock"
+  },
+  "source": {
+    "id": "kadant-inc-common-stock-news-import-486c14883c5e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://kadant.com/en/news/kadant-names-mike-soucy-vice-president-corporate-accounts",
+    "canonical": "https://kadant.com/en/news/kadant-names-mike-soucy-vice-president-corporate-accounts"
+  },
+  "title": "Kadant Names Mike Soucy Vice President, Corporate Accounts",
+  "summary": "Kadant Johnson announced the promotion of Mike Soucy to Vice President, Corporate Accounts.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:08:09.764299+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:36.812951+00:00",
+  "paths": {
+    "article": "articles/v1/17/kadant-inc-common-stock/2026/07/6b/6b4dc530229cec3df05961e09db26645add8ad6d30c3137a69dc6c8880f6e67f/article.md",
+    "record": "articles/v1/17/kadant-inc-common-stock/2026/07/6b/6b4dc530229cec3df05961e09db26645add8ad6d30c3137a69dc6c8880f6e67f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4530,
+    "sha256": "sha256:8685ed902839ff70a47d23b6d465b9c9eaeabba9c368aab79df2752f0368e78b",
+    "normalized_content_hash": "sha256:e99c2a833ef1fec2c9ab3ea10a65edccf743e7da6019cdf746bafceb30048637"
+  },
+  "provenance": {
+    "source_item_id": "11d7575f-4643-4a59-b18b-28aaca1d0537",
+    "external_id": "https://kadant.com/en/news/kadant-names-mike-soucy-vice-president-corporate-accounts"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f02819dddbe00757670993818029df3895093a926cd2c349921d35a9d7354d1",
+  "company": {
+    "key": "yc-dimely",
+    "name": "Dimely"
+  },
+  "source": {
+    "id": "yc-dimely-rss-a84043c4c476",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.dimely.com/post/the-hidden-cost-of-integrations-it-s-not-the-logic-it-s-the-cleanup",
+    "canonical": "https://www.dimely.com/post/the-hidden-cost-of-integrations-it-s-not-the-logic-it-s-the-cleanup"
+  },
+  "title": "The Hidden Cost of Integrations: It’s Not the Logic, It’s the Cleanup",
+  "summary": "Finance leaders think integrations are hard because of the data logic.They’re wrong.The hardest and most time-consuming part of integrating systems like Salesforce and NetSuite isn’t writing the API calls or getting the right data to flow. It’s cleaning up the data in the first place.Flexible Systems Are a Blessing and a CursePlatforms like Salesforce and NetSuite are incredibly customizable—which is great when you're setting them up for your unique business process.But that same flexibility bec",
+  "published_at": "2026-01-19T22:37:39+00:00",
+  "first_seen_at": "2026-07-20T23:20:24.442258+00:00",
+  "fetched_at": "2026-07-28T22:23:25.248280+00:00",
+  "last_updated_at": "2026-07-28T22:23:33.470176+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-dimely/2026/01/1f/1f02819dddbe00757670993818029df3895093a926cd2c349921d35a9d7354d1/article.md",
+    "record": "articles/v1/b2/yc-dimely/2026/01/1f/1f02819dddbe00757670993818029df3895093a926cd2c349921d35a9d7354d1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3077,
+    "sha256": "sha256:294bfbb5bc8cfa830c738f402a1ddb26acdc1bedfdd26376f16ba9be7f73ecc5",
+    "normalized_content_hash": "sha256:c1e581cf60da8e4fa5038076735fd1be667577a0a23693f02c5f8aef6e060f10"
+  },
+  "provenance": {
+    "source_item_id": "5f7a823e-9a6b-4cb5-b5f3-78e8733c7a78",
+    "external_id": "696eb20d423c15f2e1ef64e5"
+  }
+}

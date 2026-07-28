@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d83a1de364daf0ea501cf40dd5fd5e01d46915cbb7e3167740582e2a2ecc8961",
+  "company": {
+    "key": "teradyne-inc-common-stock",
+    "name": "Teradyne Inc. Common Stock"
+  },
+  "source": {
+    "id": "teradyne-inc-common-stock-news-import-870dd41df619",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investors.teradyne.com/news-events/press-releases/detail/434/teradyne-to-showcase-leading-semiconductor-test-solutions-at-iesa-vision-summit",
+    "canonical": "https://investors.teradyne.com/news-events/press-releases/detail/434/teradyne-to-showcase-leading-semiconductor-test-solutions-at-iesa-vision-summit"
+  },
+  "title": "Teradyne to Showcase Leading Semiconductor Test Solutions at IESA Vision Summit",
+  "summary": "NORTH READING, Mass.--(BUSINESS WIRE)-- Teradyne, Inc. (NASDAQ: TER), a leading provider of automated test equipment and advanced robotics,…...",
+  "published_at": "2026-02-23T21:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:27:36.913836+00:00",
+  "fetched_at": "2026-07-28T22:03:45.188546+00:00",
+  "last_updated_at": "2026-07-28T22:04:16.846481+00:00",
+  "paths": {
+    "article": "articles/v1/6b/teradyne-inc-common-stock/2026/02/d8/d83a1de364daf0ea501cf40dd5fd5e01d46915cbb7e3167740582e2a2ecc8961/article.md",
+    "record": "articles/v1/6b/teradyne-inc-common-stock/2026/02/d8/d83a1de364daf0ea501cf40dd5fd5e01d46915cbb7e3167740582e2a2ecc8961/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4227,
+    "sha256": "sha256:b61cc6c3e2e8c025eab643d1415fd7d4afd606625868043d033375b9e72a7ecb",
+    "normalized_content_hash": "sha256:3530d0cdedb939c88d2e0371bdf44db5b6505e4500195fe1a19b7058ccc6b5f8"
+  },
+  "provenance": {
+    "source_item_id": "ef10cbd7-c848-4020-9bb7-8f097f37f49d",
+    "external_id": "https://investors.teradyne.com/news-events/press-releases/detail/434/teradyne-to-showcase-leading-semiconductor-test-solutions-at-iesa-vision-summit"
+  }
+}

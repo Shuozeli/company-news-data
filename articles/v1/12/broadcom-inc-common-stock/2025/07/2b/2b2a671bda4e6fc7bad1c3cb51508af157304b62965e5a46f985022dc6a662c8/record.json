@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b2a671bda4e6fc7bad1c3cb51508af157304b62965e5a46f985022dc6a662c8",
+  "company": {
+    "key": "broadcom-inc-common-stock",
+    "name": "Broadcom Inc. Common Stock"
+  },
+  "source": {
+    "id": "broadcom-inc-common-stock-news-import-50fee4762220",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.broadcom.com/broadcom-photo-gallery",
+    "canonical": "https://news.broadcom.com/broadcom-photo-gallery"
+  },
+  "title": "Photo Gallery",
+  "summary": "",
+  "published_at": "2025-07-01T23:49:56+00:00",
+  "first_seen_at": "2026-07-24T08:25:38.247662+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-07-28T22:03:10.286170+00:00",
+  "paths": {
+    "article": "articles/v1/12/broadcom-inc-common-stock/2025/07/2b/2b2a671bda4e6fc7bad1c3cb51508af157304b62965e5a46f985022dc6a662c8/article.md",
+    "record": "articles/v1/12/broadcom-inc-common-stock/2025/07/2b/2b2a671bda4e6fc7bad1c3cb51508af157304b62965e5a46f985022dc6a662c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2920,
+    "sha256": "sha256:9c1a139083197ad1581ba8221a9c7a2aee603c5312ae1745ed83bc359d0744f1",
+    "normalized_content_hash": "sha256:c7b77faf48807a23834261c66a94344252d4867453fce08256fb45560a9c27e0"
+  },
+  "provenance": {
+    "source_item_id": "8377889c-b1d2-46ef-9350-e118c84bae5e",
+    "external_id": "https://news.broadcom.com/broadcom-photo-gallery"
+  }
+}

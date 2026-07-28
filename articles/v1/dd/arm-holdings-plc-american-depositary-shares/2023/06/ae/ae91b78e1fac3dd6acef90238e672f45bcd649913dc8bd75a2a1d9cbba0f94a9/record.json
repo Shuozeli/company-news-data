@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae91b78e1fac3dd6acef90238e672f45bcd649913dc8bd75a2a1d9cbba0f94a9",
+  "company": {
+    "key": "arm-holdings-plc-american-depositary-shares",
+    "name": "Arm Holdings plc American Depositary Shares"
+  },
+  "source": {
+    "id": "arm-holdings-plc-american-depositary-shares-news-import-5227abe14b68",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://newsroom.arm.com/newsroom-archive",
+    "canonical": "https://newsroom.arm.com/newsroom-archive"
+  },
+  "title": "Newsroom Archive",
+  "summary": "",
+  "published_at": "2023-06-05T16:19:05+00:00",
+  "first_seen_at": "2026-07-24T17:08:05.221578+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:41.278516+00:00",
+  "paths": {
+    "article": "articles/v1/dd/arm-holdings-plc-american-depositary-shares/2023/06/ae/ae91b78e1fac3dd6acef90238e672f45bcd649913dc8bd75a2a1d9cbba0f94a9/article.md",
+    "record": "articles/v1/dd/arm-holdings-plc-american-depositary-shares/2023/06/ae/ae91b78e1fac3dd6acef90238e672f45bcd649913dc8bd75a2a1d9cbba0f94a9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2246,
+    "sha256": "sha256:83f741bbd200e968f961fb91b36e5d11c7af26f8c54f50613ab94a20341ed29c",
+    "normalized_content_hash": "sha256:5d1d0974c45467b3884dc49187e8c2fd0a05c9a36321f4083a6994d7aa486885"
+  },
+  "provenance": {
+    "source_item_id": "9089dc37-6847-498a-a44c-041976722fcd",
+    "external_id": "https://newsroom.arm.com/newsroom-archive"
+  }
+}

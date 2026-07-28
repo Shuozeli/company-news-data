@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2bd8bdf41490d362d24ddbaefbd797945dbb83a2d46ace8347b73680654aa13b",
+  "company": {
+    "key": "ge-aerospace-common-stock",
+    "name": "GE Aerospace Common Stock"
+  },
+  "source": {
+    "id": "ge-aerospace-common-stock-news-import-cc3bb1578416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.geaerospace.com/news/articles/open-fan-engine-technology-aims-epic-efficiency-it-also-has-major-durability-potential",
+    "canonical": "https://www.geaerospace.com/news/articles/open-fan-engine-technology-aims-epic-efficiency-it-also-has-major-durability-potential"
+  },
+  "title": "Open Fan Engine Technology Aims for Epic Efficiency. It Also Has Major Durability Potential.",
+  "summary": "The Open Fan engine, the distinctive architecture that could power the",
+  "published_at": "2026-07-13T13:45:00+00:00",
+  "first_seen_at": "2026-07-21T21:23:10.954248+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:09.917786+00:00",
+  "paths": {
+    "article": "articles/v1/96/ge-aerospace-common-stock/2026/07/2b/2bd8bdf41490d362d24ddbaefbd797945dbb83a2d46ace8347b73680654aa13b/article.md",
+    "record": "articles/v1/96/ge-aerospace-common-stock/2026/07/2b/2bd8bdf41490d362d24ddbaefbd797945dbb83a2d46ace8347b73680654aa13b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9340,
+    "sha256": "sha256:bea928a26e2b51efab4e3c68b150c541921e6856bc08e647368dc40a7dd8e9fd",
+    "normalized_content_hash": "sha256:b65d137e8f1af5cdfa50ac0fb029079ebcad7970d3ce215abab73e001b6e7001"
+  },
+  "provenance": {
+    "source_item_id": "a791bc53-d009-4764-bf84-dc46f32eb123",
+    "external_id": "https://www.geaerospace.com/news/articles/open-fan-engine-technology-aims-epic-efficiency-it-also-has-major-durability-potential"
+  }
+}

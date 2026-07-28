@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f40b1bc5ed3c5363d122bfbb2f23499c9b03d8889f18b49278d8c71f52f9c8c9",
+  "company": {
+    "key": "yc-dover",
+    "name": "Dover"
+  },
+  "source": {
+    "id": "yc-dover-news-import-0c30b263f835",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dover.com/blog/when-to-stop-using-spreadsheets-recruiting",
+    "canonical": "https://www.dover.com/blog/when-to-stop-using-spreadsheets-recruiting"
+  },
+  "title": "The Collaboration Nightmare (When Two People Touch the Same Spreadsheet)",
+  "summary": "Spreadsheets stop working after 10 candidates with lost follow-ups and version conflicts. Find out when to switch to recruiting software in June 2026.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T07:58:02.953466+00:00",
+  "fetched_at": "2026-07-23T20:00:28.049248+00:00",
+  "last_updated_at": "2026-07-23T20:00:29.053541+00:00",
+  "paths": {
+    "article": "articles/v1/94/yc-dover/2026/06/f4/f40b1bc5ed3c5363d122bfbb2f23499c9b03d8889f18b49278d8c71f52f9c8c9/article.md",
+    "record": "articles/v1/94/yc-dover/2026/06/f4/f40b1bc5ed3c5363d122bfbb2f23499c9b03d8889f18b49278d8c71f52f9c8c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2352,
+    "sha256": "sha256:99793d9cf6364775527a35ae920658f67804c1be182acf924bf08895370d159d",
+    "normalized_content_hash": "sha256:eb024cbbe664a323bad68cd6431b055221bcc7b2a66bccf00faab2175e3a100a"
+  },
+  "provenance": {
+    "source_item_id": "05a6118a-748b-4d8b-a7ed-8cec278a73da",
+    "external_id": "https://www.dover.com/blog/when-to-stop-using-spreadsheets-recruiting"
+  }
+}

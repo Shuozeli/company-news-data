@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fc54f13739b0bbc310e5d51a7370ac56a6d2d8b04d5b6ac816dceef56e01d9d5",
+  "company": {
+    "key": "yc-humand",
+    "name": "Humand"
+  },
+  "source": {
+    "id": "yc-humand-news-import-e78f2a560278",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://humand.co/en/blog/work-smarter/",
+    "canonical": "https://humand.co/en/blog/work-smarter/"
+  },
+  "title": "Work Smarter",
+  "summary": "At Humand, we believe AI is here to amplify the work of every person within the organization. That is why we are introducing new automation and analytics capabilities integrated directly into key modules across the platform: internal communications, talent acquisition, feedback, training, and document management. AI is arriving to streamline the most time-consuming, day-to-day HR […]",
+  "published_at": "2026-05-26T20:31:53+00:00",
+  "first_seen_at": "2026-07-25T08:49:50.279037+00:00",
+  "fetched_at": "2026-07-28T21:44:23.277081+00:00",
+  "last_updated_at": "2026-07-28T21:44:41.174069+00:00",
+  "paths": {
+    "article": "articles/v1/69/yc-humand/2026/05/fc/fc54f13739b0bbc310e5d51a7370ac56a6d2d8b04d5b6ac816dceef56e01d9d5/article.md",
+    "record": "articles/v1/69/yc-humand/2026/05/fc/fc54f13739b0bbc310e5d51a7370ac56a6d2d8b04d5b6ac816dceef56e01d9d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6200,
+    "sha256": "sha256:d70927cf44e07956ddac34fdf84d789dacbfa03587e61a3db9a1aa4bfc62e6bf",
+    "normalized_content_hash": "sha256:7b9c91737911199fe24a35191299e9906b99274fb82ff6dfc75e5d7e07b679d6"
+  },
+  "provenance": {
+    "source_item_id": "531e2546-fbe9-42fd-a493-b6b49c1d13e6",
+    "external_id": "https://humand.co/en/blog/work-smarter/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db376bdaa41521e1bda6083cd2f68a7d07348a940f8f2b5a97a6e73d9101139b",
+  "company": {
+    "key": "brbi-br-partners-s-a-adss",
+    "name": "BRBI BR Partners S.A. ADSs"
+  },
+  "source": {
+    "id": "brbi-br-partners-s-a-adss-news-import-e6aa56a5bd85",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brpartners.com.br/en-US/blog/br-partners-is-expected-to-increase-the-number-of-brazilian-companies-listed-on-the-us-stock-exchange.html",
+    "canonical": "https://www.brpartners.com.br/en-US/blog/br-partners-is-expected-to-increase-the-number-of-brazilian-companies-listed-on-the-us-stock-exchange.html"
+  },
+  "title": "BR Partners is expected to increase the number of Brazilian companies listed on the US stock exchange",
+  "summary": "BR Partners has approved the issuance of American Depositary Receipts ADRs",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T00:02:53.272416+00:00",
+  "fetched_at": "2026-07-28T00:53:11.078770+00:00",
+  "last_updated_at": "2026-07-28T00:53:19.414739+00:00",
+  "paths": {
+    "article": "articles/v1/7f/brbi-br-partners-s-a-adss/2026/07/db/db376bdaa41521e1bda6083cd2f68a7d07348a940f8f2b5a97a6e73d9101139b/article.md",
+    "record": "articles/v1/7f/brbi-br-partners-s-a-adss/2026/07/db/db376bdaa41521e1bda6083cd2f68a7d07348a940f8f2b5a97a6e73d9101139b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3479,
+    "sha256": "sha256:af65ee1ac01d819663ab8d7c123965322cf0cc881c6b721181d5e01a5f34bf74",
+    "normalized_content_hash": "sha256:1ad7058b00deebcb8d4e3dc6b55123acd31be3de8b8633d1e6ddbfb7b190e84a"
+  },
+  "provenance": {
+    "source_item_id": "d7185a4d-1867-4c9c-858c-7fd3fd93a827",
+    "external_id": "https://www.brpartners.com.br/en-US/blog/br-partners-is-expected-to-increase-the-number-of-brazilian-companies-listed-on-the-us-stock-exchange.html"
+  }
+}

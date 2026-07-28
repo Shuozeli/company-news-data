@@ -7,11 +7,32 @@ source_id: "yc-gusto-engineering-rss"
 canonical_url: "https://engineering.gusto.com/the-journey-to-a-safer-frontend-why-we-removed-react-fc-095ff0b3e2e4"
 published_at: "2026-02-09T17:01:01+00:00"
 first_seen_at: "2026-07-19T22:15:27.842622+00:00"
-fetched_at: "2026-07-28T04:03:20.234730+00:00"
-content_hash: "sha256:2059548a5ddb02df38177e11e78989ccf9e5ea6ded8089721d5dc4b47690a8ab"
+fetched_at: "2026-07-28T22:21:12.159869+00:00"
+content_hash: "sha256:bde62fe418ea50841dab71d3f5860b6d2f58f1bec6aebc42181de335b571b663"
 ---
 
 # The Journey to a Safer Frontend: Why We Removed React.FC
+
+# The Journey to a Safer Frontend: Why We Removed React.FC
+
+
+[Arda Örkin](https://ardaorkin.medium.com/?source=post_page---byline--095ff0b3e2e4---------------------------------------)
+
+
+5 min read
+
+
+·
+
+
+Feb 9, 2026
+
+
+--
+
+
+Press enter or click to view image in full size
+
 
 Person in parachute over mountains during daytime
 
@@ -34,7 +55,7 @@ I opened up a TypeScript playground and tried a few experiments. Sure enough, Re
 That small hunch kicked off a journey that eventually touched thousands of files and changed how we write components across Gusto’s frontend.
 
 
-### A Familiar Pattern–with Hidden Costs
+## A Familiar Pattern–with Hidden Costs
 
 
 In Gusto, many of our React components followed a familiar pattern:
@@ -65,7 +86,7 @@ Individually, these issues are subtle. Together, they add up to technical debt t
 In practice, this meant we were quietly accumulating technical debt.
 
 
-### The Moment It Clicked
+## The Moment It Clicked
 
 
 The problem became obvious when I compared two versions of the same component — one typed with React.FC, one without:
@@ -82,7 +103,7 @@ In the first case, TypeScript didn’t complain that the **unused** variable was
 That’s when it clicked: our type system was only as good as the types we chose to trust. And in this case, **React.FC** was making promises it couldn’t keep.
 
 
-### From a Conversation to a Codebase-Wide Change
+## From a Conversation to a Codebase-Wide Change
 
 
 I shared the discovery in a developer chat. At first, it was a casual “today I learned” post — the kind that might get a few emoji reactions and then fade away. But this one sparked a real discussion. Other engineers chimed in, sharing similar frustrations and half-remembered TypeScript quirks.
@@ -106,10 +127,19 @@ Within days, we decided to see how far the problem went. The answer: very far. O
 It was ambitious — maybe even a little reckless. But we had the tools, the support, and the shared understanding that the payoff — real, enforced type safety — would be worth it.
 
 
-### Automating the Change
+## Automating the Change
 
 
 **Step 1: Rewrite Component Declarations**
+
+
+## Get Arda Örkin’s stories in your inbox
+
+
+Join Medium for free to get updates from this writer.
+
+
+Remember me for faster sign in
 
 
 We wrote a transformation script that scanned the entire codebase for components defined with **React.FC** . For each one, it:
@@ -142,7 +172,7 @@ Next, we ensured every exported component explicitly declared its return type. I
 This gave every component a clear contract — one TypeScript could enforce.
 
 
-### The Cleanup Ripple Effect
+## The Cleanup Ripple Effect
 
 
 Once the migration ran, something unexpected happened: the compiler began surfacing errors we didn’t know existed:
@@ -156,7 +186,7 @@ Once the migration ran, something unexpected happened: the compiler began surfac
 By removing one abstraction, we exposed dozens of small issues that had gone unnoticed. What started as a typing cleanup turned into a meaningful improvement in overall code health.
 
 
-### Keeping It That Way
+## Keeping It That Way
 
 
 After the migration, we wanted to make sure React.FC didn’t creep back in. So we added a linter rule to block it entirely:
@@ -170,7 +200,7 @@ After the migration, we wanted to make sure React.FC didn’t creep back in. So 
 Now the rule enforces the convention automatically.
 
 
-### What We Gained
+## What We Gained
 
 
 By the end of the project:
@@ -186,7 +216,7 @@ But the real win wasn’t just technical. It was cultural.
 This project reminded us that engineering excellence often comes from *paying attention* — from noticing when something feels off and following that thread until you understand it fully.
 
 
-### Conclusion
+## Conclusion
 
 
 Removing **React.FC** wasn’t about being pedantic — it was about precision.
@@ -196,7 +226,7 @@ By choosing explicit, predictable typing over hidden convenience, we gained stro
 Sometimes, progress isn’t about adopting the newest tool — it’s about questioning the ones we’ve quietly accepted.
 
 
-### Further Reading
+## Further Reading
 
 
 - [Removed React.FC from Create React App templates (facebook/create-react-app#8177)](https://github.com/facebook/create-react-app/pull/8177)
@@ -204,9 +234,3 @@ Sometimes, progress isn’t about adopting the newest tool — it’s about ques
 
 
 Gusto is hiring! If you enjoy solving difficult problems and multiplying your impact, check out our careers page at[gusto.com/careers](https://gusto.com/careers) .
-
-
----
-
-
-[The Journey to a Safer Frontend: Why We Removed React.FC](https://engineering.gusto.com/the-journey-to-a-safer-frontend-why-we-removed-react-fc-095ff0b3e2e4) was originally published in[Gusto Engineering](https://engineering.gusto.com/) on Medium, where people are continuing the conversation by highlighting and responding to this story.

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "52fdfc68f246a640ebe8ab8de77d119316e2d55d416f91a058a6de09574001b8",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/jun-qian-and-machine-learning-in-the-real-world/",
+    "canonical": "https://engineering.sift.com/jun-qian-and-machine-learning-in-the-real-world/"
+  },
+  "title": "Jun Qian and Machine Learning in the Real World",
+  "summary": "Jun Qian’s typical day consists of thinking through real-world machine learning applications, hiring brilliant engineers, and digging through incomparable types of data. Well, that is when he’s not traveling between the Sift Science Seattle and San Francisco offices. What began as a 20-year friendship with Matt Green – Sift’s Seattle Site Manager and Head of […]",
+  "published_at": "2019-01-08T20:01:07+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.591285+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2019/01/52/52fdfc68f246a640ebe8ab8de77d119316e2d55d416f91a058a6de09574001b8/article.md",
+    "record": "articles/v1/fe/yc-sift/2019/01/52/52fdfc68f246a640ebe8ab8de77d119316e2d55d416f91a058a6de09574001b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4716,
+    "sha256": "sha256:32e4bf016759158c8f3b4f8a5dabb285ec4c7f5eb67c6556b749b7bd06058217",
+    "normalized_content_hash": "sha256:e9f94c65f1bcf9688b89ad91a71bc6e5b10824a875dcc75ad1262e5c96ad086d"
+  },
+  "provenance": {
+    "source_item_id": "4e21d015-8e5a-4885-9463-69b274c2f677",
+    "external_id": "https://engineering.sift.com/jun-qian-and-machine-learning-in-the-real-world/"
+  }
+}

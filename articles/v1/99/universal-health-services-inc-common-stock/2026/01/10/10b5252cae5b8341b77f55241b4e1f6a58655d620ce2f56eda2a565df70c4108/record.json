@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "10b5252cae5b8341b77f55241b4e1f6a58655d620ce2f56eda2a565df70c4108",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-4efa37697785",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/forbes-high-tech-high-touch-how-telehealth-is-reshaping-the-future-of-care/",
+    "canonical": "https://uhs.com/news/forbes-high-tech-high-touch-how-telehealth-is-reshaping-the-future-of-care/"
+  },
+  "title": "Forbes: High Tech, High Touch: How Telehealth Is Reshaping the Future of Care",
+  "summary": "In a recent Forbes article, UHS President and CEO Marc D. Miller shared how UHS is leveraging telehealth and other technologies to help improve efficiency, care coordination and patient experience.",
+  "published_at": "2026-01-20T13:58:24+00:00",
+  "first_seen_at": "2026-07-24T05:33:05.470539+00:00",
+  "fetched_at": "2026-07-28T22:23:18.090789+00:00",
+  "last_updated_at": "2026-07-28T22:24:53.135462+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/10/10b5252cae5b8341b77f55241b4e1f6a58655d620ce2f56eda2a565df70c4108/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/10/10b5252cae5b8341b77f55241b4e1f6a58655d620ce2f56eda2a565df70c4108/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3888,
+    "sha256": "sha256:657d479523a98d49b3a7605888a25168f0be022f62e0b43c61451e0ab255a00b",
+    "normalized_content_hash": "sha256:a47e60835cef0ccd214daefc6364b09b4e9d134a7c412a280064e9355ce93dfd"
+  },
+  "provenance": {
+    "source_item_id": "2e3f72b3-d7b9-450d-9373-1b6d84fe187b",
+    "external_id": "https://uhs.com/news/forbes-high-tech-high-touch-how-telehealth-is-reshaping-the-future-of-care/"
+  }
+}

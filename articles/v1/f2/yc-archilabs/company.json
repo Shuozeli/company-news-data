@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-archilabs",
+    "name": "ArchiLabs"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-06-30T01:06:01.405+00:00",
+  "last_published_at": "2026-06-30T01:06:16.404+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 12
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8d05e25f5f319834e798e5f89fba1af5fed8c62855cd7f85ea251b6227bc0603",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260724/5.50-pfd-conv-cum-ser-b-braemar-hotels--resorts-inc-nyse-bhr_pb-declared-a-dividend-of-$0.3438-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260724/5.50-pfd-conv-cum-ser-b-braemar-hotels--resorts-inc-nyse-bhr_pb-declared-a-dividend-of-$0.3438-per-share/"
+  },
+  "title": "BHR_PB Dividend Announcement $0.3438/Share 7/24/2026",
+  "summary": "NYSE:BHR_PB 5.50% Pfd Conv Cum Ser B/Braemar Hotels & Resorts Inc Dividend Announcement $0.3438 per share on July 24, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-26T13:16:00.264154+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.935995+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/8d/8d05e25f5f319834e798e5f89fba1af5fed8c62855cd7f85ea251b6227bc0603/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/8d/8d05e25f5f319834e798e5f89fba1af5fed8c62855cd7f85ea251b6227bc0603/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2316,
+    "sha256": "sha256:f4d224bbc8f60f2d3205e84edecb69330f73c7c96cee9523234b787f958c8321",
+    "normalized_content_hash": "sha256:c20983ac39497548d6cb1412cdbc27f375638de2368648f3a632355db6407563"
+  },
+  "provenance": {
+    "source_item_id": "f5716e9d-d421-4aec-8868-c2c23bbc9feb",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260724/5.50-pfd-conv-cum-ser-b-braemar-hotels--resorts-inc-nyse-bhr_pb-declared-a-dividend-of-$0.3438-per-share/"
+  }
+}

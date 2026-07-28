@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2631c140c4a7c1621ecd912f27f3668de4498758560b1dade510a2047fb69d04",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/siloam-sriwijaya.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/siloam-sriwijaya.html"
+  },
+  "title": "Bot MD x Siloam Sriwijaya | Pediatric Vaccinations",
+  "summary": "To enhance patient experience and the quality of care, Siloam Sriwijaya Hospital has partnered Bot MD to introduce an A.I. powered platform that automates vaccination reminders using WhatsApp. Parents with newborns delivered at Siloam Sriwijaya will receive automated WhatsApp reminders from the Hospital, without having to download another app.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.633107+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/26/2631c140c4a7c1621ecd912f27f3668de4498758560b1dade510a2047fb69d04/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/26/2631c140c4a7c1621ecd912f27f3668de4498758560b1dade510a2047fb69d04/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2700,
+    "sha256": "sha256:e24f203a0cddd13c7ced8ddab6b1708db58d8a00d62362f5f8f6ac6de34a60a0",
+    "normalized_content_hash": "sha256:6c9fe4ab197034b9f22d38f4241d7fd7b609955160462648067bfe2e759b230a"
+  },
+  "provenance": {
+    "source_item_id": "182454b8-1941-4d45-ae97-774d38e2c866",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/siloam-sriwijaya.html"
+  }
+}

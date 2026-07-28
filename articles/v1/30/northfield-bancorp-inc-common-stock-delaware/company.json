@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "northfield-bancorp-inc-common-stock-delaware",
+    "name": "Northfield Bancorp Inc. Common Stock (Delaware)"
+  },
+  "record_count": 10,
+  "first_published_at": "2024-09-18T12:15:00+00:00",
+  "last_published_at": "2026-04-20T21:08:04+00:00",
+  "partitions": [
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ]
+}

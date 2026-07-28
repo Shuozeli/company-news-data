@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-artifact-2",
+    "name": "Artifact"
+  },
+  "record_count": 3,
+  "first_published_at": "2025-08-08T00:00:00+00:00",
+  "last_published_at": "2025-10-13T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    }
+  ]
+}

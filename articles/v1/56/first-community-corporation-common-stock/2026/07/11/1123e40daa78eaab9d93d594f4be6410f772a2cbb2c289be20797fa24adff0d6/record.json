@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1123e40daa78eaab9d93d594f4be6410f772a2cbb2c289be20797fa24adff0d6",
+  "company": {
+    "key": "first-community-corporation-common-stock",
+    "name": "First Community Corporation Common Stock"
+  },
+  "source": {
+    "id": "first-community-corporation-common-stock-news-import-902f5a20857d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firstcommunitysc.com/about/news/2024/01/10/first-community-bank-announces-leadership-moves",
+    "canonical": "https://www.firstcommunitysc.com/about/news/2024/01/10/first-community-bank-announces-leadership-moves"
+  },
+  "title": "First Community Bank Announces Leadership Moves",
+  "summary": "First Community Bank announces promotions and changes to its executive leadership team.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T09:36:16.542051+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:57.114978+00:00",
+  "paths": {
+    "article": "articles/v1/56/first-community-corporation-common-stock/2026/07/11/1123e40daa78eaab9d93d594f4be6410f772a2cbb2c289be20797fa24adff0d6/article.md",
+    "record": "articles/v1/56/first-community-corporation-common-stock/2026/07/11/1123e40daa78eaab9d93d594f4be6410f772a2cbb2c289be20797fa24adff0d6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3364,
+    "sha256": "sha256:b26e69bf40ba40408c9620ea2bc12ec379f23c946d18aae46e0b5e6dd1085eeb",
+    "normalized_content_hash": "sha256:fcf6b5d3f4cf2ed7f4ab8e1c6d8df9c1e7ede2f0531cccaf9a846a4cc640a220"
+  },
+  "provenance": {
+    "source_item_id": "29628444-b87e-4750-97ba-efabcb3e6332",
+    "external_id": "https://www.firstcommunitysc.com/about/news/2024/01/10/first-community-bank-announces-leadership-moves"
+  }
+}

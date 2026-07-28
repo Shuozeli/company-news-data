@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e5981905575385f62cd2973c4bc0025dec5f39d21d2558b0a11646ee8bef08c0",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-news-import-801d48e1d714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations"
+  },
+  "title": "Integration Tutorials & Guides",
+  "summary": "Step-by-step guides for integrating Twilio with third-party platforms, cloud providers, and services.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T17:37:59.927743+00:00",
+  "fetched_at": "2026-07-28T22:07:07.393518+00:00",
+  "last_updated_at": "2026-07-28T22:08:15.200015+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/e5/e5981905575385f62cd2973c4bc0025dec5f39d21d2558b0a11646ee8bef08c0/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/e5/e5981905575385f62cd2973c4bc0025dec5f39d21d2558b0a11646ee8bef08c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2802,
+    "sha256": "sha256:5d10324aaf53fbf70320c45ffb72046e60fa890f3db4932eea23288aa8a732d9",
+    "normalized_content_hash": "sha256:6bac98d10c5a1d1c1011feeddbe36bdebc27d83f682fbb058d68614835083082"
+  },
+  "provenance": {
+    "source_item_id": "8fe3589c-aef2-431d-bae9-a070607f2ed3",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations"
+  }
+}

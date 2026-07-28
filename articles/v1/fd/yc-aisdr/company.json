@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-aisdr",
+    "name": "AiSDR"
+  },
+  "record_count": 4,
+  "first_published_at": "2025-02-12T16:23:21+00:00",
+  "last_published_at": "2026-03-12T13:26:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    }
+  ]
+}

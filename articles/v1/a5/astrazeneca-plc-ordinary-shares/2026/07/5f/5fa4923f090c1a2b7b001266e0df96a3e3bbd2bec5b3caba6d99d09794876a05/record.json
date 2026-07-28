@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5fa4923f090c1a2b7b001266e0df96a3e3bbd2bec5b3caba6d99d09794876a05",
+  "company": {
+    "key": "astrazeneca-plc-ordinary-shares",
+    "name": "AstraZeneca PLC Ordinary Shares"
+  },
+  "source": {
+    "id": "astrazeneca-plc-ordinary-shares-news-import-f05d84ac8220",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.astrazeneca.com/media-centre/image-and-broadcast-library.html",
+    "canonical": "https://www.astrazeneca.com/media-centre/image-and-broadcast-library.html"
+  },
+  "title": "Image and broadcast library - AstraZeneca",
+  "summary": "AstraZeneca - Image and Broadcast Library - Media Centre",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:00:22.503419+00:00",
+  "fetched_at": "2026-07-28T00:14:19.511923+00:00",
+  "last_updated_at": "2026-07-28T00:14:20.615093+00:00",
+  "paths": {
+    "article": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2026/07/5f/5fa4923f090c1a2b7b001266e0df96a3e3bbd2bec5b3caba6d99d09794876a05/article.md",
+    "record": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2026/07/5f/5fa4923f090c1a2b7b001266e0df96a3e3bbd2bec5b3caba6d99d09794876a05/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1157,
+    "sha256": "sha256:3c0b3848d8e3994350f04c6af2bbbc5af25de2fff3e404c708457a81ef7c8095",
+    "normalized_content_hash": "sha256:29638a872c3c4beb959bde8ab4371d4fa5ff6c27af6cfc471fbd332bb2ec3b31"
+  },
+  "provenance": {
+    "source_item_id": "dde3e1cf-e0cc-4e59-8b18-2c94bbfa6667",
+    "external_id": "https://www.astrazeneca.com/media-centre/image-and-broadcast-library.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cea5b79122eed9cf826ccacfb6ff7b660dd4de174b260bbe097ad815d5a1d543",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/bant-sales-approach",
+    "canonical": "https://demodesk.com/blog/bant-sales-approach"
+  },
+  "title": "How to Integrate BANT Qualification into Your AI Sales Workflow",
+  "summary": "BANT qualification with AI: how to score Budget, Authority, Need, Timeline on every call, sync to CRM, and stop chasing unqualified leads.",
+  "published_at": "2025-05-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:07:17.937229+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:44.926723+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2025/05/ce/cea5b79122eed9cf826ccacfb6ff7b660dd4de174b260bbe097ad815d5a1d543/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2025/05/ce/cea5b79122eed9cf826ccacfb6ff7b660dd4de174b260bbe097ad815d5a1d543/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5978,
+    "sha256": "sha256:1ceb2ca04cd0fe83d69c7fdb54b951a131ed87d110eb7f94617b162ce311ff84",
+    "normalized_content_hash": "sha256:77c00a5fa66e2f8441ce51ebfb5b90430d1a92d284a03aa3a76f2a51f7bda1f3"
+  },
+  "provenance": {
+    "source_item_id": "0b869889-d695-4c5a-bf50-bf85f512c17e",
+    "external_id": "https://demodesk.com/blog/bant-sales-approach"
+  }
+}

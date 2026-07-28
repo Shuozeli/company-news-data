@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4112cbb945d8224e5b728590db086eec27fb3eedb987a19c6672a001f3402a84",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/entertainment/spaceballs-2-sequel-amazon-mgm-studios",
+    "canonical": "https://www.aboutamazon.com/news/entertainment/spaceballs-2-sequel-amazon-mgm-studios"
+  },
+  "title": "Everything you need to know about ‘Spaceballs: The New One’ from Amazon MGM Studios",
+  "summary": "Find out more about the sequel to the 1987 MGM sci-fi parody from Mel Brooks, premiering in theaters on April 23, 2027.",
+  "published_at": "2025-09-25T14:00:01.493+00:00",
+  "first_seen_at": "2026-07-27T11:17:23.052849+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-07-28T22:00:14.037020+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2025/09/41/4112cbb945d8224e5b728590db086eec27fb3eedb987a19c6672a001f3402a84/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2025/09/41/4112cbb945d8224e5b728590db086eec27fb3eedb987a19c6672a001f3402a84/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9066,
+    "sha256": "sha256:4a3b2cca3a07d10c82b62902a2166f138b68c28c0c81ef0aa165ee45bf00b0e9",
+    "normalized_content_hash": "sha256:d194a3eb33fd26b43b4433b2a49a6f3fc5a868b969d5c4121947b3ecd2a1f079"
+  },
+  "provenance": {
+    "source_item_id": "4c95f1fd-6285-4177-8ea8-ffb87c9a46bc",
+    "external_id": "https://www.aboutamazon.com/news/entertainment/spaceballs-2-sequel-amazon-mgm-studios"
+  }
+}

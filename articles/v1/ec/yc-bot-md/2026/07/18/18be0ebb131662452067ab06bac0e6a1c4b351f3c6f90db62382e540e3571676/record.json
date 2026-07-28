@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "18be0ebb131662452067ab06bac0e6a1c4b351f3c6f90db62382e540e3571676",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/angie.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/angie.html"
+  },
+  "title": "Meet Angie, the NCIS ENGAGE bot that empowers women at risk of hereditary breast cancer",
+  "summary": "The National University Cancer Institute, Singapore (NCIS) has partnered Singapore health tech AI startup Bot MD to launch an interactive artificial intelligence (AI) chatbot service on WhatsApp, named “Angie”, as part of the NCIS ENGAGE (ExpandiNG Access to Genetic counsElling) project.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.820855+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/18/18be0ebb131662452067ab06bac0e6a1c4b351f3c6f90db62382e540e3571676/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/18/18be0ebb131662452067ab06bac0e6a1c4b351f3c6f90db62382e540e3571676/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4621,
+    "sha256": "sha256:39943e758243956044e482108361ca6431a4ea0c0d34890e3c8c13231b262ea4",
+    "normalized_content_hash": "sha256:361ab781dbb6954b3497797d029ac45d3ab7b0d21aa07197ec84cc96c8329318"
+  },
+  "provenance": {
+    "source_item_id": "657b1b8d-501b-4ce6-a7b3-b005645e6f0d",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/angie.html"
+  }
+}

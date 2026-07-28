@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc92d3464778a79d8d05d6cd59782ed4b2eb38c39264564662e575ee7465a150",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/please-explain",
+    "canonical": "https://andiai.com/blogs/please-explain"
+  },
+  "title": "Please Explain.",
+  "summary": "Explain - discover how to use one of Andi's little AI gems to get plain language explanations of complex topics.",
+  "published_at": "2025-01-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:48:18.083780+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:29.968778+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2025/01/cc/cc92d3464778a79d8d05d6cd59782ed4b2eb38c39264564662e575ee7465a150/article.md",
+    "record": "articles/v1/d3/yc-andi/2025/01/cc/cc92d3464778a79d8d05d6cd59782ed4b2eb38c39264564662e575ee7465a150/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3640,
+    "sha256": "sha256:40ca3686eae5a61aa53139ed19f04d48c9e6ef2452be49a396879513ba13f3c9",
+    "normalized_content_hash": "sha256:a79a3f59311e25e523d2b9c7e6db487cb6315c0b68702e1bea66fd8ad623f6d7"
+  },
+  "provenance": {
+    "source_item_id": "2302fc67-e375-4b8f-b97e-a846d4564217",
+    "external_id": "https://andiai.com/blogs/please-explain"
+  }
+}

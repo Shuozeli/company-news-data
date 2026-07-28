@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-pibit-ai",
+    "name": "Pibit.ai"
+  },
+  "record_count": 24,
+  "first_published_at": "2026-04-16T00:00:00+00:00",
+  "last_published_at": "2026-07-24T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    }
+  ]
+}

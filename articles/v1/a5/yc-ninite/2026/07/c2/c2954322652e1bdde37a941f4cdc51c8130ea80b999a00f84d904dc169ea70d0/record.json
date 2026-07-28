@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c2954322652e1bdde37a941f4cdc51c8130ea80b999a00f84d904dc169ea70d0",
+  "company": {
+    "key": "yc-ninite",
+    "name": "Ninite"
+  },
+  "source": {
+    "id": "yc-ninite-rss-629553105472",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ninite.com/.neta10/",
+    "canonical": "https://ninite.com/.neta10/"
+  },
+  "title": ".NET Desktop Runtime arm64 10 updated to 10.0.10.50000.",
+  "summary": "",
+  "published_at": "2026-07-15T19:56:47+00:00",
+  "first_seen_at": "2026-07-25T16:20:56.315803+00:00",
+  "fetched_at": "2026-07-28T20:51:42.131550+00:00",
+  "last_updated_at": "2026-07-28T20:51:42.222078+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-ninite/2026/07/c2/c2954322652e1bdde37a941f4cdc51c8130ea80b999a00f84d904dc169ea70d0/article.md",
+    "record": "articles/v1/a5/yc-ninite/2026/07/c2/c2954322652e1bdde37a941f4cdc51c8130ea80b999a00f84d904dc169ea70d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 528,
+    "sha256": "sha256:ee6c3378f20a830c3104612e6bb905b35f2aa134dc4d11b33539634d0d77f59a",
+    "normalized_content_hash": "sha256:30fb27f5d9df0945a50c09d2425e001186a54b9a22bef7281247aaa4f6d5a058"
+  },
+  "provenance": {
+    "source_item_id": "0dd8ac1f-be19-4757-9f84-3db0351f8bb3",
+    "external_id": "a404113a5613bcd296b91538f765d980"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "317f67bc147c89c0505bc1c399a6b62090af5564b3e5bddbbafab3b24fad491a",
+  "company": {
+    "key": "sonos-inc-common-stock",
+    "name": "Sonos Inc. Common Stock"
+  },
+  "source": {
+    "id": "sonos-inc-common-stock-news-import-358168792368",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://en.community.sonos.com/product-updates/new-sonos-app-player-updates-for-early-march-are-now-available-6933349?postid=12127",
+    "canonical": "https://en.community.sonos.com/product-updates/new-sonos-app-player-updates-for-early-march-are-now-available-6933349"
+  },
+  "title": "📲 New Sonos App & Player updates for early-March are now available! 🔊",
+  "summary": "Howdy folks! This morning the team is deploying an update to both the Sonos app and player firmware. This release is quiet with the usual stability and performance fixes to keep your system running smoothly.This will be a Phased Rollout, which means the update may not get pushed to your system right...",
+  "published_at": "2026-03-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:42:45.861887+00:00",
+  "fetched_at": "2026-07-27T10:56:07.023305+00:00",
+  "last_updated_at": "2026-07-27T10:56:14.606672+00:00",
+  "paths": {
+    "article": "articles/v1/01/sonos-inc-common-stock/2026/03/31/317f67bc147c89c0505bc1c399a6b62090af5564b3e5bddbbafab3b24fad491a/article.md",
+    "record": "articles/v1/01/sonos-inc-common-stock/2026/03/31/317f67bc147c89c0505bc1c399a6b62090af5564b3e5bddbbafab3b24fad491a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13024,
+    "sha256": "sha256:55b9f4e6417732673d78b5c16af0bcc965e6b44517f3bf27f6599ba50796ac26",
+    "normalized_content_hash": "sha256:723a8c15142481f10a138209aeffa59e8854f94ccce06d32c000dd04145d3115"
+  },
+  "provenance": {
+    "source_item_id": "3a893503-d4e1-4718-bbfe-1835c59ebd73",
+    "external_id": "https://en.community.sonos.com/product-updates/new-sonos-app-player-updates-for-early-march-are-now-available-6933349"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3320135ab74cc2c6f7aec27a62a831bfe42fdb8835911e8d33a4048f0148c080",
+  "company": {
+    "key": "iqvia-holdings-inc-common-stock",
+    "name": "IQVIA Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "iqvia-holdings-inc-common-stock-news-import-5b6d5a0ad9f3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.iqvia.com/insights/the-iqvia-institute",
+    "canonical": "https://www.iqvia.com/insights/the-iqvia-institute"
+  },
+  "title": "The IQVIA Institute for Human Data Science",
+  "summary": "<h3>Advancing Human Data Science</h3> <p>The IQVIA Institute for Human Data Science&nbsp;delivers objective, relevant insights and research that accelerates our understanding of how health systems function, how treatment is evolving, and how care is being delivered. These insights are critical to sound decision making, and ultimately to improved human health outcomes.&nbsp;<br /> <br /> With access to IQVIA's institutional knowledge, advanced analytics, technology and unparalelled data, the Institute works in tandem with a broad set of stakeholders, including government agencies, academic institutions, the life sciences industry, and payers.&nbsp;</p>",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T00:36:00.013182+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-07-28T21:52:19.079039+00:00",
+  "paths": {
+    "article": "articles/v1/73/iqvia-holdings-inc-common-stock/2026/07/33/3320135ab74cc2c6f7aec27a62a831bfe42fdb8835911e8d33a4048f0148c080/article.md",
+    "record": "articles/v1/73/iqvia-holdings-inc-common-stock/2026/07/33/3320135ab74cc2c6f7aec27a62a831bfe42fdb8835911e8d33a4048f0148c080/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12893,
+    "sha256": "sha256:e58244c64753b21e9779a63e280575e8db2bd0ead2b50aa1e38e614bab0a5316",
+    "normalized_content_hash": "sha256:1b29184b8056cfa255d494aadf198dd01797958a468d5900f5f7cdb13f42c27d"
+  },
+  "provenance": {
+    "source_item_id": "6a257a16-5132-4c8c-a9c0-b95898ca44f9",
+    "external_id": "https://www.iqvia.com/insights/the-iqvia-institute"
+  }
+}

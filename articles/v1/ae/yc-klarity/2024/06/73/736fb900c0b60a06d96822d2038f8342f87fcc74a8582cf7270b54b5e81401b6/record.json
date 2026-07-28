@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "736fb900c0b60a06d96822d2038f8342f87fcc74a8582cf7270b54b5e81401b6",
+  "company": {
+    "key": "yc-klarity",
+    "name": "Klarity"
+  },
+  "source": {
+    "id": "yc-klarity-news-import-eb5790299337",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.klarity.ai/resources/blog/series-b-funding",
+    "canonical": "https://klarity.ai/resources/blog/series-b-funding"
+  },
+  "title": "Klarity raises $70 million in Series B funding",
+  "summary": "Klarity raises $70M in Series B funding led by Nat Friedman and Daniel Gross, bringing total funding to $90M to advance AI-powered enterprise transformation.",
+  "published_at": "2024-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:34:36.098678+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:15.086932+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-klarity/2024/06/73/736fb900c0b60a06d96822d2038f8342f87fcc74a8582cf7270b54b5e81401b6/article.md",
+    "record": "articles/v1/ae/yc-klarity/2024/06/73/736fb900c0b60a06d96822d2038f8342f87fcc74a8582cf7270b54b5e81401b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3054,
+    "sha256": "sha256:9d8c913caff0b2e0f0b15cdc7db7b5f43c41b9d8d99b2615708f7b0aa774bb92",
+    "normalized_content_hash": "sha256:61242f443b3bee4f11165800ebd10ff682b53b55f99c8c12503e8a57b1b0b59d"
+  },
+  "provenance": {
+    "source_item_id": "2a7bdf37-6e1c-4eed-adbd-cda829b1c926",
+    "external_id": "https://klarity.ai/resources/blog/series-b-funding"
+  }
+}

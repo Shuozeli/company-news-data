@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "639c188e10226c37c1ffe13036a24908d2b7881107b7b7b1a5303463e8a7c45a",
+  "company": {
+    "key": "yc-ninite",
+    "name": "Ninite"
+  },
+  "source": {
+    "id": "yc-ninite-rss-629553105472",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ninite.com/evernote/",
+    "canonical": "https://ninite.com/evernote/"
+  },
+  "title": "Evernote updated to 11.25.6.",
+  "summary": "",
+  "published_at": "2026-07-15T16:41:12+00:00",
+  "first_seen_at": "2026-07-25T16:20:56.315803+00:00",
+  "fetched_at": "2026-07-28T20:51:42.131550+00:00",
+  "last_updated_at": "2026-07-28T20:51:42.222078+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-ninite/2026/07/63/639c188e10226c37c1ffe13036a24908d2b7881107b7b7b1a5303463e8a7c45a/article.md",
+    "record": "articles/v1/a5/yc-ninite/2026/07/63/639c188e10226c37c1ffe13036a24908d2b7881107b7b7b1a5303463e8a7c45a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 502,
+    "sha256": "sha256:51553a4dad98f6c9bc3fb0d597c40a1edbd62c53eddb2140cb984d018a5a5e6b",
+    "normalized_content_hash": "sha256:529181e9945fd51a8ebdbcfb860c9e5bcd914a4ce457b684fb3fabcf2de9dfa3"
+  },
+  "provenance": {
+    "source_item_id": "40788080-b02e-4c90-ae8b-368782bff929",
+    "external_id": "309a777e9f79800c515cc15ef5734eac"
+  }
+}

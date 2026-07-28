@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6cd7be07ff49db290dd4880d00353500383643d0d0845bec2794b4c126afad24",
+  "company": {
+    "key": "novartis-ag-common-stock",
+    "name": "Novartis AG Common Stock"
+  },
+  "source": {
+    "id": "novartis-ag-common-stock-news-import-803a71742401",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.novartis.com/news/media-releases/novartis-igan-data-lancet-show-clinically-meaningful-slowing-kidney-function-decline-vanrafia-over-25-years",
+    "canonical": "https://www.novartis.com/news/media-releases/novartis-igan-data-lancet-show-clinically-meaningful-slowing-kidney-function-decline-vanrafia-over-25-years"
+  },
+  "title": "Novartis IgAN data in The Lancet show clinically meaningful slowing of kidney function decline with Vanrafia® over 2.5 years",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T06:30:35.694299+00:00",
+  "fetched_at": "2026-07-28T21:46:31.447870+00:00",
+  "last_updated_at": "2026-07-28T21:47:32.175164+00:00",
+  "paths": {
+    "article": "articles/v1/49/novartis-ag-common-stock/2026/07/6c/6cd7be07ff49db290dd4880d00353500383643d0d0845bec2794b4c126afad24/article.md",
+    "record": "articles/v1/49/novartis-ag-common-stock/2026/07/6c/6cd7be07ff49db290dd4880d00353500383643d0d0845bec2794b4c126afad24/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16840,
+    "sha256": "sha256:2604dfdd18698a5e6e07387a0114bc38479dcf0423bbdf38f68dba3a0370bea0",
+    "normalized_content_hash": "sha256:7a70d5cd18fa5ce5c4c6741139182bd83d0942453ef1a8b837bcea421c3612f5"
+  },
+  "provenance": {
+    "source_item_id": "3ece389f-c350-4139-a30e-ed11d143419d",
+    "external_id": "https://www.novartis.com/news/media-releases/novartis-igan-data-lancet-show-clinically-meaningful-slowing-kidney-function-decline-vanrafia-over-25-years"
+  }
+}

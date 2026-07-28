@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "435aab257c242a224005f210354503205ca9d5f520396969f164ded64b2334b7",
+  "company": {
+    "key": "amkor-technology-inc-common-stock",
+    "name": "Amkor Technology Inc. Common Stock"
+  },
+  "source": {
+    "id": "amkor-technology-inc-common-stock-news-import-c3e4c050930c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amkor.com/blog/amkor-earns-environmental-leadership-recognition-from-cdp/",
+    "canonical": "https://amkor.com/blog/amkor-earns-environmental-leadership-recognition-from-cdp/"
+  },
+  "title": "Amkor Earns Environmental Leadership Recognition from CDP - Amkor Technology",
+  "summary": "Amkor earns a CDP double \"A\" score for climate & water leadership, highlighting transparency, renewable energy use, & progress on emissions.",
+  "published_at": "2026-01-22T00:05:32+00:00",
+  "first_seen_at": "2026-07-24T16:34:56.885040+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:29.531847+00:00",
+  "paths": {
+    "article": "articles/v1/9f/amkor-technology-inc-common-stock/2026/01/43/435aab257c242a224005f210354503205ca9d5f520396969f164ded64b2334b7/article.md",
+    "record": "articles/v1/9f/amkor-technology-inc-common-stock/2026/01/43/435aab257c242a224005f210354503205ca9d5f520396969f164ded64b2334b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4423,
+    "sha256": "sha256:ab12e02ebffb93cb71c0391e023b4c7b74b03a4331b4850242dd573a462ce91c",
+    "normalized_content_hash": "sha256:e38eee493d654aa00297d86003ad1309da036762fb7f949a3d24d5abfeada34b"
+  },
+  "provenance": {
+    "source_item_id": "375f6b26-e280-4bdd-ba8d-87dba9f75fe0",
+    "external_id": "https://amkor.com/blog/amkor-earns-environmental-leadership-recognition-from-cdp/"
+  }
+}

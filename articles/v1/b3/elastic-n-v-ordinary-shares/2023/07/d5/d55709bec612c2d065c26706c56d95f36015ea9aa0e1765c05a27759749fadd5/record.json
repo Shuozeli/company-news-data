@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d55709bec612c2d065c26706c56d95f36015ea9aa0e1765c05a27759749fadd5",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V. Ordinary Shares"
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-e107b7ff8c21",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/blog/whats-new-elasticsearch-platform-8-9-0",
+    "canonical": "https://www.elastic.co/blog/whats-new-elasticsearch-platform-8-9-0"
+  },
+  "title": "Elastic Stack 8.9: Faster cross-cluster searches and aggregations on metrics",
+  "summary": "Elastic Stack 8.9 delivers significant speed-up of aggregations for metrics, faster and more reliable cross-cluster searches, and management of alert rules using Terraform....",
+  "published_at": "2023-07-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T16:57:24.683785+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-07-28T21:02:23.725761+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2023/07/d5/d55709bec612c2d065c26706c56d95f36015ea9aa0e1765c05a27759749fadd5/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2023/07/d5/d55709bec612c2d065c26706c56d95f36015ea9aa0e1765c05a27759749fadd5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14453,
+    "sha256": "sha256:353da52376ea42b034a41956006311fd4ec142f3b1c80606c91e031088dd3253",
+    "normalized_content_hash": "sha256:17a5f9d6fdea8dbdf9d4eccaed516d2c5c9a0913d1e54f34d9aa130dce89b4af"
+  },
+  "provenance": {
+    "source_item_id": "208629cf-175c-4715-b67d-4532f7b2f6ac",
+    "external_id": "https://www.elastic.co/blog/whats-new-elasticsearch-platform-8-9-0"
+  }
+}

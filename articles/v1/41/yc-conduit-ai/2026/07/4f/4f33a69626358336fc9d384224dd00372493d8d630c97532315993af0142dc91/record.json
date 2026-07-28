@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f33a69626358336fc9d384224dd00372493d8d630c97532315993af0142dc91",
+  "company": {
+    "key": "yc-conduit-ai",
+    "name": "Conduit"
+  },
+  "source": {
+    "id": "yc-conduit-ai-news-import-d342c7e506de",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.conduit.ai/blog/portals",
+    "canonical": "https://conduit.ai/blog/portals"
+  },
+  "title": "Introducing Portals: the full stay, in one link",
+  "summary": "Conduit Portals puts the whole stay in one link: digital check-in, mobile key, payments, and an AI concierge that books upsells.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:45:05.386958+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-07-28T21:21:55.597127+00:00",
+  "paths": {
+    "article": "articles/v1/41/yc-conduit-ai/2026/07/4f/4f33a69626358336fc9d384224dd00372493d8d630c97532315993af0142dc91/article.md",
+    "record": "articles/v1/41/yc-conduit-ai/2026/07/4f/4f33a69626358336fc9d384224dd00372493d8d630c97532315993af0142dc91/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5961,
+    "sha256": "sha256:47e1d8072c5f9e46d5512ff2e94c271cb4fbe1e979fc138a7ba1e01742cf763a",
+    "normalized_content_hash": "sha256:b9426a4b4062cf9e4ecc5fd82e8731cec12a5b21cd056c52cf0334699a649f1d"
+  },
+  "provenance": {
+    "source_item_id": "e2ce3820-8468-4742-b077-80fb6388b892",
+    "external_id": "https://conduit.ai/blog/portals"
+  }
+}

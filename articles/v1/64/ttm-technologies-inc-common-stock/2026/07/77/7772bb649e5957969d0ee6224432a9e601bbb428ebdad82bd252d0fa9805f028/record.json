@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7772bb649e5957969d0ee6224432a9e601bbb428ebdad82bd252d0fa9805f028",
+  "company": {
+    "key": "ttm-technologies-inc-common-stock",
+    "name": "TTM Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttm-technologies-inc-common-stock-news-import-6d017d0c85d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttm.com/en/blog/Advancing-Medical-Device-Manufacturing-with-TTM-Technologies",
+    "canonical": "http://www.ttm.com/en/blog/Advancing-Medical-Device-Manufacturing-with-TTM-Technologies"
+  },
+  "title": "Advancing Medical Device Manufacturing with TTM Technologies",
+  "summary": "The medical device industry is experiencing rapid technological advancements and an increasing demand for innovative solutions. As healthcare systems evolve and medical equipment becomes more sophisticated, manufacturers are under pressure to deliver high-quality, reliable products at competitive prices. Among these innovations, flexible printed circuit boards (“PCB”s) have emerged as critical components, especially in devices that require compact and lightweight designs.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:50:20.236425+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-07-28T21:38:21.201886+00:00",
+  "paths": {
+    "article": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/77/7772bb649e5957969d0ee6224432a9e601bbb428ebdad82bd252d0fa9805f028/article.md",
+    "record": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/77/7772bb649e5957969d0ee6224432a9e601bbb428ebdad82bd252d0fa9805f028/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3752,
+    "sha256": "sha256:aeb2cee02d74e25aee79575504786195c17d6e34c13b15d7072ce6ebf9facc37",
+    "normalized_content_hash": "sha256:85dcdff9a166287ec663b757c318149c6535dc904c7dbdd11f0cf815e5d09ebf"
+  },
+  "provenance": {
+    "source_item_id": "c38245f0-3bcb-4cf3-8a15-b8fe9447d7bd",
+    "external_id": "http://www.ttm.com/en/blog/Advancing-Medical-Device-Manufacturing-with-TTM-Technologies"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f326f2522bf503427f717c8a729b026e90f8f6d8252ca3550d3f1ad9e466bb2",
+  "company": {
+    "key": "synaptics-incorporated-common-stock-0-001-par-value",
+    "name": "Synaptics Incorporated Common Stock $0.001 Par Value"
+  },
+  "source": {
+    "id": "synaptics-incorporated-common-stock-0-001-par-value-news-import-67901354d8df",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.synaptics.com/company/blog/how-hybrid-ai-combines-edge-and-cloud-intelligence-for-smarter-connected-devices",
+    "canonical": "https://www.synaptics.com/company/blog/how-hybrid-ai-combines-edge-and-cloud-intelligence-for-smarter-connected-devices"
+  },
+  "title": "How Hybrid AI Combines Edge and Cloud Intelligence for Smarter Connected Devices",
+  "summary": "Learn how Hybrid AI combines Edge intelligence with cloud reasoning to help connected devices respond faster, reduce cloud dependency, and deliver smarter user experiences.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:29:20.825354+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:45.208607+00:00",
+  "paths": {
+    "article": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/4f/4f326f2522bf503427f717c8a729b026e90f8f6d8252ca3550d3f1ad9e466bb2/article.md",
+    "record": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/4f/4f326f2522bf503427f717c8a729b026e90f8f6d8252ca3550d3f1ad9e466bb2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11233,
+    "sha256": "sha256:0ef59b9abd3a28529201f3ee6acd4485a0ef514caedd559608aa2b856aae2cad",
+    "normalized_content_hash": "sha256:042e47214684b876100577f5075b5d0bf7283b81a2021b3d1ab87dd3725f47df"
+  },
+  "provenance": {
+    "source_item_id": "8b968bad-e568-4013-876a-6fa647b736c4",
+    "external_id": "https://www.synaptics.com/company/blog/how-hybrid-ai-combines-edge-and-cloud-intelligence-for-smarter-connected-devices"
+  }
+}

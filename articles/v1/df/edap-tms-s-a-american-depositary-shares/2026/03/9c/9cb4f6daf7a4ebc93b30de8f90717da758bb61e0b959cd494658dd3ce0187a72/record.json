@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9cb4f6daf7a4ebc93b30de8f90717da758bb61e0b959cd494658dd3ce0187a72",
+  "company": {
+    "key": "edap-tms-s-a-american-depositary-shares",
+    "name": "EDAP TMS S.A. American Depositary Shares"
+  },
+  "source": {
+    "id": "edap-tms-s-a-american-depositary-shares-news-import-d6ef2d9ad767",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2026/03/25/3262097/9622/en/edap-reports-record-fourth-quarter-and-full-year-2025-hifu-revenue.html",
+    "canonical": "https://www.globenewswire.com/news-release/2026/03/25/3262097/9622/en/edap-reports-record-fourth-quarter-and-full-year-2025-hifu-revenue.html"
+  },
+  "title": "EDAP Reports Record Fourth Quarter and Full-Year 2025 HIFU Revenue",
+  "summary": "EDAP Reports Record Fourth Quarter and Full-Year 2025 HIFU Revenue 39% Full-Year YoY HIFU Revenue Growth, Record Performance Driven by Increased Focal...",
+  "published_at": "2026-03-25T11:30:00+00:00",
+  "first_seen_at": "2026-07-25T02:22:06.997296+00:00",
+  "fetched_at": "2026-07-28T22:17:51.657377+00:00",
+  "last_updated_at": "2026-07-28T22:19:46.538593+00:00",
+  "paths": {
+    "article": "articles/v1/df/edap-tms-s-a-american-depositary-shares/2026/03/9c/9cb4f6daf7a4ebc93b30de8f90717da758bb61e0b959cd494658dd3ce0187a72/article.md",
+    "record": "articles/v1/df/edap-tms-s-a-american-depositary-shares/2026/03/9c/9cb4f6daf7a4ebc93b30de8f90717da758bb61e0b959cd494658dd3ce0187a72/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21591,
+    "sha256": "sha256:a3c548868b2b2c27a61c7c478076f04b6e6dd2d691ba68a481f141edc9d32785",
+    "normalized_content_hash": "sha256:c6aaaeeb9c793b1018679166fff46dcceb4a82ba0fe8f65ec436b8d9f6b06607"
+  },
+  "provenance": {
+    "source_item_id": "fd61a3fc-28c5-4f76-93aa-de823d52ae84",
+    "external_id": "https://www.globenewswire.com/news-release/2026/03/25/3262097/9622/en/edap-reports-record-fourth-quarter-and-full-year-2025-hifu-revenue.html"
+  }
+}

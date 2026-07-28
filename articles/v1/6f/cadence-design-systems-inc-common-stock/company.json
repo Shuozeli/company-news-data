@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cadence-design-systems-inc-common-stock",
+    "name": "Cadence Design Systems Inc. Common Stock"
+  },
+  "record_count": 22,
+  "first_published_at": "2026-04-16T21:30:00+00:00",
+  "last_published_at": "2026-07-27T13:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-fogbender",
+    "name": "Fogbender"
+  },
+  "record_count": 17,
+  "first_published_at": "2022-05-02T00:00:00+00:00",
+  "last_published_at": "2024-05-28T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d516bfb27902c11b1007fa4a81800af12009eb54ee74bfaec000e13748572018",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates",
+    "canonical": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates"
+  },
+  "title": "Amazon Leo mission updates: 375+ satellites now in orbit after successful Atlas V launch",
+  "summary": "Follow along for updates as Amazon Leo launches more than 100 missions to deploy its low Earth orbit satellite internet constellation.",
+  "published_at": "2025-06-10T19:30:15.493+00:00",
+  "first_seen_at": "2026-07-22T06:15:17.275892+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:49.657716+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2025/06/d5/d516bfb27902c11b1007fa4a81800af12009eb54ee74bfaec000e13748572018/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2025/06/d5/d516bfb27902c11b1007fa4a81800af12009eb54ee74bfaec000e13748572018/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10334,
+    "sha256": "sha256:2d4363101524ad562d911624963057d772a1ad3344a64f723d3c4df9ebc78288",
+    "normalized_content_hash": "sha256:b36e6a13d4fb01b519d0f5062d4e5c2e2d966107405560967c965751fb8222f5"
+  },
+  "provenance": {
+    "source_item_id": "a809379e-f938-498d-b643-8e447dd9a649",
+    "external_id": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates"
+  }
+}

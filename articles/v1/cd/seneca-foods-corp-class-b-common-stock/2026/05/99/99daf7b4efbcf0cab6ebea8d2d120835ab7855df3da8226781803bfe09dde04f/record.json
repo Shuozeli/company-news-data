@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99daf7b4efbcf0cab6ebea8d2d120835ab7855df3da8226781803bfe09dde04f",
+  "company": {
+    "key": "seneca-foods-corp-class-b-common-stock",
+    "name": "Seneca Foods Corp. Class B Common Stock"
+  },
+  "source": {
+    "id": "seneca-foods-corp-class-b-common-stock-rss-812bb00696df",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.senecafoods.com/sec-filing/form-sd-specialized-disclosure-report-1",
+    "canonical": "https://www.senecafoods.com/sec-filing/form-sd-specialized-disclosure-report-1"
+  },
+  "title": "Form SD - Specialized Disclosure Report",
+  "summary": "Form SD - Specialized Disclosure Report sfcadmin Thu, 05/14/2026 - 10:49 Filing date Wed, 05/13/2026 - 16:20 PDF document Form SD 2026.pdf",
+  "published_at": "2026-05-14T14:49:08+00:00",
+  "first_seen_at": "2026-07-20T23:22:26.122079+00:00",
+  "fetched_at": "2026-07-28T20:43:05.623336+00:00",
+  "last_updated_at": "2026-07-28T20:43:05.728004+00:00",
+  "paths": {
+    "article": "articles/v1/cd/seneca-foods-corp-class-b-common-stock/2026/05/99/99daf7b4efbcf0cab6ebea8d2d120835ab7855df3da8226781803bfe09dde04f/article.md",
+    "record": "articles/v1/cd/seneca-foods-corp-class-b-common-stock/2026/05/99/99daf7b4efbcf0cab6ebea8d2d120835ab7855df3da8226781803bfe09dde04f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 911,
+    "sha256": "sha256:e2be93538e3ff8f848fe30f36ad8a1a61b0c095c9a3a6083f4ecd625d1ca27f4",
+    "normalized_content_hash": "sha256:8b4596403bf1729ae14d47590769e0b970550487e277da0fe30f155126a1a286"
+  },
+  "provenance": {
+    "source_item_id": "9da9cb9c-0252-42a1-91e1-a456277be4a0",
+    "external_id": "3521 at https://www.senecafoods.com"
+  }
+}

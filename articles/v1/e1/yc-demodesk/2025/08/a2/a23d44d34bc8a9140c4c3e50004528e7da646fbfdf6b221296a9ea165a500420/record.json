@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a23d44d34bc8a9140c4c3e50004528e7da646fbfdf6b221296a9ea165a500420",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/ramp-up-new-sales-reps-faster",
+    "canonical": "https://demodesk.com/blog/ramp-up-new-sales-reps-faster"
+  },
+  "title": "How to Perfect Your Sales Onboarding Process",
+  "summary": "Sales onboarding framework: realistic ramp benchmarks, the 90-day model, and how AI cuts new-hire time-to-productivity by 30%.",
+  "published_at": "2025-08-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:07:17.937229+00:00",
+  "fetched_at": "2026-07-28T21:27:42.276842+00:00",
+  "last_updated_at": "2026-07-28T21:30:03.923584+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2025/08/a2/a23d44d34bc8a9140c4c3e50004528e7da646fbfdf6b221296a9ea165a500420/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2025/08/a2/a23d44d34bc8a9140c4c3e50004528e7da646fbfdf6b221296a9ea165a500420/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6584,
+    "sha256": "sha256:307b0dfed890cfb543f9aca203d33a31ac6b24808835ca0f9948c814b84cb644",
+    "normalized_content_hash": "sha256:bbe71cc3fb7be10f8e9dd253a1f91a4206101e898b1d49aa8364c822c07477f7"
+  },
+  "provenance": {
+    "source_item_id": "a054fd85-30ee-4f49-842f-4625a63a33b7",
+    "external_id": "https://demodesk.com/blog/ramp-up-new-sales-reps-faster"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6195fe6367d02e656af96cba14c687a317043ba230c447d7d79171818440083f",
+  "company": {
+    "key": "medline-inc-class-a-common-stock",
+    "name": "Medline Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "medline-inc-class-a-common-stock-news-import-724b76c1fc1d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://newsroom.medline.com/releases/prime-vendor-utmc/",
+    "canonical": "https://newsroom.medline.com/releases/prime-vendor-utmc/"
+  },
+  "title": "Medline announces Prime Vendor agreement with University of Toledo Medical Center",
+  "summary": "Agreement enables access to Medline’s medical-surgical products and supply chain solution offerings.",
+  "published_at": "2026-07-15T14:25:49+00:00",
+  "first_seen_at": "2026-07-25T14:30:43.911386+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:21:53.849311+00:00",
+  "paths": {
+    "article": "articles/v1/80/medline-inc-class-a-common-stock/2026/07/61/6195fe6367d02e656af96cba14c687a317043ba230c447d7d79171818440083f/article.md",
+    "record": "articles/v1/80/medline-inc-class-a-common-stock/2026/07/61/6195fe6367d02e656af96cba14c687a317043ba230c447d7d79171818440083f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2799,
+    "sha256": "sha256:a73731f1874897f4209ec9b77965f3b80d1454e5f0918c0938a9f084f2f321dd",
+    "normalized_content_hash": "sha256:210cf33d6a34a461fcdfd7a02da2ff745fe5a8e98ead278f6c3c00845ee05738"
+  },
+  "provenance": {
+    "source_item_id": "29dd5cd4-2456-456a-a2d0-74e3cf64e081",
+    "external_id": "https://newsroom.medline.com/releases/prime-vendor-utmc/"
+  }
+}

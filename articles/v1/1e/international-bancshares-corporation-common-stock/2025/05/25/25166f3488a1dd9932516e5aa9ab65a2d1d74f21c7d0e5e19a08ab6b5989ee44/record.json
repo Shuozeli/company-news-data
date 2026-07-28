@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "25166f3488a1dd9932516e5aa9ab65a2d1d74f21c7d0e5e19a08ab6b5989ee44",
+  "company": {
+    "key": "international-bancshares-corporation-common-stock",
+    "name": "International Bancshares Corporation Common Stock"
+  },
+  "source": {
+    "id": "international-bancshares-corporation-common-stock-news-import-2e07f9dd1075",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ibc.com/newsroom/press-releases/ibc-reports-strong-earnings-in-first-quarter-of-2025",
+    "canonical": "https://www.ibc.com/newsroom/press-releases/ibc-reports-strong-earnings-in-first-quarter-of-2025"
+  },
+  "title": "IBC Reports Strong Earnings",
+  "summary": "International Bancshares Corporation (NASDAQ:IBOC), one of the largest independent bank holding companies in Texas, today reported net income for the first quarter of 2025 of approximately $96.9 million or $1.56 diluted earnings per common share ($1.56 per share basic) compared to approximately $97.3 million or $1.56 diluted earnings per common share ($1.57 per share basic), which represents no change in diluted earnings per share and 0.5 percent decrease in net income over the corresponding period in 2024.",
+  "published_at": "2025-05-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T12:16:24.397693+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:52.943079+00:00",
+  "paths": {
+    "article": "articles/v1/1e/international-bancshares-corporation-common-stock/2025/05/25/25166f3488a1dd9932516e5aa9ab65a2d1d74f21c7d0e5e19a08ab6b5989ee44/article.md",
+    "record": "articles/v1/1e/international-bancshares-corporation-common-stock/2025/05/25/25166f3488a1dd9932516e5aa9ab65a2d1d74f21c7d0e5e19a08ab6b5989ee44/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4233,
+    "sha256": "sha256:a98ff503333af65287e62290d892150838069e88ba4c960d75a286159b7347c7",
+    "normalized_content_hash": "sha256:890506fe42c9dbec30f26444a37051744c60294bcc5048fcf43eb2c2b69c2be9"
+  },
+  "provenance": {
+    "source_item_id": "4bf09d54-b6fe-4b56-931a-8fb0292cd4bd",
+    "external_id": "https://www.ibc.com/newsroom/press-releases/ibc-reports-strong-earnings-in-first-quarter-of-2025"
+  }
+}

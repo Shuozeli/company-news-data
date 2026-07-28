@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "77d81b659076a03f39a0763a6cff5acad00a26cf342113a8f0aadc8348e49781",
+  "company": {
+    "key": "wafd-inc-depositary-shares",
+    "name": "WaFd Inc. Depositary Shares"
+  },
+  "source": {
+    "id": "wafd-inc-depositary-shares-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/banking-101",
+    "canonical": "https://www.wafdbank.com/articles/banking-101"
+  },
+  "title": "Banking Articles for Beginners | WaFd Bank",
+  "summary": "Read about the top banking articles for beginners from WaFd Bank in our top banking 101 articles including how to switch banks and how to open a bank account.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T05:02:34.283464+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:56.282557+00:00",
+  "paths": {
+    "article": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/77/77d81b659076a03f39a0763a6cff5acad00a26cf342113a8f0aadc8348e49781/article.md",
+    "record": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/77/77d81b659076a03f39a0763a6cff5acad00a26cf342113a8f0aadc8348e49781/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2798,
+    "sha256": "sha256:f838685c898630343641ac5ce0cd118a0bb639548e0919cf8bc27990b0a6096e",
+    "normalized_content_hash": "sha256:2b6e210cc243bdcc9df527c095427cd0555de5d54765a365e067ba6c918b2b8b"
+  },
+  "provenance": {
+    "source_item_id": "139256a0-c8fc-4eba-b7fd-3de642d26e6c",
+    "external_id": "https://www.wafdbank.com/articles/banking-101"
+  }
+}

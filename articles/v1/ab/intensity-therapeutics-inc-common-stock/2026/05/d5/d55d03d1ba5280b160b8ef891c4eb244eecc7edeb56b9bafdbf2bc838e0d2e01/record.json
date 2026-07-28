@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d55d03d1ba5280b160b8ef891c4eb244eecc7edeb56b9bafdbf2bc838e0d2e01",
+  "company": {
+    "key": "intensity-therapeutics-inc-common-stock",
+    "name": "Intensity Therapeutics Inc. Common stock"
+  },
+  "source": {
+    "id": "intensity-therapeutics-inc-common-stock-news-import-802397e2b65e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.intensitytherapeutics.com/news-events/press-releases/detail/125/intensity-therapeutics-reports-first-quarter-2026-financial",
+    "canonical": "https://ir.intensitytherapeutics.com/news-events/press-releases/detail/125/intensity-therapeutics-reports-first-quarter-2026-financial"
+  },
+  "title": "Intensity Therapeutics Reports First Quarter 2026 Financial Results and Provides Corporate Update",
+  "summary": "Cash and cash equivalents of $10.2 million as of March 31, 2026 Favorable efficacy and safety reported in a small sample of triple negative breast…...",
+  "published_at": "2026-05-07T16:06:00+00:00",
+  "first_seen_at": "2026-07-22T00:16:35.973284+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-07-28T21:45:22.720268+00:00",
+  "paths": {
+    "article": "articles/v1/ab/intensity-therapeutics-inc-common-stock/2026/05/d5/d55d03d1ba5280b160b8ef891c4eb244eecc7edeb56b9bafdbf2bc838e0d2e01/article.md",
+    "record": "articles/v1/ab/intensity-therapeutics-inc-common-stock/2026/05/d5/d55d03d1ba5280b160b8ef891c4eb244eecc7edeb56b9bafdbf2bc838e0d2e01/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20400,
+    "sha256": "sha256:516f5056468e3497a808c46aabffc5e8841bfc58ac747f97c4ebcba22fe73640",
+    "normalized_content_hash": "sha256:03f4515c62b1f3c7d6390c770377d5d895922c30f584d3cb8c74a1e74cd885df"
+  },
+  "provenance": {
+    "source_item_id": "dc9458af-46bd-4abb-9d14-bbd7939b926f",
+    "external_id": "https://ir.intensitytherapeutics.com/news-events/press-releases/detail/125/intensity-therapeutics-reports-first-quarter-2026-financial"
+  }
+}

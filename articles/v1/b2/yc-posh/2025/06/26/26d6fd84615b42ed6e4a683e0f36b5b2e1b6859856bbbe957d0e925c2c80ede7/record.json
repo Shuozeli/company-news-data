@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26d6fd84615b42ed6e4a683e0f36b5b2e1b6859856bbbe957d0e925c2c80ede7",
+  "company": {
+    "key": "yc-posh",
+    "name": "Posh"
+  },
+  "source": {
+    "id": "yc-posh-news-import-00809a778e56",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://poshenergy.com/articles/energy-in-tokens-out",
+    "canonical": "https://poshenergy.com/articles/energy-in-tokens-out"
+  },
+  "title": "Energy In, Tokens Out",
+  "summary": "AI's future is constrained by energy, not computing power. AI's immense energy demands are outpacing efficiency gains, creating a \"Jevons paradox.\" This necessitates a shift in focus towards energy supply and infrastructure. Companies must now evaluate their energy capacity with the same rigor as their digital assets. Renewable energy and battery storage systems (BESS) are crucial solutions. BESS helps data centers manage dynamic energy demands, reduce grid stress, and accelerate interconnection, making robust, intelligently managed power the key to unlocking AI's next phase.",
+  "published_at": "2025-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:39:36.446390+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:48.145065+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-posh/2025/06/26/26d6fd84615b42ed6e4a683e0f36b5b2e1b6859856bbbe957d0e925c2c80ede7/article.md",
+    "record": "articles/v1/b2/yc-posh/2025/06/26/26d6fd84615b42ed6e4a683e0f36b5b2e1b6859856bbbe957d0e925c2c80ede7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6186,
+    "sha256": "sha256:0e13025d7191d6e80c4bdb67c64e4d11406b9d6872af5da9cd489a51002c34ca",
+    "normalized_content_hash": "sha256:1b662abb569f90f3f0d24d27f48fb114cf8369091a9419813bcefe252d7aec80"
+  },
+  "provenance": {
+    "source_item_id": "02c1f039-c97d-42ed-a587-66f51ac2202f",
+    "external_id": "https://poshenergy.com/articles/energy-in-tokens-out"
+  }
+}

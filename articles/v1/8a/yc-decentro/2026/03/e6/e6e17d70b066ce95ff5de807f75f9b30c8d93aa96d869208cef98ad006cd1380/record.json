@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6e17d70b066ce95ff5de807f75f9b30c8d93aa96d869208cef98ad006cd1380",
+  "company": {
+    "key": "yc-decentro",
+    "name": "Decentro"
+  },
+  "source": {
+    "id": "yc-decentro-news-import-81869bbbfe71",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://decentro.tech/blog/merchant-monitoring/",
+    "canonical": "https://decentro.tech/blog/merchant-monitoring/"
+  },
+  "title": "Merchant Monitoring: How It Works & Why It Matters",
+  "summary": "Merchant monitoring helps detect fraud, ensure compliance, and reduce risk. Learn how it works for banks, PSPs, and aggregators.",
+  "published_at": "2026-03-31T10:18:36+00:00",
+  "first_seen_at": "2026-07-25T01:33:42.767506+00:00",
+  "fetched_at": "2026-07-28T21:25:41.488077+00:00",
+  "last_updated_at": "2026-07-28T21:26:12.509533+00:00",
+  "paths": {
+    "article": "articles/v1/8a/yc-decentro/2026/03/e6/e6e17d70b066ce95ff5de807f75f9b30c8d93aa96d869208cef98ad006cd1380/article.md",
+    "record": "articles/v1/8a/yc-decentro/2026/03/e6/e6e17d70b066ce95ff5de807f75f9b30c8d93aa96d869208cef98ad006cd1380/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14804,
+    "sha256": "sha256:45affc9efd788f2dbfe9e500fb5e76e09811ff08257fce87b61092c8ed211615",
+    "normalized_content_hash": "sha256:3862e083805b35188392a4afc6fc1b2ce9e48d37f49dc62279fb1b94d8790970"
+  },
+  "provenance": {
+    "source_item_id": "3703c957-debe-47ce-9dd8-307a3118235c",
+    "external_id": "https://decentro.tech/blog/merchant-monitoring/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f5e9195b118905e0e010969be31f4e912e18c60ef992579c14b8f3bb8e69e105",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-04-29.html",
+    "canonical": "https://ruger.com/news/2026-04-29.html"
+  },
+  "title": "Ruger Introduces LCP MAX Pistol with Magpul Enhanced Handgun Grip",
+  "summary": "",
+  "published_at": "2026-04-29T11:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-07-28T21:26:17.693119+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/04/f5/f5e9195b118905e0e010969be31f4e912e18c60ef992579c14b8f3bb8e69e105/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/04/f5/f5e9195b118905e0e010969be31f4e912e18c60ef992579c14b8f3bb8e69e105/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2469,
+    "sha256": "sha256:9d99a112821a20e8008a670671d2df1895e217e3b24a02776d84b62ab9d2e879",
+    "normalized_content_hash": "sha256:c3896846d4b59aab9a8c223b1b5afd284eb94ef59e97c76ce11790147c5635b7"
+  },
+  "provenance": {
+    "source_item_id": "46c65a80-353d-44c3-b3ec-75bb9badce45",
+    "external_id": "https://ruger.com/news/2026-04-29.html"
+  }
+}

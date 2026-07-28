@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f3d1dfd81f066beb4f399a5bf27ad2e15b9eecc4d6e53e49652c1cb99a89ba7",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/digihealth-id.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/digihealth-id.html"
+  },
+  "title": "Bot MD x DigiHealth.id",
+  "summary": "DigiHealth.id has partnered with Bot MD to launch the DigiHealth.id x Bot MD platform to allow its 17,000 members to instantly search DigiHealth.id specific information (e.g. Guidelines, Webinars) and useful clinical information such as drugs, ICD-10 codes, Indonesian national guidelines and over 500 clinical calculators.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.837635+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/9f/9f3d1dfd81f066beb4f399a5bf27ad2e15b9eecc4d6e53e49652c1cb99a89ba7/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/9f/9f3d1dfd81f066beb4f399a5bf27ad2e15b9eecc4d6e53e49652c1cb99a89ba7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2130,
+    "sha256": "sha256:5223dd2a4ba8aade877485d1539563fe4703624423297e956d26515a21ed39ed",
+    "normalized_content_hash": "sha256:7aab7b05a234fcecf57f20c4a1322518ee5c676bee4b7290a57608f4598079a3"
+  },
+  "provenance": {
+    "source_item_id": "b73c9b9d-420c-4fcd-8fa2-89f306d4d875",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/digihealth-id.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7dd0dc520a498b76035dc5159352dc43bbe30dc73652636c7b3d8064304543c",
+  "company": {
+    "key": "yc-soff",
+    "name": "Soff"
+  },
+  "source": {
+    "id": "yc-soff-news-import-4dedfaf764fe",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://soff.ai/blog/behind-the-blueprint-from-receptionist-to-vice-president-of-marketing",
+    "canonical": "https://soff.ai/blog/behind-the-blueprint-from-receptionist-to-vice-president-of-marketing"
+  },
+  "title": "Behind The Blueprint: From Receptionist to Vice President of Marketing",
+  "summary": "Rosa’s path into the fastener industry was unplanned. A story about persistence, personal branding, and the human side of distribution.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T01:34:43.478709+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:51.457204+00:00",
+  "paths": {
+    "article": "articles/v1/6c/yc-soff/2026/07/c7/c7dd0dc520a498b76035dc5159352dc43bbe30dc73652636c7b3d8064304543c/article.md",
+    "record": "articles/v1/6c/yc-soff/2026/07/c7/c7dd0dc520a498b76035dc5159352dc43bbe30dc73652636c7b3d8064304543c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3547,
+    "sha256": "sha256:c37888ed538a69c0fb0c56e586cfe7af4a6078c4fb00d7f69c8f2bdf97c56786",
+    "normalized_content_hash": "sha256:80bb628f95b4897a19391d45c113499202ad8ae1ba43ae45208c89b8d834bbc5"
+  },
+  "provenance": {
+    "source_item_id": "ab803425-922b-44e7-b5b3-42f88755175e",
+    "external_id": "https://soff.ai/blog/behind-the-blueprint-from-receptionist-to-vice-president-of-marketing"
+  }
+}

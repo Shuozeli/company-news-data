@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "spx-technologies-inc-common-stock",
+    "name": "SPX Technologies Inc. Common Stock"
+  },
+  "record_count": 35,
+  "first_published_at": "2025-05-29T17:01:05+00:00",
+  "last_published_at": "2026-06-10T19:24:40+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    }
+  ]
+}

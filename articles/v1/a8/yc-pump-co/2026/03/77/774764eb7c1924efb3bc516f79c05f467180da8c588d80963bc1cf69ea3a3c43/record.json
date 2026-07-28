@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "774764eb7c1924efb3bc516f79c05f467180da8c588d80963bc1cf69ea3a3c43",
+  "company": {
+    "key": "yc-pump-co",
+    "name": "Pump.co"
+  },
+  "source": {
+    "id": "yc-pump-co-news-import-86a46b79533f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pump.co/blog/google-cloud-spanner/",
+    "canonical": "https://www.pump.co/blog/google-cloud-spanner/"
+  },
+  "title": "Google Cloud Spanner: Everything You Need to Know",
+  "summary": "Learn everything about Google Cloud Spanner, including features, pricing, use cases, and how it scales global applications.",
+  "published_at": "2026-03-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:15:23.871807+00:00",
+  "fetched_at": "2026-07-28T11:48:07.834159+00:00",
+  "last_updated_at": "2026-07-28T11:48:10.876092+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-pump-co/2026/03/77/774764eb7c1924efb3bc516f79c05f467180da8c588d80963bc1cf69ea3a3c43/article.md",
+    "record": "articles/v1/a8/yc-pump-co/2026/03/77/774764eb7c1924efb3bc516f79c05f467180da8c588d80963bc1cf69ea3a3c43/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13272,
+    "sha256": "sha256:407a3e0b478e5f047b6f5e46f51c326a4c30c93cc5edb72fd511e5df11a26c2f",
+    "normalized_content_hash": "sha256:21402ea910f5f5f9cae1429cb75d46fe190dc2d0255f291297045cb42fb6bd23"
+  },
+  "provenance": {
+    "source_item_id": "00808f8f-348f-4ae6-b5b3-dfe11de78b95",
+    "external_id": "https://www.pump.co/blog/google-cloud-spanner/"
+  }
+}

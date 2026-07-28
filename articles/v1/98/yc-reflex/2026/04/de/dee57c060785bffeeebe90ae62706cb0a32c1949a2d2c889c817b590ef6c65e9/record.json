@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dee57c060785bffeeebe90ae62706cb0a32c1949a2d2c889c817b590ef6c65e9",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+    "canonical": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/"
+  },
+  "title": "Computer use is 45x More Expensive Than Structured APIs",
+  "summary": "We benchmarked computer use against auto-generated API endpoints on the same admin panel. 53 steps and 551k tokens vs 8 calls and 12k tokens.",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-07-28T21:26:16.652469+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/04/de/dee57c060785bffeeebe90ae62706cb0a32c1949a2d2c889c817b590ef6c65e9/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/04/de/dee57c060785bffeeebe90ae62706cb0a32c1949a2d2c889c817b590ef6c65e9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9861,
+    "sha256": "sha256:d6d041beac033a1d02f5a8fd526db5ce31f3180f55f9c7f01195c0edb7cef165",
+    "normalized_content_hash": "sha256:5cab53f59ccd4ee6bf82158244c10dccb10288aed38747fc1ee17fc51080125c"
+  },
+  "provenance": {
+    "source_item_id": "324d8ad6-4b9a-4963-b248-0e7cffc406e0",
+    "external_id": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/"
+  }
+}

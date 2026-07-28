@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f797f15b5c123b77d8bfec76a120315916df0b0fd5c191add66b0b903157e78f",
+  "company": {
+    "key": "lucid-diagnostics-inc-common-stock",
+    "name": "Lucid Diagnostics Inc. Common Stock"
+  },
+  "source": {
+    "id": "lucid-diagnostics-inc-common-stock-news-import-7c4d5ba09107",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.luciddx.com/articles/virginia-beach-firefighters-screen-for-esophageal-cancer",
+    "canonical": "https://www.luciddx.com/articles/virginia-beach-firefighters-screen-for-esophageal-cancer"
+  },
+  "title": "Virginia Beach firefighters screen for esophageal cancer",
+  "summary": "",
+  "published_at": "2024-02-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T13:17:56.841224+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:06.435472+00:00",
+  "paths": {
+    "article": "articles/v1/06/lucid-diagnostics-inc-common-stock/2024/02/f7/f797f15b5c123b77d8bfec76a120315916df0b0fd5c191add66b0b903157e78f/article.md",
+    "record": "articles/v1/06/lucid-diagnostics-inc-common-stock/2024/02/f7/f797f15b5c123b77d8bfec76a120315916df0b0fd5c191add66b0b903157e78f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1606,
+    "sha256": "sha256:6f8c7a497fc132f51b69e8931e508e560ee6ca2b53c4a07bca57ecea9d8e8668",
+    "normalized_content_hash": "sha256:a4359787457b4a7a5872b4a8ad346d36e519674b1f602518ee6545c2ea0f53d7"
+  },
+  "provenance": {
+    "source_item_id": "f178946d-a835-4079-bd3a-f2511d305f81",
+    "external_id": "https://www.luciddx.com/articles/virginia-beach-firefighters-screen-for-esophageal-cancer"
+  }
+}

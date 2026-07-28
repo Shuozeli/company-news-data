@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e20ab6f9aecca59277002aba50cc439cd8895f69d3d21476ac397e4dfa049dd8",
+  "company": {
+    "key": "ccc-intelligent-solutions-holdings-inc-common-stock",
+    "name": "CCC Intelligent Solutions Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "ccc-intelligent-solutions-holdings-inc-common-stock-news-import-9de05ae7eeb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cccis.com/news-and-insights/posts/ccc-intelligent-solutions-adds-autel-to-diagnostics-network",
+    "canonical": "https://www.cccis.com/news-and-insights/posts/ccc-intelligent-solutions-adds-autel-to-diagnostics-network"
+  },
+  "title": "CCC Intelligent Solutions Adds Autel to Diagnostics Network",
+  "summary": "CCC adds Autel to the CCC Diagnostics Network, enabling diagnostic scan reports to flow directly into CCC ONE workfiles for faster documentation.",
+  "published_at": "2026-07-22T12:00:01.504+00:00",
+  "first_seen_at": "2026-07-24T08:31:30.450936+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-07-28T21:20:50.379687+00:00",
+  "paths": {
+    "article": "articles/v1/80/ccc-intelligent-solutions-holdings-inc-common-stock/2026/07/e2/e20ab6f9aecca59277002aba50cc439cd8895f69d3d21476ac397e4dfa049dd8/article.md",
+    "record": "articles/v1/80/ccc-intelligent-solutions-holdings-inc-common-stock/2026/07/e2/e20ab6f9aecca59277002aba50cc439cd8895f69d3d21476ac397e4dfa049dd8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4317,
+    "sha256": "sha256:e6997753e85785b2cf664643d2257504f15a673042c3607e6c5cdb6be583790a",
+    "normalized_content_hash": "sha256:fbbe6ee6b8434fa896f2b0cedcded862abe1182a3c45e2fafa054597df7d0819"
+  },
+  "provenance": {
+    "source_item_id": "41078312-5b18-4998-b30d-c2e0170839d3",
+    "external_id": "https://www.cccis.com/news-and-insights/posts/ccc-intelligent-solutions-adds-autel-to-diagnostics-network"
+  }
+}

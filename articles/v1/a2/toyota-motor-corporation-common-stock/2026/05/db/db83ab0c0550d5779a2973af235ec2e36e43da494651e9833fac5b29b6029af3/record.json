@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db83ab0c0550d5779a2973af235ec2e36e43da494651e9833fac5b29b6029af3",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/financial_results_2026/",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/financial_results_2026/"
+  },
+  "title": "FY2026 Financial_Results",
+  "summary": "#TOYOTATIMES",
+  "published_at": "2026-05-17T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:43:32.355791+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.406023+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/05/db/db83ab0c0550d5779a2973af235ec2e36e43da494651e9833fac5b29b6029af3/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/05/db/db83ab0c0550d5779a2973af235ec2e36e43da494651e9833fac5b29b6029af3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2244,
+    "sha256": "sha256:747ab87340101bdbe3580542f918e85ae8e040290cd4ce60e19f7a1d249c3f77",
+    "normalized_content_hash": "sha256:6ffa4aa2623b94d72c64320b8548434d6366fe7afc12ee96cd3c11eeea6e0b79"
+  },
+  "provenance": {
+    "source_item_id": "7d0b86ce-f3cd-454b-a439-dc9eba1f6bf3",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/financial_results_2026/"
+  }
+}

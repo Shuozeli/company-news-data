@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4a6106cf9e0537d45cff4c3fab517c754941e6a881bd9de095cf851c4158b7ac",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/nkti.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/nkti.html"
+  },
+  "title": "NKTI and Bot MD launch the First A.I.-powered Viber patient monitoring platform to scale care for Kidney patients in the Philippines",
+  "summary": "The National Kidney and Transplant Institute (NKTI) today announced its partnership with A.I. health technology start-up Bot MD to scale the monitoring and care of its kidney patients across the Philippines with an A.I.-powered Viber-based patient monitoring platform.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.598095+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/4a/4a6106cf9e0537d45cff4c3fab517c754941e6a881bd9de095cf851c4158b7ac/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/4a/4a6106cf9e0537d45cff4c3fab517c754941e6a881bd9de095cf851c4158b7ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1861,
+    "sha256": "sha256:be728af09656ca7cfb7a5e6daa34451ec208e2a56bf11d3d124858a36c4bfae8",
+    "normalized_content_hash": "sha256:a5b2c1e22b53e7a674534fed18f480bb891125dcfb928d3c2e554cf78a61aec1"
+  },
+  "provenance": {
+    "source_item_id": "286c87a0-f0c2-4ce1-b3c7-7ffc965763d3",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/nkti.html"
+  }
+}

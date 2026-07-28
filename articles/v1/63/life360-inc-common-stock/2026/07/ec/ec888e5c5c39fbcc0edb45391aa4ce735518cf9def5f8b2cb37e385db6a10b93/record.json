@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec888e5c5c39fbcc0edb45391aa4ce735518cf9def5f8b2cb37e385db6a10b93",
+  "company": {
+    "key": "life360-inc-common-stock",
+    "name": "Life360 Inc. Common Stock"
+  },
+  "source": {
+    "id": "life360-inc-common-stock-news-import-c8f31eb39687",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.life360.com/blog/summer-pet-safety-tips",
+    "canonical": "https://www.life360.com/blog/summer-pet-safety-tips"
+  },
+  "title": "Summer Pet Safety Tips for Dogs and Cats",
+  "summary": "Enjoy and learn from Life360's blog archive, focused on user life stories and experiences with our premier family safety app.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:50:13.419870+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:53.666722+00:00",
+  "paths": {
+    "article": "articles/v1/63/life360-inc-common-stock/2026/07/ec/ec888e5c5c39fbcc0edb45391aa4ce735518cf9def5f8b2cb37e385db6a10b93/article.md",
+    "record": "articles/v1/63/life360-inc-common-stock/2026/07/ec/ec888e5c5c39fbcc0edb45391aa4ce735518cf9def5f8b2cb37e385db6a10b93/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14360,
+    "sha256": "sha256:acf23ded6775c83d6f4eda35a449b7a7e38857ae48e0f4e75e8cf90b3115c7a0",
+    "normalized_content_hash": "sha256:4b3547b6de3dac50c4ac42d5a959f37198995fd34e9af691bcfaecab482b0077"
+  },
+  "provenance": {
+    "source_item_id": "438eba6a-f252-4a6e-84ed-38e81eab740c",
+    "external_id": "https://www.life360.com/blog/summer-pet-safety-tips"
+  }
+}

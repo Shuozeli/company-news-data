@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab468a11f075af2b84a8fc8e20a7719f7a078d2b39ad27a4ce9e9cd9f88fcd1e",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-b3fe567ac9c2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/about/media-resources/studies-and-media-releases/article/2026-veterinary-appreciation-day-award-winners",
+    "canonical": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/2026-veterinary-appreciation-day-award-winners"
+  },
+  "title": "Trupanion Announces Winners of the 2026 Veterinary Appreciation Day® Awards",
+  "summary": "Trupanion announces the 2026 Veterinary Appreciation Day Award winners, recognizing 12 veterinary professionals and teams across North America.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:03.797628+00:00",
+  "fetched_at": "2026-07-28T17:37:55.930207+00:00",
+  "last_updated_at": "2026-07-28T17:37:57.859512+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/06/ab/ab468a11f075af2b84a8fc8e20a7719f7a078d2b39ad27a4ce9e9cd9f88fcd1e/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/06/ab/ab468a11f075af2b84a8fc8e20a7719f7a078d2b39ad27a4ce9e9cd9f88fcd1e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7779,
+    "sha256": "sha256:1749eee44802d6c491c59214c2bb12d6350925d6c40854c8ea819f3db29f5f2d",
+    "normalized_content_hash": "sha256:41fc8eeef82dd98487eff808f8a38185d0fd9c8f5e6d644df5936b4ed1f4205f"
+  },
+  "provenance": {
+    "source_item_id": "f62ba5ff-25ac-46f9-9c39-5b22094e5600",
+    "external_id": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/2026-veterinary-appreciation-day-award-winners"
+  }
+}

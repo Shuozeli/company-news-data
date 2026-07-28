@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8aec9e230d38158cc075e6fb6d72dad540335200c18722b857b854189964a4ff",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/banking-101",
+    "canonical": "https://www.wafdbank.com/articles/banking-101"
+  },
+  "title": "Banking Articles for Beginners | WaFd Bank",
+  "summary": "Read about the top banking articles for beginners from WaFd Bank in our top banking 101 articles including how to switch banks and how to open a bank account.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T23:37:32.572003+00:00",
+  "fetched_at": "2026-07-28T22:07:07.393518+00:00",
+  "last_updated_at": "2026-07-28T22:08:15.446810+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/8a/8aec9e230d38158cc075e6fb6d72dad540335200c18722b857b854189964a4ff/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/8a/8aec9e230d38158cc075e6fb6d72dad540335200c18722b857b854189964a4ff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2783,
+    "sha256": "sha256:c0bb80682cd3d3982356beb7bda2e93560691f7fbbb601989795f353752c3859",
+    "normalized_content_hash": "sha256:2b6e210cc243bdcc9df527c095427cd0555de5d54765a365e067ba6c918b2b8b"
+  },
+  "provenance": {
+    "source_item_id": "998eed19-3e7d-4ee9-ac28-ae9f466387dc",
+    "external_id": "https://www.wafdbank.com/articles/banking-101"
+  }
+}

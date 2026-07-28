@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44e1db14c36775f702881cd0a8c1d53722bc3a71216f061586128bdef1b0cfc8",
+  "company": {
+    "key": "exlservice-holdings-inc-common-stock",
+    "name": "ExlService Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "exlservice-holdings-inc-common-stock-news-import-08dc9483892d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.exlservice.com/insights/solution-sheet/exl-data-and-analytics-overview",
+    "canonical": "https://www.exlservice.com/insights/solution-sheet/exl-data-and-analytics-overview"
+  },
+  "title": "EXL Data & Analytics Overview",
+  "summary": "Accelerate the transition to becoming a data-led business with EXL data and analytics services. Download the PDF and interactive brochures.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:51:39.553122+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-07-28T21:38:18.081661+00:00",
+  "paths": {
+    "article": "articles/v1/c4/exlservice-holdings-inc-common-stock/2026/07/44/44e1db14c36775f702881cd0a8c1d53722bc3a71216f061586128bdef1b0cfc8/article.md",
+    "record": "articles/v1/c4/exlservice-holdings-inc-common-stock/2026/07/44/44e1db14c36775f702881cd0a8c1d53722bc3a71216f061586128bdef1b0cfc8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2366,
+    "sha256": "sha256:d9146d18f9dbb2f53238822ba6e6aafe4a551a9ca95a9f862ffc991f6be927ad",
+    "normalized_content_hash": "sha256:08cd9dcf5a40c946f3c9409780f39d3c46b803a0cfe6383895c4f0994f17ba46"
+  },
+  "provenance": {
+    "source_item_id": "0931bf4a-2efc-4bcf-9aef-face9597b85d",
+    "external_id": "https://www.exlservice.com/insights/solution-sheet/exl-data-and-analytics-overview"
+  }
+}

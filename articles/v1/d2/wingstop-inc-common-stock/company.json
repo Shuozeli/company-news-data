@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "wingstop-inc-common-stock",
+    "name": "Wingstop Inc. Common Stock"
+  },
+  "record_count": 16,
+  "first_published_at": "2015-08-06T10:29:40+00:00",
+  "last_published_at": "2026-07-23T18:38:09+00:00",
+  "partitions": [
+    {
+      "partition": "2015-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

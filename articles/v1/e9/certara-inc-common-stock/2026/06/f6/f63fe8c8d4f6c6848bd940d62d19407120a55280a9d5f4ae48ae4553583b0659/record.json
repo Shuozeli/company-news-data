@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f63fe8c8d4f6c6848bd940d62d19407120a55280a9d5f4ae48ae4553583b0659",
+  "company": {
+    "key": "certara-inc-common-stock",
+    "name": "Certara Inc. Common Stock"
+  },
+  "source": {
+    "id": "certara-inc-common-stock-news-import-6fa26b21f70d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.certara.com/blog/63-runs-and-no-convergence-when-rsnlme-succeeded-where-others-couldnt/",
+    "canonical": "https://www.certara.com/blog/63-runs-and-no-convergence-when-rsnlme-succeeded-where-others-couldnt/"
+  },
+  "title": "63 runs and no convergence: When RsNLME succeeded where other PK/PD solutions couldn’t",
+  "summary": "After 63 failed runs on a 16-ODE neutropenia model, RsNLME achieved PK/PD convergence on the first attempt. Learn what made the difference.",
+  "published_at": "2026-06-23T15:40:06+00:00",
+  "first_seen_at": "2026-07-22T21:45:01.422888+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:23.653356+00:00",
+  "paths": {
+    "article": "articles/v1/e9/certara-inc-common-stock/2026/06/f6/f63fe8c8d4f6c6848bd940d62d19407120a55280a9d5f4ae48ae4553583b0659/article.md",
+    "record": "articles/v1/e9/certara-inc-common-stock/2026/06/f6/f63fe8c8d4f6c6848bd940d62d19407120a55280a9d5f4ae48ae4553583b0659/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14778,
+    "sha256": "sha256:66311bc0b339169f614dceeb1afb208c3c8b909ae427ec9cc7d0023b84349b08",
+    "normalized_content_hash": "sha256:7e55eb6a64700160e36010c14841dfe88c0132be9d2b350d2859e93842cf57ac"
+  },
+  "provenance": {
+    "source_item_id": "a2cf58b7-4b31-413f-abd6-0951442e124f",
+    "external_id": "https://www.certara.com/blog/63-runs-and-no-convergence-when-rsnlme-succeeded-where-others-couldnt/"
+  }
+}

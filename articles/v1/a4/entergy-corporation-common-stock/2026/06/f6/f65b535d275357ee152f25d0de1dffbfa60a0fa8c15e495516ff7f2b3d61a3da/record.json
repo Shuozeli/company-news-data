@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f65b535d275357ee152f25d0de1dffbfa60a0fa8c15e495516ff7f2b3d61a3da",
+  "company": {
+    "key": "entergy-corporation-common-stock",
+    "name": "Entergy Corporation Common Stock"
+  },
+  "source": {
+    "id": "entergy-corporation-common-stock-news-import-7a9a94de3de4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.entergy.com/news/entergy-texas-declares-quarterly-dividend-on-preferred-stock-8",
+    "canonical": "https://www.entergy.com/news/entergy-texas-declares-quarterly-dividend-on-preferred-stock-8"
+  },
+  "title": "Entergy Texas declares quarterly dividend on preferred stock",
+  "summary": "The Entergy Texas, Inc. board of directors has declared a quarterly dividend payment of $0.3359375 per share on its Series A Preferred Stock.",
+  "published_at": "2026-06-18T17:07:55+00:00",
+  "first_seen_at": "2026-07-25T03:00:12.636026+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:18.884557+00:00",
+  "paths": {
+    "article": "articles/v1/a4/entergy-corporation-common-stock/2026/06/f6/f65b535d275357ee152f25d0de1dffbfa60a0fa8c15e495516ff7f2b3d61a3da/article.md",
+    "record": "articles/v1/a4/entergy-corporation-common-stock/2026/06/f6/f65b535d275357ee152f25d0de1dffbfa60a0fa8c15e495516ff7f2b3d61a3da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2588,
+    "sha256": "sha256:bdad48a69cf1a7374b8c84f870faa0c7b08adc573d659240d5a36b3035ac16eb",
+    "normalized_content_hash": "sha256:e553f9fd251d1145f2b069ebd58c88902987494a530d8407209de9a9a7e99411"
+  },
+  "provenance": {
+    "source_item_id": "6b4bc87a-add1-4c23-98be-8f4d75257b6a",
+    "external_id": "https://www.entergy.com/news/entergy-texas-declares-quarterly-dividend-on-preferred-stock-8"
+  }
+}

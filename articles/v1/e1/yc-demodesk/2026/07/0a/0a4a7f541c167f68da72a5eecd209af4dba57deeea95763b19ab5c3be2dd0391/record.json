@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0a4a7f541c167f68da72a5eecd209af4dba57deeea95763b19ab5c3be2dd0391",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-customize-ai-agent-rules-and-skills-for-deal-health-scoring",
+    "canonical": "https://demodesk.com/blog/how-to-customize-ai-agent-rules-and-skills-for-deal-health-scoring"
+  },
+  "title": "How to customize AI agent rules and skills for deal health scoring with Demodesk AI Crew",
+  "summary": "Configure Demodesk AI Crew agents for deal health scoring using rule trees, custom skill playbooks, and chat-based prompts. Step-by-step guide.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T16:28:03.851214+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:21:51.151759+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/0a/0a4a7f541c167f68da72a5eecd209af4dba57deeea95763b19ab5c3be2dd0391/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/0a/0a4a7f541c167f68da72a5eecd209af4dba57deeea95763b19ab5c3be2dd0391/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5917,
+    "sha256": "sha256:47f93c0dcbf6a7856eda6fcf0430c562d4117f247863ac5285f88b2471af11e1",
+    "normalized_content_hash": "sha256:ba46af1a4edb158f263c41727c86e05fa10d2fdf14a9eac3e39a245b8af3bd96"
+  },
+  "provenance": {
+    "source_item_id": "115dd0e1-536e-43b8-9a32-178da813fefe",
+    "external_id": "https://demodesk.com/blog/how-to-customize-ai-agent-rules-and-skills-for-deal-health-scoring"
+  }
+}

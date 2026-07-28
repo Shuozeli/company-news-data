@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6536e79540be4808731b17ab0581437f98aa826fc47cb5f07422bb2b0befdd94",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-01-19.html",
+    "canonical": "https://ruger.com/news/2026-01-19.html"
+  },
+  "title": "Ruger Introduces PC Carbine, 10/22 and Ruger American Rifle Generation II Short-Barreled Rifles",
+  "summary": "",
+  "published_at": "2026-01-19T11:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:34.098894+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/01/65/6536e79540be4808731b17ab0581437f98aa826fc47cb5f07422bb2b0befdd94/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/01/65/6536e79540be4808731b17ab0581437f98aa826fc47cb5f07422bb2b0befdd94/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3814,
+    "sha256": "sha256:3c390cdc1d8cc9664b9a381f41e3264f8e0df6a0a94d3a22d01bbe0727691e37",
+    "normalized_content_hash": "sha256:f36d6fcace424fc8e596fde380750703c0f4539137ab69545a11193d7f7a286d"
+  },
+  "provenance": {
+    "source_item_id": "5cb295e1-ceab-4489-8a50-bb4fd01542e0",
+    "external_id": "https://ruger.com/news/2026-01-19.html"
+  }
+}

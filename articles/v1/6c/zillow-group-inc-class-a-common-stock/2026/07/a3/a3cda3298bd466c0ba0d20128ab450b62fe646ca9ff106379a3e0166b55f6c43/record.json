@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a3cda3298bd466c0ba0d20128ab450b62fe646ca9ff106379a3e0166b55f6c43",
+  "company": {
+    "key": "zillow-group-inc-class-a-common-stock",
+    "name": "Zillow Group Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "zillow-group-inc-class-a-common-stock-rss-2a2f7e6e7bb7",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://zillow.mediaroom.com/2026-07-15-Americas-housing-deficit-held-steady-at-4-7-million-units-for-the-first-time-in-years",
+    "canonical": "https://zillow.mediaroom.com/2026-07-15-Americas-housing-deficit-held-steady-at-4-7-million-units-for-the-first-time-in-years"
+  },
+  "title": "America's housing deficit held steady at 4.7 million units for the first time in years",
+  "summary": "",
+  "published_at": "2026-07-15T12:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:40.776298+00:00",
+  "fetched_at": "2026-07-28T20:23:14.722833+00:00",
+  "last_updated_at": "2026-07-28T20:23:14.778841+00:00",
+  "paths": {
+    "article": "articles/v1/6c/zillow-group-inc-class-a-common-stock/2026/07/a3/a3cda3298bd466c0ba0d20128ab450b62fe646ca9ff106379a3e0166b55f6c43/article.md",
+    "record": "articles/v1/6c/zillow-group-inc-class-a-common-stock/2026/07/a3/a3cda3298bd466c0ba0d20128ab450b62fe646ca9ff106379a3e0166b55f6c43/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 745,
+    "sha256": "sha256:31e682ea46c4df14047497983fda76c789f11ac57c6ffcf44c1e3be20ed8aa1c",
+    "normalized_content_hash": "sha256:a0d23e8d82ac6ed86ae9ac4a79a9d102c11f29c2860641105b74fa5872e7e3e2"
+  },
+  "provenance": {
+    "source_item_id": "69af5500-df4f-4392-bc13-54587ad91c57",
+    "external_id": "https://zillow.mediaroom.com/2026-07-15-Americas-housing-deficit-held-steady-at-4-7-million-units-for-the-first-time-in-years"
+  }
+}

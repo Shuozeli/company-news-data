@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db481a861d981d3c9a3313fde1c85f8193fe0122e8ebaa509f49d1d32b9bf9e7",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/how-will-lattice-based-cryptography-protect-us-from-quantum-computers",
+    "canonical": "https://www.btq.tech/blog/how-will-lattice-based-cryptography-protect-us-from-quantum-computers"
+  },
+  "title": "How Will Lattice-Based Cryptography Protect Us from Quantum Computers?",
+  "summary": "Explore lattice-based cryptography, a robust solution against quantum threats. As quantum computing advances, traditional methods like RSA and ECC risk obsolescence. Discover how lattice-based cryptography offers efficient, quantum-resistant security for digital communications.",
+  "published_at": "2024-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:11.878305+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2024/06/db/db481a861d981d3c9a3313fde1c85f8193fe0122e8ebaa509f49d1d32b9bf9e7/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2024/06/db/db481a861d981d3c9a3313fde1c85f8193fe0122e8ebaa509f49d1d32b9bf9e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9654,
+    "sha256": "sha256:8af38e2ae103800b5f8197b8878571ebd32860389e7bf12fb13ad156d014e23e",
+    "normalized_content_hash": "sha256:f4db1445578d56f386bc557180a338231d05c4ac150ff3677ad94f9f268905df"
+  },
+  "provenance": {
+    "source_item_id": "1595d158-d744-40e6-9895-fa2491fe6d96",
+    "external_id": "https://www.btq.tech/blog/how-will-lattice-based-cryptography-protect-us-from-quantum-computers"
+  }
+}

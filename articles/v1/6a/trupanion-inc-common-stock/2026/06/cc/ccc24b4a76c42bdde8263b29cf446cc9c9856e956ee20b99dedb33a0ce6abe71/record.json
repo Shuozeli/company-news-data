@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccc24b4a76c42bdde8263b29cf446cc9c9856e956ee20b99dedb33a0ce6abe71",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-b3fe567ac9c2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/about/media-resources/studies-and-media-releases/article/pet-anxiety-insurance-claims-study",
+    "canonical": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/pet-anxiety-insurance-claims-study"
+  },
+  "title": "Is Your Pet Stressed? Pet Anxiety Claims are Up 98%",
+  "summary": "Trupanion’s data science team found that anxiety-related claims have risen by as much as 236% in some locations since 2020. Learn More",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:03.797628+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:41.023073+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/06/cc/ccc24b4a76c42bdde8263b29cf446cc9c9856e956ee20b99dedb33a0ce6abe71/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/06/cc/ccc24b4a76c42bdde8263b29cf446cc9c9856e956ee20b99dedb33a0ce6abe71/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8269,
+    "sha256": "sha256:57a8fd58b7cbd31706a21c2226a98108623a4a95ab9c8b80e164f60b28058823",
+    "normalized_content_hash": "sha256:3c8b5eeb2924647c6bb22902321e7ab0142945444a2cbc24971cc04ccc558670"
+  },
+  "provenance": {
+    "source_item_id": "3496af7a-ab19-43d8-9e51-10f01ab6925b",
+    "external_id": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/pet-anxiety-insurance-claims-study"
+  }
+}

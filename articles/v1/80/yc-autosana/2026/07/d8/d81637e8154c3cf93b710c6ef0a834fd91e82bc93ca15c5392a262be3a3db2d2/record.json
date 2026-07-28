@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d81637e8154c3cf93b710c6ef0a834fd91e82bc93ca15c5392a262be3a3db2d2",
+  "company": {
+    "key": "yc-autosana",
+    "name": "Autosana"
+  },
+  "source": {
+    "id": "yc-autosana-news-import-ffdc10c70484",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://autosana.ai/blogs/launching-the-ui-ux-agent",
+    "canonical": "https://autosana.ai/blogs/launching-the-ui-ux-agent"
+  },
+  "title": "Launching the UI/UX Agent",
+  "summary": "Every E2E test you run now comes with a second layer. Autosana doesn't just tell you whether your app works. It tells you whether it's good.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T08:42:48.440297+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:22:58.700859+00:00",
+  "paths": {
+    "article": "articles/v1/80/yc-autosana/2026/07/d8/d81637e8154c3cf93b710c6ef0a834fd91e82bc93ca15c5392a262be3a3db2d2/article.md",
+    "record": "articles/v1/80/yc-autosana/2026/07/d8/d81637e8154c3cf93b710c6ef0a834fd91e82bc93ca15c5392a262be3a3db2d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4625,
+    "sha256": "sha256:2a80f337d2be33d52bfa3cdb912c5c27f99ea987310c7329e7808b189209cc1e",
+    "normalized_content_hash": "sha256:3b94b188c3f293a643ce231cf0221d462ad07a61bb7cd522983895e945f5cf03"
+  },
+  "provenance": {
+    "source_item_id": "528b4699-5fd1-4d4c-89d3-97a1a4c578e9",
+    "external_id": "https://autosana.ai/blogs/launching-the-ui-ux-agent"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "730e39928bebf7ec2c241149861e2b77fd4dc8847014522b9d315d0d4a889654",
+  "company": {
+    "key": "yc-fingo-africa",
+    "name": "Fingo Africa"
+  },
+  "source": {
+    "id": "yc-fingo-africa-news-import-93d91d85313d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://fingo.africa/post/secret-managing-money-digital-age",
+    "canonical": "https://fingo.africa/post/secret-managing-money-digital-age"
+  },
+  "title": "The secret to managing money in the digital age",
+  "summary": "",
+  "published_at": "2023-02-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:52:19.824585+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:39.327285+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-fingo-africa/2023/02/73/730e39928bebf7ec2c241149861e2b77fd4dc8847014522b9d315d0d4a889654/article.md",
+    "record": "articles/v1/1d/yc-fingo-africa/2023/02/73/730e39928bebf7ec2c241149861e2b77fd4dc8847014522b9d315d0d4a889654/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5383,
+    "sha256": "sha256:5e1e3df33ba615c52510bdbb3c7793565e6718870ffbfcd31e2a7afeb3e7eace",
+    "normalized_content_hash": "sha256:7b9bef2a2315360068a483264a0a5d0a110945b2e29307b192c688148398c514"
+  },
+  "provenance": {
+    "source_item_id": "989e1ac6-36ff-4a7f-922a-673ae456859f",
+    "external_id": "https://fingo.africa/post/secret-managing-money-digital-age"
+  }
+}

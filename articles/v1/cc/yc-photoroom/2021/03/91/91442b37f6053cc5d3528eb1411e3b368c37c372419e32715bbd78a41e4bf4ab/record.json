@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "91442b37f6053cc5d3528eb1411e3b368c37c372419e32715bbd78a41e4bf4ab",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/mutagen-tutorial",
+    "canonical": "https://www.photoroom.com/inside-photoroom/mutagen-tutorial"
+  },
+  "title": "Mutagen tutorial: syncing files easily with a remote server",
+  "summary": "Ever wished for seamless file syncing between your laptop and a remote server? With Mutagen, it's possible! Install Mutagen on your local machine, start syncing with a simple command, and monitor it effortlessly. Handle sync conflicts easily and customize syncing preferences using a config file for smoother workflow integration.",
+  "published_at": "2021-03-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-07-28T21:49:00.216289+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2021/03/91/91442b37f6053cc5d3528eb1411e3b368c37c372419e32715bbd78a41e4bf4ab/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2021/03/91/91442b37f6053cc5d3528eb1411e3b368c37c372419e32715bbd78a41e4bf4ab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2092,
+    "sha256": "sha256:631366aeca93ce7751092ab0d79e3ce13cfa5fa91b6a320e0d6760d59813e4a3",
+    "normalized_content_hash": "sha256:4af07e649e56a0e604edb2b7068663d49ac454af503b02d868360ff0f04e7602"
+  },
+  "provenance": {
+    "source_item_id": "4be352fc-e77f-4732-b77b-622ded2a6560",
+    "external_id": "https://www.photoroom.com/inside-photoroom/mutagen-tutorial"
+  }
+}

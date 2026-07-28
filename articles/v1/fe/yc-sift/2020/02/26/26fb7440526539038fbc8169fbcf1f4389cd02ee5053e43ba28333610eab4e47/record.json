@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26fb7440526539038fbc8169fbcf1f4389cd02ee5053e43ba28333610eab4e47",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/gcp-data-mig-1/",
+    "canonical": "https://engineering.sift.com/gcp-data-mig-1/"
+  },
+  "title": "Migrating our cloud infrastructure to Google Cloud (Part 1/4)",
+  "summary": "Sift's migration from self-managed HBase on AWS to Google's Cloud Bigtable. The Sift platform enhances trust and safety in the digital world.",
+  "published_at": "2020-02-12T18:00:24+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.529431+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2020/02/26/26fb7440526539038fbc8169fbcf1f4389cd02ee5053e43ba28333610eab4e47/article.md",
+    "record": "articles/v1/fe/yc-sift/2020/02/26/26fb7440526539038fbc8169fbcf1f4389cd02ee5053e43ba28333610eab4e47/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10071,
+    "sha256": "sha256:5f25f8b4c6e7f123fd13ee6d755b5be51d77b1bc41cf8aeb1b7d461ec251fe29",
+    "normalized_content_hash": "sha256:4d86cef5030f1e4cb53f1ce92423e5e87428f4ecedc65af790b086bd726850f1"
+  },
+  "provenance": {
+    "source_item_id": "261e5985-2bfd-450a-b48d-bc2700af76e8",
+    "external_id": "https://engineering.sift.com/gcp-data-mig-1/"
+  }
+}

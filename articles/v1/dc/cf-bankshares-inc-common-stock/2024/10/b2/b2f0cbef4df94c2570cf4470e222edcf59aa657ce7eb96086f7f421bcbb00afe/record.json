@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b2f0cbef4df94c2570cf4470e222edcf59aa657ce7eb96086f7f421bcbb00afe",
+  "company": {
+    "key": "cf-bankshares-inc-common-stock",
+    "name": "CF Bankshares Inc. Common Stock"
+  },
+  "source": {
+    "id": "cf-bankshares-inc-common-stock-news-import-6fcc40f66432",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.prnewswire.com/news-releases/cf-bankshares-inc-parent-of-cfbank-na-reports-results-for-the-3rd-quarter-2024-302290823.html",
+    "canonical": "https://www.prnewswire.com/news-releases/cf-bankshares-inc-parent-of-cfbank-na-reports-results-for-the-3rd-quarter-2024-302290823.html"
+  },
+  "title": "CF BANKSHARES INC., PARENT OF CFBANK NA, REPORTS RESULTS FOR THE 3rd QUARTER 2024",
+  "summary": "/PRNewswire/ -- CF Bankshares Inc. (NASDAQ: CFBK) (the \"Company\"), the parent of CFBank, National Association (\"CFBank\"), today announced financial results for...",
+  "published_at": "2024-10-30T13:10:00+00:00",
+  "first_seen_at": "2026-07-24T23:54:59.682411+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-07-28T22:02:29.725119+00:00",
+  "paths": {
+    "article": "articles/v1/dc/cf-bankshares-inc-common-stock/2024/10/b2/b2f0cbef4df94c2570cf4470e222edcf59aa657ce7eb96086f7f421bcbb00afe/article.md",
+    "record": "articles/v1/dc/cf-bankshares-inc-common-stock/2024/10/b2/b2f0cbef4df94c2570cf4470e222edcf59aa657ce7eb96086f7f421bcbb00afe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 36976,
+    "sha256": "sha256:d5c822d7d4f0e050f2d2857b34154e61ff6a6756ba79311d79d9ae00e76e0a79",
+    "normalized_content_hash": "sha256:83ad093fb65e0f2728cdc329a220b3f22bac49312116155eca10659e29f7d49e"
+  },
+  "provenance": {
+    "source_item_id": "3686a6b2-b2b4-4bf2-9357-7e412b67d01f",
+    "external_id": "https://www.prnewswire.com/news-releases/cf-bankshares-inc-parent-of-cfbank-na-reports-results-for-the-3rd-quarter-2024-302290823.html"
+  }
+}

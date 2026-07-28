@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99f6c12221626f4ce3e87d6d0d098569294fbb201331bf4e2eac053f7fa0ea54",
+  "company": {
+    "key": "miller-industries-inc-common-stock",
+    "name": "Miller Industries Inc. Common Stock"
+  },
+  "source": {
+    "id": "miller-industries-inc-common-stock-news-import-83d651010ded",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.millerind.com/investors/press-releases/miller-industries-reports-2026-first-quarter-results",
+    "canonical": "https://www.millerind.com/investors/press-releases/miller-industries-reports-2026-first-quarter-results"
+  },
+  "title": "Miller Industries Reports 2026 First Quarter Results",
+  "summary": "Miller Industries press release from May 6, 2026.",
+  "published_at": "2026-05-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T15:14:07.988618+00:00",
+  "fetched_at": "2026-07-28T22:12:46.079122+00:00",
+  "last_updated_at": "2026-07-28T22:13:03.268334+00:00",
+  "paths": {
+    "article": "articles/v1/14/miller-industries-inc-common-stock/2026/05/99/99f6c12221626f4ce3e87d6d0d098569294fbb201331bf4e2eac053f7fa0ea54/article.md",
+    "record": "articles/v1/14/miller-industries-inc-common-stock/2026/05/99/99f6c12221626f4ce3e87d6d0d098569294fbb201331bf4e2eac053f7fa0ea54/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19369,
+    "sha256": "sha256:44e16a97e7eb74e3e9f37fc39d0b75d639cb972fa4cdbac9d14bb2ac60a901db",
+    "normalized_content_hash": "sha256:ea3dc02d97c4a14123bf02109c230b3609c70b7088a8a784043636b9501320ba"
+  },
+  "provenance": {
+    "source_item_id": "298a1f9f-0c71-4cea-be96-eade66687f5e",
+    "external_id": "https://www.millerind.com/investors/press-releases/miller-industries-reports-2026-first-quarter-results"
+  }
+}

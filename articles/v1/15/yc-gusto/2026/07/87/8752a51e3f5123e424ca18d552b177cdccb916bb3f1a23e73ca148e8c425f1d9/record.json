@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8752a51e3f5123e424ca18d552b177cdccb916bb3f1a23e73ca148e8c425f1d9",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-a18fb5381575",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/taxes/llc-taxed-as-s-corp",
+    "canonical": "https://gusto.com/resources/articles/taxes/llc-taxed-as-s-corp"
+  },
+  "title": "Can an LLC Be Taxed as an S Corp? Yes, Here's How",
+  "summary": "Choosing the right tax classification for your LLC can have a meaningful impact on your tax bill, payroll responsibilities, and long-term business growth. Here's what you need to know before making the election.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:59.033602+00:00",
+  "fetched_at": "2026-07-28T11:17:57.475842+00:00",
+  "last_updated_at": "2026-07-28T11:17:59.903420+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/87/8752a51e3f5123e424ca18d552b177cdccb916bb3f1a23e73ca148e8c425f1d9/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/87/8752a51e3f5123e424ca18d552b177cdccb916bb3f1a23e73ca148e8c425f1d9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8097,
+    "sha256": "sha256:b25438a251e4fe9b81e1bbda9a4d456fbdd36d5b3f30f6761ccdcfd6661753af",
+    "normalized_content_hash": "sha256:a5b6e4faf9f64c1080570d0ef555bedbc0af2a41589c9f9ee5793b51b2640f54"
+  },
+  "provenance": {
+    "source_item_id": "65770a55-dcdc-440d-830d-d7045d29f724",
+    "external_id": "https://gusto.com/resources/articles/taxes/llc-taxed-as-s-corp"
+  }
+}

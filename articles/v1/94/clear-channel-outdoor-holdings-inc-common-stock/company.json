@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "clear-channel-outdoor-holdings-inc-common-stock",
+    "name": "Clear Channel Outdoor Holdings Inc. Common Stock"
+  },
+  "record_count": 17,
+  "first_published_at": "2026-02-09T22:32:00+00:00",
+  "last_published_at": "2026-07-22T15:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    }
+  ]
+}

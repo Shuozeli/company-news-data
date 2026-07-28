@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-miniswap",
+    "name": "Miniswap"
+  },
+  "record_count": 2,
+  "first_published_at": "2026-06-10T00:00:00+00:00",
+  "last_published_at": "2026-06-10T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    }
+  ]
+}

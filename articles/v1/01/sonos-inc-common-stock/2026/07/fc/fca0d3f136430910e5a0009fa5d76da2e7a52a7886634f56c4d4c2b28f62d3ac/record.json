@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fca0d3f136430910e5a0009fa5d76da2e7a52a7886634f56c4d4c2b28f62d3ac",
+  "company": {
+    "key": "sonos-inc-common-stock",
+    "name": "Sonos Inc. Common Stock"
+  },
+  "source": {
+    "id": "sonos-inc-common-stock-news-import-358168792368",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://en.community.sonos.com/product-updates/14th-july-2026-new-sonos-app-player-updates-now-available-6934332?postid=12510",
+    "canonical": "https://en.community.sonos.com/product-updates/14th-july-2026-new-sonos-app-player-updates-now-available-6934332"
+  },
+  "title": "14th July 2026 - New Sonos App & Player Updates Now Available!",
+  "summary": "Howdy y’all! We have a new Sonos App update releasing today and it’s a big one. This update brings the ability to try out Tab Navigation, introduces speaker/room sorting, and adds a Dynamic Volume Slider for iOS (coming soon to Android!). Tabs at the bottom leave so much room for activitiesThis upd...",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:42:45.861887+00:00",
+  "fetched_at": "2026-07-25T09:19:17.247285+00:00",
+  "last_updated_at": "2026-07-25T09:19:35.713737+00:00",
+  "paths": {
+    "article": "articles/v1/01/sonos-inc-common-stock/2026/07/fc/fca0d3f136430910e5a0009fa5d76da2e7a52a7886634f56c4d4c2b28f62d3ac/article.md",
+    "record": "articles/v1/01/sonos-inc-common-stock/2026/07/fc/fca0d3f136430910e5a0009fa5d76da2e7a52a7886634f56c4d4c2b28f62d3ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11139,
+    "sha256": "sha256:b77fd383de73eb45d5d99585f1811fddb46c34cd7c46bf17b1987ba28fb35636",
+    "normalized_content_hash": "sha256:d74c77a426afdd5f95b2fa3da916b142b1643ffadb93231a5ce3d4a4bcde96bf"
+  },
+  "provenance": {
+    "source_item_id": "bdaa04c2-25f3-4649-ae64-219c19354861",
+    "external_id": "https://en.community.sonos.com/product-updates/14th-july-2026-new-sonos-app-player-updates-now-available-6934332"
+  }
+}

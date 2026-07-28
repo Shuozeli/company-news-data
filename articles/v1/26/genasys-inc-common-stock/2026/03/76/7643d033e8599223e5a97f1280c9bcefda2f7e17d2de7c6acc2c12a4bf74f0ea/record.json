@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7643d033e8599223e5a97f1280c9bcefda2f7e17d2de7c6acc2c12a4bf74f0ea",
+  "company": {
+    "key": "genasys-inc-common-stock",
+    "name": "Genasys Inc. Common Stock"
+  },
+  "source": {
+    "id": "genasys-inc-common-stock-news-import-86acd8f701ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://genasys.com/press-releases/genasys-appoints-bill-dodd-board-chairman/",
+    "canonical": "https://genasys.com/press-releases/genasys-appoints-bill-dodd-board-chairman/"
+  },
+  "title": "Genasys Inc. Appoints Bill Dodd as Chairman of Board of Directors",
+  "summary": "Bill Dodd appointed Genasys Inc. chairman of board of directors",
+  "published_at": "2026-03-23T13:13:58+00:00",
+  "first_seen_at": "2026-07-25T06:23:32.722704+00:00",
+  "fetched_at": "2026-07-28T21:56:54.694470+00:00",
+  "last_updated_at": "2026-07-28T21:57:28.831033+00:00",
+  "paths": {
+    "article": "articles/v1/26/genasys-inc-common-stock/2026/03/76/7643d033e8599223e5a97f1280c9bcefda2f7e17d2de7c6acc2c12a4bf74f0ea/article.md",
+    "record": "articles/v1/26/genasys-inc-common-stock/2026/03/76/7643d033e8599223e5a97f1280c9bcefda2f7e17d2de7c6acc2c12a4bf74f0ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6399,
+    "sha256": "sha256:1196577aadb740ca398351116eb637fe41e1422c4559e4ba53c48620c2e3594e",
+    "normalized_content_hash": "sha256:81d649fc75e99ce4a9db3f3b759f14bc5b238ec554667ab26ab263387ea186ae"
+  },
+  "provenance": {
+    "source_item_id": "89512efb-76c7-470c-9b63-5dd3a7076048",
+    "external_id": "https://genasys.com/press-releases/genasys-appoints-bill-dodd-board-chairman/"
+  }
+}

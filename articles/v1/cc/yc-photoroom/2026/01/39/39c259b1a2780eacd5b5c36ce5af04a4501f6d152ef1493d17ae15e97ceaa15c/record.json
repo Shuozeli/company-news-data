@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "39c259b1a2780eacd5b5c36ce5af04a4501f6d152ef1493d17ae15e97ceaa15c",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/building-live-collaboration-in-rust-for-millions-of-users-part-4",
+    "canonical": "https://www.photoroom.com/inside-photoroom/building-live-collaboration-in-rust-for-millions-of-users-part-4"
+  },
+  "title": "Building live collaboration in Rust for millions of users, part 4",
+  "summary": "",
+  "published_at": "2026-01-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-07-28T21:49:00.092995+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/01/39/39c259b1a2780eacd5b5c36ce5af04a4501f6d152ef1493d17ae15e97ceaa15c/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/01/39/39c259b1a2780eacd5b5c36ce5af04a4501f6d152ef1493d17ae15e97ceaa15c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25505,
+    "sha256": "sha256:b07e4a3ac7ba51d02c905450661d66013f5371a10e78121186fc30fb285869d5",
+    "normalized_content_hash": "sha256:b274d931422abb9e6db095e5baa5c380e2b05df5a9706092329d60e6a9fbda36"
+  },
+  "provenance": {
+    "source_item_id": "4c9273ba-0d5f-4845-a669-f7e7fd592893",
+    "external_id": "https://www.photoroom.com/inside-photoroom/building-live-collaboration-in-rust-for-millions-of-users-part-4"
+  }
+}

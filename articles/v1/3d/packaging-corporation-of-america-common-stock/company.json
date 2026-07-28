@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "packaging-corporation-of-america-common-stock",
+    "name": "Packaging Corporation of America Common Stock"
+  },
+  "record_count": 12,
+  "first_published_at": "2020-01-22T06:00:00+00:00",
+  "last_published_at": "2022-09-12T19:18:33+00:00",
+  "partitions": [
+    {
+      "partition": "2020-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    }
+  ]
+}

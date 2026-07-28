@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b3350af4d08a101096063b558aee4d3cd226ec468e345443c91699bc9361404b",
+  "company": {
+    "key": "seneca-foods-corp-class-a-common-stock",
+    "name": "Seneca Foods Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "seneca-foods-corp-class-a-common-stock-news-import-03cef6dadc5e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.senecafoods.com/press-release/seneca-foods-reports-sales-and-earnings-quarter-and-twelve-months-ended-march-31-2025",
+    "canonical": "https://www.senecafoods.com/press-release/seneca-foods-reports-sales-and-earnings-quarter-and-twelve-months-ended-march-31-2025"
+  },
+  "title": "Seneca Foods Reports Sales and Earnings for the Quarter and Twelve Months Ended March 31, 2025",
+  "summary": "“We completed a strong fiscal 2025 despite various challenges posed by a rainy growing season, increasing costs, and fluctuating tariffs,” stated Paul Palmby, President and Chief Executive Officer of Seneca Foods",
+  "published_at": "2025-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T07:39:37.125675+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:55.841509+00:00",
+  "paths": {
+    "article": "articles/v1/c8/seneca-foods-corp-class-a-common-stock/2025/06/b3/b3350af4d08a101096063b558aee4d3cd226ec468e345443c91699bc9361404b/article.md",
+    "record": "articles/v1/c8/seneca-foods-corp-class-a-common-stock/2025/06/b3/b3350af4d08a101096063b558aee4d3cd226ec468e345443c91699bc9361404b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2329,
+    "sha256": "sha256:ddde3432a0e820f000525609510c7d69c25972f165ee73c51d245f31b78331ca",
+    "normalized_content_hash": "sha256:605cd38aefed8c9dcdf1e19e652254bd26acf9474e26968704082bde6d81d13b"
+  },
+  "provenance": {
+    "source_item_id": "4ffbd5d1-7cbc-40e2-a2e2-197008387b03",
+    "external_id": "https://www.senecafoods.com/press-release/seneca-foods-reports-sales-and-earnings-quarter-and-twelve-months-ended-march-31-2025"
+  }
+}

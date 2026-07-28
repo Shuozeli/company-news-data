@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "acumen-pharmaceuticals-inc-common-stock",
+    "name": "Acumen Pharmaceuticals Inc. Common Stock"
+  },
+  "record_count": 5,
+  "first_published_at": "2012-12-31T21:50:07+00:00",
+  "last_published_at": "2021-04-26T21:53:11+00:00",
+  "partitions": [
+    {
+      "partition": "2012-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 4
+    }
+  ]
+}

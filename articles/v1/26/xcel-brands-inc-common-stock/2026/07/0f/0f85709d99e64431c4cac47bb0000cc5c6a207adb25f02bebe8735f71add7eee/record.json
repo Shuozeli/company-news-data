@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f85709d99e64431c4cac47bb0000cc5c6a207adb25f02bebe8735f71add7eee",
+  "company": {
+    "key": "xcel-brands-inc-common-stock",
+    "name": "Xcel Brands Inc. Common Stock"
+  },
+  "source": {
+    "id": "xcel-brands-inc-common-stock-news-import-2fc797a26bc6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.investing.com/news/company-news/xcel-brands-launches-home-collection-with-jqueen-new-york-93CH-4791157",
+    "canonical": "https://www.investing.com/news/company-news/xcel-brands-launches-home-collection-with-jqueen-new-york-93CH-4791157"
+  },
+  "title": "Xcel Brands launches home collection with J.Queen New York",
+  "summary": "Xcel Brands launches home collection with J.Queen New York",
+  "published_at": "2026-07-14T14:08:51+00:00",
+  "first_seen_at": "2026-07-27T07:18:53.920178+00:00",
+  "fetched_at": "2026-07-28T09:00:13.919343+00:00",
+  "last_updated_at": "2026-07-28T09:00:20.777659+00:00",
+  "paths": {
+    "article": "articles/v1/26/xcel-brands-inc-common-stock/2026/07/0f/0f85709d99e64431c4cac47bb0000cc5c6a207adb25f02bebe8735f71add7eee/article.md",
+    "record": "articles/v1/26/xcel-brands-inc-common-stock/2026/07/0f/0f85709d99e64431c4cac47bb0000cc5c6a207adb25f02bebe8735f71add7eee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3939,
+    "sha256": "sha256:ed085e9e5b6789c73f95c470507f134393b1bd594e52362e549e344fa5109ce2",
+    "normalized_content_hash": "sha256:03a8256b883b9d992e3046abd3e40a5d1cfd2e27031944eb018d7e905ec111f4"
+  },
+  "provenance": {
+    "source_item_id": "5b6b4a8a-8e3f-41c1-8f3d-8b1f3300810d",
+    "external_id": "https://www.investing.com/news/company-news/xcel-brands-launches-home-collection-with-jqueen-new-york-93CH-4791157"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d1d3f012ee7615a41b040c18e82877d583631264948cca227b7288e66e6fb35",
+  "company": {
+    "key": "arteris-inc-common-stock",
+    "name": "Arteris Inc. Common Stock"
+  },
+  "source": {
+    "id": "arteris-inc-common-stock-news-import-b55a70a8b442",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arteris.com/blog/semiconductor-engineering-avoid-the-hidden-bottleneck-of-integration-at-scale/",
+    "canonical": "https://www.arteris.com/blog/semiconductor-engineering-avoid-the-hidden-bottleneck-of-integration-at-scale/"
+  },
+  "title": "Semiconductor Engineering: Avoid The Hidden Bottleneck Of Integration At Scale",
+  "summary": "This Semiconductor Engineering article examines how SoC integration has become a major bottleneck as designs scale in complexity, with growing numbers of IP blocks, registers, and hardware/software interfaces.",
+  "published_at": "2026-07-23T14:12:12+00:00",
+  "first_seen_at": "2026-07-27T19:16:50.378641+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:50.886966+00:00",
+  "paths": {
+    "article": "articles/v1/bf/arteris-inc-common-stock/2026/07/1d/1d1d3f012ee7615a41b040c18e82877d583631264948cca227b7288e66e6fb35/article.md",
+    "record": "articles/v1/bf/arteris-inc-common-stock/2026/07/1d/1d1d3f012ee7615a41b040c18e82877d583631264948cca227b7288e66e6fb35/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6038,
+    "sha256": "sha256:0d2fe0b5c325d830f4ad06cb19902f49575bee7f3ed47bb031050012334749a7",
+    "normalized_content_hash": "sha256:7649c7e43169926df9be7d58a9dbef54807f24de638e65567b6af1c3bd7b3b58"
+  },
+  "provenance": {
+    "source_item_id": "bc8249cb-79ca-43b3-a4d6-a0d57aecba0c",
+    "external_id": "https://www.arteris.com/blog/semiconductor-engineering-avoid-the-hidden-bottleneck-of-integration-at-scale/"
+  }
+}

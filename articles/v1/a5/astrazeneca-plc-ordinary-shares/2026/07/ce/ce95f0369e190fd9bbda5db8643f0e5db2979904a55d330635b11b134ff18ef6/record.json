@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce95f0369e190fd9bbda5db8643f0e5db2979904a55d330635b11b134ff18ef6",
+  "company": {
+    "key": "astrazeneca-plc-ordinary-shares",
+    "name": "AstraZeneca PLC Ordinary Shares"
+  },
+  "source": {
+    "id": "astrazeneca-plc-ordinary-shares-news-import-f05d84ac8220",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.astrazeneca.com/media-centre/social-media-community-guidelines.html",
+    "canonical": "https://www.astrazeneca.com/media-centre/social-media-community-guidelines.html"
+  },
+  "title": "Social Media Community Guidelines",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:00:22.503419+00:00",
+  "fetched_at": "2026-07-28T00:14:19.511923+00:00",
+  "last_updated_at": "2026-07-28T00:14:20.615093+00:00",
+  "paths": {
+    "article": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2026/07/ce/ce95f0369e190fd9bbda5db8643f0e5db2979904a55d330635b11b134ff18ef6/article.md",
+    "record": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2026/07/ce/ce95f0369e190fd9bbda5db8643f0e5db2979904a55d330635b11b134ff18ef6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2822,
+    "sha256": "sha256:2cb5154ec512ae4b7c65a407808cef096167c9d9e773d163359db0e743cbd3c8",
+    "normalized_content_hash": "sha256:9e648042aacf4a079281adf350ddfe39afcd67dd41f193f6928feb960bd95c93"
+  },
+  "provenance": {
+    "source_item_id": "4a89a6aa-b0d1-4bf5-8ee9-fe833a88551c",
+    "external_id": "https://www.astrazeneca.com/media-centre/social-media-community-guidelines.html"
+  }
+}

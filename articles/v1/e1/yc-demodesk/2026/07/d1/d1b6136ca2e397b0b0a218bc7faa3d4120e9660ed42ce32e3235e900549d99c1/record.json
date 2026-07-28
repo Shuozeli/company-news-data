@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d1b6136ca2e397b0b0a218bc7faa3d4120e9660ed42ce32e3235e900549d99c1",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/automated-deal-scoring-meddic-own-pipeline",
+    "canonical": "https://demodesk.com/blog/automated-deal-scoring-meddic-own-pipeline"
+  },
+  "title": "Automated Deal Scoring: How We Score Our Own Pipeline With MEDDIC",
+  "summary": "Manual deal scoring fails on consistency, recency bias, and rep time. Here's how Demodesk scores its own pipeline with AI-filled MEDDIC fields.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T00:23:23.594100+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:49.760605+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/d1/d1b6136ca2e397b0b0a218bc7faa3d4120e9660ed42ce32e3235e900549d99c1/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/d1/d1b6136ca2e397b0b0a218bc7faa3d4120e9660ed42ce32e3235e900549d99c1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6175,
+    "sha256": "sha256:79ecbd61c7d649668ad914cb49dea3435841364e7ff809548d9de23de3be59f6",
+    "normalized_content_hash": "sha256:06a955d582f9cefcd30157155ec72387b4ac27038ed1a371720a7bf872bac3e7"
+  },
+  "provenance": {
+    "source_item_id": "1d6f906c-f431-455f-b28c-dfa313e936b5",
+    "external_id": "https://demodesk.com/blog/automated-deal-scoring-meddic-own-pipeline"
+  }
+}

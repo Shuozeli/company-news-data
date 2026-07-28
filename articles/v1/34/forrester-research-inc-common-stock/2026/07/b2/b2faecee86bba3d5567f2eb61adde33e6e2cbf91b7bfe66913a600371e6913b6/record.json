@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b2faecee86bba3d5567f2eb61adde33e6e2cbf91b7bfe66913a600371e6913b6",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/press-newsroom/the-new-york-times-netflix-revenue-grows-13-to-12-6-billion/",
+    "canonical": "https://www.forrester.com/press-newsroom/the-new-york-times-netflix-revenue-grows-13-to-12-6-billion/"
+  },
+  "title": "The New York Times – Netflix Revenue Grows 13% To $12.6 Billion",
+  "summary": "The New York Times: Mike Proulx discusses Netflix’s latest earnings and highlights the company’s tendency to redirect attention when key metrics draw scrutiny. Read the full article here. Read more about Mike here.",
+  "published_at": "2026-07-16T09:20:18+00:00",
+  "first_seen_at": "2026-07-22T22:15:37.198406+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:37.488108+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2026/07/b2/b2faecee86bba3d5567f2eb61adde33e6e2cbf91b7bfe66913a600371e6913b6/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2026/07/b2/b2faecee86bba3d5567f2eb61adde33e6e2cbf91b7bfe66913a600371e6913b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3247,
+    "sha256": "sha256:5d39632042ac47be4e085c584d1307bb4bb716f078b6069b0ae4d3d2613a0d12",
+    "normalized_content_hash": "sha256:59196bcccdc43bb6fd621eb5d72e760c1ebe126a4afb42565131903c90497ca0"
+  },
+  "provenance": {
+    "source_item_id": "b3237e5c-b719-4b60-b12d-9a53de1952b5",
+    "external_id": "https://www.forrester.com/press-newsroom/the-new-york-times-netflix-revenue-grows-13-to-12-6-billion/"
+  }
+}

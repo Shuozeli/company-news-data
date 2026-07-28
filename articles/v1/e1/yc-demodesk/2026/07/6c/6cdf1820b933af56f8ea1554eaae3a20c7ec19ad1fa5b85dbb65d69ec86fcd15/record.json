@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6cdf1820b933af56f8ea1554eaae3a20c7ec19ad1fa5b85dbb65d69ec86fcd15",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-set-up-slack-notifications-for-ai-agent-outputs-in-demodesk",
+    "canonical": "https://demodesk.com/blog/how-to-set-up-slack-notifications-for-ai-agent-outputs-in-demodesk"
+  },
+  "title": "How to set up Slack notifications for AI agent outputs in Demodesk",
+  "summary": "Push AI summaries, Deal Health Scores, and other agent outputs to the right Slack channels by meeting type. Step-by-step setup in Demodesk.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.673045+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/6c/6cdf1820b933af56f8ea1554eaae3a20c7ec19ad1fa5b85dbb65d69ec86fcd15/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/6c/6cdf1820b933af56f8ea1554eaae3a20c7ec19ad1fa5b85dbb65d69ec86fcd15/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5736,
+    "sha256": "sha256:3f79046b3cc31dd0ed5e73ce9b0886fb2cf3760e0539e225f9697e0bc26139cb",
+    "normalized_content_hash": "sha256:ca3ebf023d457a51d58f103e9270e2e1217f73e43a23a66bc4601affc641e70f"
+  },
+  "provenance": {
+    "source_item_id": "939d2925-4ee8-49e4-ac15-ce7f585ef766",
+    "external_id": "https://demodesk.com/blog/how-to-set-up-slack-notifications-for-ai-agent-outputs-in-demodesk"
+  }
+}

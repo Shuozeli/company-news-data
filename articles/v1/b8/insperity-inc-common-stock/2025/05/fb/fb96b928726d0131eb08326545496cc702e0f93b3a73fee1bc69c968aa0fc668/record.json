@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb96b928726d0131eb08326545496cc702e0f93b3a73fee1bc69c968aa0fc668",
+  "company": {
+    "key": "insperity-inc-common-stock",
+    "name": "Insperity Inc. Common Stock"
+  },
+  "source": {
+    "id": "insperity-inc-common-stock-news-import-506516edf724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.insperity.com/blog/what-is-a-peo/",
+    "canonical": "https://www.insperity.com/blog/what-is-a-peo/"
+  },
+  "title": "What is a PEO – and how can it help your business?",
+  "summary": "Learn what a PEO is and how a professional employer organization can help your business streamline HR, improve compliance, reduce costs and drive growth through co-employment.",
+  "published_at": "2025-05-20T19:30:00+00:00",
+  "first_seen_at": "2026-07-27T06:18:39.928548+00:00",
+  "fetched_at": "2026-07-28T20:22:24.007965+00:00",
+  "last_updated_at": "2026-07-28T20:22:24.362113+00:00",
+  "paths": {
+    "article": "articles/v1/b8/insperity-inc-common-stock/2025/05/fb/fb96b928726d0131eb08326545496cc702e0f93b3a73fee1bc69c968aa0fc668/article.md",
+    "record": "articles/v1/b8/insperity-inc-common-stock/2025/05/fb/fb96b928726d0131eb08326545496cc702e0f93b3a73fee1bc69c968aa0fc668/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21754,
+    "sha256": "sha256:64eb78f952c6021332f57b335318c33221b047bf64af4f5cf8e4d0f8da6653eb",
+    "normalized_content_hash": "sha256:5a6456f361b1e9b8211fbff4497bc6469ffdafb2f5d5a26387f7055d3beaf207"
+  },
+  "provenance": {
+    "source_item_id": "a4b4d2bd-ed5d-4e73-9a0d-07bca53bb417",
+    "external_id": "https://www.insperity.com/blog/what-is-a-peo/"
+  }
+}

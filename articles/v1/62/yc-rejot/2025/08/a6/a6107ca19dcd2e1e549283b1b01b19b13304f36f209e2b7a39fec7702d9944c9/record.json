@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a6107ca19dcd2e1e549283b1b01b19b13304f36f209e2b7a39fec7702d9944c9",
+  "company": {
+    "key": "yc-rejot",
+    "name": "ReJot"
+  },
+  "source": {
+    "id": "yc-rejot-news-import-01598ccac029",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rejot.dev/blog/2025-08-21_call-of-duty-scripting/",
+    "canonical": "https://rejot.dev/blog/2025-08-21_call-of-duty-scripting/"
+  },
+  "title": "Concurrency in Call of Duty's VM, Compared to JavaScript",
+  "summary": "An introduction to Call of Duty Game Script (GSC) and how its execution model compares to JavaScript's event loop.",
+  "published_at": "2025-08-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T11:22:58.242135+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-07-28T22:03:52.220443+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-rejot/2025/08/a6/a6107ca19dcd2e1e549283b1b01b19b13304f36f209e2b7a39fec7702d9944c9/article.md",
+    "record": "articles/v1/62/yc-rejot/2025/08/a6/a6107ca19dcd2e1e549283b1b01b19b13304f36f209e2b7a39fec7702d9944c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12746,
+    "sha256": "sha256:cc41c1b61f6ca3d0e0fff4010b3591a89c6e81302a692b10fa4b3368c3d7d19a",
+    "normalized_content_hash": "sha256:5b902c15a1fe812559de798b5a35a240cb8488a39de0e59ea07d8b093079b495"
+  },
+  "provenance": {
+    "source_item_id": "c1d86903-31e7-4a9a-ab0e-3567f77cc209",
+    "external_id": "https://rejot.dev/blog/2025-08-21_call-of-duty-scripting/"
+  }
+}

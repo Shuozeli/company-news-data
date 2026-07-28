@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99c9e1e8f96705452c0b0dfc510507b40c14b9b571b00ea78c415ec67fc9af8d",
+  "company": {
+    "key": "exxon-mobil-corporation-common-stock",
+    "name": "Exxon Mobil Corporation Common Stock"
+  },
+  "source": {
+    "id": "exxon-mobil-corporation-common-stock-news-import-16ce71af83b6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.exxonmobil.com/locations/united-states/baytown/newsroom/2026/community-picnic",
+    "canonical": "https://corporate.exxonmobil.com/locations/united-states/baytown/newsroom/2026/community-picnic"
+  },
+  "title": "A day of connection: ExxonMobil Baytown Community Picnic",
+  "summary": "Neighbors gathered at the Baytown Community Picnic 2026 for food, STEM activities, and connection. Explore event highlights and details.",
+  "published_at": "2026-06-03T15:02:00+00:00",
+  "first_seen_at": "2026-07-25T04:25:42.923454+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T22:13:01.818679+00:00",
+  "paths": {
+    "article": "articles/v1/b6/exxon-mobil-corporation-common-stock/2026/06/99/99c9e1e8f96705452c0b0dfc510507b40c14b9b571b00ea78c415ec67fc9af8d/article.md",
+    "record": "articles/v1/b6/exxon-mobil-corporation-common-stock/2026/06/99/99c9e1e8f96705452c0b0dfc510507b40c14b9b571b00ea78c415ec67fc9af8d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2391,
+    "sha256": "sha256:0e4486d2cebf16cfa58e6116d0c0e948a9a97cfdd80fa146cfa4d43e6e25ebef",
+    "normalized_content_hash": "sha256:1c7bbe2ece3b59e070e914095d41f3342c558df9ea8530e9b30dd7f60ddc5821"
+  },
+  "provenance": {
+    "source_item_id": "ae89ad41-8161-498d-9c3e-7c9adaae8e22",
+    "external_id": "https://corporate.exxonmobil.com/locations/united-states/baytown/newsroom/2026/community-picnic"
+  }
+}

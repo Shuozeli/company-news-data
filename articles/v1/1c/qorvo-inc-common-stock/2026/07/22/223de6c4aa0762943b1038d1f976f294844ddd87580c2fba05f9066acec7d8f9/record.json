@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "223de6c4aa0762943b1038d1f976f294844ddd87580c2fba05f9066acec7d8f9",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/qorvo-simplifies-rf-control-with-soi-portfolio--that-eliminates-negative-bias",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/qorvo-simplifies-rf-control-with-soi-portfolio--that-eliminates-negative-bias"
+  },
+  "title": "Qorvo Simplifies RF Control with SOI Portfolio that Eliminates Negative Bias",
+  "summary": "Qorvo® (Nasdaq: QRVO), a leading global provider of connectivity and power solutions, today announced a new portfolio of silicon-on-insulator (SOI) RF switches and digital step attenuators (DSAs) designed for defense, aerospace and infrastructure customers.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:12.909528+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/22/223de6c4aa0762943b1038d1f976f294844ddd87580c2fba05f9066acec7d8f9/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/22/223de6c4aa0762943b1038d1f976f294844ddd87580c2fba05f9066acec7d8f9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11077,
+    "sha256": "sha256:60b5489b142ca4c2483e60a93ab11ecc2747743e1f8f4ae9ff25658d5693d19b",
+    "normalized_content_hash": "sha256:f7451f5fa7a0a6c343f7f884457e9ebaff9380868da8103f684098cb64900d7e"
+  },
+  "provenance": {
+    "source_item_id": "4f803cd9-d8ad-4697-b070-85360c7a0142",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/qorvo-simplifies-rf-control-with-soi-portfolio--that-eliminates-negative-bias"
+  }
+}

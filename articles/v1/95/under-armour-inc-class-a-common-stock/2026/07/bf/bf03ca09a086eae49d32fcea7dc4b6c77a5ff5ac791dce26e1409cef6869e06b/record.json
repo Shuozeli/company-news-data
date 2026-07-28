@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf03ca09a086eae49d32fcea7dc4b6c77a5ff5ac791dce26e1409cef6869e06b",
+  "company": {
+    "key": "under-armour-inc-class-a-common-stock",
+    "name": "Under Armour Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "under-armour-inc-class-a-common-stock-news-import-dcc9a249260a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.underarmour.com/en/stories/2022/05/charting-our-path-forward-.html",
+    "canonical": "https://about.underarmour.com/en/stories/2022/05/charting-our-path-forward-.html"
+  },
+  "title": "Charting Our Path Forward",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:56:56.382929+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-07-28T21:38:14.271793+00:00",
+  "paths": {
+    "article": "articles/v1/95/under-armour-inc-class-a-common-stock/2026/07/bf/bf03ca09a086eae49d32fcea7dc4b6c77a5ff5ac791dce26e1409cef6869e06b/article.md",
+    "record": "articles/v1/95/under-armour-inc-class-a-common-stock/2026/07/bf/bf03ca09a086eae49d32fcea7dc4b6c77a5ff5ac791dce26e1409cef6869e06b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5879,
+    "sha256": "sha256:932b98212abd20c12fd4aba62747bca1a2e8e4e1ffbe1c6cbfd8fe4f38d9db36",
+    "normalized_content_hash": "sha256:691a1943beb00b651c1c0a4118e4f68ca8701eb395b02e0206110eec2c21549f"
+  },
+  "provenance": {
+    "source_item_id": "1159bb2c-695b-4b89-b74d-8fed86716f74",
+    "external_id": "https://about.underarmour.com/en/stories/2022/05/charting-our-path-forward-.html"
+  }
+}

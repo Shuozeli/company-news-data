@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "63210749d118b5de31fb1a52b3c67fcbd9787997ea5ba5c8316c70e5a4194200",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-b3fe567ac9c2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/about/media-resources/studies-and-media-releases/article/world-cup-pets",
+    "canonical": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/world-cup-pets"
+  },
+  "title": "World Cup Pets: More than 600 Pets Named after World Cup Soccer Players",
+  "summary": "More than 600 pets named after famous World Cup soccer players. See which soccer stars inspired pet names and how fans celebrate the game with their pets.",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:03.797628+00:00",
+  "fetched_at": "2026-07-28T22:13:02.720629+00:00",
+  "last_updated_at": "2026-07-28T22:15:34.179774+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/05/63/63210749d118b5de31fb1a52b3c67fcbd9787997ea5ba5c8316c70e5a4194200/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/05/63/63210749d118b5de31fb1a52b3c67fcbd9787997ea5ba5c8316c70e5a4194200/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4511,
+    "sha256": "sha256:969fc98622402ecd54a7af9dd4e37299ba4b62fe3a272ae04cf13b6dc2b01abd",
+    "normalized_content_hash": "sha256:2ddc00670b7e235211e0913242ef580ff6d8bd25e98436223f6ddf3155a4516c"
+  },
+  "provenance": {
+    "source_item_id": "116cec2d-4d81-42ff-a0e6-2bf4805b0a0b",
+    "external_id": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/world-cup-pets"
+  }
+}

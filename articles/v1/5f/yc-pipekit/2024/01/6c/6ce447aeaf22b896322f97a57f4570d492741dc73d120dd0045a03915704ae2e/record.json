@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ce447aeaf22b896322f97a57f4570d492741dc73d120dd0045a03915704ae2e",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/set-up-logging-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/set-up-logging-argo-workflows"
+  },
+  "title": "How to Set up Logging for Argo Workflows",
+  "summary": "Learn the two main ways to extract and store logs in Argo Workflows as we walk you through the step-by-step process o setting up logging to monitor and troubleshoot your workflows effectively.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:18.654833+00:00",
+  "last_updated_at": "2026-07-28T22:26:23.255302+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/6c/6ce447aeaf22b896322f97a57f4570d492741dc73d120dd0045a03915704ae2e/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/6c/6ce447aeaf22b896322f97a57f4570d492741dc73d120dd0045a03915704ae2e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10389,
+    "sha256": "sha256:c1ba6a3f2cb28409cae07f2b0c3c1a0c80edd15321713d5214e917b9c27d5b59",
+    "normalized_content_hash": "sha256:89e038db189ffa432edd398bd362746822f35e927b3669a702583c33accee2f3"
+  },
+  "provenance": {
+    "source_item_id": "eac9d9c0-da93-4ca1-9609-8f699ac83f8d",
+    "external_id": "https://homepage.pipekit.io/blog/set-up-logging-argo-workflows"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4afc7a0ef5d26da65efa757213f38790c79f5313cf2957a5578dd1b32c84be20",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-e3018e454ae6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/design-hub/blog/the-ai-powered-future-of-people-sensing",
+    "canonical": "https://www.qorvo.com/design-hub/blog/the-ai-powered-future-of-people-sensing"
+  },
+  "title": "The AI-Powered Future of People Sensing",
+  "summary": "What if your environment could sense how you move, feel, and function? Algorized and Qorvo are delivering that reality with UWB-powered, privacy-first, people-sensing AI. Explore real-world applications and CES 2025 insights in this innovation spotlight.",
+  "published_at": "2025-12-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:14:16.870814+00:00",
+  "fetched_at": "2026-07-28T22:25:05.780563+00:00",
+  "last_updated_at": "2026-07-28T22:26:11.694719+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2025/12/4a/4afc7a0ef5d26da65efa757213f38790c79f5313cf2957a5578dd1b32c84be20/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2025/12/4a/4afc7a0ef5d26da65efa757213f38790c79f5313cf2957a5578dd1b32c84be20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4661,
+    "sha256": "sha256:dcd8c9c492f324afae95a9b4805e59581f6ec6a27028332f26b6feda4f8a0b74",
+    "normalized_content_hash": "sha256:9021bd877c90d3233f949386e33890049dd00e6ceb25b65153111fd945b69be5"
+  },
+  "provenance": {
+    "source_item_id": "b1ad0573-a48f-49c0-a1dd-8c4a8d5f4df5",
+    "external_id": "https://www.qorvo.com/design-hub/blog/the-ai-powered-future-of-people-sensing"
+  }
+}

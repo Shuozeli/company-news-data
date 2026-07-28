@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4846777dfa1df716ade364ffb95d498ba706a63e467ed1a129641d0e68a096a8",
+  "company": {
+    "key": "maximus-inc-common-stock",
+    "name": "Maximus Inc. Common Stock"
+  },
+  "source": {
+    "id": "maximus-inc-common-stock-news-import-c314bb0b8fa6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://maximus.com/insights/government-technology-adoption-federal-ai-hackathon",
+    "canonical": "https://maximus.com/insights/government-technology-adoption-federal-ai-hackathon"
+  },
+  "title": "Government Technology Adoption Through a Federal AI Hackathon",
+  "summary": "See how federal AI hackathons help agencies validate mission fit, security, and implementation feasibility to move from prototype to production faster",
+  "published_at": "2026-06-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:04:09.379679+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-07-28T21:43:22.195017+00:00",
+  "paths": {
+    "article": "articles/v1/76/maximus-inc-common-stock/2026/06/48/4846777dfa1df716ade364ffb95d498ba706a63e467ed1a129641d0e68a096a8/article.md",
+    "record": "articles/v1/76/maximus-inc-common-stock/2026/06/48/4846777dfa1df716ade364ffb95d498ba706a63e467ed1a129641d0e68a096a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9347,
+    "sha256": "sha256:4faf1df88bed9909fc86296c1c42ecb5998b1a44805cbbc057fba8e50c2acb05",
+    "normalized_content_hash": "sha256:971e5a887725fce6867bd919fab691ddf14517089b7edaaefe9176ea5c02500d"
+  },
+  "provenance": {
+    "source_item_id": "0bb3ccda-e659-4ecc-9f55-cd61b8336e0a",
+    "external_id": "https://maximus.com/insights/government-technology-adoption-federal-ai-hackathon"
+  }
+}

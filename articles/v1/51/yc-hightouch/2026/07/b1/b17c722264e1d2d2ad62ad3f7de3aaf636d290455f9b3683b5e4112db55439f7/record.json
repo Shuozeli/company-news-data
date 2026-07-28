@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b17c722264e1d2d2ad62ad3f7de3aaf636d290455f9b3683b5e4112db55439f7",
+  "company": {
+    "key": "yc-hightouch",
+    "name": "Hightouch"
+  },
+  "source": {
+    "id": "yc-hightouch-news-import-8089bfc075a8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://hightouch.com/blog/introducing-hightouch-for-google-cloud-cross-cloud-lakehouse",
+    "canonical": "https://hightouch.com/blog/introducing-hightouch-for-google-cloud-cross-cloud-lakehouse"
+  },
+  "title": "Hightouch for Google Cloud's cross-cloud Lakehouse",
+  "summary": "Hightouch’s marketing platform is built natively on Google’s open Iceberg Lakehouse",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T08:06:20.021758+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:47.183455+00:00",
+  "paths": {
+    "article": "articles/v1/51/yc-hightouch/2026/07/b1/b17c722264e1d2d2ad62ad3f7de3aaf636d290455f9b3683b5e4112db55439f7/article.md",
+    "record": "articles/v1/51/yc-hightouch/2026/07/b1/b17c722264e1d2d2ad62ad3f7de3aaf636d290455f9b3683b5e4112db55439f7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4436,
+    "sha256": "sha256:501589762d7edf56daa4ff77b313efac3142b19411c12f492e52f1162bed874f",
+    "normalized_content_hash": "sha256:bfa06003b7967a4107bde746ed95260e1b38105f6cc1910835925758e6c81a17"
+  },
+  "provenance": {
+    "source_item_id": "ef63c135-c481-4186-a784-88d04b5ed180",
+    "external_id": "https://hightouch.com/blog/introducing-hightouch-for-google-cloud-cross-cloud-lakehouse"
+  }
+}

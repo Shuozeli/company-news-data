@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "meta-platforms-inc-class-a-common-stock",
+    "name": "Meta Platforms Inc. Class A Common Stock"
+  },
+  "record_count": 25,
+  "first_published_at": "2026-05-26T16:00:01+00:00",
+  "last_published_at": "2026-07-24T17:00:55+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 16
+    }
+  ]
+}

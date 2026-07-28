@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "alpha-tau-medical-ltd-ordinary-shares",
+    "name": "Alpha Tau Medical Ltd. Ordinary Shares"
+  },
+  "record_count": 19,
+  "first_published_at": "2026-01-29T14:31:00+00:00",
+  "last_published_at": "2026-07-15T11:34:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

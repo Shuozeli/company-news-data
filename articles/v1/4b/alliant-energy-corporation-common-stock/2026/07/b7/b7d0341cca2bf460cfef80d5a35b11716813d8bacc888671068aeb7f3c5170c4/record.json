@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b7d0341cca2bf460cfef80d5a35b11716813d8bacc888671068aeb7f3c5170c4",
+  "company": {
+    "key": "alliant-energy-corporation-common-stock",
+    "name": "Alliant Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "alliant-energy-corporation-common-stock-news-import-5331c2900a0f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.alliantenergy.com/news/illuminate/givingback",
+    "canonical": "https://www.alliantenergy.com/news/illuminate/givingback"
+  },
+  "title": "Alliant Energy Illuminate: Giving Back",
+  "summary": "Alliant Energy's News- News Center- Article stories from around Alliant Energy's service territory based on giving back.",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T11:32:38.450273+00:00",
+  "fetched_at": "2026-07-27T11:32:36.077817+00:00",
+  "last_updated_at": "2026-07-27T11:32:38.450273+00:00",
+  "paths": {
+    "article": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/07/b7/b7d0341cca2bf460cfef80d5a35b11716813d8bacc888671068aeb7f3c5170c4/article.md",
+    "record": "articles/v1/4b/alliant-energy-corporation-common-stock/2026/07/b7/b7d0341cca2bf460cfef80d5a35b11716813d8bacc888671068aeb7f3c5170c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2349,
+    "sha256": "sha256:62a09a24f122e566a9f7d0dfb26302ce17881e1ce34e849abd7ca606f8699026",
+    "normalized_content_hash": "sha256:e51063a5aa2a9013121a5185757b600b812ca22bdebda2385e7beb2e87c41018"
+  },
+  "provenance": {
+    "source_item_id": "d14d0e1d-db4f-4178-b173-ae72491dc1cf",
+    "external_id": "https://www.alliantenergy.com/news/illuminate/givingback"
+  }
+}

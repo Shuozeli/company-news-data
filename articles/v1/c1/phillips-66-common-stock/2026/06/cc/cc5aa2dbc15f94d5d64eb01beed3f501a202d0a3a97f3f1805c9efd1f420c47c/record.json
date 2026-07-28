@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc5aa2dbc15f94d5d64eb01beed3f501a202d0a3a97f3f1805c9efd1f420c47c",
+  "company": {
+    "key": "phillips-66-common-stock",
+    "name": "Phillips 66 Common Stock"
+  },
+  "source": {
+    "id": "phillips-66-common-stock-news-import-d9399e0d03a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.phillips66.com/newsroom/bridging-the-digital-divide/",
+    "canonical": "https://www.phillips66.com/newsroom/bridging-the-digital-divide/"
+  },
+  "title": "Bridging the digital divide",
+  "summary": "Teen Innovation Center gives teens access to technology to build skills for their future",
+  "published_at": "2026-06-03T14:47:03+00:00",
+  "first_seen_at": "2026-07-22T08:53:17.580250+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:35.241007+00:00",
+  "paths": {
+    "article": "articles/v1/c1/phillips-66-common-stock/2026/06/cc/cc5aa2dbc15f94d5d64eb01beed3f501a202d0a3a97f3f1805c9efd1f420c47c/article.md",
+    "record": "articles/v1/c1/phillips-66-common-stock/2026/06/cc/cc5aa2dbc15f94d5d64eb01beed3f501a202d0a3a97f3f1805c9efd1f420c47c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4637,
+    "sha256": "sha256:3785ef402ac65f4e5040fe2b4e0f2e370e19ce1b32413ab94cbd8164605bc77f",
+    "normalized_content_hash": "sha256:5f3150dd8b90fa4a9de64409e69e3b00c0bd0b0e2d499e8b2ebb70fca4abb46d"
+  },
+  "provenance": {
+    "source_item_id": "39988eaf-3e65-4d43-bd64-9fa5aa28b948",
+    "external_id": "https://www.phillips66.com/newsroom/bridging-the-digital-divide/"
+  }
+}

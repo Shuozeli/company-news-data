@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "feaec310368db535a1081f4b5238c973fc04e8ee9447aa789b0dfefd784b52fe",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/applications-of-zero-knowledge-proofs-in-enhancing-online-security",
+    "canonical": "https://www.btq.tech/blog/applications-of-zero-knowledge-proofs-in-enhancing-online-security"
+  },
+  "title": "The Diverse Applications of Zero-Knowledge Proofs in Enhancing Online Security",
+  "summary": "In the digital age, privacy and security are increasingly important as all the core processes of our digital lives, banking, social interactions, and business transition online. Zero-knowledge proofs (ZKPs) are a solution to enhance user privacy by allowing one party to prove to another that a statement is true without revealing any information beyond that the statement itself is true. This concept is intriguing in a world where data breaches and sensitive information leaks are always in the new",
+  "published_at": "2024-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:02.666641+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2024/01/fe/feaec310368db535a1081f4b5238c973fc04e8ee9447aa789b0dfefd784b52fe/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2024/01/fe/feaec310368db535a1081f4b5238c973fc04e8ee9447aa789b0dfefd784b52fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9008,
+    "sha256": "sha256:9660cd7009f75e23b708a56b1ce3113d02fcfaea9bb1919871e15841736fce45",
+    "normalized_content_hash": "sha256:f3172b4a057fbf67d7b92c472fdddde038304c15db8055c2dc72d943a518f9a6"
+  },
+  "provenance": {
+    "source_item_id": "c77b2307-471f-488b-9c32-091ba3703e27",
+    "external_id": "https://www.btq.tech/blog/applications-of-zero-knowledge-proofs-in-enhancing-online-security"
+  }
+}

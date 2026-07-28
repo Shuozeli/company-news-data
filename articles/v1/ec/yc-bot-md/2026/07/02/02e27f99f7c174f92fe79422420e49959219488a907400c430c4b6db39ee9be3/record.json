@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "02e27f99f7c174f92fe79422420e49959219488a907400c430c4b6db39ee9be3",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/nkti-bot-md-hospital.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/nkti-bot-md-hospital.html"
+  },
+  "title": "NKTI x Bot MD Hospital",
+  "summary": "The National Kidney and Transplant Institute (NKTI) announced its partnership with Bot MD to launch the first of its kind A.I. clinical assistant in the Philippines. The Bot MD Hospital platform functions as a \"Hospital Super App\" which enables NKTI doctors and nurses to instantly search for all the hospital and clinical information they need within a single chat interface.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.588323+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/02/02e27f99f7c174f92fe79422420e49959219488a907400c430c4b6db39ee9be3/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/02/02e27f99f7c174f92fe79422420e49959219488a907400c430c4b6db39ee9be3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1924,
+    "sha256": "sha256:81a880eddcd1c75c9f7862e2f94fe2f2d6526529dd88bf754764c2b4f9a1314f",
+    "normalized_content_hash": "sha256:5395da74ec00edcb6111b8b783cac74949af9479e37d734b513bf155c0da8e89"
+  },
+  "provenance": {
+    "source_item_id": "d1535b0c-227f-4154-bdc2-05792fd532f5",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/nkti-bot-md-hospital.html"
+  }
+}

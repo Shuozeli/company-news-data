@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "national-healthcare-corporation-common-stock",
+    "name": "National HealthCare Corporation Common Stock"
+  },
+  "record_count": 5,
+  "first_published_at": "2025-09-08T19:35:40+00:00",
+  "last_published_at": "2026-03-02T18:15:31+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    }
+  ]
+}

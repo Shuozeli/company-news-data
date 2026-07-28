@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "545ad6d2d2ef84543240807d21e430d28e39a35d335af21dcc63749a5a4e1037",
+  "company": {
+    "key": "yc-coderhouse",
+    "name": "Coderhouse"
+  },
+  "source": {
+    "id": "yc-coderhouse-news-import-7a925063f664",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coderhouse.com/coderlibrary/jack-dorsey-buzz-chat-agentes-ia",
+    "canonical": "https://www.coderhouse.com/coderlibrary/jack-dorsey-buzz-chat-agentes-ia"
+  },
+  "title": "Buzz, el chat con agentes de IA de Jack Dorsey | Coderhouse",
+  "summary": "Jack Dorsey lanza Buzz, un chat de equipos con agentes de IA que desafía a Slack. Qué lo diferencia y si vale la pena para equipos de la región.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:14:27.351931+00:00",
+  "fetched_at": "2026-07-26T17:47:43.233939+00:00",
+  "last_updated_at": "2026-07-26T17:47:48.347408+00:00",
+  "paths": {
+    "article": "articles/v1/7a/yc-coderhouse/2026/07/54/545ad6d2d2ef84543240807d21e430d28e39a35d335af21dcc63749a5a4e1037/article.md",
+    "record": "articles/v1/7a/yc-coderhouse/2026/07/54/545ad6d2d2ef84543240807d21e430d28e39a35d335af21dcc63749a5a4e1037/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7730,
+    "sha256": "sha256:8925fcb667938b4a3c68d26e3a0b721be996483f77a4e47d94c1ebd59f4f0c52",
+    "normalized_content_hash": "sha256:cda06c95479572b0cf31c962975e1459c28c0e052ffe0af76aa4ae79d59efcf1"
+  },
+  "provenance": {
+    "source_item_id": "a9cddf4b-249e-485b-9c5f-250915a9790e",
+    "external_id": "https://www.coderhouse.com/coderlibrary/jack-dorsey-buzz-chat-agentes-ia"
+  }
+}

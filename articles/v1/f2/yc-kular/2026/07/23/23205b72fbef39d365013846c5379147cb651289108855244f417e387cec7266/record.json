@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23205b72fbef39d365013846c5379147cb651289108855244f417e387cec7266",
+  "company": {
+    "key": "yc-kular",
+    "name": "Kular"
+  },
+  "source": {
+    "id": "yc-kular-news-import-23ee0a11bfdc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kular.ai/articles/pay-per-lead",
+    "canonical": "https://www.kular.ai/articles/pay-per-lead"
+  },
+  "title": "Pay Per Lead: A Smarter, Performance-Based Approach to Lead Generation",
+  "summary": "Traditional models like cost-per-click (CPC) or cost-per-impression (CPM) charge for traffic or visibility, not outcomes. That’s why more marketers are turning to Pay Per Lead (PPL), a performance-driven model that charges only when a qualified lead is delivered. In this guide, we’ll break down how",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:45:42.647365+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:41.342187+00:00",
+  "paths": {
+    "article": "articles/v1/f2/yc-kular/2026/07/23/23205b72fbef39d365013846c5379147cb651289108855244f417e387cec7266/article.md",
+    "record": "articles/v1/f2/yc-kular/2026/07/23/23205b72fbef39d365013846c5379147cb651289108855244f417e387cec7266/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6110,
+    "sha256": "sha256:4fc40ee7b67eabb4ba306115d358c14a785bcf0bed339dd1f6fd55d0fd0b5895",
+    "normalized_content_hash": "sha256:48a2655cd470d416edf22d72a7f3c93bd0788a79ddc78ebd3f31c5ee58e76a45"
+  },
+  "provenance": {
+    "source_item_id": "8e1ef6b8-29dd-4a4d-972b-ca76c3fe81e6",
+    "external_id": "https://www.kular.ai/articles/pay-per-lead"
+  }
+}

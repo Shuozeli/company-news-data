@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6102aac5fb1272365d1bf7252a338e7b60a675f5ec5ebf35a2bdc3c8745c427",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-8892e125c773",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nullstone.io/blog-posts/gitops-launch-week-announcement",
+    "canonical": "https://nullstone.io/blog-posts/gitops-launch-week-announcement"
+  },
+  "title": "GitOps Launch Week Announcement",
+  "summary": "",
+  "published_at": "2024-11-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:17:35.365256+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:33.831855+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2024/11/f6/f6102aac5fb1272365d1bf7252a338e7b60a675f5ec5ebf35a2bdc3c8745c427/article.md",
+    "record": "articles/v1/da/yc-nullstone/2024/11/f6/f6102aac5fb1272365d1bf7252a338e7b60a675f5ec5ebf35a2bdc3c8745c427/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1735,
+    "sha256": "sha256:3beeb303e70703a17fed65afa2db27253856a3e916fee43fa88b94800f6cceae",
+    "normalized_content_hash": "sha256:7d59dbb125d1daaa92d3cd9d40bced310ad292e64c9d3e5fc08b99172e67c45e"
+  },
+  "provenance": {
+    "source_item_id": "13b4147e-b21f-4df4-b24f-705bd9f8aad8",
+    "external_id": "https://nullstone.io/blog-posts/gitops-launch-week-announcement"
+  }
+}

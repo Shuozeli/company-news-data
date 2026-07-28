@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "mcgrath-rentcorp-common-stock",
+    "name": "McGrath RentCorp Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-02-05T21:01:00+00:00",
+  "last_published_at": "2026-06-30T20:01:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    }
+  ]
+}

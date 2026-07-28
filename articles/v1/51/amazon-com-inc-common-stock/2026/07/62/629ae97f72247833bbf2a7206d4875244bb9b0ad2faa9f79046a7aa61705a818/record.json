@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "629ae97f72247833bbf2a7206d4875244bb9b0ad2faa9f79046a7aa61705a818",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/community/amazon-investment-florida-jobs-infrastructure-small-business",
+    "canonical": "https://www.aboutamazon.com/news/community/amazon-investment-florida-jobs-infrastructure-small-business"
+  },
+  "title": "5 ways Amazon is investing in Florida",
+  "summary": "Amazon's investments are boosting the Sunshine State's economy while creating opportunities for Floridians. Florida is home to Amazon fulfillment centers, an Amazon Leo facility, Prime Air drone delivery, and more—with investments that support employees and communities across the state",
+  "published_at": "2026-07-02T16:01:59.662+00:00",
+  "first_seen_at": "2026-07-22T06:15:17.275892+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:07.000849+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/07/62/629ae97f72247833bbf2a7206d4875244bb9b0ad2faa9f79046a7aa61705a818/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/07/62/629ae97f72247833bbf2a7206d4875244bb9b0ad2faa9f79046a7aa61705a818/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10279,
+    "sha256": "sha256:9aab99127a942aae5f7374985e347ecdfcbdd22e3f35de34475b6b7d889e19ef",
+    "normalized_content_hash": "sha256:e5b72f0c935c3fd11ae1b1f761f9b18cf13bb0f76758be0f1eee6d95790ad0f0"
+  },
+  "provenance": {
+    "source_item_id": "42cc4acd-9aea-465e-b3f9-079d4d53cfc5",
+    "external_id": "https://www.aboutamazon.com/news/community/amazon-investment-florida-jobs-infrastructure-small-business"
+  }
+}

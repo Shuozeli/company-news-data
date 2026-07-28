@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f6b167c48705a7ae5ed9dd8e43fa831abede017b50ea0cf3a848895776bc8e5",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/we-migrated-from-planetscale-to-aws-aurora-v2",
+    "canonical": "https://www.flightcontrol.dev/blog/we-migrated-from-planetscale-to-aws-aurora-v2"
+  },
+  "title": "We migrated from PlanetScale to AWS Aurora v2",
+  "summary": "We started on PlanetScale because it was serverless. But they moved away from serverless, so we migrated to AWS Aurora v2",
+  "published_at": "2024-02-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:03.800096+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2024/02/0f/0f6b167c48705a7ae5ed9dd8e43fa831abede017b50ea0cf3a848895776bc8e5/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2024/02/0f/0f6b167c48705a7ae5ed9dd8e43fa831abede017b50ea0cf3a848895776bc8e5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10672,
+    "sha256": "sha256:8c54d7465b6aeb7761077557fe297d68209b9b3225fa40e044dee84c9c107f88",
+    "normalized_content_hash": "sha256:a0b0e51607ef21203acae5ca06ea775c4e6e944ee406652c37e2e4951e7c6cbf"
+  },
+  "provenance": {
+    "source_item_id": "aec6cf4b-2103-4228-ab34-0efbc8155e1c",
+    "external_id": "https://www.flightcontrol.dev/blog/we-migrated-from-planetscale-to-aws-aurora-v2"
+  }
+}

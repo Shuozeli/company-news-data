@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "018fad834b8d54494fa16b7c04685cec84f90fae692409fb97510829f7872e91",
+  "company": {
+    "key": "xcel-brands-inc-common-stock",
+    "name": "Xcel Brands Inc. Common Stock"
+  },
+  "source": {
+    "id": "xcel-brands-inc-common-stock-news-import-2fc797a26bc6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.investing.com/news/company-news/xcel-brands-partners-with-ecostrong-for-cesar-millan-pet-line-93CH-4737813",
+    "canonical": "https://www.investing.com/news/company-news/xcel-brands-partners-with-ecostrong-for-cesar-millan-pet-line-93CH-4737813"
+  },
+  "title": "Xcel Brands partners with EcoStrong for Cesar Millan pet line",
+  "summary": "Xcel Brands partners with EcoStrong for Cesar Millan pet line",
+  "published_at": "2026-06-11T14:49:20+00:00",
+  "first_seen_at": "2026-07-27T07:18:53.920178+00:00",
+  "fetched_at": "2026-07-28T09:00:13.919343+00:00",
+  "last_updated_at": "2026-07-28T09:00:20.777659+00:00",
+  "paths": {
+    "article": "articles/v1/26/xcel-brands-inc-common-stock/2026/06/01/018fad834b8d54494fa16b7c04685cec84f90fae692409fb97510829f7872e91/article.md",
+    "record": "articles/v1/26/xcel-brands-inc-common-stock/2026/06/01/018fad834b8d54494fa16b7c04685cec84f90fae692409fb97510829f7872e91/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3857,
+    "sha256": "sha256:37a668f3f7ef60a433b0b65f44198c1897a3325b8bbbede1e642ec7b8ad95ab1",
+    "normalized_content_hash": "sha256:22ab62bc4e15dc178e2fc971a68d92add2676ba3c4e7696fd9328c34c8e68740"
+  },
+  "provenance": {
+    "source_item_id": "16f04d48-b1c4-4fb3-95a0-6ff744d229f5",
+    "external_id": "https://www.investing.com/news/company-news/xcel-brands-partners-with-ecostrong-for-cesar-millan-pet-line-93CH-4737813"
+  }
+}

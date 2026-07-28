@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "670f0a19dab5d21bf480b7963855148d08d68c201aac94d427dc1fadf953a84a",
+  "company": {
+    "key": "comscore-inc-common-stock",
+    "name": "comScore Inc. Common Stock"
+  },
+  "source": {
+    "id": "comscore-inc-common-stock-news-import-22037c247a23",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.comscore.com/ger/Insights/Blog/Ad-Fraud-Die-neueste-digitale-Herausforderung",
+    "canonical": "https://www.comscore.com/ger/Insights/Blog/Ad-Fraud-Die-neueste-digitale-Herausforderung"
+  },
+  "title": "Ad Fraud: Die neueste digitale Herausforderung",
+  "summary": "Vor einigen Jahren haben wir uns als Branche gefragt, ob eine nicht-sichtbare AdImpression als valide Impression bewertet werden sollte. Nach zahllosen Diskussionen, Analysen und Studien sind wir als Branche gemeinsam zu dem Schluss gekommen, dass die Antwort auf diese Frage eindeutig „Nein“ lautet....",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T00:27:59.480016+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:21.394662+00:00",
+  "paths": {
+    "article": "articles/v1/d6/comscore-inc-common-stock/2026/07/67/670f0a19dab5d21bf480b7963855148d08d68c201aac94d427dc1fadf953a84a/article.md",
+    "record": "articles/v1/d6/comscore-inc-common-stock/2026/07/67/670f0a19dab5d21bf480b7963855148d08d68c201aac94d427dc1fadf953a84a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7990,
+    "sha256": "sha256:d660edba3b5902a206f0cb0937ec161ed0c00568fef811d7c1ca317025bef34b",
+    "normalized_content_hash": "sha256:073c224e65477802f3ddc53b32ec463aa416edafef1bcd4489ee252418692153"
+  },
+  "provenance": {
+    "source_item_id": "febcc139-fded-458c-8b9f-391193b35526",
+    "external_id": "https://www.comscore.com/ger/Insights/Blog/Ad-Fraud-Die-neueste-digitale-Herausforderung"
+  }
+}

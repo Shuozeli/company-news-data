@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a11a3097c56893aa526194399f84c6a6cf5ca964e05b189d54a9f12ddca612de",
+  "company": {
+    "key": "carnival-corporation-common-stock",
+    "name": "Carnival Corporation Common Stock"
+  },
+  "source": {
+    "id": "carnival-corporation-common-stock-rss-ffa6724d6ae9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.carnivalcorp.com/inthenews/carnival-corp-reports-record-demand-fleet-upgrades/",
+    "canonical": "https://www.carnivalcorp.com/inthenews/carnival-corp-reports-record-demand-fleet-upgrades/"
+  },
+  "title": "Carnival Corp. Reports Record Demand, Fleet Upgrades",
+  "summary": "",
+  "published_at": "2026-06-23T16:26:55+00:00",
+  "first_seen_at": "2026-07-27T00:26:15.782947+00:00",
+  "fetched_at": "2026-07-28T21:31:56.757642+00:00",
+  "last_updated_at": "2026-07-28T21:31:56.862277+00:00",
+  "paths": {
+    "article": "articles/v1/a2/carnival-corporation-common-stock/2026/06/a1/a11a3097c56893aa526194399f84c6a6cf5ca964e05b189d54a9f12ddca612de/article.md",
+    "record": "articles/v1/a2/carnival-corporation-common-stock/2026/06/a1/a11a3097c56893aa526194399f84c6a6cf5ca964e05b189d54a9f12ddca612de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 663,
+    "sha256": "sha256:59ad908dfc36b6f80449bef26a2067c98943a95be1608d023a40d34169cb3033",
+    "normalized_content_hash": "sha256:81df4641d86536b8976f8d470741e0d0d40c21f0de9770cdddfe1fa8089924cc"
+  },
+  "provenance": {
+    "source_item_id": "fc58fc8e-8273-4888-9c59-ebf0a6de18af",
+    "external_id": "https://www.carnivalcorp.com/?post_type=inthenews&p=6692"
+  }
+}

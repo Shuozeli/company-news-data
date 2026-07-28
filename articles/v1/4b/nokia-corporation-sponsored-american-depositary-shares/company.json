@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nokia-corporation-sponsored-american-depositary-shares",
+    "name": "Nokia Corporation Sponsored American Depositary Shares"
+  },
+  "record_count": 40,
+  "first_published_at": "2020-02-07T12:02:16+00:00",
+  "last_published_at": "2026-07-27T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2020-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 12
+    }
+  ]
+}

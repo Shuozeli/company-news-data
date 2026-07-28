@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e8ebd1e31f0276d314d5ce191ddf654956cf3810748182f032614eee46b92f4",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-8eddc0d2ffc8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/towards-sovereignty-crypto-self-custody",
+    "canonical": "https://www.cointracker.io/blog/towards-sovereignty-crypto-self-custody"
+  },
+  "title": "Crypto self-custody: How it works and top wallet platforms",
+  "summary": "Want full control over your crypto? Learn what crypto self-custody is and why it matters for security, privacy, and financial independence.",
+  "published_at": "2026-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:51:12.353224+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:22.233734+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2026/04/1e/1e8ebd1e31f0276d314d5ce191ddf654956cf3810748182f032614eee46b92f4/article.md",
+    "record": "articles/v1/57/yc-cointracker/2026/04/1e/1e8ebd1e31f0276d314d5ce191ddf654956cf3810748182f032614eee46b92f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15830,
+    "sha256": "sha256:8b76900b53bcec981e85eeb6987a2161e8a76ad9203b1525ee49aeb30818b4b5",
+    "normalized_content_hash": "sha256:7f020461a97862c9780c809dafb15289e99abbb58a9757d7f3e4dbc28b617687"
+  },
+  "provenance": {
+    "source_item_id": "ffff26b5-ba4b-457c-b4a0-eef2eb87850b",
+    "external_id": "https://www.cointracker.io/blog/towards-sovereignty-crypto-self-custody"
+  }
+}

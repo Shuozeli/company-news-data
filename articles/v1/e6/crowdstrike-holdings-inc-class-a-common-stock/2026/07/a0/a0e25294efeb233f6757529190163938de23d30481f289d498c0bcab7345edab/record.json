@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a0e25294efeb233f6757529190163938de23d30481f289d498c0bcab7345edab",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/"
+  },
+  "title": "CrowdStrike Innovates to Modernize National Security and Protect Critical Systems",
+  "summary": "New innovations debuted at Fal.Con Gov enable public sector defenders to understand adversaries, mobilize security, and secure the AI.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.438296+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/a0/a0e25294efeb233f6757529190163938de23d30481f289d498c0bcab7345edab/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/a0/a0e25294efeb233f6757529190163938de23d30481f289d498c0bcab7345edab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10140,
+    "sha256": "sha256:e795415c8add73496d56d39147015daaa8e481a783885336f074421b8e6e0cfb",
+    "normalized_content_hash": "sha256:06374135c0089ea4c553787cb9993d22a179af9212b220f7f37ce88042a00457"
+  },
+  "provenance": {
+    "source_item_id": "a64f4c86-49f6-43b1-9a54-9d5aeb558978",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/"
+  }
+}

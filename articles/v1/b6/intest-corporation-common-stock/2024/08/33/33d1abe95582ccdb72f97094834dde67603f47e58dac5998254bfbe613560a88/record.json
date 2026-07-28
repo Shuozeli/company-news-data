@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "33d1abe95582ccdb72f97094834dde67603f47e58dac5998254bfbe613560a88",
+  "company": {
+    "key": "intest-corporation-common-stock",
+    "name": "inTest Corporation Common Stock"
+  },
+  "source": {
+    "id": "intest-corporation-common-stock-rss-9a1f0caa9c9f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.intestthermal.com/blog/how-pid-control-can-revolutionize-benchtop-thermal-testing",
+    "canonical": "https://www.intestthermal.com/blog/how-pid-control-can-revolutionize-benchtop-thermal-testing"
+  },
+  "title": "How PID control can revolutionize benchtop thermal testing",
+  "summary": "Introducing the RapidTemp™ BT28 ThermoStream®, featuring advanced DUT (Device Under Test) control powered by PID technology.",
+  "published_at": "2024-08-09T11:26:28+00:00",
+  "first_seen_at": "2026-07-20T23:18:52.108527+00:00",
+  "fetched_at": "2026-07-28T22:25:56.029782+00:00",
+  "last_updated_at": "2026-07-28T22:26:16.673959+00:00",
+  "paths": {
+    "article": "articles/v1/b6/intest-corporation-common-stock/2024/08/33/33d1abe95582ccdb72f97094834dde67603f47e58dac5998254bfbe613560a88/article.md",
+    "record": "articles/v1/b6/intest-corporation-common-stock/2024/08/33/33d1abe95582ccdb72f97094834dde67603f47e58dac5998254bfbe613560a88/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1238,
+    "sha256": "sha256:016591ae1e0186f5e561dbada59b20a8a0fd06d83a0498b25058a1adfab8bda1",
+    "normalized_content_hash": "sha256:838479b11c649f5e036dfb1e25e7f5677322414fe9698ac5e3593e3b95cd0e86"
+  },
+  "provenance": {
+    "source_item_id": "291b205a-edc9-42ad-a00a-3fa31b56f515",
+    "external_id": "https://www.intestthermal.com/blog/how-pid-control-can-revolutionize-benchtop-thermal-testing"
+  }
+}

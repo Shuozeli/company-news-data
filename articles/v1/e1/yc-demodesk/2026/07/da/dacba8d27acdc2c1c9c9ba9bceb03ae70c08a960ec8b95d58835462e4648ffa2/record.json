@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dacba8d27acdc2c1c9c9ba9bceb03ae70c08a960ec8b95d58835462e4648ffa2",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-request-alternative-meeting-summary-templates-in-demodesk",
+    "canonical": "https://demodesk.com/blog/how-to-request-alternative-meeting-summary-templates-in-demodesk"
+  },
+  "title": "How to request alternative meeting summary templates in Demodesk",
+  "summary": "Learn how to request Executive Summary, MEDDIC, and other alternative AI meeting summary templates in Demodesk beyond the default SPICED format.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.604586+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/da/dacba8d27acdc2c1c9c9ba9bceb03ae70c08a960ec8b95d58835462e4648ffa2/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/da/dacba8d27acdc2c1c9c9ba9bceb03ae70c08a960ec8b95d58835462e4648ffa2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4596,
+    "sha256": "sha256:070e815605a307d00792e8487859cd83a3f7e6bdc583530206cdccfcf9817189",
+    "normalized_content_hash": "sha256:3cacaefafdbbb5cccac6b3cd9025d4c8d8c71fe61dece69e2f05198fcce2822b"
+  },
+  "provenance": {
+    "source_item_id": "fda4a3b1-5684-41c8-b40a-16c638b605df",
+    "external_id": "https://demodesk.com/blog/how-to-request-alternative-meeting-summary-templates-in-demodesk"
+  }
+}

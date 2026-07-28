@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7dc75ab08a54551ce08b73cc0fd13442124414b882b9505bec98b4475f656c3d",
+  "company": {
+    "key": "definitive-healthcare-corp-class-a-common-stock",
+    "name": "Definitive Healthcare Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "definitive-healthcare-corp-class-a-common-stock-news-import-ac685c0fe722",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.definitivehc.com/resources/healthcare-insights/top-outpatient-prescription-medications",
+    "canonical": "https://www.definitivehc.com/resources/healthcare-insights/top-outpatient-prescription-medications"
+  },
+  "title": "Top 20 outpatient prescription medications",
+  "summary": "Looking for prescription drug trends? Discover a list of the most prescribed medications in the U.S. based on 2026 prescription claims data.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:02:19.730773+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.513053+00:00",
+  "paths": {
+    "article": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/7d/7dc75ab08a54551ce08b73cc0fd13442124414b882b9505bec98b4475f656c3d/article.md",
+    "record": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/07/7d/7dc75ab08a54551ce08b73cc0fd13442124414b882b9505bec98b4475f656c3d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3141,
+    "sha256": "sha256:65d5159b46361894c8d38f132580d1fc5bcaeec94e466508b23c3745bbaa8a44",
+    "normalized_content_hash": "sha256:a2c20e4269faefcc35f81d1d77fca0e7dc45d223a4b09fa11ef9cd2da2634169"
+  },
+  "provenance": {
+    "source_item_id": "6a359fbe-2ee9-4b21-bef7-28b27502cfed",
+    "external_id": "https://www.definitivehc.com/resources/healthcare-insights/top-outpatient-prescription-medications"
+  }
+}

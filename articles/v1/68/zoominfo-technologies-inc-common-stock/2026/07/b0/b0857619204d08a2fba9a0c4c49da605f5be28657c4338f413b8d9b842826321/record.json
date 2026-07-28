@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b0857619204d08a2fba9a0c4c49da605f5be28657c4338f413b8d9b842826321",
+  "company": {
+    "key": "zoominfo-technologies-inc-common-stock",
+    "name": "ZoomInfo Technologies Inc Common Stock"
+  },
+  "source": {
+    "id": "zoominfo-technologies-inc-common-stock-news-import-8d5d92e532e7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.zoominfo.com/gcp-dataflow-advanced-topics-part-ii",
+    "canonical": "https://engineering.zoominfo.com/gcp-dataflow-advanced-topics-part-ii"
+  },
+  "title": "GCP DataFlow – Advanced Topics: Part II",
+  "summary": "Using Testing Mocking framework for dataflow tests: If we will look at testing dataflows with a Mocking framework like Mockito in a conventional way like we do for standard java services we will encounter problems because of the way services are initialized in dataflow.If we will look at lifeCycle of…",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T06:38:16.632877+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.604187+00:00",
+  "paths": {
+    "article": "articles/v1/68/zoominfo-technologies-inc-common-stock/2026/07/b0/b0857619204d08a2fba9a0c4c49da605f5be28657c4338f413b8d9b842826321/article.md",
+    "record": "articles/v1/68/zoominfo-technologies-inc-common-stock/2026/07/b0/b0857619204d08a2fba9a0c4c49da605f5be28657c4338f413b8d9b842826321/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4090,
+    "sha256": "sha256:ed73b86d8db2261513b7350db65b4cf57fdd90a198049729f2150b29bb6818d8",
+    "normalized_content_hash": "sha256:04d07786cf75eac4462ea41ae3eb5b3196a851bfd2fdb7778b5b3859a97d3d01"
+  },
+  "provenance": {
+    "source_item_id": "b084784d-1142-45b1-9f13-fc8b311b6d9e",
+    "external_id": "https://engineering.zoominfo.com/gcp-dataflow-advanced-topics-part-ii"
+  }
+}

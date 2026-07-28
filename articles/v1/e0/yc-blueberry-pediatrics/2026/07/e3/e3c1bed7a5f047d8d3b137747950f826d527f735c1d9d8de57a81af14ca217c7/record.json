@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e3c1bed7a5f047d8d3b137747950f826d527f735c1d9d8de57a81af14ca217c7",
+  "company": {
+    "key": "yc-blueberry-pediatrics",
+    "name": "Blueberry Pediatrics"
+  },
+  "source": {
+    "id": "yc-blueberry-pediatrics-news-import-cf59059ea074",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blueberrypediatrics.com/health-tips/dream-feeding-newborns-a-pediatricians-guide",
+    "canonical": "https://blueberrypediatrics.com/health-tips/dream-feeding-newborns-a-pediatricians-guide"
+  },
+  "title": "Dream Feeding: A Pediatrician's Guide for Newborns (How, When, and When to Stop)",
+  "summary": "What dream feeding is, how and when to do it, whether it works, and when to stop. A pediatrician's honest guide. Message a Blueberry pediatrician.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:09:54.085793+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:42:05.679303+00:00",
+  "paths": {
+    "article": "articles/v1/e0/yc-blueberry-pediatrics/2026/07/e3/e3c1bed7a5f047d8d3b137747950f826d527f735c1d9d8de57a81af14ca217c7/article.md",
+    "record": "articles/v1/e0/yc-blueberry-pediatrics/2026/07/e3/e3c1bed7a5f047d8d3b137747950f826d527f735c1d9d8de57a81af14ca217c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14889,
+    "sha256": "sha256:0b1cb195f94439c186d7a0eb74ab72e9cf91482a567a710ce79dcf0f3eb8c01b",
+    "normalized_content_hash": "sha256:5f81f29fafaf716179caa63f8a64e73711f5b1eb173a357bd34618286f6a04fb"
+  },
+  "provenance": {
+    "source_item_id": "5d10946e-c754-49c7-bb88-2ca1215bb8e2",
+    "external_id": "https://blueberrypediatrics.com/health-tips/dream-feeding-newborns-a-pediatricians-guide"
+  }
+}

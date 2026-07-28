@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12aef943f6f8933773b91e88d7f8f1e89c16856cab6565e49a4c3540dc8008a2",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-e3018e454ae6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/design-hub/blog/pumpkin-qspice-a-fall-classic-for-circuit-designers",
+    "canonical": "https://www.qorvo.com/design-hub/blog/pumpkin-qspice-a-fall-classic-for-circuit-designers"
+  },
+  "title": "Pumpkin QSPICE — A Fall Classic for Circuit Designers",
+  "summary": "Engineers, meet Pumpkin QSPICE — a fall refresh on circuit simulation. With faster convergence, expanded libraries, datasheet-to-model magic and a smooth new UI, it’s a seasonal upgrade worth savoring. Read Brent’s Musing to explore more",
+  "published_at": "2025-10-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:14:16.870814+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:59.026178+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2025/10/12/12aef943f6f8933773b91e88d7f8f1e89c16856cab6565e49a4c3540dc8008a2/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2025/10/12/12aef943f6f8933773b91e88d7f8f1e89c16856cab6565e49a4c3540dc8008a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3400,
+    "sha256": "sha256:87de36f84c8ecb570501460f50b817030ec472589be637acc661fbc15c8b71f6",
+    "normalized_content_hash": "sha256:5be6c700dc5f309924e6a34183617170942342e055cc410820868da15b618f58"
+  },
+  "provenance": {
+    "source_item_id": "7286af20-468a-4572-86cd-ff845651abdb",
+    "external_id": "https://www.qorvo.com/design-hub/blog/pumpkin-qspice-a-fall-classic-for-circuit-designers"
+  }
+}

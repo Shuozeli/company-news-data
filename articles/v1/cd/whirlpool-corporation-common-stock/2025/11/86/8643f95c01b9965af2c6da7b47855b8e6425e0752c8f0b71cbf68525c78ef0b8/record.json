@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8643f95c01b9965af2c6da7b47855b8e6425e0752c8f0b71cbf68525c78ef0b8",
+  "company": {
+    "key": "whirlpool-corporation-common-stock",
+    "name": "Whirlpool Corporation Common Stock"
+  },
+  "source": {
+    "id": "whirlpool-corporation-common-stock-news-import-4a571b92eb74",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.whirlpoolcorp.com/latest-news/whirlpool-corporation-supports-2025-carter-work-project-through-.html",
+    "canonical": "https://www.whirlpoolcorp.com/latest-news/whirlpool-corporation-supports-2025-carter-work-project-through-.html"
+  },
+  "title": "Whirlpool Corporation Supports 2025 Carter Work Project Through BuildBetter with Whirlpool Program",
+  "summary": "",
+  "published_at": "2025-11-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:13:57.783269+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:45.344679+00:00",
+  "paths": {
+    "article": "articles/v1/cd/whirlpool-corporation-common-stock/2025/11/86/8643f95c01b9965af2c6da7b47855b8e6425e0752c8f0b71cbf68525c78ef0b8/article.md",
+    "record": "articles/v1/cd/whirlpool-corporation-common-stock/2025/11/86/8643f95c01b9965af2c6da7b47855b8e6425e0752c8f0b71cbf68525c78ef0b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4661,
+    "sha256": "sha256:187f15eacd06fa7283ced62e039eff537db08f6b66db3fdd47066313d86c6e88",
+    "normalized_content_hash": "sha256:bf613c9558fb1145ff05dbdb01597d1be8fe76098cc7460217b3e63200345690"
+  },
+  "provenance": {
+    "source_item_id": "0c5c8df4-30b3-43c8-be6b-3b01893e12d1",
+    "external_id": "https://www.whirlpoolcorp.com/latest-news/whirlpool-corporation-supports-2025-carter-work-project-through-.html"
+  }
+}

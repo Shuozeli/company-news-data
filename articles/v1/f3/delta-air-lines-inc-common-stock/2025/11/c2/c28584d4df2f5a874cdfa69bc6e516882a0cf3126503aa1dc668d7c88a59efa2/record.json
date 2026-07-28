@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c28584d4df2f5a874cdfa69bc6e516882a0cf3126503aa1dc668d7c88a59efa2",
+  "company": {
+    "key": "delta-air-lines-inc-common-stock",
+    "name": "Delta Air Lines Inc. Common Stock"
+  },
+  "source": {
+    "id": "delta-air-lines-inc-common-stock-news-import-73825a016430",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.delta.com/15-years-strong-delta-tops-business-travel-news-survey-during-historic-centennial-year-JP",
+    "canonical": "https://news.delta.com/15-years-strong-delta-tops-business-travel-news-survey-during-historic-centennial-year-JP"
+  },
+  "title": "デルタ航空、ビジネストラベルニュース誌の年次調査で15年連続でトップに",
+  "summary": "|",
+  "published_at": "2025-11-19T01:48:13+00:00",
+  "first_seen_at": "2026-07-25T01:35:17.476631+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:33.277088+00:00",
+  "paths": {
+    "article": "articles/v1/f3/delta-air-lines-inc-common-stock/2025/11/c2/c28584d4df2f5a874cdfa69bc6e516882a0cf3126503aa1dc668d7c88a59efa2/article.md",
+    "record": "articles/v1/f3/delta-air-lines-inc-common-stock/2025/11/c2/c28584d4df2f5a874cdfa69bc6e516882a0cf3126503aa1dc668d7c88a59efa2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3270,
+    "sha256": "sha256:e280e5426383e5fed61e4e3ae56299b571b3e9c5ab20fff24f54f29cab46120b",
+    "normalized_content_hash": "sha256:d776ac1f2320ec163626d8da46611cfa6d31aa2fb4f5e47af44b808d2c7ed47d"
+  },
+  "provenance": {
+    "source_item_id": "11fcba55-1fab-4d0b-9bc5-b0b3c99a3695",
+    "external_id": "https://news.delta.com/15-years-strong-delta-tops-business-travel-news-survey-during-historic-centennial-year-JP"
+  }
+}

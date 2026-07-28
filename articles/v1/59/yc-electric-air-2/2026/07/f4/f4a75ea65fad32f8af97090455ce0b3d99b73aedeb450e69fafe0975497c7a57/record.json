@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f4a75ea65fad32f8af97090455ce0b3d99b73aedeb450e69fafe0975497c7a57",
+  "company": {
+    "key": "yc-electric-air-2",
+    "name": "Electric Air"
+  },
+  "source": {
+    "id": "yc-electric-air-2-news-import-b69578f00d30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.electricair.io/posts/push-button---get-heat-pump",
+    "canonical": "https://electricair.io/posts/push-button---get-heat-pump"
+  },
+  "title": "Push Button - Get Heat Pump",
+  "summary": "This is what Jeremy and I tell each other when we're figuring out what direction to push our product development. Electric Air wants to make upgrading your home to a heat pump super simple - and based on our reviews it's working so far. But behind the curtain there's actually a lot of complexity to doing this right.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T02:28:44.827958+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:24.444284+00:00",
+  "paths": {
+    "article": "articles/v1/59/yc-electric-air-2/2026/07/f4/f4a75ea65fad32f8af97090455ce0b3d99b73aedeb450e69fafe0975497c7a57/article.md",
+    "record": "articles/v1/59/yc-electric-air-2/2026/07/f4/f4a75ea65fad32f8af97090455ce0b3d99b73aedeb450e69fafe0975497c7a57/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4262,
+    "sha256": "sha256:5976c8676e128375c2c3e7243e26c4e245db253490c9fe4c1bf1c85f32c7002b",
+    "normalized_content_hash": "sha256:13e2b7dd328dd3d4cea49336ec33052fbdddc7a3cc973ac61df60630e818cc67"
+  },
+  "provenance": {
+    "source_item_id": "e3c82a24-1407-454a-aefa-9076defcdcb6",
+    "external_id": "https://electricair.io/posts/push-button---get-heat-pump"
+  }
+}

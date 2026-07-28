@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7c2e6d31f5227f83670f020e7a17cd80a2f1dc158b2439b200bbd337194a2c1",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/hpe_challenge_2026_003.html",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/hpe_challenge_2026_003.html"
+  },
+  "title": "Getting Kids into Karts--The Fun & Affordable GR Kart",
+  "summary": "Set to launch in autumn 2026, the GR Kart seeks to make karting both fun and affordable. We showcase a kart that was designed to complement rather than compete with existing machines. #TOYOTATIMES",
+  "published_at": "2026-07-15T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:21:55.508304+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/c7/c7c2e6d31f5227f83670f020e7a17cd80a2f1dc158b2439b200bbd337194a2c1/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/c7/c7c2e6d31f5227f83670f020e7a17cd80a2f1dc158b2439b200bbd337194a2c1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13334,
+    "sha256": "sha256:53164d20b0bcd167e37c606e120a2bc49f8c55c5c2326361f1f194f0e5a0eae9",
+    "normalized_content_hash": "sha256:25900bddb71972089d6e2cfd04409562dd5866c498d32cc6f3fe07814f83794f"
+  },
+  "provenance": {
+    "source_item_id": "2a473067-dafa-421b-9bed-aea6e4cf565a",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/hpe_challenge_2026_003.html"
+  }
+}

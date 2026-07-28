@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e73fc8cab99ddd579753984a03fe96eaa04a0b527e2a1c3a1a49748c5ba3db6",
+  "company": {
+    "key": "yc-capitol-ai",
+    "name": "Capitol AI"
+  },
+  "source": {
+    "id": "yc-capitol-ai-news-import-f6452f568795",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.capitol.ai/blog/why-ai%E2%80%99s-future-depends-on-design-not-just-models",
+    "canonical": "https://www.capitol.ai/blog/why-ai%E2%80%99s-future-depends-on-design-not-just-models"
+  },
+  "title": "Why AI’s Future Depends on Design, Not Just Models",
+  "summary": "Capitol AI is an intuitive engine for creating decision-quality intelligence from your data.",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T04:42:41.632332+00:00",
+  "fetched_at": "2026-07-28T11:13:23.646323+00:00",
+  "last_updated_at": "2026-07-28T11:13:25.917540+00:00",
+  "paths": {
+    "article": "articles/v1/e6/yc-capitol-ai/2026/05/2e/2e73fc8cab99ddd579753984a03fe96eaa04a0b527e2a1c3a1a49748c5ba3db6/article.md",
+    "record": "articles/v1/e6/yc-capitol-ai/2026/05/2e/2e73fc8cab99ddd579753984a03fe96eaa04a0b527e2a1c3a1a49748c5ba3db6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7067,
+    "sha256": "sha256:ee7636558580d4dd47cc15bfde9aa11ba6134544106e37111c29da322762a224",
+    "normalized_content_hash": "sha256:07496cd4cdcedcfe438f2edb2b9387ee633438591e04f3764a5211e128fa84ac"
+  },
+  "provenance": {
+    "source_item_id": "b486a315-3000-4867-8654-1bbcbed41b2c",
+    "external_id": "https://www.capitol.ai/blog/why-ai%E2%80%99s-future-depends-on-design-not-just-models"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d5b30a2337e0639dfc23eddde3420f404c78250e49dc5ced6ca50a58cf4eb371",
+  "company": {
+    "key": "nokia-corporation-sponsored-american-depositary-shares",
+    "name": "Nokia Corporation Sponsored American Depositary Shares"
+  },
+  "source": {
+    "id": "nokia-corporation-sponsored-american-depositary-shares-news-import-bb650893ccf7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nokia.com/blog/the-invisible-pulse-connecting-the-world-where-failure-is-not-an-option/",
+    "canonical": "https://www.nokia.com/blog/the-invisible-pulse-connecting-the-world-where-failure-is-not-an-option/"
+  },
+  "title": "The Invisible Pulse: Connecting the world where failure is not an option",
+  "summary": "Learn how Nokia supplies the mission-critical networking behind the world’s most essential systems - always on, always resilient, always there.",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:04:49.665774+00:00",
+  "fetched_at": "2026-07-27T20:24:08.774797+00:00",
+  "last_updated_at": "2026-07-27T20:24:15.457712+00:00",
+  "paths": {
+    "article": "articles/v1/4b/nokia-corporation-sponsored-american-depositary-shares/2026/06/d5/d5b30a2337e0639dfc23eddde3420f404c78250e49dc5ced6ca50a58cf4eb371/article.md",
+    "record": "articles/v1/4b/nokia-corporation-sponsored-american-depositary-shares/2026/06/d5/d5b30a2337e0639dfc23eddde3420f404c78250e49dc5ced6ca50a58cf4eb371/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3540,
+    "sha256": "sha256:b2e6e181793c129dd0884ba013784971ce90e2ab2c6f9d7cb57f60511a897dab",
+    "normalized_content_hash": "sha256:3ce0d97a1b9f56c7aa4eb40a149e35f6b1f46583b20d5bd51a198d52a366afe3"
+  },
+  "provenance": {
+    "source_item_id": "0becb807-97fc-408c-b75a-865e1d65132a",
+    "external_id": "https://www.nokia.com/blog/the-invisible-pulse-connecting-the-world-where-failure-is-not-an-option/"
+  }
+}

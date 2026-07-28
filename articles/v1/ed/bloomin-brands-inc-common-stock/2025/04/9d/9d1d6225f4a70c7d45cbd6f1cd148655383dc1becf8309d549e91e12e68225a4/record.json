@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d1d6225f4a70c7d45cbd6f1cd148655383dc1becf8309d549e91e12e68225a4",
+  "company": {
+    "key": "bloomin-brands-inc-common-stock",
+    "name": "Bloomin' Brands Inc. Common Stock"
+  },
+  "source": {
+    "id": "bloomin-brands-inc-common-stock-news-import-7368c80ac451",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bloominbrands.com/newsroom/news-releases/news-release/outback-steakhouse-launches-hot-wing-roo-lette-can-you-handle-the-heat",
+    "canonical": "https://www.bloominbrands.com/newsroom/news-releases/news-release/outback-steakhouse-launches-hot-wing-roo-lette-can-you-handle-the-heat"
+  },
+  "title": "Outback Steakhouse Launches Hot Wing Roo-lette – Can You Handle the Heat?",
+  "summary": "",
+  "published_at": "2025-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:48:00.320591+00:00",
+  "fetched_at": "2026-07-27T16:42:21.600685+00:00",
+  "last_updated_at": "2026-07-27T16:42:30.133315+00:00",
+  "paths": {
+    "article": "articles/v1/ed/bloomin-brands-inc-common-stock/2025/04/9d/9d1d6225f4a70c7d45cbd6f1cd148655383dc1becf8309d549e91e12e68225a4/article.md",
+    "record": "articles/v1/ed/bloomin-brands-inc-common-stock/2025/04/9d/9d1d6225f4a70c7d45cbd6f1cd148655383dc1becf8309d549e91e12e68225a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3066,
+    "sha256": "sha256:c8e67b55e1081d864019c0b975b7653258437922ad0ebeb5a7fb010a6ae766fd",
+    "normalized_content_hash": "sha256:9496f36fbf9996a1770be74b94174bac8f302bd7d15d9d77081835442818905b"
+  },
+  "provenance": {
+    "source_item_id": "e176d422-00c7-47dc-bbee-f2a23e820c8e",
+    "external_id": "https://www.bloominbrands.com/newsroom/news-releases/news-release/outback-steakhouse-launches-hot-wing-roo-lette-can-you-handle-the-heat"
+  }
+}

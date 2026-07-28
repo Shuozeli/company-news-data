@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "743db05cfb7c52d53ba4e0a4fb1efa784e0a82617f8b66d1be82c7b15f50f18c",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/home-ownership",
+    "canonical": "https://www.wafdbank.com/articles/home-ownership"
+  },
+  "title": "Home Ownership Tips | WaFd Bank",
+  "summary": "Learn about the latest home ownership tips from WaFd Bank including tips for first time home buyers, if you should buy that fixer upper, and more.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T23:37:32.572003+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:42:03.677590+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/74/743db05cfb7c52d53ba4e0a4fb1efa784e0a82617f8b66d1be82c7b15f50f18c/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/74/743db05cfb7c52d53ba4e0a4fb1efa784e0a82617f8b66d1be82c7b15f50f18c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1398,
+    "sha256": "sha256:a5469767c5057810785a2164070deeec18980f478101f8f07a5dea68a00d8895",
+    "normalized_content_hash": "sha256:d1191dec2d6fb09c87d91647d14d198a072e95898769ba6e9580fe90ec80fc48"
+  },
+  "provenance": {
+    "source_item_id": "65b7e6fe-3656-44a0-9368-2d379d3d2b83",
+    "external_id": "https://www.wafdbank.com/articles/home-ownership"
+  }
+}

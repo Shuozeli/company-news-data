@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d515d926e4bd0d210ff93cf041b8515e1acad7cc9d49fedd998c1897fc6edb0d",
+  "company": {
+    "key": "wex-inc-common-stock",
+    "name": "WEX Inc. common stock"
+  },
+  "source": {
+    "id": "wex-inc-common-stock-news-import-e9a8fcb661d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wexinc.com/resources/blog/inside-wex/",
+    "canonical": "https://www.wexinc.com/resources/blog/inside-wex/"
+  },
+  "title": "Inside WEX",
+  "summary": "Learn about the culture of WEX and explore fintech topics including fleet card payments, benefits administration, and virtual payments technology.",
+  "published_at": "2023-11-01T18:02:47+00:00",
+  "first_seen_at": "2026-07-22T19:44:44.193542+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:11.063447+00:00",
+  "paths": {
+    "article": "articles/v1/a7/wex-inc-common-stock/2023/11/d5/d515d926e4bd0d210ff93cf041b8515e1acad7cc9d49fedd998c1897fc6edb0d/article.md",
+    "record": "articles/v1/a7/wex-inc-common-stock/2023/11/d5/d515d926e4bd0d210ff93cf041b8515e1acad7cc9d49fedd998c1897fc6edb0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1321,
+    "sha256": "sha256:f7159f5504bd5e027d125acdcf88e09934bba33001551412269e39cb4f4fdc8d",
+    "normalized_content_hash": "sha256:6055b4cc5e8ea8d7a90f0113b515a3173079b3d16e6fb50b5251cc38c1c6eff5"
+  },
+  "provenance": {
+    "source_item_id": "3b21a504-39ed-4f57-a4a1-764791368e91",
+    "external_id": "https://www.wexinc.com/resources/blog/inside-wex/"
+  }
+}

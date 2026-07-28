@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b89d078ced2eaff63205531cda7c59d774fee8828c6f3449147a9d4f734cceb1",
+  "company": {
+    "key": "yc-finvest",
+    "name": "Finvest"
+  },
+  "source": {
+    "id": "yc-finvest-news-import-dca26008b37d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.getfinvest.com/blog/roth-ira/",
+    "canonical": "https://www.getfinvest.com/blog/roth-ira/"
+  },
+  "title": "Roth IRA mistakes usually hide in the fine print",
+  "summary": "When to use a Roth IRA, what can go wrong, and how to avoid costly mistakes with contributions, conversions, and rollovers.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T02:24:45.885818+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:09.628998+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-finvest/2026/07/b8/b89d078ced2eaff63205531cda7c59d774fee8828c6f3449147a9d4f734cceb1/article.md",
+    "record": "articles/v1/0e/yc-finvest/2026/07/b8/b89d078ced2eaff63205531cda7c59d774fee8828c6f3449147a9d4f734cceb1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6793,
+    "sha256": "sha256:67b4451f0775be7a26751316cfd054482e9a89aecf39d5867f637606387d49c3",
+    "normalized_content_hash": "sha256:082abb4639b1f1ec2f2a39902d609f6f9bf5224d20eca4bef7ed684602ef889e"
+  },
+  "provenance": {
+    "source_item_id": "6cd186a3-ef5f-402c-82cb-a0a357d5722a",
+    "external_id": "https://www.getfinvest.com/blog/roth-ira/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "429f92efe363e493ac22a484db690f9e9ab0fb77814502b5d7e2e27508198696",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-b3fe567ac9c2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/about/media-resources/studies-and-media-releases/article/summer-pet-hazards",
+    "canonical": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/summer-pet-hazards"
+  },
+  "title": "Summer Pet Hazards",
+  "summary": "See Trupanion data on summer pet hazards, including heatstroke, foxtails, insect bites, snake bites, traffic injuries, and average claim costs.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:03.797628+00:00",
+  "fetched_at": "2026-07-28T17:37:55.930207+00:00",
+  "last_updated_at": "2026-07-28T17:37:57.859512+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/06/42/429f92efe363e493ac22a484db690f9e9ab0fb77814502b5d7e2e27508198696/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/06/42/429f92efe363e493ac22a484db690f9e9ab0fb77814502b5d7e2e27508198696/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7876,
+    "sha256": "sha256:0b20215f1c0af4f2916ebb342fc9282272b1e092868efb3426c2e4e594562f09",
+    "normalized_content_hash": "sha256:fcb283a97df67c1f8dd5db7cad138e775c6600289cd8b0ab3e23bc5b001b60d9"
+  },
+  "provenance": {
+    "source_item_id": "8476f5c1-71d1-428d-ba7d-9d0d4fce5446",
+    "external_id": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/summer-pet-hazards"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b2d930df2335a52d08b94a6b620a2eb0252109feec254774481b78bca25351a3",
+  "company": {
+    "key": "yc-axiom-ai",
+    "name": "Axiom.ai"
+  },
+  "source": {
+    "id": "yc-axiom-ai-news-import-c535b3e44cdf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://axiom.ai/blog/what-are-anti-detect-browsers-and-why-use-them/",
+    "canonical": "https://axiom.ai/blog/what-are-anti-detect-browsers-and-why-use-them"
+  },
+  "title": "What Are Anti-Detect Browsers and Why You Should Use Them",
+  "summary": "In today's interconnected digital landscape, every online interaction leaves a trace. From IP addresses and user-agent strings to canvas rendering and WebGL capabilities, websites are increasingly adept at compiling a unique \"digital fingerprint\" for each user. While this practice often serves legitimate purposes like security and personalisation, it also presents significant challenges for developers and organisations engaged in activities that require maintaining privacy, managing multiple accounts, or performing large-scale data collection without triggering sophisticated anti-bot systems.",
+  "published_at": "2025-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:27:21.536976+00:00",
+  "fetched_at": "2026-07-28T21:59:46.813241+00:00",
+  "last_updated_at": "2026-07-28T22:00:07.432927+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-axiom-ai/2025/07/b2/b2d930df2335a52d08b94a6b620a2eb0252109feec254774481b78bca25351a3/article.md",
+    "record": "articles/v1/7c/yc-axiom-ai/2025/07/b2/b2d930df2335a52d08b94a6b620a2eb0252109feec254774481b78bca25351a3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7794,
+    "sha256": "sha256:281221d8aa3c1e5db31336ad9a06937e40fc938f3cfa379976e7ac80eae39412",
+    "normalized_content_hash": "sha256:a7b2d290ab0b6155f64e2cf2c59e91e725cfe22b8b50189fd667356b52418c76"
+  },
+  "provenance": {
+    "source_item_id": "1e7fd89d-274a-490d-a7f3-c5d4b4cca1ad",
+    "external_id": "https://axiom.ai/blog/what-are-anti-detect-browsers-and-why-use-them"
+  }
+}

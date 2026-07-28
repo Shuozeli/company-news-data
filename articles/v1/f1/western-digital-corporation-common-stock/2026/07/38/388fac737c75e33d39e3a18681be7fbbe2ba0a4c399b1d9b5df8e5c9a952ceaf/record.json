@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "388fac737c75e33d39e3a18681be7fbbe2ba0a4c399b1d9b5df8e5c9a952ceaf",
+  "company": {
+    "key": "western-digital-corporation-common-stock",
+    "name": "Western Digital Corporation Common Stock"
+  },
+  "source": {
+    "id": "western-digital-corporation-common-stock-rss-a1b03adbb2f1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.westerndigital.com/tiered-storage-for-ai-data-placement-strategy/",
+    "canonical": "https://blog.westerndigital.com/tiered-storage-for-ai-data-placement-strategy/"
+  },
+  "title": "Not All Data Deserves the Same Infrastructure",
+  "summary": "Tiered storage for AI starts with access patterns, not raw capacity. Get practical insight into hot, warm, and cold tiers and long-term storage cost. Storage tiering helps AI teams keep flash for active data and lower TCO for retained data. Get practical insight into a tiered storage architecture.",
+  "published_at": "2026-07-23T19:24:01+00:00",
+  "first_seen_at": "2026-07-23T20:10:26.710319+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-07-28T22:13:39.744969+00:00",
+  "paths": {
+    "article": "articles/v1/f1/western-digital-corporation-common-stock/2026/07/38/388fac737c75e33d39e3a18681be7fbbe2ba0a4c399b1d9b5df8e5c9a952ceaf/article.md",
+    "record": "articles/v1/f1/western-digital-corporation-common-stock/2026/07/38/388fac737c75e33d39e3a18681be7fbbe2ba0a4c399b1d9b5df8e5c9a952ceaf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12490,
+    "sha256": "sha256:31470b688a12de226c7eb8aa969d98d4e1c062e1ad18906f87dd3b39c17504de",
+    "normalized_content_hash": "sha256:cb8382a31c5b46762ed7148b9f62e1a6352020ed2006cd7afa78898b0165d952"
+  },
+  "provenance": {
+    "source_item_id": "47e6e1fa-5b00-40f0-9bc4-b6fc156fe002",
+    "external_id": "https://blog.westerndigital.com/?p=33457"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-upsolve",
+    "name": "Upsolve"
+  },
+  "record_count": 2,
+  "first_published_at": "2019-03-27T05:16:25.445+00:00",
+  "last_published_at": "2025-05-05T15:52:53.054+00:00",
+  "partitions": [
+    {
+      "partition": "2019-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    }
+  ]
+}

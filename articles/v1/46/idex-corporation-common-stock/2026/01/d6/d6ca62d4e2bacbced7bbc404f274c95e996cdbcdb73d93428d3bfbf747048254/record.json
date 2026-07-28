@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6ca62d4e2bacbced7bbc404f274c95e996cdbcdb73d93428d3bfbf747048254",
+  "company": {
+    "key": "idex-corporation-common-stock",
+    "name": "IDEX Corporation Common Stock"
+  },
+  "source": {
+    "id": "idex-corporation-common-stock-news-import-f4b544a094be",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://idexcorp.com/news/news-item/mott-lean-manufacturing-events-turn-big-demand-increase-into-transformational-success/",
+    "canonical": "https://idexcorp.com/news/news-item/mott-lean-manufacturing-events-turn-big-demand-increase-into-transformational-success/"
+  },
+  "title": "Mott Lean Manufacturing Events Turn Big Demand Increase Into Transformational Success",
+  "summary": "Our colleagues at Mott continue to embrace Lean Manufacturing principles, with a recent project transforming the efficiency of a critical cell so the team could quickly meet a tenfold increase in demand with speed and quality. On the cusp of winning a new project, the team knew they had to ramp up iso-tube production. Fast! Led by IDEX VP […]",
+  "published_at": "2026-01-05T16:39:50+00:00",
+  "first_seen_at": "2026-07-25T09:02:34.151857+00:00",
+  "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+  "last_updated_at": "2026-07-28T21:27:31.576948+00:00",
+  "paths": {
+    "article": "articles/v1/46/idex-corporation-common-stock/2026/01/d6/d6ca62d4e2bacbced7bbc404f274c95e996cdbcdb73d93428d3bfbf747048254/article.md",
+    "record": "articles/v1/46/idex-corporation-common-stock/2026/01/d6/d6ca62d4e2bacbced7bbc404f274c95e996cdbcdb73d93428d3bfbf747048254/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2311,
+    "sha256": "sha256:d6446b7b684e7289d0c2f8c01c646d9dd084c0470ab54cf1be93c7a3ab711924",
+    "normalized_content_hash": "sha256:bb1b677f78a4c7bded8be2cb55a52cab5836e30b87ae60afdfc2003654a78e12"
+  },
+  "provenance": {
+    "source_item_id": "3420843e-70ed-47a9-96cc-db5cd4e003b8",
+    "external_id": "https://idexcorp.com/news/news-item/mott-lean-manufacturing-events-turn-big-demand-increase-into-transformational-success/"
+  }
+}

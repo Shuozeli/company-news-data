@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-uberduck",
+    "name": "Uberduck"
+  },
+  "record_count": 8,
+  "first_published_at": "2023-03-13T00:00:00+00:00",
+  "last_published_at": "2025-11-06T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    }
+  ]
+}

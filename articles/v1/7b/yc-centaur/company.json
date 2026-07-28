@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-centaur",
+    "name": "Centaur"
+  },
+  "record_count": 21,
+  "first_published_at": "2026-01-29T22:18:22.216+00:00",
+  "last_published_at": "2026-07-27T14:12:06.402+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ]
+}

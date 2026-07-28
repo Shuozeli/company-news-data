@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "gaia-inc-class-a-common-stock",
+    "name": "Gaia Inc. Class A Common Stock"
+  },
+  "record_count": 30,
+  "first_published_at": "2020-01-07T16:38:03+00:00",
+  "last_published_at": "2026-07-27T12:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2020-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

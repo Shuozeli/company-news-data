@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99a04514b496a047fb518529fedc6916aa097b6140e4885ec6bb25a095960036",
+  "company": {
+    "key": "idex-corporation-common-stock",
+    "name": "IDEX Corporation Common Stock"
+  },
+  "source": {
+    "id": "idex-corporation-common-stock-news-import-f4b544a094be",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://idexcorp.com/news/news-item/idex-fire-safetys-hale-products-supports-summer-camp-for-young-burn-survivors/",
+    "canonical": "https://idexcorp.com/news/news-item/idex-fire-safetys-hale-products-supports-summer-camp-for-young-burn-survivors/"
+  },
+  "title": "IDEX Fire & Safety’s Hale Products Supports Summer Camp for Young Burn Survivors",
+  "summary": "Kids who have experienced burn injuries can face self-esteem challenges as the world around them judges their physical appearance. That’s why Hale Products, a unit of IDEX Fire & Safety, is proudly partnering with Embers of Hope to sponsor their 2025 Burn Survivor Camp, providing young burn survivors with a life-changing experience filled with healing, support, and […]",
+  "published_at": "2025-05-16T17:02:03+00:00",
+  "first_seen_at": "2026-07-25T09:02:34.151857+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:45.999323+00:00",
+  "paths": {
+    "article": "articles/v1/46/idex-corporation-common-stock/2025/05/99/99a04514b496a047fb518529fedc6916aa097b6140e4885ec6bb25a095960036/article.md",
+    "record": "articles/v1/46/idex-corporation-common-stock/2025/05/99/99a04514b496a047fb518529fedc6916aa097b6140e4885ec6bb25a095960036/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4992,
+    "sha256": "sha256:8f401bce3f7af88b9c58fe33758eb2b2ac5dc7e9a0c56eb1f3d3b893522c32ef",
+    "normalized_content_hash": "sha256:6e30c0d977b940002a6d58d55adc05e845b79db2e03ac1e30e84784586e35204"
+  },
+  "provenance": {
+    "source_item_id": "c78d3623-967b-4c32-8f76-5c2799d7ca51",
+    "external_id": "https://idexcorp.com/news/news-item/idex-fire-safetys-hale-products-supports-summer-camp-for-young-burn-survivors/"
+  }
+}

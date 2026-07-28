@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8301e1aeb9359f18e74552818628a21b104a94cc275373aad0a107cec40026a2",
+  "company": {
+    "key": "doximity-inc-class-a-common-stock",
+    "name": "Doximity Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "doximity-inc-class-a-common-stock-news-import-f92ff7c974f9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://press.doximity.com/articles/doximity-releases-new-study-on-physician-compensation-and-covid-related-retirement",
+    "canonical": "https://press.doximity.com/articles/doximity-releases-new-study-on-physician-compensation-and-covid-related-retirement"
+  },
+  "title": "Doximity Releases New Study On Physician Compensation and COVID-Related Retirement",
+  "summary": "Doximity Press Releases",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:58:17.638100+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:42:00.206162+00:00",
+  "paths": {
+    "article": "articles/v1/ca/doximity-inc-class-a-common-stock/2026/07/83/8301e1aeb9359f18e74552818628a21b104a94cc275373aad0a107cec40026a2/article.md",
+    "record": "articles/v1/ca/doximity-inc-class-a-common-stock/2026/07/83/8301e1aeb9359f18e74552818628a21b104a94cc275373aad0a107cec40026a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4543,
+    "sha256": "sha256:6ee58b38447a9d1404a41c2f66f00d3ae76b4ddff4bb33433661869e1bef7899",
+    "normalized_content_hash": "sha256:0fe807b506c81815de29b4eab14421b4115949fbf39b32b6865f03dd0e181120"
+  },
+  "provenance": {
+    "source_item_id": "b062aaa1-8ee3-448d-ae39-61402bb1b71e",
+    "external_id": "https://press.doximity.com/articles/doximity-releases-new-study-on-physician-compensation-and-covid-related-retirement"
+  }
+}

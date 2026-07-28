@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1113efa0bd940a501c3d26d8822ca8c5f3af8331c6f684353a7e349b85dd6ebc",
+  "company": {
+    "key": "yc-carbonfact",
+    "name": "Carbonfact"
+  },
+  "source": {
+    "id": "yc-carbonfact-news-import-aa4bd27c2eeb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.carbonfact.com/blog/policy/french-eco-score?__hstc=205882892.7da04711697251d9d0800b59e4f32afd.1736425076599.1755498415285.1755500343019.9&__hssc=205882892.1.1755500343019&__hsfp=4174588817",
+    "canonical": "https://www.carbonfact.com/blog/policy/french-eco-score"
+  },
+  "title": "The French Textile Eco-Score: 2026 - Key Updates for Fashion Brands",
+  "summary": "Deep dive for fashion brands - The French Textile Environmental Cost (ex. Eco-Score) entered into force on 1st October 2025.",
+  "published_at": "2026-03-30T11:54:18+00:00",
+  "first_seen_at": "2026-07-24T23:25:28.346666+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-28T21:26:54.488403+00:00",
+  "paths": {
+    "article": "articles/v1/26/yc-carbonfact/2026/03/11/1113efa0bd940a501c3d26d8822ca8c5f3af8331c6f684353a7e349b85dd6ebc/article.md",
+    "record": "articles/v1/26/yc-carbonfact/2026/03/11/1113efa0bd940a501c3d26d8822ca8c5f3af8331c6f684353a7e349b85dd6ebc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24960,
+    "sha256": "sha256:6f8e48354ec3f7bf1bf6434077e26168342468e5b4f5c892f4486a7e783aab08",
+    "normalized_content_hash": "sha256:39331648765922c4679afb865fe7bbb29112371876ea0cdf318c822552eca518"
+  },
+  "provenance": {
+    "source_item_id": "b89c981a-4542-4789-b17d-3e1bf096c024",
+    "external_id": "https://www.carbonfact.com/blog/policy/french-eco-score"
+  }
+}

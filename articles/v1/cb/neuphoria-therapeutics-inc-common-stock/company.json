@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "neuphoria-therapeutics-inc-common-stock",
+    "name": "Neuphoria Therapeutics Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-09-04T10:59:47+00:00",
+  "last_published_at": "2026-06-26T20:15:09+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ]
+}

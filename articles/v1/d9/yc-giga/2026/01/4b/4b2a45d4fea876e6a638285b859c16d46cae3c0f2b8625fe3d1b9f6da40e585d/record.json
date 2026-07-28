@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b2a45d4fea876e6a638285b859c16d46cae3c0f2b8625fe3d1b9f6da40e585d",
+  "company": {
+    "key": "yc-giga",
+    "name": "Giga"
+  },
+  "source": {
+    "id": "yc-giga-news-import-ebec56a399f9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://giga.ai/news/agentic-ai-that-executes",
+    "canonical": "https://giga.ai/news/agentic-ai-that-executes"
+  },
+  "title": "Agentic AI that Executes",
+  "summary": "Closing the last-mile automation gap with Giga Browser Agent offers two strategic features for customer service organizations to enable autonomous…",
+  "published_at": "2026-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:36:22.250804+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:31.139949+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-giga/2026/01/4b/4b2a45d4fea876e6a638285b859c16d46cae3c0f2b8625fe3d1b9f6da40e585d/article.md",
+    "record": "articles/v1/d9/yc-giga/2026/01/4b/4b2a45d4fea876e6a638285b859c16d46cae3c0f2b8625fe3d1b9f6da40e585d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6166,
+    "sha256": "sha256:64aada6d411855f0db89a30b9ccf2b6c9668c884e0cfb37d57b26f1842ac8fad",
+    "normalized_content_hash": "sha256:661ec83bca8e8ff7971b88df0885adbe495a3a9c94cc126b1cee7012583e2f61"
+  },
+  "provenance": {
+    "source_item_id": "815255fb-bda7-4530-bea2-96a6b15de96d",
+    "external_id": "https://giga.ai/news/agentic-ai-that-executes"
+  }
+}

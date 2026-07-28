@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aff211aea40631a2a9b2b192912fc142cda7537fbc6e432a7d15a5cf12726c54",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-news-import-801d48e1d714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks"
+  },
+  "title": "Building Block Tutorials & Guides",
+  "summary": "Patterns and tutorials covering core technical concepts, from billing to best practices – spanning Twilio products and services to general development.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T17:37:59.927743+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:42:01.599709+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/af/aff211aea40631a2a9b2b192912fc142cda7537fbc6e432a7d15a5cf12726c54/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/af/aff211aea40631a2a9b2b192912fc142cda7537fbc6e432a7d15a5cf12726c54/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2685,
+    "sha256": "sha256:7fa27cf4f36d8d8fd701805face23379bc685888ef9842d89bcc118e5beb8aab",
+    "normalized_content_hash": "sha256:151afa6ddb03f9262ed48d5ef0a681dcb9eaf4495c449f4780b109c0301b9791"
+  },
+  "provenance": {
+    "source_item_id": "274ae14c-742b-4eb7-bbe1-501094cb6eb9",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks"
+  }
+}

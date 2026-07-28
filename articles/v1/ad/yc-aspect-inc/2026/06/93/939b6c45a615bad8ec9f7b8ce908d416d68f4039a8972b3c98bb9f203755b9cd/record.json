@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "939b6c45a615bad8ec9f7b8ce908d416d68f4039a8972b3c98bb9f203755b9cd",
+  "company": {
+    "key": "yc-aspect-inc",
+    "name": "Aspect"
+  },
+  "source": {
+    "id": "yc-aspect-inc-news-import-ad28d86e40e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aspect.inc/blog/technical-solutions",
+    "canonical": "https://aspect.inc/blog/technical-solutions"
+  },
+  "title": "Technical Solutions",
+  "summary": "Storage, networking, encoding, cloud, hardware, monitoring, transfer, and security guides.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T08:02:15.371606+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:12.866974+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-aspect-inc/2026/06/93/939b6c45a615bad8ec9f7b8ce908d416d68f4039a8972b3c98bb9f203755b9cd/article.md",
+    "record": "articles/v1/ad/yc-aspect-inc/2026/06/93/939b6c45a615bad8ec9f7b8ce908d416d68f4039a8972b3c98bb9f203755b9cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 791,
+    "sha256": "sha256:d9057479da95d8b362bacc391fa0dcd5cdd154777b0b204c693e49529f0a4e3b",
+    "normalized_content_hash": "sha256:e900cc35939b29f40554c03feb40b8b5bc169c6ed3ec96fe355e5ffeb20126eb"
+  },
+  "provenance": {
+    "source_item_id": "635e4d0c-31c0-4e04-9547-540563eaa60d",
+    "external_id": "https://aspect.inc/blog/technical-solutions"
+  }
+}

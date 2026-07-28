@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8178a68ab0df00b94e8bb6c880a28b1dc33ca4cc282e076776d40166f7a18804",
+  "company": {
+    "key": "nokia-corporation-sponsored-american-depositary-shares",
+    "name": "Nokia Corporation Sponsored American Depositary Shares"
+  },
+  "source": {
+    "id": "nokia-corporation-sponsored-american-depositary-shares-news-import-bb650893ccf7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nokia.com/blog/nokia-bell-labs-and-kddi-research-team-up-on-energy-efficient-cellular-base-station/",
+    "canonical": "https://www.nokia.com/blog/nokia-bell-labs-and-kddi-research-team-up-on-energy-efficient-cellular-base-station/"
+  },
+  "title": "Nokia Bell Labs and KDDI Research team up on energy efficient cellular base station",
+  "summary": "Method will reduce 5G base stations power consumption by up to 40% without compromising network speed or throughput",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:04:49.665774+00:00",
+  "fetched_at": "2026-07-27T20:24:08.774797+00:00",
+  "last_updated_at": "2026-07-27T20:24:15.457712+00:00",
+  "paths": {
+    "article": "articles/v1/4b/nokia-corporation-sponsored-american-depositary-shares/2026/05/81/8178a68ab0df00b94e8bb6c880a28b1dc33ca4cc282e076776d40166f7a18804/article.md",
+    "record": "articles/v1/4b/nokia-corporation-sponsored-american-depositary-shares/2026/05/81/8178a68ab0df00b94e8bb6c880a28b1dc33ca4cc282e076776d40166f7a18804/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4975,
+    "sha256": "sha256:9da193d59bf8b51c05a79d1bf6f710af4ad7fb997a0cf2e09ca8a5f68ac448bd",
+    "normalized_content_hash": "sha256:71aedb13ddd06468cf848bb393cf480de5d52f596aad44b35d912dcc47f9f73f"
+  },
+  "provenance": {
+    "source_item_id": "a03368cf-1a58-4431-a62e-5e430afc30e9",
+    "external_id": "https://www.nokia.com/blog/nokia-bell-labs-and-kddi-research-team-up-on-energy-efficient-cellular-base-station/"
+  }
+}

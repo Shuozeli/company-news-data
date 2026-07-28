@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "stereotaxis-inc-common-stock",
+    "name": "Stereotaxis Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2018-12-28T15:44:36+00:00",
+  "last_published_at": "2021-05-25T20:02:45+00:00",
+  "partitions": [
+    {
+      "partition": "2018-12",
+      "record_count": 8
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 1
+    }
+  ]
+}

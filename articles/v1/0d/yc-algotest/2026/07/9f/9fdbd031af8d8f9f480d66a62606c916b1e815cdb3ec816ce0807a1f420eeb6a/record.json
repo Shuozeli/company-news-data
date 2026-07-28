@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9fdbd031af8d8f9f480d66a62606c916b1e815cdb3ec816ce0807a1f420eeb6a",
+  "company": {
+    "key": "yc-algotest",
+    "name": "AlgoTest"
+  },
+  "source": {
+    "id": "yc-algotest-news-import-7cc502b412f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://algotest.in/blog/paper-trading-vs-live-trading/",
+    "canonical": "https://algotest.in/blog/paper-trading-vs-live-trading/"
+  },
+  "title": "Paper Trading vs Live Trading: When Should You Switch to Real Money?",
+  "summary": "Most traders don't fail because they made the jump from paper trading to live trading at the wrong time, for the wrong reasons, usually right after a hot streak..",
+  "published_at": "2026-07-09T14:16:04+00:00",
+  "first_seen_at": "2026-07-25T00:56:57.418756+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:22:58.289319+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-algotest/2026/07/9f/9fdbd031af8d8f9f480d66a62606c916b1e815cdb3ec816ce0807a1f420eeb6a/article.md",
+    "record": "articles/v1/0d/yc-algotest/2026/07/9f/9fdbd031af8d8f9f480d66a62606c916b1e815cdb3ec816ce0807a1f420eeb6a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15359,
+    "sha256": "sha256:3cce67fa6ec723582ab30b77149ae20d0e2838cf9391e93776c6a6c17aa6c933",
+    "normalized_content_hash": "sha256:644c9e88bf3ee8b6149d7a072a8b45cd63ad3f31a73f4d2e6c4cc526ce4773a5"
+  },
+  "provenance": {
+    "source_item_id": "7639edb3-1d0f-42ef-a149-07f994f85d5a",
+    "external_id": "https://algotest.in/blog/paper-trading-vs-live-trading/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f923880bd8ed3328d166614a2c4ff062ca1df2cca28602a6d1b735e02accb684",
+  "company": {
+    "key": "yc-plate-iq",
+    "name": "Plate IQ"
+  },
+  "source": {
+    "id": "yc-plate-iq-news-import-9b094f88901e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ottimate.com/blog/invoice-trust-score-ap-fraud-detection/",
+    "canonical": "https://ottimate.com/blog/invoice-trust-score-ap-fraud-detection/"
+  },
+  "title": "Invoice Trust Scores: The AI-Powered Way to Catch AP Fraud Before It Costs You",
+  "summary": "Invoice fraud is getting more sophisticated. Learn how AI-driven invoice trust scoring helps AP teams detect suspicious invoices before payment.",
+  "published_at": "2026-06-04T15:04:45+00:00",
+  "first_seen_at": "2026-07-27T09:28:12.399111+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-07-28T21:43:22.476396+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-plate-iq/2026/06/f9/f923880bd8ed3328d166614a2c4ff062ca1df2cca28602a6d1b735e02accb684/article.md",
+    "record": "articles/v1/48/yc-plate-iq/2026/06/f9/f923880bd8ed3328d166614a2c4ff062ca1df2cca28602a6d1b735e02accb684/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22764,
+    "sha256": "sha256:65ee18e28e16ba952e165643ac2ab140db639111e279a00f32f43f355fcfd0a5",
+    "normalized_content_hash": "sha256:18571985dda8fb7b6ff173116cb6ede6e960559009de12685fea84acc7bd196c"
+  },
+  "provenance": {
+    "source_item_id": "0fd6eaee-30ec-4874-bc84-b60a0f9a6b77",
+    "external_id": "https://ottimate.com/blog/invoice-trust-score-ap-fraud-detection/"
+  }
+}

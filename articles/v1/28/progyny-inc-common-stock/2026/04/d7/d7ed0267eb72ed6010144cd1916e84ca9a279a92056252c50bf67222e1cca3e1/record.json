@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7ed0267eb72ed6010144cd1916e84ca9a279a92056252c50bf67222e1cca3e1",
+  "company": {
+    "key": "progyny-inc-common-stock",
+    "name": "Progyny Inc. Common Stock"
+  },
+  "source": {
+    "id": "progyny-inc-common-stock-news-import-548271d8bfed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://progyny.com/blog/fertility-in-the-workplace/future-of-womens-health-benefits-is-integrated-care/",
+    "canonical": "https://progyny.com/blog/fertility-in-the-workplace/future-of-womens-health-benefits-is-integrated-care/"
+  },
+  "title": "The future of women’s health benefits is integrated care",
+  "summary": "With connected care journeys, employers gain a more complete view of member needs and can better support earlier, more proactive care.",
+  "published_at": "2026-04-13T21:04:19+00:00",
+  "first_seen_at": "2026-07-26T07:23:04.831998+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-07-28T22:11:59.159976+00:00",
+  "paths": {
+    "article": "articles/v1/28/progyny-inc-common-stock/2026/04/d7/d7ed0267eb72ed6010144cd1916e84ca9a279a92056252c50bf67222e1cca3e1/article.md",
+    "record": "articles/v1/28/progyny-inc-common-stock/2026/04/d7/d7ed0267eb72ed6010144cd1916e84ca9a279a92056252c50bf67222e1cca3e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5639,
+    "sha256": "sha256:645472bea483127b4b2871e9a701d512c3f42b3086bf5e93d4e1f1434ffeb563",
+    "normalized_content_hash": "sha256:4075b45f0be4917e7df9cbcd13e1999ce7345b891365a155cbb9f62ec72edcd4"
+  },
+  "provenance": {
+    "source_item_id": "12f741a1-37b5-43c1-93bb-a51841c2ffad",
+    "external_id": "https://progyny.com/blog/fertility-in-the-workplace/future-of-womens-health-benefits-is-integrated-care/"
+  }
+}

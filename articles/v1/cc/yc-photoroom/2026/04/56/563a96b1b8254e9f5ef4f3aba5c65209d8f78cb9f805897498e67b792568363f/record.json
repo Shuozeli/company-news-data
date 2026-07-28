@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "563a96b1b8254e9f5ef4f3aba5c65209d8f78cb9f805897498e67b792568363f",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/building-a-multi-provider-inference-backend",
+    "canonical": "https://www.photoroom.com/inside-photoroom/building-a-multi-provider-inference-backend"
+  },
+  "title": "Building a multi-provider inference backend",
+  "summary": "Going multi-provider for GPU inference: a global load balancer that splits traffic across Kubernetes clusters using weights derived from live capacity.",
+  "published_at": "2026-04-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-07-28T21:49:00.054727+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/04/56/563a96b1b8254e9f5ef4f3aba5c65209d8f78cb9f805897498e67b792568363f/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/04/56/563a96b1b8254e9f5ef4f3aba5c65209d8f78cb9f805897498e67b792568363f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9348,
+    "sha256": "sha256:1439b0c4ff8e22265f40c1e220f251a83608df8d5608c3ec970aeb3f0bf42bb5",
+    "normalized_content_hash": "sha256:9fe0021786c931fed14ea7fee82b2b6e6d9842deb765e0fe6286076eb0b81dc5"
+  },
+  "provenance": {
+    "source_item_id": "58c1e5a3-3fdc-480f-933c-7bf0cdc9365a",
+    "external_id": "https://www.photoroom.com/inside-photoroom/building-a-multi-provider-inference-backend"
+  }
+}

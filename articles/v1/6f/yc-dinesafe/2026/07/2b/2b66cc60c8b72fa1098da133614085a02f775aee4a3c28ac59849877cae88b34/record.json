@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b66cc60c8b72fa1098da133614085a02f775aee4a3c28ac59849877cae88b34",
+  "company": {
+    "key": "yc-dinesafe",
+    "name": "Dinesafe"
+  },
+  "source": {
+    "id": "yc-dinesafe-news-import-07d65e1cf124",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iwaspoisoned.com/news/iwaspoisoned-speaks-at-neha-annual-educational-conference-2024",
+    "canonical": "https://iwaspoisoned.com/news/iwaspoisoned-speaks-at-neha-annual-educational-conference-2024"
+  },
+  "title": "Iwasposioned Speaks at the National Environmental Health Association's Annual Educational Conference 2024",
+  "summary": "We collect and share reports with consumers, public health and restaurants. Protect friends, family & help restaurants. If you got food poisoning report it now!",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T07:41:46.778872+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:52.032701+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-dinesafe/2026/07/2b/2b66cc60c8b72fa1098da133614085a02f775aee4a3c28ac59849877cae88b34/article.md",
+    "record": "articles/v1/6f/yc-dinesafe/2026/07/2b/2b66cc60c8b72fa1098da133614085a02f775aee4a3c28ac59849877cae88b34/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5405,
+    "sha256": "sha256:1311a8c61dcb0455818b43d4ce5c916af003b39514482c677869c814194529dc",
+    "normalized_content_hash": "sha256:c61ee63433a1baa61b05c4746d30e87a6512ee93590a6f1d726d02bf78a9423c"
+  },
+  "provenance": {
+    "source_item_id": "aec5645b-abd4-482c-920f-2705efac70c6",
+    "external_id": "https://iwaspoisoned.com/news/iwaspoisoned-speaks-at-neha-annual-educational-conference-2024"
+  }
+}

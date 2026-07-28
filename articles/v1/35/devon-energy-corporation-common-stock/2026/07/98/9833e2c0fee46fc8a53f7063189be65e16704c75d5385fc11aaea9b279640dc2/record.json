@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9833e2c0fee46fc8a53f7063189be65e16704c75d5385fc11aaea9b279640dc2",
+  "company": {
+    "key": "devon-energy-corporation-common-stock",
+    "name": "Devon Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "devon-energy-corporation-common-stock-news-import-bcaa6d747838",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.devonenergy.com/news/2026/Devon-Commences-Private-Exchange-Offers-and-Coterra-Commences-Consent-Solicitations",
+    "canonical": "https://www.devonenergy.com/news/2026/Devon-Commences-Private-Exchange-Offers-and-Coterra-Commences-Consent-Solicitations"
+  },
+  "title": "Devon Commences Private Exchange Offers and Coterra Commences Consent Solicitations",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:10:36.356012+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:21:59.521115+00:00",
+  "paths": {
+    "article": "articles/v1/35/devon-energy-corporation-common-stock/2026/07/98/9833e2c0fee46fc8a53f7063189be65e16704c75d5385fc11aaea9b279640dc2/article.md",
+    "record": "articles/v1/35/devon-energy-corporation-common-stock/2026/07/98/9833e2c0fee46fc8a53f7063189be65e16704c75d5385fc11aaea9b279640dc2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15073,
+    "sha256": "sha256:a1d10686d8e301f0f878daaed1f726079022915e2e60768bb4af88350068796c",
+    "normalized_content_hash": "sha256:5a0120e1424d37d513b5131e09b1ae6d1123b219fa040918c3e3b2c2283cd507"
+  },
+  "provenance": {
+    "source_item_id": "f47a3f11-1619-47c8-8f66-c5c8b3da0a03",
+    "external_id": "https://www.devonenergy.com/news/2026/Devon-Commences-Private-Exchange-Offers-and-Coterra-Commences-Consent-Solicitations"
+  }
+}

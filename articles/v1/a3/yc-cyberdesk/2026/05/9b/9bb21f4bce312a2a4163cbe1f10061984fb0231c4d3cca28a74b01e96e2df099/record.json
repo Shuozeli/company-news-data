@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9bb21f4bce312a2a4163cbe1f10061984fb0231c4d3cca28a74b01e96e2df099",
+  "company": {
+    "key": "yc-cyberdesk",
+    "name": "Cyberdesk"
+  },
+  "source": {
+    "id": "yc-cyberdesk-rss-7fc226611edf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/desktop-automation-runtime",
+    "canonical": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/desktop-automation-runtime"
+  },
+  "title": "Desktop automation needs a runtime, not just a prompt",
+  "summary": "Why reliable computer-use automation depends on connected machines, durable sessions, structured outputs, and controls around sensitive data.",
+  "published_at": "2026-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T14:30:09.608841+00:00",
+  "fetched_at": "2026-07-28T21:14:22.706316+00:00",
+  "last_updated_at": "2026-07-28T21:15:02.167268+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-cyberdesk/2026/05/9b/9bb21f4bce312a2a4163cbe1f10061984fb0231c4d3cca28a74b01e96e2df099/article.md",
+    "record": "articles/v1/a3/yc-cyberdesk/2026/05/9b/9bb21f4bce312a2a4163cbe1f10061984fb0231c4d3cca28a74b01e96e2df099/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8389,
+    "sha256": "sha256:358f011c95faae2775681b1daa35c574b394b161a9b5e911e4c8be6ba010cae0",
+    "normalized_content_hash": "sha256:0f5654cc718574a16f77143b5c9759acfc11f61755b18fb686ba30540628ed1c"
+  },
+  "provenance": {
+    "source_item_id": "53bcdcfc-8f3a-402f-b49c-2a32679ad189",
+    "external_id": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/desktop-automation-runtime"
+  }
+}

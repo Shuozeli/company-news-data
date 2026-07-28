@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a44746d96cd7b7607b7d1fea207aef137ee12b95b1e17d7dd25060b7445b144d",
+  "company": {
+    "key": "yc-ninite",
+    "name": "Ninite"
+  },
+  "source": {
+    "id": "yc-ninite-rss-629553105472",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ninite.com/thunderbird/",
+    "canonical": "https://ninite.com/thunderbird/"
+  },
+  "title": "Thunderbird updated to 153.0.",
+  "summary": "",
+  "published_at": "2026-07-23T05:04:36+00:00",
+  "first_seen_at": "2026-07-25T16:20:56.315803+00:00",
+  "fetched_at": "2026-07-28T20:51:42.131550+00:00",
+  "last_updated_at": "2026-07-28T20:51:42.222078+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-ninite/2026/07/a4/a44746d96cd7b7607b7d1fea207aef137ee12b95b1e17d7dd25060b7445b144d/article.md",
+    "record": "articles/v1/a5/yc-ninite/2026/07/a4/a44746d96cd7b7607b7d1fea207aef137ee12b95b1e17d7dd25060b7445b144d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 506,
+    "sha256": "sha256:1320f75540e6c0b47e30b1155e4749e7d0293a63e4bb0cc4afd09e2a5058567c",
+    "normalized_content_hash": "sha256:55a57504eb5bd7771efa28c213969452480ceeaa004c7ead02a75a0c36af2ae7"
+  },
+  "provenance": {
+    "source_item_id": "f4d6768c-78f1-4edf-8784-e690d996aa08",
+    "external_id": "f5d8d7a946e3193cdd355f3456eb8411"
+  }
+}

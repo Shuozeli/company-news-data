@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d82a8ba42d5c16cddb0571f060b2db301bfca6dd6c1a5d1c0dd268cba79d314",
+  "company": {
+    "key": "system1-inc-class-a-common-stock",
+    "name": "System1 Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "system1-inc-class-a-common-stock-news-import-6b4ffda1ae56",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://system1.com/blog/system1aichatbot",
+    "canonical": "https://system1.com/blog/system1aichatbot"
+  },
+  "title": "System1 : Unlocking Information at System1: Deploying an AI-powered Slack Chatbot Using Snowflake",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T03:07:20.281825+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:51.616041+00:00",
+  "paths": {
+    "article": "articles/v1/3e/system1-inc-class-a-common-stock/2026/07/9d/9d82a8ba42d5c16cddb0571f060b2db301bfca6dd6c1a5d1c0dd268cba79d314/article.md",
+    "record": "articles/v1/3e/system1-inc-class-a-common-stock/2026/07/9d/9d82a8ba42d5c16cddb0571f060b2db301bfca6dd6c1a5d1c0dd268cba79d314/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23642,
+    "sha256": "sha256:b82746c77d1a6bce83d8c15ade7a4e019ab127e682f2cdc59339cfaa86af03b1",
+    "normalized_content_hash": "sha256:368a637c7079a5548cac0872e743fdb134ddc100f2ce3eaf014857c90838afa5"
+  },
+  "provenance": {
+    "source_item_id": "4e844fce-b4d6-45a5-af7e-cf4dc3c7a168",
+    "external_id": "https://system1.com/blog/system1aichatbot"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "309078a9f222ad044d43f6f308e36949684e8d246e82bc3efb6d7c52b7243705",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/announcing-s3-buckets-and-cost-budgets-alerts",
+    "canonical": "https://www.flightcontrol.dev/blog/announcing-s3-buckets-and-cost-budgets-alerts"
+  },
+  "title": "Announcing S3 buckets and cost budgets & alerts",
+  "summary": "The most reliable, powerful, and flexible PaaS, because we deploy to your AWS. No black box, lock-in, or AWS markups.",
+  "published_at": "2025-03-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:08.553762+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2025/03/30/309078a9f222ad044d43f6f308e36949684e8d246e82bc3efb6d7c52b7243705/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2025/03/30/309078a9f222ad044d43f6f308e36949684e8d246e82bc3efb6d7c52b7243705/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3560,
+    "sha256": "sha256:7f8dba15adec749af87d7fd1cc3e61193f8d78d478a1c59b7520852a888ea533",
+    "normalized_content_hash": "sha256:1daca253bafbf7636462059726c57c2f0361abde506a5088e6ab2d7e63bdd742"
+  },
+  "provenance": {
+    "source_item_id": "52de58c4-e645-4e5c-9360-a8ce7147b57c",
+    "external_id": "https://www.flightcontrol.dev/blog/announcing-s3-buckets-and-cost-budgets-alerts"
+  }
+}

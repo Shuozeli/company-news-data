@@ -1,0 +1,37 @@
+---
+schema_version: "1.0.0"
+document_id: "79c0b21d343b40bb4cfffd8a55e1f02e8c64f37a610805e1eee840fdc2aed354"
+company_key: "yc-mixpanel"
+company: "Mixpanel"
+source_id: "yc-mixpanel-rss-ee9e8862ebc7"
+canonical_url: "https://community.mixpanel.com/x/announcements/ai9ob6tf2yx7/mixpanels-mxp-2026-user-conference-on-may-12-in-sa"
+published_at: "2026-04-01T14:03:11+00:00"
+first_seen_at: "2026-07-24T11:24:44.102319+00:00"
+fetched_at: "2026-07-28T21:56:50.434513+00:00"
+content_hash: "sha256:68e5cd62edcd0d343d0bc558c17de526933783f4e5ee0e0c71aa4483801c418b"
+---
+
+# Mixpanel's MXP 2026 User Conference on May 12 in San Francisco – Free Workshops, Keynotes, and Networking
+
+Hey everyone
+
+
+👋
+
+
+Mixpanel's annual user conference is back — **
+
+
+MXP 2026
+
+
+** is happening **May 12th in San Francisco** (Terra Gallery). Our
+
+
+CEO Jen Taylor
+
+
+is opening with a keynote on product vision and where analytics is headed in the AI era. We've also got: • Real sessions from product leaders at Olo, Workday, Sprout Social, and Vuori • Hands-on Mixpanel Masters workshops where you bring actual problems and we solve them live • 1:1 "Data Doctors" sessions with Mixpanel experts • Roundtables with other product and data folks tackling similar challenges It's free to attend. The agenda is built for practitioners—no sitting through pitches, you choose your own path based on what you're trying to solve. If you're in the Bay Area or thinking about making the trip, worth checking out:
+
+
+[https://bit.ly/48loQ6l](https://bit.ly/48loQ6l) Anyone else going?

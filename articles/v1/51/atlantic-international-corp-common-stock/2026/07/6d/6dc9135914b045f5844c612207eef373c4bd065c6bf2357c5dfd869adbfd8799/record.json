@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6dc9135914b045f5844c612207eef373c4bd065c6bf2357c5dfd869adbfd8799",
+  "company": {
+    "key": "atlantic-international-corp-common-stock",
+    "name": "Atlantic International Corp. Common Stock"
+  },
+  "source": {
+    "id": "atlantic-international-corp-common-stock-news-import-edca606dc330",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.atlantic-international.com/news/who-is-atlantic's-transfer-agent%3F",
+    "canonical": "https://www.atlantic-international.com/news/who-is-atlantic's-transfer-agent%3F"
+  },
+  "title": "Who is Atlantic's transfer agent?",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T08:19:49.971150+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:42:04.348473+00:00",
+  "paths": {
+    "article": "articles/v1/51/atlantic-international-corp-common-stock/2026/07/6d/6dc9135914b045f5844c612207eef373c4bd065c6bf2357c5dfd869adbfd8799/article.md",
+    "record": "articles/v1/51/atlantic-international-corp-common-stock/2026/07/6d/6dc9135914b045f5844c612207eef373c4bd065c6bf2357c5dfd869adbfd8799/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 896,
+    "sha256": "sha256:281ba2f585183061429659a8d0e84d7acd38359090bab7dedaf299ca0a0de8d9",
+    "normalized_content_hash": "sha256:4c24a364adc3fecf1a4cf631e8f4dbc0ed5b81fd3f47b42b30b3eb4eccd0264e"
+  },
+  "provenance": {
+    "source_item_id": "b107d56a-d13d-4b42-bed2-c00ba9245e1b",
+    "external_id": "https://www.atlantic-international.com/news/who-is-atlantic's-transfer-agent%3F"
+  }
+}

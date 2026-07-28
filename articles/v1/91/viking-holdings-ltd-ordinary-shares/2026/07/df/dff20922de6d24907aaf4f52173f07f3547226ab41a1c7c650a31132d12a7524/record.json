@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dff20922de6d24907aaf4f52173f07f3547226ab41a1c7c650a31132d12a7524",
+  "company": {
+    "key": "viking-holdings-ltd-ordinary-shares",
+    "name": "Viking Holdings Ltd Ordinary Shares"
+  },
+  "source": {
+    "id": "viking-holdings-ltd-ordinary-shares-news-import-b684e47025c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.vikingcruises.com/press/press-releases/2026-3-11-viking-takes-delivery-of-newest-river-ship-in-europe.html",
+    "canonical": "https://www.vikingcruises.com/press/press-releases/2026-3-11-viking-takes-delivery-of-newest-river-ship-in-europe.html"
+  },
+  "title": "Viking Takes Delivery of Newest River Ship in Europe-2026-3-11-viking-takes-delivery-of-newest-river-ship-in-europe",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T04:39:29.979249+00:00",
+  "fetched_at": "2026-07-27T18:41:59.963728+00:00",
+  "last_updated_at": "2026-07-27T18:42:05.288368+00:00",
+  "paths": {
+    "article": "articles/v1/91/viking-holdings-ltd-ordinary-shares/2026/07/df/dff20922de6d24907aaf4f52173f07f3547226ab41a1c7c650a31132d12a7524/article.md",
+    "record": "articles/v1/91/viking-holdings-ltd-ordinary-shares/2026/07/df/dff20922de6d24907aaf4f52173f07f3547226ab41a1c7c650a31132d12a7524/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4705,
+    "sha256": "sha256:32cfa9bf69ca9c2e7e91d95d511f02fa481b9b8824d80d2b2b4459e394503b97",
+    "normalized_content_hash": "sha256:324afd8b82f037c799fac59acfdc78586cef4cc5f7e812cbba4047b032b58c7d"
+  },
+  "provenance": {
+    "source_item_id": "51470175-545e-43c4-ae60-5fd995910fa0",
+    "external_id": "https://www.vikingcruises.com/press/press-releases/2026-3-11-viking-takes-delivery-of-newest-river-ship-in-europe.html"
+  }
+}

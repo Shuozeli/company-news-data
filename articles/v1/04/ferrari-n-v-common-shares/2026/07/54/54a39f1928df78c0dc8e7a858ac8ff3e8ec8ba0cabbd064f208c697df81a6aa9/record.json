@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "54a39f1928df78c0dc8e7a858ac8ff3e8ec8ba0cabbd064f208c697df81a6aa9",
+  "company": {
+    "key": "ferrari-n-v-common-shares",
+    "name": "Ferrari N.V. Common Shares"
+  },
+  "source": {
+    "id": "ferrari-n-v-common-shares-news-import-597b1f1fc06e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ferrari.com/en-EN/media-centre/articles/hungarian-grand-prix-2026-quali-recap",
+    "canonical": "https://www.ferrari.com/en-EN/media-centre/articles/hungarian-grand-prix-2026-quali-recap"
+  },
+  "title": "Hungarian Grand Prix - Qualifying recap: Lewis second, Charles third",
+  "summary": "",
+  "published_at": "2026-07-25T15:14:52+00:00",
+  "first_seen_at": "2026-07-27T02:21:11.609413+00:00",
+  "fetched_at": "2026-07-27T02:21:08.113880+00:00",
+  "last_updated_at": "2026-07-27T02:21:11.609413+00:00",
+  "paths": {
+    "article": "articles/v1/04/ferrari-n-v-common-shares/2026/07/54/54a39f1928df78c0dc8e7a858ac8ff3e8ec8ba0cabbd064f208c697df81a6aa9/article.md",
+    "record": "articles/v1/04/ferrari-n-v-common-shares/2026/07/54/54a39f1928df78c0dc8e7a858ac8ff3e8ec8ba0cabbd064f208c697df81a6aa9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1691,
+    "sha256": "sha256:6596b4b756f9794e71218ee0c311566cfad9c37c9d287dc10e5e307019db09c6",
+    "normalized_content_hash": "sha256:0a5bc29517735c68d363d310dadde6f40e6a4ce573d22ac72b5b3b2ee646dd48"
+  },
+  "provenance": {
+    "source_item_id": "e82e3712-0043-4a15-aa07-a13940939fe0",
+    "external_id": "https://www.ferrari.com/en-EN/media-centre/articles/hungarian-grand-prix-2026-quali-recap"
+  }
+}

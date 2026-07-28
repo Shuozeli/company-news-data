@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "736208ef24dfadc46c58012694f1c137d92d0427e40f179dbe280bfab36b973a",
+  "company": {
+    "key": "yc-cargo",
+    "name": "Cargo"
+  },
+  "source": {
+    "id": "yc-cargo-news-import-f4a8864e899b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.getcargo.ai/blog/gtm-as-code",
+    "canonical": "https://www.getcargo.ai/blog/gtm-as-code"
+  },
+  "title": "GTM as Code: Your GTM Is Already Software. You Just Can't See It.",
+  "summary": "Terraform moved infrastructure from console clicks to code. dbt did it for analytics. GTM is next: revenue logic defined in a repository, every decision with a receipt, every change previewed, tested and reversible. What GTM as Code means, and why AI agents make it possible now.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:22:40.350880+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-07-28T21:20:53.253271+00:00",
+  "paths": {
+    "article": "articles/v1/13/yc-cargo/2026/07/73/736208ef24dfadc46c58012694f1c137d92d0427e40f179dbe280bfab36b973a/article.md",
+    "record": "articles/v1/13/yc-cargo/2026/07/73/736208ef24dfadc46c58012694f1c137d92d0427e40f179dbe280bfab36b973a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11825,
+    "sha256": "sha256:4ede7498c5aa4e4f83b2f59eb434797391918d8bd70a7d3922339248a2f41f9e",
+    "normalized_content_hash": "sha256:bfd2f83a2aa67b0df4adf0b81e373e50582948c66f861f6efd8ef359fd5eab55"
+  },
+  "provenance": {
+    "source_item_id": "94b204a7-f4a4-4c6f-b5c8-be218f4d6c12",
+    "external_id": "https://www.getcargo.ai/blog/gtm-as-code"
+  }
+}

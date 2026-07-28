@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c1ba342f10e57dc733b165f4ce84eb50eea86363c83b007e2b7b52a71dceb1e",
+  "company": {
+    "key": "match-group-inc-common-stock",
+    "name": "Match Group Inc. Common Stock"
+  },
+  "source": {
+    "id": "match-group-inc-common-stock-rss-8d6595a8b1de",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mtch.com/single-news/tinder/tinder-brings-in-person-dating-events-to-more-cities-in-the-us-europe/",
+    "canonical": "https://mtch.com/single-news/tinder/tinder-brings-in-person-dating-events-to-more-cities-in-the-us-europe/"
+  },
+  "title": "Tinder Brings In-Person Dating Events to More Cities in the US, Europe",
+  "summary": "",
+  "published_at": "2026-07-24T21:58:56+00:00",
+  "first_seen_at": "2026-07-25T13:29:54.663931+00:00",
+  "fetched_at": "2026-07-28T22:16:03.784769+00:00",
+  "last_updated_at": "2026-07-28T22:16:03.992631+00:00",
+  "paths": {
+    "article": "articles/v1/ae/match-group-inc-common-stock/2026/07/3c/3c1ba342f10e57dc733b165f4ce84eb50eea86363c83b007e2b7b52a71dceb1e/article.md",
+    "record": "articles/v1/ae/match-group-inc-common-stock/2026/07/3c/3c1ba342f10e57dc733b165f4ce84eb50eea86363c83b007e2b7b52a71dceb1e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 683,
+    "sha256": "sha256:95f9d5278267c5bc7894db894691a8d777c45f42dd1d4ae7f630ae63f4b5350e",
+    "normalized_content_hash": "sha256:fd64782c713b685a2c1433bcd492705712454ddca0ec605b599b07e4e7c27755"
+  },
+  "provenance": {
+    "source_item_id": "42c6e6d4-fdfb-45a5-b99f-c224e227cbf0",
+    "external_id": "https://mtch.com/?p=4099"
+  }
+}

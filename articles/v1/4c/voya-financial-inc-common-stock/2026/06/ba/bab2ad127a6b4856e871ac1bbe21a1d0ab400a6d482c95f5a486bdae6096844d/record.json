@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bab2ad127a6b4856e871ac1bbe21a1d0ab400a6d482c95f5a486bdae6096844d",
+  "company": {
+    "key": "voya-financial-inc-common-stock",
+    "name": "Voya Financial Inc. Common Stock"
+  },
+  "source": {
+    "id": "voya-financial-inc-common-stock-news-import-b0c66a541ca6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.voya.com/news/2026/06/new-research-voya-sheds-light-opportunities-public-sector-employees-have-to-improve",
+    "canonical": "https://www.voya.com/news/2026/06/new-research-voya-sheds-light-opportunities-public-sector-employees-have-to-improve"
+  },
+  "title": "New research from Voya sheds light on the opportunities public sector employees have to improve their retirement confidence",
+  "summary": ".q4default .bwlistdecimal { list-style-type: decimal }Nearly 80 percent of government employees expressed interest in receiving guidance to help them feel more confident about their investment decisions.",
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:38:30.749551+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:21.613932+00:00",
+  "paths": {
+    "article": "articles/v1/4c/voya-financial-inc-common-stock/2026/06/ba/bab2ad127a6b4856e871ac1bbe21a1d0ab400a6d482c95f5a486bdae6096844d/article.md",
+    "record": "articles/v1/4c/voya-financial-inc-common-stock/2026/06/ba/bab2ad127a6b4856e871ac1bbe21a1d0ab400a6d482c95f5a486bdae6096844d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8305,
+    "sha256": "sha256:35ab301d8b7f79d76d02bb173eaf2045d7b81cbc2ee34d7c2ff95fbcf3ea6aa2",
+    "normalized_content_hash": "sha256:c769297dbf3c216aa2df96561fcfd90696b3d04905d615bdb89f078935576f34"
+  },
+  "provenance": {
+    "source_item_id": "04fb267d-38d9-4bd4-b06c-7a4914c057f7",
+    "external_id": "https://www.voya.com/news/2026/06/new-research-voya-sheds-light-opportunities-public-sector-employees-have-to-improve"
+  }
+}

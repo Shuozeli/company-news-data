@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bab1e95ce8feb37f25c21974a9785178e24c6ab55f250e6ebd621686d6cfb053",
+  "company": {
+    "key": "maximus-inc-common-stock",
+    "name": "Maximus Inc. Common Stock"
+  },
+  "source": {
+    "id": "maximus-inc-common-stock-news-import-372ed0e24380",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://maximus.com/news/ohio-ui-system-modernization-oversight",
+    "canonical": "https://maximus.com/news/ohio-ui-system-modernization-oversight"
+  },
+  "title": "IV&V for Ohio's UI system modernization",
+  "summary": "Ohio modernizes its unemployment insurance system with Maximus IV&V oversight for a streamlined user and claimant experience.",
+  "published_at": "2025-12-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:04:05.995070+00:00",
+  "fetched_at": "2026-07-28T22:24:57.117171+00:00",
+  "last_updated_at": "2026-07-28T22:25:03.330674+00:00",
+  "paths": {
+    "article": "articles/v1/76/maximus-inc-common-stock/2025/12/ba/bab1e95ce8feb37f25c21974a9785178e24c6ab55f250e6ebd621686d6cfb053/article.md",
+    "record": "articles/v1/76/maximus-inc-common-stock/2025/12/ba/bab1e95ce8feb37f25c21974a9785178e24c6ab55f250e6ebd621686d6cfb053/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3467,
+    "sha256": "sha256:e088edb6ab62373722136f3cbb0df54f0c5c541e05a448234d1e2d3d8ca3c7e8",
+    "normalized_content_hash": "sha256:73f0710a7580b46a82d46dbf51fdf991888449d02e53cb80e3c255088ab1a93c"
+  },
+  "provenance": {
+    "source_item_id": "bb830464-f073-43e5-ad8c-02c50876a7ec",
+    "external_id": "https://maximus.com/news/ohio-ui-system-modernization-oversight"
+  }
+}

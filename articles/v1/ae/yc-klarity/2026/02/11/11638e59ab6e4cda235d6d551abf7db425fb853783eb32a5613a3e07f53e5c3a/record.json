@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11638e59ab6e4cda235d6d551abf7db425fb853783eb32a5613a3e07f53e5c3a",
+  "company": {
+    "key": "yc-klarity",
+    "name": "Klarity"
+  },
+  "source": {
+    "id": "yc-klarity-news-import-eb5790299337",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.klarity.ai/resources/blog/task-mining-vs-process-mining-vs-klarity",
+    "canonical": "https://klarity.ai/resources/blog/task-mining-vs-process-mining-vs-klarity"
+  },
+  "title": "Task Mining, Process Mining, or Klarity?",
+  "summary": "How do Task Mining, Process Mining and Klarity stack up? A quick breakdown of the differences.",
+  "published_at": "2026-02-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:34:36.098678+00:00",
+  "fetched_at": "2026-07-28T22:20:59.045830+00:00",
+  "last_updated_at": "2026-07-28T22:21:10.644264+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-klarity/2026/02/11/11638e59ab6e4cda235d6d551abf7db425fb853783eb32a5613a3e07f53e5c3a/article.md",
+    "record": "articles/v1/ae/yc-klarity/2026/02/11/11638e59ab6e4cda235d6d551abf7db425fb853783eb32a5613a3e07f53e5c3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3741,
+    "sha256": "sha256:bfaca6d0f8f87d451d592a8f9f937ac31303023f4299c15a3e7371a57a293470",
+    "normalized_content_hash": "sha256:bdec3be724b9234d17dff5c4cdbad790784dfe91cddf599e8c6fd05ce00c6ee5"
+  },
+  "provenance": {
+    "source_item_id": "b459a0c0-2012-4787-adb4-8940b04a9765",
+    "external_id": "https://klarity.ai/resources/blog/task-mining-vs-process-mining-vs-klarity"
+  }
+}

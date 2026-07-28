@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "947efa039bd13e851a5b7457fd5040c59de0c801eca6e31f1f0293d4a403f5bf",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-8892e125c773",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nullstone.io/blog-posts/datadog-integration-with-aws",
+    "canonical": "https://nullstone.io/blog-posts/datadog-integration-with-aws"
+  },
+  "title": "Datadog Integration with AWS",
+  "summary": "Datadog has 5 methods for ingesting logs and metrics. In this article, we'll explore performance, cost, and ease of integration of each method.",
+  "published_at": "2021-10-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:17:35.365256+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:27.690157+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2021/10/94/947efa039bd13e851a5b7457fd5040c59de0c801eca6e31f1f0293d4a403f5bf/article.md",
+    "record": "articles/v1/da/yc-nullstone/2021/10/94/947efa039bd13e851a5b7457fd5040c59de0c801eca6e31f1f0293d4a403f5bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8529,
+    "sha256": "sha256:02bc084e3e7751895f2aa05113748e74bc7eb334be79fe32c258d730a77205b0",
+    "normalized_content_hash": "sha256:82d388c7ef53728d8f27cbc2b910adddf8456c83b88f1094dc1403da735ba3c4"
+  },
+  "provenance": {
+    "source_item_id": "296368d1-d14b-4f71-a997-23e4139d144a",
+    "external_id": "https://nullstone.io/blog-posts/datadog-integration-with-aws"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98e95c95b1248ddf6a748c37ec658c0093d623c7ae87f1d616c990941d1eaf3d",
+  "company": {
+    "key": "first-community-corporation-common-stock",
+    "name": "First Community Corporation Common Stock"
+  },
+  "source": {
+    "id": "first-community-corporation-common-stock-news-import-902f5a20857d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firstcommunitysc.com/about/news/2021/09/15/first-community-bank-recognized-for-outstanding-commercial-lending",
+    "canonical": "https://www.firstcommunitysc.com/about/news/2021/09/15/first-community-bank-recognized-for-outstanding-commercial-lending"
+  },
+  "title": "First Community Bank Recognized for Outstanding Commercial Lending",
+  "summary": "First Community Bank was recognized with three awards for commercial lending excellence during the annual meeting of the Business Development Corporation Of South Carolina (BDC) and its associate company Certified Development Corporation (CDC).",
+  "published_at": "2021-09-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:36:16.542051+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.979923+00:00",
+  "paths": {
+    "article": "articles/v1/56/first-community-corporation-common-stock/2021/09/98/98e95c95b1248ddf6a748c37ec658c0093d623c7ae87f1d616c990941d1eaf3d/article.md",
+    "record": "articles/v1/56/first-community-corporation-common-stock/2021/09/98/98e95c95b1248ddf6a748c37ec658c0093d623c7ae87f1d616c990941d1eaf3d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2227,
+    "sha256": "sha256:e1d66f5e9f093f01264a60fdf2022582f1e90f1b4f6aeee1a957c362b69bff09",
+    "normalized_content_hash": "sha256:473d53859cc77bbd08c55f9f6155bdb3e08412b3bde196a51df8bc39b6739e15"
+  },
+  "provenance": {
+    "source_item_id": "34431c23-6004-427c-b889-8e9424df4c1e",
+    "external_id": "https://www.firstcommunitysc.com/about/news/2021/09/15/first-community-bank-recognized-for-outstanding-commercial-lending"
+  }
+}

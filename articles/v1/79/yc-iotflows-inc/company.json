@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-iotflows-inc",
+    "name": "IoTFlows Inc"
+  },
+  "record_count": 15,
+  "first_published_at": "2023-03-01T11:43:00+00:00",
+  "last_published_at": "2026-04-24T12:58:39+00:00",
+  "partitions": [
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ]
+}

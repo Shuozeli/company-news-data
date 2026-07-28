@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "williams-sonoma-inc-common-stock-de",
+    "name": "Williams-Sonoma Inc. Common Stock (DE)"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-05-19T13:00:00+00:00",
+  "last_published_at": "2026-07-10T12:55:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

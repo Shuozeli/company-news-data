@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "809af9e3081daae51f236b05415da20902215ce01d307196adc12bbc6ce671c0",
+  "company": {
+    "key": "yc-concourse",
+    "name": "Concourse"
+  },
+  "source": {
+    "id": "yc-concourse-news-import-c7979aaf4bde",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.concourse.ai/insights/what-ai-agents-do-finance",
+    "canonical": "https://www.concourse.co/insights/what-ai-agents-do-finance"
+  },
+  "title": "What AI Agents do for Finance Teams (With Real Examples)",
+  "summary": "AI agents for finance automate workflows like variance analysis, AR aging, and forecasting, saving teams hours weekly and accelerating decisions.",
+  "published_at": "2025-07-17T20:34:28.226+00:00",
+  "first_seen_at": "2026-07-27T01:13:47.982979+00:00",
+  "fetched_at": "2026-07-28T21:27:44.796938+00:00",
+  "last_updated_at": "2026-07-28T21:30:31.596290+00:00",
+  "paths": {
+    "article": "articles/v1/87/yc-concourse/2025/07/80/809af9e3081daae51f236b05415da20902215ce01d307196adc12bbc6ce671c0/article.md",
+    "record": "articles/v1/87/yc-concourse/2025/07/80/809af9e3081daae51f236b05415da20902215ce01d307196adc12bbc6ce671c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15321,
+    "sha256": "sha256:d4c4604138d9eb8b1b280a1e92bebd66337c77d523bc598ea4deb8f70854e322",
+    "normalized_content_hash": "sha256:25a70a7a95d3d0ad4d51cdf445d5ca7c567353813efe3c887154dfbf613c12ba"
+  },
+  "provenance": {
+    "source_item_id": "712e043b-86e8-47e0-9e18-acd7c527a9a1",
+    "external_id": "https://www.concourse.co/insights/what-ai-agents-do-finance"
+  }
+}

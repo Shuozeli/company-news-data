@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99c7143e1f0c6c70695fc15b1c10b29720ad2c526d5cfa5481dab27e725bfe8f",
+  "company": {
+    "key": "zeta-global-holdings-corp-class-a-common-stock",
+    "name": "Zeta Global Holdings Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "zeta-global-holdings-corp-class-a-common-stock-news-import-e9c05156a315",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeta.tech/us/resources/newsroom/zeta-mastercard-partner-to-power-next-gen-credit-cards/",
+    "canonical": "https://www.zeta.tech/us/resources/newsroom/zeta-mastercard-partner-to-power-next-gen-credit-cards/"
+  },
+  "title": "Zeta and Mastercard partner to power next-gen credit processing for banks and fintechs",
+  "summary": "Zeta and Mastercard partner to power next-gen credit processing for banks and fintechs",
+  "published_at": "2022-03-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:04:03.656318+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:34.482183+00:00",
+  "paths": {
+    "article": "articles/v1/aa/zeta-global-holdings-corp-class-a-common-stock/2022/03/99/99c7143e1f0c6c70695fc15b1c10b29720ad2c526d5cfa5481dab27e725bfe8f/article.md",
+    "record": "articles/v1/aa/zeta-global-holdings-corp-class-a-common-stock/2022/03/99/99c7143e1f0c6c70695fc15b1c10b29720ad2c526d5cfa5481dab27e725bfe8f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6693,
+    "sha256": "sha256:691a7c5912e9b87c370fb87d0786784e30f0fa8a9014332a94af43a54dd2bc6b",
+    "normalized_content_hash": "sha256:1ec5fc3b4a088d2f53b8b9c88a780c662b31dd751f14e31e8892f302df9bcecf"
+  },
+  "provenance": {
+    "source_item_id": "dc327010-c894-447d-84c6-93f5f22cd3f5",
+    "external_id": "https://www.zeta.tech/us/resources/newsroom/zeta-mastercard-partner-to-power-next-gen-credit-cards/"
+  }
+}

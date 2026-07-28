@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-shasta-health",
+    "name": "Shasta Health"
+  },
+  "record_count": 20,
+  "first_published_at": "2024-11-20T02:12:40.865325+00:00",
+  "last_published_at": "2024-12-02T19:14:05.390796+00:00",
+  "partitions": [
+    {
+      "partition": "2024-11",
+      "record_count": 15
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 5
+    }
+  ]
+}

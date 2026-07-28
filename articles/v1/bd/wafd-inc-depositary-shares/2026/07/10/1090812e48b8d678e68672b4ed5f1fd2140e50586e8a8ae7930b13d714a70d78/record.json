@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1090812e48b8d678e68672b4ed5f1fd2140e50586e8a8ae7930b13d714a70d78",
+  "company": {
+    "key": "wafd-inc-depositary-shares",
+    "name": "WaFd Inc. Depositary Shares"
+  },
+  "source": {
+    "id": "wafd-inc-depositary-shares-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/home-ownership",
+    "canonical": "https://www.wafdbank.com/articles/home-ownership"
+  },
+  "title": "Home Ownership Tips | WaFd Bank",
+  "summary": "Learn about the latest home ownership tips from WaFd Bank including tips for first time home buyers, if you should buy that fixer upper, and more.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T05:02:34.283464+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:25.828487+00:00",
+  "paths": {
+    "article": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/10/1090812e48b8d678e68672b4ed5f1fd2140e50586e8a8ae7930b13d714a70d78/article.md",
+    "record": "articles/v1/bd/wafd-inc-depositary-shares/2026/07/10/1090812e48b8d678e68672b4ed5f1fd2140e50586e8a8ae7930b13d714a70d78/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1413,
+    "sha256": "sha256:1a1a7d7ad94ea494f22a195dafcf814a5c5a019213b0929fcc7066c189769e1e",
+    "normalized_content_hash": "sha256:d1191dec2d6fb09c87d91647d14d198a072e95898769ba6e9580fe90ec80fc48"
+  },
+  "provenance": {
+    "source_item_id": "4fe37240-cb87-434a-af80-e3c828453b22",
+    "external_id": "https://www.wafdbank.com/articles/home-ownership"
+  }
+}

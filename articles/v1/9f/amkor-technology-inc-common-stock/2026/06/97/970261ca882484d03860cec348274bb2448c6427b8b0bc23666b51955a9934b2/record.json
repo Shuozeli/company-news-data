@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "970261ca882484d03860cec348274bb2448c6427b8b0bc23666b51955a9934b2",
+  "company": {
+    "key": "amkor-technology-inc-common-stock",
+    "name": "Amkor Technology Inc. Common Stock"
+  },
+  "source": {
+    "id": "amkor-technology-inc-common-stock-news-import-c3e4c050930c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amkor.com/blog/amkor-ectc-2026-advanced-packaging/",
+    "canonical": "https://amkor.com/blog/amkor-ectc-2026-advanced-packaging/"
+  },
+  "title": "Amkor ECTC 2026: Packaging & U.S. Expansion",
+  "summary": "Amkor showcases advanced packaging and U.S. expansion at ECTC 2026, driving innovation in AI, HPC, and semiconductor manufacturing.",
+  "published_at": "2026-06-05T21:35:54+00:00",
+  "first_seen_at": "2026-07-24T16:34:56.885040+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-07-28T21:43:20.247955+00:00",
+  "paths": {
+    "article": "articles/v1/9f/amkor-technology-inc-common-stock/2026/06/97/970261ca882484d03860cec348274bb2448c6427b8b0bc23666b51955a9934b2/article.md",
+    "record": "articles/v1/9f/amkor-technology-inc-common-stock/2026/06/97/970261ca882484d03860cec348274bb2448c6427b8b0bc23666b51955a9934b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4912,
+    "sha256": "sha256:887996f27b96301fb0034ebaab36da9c0adf9b3136ca72d327ece301db4998de",
+    "normalized_content_hash": "sha256:0100a1500ca07a3df338d3988f8775fcd95c960ffbf425c4020dbee03f8dc239"
+  },
+  "provenance": {
+    "source_item_id": "ca6a76ba-7cb3-4725-9c5a-ea22647e4612",
+    "external_id": "https://amkor.com/blog/amkor-ectc-2026-advanced-packaging/"
+  }
+}

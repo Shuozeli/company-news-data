@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "daf13b58f6273248bd4926bec25a1d0a71329f6c2f61e52c53effb67831008b2",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/a-robust-system-to-handle-and-display-complex-errors",
+    "canonical": "https://www.flightcontrol.dev/blog/a-robust-system-to-handle-and-display-complex-errors"
+  },
+  "title": "A robust system to handle and display complex errors",
+  "summary": "We built a custom TypeScript error system to easily manage many complex errors and display specific, helpful information to users",
+  "published_at": "2024-02-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:03.738222+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2024/02/da/daf13b58f6273248bd4926bec25a1d0a71329f6c2f61e52c53effb67831008b2/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2024/02/da/daf13b58f6273248bd4926bec25a1d0a71329f6c2f61e52c53effb67831008b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6846,
+    "sha256": "sha256:aa192d08762f8b62245e0c6982c152033ecc207cac94aad12f2b1695a7da5fed",
+    "normalized_content_hash": "sha256:dfbdb585f4afabd92fdc01f1338eee4428a6d4b52b4c2b54620f3a889024ee48"
+  },
+  "provenance": {
+    "source_item_id": "2aa27c35-a3ce-47ac-9803-0fda4cec7127",
+    "external_id": "https://www.flightcontrol.dev/blog/a-robust-system-to-handle-and-display-complex-errors"
+  }
+}

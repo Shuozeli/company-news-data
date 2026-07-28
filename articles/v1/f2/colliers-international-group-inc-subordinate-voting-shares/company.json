@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "colliers-international-group-inc-subordinate-voting-shares",
+    "name": "Colliers International Group Inc. Subordinate Voting Shares"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-03-31T20:01:00+00:00",
+  "last_published_at": "2026-07-06T18:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0863ca7b912dc0737ee8b79168d0ca3e004669caaca4a1bb185c05c14f25b73c",
+  "company": {
+    "key": "genasys-inc-common-stock",
+    "name": "Genasys Inc. Common Stock"
+  },
+  "source": {
+    "id": "genasys-inc-common-stock-news-import-86acd8f701ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://genasys.com/press-releases/genasys-announces-new-protective-communications-orders/",
+    "canonical": "https://genasys.com/press-releases/genasys-announces-new-protective-communications-orders/"
+  },
+  "title": "Genasys Announces New Protective Communications and Emergency Management Service Orders",
+  "summary": "Genasys expands coverage in California and into Idaho",
+  "published_at": "2026-04-07T13:15:48+00:00",
+  "first_seen_at": "2026-07-25T06:23:32.722704+00:00",
+  "fetched_at": "2026-07-28T21:25:41.488077+00:00",
+  "last_updated_at": "2026-07-28T21:26:12.994936+00:00",
+  "paths": {
+    "article": "articles/v1/26/genasys-inc-common-stock/2026/04/08/0863ca7b912dc0737ee8b79168d0ca3e004669caaca4a1bb185c05c14f25b73c/article.md",
+    "record": "articles/v1/26/genasys-inc-common-stock/2026/04/08/0863ca7b912dc0737ee8b79168d0ca3e004669caaca4a1bb185c05c14f25b73c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6329,
+    "sha256": "sha256:93d42cdb65993dac3ef9dc30998ae55591b71f198a9d39742865a00638ffcfa6",
+    "normalized_content_hash": "sha256:4addf852454265b1e0d28ddcd8ade179663c4a2738a95e3201b910e1bb65b14e"
+  },
+  "provenance": {
+    "source_item_id": "e11354f9-c3d9-4645-947a-67f3a3e4032f",
+    "external_id": "https://genasys.com/press-releases/genasys-announces-new-protective-communications-orders/"
+  }
+}

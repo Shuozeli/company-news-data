@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-mux",
+    "name": "Mux"
+  },
+  "record_count": 15,
+  "first_published_at": "2026-04-14T15:28:31.538+00:00",
+  "last_published_at": "2026-07-09T15:41:32.645+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

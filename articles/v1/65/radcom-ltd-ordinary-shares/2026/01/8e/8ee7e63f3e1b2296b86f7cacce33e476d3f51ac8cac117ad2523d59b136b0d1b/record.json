@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ee7e63f3e1b2296b86f7cacce33e476d3f51ac8cac117ad2523d59b136b0d1b",
+  "company": {
+    "key": "radcom-ltd-ordinary-shares",
+    "name": "Radcom Ltd. Ordinary Shares"
+  },
+  "source": {
+    "id": "radcom-ltd-ordinary-shares-news-import-c6fc06ca9009",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://radcom.com/latest-news/radcom-to-participate-in-28th-annual-needham-growth-conference/",
+    "canonical": "https://radcom.com/latest-news/radcom-to-participate-in-28th-annual-needham-growth-conference/"
+  },
+  "title": "RADCOM to Participate in 28th Annual Needham Growth Conference",
+  "summary": "Latest News from RADCOM : RADCOM to Participate in 28th Annual Needham Growth Conference",
+  "published_at": "2026-01-06T12:02:59+00:00",
+  "first_seen_at": "2026-07-25T20:30:22.274095+00:00",
+  "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+  "last_updated_at": "2026-07-28T21:27:32.619580+00:00",
+  "paths": {
+    "article": "articles/v1/65/radcom-ltd-ordinary-shares/2026/01/8e/8ee7e63f3e1b2296b86f7cacce33e476d3f51ac8cac117ad2523d59b136b0d1b/article.md",
+    "record": "articles/v1/65/radcom-ltd-ordinary-shares/2026/01/8e/8ee7e63f3e1b2296b86f7cacce33e476d3f51ac8cac117ad2523d59b136b0d1b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2980,
+    "sha256": "sha256:c189256609eda2d6fa98e84e2104bb4b7a6c67330a6c5bab2aa73ef65667f609",
+    "normalized_content_hash": "sha256:64dccf4c94eb9b8d8e7a3ecb02c4569942d2f3cac433fc2740df5f53ca613fd9"
+  },
+  "provenance": {
+    "source_item_id": "7fdb5774-cf5d-41f3-ac6e-74c885961694",
+    "external_id": "https://radcom.com/latest-news/radcom-to-participate-in-28th-annual-needham-growth-conference/"
+  }
+}

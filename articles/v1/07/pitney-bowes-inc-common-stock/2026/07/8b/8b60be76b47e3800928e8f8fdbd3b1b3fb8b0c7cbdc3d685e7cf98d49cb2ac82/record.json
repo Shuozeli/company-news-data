@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8b60be76b47e3800928e8f8fdbd3b1b3fb8b0c7cbdc3d685e7cf98d49cb2ac82",
+  "company": {
+    "key": "pitney-bowes-inc-common-stock",
+    "name": "Pitney Bowes Inc. Common Stock"
+  },
+  "source": {
+    "id": "pitney-bowes-inc-common-stock-news-import-dfaa9c6403ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pitneybowes.com/us/blog/shipping.html",
+    "canonical": "https://www.pitneybowes.com/us/blog/shipping.html"
+  },
+  "title": "Shipping Blog | Pitney Bowes",
+  "summary": "Read articles about sending parcels and packages for business.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T19:17:04.982426+00:00",
+  "fetched_at": "2026-07-28T21:51:45.437859+00:00",
+  "last_updated_at": "2026-07-28T21:51:50.931821+00:00",
+  "paths": {
+    "article": "articles/v1/07/pitney-bowes-inc-common-stock/2026/07/8b/8b60be76b47e3800928e8f8fdbd3b1b3fb8b0c7cbdc3d685e7cf98d49cb2ac82/article.md",
+    "record": "articles/v1/07/pitney-bowes-inc-common-stock/2026/07/8b/8b60be76b47e3800928e8f8fdbd3b1b3fb8b0c7cbdc3d685e7cf98d49cb2ac82/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8335,
+    "sha256": "sha256:a373f1e2f209837490ba7ec84931c6fee9e1af103bf200ad5f3ee5b0213725b6",
+    "normalized_content_hash": "sha256:555dbddeb2b6e5cfeed1348850d698bb6a94d91fa709e847a3310478e03e4a8d"
+  },
+  "provenance": {
+    "source_item_id": "25422d88-97ae-4044-9773-96a1c0139c52",
+    "external_id": "https://www.pitneybowes.com/us/blog/shipping.html"
+  }
+}

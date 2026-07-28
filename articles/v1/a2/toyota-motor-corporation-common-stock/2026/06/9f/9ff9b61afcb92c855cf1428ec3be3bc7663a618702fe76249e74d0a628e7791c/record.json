@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9ff9b61afcb92c855cf1428ec3be3bc7663a618702fe76249e74d0a628e7791c",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-rss-16a5c5d98662",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://toyota-racing-newsroom.com/blog/wec/artikel/2026-le-mans-24-hours-race/text",
+    "canonical": "https://toyota-racing-newsroom.com/blog/wec/artikel/2026-le-mans-24-hours-race/text"
+  },
+  "title": "Le Mans 24 Hours: Race Le Mans victory for TOYOTA RACING",
+  "summary": "2026 Le Mans 24 Hours: Race",
+  "published_at": "2026-06-15T03:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:04.243193+00:00",
+  "fetched_at": "2026-07-28T21:13:18.116875+00:00",
+  "last_updated_at": "2026-07-28T22:04:35.960331+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/06/9f/9ff9b61afcb92c855cf1428ec3be3bc7663a618702fe76249e74d0a628e7791c/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/06/9f/9ff9b61afcb92c855cf1428ec3be3bc7663a618702fe76249e74d0a628e7791c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7520,
+    "sha256": "sha256:b86c245cf800fc5d75da07d9a2d588bc1b437b183d1ca96a170d2d3af5a1bcd5",
+    "normalized_content_hash": "sha256:b363ac3aea9a87d95e5ddb4b3475a759ea04e507f2d3864c825a502087b9ce93"
+  },
+  "provenance": {
+    "source_item_id": "1c4e884f-bcfa-40f3-9247-907a5a9d8160",
+    "external_id": "a56d1c589a8477e63a24447ce2188a5d"
+  }
+}

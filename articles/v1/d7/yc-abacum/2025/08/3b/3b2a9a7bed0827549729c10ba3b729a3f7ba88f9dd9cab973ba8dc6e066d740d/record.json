@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3b2a9a7bed0827549729c10ba3b729a3f7ba88f9dd9cab973ba8dc6e066d740d",
+  "company": {
+    "key": "yc-abacum",
+    "name": "Abacum"
+  },
+  "source": {
+    "id": "yc-abacum-news-import-0f3038283d34",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.abacum.ai/newsroom/why-we-re-doubling-down-on-the-us-market-at-abacum",
+    "canonical": "https://www.abacum.ai/newsroom/why-we-re-doubling-down-on-the-us-market-at-abacum"
+  },
+  "title": "Why we’re doubling down on the US market at Abacum",
+  "summary": "Abacum is the AI-native FP&A platform built for CFOs to connect data, workflows and teams, simplifying planning and reporting with 700+ integrations.",
+  "published_at": "2025-08-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T00:54:19.775643+00:00",
+  "fetched_at": "2026-07-26T17:01:26.732341+00:00",
+  "last_updated_at": "2026-07-26T17:01:31.247960+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-abacum/2025/08/3b/3b2a9a7bed0827549729c10ba3b729a3f7ba88f9dd9cab973ba8dc6e066d740d/article.md",
+    "record": "articles/v1/d7/yc-abacum/2025/08/3b/3b2a9a7bed0827549729c10ba3b729a3f7ba88f9dd9cab973ba8dc6e066d740d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1278,
+    "sha256": "sha256:2aa0bf7738b7b567f69d6d7ed5bbe65c8aa5ac79dd0b7e731c8ebc1dcab37fdb",
+    "normalized_content_hash": "sha256:074f472ffe918ccc0b1ef62a92ac963f2103038e824b2b7858c167be2622e076"
+  },
+  "provenance": {
+    "source_item_id": "87ba84b3-8e04-4e77-97b5-c37bd73d2ced",
+    "external_id": "https://www.abacum.ai/newsroom/why-we-re-doubling-down-on-the-us-market-at-abacum"
+  }
+}

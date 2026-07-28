@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "07aef78fb6225e3dd705a9cd4bb2b3b50824c520086cfae8fba226c4eb37a349",
+  "company": {
+    "key": "lyft-inc-class-a-common-stock",
+    "name": "Lyft Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "lyft-inc-class-a-common-stock-news-import-f0ec9226ab22",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lyft.com/blog/posts/job-access-program-500k-investment",
+    "canonical": "https://www.lyft.com/blog/posts/job-access-program-500k-investment"
+  },
+  "title": "Lyft's Jobs Access Program Hits $500K in 2026",
+  "summary": "Lyft's Jobs Access program surpassed $500K in 2026 investments with Ford, Verizon, and Indeed, breaking down transportation barriers to employment nationwide.",
+  "published_at": "2026-07-15T12:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:16:24.527821+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:22:00.390420+00:00",
+  "paths": {
+    "article": "articles/v1/92/lyft-inc-class-a-common-stock/2026/07/07/07aef78fb6225e3dd705a9cd4bb2b3b50824c520086cfae8fba226c4eb37a349/article.md",
+    "record": "articles/v1/92/lyft-inc-class-a-common-stock/2026/07/07/07aef78fb6225e3dd705a9cd4bb2b3b50824c520086cfae8fba226c4eb37a349/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7683,
+    "sha256": "sha256:5dc87f3243938b2b3f7c58969de5592a981f14d167ee005187ce1f679178b140",
+    "normalized_content_hash": "sha256:49e8de70f40ddbef76a53c6e4d6657d03d2f437b838ced24b0384cc935d926ae"
+  },
+  "provenance": {
+    "source_item_id": "2d859c91-816f-465a-91c3-3ea17e784446",
+    "external_id": "https://www.lyft.com/blog/posts/job-access-program-500k-investment"
+  }
+}

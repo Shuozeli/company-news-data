@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a78201ccf53590747a3d0427d3b3134dede1312f685149cdfd8f2207a2e4941c",
+  "company": {
+    "key": "yc-soff",
+    "name": "Soff"
+  },
+  "source": {
+    "id": "yc-soff-news-import-4dedfaf764fe",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://soff.ai/blog/cyclone",
+    "canonical": "https://soff.ai/blog/cyclone"
+  },
+  "title": "How Cyclone Bolt Uses Soff to Increase Revenue",
+  "summary": "By adopting Soff, Cyclone Bolt transformed a manual, trust-based system into a data-driven growth engine.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T01:34:43.478709+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:51.465338+00:00",
+  "paths": {
+    "article": "articles/v1/6c/yc-soff/2026/07/a7/a78201ccf53590747a3d0427d3b3134dede1312f685149cdfd8f2207a2e4941c/article.md",
+    "record": "articles/v1/6c/yc-soff/2026/07/a7/a78201ccf53590747a3d0427d3b3134dede1312f685149cdfd8f2207a2e4941c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3295,
+    "sha256": "sha256:533920ef7bdcc7236c0a2e1a610a42ccb1ae09a19e5631149fe87f7b1bdca444",
+    "normalized_content_hash": "sha256:e5d5ea029ba8fb8085ae5578ac957245ea3c59bbb02c7f6020e1ef372bdcbc84"
+  },
+  "provenance": {
+    "source_item_id": "086a358c-6dd5-4b47-bf5a-519fe792c4c2",
+    "external_id": "https://soff.ai/blog/cyclone"
+  }
+}

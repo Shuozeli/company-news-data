@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6dcba10c0673605bbecaed47ecd83633ec33503c55b9814b41eeecea9f48c213",
+  "company": {
+    "key": "redwire-corporation-common-stock",
+    "name": "Redwire Corporation Common Stock"
+  },
+  "source": {
+    "id": "redwire-corporation-common-stock-rss-a3eb383a60df",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rdw.com/newsroom/tapping-industry-for-ai-power/",
+    "canonical": "https://rdw.com/newsroom/tapping-industry-for-ai-power/"
+  },
+  "title": "Tapping Industry for AI Power",
+  "summary": "The latest Apogee Magazine feature looks at how government agencies are increasingly turning to commercial partners to advance AI‑enabled space operations. As missions become more complex and data…",
+  "published_at": "2026-05-22T17:59:49+00:00",
+  "first_seen_at": "2026-07-20T23:18:23.159838+00:00",
+  "fetched_at": "2026-07-28T21:55:52.188627+00:00",
+  "last_updated_at": "2026-07-28T21:56:34.137533+00:00",
+  "paths": {
+    "article": "articles/v1/f0/redwire-corporation-common-stock/2026/05/6d/6dcba10c0673605bbecaed47ecd83633ec33503c55b9814b41eeecea9f48c213/article.md",
+    "record": "articles/v1/f0/redwire-corporation-common-stock/2026/05/6d/6dcba10c0673605bbecaed47ecd83633ec33503c55b9814b41eeecea9f48c213/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1627,
+    "sha256": "sha256:1299d247279e10b56e9f6c32a70751ba0718b5b81949f5d8a2a7ad5d7692c83e",
+    "normalized_content_hash": "sha256:f84eda60d2d588be7623cc4db59b723365c6884a7698751557cff579b6fd559d"
+  },
+  "provenance": {
+    "source_item_id": "bb0b2bba-4de1-4db4-8fa1-998460b706c0",
+    "external_id": "https://rdw.com/?p=96294"
+  }
+}

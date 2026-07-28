@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f5bd5fee1df48fde6a677906f3204dd628b1945d76ba8b2b6b16ab7538c764bc",
+  "company": {
+    "key": "cargurus-inc-class-a-common-stock",
+    "name": "CarGurus Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "cargurus-inc-class-a-common-stock-news-import-4fb42a3fc17e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cargurus.com/research/articles/2026-subaru-impreza-pricing-specs-release-date",
+    "canonical": "https://www.cargurus.com/research/articles/2026-subaru-impreza-pricing-specs-release-date"
+  },
+  "title": "2026 Subaru Impreza Pricing, Specs, and Release Date",
+  "summary": "For 2027, the Subaru Impreza gets a flashy new paint color and what the automaker claims is a more refined engine. The most affordable base trim is no longer available.",
+  "published_at": null,
+  "first_seen_at": "2026-07-28T00:54:51.007630+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.131674+00:00",
+  "paths": {
+    "article": "articles/v1/c5/cargurus-inc-class-a-common-stock/2026/07/f5/f5bd5fee1df48fde6a677906f3204dd628b1945d76ba8b2b6b16ab7538c764bc/article.md",
+    "record": "articles/v1/c5/cargurus-inc-class-a-common-stock/2026/07/f5/f5bd5fee1df48fde6a677906f3204dd628b1945d76ba8b2b6b16ab7538c764bc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6270,
+    "sha256": "sha256:42af6ebddc905425a8e4fb7d4573a293ff3b1ee4126268335bcfc70063039011",
+    "normalized_content_hash": "sha256:923cde9df4fab7038146db4b3088fc1072e94f49cafdd747cb53dd7875f06c5b"
+  },
+  "provenance": {
+    "source_item_id": "ab74451c-97cc-48e3-bd49-89321ba4ab4e",
+    "external_id": "https://www.cargurus.com/research/articles/2026-subaru-impreza-pricing-specs-release-date"
+  }
+}

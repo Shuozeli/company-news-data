@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "25d7cec5f6ebce05a41c2220f476b01b811c42b8a0b841196deb5cd9c2827724",
+  "company": {
+    "key": "moody-s-corporation-common-stock",
+    "name": "Moody's Corporation Common Stock"
+  },
+  "source": {
+    "id": "moody-s-corporation-common-stock-news-import-112754bd8765",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.moodys.com/web/en/us/creditview/blog/prompting-series-recent-developments-and-news.html.html",
+    "canonical": "https://www.moodys.com/web/en/us/creditview/blog/prompting-series-recent-developments-and-news.html.html"
+  },
+  "title": "Prompting Part 5: Recent Developments and News",
+  "summary": "Whether you're identifying emerging risks, tracking credit outlook shifts, or preparing targeted talking points, our expertly validated prompts are designed to deliver clarity and precision — helping you think strategically and act confidently.",
+  "published_at": "2025-07-04T16:14:00+00:00",
+  "first_seen_at": "2026-07-22T04:52:53.039531+00:00",
+  "fetched_at": "2026-07-28T21:27:44.796938+00:00",
+  "last_updated_at": "2026-07-28T21:30:34.998943+00:00",
+  "paths": {
+    "article": "articles/v1/e4/moody-s-corporation-common-stock/2025/07/25/25d7cec5f6ebce05a41c2220f476b01b811c42b8a0b841196deb5cd9c2827724/article.md",
+    "record": "articles/v1/e4/moody-s-corporation-common-stock/2025/07/25/25d7cec5f6ebce05a41c2220f476b01b811c42b8a0b841196deb5cd9c2827724/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8706,
+    "sha256": "sha256:1f1d8f2361bd7f319ace16d3bc125613f1bf671398f55e5a58bd7aeffedaa291",
+    "normalized_content_hash": "sha256:6505d68fca796cdcaaced24a88d4586a80ed107ff60d315fdf594805f371e25e"
+  },
+  "provenance": {
+    "source_item_id": "1f0e307d-27fa-44ac-8f07-b8e8cec90f30",
+    "external_id": "https://www.moodys.com/web/en/us/creditview/blog/prompting-series-recent-developments-and-news.html.html"
+  }
+}

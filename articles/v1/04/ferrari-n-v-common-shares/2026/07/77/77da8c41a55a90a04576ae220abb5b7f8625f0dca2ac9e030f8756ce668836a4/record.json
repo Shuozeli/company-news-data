@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "77da8c41a55a90a04576ae220abb5b7f8625f0dca2ac9e030f8756ce668836a4",
+  "company": {
+    "key": "ferrari-n-v-common-shares",
+    "name": "Ferrari N.V. Common Shares"
+  },
+  "source": {
+    "id": "ferrari-n-v-common-shares-news-import-597b1f1fc06e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ferrari.com/en-EN/media-centre/articles/hungarian-grand-prix-2026-sunday-report",
+    "canonical": "https://www.ferrari.com/en-EN/media-centre/articles/hungarian-grand-prix-2026-sunday-report"
+  },
+  "title": "Hungarian Grand Prix - A Sunday spent in traffic",
+  "summary": "",
+  "published_at": "2026-07-26T17:28:59+00:00",
+  "first_seen_at": "2026-07-27T02:21:11.609413+00:00",
+  "fetched_at": "2026-07-28T03:18:52.271990+00:00",
+  "last_updated_at": "2026-07-28T03:18:55.566347+00:00",
+  "paths": {
+    "article": "articles/v1/04/ferrari-n-v-common-shares/2026/07/77/77da8c41a55a90a04576ae220abb5b7f8625f0dca2ac9e030f8756ce668836a4/article.md",
+    "record": "articles/v1/04/ferrari-n-v-common-shares/2026/07/77/77da8c41a55a90a04576ae220abb5b7f8625f0dca2ac9e030f8756ce668836a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5331,
+    "sha256": "sha256:f8d52cd9c122bda76404e89f8728ed2a9dc1a8c3e5fdffeb33284278d3e06f07",
+    "normalized_content_hash": "sha256:d04e2e1d69963a8322501dfbbde56d644e481ecf7d078a6d2b7e40a53adb1318"
+  },
+  "provenance": {
+    "source_item_id": "2ee07613-b9bd-4775-8b7f-b877ccbcf368",
+    "external_id": "https://www.ferrari.com/en-EN/media-centre/articles/hungarian-grand-prix-2026-sunday-report"
+  }
+}

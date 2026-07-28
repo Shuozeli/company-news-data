@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a06d174c66ffc287d8148b0137b502b1340500a9be1530698134a68dd7fd0f9a",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/gcp-data-mig-2/",
+    "canonical": "https://engineering.sift.com/gcp-data-mig-2/"
+  },
+  "title": "Evaluating Cloud Bigtable (Part 2/4)",
+  "summary": "How Sift evaluated Google's Cloud Bigtable as an alternative to HBase on AWS. The Sift platform enhances trust and safety in the digital world.",
+  "published_at": "2020-02-12T19:08:29+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.540011+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2020/02/a0/a06d174c66ffc287d8148b0137b502b1340500a9be1530698134a68dd7fd0f9a/article.md",
+    "record": "articles/v1/fe/yc-sift/2020/02/a0/a06d174c66ffc287d8148b0137b502b1340500a9be1530698134a68dd7fd0f9a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16252,
+    "sha256": "sha256:07ecec38949a0db11beea23a8ca6c8ec85852a96e125e28a49eb838fc97cd5d8",
+    "normalized_content_hash": "sha256:228c9ed9868e451453fc1915531d67bcce3973e4be4eb0db11f89061dc201de8"
+  },
+  "provenance": {
+    "source_item_id": "746a0173-1c53-42cf-83c2-3c416ec07396",
+    "external_id": "https://engineering.sift.com/gcp-data-mig-2/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a910b0a7b00651551e8dcb73432a1c15e2b344e66af40fc12aab1e9083a0a050",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260724/arcbest-corp-nasdaq-arcb-declared-a-dividend-of-$0.1200-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260724/arcbest-corp-nasdaq-arcb-declared-a-dividend-of-$0.1200-per-share/"
+  },
+  "title": "ARCB Dividend Announcement $0.1200/Share 7/24/2026",
+  "summary": "NASDAQ:ARCB ArcBest Corp Dividend Announcement $0.1200 per share on July 24, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-26T13:16:00.264154+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.963971+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/a9/a910b0a7b00651551e8dcb73432a1c15e2b344e66af40fc12aab1e9083a0a050/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/a9/a910b0a7b00651551e8dcb73432a1c15e2b344e66af40fc12aab1e9083a0a050/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2101,
+    "sha256": "sha256:257917c6d738ee756f52280cc32a3dc58bd49db1c374832f0937b61bdb70fde6",
+    "normalized_content_hash": "sha256:b72050ff044b25d68013d995dec4b948454477eb181164bcf5bf674159fd7e05"
+  },
+  "provenance": {
+    "source_item_id": "11ef6e07-3589-460f-9865-6027a0e3ff2d",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260724/arcbest-corp-nasdaq-arcb-declared-a-dividend-of-$0.1200-per-share/"
+  }
+}

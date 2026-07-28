@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c63598f572701b821ac3bbf0c4eff28e63a53db419c380978ccedd6578eb761f",
+  "company": {
+    "key": "inspire-medical-systems-inc-common-stock",
+    "name": "Inspire Medical Systems Inc. Common Stock"
+  },
+  "source": {
+    "id": "inspire-medical-systems-inc-common-stock-news-import-065d54e872ae",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.inspiresleep.com/en-us/blog/arizona-woman-finds-relief-from-sleep-issues-with-inspire-therapy/",
+    "canonical": "https://www.inspiresleep.com/en-us/blog/arizona-woman-finds-relief-from-sleep-issues-with-inspire-therapy/"
+  },
+  "title": "Arizona woman finds relief from sleep issues with Inspire ® therapy",
+  "summary": "Joanne Zeoli uses Inspire® therapy to treat her obstructive sleep apnea (OSA) today. Read her story!",
+  "published_at": "2026-03-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:05:04.457997+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:40.428957+00:00",
+  "paths": {
+    "article": "articles/v1/a6/inspire-medical-systems-inc-common-stock/2026/03/c6/c63598f572701b821ac3bbf0c4eff28e63a53db419c380978ccedd6578eb761f/article.md",
+    "record": "articles/v1/a6/inspire-medical-systems-inc-common-stock/2026/03/c6/c63598f572701b821ac3bbf0c4eff28e63a53db419c380978ccedd6578eb761f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5294,
+    "sha256": "sha256:87a9b174f871f3ff2ebe9771c668264228a24cc294325a2aeeb50ed446fb9197",
+    "normalized_content_hash": "sha256:ed3a317adb7575385cee08544823686c655828d270e562b0063c84851f98e416"
+  },
+  "provenance": {
+    "source_item_id": "cf8fde52-6ba5-4b6d-905f-59edd3436186",
+    "external_id": "https://www.inspiresleep.com/en-us/blog/arizona-woman-finds-relief-from-sleep-issues-with-inspire-therapy/"
+  }
+}

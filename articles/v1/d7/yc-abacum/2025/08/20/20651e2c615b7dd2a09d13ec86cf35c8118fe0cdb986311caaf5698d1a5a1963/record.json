@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "20651e2c615b7dd2a09d13ec86cf35c8118fe0cdb986311caaf5698d1a5a1963",
+  "company": {
+    "key": "yc-abacum",
+    "name": "Abacum"
+  },
+  "source": {
+    "id": "yc-abacum-news-import-0f3038283d34",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.abacum.ai/newsroom/redefining-financial-planning-julio-mart%C3%ADnez-leads-abacum-s-rise-on-the-global-stage",
+    "canonical": "https://www.abacum.ai/newsroom/redefining-financial-planning-julio-mart%C3%ADnez-leads-abacum-s-rise-on-the-global-stage"
+  },
+  "title": "Redefining Financial Planning: Julio Martínez Leads Abacum’s Rise on the Global Stage",
+  "summary": "Abacum is the AI-native FP&A platform built for CFOs to connect data, workflows and teams, simplifying planning and reporting with 700+ integrations.",
+  "published_at": "2025-08-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T00:54:19.775643+00:00",
+  "fetched_at": "2026-07-28T19:23:35.925032+00:00",
+  "last_updated_at": "2026-07-28T19:23:38.442392+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-abacum/2025/08/20/20651e2c615b7dd2a09d13ec86cf35c8118fe0cdb986311caaf5698d1a5a1963/article.md",
+    "record": "articles/v1/d7/yc-abacum/2025/08/20/20651e2c615b7dd2a09d13ec86cf35c8118fe0cdb986311caaf5698d1a5a1963/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1509,
+    "sha256": "sha256:15850079f5352707cd8613e5ce9035d576b399e7f1ba33ddffe48ed6bce65939",
+    "normalized_content_hash": "sha256:c3f060bd4f4d93ccc10a7fb5bd320907eda26c0d0218be715cc41c4d7024a8e1"
+  },
+  "provenance": {
+    "source_item_id": "84d1f6e4-78a1-42b9-b584-418820052d59",
+    "external_id": "https://www.abacum.ai/newsroom/redefining-financial-planning-julio-mart%C3%ADnez-leads-abacum-s-rise-on-the-global-stage"
+  }
+}

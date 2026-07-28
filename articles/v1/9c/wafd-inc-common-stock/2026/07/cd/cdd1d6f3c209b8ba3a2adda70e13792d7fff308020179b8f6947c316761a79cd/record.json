@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cdd1d6f3c209b8ba3a2adda70e13792d7fff308020179b8f6947c316761a79cd",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/security-privacy",
+    "canonical": "https://www.wafdbank.com/articles/security-privacy"
+  },
+  "title": "Online Privacy & Security Tips | WaFd Bank",
+  "summary": "Are you concerned about your privacy and security online? Read the latest tips from WaFd Bank to help protect your identity and money safe online.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T23:37:32.572003+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:42:03.698024+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/cd/cdd1d6f3c209b8ba3a2adda70e13792d7fff308020179b8f6947c316761a79cd/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/cd/cdd1d6f3c209b8ba3a2adda70e13792d7fff308020179b8f6947c316761a79cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2291,
+    "sha256": "sha256:eac21fa3b5decba1cb3987110cda4fd7bfc94a1565e2e40b8073d109bbaebdf1",
+    "normalized_content_hash": "sha256:16d01f0be6a5d95cdef1bd35de92b3a92ea13cc43076b4c80687d4cf1460acf1"
+  },
+  "provenance": {
+    "source_item_id": "8b0b18be-277c-4187-b722-366a66689249",
+    "external_id": "https://www.wafdbank.com/articles/security-privacy"
+  }
+}

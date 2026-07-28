@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a590e22c9b6ba4e0fe35c81b82ab30fad4d6c99692948a73de0a4a69f80532ea",
+  "company": {
+    "key": "taskus-inc-class-a-common-stock",
+    "name": "TaskUs Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "taskus-inc-class-a-common-stock-news-import-7e169ced7e4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.taskus.com/insights/how-hybrid-intelligence-defeated-fraud-in-a-fast-growing-p2p-marketplace/",
+    "canonical": "https://www.taskus.com/insights/how-hybrid-intelligence-defeated-fraud-in-a-fast-growing-p2p-marketplace/"
+  },
+  "title": "How Hybrid Intelligence Defeated Fraud in a Fast Growing P2P Marketplace",
+  "summary": "Discover how a hybrid intelligence strategy achieved 99% fraud detection accuracy for a global P2P marketplace. Discover how to scale safety with human-in-the-loop defense.",
+  "published_at": "2026-05-21T04:13:58+00:00",
+  "first_seen_at": "2026-07-26T02:33:01.680573+00:00",
+  "fetched_at": "2026-07-28T22:12:59.555603+00:00",
+  "last_updated_at": "2026-07-28T22:15:29.251063+00:00",
+  "paths": {
+    "article": "articles/v1/87/taskus-inc-class-a-common-stock/2026/05/a5/a590e22c9b6ba4e0fe35c81b82ab30fad4d6c99692948a73de0a4a69f80532ea/article.md",
+    "record": "articles/v1/87/taskus-inc-class-a-common-stock/2026/05/a5/a590e22c9b6ba4e0fe35c81b82ab30fad4d6c99692948a73de0a4a69f80532ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2161,
+    "sha256": "sha256:b140ca66d81e25ad7bd0bed30047cef5e6101200b9a8dcb8806072b7f3f60f31",
+    "normalized_content_hash": "sha256:accf59370b90d5a88fd2584a9174ecb9f113ebb3b82a2cb1f41181b481a1183d"
+  },
+  "provenance": {
+    "source_item_id": "31a22475-569f-4c24-b7a2-44969900cff4",
+    "external_id": "https://www.taskus.com/insights/how-hybrid-intelligence-defeated-fraud-in-a-fast-growing-p2p-marketplace/"
+  }
+}

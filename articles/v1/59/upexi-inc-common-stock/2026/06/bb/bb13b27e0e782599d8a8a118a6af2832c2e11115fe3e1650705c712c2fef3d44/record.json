@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb13b27e0e782599d8a8a118a6af2832c2e11115fe3e1650705c712c2fef3d44",
+  "company": {
+    "key": "upexi-inc-common-stock",
+    "name": "Upexi Inc. Common Stock"
+  },
+  "source": {
+    "id": "upexi-inc-common-stock-news-import-d447405d7bba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.upexi.com/news-events/press-releases/detail/160/upexi-inc-announces-pricing-of-~19-5-million-private",
+    "canonical": "https://ir.upexi.com/news-events/press-releases/detail/160/upexi-inc-announces-pricing-of-~19-5-million-private"
+  },
+  "title": "Upexi, Inc. Announces Pricing of ~$19.5 Million Private Placement of Common Stock",
+  "summary": "Issues Equity Priced at ~ $1.60 TAMPA, Fla., June 22, 2026 (GLOBE NEWSWIRE) -- Upexi, Inc. (NASDAQ: UPXI) (“Upexi” or the “Company”), a…...",
+  "published_at": "2026-06-22T08:00:00+00:00",
+  "first_seen_at": "2026-07-22T18:06:14.904473+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:15.341199+00:00",
+  "paths": {
+    "article": "articles/v1/59/upexi-inc-common-stock/2026/06/bb/bb13b27e0e782599d8a8a118a6af2832c2e11115fe3e1650705c712c2fef3d44/article.md",
+    "record": "articles/v1/59/upexi-inc-common-stock/2026/06/bb/bb13b27e0e782599d8a8a118a6af2832c2e11115fe3e1650705c712c2fef3d44/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3860,
+    "sha256": "sha256:4818f46411d1580e1fa2ab17575d4666f7e37266d050f91c7908fcf8eaf86fa4",
+    "normalized_content_hash": "sha256:b4f35470765101c8e1fa2a0edf4214638cd9e25b6ec8fceaba1e6c9a38f3ab7f"
+  },
+  "provenance": {
+    "source_item_id": "b597fc3e-6be9-40cc-b208-8f473784e988",
+    "external_id": "https://ir.upexi.com/news-events/press-releases/detail/160/upexi-inc-announces-pricing-of-~19-5-million-private"
+  }
+}

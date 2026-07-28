@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "93a7958e864d207c1f64d5164d28005d8f8ce3dcf03eb0390f3767ca1fbbd5df",
+  "company": {
+    "key": "yc-humand",
+    "name": "Humand"
+  },
+  "source": {
+    "id": "yc-humand-news-import-e78f2a560278",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://humand.co/en/blog/new-time-off-settings-7-day-blocks-and-monday-starts/",
+    "canonical": "https://humand.co/en/blog/new-time-off-settings-7-day-blocks-and-monday-starts/"
+  },
+  "title": "New Time Off settings: 7-day block request and Monday starts",
+  "summary": "Time Off module now features new validation rules to ensure vacation requests align with 7-day blocks and start on specific dates. This simplifies internal planning and ensures compliance with company policies. Order and Predictability in Leave Management Previously, validating the duration and start date of a vacation request required a manual review of each […]",
+  "published_at": "2026-06-04T14:26:02+00:00",
+  "first_seen_at": "2026-07-25T08:49:50.279037+00:00",
+  "fetched_at": "2026-07-28T21:46:32.935029+00:00",
+  "last_updated_at": "2026-07-28T21:54:50.808964+00:00",
+  "paths": {
+    "article": "articles/v1/69/yc-humand/2026/06/93/93a7958e864d207c1f64d5164d28005d8f8ce3dcf03eb0390f3767ca1fbbd5df/article.md",
+    "record": "articles/v1/69/yc-humand/2026/06/93/93a7958e864d207c1f64d5164d28005d8f8ce3dcf03eb0390f3767ca1fbbd5df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2892,
+    "sha256": "sha256:0fe4807f754034e7e3bee8dcd25b3ea1ee81ee80e8295cd6dd051a8f4aef3c22",
+    "normalized_content_hash": "sha256:ea341f13a95dcf4445c0712cdba518af161c1f5f068839e559eb03e23f5f4d1e"
+  },
+  "provenance": {
+    "source_item_id": "25c4e1ff-e6d1-45e2-bbbb-337ab905b740",
+    "external_id": "https://humand.co/en/blog/new-time-off-settings-7-day-blocks-and-monday-starts/"
+  }
+}

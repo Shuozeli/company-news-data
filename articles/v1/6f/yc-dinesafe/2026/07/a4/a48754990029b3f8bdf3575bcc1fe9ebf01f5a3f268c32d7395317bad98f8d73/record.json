@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a48754990029b3f8bdf3575bcc1fe9ebf01f5a3f268c32d7395317bad98f8d73",
+  "company": {
+    "key": "yc-dinesafe",
+    "name": "Dinesafe"
+  },
+  "source": {
+    "id": "yc-dinesafe-news-import-07d65e1cf124",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iwaspoisoned.com/news/iwaspoisoned-to-speak-at-the-western-growers-99th-annual-meeting",
+    "canonical": "https://iwaspoisoned.com/news/iwaspoisoned-to-speak-at-the-western-growers-99th-annual-meeting"
+  },
+  "title": "Iwaspoisoned to Speak at the Western Growers 99th Annual Meeting",
+  "summary": "We collect and share reports with consumers, public health and restaurants. Protect friends, family & help restaurants. If you got food poisoning report it now!",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T07:41:46.778872+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:52.079348+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-dinesafe/2026/07/a4/a48754990029b3f8bdf3575bcc1fe9ebf01f5a3f268c32d7395317bad98f8d73/article.md",
+    "record": "articles/v1/6f/yc-dinesafe/2026/07/a4/a48754990029b3f8bdf3575bcc1fe9ebf01f5a3f268c32d7395317bad98f8d73/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4011,
+    "sha256": "sha256:9ca1b9432fb0cdf47f765d92a48038f19c6f167b963396ef2f782b6a60406781",
+    "normalized_content_hash": "sha256:00e06eb0b0aac1e8c0d9bb2b4ce4f3289a86ed247f44d7bbb5186e3725bc36b5"
+  },
+  "provenance": {
+    "source_item_id": "cee4b6c8-7059-4e86-a45f-b095df9d413b",
+    "external_id": "https://iwaspoisoned.com/news/iwaspoisoned-to-speak-at-the-western-growers-99th-annual-meeting"
+  }
+}

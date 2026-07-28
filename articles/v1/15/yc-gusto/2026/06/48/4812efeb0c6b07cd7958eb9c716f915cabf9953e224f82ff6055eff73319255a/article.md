@@ -7,11 +7,32 @@ source_id: "yc-gusto-engineering-rss"
 canonical_url: "https://engineering.gusto.com/storage-is-the-missing-piece-for-agent-built-software-ede96ac7ac27"
 published_at: "2026-06-16T15:59:27+00:00"
 first_seen_at: "2026-07-19T22:15:27.842622+00:00"
-fetched_at: "2026-07-28T04:03:20.234730+00:00"
-content_hash: "sha256:ad253d3a3777151326890df85c345364cd26534c5b2b436764fb370a27922b21"
+fetched_at: "2026-07-28T21:13:02.492982+00:00"
+content_hash: "sha256:ca3ce141bfc0eef8fbf2fe585b21ca900823846c913cc7c80538d3e96c98811e"
 ---
 
 # Storage Is the Missing Piece for Agent-Built Software
+
+# Storage Is the Missing Piece for Agent-Built Software
+
+
+[Eric Baer](https://medium.com/@baerbaerbaer?source=post_page---byline--ede96ac7ac27---------------------------------------)
+
+
+6 min read
+
+
+·
+
+
+Jun 16, 2026
+
+
+--
+
+
+Press enter or click to view image in full size
+
 
 Gusto, like most companies building with LLMs, is amassing a[LOT of software](https://x.com/kdaigle/status/2040164759836778878?lang=en) : one-off projects, Claude Artifacts, HTML visualizations, dashboards, and my own growing fleet of personal tools.
 
@@ -32,7 +53,7 @@ Neither fits, and this isn’t about engineers vs. non-engineers. Everyone’s a
 We need things that make “casual software” easy to create *and* easy to operate.
 
 
-### Saying “yes” to builders, without compromising engineering
+## Saying “yes” to builders, without compromising engineering
 
 
 There is an AI catechism: automate supply, summon infinite demand. And, as our platform and security teams’ request queues can attest, this seems to be true.
@@ -69,13 +90,22 @@ Second, we should be seriously considering fleet economics. For “serious softw
 Our platform teams are already busy supporting our load-bearing[apps](https://gusto.com/company-news/gusto-reaches-1b-in-revenue) . They don’t need a hundred semi-serious tools that keep secrets, generate alerts, appear in service catalogs, and page people after the original author has moved on, if there even was a formal owner in the first place.
 
 
-### Safety = Guardrails + AI-native Building Blocks
+## Safety = Guardrails + AI-native Building Blocks
 
 
 There are two answers: Guardrails to reduce the blast radius, and building blocks that make the safe path the easy path.
 
 
 Guardrails matter, and we’re building them: quarantined runtimes, safer agent execution, separate AWS accounts, review bots, and other blast-radius reducers. But guardrails only make dangerous paths less dangerous. They do not create a better default than “HTML blob” or “real service.”
+
+
+## Get Eric Baer’s stories in your inbox
+
+
+Join Medium for free to get updates from this writer.
+
+
+Remember me for faster sign in
 
 
 **What about the building blocks?**
@@ -101,7 +131,7 @@ Real databases entail real obligations, and none of that becomes free because th
 Worse, “Real” tools invite the agent to generate a real-service ceremony: migrations, schemas, RLS, seed files, whatever. Complexity creep degrades the Agent’s loop speed and reliability as the app grows and can leave the operator unsure why.
 
 
-### Gusto’s New AI Building Block
+## Gusto’s New AI Building Block
 
 
 We’ve started trying out something new. It’s called[baerly-storage](https://github.com/Gusto/baerly-storage) , and we’ve open-sourced an early version of it today.
@@ -137,7 +167,7 @@ The entire public surface is a 12k token doc file, which is tight enough that ev
 We don’t want to have to say “you should have used better prompts,” we need APIs whose affordances are small, clear, and typed enough for the model to use natively.
 
 
-### How its Goin’
+## How its Goin’
 
 
 We’ve rolled this out across a few internal applications, partnered with a couple of non-engineer builders to make sure it’s as easy as we think it is, and started building an internal SaaS for lightweight apps. In short, we’re testing this in a few constrained ways before making it more widely available. But, so far, so good!
@@ -150,9 +180,3 @@ So we made one shape of an answer and started trying it. Not because every proto
 
 
 Give[baerly-storage](https://github.com/Gusto/baerly-storage) , a try. Maybe it will help you build fast, too. Or, join us! Gusto is hiring. Check out our careers page at[gusto.com/careers](https://gusto.com/careers) .
-
-
----
-
-
-[Storage Is the Missing Piece for Agent-Built Software](https://engineering.gusto.com/storage-is-the-missing-piece-for-agent-built-software-ede96ac7ac27) was originally published in[Gusto Engineering](https://engineering.gusto.com/) on Medium, where people are continuing the conversation by highlighting and responding to this story.

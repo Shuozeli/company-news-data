@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d1722c230ff9cee274feef2beafb0cbc32ceddfdea9ba32cfe42b0a91e36364",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/intro-to-backtesting-in-r-a-comprehensive-tutorial",
+    "canonical": "https://homepage.pipekit.io/blog/intro-to-backtesting-in-r-a-comprehensive-tutorial"
+  },
+  "title": "Intro to Backtesting in R: A Comprehensive Tutorial",
+  "summary": "Learn how to use R for backtesting in trading and the steps involved, from downloading pricing data to testing a strategy.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.276878+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/9d/9d1722c230ff9cee274feef2beafb0cbc32ceddfdea9ba32cfe42b0a91e36364/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/9d/9d1722c230ff9cee274feef2beafb0cbc32ceddfdea9ba32cfe42b0a91e36364/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9604,
+    "sha256": "sha256:7d98a2b3d30513971cb757ce5ee2c804407b27a6f68fbe6d1dcec1e98c11ef58",
+    "normalized_content_hash": "sha256:da075024de2681c147222dc295bbf53c01da7a4583c9369989c288fa04cd1538"
+  },
+  "provenance": {
+    "source_item_id": "0babf156-e3cc-46c3-a08a-f567395c4a5f",
+    "external_id": "https://homepage.pipekit.io/blog/intro-to-backtesting-in-r-a-comprehensive-tutorial"
+  }
+}

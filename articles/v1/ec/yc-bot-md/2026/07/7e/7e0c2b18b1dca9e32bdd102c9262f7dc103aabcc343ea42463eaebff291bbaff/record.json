@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e0c2b18b1dca9e32bdd102c9262f7dc103aabcc343ea42463eaebff291bbaff",
+  "company": {
+    "key": "yc-bot-md",
+    "name": "Bot MD"
+  },
+  "source": {
+    "id": "yc-bot-md-news-import-d415fc6d9648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frontpage.staging.botmd.id/en/news/nemg-clinics.html",
+    "canonical": "https://frontpage.staging.botmd.id/en/news/nemg-clinics.html"
+  },
+  "title": "Bot MD - NEMG Clinics",
+  "summary": "Northeast Medical Group (NEMG) has partnered with Bot MD to digitize the scheduling of clinic appointments, vaccinations and teleconsultations for all of their primary-care clinics in Singapore by powering WhatsApp, Facebook Messenger and their Website.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T23:58:36.308954+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:21.581938+00:00",
+  "paths": {
+    "article": "articles/v1/ec/yc-bot-md/2026/07/7e/7e0c2b18b1dca9e32bdd102c9262f7dc103aabcc343ea42463eaebff291bbaff/article.md",
+    "record": "articles/v1/ec/yc-bot-md/2026/07/7e/7e0c2b18b1dca9e32bdd102c9262f7dc103aabcc343ea42463eaebff291bbaff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2490,
+    "sha256": "sha256:9b4463acc83cd4e930d2e144d23446d76ed7f15fb608a43309a3d315e0dbd0d9",
+    "normalized_content_hash": "sha256:13ca14cbae0257aaef371f7b8b0f93a6ba91093d15ba42290b29c6b2789557f6"
+  },
+  "provenance": {
+    "source_item_id": "b359874b-e1bd-4f3b-b299-73788cbcc433",
+    "external_id": "https://frontpage.staging.botmd.id/en/news/nemg-clinics.html"
+  }
+}

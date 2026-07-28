@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "54fb0e942f22647b7e5aeaabc96b1a30954f726e3efd7d48cd4a1d565c183ce2",
+  "company": {
+    "key": "brbi-br-partners-s-a-adss",
+    "name": "BRBI BR Partners S.A. ADSs"
+  },
+  "source": {
+    "id": "brbi-br-partners-s-a-adss-news-import-e6aa56a5bd85",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brpartners.com.br/en-US/blog/article-2.html",
+    "canonical": "https://www.brpartners.com.br/en-US/blog/article-2.html"
+  },
+  "title": "BR Partners reports profit of R$ 44.5 million in the 4th quarter, a year-on-year increase of 5.7%",
+  "summary": "In 2025, the bank made a profit of R$ 175.1 million, a decrease of 9.6%",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T00:02:53.272416+00:00",
+  "fetched_at": "2026-07-28T00:53:11.078770+00:00",
+  "last_updated_at": "2026-07-28T00:53:19.414739+00:00",
+  "paths": {
+    "article": "articles/v1/7f/brbi-br-partners-s-a-adss/2026/07/54/54fb0e942f22647b7e5aeaabc96b1a30954f726e3efd7d48cd4a1d565c183ce2/article.md",
+    "record": "articles/v1/7f/brbi-br-partners-s-a-adss/2026/07/54/54fb0e942f22647b7e5aeaabc96b1a30954f726e3efd7d48cd4a1d565c183ce2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3057,
+    "sha256": "sha256:7a0b21528f75f733d0bc717a73fc964c96c2d0a146bd6d9a31208df7504b0127",
+    "normalized_content_hash": "sha256:28652ccba3cce57e37053201dcd3e6db8cb701868ca78685a48c7900dfff45a5"
+  },
+  "provenance": {
+    "source_item_id": "abf14619-124c-43db-a808-44fd893afe1e",
+    "external_id": "https://www.brpartners.com.br/en-US/blog/article-2.html"
+  }
+}

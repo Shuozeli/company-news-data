@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d88c383802d7e1368e385b6473626e53658b6968e69ec136010eab9485d27d18",
+  "company": {
+    "key": "cbiz-inc-common-stock",
+    "name": "CBIZ Inc. Common Stock"
+  },
+  "source": {
+    "id": "cbiz-inc-common-stock-news-import-fcc1128aca9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cbiz.com/insights/article/ghost-student-fraud-urgent-risk-alert-for-higher-education-institutions",
+    "canonical": "https://www.cbiz.com/insights/article/ghost-student-fraud-urgent-risk-alert-for-higher-education-institutions"
+  },
+  "title": "Ghost Student Fraud: Urgent Risk Alert for Higher Education Institutions",
+  "summary": "Ghost student fraud is rising in higher education. Learn how colleges can reduce financial aid fraud, ACH risk, and disbursement exposure.",
+  "published_at": "2026-06-18T14:46:31+00:00",
+  "first_seen_at": "2026-07-24T23:42:27.744988+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:18.290397+00:00",
+  "paths": {
+    "article": "articles/v1/6d/cbiz-inc-common-stock/2026/06/d8/d88c383802d7e1368e385b6473626e53658b6968e69ec136010eab9485d27d18/article.md",
+    "record": "articles/v1/6d/cbiz-inc-common-stock/2026/06/d8/d88c383802d7e1368e385b6473626e53658b6968e69ec136010eab9485d27d18/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7139,
+    "sha256": "sha256:7013fb2ce090dbe3eb9d2b0a1cdfc672f70b29a4b4fb83b1151683f50642efb5",
+    "normalized_content_hash": "sha256:ff1febe4a861f7e461b2f1a6ab4811a951b61217e9ef47142f96619946ddde0c"
+  },
+  "provenance": {
+    "source_item_id": "b1ea5c2a-3657-4cf5-84b5-a54b86ecfd1c",
+    "external_id": "https://www.cbiz.com/insights/article/ghost-student-fraud-urgent-risk-alert-for-higher-education-institutions"
+  }
+}

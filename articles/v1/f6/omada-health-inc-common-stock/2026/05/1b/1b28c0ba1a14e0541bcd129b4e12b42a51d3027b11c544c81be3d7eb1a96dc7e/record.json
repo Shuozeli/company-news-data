@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b28c0ba1a14e0541bcd129b4e12b42a51d3027b11c544c81be3d7eb1a96dc7e",
+  "company": {
+    "key": "omada-health-inc-common-stock",
+    "name": "Omada Health Inc. Common Stock"
+  },
+  "source": {
+    "id": "omada-health-inc-common-stock-news-import-fea4a224c17f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.omadahealth.com/resource-center/omada-health-to-participate-in-goldman-sachs-global-healthcare-conference",
+    "canonical": "https://www.omadahealth.com/resource-center/omada-health-to-participate-in-goldman-sachs-global-healthcare-conference"
+  },
+  "title": "Omada Health to Participate in Goldman Sachs Global Healthcare Conference",
+  "summary": "Omada Health (Nasdaq: OMDA), the virtual between-visit healthcare provider, today announced that members of senior management will participate in the Goldman Sachs 47th Annual Global Healthcare Conference 2026",
+  "published_at": "2026-05-27T07:00:00+00:00",
+  "first_seen_at": "2026-07-23T19:00:35.248087+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-07-28T22:07:27.165495+00:00",
+  "paths": {
+    "article": "articles/v1/f6/omada-health-inc-common-stock/2026/05/1b/1b28c0ba1a14e0541bcd129b4e12b42a51d3027b11c544c81be3d7eb1a96dc7e/article.md",
+    "record": "articles/v1/f6/omada-health-inc-common-stock/2026/05/1b/1b28c0ba1a14e0541bcd129b4e12b42a51d3027b11c544c81be3d7eb1a96dc7e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1393,
+    "sha256": "sha256:adea96a061520fe5fb62ac07cc2bb8f3ae5687252f2f805f2075f82a2e26a54c",
+    "normalized_content_hash": "sha256:ede051791c84f4a53cc8a587b53d6498a8258c674106a2a464d5aaf397ab6f6d"
+  },
+  "provenance": {
+    "source_item_id": "e8be34c4-446d-4330-9994-db403b623c3c",
+    "external_id": "https://www.omadahealth.com/resource-center/omada-health-to-participate-in-goldman-sachs-global-healthcare-conference"
+  }
+}

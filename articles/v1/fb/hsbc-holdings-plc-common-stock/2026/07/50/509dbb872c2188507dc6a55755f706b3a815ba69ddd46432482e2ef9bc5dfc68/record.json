@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "509dbb872c2188507dc6a55755f706b3a815ba69ddd46432482e2ef9bc5dfc68",
+  "company": {
+    "key": "hsbc-holdings-plc-common-stock",
+    "name": "HSBC Holdings plc. Common Stock"
+  },
+  "source": {
+    "id": "hsbc-holdings-plc-common-stock-news-import-47e8c94b2173",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/hsbc-group-ceo-georges-elhedery-named-euromoneys-banker-of-the-year",
+    "canonical": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/hsbc-group-ceo-georges-elhedery-named-euromoneys-banker-of-the-year"
+  },
+  "title": "HSBC Group CEO Georges Elhedery named Euromoney’s Banker of the Year",
+  "summary": "HSBC Group CEO Georges Elhedery has been named Banker of the Year, one of 59 awards received in the Euromoney Awards for Excellence 2026.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:15:03.029060+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:21:59.399953+00:00",
+  "paths": {
+    "article": "articles/v1/fb/hsbc-holdings-plc-common-stock/2026/07/50/509dbb872c2188507dc6a55755f706b3a815ba69ddd46432482e2ef9bc5dfc68/article.md",
+    "record": "articles/v1/fb/hsbc-holdings-plc-common-stock/2026/07/50/509dbb872c2188507dc6a55755f706b3a815ba69ddd46432482e2ef9bc5dfc68/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1980,
+    "sha256": "sha256:da2a95726b0912ca7ce84d299cd2d8fa40bc704f3225dd4847bfd2e73f22c722",
+    "normalized_content_hash": "sha256:a66820c143a30ebf196fad16d95b33ff177703eb77824367751f51f9467044f7"
+  },
+  "provenance": {
+    "source_item_id": "11ba74d9-a1a0-423b-a8c5-90564b34d3ef",
+    "external_id": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/hsbc-group-ceo-georges-elhedery-named-euromoneys-banker-of-the-year"
+  }
+}

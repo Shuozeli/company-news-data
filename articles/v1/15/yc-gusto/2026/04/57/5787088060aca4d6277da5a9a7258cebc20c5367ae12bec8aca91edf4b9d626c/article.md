@@ -7,11 +7,29 @@ source_id: "yc-gusto-engineering-rss"
 canonical_url: "https://engineering.gusto.com/building-resilient-mobile-apps-a-layered-testing-strategy-for-long-term-stability-d035c78bad31"
 published_at: "2026-04-14T19:06:10+00:00"
 first_seen_at: "2026-07-19T22:15:27.842622+00:00"
-fetched_at: "2026-07-28T04:03:20.234730+00:00"
-content_hash: "sha256:78109464fe1657647d7708f88176792a5c519036f9cc03171cb344b5b494e5f1"
+fetched_at: "2026-07-28T21:56:44.009033+00:00"
+content_hash: "sha256:d7a4a1c3ed20c506c6204190f8cbb9532d793fbfadf7801734ad46a871444039"
 ---
 
 # Building Resilient Mobile Apps: A Layered Testing Strategy for Long-Term Stability
+
+# **Building Resilient Mobile Apps: A Layered Testing Strategy for Long-Term Stability**
+
+
+[Prasenjit Sinha](https://medium.com/@prasann_1433?source=post_page---byline--d035c78bad31---------------------------------------)
+
+
+8 min read
+
+
+·
+
+
+Apr 14, 2026
+
+
+--
+
 
 Mobile teams shipping on a weekly cadence need automated confidence that changes won’t break what’s already working. At Gusto, our iOS codebase had unit tests, but coverage was uneven, and we hadn’t yet adopted snapshot testing. Major upgrades and component refactors still required significant manual verification. We wanted a more deliberate, layered approach — one that would scale with the team and the product.
 
@@ -22,7 +40,7 @@ The moment that sharpened our focus: a localization string change wasn’t caugh
 Manual testing doesn’t scale with growing teams and faster release cycles. We needed automation to own what humans couldn’t reliably catch across every release.
 
 
-### What We Had Before — And Why It Wasn’t Enough
+## What We Had Before — And Why It Wasn’t Enough
 
 
 Our starting point wasn’t zero. We had unit tests, and we had UI tests. But having tests and having *useful* tests are two different things.
@@ -40,13 +58,13 @@ We stepped back and looked at this through the lens of the **testing pyramid** :
 Rebuilding around the pyramid gave us a clear framework for what to fix and in what order.
 
 
-### Our Layered Testing Strategy
+## Our Layered Testing Strategy
 
 
-### The Testing Pyramid: A Foundation for Mobile App Stability
+## The Testing Pyramid: A Foundation for Mobile App Stability
 
 
-### Unit Testing with XCTest
+## Unit Testing with XCTest
 
 
 Our MVVM + Coordinator architecture turned out to be a genuine asset here. ViewModels and Coordinators are naturally isolated — they hold business logic, they depend on protocols, and they don’t care about the UI layer. That makes them ideal units to test.
@@ -63,7 +81,7 @@ We committed to covering every logic path in ViewModels and Coordinators. The ke
 This approach keeps tests deterministic, fast, and focused on what actually matters: does the business logic behave correctly given a specific input? Not whether the network is up, not whether the UI renders — just the logic.
 
 
-### Snapshot Testing with swift-snapshot-testing
+## Snapshot Testing with swift-snapshot-testing
 
 
 For visual regressions, we adopted[swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) by Point-Free. It’s become one of the most reliable tools in our testing stack.
@@ -86,10 +104,19 @@ These tests run on every PR. The first time a component regression slips in — 
 **A note on repository size:** snapshot images add up fast. As our snapshot test count grew, so did the risk of bloating the repository with binary image files. We solved this with **Git LFS (Large File Storage)** . Instead of storing the actual image files in Git history, Git LFS stores them as lightweight pointer files — the images themselves live in a separate storage backend. The developer experience is identical, but our repository stays lean regardless of how many snapshot tests we add. It’s one of those infrastructure decisions that seems small until you realize it removed an entire category of “should we add more snapshot tests?” hesitation.
 
 
-### UI Testing with XCUITest and API Stubbing
+## UI Testing with XCUITest and API Stubbing
 
 
 UI tests are expensive — slow to run, sensitive to timing, and prone to flakiness if they depend on real network calls. The key to making ours reliable was eliminating real network dependency entirely.
+
+
+## Get Prasenjit Sinha’s stories in your inbox
+
+
+Join Medium for free to get updates from this writer.
+
+
+Remember me for faster sign in
 
 
 We inject a stubbed URLSession via protocol, allowing tests to control exactly what the network returns for any given request. This works for both REST and GraphQL calls:
@@ -103,7 +130,7 @@ We inject a stubbed URLSession via protocol, allowing tests to control exactly w
 With stubbed responses, our UI tests are fully deterministic. The same test run on a CI machine at 2am produces the same result as one run locally at noon. We focused our UI test coverage on the highest-impact flows first: Login, Time Tracking, and core financial operations. The goal is to expand coverage incrementally to the entire app — but starting with flows where a regression causes the most pain was the right call.
 
 
-### CI Integration on Bitrise
+## CI Integration on Bitrise
 
 
 Having good tests is only half the battle. Running them at the right times — and fast enough that people don’t route around them — is what turns a test suite into a genuine safety net.
@@ -128,7 +155,7 @@ The third piece is observability. Fast tests that nobody watches aren’t much b
 Together, these monitors mean the suite is always being watched, and the right people are always in the loop when something breaks.
 
 
-### What Changed — The Results
+## What Changed — The Results
 
 
 A month into this approach, the numbers told a clear story.
@@ -140,7 +167,7 @@ Unit test coverage grew by **6%** in the first month, with a clear upward trajec
 The qualitative change was just as meaningful. Release cycles stopped being interrupted by late-discovered regressions. Engineers stopped dreading major iOS upgrades because snapshot tests would immediately surface anything that changed visually. The manual verification burden on the team shrank noticeably.
 
 
-### Lessons Learned
+## Lessons Learned
 
 
 The wins were real, but so were the tradeoffs. Snapshot tests require discipline — every intentional UI change means updating reference images, and that’s a workflow teams need to buy into. We chose to prioritize test stability over raw speed for UI tests, which meant investing in faster CI machines to keep total build times from growing. Neither of these was the wrong call, but they were deliberate choices. If we had to distill what we learned into principles:
@@ -157,9 +184,3 @@ The codebase we’re maintaining today is more testable, more observable, and mo
 
 
 *If testing automation and software development are important to you too, we would love to*[hear from you](https://gusto.com/about/careers) *!*
-
-
----
-
-
-[Building Resilient Mobile Apps: A Layered Testing Strategy for Long-Term Stability](https://engineering.gusto.com/building-resilient-mobile-apps-a-layered-testing-strategy-for-long-term-stability-d035c78bad31) was originally published in[Gusto Engineering](https://engineering.gusto.com/) on Medium, where people are continuing the conversation by highlighting and responding to this story.

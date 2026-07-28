@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "45adc432b381f1737f0f0c56fa5a564a6103c6233beb1a4dae3a174134b96410",
+  "company": {
+    "key": "cbiz-inc-common-stock",
+    "name": "CBIZ Inc. Common Stock"
+  },
+  "source": {
+    "id": "cbiz-inc-common-stock-news-import-fcc1128aca9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cbiz.com/insights/article/the-hidden-costs-of-outgrowing-quickbooks-and-xero-why-organizations-turn-to-netsuite",
+    "canonical": "https://www.cbiz.com/insights/article/the-hidden-costs-of-outgrowing-quickbooks-and-xero-why-organizations-turn-to-netsuite"
+  },
+  "title": "The Hidden Costs of Outgrowing QuickBooks and Xero: Why Organizations Turn to NetSuite",
+  "summary": "Outgrowing QuickBooks or Xero? Discover the hidden costs of manual processes and why businesses upgrade to NetSuite for scalability and visibility.",
+  "published_at": "2026-06-17T14:09:00+00:00",
+  "first_seen_at": "2026-07-24T23:42:27.744988+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:23.555221+00:00",
+  "paths": {
+    "article": "articles/v1/6d/cbiz-inc-common-stock/2026/06/45/45adc432b381f1737f0f0c56fa5a564a6103c6233beb1a4dae3a174134b96410/article.md",
+    "record": "articles/v1/6d/cbiz-inc-common-stock/2026/06/45/45adc432b381f1737f0f0c56fa5a564a6103c6233beb1a4dae3a174134b96410/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9192,
+    "sha256": "sha256:130b65fff79773cc6c575dfdadbd73d55263f8122633a2a6d6ffb579b5907672",
+    "normalized_content_hash": "sha256:99e233818e650daabf463cc251da583f0936ff7a43a9ad6d2e8efc84cbc13e7f"
+  },
+  "provenance": {
+    "source_item_id": "a78b534a-9f6f-4d15-94a7-2a1654d1cbcc",
+    "external_id": "https://www.cbiz.com/insights/article/the-hidden-costs-of-outgrowing-quickbooks-and-xero-why-organizations-turn-to-netsuite"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "power-integrations-inc-common-stock",
+    "name": "Power Integrations Inc. Common Stock"
+  },
+  "record_count": 9,
+  "first_published_at": "2025-08-22T23:27:21+00:00",
+  "last_published_at": "2026-04-21T16:17:34+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "73a1eb6ee2dd397055f03bb9a19b4155f520fa89f27a74bcea2a5861e450ef5c",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/panel-argo-ml-achieving-scalability-user-experience",
+    "canonical": "https://homepage.pipekit.io/blog/panel-argo-ml-achieving-scalability-user-experience"
+  },
+  "title": "Argo for ML: Achieving Scalability and User Experience",
+  "summary": "Discussing goals for building machine learning platforms, the role of Argo Workflows, and what to keep in mind when designing user interfaces for a team.",
+  "published_at": "2024-08-30T16:56:13+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-07-28T20:59:58.891539+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/08/73/73a1eb6ee2dd397055f03bb9a19b4155f520fa89f27a74bcea2a5861e450ef5c/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/08/73/73a1eb6ee2dd397055f03bb9a19b4155f520fa89f27a74bcea2a5861e450ef5c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15652,
+    "sha256": "sha256:fce7783c1eba988bece245b58215442b67950c502d934550fb0a3438a82c18c5",
+    "normalized_content_hash": "sha256:b9c8ee510bff94dc42a5606b4b602e450eb1c5835d792e71a1b98194f1f8b44e"
+  },
+  "provenance": {
+    "source_item_id": "2e1e5bc9-aa34-4e57-a02e-0493cfb8b09e",
+    "external_id": "https://homepage.pipekit.io/blog/panel-argo-ml-achieving-scalability-user-experience"
+  }
+}

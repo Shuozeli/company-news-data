@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd22feca23cce2537dc833c38d32581f279cb8097ec89550480254912846761b",
+  "company": {
+    "key": "yc-reforged-labs",
+    "name": "Reforged Labs"
+  },
+  "source": {
+    "id": "yc-reforged-labs-news-import-c817b6f59bac",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reforgedlabs.com/blog/boa-benchmark-video-understanding-creative-strategy",
+    "canonical": "https://reforgedlabs.com/blog/boa-benchmark-video-understanding-creative-strategy"
+  },
+  "title": "Video Understanding for Creative Strategy: Boa vs. Leading Multimodal Models",
+  "summary": "Benchmark Report Evaluating how well AI systems understand video game advertisements — from hook identification to creative strategy extraction — across 65 h...",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T11:15:42.017495+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-07-28T21:20:48.342427+00:00",
+  "paths": {
+    "article": "articles/v1/db/yc-reforged-labs/2026/07/dd/dd22feca23cce2537dc833c38d32581f279cb8097ec89550480254912846761b/article.md",
+    "record": "articles/v1/db/yc-reforged-labs/2026/07/dd/dd22feca23cce2537dc833c38d32581f279cb8097ec89550480254912846761b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10903,
+    "sha256": "sha256:480c43051b42ecc41196149a70159ef5695bc3a041b2b7f39189f7e1024348e3",
+    "normalized_content_hash": "sha256:4893fee1fd725ca18a853f29813993362e75b778e7f28ea0ed43cc22a628d347"
+  },
+  "provenance": {
+    "source_item_id": "aae9f06d-8e46-4df1-b420-aa8f36532db8",
+    "external_id": "https://reforgedlabs.com/blog/boa-benchmark-video-understanding-creative-strategy"
+  }
+}

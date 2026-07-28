@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f55a1a65f81e7112341afcec95592e3c5289787ed70d29c53a776d13c863c683",
+  "company": {
+    "key": "kennametal-inc-common-stock",
+    "name": "Kennametal Inc. Common Stock"
+  },
+  "source": {
+    "id": "kennametal-inc-common-stock-news-import-b1531c135564",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kennametal.com/us/en/news/123197.html",
+    "canonical": "https://www.kennametal.com/us/en/news/123197.html"
+  },
+  "title": "Kennametal Inc. Announces Public Offering of Senior Notes and Cash Tender Offer for Debt Securities",
+  "summary": "<p>Kennametal Inc. (NYSE: KMT) (the \"Company\") today announced that it has commenced an underwritten public offering of senior notes (the \"Notes Offering\"). The exact amount and terms of the Notes...</p>",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T10:36:33.938073+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:30.872217+00:00",
+  "paths": {
+    "article": "articles/v1/a9/kennametal-inc-common-stock/2026/07/f5/f55a1a65f81e7112341afcec95592e3c5289787ed70d29c53a776d13c863c683/article.md",
+    "record": "articles/v1/a9/kennametal-inc-common-stock/2026/07/f5/f55a1a65f81e7112341afcec95592e3c5289787ed70d29c53a776d13c863c683/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14301,
+    "sha256": "sha256:5005e0cc52b6d5aa9a42dd2d2e627d1dd239674c1e821bae7dc0c787ebd8ac7e",
+    "normalized_content_hash": "sha256:a137ad1ec5fd14fbb336489bd4929216380298b6bd06c6b0ab0ff254a1d1f579"
+  },
+  "provenance": {
+    "source_item_id": "2505df91-807e-466d-bf46-c41a86a792c8",
+    "external_id": "https://www.kennametal.com/us/en/news/123197.html"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-versa",
+    "name": "Versa"
+  },
+  "record_count": 2,
+  "first_published_at": "2024-04-01T00:00:00+00:00",
+  "last_published_at": "2024-07-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "911aeff6e6d35debb7319fedfc4aaeac0d31c66580a899ad2deb84d75920ef0b",
+  "company": {
+    "key": "soundthinking-inc-common-stock",
+    "name": "SoundThinking Inc. Common Stock"
+  },
+  "source": {
+    "id": "soundthinking-inc-common-stock-news-import-af287c5827c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.soundthinking.com/press-releases/soundthinking-announces-safetysmart-field-agent-the-new-ai-layer-for-connected-platform-intelligence",
+    "canonical": "http://www.soundthinking.com/press-releases/soundthinking-announces-safetysmart-field-agent-the-new-ai-layer-for-connected-platform-intelligence"
+  },
+  "title": "SoundThinking Announces SafetySmart® Field Agent™; the New AI Layer for Connected Platform Intelligence",
+  "summary": "Summary: SoundThinking today announced SafetySmart® Field Agent™, the AI layer that transforms large unique public safety data sets into actionable intelligence",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T14:19:42.386058+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-07-28T21:20:54.569167+00:00",
+  "paths": {
+    "article": "articles/v1/69/soundthinking-inc-common-stock/2026/07/91/911aeff6e6d35debb7319fedfc4aaeac0d31c66580a899ad2deb84d75920ef0b/article.md",
+    "record": "articles/v1/69/soundthinking-inc-common-stock/2026/07/91/911aeff6e6d35debb7319fedfc4aaeac0d31c66580a899ad2deb84d75920ef0b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8829,
+    "sha256": "sha256:39fce30299d43605843ba872ec758108e0f8113da9db2e411cdf7e2d082603a2",
+    "normalized_content_hash": "sha256:8d4c5d9bd51355a4dbccafae0339dbcd24f0b436fdd5d73d85932634d387ac0f"
+  },
+  "provenance": {
+    "source_item_id": "de5a3cf4-db60-4c72-b9ab-63a27518182a",
+    "external_id": "http://www.soundthinking.com/press-releases/soundthinking-announces-safetysmart-field-agent-the-new-ai-layer-for-connected-platform-intelligence"
+  }
+}

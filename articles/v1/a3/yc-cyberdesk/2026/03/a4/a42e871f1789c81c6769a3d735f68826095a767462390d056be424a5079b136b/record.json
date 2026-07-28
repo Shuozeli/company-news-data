@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a42e871f1789c81c6769a3d735f68826095a767462390d056be424a5079b136b",
+  "company": {
+    "key": "yc-cyberdesk",
+    "name": "Cyberdesk"
+  },
+  "source": {
+    "id": "yc-cyberdesk-rss-7fc226611edf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/sensitive-inputs-desktop-automation",
+    "canonical": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/sensitive-inputs-desktop-automation"
+  },
+  "title": "Sensitive inputs should not become normal agent context",
+  "summary": "Why desktop automation workflows need a separate path for passwords, tokens, and regulated values.",
+  "published_at": "2026-03-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T14:30:09.608841+00:00",
+  "fetched_at": "2026-07-28T21:56:52.525405+00:00",
+  "last_updated_at": "2026-07-28T21:57:28.503526+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-cyberdesk/2026/03/a4/a42e871f1789c81c6769a3d735f68826095a767462390d056be424a5079b136b/article.md",
+    "record": "articles/v1/a3/yc-cyberdesk/2026/03/a4/a42e871f1789c81c6769a3d735f68826095a767462390d056be424a5079b136b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5575,
+    "sha256": "sha256:5e5815cc4c3e1e30393c9cee55b491b34aff5971c07abe23f12f4d8ae8dc15cb",
+    "normalized_content_hash": "sha256:43122b270c5ea2d1e65cf076afcf6f8919d1fa3902e97235f19748ebe911aef8"
+  },
+  "provenance": {
+    "source_item_id": "3e3933df-ea9b-41a3-8086-f13d771c5554",
+    "external_id": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/sensitive-inputs-desktop-automation"
+  }
+}

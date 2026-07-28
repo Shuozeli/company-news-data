@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d091c14d9d6a403590f0c45c9de40f0b26ff9f3df01d3325a3d4669cc9122f56",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-connect-a-custom-crm-to-demodesk-via-conversational-ai-setup",
+    "canonical": "https://demodesk.com/blog/how-to-connect-a-custom-crm-to-demodesk-via-conversational-ai-setup"
+  },
+  "title": "How to connect a custom CRM to Demodesk via conversational AI setup",
+  "summary": "Connect any custom CRM to Demodesk using API keys and conversational AI. No integration engineer required — describe your sync rules in plain English.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:02.111150+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/d0/d091c14d9d6a403590f0c45c9de40f0b26ff9f3df01d3325a3d4669cc9122f56/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/d0/d091c14d9d6a403590f0c45c9de40f0b26ff9f3df01d3325a3d4669cc9122f56/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5651,
+    "sha256": "sha256:59bb31dbb5f0c0dbc3dbd010b8d33deeef142dd951e22432d904ec91f49c11b8",
+    "normalized_content_hash": "sha256:cc598d22b3f7b0ac868719024d52b78318b74125b8c99de99ec6934ee21f0a0a"
+  },
+  "provenance": {
+    "source_item_id": "b7e1e744-6a73-46d7-b3d2-18ec3039a95d",
+    "external_id": "https://demodesk.com/blog/how-to-connect-a-custom-crm-to-demodesk-via-conversational-ai-setup"
+  }
+}

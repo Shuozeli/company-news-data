@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5440d307ac51a26a2ffdd5bb8a943d094a821c39b4ffdadc7dcc624a4fcd7f40",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios",
+    "canonical": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios"
+  },
+  "title": "How to watch the 'Masters of the Universe' movie, streaming now on Prime Video",
+  "summary": "The live-action film adaptation of the classic 1980s toy brand stars Nicholas Galitzine as Prince Adam/He-Man.",
+  "published_at": "2026-01-22T14:00:01.252+00:00",
+  "first_seen_at": "2026-07-21T06:14:35.460263+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:35.144810+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/01/54/5440d307ac51a26a2ffdd5bb8a943d094a821c39b4ffdadc7dcc624a4fcd7f40/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/01/54/5440d307ac51a26a2ffdd5bb8a943d094a821c39b4ffdadc7dcc624a4fcd7f40/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9563,
+    "sha256": "sha256:9f11f04a8d19b6666a3b231d3dcf567eeaddcafacbee42247539d10a5b46ba77",
+    "normalized_content_hash": "sha256:c5c53b91e0bcb45b4594df8f67538ffe0745cc9ac3619b7d0ba3726414c71c53"
+  },
+  "provenance": {
+    "source_item_id": "36c040c0-ddce-468f-b5fb-03df978dfdec",
+    "external_id": "https://www.aboutamazon.com/news/entertainment/masters-of-the-universe-movie-amazon-mgm-studios"
+  }
+}

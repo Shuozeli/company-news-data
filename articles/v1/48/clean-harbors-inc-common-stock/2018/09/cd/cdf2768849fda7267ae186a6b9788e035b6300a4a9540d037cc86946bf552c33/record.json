@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cdf2768849fda7267ae186a6b9788e035b6300a4a9540d037cc86946bf552c33",
+  "company": {
+    "key": "clean-harbors-inc-common-stock",
+    "name": "Clean Harbors Inc. Common Stock"
+  },
+  "source": {
+    "id": "clean-harbors-inc-common-stock-news-import-fa5af73c5c49",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cleanharbors.com/about-us/news/2018/clean-harbors-ceo-appears-on-mad-money-with-jim-cramer-0",
+    "canonical": "https://www.cleanharbors.com/about-us/news/2018/clean-harbors-ceo-appears-on-mad-money-with-jim-cramer-0"
+  },
+  "title": "Clean Harbors CEO Appears on \"Mad Money\" with Jim Cramer",
+  "summary": "Clean Harbors CEO, Alan McKim, appeared on CNBC's stock show \"Mad Money\" where he talked with host Jim Cramer",
+  "published_at": "2018-09-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:49:37.800421+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.179151+00:00",
+  "paths": {
+    "article": "articles/v1/48/clean-harbors-inc-common-stock/2018/09/cd/cdf2768849fda7267ae186a6b9788e035b6300a4a9540d037cc86946bf552c33/article.md",
+    "record": "articles/v1/48/clean-harbors-inc-common-stock/2018/09/cd/cdf2768849fda7267ae186a6b9788e035b6300a4a9540d037cc86946bf552c33/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1019,
+    "sha256": "sha256:863b3d6e56176d46842aa4f56194471dba26999b529492a97849bbd9f53c1055",
+    "normalized_content_hash": "sha256:cfd68c1ca08ebb9512eb1696468d27c55ca12fb19f2e0a76e05f72a7ee10e7f7"
+  },
+  "provenance": {
+    "source_item_id": "f451a6d3-6030-4ded-ae7f-ae057b0c1fa8",
+    "external_id": "https://www.cleanharbors.com/about-us/news/2018/clean-harbors-ceo-appears-on-mad-money-with-jim-cramer-0"
+  }
+}

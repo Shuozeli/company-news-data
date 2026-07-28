@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae402918b069658244f13969f76293c53093a6c4940d2a0fd239ce2a0cedb7a0",
+  "company": {
+    "key": "yc-rejot",
+    "name": "ReJot"
+  },
+  "source": {
+    "id": "yc-rejot-news-import-01598ccac029",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rejot.dev/blog/2025-03-08_chess-duality/",
+    "canonical": "https://rejot.dev/blog/2025-03-08_chess-duality/"
+  },
+  "title": "When Kafka is not the right Move",
+  "summary": "Converting between state and events is a pain. Let's walk through a game of chess to see why.",
+  "published_at": "2025-03-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T11:22:58.242135+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:05.416720+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-rejot/2025/03/ae/ae402918b069658244f13969f76293c53093a6c4940d2a0fd239ce2a0cedb7a0/article.md",
+    "record": "articles/v1/62/yc-rejot/2025/03/ae/ae402918b069658244f13969f76293c53093a6c4940d2a0fd239ce2a0cedb7a0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6062,
+    "sha256": "sha256:a65f90b4e17b8166babd28684e4fbaa5cf4bba30f7ba4d6c5758cb848fe742f1",
+    "normalized_content_hash": "sha256:0afe87177414a4d3170b43d0430a9321aaa2103f80d66ae596a105ee121a177d"
+  },
+  "provenance": {
+    "source_item_id": "1dea5c1b-6c41-400d-baa7-7054e328bdca",
+    "external_id": "https://rejot.dev/blog/2025-03-08_chess-duality/"
+  }
+}

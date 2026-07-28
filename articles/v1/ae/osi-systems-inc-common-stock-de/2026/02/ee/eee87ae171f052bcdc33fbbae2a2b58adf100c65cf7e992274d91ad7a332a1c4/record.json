@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eee87ae171f052bcdc33fbbae2a2b58adf100c65cf7e992274d91ad7a332a1c4",
+  "company": {
+    "key": "osi-systems-inc-common-stock-de",
+    "name": "OSI Systems Inc. Common Stock (DE)"
+  },
+  "source": {
+    "id": "osi-systems-inc-common-stock-de-news-import-9409c2dadede",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-receives-ecac-eu-g1-certification-of-trace-detection-solutions-for-airport-security",
+    "canonical": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-receives-ecac-eu-g1-certification-of-trace-detection-solutions-for-airport-security"
+  },
+  "title": "OSI Systems Receives ECAC/EU G1 Certification of Trace Detection Solutions for Airport Security",
+  "summary": "",
+  "published_at": "2026-02-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T19:25:49.220370+00:00",
+  "fetched_at": "2026-07-28T22:19:38.682305+00:00",
+  "last_updated_at": "2026-07-28T22:24:07.592376+00:00",
+  "paths": {
+    "article": "articles/v1/ae/osi-systems-inc-common-stock-de/2026/02/ee/eee87ae171f052bcdc33fbbae2a2b58adf100c65cf7e992274d91ad7a332a1c4/article.md",
+    "record": "articles/v1/ae/osi-systems-inc-common-stock-de/2026/02/ee/eee87ae171f052bcdc33fbbae2a2b58adf100c65cf7e992274d91ad7a332a1c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4760,
+    "sha256": "sha256:0a6146351f38880da713b04f330056c2189bca1d3789867e3cad59a3d8a60223",
+    "normalized_content_hash": "sha256:093d86e46b75958246b7c8669f1b2128590ff2486ba26f9fa3567444b68dd50e"
+  },
+  "provenance": {
+    "source_item_id": "848aee20-6f7a-41ad-a590-0e8e49e7a13d",
+    "external_id": "https://www.rapiscansystems.com/en/news-and-events/article/osi-systems-receives-ecac-eu-g1-certification-of-trace-detection-solutions-for-airport-security"
+  }
+}

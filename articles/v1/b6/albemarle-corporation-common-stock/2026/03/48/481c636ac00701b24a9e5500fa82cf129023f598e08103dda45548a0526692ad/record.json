@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "481c636ac00701b24a9e5500fa82cf129023f598e08103dda45548a0526692ad",
+  "company": {
+    "key": "albemarle-corporation-common-stock",
+    "name": "Albemarle Corporation Common Stock"
+  },
+  "source": {
+    "id": "albemarle-corporation-common-stock-news-import-46b1e4b791cf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.albemarle.com/us/en/news/insights-lithium-chemistry-shaping-advanced-rubber-materials",
+    "canonical": "https://www.albemarle.com/us/en/news/insights-lithium-chemistry-shaping-advanced-rubber-materials"
+  },
+  "title": "Insights in Lithium Chemistry: Shaping Advanced Rubber Materials",
+  "summary": "Lithium chemistry is fundamental in producing advanced rubber materials that are durable, elastic and resilient. It enables precise polymer engineering, improving",
+  "published_at": "2026-03-31T18:37:44+00:00",
+  "first_seen_at": "2026-07-24T05:00:17.878170+00:00",
+  "fetched_at": "2026-07-28T22:00:16.885857+00:00",
+  "last_updated_at": "2026-07-28T22:00:53.306718+00:00",
+  "paths": {
+    "article": "articles/v1/b6/albemarle-corporation-common-stock/2026/03/48/481c636ac00701b24a9e5500fa82cf129023f598e08103dda45548a0526692ad/article.md",
+    "record": "articles/v1/b6/albemarle-corporation-common-stock/2026/03/48/481c636ac00701b24a9e5500fa82cf129023f598e08103dda45548a0526692ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2890,
+    "sha256": "sha256:df619f7357e8e041f05ae08f6477546aad9e80c405a6f28eb83fad657600b25c",
+    "normalized_content_hash": "sha256:33e68e9fad73d452c3d161ab46a079706a05bdd1054b11c156abef7c72f08ef6"
+  },
+  "provenance": {
+    "source_item_id": "912bc5f0-5d01-47be-b9c5-944574f54dd4",
+    "external_id": "https://www.albemarle.com/us/en/news/insights-lithium-chemistry-shaping-advanced-rubber-materials"
+  }
+}

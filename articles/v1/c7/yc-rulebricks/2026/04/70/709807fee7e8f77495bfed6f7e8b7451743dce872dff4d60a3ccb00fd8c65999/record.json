@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "709807fee7e8f77495bfed6f7e8b7451743dce872dff4d60a3ccb00fd8c65999",
+  "company": {
+    "key": "yc-rulebricks",
+    "name": "Rulebricks"
+  },
+  "source": {
+    "id": "yc-rulebricks-rss-eefe38b6d7e5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rulebricks.com/blog/from-ai-actions-to-policy-control",
+    "canonical": "https://rulebricks.com/blog/from-ai-actions-to-policy-control"
+  },
+  "title": "From AI Actions to Policy Control",
+  "summary": "Why prompt guardrails break in production, and how a deterministic policy layer keeps AI-driven actions auditable and safe.",
+  "published_at": "2026-04-08T16:05:08+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.346962+00:00",
+  "fetched_at": "2026-07-28T20:14:44.927916+00:00",
+  "last_updated_at": "2026-07-28T20:14:44.966811+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-rulebricks/2026/04/70/709807fee7e8f77495bfed6f7e8b7451743dce872dff4d60a3ccb00fd8c65999/article.md",
+    "record": "articles/v1/c7/yc-rulebricks/2026/04/70/709807fee7e8f77495bfed6f7e8b7451743dce872dff4d60a3ccb00fd8c65999/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 675,
+    "sha256": "sha256:3a7898b3f9d6bda30b2bc089d4de3d1febd5d51630b071ed7286da5088a1128b",
+    "normalized_content_hash": "sha256:12166d8c449ea4da51c4b6021c070f9e85d7914a5f7d07b4e4118ba2e35aecd1"
+  },
+  "provenance": {
+    "source_item_id": "95fb3075-bae3-48c1-aff3-919d1f2f3658",
+    "external_id": "https://rulebricks.com/blog/from-ai-actions-to-policy-control"
+  }
+}

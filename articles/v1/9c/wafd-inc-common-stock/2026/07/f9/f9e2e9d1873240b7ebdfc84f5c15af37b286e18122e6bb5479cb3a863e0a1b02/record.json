@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f9e2e9d1873240b7ebdfc84f5c15af37b286e18122e6bb5479cb3a863e0a1b02",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/security-privacy/protect-your-bank-accounts",
+    "canonical": "https://www.wafdbank.com/articles/security-privacy/protect-your-bank-accounts"
+  },
+  "title": "Protect Your Bank Accounts",
+  "summary": "Find out the top tips from WaFd Bank on how to protect your bank accounts from hackers including secure passwords, Wi-Fi tips, vigilance and more.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T11:45:59.162043+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:25.333240+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/f9/f9e2e9d1873240b7ebdfc84f5c15af37b286e18122e6bb5479cb3a863e0a1b02/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/f9/f9e2e9d1873240b7ebdfc84f5c15af37b286e18122e6bb5479cb3a863e0a1b02/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4456,
+    "sha256": "sha256:3fd4d305cd0bb91e11edbd26370129e5fbea4765ae74a30339e3e5a16c5a6806",
+    "normalized_content_hash": "sha256:85cb979b587e62132600c267791c056cb5557f38edfdae70bebf9f36c21fa335"
+  },
+  "provenance": {
+    "source_item_id": "7704ab52-5207-4f61-8ec1-1e62d3de3596",
+    "external_id": "https://www.wafdbank.com/articles/security-privacy/protect-your-bank-accounts"
+  }
+}

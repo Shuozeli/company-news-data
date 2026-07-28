@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf9edb325b5f52e4e681044f3f361e64dc847336c38abe3e92f4b88bfc65b816",
+  "company": {
+    "key": "pubmatic-inc-class-a-common-stock",
+    "name": "PubMatic Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "pubmatic-inc-class-a-common-stock-rss-0ec8ce99262b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pubmatic.com/news/pubmatic-launches-decision-fabric-on-agenticos/",
+    "canonical": "https://pubmatic.com/news/pubmatic-launches-decision-fabric-on-agenticos/"
+  },
+  "title": "PubMatic Launches Decision Fabric on AgenticOS, Giving Partner Decision Models a Native Environment Inside the Programmatic Supply Path",
+  "summary": "Stay up-to-date on the latest updates for publishers and breaking news in ad tech here.",
+  "published_at": "2026-06-01T12:00:28+00:00",
+  "first_seen_at": "2026-07-20T23:22:59.422019+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-07-28T21:13:23.725306+00:00",
+  "paths": {
+    "article": "articles/v1/01/pubmatic-inc-class-a-common-stock/2026/06/cf/cf9edb325b5f52e4e681044f3f361e64dc847336c38abe3e92f4b88bfc65b816/article.md",
+    "record": "articles/v1/01/pubmatic-inc-class-a-common-stock/2026/06/cf/cf9edb325b5f52e4e681044f3f361e64dc847336c38abe3e92f4b88bfc65b816/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8388,
+    "sha256": "sha256:aa803ebcd89b3be58921d29e305a5694e4a614c096e35a112205a856e2b3a6f8",
+    "normalized_content_hash": "sha256:0d8a1bc5d328be4b0d4b0517af908654015e0d149464822ed9fa3bb96258dd61"
+  },
+  "provenance": {
+    "source_item_id": "3eafbe29-c5cd-446a-bb14-e251f1bafbe5",
+    "external_id": "https://pubmatic.com/?post_type=news&p=73598"
+  }
+}

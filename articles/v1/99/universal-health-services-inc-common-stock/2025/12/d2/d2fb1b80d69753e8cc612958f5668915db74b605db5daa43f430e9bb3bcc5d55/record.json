@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d2fb1b80d69753e8cc612958f5668915db74b605db5daa43f430e9bb3bcc5d55",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-40c8a89d7155",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/ceremonial-ribbon-cutting-welcomes-hanover-hill-behavioral-health/",
+    "canonical": "https://uhs.com/news/ceremonial-ribbon-cutting-welcomes-hanover-hill-behavioral-health/"
+  },
+  "title": "Ceremonial Ribbon Cutting Welcomes Hanover Hill Behavioral Health",
+  "summary": "New 144-bed behavioral health hospital expands access to care for the Lehigh Valley region.",
+  "published_at": "2025-12-08T19:20:11+00:00",
+  "first_seen_at": "2026-07-24T05:33:01.391339+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-07-28T21:59:17.833445+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2025/12/d2/d2fb1b80d69753e8cc612958f5668915db74b605db5daa43f430e9bb3bcc5d55/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2025/12/d2/d2fb1b80d69753e8cc612958f5668915db74b605db5daa43f430e9bb3bcc5d55/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9322,
+    "sha256": "sha256:8fcda2d7501a0d20b5702b031f0df0bdb7e2099feb5abbfcf3017bd9a57a5523",
+    "normalized_content_hash": "sha256:d94b724cb8d44ee8a35e83a8268a258475ecd185f44628bff5563e26234df4ec"
+  },
+  "provenance": {
+    "source_item_id": "6f8c0f19-165a-480b-9f4d-33c3dbc950fd",
+    "external_id": "https://uhs.com/news/ceremonial-ribbon-cutting-welcomes-hanover-hill-behavioral-health/"
+  }
+}

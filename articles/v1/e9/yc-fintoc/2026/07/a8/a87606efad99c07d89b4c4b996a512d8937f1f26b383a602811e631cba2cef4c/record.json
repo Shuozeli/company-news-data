@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a87606efad99c07d89b4c4b996a512d8937f1f26b383a602811e631cba2cef4c",
+  "company": {
+    "key": "yc-fintoc",
+    "name": "Fintoc"
+  },
+  "source": {
+    "id": "yc-fintoc-news-import-4ac2d54454f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fintoc.com/cl/blog/presentando-la-cli-de-fintoc",
+    "canonical": "https://fintoc.com/cl/blog/presentando-la-cli-de-fintoc"
+  },
+  "title": "Presentando la CLI de Fintoc",
+  "summary": "Lanzamos la CLI de Fintoc, una herramienta para que tú o tu agente puedan integrar Fintoc en minutos.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T22:44:19.627198+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-07-28T21:21:55.918259+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-fintoc/2026/07/a8/a87606efad99c07d89b4c4b996a512d8937f1f26b383a602811e631cba2cef4c/article.md",
+    "record": "articles/v1/e9/yc-fintoc/2026/07/a8/a87606efad99c07d89b4c4b996a512d8937f1f26b383a602811e631cba2cef4c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4680,
+    "sha256": "sha256:be303ad325319470761aeee40366fe1abc29fba775be070793c98abbfef0cf8b",
+    "normalized_content_hash": "sha256:4dfaace173478d8711f75b77521b30ba5867d65b63546d853e305a03f8f3c4c3"
+  },
+  "provenance": {
+    "source_item_id": "a1390d9c-09bc-42e9-9401-4fa68947eb58",
+    "external_id": "https://fintoc.com/cl/blog/presentando-la-cli-de-fintoc"
+  }
+}

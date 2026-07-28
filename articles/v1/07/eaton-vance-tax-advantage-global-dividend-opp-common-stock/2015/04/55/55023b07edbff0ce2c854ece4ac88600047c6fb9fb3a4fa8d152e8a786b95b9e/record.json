@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55023b07edbff0ce2c854ece4ac88600047c6fb9fb3a4fa8d152e8a786b95b9e",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/china-a-shares-plus-income-etf-simplify-exchange-traded-funds-nyse-cas-declared-a-dividend-of-$0.5000-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/china-a-shares-plus-income-etf-simplify-exchange-traded-funds-nyse-cas-declared-a-dividend-of-$0.5000-per-share/"
+  },
+  "title": "CAS Dividend Announcement $0.5000/Share 7/27/2026",
+  "summary": "NYSE:CAS China A Shares PLUS Income ETF/Simplify Exchange Traded Funds Dividend Announcement $0.5000 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.078643+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/55/55023b07edbff0ce2c854ece4ac88600047c6fb9fb3a4fa8d152e8a786b95b9e/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/55/55023b07edbff0ce2c854ece4ac88600047c6fb9fb3a4fa8d152e8a786b95b9e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1904,
+    "sha256": "sha256:85629a7e0922e5fef25e49f39c019b8318fc9edb8b4d50a327204eb01fb6d1ce",
+    "normalized_content_hash": "sha256:2f9651abfd5996aed60e59a7b97b3570236c336151ea335c3c5b8bc897df5635"
+  },
+  "provenance": {
+    "source_item_id": "55403862-6c27-44ab-8598-9ddacb6a5e2e",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/china-a-shares-plus-income-etf-simplify-exchange-traded-funds-nyse-cas-declared-a-dividend-of-$0.5000-per-share/"
+  }
+}

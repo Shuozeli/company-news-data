@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6cae693abcdaf55fb46e0591ad04bd9bf68496d21e460704d0d1924484f5c4b",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2025/q1/biodiesel-helps-cities-lower-emissions",
+    "canonical": "https://www.chevron.com/newsroom/2025/q1/biodiesel-helps-cities-lower-emissions"
+  },
+  "title": "biodiesel helps cities lower emissions",
+  "summary": "Many cities are working toward lower carbon emissions goals and to reduce the intensity of their heavy-duty vehicles, such as garbage trucks and snowplows. Chevron is helping, with a lower carbon way to fuel essential fleets .",
+  "published_at": "2025-02-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2025/02/e6/e6cae693abcdaf55fb46e0591ad04bd9bf68496d21e460704d0d1924484f5c4b/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2025/02/e6/e6cae693abcdaf55fb46e0591ad04bd9bf68496d21e460704d0d1924484f5c4b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1718,
+    "sha256": "sha256:237fbc5692d8eb8634915d71b0a5e81b40e1272e8047c3f0e259bc4514f3e5d6",
+    "normalized_content_hash": "sha256:a0b5f56350b1882d0b2fd5a6c1c37caee0aadc5bcc72f4f00a584e2309291872"
+  },
+  "provenance": {
+    "source_item_id": "cf30965e-ec9a-44e5-8492-d8e6134dcf17",
+    "external_id": "https://www.chevron.com/newsroom/2025/q1/biodiesel-helps-cities-lower-emissions"
+  }
+}

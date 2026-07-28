@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-numero",
+    "name": "Numero"
+  },
+  "record_count": 64,
+  "first_published_at": "2020-12-24T05:00:00+00:00",
+  "last_published_at": "2025-09-02T04:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2020-12",
+      "record_count": 7
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "87327a7acdb5333ca22e8ed1a6bda9a4a2e0c3e51fb5d70ba2e6688d4a12bcc1",
+  "company": {
+    "key": "international-bancshares-corporation-common-stock",
+    "name": "International Bancshares Corporation Common Stock"
+  },
+  "source": {
+    "id": "international-bancshares-corporation-common-stock-news-import-2e07f9dd1075",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ibc.com/newsroom/press-releases/ibc-bank-names-kyle-mcelvaney-president-and-ceo-of-oklahoma-market",
+    "canonical": "https://www.ibc.com/newsroom/press-releases/ibc-bank-names-kyle-mcelvaney-president-and-ceo-of-oklahoma-market"
+  },
+  "title": "IBC Bank Names Kyle McElvaney President and CEO of Oklahoma Market",
+  "summary": "The IBC Bank-Oklahoma board of directors announced the promotion of Kyle McElvaney as president and CEO of IBC Bank for the state of Oklahoma.",
+  "published_at": "2024-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T12:16:24.397693+00:00",
+  "fetched_at": "2026-07-28T22:26:14.489943+00:00",
+  "last_updated_at": "2026-07-28T22:26:27.550570+00:00",
+  "paths": {
+    "article": "articles/v1/1e/international-bancshares-corporation-common-stock/2024/03/87/87327a7acdb5333ca22e8ed1a6bda9a4a2e0c3e51fb5d70ba2e6688d4a12bcc1/article.md",
+    "record": "articles/v1/1e/international-bancshares-corporation-common-stock/2024/03/87/87327a7acdb5333ca22e8ed1a6bda9a4a2e0c3e51fb5d70ba2e6688d4a12bcc1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4373,
+    "sha256": "sha256:15ad25ccbad6c07049a430ccac4f826dbded495d3da43e6674e614d046bf9b85",
+    "normalized_content_hash": "sha256:594cd22ef3dae2b91d9fe92b9b8ba5f3f4bec3a7931a542d2924ffe737f54e19"
+  },
+  "provenance": {
+    "source_item_id": "bc0a4085-3df6-4da5-b843-00c3cee27fa6",
+    "external_id": "https://www.ibc.com/newsroom/press-releases/ibc-bank-names-kyle-mcelvaney-president-and-ceo-of-oklahoma-market"
+  }
+}

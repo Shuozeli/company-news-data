@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4cd7d233a294c10793b70c59aba9ca66ce18feb774a9a55f599753d74c5bc93b",
+  "company": {
+    "key": "cargurus-inc-class-a-common-stock",
+    "name": "CarGurus Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "cargurus-inc-class-a-common-stock-news-import-8fa4742484d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cargurus.com/about/press/quarterly-review-q12026",
+    "canonical": "https://www.cargurus.com/about/press/quarterly-review-q12026"
+  },
+  "title": "Car Buyers are Changing Lanes: CarGurus Reveals Where Consumers are Finding Value",
+  "summary": "CarGurus Q1 2026 report shows rising used car demand fuel-efficient vehicle interest and affordability trends reshaping auto market for buyers and dealers",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T23:29:05.092329+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:18.864507+00:00",
+  "paths": {
+    "article": "articles/v1/c5/cargurus-inc-class-a-common-stock/2026/07/4c/4cd7d233a294c10793b70c59aba9ca66ce18feb774a9a55f599753d74c5bc93b/article.md",
+    "record": "articles/v1/c5/cargurus-inc-class-a-common-stock/2026/07/4c/4cd7d233a294c10793b70c59aba9ca66ce18feb774a9a55f599753d74c5bc93b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2467,
+    "sha256": "sha256:011ccb0bb219df72da2d3a7703659977c11ed1ca1c3fe506f842e15e42ea325f",
+    "normalized_content_hash": "sha256:4945ac8567082814ba6bf5aff6b443ad51b5bc88ddea6aacb132a00f01e898e1"
+  },
+  "provenance": {
+    "source_item_id": "07bc9a1c-d82f-4678-b8fe-a21f8df4bd8d",
+    "external_id": "https://www.cargurus.com/about/press/quarterly-review-q12026"
+  }
+}

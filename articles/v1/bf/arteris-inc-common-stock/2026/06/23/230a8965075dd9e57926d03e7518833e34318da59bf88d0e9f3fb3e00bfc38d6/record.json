@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "230a8965075dd9e57926d03e7518833e34318da59bf88d0e9f3fb3e00bfc38d6",
+  "company": {
+    "key": "arteris-inc-common-stock",
+    "name": "Arteris Inc. Common Stock"
+  },
+  "source": {
+    "id": "arteris-inc-common-stock-news-import-b55a70a8b442",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arteris.com/blog/model-your-ips-and-your-nocs-edn/",
+    "canonical": "https://www.arteris.com/blog/model-your-ips-and-your-nocs-edn/"
+  },
+  "title": "EDN: Model your IPs and your NoCs",
+  "summary": "As SoC and chiplet architectures become increasingly complex, effective modeling must extend beyond functional IP blocks to include the NoC interconnect fabric itself. This article highlights why NoCs have become critical determinants of system performance and explains the value of using consistent transaction-level, cycle-accurate, and RTL models throughout the design flow.",
+  "published_at": "2026-06-17T11:40:36+00:00",
+  "first_seen_at": "2026-07-23T02:24:35.785039+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.990492+00:00",
+  "paths": {
+    "article": "articles/v1/bf/arteris-inc-common-stock/2026/06/23/230a8965075dd9e57926d03e7518833e34318da59bf88d0e9f3fb3e00bfc38d6/article.md",
+    "record": "articles/v1/bf/arteris-inc-common-stock/2026/06/23/230a8965075dd9e57926d03e7518833e34318da59bf88d0e9f3fb3e00bfc38d6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5548,
+    "sha256": "sha256:f5b4462cd5acfbf699c006ed769572e4131970f461c17cba8f2c832ef7682607",
+    "normalized_content_hash": "sha256:24e7e8e98883428cc8eb7db90109dfaaeefbe56909b1ec1a7b0b8a65e2d8ca3d"
+  },
+  "provenance": {
+    "source_item_id": "7d152547-cea6-4a48-96cb-68a45ac3eb9b",
+    "external_id": "https://www.arteris.com/blog/model-your-ips-and-your-nocs-edn/"
+  }
+}

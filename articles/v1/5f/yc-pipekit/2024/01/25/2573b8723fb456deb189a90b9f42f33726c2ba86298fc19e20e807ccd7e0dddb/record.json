@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2573b8723fb456deb189a90b9f42f33726c2ba86298fc19e20e807ccd7e0dddb",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/production-install-of-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/production-install-of-argo-workflows"
+  },
+  "title": "What Does a Production Installation of Argo Workflows Look Like?",
+  "summary": "Getting Argo Workflows production-ready requires proper installation of the Argo Server, Controller, and CLI, as well as an artifact repo. We cover all of these, plus some best practices at the end of the post to help ensure your deployment is stable and secure.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:18.654833+00:00",
+  "last_updated_at": "2026-07-28T22:26:23.239081+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/25/2573b8723fb456deb189a90b9f42f33726c2ba86298fc19e20e807ccd7e0dddb/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/25/2573b8723fb456deb189a90b9f42f33726c2ba86298fc19e20e807ccd7e0dddb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15837,
+    "sha256": "sha256:f1bec4727f834b040cb3c6e4500f373fa6b6efc0222a934ac8a8003b3d7dec3b",
+    "normalized_content_hash": "sha256:de2b55d32347fc008b3dfa0b28929e36850b1f21dc0c83043e6651d4e7e22a4c"
+  },
+  "provenance": {
+    "source_item_id": "d7f676ae-68b3-4127-89a2-39020cf7e13b",
+    "external_id": "https://homepage.pipekit.io/blog/production-install-of-argo-workflows"
+  }
+}

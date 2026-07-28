@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5fbf3ba37018ec4ffd856b002957730f4dac4b7511f2c834029ec49b15c2a73f",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/1105.html",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/1105.html"
+  },
+  "title": "Inside the Unified Genba for Ever-Better Carmaking: Toyota Technical Center Shimoyama",
+  "summary": "After the world premiere of the Lexus TZ, Toyota Technical Center Shimoyama (TTC-S)—the genba for ever-better carmaking, where design, test courses, and development garages come together—was opened to the media. #TOYOTATIMES",
+  "published_at": "2026-05-13T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-07-28T22:00:52.463795+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/05/5f/5fbf3ba37018ec4ffd856b002957730f4dac4b7511f2c834029ec49b15c2a73f/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/05/5f/5fbf3ba37018ec4ffd856b002957730f4dac4b7511f2c834029ec49b15c2a73f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15406,
+    "sha256": "sha256:569636ed56b798e89761176efd8cb89fdade9b62edbd5289d5849c1324f85c7d",
+    "normalized_content_hash": "sha256:97d11d24c7c0ca4e62d3dff3c3c6edb045a8b1eac51852930f48b316b76a5b7a"
+  },
+  "provenance": {
+    "source_item_id": "12b09918-39ab-4756-b2d6-f6c57e94a382",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/1105.html"
+  }
+}

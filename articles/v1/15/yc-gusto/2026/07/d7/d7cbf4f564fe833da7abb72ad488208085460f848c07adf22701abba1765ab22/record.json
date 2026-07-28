@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7cbf4f564fe833da7abb72ad488208085460f848c07adf22701abba1765ab22",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-bd2aa08e45c5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/taxes/sui-state-unemployment-insurance",
+    "canonical": "https://gusto.com/resources/articles/taxes/sui-state-unemployment-insurance"
+  },
+  "title": "What Is SUI (State Unemployment Insurance) tax? Is it Different Than SUTA Tax?",
+  "summary": "SUI is State Unemployment Insurance. SUI taxes are paid by employers through payroll taxes, and SUI pays stipends to workers who have lost their jobs.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:55.051983+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:47.016284+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/d7/d7cbf4f564fe833da7abb72ad488208085460f848c07adf22701abba1765ab22/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/d7/d7cbf4f564fe833da7abb72ad488208085460f848c07adf22701abba1765ab22/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4215,
+    "sha256": "sha256:0b1593009a6f87a265eb4ba1363717c8a26083513bd68a6a8d042295a10fcda0",
+    "normalized_content_hash": "sha256:41e935b90153ee23e2bf72a520f0ed9d632b9a5582a5530968a87d6419922575"
+  },
+  "provenance": {
+    "source_item_id": "da26b70e-e88b-4261-8174-22b7311b6add",
+    "external_id": "https://gusto.com/resources/articles/taxes/sui-state-unemployment-insurance"
+  }
+}

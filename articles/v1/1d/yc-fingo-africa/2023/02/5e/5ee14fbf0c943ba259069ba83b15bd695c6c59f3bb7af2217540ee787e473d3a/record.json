@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ee14fbf0c943ba259069ba83b15bd695c6c59f3bb7af2217540ee787e473d3a",
+  "company": {
+    "key": "yc-fingo-africa",
+    "name": "Fingo Africa"
+  },
+  "source": {
+    "id": "yc-fingo-africa-news-import-93d91d85313d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://fingo.africa/post/send-money-no-fee-ease",
+    "canonical": "https://fingo.africa/post/send-money-no-fee-ease"
+  },
+  "title": "Send Money with Ease - The Fingo Way",
+  "summary": "",
+  "published_at": "2023-02-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:52:19.824585+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:39.338638+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-fingo-africa/2023/02/5e/5ee14fbf0c943ba259069ba83b15bd695c6c59f3bb7af2217540ee787e473d3a/article.md",
+    "record": "articles/v1/1d/yc-fingo-africa/2023/02/5e/5ee14fbf0c943ba259069ba83b15bd695c6c59f3bb7af2217540ee787e473d3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2309,
+    "sha256": "sha256:30c6c188ab3544e2b16dcc51ea2dbcaf1b0f09dd2a43af68d08159dda6861148",
+    "normalized_content_hash": "sha256:8ecbd76f47151a6308c7edce3aceeb5d7b01d9b2344ba34106d1b2e0b7f0af5e"
+  },
+  "provenance": {
+    "source_item_id": "88171b34-8091-4970-ba63-7656332594cd",
+    "external_id": "https://fingo.africa/post/send-money-no-fee-ease"
+  }
+}

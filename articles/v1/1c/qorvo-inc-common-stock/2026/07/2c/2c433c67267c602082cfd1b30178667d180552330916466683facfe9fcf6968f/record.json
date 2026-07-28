@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c433c67267c602082cfd1b30178667d180552330916466683facfe9fcf6968f",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/robert-bruggeworth-elected-chairman-of-msa-safety-inc",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/robert-bruggeworth-elected-chairman-of-msa-safety-inc"
+  },
+  "title": "Robert Bruggeworth Elected Chairman of MSA Safety Inc.",
+  "summary": "The Board of Directors of MSA Safety Inc. (NYSE: MSA) has elected Robert A. Bruggeworth to the position of Chairman of the Board effective May 8, 2026, succeeding Nish Vartanian, who will continue to serve the company as a Director.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:13.013780+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/2c/2c433c67267c602082cfd1b30178667d180552330916466683facfe9fcf6968f/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/2c/2c433c67267c602082cfd1b30178667d180552330916466683facfe9fcf6968f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4419,
+    "sha256": "sha256:d8f51d5fab06c352d134636d4e84eaa884a26b5d165bc3baa4894f21566e60ad",
+    "normalized_content_hash": "sha256:04bb1fb568c2c58b4949487c9d0492d90f321f1c6698a94bbf308e993563f36b"
+  },
+  "provenance": {
+    "source_item_id": "56a769c9-14e5-429a-9b6f-ff26fa4ce9cf",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/robert-bruggeworth-elected-chairman-of-msa-safety-inc"
+  }
+}

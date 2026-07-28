@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "901010bf81169df3e8a08eecb308805c65a7c8627473445de5105da9c2265917",
+  "company": {
+    "key": "yc-capy",
+    "name": "Capy"
+  },
+  "source": {
+    "id": "yc-capy-news-import-ccb8c20193bf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://scrapybara.com/blog/unified-action-space",
+    "canonical": "https://scrapybara.com/blog/unified-action-space"
+  },
+  "title": "Unifying the Computer Use Action Space",
+  "summary": "Introducing a new standard specification for computer use agent actions",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T04:45:19.830543+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:53.266272+00:00",
+  "paths": {
+    "article": "articles/v1/1a/yc-capy/2026/07/90/901010bf81169df3e8a08eecb308805c65a7c8627473445de5105da9c2265917/article.md",
+    "record": "articles/v1/1a/yc-capy/2026/07/90/901010bf81169df3e8a08eecb308805c65a7c8627473445de5105da9c2265917/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11560,
+    "sha256": "sha256:1a3b9d498507de74b486424930eaff1bc2b68126843f2278ddea80ab2a56b946",
+    "normalized_content_hash": "sha256:eafdf35d2aca5649d8a3d541d1880eae8eddf9ac0db61b6ac3baad9b3f93a34c"
+  },
+  "provenance": {
+    "source_item_id": "74bae66a-1351-4ccd-a17f-2cf7a86348f5",
+    "external_id": "https://scrapybara.com/blog/unified-action-space"
+  }
+}

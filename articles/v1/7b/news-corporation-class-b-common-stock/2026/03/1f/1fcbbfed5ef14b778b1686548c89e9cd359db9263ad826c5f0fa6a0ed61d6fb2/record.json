@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1fcbbfed5ef14b778b1686548c89e9cd359db9263ad826c5f0fa6a0ed61d6fb2",
+  "company": {
+    "key": "news-corporation-class-b-common-stock",
+    "name": "News Corporation Class B Common Stock"
+  },
+  "source": {
+    "id": "news-corporation-class-b-common-stock-rss-52db3627f9af",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://newscorp.com/2026/03/16/news-corp-hosts-dow-jones-investor-briefing/",
+    "canonical": "https://newscorp.com/2026/03/16/news-corp-hosts-dow-jones-investor-briefing/"
+  },
+  "title": "News Corp Hosts Dow Jones Investor Briefing",
+  "summary": "News Corp Hosts Dow Jones Investor Briefing Leadership Outlines Strategic Pathway to Achieve $1 Billion in Annual Dow Jones Segment EBITDA Within Five Years—70% Above Fiscal 2025 Levels Presentation Details Dow Jones’s Transformation into a Global News, Data and Information Services Leader NEW YORK (March 16, 2026) – News Corp (Nasdaq: NWS, NWSA; ASX: NWS, NWSLV) […]",
+  "published_at": "2026-03-16T21:30:16+00:00",
+  "first_seen_at": "2026-07-20T04:35:56.495555+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:16.976358+00:00",
+  "paths": {
+    "article": "articles/v1/7b/news-corporation-class-b-common-stock/2026/03/1f/1fcbbfed5ef14b778b1686548c89e9cd359db9263ad826c5f0fa6a0ed61d6fb2/article.md",
+    "record": "articles/v1/7b/news-corporation-class-b-common-stock/2026/03/1f/1fcbbfed5ef14b778b1686548c89e9cd359db9263ad826c5f0fa6a0ed61d6fb2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6375,
+    "sha256": "sha256:be99fbed0ed6eacf5fe4ed067fb7318beb164a9780263324e0343acf38333069",
+    "normalized_content_hash": "sha256:bb8d3411c938f14876cf3c9c7aedf42ddb1c279edf4f87c3f59958595542f8d2"
+  },
+  "provenance": {
+    "source_item_id": "b9f590e2-2172-4293-8e39-bdadaaea42d8",
+    "external_id": "https://newscorp.com/?p=142880"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1a0fe68b3bd5da31a50f9f5d74f97c010f28ebd75b712e3c4c86a3fa34479cf6",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/build-dashboard-python-without-javascript/",
+    "canonical": "https://reflex.dev/blog/build-dashboard-python-without-javascript/"
+  },
+  "title": "Build Python Dashboards Without JavaScript (2026)",
+  "summary": "Learn how to build production dashboards in pure Python without JavaScript using Reflex. Real-time updates, 60+ components, one-command deploy. April 2026.",
+  "published_at": "2026-04-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:30:50.122510+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-07-28T21:57:32.312490+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/04/1a/1a0fe68b3bd5da31a50f9f5d74f97c010f28ebd75b712e3c4c86a3fa34479cf6/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/04/1a/1a0fe68b3bd5da31a50f9f5d74f97c010f28ebd75b712e3c4c86a3fa34479cf6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17080,
+    "sha256": "sha256:59193c0a33c2a6d62943f507007823ea3339fb4efeffe71f4c33a601829f0566",
+    "normalized_content_hash": "sha256:62d50e34a964b400e0cf2a106200ad22979ec347cc366558eb9450e1ff72c2cf"
+  },
+  "provenance": {
+    "source_item_id": "005f6bef-26a1-4725-b59e-5ad0ba058f7d",
+    "external_id": "https://reflex.dev/blog/build-dashboard-python-without-javascript/"
+  }
+}

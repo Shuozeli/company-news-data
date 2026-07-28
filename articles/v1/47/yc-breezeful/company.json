@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-breezeful",
+    "name": "Breezeful"
+  },
+  "record_count": 20,
+  "first_published_at": "2021-04-06T13:56:47+00:00",
+  "last_published_at": "2024-03-13T16:36:00+00:00",
+  "partitions": [
+    {
+      "partition": "2021-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    }
+  ]
+}

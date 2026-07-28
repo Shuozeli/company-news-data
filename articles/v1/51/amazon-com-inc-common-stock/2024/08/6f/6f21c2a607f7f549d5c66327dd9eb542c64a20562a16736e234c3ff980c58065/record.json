@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6f21c2a607f7f549d5c66327dd9eb542c64a20562a16736e234c3ff980c58065",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief",
+    "canonical": "https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief"
+  },
+  "title": "Amazon opens first Canada Disaster Relief hub and bolsters California hub to support wildfire relief efforts",
+  "summary": "A new wildfire hub in Edmonton, Alberta, will join Amazon's California facility as the company prepares for increasingly severe fire seasons.",
+  "published_at": "2024-08-22T17:18:17.234+00:00",
+  "first_seen_at": "2026-07-22T18:15:21.032645+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:35.390449+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2024/08/6f/6f21c2a607f7f549d5c66327dd9eb542c64a20562a16736e234c3ff980c58065/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2024/08/6f/6f21c2a607f7f549d5c66327dd9eb542c64a20562a16736e234c3ff980c58065/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9421,
+    "sha256": "sha256:cdf7cd41fb7492bf00662a2f07593bbfb4b9b48182f03cdeba532b8546bbc35a",
+    "normalized_content_hash": "sha256:a215f4d3091289247e7344d54cc126733f0d636be2821a92e03dfd5477ac6f96"
+  },
+  "provenance": {
+    "source_item_id": "a50f26b6-7bf0-4c2e-aa97-122aff73baa8",
+    "external_id": "https://www.aboutamazon.com/news/community/amazon-wildfire-disaster-relief"
+  }
+}

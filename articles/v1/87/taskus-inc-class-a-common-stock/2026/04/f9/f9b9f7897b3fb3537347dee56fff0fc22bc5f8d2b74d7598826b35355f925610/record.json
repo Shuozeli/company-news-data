@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f9b9f7897b3fb3537347dee56fff0fc22bc5f8d2b74d7598826b35355f925610",
+  "company": {
+    "key": "taskus-inc-class-a-common-stock",
+    "name": "TaskUs Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "taskus-inc-class-a-common-stock-news-import-7e169ced7e4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.taskus.com/insights/supporting-a-better-glp-1-patient-experience/",
+    "canonical": "https://www.taskus.com/insights/supporting-a-better-glp-1-patient-experience/"
+  },
+  "title": "Supporting a Better GLP-1 Patient Experience",
+  "summary": "Many patients quit GLP-1s within a year. Discover how to optimize the patient journey, resolve PA backlogs and improve long-term adherence. Download now.",
+  "published_at": "2026-04-28T13:40:12+00:00",
+  "first_seen_at": "2026-07-26T02:33:01.680573+00:00",
+  "fetched_at": "2026-07-28T22:15:34.522080+00:00",
+  "last_updated_at": "2026-07-28T22:15:59.487194+00:00",
+  "paths": {
+    "article": "articles/v1/87/taskus-inc-class-a-common-stock/2026/04/f9/f9b9f7897b3fb3537347dee56fff0fc22bc5f8d2b74d7598826b35355f925610/article.md",
+    "record": "articles/v1/87/taskus-inc-class-a-common-stock/2026/04/f9/f9b9f7897b3fb3537347dee56fff0fc22bc5f8d2b74d7598826b35355f925610/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1638,
+    "sha256": "sha256:2f0c7af0bd4ccf33b374d79e8aeda7887ce1c01ffa65ae003ea06f0057f35e04",
+    "normalized_content_hash": "sha256:8e96e1f69d2e04e8135541304f4efbecb83b711754f4b9b56933d1a2cbf7873f"
+  },
+  "provenance": {
+    "source_item_id": "30eb14bb-bfba-443e-83f6-e8a233f9a0ab",
+    "external_id": "https://www.taskus.com/insights/supporting-a-better-glp-1-patient-experience/"
+  }
+}

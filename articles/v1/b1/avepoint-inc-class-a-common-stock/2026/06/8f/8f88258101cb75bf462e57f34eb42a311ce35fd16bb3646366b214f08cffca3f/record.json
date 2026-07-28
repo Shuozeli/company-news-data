@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f88258101cb75bf462e57f34eb42a311ce35fd16bb3646366b214f08cffca3f",
+  "company": {
+    "key": "avepoint-inc-class-a-common-stock",
+    "name": "AvePoint Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "avepoint-inc-class-a-common-stock-rss-485a4e1b5f08",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.avepoint.com/blog/backup/immutable-backup",
+    "canonical": "https://www.avepoint.com/blog/backup/immutable-backup"
+  },
+  "title": "What Is an Immutable Backup and Does It Actually Stop Ransomware?",
+  "summary": "What Is an Immutable Backup and Does It Actually Stop Ransomware?",
+  "published_at": "2026-06-01T19:16:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:42.943226+00:00",
+  "fetched_at": "2026-07-28T20:49:52.299135+00:00",
+  "last_updated_at": "2026-07-28T20:50:28.057160+00:00",
+  "paths": {
+    "article": "articles/v1/b1/avepoint-inc-class-a-common-stock/2026/06/8f/8f88258101cb75bf462e57f34eb42a311ce35fd16bb3646366b214f08cffca3f/article.md",
+    "record": "articles/v1/b1/avepoint-inc-class-a-common-stock/2026/06/8f/8f88258101cb75bf462e57f34eb42a311ce35fd16bb3646366b214f08cffca3f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30203,
+    "sha256": "sha256:77bd88dd44c571e03fcf80e26fbacc9c7d286bd512382d6b7cc2f756ff7e38a8",
+    "normalized_content_hash": "sha256:ca4ad7fc458d525de7b2d7c6b7c18d080f72662d15ad5af61558445c84212b5e"
+  },
+  "provenance": {
+    "source_item_id": "85c98dbc-b9d8-4055-be25-d7629ed0a886",
+    "external_id": "https://www.avepoint.com/blog/backup/immutable-backup"
+  }
+}

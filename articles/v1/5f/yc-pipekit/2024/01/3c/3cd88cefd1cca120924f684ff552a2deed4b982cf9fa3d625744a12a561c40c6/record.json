@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3cd88cefd1cca120924f684ff552a2deed4b982cf9fa3d625744a12a561c40c6",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/how-to-set-up-a-minio-artifact-repository-for-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/how-to-set-up-a-minio-artifact-repository-for-argo-workflows"
+  },
+  "title": "How to Set Up a MinIO Artifact Repository for Argo Workflows",
+  "summary": "Learn how to configure a default repository with MinIO, an open-source, Kubernetes-native storage solution.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.250191+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/3c/3cd88cefd1cca120924f684ff552a2deed4b982cf9fa3d625744a12a561c40c6/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/3c/3cd88cefd1cca120924f684ff552a2deed4b982cf9fa3d625744a12a561c40c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8341,
+    "sha256": "sha256:6a746d795a0c8a7f20b1e40b0bf7d4d6fe0c76820eb8efbe4d0d8155b676d05f",
+    "normalized_content_hash": "sha256:bd4332a6db177b0d69c200abc0ae6995c4603bbf98af312a8f94d317873593a0"
+  },
+  "provenance": {
+    "source_item_id": "9ada75c6-bc88-46b2-a00d-0b51c7eb73ba",
+    "external_id": "https://homepage.pipekit.io/blog/how-to-set-up-a-minio-artifact-repository-for-argo-workflows"
+  }
+}

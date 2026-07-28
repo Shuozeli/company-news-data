@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b44246cff8d781405b87cf8010b63d7a03a325d854cacf289e85b2327e521f58",
+  "company": {
+    "key": "ipg-photonics-corporation-common-stock",
+    "name": "IPG Photonics Corporation Common Stock"
+  },
+  "source": {
+    "id": "ipg-photonics-corporation-common-stock-news-import-744694c56dea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ipgphotonics.com/newsroom/news/ipg-photonics-receives-order-from-lockheed-martin",
+    "canonical": "https://www.ipgphotonics.com/newsroom/news/ipg-photonics-receives-order-from-lockheed-martin"
+  },
+  "title": "IPG Photonics Receives Order From Lockheed Martin for CROSSBOW™ High-Energy Laser Systems",
+  "summary": "IPG Photonics Corporation",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T10:03:34.994763+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:53.734479+00:00",
+  "paths": {
+    "article": "articles/v1/8a/ipg-photonics-corporation-common-stock/2026/07/b4/b44246cff8d781405b87cf8010b63d7a03a325d854cacf289e85b2327e521f58/article.md",
+    "record": "articles/v1/8a/ipg-photonics-corporation-common-stock/2026/07/b4/b44246cff8d781405b87cf8010b63d7a03a325d854cacf289e85b2327e521f58/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4044,
+    "sha256": "sha256:7d89c03fd2b5e39dff413d6d5b5579b35f5a8121f61ad201700d2df49d0efd05",
+    "normalized_content_hash": "sha256:1e01f3ad7f71fd713edc88d8c3e5d9bc16e494f2ef5add0a2b311764817735f1"
+  },
+  "provenance": {
+    "source_item_id": "dde8ca16-77a1-4279-bae6-bf71b2e19c27",
+    "external_id": "https://www.ipgphotonics.com/newsroom/news/ipg-photonics-receives-order-from-lockheed-martin"
+  }
+}

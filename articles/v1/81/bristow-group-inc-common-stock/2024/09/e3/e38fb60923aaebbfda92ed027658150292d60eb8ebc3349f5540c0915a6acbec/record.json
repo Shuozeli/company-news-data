@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e38fb60923aaebbfda92ed027658150292d60eb8ebc3349f5540c0915a6acbec",
+  "company": {
+    "key": "bristow-group-inc-common-stock",
+    "name": "Bristow Group Inc. Common Stock"
+  },
+  "source": {
+    "id": "bristow-group-inc-common-stock-news-import-75ea920ff83a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bristowgroup.com/news-media/articles/detail/9898/uk-search-and-rescue-medics-undertaking-national",
+    "canonical": "https://www.bristowgroup.com/news-media/articles/detail/9898/uk-search-and-rescue-medics-undertaking-national"
+  },
+  "title": "UK Search and Rescue medics undertaking national qualifications to recognise their capabilities",
+  "summary": "",
+  "published_at": "2024-09-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:41:06.976183+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:36.477126+00:00",
+  "paths": {
+    "article": "articles/v1/81/bristow-group-inc-common-stock/2024/09/e3/e38fb60923aaebbfda92ed027658150292d60eb8ebc3349f5540c0915a6acbec/article.md",
+    "record": "articles/v1/81/bristow-group-inc-common-stock/2024/09/e3/e38fb60923aaebbfda92ed027658150292d60eb8ebc3349f5540c0915a6acbec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3380,
+    "sha256": "sha256:22bb74a5c572fe0e1c98bce56defd3a581da41cd83939e6452272ad1ce5229db",
+    "normalized_content_hash": "sha256:bb7e5f5866fd6c234639e7efebebdde9d56552d195c42f71cb918a65595c8838"
+  },
+  "provenance": {
+    "source_item_id": "92160051-5b10-4055-a64b-37e6b2f99488",
+    "external_id": "https://www.bristowgroup.com/news-media/articles/detail/9898/uk-search-and-rescue-medics-undertaking-national"
+  }
+}

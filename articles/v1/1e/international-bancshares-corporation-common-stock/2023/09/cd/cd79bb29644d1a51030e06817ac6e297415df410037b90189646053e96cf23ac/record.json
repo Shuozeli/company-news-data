@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cd79bb29644d1a51030e06817ac6e297415df410037b90189646053e96cf23ac",
+  "company": {
+    "key": "international-bancshares-corporation-common-stock",
+    "name": "International Bancshares Corporation Common Stock"
+  },
+  "source": {
+    "id": "international-bancshares-corporation-common-stock-news-import-2e07f9dd1075",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ibc.com/newsroom/op-ed/say-no-to-credit-card-competition-act",
+    "canonical": "https://www.ibc.com/newsroom/op-ed/say-no-to-credit-card-competition-act"
+  },
+  "title": "Say \"No\" to Credit Card Competition Act",
+  "summary": "The free market is working just fine when it comes to payments, and consumers have benefited from the innovation that has taken place. We don’t need the government to be picking winners and losers. If this bill passes, consumers will lose their rewards.",
+  "published_at": "2023-09-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T12:16:24.397693+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:54.772117+00:00",
+  "paths": {
+    "article": "articles/v1/1e/international-bancshares-corporation-common-stock/2023/09/cd/cd79bb29644d1a51030e06817ac6e297415df410037b90189646053e96cf23ac/article.md",
+    "record": "articles/v1/1e/international-bancshares-corporation-common-stock/2023/09/cd/cd79bb29644d1a51030e06817ac6e297415df410037b90189646053e96cf23ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5703,
+    "sha256": "sha256:fa6336c5ec653c4ac53345408ea0464bd14be457c10dc20f5ada7fdd39f8d4a0",
+    "normalized_content_hash": "sha256:32e9c6a28fa0a4784f3172e7f31a27deecafc1a141cb4d729a22021274785c2a"
+  },
+  "provenance": {
+    "source_item_id": "a72ccd52-9835-481f-a064-a4e2dc51b290",
+    "external_id": "https://www.ibc.com/newsroom/op-ed/say-no-to-credit-card-competition-act"
+  }
+}

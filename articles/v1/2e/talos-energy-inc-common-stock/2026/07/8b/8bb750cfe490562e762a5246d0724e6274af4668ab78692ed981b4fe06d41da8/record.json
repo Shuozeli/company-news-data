@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8bb750cfe490562e762a5246d0724e6274af4668ab78692ed981b4fe06d41da8",
+  "company": {
+    "key": "talos-energy-inc-common-stock",
+    "name": "Talos Energy Inc. Common Stock"
+  },
+  "source": {
+    "id": "talos-energy-inc-common-stock-rss-7720b01b3d18",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://www.talosenergy.com/investor-relations/news/news-details/2026/Talos-Energy-Announces-Strategic-Offshore-Mexico-Development-Farm-In/default.aspx",
+    "canonical": "http://www.talosenergy.com/investor-relations/news/news-details/2026/Talos-Energy-Announces-Strategic-Offshore-Mexico-Development-Farm-In/default.aspx"
+  },
+  "title": "Talos Energy Announces Strategic Offshore Mexico Development Farm-In",
+  "summary": "",
+  "published_at": "2026-07-27T20:15:00+00:00",
+  "first_seen_at": "2026-07-27T21:51:01.758153+00:00",
+  "fetched_at": "2026-07-28T20:37:29.268760+00:00",
+  "last_updated_at": "2026-07-28T20:37:29.345405+00:00",
+  "paths": {
+    "article": "articles/v1/2e/talos-energy-inc-common-stock/2026/07/8b/8bb750cfe490562e762a5246d0724e6274af4668ab78692ed981b4fe06d41da8/article.md",
+    "record": "articles/v1/2e/talos-energy-inc-common-stock/2026/07/8b/8bb750cfe490562e762a5246d0724e6274af4668ab78692ed981b4fe06d41da8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 728,
+    "sha256": "sha256:586f25f043a9d033478c90c56d46bf597f2465a25629937b566443070e301e5c",
+    "normalized_content_hash": "sha256:8ffc5dd35857740d76314ca39e1e671cf557f41ac940fa933398df8c51162eaf"
+  },
+  "provenance": {
+    "source_item_id": "74462c20-05e3-4194-ba29-549b411b92de",
+    "external_id": "9447f0b4-d392-4104-b8d1-82d05ad9fd60"
+  }
+}

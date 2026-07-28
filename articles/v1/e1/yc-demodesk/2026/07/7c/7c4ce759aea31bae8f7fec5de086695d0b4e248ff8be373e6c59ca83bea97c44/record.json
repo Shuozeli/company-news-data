@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c4ce759aea31bae8f7fec5de086695d0b4e248ff8be373e6c59ca83bea97c44",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/seasonal-sales-slumps-july-august-ai-keeps-pipelines-moving",
+    "canonical": "https://demodesk.com/blog/seasonal-sales-slumps-july-august-ai-keeps-pipelines-moving"
+  },
+  "title": "Seasonal Sales Slumps (July-August): How AI Keeps Pipelines Moving",
+  "summary": "July-August sales slumps are real. Here's how AI sales agents keep pipelines moving when prospects go quiet, buyers vacation, and reps get distracted.",
+  "published_at": "2026-07-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.723561+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/7c/7c4ce759aea31bae8f7fec5de086695d0b4e248ff8be373e6c59ca83bea97c44/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/7c/7c4ce759aea31bae8f7fec5de086695d0b4e248ff8be373e6c59ca83bea97c44/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7969,
+    "sha256": "sha256:e61e720463e1a1953dc2a3e37de238adc9fb1ddaffcb411558e8de84a0a25cf0",
+    "normalized_content_hash": "sha256:b3c0a7608f93723119321925fd5a93ffb80fc5231581c048ec4e9a422aac4450"
+  },
+  "provenance": {
+    "source_item_id": "50bddff5-837c-4d54-b3df-ba51c0589d31",
+    "external_id": "https://demodesk.com/blog/seasonal-sales-slumps-july-august-ai-keeps-pipelines-moving"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "umh-properties-inc-common-stock",
+    "name": "UMH Properties Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-05-22T21:57:00+00:00",
+  "last_published_at": "2026-07-08T20:32:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

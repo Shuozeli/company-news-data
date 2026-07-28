@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "eastman-chemical-company-common-stock",
+    "name": "Eastman Chemical Company Common Stock"
+  },
+  "record_count": 24,
+  "first_published_at": "2026-04-11T00:00:00+00:00",
+  "last_published_at": "2026-07-09T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

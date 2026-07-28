@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c018420af43cb3c2f474895f87021bbdb57cc745b37ddd21701bad6a4913616b",
+  "company": {
+    "key": "intrusion-inc-common-stock",
+    "name": "Intrusion Inc. Common Stock"
+  },
+  "source": {
+    "id": "intrusion-inc-common-stock-rss-206824b90ed5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://intrusion.com/blog/indicators-of-compromise-what-they-are-and-how-to-identify-them/",
+    "canonical": "https://intrusion.com/blog/indicators-of-compromise-what-they-are-and-how-to-identify-them/"
+  },
+  "title": "Indicators of Compromise: What They Are and How to Identify Them",
+  "summary": "",
+  "published_at": "2025-11-11T23:00:00+00:00",
+  "first_seen_at": "2026-07-28T22:10:21.872433+00:00",
+  "fetched_at": "2026-07-28T22:25:18.858836+00:00",
+  "last_updated_at": "2026-07-28T22:25:47.108400+00:00",
+  "paths": {
+    "article": "articles/v1/12/intrusion-inc-common-stock/2025/11/c0/c018420af43cb3c2f474895f87021bbdb57cc745b37ddd21701bad6a4913616b/article.md",
+    "record": "articles/v1/12/intrusion-inc-common-stock/2025/11/c0/c018420af43cb3c2f474895f87021bbdb57cc745b37ddd21701bad6a4913616b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11407,
+    "sha256": "sha256:e782f2377bb7147818de8571fed7954b194d7f00a7b733f271d9307d2b2fc2d9",
+    "normalized_content_hash": "sha256:d4a42765220d75c3c0ff94dfc6d2f22cec5d9d94ef34514a8a46987556d0211f"
+  },
+  "provenance": {
+    "source_item_id": "df3bc3eb-619a-4cfc-bf69-f58663ee928c",
+    "external_id": "https://intrusion.com/?p=5507"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "siriusxm-holdings-inc-common-stock",
+    "name": "SiriusXM Holdings Inc. Common Stock"
+  },
+  "record_count": 41,
+  "first_published_at": "2024-06-25T14:56:10+00:00",
+  "last_published_at": "2026-07-27T21:11:51+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 29
+    }
+  ]
+}

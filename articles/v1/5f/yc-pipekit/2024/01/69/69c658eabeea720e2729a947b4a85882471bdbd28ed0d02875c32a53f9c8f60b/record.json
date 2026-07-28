@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "69c658eabeea720e2729a947b4a85882471bdbd28ed0d02875c32a53f9c8f60b",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/why-teams-are-implementing-ci-cd-for-data-pipelines-using-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/why-teams-are-implementing-ci-cd-for-data-pipelines-using-argo-workflows"
+  },
+  "title": "Why teams are implementing CI/CD for data pipelines using Argo Workflows",
+  "summary": "J.P. discusses and demonstrates how to ensure data pipelines don’t break in production using CI/CD and Argo Workflows. See what a development setup looks like, learn to test workflow templates, and discover strategies to help you version those workflow templates.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.351269+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/69/69c658eabeea720e2729a947b4a85882471bdbd28ed0d02875c32a53f9c8f60b/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/69/69c658eabeea720e2729a947b4a85882471bdbd28ed0d02875c32a53f9c8f60b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7141,
+    "sha256": "sha256:d21fe7ea40dec643748db823ecab72f0d6d3049ff37c8c6fd9c4ef77104621be",
+    "normalized_content_hash": "sha256:2f657c3c35451eefbe83e7f64289bc72c43634858403df7bfde9c38909da8658"
+  },
+  "provenance": {
+    "source_item_id": "a78559be-56f2-4a2f-a4fc-30af67e1bd65",
+    "external_id": "https://homepage.pipekit.io/blog/why-teams-are-implementing-ci-cd-for-data-pipelines-using-argo-workflows"
+  }
+}

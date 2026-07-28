@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50aacaecc4eb8cb6cec8b46e3d340f0dd50ff4bf87984a11b2965fef22727c0d",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/about-us/investor-relations/wfsl-financial-data",
+    "canonical": "https://www.wafdbank.com/about-us/investor-relations/wfsl-financial-data"
+  },
+  "title": "Other Financial Data",
+  "summary": "At WaFd Bank, trust has always been the foundation of our relationship with customers; we respect your data",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T23:37:32.572003+00:00",
+  "fetched_at": "2026-07-23T23:41:23.694465+00:00",
+  "last_updated_at": "2026-07-23T23:41:25.906157+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/50/50aacaecc4eb8cb6cec8b46e3d340f0dd50ff4bf87984a11b2965fef22727c0d/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/50/50aacaecc4eb8cb6cec8b46e3d340f0dd50ff4bf87984a11b2965fef22727c0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3092,
+    "sha256": "sha256:e25de0d68424cc7de8cbb64655a1fd6f1a78440dc37f997a6392d5ed98b5bdb0",
+    "normalized_content_hash": "sha256:652ce03ddfee6a43c87a58bf654158bca40e2792e42e51ca45b5cf47d62817ad"
+  },
+  "provenance": {
+    "source_item_id": "c8a1ed20-a1a4-4b6c-b674-c5c1f5510df1",
+    "external_id": "https://www.wafdbank.com/about-us/investor-relations/wfsl-financial-data"
+  }
+}

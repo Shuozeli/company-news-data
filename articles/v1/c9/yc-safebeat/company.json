@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-safebeat",
+    "name": "SafeBeat"
+  },
+  "record_count": 11,
+  "first_published_at": "2023-06-09T20:38:49+00:00",
+  "last_published_at": "2026-07-22T09:41:17+00:00",
+  "partitions": [
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

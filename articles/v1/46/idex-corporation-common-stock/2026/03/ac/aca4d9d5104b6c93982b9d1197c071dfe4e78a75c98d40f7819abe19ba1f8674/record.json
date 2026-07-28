@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aca4d9d5104b6c93982b9d1197c071dfe4e78a75c98d40f7819abe19ba1f8674",
+  "company": {
+    "key": "idex-corporation-common-stock",
+    "name": "IDEX Corporation Common Stock"
+  },
+  "source": {
+    "id": "idex-corporation-common-stock-rss-f2357a05e8e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://idexcorp.com/news/news-item/not-just-optics-how-ihs-bristol-energy-management-earned-idex-green-certification/",
+    "canonical": "https://idexcorp.com/news/news-item/not-just-optics-how-ihs-bristol-energy-management-earned-idex-green-certification/"
+  },
+  "title": "Not Just Optics: How IH&S Bristol Energy Management Earned IDEX Green Certification",
+  "summary": "The IDEX Health & Science (IH&S) platform has been actively pursuing the IDEX Green certification, and the Bristol, Connecticut site achieved it! By identifying a few relatively simple fixes, the IH&S Bristol achieved meaningful energy reduction. The team attained IDEX Green state in part by leveraging the Strategic Energy Management (SEM) program from their energy […]",
+  "published_at": "2026-03-01T20:17:45+00:00",
+  "first_seen_at": "2026-07-21T01:18:19.486099+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:32.193771+00:00",
+  "paths": {
+    "article": "articles/v1/46/idex-corporation-common-stock/2026/03/ac/aca4d9d5104b6c93982b9d1197c071dfe4e78a75c98d40f7819abe19ba1f8674/article.md",
+    "record": "articles/v1/46/idex-corporation-common-stock/2026/03/ac/aca4d9d5104b6c93982b9d1197c071dfe4e78a75c98d40f7819abe19ba1f8674/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2948,
+    "sha256": "sha256:ec45374145ca188330945122dd61632056282662f1257adae1773bdd7b7aecc3",
+    "normalized_content_hash": "sha256:384c2c1adfa9ef3f2233fbb07019b5bd18703e7ef2e69c6cb4744e8128af5aa4"
+  },
+  "provenance": {
+    "source_item_id": "bba012c6-5c82-49bf-b74a-05f7cef6db13",
+    "external_id": "https://idexcorp.com/?p=5598"
+  }
+}

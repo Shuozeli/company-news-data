@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab617298095591d2f53c466d0560888a2963e966effb300338c67eff52a59fb6",
+  "company": {
+    "key": "yc-jerry-inc",
+    "name": "Jerry"
+  },
+  "source": {
+    "id": "yc-jerry-inc-news-import-e8ea60baa995",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jerry.ai/newsroom/the-rising-price-of-protection-5-smart-strategies-to-save-on-car-insurance/",
+    "canonical": "https://jerry.ai/newsroom/the-rising-price-of-protection-5-smart-strategies-to-save-on-car-insurance/"
+  },
+  "title": "The rising price of protection: 5 smart strategies to save on car insurance",
+  "summary": "Jerry recognizes that as car insurance premiums soar, drivers are confronted with budgeting dilemmas and are making changes to their coverage levels to save money, and offers smarter ways to save without sacrificing your protection or lifestyle.",
+  "published_at": "2025-03-28T21:07:04+00:00",
+  "first_seen_at": "2026-07-25T10:12:45.275048+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:03.660508+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-jerry-inc/2025/03/ab/ab617298095591d2f53c466d0560888a2963e966effb300338c67eff52a59fb6/article.md",
+    "record": "articles/v1/5b/yc-jerry-inc/2025/03/ab/ab617298095591d2f53c466d0560888a2963e966effb300338c67eff52a59fb6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7010,
+    "sha256": "sha256:7b162628e44c598b9b97571f31ef5c8843b643703b2b4acd485566dd008a518d",
+    "normalized_content_hash": "sha256:8fbc52c21191f2026afbfa6be633ac05b438d101304904e23e72124d031b9d94"
+  },
+  "provenance": {
+    "source_item_id": "5e35c686-80a5-413a-97db-168d634c92b9",
+    "external_id": "https://jerry.ai/newsroom/the-rising-price-of-protection-5-smart-strategies-to-save-on-car-insurance/"
+  }
+}

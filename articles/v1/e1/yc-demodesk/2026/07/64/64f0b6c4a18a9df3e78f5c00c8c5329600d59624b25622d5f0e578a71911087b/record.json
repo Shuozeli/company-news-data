@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64f0b6c4a18a9df3e78f5c00c8c5329600d59624b25622d5f0e578a71911087b",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-create-custom-ai-agents-in-demodesks-skill-library-using-the",
+    "canonical": "https://demodesk.com/blog/how-to-create-custom-ai-agents-in-demodesks-skill-library-using-the"
+  },
+  "title": "How to create custom AI agents in Demodesk's Skill Library using the AI Analyst",
+  "summary": "Build custom AI agents in Demodesk's Skill Library. Chat with AI Analyst to define skills like Account Health Coach, then route insights to Slack.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T16:28:03.851214+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:01.207124+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/64/64f0b6c4a18a9df3e78f5c00c8c5329600d59624b25622d5f0e578a71911087b/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/64/64f0b6c4a18a9df3e78f5c00c8c5329600d59624b25622d5f0e578a71911087b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5571,
+    "sha256": "sha256:70481b98f3a17708737ee82fd052e3fb53d1798aee808b23113546277635f1d2",
+    "normalized_content_hash": "sha256:44ea7ee6dc2ff2a890057ef6cef3dfbf757e43ca79201f0df98221b600079543"
+  },
+  "provenance": {
+    "source_item_id": "492cd186-11df-4a9e-a743-782dd9977d97",
+    "external_id": "https://demodesk.com/blog/how-to-create-custom-ai-agents-in-demodesks-skill-library-using-the"
+  }
+}

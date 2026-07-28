@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1dcfd77733c885c675de921c02282f47c3da41012783692bea7b464b73436c9f",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/qatars-commercial-bank-chooses-crowdstrike-falcon-a-partnership-based-on-trust/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/qatars-commercial-bank-chooses-crowdstrike-falcon-a-partnership-based-on-trust/"
+  },
+  "title": "Qatar’s Commercial Bank Chooses CrowdStrike Falcon®: A Partnership Based on Trust [VIDEO]",
+  "summary": "Commercial Bank, Qatar trusts CrowdStrike Falcon® endpoint protection to secure its critical infrastructure and prevent cyberattacks.",
+  "published_at": "2018-08-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T12:36:48.404735+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.324991+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2018/08/1d/1dcfd77733c885c675de921c02282f47c3da41012783692bea7b464b73436c9f/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2018/08/1d/1dcfd77733c885c675de921c02282f47c3da41012783692bea7b464b73436c9f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4586,
+    "sha256": "sha256:e93c507f1205e0b9799eaa3dee0b5428531f3cf957578b26540daccbc5be5820",
+    "normalized_content_hash": "sha256:7fa8f73b37fd37a56b7cc0f18a0e4b7f416234ae703880f17409c40e5a5391d6"
+  },
+  "provenance": {
+    "source_item_id": "87bef502-40fc-43a2-a3ae-cbbb7169a76a",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/qatars-commercial-bank-chooses-crowdstrike-falcon-a-partnership-based-on-trust/"
+  }
+}

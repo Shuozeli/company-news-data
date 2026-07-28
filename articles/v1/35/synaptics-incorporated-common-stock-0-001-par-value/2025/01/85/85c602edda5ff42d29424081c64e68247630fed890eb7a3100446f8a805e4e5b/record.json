@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "85c602edda5ff42d29424081c64e68247630fed890eb7a3100446f8a805e4e5b",
+  "company": {
+    "key": "synaptics-incorporated-common-stock-0-001-par-value",
+    "name": "Synaptics Incorporated Common Stock $0.001 Par Value"
+  },
+  "source": {
+    "id": "synaptics-incorporated-common-stock-0-001-par-value-news-import-67901354d8df",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.synaptics.com/company/blog/synaptics-enables-real-time-connected-edge-intelligence-with-industrys-first-wi-fi-7-ai-mcu-syn765x-series",
+    "canonical": "https://www.synaptics.com/company/blog/synaptics-enables-real-time-connected-edge-intelligence-with-industrys-first-wi-fi-7-ai-mcu-syn765x-series"
+  },
+  "title": "Synaptics Enables Real-time Connected Edge Intelligence With Industry’s First Wi-Fi® 7 AI MCU SYN765x Series",
+  "summary": "Over the past decade, most Internet of Things (IoT) devices focused on collecting data from sensors and devices at the Edge and then transferring it to the cloud for processing and analysis...",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:29:20.825354+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:45.254697+00:00",
+  "paths": {
+    "article": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/85/85c602edda5ff42d29424081c64e68247630fed890eb7a3100446f8a805e4e5b/article.md",
+    "record": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/85/85c602edda5ff42d29424081c64e68247630fed890eb7a3100446f8a805e4e5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12227,
+    "sha256": "sha256:30ce81de2a2dbf5e929e8f1f695ddfa619393de8aa22606d6808d48e300cfa26",
+    "normalized_content_hash": "sha256:f62e2c54aad25437716d0006b928a107d866e3ef12510e8c9758277bb28eaee1"
+  },
+  "provenance": {
+    "source_item_id": "3ca1992e-daf3-421c-b500-6378a39bd0ee",
+    "external_id": "https://www.synaptics.com/company/blog/synaptics-enables-real-time-connected-edge-intelligence-with-industrys-first-wi-fi-7-ai-mcu-syn765x-series"
+  }
+}

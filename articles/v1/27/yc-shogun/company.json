@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-shogun",
+    "name": "Shogun"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-01-29T12:00:00+00:00",
+  "last_published_at": "2026-07-09T18:59:24+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

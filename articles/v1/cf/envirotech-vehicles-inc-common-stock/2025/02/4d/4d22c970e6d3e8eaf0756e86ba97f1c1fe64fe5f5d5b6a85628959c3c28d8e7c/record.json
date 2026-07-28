@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d22c970e6d3e8eaf0756e86ba97f1c1fe64fe5f5d5b6a85628959c3c28d8e7c",
+  "company": {
+    "key": "envirotech-vehicles-inc-common-stock",
+    "name": "Envirotech Vehicles Inc. Common Stock"
+  },
+  "source": {
+    "id": "envirotech-vehicles-inc-common-stock-news-import-3e250893f986",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.evtvusa.com/company/news/electrifying-bus-fleets/",
+    "canonical": "https://evtvusa.com/company/news/electrifying-bus-fleets"
+  },
+  "title": "Electrifying bus fleets",
+  "summary": "Electrifying bus fleets",
+  "published_at": "2025-02-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:03:58.705967+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:38.571407+00:00",
+  "paths": {
+    "article": "articles/v1/cf/envirotech-vehicles-inc-common-stock/2025/02/4d/4d22c970e6d3e8eaf0756e86ba97f1c1fe64fe5f5d5b6a85628959c3c28d8e7c/article.md",
+    "record": "articles/v1/cf/envirotech-vehicles-inc-common-stock/2025/02/4d/4d22c970e6d3e8eaf0756e86ba97f1c1fe64fe5f5d5b6a85628959c3c28d8e7c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8493,
+    "sha256": "sha256:cd6c842ca6c5220acc3a41a1cff4a2c8e69e3bcea34f2eee07f63790cca132ed",
+    "normalized_content_hash": "sha256:417a69bb7be269cd31fc79a9b5a8115f5123a0c7d9edcc922f11343fae310df6"
+  },
+  "provenance": {
+    "source_item_id": "7a34dd19-bd19-424e-8369-80362ccdc53a",
+    "external_id": "https://evtvusa.com/company/news/electrifying-bus-fleets"
+  }
+}

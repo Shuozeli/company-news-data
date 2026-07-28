@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "941007a6a6f449fe67a4542ce29199d33401077ee49e75da00b7592860b7e8a5",
+  "company": {
+    "key": "yc-abacum",
+    "name": "Abacum"
+  },
+  "source": {
+    "id": "yc-abacum-news-import-0f3038283d34",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.abacum.ai/newsroom/the-future-of-corporate-finance",
+    "canonical": "https://www.abacum.ai/newsroom/the-future-of-corporate-finance"
+  },
+  "title": "The Future Of Corporate Finance",
+  "summary": "Abacum is the AI-native FP&A platform built for CFOs to connect data, workflows and teams, simplifying planning and reporting with 700+ integrations.",
+  "published_at": "2026-01-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T00:54:19.775643+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:35.129352+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-abacum/2026/01/94/941007a6a6f449fe67a4542ce29199d33401077ee49e75da00b7592860b7e8a5/article.md",
+    "record": "articles/v1/d7/yc-abacum/2026/01/94/941007a6a6f449fe67a4542ce29199d33401077ee49e75da00b7592860b7e8a5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1641,
+    "sha256": "sha256:d811b4b0cada3166edcd119227a49d91b580d732ac9e7bd6c26527209ad83b91",
+    "normalized_content_hash": "sha256:06cf1a4c0199aaf94636ee48d7cfda313c323e9690d4e56bbd74e3d8129968bb"
+  },
+  "provenance": {
+    "source_item_id": "0ecd7e36-ea4d-4e33-ae59-469a0be5d659",
+    "external_id": "https://www.abacum.ai/newsroom/the-future-of-corporate-finance"
+  }
+}

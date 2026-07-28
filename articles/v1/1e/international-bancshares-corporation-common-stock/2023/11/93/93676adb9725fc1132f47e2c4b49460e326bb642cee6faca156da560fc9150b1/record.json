@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "93676adb9725fc1132f47e2c4b49460e326bb642cee6faca156da560fc9150b1",
+  "company": {
+    "key": "international-bancshares-corporation-common-stock",
+    "name": "International Bancshares Corporation Common Stock"
+  },
+  "source": {
+    "id": "international-bancshares-corporation-common-stock-news-import-2e07f9dd1075",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ibc.com/newsroom/op-ed/fight-complacency",
+    "canonical": "https://www.ibc.com/newsroom/op-ed/fight-complacency"
+  },
+  "title": "Fight Complacency",
+  "summary": "Special commentary from the CEO",
+  "published_at": "2023-11-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T12:16:24.397693+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:05.300264+00:00",
+  "paths": {
+    "article": "articles/v1/1e/international-bancshares-corporation-common-stock/2023/11/93/93676adb9725fc1132f47e2c4b49460e326bb642cee6faca156da560fc9150b1/article.md",
+    "record": "articles/v1/1e/international-bancshares-corporation-common-stock/2023/11/93/93676adb9725fc1132f47e2c4b49460e326bb642cee6faca156da560fc9150b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1814,
+    "sha256": "sha256:287c0d6c6e7ca0943500d7fb76f1bb3c036e9b60e4d9fdebe91ffee76cf3ef8e",
+    "normalized_content_hash": "sha256:3271b2bf764102ee86ac2670ab738421f0ee6d1e2bb896781eb25b9c6a157865"
+  },
+  "provenance": {
+    "source_item_id": "4cca8d23-91d0-4f9a-a8af-c31f054a55e8",
+    "external_id": "https://www.ibc.com/newsroom/op-ed/fight-complacency"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d7c91d1d829f97353b7ea04dbf43fca4a43c1002f2c9a5ef34cb1f5abbc700c",
+  "company": {
+    "key": "yc-cowrywise",
+    "name": "Cowrywise"
+  },
+  "source": {
+    "id": "yc-cowrywise-news-import-b1f6861b88e9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cowrywise.com/blog/research-articles/",
+    "canonical": "https://cowrywise.com/blog/research-articles/"
+  },
+  "title": "Research Articles",
+  "summary": "",
+  "published_at": "2025-01-15T17:06:56+00:00",
+  "first_seen_at": "2026-07-21T15:12:19.431715+00:00",
+  "fetched_at": "2026-07-21T22:42:00.534509+00:00",
+  "last_updated_at": "2026-07-21T22:42:04.094222+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-cowrywise/2025/01/9d/9d7c91d1d829f97353b7ea04dbf43fca4a43c1002f2c9a5ef34cb1f5abbc700c/article.md",
+    "record": "articles/v1/33/yc-cowrywise/2025/01/9d/9d7c91d1d829f97353b7ea04dbf43fca4a43c1002f2c9a5ef34cb1f5abbc700c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1181,
+    "sha256": "sha256:684145021a6e54e757c68bd9b99157b8b90f8afad06ec6025a0789964ed267b9",
+    "normalized_content_hash": "sha256:22ab523feb48ebdcfea133b4937d89f5e7154a275c011a7da8c11c61b30406f1"
+  },
+  "provenance": {
+    "source_item_id": "8d0b6f37-7c1d-497a-9fab-baa221e20f1d",
+    "external_id": "https://cowrywise.com/blog/research-articles/"
+  }
+}

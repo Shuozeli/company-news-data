@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-fithub-2",
+    "name": "FitHub"
+  },
+  "record_count": 10,
+  "first_published_at": "2024-12-16T22:06:27+00:00",
+  "last_published_at": "2025-07-24T11:47:32+00:00",
+  "partitions": [
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 2
+    }
+  ]
+}

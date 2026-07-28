@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cfb3fccccf79e1205ed9e034615a8d1dbb62e9d1ff8d64f8da394bc97c8b3388",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/using-helm-charts-to-deploy-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/using-helm-charts-to-deploy-argo-workflows"
+  },
+  "title": "Using Helm Charts to Deploy Argo Workflows on Kubernetes",
+  "summary": "Here's how you can deploy Argo Workflows using Helm charts and the challenges and possibilities of installation.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.337106+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/cf/cfb3fccccf79e1205ed9e034615a8d1dbb62e9d1ff8d64f8da394bc97c8b3388/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/cf/cfb3fccccf79e1205ed9e034615a8d1dbb62e9d1ff8d64f8da394bc97c8b3388/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12109,
+    "sha256": "sha256:61854d50824b4fbe60a34bc533344aedf0f186571f7b41288222f787c0716b59",
+    "normalized_content_hash": "sha256:35287859b26c15a3993574933aab0b156e3f26de78b6a8f4bf1a8f5b3bad7a39"
+  },
+  "provenance": {
+    "source_item_id": "579a7c52-897f-45ea-9070-5384f1fdadaf",
+    "external_id": "https://homepage.pipekit.io/blog/using-helm-charts-to-deploy-argo-workflows"
+  }
+}

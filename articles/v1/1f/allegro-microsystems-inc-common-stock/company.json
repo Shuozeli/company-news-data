@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "allegro-microsystems-inc-common-stock",
+    "name": "Allegro MicroSystems Inc. Common Stock"
+  },
+  "record_count": 20,
+  "first_published_at": "2024-01-09T00:00:00+00:00",
+  "last_published_at": "2026-07-02T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    }
+  ]
+}

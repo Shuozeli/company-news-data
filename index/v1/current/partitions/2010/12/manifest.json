@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "8001108edc39209bd152423f49148004b7dc20049f4fcfb42f68a747561c880e",
+  "partition": "2010-12",
+  "record_count": 3,
+  "shard_count": 1,
+  "byte_count": 8212,
+  "shards": [
+    {
+      "prefix": "",
+      "path": "index/v1/current/partitions/2010/12/shards/root.jsonl",
+      "record_count": 3,
+      "byte_count": 8212,
+      "sha256": "sha256:58c21848126a81079fdf5d578816dba2f6de088025a12d0f813b9e72c97bd5c4",
+      "min_document_id": "02b57ba8109fc23d4286e8e01e95f1bdd37cb5fe506d0eb3e62cbbe655d911d1",
+      "max_document_id": "4ab9754cdc2ee005870fccb488c9afce9c14e935eafff8913de989125f04ffb0"
+    }
+  ]
+}

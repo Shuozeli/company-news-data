@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "90bca187ffb6838227665c5db38dc64a461f19cf23559249c55ebd8562367d41",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation Common Stock"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-865bfd380f75",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.microsoft.com/signal/articles/work-smarter-in-90-days-a-real-world-guide-to-using-ai/",
+    "canonical": "https://news.microsoft.com/signal/articles/work-smarter-in-90-days-a-real-world-guide-to-using-ai/"
+  },
+  "title": "Work smarter in 90 days: A real-world guide to using AI",
+  "summary": "You hear about it everywhere: Learning to use AI is the way to get ahead in your job and help future-proof your career. Where to begin? Check out our 90-day guide.",
+  "published_at": "2026-04-28T14:54:45+00:00",
+  "first_seen_at": "2026-07-21T16:11:46.582459+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-07-28T21:26:15.892261+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/04/90/90bca187ffb6838227665c5db38dc64a461f19cf23559249c55ebd8562367d41/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/04/90/90bca187ffb6838227665c5db38dc64a461f19cf23559249c55ebd8562367d41/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8904,
+    "sha256": "sha256:d3fa73eaa6077ba23a763b491100be8d64d74745f2a2ec42e81600f1fcc704b0",
+    "normalized_content_hash": "sha256:9f06accc7c3c21667ac5d2bc7f95a7646253dc2ed86b55df0fc55780f0cfd090"
+  },
+  "provenance": {
+    "source_item_id": "6341d471-9110-46bf-b492-aee1156e1c4e",
+    "external_id": "https://news.microsoft.com/signal/articles/work-smarter-in-90-days-a-real-world-guide-to-using-ai/"
+  }
+}

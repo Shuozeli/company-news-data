@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-eclipse-foods",
+    "name": "Eclipse Foods"
+  },
+  "record_count": 19,
+  "first_published_at": "2023-10-04T14:28:18+00:00",
+  "last_published_at": "2025-06-25T22:54:30+00:00",
+  "partitions": [
+    {
+      "partition": "2023-10",
+      "record_count": 18
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12d4e937965a8551a150214baf0c11336df835ba3f15fad9b09b6b6a37076af2",
+  "company": {
+    "key": "lpl-financial-holdings-inc-common-stock",
+    "name": "LPL Financial Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "lpl-financial-holdings-inc-common-stock-news-import-e05a31fb492b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lpl.com/research/blog/imagining-the-unthinkable-for-ai-investors.html",
+    "canonical": "https://www.lpl.com/research/blog/imagining-the-unthinkable-for-ai-investors.html"
+  },
+  "title": "The Unthinkable Scenario for AI Investors",
+  "summary": "LPL Research dares to imagine a non-consensus future for AI where reality fails to meet lofty investor expectations.",
+  "published_at": "2024-11-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:45:10.652110+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:39.170415+00:00",
+  "paths": {
+    "article": "articles/v1/b1/lpl-financial-holdings-inc-common-stock/2024/11/12/12d4e937965a8551a150214baf0c11336df835ba3f15fad9b09b6b6a37076af2/article.md",
+    "record": "articles/v1/b1/lpl-financial-holdings-inc-common-stock/2024/11/12/12d4e937965a8551a150214baf0c11336df835ba3f15fad9b09b6b6a37076af2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11198,
+    "sha256": "sha256:6325db788e964cc8fd82a4b606ffb84ae256ac8ccc30e37bd97c85a6e2fc36cb",
+    "normalized_content_hash": "sha256:cb9d5156cef6e9748c6626d9ce0e9bf66b56310a24c27cb23405d894e6bb8946"
+  },
+  "provenance": {
+    "source_item_id": "d9faef24-d033-4847-9937-9ff68ac991fd",
+    "external_id": "https://www.lpl.com/research/blog/imagining-the-unthinkable-for-ai-investors.html"
+  }
+}

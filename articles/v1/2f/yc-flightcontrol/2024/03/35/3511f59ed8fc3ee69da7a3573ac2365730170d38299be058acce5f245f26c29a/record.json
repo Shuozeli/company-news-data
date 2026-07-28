@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3511f59ed8fc3ee69da7a3573ac2365730170d38299be058acce5f245f26c29a",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/introducing-flightcontrol-long-running-cron-jobs-and-ad-hoc-commands",
+    "canonical": "https://www.flightcontrol.dev/blog/introducing-flightcontrol-long-running-cron-jobs-and-ad-hoc-commands"
+  },
+  "title": "Introducing Flightcontrol long-running cron jobs and ad-hoc commands",
+  "summary": "Announcing that our Fargate scheduler job runner is generally available. Use it for short or long running cron jobs and ad-hoc commands.",
+  "published_at": "2024-03-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T22:26:07.231499+00:00",
+  "last_updated_at": "2026-07-28T22:26:12.683528+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2024/03/35/3511f59ed8fc3ee69da7a3573ac2365730170d38299be058acce5f245f26c29a/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2024/03/35/3511f59ed8fc3ee69da7a3573ac2365730170d38299be058acce5f245f26c29a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5661,
+    "sha256": "sha256:bcb44868ef6cc75cd271bcd6eb96765859f8185e9ef6c9e0ea2c890250da7269",
+    "normalized_content_hash": "sha256:881182f4a1798d7e75cb277a8b7d1a9db1a643879b89584d1bda1e1193173ce6"
+  },
+  "provenance": {
+    "source_item_id": "f843f511-c694-4eb2-9134-08cf380ac7e3",
+    "external_id": "https://www.flightcontrol.dev/blog/introducing-flightcontrol-long-running-cron-jobs-and-ad-hoc-commands"
+  }
+}

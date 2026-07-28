@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "19616cd59985d812d96d82933ad6b0148e750121fe1e4c0411c8a64523167e9d",
+  "company": {
+    "key": "re-max-holdings-inc-class-a-common-stock",
+    "name": "RE/MAX Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "re-max-holdings-inc-class-a-common-stock-news-import-1d5455dae528",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.remax.com/2026-torchbearers-remax-announces-top-agents-under-40",
+    "canonical": "https://news.remax.com/2026-torchbearers-remax-announces-top-agents-under-40"
+  },
+  "title": "2026 Torchbearers: REMAX Announces Top Agents Under 40",
+  "summary": "These top producing real estate agents across the U.S. and Canada set an example for productivity and determination.",
+  "published_at": "2026-03-31T18:30:00+00:00",
+  "first_seen_at": "2026-07-25T21:01:10.315183+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-07-28T21:57:32.022674+00:00",
+  "paths": {
+    "article": "articles/v1/8b/re-max-holdings-inc-class-a-common-stock/2026/03/19/19616cd59985d812d96d82933ad6b0148e750121fe1e4c0411c8a64523167e9d/article.md",
+    "record": "articles/v1/8b/re-max-holdings-inc-class-a-common-stock/2026/03/19/19616cd59985d812d96d82933ad6b0148e750121fe1e4c0411c8a64523167e9d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24331,
+    "sha256": "sha256:95608786880aaf1ef314372bf5b35045cb3c8e170c3bd07591198ab7dd09da2c",
+    "normalized_content_hash": "sha256:b351b41f5e394215f3ba01d3d2fc7be73d68057ae228c4b5489e9bbd25691a6d"
+  },
+  "provenance": {
+    "source_item_id": "888a0b6a-e611-4e58-a2a7-362c5fc2f764",
+    "external_id": "https://news.remax.com/2026-torchbearers-remax-announces-top-agents-under-40"
+  }
+}

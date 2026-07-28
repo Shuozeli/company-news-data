@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8d52ae95e957caba08c9021af2db93c39fd53401dbee9cbae50157381cb44c99",
+  "company": {
+    "key": "galaxy-digital-inc-class-a-common-stock",
+    "name": "Galaxy Digital Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "galaxy-digital-inc-class-a-common-stock-news-import-fbc635ef0517",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.galaxy.com/insights/research/inference-capital-markets-ai-compute-gpu-futures-onchain-crypto",
+    "canonical": "https://www.galaxy.com/insights/research/inference-capital-markets-ai-compute-gpu-futures-onchain-crypto"
+  },
+  "title": "Inference Capital Markets",
+  "summary": "A new financial layer is forming around AI inference. Onchain markets are pricing compute, tokenizing access, and financing hardware.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T06:07:02.932709+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:52.148192+00:00",
+  "paths": {
+    "article": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/8d/8d52ae95e957caba08c9021af2db93c39fd53401dbee9cbae50157381cb44c99/article.md",
+    "record": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/2026/07/8d/8d52ae95e957caba08c9021af2db93c39fd53401dbee9cbae50157381cb44c99/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 58704,
+    "sha256": "sha256:722ebf1f02a7a74368a43540c37aef6895c74bf81412037137a9074fd4838c7a",
+    "normalized_content_hash": "sha256:8566db60c72088e366273b700010503e515b482805b26bfca64c0a07e89d6bc5"
+  },
+  "provenance": {
+    "source_item_id": "91f0e4da-b3bb-481b-80b6-0abd852b31a8",
+    "external_id": "https://www.galaxy.com/insights/research/inference-capital-markets-ai-compute-gpu-futures-onchain-crypto"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6979b57e1943878061522719bda3a52ff8689d654dcc466c80bb394eec6ad060",
+  "company": {
+    "key": "pacific-biosciences-of-california-inc-common-stock",
+    "name": "Pacific Biosciences of California Inc. Common Stock"
+  },
+  "source": {
+    "id": "pacific-biosciences-of-california-inc-common-stock-news-import-446448bf94cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pacb.com/blog/long-read-sequencing-is-not-the-trade-off-it-used-to-be-these-are-the-5-questions-that-show-why/",
+    "canonical": "https://www.pacb.com/blog/long-read-sequencing-is-not-the-trade-off-it-used-to-be-these-are-the-5-questions-that-show-why/"
+  },
+  "title": "Long-read sequencing is not the trade-off it used to be: These are the 5 questions that show why",
+  "summary": "HiFi sequencing resolves structural variants, repeats, and full-length isoforms in a single run with 99.9% per-read accuracy with 5mC, 5hmC, and 6mA methylation alongside every variant without extra prep or added cost.",
+  "published_at": "2026-05-08T13:00:27+00:00",
+  "first_seen_at": "2026-07-22T08:02:43.432836+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-28T21:46:27.950591+00:00",
+  "paths": {
+    "article": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/05/69/6979b57e1943878061522719bda3a52ff8689d654dcc466c80bb394eec6ad060/article.md",
+    "record": "articles/v1/18/pacific-biosciences-of-california-inc-common-stock/2026/05/69/6979b57e1943878061522719bda3a52ff8689d654dcc466c80bb394eec6ad060/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9398,
+    "sha256": "sha256:aa0a9df26d1b5373649f48b1be233c9c68f569eaca7145c0713a5421620c740e",
+    "normalized_content_hash": "sha256:800ee244e87f69bbb777be68a34e998885d6cca63dfcdb72ad6a45c1c985aaa6"
+  },
+  "provenance": {
+    "source_item_id": "4eaf191b-2a7b-4e18-95ea-9fd7892d2d6d",
+    "external_id": "https://www.pacb.com/blog/long-read-sequencing-is-not-the-trade-off-it-used-to-be-these-are-the-5-questions-that-show-why/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "407355ad2ad1949aadf422beed5154ce4942ec8527dba1dea0eae823fc148bfa",
+  "company": {
+    "key": "chart-industries-inc-common-stock",
+    "name": "Chart Industries Inc. Common Stock"
+  },
+  "source": {
+    "id": "chart-industries-inc-common-stock-news-import-c0159f6afe7d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chartindustries.com/News-And-Events/Ratermann",
+    "canonical": "https://www.chartindustries.com/News-And-Events/Ratermann"
+  },
+  "title": "Chart and Ratermann announce distribution partnership",
+  "summary": "Chart has signed a strategic North American distribution partnership with Ratermann Manufacturing under which Ratermann will serve as the exclusive distributor for Chart’s complete line of industrial MicroBulk and portable liquid cylinder tanks.",
+  "published_at": "2026-01-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T22:45:10.184292+00:00",
+  "fetched_at": "2026-07-28T22:23:32.114893+00:00",
+  "last_updated_at": "2026-07-28T22:23:42.770169+00:00",
+  "paths": {
+    "article": "articles/v1/41/chart-industries-inc-common-stock/2026/01/40/407355ad2ad1949aadf422beed5154ce4942ec8527dba1dea0eae823fc148bfa/article.md",
+    "record": "articles/v1/41/chart-industries-inc-common-stock/2026/01/40/407355ad2ad1949aadf422beed5154ce4942ec8527dba1dea0eae823fc148bfa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2458,
+    "sha256": "sha256:ebce8a6f7ff06af7af22624647f2dc26b924973c1c6bcedd3f861a374f3014f4",
+    "normalized_content_hash": "sha256:0b0a5f434c8383c7d7be5248c31dab2a17547c7accf61cfcdee5872378754eb1"
+  },
+  "provenance": {
+    "source_item_id": "12e43b89-2fe1-482b-b11d-97b3126a5f57",
+    "external_id": "https://www.chartindustries.com/News-And-Events/Ratermann"
+  }
+}

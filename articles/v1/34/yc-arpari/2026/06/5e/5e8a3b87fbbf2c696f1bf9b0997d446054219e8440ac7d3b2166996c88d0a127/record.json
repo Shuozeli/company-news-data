@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e8a3b87fbbf2c696f1bf9b0997d446054219e8440ac7d3b2166996c88d0a127",
+  "company": {
+    "key": "yc-arpari",
+    "name": "Arpari"
+  },
+  "source": {
+    "id": "yc-arpari-news-import-d67ae8fe8438",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arpari.com/post/your-erp-balance-and-your-bank-balance-will-never-match-in-real-time-here-is-why-that-matters",
+    "canonical": "https://arpari.com/post/your-erp-balance-and-your-bank-balance-will-never-match-in-real-time-here-is-why-that-matters"
+  },
+  "title": "Your ERP Balance and Your Bank Balance Will Never Match in Real Time. Here Is Why That Matters",
+  "summary": "ERP and bank reconciliation constantly mismatches not due to errors but because banks record on settlement timing while ERPs record on posting dates with different data structures.",
+  "published_at": "2026-06-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T17:09:57.576780+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-07-28T21:45:17.505888+00:00",
+  "paths": {
+    "article": "articles/v1/34/yc-arpari/2026/06/5e/5e8a3b87fbbf2c696f1bf9b0997d446054219e8440ac7d3b2166996c88d0a127/article.md",
+    "record": "articles/v1/34/yc-arpari/2026/06/5e/5e8a3b87fbbf2c696f1bf9b0997d446054219e8440ac7d3b2166996c88d0a127/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6243,
+    "sha256": "sha256:ad75fc4e582a670e298a382f23519847e29ab5ed1e760448e110793650338866",
+    "normalized_content_hash": "sha256:c8c99768181d1eb3d0704cdca9039860963dd1281403867caca4bc9caf30fd70"
+  },
+  "provenance": {
+    "source_item_id": "f9c410e2-0721-422d-99c8-c061b75e0f19",
+    "external_id": "https://arpari.com/post/your-erp-balance-and-your-bank-balance-will-never-match-in-real-time-here-is-why-that-matters"
+  }
+}

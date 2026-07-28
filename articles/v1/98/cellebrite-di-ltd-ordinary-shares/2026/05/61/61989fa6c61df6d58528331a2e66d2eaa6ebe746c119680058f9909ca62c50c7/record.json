@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61989fa6c61df6d58528331a2e66d2eaa6ebe746c119680058f9909ca62c50c7",
+  "company": {
+    "key": "cellebrite-di-ltd-ordinary-shares",
+    "name": "Cellebrite DI Ltd. Ordinary Shares"
+  },
+  "source": {
+    "id": "cellebrite-di-ltd-ordinary-shares-news-import-5108dc200e80",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cellebrite.com/en/blog/fedramp-high-changes-the-cloud-equation-for-federal-digital-evidence/",
+    "canonical": "https://cellebrite.com/en/blog/fedramp-high-changes-the-cloud-equation-for-federal-digital-evidence/"
+  },
+  "title": "FedRAMP High Changes the Cloud Equation for Federal Digital Evidence",
+  "summary": "AI is reshaping digital forensics — from mobile extraction to evidence analysis. Learn which AI forensic tools leading agencies are using and why.",
+  "published_at": "2026-05-28T16:03:15+00:00",
+  "first_seen_at": "2026-07-21T12:57:31.558749+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:26.772229+00:00",
+  "paths": {
+    "article": "articles/v1/98/cellebrite-di-ltd-ordinary-shares/2026/05/61/61989fa6c61df6d58528331a2e66d2eaa6ebe746c119680058f9909ca62c50c7/article.md",
+    "record": "articles/v1/98/cellebrite-di-ltd-ordinary-shares/2026/05/61/61989fa6c61df6d58528331a2e66d2eaa6ebe746c119680058f9909ca62c50c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6384,
+    "sha256": "sha256:21c3d2f81b43cb4e7b3b9e13ca315e79c22249dc0ef88583e3a5852acda61cd2",
+    "normalized_content_hash": "sha256:58bde609994ba6bad8880abafc35bccba6525c87366a8d51d38d497406157f1f"
+  },
+  "provenance": {
+    "source_item_id": "7b46281e-98ed-4bf7-b01c-98a1ed883966",
+    "external_id": "https://cellebrite.com/en/blog/fedramp-high-changes-the-cloud-equation-for-federal-digital-evidence/"
+  }
+}

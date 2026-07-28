@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-cosmic",
+    "name": "Cosmic"
+  },
+  "record_count": 218,
+  "first_published_at": "2026-04-11T00:00:00+00:00",
+  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 43
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 62
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 67
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 46
+    }
+  ]
+}

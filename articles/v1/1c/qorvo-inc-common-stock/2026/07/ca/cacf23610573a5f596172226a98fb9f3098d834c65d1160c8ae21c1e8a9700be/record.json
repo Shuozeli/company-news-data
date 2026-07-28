@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cacf23610573a5f596172226a98fb9f3098d834c65d1160c8ae21c1e8a9700be",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/qorvo-eliminates-cascaded-switches-in-5g-radios-with-new-wideband-high-isolation-family",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/qorvo-eliminates-cascaded-switches-in-5g-radios-with-new-wideband-high-isolation-family"
+  },
+  "title": "Qorvo Eliminates Cascaded Switches in 5G Radios with New Wideband High-Isolation Family",
+  "summary": "Qorvo® (Nasdaq: QRVO), a leading global provider of connectivity and power solutions, today announced a new family of RF switches designed to simplify multi-band radio architectures. Spanning 50 MHz to 10 GHz, the family reduces component count, improves signal integrity and enables more efficient RF system design across 5G infrastructure, industrial, drone and test applications.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:24.117323+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/ca/cacf23610573a5f596172226a98fb9f3098d834c65d1160c8ae21c1e8a9700be/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/ca/cacf23610573a5f596172226a98fb9f3098d834c65d1160c8ae21c1e8a9700be/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10241,
+    "sha256": "sha256:04bebe765a390b6f6faaf4a021ef914adcaf57d3be0b5162c5c18281fc15a417",
+    "normalized_content_hash": "sha256:0126652d1ec46002eaef0c2a13bb8ca26cb9d460b225b60a8aaeb242f65d6acc"
+  },
+  "provenance": {
+    "source_item_id": "c9560a8c-d5fc-4fa8-8790-de90b27e58c6",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/qorvo-eliminates-cascaded-switches-in-5g-radios-with-new-wideband-high-isolation-family"
+  }
+}

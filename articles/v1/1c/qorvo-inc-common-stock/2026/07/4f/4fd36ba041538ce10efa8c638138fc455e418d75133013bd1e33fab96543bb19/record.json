@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4fd36ba041538ce10efa8c638138fc455e418d75133013bd1e33fab96543bb19",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/qorvo-honored-with-chervons-diamond-award-for-outstanding-supplier-performance",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/qorvo-honored-with-chervons-diamond-award-for-outstanding-supplier-performance"
+  },
+  "title": "Qorvo Honored with Chervon's Diamond Award for Outstanding Supplier Performance",
+  "summary": "Qorvo® (Nasdaq: QRVO), today announced it has received the Diamond Award from Chervon Group at Chervon's 2026 Global Supplier Day.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:12.855800+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/4f/4fd36ba041538ce10efa8c638138fc455e418d75133013bd1e33fab96543bb19/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/4f/4fd36ba041538ce10efa8c638138fc455e418d75133013bd1e33fab96543bb19/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9516,
+    "sha256": "sha256:780d9816f0d93b0223aa9c3b670b93559018016fdd752b10b8fbbf751b15270f",
+    "normalized_content_hash": "sha256:d81de70572b10ba9dda99606b718d60fcb19a1e57d4d6eecc9a9db7d3c23d875"
+  },
+  "provenance": {
+    "source_item_id": "7dcd0164-b8d1-4b0a-822b-365f790ce833",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/qorvo-honored-with-chervons-diamond-award-for-outstanding-supplier-performance"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64c8e4f0aa3dd4ec995abd96546b8a176f64f31a3f8bb0c50dd4d1a2b08315c4",
+  "company": {
+    "key": "arcbest-corporation-common-stock",
+    "name": "ArcBest Corporation Common Stock"
+  },
+  "source": {
+    "id": "arcbest-corporation-common-stock-news-import-cf4e8f963433",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://arcb.com/blog/ground-shipping-options",
+    "canonical": "https://arcb.com/blog/ground-shipping-options"
+  },
+  "title": "Ground Shipping Options",
+  "summary": "Ground shipping includes more than one option. Learn when to use FTL, LTL, intermodal or specialized services to keep ground freight moving efficiently.",
+  "published_at": "2026-05-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T16:42:49.613436+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-28T21:46:19.066318+00:00",
+  "paths": {
+    "article": "articles/v1/e0/arcbest-corporation-common-stock/2026/05/64/64c8e4f0aa3dd4ec995abd96546b8a176f64f31a3f8bb0c50dd4d1a2b08315c4/article.md",
+    "record": "articles/v1/e0/arcbest-corporation-common-stock/2026/05/64/64c8e4f0aa3dd4ec995abd96546b8a176f64f31a3f8bb0c50dd4d1a2b08315c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6689,
+    "sha256": "sha256:e753aa67cfbb7dfda53df0915d42b09aa97c47e7335880a0987bd5b944fbb909",
+    "normalized_content_hash": "sha256:03923abd205877ecd234739cc9a24fb8b6cd705cea4315ba959766598ce02d28"
+  },
+  "provenance": {
+    "source_item_id": "6f520f26-6851-419e-92d2-6d76f6a86403",
+    "external_id": "https://arcb.com/blog/ground-shipping-options"
+  }
+}

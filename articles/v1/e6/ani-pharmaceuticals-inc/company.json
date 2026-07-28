@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ani-pharmaceuticals-inc",
+    "name": "ANI Pharmaceuticals Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2026-04-07T10:50:08+00:00",
+  "last_published_at": "2026-07-24T10:50:48+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ]
+}

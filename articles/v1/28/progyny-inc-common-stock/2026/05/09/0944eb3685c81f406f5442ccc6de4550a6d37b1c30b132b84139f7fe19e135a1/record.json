@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0944eb3685c81f406f5442ccc6de4550a6d37b1c30b132b84139f7fe19e135a1",
+  "company": {
+    "key": "progyny-inc-common-stock",
+    "name": "Progyny Inc. Common Stock"
+  },
+  "source": {
+    "id": "progyny-inc-common-stock-news-import-548271d8bfed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://progyny.com/blog/fertility-in-the-workplace/why-mental-health-is-the-missing-piece-in-family-building-benefits/",
+    "canonical": "https://progyny.com/blog/fertility-in-the-workplace/why-mental-health-is-the-missing-piece-in-family-building-benefits/"
+  },
+  "title": "Why mental health is the missing piece in family building benefits",
+  "summary": "In a recent Progyny member survey, 75% reported they experienced increased stress during the family building journey without benefit support.",
+  "published_at": "2026-05-05T22:00:51+00:00",
+  "first_seen_at": "2026-07-26T07:23:04.831998+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-07-28T22:11:59.159976+00:00",
+  "paths": {
+    "article": "articles/v1/28/progyny-inc-common-stock/2026/05/09/0944eb3685c81f406f5442ccc6de4550a6d37b1c30b132b84139f7fe19e135a1/article.md",
+    "record": "articles/v1/28/progyny-inc-common-stock/2026/05/09/0944eb3685c81f406f5442ccc6de4550a6d37b1c30b132b84139f7fe19e135a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8957,
+    "sha256": "sha256:f9fb8976d22ea190a5852862cc2fa5776dbe72b7a3b1b2ccd4b066c324fce9c2",
+    "normalized_content_hash": "sha256:f5cba5a2ce982b4f8a937be4990ace8799738a6205326eb13c1757ef04c111be"
+  },
+  "provenance": {
+    "source_item_id": "cd4d0e48-1c47-4277-a9f3-8f81a5e4b9e2",
+    "external_id": "https://progyny.com/blog/fertility-in-the-workplace/why-mental-health-is-the-missing-piece-in-family-building-benefits/"
+  }
+}

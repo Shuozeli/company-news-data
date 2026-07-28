@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b9bee5977ccab0e34a13aa597a07d48cf658082e1fcac025aab73491300274e",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-01-19a.html",
+    "canonical": "https://ruger.com/news/2026-01-19a.html"
+  },
+  "title": "Introducing the Ruger American Rifle Generation II Scout Models",
+  "summary": "",
+  "published_at": "2026-01-19T11:01:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:34.111458+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/01/1b/1b9bee5977ccab0e34a13aa597a07d48cf658082e1fcac025aab73491300274e/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/01/1b/1b9bee5977ccab0e34a13aa597a07d48cf658082e1fcac025aab73491300274e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2809,
+    "sha256": "sha256:e004e67cca47376b96bf274c8de88d7601b8ac4dda90c6d73ca293029d8f0513",
+    "normalized_content_hash": "sha256:687982349118bbc4a3abb6e3c06eab93b4dc690befe5057737995ef09a3496e5"
+  },
+  "provenance": {
+    "source_item_id": "25f34fe9-88c5-4648-b022-e817d5c8853d",
+    "external_id": "https://ruger.com/news/2026-01-19a.html"
+  }
+}

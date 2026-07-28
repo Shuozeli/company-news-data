@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4e5b2e0ed8ea02bf275a9bb40fd4688017b88f0866358e2d636bc6c7d034d5f6",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/why-great-sales-start-with-great-sales-notes",
+    "canonical": "https://demodesk.com/blog/why-great-sales-start-with-great-sales-notes"
+  },
+  "title": "Why Great Sales Start with Great Sales Notes",
+  "summary": "Sales notes that drive results: structured templates, AI-human collaboration, and how to turn every call into searchable organizational knowledge.",
+  "published_at": "2025-10-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:07:17.937229+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:50.246639+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2025/10/4e/4e5b2e0ed8ea02bf275a9bb40fd4688017b88f0866358e2d636bc6c7d034d5f6/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2025/10/4e/4e5b2e0ed8ea02bf275a9bb40fd4688017b88f0866358e2d636bc6c7d034d5f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5529,
+    "sha256": "sha256:e5801d29384f288e5fd36e02514c4c7233eac47fc05c6d4606391bcf34237d24",
+    "normalized_content_hash": "sha256:420aae693dad8d59fcac000e26df04d1c36325c73b032ae67641ad72d4e55d9e"
+  },
+  "provenance": {
+    "source_item_id": "c01e1dd0-daa2-4743-bf16-de82fa5ff9b9",
+    "external_id": "https://demodesk.com/blog/why-great-sales-start-with-great-sales-notes"
+  }
+}

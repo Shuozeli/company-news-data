@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a038d5f917f5a9ee40dbdb4fa3715ee4c690052db4f39174191c04585a7ee207",
+  "company": {
+    "key": "vroom-inc-common-stock",
+    "name": "Vroom Inc. Common Stock"
+  },
+  "source": {
+    "id": "vroom-inc-common-stock-news-import-5c1422578507",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2021/06/16/2248071/0/en/vroom-inc-announces-upsize-and-pricing-of-its-550-000-000-convertible-senior-notes-offering.html",
+    "canonical": "https://www.globenewswire.com/news-release/2021/06/16/2248071/0/en/vroom-inc-announces-upsize-and-pricing-of-its-550-000-000-convertible-senior-notes-offering.html"
+  },
+  "title": "Vroom, Inc. Announces Upsize and Pricing of its $550,000,000 Convertible Senior Notes Offering",
+  "summary": "NEW YORK, June 16, 2021 (GLOBE NEWSWIRE) -- Vroom, Inc. (Nasdaq: VRM) (“Vroom”) today announced the pricing of its offering of $550,000,000 aggregate...",
+  "published_at": "2021-06-16T11:00:00+00:00",
+  "first_seen_at": "2026-07-26T21:04:40.281377+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.229358+00:00",
+  "paths": {
+    "article": "articles/v1/02/vroom-inc-common-stock/2021/06/a0/a038d5f917f5a9ee40dbdb4fa3715ee4c690052db4f39174191c04585a7ee207/article.md",
+    "record": "articles/v1/02/vroom-inc-common-stock/2021/06/a0/a038d5f917f5a9ee40dbdb4fa3715ee4c690052db4f39174191c04585a7ee207/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7713,
+    "sha256": "sha256:c0fd6f4e7cee25dca52c63f8f46ab6dd19312be88daa07ed1313b62de36cabc9",
+    "normalized_content_hash": "sha256:9aca3442dc36f1540d5a923352218fca60df793f68dfce014ea7c1d4f61d5f91"
+  },
+  "provenance": {
+    "source_item_id": "6c114e30-d86d-4db3-ad4d-ec5b8487bebd",
+    "external_id": "https://www.globenewswire.com/news-release/2021/06/16/2248071/0/en/vroom-inc-announces-upsize-and-pricing-of-its-550-000-000-convertible-senior-notes-offering.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "72caab142a0dc6dd1001e985a59e4ec61775ea4a12444f55d7a307e408efb3ad",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/reflex-jupyter/",
+    "canonical": "https://reflex.dev/blog/reflex-jupyter/"
+  },
+  "title": "Turn Jupyter Notebooks into Production Dashboards in Python",
+  "summary": "Convert Jupyter notebooks into production-ready dashboards with Reflex. Keep your pandas logic, add UI components, and deploy.",
+  "published_at": "2025-09-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-07-28T22:03:52.201594+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2025/09/72/72caab142a0dc6dd1001e985a59e4ec61775ea4a12444f55d7a307e408efb3ad/article.md",
+    "record": "articles/v1/98/yc-reflex/2025/09/72/72caab142a0dc6dd1001e985a59e4ec61775ea4a12444f55d7a307e408efb3ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5918,
+    "sha256": "sha256:3588254c3cae4d6e9b03ced50b8586ea28fa71c0626b5c25f76e690b664ee56c",
+    "normalized_content_hash": "sha256:3c3a29baedaf0c43bc795ee2db7b8297728676398af668c3190cb8b04e357e37"
+  },
+  "provenance": {
+    "source_item_id": "b12f3fd9-4580-4fbe-955a-c5c91a2f61ae",
+    "external_id": "https://reflex.dev/blog/reflex-jupyter/"
+  }
+}

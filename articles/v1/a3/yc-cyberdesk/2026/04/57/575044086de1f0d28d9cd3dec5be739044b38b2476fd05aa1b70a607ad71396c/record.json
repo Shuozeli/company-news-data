@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "575044086de1f0d28d9cd3dec5be739044b38b2476fd05aa1b70a607ad71396c",
+  "company": {
+    "key": "yc-cyberdesk",
+    "name": "Cyberdesk"
+  },
+  "source": {
+    "id": "yc-cyberdesk-rss-7fc226611edf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/trajectory-replay",
+    "canonical": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/trajectory-replay"
+  },
+  "title": "Trajectory replay makes computer-use agents faster over time",
+  "summary": "How Cyberdesk records successful desktop automation paths and replays approved trajectories for faster, more consistent runs.",
+  "published_at": "2026-04-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T14:30:09.608841+00:00",
+  "fetched_at": "2026-07-28T20:52:14.556861+00:00",
+  "last_updated_at": "2026-07-28T20:52:26.071155+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-cyberdesk/2026/04/57/575044086de1f0d28d9cd3dec5be739044b38b2476fd05aa1b70a607ad71396c/article.md",
+    "record": "articles/v1/a3/yc-cyberdesk/2026/04/57/575044086de1f0d28d9cd3dec5be739044b38b2476fd05aa1b70a607ad71396c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6881,
+    "sha256": "sha256:85c2d97bd65c362c1565458a4aa1a0ec321f6eedc52c68e0b7e34e06ca4e2b4c",
+    "normalized_content_hash": "sha256:ed3cbb256cea1bc992ac8523cf3bce8a832bc3dd54718604d0181a77dc853435"
+  },
+  "provenance": {
+    "source_item_id": "06df27ec-922d-4cd7-be54-ad7a68272b58",
+    "external_id": "https://cyberdesk-qpizz0ni2-cyberdesk.vercel.app/blog/trajectory-replay"
+  }
+}

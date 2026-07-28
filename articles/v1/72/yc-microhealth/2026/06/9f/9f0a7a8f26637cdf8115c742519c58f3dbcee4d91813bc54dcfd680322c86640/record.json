@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f0a7a8f26637cdf8115c742519c58f3dbcee4d91813bc54dcfd680322c86640",
+  "company": {
+    "key": "yc-microhealth",
+    "name": "Microhealth"
+  },
+  "source": {
+    "id": "yc-microhealth-news-import-c7b5bff0479b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.microhealthllc.com/blog/infrastructure-first-laying-the-groundwork-for-ehr-implementation-success/",
+    "canonical": "https://www.microhealthllc.com/blog/infrastructure-first-laying-the-groundwork-for-ehr-implementation-success/"
+  },
+  "title": "Infrastructure First: Laying the Groundwork for EHR Implementation Success",
+  "summary": "The biggest threat to EHR success isn’t the software—it’s the infrastructure behind it. Explore how to lay the groundwork right.",
+  "published_at": "2026-06-02T21:39:59+00:00",
+  "first_seen_at": "2026-07-24T11:22:43.376355+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-07-28T21:43:25.055559+00:00",
+  "paths": {
+    "article": "articles/v1/72/yc-microhealth/2026/06/9f/9f0a7a8f26637cdf8115c742519c58f3dbcee4d91813bc54dcfd680322c86640/article.md",
+    "record": "articles/v1/72/yc-microhealth/2026/06/9f/9f0a7a8f26637cdf8115c742519c58f3dbcee4d91813bc54dcfd680322c86640/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11682,
+    "sha256": "sha256:b90c50cb002a2ad60316f0bae0a7e6cb3b924f2d9f9de1254022a7c945a6f3c5",
+    "normalized_content_hash": "sha256:4857b04aa337bbac14c80c5c8f32cddd1c65ed5461046c8b076cf01dfb6876e8"
+  },
+  "provenance": {
+    "source_item_id": "9ca17923-88fa-4027-a3f9-68ff61693294",
+    "external_id": "https://www.microhealthllc.com/blog/infrastructure-first-laying-the-groundwork-for-ehr-implementation-success/"
+  }
+}

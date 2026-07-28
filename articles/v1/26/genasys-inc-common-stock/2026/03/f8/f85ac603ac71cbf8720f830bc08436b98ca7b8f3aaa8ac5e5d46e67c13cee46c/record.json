@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f85ac603ac71cbf8720f830bc08436b98ca7b8f3aaa8ac5e5d46e67c13cee46c",
+  "company": {
+    "key": "genasys-inc-common-stock",
+    "name": "Genasys Inc. Common Stock"
+  },
+  "source": {
+    "id": "genasys-inc-common-stock-news-import-86acd8f701ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://genasys.com/press-releases/genasys-inc-appoints-larry-hagenbuch-to-board-of-directors/",
+    "canonical": "https://genasys.com/press-releases/genasys-inc-appoints-larry-hagenbuch-to-board-of-directors/"
+  },
+  "title": "Genasys Inc. Appoints Larry Hagenbuch to Board of Directors",
+  "summary": "Larry Hagenbuch appointed to board of directors",
+  "published_at": "2026-03-30T21:21:56+00:00",
+  "first_seen_at": "2026-07-25T06:23:32.722704+00:00",
+  "fetched_at": "2026-07-28T21:25:41.488077+00:00",
+  "last_updated_at": "2026-07-28T21:26:13.008087+00:00",
+  "paths": {
+    "article": "articles/v1/26/genasys-inc-common-stock/2026/03/f8/f85ac603ac71cbf8720f830bc08436b98ca7b8f3aaa8ac5e5d46e67c13cee46c/article.md",
+    "record": "articles/v1/26/genasys-inc-common-stock/2026/03/f8/f85ac603ac71cbf8720f830bc08436b98ca7b8f3aaa8ac5e5d46e67c13cee46c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6515,
+    "sha256": "sha256:fb57714053a3f127df03f72d106d364aab088df1d6789d118f06af90ebdb9c21",
+    "normalized_content_hash": "sha256:3142b2ec748a8b06ba8ce684947a02120fb180ecf2bdc4f694a69982635e9253"
+  },
+  "provenance": {
+    "source_item_id": "4d10993a-8027-4a2e-a72f-52a5351cbdbc",
+    "external_id": "https://genasys.com/press-releases/genasys-inc-appoints-larry-hagenbuch-to-board-of-directors/"
+  }
+}

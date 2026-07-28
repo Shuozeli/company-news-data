@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cvd-equipment-corporation-common-stock",
+    "name": "CVD Equipment Corporation Common Stock"
+  },
+  "record_count": 4,
+  "first_published_at": "2026-04-02T14:05:30+00:00",
+  "last_published_at": "2026-05-14T20:01:40+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    }
+  ]
+}

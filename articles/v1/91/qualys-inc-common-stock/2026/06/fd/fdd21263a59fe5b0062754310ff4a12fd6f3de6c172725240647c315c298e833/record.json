@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fdd21263a59fe5b0062754310ff4a12fd6f3de6c172725240647c315c298e833",
+  "company": {
+    "key": "qualys-inc-common-stock",
+    "name": "Qualys Inc. Common Stock"
+  },
+  "source": {
+    "id": "qualys-inc-common-stock-news-import-04a5e6e88fc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.qualys.com/qualys-insights/2026/06/15/what-changed-in-owasp-top-10-2025-and-recommendations-for-each-category",
+    "canonical": "https://blog.qualys.com/qualys-insights/2026/06/15/what-changed-in-owasp-top-10-2025-and-recommendations-for-each-category"
+  },
+  "title": "What Changed in OWASP Top 10 2025 and Recommendations for Each Category",
+  "summary": "The 2025 OWASP Top 10 adds two new categories and reshuffles rankings. Get a complete category-by-category breakdown, what OWASP recommends, and practical steps to close real-world AppSec gaps.",
+  "published_at": "2026-06-15T16:00:00+00:00",
+  "first_seen_at": "2026-07-22T10:38:12.541071+00:00",
+  "fetched_at": "2026-07-28T21:23:21.398471+00:00",
+  "last_updated_at": "2026-07-28T21:25:02.971412+00:00",
+  "paths": {
+    "article": "articles/v1/91/qualys-inc-common-stock/2026/06/fd/fdd21263a59fe5b0062754310ff4a12fd6f3de6c172725240647c315c298e833/article.md",
+    "record": "articles/v1/91/qualys-inc-common-stock/2026/06/fd/fdd21263a59fe5b0062754310ff4a12fd6f3de6c172725240647c315c298e833/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23598,
+    "sha256": "sha256:0e8a25fa0e4c1a3ed27fa68a94ed02f2884dfe82e87049f4b407c5e35469478c",
+    "normalized_content_hash": "sha256:9d254d2e488500e2274e059a1c0a508040c0b160c41e37302dae211bc7de4659"
+  },
+  "provenance": {
+    "source_item_id": "80e6d108-60e7-48c5-ad33-552b59d66d5f",
+    "external_id": "https://blog.qualys.com/qualys-insights/2026/06/15/what-changed-in-owasp-top-10-2025-and-recommendations-for-each-category"
+  }
+}

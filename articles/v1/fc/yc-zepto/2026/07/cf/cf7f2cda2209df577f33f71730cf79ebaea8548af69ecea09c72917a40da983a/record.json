@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf7f2cda2209df577f33f71730cf79ebaea8548af69ecea09c72917a40da983a",
+  "company": {
+    "key": "yc-zepto",
+    "name": "Zepto"
+  },
+  "source": {
+    "id": "yc-zepto-rss-8182f1493a2f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.zepto.com/build-at-zepto-speed-how-we-cut-frontend-webpack-build-times-by-95-676440fd7963?source=rss----bd632b1d570d---4",
+    "canonical": "https://blog.zepto.com/build-at-zepto-speed-how-we-cut-frontend-webpack-build-times-by-95-676440fd7963"
+  },
+  "title": "Build at Zepto Speed: How We Cut Frontend Webpack Build Times by 95%",
+  "summary": "When frontend build times start climbing, the industry playbook is usually the same: migrate to a faster bundler.",
+  "published_at": "2026-07-07T07:25:22+00:00",
+  "first_seen_at": "2026-07-20T23:24:50.197566+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:43.085506+00:00",
+  "paths": {
+    "article": "articles/v1/fc/yc-zepto/2026/07/cf/cf7f2cda2209df577f33f71730cf79ebaea8548af69ecea09c72917a40da983a/article.md",
+    "record": "articles/v1/fc/yc-zepto/2026/07/cf/cf7f2cda2209df577f33f71730cf79ebaea8548af69ecea09c72917a40da983a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15786,
+    "sha256": "sha256:981b46c92c583e4e7e6d50ce8a421dd56f7ad2bb6a0bf47219c636543be4d18a",
+    "normalized_content_hash": "sha256:d24ad33aac92403e1ef568ab808acedb62be9e595cc81f859216ffaa2e702165"
+  },
+  "provenance": {
+    "source_item_id": "ecc2e5d8-7667-4d19-a09f-88d4259d5152",
+    "external_id": "https://medium.com/p/676440fd7963"
+  }
+}

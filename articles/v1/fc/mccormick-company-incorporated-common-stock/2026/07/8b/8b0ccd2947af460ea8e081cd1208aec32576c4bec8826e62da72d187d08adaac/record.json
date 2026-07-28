@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8b0ccd2947af460ea8e081cd1208aec32576c4bec8826e62da72d187d08adaac",
+  "company": {
+    "key": "mccormick-company-incorporated-common-stock",
+    "name": "McCormick & Company Incorporated Common Stock"
+  },
+  "source": {
+    "id": "mccormick-company-incorporated-common-stock-news-import-3f6512570bb3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.mccormick.com/franks-redhot-canada",
+    "canonical": "https://news.mccormick.com/franks-redhot-canada"
+  },
+  "title": "Frank’s RedHot®",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T14:19:45.596667+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-07-28T21:18:28.205524+00:00",
+  "paths": {
+    "article": "articles/v1/fc/mccormick-company-incorporated-common-stock/2026/07/8b/8b0ccd2947af460ea8e081cd1208aec32576c4bec8826e62da72d187d08adaac/article.md",
+    "record": "articles/v1/fc/mccormick-company-incorporated-common-stock/2026/07/8b/8b0ccd2947af460ea8e081cd1208aec32576c4bec8826e62da72d187d08adaac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1446,
+    "sha256": "sha256:1c74506a121ff5157c6708e3259aa3a11fbf6ad28d601746f047a460b9ca73bb",
+    "normalized_content_hash": "sha256:23524fcde89811e7140ea4a10720340923d703cd62e5eba0bf4bc90157f95545"
+  },
+  "provenance": {
+    "source_item_id": "32808694-c3c2-4686-818c-c6bec3ae22ff",
+    "external_id": "https://news.mccormick.com/franks-redhot-canada"
+  }
+}

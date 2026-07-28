@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9bec2213bb91051a6d4cccc20bb3136942157dac1d7110af94209f30d0d7e018",
+  "company": {
+    "key": "prudential-public-limited-company-common-stock",
+    "name": "Prudential Public Limited Company Common Stock"
+  },
+  "source": {
+    "id": "prudential-public-limited-company-common-stock-news-import-fe1fbe09cfac",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.prudentialplc.com/en/newsroom/company-news/2026/2025-second-interim-dividend/",
+    "canonical": "https://www.prudentialplc.com/en/newsroom/company-news/2026/2025-second-interim-dividend"
+  },
+  "title": "2025 Second Interim Dividend",
+  "summary": "2025 Second Interim Dividend",
+  "published_at": "2026-03-18T07:28:01.985+00:00",
+  "first_seen_at": "2026-07-22T10:26:46.358454+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-07-28T22:00:59.021446+00:00",
+  "paths": {
+    "article": "articles/v1/de/prudential-public-limited-company-common-stock/2026/03/9b/9bec2213bb91051a6d4cccc20bb3136942157dac1d7110af94209f30d0d7e018/article.md",
+    "record": "articles/v1/de/prudential-public-limited-company-common-stock/2026/03/9b/9bec2213bb91051a6d4cccc20bb3136942157dac1d7110af94209f30d0d7e018/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12469,
+    "sha256": "sha256:a5b11bd2d8f473d5932047f784ed752c46f10c609e4054d79c234783723442a3",
+    "normalized_content_hash": "sha256:6f51285aafab8c305eca2624282762f1759b2730dae4e52d97115e7a03282eca"
+  },
+  "provenance": {
+    "source_item_id": "88cc750c-b482-4e7d-82e0-713244a8db35",
+    "external_id": "https://www.prudentialplc.com/en/newsroom/company-news/2026/2025-second-interim-dividend"
+  }
+}

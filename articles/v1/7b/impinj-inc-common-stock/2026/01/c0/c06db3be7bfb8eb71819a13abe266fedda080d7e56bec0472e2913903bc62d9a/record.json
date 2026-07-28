@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c06db3be7bfb8eb71819a13abe266fedda080d7e56bec0472e2913903bc62d9a",
+  "company": {
+    "key": "impinj-inc-common-stock",
+    "name": "Impinj Inc. Common Stock"
+  },
+  "source": {
+    "id": "impinj-inc-common-stock-news-import-cfaadcfedfef",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.impinj.com/library/blog/what-walmart-suppliers-should-know-about-tagging-t",
+    "canonical": "https://www.impinj.com/library/blog/what-walmart-suppliers-should-know-about-tagging-t"
+  },
+  "title": "How to Tag Liquids, Metals, and Small Items for Walmart’s RFID Mandate",
+  "summary": "From liquids and metals to small items, some products are inherently harder to tag than others. Impinj-powered RAIN RFID technology delivers reliable performance across challenging surfaces, helping suppliers meet Walmart’s mandate and unlock operational efficiency.",
+  "published_at": "2026-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:43:09.114807+00:00",
+  "fetched_at": "2026-07-28T22:23:15.131655+00:00",
+  "last_updated_at": "2026-07-28T22:23:29.353690+00:00",
+  "paths": {
+    "article": "articles/v1/7b/impinj-inc-common-stock/2026/01/c0/c06db3be7bfb8eb71819a13abe266fedda080d7e56bec0472e2913903bc62d9a/article.md",
+    "record": "articles/v1/7b/impinj-inc-common-stock/2026/01/c0/c06db3be7bfb8eb71819a13abe266fedda080d7e56bec0472e2913903bc62d9a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11718,
+    "sha256": "sha256:1701f30b9cda4fb64e220495c9b2d3c8fb474a2430491fe0b87361b9daeadc4b",
+    "normalized_content_hash": "sha256:0be65b0837ab742da68a80e7b4f4e4fbc8c401cfc01a6812c369e801c376df1f"
+  },
+  "provenance": {
+    "source_item_id": "957f3b30-4cfc-4948-8fc8-337a8e684c8c",
+    "external_id": "https://www.impinj.com/library/blog/what-walmart-suppliers-should-know-about-tagging-t"
+  }
+}

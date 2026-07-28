@@ -1,0 +1,91 @@
+---
+schema_version: "1.0.0"
+document_id: "1f5aad33924e10cddc8d4592b6be6876432aaa3178074146e56314438c99eb40"
+company_key: "yc-mixpanel"
+company: "Mixpanel"
+source_id: "yc-mixpanel-rss-ee9e8862ebc7"
+canonical_url: "https://community.mixpanel.com/x/announcements/q8rz8ty5fpaf/live-webinar-launching-winning-features-every-time"
+published_at: "2026-03-17T11:59:42+00:00"
+first_seen_at: "2026-07-24T11:24:44.102319+00:00"
+fetched_at: "2026-07-28T21:56:54.694470+00:00"
+content_hash: "sha256:dc54ee2f8d74a5f5750e76856c0988b545c29c2142b3aa5ade721579b4a1a774"
+---
+
+# Live Webinar: Launching Winning Features Every Time with Mixpanel Experiments - April 8
+
+Hello Mixpanel Community! If you want to ship features with confidence and quickly know whether they actually moved the needle, this webinar is for you. Join us for a practical session on how product teams can turn the user behavior data they already collect into clear answers about what’s working and what isn’t.
+
+
+Live Webinar: Launching Winning Features Every Time with Mixpanel Experiments
+
+
+📅
+
+
+Wednesday, April 08
+
+
+⏰
+
+
+10:30 AM IST / 12:00 PM WIB / 1:00 PM SGT / 4:00 PM AEDT
+
+
+🔗
+
+
+[Reserve your spot here](https://events.mixpanel.com/experimentation-webinar-apac/)
+
+
+In this session, you’ll learn how to:
+
+
+-
+
+
+Bring analytics and experimentation closer together to ship the right features
+
+
+-
+
+
+Validate product decisions early instead of guessing after launch
+
+
+-
+
+
+Run smarter, faster experiments using the data already at your fingertips
+
+
+We’ll bring these ideas to life through fintech journeys— like payments and KYC onboarding processes — along with approaches product teams across industries can apply.
+
+
+Who should join:
+
+
+-
+
+
+Product teams/PMs
+
+
+-
+
+
+Product Analytics & Data teams
+
+
+-
+
+
+Growth and Experimentation teams
+
+
+This isn’t a theory-heavy webinar — it’s a live walkthrough of how you can move from insight to validated impact with far less friction.
+
+
+👉
+
+
+[Register Now](https://events.mixpanel.com/experimentation-webinar-apac/) ! Hope to see many of you there!

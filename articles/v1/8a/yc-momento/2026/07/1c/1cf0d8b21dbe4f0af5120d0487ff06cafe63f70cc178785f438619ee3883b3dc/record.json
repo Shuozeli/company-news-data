@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1cf0d8b21dbe4f0af5120d0487ff06cafe63f70cc178785f438619ee3883b3dc",
+  "company": {
+    "key": "yc-momento",
+    "name": "Momento"
+  },
+  "source": {
+    "id": "yc-momento-news-import-ecd11f38dbc6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tumomento.com/blog/industria-automotriz-mexico-tendencias/",
+    "canonical": "https://www.tumomento.com/blog/industria-automotriz-mexico-tendencias/"
+  },
+  "title": "Reporte de la Industria Automotriz en México 2024",
+  "summary": "Análisis detallado de la industria automotriz en México en 2024: tendencias de ventas, financiamiento, transición hacia autos eléctricos, y el impacto socioeconómico en los consumidores.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:45:59.826435+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:47.724664+00:00",
+  "paths": {
+    "article": "articles/v1/8a/yc-momento/2026/07/1c/1cf0d8b21dbe4f0af5120d0487ff06cafe63f70cc178785f438619ee3883b3dc/article.md",
+    "record": "articles/v1/8a/yc-momento/2026/07/1c/1cf0d8b21dbe4f0af5120d0487ff06cafe63f70cc178785f438619ee3883b3dc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13947,
+    "sha256": "sha256:5600c18d4edb5e131cbb7ab45c06378c6923f19fb83f73fb7bfedd0d4daede2e",
+    "normalized_content_hash": "sha256:3c22f21b2c630bf50089178705bc0b7dc774cf3ca01762ea63aa882086466aa2"
+  },
+  "provenance": {
+    "source_item_id": "89695a8d-7c8c-4243-9eab-eca76221f5bb",
+    "external_id": "https://www.tumomento.com/blog/industria-automotriz-mexico-tendencias/"
+  }
+}

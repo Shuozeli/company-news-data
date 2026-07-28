@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8b7c04b975f83e111ca4acce851a476a33971f017c1c044d5996f37c6e1c045c",
+  "company": {
+    "key": "southern-missouri-bancorp-inc-common-stock",
+    "name": "Southern Missouri Bancorp Inc. Common Stock"
+  },
+  "source": {
+    "id": "southern-missouri-bancorp-inc-common-stock-news-import-52af38627077",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bankwithsouthern.com/news/07-10-17-3-ways-mobile-deposit-will-change-your-world/",
+    "canonical": "https://www.bankwithsouthern.com/news/07-10-17-3-ways-mobile-deposit-will-change-your-world/"
+  },
+  "title": "3 Ways Mobile Deposit Will Change Your World | Southern Bank",
+  "summary": "If you haven’t already, sign up for mobile banking with mobile deposit. Whether you need to check your balance, transfer funds ...",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T01:27:46.326277+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:51.128668+00:00",
+  "paths": {
+    "article": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/8b/8b7c04b975f83e111ca4acce851a476a33971f017c1c044d5996f37c6e1c045c/article.md",
+    "record": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/8b/8b7c04b975f83e111ca4acce851a476a33971f017c1c044d5996f37c6e1c045c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1843,
+    "sha256": "sha256:25dc50f57812304b25186f51b6ddbf77ba09556edf80fd1701a5c899a3ff09de",
+    "normalized_content_hash": "sha256:d9b1ec613c369e655cf4934d10f5385fe80215eac07357af73bdf7ba420c41cc"
+  },
+  "provenance": {
+    "source_item_id": "9cf94ecc-ed0a-4d99-87d0-2037540feac3",
+    "external_id": "https://www.bankwithsouthern.com/news/07-10-17-3-ways-mobile-deposit-will-change-your-world/"
+  }
+}

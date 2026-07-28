@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "73eb345d4d2f0c77f932ba1a844cb63d3f9dccfe33fbb978b775f480102eda60",
+  "company": {
+    "key": "hubbell-inc-common-stock",
+    "name": "Hubbell Inc Common Stock"
+  },
+  "source": {
+    "id": "hubbell-inc-common-stock-news-import-21f20cca1488",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.hubbell.com/en/wiringdevice-kellems/screw-terminations-vs.-torque-requirements",
+    "canonical": "https://blog.hubbell.com/en/wiringdevice-kellems/screw-terminations-vs.-torque-requirements"
+  },
+  "title": "What you need to know about torque and safety of electrical terminations",
+  "summary": "Discover the screw terminations and torque requirements needed for secure electrical connections.",
+  "published_at": "2025-01-27T20:43:13+00:00",
+  "first_seen_at": "2026-07-21T23:15:25.727559+00:00",
+  "fetched_at": "2026-07-28T21:59:48.691285+00:00",
+  "last_updated_at": "2026-07-28T22:00:47.106639+00:00",
+  "paths": {
+    "article": "articles/v1/57/hubbell-inc-common-stock/2025/01/73/73eb345d4d2f0c77f932ba1a844cb63d3f9dccfe33fbb978b775f480102eda60/article.md",
+    "record": "articles/v1/57/hubbell-inc-common-stock/2025/01/73/73eb345d4d2f0c77f932ba1a844cb63d3f9dccfe33fbb978b775f480102eda60/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11852,
+    "sha256": "sha256:ae5015fb4169f64d3125104f7fd047548bf3a4f0962d514852d4720216439311",
+    "normalized_content_hash": "sha256:a088429c04b9fbaf56291108be86530d6cf1975bd63abd8075dc03f610b7f339"
+  },
+  "provenance": {
+    "source_item_id": "652b2ca1-0d82-4930-acde-92aafeeb2eee",
+    "external_id": "https://blog.hubbell.com/en/wiringdevice-kellems/screw-terminations-vs.-torque-requirements"
+  }
+}

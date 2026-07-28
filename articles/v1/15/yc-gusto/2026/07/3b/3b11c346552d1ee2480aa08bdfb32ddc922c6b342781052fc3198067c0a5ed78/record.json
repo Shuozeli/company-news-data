@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3b11c346552d1ee2480aa08bdfb32ddc922c6b342781052fc3198067c0a5ed78",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-a18fb5381575",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/hr/team-management/hiring-employees-in-maryland",
+    "canonical": "https://gusto.com/resources/articles/hr/team-management/hiring-employees-in-maryland"
+  },
+  "title": "10 Critical Steps When Hiring Employees in Maryland",
+  "summary": "Are you an employer in Maryland? Here's what you need to know about hiring employees in Maryland while remaining compliant.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:59.033602+00:00",
+  "fetched_at": "2026-07-28T11:17:57.475842+00:00",
+  "last_updated_at": "2026-07-28T11:17:59.903420+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/3b/3b11c346552d1ee2480aa08bdfb32ddc922c6b342781052fc3198067c0a5ed78/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/3b/3b11c346552d1ee2480aa08bdfb32ddc922c6b342781052fc3198067c0a5ed78/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12114,
+    "sha256": "sha256:3cafb36a716f1bbb470806df6b48b7d0bbeb6529cce50823e1e15580c4b6779d",
+    "normalized_content_hash": "sha256:06c564e3503b6b3e23f4452a1ad1ddb903377762a2103e081621be1267be2b67"
+  },
+  "provenance": {
+    "source_item_id": "bde921d1-15c3-4836-89a2-662289931855",
+    "external_id": "https://gusto.com/resources/articles/hr/team-management/hiring-employees-in-maryland"
+  }
+}

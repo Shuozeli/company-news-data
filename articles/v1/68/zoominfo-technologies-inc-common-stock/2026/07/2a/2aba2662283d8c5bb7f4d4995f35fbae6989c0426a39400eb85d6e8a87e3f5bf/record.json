@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2aba2662283d8c5bb7f4d4995f35fbae6989c0426a39400eb85d6e8a87e3f5bf",
+  "company": {
+    "key": "zoominfo-technologies-inc-common-stock",
+    "name": "ZoomInfo Technologies Inc Common Stock"
+  },
+  "source": {
+    "id": "zoominfo-technologies-inc-common-stock-news-import-8d5d92e532e7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.zoominfo.com/streamlining-data-science-navigating-experimentation-challenges-with-tracking-tools",
+    "canonical": "https://engineering.zoominfo.com/streamlining-data-science-navigating-experimentation-challenges-with-tracking-tools"
+  },
+  "title": "Streamlining Data Science: Navigating Experimentation Challenges with Tracking Tools",
+  "summary": "Experimentation is a key component of the data science workflow, encompassing everything from model hyperparameter tuning to addressing questions from stakeholders. While running ad-hoc experiments is an easy enough task, managing results becomes a challenge as experiments continue to grow and branch off of each other – not to mention…",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T06:38:16.632877+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.653484+00:00",
+  "paths": {
+    "article": "articles/v1/68/zoominfo-technologies-inc-common-stock/2026/07/2a/2aba2662283d8c5bb7f4d4995f35fbae6989c0426a39400eb85d6e8a87e3f5bf/article.md",
+    "record": "articles/v1/68/zoominfo-technologies-inc-common-stock/2026/07/2a/2aba2662283d8c5bb7f4d4995f35fbae6989c0426a39400eb85d6e8a87e3f5bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8407,
+    "sha256": "sha256:0d32a604d2b1e72969f14933dcd819df86898a114d019dfdfd03c202b5bb5996",
+    "normalized_content_hash": "sha256:fe2a690dcbb662eb0d039f6fbd48ee93723a5fb34c6e63a3bf9db9a8eebc132d"
+  },
+  "provenance": {
+    "source_item_id": "723e2005-c01f-474a-ac39-5fcf666bbc34",
+    "external_id": "https://engineering.zoominfo.com/streamlining-data-science-navigating-experimentation-challenges-with-tracking-tools"
+  }
+}

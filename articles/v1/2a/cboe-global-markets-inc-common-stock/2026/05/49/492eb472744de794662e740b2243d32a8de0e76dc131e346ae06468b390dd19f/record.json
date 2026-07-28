@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "492eb472744de794662e740b2243d32a8de0e76dc131e346ae06468b390dd19f",
+  "company": {
+    "key": "cboe-global-markets-inc-common-stock",
+    "name": "Cboe Global Markets Inc. Common Stock"
+  },
+  "source": {
+    "id": "cboe-global-markets-inc-common-stock-rss-15d61c57553d",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ir.cboe.com/news/news-details/2026/Cboe-Global-Markets-Declares-Second-Quarter-2026-Dividend/default.aspx",
+    "canonical": "https://ir.cboe.com/news/news-details/2026/Cboe-Global-Markets-Declares-Second-Quarter-2026-Dividend/default.aspx"
+  },
+  "title": "Cboe Global Markets Declares Second-Quarter 2026 Dividend",
+  "summary": "",
+  "published_at": "2026-05-14T21:15:00+00:00",
+  "first_seen_at": "2026-07-27T00:32:20.381245+00:00",
+  "fetched_at": "2026-07-28T21:32:40.084898+00:00",
+  "last_updated_at": "2026-07-28T21:32:40.159069+00:00",
+  "paths": {
+    "article": "articles/v1/2a/cboe-global-markets-inc-common-stock/2026/05/49/492eb472744de794662e740b2243d32a8de0e76dc131e346ae06468b390dd19f/article.md",
+    "record": "articles/v1/2a/cboe-global-markets-inc-common-stock/2026/05/49/492eb472744de794662e740b2243d32a8de0e76dc131e346ae06468b390dd19f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 701,
+    "sha256": "sha256:b150515c933228bdfa17adcf3303787a43476a345afd6c98ea883101e3b44798",
+    "normalized_content_hash": "sha256:ec73d571d24f1905a439d8313828e610a5499fa01300339514f8ff671bc266f2"
+  },
+  "provenance": {
+    "source_item_id": "b196599b-bafc-4f16-8078-2ba985f6a8ab",
+    "external_id": "c20b10b8-eb72-42d3-8e2d-3b1c048a9a5a"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d02fba3f7ec6b6fd5d61c8c81a3dc51395383f4e870eed661a316fc0411d6cb",
+  "company": {
+    "key": "american-integrity-insurance-group-inc-common-stock",
+    "name": "American Integrity Insurance Group Inc. Common Stock"
+  },
+  "source": {
+    "id": "american-integrity-insurance-group-inc-common-stock-news-import-042a1ffcd3f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aii.com/about-us/our-company/news/2025/november/american-integrity-announces-secondary-offering-of-common-stock",
+    "canonical": "https://www.aii.com/about-us/our-company/news/2025/november/american-integrity-announces-secondary-offering-of-common-stock"
+  },
+  "title": "American Integrity Announces Secondary Offering of Common Stock",
+  "summary": "American Integrity Insurance Group, Inc. announced the launch of an underwritten secondary public offering of 3,000,000 shares of its common stock by certain of its stockholders.",
+  "published_at": "2025-11-17T15:24:34+00:00",
+  "first_seen_at": "2026-07-24T16:04:15.865616+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:34.102815+00:00",
+  "paths": {
+    "article": "articles/v1/6f/american-integrity-insurance-group-inc-common-stock/2025/11/6d/6d02fba3f7ec6b6fd5d61c8c81a3dc51395383f4e870eed661a316fc0411d6cb/article.md",
+    "record": "articles/v1/6f/american-integrity-insurance-group-inc-common-stock/2025/11/6d/6d02fba3f7ec6b6fd5d61c8c81a3dc51395383f4e870eed661a316fc0411d6cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6422,
+    "sha256": "sha256:c7f74856b8ed9f5ada8a09da181435c9218fbd923d3da2018c8eecaa9d1c82e7",
+    "normalized_content_hash": "sha256:b76252080a334946b401e8db50e5afc8fa10172a888eff634f98f974a2d0ca18"
+  },
+  "provenance": {
+    "source_item_id": "d429bb09-7ffc-42a6-9239-3959aacb6684",
+    "external_id": "https://www.aii.com/about-us/our-company/news/2025/november/american-integrity-announces-secondary-offering-of-common-stock"
+  }
+}

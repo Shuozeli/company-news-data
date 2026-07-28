@@ -1,0 +1,78 @@
+---
+schema_version: "1.0.0"
+document_id: "3a93a12a16809fa5e7124705d84f5f18f8dba4194e7f7c1e02e802ea928ea17b"
+company_key: "sify-technologies-limited-american-depositary-shares"
+company: "Sify Technologies Limited American Depositary Shares"
+source_id: "sify-technologies-limited-american-depositary-shares-news-import-bab607e5b90e"
+canonical_url: "http://www.sifytechnologies.com/europe/news/sify-technologies-to-announce-financial-results-for-third-quarter-of-fy-2024-25-on-friday-january-17-2025/"
+published_at: "2025-01-10T05:14:52+00:00"
+first_seen_at: "2026-07-26T19:43:29.872714+00:00"
+fetched_at: "2026-07-28T21:32:04.842955+00:00"
+content_hash: "sha256:77390c86956607c301b03f6c1ca0a0ed4e03fbd10accd3a9ed7bb863c947e51c"
+---
+
+# Sify Technologies to announce Financial Results for Third Quarter of FY 2024-25 on Friday, January 17, 2025
+
+**Chennai, India, Friday, January 10, 2025:** Sify Technologies Limited (NASDAQ: SIFY), India’s leading ICT solutions provider with global service capabilities spanning Data Center, Cloud, Networks, Security and Digital services, today announced that it will report its unaudited IFRS financial results for the Third Quarter ended December 31, 2024 on Friday, January 17, 2025 before the market opens.
+
+
+In conjunction with the announcement, Sify will host a conference call at 8:30 AM ET with Mr. Raju Vegesna, Chairman of the Board and Mr. M P Vijay Kumar, Executive Director & Group CFO. Interested parties may participate by dialling +1-888-506-0062 (Toll Free in the U.S. or Canada) or +1-973-528-0011 (International), which will also be simultaneously broadcast live over the Internet at
+www.sifytechnologies.com/investors or https://www.webcaster4.com/Webcast/Page/2184/51869
+
+
+Please allow extra time prior to the call to visit the site and download the streaming media software required to listen to the Internet broadcast.
+
+
+The online archive of the Webcast will be available shortly after the conference call. Investors can also listen to the replay by dialling +1-877-481-4010 (Toll Free in the U.S. or Canada) or +1-919-882-2331 (International) and entering the replay passcode 51869. Please allow for some time post conference call to access the archive of the Webcast. The replay is available until January 24, 2025.
+
+
+**About Sify Technologies**
+
+
+A multiple times Golden Peacock award winner for Corporate Governance, Sify Technologies is India’s most comprehensive ICT service & solution provider. With Cloud at the core of our solutions portfolio, Sify is focussed on the changing ICT requirements of the emerging Digital economy and the resultant demands from large, medium and small businesses.
+
+
+Sify’s infrastructure comprising state-of-the-art Data Centers, the largest MPLS network, partnership with global technology majors and deep expertise in business transformation solutions modelled on the cloud, make it the first choice of start-ups, SMEs and even large Enterprises on the verge of a revamp.
+
+
+More than 10000 businesses across multiple verticals have taken advantage of our unassailable trinity of Data Centers, Networks and Digital services and conduct their business seamlessly from more than 1600 cities in India. Internationally, Sify has presence across North America, the United Kingdom, UAE and Singapore.
+
+
+Sify,[www.sify.com,](http://www.sify.com/) Sify Technologies and[www.sifytechnologies.com](http://www.sifytechnologies.com/) are registered trademarks of Sify Technologies Limited.
+
+
+**Forward Looking Statements**
+
+
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. The forward-looking statements contained herein are subject to risks and uncertainties that could cause actual results to differ materially from those reflected in the forward-looking statements. Sify undertakes no duty to update any forward-looking statements.
+
+
+For a discussion of the risks associated with Sify’s business, please see the discussion under the caption “Risk Factors” in the company’s Annual Report on Form 20-F for the year ended March 31, 2024, which has been filed with the United States Securities and Exchange Commission and is available by accessing the database maintained by the SEC at[www.sec.gov,](http://www.sec.gov/) and Sify’s other reports filed with the SEC.
+
+
+**For further information, please contact:**
+
+
+**Sify Technologies Limited**
+
+
+Mr. Praveen Krishna
+Investor Relations & Public Relations
++91 9840926523
+praveen.krishna@sifycorp.com
+
+
+**20:20 Media**
+
+
+Nikhila Kesavan
++91 9840124036
+nikhila.kesavan@2020msl.com
+
+
+**Weber Shandwick**
+
+
+Lucia Domville
++1-212 546-8260
+LDomville@webershandwick.com

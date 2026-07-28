@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "958856c5726db39c7b193367cd444d67885ca6d30f3f1f7c3990b5ef0e65bff3",
+  "company": {
+    "key": "thermon-group-holdings-inc-common-stock",
+    "name": "Thermon Group Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "thermon-group-holdings-inc-common-stock-news-import-a2a1af8cd9b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://thermon.com/news/ceco-environmental-completes-acquisition-of-thermon-group-holdings/",
+    "canonical": "https://thermon.com/news/ceco-environmental-completes-acquisition-of-thermon-group-holdings/"
+  },
+  "title": "CECO Environmental Completes Acquisition of Thermon Group Holdings",
+  "summary": "Whether you’re looking for complete flow assurance, industrial heating, temperature maintenance, freeze protection or environmental monitoring, Thermon has you covered.",
+  "published_at": "2026-06-01T16:47:38+00:00",
+  "first_seen_at": "2026-07-22T16:34:45.413651+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:32.181484+00:00",
+  "paths": {
+    "article": "articles/v1/61/thermon-group-holdings-inc-common-stock/2026/06/95/958856c5726db39c7b193367cd444d67885ca6d30f3f1f7c3990b5ef0e65bff3/article.md",
+    "record": "articles/v1/61/thermon-group-holdings-inc-common-stock/2026/06/95/958856c5726db39c7b193367cd444d67885ca6d30f3f1f7c3990b5ef0e65bff3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8613,
+    "sha256": "sha256:fdb04ab00c8fa72894df3049adb4e72d35d795796118bcd915f93b57359c4f4c",
+    "normalized_content_hash": "sha256:3a776fb0fb43cade86064edb048a0075385aa4b19e76e37cdfd69e4c50e2aa68"
+  },
+  "provenance": {
+    "source_item_id": "48378425-ca50-45f1-b89c-73d652fdee4a",
+    "external_id": "https://thermon.com/news/ceco-environmental-completes-acquisition-of-thermon-group-holdings/"
+  }
+}

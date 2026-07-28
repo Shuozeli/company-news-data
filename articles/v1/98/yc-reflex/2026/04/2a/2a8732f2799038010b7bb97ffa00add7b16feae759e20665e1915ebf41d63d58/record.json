@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a8732f2799038010b7bb97ffa00add7b16feae759e20665e1915ebf41d63d58",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/streamlit-vs-dash-python-dashboards/",
+    "canonical": "https://reflex.dev/blog/streamlit-vs-dash-python-dashboards/"
+  },
+  "title": "Streamlit vs Dash Python Dashboards April 2026",
+  "summary": "Streamlit vs. Dash for Python dashboards: Compare script reruns vs. callbacks, performance, and production features.",
+  "published_at": "2026-04-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T22:00:15.315546+00:00",
+  "last_updated_at": "2026-07-28T22:00:52.353174+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/04/2a/2a8732f2799038010b7bb97ffa00add7b16feae759e20665e1915ebf41d63d58/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/04/2a/2a8732f2799038010b7bb97ffa00add7b16feae759e20665e1915ebf41d63d58/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20561,
+    "sha256": "sha256:34db249534c73902559c72931aeb8e02bc6fec8c01623a5b277a703537096bc5",
+    "normalized_content_hash": "sha256:077281508997978fdabd14b88140a6bc098d44a072a9e9544c75a5d57d700587"
+  },
+  "provenance": {
+    "source_item_id": "c74b42a5-9305-4c24-ac5c-ee3d8c79cc58",
+    "external_id": "https://reflex.dev/blog/streamlit-vs-dash-python-dashboards/"
+  }
+}

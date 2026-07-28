@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "intelligent-group-limited-class-a-ordinary-shares",
+    "name": "Intelligent Group Limited Class A Ordinary Shares"
+  },
+  "record_count": 7,
+  "first_published_at": "2022-02-17T23:03:17+00:00",
+  "last_published_at": "2025-06-20T13:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b0928acd023948fab762bbaefa8271e7db52e420e33feb4b795243816e8a124",
+  "company": {
+    "key": "avista-corporation-common-stock",
+    "name": "Avista Corporation Common Stock"
+  },
+  "source": {
+    "id": "avista-corporation-common-stock-rss-f295d84fe4e0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.avistacorp.com/news-releases/news-release-details/avista-planned-road-closure-kings-pass-road",
+    "canonical": "https://investor.avistacorp.com/news-releases/news-release-details/avista-planned-road-closure-kings-pass-road"
+  },
+  "title": "Avista planned road closure on Kings Pass Road",
+  "summary": "The Investor Relations website contains information about Avista Corporation 's business for stockholders, potential investors, and financial analysts.",
+  "published_at": "2026-07-21T21:55:56+00:00",
+  "first_seen_at": "2026-07-26T09:56:34.371189+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-07-28T22:17:43.115775+00:00",
+  "paths": {
+    "article": "articles/v1/3d/avista-corporation-common-stock/2026/07/4b/4b0928acd023948fab762bbaefa8271e7db52e420e33feb4b795243816e8a124/article.md",
+    "record": "articles/v1/3d/avista-corporation-common-stock/2026/07/4b/4b0928acd023948fab762bbaefa8271e7db52e420e33feb4b795243816e8a124/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1598,
+    "sha256": "sha256:405272c10c1c8cb11749f05afbe3ed1dcf80f04f34f649286fe2cda12fc522ee",
+    "normalized_content_hash": "sha256:ffc4c7ea423669f23c57ca7ab8308f62406b9a3456c15e726465a6ebf7a44abf"
+  },
+  "provenance": {
+    "source_item_id": "c358bfa0-0465-4bac-83c7-db5126d4b236",
+    "external_id": "30771"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "091f66d973f54d3f4e462bb2000b6ba4ee5c004dc5d39375792a1b07af39d48c",
+  "company": {
+    "key": "vicor-corporation-common-stock",
+    "name": "Vicor Corporation Common Stock"
+  },
+  "source": {
+    "id": "vicor-corporation-common-stock-news-import-bceae7f4b9f7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.vicorpower.com/press-room/macnica-power-seminar-2025",
+    "canonical": "https://www.vicorpower.com/press-room/macnica-power-seminar-2025"
+  },
+  "title": "Vicor and Macnica to co-host seminar on heat dissipation methods and thermal design using power modules",
+  "summary": "Learn about heat dissipation methods and thermal design with power modules",
+  "published_at": "2025-10-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T04:37:44.430947+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:32:00.738948+00:00",
+  "paths": {
+    "article": "articles/v1/fd/vicor-corporation-common-stock/2025/10/09/091f66d973f54d3f4e462bb2000b6ba4ee5c004dc5d39375792a1b07af39d48c/article.md",
+    "record": "articles/v1/fd/vicor-corporation-common-stock/2025/10/09/091f66d973f54d3f4e462bb2000b6ba4ee5c004dc5d39375792a1b07af39d48c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2390,
+    "sha256": "sha256:08f05837253f5b79f34f2d6db52393aa5351f563f7bb40d30760abd4592a86a1",
+    "normalized_content_hash": "sha256:065b5e4e39acd77d3e8bf21827ad3ae468f72d0d406828bc037fa2fa9aa085e4"
+  },
+  "provenance": {
+    "source_item_id": "a30b87b7-8852-4cbf-998f-2a5c9b3bc4ca",
+    "external_id": "https://www.vicorpower.com/press-room/macnica-power-seminar-2025"
+  }
+}

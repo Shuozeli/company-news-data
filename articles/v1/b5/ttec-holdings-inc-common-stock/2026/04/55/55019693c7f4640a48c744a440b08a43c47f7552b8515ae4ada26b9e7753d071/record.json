@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55019693c7f4640a48c744a440b08a43c47f7552b8515ae4ada26b9e7753d071",
+  "company": {
+    "key": "ttec-holdings-inc-common-stock",
+    "name": "TTEC Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttec-holdings-inc-common-stock-news-import-09d3aab661b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttecdigital.com/news/where-ai-wins-and-where-it-still-falls-apart-in-customer-service",
+    "canonical": "https://www.ttecdigital.com/news/where-ai-wins-and-where-it-still-falls-apart-in-customer-service"
+  },
+  "title": "Where AI wins and where it still falls apart | TTEC Digital",
+  "summary": "In this CMSWire article, TTEC Digital's Cliff Martin shares his insights on how AI is shifting the definition of \"good\" service.",
+  "published_at": "2026-04-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:51:38.265268+00:00",
+  "fetched_at": "2026-07-28T22:15:58.980681+00:00",
+  "last_updated_at": "2026-07-28T22:17:56.921630+00:00",
+  "paths": {
+    "article": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/04/55/55019693c7f4640a48c744a440b08a43c47f7552b8515ae4ada26b9e7753d071/article.md",
+    "record": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/04/55/55019693c7f4640a48c744a440b08a43c47f7552b8515ae4ada26b9e7753d071/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2264,
+    "sha256": "sha256:95df192c344837ffcdba8b766373a96066dca5c3440a7518fbabf9eb4fda7aea",
+    "normalized_content_hash": "sha256:cfd410e34f1d799c5293a461c71635dd421601c10051545432e577445b93dcc9"
+  },
+  "provenance": {
+    "source_item_id": "c06f84ab-9222-4fcd-a2e3-96b9b252084e",
+    "external_id": "https://www.ttecdigital.com/news/where-ai-wins-and-where-it-still-falls-apart-in-customer-service"
+  }
+}

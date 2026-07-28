@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bd7a9385de3b4ffa0aae882c6fb5a32db10123e47f905cff055ef7a84c0034fe",
+  "company": {
+    "key": "yc-phoenix",
+    "name": "Phoenix"
+  },
+  "source": {
+    "id": "yc-phoenix-news-import-be2e24644a46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.phoenix.ca/blog/glp1-semaglutide-side-effects-week-week",
+    "canonical": "https://www.phoenix.ca/blog/glp1-semaglutide-side-effects-week-week"
+  },
+  "title": "GLP-1 & Semaglutide Side Effects: Week-by-Week Guide",
+  "summary": "A week-by-week look at GLP-1 and semaglutide side effects: why nausea happens, when it eases, and the rare signals worth knowing. General health info.",
+  "published_at": "2026-06-08T20:36:25.826+00:00",
+  "first_seen_at": "2026-07-25T19:08:38.231288+00:00",
+  "fetched_at": "2026-07-28T21:46:31.447870+00:00",
+  "last_updated_at": "2026-07-28T21:47:32.383733+00:00",
+  "paths": {
+    "article": "articles/v1/dd/yc-phoenix/2026/06/bd/bd7a9385de3b4ffa0aae882c6fb5a32db10123e47f905cff055ef7a84c0034fe/article.md",
+    "record": "articles/v1/dd/yc-phoenix/2026/06/bd/bd7a9385de3b4ffa0aae882c6fb5a32db10123e47f905cff055ef7a84c0034fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11109,
+    "sha256": "sha256:d24e0c3af047a7b2c2ab87871d359d6145ed6410d472ecfb0a1b42c64e91aea0",
+    "normalized_content_hash": "sha256:06fa73758fca5f46cadff505b84f02a07fab6d7588bc935b66738dba04ce7f67"
+  },
+  "provenance": {
+    "source_item_id": "adcca214-05cb-4bb8-8666-782a4d680f24",
+    "external_id": "https://www.phoenix.ca/blog/glp1-semaglutide-side-effects-week-week"
+  }
+}

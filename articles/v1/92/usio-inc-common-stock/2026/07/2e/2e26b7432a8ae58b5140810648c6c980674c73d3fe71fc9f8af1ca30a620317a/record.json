@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e26b7432a8ae58b5140810648c6c980674c73d3fe71fc9f8af1ca30a620317a",
+  "company": {
+    "key": "usio-inc-common-stock",
+    "name": "Usio Inc. Common Stock"
+  },
+  "source": {
+    "id": "usio-inc-common-stock-rss-3b654aaac862",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://usio.com/how-to-monetize-payments-without-becoming-a-payfac/",
+    "canonical": "https://usio.com/how-to-monetize-payments-without-becoming-a-payfac/"
+  },
+  "title": "How to Monetize Payments Without Becoming a PayFac",
+  "summary": "Learn how vertical SaaS platforms can monetize payments without becoming a PayFac or taking on added operational burden.",
+  "published_at": "2026-07-23T19:06:19+00:00",
+  "first_seen_at": "2026-07-24T05:37:51.594818+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-07-28T21:11:09.167632+00:00",
+  "paths": {
+    "article": "articles/v1/92/usio-inc-common-stock/2026/07/2e/2e26b7432a8ae58b5140810648c6c980674c73d3fe71fc9f8af1ca30a620317a/article.md",
+    "record": "articles/v1/92/usio-inc-common-stock/2026/07/2e/2e26b7432a8ae58b5140810648c6c980674c73d3fe71fc9f8af1ca30a620317a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6815,
+    "sha256": "sha256:d6e4efcfb3fca11682b1465912d8568b62a26c76a6310e2fa73c1760d6a0c10a",
+    "normalized_content_hash": "sha256:be6ca680cc493f64b7753992aecd19b9b542cd87989fd009889fc7618563df0f"
+  },
+  "provenance": {
+    "source_item_id": "3424c6ba-48b8-4824-9d1f-4e65b794fa90",
+    "external_id": "https://usio.com/?p=16018"
+  }
+}

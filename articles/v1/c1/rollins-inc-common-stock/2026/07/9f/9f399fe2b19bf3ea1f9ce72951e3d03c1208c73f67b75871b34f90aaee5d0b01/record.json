@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f399fe2b19bf3ea1f9ce72951e3d03c1208c73f67b75871b34f90aaee5d0b01",
+  "company": {
+    "key": "rollins-inc-common-stock",
+    "name": "Rollins Inc. Common Stock"
+  },
+  "source": {
+    "id": "rollins-inc-common-stock-rss-980034025e55",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rollins.com/investors/press-releases/detail/438/rollins-inc-announces-regular-quarterly-cash-dividend",
+    "canonical": "https://www.rollins.com/investors/press-releases/detail/438/rollins-inc-announces-regular-quarterly-cash-dividend"
+  },
+  "title": "ROLLINS, INC. ANNOUNCES REGULAR QUARTERLY CASH DIVIDEND",
+  "summary": "ATLANTA, July 21, 2026 /PRNewswire/ -- Rollins, Inc. (NYSE:ROL), a premier global consumer and commercial services company, announced that the…...",
+  "published_at": "2026-07-21T20:05:00+00:00",
+  "first_seen_at": "2026-07-21T20:53:49.434077+00:00",
+  "fetched_at": "2026-07-28T21:52:24.088997+00:00",
+  "last_updated_at": "2026-07-28T21:56:40.455011+00:00",
+  "paths": {
+    "article": "articles/v1/c1/rollins-inc-common-stock/2026/07/9f/9f399fe2b19bf3ea1f9ce72951e3d03c1208c73f67b75871b34f90aaee5d0b01/article.md",
+    "record": "articles/v1/c1/rollins-inc-common-stock/2026/07/9f/9f399fe2b19bf3ea1f9ce72951e3d03c1208c73f67b75871b34f90aaee5d0b01/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2403,
+    "sha256": "sha256:c3702d55e92af0a0faa14fe60dfc6de4db8ab7814a03fdf9802fb98e32f4ebd0",
+    "normalized_content_hash": "sha256:b58afa1b4f9d48de8c98ad3598076822a6de5cb067f4fe5502b3ee19afc24f9b"
+  },
+  "provenance": {
+    "source_item_id": "14945b2f-969f-46b5-b031-cc6c4f1bae12",
+    "external_id": "https://www.rollins.com/investors/press-releases/detail/438/rollins-inc-announces-regular-quarterly-cash-dividend"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c4c6d8386aff9508dc2d27dc79879221f7c5add5a1ae929045e0191e5196d74",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-b3fe567ac9c2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/summer-dehydration-and-heatstroke-2025",
+    "canonical": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/summer-dehydration-and-heatstroke-2025"
+  },
+  "title": "Cool, Hydrated, and In Their Lane: Don’t Let Your Pet Become a Statistic This Summer",
+  "summary": "The team at Trupanion found that more than 13,000 pets have been treated for dehydration or heatstroke-related claims since 2020.",
+  "published_at": "2025-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:03.797628+00:00",
+  "fetched_at": "2026-07-28T17:37:55.930207+00:00",
+  "last_updated_at": "2026-07-28T17:37:57.859512+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2025/07/9c/9c4c6d8386aff9508dc2d27dc79879221f7c5add5a1ae929045e0191e5196d74/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2025/07/9c/9c4c6d8386aff9508dc2d27dc79879221f7c5add5a1ae929045e0191e5196d74/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9408,
+    "sha256": "sha256:18af22fc7ccf9a2d183cdb1f20f453ebc0eda2a1a215cb2f98b54f3465882034",
+    "normalized_content_hash": "sha256:0f6af18db12d991f513e0f52c78a47a64fed6378041f400941d1cac3f8c351f6"
+  },
+  "provenance": {
+    "source_item_id": "4d9cad61-86ed-44d4-bfcf-4671916ffd19",
+    "external_id": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/summer-dehydration-and-heatstroke-2025"
+  }
+}

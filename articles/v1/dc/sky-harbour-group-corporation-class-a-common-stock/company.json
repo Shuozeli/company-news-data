@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "sky-harbour-group-corporation-class-a-common-stock",
+    "name": "Sky Harbour Group Corporation Class A Common Stock"
+  },
+  "record_count": 6,
+  "first_published_at": "2025-09-05T12:31:33+00:00",
+  "last_published_at": "2025-12-22T14:59:58+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 3
+    }
+  ]
+}

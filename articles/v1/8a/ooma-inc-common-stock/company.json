@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ooma-inc-common-stock",
+    "name": "Ooma Inc. Common Stock"
+  },
+  "record_count": 25,
+  "first_published_at": "2026-06-24T11:46:26+00:00",
+  "last_published_at": "2026-07-27T21:04:29+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 17
+    }
+  ]
+}

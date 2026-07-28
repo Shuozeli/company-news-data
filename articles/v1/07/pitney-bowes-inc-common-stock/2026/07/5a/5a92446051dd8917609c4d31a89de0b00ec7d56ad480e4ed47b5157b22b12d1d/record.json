@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5a92446051dd8917609c4d31a89de0b00ec7d56ad480e4ed47b5157b22b12d1d",
+  "company": {
+    "key": "pitney-bowes-inc-common-stock",
+    "name": "Pitney Bowes Inc. Common Stock"
+  },
+  "source": {
+    "id": "pitney-bowes-inc-common-stock-news-import-dfaa9c6403ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pitneybowes.com/us/blog/new-usps-hazmat-fees.html",
+    "canonical": "https://www.pitneybowes.com/us/blog/new-usps-hazmat-fees.html"
+  },
+  "title": "New USPS® HazMat fees, stricter enforcement, and the $50 mistake you don't want to make",
+  "summary": "USPS is introducing new HazMat fees and stricter enforcement, including a $50 non-compliance penalty. Learn which products qualify, how to avoid costly mistakes, and stay compliant.",
+  "published_at": "2026-07-02T17:37:00+00:00",
+  "first_seen_at": "2026-07-22T09:12:22.510748+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-28T21:51:50.931821+00:00",
+  "paths": {
+    "article": "articles/v1/07/pitney-bowes-inc-common-stock/2026/07/5a/5a92446051dd8917609c4d31a89de0b00ec7d56ad480e4ed47b5157b22b12d1d/article.md",
+    "record": "articles/v1/07/pitney-bowes-inc-common-stock/2026/07/5a/5a92446051dd8917609c4d31a89de0b00ec7d56ad480e4ed47b5157b22b12d1d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7443,
+    "sha256": "sha256:0f85aebe5141387ddcb5a1e0758899c33b4221585b87f30cd2f58673a1a1bae4",
+    "normalized_content_hash": "sha256:391542d5408878bec50ef7023415f9e3e9e1352bef90b1a4c25040ca5cf3d46c"
+  },
+  "provenance": {
+    "source_item_id": "5a3dd426-966a-459f-a836-4e9112b69fae",
+    "external_id": "https://www.pitneybowes.com/us/blog/new-usps-hazmat-fees.html"
+  }
+}

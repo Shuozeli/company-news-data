@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f769b0751fb15dfd7b2236a402dca458bc42dcd8e5b1c0c4f5cbb90513d95ea",
+  "company": {
+    "key": "synaptics-incorporated-common-stock-0-001-par-value",
+    "name": "Synaptics Incorporated Common Stock $0.001 Par Value"
+  },
+  "source": {
+    "id": "synaptics-incorporated-common-stock-0-001-par-value-news-import-67901354d8df",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.synaptics.com/company/blog/why-high-speed-interfaces-are-essential-for-modern-robotics",
+    "canonical": "https://www.synaptics.com/company/blog/why-high-speed-interfaces-are-essential-for-modern-robotics"
+  },
+  "title": "Why High-Speed Interfaces Are Essential for Modern Robotics",
+  "summary": "Explore how high-speed display interfaces enable Physical AI and robotics by connecting AI compute, cameras, and displays with low-latency, reliable video transport",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:29:20.825354+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:45.343619+00:00",
+  "paths": {
+    "article": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/4f/4f769b0751fb15dfd7b2236a402dca458bc42dcd8e5b1c0c4f5cbb90513d95ea/article.md",
+    "record": "articles/v1/35/synaptics-incorporated-common-stock-0-001-par-value/2025/01/4f/4f769b0751fb15dfd7b2236a402dca458bc42dcd8e5b1c0c4f5cbb90513d95ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14826,
+    "sha256": "sha256:64dcc6427e505cd51d0f15e8fdd7bcaf258c41cdd0b7ceb2858439159c0ee8d1",
+    "normalized_content_hash": "sha256:866e67cf3c1fa0ace9bd22d7103e2521e54d9bc9058cb08ace589e9c6d86cafd"
+  },
+  "provenance": {
+    "source_item_id": "387be9b8-4e0a-45b1-bc23-83bfa3aceebd",
+    "external_id": "https://www.synaptics.com/company/blog/why-high-speed-interfaces-are-essential-for-modern-robotics"
+  }
+}

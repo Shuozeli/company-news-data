@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5a968b68d220cc27783f7e65b9526600485c47e3e24f98b9ab3bb817606850ab",
+  "company": {
+    "key": "autoliv-inc-common-stock",
+    "name": "Autoliv Inc. Common Stock"
+  },
+  "source": {
+    "id": "autoliv-inc-common-stock-news-import-25e977f58e20",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.cision.com/autoliv/r/autoliv-declares-quarterly-dividend,c4309845",
+    "canonical": "https://news.cision.com/autoliv/r/autoliv-declares-quarterly-dividend,c4309845"
+  },
+  "title": "Autoliv Declares Quarterly Dividend",
+  "summary": "(Stockholm, Sweden, February 19, 2026) – Autoliv, Inc. (NYSE: ALV and SSE: ALIV.sdb), the worldwide",
+  "published_at": "2026-02-19T09:55:00+00:00",
+  "first_seen_at": "2026-07-24T17:49:13.884799+00:00",
+  "fetched_at": "2026-07-28T21:26:27.452652+00:00",
+  "last_updated_at": "2026-07-28T21:26:53.234559+00:00",
+  "paths": {
+    "article": "articles/v1/5b/autoliv-inc-common-stock/2026/02/5a/5a968b68d220cc27783f7e65b9526600485c47e3e24f98b9ab3bb817606850ab/article.md",
+    "record": "articles/v1/5b/autoliv-inc-common-stock/2026/02/5a/5a968b68d220cc27783f7e65b9526600485c47e3e24f98b9ab3bb817606850ab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4651,
+    "sha256": "sha256:0f8666af85d4d973e80b70f6dc6dbe9a6ccc27655803f50094aac216017f93a6",
+    "normalized_content_hash": "sha256:721479bdfbbf3006fbf7333167f23f546f0365cc5c576a31c1f517ac93fa73d7"
+  },
+  "provenance": {
+    "source_item_id": "32148fc6-2f2b-484a-8d1f-ac0a7bd4c682",
+    "external_id": "https://news.cision.com/autoliv/r/autoliv-declares-quarterly-dividend,c4309845"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b26b81481224e050d542d2742828cf2fffbd8832e5ac2787be6dc048a6d74403",
+  "company": {
+    "key": "dte-energy-company-common-stock",
+    "name": "DTE Energy Company Common Stock"
+  },
+  "source": {
+    "id": "dte-energy-company-common-stock-news-import-f4dd5a1573b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dteenergy.com/us/en/newsroom/2025/DTE-Energy-Board-of-Directors-declares-quarterly-dividend4.html",
+    "canonical": "https://www.dteenergy.com/us/en/newsroom/2025/DTE-Energy-Board-of-Directors-declares-quarterly-dividend4.html"
+  },
+  "title": "DTE Energy Board of Directors declares quarterly dividend",
+  "summary": "",
+  "published_at": "2025-12-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T17:05:55.866130+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-07-28T21:59:19.002829+00:00",
+  "paths": {
+    "article": "articles/v1/fb/dte-energy-company-common-stock/2025/12/b2/b26b81481224e050d542d2742828cf2fffbd8832e5ac2787be6dc048a6d74403/article.md",
+    "record": "articles/v1/fb/dte-energy-company-common-stock/2025/12/b2/b26b81481224e050d542d2742828cf2fffbd8832e5ac2787be6dc048a6d74403/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2524,
+    "sha256": "sha256:41e4dabdd8b7d45c1dea071a01439a93d78bc980da947b2895cc835b1dc04a24",
+    "normalized_content_hash": "sha256:5bb48cfb92241afc1190ab2cd2ddc74071f6f9277b7e17e708e784e84b497c65"
+  },
+  "provenance": {
+    "source_item_id": "bf08766a-10b9-4a57-933c-ccb9cc2c5613",
+    "external_id": "https://www.dteenergy.com/us/en/newsroom/2025/DTE-Energy-Board-of-Directors-declares-quarterly-dividend4.html"
+  }
+}

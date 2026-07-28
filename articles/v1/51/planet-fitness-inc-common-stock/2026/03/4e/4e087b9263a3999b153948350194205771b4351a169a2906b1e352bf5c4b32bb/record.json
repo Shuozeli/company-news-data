@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4e087b9263a3999b153948350194205771b4351a169a2906b1e352bf5c4b32bb",
+  "company": {
+    "key": "planet-fitness-inc-common-stock",
+    "name": "Planet Fitness Inc. Common Stock"
+  },
+  "source": {
+    "id": "planet-fitness-inc-common-stock-rss-514f026fe840",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://investor.planetfitness.com/investors/press-releases/press-release-details/2026/Planet-Fitness-Announces-Chief-Financial-Officer-Transition/default.aspx",
+    "canonical": "http://investor.planetfitness.com/investors/press-releases/press-release-details/2026/Planet-Fitness-Announces-Chief-Financial-Officer-Transition/default.aspx"
+  },
+  "title": "Planet Fitness Announces Chief Financial Officer Transition",
+  "summary": "",
+  "published_at": "2026-03-09T20:15:00+00:00",
+  "first_seen_at": "2026-07-25T19:11:41.755428+00:00",
+  "fetched_at": "2026-07-28T21:19:55.553989+00:00",
+  "last_updated_at": "2026-07-28T21:19:55.612759+00:00",
+  "paths": {
+    "article": "articles/v1/51/planet-fitness-inc-common-stock/2026/03/4e/4e087b9263a3999b153948350194205771b4351a169a2906b1e352bf5c4b32bb/article.md",
+    "record": "articles/v1/51/planet-fitness-inc-common-stock/2026/03/4e/4e087b9263a3999b153948350194205771b4351a169a2906b1e352bf5c4b32bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 733,
+    "sha256": "sha256:44463c750e0c537984cca55a715a6607889e53f43dc890b88022dd466b25a45d",
+    "normalized_content_hash": "sha256:b2109b953db8c03ca01efb7da9b549e18d6a9f4cd69b465ee7a344c5a2f0777d"
+  },
+  "provenance": {
+    "source_item_id": "2f80c6d9-a057-4a2a-a13d-62d637c00dc0",
+    "external_id": "8d4ce83d-cdcf-49fa-981d-1af4b44fdf9e"
+  }
+}

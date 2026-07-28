@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "91a05ae4c01208e5cc796690183a424756d819ed249222bd19d427ff56a4db1e",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/stablecoin-payments-explained/",
+    "canonical": "https://www.bitgo.com/resources/blog/stablecoin-payments-explained/"
+  },
+  "title": "Stablecoin Payments: The Infrastructure Behind Modern Digital Settlement",
+  "summary": "A practical guide to accepting stablecoin payments, covering settlement speed, costs, compliance, and what merchants and institutions need to get started.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:41.088269+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:21:56.977026+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/91/91a05ae4c01208e5cc796690183a424756d819ed249222bd19d427ff56a4db1e/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/91/91a05ae4c01208e5cc796690183a424756d819ed249222bd19d427ff56a4db1e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21322,
+    "sha256": "sha256:0eddecd8cbbf62cacad7ab42cf42ab6776c89a683ce35bb550ad601c999c8f29",
+    "normalized_content_hash": "sha256:11cb34abce1d313c67abed6b0c9e7142368204124d0c0c47978a540f499b9141"
+  },
+  "provenance": {
+    "source_item_id": "b0164cda-606e-4203-8c88-96bf13bac9cd",
+    "external_id": "https://www.bitgo.com/resources/blog/stablecoin-payments-explained/"
+  }
+}

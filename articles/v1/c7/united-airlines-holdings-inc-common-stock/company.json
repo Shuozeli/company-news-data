@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "united-airlines-holdings-inc-common-stock",
+    "name": "United Airlines Holdings Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-06-02T13:00:00+00:00",
+  "last_published_at": "2026-07-15T20:01:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

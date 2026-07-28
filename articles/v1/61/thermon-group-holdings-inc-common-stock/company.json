@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "thermon-group-holdings-inc-common-stock",
+    "name": "Thermon Group Holdings Inc. Common Stock"
+  },
+  "record_count": 8,
+  "first_published_at": "2023-10-23T22:38:43+00:00",
+  "last_published_at": "2026-07-18T10:01:40+00:00",
+  "partitions": [
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

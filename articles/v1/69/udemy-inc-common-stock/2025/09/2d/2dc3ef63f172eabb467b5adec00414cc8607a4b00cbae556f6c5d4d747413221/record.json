@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2dc3ef63f172eabb467b5adec00414cc8607a4b00cbae556f6c5d4d747413221",
+  "company": {
+    "key": "udemy-inc-common-stock",
+    "name": "Udemy Inc. Common Stock"
+  },
+  "source": {
+    "id": "udemy-inc-common-stock-news-import-c5d326a78e51",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.udemy.com/udemy-news/introducing-11-coachingbeta-get-personalized-guidance-from-industry-experts/",
+    "canonical": "https://about.udemy.com/udemy-news/introducing-11-coachingbeta-get-personalized-guidance-from-industry-experts/"
+  },
+  "title": "Introducing Connect 1-1 (beta) - Get Personalized Guidance from Industry Experts | About Udemy",
+  "summary": "NEW! Get the coaching you need, at the right time, with the right coach. Personalized guidance with a real coach who understands your journey. Connect 1-1 offers personalized support for your upskilling goals — whether it’s to better understand course material, prepare for a certification exam, or get career advice. You know that moment when […]",
+  "published_at": "2025-09-25T09:00:36+00:00",
+  "first_seen_at": "2026-07-26T20:42:41.989080+00:00",
+  "fetched_at": "2026-07-28T11:01:04.409598+00:00",
+  "last_updated_at": "2026-07-28T11:01:07.019812+00:00",
+  "paths": {
+    "article": "articles/v1/69/udemy-inc-common-stock/2025/09/2d/2dc3ef63f172eabb467b5adec00414cc8607a4b00cbae556f6c5d4d747413221/article.md",
+    "record": "articles/v1/69/udemy-inc-common-stock/2025/09/2d/2dc3ef63f172eabb467b5adec00414cc8607a4b00cbae556f6c5d4d747413221/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4099,
+    "sha256": "sha256:efdcd6ec9590f209c223c9651e464a85d053265194fd2b4c22e90c4c37a8d129",
+    "normalized_content_hash": "sha256:d0ad39f0e75c8f34fc5dc2de58956955fb51b887e28cc13612e0ce8dc1f1744a"
+  },
+  "provenance": {
+    "source_item_id": "8131b8bd-460f-4f6e-8b54-72b27a7d280b",
+    "external_id": "https://about.udemy.com/udemy-news/introducing-11-coachingbeta-get-personalized-guidance-from-industry-experts/"
+  }
+}

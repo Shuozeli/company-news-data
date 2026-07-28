@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-duffel",
+    "name": "Duffel"
+  },
+  "record_count": 7,
+  "first_published_at": "2024-02-07T14:37:29+00:00",
+  "last_published_at": "2026-04-27T10:06:45+00:00",
+  "partitions": [
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ]
+}

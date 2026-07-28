@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "75aae0d1ad6e68ddfc1a33a999667d4f4b74b916e02460a5c268d8da333f7ce2",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/nextjs-app-router-migration-the-good-bad-and-ugly",
+    "canonical": "https://www.flightcontrol.dev/blog/nextjs-app-router-migration-the-good-bad-and-ugly"
+  },
+  "title": "Next.js App Router migration: the good, bad, and ugly",
+  "summary": "We rebuilt the Flightcontrol dashboard with Next.js App Router and this post shares the good and bad experiences from it.",
+  "published_at": "2024-01-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:03.774508+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2024/01/75/75aae0d1ad6e68ddfc1a33a999667d4f4b74b916e02460a5c268d8da333f7ce2/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2024/01/75/75aae0d1ad6e68ddfc1a33a999667d4f4b74b916e02460a5c268d8da333f7ce2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9416,
+    "sha256": "sha256:61f8e3e47bfbbd60d5da4f5364f4b4ebba1f97826fc17949684385a44c8fc6e0",
+    "normalized_content_hash": "sha256:6f64215b9e5b1a1051a089c987590b8311491317570af03b0f5e2ac7c1ff409a"
+  },
+  "provenance": {
+    "source_item_id": "81e19a08-91c4-4a9f-abf7-a35097f067e9",
+    "external_id": "https://www.flightcontrol.dev/blog/nextjs-app-router-migration-the-good-bad-and-ugly"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "home-federal-bancorp-inc-of-louisiana-common-stock",
+    "name": "Home Federal Bancorp Inc. of Louisiana Common Stock"
+  },
+  "record_count": 6,
+  "first_published_at": "2026-01-21T21:30:00+00:00",
+  "last_published_at": "2026-07-16T20:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

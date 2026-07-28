@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e7a87447287935262d5c3f1bea4ae8e309697cf2c98fb4cab2aa692f9a4b9ec",
+  "company": {
+    "key": "yc-ninite",
+    "name": "Ninite"
+  },
+  "source": {
+    "id": "yc-ninite-rss-629553105472",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ninite.com/onedrive/",
+    "canonical": "https://ninite.com/onedrive/"
+  },
+  "title": "OneDrive updated to 26.123.0628.0001.",
+  "summary": "",
+  "published_at": "2026-07-25T04:30:04+00:00",
+  "first_seen_at": "2026-07-25T16:20:56.315803+00:00",
+  "fetched_at": "2026-07-28T20:51:42.131550+00:00",
+  "last_updated_at": "2026-07-28T20:51:42.222078+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-ninite/2026/07/5e/5e7a87447287935262d5c3f1bea4ae8e309697cf2c98fb4cab2aa692f9a4b9ec/article.md",
+    "record": "articles/v1/a5/yc-ninite/2026/07/5e/5e7a87447287935262d5c3f1bea4ae8e309697cf2c98fb4cab2aa692f9a4b9ec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 511,
+    "sha256": "sha256:7ab1fea9232a423363ffe91592ca04f9e4e613c29781676574db1f40eb2d7c9f",
+    "normalized_content_hash": "sha256:e01f0ae8346c05a7c871fb8c1bbf4a3c3c69e2ac196cb5ee85cbc0c865f73c3b"
+  },
+  "provenance": {
+    "source_item_id": "1f30110d-ef42-487a-8ba4-79941996d115",
+    "external_id": "2a8214db2cf96a9b1939b52a365aa210"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "build-a-bear-workshop-inc-common-stock",
+    "name": "Build-A-Bear Workshop Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-03-16T16:46:00+00:00",
+  "last_published_at": "2026-06-15T14:24:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    }
+  ]
+}

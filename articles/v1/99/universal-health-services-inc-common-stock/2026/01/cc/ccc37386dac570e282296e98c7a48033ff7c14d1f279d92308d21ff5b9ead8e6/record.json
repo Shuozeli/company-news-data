@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccc37386dac570e282296e98c7a48033ff7c14d1f279d92308d21ff5b9ead8e6",
+  "company": {
+    "key": "universal-health-services-inc-common-stock",
+    "name": "Universal Health Services Inc. Common Stock"
+  },
+  "source": {
+    "id": "universal-health-services-inc-common-stock-news-import-40c8a89d7155",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://uhs.com/news/kim-sassaman-named-among-cisos-connects-top-100-cisos-2026/",
+    "canonical": "https://uhs.com/news/kim-sassaman-named-among-cisos-connects-top-100-cisos-2026/"
+  },
+  "title": "Kim Sassaman Named Among CISOs Connect’s™ Top 100 CISOs 2026",
+  "summary": "Congratulations to Kim Sassaman, Chief Information Security Officer (CISO) at Universal Health Services, Inc., for being named among CISOs Connect’s™ Top 100 CISOs for the third year in a row.",
+  "published_at": "2026-01-06T13:26:25+00:00",
+  "first_seen_at": "2026-07-24T05:33:01.391339+00:00",
+  "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+  "last_updated_at": "2026-07-28T21:27:33.380684+00:00",
+  "paths": {
+    "article": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/cc/ccc37386dac570e282296e98c7a48033ff7c14d1f279d92308d21ff5b9ead8e6/article.md",
+    "record": "articles/v1/99/universal-health-services-inc-common-stock/2026/01/cc/ccc37386dac570e282296e98c7a48033ff7c14d1f279d92308d21ff5b9ead8e6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4285,
+    "sha256": "sha256:b49e54a6ee797564c8949d70839870977c2ee44a7ed4d55d9f8d1265744f15df",
+    "normalized_content_hash": "sha256:0f8cbf7536fc9546b9319a7356c79f083b4d4600bb6f5e3482ce3fdd3ada371f"
+  },
+  "provenance": {
+    "source_item_id": "818d508f-75bb-453f-9880-75a03c9246f2",
+    "external_id": "https://uhs.com/news/kim-sassaman-named-among-cisos-connects-top-100-cisos-2026/"
+  }
+}

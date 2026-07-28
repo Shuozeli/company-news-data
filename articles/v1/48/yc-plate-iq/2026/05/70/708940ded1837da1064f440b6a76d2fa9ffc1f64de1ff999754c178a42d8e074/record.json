@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "708940ded1837da1064f440b6a76d2fa9ffc1f64de1ff999754c178a42d8e074",
+  "company": {
+    "key": "yc-plate-iq",
+    "name": "Plate IQ"
+  },
+  "source": {
+    "id": "yc-plate-iq-news-import-9b094f88901e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ottimate.com/blog/how-ai-invoice-fraud-detection-works/",
+    "canonical": "https://ottimate.com/blog/how-ai-invoice-fraud-detection-works/"
+  },
+  "title": "How AI Invoice Fraud Detection Works",
+  "summary": "Discover how AI invoice fraud detection identifies fraud & price anomalies before payments are approved & helps finance teams reduce risk at scale.",
+  "published_at": "2026-05-20T13:00:00+00:00",
+  "first_seen_at": "2026-07-27T09:28:12.399111+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-07-28T21:44:15.908540+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-plate-iq/2026/05/70/708940ded1837da1064f440b6a76d2fa9ffc1f64de1ff999754c178a42d8e074/article.md",
+    "record": "articles/v1/48/yc-plate-iq/2026/05/70/708940ded1837da1064f440b6a76d2fa9ffc1f64de1ff999754c178a42d8e074/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25566,
+    "sha256": "sha256:2101377f17381b0372a83825714ba269356aeea348c4690d8fd399f8b6413ee5",
+    "normalized_content_hash": "sha256:c435c0c9050966f7f05f051c3daf6f58c8c65c91e1043d20a086f09ddd302231"
+  },
+  "provenance": {
+    "source_item_id": "d9aa2f0f-bc98-47a5-a24c-b67b46ed3053",
+    "external_id": "https://ottimate.com/blog/how-ai-invoice-fraud-detection-works/"
+  }
+}

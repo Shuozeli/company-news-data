@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f67852b11cd00f800f850be4754d570994d7bbe4eea99915bd216b7c1219477b",
+  "company": {
+    "key": "strategy-inc-common-stock-class-a",
+    "name": "Strategy Inc Common Stock Class A"
+  },
+  "source": {
+    "id": "strategy-inc-common-stock-class-a-news-import-7844395447f9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.strategy.com/press/strive-adds-50-million-of-strc-to-its-corporate-treasury_03-11-2026",
+    "canonical": "https://www.strategy.com/press/strive-adds-50-million-of-strc-to-its-corporate-treasury_03-11-2026"
+  },
+  "title": "Strive Adds $50 Million of STRC to its Corporate Treasury",
+  "summary": "March 11, 2026",
+  "published_at": "2026-03-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:05:48.786840+00:00",
+  "fetched_at": "2026-07-27T15:34:51.669202+00:00",
+  "last_updated_at": "2026-07-27T15:34:53.861283+00:00",
+  "paths": {
+    "article": "articles/v1/aa/strategy-inc-common-stock-class-a/2026/03/f6/f67852b11cd00f800f850be4754d570994d7bbe4eea99915bd216b7c1219477b/article.md",
+    "record": "articles/v1/aa/strategy-inc-common-stock-class-a/2026/03/f6/f67852b11cd00f800f850be4754d570994d7bbe4eea99915bd216b7c1219477b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7674,
+    "sha256": "sha256:f334085b6fda56e93f5d5140ab82a819abea0ff908f38fa3b7e7b1033fd8a835",
+    "normalized_content_hash": "sha256:af7218da81608815f3d167595285ef5968b13208f36c477d69cb4409d863f366"
+  },
+  "provenance": {
+    "source_item_id": "794b9d85-811b-46ce-a008-9949655fdf33",
+    "external_id": "https://www.strategy.com/press/strive-adds-50-million-of-strc-to-its-corporate-treasury_03-11-2026"
+  }
+}

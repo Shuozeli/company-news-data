@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea551fb06a1f1b9f7ab8230015bc2c8414e857e4335fa6f930688cea7c3fb3c8",
+  "company": {
+    "key": "yc-arpari",
+    "name": "Arpari"
+  },
+  "source": {
+    "id": "yc-arpari-news-import-d67ae8fe8438",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arpari.com/post/bank-data-standardization-is-the-job-nobody-hired-for-but-everyone-does",
+    "canonical": "https://arpari.com/post/bank-data-standardization-is-the-job-nobody-hired-for-but-everyone-does"
+  },
+  "title": "Bank Data Standardization Is the Job Nobody Hired for but Everyone Does",
+  "summary": "Bank data standardization consumes hours of manual reformatting daily as finance teams translate between incompatible formats, creating an invisible tax that compounds with every banking relationship.",
+  "published_at": "2026-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T17:09:57.576780+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:54.438324+00:00",
+  "paths": {
+    "article": "articles/v1/34/yc-arpari/2026/06/ea/ea551fb06a1f1b9f7ab8230015bc2c8414e857e4335fa6f930688cea7c3fb3c8/article.md",
+    "record": "articles/v1/34/yc-arpari/2026/06/ea/ea551fb06a1f1b9f7ab8230015bc2c8414e857e4335fa6f930688cea7c3fb3c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5508,
+    "sha256": "sha256:324a4638facca265d2dcfea506c35dfdd1ae0e1741de8879e7480e1e32d83de1",
+    "normalized_content_hash": "sha256:85c4042f657c16a16aa09d12c245794ddc8732f2d465443373fa5c0736d1b0fc"
+  },
+  "provenance": {
+    "source_item_id": "a060402a-73b1-4880-b82d-d0de4e33af4b",
+    "external_id": "https://arpari.com/post/bank-data-standardization-is-the-job-nobody-hired-for-but-everyone-does"
+  }
+}

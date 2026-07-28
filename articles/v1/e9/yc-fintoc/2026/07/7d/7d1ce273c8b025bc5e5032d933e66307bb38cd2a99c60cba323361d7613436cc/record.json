@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7d1ce273c8b025bc5e5032d933e66307bb38cd2a99c60cba323361d7613436cc",
+  "company": {
+    "key": "yc-fintoc",
+    "name": "Fintoc"
+  },
+  "source": {
+    "id": "yc-fintoc-news-import-4ac2d54454f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fintoc.com/cl/blog/e-commerce",
+    "canonical": "https://fintoc.com/cl/blog/e-commerce"
+  },
+  "title": "E commerce · Blog de Fintoc",
+  "summary": "Artículos sobre E commerce en el blog de Fintoc.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T20:01:58.351478+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:22:00.968800+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-fintoc/2026/07/7d/7d1ce273c8b025bc5e5032d933e66307bb38cd2a99c60cba323361d7613436cc/article.md",
+    "record": "articles/v1/e9/yc-fintoc/2026/07/7d/7d1ce273c8b025bc5e5032d933e66307bb38cd2a99c60cba323361d7613436cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1947,
+    "sha256": "sha256:911bc94e1a4b9104aa02de6994a6b50d4c752a4b772d2556d4cb9f92aad74b42",
+    "normalized_content_hash": "sha256:3f6e4cf65ede15bba6a2f80e17f3c57e11a88f89f646c74b017e6ac570dc815e"
+  },
+  "provenance": {
+    "source_item_id": "30454dbf-86a5-48e2-a16b-f2ab17fcd13e",
+    "external_id": "https://fintoc.com/cl/blog/e-commerce"
+  }
+}

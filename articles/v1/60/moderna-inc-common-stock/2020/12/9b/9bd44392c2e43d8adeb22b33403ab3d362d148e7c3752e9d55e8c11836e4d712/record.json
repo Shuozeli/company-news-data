@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9bd44392c2e43d8adeb22b33403ab3d362d148e7c3752e9d55e8c11836e4d712",
+  "company": {
+    "key": "moderna-inc-common-stock",
+    "name": "Moderna Inc. Common Stock"
+  },
+  "source": {
+    "id": "moderna-inc-common-stock-rss-ffb730a7f05d",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://news.modernatx.com/statements-perspectives/modernas-statement-on-phase-3-study-of-covid-19-vaccine-protocol-update",
+    "canonical": "https://news.modernatx.com/statements-perspectives/modernas-statement-on-phase-3-study-of-covid-19-vaccine-protocol-update"
+  },
+  "title": "Moderna’s Statement on Phase 3 Study of COVID-19 Vaccine Protocol Update",
+  "summary": "Deliver the greatest possible impact to people through mRNA medicines.",
+  "published_at": "2020-12-29T22:58:27+00:00",
+  "first_seen_at": "2026-07-20T03:33:23.394172+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-07-28T21:06:06.909891+00:00",
+  "paths": {
+    "article": "articles/v1/60/moderna-inc-common-stock/2020/12/9b/9bd44392c2e43d8adeb22b33403ab3d362d148e7c3752e9d55e8c11836e4d712/article.md",
+    "record": "articles/v1/60/moderna-inc-common-stock/2020/12/9b/9bd44392c2e43d8adeb22b33403ab3d362d148e7c3752e9d55e8c11836e4d712/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1766,
+    "sha256": "sha256:90d94fb10751002d23fcab2da252a116c532e5a07fa9e7bf1a519fcdc364420e",
+    "normalized_content_hash": "sha256:abb70a68d0d248b5e93eccc4b2c8233f643fb9f61d6c81120a7c627849427b29"
+  },
+  "provenance": {
+    "source_item_id": "06ab04a2-d6a1-4700-af63-e4c7f834e2ce",
+    "external_id": "https://news.modernatx.com/statements-perspectives/modernas-statement-on-phase-3-study-of-covid-19-vaccine-protocol-update"
+  }
+}

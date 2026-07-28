@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "07489f0adac4acc13206de660935af15f1e7aeadbcf31cc383eabf3b907784e4",
+  "company": {
+    "key": "novartis-ag-common-stock",
+    "name": "Novartis AG Common Stock"
+  },
+  "source": {
+    "id": "novartis-ag-common-stock-news-import-803a71742401",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.novartis.com/news/media-releases/novartis-receives-fda-approval-itvisma-only-gene-replacement-therapy-children-two-years-and-older-teens-and-adults-spinal-muscular-atrophy-sma",
+    "canonical": "https://www.novartis.com/news/media-releases/novartis-receives-fda-approval-itvisma-only-gene-replacement-therapy-children-two-years-and-older-teens-and-adults-spinal-muscular-atrophy-sma"
+  },
+  "title": "Novartis receives FDA approval for Itvisma®, the only gene replacement therapy for children two years and older, teens, and adults with spinal muscular atrophy (SMA)",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T06:30:35.694299+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:12.088868+00:00",
+  "paths": {
+    "article": "articles/v1/49/novartis-ag-common-stock/2026/07/07/07489f0adac4acc13206de660935af15f1e7aeadbcf31cc383eabf3b907784e4/article.md",
+    "record": "articles/v1/49/novartis-ag-common-stock/2026/07/07/07489f0adac4acc13206de660935af15f1e7aeadbcf31cc383eabf3b907784e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12306,
+    "sha256": "sha256:c3012aa32263500abfd9725764fab42163559534fcde9e535927817479e8ca23",
+    "normalized_content_hash": "sha256:0ee01a4e81bc1ba0cf9aa05a4a9e5aef06632156178dbbced603aa2a0a11b90c"
+  },
+  "provenance": {
+    "source_item_id": "f6f5a955-272e-479f-8eb1-9055cd03802f",
+    "external_id": "https://www.novartis.com/news/media-releases/novartis-receives-fda-approval-itvisma-only-gene-replacement-therapy-children-two-years-and-older-teens-and-adults-spinal-muscular-atrophy-sma"
+  }
+}

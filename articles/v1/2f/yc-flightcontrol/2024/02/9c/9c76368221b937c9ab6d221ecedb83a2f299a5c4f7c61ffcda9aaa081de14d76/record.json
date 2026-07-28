@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c76368221b937c9ab6d221ecedb83a2f299a5c4f7c61ffcda9aaa081de14d76",
+  "company": {
+    "key": "yc-flightcontrol",
+    "name": "Flightcontrol"
+  },
+  "source": {
+    "id": "yc-flightcontrol-news-import-3b34406332e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flightcontrol.dev/blog/reduced-github-actions-bill-by-63",
+    "canonical": "https://www.flightcontrol.dev/blog/reduced-github-actions-bill-by-63"
+  },
+  "title": "Reduced GitHub Actions bill by 63%",
+  "summary": "This reduced our bill by 64%, and most importantly, sped up pull requests with less time waiting on CI checks.",
+  "published_at": "2024-02-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:27:41.783025+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:03.787319+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-flightcontrol/2024/02/9c/9c76368221b937c9ab6d221ecedb83a2f299a5c4f7c61ffcda9aaa081de14d76/article.md",
+    "record": "articles/v1/2f/yc-flightcontrol/2024/02/9c/9c76368221b937c9ab6d221ecedb83a2f299a5c4f7c61ffcda9aaa081de14d76/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5289,
+    "sha256": "sha256:f56a3ed10b26fa63c41b981a54180a0bfe5cd35962271985af4d9662de933350",
+    "normalized_content_hash": "sha256:757febbb10918b4083fe05d590f053a3cd38382a89e2c2a0ddc71f8c418816e9"
+  },
+  "provenance": {
+    "source_item_id": "29679c36-3e53-484f-a872-ef952165f39f",
+    "external_id": "https://www.flightcontrol.dev/blog/reduced-github-actions-bill-by-63"
+  }
+}

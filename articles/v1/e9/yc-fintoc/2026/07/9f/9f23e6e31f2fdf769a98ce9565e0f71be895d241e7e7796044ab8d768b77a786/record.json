@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f23e6e31f2fdf769a98ce9565e0f71be895d241e7e7796044ab8d768b77a786",
+  "company": {
+    "key": "yc-fintoc",
+    "name": "Fintoc"
+  },
+  "source": {
+    "id": "yc-fintoc-news-import-4ac2d54454f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fintoc.com/cl/blog/58m-recuperados-el-impacto-de-reintentos-inteligentes-sobre-la-mora-en-seguros",
+    "canonical": "https://fintoc.com/cl/blog/58m-recuperados-el-impacto-de-reintentos-inteligentes-sobre-la-mora-en-seguros"
+  },
+  "title": "$58M recuperados: el impacto de reintentos inteligentes sobre la mora en seguros",
+  "summary": "Una aseguradora con 10.000 pólizas podría estar dejando $58M CLP sobre la mesa cada año. No porque los asegurados no quieran pagar, sino porque nadie los contac",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T08:08:45.674909+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-07-28T21:38:18.109192+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-fintoc/2026/07/9f/9f23e6e31f2fdf769a98ce9565e0f71be895d241e7e7796044ab8d768b77a786/article.md",
+    "record": "articles/v1/e9/yc-fintoc/2026/07/9f/9f23e6e31f2fdf769a98ce9565e0f71be895d241e7e7796044ab8d768b77a786/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3038,
+    "sha256": "sha256:b714ea8fcc758fd272122cb257f290b4d3c12e50fdf4b925cb96a3b64ae824e9",
+    "normalized_content_hash": "sha256:5996e117ee0b6d85d92e453d8c4553c41983144657ad804d42411a46d2fda68e"
+  },
+  "provenance": {
+    "source_item_id": "797691b5-7eb3-4c7d-8db3-899b24559ff9",
+    "external_id": "https://fintoc.com/cl/blog/58m-recuperados-el-impacto-de-reintentos-inteligentes-sobre-la-mora-en-seguros"
+  }
+}

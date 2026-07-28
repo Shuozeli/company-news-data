@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eae411becad7ec99f2e0a4d48ff1f661027cb7685ae86945b535c630cda6d212",
+  "company": {
+    "key": "smith-micro-software-inc-common-stock",
+    "name": "Smith Micro Software Inc. Common Stock"
+  },
+  "source": {
+    "id": "smith-micro-software-inc-common-stock-news-import-b4a9963a09cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.smithmicro.com/press-releases/2026/01/06/smith-micro-announces-launch-of-safepath-os-for-senior-phone/",
+    "canonical": "https://www.smithmicro.com/press-releases/2026/01/06/smith-micro-announces-launch-of-safepath-os-for-senior-phone/"
+  },
+  "title": "Smith Micro Announces Launch of SafePath OS™ for Senior Phone",
+  "summary": "SafePath OS™ for Senior Phone empowers independence and connectivity for seniors.",
+  "published_at": "2026-01-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:51:11.899355+00:00",
+  "fetched_at": "2026-07-28T22:24:12.939989+00:00",
+  "last_updated_at": "2026-07-28T22:24:24.081147+00:00",
+  "paths": {
+    "article": "articles/v1/d2/smith-micro-software-inc-common-stock/2026/01/ea/eae411becad7ec99f2e0a4d48ff1f661027cb7685ae86945b535c630cda6d212/article.md",
+    "record": "articles/v1/d2/smith-micro-software-inc-common-stock/2026/01/ea/eae411becad7ec99f2e0a4d48ff1f661027cb7685ae86945b535c630cda6d212/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8580,
+    "sha256": "sha256:664ebb18d510dbfd5a0e2db3c92305e517b255480e396b0e7c85f221f9179dc4",
+    "normalized_content_hash": "sha256:26344b00fdc812a1fc7e3a0d2f930d3884967c2c6645328de47985465d6b6cef"
+  },
+  "provenance": {
+    "source_item_id": "c7ed3297-7020-46a3-be8d-b362c104ba6e",
+    "external_id": "https://www.smithmicro.com/press-releases/2026/01/06/smith-micro-announces-launch-of-safepath-os-for-senior-phone/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "377d159e81699f34a3710353bed0a8c36d6e9bda37faff63a74a393881ef09c6",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/1110.html",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/1110.html"
+  },
+  "title": "Hydrogen, Logistics, Workstyles--JAMA's Progress Report on the Seven Priority Challenges",
+  "summary": "Seeking to fuel the country’s economic growth and boost the appeal of a key national industry, the Japan Automobile Manufacturers Association has set out its “New Seven Priority Challenges.” Many of these initiatives are now shifting into the implementati #TOYOTATIMES",
+  "published_at": "2026-06-18T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.574019+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/06/37/377d159e81699f34a3710353bed0a8c36d6e9bda37faff63a74a393881ef09c6/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/06/37/377d159e81699f34a3710353bed0a8c36d6e9bda37faff63a74a393881ef09c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5144,
+    "sha256": "sha256:975e6336bda9bcddf61eb669669d35e656c15c505ec0d86aaf40701379a05d91",
+    "normalized_content_hash": "sha256:d27448b8bf8b9b553aa71a2b8484f3c3c8386a08e10524dbc6b0ae605b682f04"
+  },
+  "provenance": {
+    "source_item_id": "ee0ed592-7756-456b-aa77-2f97c3aca8d0",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/1110.html"
+  }
+}

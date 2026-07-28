@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-pangea-app",
+    "name": "Pangea.app"
+  },
+  "record_count": 11,
+  "first_published_at": "2025-04-07T13:37:44.172+00:00",
+  "last_published_at": "2026-04-23T18:45:14.587+00:00",
+  "partitions": [
+    {
+      "partition": "2025-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ]
+}

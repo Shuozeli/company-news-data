@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "550c396b78ef13869fd7c0a15b1adfde1eed04d73f0b64829959a74d5707b13b",
+  "company": {
+    "key": "kayne-anderson-bdc-inc-common-stock",
+    "name": "Kayne Anderson BDC Inc. Common Stock"
+  },
+  "source": {
+    "id": "kayne-anderson-bdc-inc-common-stock-news-import-cdb31f4afeaa",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://kayneanderson.com/news/kayne-anderson-real-estate-named-best-asset-manager-of-2025-real-estate-best-of-the-best-mid-cap-by-the-korea-economic-daily/",
+    "canonical": "https://kayneanderson.com/news/kayne-anderson-real-estate-named-best-asset-manager-of-2025-real-estate-best-of-the-best-mid-cap-by-the-korea-economic-daily/"
+  },
+  "title": "Kayne Anderson Real Estate named Best Asset Manager of 2025 (Real Estate – Best of the Best, Mid Cap) by The Korea Economic Daily",
+  "summary": "",
+  "published_at": "2026-02-25T14:33:50+00:00",
+  "first_seen_at": "2026-07-25T10:32:29.554355+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:19.308724+00:00",
+  "paths": {
+    "article": "articles/v1/72/kayne-anderson-bdc-inc-common-stock/2026/02/55/550c396b78ef13869fd7c0a15b1adfde1eed04d73f0b64829959a74d5707b13b/article.md",
+    "record": "articles/v1/72/kayne-anderson-bdc-inc-common-stock/2026/02/55/550c396b78ef13869fd7c0a15b1adfde1eed04d73f0b64829959a74d5707b13b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2350,
+    "sha256": "sha256:c201bb4112246c0bb9b49cd29aab1647243360a910807f6407c66fe170d3aeed",
+    "normalized_content_hash": "sha256:83bad739697b247358980fc955029c3d346f8372dc28ecff270eeaaf2b38fe1f"
+  },
+  "provenance": {
+    "source_item_id": "d2f25d4c-48aa-4114-ae2d-730229f20afb",
+    "external_id": "https://kayneanderson.com/news/kayne-anderson-real-estate-named-best-asset-manager-of-2025-real-estate-best-of-the-best-mid-cap-by-the-korea-economic-daily/"
+  }
+}

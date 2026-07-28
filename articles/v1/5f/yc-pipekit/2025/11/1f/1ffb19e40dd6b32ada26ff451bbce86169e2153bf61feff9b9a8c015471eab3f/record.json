@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1ffb19e40dd6b32ada26ff451bbce86169e2153bf61feff9b9a8c015471eab3f",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/temporal-vs-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/temporal-vs-argo-workflows"
+  },
+  "title": "Temporal vs. Argo Workflows",
+  "summary": "Argo Workflows excels in Kubernetes automation with YAML or Python, ideal for CI/CD and data pipelines. Temporal offers flexibility with general-purpose languages and is suited for long-running, complex workflows, providing durability and scalability without time limits.",
+  "published_at": "2025-11-20T17:58:33+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-07-28T21:59:13.730570+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2025/11/1f/1ffb19e40dd6b32ada26ff451bbce86169e2153bf61feff9b9a8c015471eab3f/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2025/11/1f/1ffb19e40dd6b32ada26ff451bbce86169e2153bf61feff9b9a8c015471eab3f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14895,
+    "sha256": "sha256:7899d700634d223ac6123f8f073fc5c0ee38f2615798b91d66831380472cd9c5",
+    "normalized_content_hash": "sha256:9a6baa6ce67312c70a9fbcd850d437e6ea7a2ad3347787832f623a048a9ecea2"
+  },
+  "provenance": {
+    "source_item_id": "02a1a883-fb9c-4250-abfe-095e7aa60788",
+    "external_id": "https://homepage.pipekit.io/blog/temporal-vs-argo-workflows"
+  }
+}

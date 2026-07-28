@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ead9aca11c59ca8c043d227e32c026b9af2c1fa88281bad36075f893ad572ff5",
+  "company": {
+    "key": "yc-axiom-ai",
+    "name": "Axiom.ai"
+  },
+  "source": {
+    "id": "yc-axiom-ai-news-import-c535b3e44cdf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://axiom.ai/blog/scraping-web-with-js/",
+    "canonical": "https://axiom.ai/blog/scraping-web-with-js"
+  },
+  "title": "Scraping Web Content with JavaScript",
+  "summary": "Learn how to get started with Javascript web scraping using pure JavaScript, Axios, Got, JSDOM and the Fetch API",
+  "published_at": "2025-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:24:24.051508+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:43.793831+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-axiom-ai/2025/05/ea/ead9aca11c59ca8c043d227e32c026b9af2c1fa88281bad36075f893ad572ff5/article.md",
+    "record": "articles/v1/7c/yc-axiom-ai/2025/05/ea/ead9aca11c59ca8c043d227e32c026b9af2c1fa88281bad36075f893ad572ff5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10517,
+    "sha256": "sha256:e082f4152af9b56334375fa6286d1a9fb5a80a6efb71bfef061d3fda7bc61898",
+    "normalized_content_hash": "sha256:3ec0e984b1092b45404f7153a893a6033d67e57f525e6cc8eccdfdee4f843a2c"
+  },
+  "provenance": {
+    "source_item_id": "57c49009-81b0-4115-91b3-69c6b74ac133",
+    "external_id": "https://axiom.ai/blog/scraping-web-with-js"
+  }
+}

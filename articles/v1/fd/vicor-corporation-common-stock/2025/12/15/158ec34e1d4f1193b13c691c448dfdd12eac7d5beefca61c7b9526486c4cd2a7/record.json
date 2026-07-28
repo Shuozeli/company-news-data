@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "158ec34e1d4f1193b13c691c448dfdd12eac7d5beefca61c7b9526486c4cd2a7",
+  "company": {
+    "key": "vicor-corporation-common-stock",
+    "name": "Vicor Corporation Common Stock"
+  },
+  "source": {
+    "id": "vicor-corporation-common-stock-news-import-bceae7f4b9f7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.vicorpower.com/press-room/2025/spacechips-drives-imaginative-new-ai-enabled-satellite-applications",
+    "canonical": "https://www.vicorpower.com/press-room/2025/spacechips-drives-imaginative-new-ai-enabled-satellite-applications"
+  },
+  "title": "Spacechips drives imaginative new AI-enabled satellite applications",
+  "summary": "Radiation-tolerant, high current density DC-DC converter modules power AI1 transponder for innovative computing applications",
+  "published_at": "2025-12-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T04:37:44.430947+00:00",
+  "fetched_at": "2026-07-28T22:25:04.749708+00:00",
+  "last_updated_at": "2026-07-28T22:25:16.161985+00:00",
+  "paths": {
+    "article": "articles/v1/fd/vicor-corporation-common-stock/2025/12/15/158ec34e1d4f1193b13c691c448dfdd12eac7d5beefca61c7b9526486c4cd2a7/article.md",
+    "record": "articles/v1/fd/vicor-corporation-common-stock/2025/12/15/158ec34e1d4f1193b13c691c448dfdd12eac7d5beefca61c7b9526486c4cd2a7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6357,
+    "sha256": "sha256:c3b152e382a4cc80b80c4b4c84acb63f498a6cd38d03d897d532c9b23f8c24b9",
+    "normalized_content_hash": "sha256:346cb3353574b2f5481ffba25118a112a4ab9a09b89f67a930cc0e819df3c433"
+  },
+  "provenance": {
+    "source_item_id": "f80c1962-4be3-48ee-9fca-cb8f7a2ca3e7",
+    "external_id": "https://www.vicorpower.com/press-room/2025/spacechips-drives-imaginative-new-ai-enabled-satellite-applications"
+  }
+}

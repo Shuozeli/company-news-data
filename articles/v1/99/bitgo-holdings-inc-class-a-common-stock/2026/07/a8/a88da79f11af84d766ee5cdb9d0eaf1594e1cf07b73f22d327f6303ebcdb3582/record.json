@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a88da79f11af84d766ee5cdb9d0eaf1594e1cf07b73f22d327f6303ebcdb3582",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/bitgo-keyring-wallets-manage-every-evm-chain-from-one-account/",
+    "canonical": "https://www.bitgo.com/resources/blog/bitgo-keyring-wallets-manage-every-evm-chain-from-one-account/"
+  },
+  "title": "BitGo Keyring Wallets: Manage Every EVM Chain From One Account",
+  "summary": "BitGo EVM Keyring connects all EVM-compatible chains to a single wallet setup. One account covers Ethereum, BSC, Polygon, Arbitrum, Optimism, and any supported chain you add later, without duplicate onboarding or separate credentials per network.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:41.088269+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.026377+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/a8/a88da79f11af84d766ee5cdb9d0eaf1594e1cf07b73f22d327f6303ebcdb3582/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/a8/a88da79f11af84d766ee5cdb9d0eaf1594e1cf07b73f22d327f6303ebcdb3582/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9346,
+    "sha256": "sha256:f406b5eeb8ed7f26bc7583760f4dd727bf835aade02850411d1af8d5274855a7",
+    "normalized_content_hash": "sha256:26c4f6cf04e30f9ccf944d21630850b5a1f5d783bc42431b0521eb4df777170c"
+  },
+  "provenance": {
+    "source_item_id": "bccf8f66-dcfe-4b49-9808-7aefc302828e",
+    "external_id": "https://www.bitgo.com/resources/blog/bitgo-keyring-wallets-manage-every-evm-chain-from-one-account/"
+  }
+}

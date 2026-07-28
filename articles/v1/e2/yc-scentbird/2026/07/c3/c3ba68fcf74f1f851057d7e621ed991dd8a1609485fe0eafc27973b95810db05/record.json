@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c3ba68fcf74f1f851057d7e621ed991dd8a1609485fe0eafc27973b95810db05",
+  "company": {
+    "key": "yc-scentbird",
+    "name": "Scentbird"
+  },
+  "source": {
+    "id": "yc-scentbird-news-import-a752a4eed7e1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.scentbird.com/blog/confessions-of-a-rebel-fragrances-before-you-go/",
+    "canonical": "https://www.scentbird.com/blog/confessions-of-a-rebel-fragrances-before-you-go/"
+  },
+  "title": "Confessions of a Rebel Fragrances: One More Confession Before You Go",
+  "summary": "I’ve announced it here, and here, and here, and here…oh wait, here also, and let’s not forget right here too. And now one more time for those in the back: Confessions of a Rebel has two new s…",
+  "published_at": "2026-07-08T15:33:28+00:00",
+  "first_seen_at": "2026-07-24T00:00:53.990571+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:12.649801+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-scentbird/2026/07/c3/c3ba68fcf74f1f851057d7e621ed991dd8a1609485fe0eafc27973b95810db05/article.md",
+    "record": "articles/v1/e2/yc-scentbird/2026/07/c3/c3ba68fcf74f1f851057d7e621ed991dd8a1609485fe0eafc27973b95810db05/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3842,
+    "sha256": "sha256:4012afabd854aae3f5f8cf716825bf1f3ae6dbd21fb9fe28701ea5aff8e5f256",
+    "normalized_content_hash": "sha256:4aad74fd205a2edd1f88d6e16079675884e9dffdf0af99644a2b3479339fb143"
+  },
+  "provenance": {
+    "source_item_id": "a4a47d0f-f17a-4287-a418-cbe66dc80906",
+    "external_id": "https://www.scentbird.com/blog/confessions-of-a-rebel-fragrances-before-you-go/"
+  }
+}

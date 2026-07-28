@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a18859d2d5d321c07adb471de2bf1ad7bb76705d250d368266fd07efc5a75a00",
+  "company": {
+    "key": "suncor-energy-inc-common-stock",
+    "name": "Suncor Energy Inc. Common Stock"
+  },
+  "source": {
+    "id": "suncor-energy-inc-common-stock-news-import-b454da1fa0be",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2021/12/13/2350641/0/fr/suncor-%c3%89nergie-annonce-les-pr%c3%a9visions-de-production-et-le-programme-de-d%c3%a9penses-en-immobilisations-pour-2022.html",
+    "canonical": "https://www.globenewswire.com/news-release/2021/12/13/2350641/0/fr/suncor-%c3%89nergie-annonce-les-pr%c3%a9visions-de-production-et-le-programme-de-d%c3%a9penses-en-immobilisations-pour-2022.html"
+  },
+  "title": "Suncor Énergie annonce les prévisions de production et le programme de dépenses en immobilisations pour 2022",
+  "summary": "Tous les montants sont en dollars canadiens, à moins d’indication contraire....",
+  "published_at": "2021-12-13T12:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:31:48.285610+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.343841+00:00",
+  "paths": {
+    "article": "articles/v1/e4/suncor-energy-inc-common-stock/2021/12/a1/a18859d2d5d321c07adb471de2bf1ad7bb76705d250d368266fd07efc5a75a00/article.md",
+    "record": "articles/v1/e4/suncor-energy-inc-common-stock/2021/12/a1/a18859d2d5d321c07adb471de2bf1ad7bb76705d250d368266fd07efc5a75a00/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23746,
+    "sha256": "sha256:799ea9f8caa9f37ef46a0b18e610282d1493e11e8d241587580d8c6738037d63",
+    "normalized_content_hash": "sha256:370c5a265b5bc3868ac01f59712b3bb342828d035427ada7dda68837b0a13c13"
+  },
+  "provenance": {
+    "source_item_id": "7f5f49c6-07fe-420e-a1d3-8e9203bc9536",
+    "external_id": "https://www.globenewswire.com/news-release/2021/12/13/2350641/0/fr/suncor-%c3%89nergie-annonce-les-pr%c3%a9visions-de-production-et-le-programme-de-d%c3%a9penses-en-immobilisations-pour-2022.html"
+  }
+}

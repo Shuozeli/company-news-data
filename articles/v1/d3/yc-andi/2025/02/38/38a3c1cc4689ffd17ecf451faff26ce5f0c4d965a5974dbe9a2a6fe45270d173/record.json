@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "38a3c1cc4689ffd17ecf451faff26ce5f0c4d965a5974dbe9a2a6fe45270d173",
+  "company": {
+    "key": "yc-andi",
+    "name": "Andi"
+  },
+  "source": {
+    "id": "yc-andi-news-import-887dceecc721",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andiai.com/blogs/scaling-for-growing-demand",
+    "canonical": "https://andiai.com/blogs/scaling-for-growing-demand"
+  },
+  "title": "Performance Updates: Scaling Andi for Growing Demand",
+  "summary": "How we're addressing the challenge of scaling Andi for growing demand with faster response times and enhanced infrastructure.",
+  "published_at": "2025-02-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:48:18.083780+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:29.980231+00:00",
+  "paths": {
+    "article": "articles/v1/d3/yc-andi/2025/02/38/38a3c1cc4689ffd17ecf451faff26ce5f0c4d965a5974dbe9a2a6fe45270d173/article.md",
+    "record": "articles/v1/d3/yc-andi/2025/02/38/38a3c1cc4689ffd17ecf451faff26ce5f0c4d965a5974dbe9a2a6fe45270d173/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2161,
+    "sha256": "sha256:2a00c74dc462121deacecfbf7da5759dcadd40fe0e753dedce17cbc95271b927",
+    "normalized_content_hash": "sha256:6ae17891fbcff40871830092781c4e84eef77ff1d4750442b0ec768c92f350c0"
+  },
+  "provenance": {
+    "source_item_id": "ed9fc56c-3672-4c06-bfc5-b13e77cf9192",
+    "external_id": "https://andiai.com/blogs/scaling-for-growing-demand"
+  }
+}

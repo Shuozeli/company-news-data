@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c5e2406155e328a7c06c1d194a60ae173d49bdf558a3b5daf923cbb670e6a918",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/"
+  },
+  "title": "CrowdStrike Expands Identity Leadership with OpenID and IDPro",
+  "summary": "CrowdStrike helps shape identity-first security by advancing open standards and enabling real-time security signals.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.387314+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/c5/c5e2406155e328a7c06c1d194a60ae173d49bdf558a3b5daf923cbb670e6a918/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/c5/c5e2406155e328a7c06c1d194a60ae173d49bdf558a3b5daf923cbb670e6a918/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7316,
+    "sha256": "sha256:3a250e878239e2dd19bedf8813ee18d570537fe4c47a2f817688a6e0f1a814c6",
+    "normalized_content_hash": "sha256:0f5f36cdd7b148f05d1e9dfb1ceeb8a82854a4297c9adc76f05a1a20205635f9"
+  },
+  "provenance": {
+    "source_item_id": "701e4c56-9da8-4e9b-a1d2-12fca22743b6",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/"
+  }
+}

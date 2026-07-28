@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "10c4b34ea22a5f96e892a6c07b785b7c8095bad967a8e440a8683099eadd15f5",
+  "company": {
+    "key": "ferrari-n-v-common-shares",
+    "name": "Ferrari N.V. Common Shares"
+  },
+  "source": {
+    "id": "ferrari-n-v-common-shares-news-import-597b1f1fc06e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ferrari.com/en-EN/media-centre/articles/ferrari-challenge-trofeo-pirelli-japan-2027-calendar-announced",
+    "canonical": "https://www.ferrari.com/en-EN/media-centre/articles/ferrari-challenge-trofeo-pirelli-japan-2027-calendar-announced"
+  },
+  "title": "Ferrari Challenge Trofeo Pirelli Japan: 2027 calendar announced",
+  "summary": "",
+  "published_at": "2026-07-26T11:13:28+00:00",
+  "first_seen_at": "2026-07-27T02:21:11.609413+00:00",
+  "fetched_at": "2026-07-28T03:18:52.271990+00:00",
+  "last_updated_at": "2026-07-28T03:18:55.566347+00:00",
+  "paths": {
+    "article": "articles/v1/04/ferrari-n-v-common-shares/2026/07/10/10c4b34ea22a5f96e892a6c07b785b7c8095bad967a8e440a8683099eadd15f5/article.md",
+    "record": "articles/v1/04/ferrari-n-v-common-shares/2026/07/10/10c4b34ea22a5f96e892a6c07b785b7c8095bad967a8e440a8683099eadd15f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2579,
+    "sha256": "sha256:cd8c42d68d5d27096b787edeba34231e2678a8ed288da96afc7857cd692b8237",
+    "normalized_content_hash": "sha256:26f60365a5a6869479a5d71cf04623f8013deb886ed85d89635a0353234a78b5"
+  },
+  "provenance": {
+    "source_item_id": "1d0b8d1c-9b95-49bf-b9af-204cf5967266",
+    "external_id": "https://www.ferrari.com/en-EN/media-centre/articles/ferrari-challenge-trofeo-pirelli-japan-2027-calendar-announced"
+  }
+}

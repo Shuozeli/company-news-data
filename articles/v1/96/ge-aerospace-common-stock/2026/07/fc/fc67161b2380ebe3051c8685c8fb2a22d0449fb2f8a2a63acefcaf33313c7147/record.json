@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fc67161b2380ebe3051c8685c8fb2a22d0449fb2f8a2a63acefcaf33313c7147",
+  "company": {
+    "key": "ge-aerospace-common-stock",
+    "name": "GE Aerospace Common Stock"
+  },
+  "source": {
+    "id": "ge-aerospace-common-stock-news-import-cc3bb1578416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.geaerospace.com/news/articles/future-flight-takes-ge-aerospace-showcases-advancements-farnborough-international-airshow",
+    "canonical": "https://www.geaerospace.com/news/articles/future-flight-takes-ge-aerospace-showcases-advancements-farnborough-international-airshow"
+  },
+  "title": "The Future of Flight Takes Off: GE Aerospace Showcases Advancements at Farnborough International Airshow",
+  "summary": "Walk into any GE Aerospace facility in the world and you’ll likely encounter the words “We invent the future of flight.” That phrase, the first part of the company’s",
+  "published_at": "2026-07-20T15:50:00+00:00",
+  "first_seen_at": "2026-07-21T21:23:10.954248+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:22:00.405887+00:00",
+  "paths": {
+    "article": "articles/v1/96/ge-aerospace-common-stock/2026/07/fc/fc67161b2380ebe3051c8685c8fb2a22d0449fb2f8a2a63acefcaf33313c7147/article.md",
+    "record": "articles/v1/96/ge-aerospace-common-stock/2026/07/fc/fc67161b2380ebe3051c8685c8fb2a22d0449fb2f8a2a63acefcaf33313c7147/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8126,
+    "sha256": "sha256:8052e54aa9d0e1d3c6a015e0fbe035892c8f64177914d47fd3ba20cf1538444c",
+    "normalized_content_hash": "sha256:a40dc1e5978ffe342a7f5995e586cb4637132d1f52955491392ec01191c8536b"
+  },
+  "provenance": {
+    "source_item_id": "6eefd86a-2eb8-4cdf-bfe3-09d0a3f6d28e",
+    "external_id": "https://www.geaerospace.com/news/articles/future-flight-takes-ge-aerospace-showcases-advancements-farnborough-international-airshow"
+  }
+}

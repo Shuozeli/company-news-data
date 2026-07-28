@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8519d096b72318f888011a39a4759d30f189a5346aa89711791cb8293de8a012",
+  "company": {
+    "key": "yc-zepto",
+    "name": "Zepto"
+  },
+  "source": {
+    "id": "yc-zepto-rss-8182f1493a2f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.zepto.com/search-quality-measurement-automated-at-scale-43a38aaa7ca0?source=rss----bd632b1d570d---4",
+    "canonical": "https://blog.zepto.com/search-quality-measurement-automated-at-scale-43a38aaa7ca0"
+  },
+  "title": "Search Quality Measurement. Automated. At Scale",
+  "summary": "Most teams find out their search is broken the same way: a customer complains, a business metric dips, or someone spots a glaring result in…",
+  "published_at": "2026-06-09T11:03:01+00:00",
+  "first_seen_at": "2026-07-20T23:24:50.197566+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-07-28T21:12:55.381662+00:00",
+  "paths": {
+    "article": "articles/v1/fc/yc-zepto/2026/06/85/8519d096b72318f888011a39a4759d30f189a5346aa89711791cb8293de8a012/article.md",
+    "record": "articles/v1/fc/yc-zepto/2026/06/85/8519d096b72318f888011a39a4759d30f189a5346aa89711791cb8293de8a012/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11829,
+    "sha256": "sha256:c932bd2817d55a09db2ee99691ba71f8a93754d3c2a590a67f5b7bf97b6bf5fd",
+    "normalized_content_hash": "sha256:a6b7d8f88be8aff44d8e44194cfd4d2054ab98b7bfcef1aca8a203bb46087534"
+  },
+  "provenance": {
+    "source_item_id": "bd17211a-2a14-47d9-aadc-b0c98b4a18a2",
+    "external_id": "https://medium.com/p/43a38aaa7ca0"
+  }
+}

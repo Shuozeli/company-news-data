@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f06b417cf35b215addb3ffc747603512b8c1ee7979e88137a537b5ebcc6acc1",
+  "company": {
+    "key": "albemarle-corporation-common-stock",
+    "name": "Albemarle Corporation Common Stock"
+  },
+  "source": {
+    "id": "albemarle-corporation-common-stock-news-import-46b1e4b791cf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.albemarle.com/us/en/news/expert-voices-science-seeing-invisible",
+    "canonical": "https://www.albemarle.com/us/en/news/expert-voices-science-seeing-invisible"
+  },
+  "title": "Expert Voices: The Science of Seeing the Invisible",
+  "summary": "Dr. Zhaoxiong (Norm) Zheng, a nuclear magnetic resonance (NMR) spectroscopy chemist at Albemarle’s Process Development Center in Baton Rouge, uses advanced imaging",
+  "published_at": "2026-01-14T14:46:05+00:00",
+  "first_seen_at": "2026-07-24T05:00:17.878170+00:00",
+  "fetched_at": "2026-07-28T22:23:37.214552+00:00",
+  "last_updated_at": "2026-07-28T22:26:26.528649+00:00",
+  "paths": {
+    "article": "articles/v1/b6/albemarle-corporation-common-stock/2026/01/0f/0f06b417cf35b215addb3ffc747603512b8c1ee7979e88137a537b5ebcc6acc1/article.md",
+    "record": "articles/v1/b6/albemarle-corporation-common-stock/2026/01/0f/0f06b417cf35b215addb3ffc747603512b8c1ee7979e88137a537b5ebcc6acc1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4843,
+    "sha256": "sha256:c5f4595ab6ddb2eb05d540952547926954bae4a03d5bbdee6bd778e054c0c6f2",
+    "normalized_content_hash": "sha256:0ea54b43849ec5e2b68d088b5a1622d65a957f3b05738104190c231565dd40ec"
+  },
+  "provenance": {
+    "source_item_id": "e0c1bfdc-3dec-46da-b28e-de6cf13f6fd6",
+    "external_id": "https://www.albemarle.com/us/en/news/expert-voices-science-seeing-invisible"
+  }
+}

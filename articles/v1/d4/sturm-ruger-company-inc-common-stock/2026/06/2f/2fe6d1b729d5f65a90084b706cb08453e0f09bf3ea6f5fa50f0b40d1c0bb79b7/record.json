@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2fe6d1b729d5f65a90084b706cb08453e0f09bf3ea6f5fa50f0b40d1c0bb79b7",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-06-17.html",
+    "canonical": "https://ruger.com/news/2026-06-17.html"
+  },
+  "title": "Ruger Continues to Celebrate 250 Years of American Liberty with Limited-Production Firearms",
+  "summary": "",
+  "published_at": "2026-06-17T11:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.245492+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/06/2f/2fe6d1b729d5f65a90084b706cb08453e0f09bf3ea6f5fa50f0b40d1c0bb79b7/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/06/2f/2fe6d1b729d5f65a90084b706cb08453e0f09bf3ea6f5fa50f0b40d1c0bb79b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5279,
+    "sha256": "sha256:f938e9b11e2030e3bcfdf02e57bc9eb6460047a980177c9acd3486cbaf7de09f",
+    "normalized_content_hash": "sha256:68a5f5f925b80d4c3f44d9468b156da4d73c59d25530a1cac74caf15dabf9db5"
+  },
+  "provenance": {
+    "source_item_id": "c018d884-86fe-4fcf-8398-537ce4408c96",
+    "external_id": "https://ruger.com/news/2026-06-17.html"
+  }
+}

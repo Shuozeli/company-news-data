@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "421162fe4c54ae5571dab434ed8a2ca85525277dfad3e970126506cdadcb9078",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/how-to-configure-automated-salesforce-field-population-from-voice-n",
+    "canonical": "https://demodesk.com/blog/how-to-configure-automated-salesforce-field-population-from-voice-n"
+  },
+  "title": "How to configure automated Salesforce field population from voice notes and meetings in Demodesk",
+  "summary": "Set up AI CRM Concierge to auto-populate Salesforce Opportunity, Account, Contact, and Task fields from every sales call — with team-based rules and approval flows.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T16:28:03.851214+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:01.194449+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/42/421162fe4c54ae5571dab434ed8a2ca85525277dfad3e970126506cdadcb9078/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/42/421162fe4c54ae5571dab434ed8a2ca85525277dfad3e970126506cdadcb9078/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6150,
+    "sha256": "sha256:de38f00a43350646448704890a4b82e4603b17a4e730796e309a52a5fbb02ed9",
+    "normalized_content_hash": "sha256:a8a6036707f56c40a2b4aeca8ce87ebbe00ff2018829ec584abe07d409ec179a"
+  },
+  "provenance": {
+    "source_item_id": "fdd75202-8eb6-4a85-9b63-6d85050d533b",
+    "external_id": "https://demodesk.com/blog/how-to-configure-automated-salesforce-field-population-from-voice-n"
+  }
+}

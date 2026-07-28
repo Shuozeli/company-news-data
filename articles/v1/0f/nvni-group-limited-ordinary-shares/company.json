@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nvni-group-limited-ordinary-shares",
+    "name": "Nvni Group Limited Ordinary Shares"
+  },
+  "record_count": 23,
+  "first_published_at": "2025-10-13T00:00:00+00:00",
+  "last_published_at": "2026-07-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

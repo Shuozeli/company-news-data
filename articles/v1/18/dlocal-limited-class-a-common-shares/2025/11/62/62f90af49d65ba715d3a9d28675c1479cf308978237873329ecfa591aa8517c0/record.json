@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "62f90af49d65ba715d3a9d28675c1479cf308978237873329ecfa591aa8517c0",
+  "company": {
+    "key": "dlocal-limited-class-a-common-shares",
+    "name": "DLocal Limited Class A Common Shares"
+  },
+  "source": {
+    "id": "dlocal-limited-class-a-common-shares-news-import-6a9c68791fc2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dlocal.com/press-releases/dlocal-joins-circle-payments-network-to-power-stablecoin-payouts-across-emerging-markets/",
+    "canonical": "https://www.dlocal.com/press-releases/dlocal-joins-circle-payments-network-to-power-stablecoin-payouts-across-emerging-markets/"
+  },
+  "title": "dLocal joins Circle Payments Network to power stablecoin payouts across emerging markets",
+  "summary": "Circle’s global payments network connects with dLocal’s rails to deliver fast, compliant cross-border payouts in local currencies",
+  "published_at": "2025-11-18T13:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:40:35.099772+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:36.303544+00:00",
+  "paths": {
+    "article": "articles/v1/18/dlocal-limited-class-a-common-shares/2025/11/62/62f90af49d65ba715d3a9d28675c1479cf308978237873329ecfa591aa8517c0/article.md",
+    "record": "articles/v1/18/dlocal-limited-class-a-common-shares/2025/11/62/62f90af49d65ba715d3a9d28675c1479cf308978237873329ecfa591aa8517c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4336,
+    "sha256": "sha256:9576f90ba921e135f15324cf6f23262e826d05a7b2d9af4026ef3d85c41efa39",
+    "normalized_content_hash": "sha256:abfd1f2ea9c695b6164055a782af37fab2582cba04683af8ddf7b3fa81af6d02"
+  },
+  "provenance": {
+    "source_item_id": "708cb608-faaf-4e81-945b-7bd84f553838",
+    "external_id": "https://www.dlocal.com/press-releases/dlocal-joins-circle-payments-network-to-power-stablecoin-payouts-across-emerging-markets/"
+  }
+}

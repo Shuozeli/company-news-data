@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7f0a93e7031ec0a6e1cfa54ef4b6a50ac6689e4c3789f27e77f22a743f0adda",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-05-04.html",
+    "canonical": "https://ruger.com/news/2026-05-04.html"
+  },
+  "title": "Ruger and Beretta Holding S.A. Announce Strategic Cooperation Agreement",
+  "summary": "",
+  "published_at": "2026-05-04T08:30:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-07-28T21:57:30.486391+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/05/a7/a7f0a93e7031ec0a6e1cfa54ef4b6a50ac6689e4c3789f27e77f22a743f0adda/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/05/a7/a7f0a93e7031ec0a6e1cfa54ef4b6a50ac6689e4c3789f27e77f22a743f0adda/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14418,
+    "sha256": "sha256:d2d3144fffc2149a5d535200b4af72d27e2982cb289812ddb8923b2d4a08822f",
+    "normalized_content_hash": "sha256:743ce0ea3f70c810292af85d8d24381ae63fe3c69e2c6fc33caa141b2012e8ff"
+  },
+  "provenance": {
+    "source_item_id": "d71894b3-bceb-40fc-aa4e-018d27bc50e8",
+    "external_id": "https://ruger.com/news/2026-05-04.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d832b36a271d3046a02c6da4a3ff529efa326b64045b4de144e1e3145905a4a0",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/vision-agents-vs-api-calls/",
+    "canonical": "https://reflex.dev/blog/vision-agents-vs-api-calls/"
+  },
+  "title": "Vision Agents vs API Calls",
+  "summary": "We benchmarked browser-use vision agents against auto-generated API endpoints on the same Reflex app. 47 steps and 495k tokens vs 8 calls and 12k tokens.",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-07-28T21:26:16.692519+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/04/d8/d832b36a271d3046a02c6da4a3ff529efa326b64045b4de144e1e3145905a4a0/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/04/d8/d832b36a271d3046a02c6da4a3ff529efa326b64045b4de144e1e3145905a4a0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8752,
+    "sha256": "sha256:b8f5751001eafcc8988e895b16c212b07f9ea7fb08b5e5e636730b3463a26bff",
+    "normalized_content_hash": "sha256:bd41960658f981b9f5e71ac1743bb14eb32f2a18d454ce5f9de2c0e6d7aa02d6"
+  },
+  "provenance": {
+    "source_item_id": "8f07d1fb-3199-43de-9b4c-a8a1625bd159",
+    "external_id": "https://reflex.dev/blog/vision-agents-vs-api-calls/"
+  }
+}

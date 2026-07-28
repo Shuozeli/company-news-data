@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c837300ec2a8e3bf155a0c1b7c9bba5c1930b60ede53a6a317d960e28fe8b39",
+  "company": {
+    "key": "freecast-inc-class-a-common-stock",
+    "name": "FreeCast Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "freecast-inc-class-a-common-stock-news-import-55cf03d44bed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://freecast.com/company/press-releases/shoppable-test-drive-live-channel-launches-on-freecast-and-roku",
+    "canonical": "https://freecast.com/company/press-releases/shoppable-test-drive-live-channel-launches-on-freecast-and-roku"
+  },
+  "title": "Shoppable Test Drive Live Channel Launches on FreeCast and Roku - Press Release - FreeCast",
+  "summary": "The next-gen shopping channel from FreeCast features live unboxing, demos, and reviews of popular products.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T20:53:30.458745+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:35.755764+00:00",
+  "paths": {
+    "article": "articles/v1/c7/freecast-inc-class-a-common-stock/2026/07/8c/8c837300ec2a8e3bf155a0c1b7c9bba5c1930b60ede53a6a317d960e28fe8b39/article.md",
+    "record": "articles/v1/c7/freecast-inc-class-a-common-stock/2026/07/8c/8c837300ec2a8e3bf155a0c1b7c9bba5c1930b60ede53a6a317d960e28fe8b39/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3012,
+    "sha256": "sha256:1d57683fab832d168bab3d4e39760fcefab710eeb063e30d26447dc8e9a92a19",
+    "normalized_content_hash": "sha256:63aee67b8c5bc200b362ced009e1875c69b3342173119f6adb795c16306bf407"
+  },
+  "provenance": {
+    "source_item_id": "b052609a-b88e-414a-9863-8dc265d1f8df",
+    "external_id": "https://freecast.com/company/press-releases/shoppable-test-drive-live-channel-launches-on-freecast-and-roku"
+  }
+}

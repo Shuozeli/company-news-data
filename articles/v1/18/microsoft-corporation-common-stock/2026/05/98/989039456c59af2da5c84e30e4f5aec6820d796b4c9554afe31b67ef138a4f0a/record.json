@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "989039456c59af2da5c84e30e4f5aec6820d796b4c9554afe31b67ef138a4f0a",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation Common Stock"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-bfb1f574a3a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
+    "canonical": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/"
+  },
+  "title": "From commit to cloud: Powering what’s next for PostgreSQL",
+  "summary": "Discover Microsoft’s PostgreSQL strategy across upstream innovation, Azure services, developer tools, and community support.",
+  "published_at": "2026-05-13T16:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:59:23.665583+00:00",
+  "fetched_at": "2026-07-28T21:55:55.482044+00:00",
+  "last_updated_at": "2026-07-28T21:56:29.608844+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/05/98/989039456c59af2da5c84e30e4f5aec6820d796b4c9554afe31b67ef138a4f0a/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/05/98/989039456c59af2da5c84e30e4f5aec6820d796b4c9554afe31b67ef138a4f0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11016,
+    "sha256": "sha256:3a3162b381c36972b1ce7431f0ac8ef731869d9ead3f3ce41e0a50c4325d825b",
+    "normalized_content_hash": "sha256:e8f36656c32fe0044798a6b0824ac543b4e18a19f3e499456dce2616dea9414f"
+  },
+  "provenance": {
+    "source_item_id": "390dcebf-dd3b-462c-9325-d0dd6d239eb5",
+    "external_id": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/"
+  }
+}

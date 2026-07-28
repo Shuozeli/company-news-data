@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "apellis-pharmaceuticals-inc-common-stock",
+    "name": "Apellis Pharmaceuticals Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-11-25T12:00:54+00:00",
+  "last_published_at": "2026-03-31T10:59:48+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    }
+  ]
+}

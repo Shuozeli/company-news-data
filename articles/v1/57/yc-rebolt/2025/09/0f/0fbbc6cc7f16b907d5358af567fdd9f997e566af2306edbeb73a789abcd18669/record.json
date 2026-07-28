@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0fbbc6cc7f16b907d5358af567fdd9f997e566af2306edbeb73a789abcd18669",
+  "company": {
+    "key": "yc-rebolt",
+    "name": "Rebolt"
+  },
+  "source": {
+    "id": "yc-rebolt-news-import-f35a2181d55f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.rebolt.ai/blog/introducing-github-sync",
+    "canonical": "https://rebolt.ai/blog/introducing-github-sync"
+  },
+  "title": "Introducing Github Sync",
+  "summary": "Introducing Github Sync",
+  "published_at": "2025-09-25T19:14:00+00:00",
+  "first_seen_at": "2026-07-22T11:02:38.670248+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:59.270813+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-rebolt/2025/09/0f/0fbbc6cc7f16b907d5358af567fdd9f997e566af2306edbeb73a789abcd18669/article.md",
+    "record": "articles/v1/57/yc-rebolt/2025/09/0f/0fbbc6cc7f16b907d5358af567fdd9f997e566af2306edbeb73a789abcd18669/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1169,
+    "sha256": "sha256:5da50b7f290dd3b16b3bb2b6d65aa68afdd529efc05e7cb97a25306de155deba",
+    "normalized_content_hash": "sha256:60a011963272cccd6eddc499268a0c8fc47619ac413028c9f0aedbca69818b0b"
+  },
+  "provenance": {
+    "source_item_id": "2884824f-1699-4ce6-8d73-ab07bb7724d9",
+    "external_id": "https://rebolt.ai/blog/introducing-github-sync"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a55bbdc1b32e51fe4696c6071704dac93f960e8cd91fd8f4306731a80daa5f10",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/on-premises-deployment/",
+    "canonical": "https://reflex.dev/blog/on-premises-deployment/"
+  },
+  "title": "Reflex Build: On Prem",
+  "summary": "Reflex Build on-premises—an enterprise AI app builder for developing secure internal tools and dashboards using Python. Deploy inside your infrastructure.",
+  "published_at": "2025-12-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-07-28T21:59:17.186561+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2025/12/a5/a55bbdc1b32e51fe4696c6071704dac93f960e8cd91fd8f4306731a80daa5f10/article.md",
+    "record": "articles/v1/98/yc-reflex/2025/12/a5/a55bbdc1b32e51fe4696c6071704dac93f960e8cd91fd8f4306731a80daa5f10/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7689,
+    "sha256": "sha256:6ba5de19fa83a411438e1912d409a9d0ddbf121c6ec49a395e1e27992dc5aa40",
+    "normalized_content_hash": "sha256:83f5603d756947a7f03f5fd800fff49ea24ff323509037b654c6a2843a442326"
+  },
+  "provenance": {
+    "source_item_id": "db8f3bbf-fa42-4d26-9793-303f39cd7ced",
+    "external_id": "https://reflex.dev/blog/on-premises-deployment/"
+  }
+}

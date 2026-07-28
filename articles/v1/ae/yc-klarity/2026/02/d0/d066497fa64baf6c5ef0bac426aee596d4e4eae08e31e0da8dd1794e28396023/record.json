@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d066497fa64baf6c5ef0bac426aee596d4e4eae08e31e0da8dd1794e28396023",
+  "company": {
+    "key": "yc-klarity",
+    "name": "Klarity"
+  },
+  "source": {
+    "id": "yc-klarity-news-import-eb5790299337",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.klarity.ai/resources/blog/human-side-of-context-graphs",
+    "canonical": "https://klarity.ai/resources/blog/human-side-of-context-graphs"
+  },
+  "title": "The Human Side of Context Graphs",
+  "summary": "Context Graphs are critical for agents to work, but how do you capture the decision traces?",
+  "published_at": "2026-02-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:34:36.098678+00:00",
+  "fetched_at": "2026-07-28T22:21:48.311987+00:00",
+  "last_updated_at": "2026-07-28T22:22:16.458811+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-klarity/2026/02/d0/d066497fa64baf6c5ef0bac426aee596d4e4eae08e31e0da8dd1794e28396023/article.md",
+    "record": "articles/v1/ae/yc-klarity/2026/02/d0/d066497fa64baf6c5ef0bac426aee596d4e4eae08e31e0da8dd1794e28396023/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7388,
+    "sha256": "sha256:5da47a9b9af4d7ad6d0d6e6892f16c4425171f644acde29a0637785b2e75733a",
+    "normalized_content_hash": "sha256:ad406d65a2da07109befceb2888084a8651b8218ac76bd481b4664390a1b97e7"
+  },
+  "provenance": {
+    "source_item_id": "56ead1ec-5101-454d-b732-4b770da290e7",
+    "external_id": "https://klarity.ai/resources/blog/human-side-of-context-graphs"
+  }
+}

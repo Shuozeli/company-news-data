@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb7451190d25ca4627830d7549e531f46f4577ddb99153c6dc1ab0894b042040",
+  "company": {
+    "key": "cbiz-inc-common-stock",
+    "name": "CBIZ Inc. Common Stock"
+  },
+  "source": {
+    "id": "cbiz-inc-common-stock-news-import-fcc1128aca9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cbiz.com/insights/article/six-essential-construction-finance-kpis-for-contractors",
+    "canonical": "https://www.cbiz.com/insights/article/six-essential-construction-finance-kpis-for-contractors"
+  },
+  "title": "Six Essential Construction Finance KPIs for Contractors",
+  "summary": "Learn 6 construction finance KPIs contractors should track to improve project performance, cash flow and margin visibility with Sage Intacct.",
+  "published_at": "2026-06-24T16:43:19+00:00",
+  "first_seen_at": "2026-07-24T23:42:27.744988+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:16.007578+00:00",
+  "paths": {
+    "article": "articles/v1/6d/cbiz-inc-common-stock/2026/06/eb/eb7451190d25ca4627830d7549e531f46f4577ddb99153c6dc1ab0894b042040/article.md",
+    "record": "articles/v1/6d/cbiz-inc-common-stock/2026/06/eb/eb7451190d25ca4627830d7549e531f46f4577ddb99153c6dc1ab0894b042040/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8971,
+    "sha256": "sha256:7a11a103b676399598c2a4450e30c0dc65603799503625205094626b169bfaa5",
+    "normalized_content_hash": "sha256:b93ee1af0f2e244ef6025162e9252c1fac07a709f51a45833a69dc29712b4c5d"
+  },
+  "provenance": {
+    "source_item_id": "12bfba60-4cc7-4fd0-a533-015a822c0353",
+    "external_id": "https://www.cbiz.com/insights/article/six-essential-construction-finance-kpis-for-contractors"
+  }
+}

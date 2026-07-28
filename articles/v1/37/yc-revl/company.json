@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-revl",
+    "name": "Revl"
+  },
+  "record_count": 5,
+  "first_published_at": "2019-10-11T20:13:23+00:00",
+  "last_published_at": "2020-08-28T17:51:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 1
+    }
+  ]
+}

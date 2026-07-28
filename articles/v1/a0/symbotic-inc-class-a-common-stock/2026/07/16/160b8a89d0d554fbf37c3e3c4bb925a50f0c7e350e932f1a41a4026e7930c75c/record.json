@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "160b8a89d0d554fbf37c3e3c4bb925a50f0c7e350e932f1a41a4026e7930c75c",
+  "company": {
+    "key": "symbotic-inc-class-a-common-stock",
+    "name": "Symbotic Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "symbotic-inc-class-a-common-stock-news-import-843158422c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2026/07/02/3321112/0/en/symbotic-announces-acquisition-of-arms-innovations-advancing-a-new-era-of-warehouse-operations-optimization.html",
+    "canonical": "https://www.globenewswire.com/news-release/2026/07/02/3321112/0/en/symbotic-announces-acquisition-of-arms-innovations-advancing-a-new-era-of-warehouse-operations-optimization.html"
+  },
+  "title": "Symbotic Announces Acquisition of ARMS Innovations, Advancing a New Era of Warehouse Operations Optimization",
+  "summary": "Transaction expands Symbotic’s solution from automation execution to full-scale, AI-powered operational intelligence across the entire warehouse ecosystem ...",
+  "published_at": "2026-07-02T07:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:01:44.693945+00:00",
+  "fetched_at": "2026-07-28T22:07:07.393518+00:00",
+  "last_updated_at": "2026-07-28T22:08:14.530446+00:00",
+  "paths": {
+    "article": "articles/v1/a0/symbotic-inc-class-a-common-stock/2026/07/16/160b8a89d0d554fbf37c3e3c4bb925a50f0c7e350e932f1a41a4026e7930c75c/article.md",
+    "record": "articles/v1/a0/symbotic-inc-class-a-common-stock/2026/07/16/160b8a89d0d554fbf37c3e3c4bb925a50f0c7e350e932f1a41a4026e7930c75c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8977,
+    "sha256": "sha256:6c28fa5749cf94b30aa1938e437ca91a4259fb02d92bff5cc066ccbeda9e4228",
+    "normalized_content_hash": "sha256:7d320f2be668b02ecabfc484e3310d881b97d1862fb5035c84c928a3d5731530"
+  },
+  "provenance": {
+    "source_item_id": "e2c5b775-a80b-4f26-96bb-d7da7d1228fc",
+    "external_id": "https://www.globenewswire.com/news-release/2026/07/02/3321112/0/en/symbotic-announces-acquisition-of-arms-innovations-advancing-a-new-era-of-warehouse-operations-optimization.html"
+  }
+}

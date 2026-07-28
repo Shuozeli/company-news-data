@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb4ec83b0ab008ea781dcb4a708705db48e17ffd8225477e8e97b38827434a61",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/retail/how-amazon-keeps-prices-low-learn-and-be-curious-podcast",
+    "canonical": "https://www.aboutamazon.com/news/retail/how-amazon-keeps-prices-low-learn-and-be-curious-podcast"
+  },
+  "title": "How Amazon's pricing team works to deliver low prices every day",
+  "summary": "The company's approach to pricing isn't about maximizing profit—it's about making sure customers always get the best deal.",
+  "published_at": "2026-06-23T15:05:01.938+00:00",
+  "first_seen_at": "2026-07-21T06:14:35.460263+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.805394+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/06/eb/eb4ec83b0ab008ea781dcb4a708705db48e17ffd8225477e8e97b38827434a61/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/06/eb/eb4ec83b0ab008ea781dcb4a708705db48e17ffd8225477e8e97b38827434a61/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5219,
+    "sha256": "sha256:166c0fd20263d6c7f002c2a3b43c92e19b98cdeb8b071ee67491009b9fcc3a83",
+    "normalized_content_hash": "sha256:86dc24ab17c1ec736ee0828e70196eb84f253d5241e937a506dea26607e9b87b"
+  },
+  "provenance": {
+    "source_item_id": "91a059ec-0cd5-4337-8f33-ce2a98088dce",
+    "external_id": "https://www.aboutamazon.com/news/retail/how-amazon-keeps-prices-low-learn-and-be-curious-podcast"
+  }
+}

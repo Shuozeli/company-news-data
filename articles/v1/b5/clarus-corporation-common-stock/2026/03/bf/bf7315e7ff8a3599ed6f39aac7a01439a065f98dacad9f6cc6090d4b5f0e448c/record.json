@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf7315e7ff8a3599ed6f39aac7a01439a065f98dacad9f6cc6090d4b5f0e448c",
+  "company": {
+    "key": "clarus-corporation-common-stock",
+    "name": "Clarus Corporation Common Stock"
+  },
+  "source": {
+    "id": "clarus-corporation-common-stock-rss-b24c1fb4eccd",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.claruscorp.com/news/detail/314/clarus-announces-0-025-per-share-quarterly-dividend",
+    "canonical": "https://www.claruscorp.com/news/detail/314/clarus-announces-0-025-per-share-quarterly-dividend"
+  },
+  "title": "Clarus Announces $0.025 Per Share Quarterly Dividend",
+  "summary": "",
+  "published_at": "2026-03-04T21:15:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:05.182245+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-07-28T22:06:21.610292+00:00",
+  "paths": {
+    "article": "articles/v1/b5/clarus-corporation-common-stock/2026/03/bf/bf7315e7ff8a3599ed6f39aac7a01439a065f98dacad9f6cc6090d4b5f0e448c/article.md",
+    "record": "articles/v1/b5/clarus-corporation-common-stock/2026/03/bf/bf7315e7ff8a3599ed6f39aac7a01439a065f98dacad9f6cc6090d4b5f0e448c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4475,
+    "sha256": "sha256:8335fc32138ecf04aecc2b66a84e558660ecb8204c0d98ce4fb1e8c15bfca834",
+    "normalized_content_hash": "sha256:401c22462410adb491df90976c42d269bd0479bc75b8fa08642a6370f306bb5a"
+  },
+  "provenance": {
+    "source_item_id": "a1a773b0-5b3a-40c4-bd0b-250b73f3b6e9",
+    "external_id": "https://www.claruscorp.com/news/detail/314/clarus-announces-0-025-per-share-quarterly-dividend"
+  }
+}

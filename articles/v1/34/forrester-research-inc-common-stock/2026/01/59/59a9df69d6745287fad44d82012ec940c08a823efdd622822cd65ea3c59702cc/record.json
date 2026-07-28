@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59a9df69d6745287fad44d82012ec940c08a823efdd622822cd65ea3c59702cc",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/press-newsroom/forbes-super-bowl-lx-is-a-bud-light-cultural-moment-not-just-a-football-game/",
+    "canonical": "https://www.forrester.com/press-newsroom/forbes-super-bowl-lx-is-a-bud-light-cultural-moment-not-just-a-football-game/"
+  },
+  "title": "Forbes – Super Bowl LX Is A Bud Light Cultural Moment Not Just A Football Game",
+  "summary": "Forbes: Vice President, Principal Analyst Dipanjan Chatterjee describes how the Super Bowl marks a moment “to create relevance and shape the equity and emotional markers of a brand.” Read the full article here. Read more from Dipanjan here.",
+  "published_at": "2026-01-30T14:35:06+00:00",
+  "first_seen_at": "2026-07-22T22:15:37.198406+00:00",
+  "fetched_at": "2026-07-28T22:22:53.892181+00:00",
+  "last_updated_at": "2026-07-28T22:23:02.880073+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2026/01/59/59a9df69d6745287fad44d82012ec940c08a823efdd622822cd65ea3c59702cc/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2026/01/59/59a9df69d6745287fad44d82012ec940c08a823efdd622822cd65ea3c59702cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3192,
+    "sha256": "sha256:bea78e2e0153e07631af511cb0e4767c3eca941187d3bef401c5c6ffc085373d",
+    "normalized_content_hash": "sha256:60c76aed3951b3235ceb93162f6a814bab5e036caa081a0cbed024424d382b99"
+  },
+  "provenance": {
+    "source_item_id": "889e1dab-a01e-4cec-a99f-72f1d3699820",
+    "external_id": "https://www.forrester.com/press-newsroom/forbes-super-bowl-lx-is-a-bud-light-cultural-moment-not-just-a-football-game/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d8c1dd2fa2989f2bb493ae234f5b884b566d07d023a1283d13450dacf06cc8ac",
+  "company": {
+    "key": "huntington-ingalls-industries-inc-common-stock",
+    "name": "Huntington Ingalls Industries Inc. Common Stock"
+  },
+  "source": {
+    "id": "huntington-ingalls-industries-inc-common-stock-news-import-77f0afaf624c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hii.com/news/hii-christens-guided-missile-destroyer-george-m-neal-ddg-131",
+    "canonical": "https://hii.com/news/hii-christens-guided-missile-destroyer-george-m-neal-ddg-131"
+  },
+  "title": "HII Christens Guided Missile Destroyer George M. Neal (DDG 131)",
+  "summary": "HII christened the future USS George M. Neal (DDG 131), the fourth Flight III Arleigh Burke-class destroyer to be built at the company’s Ingalls Shipbuilding division.",
+  "published_at": "2026-07-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T08:50:47.460857+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:10.675002+00:00",
+  "paths": {
+    "article": "articles/v1/0b/huntington-ingalls-industries-inc-common-stock/2026/07/d8/d8c1dd2fa2989f2bb493ae234f5b884b566d07d023a1283d13450dacf06cc8ac/article.md",
+    "record": "articles/v1/0b/huntington-ingalls-industries-inc-common-stock/2026/07/d8/d8c1dd2fa2989f2bb493ae234f5b884b566d07d023a1283d13450dacf06cc8ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5101,
+    "sha256": "sha256:2b631604c05ffab4ebc815229c5a6c63846a4b4ababbf6030a265775e776fd0f",
+    "normalized_content_hash": "sha256:913b106d5d98f4ba0b9926d58627552668773bbe013d46678cb501fb3bd8e6ae"
+  },
+  "provenance": {
+    "source_item_id": "9eb4c169-3041-43c9-b547-782d00ae4832",
+    "external_id": "https://hii.com/news/hii-christens-guided-missile-destroyer-george-m-neal-ddg-131"
+  }
+}

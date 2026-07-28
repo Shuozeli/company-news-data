@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4283d63db944d4480ad0c8833370ddab6b0e37b928b8bd6a641b73a3c84055e1",
+  "company": {
+    "key": "southern-missouri-bancorp-inc-common-stock",
+    "name": "Southern Missouri Bancorp Inc. Common Stock"
+  },
+  "source": {
+    "id": "southern-missouri-bancorp-inc-common-stock-news-import-52af38627077",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bankwithsouthern.com/news/southern-bank-awards-non-profits-through-fhlb-fund/",
+    "canonical": "https://www.bankwithsouthern.com/news/southern-bank-awards-non-profits-through-fhlb-fund/"
+  },
+  "title": "FHLB Funds Awarded to Missouri Non-Profits | Southern Bank",
+  "summary": "Southern Bank announces MO non-profits to be awarded FHLB funds.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T01:27:46.326277+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:51.223478+00:00",
+  "paths": {
+    "article": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/42/4283d63db944d4480ad0c8833370ddab6b0e37b928b8bd6a641b73a3c84055e1/article.md",
+    "record": "articles/v1/c8/southern-missouri-bancorp-inc-common-stock/2026/07/42/4283d63db944d4480ad0c8833370ddab6b0e37b928b8bd6a641b73a3c84055e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4902,
+    "sha256": "sha256:433450e3f350c4a3d2677e3a86035b918f0c4d74645d93cc2af6dc72f7317d8e",
+    "normalized_content_hash": "sha256:24911a1784590cf062c2c300b2701fce9d43e2fb6b99591fa3d3cbae11b55b63"
+  },
+  "provenance": {
+    "source_item_id": "5401d341-9772-4f64-b077-fd6f8f738eda",
+    "external_id": "https://www.bankwithsouthern.com/news/southern-bank-awards-non-profits-through-fhlb-fund/"
+  }
+}

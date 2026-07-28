@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b92b0f61af0d8a69b65f2575420e7008f3d1e0894217766e3a9d1820f1534faa",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-33dd9daf8236",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/what-is-happening-with-ftx",
+    "canonical": "https://www.cointracker.io/blog/what-is-happening-with-ftx"
+  },
+  "title": "The FTX collapse explained: What you need to know",
+  "summary": "Has FTX been crypto's biggest downfall to date? Learn the details behind the FTX collapse and its ongoing impact on the crypto market.",
+  "published_at": "2025-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:51:14.288459+00:00",
+  "fetched_at": "2026-07-28T15:54:24.765715+00:00",
+  "last_updated_at": "2026-07-28T15:54:27.727348+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2025/03/b9/b92b0f61af0d8a69b65f2575420e7008f3d1e0894217766e3a9d1820f1534faa/article.md",
+    "record": "articles/v1/57/yc-cointracker/2025/03/b9/b92b0f61af0d8a69b65f2575420e7008f3d1e0894217766e3a9d1820f1534faa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13166,
+    "sha256": "sha256:a29f6aebff91fc8cbd76c1891c6137caa509270ea4d2d121f683bbc58f0360ca",
+    "normalized_content_hash": "sha256:530439b957ced360aaa364289c31fb4f33b03a4c59ebd7de53cc20aa42eef662"
+  },
+  "provenance": {
+    "source_item_id": "d814f5c8-4bb7-4dcc-a73d-8d515f5cfc76",
+    "external_id": "https://www.cointracker.io/blog/what-is-happening-with-ftx"
+  }
+}

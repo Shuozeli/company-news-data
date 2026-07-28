@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6104869867f23509cdf02809184681b95e809445175cd5a101447f58208df57b",
+  "company": {
+    "key": "yc-jerry-inc",
+    "name": "Jerry"
+  },
+  "source": {
+    "id": "yc-jerry-inc-news-import-e8ea60baa995",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jerry.ai/newsroom/3-car-buying-mistakes-that-can-cost-you-more-than-you-think/",
+    "canonical": "https://jerry.ai/newsroom/3-car-buying-mistakes-that-can-cost-you-more-than-you-think/"
+  },
+  "title": "3 car buying mistakes that can cost you more than you think",
+  "summary": "Jerry uncovers three often-overlooked expenses when buying a car and how to minimize them.",
+  "published_at": "2025-03-20T19:53:16+00:00",
+  "first_seen_at": "2026-07-25T10:12:45.275048+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:03.637129+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-jerry-inc/2025/03/61/6104869867f23509cdf02809184681b95e809445175cd5a101447f58208df57b/article.md",
+    "record": "articles/v1/5b/yc-jerry-inc/2025/03/61/6104869867f23509cdf02809184681b95e809445175cd5a101447f58208df57b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6742,
+    "sha256": "sha256:314ccbbaaf51f2c8562353ff38ddde25ae0601ce8d750cfdf51312c9af580e55",
+    "normalized_content_hash": "sha256:96479be8698f185bbb9105c60ed1f2883ecc1041463213efe1b435f2de23a47d"
+  },
+  "provenance": {
+    "source_item_id": "940c279a-25d4-47d8-bd53-8a1eb43b8a79",
+    "external_id": "https://jerry.ai/newsroom/3-car-buying-mistakes-that-can-cost-you-more-than-you-think/"
+  }
+}

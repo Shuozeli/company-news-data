@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f82e9d1bbfff42f261fefc6f84f5f0c6a6e9a7118fa3888ca35c0ba90bf8365e",
+  "company": {
+    "key": "albemarle-corporation-common-stock",
+    "name": "Albemarle Corporation Common Stock"
+  },
+  "source": {
+    "id": "albemarle-corporation-common-stock-news-import-46b1e4b791cf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.albemarle.com/us/en/news/albemarle-supports-future-glp-1-therapies",
+    "canonical": "https://www.albemarle.com/us/en/news/albemarle-supports-future-glp-1-therapies"
+  },
+  "title": "Albemarle Supports the Future of GLP-1 Therapies",
+  "summary": "GLP-1 therapies are revolutionizing care for diabetes and obesity, driving unprecedented demand and innovation. As pharmaceutical companies race to scale production",
+  "published_at": "2025-10-27T20:00:08+00:00",
+  "first_seen_at": "2026-07-24T05:00:17.878170+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:34.156854+00:00",
+  "paths": {
+    "article": "articles/v1/b6/albemarle-corporation-common-stock/2025/10/f8/f82e9d1bbfff42f261fefc6f84f5f0c6a6e9a7118fa3888ca35c0ba90bf8365e/article.md",
+    "record": "articles/v1/b6/albemarle-corporation-common-stock/2025/10/f8/f82e9d1bbfff42f261fefc6f84f5f0c6a6e9a7118fa3888ca35c0ba90bf8365e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3695,
+    "sha256": "sha256:ec6e25c4862e01dbf4bd79cce015528f9110679114286dc0065922c15611d36d",
+    "normalized_content_hash": "sha256:8cee85fa7800d4db2110be20065e57cb80eda61ba9f4ee6132db950d97da1ab9"
+  },
+  "provenance": {
+    "source_item_id": "5cebcf8c-a305-407c-9e84-9f903f5d93c0",
+    "external_id": "https://www.albemarle.com/us/en/news/albemarle-supports-future-glp-1-therapies"
+  }
+}

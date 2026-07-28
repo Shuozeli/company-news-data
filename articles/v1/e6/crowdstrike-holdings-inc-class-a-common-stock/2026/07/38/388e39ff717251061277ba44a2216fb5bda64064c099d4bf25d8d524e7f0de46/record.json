@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "388e39ff717251061277ba44a2216fb5bda64064c099d4bf25d8d524e7f0de46",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/"
+  },
+  "title": "CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach",
+  "summary": "CrowdStrike introduces agentic MDR and SOC Transformation Services to provide a trusted path to operationalizing the agentic SOC.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.500185+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/38/388e39ff717251061277ba44a2216fb5bda64064c099d4bf25d8d524e7f0de46/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/38/388e39ff717251061277ba44a2216fb5bda64064c099d4bf25d8d524e7f0de46/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7558,
+    "sha256": "sha256:9cd21998716ced0f43db79198205efe67d39ce55102ce978c7a7b8c16c364cf3",
+    "normalized_content_hash": "sha256:765d951dfbfbd8fa99757b11391f078e03be3bb3c81dc525993f33895d5a41d5"
+  },
+  "provenance": {
+    "source_item_id": "a32ffb95-0490-4134-aaf9-153fc5d9f7d4",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/"
+  }
+}

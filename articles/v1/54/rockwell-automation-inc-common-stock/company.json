@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "rockwell-automation-inc-common-stock",
+    "name": "Rockwell Automation Inc. Common Stock"
+  },
+  "record_count": 2,
+  "first_published_at": "2024-02-02T00:00:00+00:00",
+  "last_published_at": "2025-08-12T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    }
+  ]
+}

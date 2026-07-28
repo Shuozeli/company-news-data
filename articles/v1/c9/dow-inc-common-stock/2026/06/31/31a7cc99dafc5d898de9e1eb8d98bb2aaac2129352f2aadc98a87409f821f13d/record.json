@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31a7cc99dafc5d898de9e1eb8d98bb2aaac2129352f2aadc98a87409f821f13d",
+  "company": {
+    "key": "dow-inc-common-stock",
+    "name": "Dow Inc. Common Stock"
+  },
+  "source": {
+    "id": "dow-inc-common-stock-rss-a764c88a6383",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.dow.com/en/news/news-details/2026/Dow-to-participate-at-the-2026-Wells-Fargo-16th-Annual-Industrials--Materials-Conference/default.aspx",
+    "canonical": "https://investors.dow.com/en/news/news-details/2026/Dow-to-participate-at-the-2026-Wells-Fargo-16th-Annual-Industrials--Materials-Conference/default.aspx"
+  },
+  "title": "Dow to participate at the 2026 Wells Fargo 16th Annual Industrials & Materials Conference",
+  "summary": "",
+  "published_at": "2026-06-05T13:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:06:53.067378+00:00",
+  "fetched_at": "2026-07-28T21:41:43.981040+00:00",
+  "last_updated_at": "2026-07-28T21:41:44.021258+00:00",
+  "paths": {
+    "article": "articles/v1/c9/dow-inc-common-stock/2026/06/31/31a7cc99dafc5d898de9e1eb8d98bb2aaac2129352f2aadc98a87409f821f13d/article.md",
+    "record": "articles/v1/c9/dow-inc-common-stock/2026/06/31/31a7cc99dafc5d898de9e1eb8d98bb2aaac2129352f2aadc98a87409f821f13d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 725,
+    "sha256": "sha256:b97d9e6b0ad0bc4a6483f5bc11150e90a83d0931b8ab2977a87a5d69a8e29116",
+    "normalized_content_hash": "sha256:5af243e86886d65276a1b1a274f93127633b4b06d912e40210461d52aa6af043"
+  },
+  "provenance": {
+    "source_item_id": "3b09221c-78da-4888-8677-6bcdbb5b080b",
+    "external_id": "febc3dc9-a30a-495a-8baa-6065ffb624a8"
+  }
+}

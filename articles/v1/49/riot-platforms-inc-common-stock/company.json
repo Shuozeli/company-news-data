@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "riot-platforms-inc-common-stock",
+    "name": "Riot Platforms Inc. Common Stock"
+  },
+  "record_count": 11,
+  "first_published_at": "2025-12-04T14:00:00+00:00",
+  "last_published_at": "2026-07-28T11:30:14+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

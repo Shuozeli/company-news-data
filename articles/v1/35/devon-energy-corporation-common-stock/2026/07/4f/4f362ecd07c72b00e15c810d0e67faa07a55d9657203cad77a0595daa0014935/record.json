@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f362ecd07c72b00e15c810d0e67faa07a55d9657203cad77a0595daa0014935",
+  "company": {
+    "key": "devon-energy-corporation-common-stock",
+    "name": "Devon Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "devon-energy-corporation-common-stock-news-import-bcaa6d747838",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.devonenergy.com/news/2026/Devon-Energy-Announces-Capital-Return-Update",
+    "canonical": "https://www.devonenergy.com/news/2026/Devon-Energy-Announces-Capital-Return-Update"
+  },
+  "title": "Devon Energy Announces Capital Return Update",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:10:36.356012+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:21:59.530895+00:00",
+  "paths": {
+    "article": "articles/v1/35/devon-energy-corporation-common-stock/2026/07/4f/4f362ecd07c72b00e15c810d0e67faa07a55d9657203cad77a0595daa0014935/article.md",
+    "record": "articles/v1/35/devon-energy-corporation-common-stock/2026/07/4f/4f362ecd07c72b00e15c810d0e67faa07a55d9657203cad77a0595daa0014935/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8439,
+    "sha256": "sha256:949404b469bb2d40c4b94101ffa4de101eabf05ae540a07d309fde1fd7cd2bea",
+    "normalized_content_hash": "sha256:6e64572e65bf70e2e5bcf838b207f992784dd47be5d61e1cf4578c4365547e43"
+  },
+  "provenance": {
+    "source_item_id": "ea83f9c1-0cf7-4786-af4d-09bf4099c54c",
+    "external_id": "https://www.devonenergy.com/news/2026/Devon-Energy-Announces-Capital-Return-Update"
+  }
+}

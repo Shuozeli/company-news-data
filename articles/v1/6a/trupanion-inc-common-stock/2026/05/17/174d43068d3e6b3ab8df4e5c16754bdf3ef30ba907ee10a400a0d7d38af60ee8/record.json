@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "174d43068d3e6b3ab8df4e5c16754bdf3ef30ba907ee10a400a0d7d38af60ee8",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-b3fe567ac9c2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/about/media-resources/studies-and-media-releases/article/4-billion-pet-insurance-claims",
+    "canonical": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/4-billion-pet-insurance-claims"
+  },
+  "title": "Lacy Pushes Trupanion Past $4 Billion in Paid Claims, Helping More than 3.9 Million Pets Receive Care",
+  "summary": "Trupanion surpasses $4B in paid claims, helping 3.9M+ pets receive care, paying 14.5M+ veterinary invoices, and supporting fast payments through VetDirect Pay™.",
+  "published_at": "2026-05-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:03.797628+00:00",
+  "fetched_at": "2026-07-28T17:37:55.930207+00:00",
+  "last_updated_at": "2026-07-28T17:37:57.859512+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/05/17/174d43068d3e6b3ab8df4e5c16754bdf3ef30ba907ee10a400a0d7d38af60ee8/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/05/17/174d43068d3e6b3ab8df4e5c16754bdf3ef30ba907ee10a400a0d7d38af60ee8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7018,
+    "sha256": "sha256:530263c25556ba099c8d932489562804c572b99041cb67dff455da77ffb6fdb5",
+    "normalized_content_hash": "sha256:417dcc52bc878c4920a01582be3c6cbebcc1b1ce0e18bdfe7447703006bdb42f"
+  },
+  "provenance": {
+    "source_item_id": "9b82bf6e-9027-4daa-86c5-1749b121f774",
+    "external_id": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/4-billion-pet-insurance-claims"
+  }
+}

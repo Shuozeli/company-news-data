@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b5b3b074118116aad050ce265878b34f2dceb88ce48d5a6a9c59ff5ae1e18150",
+  "company": {
+    "key": "sunpower-inc-common-stock",
+    "name": "SunPower Inc. Common Stock"
+  },
+  "source": {
+    "id": "sunpower-inc-common-stock-news-import-8f8dafa452ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sunpowerglobal.com/blog/how-does-a-solar-panel-work",
+    "canonical": "https://www.sunpowerglobal.com/blog/how-does-a-solar-panel-work"
+  },
+  "title": "How does a solar panel work? A simple guide",
+  "summary": "How does a photovoltaic solar panel work? PV effect, cells, inverter, self-consumption: everything explained with SunPower.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:44:39.565536+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:14.143981+00:00",
+  "paths": {
+    "article": "articles/v1/bc/sunpower-inc-common-stock/2026/07/b5/b5b3b074118116aad050ce265878b34f2dceb88ce48d5a6a9c59ff5ae1e18150/article.md",
+    "record": "articles/v1/bc/sunpower-inc-common-stock/2026/07/b5/b5b3b074118116aad050ce265878b34f2dceb88ce48d5a6a9c59ff5ae1e18150/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10309,
+    "sha256": "sha256:43980ec538d46e342becd651b99107d5f8b17a865874be83904fc9df2d8dc171",
+    "normalized_content_hash": "sha256:ec07955ef854a87529db66240c9593cdbb79a96f104d482fc3145e8f80d96b0c"
+  },
+  "provenance": {
+    "source_item_id": "c5759d58-664e-4794-9170-5a8cb5206395",
+    "external_id": "https://www.sunpowerglobal.com/blog/how-does-a-solar-panel-work"
+  }
+}

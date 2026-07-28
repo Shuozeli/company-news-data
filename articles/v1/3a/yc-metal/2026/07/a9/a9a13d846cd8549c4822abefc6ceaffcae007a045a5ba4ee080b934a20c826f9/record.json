@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a9a13d846cd8549c4822abefc6ceaffcae007a045a5ba4ee080b934a20c826f9",
+  "company": {
+    "key": "yc-metal",
+    "name": "Metal"
+  },
+  "source": {
+    "id": "yc-metal-news-import-c3e62a577482",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.metal.ai/blog/how-context-graphs-are-replacing-rag-in-private-equity",
+    "canonical": "https://www.metal.ai/blog/how-context-graphs-are-replacing-rag-in-private-equity"
+  },
+  "title": "How Context Graphs Are Replacing RAG in Private Equity",
+  "summary": "AI platform for Private Equity diligence — aggregate deal data, deploy custom AI workflows, and transform fund knowledge into proprietary intelligence.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T17:36:18.798245+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:59.651312+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-metal/2026/07/a9/a9a13d846cd8549c4822abefc6ceaffcae007a045a5ba4ee080b934a20c826f9/article.md",
+    "record": "articles/v1/3a/yc-metal/2026/07/a9/a9a13d846cd8549c4822abefc6ceaffcae007a045a5ba4ee080b934a20c826f9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10656,
+    "sha256": "sha256:80b5e2ffb43aaf7c220c87d2f4441aa84501bbf12e692614accac73043c60d6f",
+    "normalized_content_hash": "sha256:b2d56085827c98d2ff847cc56f300011a9677466c657ec966cd70bcd6dc62a07"
+  },
+  "provenance": {
+    "source_item_id": "2355b28f-1bd6-429a-a790-956263424d55",
+    "external_id": "https://www.metal.ai/blog/how-context-graphs-are-replacing-rag-in-private-equity"
+  }
+}

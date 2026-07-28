@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ac8813811412d3bb39215b4a2e11977cc5bf0e475a3dd77630482583ad2b8475",
+  "company": {
+    "key": "devon-energy-corporation-common-stock",
+    "name": "Devon Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "devon-energy-corporation-common-stock-news-import-bcaa6d747838",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.devonenergy.com/news/2026/Devon-Announces-Expiration-and-Final-Results-of-its-Private-Exchange-Offers-and-Consent-Solicitations",
+    "canonical": "https://www.devonenergy.com/news/2026/Devon-Announces-Expiration-and-Final-Results-of-its-Private-Exchange-Offers-and-Consent-Solicitations"
+  },
+  "title": "Devon Announces Expiration and Final Results of its Private Exchange Offers and Consent Solicitations",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:10:36.356012+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:21:59.482081+00:00",
+  "paths": {
+    "article": "articles/v1/35/devon-energy-corporation-common-stock/2026/07/ac/ac8813811412d3bb39215b4a2e11977cc5bf0e475a3dd77630482583ad2b8475/article.md",
+    "record": "articles/v1/35/devon-energy-corporation-common-stock/2026/07/ac/ac8813811412d3bb39215b4a2e11977cc5bf0e475a3dd77630482583ad2b8475/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12241,
+    "sha256": "sha256:b873534958daea5f497391d4b204544a6f06a69d5344d9c26b9693066357d148",
+    "normalized_content_hash": "sha256:6613df9ffe4480c0754fc4943d18dfb36adbc410d061bb5563548c68c5bbd05d"
+  },
+  "provenance": {
+    "source_item_id": "5f3a0216-c6d4-4ff3-b437-656c6aa1e3a4",
+    "external_id": "https://www.devonenergy.com/news/2026/Devon-Announces-Expiration-and-Final-Results-of-its-Private-Exchange-Offers-and-Consent-Solicitations"
+  }
+}

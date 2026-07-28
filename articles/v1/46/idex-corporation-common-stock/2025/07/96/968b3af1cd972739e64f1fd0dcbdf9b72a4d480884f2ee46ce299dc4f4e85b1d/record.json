@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "968b3af1cd972739e64f1fd0dcbdf9b72a4d480884f2ee46ce299dc4f4e85b1d",
+  "company": {
+    "key": "idex-corporation-common-stock",
+    "name": "IDEX Corporation Common Stock"
+  },
+  "source": {
+    "id": "idex-corporation-common-stock-news-import-f4b544a094be",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://idexcorp.com/news/news-item/precision-polymer-engineering-celebrates-a-half-century-of-sealing-in-critical-applications/",
+    "canonical": "https://idexcorp.com/news/news-item/precision-polymer-engineering-celebrates-a-half-century-of-sealing-in-critical-applications/"
+  },
+  "title": "Precision Polymer Engineering Celebrates a Half-Century of Sealing in Critical Applications",
+  "summary": "In 1975, a vision was born to manufacture high performance sealing materials for the most demanding applications in the most critical industries. Today, Precision Polymer Engineering (PPE) proudly celebrates its 50th anniversary. Earlier this month, PPE hosted a 50th Birthday Family Festival at Brockholes Nature Reserve in Preston, UK. This celebration was an opportunity for people […]",
+  "published_at": "2025-07-28T16:06:13+00:00",
+  "first_seen_at": "2026-07-25T09:02:34.151857+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-07-28T22:03:08.784072+00:00",
+  "paths": {
+    "article": "articles/v1/46/idex-corporation-common-stock/2025/07/96/968b3af1cd972739e64f1fd0dcbdf9b72a4d480884f2ee46ce299dc4f4e85b1d/article.md",
+    "record": "articles/v1/46/idex-corporation-common-stock/2025/07/96/968b3af1cd972739e64f1fd0dcbdf9b72a4d480884f2ee46ce299dc4f4e85b1d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2886,
+    "sha256": "sha256:692a376d1d6d773b4da2377cd8e562846784010b8213d1e075b64afd5c9cac4b",
+    "normalized_content_hash": "sha256:61c4b354f6765b031b10c5b6b7a50ebadfe834d76b82befa105f3809ac59b241"
+  },
+  "provenance": {
+    "source_item_id": "dc6861b3-d411-4fa8-b81f-ca102452a65c",
+    "external_id": "https://idexcorp.com/news/news-item/precision-polymer-engineering-celebrates-a-half-century-of-sealing-in-critical-applications/"
+  }
+}

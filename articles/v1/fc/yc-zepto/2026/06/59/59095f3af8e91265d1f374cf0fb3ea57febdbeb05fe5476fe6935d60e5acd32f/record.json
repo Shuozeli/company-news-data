@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59095f3af8e91265d1f374cf0fb3ea57febdbeb05fe5476fe6935d60e5acd32f",
+  "company": {
+    "key": "yc-zepto",
+    "name": "Zepto"
+  },
+  "source": {
+    "id": "yc-zepto-rss-8182f1493a2f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.zepto.com/real-time-personalisation-at-scale-how-zepto-understands-what-you-want-right-now-d743b13367c8?source=rss----bd632b1d570d---4",
+    "canonical": "https://blog.zepto.com/real-time-personalisation-at-scale-how-zepto-understands-what-you-want-right-now-d743b13367c8"
+  },
+  "title": "Real-Time Personalisation at Scale: How Zepto Understands What You Want, Right Now",
+  "summary": "Zepto started as a quick-commerce platform for groceries. Today it’s where people shop for electronics, home essentials, gifts and festive…",
+  "published_at": "2026-06-22T10:23:23+00:00",
+  "first_seen_at": "2026-07-20T23:24:50.197566+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-07-28T21:11:24.600776+00:00",
+  "paths": {
+    "article": "articles/v1/fc/yc-zepto/2026/06/59/59095f3af8e91265d1f374cf0fb3ea57febdbeb05fe5476fe6935d60e5acd32f/article.md",
+    "record": "articles/v1/fc/yc-zepto/2026/06/59/59095f3af8e91265d1f374cf0fb3ea57febdbeb05fe5476fe6935d60e5acd32f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15251,
+    "sha256": "sha256:4b2ba12e2849f9a9fe1dd2c2efcbf04fbe74c880c2e3bf87b9538860b330a32e",
+    "normalized_content_hash": "sha256:3219058ac718264e7d9862de22b02768f7739010a7f8e988dd5c25804f7599cf"
+  },
+  "provenance": {
+    "source_item_id": "012835f0-180b-444c-8630-fcd8207ba9ac",
+    "external_id": "https://medium.com/p/d743b13367c8"
+  }
+}

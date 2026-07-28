@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a0c4f00797d798f536b0a4f81af30704035fcb2a2474c382733ec8e6b0d09c2",
+  "company": {
+    "key": "yc-zepto",
+    "name": "Zepto"
+  },
+  "source": {
+    "id": "yc-zepto-rss-8182f1493a2f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.zepto.com/a-field-guide-to-my-data-science-internship-at-zepto-1cf0ea7ae928?source=rss----bd632b1d570d---4",
+    "canonical": "https://blog.zepto.com/a-field-guide-to-my-data-science-internship-at-zepto-1cf0ea7ae928"
+  },
+  "title": "A Field Guide to My Data Science Internship at Zepto",
+  "summary": "🎙️ The Observer’s Log: Entry #01 “We arrive at the bustling, hyper velocity habitat known as Zepto. Here, time is not measured in hours or…",
+  "published_at": "2026-07-22T07:03:45+00:00",
+  "first_seen_at": "2026-07-22T07:54:05.065146+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-07-28T20:36:47.163757+00:00",
+  "paths": {
+    "article": "articles/v1/fc/yc-zepto/2026/07/3a/3a0c4f00797d798f536b0a4f81af30704035fcb2a2474c382733ec8e6b0d09c2/article.md",
+    "record": "articles/v1/fc/yc-zepto/2026/07/3a/3a0c4f00797d798f536b0a4f81af30704035fcb2a2474c382733ec8e6b0d09c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7334,
+    "sha256": "sha256:d24bf0e379c9dcbc69091d3dfa4d6d7620709a869b64e4b70f215dfee3a348d8",
+    "normalized_content_hash": "sha256:6aa1f23dab12d18a547ac63aef9e316b9b11f6fd08ee2af560e3a5af60569a2f"
+  },
+  "provenance": {
+    "source_item_id": "52549411-14c3-40e0-9104-8d19e347d210",
+    "external_id": "https://medium.com/p/1cf0ea7ae928"
+  }
+}

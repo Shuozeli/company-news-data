@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5b143b99a181cb0c33742d95ae1cfbc52287c42a0d742438705bc9ccf183f90d",
+  "company": {
+    "key": "hormel-foods-corporation-common-stock",
+    "name": "Hormel Foods Corporation Common Stock"
+  },
+  "source": {
+    "id": "hormel-foods-corporation-common-stock-news-import-0faa90d40874",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-announces-2026-call-for-10-under-20-food-heroes-nominations/",
+    "canonical": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-announces-2026-call-for-10-under-20-food-heroes-nominations/"
+  },
+  "title": "Hormel Foods Announces 2026 Call for 10 Under 20 Food Heroes Nominations",
+  "summary": "The program celebrates young change-makers under 20 years old creatively tackling food insecurity and systemic challenges.",
+  "published_at": "2026-04-28T12:43:41+00:00",
+  "first_seen_at": "2026-07-21T23:11:51.811758+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:25.717235+00:00",
+  "paths": {
+    "article": "articles/v1/47/hormel-foods-corporation-common-stock/2026/04/5b/5b143b99a181cb0c33742d95ae1cfbc52287c42a0d742438705bc9ccf183f90d/article.md",
+    "record": "articles/v1/47/hormel-foods-corporation-common-stock/2026/04/5b/5b143b99a181cb0c33742d95ae1cfbc52287c42a0d742438705bc9ccf183f90d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5236,
+    "sha256": "sha256:43c4c510f05d67c3b2894b535087f1c8075817a9707ce4b6e1856f9463177339",
+    "normalized_content_hash": "sha256:2f793cc078dc7f40f304ca636dc3005688115216f54dede0a3046970a34e8d42"
+  },
+  "provenance": {
+    "source_item_id": "4375ca65-7af1-44e5-b538-651aa98c1895",
+    "external_id": "https://www.hormelfoods.com/newsroom/press-releases/hormel-foods-announces-2026-call-for-10-under-20-food-heroes-nominations/"
+  }
+}

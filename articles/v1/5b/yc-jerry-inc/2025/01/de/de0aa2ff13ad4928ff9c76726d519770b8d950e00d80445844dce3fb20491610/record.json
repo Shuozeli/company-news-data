@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de0aa2ff13ad4928ff9c76726d519770b8d950e00d80445844dce3fb20491610",
+  "company": {
+    "key": "yc-jerry-inc",
+    "name": "Jerry"
+  },
+  "source": {
+    "id": "yc-jerry-inc-news-import-e8ea60baa995",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jerry.ai/newsroom/jerry-2025-state-of-the-american-driver-report-soaring-costs-push-drivers-to-reevaluate-insurance-car-buying-and-household-budgets/",
+    "canonical": "https://jerry.ai/newsroom/jerry-2025-state-of-the-american-driver-report-soaring-costs-push-drivers-to-reevaluate-insurance-car-buying-and-household-budgets/"
+  },
+  "title": "Jerry 2025 State of the American Driver Report: Soaring Costs Push Drivers to Reevaluate Insurance, Car Buying, and Household Budgets",
+  "summary": "New report finds 80% of Americans now consider car insurance unaffordable, leading to widespread coverage trade-offs, altered car buying plans and tightened household budgets",
+  "published_at": "2025-01-02T14:00:00+00:00",
+  "first_seen_at": "2026-07-25T10:12:45.275048+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-07-28T21:33:33.169212+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-jerry-inc/2025/01/de/de0aa2ff13ad4928ff9c76726d519770b8d950e00d80445844dce3fb20491610/article.md",
+    "record": "articles/v1/5b/yc-jerry-inc/2025/01/de/de0aa2ff13ad4928ff9c76726d519770b8d950e00d80445844dce3fb20491610/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7124,
+    "sha256": "sha256:9ba3c5c26151052cff21f6f03f066c36b732f3c8082c0a4b0eab1ee782b3d7e8",
+    "normalized_content_hash": "sha256:80e9a8341cbd17d56fdf09bd9d3cd0e33fffd57230d58f7f2195aa06d05a16cc"
+  },
+  "provenance": {
+    "source_item_id": "9fb85f39-b709-400c-9e8f-0da26e708905",
+    "external_id": "https://jerry.ai/newsroom/jerry-2025-state-of-the-american-driver-report-soaring-costs-push-drivers-to-reevaluate-insurance-car-buying-and-household-budgets/"
+  }
+}

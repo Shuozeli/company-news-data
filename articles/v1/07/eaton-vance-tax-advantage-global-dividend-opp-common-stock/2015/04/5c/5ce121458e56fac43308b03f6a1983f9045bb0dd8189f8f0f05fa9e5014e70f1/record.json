@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ce121458e56fac43308b03f6a1983f9045bb0dd8189f8f0f05fa9e5014e70f1",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/wisdomtree-yield-enhanced-us-aggregate-bd-fd-wisdomtree-trust-nyse-aggy-declared-a-dividend-of-$0.1700-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/wisdomtree-yield-enhanced-us-aggregate-bd-fd-wisdomtree-trust-nyse-aggy-declared-a-dividend-of-$0.1700-per-share/"
+  },
+  "title": "AGGY Dividend Announcement $0.1700/Share 7/27/2026",
+  "summary": "NYSE:AGGY WisdomTree Yield Enhanced US Aggregate Bd Fd/WisdomTree Trust Dividend Announcement $0.1700 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.165772+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/5c/5ce121458e56fac43308b03f6a1983f9045bb0dd8189f8f0f05fa9e5014e70f1/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/5c/5ce121458e56fac43308b03f6a1983f9045bb0dd8189f8f0f05fa9e5014e70f1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2196,
+    "sha256": "sha256:93d01ab04d04c9728d8a257defe8f98d6548c1702f11b29cac9fe136c9236ddc",
+    "normalized_content_hash": "sha256:e07b77236680f43b3684bcea28c6d5690972c503cb5a51aff872b42ee364f198"
+  },
+  "provenance": {
+    "source_item_id": "f94eba08-89fd-46ba-b3d1-05d2d34f20f9",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/wisdomtree-yield-enhanced-us-aggregate-bd-fd-wisdomtree-trust-nyse-aggy-declared-a-dividend-of-$0.1700-per-share/"
+  }
+}

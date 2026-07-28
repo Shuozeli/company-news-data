@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4970fcb141967f8e8297aa5a51881460cc48cdcf4c02276ba62f4cf732d4d0c7",
+  "company": {
+    "key": "yc-plate-iq",
+    "name": "Plate IQ"
+  },
+  "source": {
+    "id": "yc-plate-iq-news-import-9b094f88901e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ottimate.com/resources/ap-maturity-report-2026/",
+    "canonical": "https://ottimate.com/resources/ap-maturity-report-2026/"
+  },
+  "title": "2026 Market Research Report",
+  "summary": "",
+  "published_at": "2026-02-25T22:39:27+00:00",
+  "first_seen_at": "2026-07-25T19:18:34.539472+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:20.275549+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-plate-iq/2026/02/49/4970fcb141967f8e8297aa5a51881460cc48cdcf4c02276ba62f4cf732d4d0c7/article.md",
+    "record": "articles/v1/48/yc-plate-iq/2026/02/49/4970fcb141967f8e8297aa5a51881460cc48cdcf4c02276ba62f4cf732d4d0c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2382,
+    "sha256": "sha256:d928d3b8cb95149b68170583f04b8eac17640e7fd93b607a83b2247e09847609",
+    "normalized_content_hash": "sha256:e70dffddab17eb72e9246d1c59dc6fe5f9439b9db86cec3b70bf34a7f3f85773"
+  },
+  "provenance": {
+    "source_item_id": "9087ff6a-7b96-4789-bdbf-ca10b22d032e",
+    "external_id": "https://ottimate.com/resources/ap-maturity-report-2026/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "587b0a75edb40befd92ec2c4fd0cf808cecce53641957ed48b3ead2758bb0d56",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-b3fe567ac9c2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/marijuana-toxicity-affects-nearly-1900-pets",
+    "canonical": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/marijuana-toxicity-affects-nearly-1900-pets"
+  },
+  "title": "High Numbers: Marijuana Toxicity Affects Nearly 1,900 Pets",
+  "summary": "Pet medical insurance provider Trupanion found that nearly 1,900 pets have been treated for marijuana toxicity-related health concerns since 2020.",
+  "published_at": "2025-04-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T03:12:03.797628+00:00",
+  "fetched_at": "2026-07-28T17:37:55.930207+00:00",
+  "last_updated_at": "2026-07-28T17:37:57.859512+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2025/04/58/587b0a75edb40befd92ec2c4fd0cf808cecce53641957ed48b3ead2758bb0d56/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2025/04/58/587b0a75edb40befd92ec2c4fd0cf808cecce53641957ed48b3ead2758bb0d56/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5780,
+    "sha256": "sha256:6c393c9469493125826111224358ca06b66eff3fc55a39b380044e9691778d85",
+    "normalized_content_hash": "sha256:a6aaba9d2069fee49a1e412292cc8b32cae4a5efe1e21fe3b77ab50873a8cab3"
+  },
+  "provenance": {
+    "source_item_id": "02c29a02-a9b3-47e6-a57f-2c8b19c7a014",
+    "external_id": "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/marijuana-toxicity-affects-nearly-1900-pets"
+  }
+}

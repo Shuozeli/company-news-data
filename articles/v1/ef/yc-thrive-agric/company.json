@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-thrive-agric",
+    "name": "Thrive Agric"
+  },
+  "record_count": 1,
+  "first_published_at": "2026-07-01T00:00:00+00:00",
+  "last_published_at": "2026-07-01T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

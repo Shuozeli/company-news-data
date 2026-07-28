@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aaaf80a69427877a0b3491475f6d06a9ac2de3cf75d966b09b8aa0d1761cfba9",
+  "company": {
+    "key": "yc-reflex",
+    "name": "Reflex"
+  },
+  "source": {
+    "id": "yc-reflex-news-import-a39f8c531c08",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reflex.dev/blog/byoc/",
+    "canonical": "https://reflex.dev/blog/byoc/"
+  },
+  "title": "Reflex BYOC: Deploy to Your Own Cloud",
+  "summary": "The reflex cloud deploy command now deploys to your own AWS, GCP, or Azure account — bring your own cloud (BYOC) while keeping Reflex Cloud's workflow.",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:16:11.777394+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:31.394609+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-reflex/2026/05/aa/aaaf80a69427877a0b3491475f6d06a9ac2de3cf75d966b09b8aa0d1761cfba9/article.md",
+    "record": "articles/v1/98/yc-reflex/2026/05/aa/aaaf80a69427877a0b3491475f6d06a9ac2de3cf75d966b09b8aa0d1761cfba9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4453,
+    "sha256": "sha256:785c6629f8c0ac0d3cd32ee5674c33ee4fa6ac362d46119a7c6bd1abfd394b91",
+    "normalized_content_hash": "sha256:696d603c373eafb6c63eac6ca18b6a1087e6d0de852d9ce9c3e3d936595238d1"
+  },
+  "provenance": {
+    "source_item_id": "706afe8e-db2b-4ebc-9e03-5c7b2f32d259",
+    "external_id": "https://reflex.dev/blog/byoc/"
+  }
+}

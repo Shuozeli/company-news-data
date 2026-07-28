@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99bcca5018612b9c2708002e2c2c6e1f0e068b4c3a939b3d8df1be778d510610",
+  "company": {
+    "key": "yc-algotest",
+    "name": "AlgoTest"
+  },
+  "source": {
+    "id": "yc-algotest-news-import-7cc502b412f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://algotest.in/blog/calendar-spread-in-options-strategy/",
+    "canonical": "https://algotest.in/blog/calendar-spread-in-options-strategy/"
+  },
+  "title": "What is the Calendar Spread Options Strategy – Explained with an Example",
+  "summary": "A calendar spread (time spread) in options involves buying a longer-term option and selling a short-term option on the same strike. Learn how this strategy profits from time decay and volatility changes.",
+  "published_at": "2026-07-15T06:53:58+00:00",
+  "first_seen_at": "2026-07-25T00:56:57.418756+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:21:49.583805+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-algotest/2026/07/99/99bcca5018612b9c2708002e2c2c6e1f0e068b4c3a939b3d8df1be778d510610/article.md",
+    "record": "articles/v1/0d/yc-algotest/2026/07/99/99bcca5018612b9c2708002e2c2c6e1f0e068b4c3a939b3d8df1be778d510610/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11033,
+    "sha256": "sha256:a2f9a86e016a879a59fb8df4d006606b1122e54cf6472997ca360109ddd31c06",
+    "normalized_content_hash": "sha256:d085f52a262cdc27f5300117a7da364389defa1d369fcdbf7ce3ebb7f37d258d"
+  },
+  "provenance": {
+    "source_item_id": "0704ba1e-50e7-455f-8691-896466eeb52d",
+    "external_id": "https://algotest.in/blog/calendar-spread-in-options-strategy/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b98237a89db5da650c97f0f1f4a6e6e9e617c6da1f49935dc1cc5b8cb460df0",
+  "company": {
+    "key": "yc-minimum",
+    "name": "Minimum"
+  },
+  "source": {
+    "id": "yc-minimum-news-import-c074977a1f51",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.minimum.com/press/minimum-announces-global-partnership-with-nasdaq",
+    "canonical": "https://www.minimum.com/press/minimum-announces-global-partnership-with-nasdaq"
+  },
+  "title": "Minimum teams up with Nasdaq to help thousands of US companies manage emissions data",
+  "summary": "Minimum has expanded its US operations through a strategic partnership with Nasdaq ahead of impending SEC regulation.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:29:06.843119+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-07-28T21:20:51.925136+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-minimum/2026/07/1b/1b98237a89db5da650c97f0f1f4a6e6e9e617c6da1f49935dc1cc5b8cb460df0/article.md",
+    "record": "articles/v1/7c/yc-minimum/2026/07/1b/1b98237a89db5da650c97f0f1f4a6e6e9e617c6da1f49935dc1cc5b8cb460df0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7597,
+    "sha256": "sha256:e3af5cac2dce52e41095ccd15cac42d64dadec6f21357112f7a832b4809eb11b",
+    "normalized_content_hash": "sha256:05323cd4113822e7226aabb695ad28cfb003617d3df7fc2ec855b767f3a89bb6"
+  },
+  "provenance": {
+    "source_item_id": "0fd9152e-d1dc-4766-819d-a6267cc24b6c",
+    "external_id": "https://www.minimum.com/press/minimum-announces-global-partnership-with-nasdaq"
+  }
+}

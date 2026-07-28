@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c5d50e2271f9be17698cd741395df93b41629119ad37df47a9d6113dcda498a1",
+  "company": {
+    "key": "yc-nextera-robotics",
+    "name": "Nextera Robotics"
+  },
+  "source": {
+    "id": "yc-nextera-robotics-news-import-e73697723118",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nexterarobotics.com/updates/enr-the-right-tool-for-the-job-might-be-a-robot",
+    "canonical": "https://nexterarobotics.com/updates/enr-the-right-tool-for-the-job-might-be-a-robot"
+  },
+  "title": "ENR: The Right Tool for the Job Might be a Robot",
+  "summary": "\" No longer just for early adopters and pilot projects, robots on jobsites are becoming a reliable way to take on some of the most repetitive and demanding tasks \"",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:58:16.418263+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:47:06.320016+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-nextera-robotics/2026/07/c5/c5d50e2271f9be17698cd741395df93b41629119ad37df47a9d6113dcda498a1/article.md",
+    "record": "articles/v1/56/yc-nextera-robotics/2026/07/c5/c5d50e2271f9be17698cd741395df93b41629119ad37df47a9d6113dcda498a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1119,
+    "sha256": "sha256:25f856ab10a5c2238e75dc6465414bdba019cd454769befbba4539658f2e758c",
+    "normalized_content_hash": "sha256:50a12f9a9b44bdb6f060cbc211132b4201e822ca9a3c041731e23fad574e4d06"
+  },
+  "provenance": {
+    "source_item_id": "a9291d9b-efbd-4468-9bac-e9658859f204",
+    "external_id": "https://nexterarobotics.com/updates/enr-the-right-tool-for-the-job-might-be-a-robot"
+  }
+}

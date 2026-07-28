@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "04e8c0555dd27ce9f35346cc206e593a500ed15058d1e2c14914cc840ad41d5b",
+  "company": {
+    "key": "cencora-inc-common-stock",
+    "name": "Cencora Inc. Common Stock"
+  },
+  "source": {
+    "id": "cencora-inc-common-stock-news-import-8b76168f210b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cencora.com/newsroom/cencora-launches-next-generation-nucleus-solution",
+    "canonical": "https://www.cencora.com/newsroom/cencora-launches-next-generation-nucleus-solution"
+  },
+  "title": "Cencora Launches Next-Generation Nucleus Solution | Cencora",
+  "summary": "Co-developed with specialty providers, the solution reflects continued investment in workflow efficiency, data visibility and practice performance.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T12:59:18.439523+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.994299+00:00",
+  "paths": {
+    "article": "articles/v1/44/cencora-inc-common-stock/2026/06/04/04e8c0555dd27ce9f35346cc206e593a500ed15058d1e2c14914cc840ad41d5b/article.md",
+    "record": "articles/v1/44/cencora-inc-common-stock/2026/06/04/04e8c0555dd27ce9f35346cc206e593a500ed15058d1e2c14914cc840ad41d5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4454,
+    "sha256": "sha256:1d4b3d71a711685b039c5b9a42ce91cdcb2697cc8afe6cc018635c37250488cb",
+    "normalized_content_hash": "sha256:277e49995e252b0dfeaef863287021af681aaaa75110dbc33211166f54c21bea"
+  },
+  "provenance": {
+    "source_item_id": "f3768231-6aba-4f28-a4e6-1e1a8f524669",
+    "external_id": "https://www.cencora.com/newsroom/cencora-launches-next-generation-nucleus-solution"
+  }
+}

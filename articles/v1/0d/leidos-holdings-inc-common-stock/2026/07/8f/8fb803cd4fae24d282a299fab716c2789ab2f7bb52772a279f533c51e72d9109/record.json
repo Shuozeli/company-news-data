@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8fb803cd4fae24d282a299fab716c2789ab2f7bb52772a279f533c51e72d9109",
+  "company": {
+    "key": "leidos-holdings-inc-common-stock",
+    "name": "Leidos Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "leidos-holdings-inc-common-stock-news-import-4f5f8dbd1dc3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.leidos.com/insights/5-ways-edge-ai-changing-mlops-forever",
+    "canonical": "https://www.leidos.com/insights/5-ways-edge-ai-changing-mlops-forever"
+  },
+  "title": "5 ways edge AI is changing MLOps forever",
+  "summary": "Overview of twenty words or less, no words on thumbnail image please",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T12:03:04.992780+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-28T21:21:59.920457+00:00",
+  "paths": {
+    "article": "articles/v1/0d/leidos-holdings-inc-common-stock/2026/07/8f/8fb803cd4fae24d282a299fab716c2789ab2f7bb52772a279f533c51e72d9109/article.md",
+    "record": "articles/v1/0d/leidos-holdings-inc-common-stock/2026/07/8f/8fb803cd4fae24d282a299fab716c2789ab2f7bb52772a279f533c51e72d9109/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4118,
+    "sha256": "sha256:d41836357d06a436b659dffde116a8c1b8e23f1d8216254e62eb338f1050c34b",
+    "normalized_content_hash": "sha256:0e651707a8c2fb37e30d47ba29e3e8b04c887eb40015d9f148cde623314b7d56"
+  },
+  "provenance": {
+    "source_item_id": "2ac7fc4e-07b6-4537-aed7-9448717dc906",
+    "external_id": "https://www.leidos.com/insights/5-ways-edge-ai-changing-mlops-forever"
+  }
+}

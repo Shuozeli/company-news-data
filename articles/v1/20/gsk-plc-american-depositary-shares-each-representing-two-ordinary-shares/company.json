@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "gsk-plc-american-depositary-shares-each-representing-two-ordinary-shares",
+    "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)"
+  },
+  "record_count": 25,
+  "first_published_at": "2026-04-27T12:00:00+00:00",
+  "last_published_at": "2026-07-28T12:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 13
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "american-eagle-outfitters-inc-common-stock",
+    "name": "American Eagle Outfitters Inc. Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-04-09T18:53:12+00:00",
+  "last_published_at": "2026-07-21T16:59:42+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

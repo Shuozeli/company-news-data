@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "fitlife-brands-inc-common-stock",
+    "name": "FitLife Brands Inc. Common Stock"
+  },
+  "record_count": 9,
+  "first_published_at": "2021-11-10T18:09:45+00:00",
+  "last_published_at": "2023-03-06T03:31:42+00:00",
+  "partitions": [
+    {
+      "partition": "2021-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    }
+  ]
+}

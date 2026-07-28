@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64e06d3ca71419ece62e20bd44bb3234ce4e75e1f009081d915594eb0e860b8c",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/"
+  },
+  "title": "Introducing the CrowdStrike Shadow AI Visibility Service",
+  "summary": "CrowdStrike’s new service gives organizations visibility to discover, govern, and secure AI adoption in their environment.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-07-28T21:38:22.509976+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/64/64e06d3ca71419ece62e20bd44bb3234ce4e75e1f009081d915594eb0e860b8c/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/07/64/64e06d3ca71419ece62e20bd44bb3234ce4e75e1f009081d915594eb0e860b8c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9325,
+    "sha256": "sha256:68b5e1f566964621fd54b7e53ffbb46653abe4afe139d35611cb00560a6c27a3",
+    "normalized_content_hash": "sha256:26a55d43dff1c86d68a9be27087bb4d5f0e84afe6816b1335593abd7d0a875f5"
+  },
+  "provenance": {
+    "source_item_id": "5c01e9f0-27e4-4ba6-8302-b5d93634b7b4",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/"
+  }
+}

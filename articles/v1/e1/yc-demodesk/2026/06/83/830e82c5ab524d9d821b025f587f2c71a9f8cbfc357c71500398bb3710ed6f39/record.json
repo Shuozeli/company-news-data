@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "830e82c5ab524d9d821b025f587f2c71a9f8cbfc357c71500398bb3710ed6f39",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/demodesk-ai-agents-mcp-beyond-transcription-structured-data",
+    "canonical": "https://demodesk.com/blog/demodesk-ai-agents-mcp-beyond-transcription-structured-data"
+  },
+  "title": "AI Agents & MCP: Beyond Transcription to Structured Data",
+  "summary": "Most AI sales tools stop at transcripts and dashboards. See how Demodesk's AI agents and MCP server turn conversations into structured data reps and RevOps can query, act on, and automate.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:31.944359+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:23:00.523056+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/06/83/830e82c5ab524d9d821b025f587f2c71a9f8cbfc357c71500398bb3710ed6f39/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/06/83/830e82c5ab524d9d821b025f587f2c71a9f8cbfc357c71500398bb3710ed6f39/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8517,
+    "sha256": "sha256:c8afbe3c837d19f107f6f6f533b260b5b260b68a785812273e28de6905a39ac6",
+    "normalized_content_hash": "sha256:fec12794dd35404fd4c37b31c6db2e82023c686781954d31482ede8a7fa2a909"
+  },
+  "provenance": {
+    "source_item_id": "f39a93d4-dce4-4071-a0d3-8c0755fd784c",
+    "external_id": "https://demodesk.com/blog/demodesk-ai-agents-mcp-beyond-transcription-structured-data"
+  }
+}

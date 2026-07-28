@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aee88227fd50b3523a8cd4e3bff1c638596501ece83e9658eba9923dad12ca00",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-rss-22645aa43e2a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pressroom.toyota.com/toyota-recalls-certain-model-year-2026-toyota-grand-highlander-and-lexus-tx-vehicles/",
+    "canonical": "https://pressroom.toyota.com/toyota-recalls-certain-model-year-2026-toyota-grand-highlander-and-lexus-tx-vehicles/"
+  },
+  "title": "Toyota Recalls Certain Model Year 2026 Toyota Grand Highlander and Lexus TX vehicles",
+  "summary": "PLANO, Texas (July 8, 2026) — Toyota is conducting a safety recall campaign involving certain model year 2026 Toyota Grand Highlander and Lexus TX vehicles in North America. Approximately 5,400 vehicles are involved in this recall. The rear axle carriers in […]",
+  "published_at": "2026-07-08T16:28:09+00:00",
+  "first_seen_at": "2026-07-25T01:10:41.320307+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-07-28T21:09:52.853996+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/ae/aee88227fd50b3523a8cd4e3bff1c638596501ece83e9658eba9923dad12ca00/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/ae/aee88227fd50b3523a8cd4e3bff1c638596501ece83e9658eba9923dad12ca00/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2053,
+    "sha256": "sha256:c47ef1e9bd553fcfa90e10b9d5a416f0beef98af8e973c8c7775f214d0f266fc",
+    "normalized_content_hash": "sha256:845192da835ad7b99a705028a8c0bc8a430f1949e2a75037204b2498ac15424c"
+  },
+  "provenance": {
+    "source_item_id": "7b02ccea-afc0-4770-b77d-75f2ce931f40",
+    "external_id": "https://pressroom.toyota.com/?p=116212"
+  }
+}

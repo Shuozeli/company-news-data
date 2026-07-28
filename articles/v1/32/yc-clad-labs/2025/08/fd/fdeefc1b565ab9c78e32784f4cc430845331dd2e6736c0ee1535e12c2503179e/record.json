@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fdeefc1b565ab9c78e32784f4cc430845331dd2e6736c0ee1535e12c2503179e",
+  "company": {
+    "key": "yc-clad-labs",
+    "name": "Clad Labs"
+  },
+  "source": {
+    "id": "yc-clad-labs-news-import-822bb409d95b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cladlabs.ai/blog/intelligent-code-completion",
+    "canonical": "https://www.cladlabs.ai/blog/intelligent-code-completion"
+  },
+  "title": "Advanced Context Management for Code Generation",
+  "summary": "Modern AI-powered development environments face a fundamental challenge: how do you provide an LLM with the right context from massive codebases without overwhe",
+  "published_at": "2025-08-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T13:40:04.197655+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-07-28T22:03:55.125374+00:00",
+  "paths": {
+    "article": "articles/v1/32/yc-clad-labs/2025/08/fd/fdeefc1b565ab9c78e32784f4cc430845331dd2e6736c0ee1535e12c2503179e/article.md",
+    "record": "articles/v1/32/yc-clad-labs/2025/08/fd/fdeefc1b565ab9c78e32784f4cc430845331dd2e6736c0ee1535e12c2503179e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11473,
+    "sha256": "sha256:65d923492987be53295c26b544b8ed5c8c37ce227e1997b8d74f34617094ca0e",
+    "normalized_content_hash": "sha256:01c9eae211c4e29a29c253c9c88632b561b9a15f338fdfd1518fd56c83df6640"
+  },
+  "provenance": {
+    "source_item_id": "34350e06-b3c2-46ef-872f-d9e4f3c13480",
+    "external_id": "https://www.cladlabs.ai/blog/intelligent-code-completion"
+  }
+}

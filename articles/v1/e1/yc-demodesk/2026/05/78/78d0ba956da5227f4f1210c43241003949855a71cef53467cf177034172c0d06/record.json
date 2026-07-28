@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "78d0ba956da5227f4f1210c43241003949855a71cef53467cf177034172c0d06",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/why-reps-dont-review-transcripts-proactive-triggers",
+    "canonical": "https://demodesk.com/blog/why-reps-dont-review-transcripts-proactive-triggers"
+  },
+  "title": "Why Sales Reps Don't Review Their Own Call Transcripts",
+  "summary": "Sales reps don't review their own transcripts because the cost is high and the trigger is missing. Here's how proactive AI coaching fixes the gap.",
+  "published_at": "2026-05-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:07:17.937229+00:00",
+  "fetched_at": "2026-07-28T21:43:32.355791+00:00",
+  "last_updated_at": "2026-07-28T21:44:13.468482+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/05/78/78d0ba956da5227f4f1210c43241003949855a71cef53467cf177034172c0d06/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/05/78/78d0ba956da5227f4f1210c43241003949855a71cef53467cf177034172c0d06/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7860,
+    "sha256": "sha256:faf524ce45f28752ae6ea9869af5207abae9ebe19a8a28e00cf6152825260599",
+    "normalized_content_hash": "sha256:bc997b7f4d6657accd828204fc4f7a38596afa8dde42b7bf48d0a716ceaf34ea"
+  },
+  "provenance": {
+    "source_item_id": "0b6624ff-a73d-4c01-9ce2-cdd4c85afd0f",
+    "external_id": "https://demodesk.com/blog/why-reps-dont-review-transcripts-proactive-triggers"
+  }
+}

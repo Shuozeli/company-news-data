@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e97f1be71fefa9c6f44bb7b92c3fe7145bc00956d5e007279ab6f08c0ec58fbd",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2026/q3/how-fuel-additive-science-keeps-pace-with-modern-engines",
+    "canonical": "https://www.chevron.com/newsroom/2026/q3/how-fuel-additive-science-keeps-pace-with-modern-engines"
+  },
+  "title": "How fuel additive science keeps pace with modern engines",
+  "summary": "Learn how a Chevron chemist helped produce Techron, a next-generation fuel additive designed to boost engine performance and help keep engines efficient.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2026/07/e9/e97f1be71fefa9c6f44bb7b92c3fe7145bc00956d5e007279ab6f08c0ec58fbd/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2026/07/e9/e97f1be71fefa9c6f44bb7b92c3fe7145bc00956d5e007279ab6f08c0ec58fbd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1526,
+    "sha256": "sha256:f719ab79da4086da3dd5266dca74ca5882d8eec266f8ba874607651b107c674c",
+    "normalized_content_hash": "sha256:f0bb91aed44b59fc4065432900d01cfd1311e97b9dd84dcebc694b2ceaacf3b6"
+  },
+  "provenance": {
+    "source_item_id": "f15b2432-debe-4eeb-b550-19a7753cf575",
+    "external_id": "https://www.chevron.com/newsroom/2026/q3/how-fuel-additive-science-keeps-pace-with-modern-engines"
+  }
+}

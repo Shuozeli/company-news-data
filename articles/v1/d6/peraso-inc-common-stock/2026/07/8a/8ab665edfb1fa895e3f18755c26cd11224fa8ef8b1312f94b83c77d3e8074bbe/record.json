@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ab665edfb1fa895e3f18755c26cd11224fa8ef8b1312f94b83c77d3e8074bbe",
+  "company": {
+    "key": "peraso-inc-common-stock",
+    "name": "Peraso Inc. Common Stock"
+  },
+  "source": {
+    "id": "peraso-inc-common-stock-news-import-415656457811",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://perasoinc.com/industry-news/the-strategic-advantages-of-60-ghz-millimeterwave-technology-in-drone-communications/",
+    "canonical": "https://perasoinc.com/industry-news/the-strategic-advantages-of-60-ghz-millimeterwave-technology-in-drone-communications/"
+  },
+  "title": "The Strategic Advantages of 60 GHz MillimeterWave Technology in Drone Communications - Peraso",
+  "summary": "The rapid proliferation of unmanned aerial systems (UASs), particularly in defense and security applications, has exposed fundamental limitations in traditional radio frequency (RF) communication systems. Legacy sub‑6 GHz links—while robust and long-range—are increasingly congested, vulnerable to detection, and susceptible to jamming in contested electromagnetic environments. As modern warfare and commercial drone operations evolve toward autonomy, […]",
+  "published_at": "2026-07-13T17:11:32+00:00",
+  "first_seen_at": "2026-07-25T19:01:02.839750+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:04.872040+00:00",
+  "paths": {
+    "article": "articles/v1/d6/peraso-inc-common-stock/2026/07/8a/8ab665edfb1fa895e3f18755c26cd11224fa8ef8b1312f94b83c77d3e8074bbe/article.md",
+    "record": "articles/v1/d6/peraso-inc-common-stock/2026/07/8a/8ab665edfb1fa895e3f18755c26cd11224fa8ef8b1312f94b83c77d3e8074bbe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1533,
+    "sha256": "sha256:96bf1d49b2336e32b09b0617e63d5ef7a0e692d5c57aad908cc93ef10c6c66ea",
+    "normalized_content_hash": "sha256:133f0a78956253ffb66d78c58a397224020ea53be83efcec0de4f909426c080f"
+  },
+  "provenance": {
+    "source_item_id": "01471876-03c6-498c-8a2a-9536306de738",
+    "external_id": "https://perasoinc.com/industry-news/the-strategic-advantages-of-60-ghz-millimeterwave-technology-in-drone-communications/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "818cf7f5ae3d486610084d2f9cb955132823c8f9352a2308fd7b93733a43100d",
+  "company": {
+    "key": "yc-axiom-ai",
+    "name": "Axiom.ai"
+  },
+  "source": {
+    "id": "yc-axiom-ai-news-import-c535b3e44cdf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://axiom.ai/blog/creating-a-reddit-notification-bot/",
+    "canonical": "https://axiom.ai/blog/creating-a-reddit-notification-bot"
+  },
+  "title": "Creating a Reddit Notification Bot",
+  "summary": "Discover how to create a bot that can check for new posts within a subreddit and send a notification when there is one",
+  "published_at": "2025-04-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:24:24.051508+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:00.944265+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-axiom-ai/2025/04/81/818cf7f5ae3d486610084d2f9cb955132823c8f9352a2308fd7b93733a43100d/article.md",
+    "record": "articles/v1/7c/yc-axiom-ai/2025/04/81/818cf7f5ae3d486610084d2f9cb955132823c8f9352a2308fd7b93733a43100d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9331,
+    "sha256": "sha256:ae03d3e89b0f72e996b3c20f1daae8c0f9b501d8f0a22c48fdea9fbba4e496a9",
+    "normalized_content_hash": "sha256:0842b6e2761c4a4c7e24fb3fdaf169b00ec9150ea906c45cf3313d9882762016"
+  },
+  "provenance": {
+    "source_item_id": "9b5d0c2b-2285-42e4-a002-49e69bcb068a",
+    "external_id": "https://axiom.ai/blog/creating-a-reddit-notification-bot"
+  }
+}

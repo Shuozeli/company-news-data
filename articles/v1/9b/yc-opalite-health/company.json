@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-opalite-health",
+    "name": "Opalite Health"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-06-11T01:24:00+00:00",
+  "last_published_at": "2026-07-28T12:13:54.651+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    }
+  ]
+}

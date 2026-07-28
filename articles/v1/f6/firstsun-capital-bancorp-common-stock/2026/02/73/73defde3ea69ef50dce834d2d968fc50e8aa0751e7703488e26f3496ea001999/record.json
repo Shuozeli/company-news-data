@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "73defde3ea69ef50dce834d2d968fc50e8aa0751e7703488e26f3496ea001999",
+  "company": {
+    "key": "firstsun-capital-bancorp-common-stock",
+    "name": "FirstSun Capital Bancorp Common Stock"
+  },
+  "source": {
+    "id": "firstsun-capital-bancorp-common-stock-news-import-15d9867b0720",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sunflowerbank.com/about-us/news/occ-approval",
+    "canonical": "https://www.sunflowerbank.com/about-us/news/occ-approval"
+  },
+  "title": "​FirstSun Capital Bancorp and First Foundation Inc. Announce Receipt of Regulatory Approval for Bank Merger",
+  "summary": "We're very pleased to announce that the Office of the Comptroller of the Currency (OCC) has approved the merger of our FirstSun and First Foundation bank entities.",
+  "published_at": "2026-02-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T05:11:34.096936+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:25.329218+00:00",
+  "paths": {
+    "article": "articles/v1/f6/firstsun-capital-bancorp-common-stock/2026/02/73/73defde3ea69ef50dce834d2d968fc50e8aa0751e7703488e26f3496ea001999/article.md",
+    "record": "articles/v1/f6/firstsun-capital-bancorp-common-stock/2026/02/73/73defde3ea69ef50dce834d2d968fc50e8aa0751e7703488e26f3496ea001999/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3586,
+    "sha256": "sha256:ba8d2afb3a737cc49c37a9a47b7f6ded45dfee294ceeeb09f502b8df815425fb",
+    "normalized_content_hash": "sha256:62e31733e2243af020cd21ca4fd32ca2d64d2b46c3c929b56625f0632694fdd9"
+  },
+  "provenance": {
+    "source_item_id": "aa0cd530-0aa6-47d5-af29-d7d74a0f7dc1",
+    "external_id": "https://www.sunflowerbank.com/about-us/news/occ-approval"
+  }
+}

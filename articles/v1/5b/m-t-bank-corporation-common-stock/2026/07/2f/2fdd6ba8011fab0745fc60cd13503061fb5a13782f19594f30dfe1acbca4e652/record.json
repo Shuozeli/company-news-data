@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2fdd6ba8011fab0745fc60cd13503061fb5a13782f19594f30dfe1acbca4e652",
+  "company": {
+    "key": "m-t-bank-corporation-common-stock",
+    "name": "M&T Bank Corporation Common Stock"
+  },
+  "source": {
+    "id": "m-t-bank-corporation-common-stock-news-import-ec3805df6f49",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://newsroom.mtb.com/2026-06-22-M-T-Bank-Announces-Winners-of-Fifth-Harrisburg-Small-Business-Accelerator-Program",
+    "canonical": "https://newsroom.mtb.com/2026-06-22-M-T-Bank-Announces-Winners-of-Fifth-Harrisburg-Small-Business-Accelerator-Program"
+  },
+  "title": "M&T Bank Announces Winners of Fifth Harrisburg Small Business Accelerator Program",
+  "summary": "Jazmin Slaughter received the $5,000 grand prize to support her business ‘A Hint of Jazz’ (Pitch competition winner Jazmin Slaughter pictured alongside representatives from M&T Bank)...",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T11:48:15.516769+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:18.245667+00:00",
+  "paths": {
+    "article": "articles/v1/5b/m-t-bank-corporation-common-stock/2026/07/2f/2fdd6ba8011fab0745fc60cd13503061fb5a13782f19594f30dfe1acbca4e652/article.md",
+    "record": "articles/v1/5b/m-t-bank-corporation-common-stock/2026/07/2f/2fdd6ba8011fab0745fc60cd13503061fb5a13782f19594f30dfe1acbca4e652/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5819,
+    "sha256": "sha256:cb8105b5c1a71ab51ef8319062f3f46682857106b658ff9eef56b99b16d6e2e9",
+    "normalized_content_hash": "sha256:bda1727a10e2e0da4141aa08c7251a72e3b38b300cb34eded7aa83f0e56f41c0"
+  },
+  "provenance": {
+    "source_item_id": "4e6e3138-42a1-4aa5-afd1-640f6da50807",
+    "external_id": "https://newsroom.mtb.com/2026-06-22-M-T-Bank-Announces-Winners-of-Fifth-Harrisburg-Small-Business-Accelerator-Program"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "595a838154a305ff13bcbcdc7db942a3f937553b91610bebed5a1b35198434e4",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-b3fe567ac9c2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/pet-insurance-faq/article/view-sample-policy",
+    "canonical": "https://www.trupanion.com/pet-insurance-faq/article/view-sample-policy"
+  },
+  "title": "View a Sample Trupanion Policy | Trupanion Pet Insurance",
+  "summary": "Curious about how a pet insurance plan fits into your life? Just select your location to view a sample Trupanion policy with coverage that can help your pet.",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T03:59:52.479736+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:34.723663+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/07/59/595a838154a305ff13bcbcdc7db942a3f937553b91610bebed5a1b35198434e4/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/07/59/595a838154a305ff13bcbcdc7db942a3f937553b91610bebed5a1b35198434e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2427,
+    "sha256": "sha256:9a745dd3d4b787166acd27c762017f01713bf53d143b29d7e31a64b4a4284261",
+    "normalized_content_hash": "sha256:ac9aa5cdc280c03138b3bb8c4d3ae7595d2b235237ef1566c1cca110e774cdc9"
+  },
+  "provenance": {
+    "source_item_id": "35d0a79a-c27d-4ae1-8036-f4ef49d62609",
+    "external_id": "https://www.trupanion.com/pet-insurance-faq/article/view-sample-policy"
+  }
+}

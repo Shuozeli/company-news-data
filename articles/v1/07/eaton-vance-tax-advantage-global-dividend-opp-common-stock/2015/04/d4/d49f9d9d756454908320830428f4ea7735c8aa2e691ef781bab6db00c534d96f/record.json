@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d49f9d9d756454908320830428f4ea7735c8aa2e691ef781bab6db00c534d96f",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260724/aapl-weeklypay-etf-roundhill-etf-trust-bats-aapw-declared-a-dividend-of-$0.3216-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260724/aapl-weeklypay-etf-roundhill-etf-trust-bats-aapw-declared-a-dividend-of-$0.3216-per-share/"
+  },
+  "title": "AAPW Dividend Announcement $0.3216/Share 7/24/2026",
+  "summary": "BATS:AAPW AAPL WeeklyPay ETF/Roundhill ETF Trust Dividend Announcement $0.3216 per share on July 24, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-26T13:16:00.264154+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.943357+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/d4/d49f9d9d756454908320830428f4ea7735c8aa2e691ef781bab6db00c534d96f/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/d4/d49f9d9d756454908320830428f4ea7735c8aa2e691ef781bab6db00c534d96f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1594,
+    "sha256": "sha256:42520789c44fe616c3e7d808e8bb4aa44cc03c43f6a90f5669769fac2efb74ac",
+    "normalized_content_hash": "sha256:4a883af0e6057e17e4b15325c08a947bb7ea42d5ec1cd4d2cc87011625b64460"
+  },
+  "provenance": {
+    "source_item_id": "1c84e4f1-d908-4565-b2c8-c6752aa5cd3f",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260724/aapl-weeklypay-etf-roundhill-etf-trust-bats-aapw-declared-a-dividend-of-$0.3216-per-share/"
+  }
+}

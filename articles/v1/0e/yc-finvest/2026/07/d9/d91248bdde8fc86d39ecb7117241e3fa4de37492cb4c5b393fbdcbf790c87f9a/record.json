@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d91248bdde8fc86d39ecb7117241e3fa4de37492cb4c5b393fbdcbf790c87f9a",
+  "company": {
+    "key": "yc-finvest",
+    "name": "Finvest"
+  },
+  "source": {
+    "id": "yc-finvest-news-import-dca26008b37d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.getfinvest.com/blog/diversification/",
+    "canonical": "https://www.getfinvest.com/blog/diversification/"
+  },
+  "title": "Diversification is boring until your favorite bet becomes the risk",
+  "summary": "How to tell if your portfolio is too dependent on one country, company, sector, currency, or asset type, and what to do next.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T02:24:45.885818+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:10.034198+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-finvest/2026/07/d9/d91248bdde8fc86d39ecb7117241e3fa4de37492cb4c5b393fbdcbf790c87f9a/article.md",
+    "record": "articles/v1/0e/yc-finvest/2026/07/d9/d91248bdde8fc86d39ecb7117241e3fa4de37492cb4c5b393fbdcbf790c87f9a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6915,
+    "sha256": "sha256:6a7643574793bc3485098f92bf2bc6703eeb760066e3d54385ccbaddca62195b",
+    "normalized_content_hash": "sha256:f165ce262ee6711a68e5576d5e9846678efee878e3002f850744676c6fa7271e"
+  },
+  "provenance": {
+    "source_item_id": "b69bc081-4583-4367-95ad-6aec9cc8771e",
+    "external_id": "https://www.getfinvest.com/blog/diversification/"
+  }
+}

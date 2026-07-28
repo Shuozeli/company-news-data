@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "67a8c2a1d9734760cb150a91d2b8b13d2de1a0478d10942e901f1d5117ce9cd2",
+  "company": {
+    "key": "vroom-inc-common-stock",
+    "name": "Vroom Inc. Common Stock"
+  },
+  "source": {
+    "id": "vroom-inc-common-stock-news-import-5c1422578507",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.globenewswire.com/news-release/2021/07/13/2262105/0/en/online-automotive-retailer-vroom-offers-last-mile-concierge-experience-to-seattle-locals.html",
+    "canonical": "https://www.globenewswire.com/news-release/2021/07/13/2262105/0/en/online-automotive-retailer-vroom-offers-last-mile-concierge-experience-to-seattle-locals.html"
+  },
+  "title": "Online Automotive Retailer Vroom Offers Last Mile Concierge Experience to Seattle Locals",
+  "summary": "Car Buyers Within 25-Mile Radius Receive More Personalized Service, Direct to Their Driveways...",
+  "published_at": "2021-07-13T13:30:00+00:00",
+  "first_seen_at": "2026-07-26T21:04:40.281377+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.245924+00:00",
+  "paths": {
+    "article": "articles/v1/02/vroom-inc-common-stock/2021/07/67/67a8c2a1d9734760cb150a91d2b8b13d2de1a0478d10942e901f1d5117ce9cd2/article.md",
+    "record": "articles/v1/02/vroom-inc-common-stock/2021/07/67/67a8c2a1d9734760cb150a91d2b8b13d2de1a0478d10942e901f1d5117ce9cd2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4761,
+    "sha256": "sha256:71b7184c702e69548afbec4c47ad8e2aa4648dfdf19aad41dfb481bfefdbacb6",
+    "normalized_content_hash": "sha256:ca90d3df1381661323a3074559ebee9851796ca07f1c035abba549feb8370f2b"
+  },
+  "provenance": {
+    "source_item_id": "f80f48a6-42f7-45c2-98e2-e433236ae8a4",
+    "external_id": "https://www.globenewswire.com/news-release/2021/07/13/2262105/0/en/online-automotive-retailer-vroom-offers-last-mile-concierge-experience-to-seattle-locals.html"
+  }
+}

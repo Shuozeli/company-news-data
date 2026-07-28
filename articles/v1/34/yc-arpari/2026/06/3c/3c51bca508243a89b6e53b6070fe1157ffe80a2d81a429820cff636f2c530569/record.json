@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c51bca508243a89b6e53b6070fe1157ffe80a2d81a429820cff636f2c530569",
+  "company": {
+    "key": "yc-arpari",
+    "name": "Arpari"
+  },
+  "source": {
+    "id": "yc-arpari-news-import-d67ae8fe8438",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arpari.com/post/the-month-end-close-does-not-start-on-day-one-it-starts-with-everything-you-did-not-finish-during-the-month",
+    "canonical": "https://arpari.com/post/the-month-end-close-does-not-start-on-day-one-it-starts-with-everything-you-did-not-finish-during-the-month"
+  },
+  "title": "The Month End Close Does Not Start on Day One. It Starts with Everything You Did Not Finish During the Month",
+  "summary": "The month end close is slow not because of the close itself but because it inherits every unreconciled transaction, failed bank feed, and deferred exception from the prior 30 days.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T17:09:57.576780+00:00",
+  "fetched_at": "2026-07-28T21:42:09.561502+00:00",
+  "last_updated_at": "2026-07-28T21:42:38.892690+00:00",
+  "paths": {
+    "article": "articles/v1/34/yc-arpari/2026/06/3c/3c51bca508243a89b6e53b6070fe1157ffe80a2d81a429820cff636f2c530569/article.md",
+    "record": "articles/v1/34/yc-arpari/2026/06/3c/3c51bca508243a89b6e53b6070fe1157ffe80a2d81a429820cff636f2c530569/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7125,
+    "sha256": "sha256:fb4f99980262fed72942b4742fcb7785a585212488681628ba7bfcbe5cba02f8",
+    "normalized_content_hash": "sha256:f83e61c499a3fe62a61df384f6b558de536669b7649e2ea958045577bd7cb49e"
+  },
+  "provenance": {
+    "source_item_id": "2fa4c603-662d-4eda-b44a-c2bbb0e0472e",
+    "external_id": "https://arpari.com/post/the-month-end-close-does-not-start-on-day-one-it-starts-with-everything-you-did-not-finish-during-the-month"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "984b3161ee05f6a7d716f83a437d4b6352cf66f2b0d5274c4ccdd6f1e8af32a2",
+  "company": {
+    "key": "ge-aerospace-common-stock",
+    "name": "GE Aerospace Common Stock"
+  },
+  "source": {
+    "id": "ge-aerospace-common-stock-news-import-cc3bb1578416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.geaerospace.com/investor-relations/events-reports",
+    "canonical": "https://www.geaerospace.com/investor-relations/events-reports"
+  },
+  "title": "GE Aerospace Events & Reports",
+  "summary": "Read the latest GE Aerospace earnings report and news, including the GE Aerospace 2nd Quarter 2026 Earnings Report. Download our financial resources here.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T10:20:11.575549+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-07-28T21:20:50.467788+00:00",
+  "paths": {
+    "article": "articles/v1/96/ge-aerospace-common-stock/2026/07/98/984b3161ee05f6a7d716f83a437d4b6352cf66f2b0d5274c4ccdd6f1e8af32a2/article.md",
+    "record": "articles/v1/96/ge-aerospace-common-stock/2026/07/98/984b3161ee05f6a7d716f83a437d4b6352cf66f2b0d5274c4ccdd6f1e8af32a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7166,
+    "sha256": "sha256:57f5ccd42503407579f2ea3883432b4f08b0c94e9da0eb892b3709b73d85e301",
+    "normalized_content_hash": "sha256:0bf3b9b64cd6b4b99cd7e93e554711f2fb2609454e239e76237e45f5dbffeb47"
+  },
+  "provenance": {
+    "source_item_id": "e4e60227-1b27-4bbc-a6b4-140130c2823e",
+    "external_id": "https://www.geaerospace.com/investor-relations/events-reports"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1847afcf5d1b6e1108c7273cfa5a56d44bef973d30be827aeceaa35afb37d7f0",
+  "company": {
+    "key": "cirrus-logic-inc-common-stock",
+    "name": "Cirrus Logic Inc. Common Stock"
+  },
+  "source": {
+    "id": "cirrus-logic-inc-common-stock-news-import-2267740f74eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cirrus.com/company/media-center/releases/2025/cirrus-logic-unveils-flexible-audio-intel-ultra-processors",
+    "canonical": "https://www.cirrus.com/company/media-center/releases/2025/cirrus-logic-unveils-flexible-audio-intel-ultra-processors"
+  },
+  "title": "Cirrus Logic Unveils Flexible Audio Solution for Intel Core Ultra Processors, Enabling Enhanced Audio from Mainstream to Premium PCs",
+  "summary": "",
+  "published_at": "2025-01-07T06:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:50:02.818872+00:00",
+  "fetched_at": "2026-07-28T01:36:08.593579+00:00",
+  "last_updated_at": "2026-07-28T01:36:12.448871+00:00",
+  "paths": {
+    "article": "articles/v1/a6/cirrus-logic-inc-common-stock/2025/01/18/1847afcf5d1b6e1108c7273cfa5a56d44bef973d30be827aeceaa35afb37d7f0/article.md",
+    "record": "articles/v1/a6/cirrus-logic-inc-common-stock/2025/01/18/1847afcf5d1b6e1108c7273cfa5a56d44bef973d30be827aeceaa35afb37d7f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3839,
+    "sha256": "sha256:fb7224df9877e1697f77a6940f464d4960e6514ab7c0ed4886f98b718c6793fe",
+    "normalized_content_hash": "sha256:ac62f542ab076b292b9d346b6e3a21b35a7670deb72ae9585b6fa50e4a9b31e2"
+  },
+  "provenance": {
+    "source_item_id": "bc921d0b-e1ca-4d28-af27-8d6e67361fc3",
+    "external_id": "https://www.cirrus.com/company/media-center/releases/2025/cirrus-logic-unveils-flexible-audio-intel-ultra-processors"
+  }
+}

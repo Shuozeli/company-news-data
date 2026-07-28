@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3cbebd8569e5cb3e6c83a07ba48750915e3af698a2a47ff49f91b848846275d1",
+  "company": {
+    "key": "the-hershey-company-common-stock",
+    "name": "The Hershey Company Common Stock"
+  },
+  "source": {
+    "id": "the-hershey-company-common-stock-news-import-02c3ba551fd1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.thehersheycompany.com/en_us/home/newsroom/blog/caramel-cracks-the-code-hersheys-sweetest-seasonal-strategy-yet.html",
+    "canonical": "https://www.thehersheycompany.com/en_us/home/newsroom/blog/caramel-cracks-the-code-hersheys-sweetest-seasonal-strategy-yet.html"
+  },
+  "title": "Caramel Cracks the Code: HERSHEY’S Sweetest Seasonal Strategy Yet",
+  "summary": "With the introduction of HERSHEY’S Milk Chocolate with Caramel bars, HERSHEY’S 2025 s’mores program set a new benchmark – driving double-digit growth, record sell-through, and stronger retail partnerships. It’s a clear example of how the brand turns seasonal moments into lasting success.",
+  "published_at": "2025-09-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:24:38.357366+00:00",
+  "fetched_at": "2026-07-28T21:27:42.276842+00:00",
+  "last_updated_at": "2026-07-28T21:30:11.055220+00:00",
+  "paths": {
+    "article": "articles/v1/9e/the-hershey-company-common-stock/2025/09/3c/3cbebd8569e5cb3e6c83a07ba48750915e3af698a2a47ff49f91b848846275d1/article.md",
+    "record": "articles/v1/9e/the-hershey-company-common-stock/2025/09/3c/3cbebd8569e5cb3e6c83a07ba48750915e3af698a2a47ff49f91b848846275d1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5941,
+    "sha256": "sha256:a71f8efbb55981a1e5eeb96bd071371f24f40d946b5b559779e44b4670c5c197",
+    "normalized_content_hash": "sha256:1a8e7612e278f67029c766c36b6ca2dcef6e7082308e0d06599c5998aae13c30"
+  },
+  "provenance": {
+    "source_item_id": "e89494cb-0b25-469f-bef3-3f20adc878b6",
+    "external_id": "https://www.thehersheycompany.com/en_us/home/newsroom/blog/caramel-cracks-the-code-hersheys-sweetest-seasonal-strategy-yet.html"
+  }
+}

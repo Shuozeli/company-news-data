@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9443047bb62c8a752c846c0c92db9afe8018114bd4e752ca55e376d15cec1dc",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc. Common Stock"
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-70260359e1ba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutamazon.com/news/aws/claude-fable-5-anthropic-amazon-bedrock",
+    "canonical": "https://www.aboutamazon.com/news/aws/claude-fable-5-anthropic-amazon-bedrock"
+  },
+  "title": "Anthropic's Claude Fable 5 model back on Amazon Bedrock",
+  "summary": "AWS customers can once again access Mythos-level capabilities and exceptional performance in coding, knowledge work, and vision.",
+  "published_at": "2026-07-01T19:37:13.339+00:00",
+  "first_seen_at": "2026-07-21T06:14:35.460263+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:06.989391+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/07/d9/d9443047bb62c8a752c846c0c92db9afe8018114bd4e752ca55e376d15cec1dc/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/07/d9/d9443047bb62c8a752c846c0c92db9afe8018114bd4e752ca55e376d15cec1dc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2848,
+    "sha256": "sha256:70bb5fe72ff26fb1b453b072abadba3b9c913ecf73539b89b06885b318a32e28",
+    "normalized_content_hash": "sha256:bd27873f6b8c04d8c34d4857df69bbb9232f8b8d8dac08122a9f646c5ff23176"
+  },
+  "provenance": {
+    "source_item_id": "9f7c09cc-ab29-408e-913c-1ca8a66ee908",
+    "external_id": "https://www.aboutamazon.com/news/aws/claude-fable-5-anthropic-amazon-bedrock"
+  }
+}

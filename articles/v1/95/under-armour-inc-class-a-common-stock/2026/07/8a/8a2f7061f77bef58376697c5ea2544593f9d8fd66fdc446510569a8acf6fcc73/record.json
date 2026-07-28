@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a2f7061f77bef58376697c5ea2544593f9d8fd66fdc446510569a8acf6fcc73",
+  "company": {
+    "key": "under-armour-inc-class-a-common-stock",
+    "name": "Under Armour Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "under-armour-inc-class-a-common-stock-news-import-dcc9a249260a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.underarmour.com/en/stories/2023/06/under-armour-announces-changes-to-executive-leadership-team.html",
+    "canonical": "https://about.underarmour.com/en/stories/2023/06/under-armour-announces-changes-to-executive-leadership-team.html"
+  },
+  "title": "Under Armour Announces Changes to Executive Leadership Team",
+  "summary": "Under Armour, Inc. (NYSE: UA, UAA) today announced a series of senior executive leadership team changes supporting the company's Protect This House 3 (PTH3) strategy.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:17:41.421357+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:02.980173+00:00",
+  "paths": {
+    "article": "articles/v1/95/under-armour-inc-class-a-common-stock/2026/07/8a/8a2f7061f77bef58376697c5ea2544593f9d8fd66fdc446510569a8acf6fcc73/article.md",
+    "record": "articles/v1/95/under-armour-inc-class-a-common-stock/2026/07/8a/8a2f7061f77bef58376697c5ea2544593f9d8fd66fdc446510569a8acf6fcc73/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5566,
+    "sha256": "sha256:4f579963c84b4f1e1e0dd56ae5d941de9cc45d6824e8420e39754e92bd5fb1b0",
+    "normalized_content_hash": "sha256:3e5cd19182a30b5a02c6b7ab555b5ea172f4e9e4f3bf1ce8127e0477afd2802d"
+  },
+  "provenance": {
+    "source_item_id": "76fd3bce-4190-459e-8c8c-daa2c566299e",
+    "external_id": "https://about.underarmour.com/en/stories/2023/06/under-armour-announces-changes-to-executive-leadership-team.html"
+  }
+}

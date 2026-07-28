@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "zurn-elkay-water-solutions-corporation-common-stock",
+    "name": "Zurn Elkay Water Solutions Corporation Common Stock"
+  },
+  "record_count": 32,
+  "first_published_at": "2021-10-21T18:34:39+00:00",
+  "last_published_at": "2023-12-12T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 21
+    }
+  ]
+}

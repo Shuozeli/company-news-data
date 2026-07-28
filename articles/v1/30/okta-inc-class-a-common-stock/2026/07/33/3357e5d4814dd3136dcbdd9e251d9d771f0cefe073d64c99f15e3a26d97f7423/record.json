@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3357e5d4814dd3136dcbdd9e251d9d771f0cefe073d64c99f15e3a26d97f7423",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-144d960cd8f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/blog/product-innovation/okta-device-access-windows-hello/",
+    "canonical": "https://www.okta.com/blog/product-innovation/okta-device-access-windows-hello/"
+  },
+  "title": "Integrating Windows Hello biometrics with Okta Device Access",
+  "summary": "Expand your desktop MFA options with Windows Hello biometrics. Learn how Okta Device Access delivers secure offline authentication for enterprise endpoints.",
+  "published_at": "2026-07-14T07:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:05:37.626494+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:40.242933+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/33/3357e5d4814dd3136dcbdd9e251d9d771f0cefe073d64c99f15e3a26d97f7423/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/33/3357e5d4814dd3136dcbdd9e251d9d771f0cefe073d64c99f15e3a26d97f7423/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7645,
+    "sha256": "sha256:b22d39c3805509caa3c33777360be88bc46fccf02517f51b1f4e8c0b19a26062",
+    "normalized_content_hash": "sha256:e5fe00f0b7fffa65e1446dc990e634194ce408cea7fffb512c14664e07527d71"
+  },
+  "provenance": {
+    "source_item_id": "ad9a5224-7b46-4169-a4bb-6bac2cb7434a",
+    "external_id": "https://www.okta.com/blog/product-innovation/okta-device-access-windows-hello/"
+  }
+}

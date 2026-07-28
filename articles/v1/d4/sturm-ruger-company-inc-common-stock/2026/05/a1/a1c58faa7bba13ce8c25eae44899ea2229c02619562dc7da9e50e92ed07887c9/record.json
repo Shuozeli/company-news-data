@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a1c58faa7bba13ce8c25eae44899ea2229c02619562dc7da9e50e92ed07887c9",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-05-05.html",
+    "canonical": "https://ruger.com/news/2026-05-05.html"
+  },
+  "title": "Sturm, Ruger & Company, Inc. to Report First Quarter 2026 Financial Results on Wednesday, May 6",
+  "summary": "",
+  "published_at": "2026-05-05T16:05:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:21.850810+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-07-28T21:57:30.497210+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/05/a1/a1c58faa7bba13ce8c25eae44899ea2229c02619562dc7da9e50e92ed07887c9/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/05/a1/a1c58faa7bba13ce8c25eae44899ea2229c02619562dc7da9e50e92ed07887c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3684,
+    "sha256": "sha256:d65b5b61c083ce6dc982cade207aed67bc53c5b98be99a6043d2e7f9fedff271",
+    "normalized_content_hash": "sha256:fc18ec4ea0767d7e6a0e0e07aff9da88912e0bc0ff3aed564faf370ed1ca6929"
+  },
+  "provenance": {
+    "source_item_id": "0bdd40b1-65f2-40bd-a4b5-4087f19e13f2",
+    "external_id": "https://ruger.com/news/2026-05-05.html"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "republic-services-inc-common-stock",
+    "name": "Republic Services Inc. Common Stock"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-04-22T13:04:00+00:00",
+  "last_published_at": "2026-06-30T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    }
+  ]
+}

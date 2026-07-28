@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e43588f64d43f2ac1cb0c3cb0e9047f9a389a524664d18cdad953758356a91c0",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/configure-artifact-repo-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/configure-artifact-repo-argo-workflows"
+  },
+  "title": "How to Configure an Artifact Repo for Argo Workflows",
+  "summary": "Unlock the full potential of Argo Workflows by setting up your custom artifact repository. This guide takes you through the configuration process step-by-step, enabling seamless storage and retrieval of artifacts in your workflows.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.165731+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/e4/e43588f64d43f2ac1cb0c3cb0e9047f9a389a524664d18cdad953758356a91c0/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/e4/e43588f64d43f2ac1cb0c3cb0e9047f9a389a524664d18cdad953758356a91c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8736,
+    "sha256": "sha256:f01bcf3251f5fe70cf0c428cc97cda407bd14dbeac7bd8732fab8f38265aed98",
+    "normalized_content_hash": "sha256:7e1cb8a1a4fd63d2f66a93c816697a80f5f89bfa513f4af332d95e43323654ef"
+  },
+  "provenance": {
+    "source_item_id": "b1368036-cbb7-4c0e-87a7-1d78524a0428",
+    "external_id": "https://homepage.pipekit.io/blog/configure-artifact-repo-argo-workflows"
+  }
+}

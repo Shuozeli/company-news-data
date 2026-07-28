@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f63a6a48a0a0498137013d2c40f9d9f2d9ad8def90593cae85ee08c4e761e03",
+  "company": {
+    "key": "yc-justai",
+    "name": "JustAI"
+  },
+  "source": {
+    "id": "yc-justai-news-import-e4de3da632ca",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.getjust.ai/blog/best-practices",
+    "canonical": "https://www.getjust.ai/blog/best-practices"
+  },
+  "title": "The Lifecycle Messaging Field Guide: What Works, by Sector",
+  "summary": "793 live experiments across 30+ brands reveal what lifecycle messaging actually works - broken down by sector, scored on revenue actions, not opens.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T10:24:54.291702+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:52.666810+00:00",
+  "paths": {
+    "article": "articles/v1/cb/yc-justai/2026/07/5f/5f63a6a48a0a0498137013d2c40f9d9f2d9ad8def90593cae85ee08c4e761e03/article.md",
+    "record": "articles/v1/cb/yc-justai/2026/07/5f/5f63a6a48a0a0498137013d2c40f9d9f2d9ad8def90593cae85ee08c4e761e03/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10107,
+    "sha256": "sha256:917b0d72c1ced919daead0a38ceacb5a1e41a7db03d7c41aa0be4c95f544067d",
+    "normalized_content_hash": "sha256:9f0110e8f3047fc0704934065b637815567ff1a63c8de8f29288dcd66cd3d1b9"
+  },
+  "provenance": {
+    "source_item_id": "c1efc393-4379-4af3-bd03-d731a5e6e651",
+    "external_id": "https://www.getjust.ai/blog/best-practices"
+  }
+}

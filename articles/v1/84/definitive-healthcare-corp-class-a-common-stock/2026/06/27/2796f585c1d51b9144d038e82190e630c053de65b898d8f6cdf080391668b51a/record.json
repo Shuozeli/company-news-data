@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2796f585c1d51b9144d038e82190e630c053de65b898d8f6cdf080391668b51a",
+  "company": {
+    "key": "definitive-healthcare-corp-class-a-common-stock",
+    "name": "Definitive Healthcare Corp. Class A Common Stock"
+  },
+  "source": {
+    "id": "definitive-healthcare-corp-class-a-common-stock-news-import-ac685c0fe722",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.definitivehc.com/resources/healthcare-insights/top-hospitals-tavr-procedures",
+    "canonical": "https://www.definitivehc.com/resources/healthcare-insights/top-hospitals-tavr-procedures"
+  },
+  "title": "Top 10 hospitals performing TAVR procedures",
+  "summary": "Explore the top U.S. hospitals ranked by TAVR procedure volume and uncover trends shaping structural heart care and cardiovascular strategy.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:02:19.730773+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:16.454176+00:00",
+  "paths": {
+    "article": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/06/27/2796f585c1d51b9144d038e82190e630c053de65b898d8f6cdf080391668b51a/article.md",
+    "record": "articles/v1/84/definitive-healthcare-corp-class-a-common-stock/2026/06/27/2796f585c1d51b9144d038e82190e630c053de65b898d8f6cdf080391668b51a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9574,
+    "sha256": "sha256:e89c1da167df48ce1d13bcadd5d6b2f0b5a7b71642ebaed369bdf6052fec4176",
+    "normalized_content_hash": "sha256:4e6749fe7dbab90d15920b236e82dffc7eddfe27194a36f186a93676a08d429d"
+  },
+  "provenance": {
+    "source_item_id": "b3563e16-3f25-4c93-9242-c63d0fd4fa49",
+    "external_id": "https://www.definitivehc.com/resources/healthcare-insights/top-hospitals-tavr-procedures"
+  }
+}

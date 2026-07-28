@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pop-culture-group-co-ltd-class-a-ordinary-shares",
+    "name": "Pop Culture Group Co. Ltd Class A Ordinary Shares"
+  },
+  "record_count": 11,
+  "first_published_at": "2022-12-20T13:00:00+00:00",
+  "last_published_at": "2026-07-08T20:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ]
+}

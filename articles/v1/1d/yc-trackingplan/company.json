@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-trackingplan",
+    "name": "Trackingplan"
+  },
+  "record_count": 28,
+  "first_published_at": "2025-09-23T12:10:52.793+00:00",
+  "last_published_at": "2026-07-27T09:10:46.890+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 27
+    }
+  ]
+}

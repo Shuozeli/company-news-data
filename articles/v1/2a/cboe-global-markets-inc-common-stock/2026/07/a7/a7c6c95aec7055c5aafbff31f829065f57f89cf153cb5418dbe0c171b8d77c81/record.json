@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7c6c95aec7055c5aafbff31f829065f57f89cf153cb5418dbe0c171b8d77c81",
+  "company": {
+    "key": "cboe-global-markets-inc-common-stock",
+    "name": "Cboe Global Markets Inc. Common Stock"
+  },
+  "source": {
+    "id": "cboe-global-markets-inc-common-stock-news-import-30e516920ce8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cboe.com/insights/posts/market-metrics-that-matter-u-s-cash-equities-may-volume-briefing",
+    "canonical": "https://www.cboe.com/insights/posts/market-metrics-that-matter-u-s-cash-equities-may-volume-briefing/"
+  },
+  "title": "Market Metrics That Matter: U.S. Cash Equities May Volume Briefing",
+  "summary": "Cboe Global Markets, a leading provider of market infrastructure and tradable products, delivers cutting-edge trading, clearing and investment solutions to market participants around the world.",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T00:32:19.910168+00:00",
+  "fetched_at": "2026-07-28T21:16:46.713740+00:00",
+  "last_updated_at": "2026-07-28T21:18:14.754460+00:00",
+  "paths": {
+    "article": "articles/v1/2a/cboe-global-markets-inc-common-stock/2026/07/a7/a7c6c95aec7055c5aafbff31f829065f57f89cf153cb5418dbe0c171b8d77c81/article.md",
+    "record": "articles/v1/2a/cboe-global-markets-inc-common-stock/2026/07/a7/a7c6c95aec7055c5aafbff31f829065f57f89cf153cb5418dbe0c171b8d77c81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5409,
+    "sha256": "sha256:946b393329b4882864c11e904bce1cc34e3539ce41cf68cfd27a6e5e3aed554c",
+    "normalized_content_hash": "sha256:8e43eb7f17154931367ca1a0ddeb7fc0162431bb6f53470f9f8896a54bf622eb"
+  },
+  "provenance": {
+    "source_item_id": "a80b85e5-8171-496a-b858-b9ac19d0cd0f",
+    "external_id": "https://www.cboe.com/insights/posts/market-metrics-that-matter-u-s-cash-equities-may-volume-briefing/"
+  }
+}

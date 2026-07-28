@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f799be51e682ebab87cb763b7000effe09ea393d9f65791c56aec7981e99c666",
+  "company": {
+    "key": "ttec-holdings-inc-common-stock",
+    "name": "TTEC Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttec-holdings-inc-common-stock-news-import-09d3aab661b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttecdigital.com/news/ttec-digital-achieves-aws-financial-services-competency",
+    "canonical": "https://www.ttecdigital.com/news/ttec-digital-achieves-aws-financial-services-competency"
+  },
+  "title": "TTEC Digital achieves AWS Financial Services Competency",
+  "summary": "TTEC Digital earns AWS Financial Services Competency, recognizing its expertise in AI-powered CX solutions for financial institutions.",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:51:38.265268+00:00",
+  "fetched_at": "2026-07-28T22:13:03.870884+00:00",
+  "last_updated_at": "2026-07-28T22:15:05.641187+00:00",
+  "paths": {
+    "article": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/05/f7/f799be51e682ebab87cb763b7000effe09ea393d9f65791c56aec7981e99c666/article.md",
+    "record": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/05/f7/f799be51e682ebab87cb763b7000effe09ea393d9f65791c56aec7981e99c666/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3665,
+    "sha256": "sha256:bf125500595d3037f68a53a4fd91885bb9badaf2ea7d1dd7601a33cd8d30fa97",
+    "normalized_content_hash": "sha256:e50fd9416d0178e368effe283e8530a7699c5a91aa2215153a38e9975afa794d"
+  },
+  "provenance": {
+    "source_item_id": "e881b834-6ab5-44f1-98bd-9e436c76833f",
+    "external_id": "https://www.ttecdigital.com/news/ttec-digital-achieves-aws-financial-services-competency"
+  }
+}

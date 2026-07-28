@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pony-ai-inc-american-depositary-shares",
+    "name": "Pony AI Inc. American Depositary Shares"
+  },
+  "record_count": 15,
+  "first_published_at": "2026-04-10T04:16:46+00:00",
+  "last_published_at": "2026-07-22T06:47:33+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ]
+}

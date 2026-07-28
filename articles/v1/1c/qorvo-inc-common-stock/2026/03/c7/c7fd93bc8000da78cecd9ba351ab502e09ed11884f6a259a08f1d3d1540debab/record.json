@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7fd93bc8000da78cecd9ba351ab502e09ed11884f6a259a08f1d3d1540debab",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-e3018e454ae6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/design-hub/blog/the-quiet-convergence-of-power-and-rf",
+    "canonical": "https://www.qorvo.com/design-hub/blog/the-quiet-convergence-of-power-and-rf"
+  },
+  "title": "The Quiet Convergence of Power and RF",
+  "summary": "Discover why modern RF performance now depends on treating power management like RF design.",
+  "published_at": "2026-03-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:14:16.870814+00:00",
+  "fetched_at": "2026-07-28T22:17:51.657377+00:00",
+  "last_updated_at": "2026-07-28T22:19:46.742469+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/03/c7/c7fd93bc8000da78cecd9ba351ab502e09ed11884f6a259a08f1d3d1540debab/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/03/c7/c7fd93bc8000da78cecd9ba351ab502e09ed11884f6a259a08f1d3d1540debab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6499,
+    "sha256": "sha256:c3ff5c1ec9f53b86059e2f3105915509455ae759ed0fe588d4204b65156f38b8",
+    "normalized_content_hash": "sha256:33392a4df6edd5ceda5f47d4980c33ac55bb975741d3513eeee340e62a27a44c"
+  },
+  "provenance": {
+    "source_item_id": "e062aa44-c723-43d5-ada4-942b7ef0b9f1",
+    "external_id": "https://www.qorvo.com/design-hub/blog/the-quiet-convergence-of-power-and-rf"
+  }
+}

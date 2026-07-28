@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-mutiny",
+    "name": "Mutiny"
+  },
+  "record_count": 22,
+  "first_published_at": "2021-01-31T01:51:08+00:00",
+  "last_published_at": "2021-09-30T06:37:32+00:00",
+  "partitions": [
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 19
+    }
+  ]
+}

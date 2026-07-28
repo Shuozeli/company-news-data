@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c6323400db4ddbed342a91147ad3011cdf000268ef50ea6054404e37d123619a",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-d1044ff9c1aa",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/blog/ai-product-images-food-delivery",
+    "canonical": "https://www.photoroom.com/blog/ai-product-images-food-delivery"
+  },
+  "title": "How food platforms standardize product images at scale",
+  "summary": "Generic AI misrepresents food. Purpose-built AI doesn't. How food and grocery platforms solve image coverage, accuracy, and velocity at enterprise scale.",
+  "published_at": "2026-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:00:08.835718+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-07-28T21:48:58.518239+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/05/c6/c6323400db4ddbed342a91147ad3011cdf000268ef50ea6054404e37d123619a/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/05/c6/c6323400db4ddbed342a91147ad3011cdf000268ef50ea6054404e37d123619a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22550,
+    "sha256": "sha256:4f23464815a20bd6deefe0ef10d2336f42a43058e53cc75baed49c132aa9a41c",
+    "normalized_content_hash": "sha256:a655a3baa5e3287484596ce53fed52aae48ae02307f8ed8bc578637b5f9a7213"
+  },
+  "provenance": {
+    "source_item_id": "69739eb4-158f-4c8d-a47b-cc467d309ac3",
+    "external_id": "https://www.photoroom.com/blog/ai-product-images-food-delivery"
+  }
+}

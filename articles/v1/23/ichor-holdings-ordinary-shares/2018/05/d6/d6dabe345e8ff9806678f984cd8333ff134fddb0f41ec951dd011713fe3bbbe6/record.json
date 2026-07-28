@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6dabe345e8ff9806678f984cd8333ff134fddb0f41ec951dd011713fe3bbbe6",
+  "company": {
+    "key": "ichor-holdings-ordinary-shares",
+    "name": "Ichor Holdings Ordinary Shares"
+  },
+  "source": {
+    "id": "ichor-holdings-ordinary-shares-rss-2c59f3714c04",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://info.ichorsystems.com/blog/ichors-endpoint-upgrade-for-tcp-family",
+    "canonical": "https://info.ichorsystems.com/blog/ichors-endpoint-upgrade-for-tcp-family"
+  },
+  "title": "Ichor's Endpoint Upgrade for TCP® Family",
+  "summary": "Learn about Ichor's new collimated endpoint upgraded applied from later models to the TCP family. This design feature can enable increased production efficiency and extended MTBC.",
+  "published_at": "2018-05-11T17:40:52+00:00",
+  "first_seen_at": "2026-07-20T04:36:48.898767+00:00",
+  "fetched_at": "2026-07-28T21:06:15.160827+00:00",
+  "last_updated_at": "2026-07-28T21:07:54.752161+00:00",
+  "paths": {
+    "article": "articles/v1/23/ichor-holdings-ordinary-shares/2018/05/d6/d6dabe345e8ff9806678f984cd8333ff134fddb0f41ec951dd011713fe3bbbe6/article.md",
+    "record": "articles/v1/23/ichor-holdings-ordinary-shares/2018/05/d6/d6dabe345e8ff9806678f984cd8333ff134fddb0f41ec951dd011713fe3bbbe6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2340,
+    "sha256": "sha256:2e9c3d6bd3488e44f926780038a6ad928a34a45dea30a2adcebdc723047f0242",
+    "normalized_content_hash": "sha256:bdca0b89b4833ca88a4eb5ca7da559eff900ca5e837539436aa505294cba8232"
+  },
+  "provenance": {
+    "source_item_id": "0847be16-524e-418d-8b11-d358dc1bf29f",
+    "external_id": "https://info.ichorsystems.com/blog/ichors-endpoint-upgrade-for-tcp-family"
+  }
+}

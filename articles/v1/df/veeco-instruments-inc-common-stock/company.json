@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "veeco-instruments-inc-common-stock",
+    "name": "Veeco Instruments Inc. Common Stock"
+  },
+  "record_count": 13,
+  "first_published_at": "2021-01-12T18:39:57+00:00",
+  "last_published_at": "2026-07-21T17:12:37+00:00",
+  "partitions": [
+    {
+      "partition": "2021-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

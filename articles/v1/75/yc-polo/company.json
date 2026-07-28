@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-polo",
+    "name": "Polo"
+  },
+  "record_count": 15,
+  "first_published_at": "2025-11-24T05:09:00+00:00",
+  "last_published_at": "2026-06-25T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ]
+}

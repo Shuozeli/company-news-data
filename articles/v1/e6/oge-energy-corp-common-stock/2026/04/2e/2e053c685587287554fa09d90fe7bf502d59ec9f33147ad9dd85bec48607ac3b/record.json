@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e053c685587287554fa09d90fe7bf502d59ec9f33147ad9dd85bec48607ac3b",
+  "company": {
+    "key": "oge-energy-corp-common-stock",
+    "name": "OGE Energy Corp Common Stock"
+  },
+  "source": {
+    "id": "oge-energy-corp-common-stock-rss-3e9f4f9cff46",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://ogeenergy.gcs-web.com/news-releases/news-release-details/oge-announces-landmark-contract-google",
+    "canonical": "https://ogeenergy.gcs-web.com/news-releases/news-release-details/oge-announces-landmark-contract-google"
+  },
+  "title": "OG&E Announces Landmark Contract with Google",
+  "summary": "The Investor Relations website contains information about OGE Energy Corporation's business for stockholders, potential investors, and financial analysts.",
+  "published_at": "2026-04-30T11:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:07:06.315381+00:00",
+  "fetched_at": "2026-07-28T21:45:24.644708+00:00",
+  "last_updated_at": "2026-07-28T22:07:43.718644+00:00",
+  "paths": {
+    "article": "articles/v1/e6/oge-energy-corp-common-stock/2026/04/2e/2e053c685587287554fa09d90fe7bf502d59ec9f33147ad9dd85bec48607ac3b/article.md",
+    "record": "articles/v1/e6/oge-energy-corp-common-stock/2026/04/2e/2e053c685587287554fa09d90fe7bf502d59ec9f33147ad9dd85bec48607ac3b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6517,
+    "sha256": "sha256:9f328a8f8603efc5d3f6b82be66821057d861bc6b1c81255d2bd3999538066e8",
+    "normalized_content_hash": "sha256:df4f0082af2f17466a1cbd4a4faa50d9bdc0bace6f3db04dd3347a89d92d6f1f"
+  },
+  "provenance": {
+    "source_item_id": "3ed34638-ae9a-4826-b74f-dc5038f034c8",
+    "external_id": "45666"
+  }
+}

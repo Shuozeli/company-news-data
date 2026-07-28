@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "52866ce04bc6b6265d6da9d3eb5e31f22d48198b1181c7a8ffc8a2f8e527cf52",
+  "company": {
+    "key": "sap-se-ads",
+    "name": "SAP SE ADS"
+  },
+  "source": {
+    "id": "sap-se-ads-rss-5a5b87a458d9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://news.sap.com/2026/07/external-talent-no-longer-temporary/",
+    "canonical": "https://news.sap.com/2026/07/external-talent-no-longer-temporary/"
+  },
+  "title": "External Talent Is No Longer Temporary",
+  "summary": "Organizations are making external talent a permanent part of workforce strategy to build agility, resilience, and access to critical skills.",
+  "published_at": "2026-07-14T12:15:00+00:00",
+  "first_seen_at": "2026-07-25T22:15:27.001075+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-07-28T22:12:23.535514+00:00",
+  "paths": {
+    "article": "articles/v1/cc/sap-se-ads/2026/07/52/52866ce04bc6b6265d6da9d3eb5e31f22d48198b1181c7a8ffc8a2f8e527cf52/article.md",
+    "record": "articles/v1/cc/sap-se-ads/2026/07/52/52866ce04bc6b6265d6da9d3eb5e31f22d48198b1181c7a8ffc8a2f8e527cf52/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8143,
+    "sha256": "sha256:4b251eda6bf0a2f2c216d0e4cd4329bbf40e573bc470b060e5966e77d446e43b",
+    "normalized_content_hash": "sha256:3f7ec7c50dfed3b882417c2ed71d79ecf64463a6ee2f79dc1fc09d521856e913"
+  },
+  "provenance": {
+    "source_item_id": "5475424e-9026-41b6-a677-e35a7807c2a3",
+    "external_id": "https://news.sap.com/?p=246024"
+  }
+}

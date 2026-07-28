@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34201e86c5847692cadbe23ae3a6c466e3a71673d5ed82c820b8a4f475026260",
+  "company": {
+    "key": "pdf-solutions-inc-common-stock",
+    "name": "PDF Solutions Inc. Common Stock"
+  },
+  "source": {
+    "id": "pdf-solutions-inc-common-stock-news-import-e868483c6bdb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pdf.com/resources/pdf-solutions-announces-launch-of-public-offering-of-common-stock/",
+    "canonical": "https://www.pdf.com/resources/pdf-solutions-announces-launch-of-public-offering-of-common-stock/"
+  },
+  "title": "PDF Solutions® Announces Launch of Public Offering of Common Stock",
+  "summary": "PDF Solutions, Inc. (Nasdaq: PDFS), a leading provider of unified data and cloud analytics for the semiconductor ecosystem, today announced financial results for its first quarter ended March 31, 2023.",
+  "published_at": "2026-05-13T20:10:42+00:00",
+  "first_seen_at": "2026-07-25T18:56:45.740821+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-07-28T22:00:56.946033+00:00",
+  "paths": {
+    "article": "articles/v1/60/pdf-solutions-inc-common-stock/2026/05/34/34201e86c5847692cadbe23ae3a6c466e3a71673d5ed82c820b8a4f475026260/article.md",
+    "record": "articles/v1/60/pdf-solutions-inc-common-stock/2026/05/34/34201e86c5847692cadbe23ae3a6c466e3a71673d5ed82c820b8a4f475026260/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6289,
+    "sha256": "sha256:5d3c098332fd9af41231a244d97a7429c53ca570414b2a03e1ebf6be1b729f0f",
+    "normalized_content_hash": "sha256:0c6764dbb06525b70b8fc0ebd7e1f7b9f6d87ab5ef3e19cc2c4cc56ccaa1096b"
+  },
+  "provenance": {
+    "source_item_id": "3c7e5980-e8e5-4281-8aaf-9868abce11fd",
+    "external_id": "https://www.pdf.com/resources/pdf-solutions-announces-launch-of-public-offering-of-common-stock/"
+  }
+}

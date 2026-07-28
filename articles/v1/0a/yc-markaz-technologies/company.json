@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-markaz-technologies",
+    "name": "Markaz Technologies"
+  },
+  "record_count": 40,
+  "first_published_at": "2024-09-28T07:10:07+00:00",
+  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "70a797a4af7dae9e273dfa441f5fe27a4695be03b007c0be0af02ddce084f797",
+  "company": {
+    "key": "mobileye-global-inc-class-a-common-stock",
+    "name": "Mobileye Global Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "mobileye-global-inc-class-a-common-stock-news-import-e63d2f9688f3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mobileye.com/news/volkswagen-group-names-mobileye-among-top-suppliers-for-2024/",
+    "canonical": "https://www.mobileye.com/news/volkswagen-group-names-mobileye-among-top-suppliers-for-2024/"
+  },
+  "title": "Volkswagen Group names Mobileye among top suppliers for 2024",
+  "summary": "Mobileye presented Digitalization award by Volkswagen Group at special event in Wolfsburg on July 2.",
+  "published_at": "2024-07-08T04:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:27:25.866741+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:16.103540+00:00",
+  "paths": {
+    "article": "articles/v1/fd/mobileye-global-inc-class-a-common-stock/2024/07/70/70a797a4af7dae9e273dfa441f5fe27a4695be03b007c0be0af02ddce084f797/article.md",
+    "record": "articles/v1/fd/mobileye-global-inc-class-a-common-stock/2024/07/70/70a797a4af7dae9e273dfa441f5fe27a4695be03b007c0be0af02ddce084f797/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2878,
+    "sha256": "sha256:2c9eb3a1fadcfc00da845c5cf287480c4c7740462f5a97663acac5dd345264a0",
+    "normalized_content_hash": "sha256:315dba52cab8fff12e890fb8cfb7b4c96ee017d6910bd66eea8dd00d84ae47a9"
+  },
+  "provenance": {
+    "source_item_id": "74c8aa3a-3c21-41bb-aefb-98860e95e8e6",
+    "external_id": "https://www.mobileye.com/news/volkswagen-group-names-mobileye-among-top-suppliers-for-2024/"
+  }
+}

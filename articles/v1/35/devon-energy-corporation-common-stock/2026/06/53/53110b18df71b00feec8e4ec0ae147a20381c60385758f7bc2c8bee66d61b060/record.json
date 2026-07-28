@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "53110b18df71b00feec8e4ec0ae147a20381c60385758f7bc2c8bee66d61b060",
+  "company": {
+    "key": "devon-energy-corporation-common-stock",
+    "name": "Devon Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "devon-energy-corporation-common-stock-rss-b68131991e20",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-Provides-Updated-2026-Outlook/default.aspx",
+    "canonical": "http://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-Provides-Updated-2026-Outlook/default.aspx"
+  },
+  "title": "Devon Energy Provides Updated 2026 Outlook",
+  "summary": "",
+  "published_at": "2026-06-09T20:55:00+00:00",
+  "first_seen_at": "2026-07-25T01:08:53.429704+00:00",
+  "fetched_at": "2026-07-28T21:53:16.277425+00:00",
+  "last_updated_at": "2026-07-28T21:53:16.314121+00:00",
+  "paths": {
+    "article": "articles/v1/35/devon-energy-corporation-common-stock/2026/06/53/53110b18df71b00feec8e4ec0ae147a20381c60385758f7bc2c8bee66d61b060/article.md",
+    "record": "articles/v1/35/devon-energy-corporation-common-stock/2026/06/53/53110b18df71b00feec8e4ec0ae147a20381c60385758f7bc2c8bee66d61b060/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 715,
+    "sha256": "sha256:e7c771279f884a66615043953868c534d089338457b21ee53dc4e30c913f7f32",
+    "normalized_content_hash": "sha256:2553250f0921f298d95061c97780442871baecd36e984805114153a321b4f9f5"
+  },
+  "provenance": {
+    "source_item_id": "3c16d15e-e784-4686-96d3-5ea62baec5d3",
+    "external_id": "515dca9b-e0c0-42bb-af7a-41cb5eb05569"
+  }
+}

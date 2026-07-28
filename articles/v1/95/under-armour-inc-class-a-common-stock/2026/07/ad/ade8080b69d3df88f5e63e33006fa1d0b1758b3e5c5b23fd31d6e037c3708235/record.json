@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ade8080b69d3df88f5e63e33006fa1d0b1758b3e5c5b23fd31d6e037c3708235",
+  "company": {
+    "key": "under-armour-inc-class-a-common-stock",
+    "name": "Under Armour Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "under-armour-inc-class-a-common-stock-news-import-dcc9a249260a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.underarmour.com/en/stories/2023/02/equality-has-no-offseason.html",
+    "canonical": "https://about.underarmour.com/en/stories/2023/02/equality-has-no-offseason.html"
+  },
+  "title": "Equality Has No Offseason",
+  "summary": "At Under Armour, 'Stand for Equality' has always been a core value, meaning we stand with underrepresented groups, such as the LGBTQIA+ community, year-round and remain committed to creating better representation in sport, around the world, and in our own community.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:17:41.421357+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-07-28T21:42:02.949165+00:00",
+  "paths": {
+    "article": "articles/v1/95/under-armour-inc-class-a-common-stock/2026/07/ad/ade8080b69d3df88f5e63e33006fa1d0b1758b3e5c5b23fd31d6e037c3708235/article.md",
+    "record": "articles/v1/95/under-armour-inc-class-a-common-stock/2026/07/ad/ade8080b69d3df88f5e63e33006fa1d0b1758b3e5c5b23fd31d6e037c3708235/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2863,
+    "sha256": "sha256:0a02a2aa29154a09322f45cadfd674c1a8b3052f42a3dc750e5d63be2b924b6d",
+    "normalized_content_hash": "sha256:eb71b0023c1347004c3d2656b919d57f6f7e998d2251c2deb8a0f991d9e9e6d2"
+  },
+  "provenance": {
+    "source_item_id": "b0112e91-11a1-4c59-a67c-092e0603be12",
+    "external_id": "https://about.underarmour.com/en/stories/2023/02/equality-has-no-offseason.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b47d5db68161986c17e3b294a6e7646cb61f794db56fa7f814a5ecfd3dc66ca",
+  "company": {
+    "key": "yc-momento",
+    "name": "Momento"
+  },
+  "source": {
+    "id": "yc-momento-news-import-ecd11f38dbc6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tumomento.com/blog/ia-en-la-industria-de-seguros-en-mexico/",
+    "canonical": "https://www.tumomento.com/blog/ia-en-la-industria-de-seguros-en-mexico/"
+  },
+  "title": "El Impacto de la Inteligencia Artificial en la Industria de Seguros en México: Optimizando Precio, Producto y Servicio",
+  "summary": "Descubre cómo la inteligencia artificial está transformando la industria de seguros en México. Desde segmentación avanzada y detección de fraudes hasta productos personalizados y mejor atención al cliente, la IA está revolucionando los seguros.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:45:59.826435+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:47.680686+00:00",
+  "paths": {
+    "article": "articles/v1/8a/yc-momento/2026/07/2b/2b47d5db68161986c17e3b294a6e7646cb61f794db56fa7f814a5ecfd3dc66ca/article.md",
+    "record": "articles/v1/8a/yc-momento/2026/07/2b/2b47d5db68161986c17e3b294a6e7646cb61f794db56fa7f814a5ecfd3dc66ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10396,
+    "sha256": "sha256:e8abf7e13788bf22d0b68f6a9e81ac0e0cc5361a224c0571e2a126b59faa2b82",
+    "normalized_content_hash": "sha256:73f2dba1230c3d8be634f820c3c6a47537c61abbdc03a7c00dc9ed00d7305fc6"
+  },
+  "provenance": {
+    "source_item_id": "880a4287-1aa5-4711-b146-aeb6e007ae4f",
+    "external_id": "https://www.tumomento.com/blog/ia-en-la-industria-de-seguros-en-mexico/"
+  }
+}

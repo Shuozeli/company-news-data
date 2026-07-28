@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d58da8b50defaf572f8161c90c0d0cf1b4aecf2e9694038e072594db35350f4c",
+  "company": {
+    "key": "xbiotech-inc-common-stock",
+    "name": "XBiotech Inc. Common Stock"
+  },
+  "source": {
+    "id": "xbiotech-inc-common-stock-news-import-44daba712a5e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.xbiotech.com/news/advancing-infectious-disease-innovation",
+    "canonical": "https://www.xbiotech.com/news/advancing-infectious-disease-innovation"
+  },
+  "title": "Advancing Infectious Disease Innovation: New Microscopy Insights from Our UT Austin Collaboration",
+  "summary": "XBiotech is conducting a Phase I study to evaluate the safety and pharmacokinetics of its stroke therapy candidate, Hutrukin, in healthy volunteers.",
+  "published_at": "2026-02-06T08:30:43.561+00:00",
+  "first_seen_at": "2026-07-24T07:33:53.629727+00:00",
+  "fetched_at": "2026-07-28T22:21:24.537254+00:00",
+  "last_updated_at": "2026-07-28T22:21:36.831509+00:00",
+  "paths": {
+    "article": "articles/v1/e8/xbiotech-inc-common-stock/2026/02/d5/d58da8b50defaf572f8161c90c0d0cf1b4aecf2e9694038e072594db35350f4c/article.md",
+    "record": "articles/v1/e8/xbiotech-inc-common-stock/2026/02/d5/d58da8b50defaf572f8161c90c0d0cf1b4aecf2e9694038e072594db35350f4c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1306,
+    "sha256": "sha256:7312faf72ac1f20cf5e9ef7d5d5da1587709d3e71705376235cbb49f9d44f84a",
+    "normalized_content_hash": "sha256:05fc642ad81face010eeaf45047e48fcbf044cea25c991b1da89dbe77e5a00d5"
+  },
+  "provenance": {
+    "source_item_id": "28490f4b-b4b0-4397-9bd7-64b9ad82cfca",
+    "external_id": "https://www.xbiotech.com/news/advancing-infectious-disease-innovation"
+  }
+}

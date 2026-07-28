@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "apyx-medical-corporation-common-stock",
+    "name": "Apyx Medical Corporation Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-02-12T13:16:09+00:00",
+  "last_published_at": "2026-05-27T11:00:06+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    }
+  ]
+}

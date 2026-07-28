@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c71f6f96373cd83d9841a94348e22bdbac2649e77d9f1bcaf8368aebf3f4e7f",
+  "company": {
+    "key": "anavex-life-sciences-corp-common-stock",
+    "name": "Anavex Life Sciences Corp. Common Stock"
+  },
+  "source": {
+    "id": "anavex-life-sciences-corp-common-stock-news-import-ce7f89501e77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anavex.com/news/anavex-life-sciences-appoints-dr-axel-paeger-board-of-directors/",
+    "canonical": "https://anavex.com/news/anavex-life-sciences-appoints-dr-axel-paeger-board-of-directors/"
+  },
+  "title": "Anavex Life Sciences Appoints Seasoned Healthcare Leader to Board of Directors | Anavex Life Sciences",
+  "summary": "Anavex Life Sciences appoints Dr. Axel Paeger, MD, MBA, MBI to its Board of Directors, strengthening leadership in neurology and precision medicine.",
+  "published_at": "2026-02-23T12:25:13+00:00",
+  "first_seen_at": "2026-07-24T16:43:56.840093+00:00",
+  "fetched_at": "2026-07-28T22:03:45.188546+00:00",
+  "last_updated_at": "2026-07-28T22:04:13.716761+00:00",
+  "paths": {
+    "article": "articles/v1/e6/anavex-life-sciences-corp-common-stock/2026/02/9c/9c71f6f96373cd83d9841a94348e22bdbac2649e77d9f1bcaf8368aebf3f4e7f/article.md",
+    "record": "articles/v1/e6/anavex-life-sciences-corp-common-stock/2026/02/9c/9c71f6f96373cd83d9841a94348e22bdbac2649e77d9f1bcaf8368aebf3f4e7f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7010,
+    "sha256": "sha256:093f69715209b38ce96e88b3069ffb4085160b824e97c2a5b9121159c7045b7d",
+    "normalized_content_hash": "sha256:3aef481369f2bf1130f83ffbaf1d6b6e2d8dd5ef240de62d554ceba0877ca3fb"
+  },
+  "provenance": {
+    "source_item_id": "0f3a7e4b-e66b-4b83-acbd-8da19e2280de",
+    "external_id": "https://anavex.com/news/anavex-life-sciences-appoints-dr-axel-paeger-board-of-directors/"
+  }
+}

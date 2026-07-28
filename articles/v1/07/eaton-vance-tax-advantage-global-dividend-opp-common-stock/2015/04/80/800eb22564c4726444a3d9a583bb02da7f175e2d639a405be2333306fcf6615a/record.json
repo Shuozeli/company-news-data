@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "800eb22564c4726444a3d9a583bb02da7f175e2d639a405be2333306fcf6615a",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260724/arm-weekly-pay-etf-roundhill-etf-trust-bats-armw-declared-a-dividend-of-$0.4932-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260724/arm-weekly-pay-etf-roundhill-etf-trust-bats-armw-declared-a-dividend-of-$0.4932-per-share/"
+  },
+  "title": "ARMW Dividend Announcement $0.4932/Share 7/24/2026",
+  "summary": "BATS:ARMW Arm Weekly Pay ETF/Roundhill ETF Trust Dividend Announcement $0.4932 per share on July 24, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-26T13:16:00.264154+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:30.968502+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/80/800eb22564c4726444a3d9a583bb02da7f175e2d639a405be2333306fcf6615a/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/80/800eb22564c4726444a3d9a583bb02da7f175e2d639a405be2333306fcf6615a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1594,
+    "sha256": "sha256:03b8ca6ff4c21aea79f33591ce574508529fa2ee063a73aea2b8f63cc2949730",
+    "normalized_content_hash": "sha256:d84f9f99cf8a4c61665f1c0c0c8bc6a21837d8aba752be8e26d560d6848044db"
+  },
+  "provenance": {
+    "source_item_id": "73e916f8-85ad-4b82-bd8e-f61827a75e99",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260724/arm-weekly-pay-etf-roundhill-etf-trust-bats-armw-declared-a-dividend-of-$0.4932-per-share/"
+  }
+}

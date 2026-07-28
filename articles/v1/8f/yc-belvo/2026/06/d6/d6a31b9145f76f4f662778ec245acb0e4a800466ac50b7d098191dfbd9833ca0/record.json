@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6a31b9145f76f4f662778ec245acb0e4a800466ac50b7d098191dfbd9833ca0",
+  "company": {
+    "key": "yc-belvo",
+    "name": "Belvo"
+  },
+  "source": {
+    "id": "yc-belvo-rss-3d04ef8adabc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://belvo.com/blog/intelligent-pix-how-automatic-transfers-work/",
+    "canonical": "https://belvo.com/blog/intelligent-pix-how-automatic-transfers-work/"
+  },
+  "title": "Intelligent Pix: how automatic transfers work",
+  "summary": "Learn what Intelligent Pix is, how single-consent works via Open Finance, and which use cases it unlocks for recurring payments.",
+  "published_at": "2026-06-10T13:30:47+00:00",
+  "first_seen_at": "2026-07-20T23:23:37.443894+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:50.437860+00:00",
+  "paths": {
+    "article": "articles/v1/8f/yc-belvo/2026/06/d6/d6a31b9145f76f4f662778ec245acb0e4a800466ac50b7d098191dfbd9833ca0/article.md",
+    "record": "articles/v1/8f/yc-belvo/2026/06/d6/d6a31b9145f76f4f662778ec245acb0e4a800466ac50b7d098191dfbd9833ca0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7632,
+    "sha256": "sha256:2ad3ecf415075482d5233460c6f2d7c54a9ce694570b4de483f4517a33948e8d",
+    "normalized_content_hash": "sha256:53483c08407e114b2563dd375de76002b309590df6e255a8b6ef6705f54a8a5a"
+  },
+  "provenance": {
+    "source_item_id": "975ebb8b-1bb9-4d5d-bd8a-b61f6e5fa358",
+    "external_id": "https://belvo.com/?p=38691"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab652cf56ee3ecdc9322e7ee5bc74e3b98e43c5d82cfd3a2798cf6d4a47c0568",
+  "company": {
+    "key": "toronto-dominion-bank-the-common-stock",
+    "name": "Toronto Dominion Bank (The) Common Stock"
+  },
+  "source": {
+    "id": "toronto-dominion-bank-the-common-stock-news-import-3d50fa624b84",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stories.td.com/ca/en/news/2026-07-23-td-asset-management-inc.-announces-risk-rating-change-and-fe",
+    "canonical": "https://stories.td.com/ca/en/news/2026-07-23-td-asset-management-inc.-announces-risk-rating-change-and-fe"
+  },
+  "title": "TD Asset Management Inc. announces risk rating change and fee reduction for certain TD Mutual Funds",
+  "summary": "TD Asset Management Inc. (\"TDAM\"), the manager of TD Mutual Funds, announced today a risk rating change for the TD U.S. Long Term Treasury Bond Fund and a management fee reduction for the TD Risk...",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:22:20.887982+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-07-28T21:20:49.617380+00:00",
+  "paths": {
+    "article": "articles/v1/4a/toronto-dominion-bank-the-common-stock/2026/07/ab/ab652cf56ee3ecdc9322e7ee5bc74e3b98e43c5d82cfd3a2798cf6d4a47c0568/article.md",
+    "record": "articles/v1/4a/toronto-dominion-bank-the-common-stock/2026/07/ab/ab652cf56ee3ecdc9322e7ee5bc74e3b98e43c5d82cfd3a2798cf6d4a47c0568/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4835,
+    "sha256": "sha256:8c35d17d716399b978d79e04959fc16f416c4f0530fe126e4e65f88945ce2f4c",
+    "normalized_content_hash": "sha256:f35ecbc3fa796db2d3533eb9fc1bd6efc2645d9e069ba66ad1ccce20873315e6"
+  },
+  "provenance": {
+    "source_item_id": "b1fddc22-60d3-4c95-87fa-a17f405df0c8",
+    "external_id": "https://stories.td.com/ca/en/news/2026-07-23-td-asset-management-inc.-announces-risk-rating-change-and-fe"
+  }
+}

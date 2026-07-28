@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bef233611855f77b84696b5214b9bff5a7980457d335efe7e9a588959daa4362",
+  "company": {
+    "key": "insperity-inc-common-stock",
+    "name": "Insperity Inc. Common Stock"
+  },
+  "source": {
+    "id": "insperity-inc-common-stock-news-import-506516edf724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.insperity.com/investor-relations/dividends-splits",
+    "canonical": "https://ir.insperity.com/investor-relations/dividends-splits"
+  },
+  "title": "Dividends & Splits",
+  "summary": "Insperity Investor Relations puts our corporate profile, NYSE (NSP) stock price and other valuable company information at your fingertips. Click for details.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T00:04:11.880875+00:00",
+  "fetched_at": "2026-07-23T17:49:13.551191+00:00",
+  "last_updated_at": "2026-07-23T17:49:14.187767+00:00",
+  "paths": {
+    "article": "articles/v1/b8/insperity-inc-common-stock/2026/07/be/bef233611855f77b84696b5214b9bff5a7980457d335efe7e9a588959daa4362/article.md",
+    "record": "articles/v1/b8/insperity-inc-common-stock/2026/07/be/bef233611855f77b84696b5214b9bff5a7980457d335efe7e9a588959daa4362/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2621,
+    "sha256": "sha256:978a0a557aee9c9b7b1052e2402c4b1c333175d8706eb23cd31360fd63dd329c",
+    "normalized_content_hash": "sha256:624b68ca8b9790ba70134fef12824dbddde274e034ae662b142460a13ed9d76f"
+  },
+  "provenance": {
+    "source_item_id": "3f54b5c5-c43e-40f1-9528-b0eac29fd7dd",
+    "external_id": "https://ir.insperity.com/investor-relations/dividends-splits"
+  }
+}

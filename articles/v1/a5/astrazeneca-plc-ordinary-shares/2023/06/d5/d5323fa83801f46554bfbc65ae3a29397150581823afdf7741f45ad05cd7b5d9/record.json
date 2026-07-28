@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d5323fa83801f46554bfbc65ae3a29397150581823afdf7741f45ad05cd7b5d9",
+  "company": {
+    "key": "astrazeneca-plc-ordinary-shares",
+    "name": "AstraZeneca PLC Ordinary Shares"
+  },
+  "source": {
+    "id": "astrazeneca-plc-ordinary-shares-rss-c5fb94799a27",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2023/tagrisso-achieved-unprecedented-survival-in-early-stage-egfr-mutated-lung-cancer-with-88-of-patients-alive-at-five-years-in-adaura-phase-iii-trial.html",
+    "canonical": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2023/tagrisso-achieved-unprecedented-survival-in-early-stage-egfr-mutated-lung-cancer-with-88-of-patients-alive-at-five-years-in-adaura-phase-iii-trial.html"
+  },
+  "title": "Tagrisso achieved unprecedented survival in early-stage EGFR-mutated lung cancer, with 88% of patients alive at five years in ADAURA Phase III trial",
+  "summary": "",
+  "published_at": "2023-06-04T12:00:00+00:00",
+  "first_seen_at": "2026-07-26T23:00:47.318234+00:00",
+  "fetched_at": "2026-07-28T03:42:03.141221+00:00",
+  "last_updated_at": "2026-07-28T03:42:03.420996+00:00",
+  "paths": {
+    "article": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2023/06/d5/d5323fa83801f46554bfbc65ae3a29397150581823afdf7741f45ad05cd7b5d9/article.md",
+    "record": "articles/v1/a5/astrazeneca-plc-ordinary-shares/2023/06/d5/d5323fa83801f46554bfbc65ae3a29397150581823afdf7741f45ad05cd7b5d9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 890,
+    "sha256": "sha256:968d5fb1895858733ea2b59e54d6dc4e07ed02d4bb55c187f2c302d990e568c6",
+    "normalized_content_hash": "sha256:cfce85d1260d7ebfcc80f6504b7751a275740c16608869b6666e74e4e2a718c0"
+  },
+  "provenance": {
+    "source_item_id": "aa3dd9f4-9e95-4c68-a555-a50eba0b4559",
+    "external_id": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2023/tagrisso-achieved-unprecedented-survival-in-early-stage-egfr-mutated-lung-cancer-with-88-of-patients-alive-at-five-years-in-adaura-phase-iii-trial.html"
+  }
+}

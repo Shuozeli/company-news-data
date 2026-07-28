@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3926083c01e1136730ea8acbde7c7209d873a63f3fe1bad3a25c158a4855c58d",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/financial_results_2026/003.html",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/financial_results_2026/003.html"
+  },
+  "title": "Sustainable Growth with Stakeholders Worldwide -- President Kon on Toyota Management",
+  "summary": "What did President Kenta Kon say at his first financial results briefing since assuming office? #TOYOTATIMES",
+  "published_at": "2026-05-07T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:26:06.395757+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-07-28T21:57:31.138962+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/05/39/3926083c01e1136730ea8acbde7c7209d873a63f3fe1bad3a25c158a4855c58d/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/05/39/3926083c01e1136730ea8acbde7c7209d873a63f3fe1bad3a25c158a4855c58d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7000,
+    "sha256": "sha256:17291a75be893f51c174d5937b887ec84f7f6014bbcd7c9cdda7aac107628dd2",
+    "normalized_content_hash": "sha256:55b5578b41a8d810312dd6479c88c5eb4bc1005e566f41346e522d1e9f92152c"
+  },
+  "provenance": {
+    "source_item_id": "4118a868-3914-4372-bedc-e6a32f9a5525",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/financial_results_2026/003.html"
+  }
+}

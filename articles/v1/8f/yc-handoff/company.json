@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-handoff",
+    "name": "Handoff"
+  },
+  "record_count": 23,
+  "first_published_at": "2026-06-18T02:00:00+00:00",
+  "last_published_at": "2026-07-28T13:28:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 15
+    }
+  ]
+}

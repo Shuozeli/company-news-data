@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ee703ee50c17e8685102d02d0cd02f3c832c007760db486362697eb110b2343",
+  "company": {
+    "key": "wrap-technologies-inc-common-stock",
+    "name": "Wrap Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "wrap-technologies-inc-common-stock-news-import-2311bb8f0b16",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ir.wrap.com/news-events/press-releases/detail/413/ceo-and-chairman-letter-to-stockholders-the-next-evolution",
+    "canonical": "https://ir.wrap.com/news-events/press-releases/detail/413/ceo-and-chairman-letter-to-stockholders-the-next-evolution"
+  },
+  "title": "CEO and Chairman Letter to Stockholders: The Next Evolution of WRAP",
+  "summary": "MIAMI, July 10, 2026 (GLOBE NEWSWIRE) -- Wrap Technologies, Inc. (Nasdaq: WRAP) (“Wrap” or, the “Company”), a global public…...",
+  "published_at": "2026-07-10T07:00:00+00:00",
+  "first_seen_at": "2026-07-22T20:37:48.340685+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:03.477481+00:00",
+  "paths": {
+    "article": "articles/v1/95/wrap-technologies-inc-common-stock/2026/07/2e/2ee703ee50c17e8685102d02d0cd02f3c832c007760db486362697eb110b2343/article.md",
+    "record": "articles/v1/95/wrap-technologies-inc-common-stock/2026/07/2e/2ee703ee50c17e8685102d02d0cd02f3c832c007760db486362697eb110b2343/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15388,
+    "sha256": "sha256:ad30795c2cbac0cc49c652d57d14e2bdbe90a57673b9e9e350081a0d662c7912",
+    "normalized_content_hash": "sha256:1abde2d3998ee5dc4fdcecb7727bdc19e3b54ce21a4a730c1c2dafc67a6fea76"
+  },
+  "provenance": {
+    "source_item_id": "9f06546a-9bc9-4bc9-b3e8-e85e19ca5ff2",
+    "external_id": "https://ir.wrap.com/news-events/press-releases/detail/413/ceo-and-chairman-letter-to-stockholders-the-next-evolution"
+  }
+}

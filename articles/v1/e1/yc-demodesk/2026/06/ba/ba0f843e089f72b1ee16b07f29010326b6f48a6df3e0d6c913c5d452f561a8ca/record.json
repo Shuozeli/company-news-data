@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba0f843e089f72b1ee16b07f29010326b6f48a6df3e0d6c913c5d452f561a8ca",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/lead-enrichment-prioritization-overwhelmed-sdrs",
+    "canonical": "https://demodesk.com/blog/lead-enrichment-prioritization-overwhelmed-sdrs"
+  },
+  "title": "Lead Enrichment and Prioritization for Overwhelmed SDRs",
+  "summary": "SDRs drowning in 800-lead queues don't need more data. They need AI agents that rescue at-risk leads, enrich on the fly, and act on signals.",
+  "published_at": "2026-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:07:17.937229+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-07-28T21:43:20.640421+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/06/ba/ba0f843e089f72b1ee16b07f29010326b6f48a6df3e0d6c913c5d452f561a8ca/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/06/ba/ba0f843e089f72b1ee16b07f29010326b6f48a6df3e0d6c913c5d452f561a8ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9273,
+    "sha256": "sha256:c82f966d45e5e4a72ffca59cff2e1f5b4d06967fa60e4871068945731a46595d",
+    "normalized_content_hash": "sha256:d8d67a6395d9956c40079025063b0804d978bcf7dbdd5d37ae466264d8d43dd1"
+  },
+  "provenance": {
+    "source_item_id": "b6514750-16a3-4a65-aed0-edc083c665ab",
+    "external_id": "https://demodesk.com/blog/lead-enrichment-prioritization-overwhelmed-sdrs"
+  }
+}

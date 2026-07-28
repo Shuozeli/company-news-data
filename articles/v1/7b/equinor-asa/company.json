@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "equinor-asa",
+    "name": "Equinor ASA"
+  },
+  "record_count": 25,
+  "first_published_at": "2026-05-21T05:04:33.410+00:00",
+  "last_published_at": "2026-07-22T04:48:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 12
+    }
+  ]
+}

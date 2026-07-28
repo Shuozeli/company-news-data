@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a92291bbc9f1b9b6698cadff2c3ddfebcac74f0cdc8637eb6eba03f43dc52584",
+  "company": {
+    "key": "olin-corporation-common-stock",
+    "name": "Olin Corporation Common Stock"
+  },
+  "source": {
+    "id": "olin-corporation-common-stock-news-import-b46b2c20b9be",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.prnewswire.com/news-releases/olin--winchester-completes-acquisition-of-small-caliber-ammunition-manufacturing-assets-302432617.html",
+    "canonical": "https://www.prnewswire.com/news-releases/olin--winchester-completes-acquisition-of-small-caliber-ammunition-manufacturing-assets-302432617.html"
+  },
+  "title": "Olin - Winchester Completes Acquisition of Small Caliber Ammunition Manufacturing Assets",
+  "summary": "/PRNewswire/ -- Olin Corporation (NYSE: OLN) announced today that it has completed the previously announced acquisition of the small caliber ammunition assets...",
+  "published_at": "2025-04-18T18:05:00+00:00",
+  "first_seen_at": "2026-07-25T17:43:55.282514+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-07-28T21:33:12.483888+00:00",
+  "paths": {
+    "article": "articles/v1/b1/olin-corporation-common-stock/2025/04/a9/a92291bbc9f1b9b6698cadff2c3ddfebcac74f0cdc8637eb6eba03f43dc52584/article.md",
+    "record": "articles/v1/b1/olin-corporation-common-stock/2025/04/a9/a92291bbc9f1b9b6698cadff2c3ddfebcac74f0cdc8637eb6eba03f43dc52584/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9482,
+    "sha256": "sha256:4ce79d71ac8efb54be264e6110338c78681f85890572e1a89f5e541bdcff823c",
+    "normalized_content_hash": "sha256:f1ad33851aae2074191d78e70ffcd5a1820a04cce4a8ae9c4c32d25ea462cb79"
+  },
+  "provenance": {
+    "source_item_id": "f660efb1-b932-4c7b-9787-534d441319de",
+    "external_id": "https://www.prnewswire.com/news-releases/olin--winchester-completes-acquisition-of-small-caliber-ammunition-manufacturing-assets-302432617.html"
+  }
+}

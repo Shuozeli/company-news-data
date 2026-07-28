@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66b5df58b47c50c0ec8575c0bb64dbae07c842d7e3340bd2ddd08e0d4514ad7f",
+  "company": {
+    "key": "business-first-bancshares-inc-common-stock",
+    "name": "Business First Bancshares Inc. Common Stock"
+  },
+  "source": {
+    "id": "business-first-bancshares-inc-common-stock-news-import-4e89ed4c1e40",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.b1bank.com/shareholder-info/press-releases/business-first-bancshares-inc-announces-financial-results-q2-2026",
+    "canonical": "https://www.b1bank.com/shareholder-info/press-releases/business-first-bancshares-inc-announces-financial-results-q2-2026"
+  },
+  "title": "Business First Bancshares, Inc., Announces Financial Results for Q2 2026",
+  "summary": "",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:15:16.525025+00:00",
+  "fetched_at": "2026-07-27T19:41:18.141343+00:00",
+  "last_updated_at": "2026-07-27T19:41:20.649019+00:00",
+  "paths": {
+    "article": "articles/v1/a9/business-first-bancshares-inc-common-stock/2026/07/66/66b5df58b47c50c0ec8575c0bb64dbae07c842d7e3340bd2ddd08e0d4514ad7f/article.md",
+    "record": "articles/v1/a9/business-first-bancshares-inc-common-stock/2026/07/66/66b5df58b47c50c0ec8575c0bb64dbae07c842d7e3340bd2ddd08e0d4514ad7f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15457,
+    "sha256": "sha256:caa353f8320d88bfb82c8c27c55e615f580fa5499aeaee2a6c98e2ec94a3b37e",
+    "normalized_content_hash": "sha256:6032415b3c9802cf0a7ae46fb8067c17c82d19ce6d256b4e921dfb7ac1a8de3a"
+  },
+  "provenance": {
+    "source_item_id": "311548b3-af60-4c6a-86c8-af755dedc5b8",
+    "external_id": "https://www.b1bank.com/shareholder-info/press-releases/business-first-bancshares-inc-announces-financial-results-q2-2026"
+  }
+}

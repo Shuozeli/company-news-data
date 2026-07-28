@@ -7,11 +7,32 @@ source_id: "yc-gusto-engineering-rss"
 canonical_url: "https://engineering.gusto.com/eval-driven-design-systems-8f781dc2dacb"
 published_at: "2026-07-27T19:37:21+00:00"
 first_seen_at: "2026-07-27T21:28:00.212983+00:00"
-fetched_at: "2026-07-28T04:03:20.234730+00:00"
-content_hash: "sha256:20eda85a1b02ce2d23220280fac18f6138ab86e9af9911e5bb3636fbecd45ff5"
+fetched_at: "2026-07-28T20:32:04.512542+00:00"
+content_hash: "sha256:cb2d55c1288020a6f0de5c971538da37d12749eb7036b12db1e6a14af5c67a6e"
 ---
 
-# Eval-Driven Design Systems
+# Eval-Driven Design Systems (Part 1)
+
+# Eval-Driven Design Systems (Part 1)
+
+
+[Jaywritescode](https://medium.com/@jaywritescode?source=post_page---byline--8f781dc2dacb---------------------------------------)
+
+
+4 min read
+
+
+·
+
+
+1 day ago
+
+
+--
+
+
+Press enter or click to view image in full size
+
 
 From plausible to production-ready: schema-grounded code replaces hallucinated props with verified, type-safe components.
 
@@ -21,7 +42,7 @@ From plausible to production-ready: schema-grounded code replaces hallucinated p
 ```
 
 
-Three things are wrong. One line of code. size=”lg”. intent=”confirm”: that prop doesn’t exist anywhere in our schema. icon=”check”. None of these are obscure edge cases. All of them are documented in the design system we own and maintain.
+Three things are wrong. One line of code.` size=”lg”` .` intent=”confirm”` : that prop doesn’t exist anywhere in our schema.` icon=”check”` . None of these are obscure edge cases. All of them are documented in the design system we own and maintain.
 
 
 This is what every AI coding assistant does when it meets a private design system. It writes the average of every button it has ever seen. The average is wrong.
@@ -30,13 +51,13 @@ This is what every AI coding assistant does when it meets a private design syste
 For the past several months, we’ve been building toward something we call eval-driven design systems: making our design system legible to AI, then actually measuring whether AI uses it correctly. Here’s what we found, and what we’d recommend if you maintain a design system of your own.
 
 
-### Why our design system was invisible to AI
+## Why our design system was invisible to AI
 
 
 AI-assisted coding is how engineers write UI now. That’s just the world.
 
 
-The models behind those assistants were trained on the public internet: millions of Material-UI buttons, thousands of Chakra and Mantine and Tailwind buttons. They’ve seen zero <Button> components from our design system, because our design system is private. When an engineer asks for a button, the model writes the average. Which looks exactly like every public design system, and nothing like ours.
+The models behind those assistants were trained on the public internet: millions of Material-UI buttons, thousands of Chakra and Mantine and Tailwind buttons. They’ve seen zero` <Button>` components from our design system, because our design system is private. When an engineer asks for a button, the model writes the average. Which looks exactly like every public design system, and nothing like ours.
 
 
 This pattern plays out quietly across engineering teams. Sometimes the assistant bypasses the design system entirely, dropping in raw HTML and Tailwind for a component the team already has. Sometimes it uses the right component with invented props, like the example above. Sometimes it gets the JSX right but misses a content guideline or an accessibility wrapper. Either way, the codebase drifts away from the design system one PR at a time. And no team can review every prop in every PR.
@@ -51,23 +72,32 @@ A design system exists to encode patterns so engineers don’t have to rediscove
 For us, that meant two things: schemas, and evals.
 
 
-### Schemas as agent-readable contracts
+## Schemas as agent-readable contracts
 
 
-TypeScript types tell a model that variant is ‘primary’ | ‘secondary’ | ‘tertiary’ | ‘link’. That’s useful. But types don’t tell the model which one to pick for a confirmation action. They don’t say a button label should start with a verb, or that buttons longer than three words are usually doing too much. They don’t carry the rule that tone=”monochrome” is only legal on certain variants. They don’t link to the Figma file.
+TypeScript types tell a model that variant is` ‘primary’ | ‘secondary’ | ‘tertiary’ | ‘link’` . That’s useful. But types don’t tell the model which one to pick for a confirmation action. They don’t say a button label should start with a verb, or that buttons longer than three words are usually doing too much. They don’t carry the rule that tone=”monochrome” is only legal on certain variants. They don’t link to the Figma file.
+
+
+## Get Jaywritescode’s stories in your inbox
+
+
+Join Medium for free to get updates from this writer.
+
+
+Remember me for faster sign in
 
 
 None of that fits into a type. So the model fills the gap with the average of its training data, which for our design system is wrong.
 
 
-We treat schemas as something stronger than types. Each component in our design system has a Zod schema with a .meta() payload structured as .meta({ examples, contentGuidelines, accessibilityGuidelines, importStatement, figmaUrl }), a place to put everything a model needs to use the component correctly:
+We treat schemas as something stronger than types. Each component in our design system has a Zod schema with a .meta() payload structured as` .meta({ examples, contentGuidelines, accessibilityGuidelines, importStatement, figmaUrl })` , a place to put everything a model needs to use the component correctly:
 
 
-- *examples* : real code snippets validated against the same schema. A model that copies an example is using a guaranteed-correct snippet. A model that invents one is guessing.
-- *contentGuidelines* : voice rules and character limits for visible text. This is why “Submit & continue” gets flagged on a primary button before a designer ever sees it.
-- *accessibilityGuidelines* (for components that need them): when ARIA props are required, what aria-label should contain, which patterns trip screen readers.
-- *importStatement* : the exact import path. Sounds trivial. It killed an entire category of hallucinations on its own. Models love inventing from @gusto/design-system/button when no such submodule exists.
-- *figmaUrl* : for downstream tools chained with design context.
+- ` *examples*` : real code snippets validated against the same schema. A model that copies an example is using a guaranteed-correct snippet. A model that invents one is guessing.
+- ` *contentGuidelines*` : voice rules and character limits for visible text. This is why “Submit & continue” gets flagged on a primary button before a designer ever sees it.
+- ` *accessibilityGuidelines*` (for components that need them): when ARIA props are required, what aria-label should contain, which patterns trip screen readers.
+- ` *importStatement*` : the exact import path. Sounds trivial. It killed an entire category of hallucinations on its own. Models love inventing from` @gusto/design-system/button` when no such submodule exists.
+- ` *figmaUrl*` : for downstream tools chained with design context.
 
 
 For components like Button and Select, we use Zod unions with typed .extend() branches so that illegal prop combinations are unrepresentable, not just discouraged:
@@ -84,123 +114,13 @@ A model reading this schema knows two things at once: there’s no arm of the un
 The schemas are published in a form any MCP-capable AI client can fetch. IDE assistants, agents, and code-review bots all read the same source. We pair that publication with a short prompt telling the model the right discipline: copy from .meta().examples. Don’t invent.
 
 
-### Scoring every prop
+But a contract is useless if you don’t enforce it. Even with perfect schemas, a model’s output can drift if not held accountable. In our next post, we move from defining the rules to scoring the reality: we’ll cover how we use Braintrust to score every prop, measure our results, and turn these schemas into an eval-driven design system.
 
 
-A schema is only as useful as the model’s discipline in reading it.
-
-
-Putting a schema in front of a model is a hypothesis, one that assumes the model will use it and use it correctly. Hypotheses need tests. Without tests, you’re shipping vibes. And schemas change: new components land, deprecated props get pulled. Without a test, you’d never notice that an edit silently broke generation for a component you don’t happen to use every day.
-
-
-We set up an experiment on[Braintrust](https://www.braintrust.dev/) : 167 hand-written prompts (so far) across 25 components, plus a second, newer dataset we’re building from real engineer requests instead of our own guesses (more on that below). Each prompt is a plain-English UI request, like “a primary action button that confirms saving.” For each row, the model gets a system prompt containing only the relevant component’s schema plus its .meta() payload, and returns JSX. The experiment scores each output along three axes, tagged by component, model, and commit. Comparing across model versions or schema revisions is one click.
-
-
-Here are the scorers:
-
-
-- prop-validity: the foundational one. Does each prop in the model’s output actually exist on the component’s schema? This catches intent=”confirm”-style hallucinations. It’s fractional, not pass/fail: an output with one invented prop among many valid ones gets partial credit, not zero. Unknown PascalCase tags (<FakeComponent />) count as hallucinations and pull the score down.
-- enum-validity: for enum-typed props, is the value a legal literal? variant=”large” is a real failure mode that prop-validity lets through, because the prop exists, just not that value. We separated this scorer because the failure mode is different: the model knew the prop; it picked the wrong value.
-- import-match: does the generated import { Button } from ‘…’ match the schema’s importStatement exactly? This catches the worst class of hallucination because it’s the easiest to miss in review. An incorrect import path looks fine until the build fails.
-
-
-All three scorers are deterministic static analysis. No LLM-as-judge (yet). We wanted scorers we’d trust to fail consistently if we wired them into CI.
-
-
-```text
-export const propValidity: EvalScorer<EvalInput, string, string> = ({ input, output }) => {    const schema = readComponentSchema(input.schema);    const jsx = parseJsx(output);     let validCount = 0;    let totalCount = 0;     for (const element of jsx.elements) {      if (!isComponentTag(element.tagName)) continue;      if (element.tagName !== schema.componentName) {        totalCount += 1; // unknown component tag counts against the score        continue;      }       totalCount += 1;      validCount += 1; // using the right component at all is worth something            for (const attr of element.attributes) {        totalCount += 1;        if (schema.knownProps.has(attr.name) || isCommonHtmlAttr(attr.name)) {          validCount += 1;        }      }    }     return { name: 'prop_validity', score: totalCount === 0 ? 0 : validCount / totalCount };  };
-```
-
-
-Above the deterministic scorers, there’s a second layer: every output also gets a human rating in Braintrust, on two separate axes. One scores *intent* : did the model solve the problem the engineer actually asked for, independent of whether the code is clean. The other scores *idiom* : is this how someone fluent in our design system would have written it. The two diverge more than you’d expect. Mechanically perfect code (every prop valid, every enum legal) can still be the wrong component for the job, and code with a hallucinated prop can still show the model reached for the right idea. Splitting them tells us which kind of failure we’re looking at. Each rating comes with a rationale: a sentence on why the model got it right or wrong. Those rationales are the most useful artifact we produce. They tell us, week over week, where the deterministic scorers stop being enough.
-
-
-What we don’t yet catch automatically is the soft stuff: visual correctness, accessibility at the rendered level, composition patterns across multiple components. Those idiom-and-intent judgments we still rate by hand. The next step is automating them with LLM-as-judge scorers, validated against the human rationales we’ve already collected. We started with what was deterministic and cheap. The next layer is what makes the eval system feel like a design-system practice instead of a compiler.
-
-
-### From guesses to real requests
-
-
-The 167 prompts above are good prompts. We wrote them carefully, covering every variation we could think of for each component. They’re also, structurally, a guess: we were guessing what builders actually ask for, then checking the model’s answer against our own guess.
-
-
-We’re starting to close that loop. Every call our AI assistant makes into the design system’s tooling is instrumented to capture the engineer’s request verbatim, the literal text of the ask, not a summary of it. Calls that belong to the same request (one ask can trigger several tool calls) are grouped into a single unit, so we get one real-world example per request instead of a pile of disconnected calls.
-
-
-A periodic job pulls a window of that production traffic, regroups it into requests, and lands each one as an eval row: the verbatim prompt, paired with whichever components the assistant actually reached for. There’s no hand-written “correct” JSX attached to these rows, and there doesn’t need to be one. prop-validity, enum-validity, and import-match don’t compare output to a golden answer; they check it against the schema. A real request can be scored the moment it’s captured.
-
-
-That distinction matters more than it sounds like it should. The eval set can grow from usage instead of from our imagination, without anyone hand-labeling a row.
-
-
-This part is still young. The real-request dataset runs as its own track today, separate from the long-running synthetic suite. Folding the two together, and using real requests to find the prompt phrasings our synthetic set never thought to write, is next.
-
-
-### What we measured
-
-
-The most useful way to talk about results is to show specific failures, not aggregate percentages.
-
-
-Aggregate scores swing around based on model versions, dataset additions, and schema revisions, in ways that don’t always mean what they seem to mean. The failure categories don’t change. They’re the same now as they were six months ago, just less frequent.
-
-
-Here’s a prop-validity failure:
-
-
-```text
-import { Button } from '@gusto/design-system';  - <Button variant="primary" intent="submit">Save changes</Button>  + <Button variant="primary">Save changes</Button>
-```
-
-
-intent doesn’t exist on the schema. prop-validity flags this below 1.0. A model that reads the schema doesn’t reach for the prop in the first place. We see this fix on every component with more than three props, across every model we’ve tried.
-
-
-Now here’s a failure the deterministic scorers can’t catch. Prompt: “add a button to confirm and continue the payroll submission.”
-
-
-```text
-// What the model wrote  <Button variant="primary">Confirm and continue</Button>  // What a design-system-fluent author would write  <Button variant="primary">Continue</Button>
-```
-
-
-Both compile. Both score 100% on prop-validity, enum-validity, and import-match. The difference is in the content guidelines: The content guidelines say one verb per button, three words max. “Confirm and continue” is two verbs and three words. A static scorer doesn’t catch this. The human rating for idiom does. The rationale (“two verbs, the second is redundant given the surrounding flow”) becomes the seed for the LLM-as-judge scorer we’re building next.
-
-
-The deterministic scorers caught the loud failures first. The soft failures are where the next layer of work lives.
-
-
-### For your design system
-
-
-The core idea: make your design system legible to AI, then measure whether AI is actually using it correctly. Treat both halves as production code.
-
-
-Here’s the smallest version of this that works:
-
-
-1. Pick your five most-used components.
-2. Write a schema for each: prop types, three validated examples, the exact import statement. Add accessibility and content rules where they matter. Yes, the import statement too. Trust us on that one.
-3. Expose them however your team’s AI tools read context: MCP, system prompts, structured docs in your assistant’s prompt template.
-4. Write ten prompts per component. Plain English. The kinds of requests your engineers actually make.
-5. Score with one deterministic check. prop-validity (does every prop in the output exist on the schema?) is the easiest place to start.
-6. Run it whenever schemas change, or on a cadence. Read the failures, not just the aggregate.
-7. Once you have real usage, mine it. Capture the literal request text wherever your AI tooling touches the design system, and feed it back into the same scorers.
-
-
-Design-system teams have always kept patterns. Part of the job now is making those patterns machine-readable. It’s the same kind of work that made accessibility table stakes, just applied to a new audience. The audience writing your UI changed. The design system still owns the contract.
-
-
-*Schemas tell models what’s possible. Evals tell you they listened.*
+In our next post, we’ll cover how we score every prop, measure our results, and turn these schemas into an eval-driven design system.
 
 
 [Jay Johnson](https://medium.com/@jaywritescode) *works on the Builder Enablement team at Gusto. The team maintains the internal design system powering Gusto’s web products, including the schemas and evals described in this post.*
 
 
 *If you maintain a design system and want to make it AI-legible, we’re hiring on Builder Enablement and platform teams:*[gusto.com/about/careers](https://gusto.com/about/careers)
-
-
----
-
-
-[Eval-Driven Design Systems](https://engineering.gusto.com/eval-driven-design-systems-8f781dc2dacb) was originally published in[Gusto Engineering](https://engineering.gusto.com/) on Medium, where people are continuing the conversation by highlighting and responding to this story.

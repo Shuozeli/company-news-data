@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01a1aefe6d5d71771b21a349677c0f9f8e046ac52c6be35281681254c6d41cab",
+  "company": {
+    "key": "yc-slicker",
+    "name": "Slicker"
+  },
+  "source": {
+    "id": "yc-slicker-news-import-4c2e7cff2c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.slickerhq.com/resources/blog/dunning-email-sender-domain-best-practices",
+    "canonical": "https://www.slickerhq.com/resources/blog/dunning-email-sender-domain-best-practices"
+  },
+  "title": "Why Your Dunning Emails Need Your Domain, Not the Vendor's (July 2026)",
+  "summary": "Most failed payments recover silently. Automated retries handle the majority of soft declines without any customer contact. But when a payment failure...",
+  "published_at": "2026-07-28T17:30:56.421+00:00",
+  "first_seen_at": "2026-07-28T20:11:07.183640+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:34.197058+00:00",
+  "paths": {
+    "article": "articles/v1/e0/yc-slicker/2026/07/01/01a1aefe6d5d71771b21a349677c0f9f8e046ac52c6be35281681254c6d41cab/article.md",
+    "record": "articles/v1/e0/yc-slicker/2026/07/01/01a1aefe6d5d71771b21a349677c0f9f8e046ac52c6be35281681254c6d41cab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20169,
+    "sha256": "sha256:67994d016af402577b081dd298cb6b58f3f6183b3c43b64ef3ab34e2bea94ca7",
+    "normalized_content_hash": "sha256:b096a1751536899d56d41500f8f96a900cb464810db95acda90b32f147232d72"
+  },
+  "provenance": {
+    "source_item_id": "82ce2b94-7715-453c-a8d0-6a7c510c38ff",
+    "external_id": "https://www.slickerhq.com/resources/blog/dunning-email-sender-domain-best-practices"
+  }
+}

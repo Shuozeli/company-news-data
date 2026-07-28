@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "158909be9258a84905349bd55ad84ef1d44533cf9ec54f5ce8eb3f443477470f",
+  "company": {
+    "key": "dynatrace-inc-common-stock",
+    "name": "Dynatrace Inc. Common Stock"
+  },
+  "source": {
+    "id": "dynatrace-inc-common-stock-news-import-04255267b1b8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dynatrace.com/news/press-release/the-state-of-log-management-2026/",
+    "canonical": "https://www.dynatrace.com/news/press-release/the-state-of-log-management-2026/"
+  },
+  "title": "New Global Study Finds AI is Breaking Enterprise Log Management",
+  "summary": "Dynatrace today released findings from its new research, The State of Log Management 2026 report.",
+  "published_at": "2026-07-07T12:00:01+00:00",
+  "first_seen_at": "2026-07-21T17:18:04.942961+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.552767+00:00",
+  "paths": {
+    "article": "articles/v1/90/dynatrace-inc-common-stock/2026/07/15/158909be9258a84905349bd55ad84ef1d44533cf9ec54f5ce8eb3f443477470f/article.md",
+    "record": "articles/v1/90/dynatrace-inc-common-stock/2026/07/15/158909be9258a84905349bd55ad84ef1d44533cf9ec54f5ce8eb3f443477470f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8025,
+    "sha256": "sha256:c9dec8da31052a578b25ef9b198924cd2265e9cfa7de72f4813c60024af512e1",
+    "normalized_content_hash": "sha256:f04317351b445b1135052c7b348007a8087432a67d429e5322d8fdc0811dd9b9"
+  },
+  "provenance": {
+    "source_item_id": "3d2514cb-f19f-4a09-a75b-b666dbcae077",
+    "external_id": "https://www.dynatrace.com/news/press-release/the-state-of-log-management-2026/"
+  }
+}

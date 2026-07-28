@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff8d25f90d9107175d25e4c4abe90dfcdcd410cca6e90ab1486a34a6456cbc8b",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/how-institutions-can-reduce-trx-burn-on-usdt-transfers/",
+    "canonical": "https://www.bitgo.com/resources/blog/how-institutions-can-reduce-trx-burn-on-usdt-transfers/"
+  },
+  "title": "How Institutions Can Reduce TRX Burn on USDT Transfers, Without Leaving BitGo’s Regulated Custody",
+  "summary": "BitGo’s Resource Delegation significantly reduces TRX burn by staking TRX inside the client’s own wallet and delegating Energy and Bandwidth to their receive addresses.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:41.088269+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.036402+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/ff/ff8d25f90d9107175d25e4c4abe90dfcdcd410cca6e90ab1486a34a6456cbc8b/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/ff/ff8d25f90d9107175d25e4c4abe90dfcdcd410cca6e90ab1486a34a6456cbc8b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9272,
+    "sha256": "sha256:4706ad51f24ab9849091225554d8519d1eb15bd6d426489479bd56a2de02e8d5",
+    "normalized_content_hash": "sha256:9000b48f0d7d102364757290ebc0a55b36f5d0d74b86a414856b2b5dc41fd635"
+  },
+  "provenance": {
+    "source_item_id": "27db4136-2981-4f25-91b4-cfbc6c5f985f",
+    "external_id": "https://www.bitgo.com/resources/blog/how-institutions-can-reduce-trx-burn-on-usdt-transfers/"
+  }
+}

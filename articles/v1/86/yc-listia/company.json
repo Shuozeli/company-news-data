@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-listia",
+    "name": "Listia"
+  },
+  "record_count": 10,
+  "first_published_at": "2021-11-10T19:28:02+00:00",
+  "last_published_at": "2023-11-15T16:43:56+00:00",
+  "partitions": [
+    {
+      "partition": "2021-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    }
+  ]
+}

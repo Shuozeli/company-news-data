@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0303b057f12d438c1eca8896359470dc6a9bb4a81157a3d05151c7d7fcd09190",
+  "company": {
+    "key": "ollie-s-bargain-outlet-holdings-inc-common-stock",
+    "name": "Ollie's Bargain Outlet Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "ollie-s-bargain-outlet-holdings-inc-common-stock-news-import-784e7fa7142e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ollies.com/blogs/news-events/tahlequah-ok-grand-opening-7-15",
+    "canonical": "https://www.ollies.com/blogs/news-events/tahlequah-ok-grand-opening-7-15"
+  },
+  "title": "Tahlequah, OK Grand Opening 7/15",
+  "summary": "Hey folks, join us for our Grand Opening Event in Tahlequah on Wednesday, July 15th at 9 am. Stop on by - we're open daily from 9 am-9 pm at 1741 S Muskogee Ave, next to Atwoods, in the old Rent-A-Center.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T18:11:25.027250+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-07-28T21:18:24.223342+00:00",
+  "paths": {
+    "article": "articles/v1/53/ollie-s-bargain-outlet-holdings-inc-common-stock/2026/07/03/0303b057f12d438c1eca8896359470dc6a9bb4a81157a3d05151c7d7fcd09190/article.md",
+    "record": "articles/v1/53/ollie-s-bargain-outlet-holdings-inc-common-stock/2026/07/03/0303b057f12d438c1eca8896359470dc6a9bb4a81157a3d05151c7d7fcd09190/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1526,
+    "sha256": "sha256:0792e0aa08a29339dd04452223b70bcfc19c4e8a0092e2145e6d2f81c625511b",
+    "normalized_content_hash": "sha256:25de333aa95b83cd2ca83d3194641beb0ba7c7591c3448f0db44611dcf67a6ea"
+  },
+  "provenance": {
+    "source_item_id": "0b450472-0bd5-4c89-8712-eaca0a3eb69f",
+    "external_id": "https://www.ollies.com/blogs/news-events/tahlequah-ok-grand-opening-7-15"
+  }
+}

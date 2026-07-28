@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "40bbc173afa62a5b1d68d6dd95238793cd61c6850dddc446df91ac02923351d7",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation Common Stock"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-865bfd380f75",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.microsoft.com/source/asia/features/microsofts-2026-work-trend-index-malaysian-workforce-is-ready-for-ai-and-organizations-must-keep-pace",
+    "canonical": "https://news.microsoft.com/source/asia/features/microsofts-2026-work-trend-index-malaysian-workforce-is-ready-for-ai-and-organizations-must-keep-pace/"
+  },
+  "title": "Microsoft’s 2026 Work Trend Index: Malaysian workforce is ready for AI and organizations must keep pace",
+  "summary": "",
+  "published_at": "2026-06-23T09:00:42+00:00",
+  "first_seen_at": "2026-07-25T02:33:02.977153+00:00",
+  "fetched_at": "2026-07-28T21:23:16.325685+00:00",
+  "last_updated_at": "2026-07-28T21:25:04.712883+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/06/40/40bbc173afa62a5b1d68d6dd95238793cd61c6850dddc446df91ac02923351d7/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/06/40/40bbc173afa62a5b1d68d6dd95238793cd61c6850dddc446df91ac02923351d7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7626,
+    "sha256": "sha256:d653800ae3467c79951a76800cf41ce361a9b9f70f824f52f3c26b51c9d05fad",
+    "normalized_content_hash": "sha256:cb5ccba7e8974160d126a90da073e63f12f9b69edda7c73ee8cd7c59950e3f01"
+  },
+  "provenance": {
+    "source_item_id": "caf3fe11-ab83-44b7-8cf3-60addca65a57",
+    "external_id": "https://news.microsoft.com/source/asia/features/microsofts-2026-work-trend-index-malaysian-workforce-is-ready-for-ai-and-organizations-must-keep-pace/"
+  }
+}

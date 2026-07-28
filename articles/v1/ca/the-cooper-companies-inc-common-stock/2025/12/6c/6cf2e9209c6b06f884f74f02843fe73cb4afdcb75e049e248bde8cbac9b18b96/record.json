@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6cf2e9209c6b06f884f74f02843fe73cb4afdcb75e049e248bde8cbac9b18b96",
+  "company": {
+    "key": "the-cooper-companies-inc-common-stock",
+    "name": "The Cooper Companies Inc. Common Stock"
+  },
+  "source": {
+    "id": "the-cooper-companies-inc-common-stock-rss-e6d0ae626e92",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.coopercos.com/news-releases/news-release-details/coopercompanies-announces-fourth-quarter-and-full-year-2025",
+    "canonical": "https://investor.coopercos.com/news-releases/news-release-details/coopercompanies-announces-fourth-quarter-and-full-year-2025"
+  },
+  "title": "CooperCompanies Announces Fourth Quarter and Full Year 2025 Results",
+  "summary": "The Investor Relations website contains information about CooperCompanies's business for stockholders, potential investors, and financial analysts.",
+  "published_at": "2025-12-04T21:15:30+00:00",
+  "first_seen_at": "2026-07-27T06:27:16.027418+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-07-28T21:59:13.691503+00:00",
+  "paths": {
+    "article": "articles/v1/ca/the-cooper-companies-inc-common-stock/2025/12/6c/6cf2e9209c6b06f884f74f02843fe73cb4afdcb75e049e248bde8cbac9b18b96/article.md",
+    "record": "articles/v1/ca/the-cooper-companies-inc-common-stock/2025/12/6c/6cf2e9209c6b06f884f74f02843fe73cb4afdcb75e049e248bde8cbac9b18b96/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33423,
+    "sha256": "sha256:885357e97d4e3caf15b1ce92fa5af0e4d8d3aa0a24a33c23833a333ef941495e",
+    "normalized_content_hash": "sha256:a100c292768e921225e7532a7f4c31d1387d99ea22b77fb15ff671b57269caa5"
+  },
+  "provenance": {
+    "source_item_id": "c9fb5a12-33ab-49fe-9734-1339e211a7cd",
+    "external_id": "28331"
+  }
+}

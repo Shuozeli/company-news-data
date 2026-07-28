@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4c4f2e3b7a7ba28a75b34d96a083b5b9e0ae7e4afc983e28efe361735ffacd1",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-news-import-26dc963e5592",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-blocks-sharepoint-zero-day-exploitation/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-blocks-sharepoint-zero-day-exploitation/"
+  },
+  "title": "CrowdStrike Detects and Blocks Initial SharePoint Zero-Day Exploitation",
+  "summary": "Learn about the emerging widespread threat and how CrowdStrike customers can use the Falcon platform to protect their environments.",
+  "published_at": "2025-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:09.054440+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-07-28T22:03:13.630359+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2025/07/d4/d4c4f2e3b7a7ba28a75b34d96a083b5b9e0ae7e4afc983e28efe361735ffacd1/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2025/07/d4/d4c4f2e3b7a7ba28a75b34d96a083b5b9e0ae7e4afc983e28efe361735ffacd1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10731,
+    "sha256": "sha256:ce0f24008510df5bfb22cb5be9baf0068c0d3b9682346dc094fb940a9e41cb9d",
+    "normalized_content_hash": "sha256:de02eb98b3b83a4b615765052a9dcaf8925545963d88b7a5acce260072074eaa"
+  },
+  "provenance": {
+    "source_item_id": "2c8c807c-d3b4-4e8e-a477-98345d97ec53",
+    "external_id": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-blocks-sharepoint-zero-day-exploitation/"
+  }
+}

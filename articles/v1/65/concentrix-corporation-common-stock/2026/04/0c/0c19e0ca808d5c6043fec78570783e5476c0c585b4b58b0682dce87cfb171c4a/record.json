@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c19e0ca808d5c6043fec78570783e5476c0c585b4b58b0682dce87cfb171c4a",
+  "company": {
+    "key": "concentrix-corporation-common-stock",
+    "name": "Concentrix Corporation Common Stock"
+  },
+  "source": {
+    "id": "concentrix-corporation-common-stock-news-import-94fd497042a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.concentrix.com/about/news/concentrix-reaffirms-commitment-improving-climate-through-net-zero-emissions-2050/",
+    "canonical": "https://www.concentrix.com/about/news/concentrix-reaffirms-commitment-improving-climate-through-net-zero-emissions-2050/"
+  },
+  "title": "Concentrix Reaffirms Commitment to Improving the Climate through Net-Zero Emissions by 2050",
+  "summary": "Science-Based Targets initiative (SBTi) validation marks the next step in Concentrix’s net-zero journey",
+  "published_at": "2026-04-20T15:54:07+00:00",
+  "first_seen_at": "2026-07-25T00:29:36.069212+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:22.252980+00:00",
+  "paths": {
+    "article": "articles/v1/65/concentrix-corporation-common-stock/2026/04/0c/0c19e0ca808d5c6043fec78570783e5476c0c585b4b58b0682dce87cfb171c4a/article.md",
+    "record": "articles/v1/65/concentrix-corporation-common-stock/2026/04/0c/0c19e0ca808d5c6043fec78570783e5476c0c585b4b58b0682dce87cfb171c4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6223,
+    "sha256": "sha256:a3390a4aae723d5a531b4c59e1020f50a68ed15e4b474ed8bedbf06b6177ed4f",
+    "normalized_content_hash": "sha256:e738c443081e6c28f321d87a278259a9cbb8158da897ebb390a37d24031e193e"
+  },
+  "provenance": {
+    "source_item_id": "468c44f4-0692-42bf-a26f-215323eeae12",
+    "external_id": "https://www.concentrix.com/about/news/concentrix-reaffirms-commitment-improving-climate-through-net-zero-emissions-2050/"
+  }
+}

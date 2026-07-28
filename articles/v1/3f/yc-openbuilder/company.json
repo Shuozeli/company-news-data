@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-openbuilder",
+    "name": "OpenBuilder"
+  },
+  "record_count": 3,
+  "first_published_at": "2024-02-23T00:00:00+00:00",
+  "last_published_at": "2024-04-23T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    }
+  ]
+}

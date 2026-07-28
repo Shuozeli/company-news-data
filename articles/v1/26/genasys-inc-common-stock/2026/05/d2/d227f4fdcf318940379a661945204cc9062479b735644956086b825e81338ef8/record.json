@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d227f4fdcf318940379a661945204cc9062479b735644956086b825e81338ef8",
+  "company": {
+    "key": "genasys-inc-common-stock",
+    "name": "Genasys Inc. Common Stock"
+  },
+  "source": {
+    "id": "genasys-inc-common-stock-news-import-86acd8f701ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://genasys.com/press-releases/genasys-new-emergency-alert-provider-for-ada-county-idaho/",
+    "canonical": "https://genasys.com/press-releases/genasys-new-emergency-alert-provider-for-ada-county-idaho/"
+  },
+  "title": "Genasys Inc. New Emergency Alert System Provider for Ada County, ID",
+  "summary": "Idaho’s most populous county selects Genasys Protect for community mass notification",
+  "published_at": "2026-05-20T13:15:58+00:00",
+  "first_seen_at": "2026-07-25T06:23:32.722704+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-07-28T21:45:19.539036+00:00",
+  "paths": {
+    "article": "articles/v1/26/genasys-inc-common-stock/2026/05/d2/d227f4fdcf318940379a661945204cc9062479b735644956086b825e81338ef8/article.md",
+    "record": "articles/v1/26/genasys-inc-common-stock/2026/05/d2/d227f4fdcf318940379a661945204cc9062479b735644956086b825e81338ef8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6601,
+    "sha256": "sha256:99950a2b503378ae53582ae98e8592034804f2d81e77cb24098a1f3b720b8a5e",
+    "normalized_content_hash": "sha256:c63c896eb0276fcba3eb8e071d089bfb4f30528bb933ce29d3a23bf884f0c688"
+  },
+  "provenance": {
+    "source_item_id": "bd0b1963-a7cb-4a07-8d1a-04b90403c4c1",
+    "external_id": "https://genasys.com/press-releases/genasys-new-emergency-alert-provider-for-ada-county-idaho/"
+  }
+}

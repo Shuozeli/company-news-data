@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de5b4f424e4cc4d6f35e0b8a113a35f3e5e94de8f13ed2a47480ef24126bca6b",
+  "company": {
+    "key": "yc-zepto",
+    "name": "Zepto"
+  },
+  "source": {
+    "id": "yc-zepto-rss-8182f1493a2f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.zepto.com/building-search-for-a-10-minute-world-43b1992f5dca?source=rss----bd632b1d570d---4",
+    "canonical": "https://blog.zepto.com/building-search-for-a-10-minute-world-43b1992f5dca"
+  },
+  "title": "Building Search for a 10-Minute World",
+  "summary": "Every time a user types into a search box, they’re making an implicit bet — that the system on the other side understands not just what…",
+  "published_at": "2026-06-11T09:45:55+00:00",
+  "first_seen_at": "2026-07-20T23:24:50.197566+00:00",
+  "fetched_at": "2026-07-28T21:13:18.116875+00:00",
+  "last_updated_at": "2026-07-28T21:13:50.325827+00:00",
+  "paths": {
+    "article": "articles/v1/fc/yc-zepto/2026/06/de/de5b4f424e4cc4d6f35e0b8a113a35f3e5e94de8f13ed2a47480ef24126bca6b/article.md",
+    "record": "articles/v1/fc/yc-zepto/2026/06/de/de5b4f424e4cc4d6f35e0b8a113a35f3e5e94de8f13ed2a47480ef24126bca6b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25793,
+    "sha256": "sha256:1184cefac5a9774e6061421562107f8b1c7c355528ced1058e5976b549393124",
+    "normalized_content_hash": "sha256:a5cffedabd40496b948b64f40a542d88da8563b6a7db7f468a05f0c849afaa35"
+  },
+  "provenance": {
+    "source_item_id": "71b8f398-6024-4d22-b104-55e6471b2b0b",
+    "external_id": "https://medium.com/p/43b1992f5dca"
+  }
+}

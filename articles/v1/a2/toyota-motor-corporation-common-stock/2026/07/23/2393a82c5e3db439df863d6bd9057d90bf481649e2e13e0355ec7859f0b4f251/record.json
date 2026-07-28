@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2393a82c5e3db439df863d6bd9057d90bf481649e2e13e0355ec7859f0b4f251",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation Common Stock"
+  },
+  "source": {
+    "id": "toyota-motor-corporation-common-stock-news-import-12292c7a9cb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://toyotatimes.jp/en/toyota_news/hpe_challenge_2026/004.html",
+    "canonical": "http://toyotatimes.jp/en/toyota_news/hpe_challenge_2026/004.html"
+  },
+  "title": "Backbone Network & 3rd-Gen FC System--The Collaborative Effort to Build a Hydrogen Future",
+  "summary": "Equipped with a superconducting liquid hydrogen pump, Toyota’s hydrogen-engine Corolla took on the Super Taikyu Fuji 24 Hours. Trackside, Executive Vice President Hiroki Nakajima and colleagues spoke to the media about their plans for a hydrogen-powered f #TOYOTATIMES",
+  "published_at": "2026-07-23T15:00:00+00:00",
+  "first_seen_at": "2026-07-24T16:57:16.528820+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:50.442407+00:00",
+  "paths": {
+    "article": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/23/2393a82c5e3db439df863d6bd9057d90bf481649e2e13e0355ec7859f0b4f251/article.md",
+    "record": "articles/v1/a2/toyota-motor-corporation-common-stock/2026/07/23/2393a82c5e3db439df863d6bd9057d90bf481649e2e13e0355ec7859f0b4f251/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8526,
+    "sha256": "sha256:1b5bda22c933b426595237b022c948718e9725388051d7aaf08810f929905852",
+    "normalized_content_hash": "sha256:a585c64d00429faa0ecd7e64335b603d8058adf1667d9a21ae588105c028d295"
+  },
+  "provenance": {
+    "source_item_id": "340e3053-9fed-4630-84f7-9d9269168ee3",
+    "external_id": "http://toyotatimes.jp/en/toyota_news/hpe_challenge_2026/004.html"
+  }
+}

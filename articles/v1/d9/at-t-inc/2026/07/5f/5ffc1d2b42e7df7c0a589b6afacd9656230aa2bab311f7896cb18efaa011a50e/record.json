@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ffc1d2b42e7df7c0a589b6afacd9656230aa2bab311f7896cb18efaa011a50e",
+  "company": {
+    "key": "at-t-inc",
+    "name": "AT&T Inc."
+  },
+  "source": {
+    "id": "at-t-inc-rss-d243bc1b21b4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://about.att.com/story/2026/fastest-converged-experience.html",
+    "canonical": "https://about.att.com/story/2026/fastest-converged-experience.html"
+  },
+  "title": "AT&T is the Fastest Connectivity Provider",
+  "summary": "At home or on the go, AT&T delivers the fastest speeds across home internet and wireless.",
+  "published_at": "2026-07-15T12:05:00+00:00",
+  "first_seen_at": "2026-07-20T04:35:42.625239+00:00",
+  "fetched_at": "2026-07-28T20:53:36.935307+00:00",
+  "last_updated_at": "2026-07-28T20:53:36.989148+00:00",
+  "paths": {
+    "article": "articles/v1/d9/at-t-inc/2026/07/5f/5ffc1d2b42e7df7c0a589b6afacd9656230aa2bab311f7896cb18efaa011a50e/article.md",
+    "record": "articles/v1/d9/at-t-inc/2026/07/5f/5ffc1d2b42e7df7c0a589b6afacd9656230aa2bab311f7896cb18efaa011a50e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 643,
+    "sha256": "sha256:09e225f45864a14a0dfadb72ae96f62336d9b662bc4b9379bdc6769aefa5eb9a",
+    "normalized_content_hash": "sha256:0b551728b0810427b845decaaaf0ce6fed1a44856faf7caeb4602e04f0b2d6d8"
+  },
+  "provenance": {
+    "source_item_id": "6be6e104-2253-437d-840d-f0fb99956b33",
+    "external_id": "https://about.att.com/story/2026/fastest-converged-experience.html"
+  }
+}

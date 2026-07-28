@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "734fea7f3b3193b37f6278d19b8a76bb1ef3f4dccedc9406dc8af95362cbc37d",
+  "company": {
+    "key": "yc-formance",
+    "name": "Formance"
+  },
+  "source": {
+    "id": "yc-formance-news-import-baf47baa49b1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.formance.com/blog/embedded-finance/cross-border-payments-guide",
+    "canonical": "https://www.formance.com/blog/embedded-finance/cross-border-payments-guide"
+  },
+  "title": "Cross-Border Payments System Design Guide",
+  "summary": "Design cross-border payments with a core ledger, rail orchestration, FX controls, reconciliation, and compliance checkpoints at every hop",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:07:59.167261+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:09.799495+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-formance/2026/07/73/734fea7f3b3193b37f6278d19b8a76bb1ef3f4dccedc9406dc8af95362cbc37d/article.md",
+    "record": "articles/v1/9c/yc-formance/2026/07/73/734fea7f3b3193b37f6278d19b8a76bb1ef3f4dccedc9406dc8af95362cbc37d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18782,
+    "sha256": "sha256:4f39344f4ddad0991dd98f1944d273c06e3dbcf023fffaa091acff2a7799a499",
+    "normalized_content_hash": "sha256:453baf704cdca6534ca583f1117d3ca44dd18da5d9100681a234ca6d668226e3"
+  },
+  "provenance": {
+    "source_item_id": "faa00580-681f-4cc5-b002-f7fdb76c0083",
+    "external_id": "https://www.formance.com/blog/embedded-finance/cross-border-payments-guide"
+  }
+}

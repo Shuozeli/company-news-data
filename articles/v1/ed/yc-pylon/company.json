@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-pylon",
+    "name": "Pylon"
+  },
+  "record_count": 2,
+  "first_published_at": "2022-04-12T00:00:00+00:00",
+  "last_published_at": "2022-06-16T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    }
+  ]
+}

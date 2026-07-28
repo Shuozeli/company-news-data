@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5c71ba1b3a41ca8a075909e202a142f719a27243c752429c224e2613cbe10147",
+  "company": {
+    "key": "adobe-inc-common-stock",
+    "name": "Adobe Inc. Common Stock"
+  },
+  "source": {
+    "id": "adobe-inc-common-stock-rss-28948b03acf0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.developer.adobe.com/en/publish/2026/02/building-the-agentic-web-with-adobe-experience-manager",
+    "canonical": "https://blog.developer.adobe.com/en/publish/2026/02/building-the-agentic-web-with-adobe-experience-manager"
+  },
+  "title": "Building the Agentic Web with Adobe Experience Manager",
+  "summary": "If you’ve been building on the web for a while, this moment probably feels familiar.",
+  "published_at": "2026-02-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:41.472965+00:00",
+  "fetched_at": "2026-07-28T20:31:19.849002+00:00",
+  "last_updated_at": "2026-07-28T20:31:20.766529+00:00",
+  "paths": {
+    "article": "articles/v1/1c/adobe-inc-common-stock/2026/02/5c/5c71ba1b3a41ca8a075909e202a142f719a27243c752429c224e2613cbe10147/article.md",
+    "record": "articles/v1/1c/adobe-inc-common-stock/2026/02/5c/5c71ba1b3a41ca8a075909e202a142f719a27243c752429c224e2613cbe10147/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 735,
+    "sha256": "sha256:1c65df019ee017c3d5b6df0d04213ace6dbaeb241131260c910c16c9757a34e4",
+    "normalized_content_hash": "sha256:3b9eba0484884482a1f8979e52c3280ad31bdca9720a087bdee35bdfec435fe6"
+  },
+  "provenance": {
+    "source_item_id": "accc9a90-9b23-4b50-a64f-41cae7d380c7",
+    "external_id": "https://blog.developer.adobe.com/en/publish/2026/02/building-the-agentic-web-with-adobe-experience-manager"
+  }
+}

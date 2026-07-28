@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb1668ba627ef837f9742f53307614c96267cf01bf69a6353efcb9b6e79241e0",
+  "company": {
+    "key": "polaris-inc-common-stock",
+    "name": "Polaris Inc. Common Stock"
+  },
+  "source": {
+    "id": "polaris-inc-common-stock-news-import-7f1d8ac04206",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.polaris.com/en-us/news/company/2025-geared-for-good-annual-report/",
+    "canonical": "https://www.polaris.com/en-us/news/company/2025-geared-for-good-annual-report/"
+  },
+  "title": "Polaris Publishes 2025 Geared For Good Report",
+  "summary": "Annual report highlights progress across product innovation, environmental stewardship, community impact and employee development.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T19:29:36.853240+00:00",
+  "fetched_at": "2026-07-27T22:39:57.275487+00:00",
+  "last_updated_at": "2026-07-27T22:39:58.815917+00:00",
+  "paths": {
+    "article": "articles/v1/d4/polaris-inc-common-stock/2026/07/fb/fb1668ba627ef837f9742f53307614c96267cf01bf69a6353efcb9b6e79241e0/article.md",
+    "record": "articles/v1/d4/polaris-inc-common-stock/2026/07/fb/fb1668ba627ef837f9742f53307614c96267cf01bf69a6353efcb9b6e79241e0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6079,
+    "sha256": "sha256:e4d5824ffd6167b7010fbe11d737d9ef3d345bcbad4975593b8608d04c7806dd",
+    "normalized_content_hash": "sha256:bfc372996407af819b3b11e878b14bcac1ad6c826346f246d88e2b68afe7e159"
+  },
+  "provenance": {
+    "source_item_id": "ce9da080-5ea2-4115-a895-ab76b5e3abec",
+    "external_id": "https://www.polaris.com/en-us/news/company/2025-geared-for-good-annual-report/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9d0a391ffc41017ad26178d0c55124f2441b74c67357763da4feae8a7444820",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/flyte-vs-argo-workflows",
+    "canonical": "https://homepage.pipekit.io/blog/flyte-vs-argo-workflows"
+  },
+  "title": "Flyte vs. Argo Workflows",
+  "summary": "Flyte vs. Argo Workflows. Which one is best? Here's a head-to-head comparison of Flyte's data first and Argo's workflow first approaches.",
+  "published_at": "2024-08-07T11:39:23+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-07-28T20:59:58.808634+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/08/d9/d9d0a391ffc41017ad26178d0c55124f2441b74c67357763da4feae8a7444820/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/08/d9/d9d0a391ffc41017ad26178d0c55124f2441b74c67357763da4feae8a7444820/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9787,
+    "sha256": "sha256:b26e5b36ee2d558a7948757a5fafa4a7e0fa144331bec4b41990e928b76a7593",
+    "normalized_content_hash": "sha256:3d7cd5f8757534b01e417779ccac38a3558ecba608bca12438a5f337cde6670d"
+  },
+  "provenance": {
+    "source_item_id": "deeada14-e837-4152-af30-a226546460d0",
+    "external_id": "https://homepage.pipekit.io/blog/flyte-vs-argo-workflows"
+  }
+}

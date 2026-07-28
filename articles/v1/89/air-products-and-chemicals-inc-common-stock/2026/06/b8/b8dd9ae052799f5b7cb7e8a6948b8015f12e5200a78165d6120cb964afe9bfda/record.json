@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b8dd9ae052799f5b7cb7e8a6948b8015f12e5200a78165d6120cb964afe9bfda",
+  "company": {
+    "key": "air-products-and-chemicals-inc-common-stock",
+    "name": "Air Products and Chemicals Inc. Common Stock"
+  },
+  "source": {
+    "id": "air-products-and-chemicals-inc-common-stock-news-import-dc995e70a680",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.airproducts.me/company/news-center/2026/06/0626-air-products-2026-sustainability-report",
+    "canonical": "https://www.airproducts.me/company/news-center/2026/06/0626-air-products-2026-sustainability-report"
+  },
+  "title": "Air Products Publishes 2026 Sustainability Report",
+  "summary": "Air Products published its 2026 Sustainability Report, which provides economic, environmental and social performance data based on fiscal year 2025 information.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T03:47:45.355939+00:00",
+  "fetched_at": "2026-07-27T16:24:56.196867+00:00",
+  "last_updated_at": "2026-07-27T16:24:58.968994+00:00",
+  "paths": {
+    "article": "articles/v1/89/air-products-and-chemicals-inc-common-stock/2026/06/b8/b8dd9ae052799f5b7cb7e8a6948b8015f12e5200a78165d6120cb964afe9bfda/article.md",
+    "record": "articles/v1/89/air-products-and-chemicals-inc-common-stock/2026/06/b8/b8dd9ae052799f5b7cb7e8a6948b8015f12e5200a78165d6120cb964afe9bfda/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3619,
+    "sha256": "sha256:d847ead21fad94de857bd1bbd34999219f2317de1df4d2b74b0d66242647be39",
+    "normalized_content_hash": "sha256:33a3ea6437caf963aa5fd6bacc683d1adb2fe1c7b21cb21285eaa0108a28df92"
+  },
+  "provenance": {
+    "source_item_id": "ec5a3ef1-4ff5-4a72-9c73-6b506c927429",
+    "external_id": "https://www.airproducts.me/company/news-center/2026/06/0626-air-products-2026-sustainability-report"
+  }
+}

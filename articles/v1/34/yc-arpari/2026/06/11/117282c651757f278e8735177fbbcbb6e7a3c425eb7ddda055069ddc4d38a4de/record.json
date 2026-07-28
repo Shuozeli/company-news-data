@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "117282c651757f278e8735177fbbcbb6e7a3c425eb7ddda055069ddc4d38a4de",
+  "company": {
+    "key": "yc-arpari",
+    "name": "Arpari"
+  },
+  "source": {
+    "id": "yc-arpari-news-import-d67ae8fe8438",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arpari.com/post/why-delayed-cash-position-visibility-derails-capital-strategy",
+    "canonical": "https://arpari.com/post/why-delayed-cash-position-visibility-derails-capital-strategy"
+  },
+  "title": "Why Delayed Cash Position Visibility Derails Capital Strategy",
+  "summary": "Delayed cash position visibility forces capital decisions toward conservatism, leaving yield uncaptured and reserves higher than the risk framework requires.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T17:09:57.576780+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-07-28T21:45:17.498105+00:00",
+  "paths": {
+    "article": "articles/v1/34/yc-arpari/2026/06/11/117282c651757f278e8735177fbbcbb6e7a3c425eb7ddda055069ddc4d38a4de/article.md",
+    "record": "articles/v1/34/yc-arpari/2026/06/11/117282c651757f278e8735177fbbcbb6e7a3c425eb7ddda055069ddc4d38a4de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5866,
+    "sha256": "sha256:b1406e0fe180dc1083588c4eed4edf425a5bb395ce2cbcb7ff67a32e3b965888",
+    "normalized_content_hash": "sha256:80c496d2d8c12b80b60aa10fb4e94e784c5172cbff81738f04ce6ed290863cbd"
+  },
+  "provenance": {
+    "source_item_id": "4c331c49-21f1-4e18-a8f2-b29b638166c9",
+    "external_id": "https://arpari.com/post/why-delayed-cash-position-visibility-derails-capital-strategy"
+  }
+}

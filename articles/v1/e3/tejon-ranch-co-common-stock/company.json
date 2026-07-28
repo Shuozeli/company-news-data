@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "tejon-ranch-co-common-stock",
+    "name": "Tejon Ranch Co Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-08-07T13:15:00+00:00",
+  "last_published_at": "2026-05-07T12:55:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    }
+  ]
+}

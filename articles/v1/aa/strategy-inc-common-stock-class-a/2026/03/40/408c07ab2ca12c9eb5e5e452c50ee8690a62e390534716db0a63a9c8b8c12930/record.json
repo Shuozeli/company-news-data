@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "408c07ab2ca12c9eb5e5e452c50ee8690a62e390534716db0a63a9c8b8c12930",
+  "company": {
+    "key": "strategy-inc-common-stock-class-a",
+    "name": "Strategy Inc Common Stock Class A"
+  },
+  "source": {
+    "id": "strategy-inc-common-stock-class-a-news-import-7844395447f9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.strategy.com/press/strategy-announces-mosaic-sentinel-and-cloud-cost-arbitrage-at-the-gartner-data-analytics-summit-2026_03-09-2026",
+    "canonical": "https://www.strategy.com/press/strategy-announces-mosaic-sentinel-and-cloud-cost-arbitrage-at-the-gartner-data-analytics-summit-2026_03-09-2026"
+  },
+  "title": "Strategy Announces Mosaic Sentinel and Cloud Cost Arbitrage at the Gartner Data & Analytics Summit 2026",
+  "summary": "March 9, 2026",
+  "published_at": "2026-03-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:05:48.786840+00:00",
+  "fetched_at": "2026-07-27T15:34:51.669202+00:00",
+  "last_updated_at": "2026-07-27T15:34:53.861283+00:00",
+  "paths": {
+    "article": "articles/v1/aa/strategy-inc-common-stock-class-a/2026/03/40/408c07ab2ca12c9eb5e5e452c50ee8690a62e390534716db0a63a9c8b8c12930/article.md",
+    "record": "articles/v1/aa/strategy-inc-common-stock-class-a/2026/03/40/408c07ab2ca12c9eb5e5e452c50ee8690a62e390534716db0a63a9c8b8c12930/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5286,
+    "sha256": "sha256:e3975ae63fdd20cd64fdf150b8328278e4e0f83597e613ab95d731ccf793ca15",
+    "normalized_content_hash": "sha256:a1f430b13c5164090f0c32a2e9b823f628fe83fc39bfb936735ee473002b2426"
+  },
+  "provenance": {
+    "source_item_id": "f85cdc40-8e2d-4187-9be3-96f6f9947ab9",
+    "external_id": "https://www.strategy.com/press/strategy-announces-mosaic-sentinel-and-cloud-cost-arbitrage-at-the-gartner-data-analytics-summit-2026_03-09-2026"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e24f65a3f70afd545870e8197ca60433c5ef482c70563929107fc685f7ffc86d",
+  "company": {
+    "key": "ashland-inc-common-stock",
+    "name": "Ashland Inc. Common Stock"
+  },
+  "source": {
+    "id": "ashland-inc-common-stock-rss-d94b8ca1beea",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.ashland.com/news-releases/news-release-details/ashland-announces-appointment-two-new-directors-part-cooperation",
+    "canonical": "https://investor.ashland.com/news-releases/news-release-details/ashland-announces-appointment-two-new-directors-part-cooperation"
+  },
+  "title": "Ashland announces appointment of two new directors as part of Cooperation Agreement with stockholder Ancora",
+  "summary": "The Investor Relations website contains information about Ashland Inc.'s business for stockholders, potential investors, and financial analysts.",
+  "published_at": "2026-07-28T21:00:30+00:00",
+  "first_seen_at": "2026-07-28T21:54:47.429745+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:51.190364+00:00",
+  "paths": {
+    "article": "articles/v1/7d/ashland-inc-common-stock/2026/07/e2/e24f65a3f70afd545870e8197ca60433c5ef482c70563929107fc685f7ffc86d/article.md",
+    "record": "articles/v1/7d/ashland-inc-common-stock/2026/07/e2/e24f65a3f70afd545870e8197ca60433c5ef482c70563929107fc685f7ffc86d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14383,
+    "sha256": "sha256:db774ca232a4e1154a2825bb4c71bf317d59d1927f0ce316b49a5be9bc48267d",
+    "normalized_content_hash": "sha256:0bebf2828adf7915bfbcd02f3297aa08f64bee58ea82fe5d7fefe52f662390a2"
+  },
+  "provenance": {
+    "source_item_id": "43275a99-ae3b-445b-8d74-04112b464cb7",
+    "external_id": "37591"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d11049d12b5007e5380505f5915f472159feb588c9f57c710de5e9ce2f2b7673",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-a18fb5381575",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/start-business/s-corp-vs-llc",
+    "canonical": "https://gusto.com/resources/articles/start-business/s-corp-vs-llc"
+  },
+  "title": "S Corp vs. LLC: What's the Difference?",
+  "summary": "Your business structure will affect your taxes, liabilities, and daily operations. Understand the key differences between S corps and LLCs.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:59.033602+00:00",
+  "fetched_at": "2026-07-28T11:17:57.475842+00:00",
+  "last_updated_at": "2026-07-28T11:17:59.903420+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/d1/d11049d12b5007e5380505f5915f472159feb588c9f57c710de5e9ce2f2b7673/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/d1/d11049d12b5007e5380505f5915f472159feb588c9f57c710de5e9ce2f2b7673/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3062,
+    "sha256": "sha256:e5611b7423f89c774af78b38aa29887d90ba67be86a78b9cfb624f2c24f5d586",
+    "normalized_content_hash": "sha256:f3f983a6d2da7b1ce92523e22b80eb6069e3dcc01eabd1740d28a051ea2357eb"
+  },
+  "provenance": {
+    "source_item_id": "c4793e33-36e5-4cf4-8b3f-d4ee2d3272b2",
+    "external_id": "https://gusto.com/resources/articles/start-business/s-corp-vs-llc"
+  }
+}

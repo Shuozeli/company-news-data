@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3da0fc92af8062676d2aca57ee2c61d7a6a4fb2e244fa92b54fef7668b746fb8",
+  "company": {
+    "key": "yc-givemetap",
+    "name": "GiveMeTap"
+  },
+  "source": {
+    "id": "yc-givemetap-news-import-89a07e19ff18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.givemetap.com/blogs/press/14634445-free-water-at-a-tap-of-a-button-with-givemetap-s-android-app",
+    "canonical": "https://www.givemetap.com/blogs/press/14634445-free-water-at-a-tap-of-a-button-with-givemetap-s-android-app"
+  },
+  "title": "Free water at a tap of a button with GiveMeTap’s Android App.",
+  "summary": "With the release of the social enterprise’s new Android & iOS App this month, GiveMeTap hope to make a splash and give consumers easier access to water while transforming the image of social enterprises.",
+  "published_at": "2014-03-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:07:54.299963+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.814405+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-givemetap/2014/03/3d/3da0fc92af8062676d2aca57ee2c61d7a6a4fb2e244fa92b54fef7668b746fb8/article.md",
+    "record": "articles/v1/a3/yc-givemetap/2014/03/3d/3da0fc92af8062676d2aca57ee2c61d7a6a4fb2e244fa92b54fef7668b746fb8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3440,
+    "sha256": "sha256:6b12a781262aed98892ee74c55bb9ff73002ad335f3c2ca1902b3c264f20c4b3",
+    "normalized_content_hash": "sha256:703be137e82b2f925791954443b4eb9bab21940baeeb8f19da81079f4a5b4abf"
+  },
+  "provenance": {
+    "source_item_id": "41c04d33-6590-4fc4-95ba-7ce7b3c82ec3",
+    "external_id": "https://www.givemetap.com/blogs/press/14634445-free-water-at-a-tap-of-a-button-with-givemetap-s-android-app"
+  }
+}

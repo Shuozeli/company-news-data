@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed2ace86e933128a812d0caf58d031ed57f1a544855eeaba11d214704c9eaa14",
+  "company": {
+    "key": "edison-international-common-stock",
+    "name": "Edison International Common Stock"
+  },
+  "source": {
+    "id": "edison-international-common-stock-rss-b5fde819719b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://newsroom.edison.com/releases/sce-extends-offers-to-over-5000-community-members-impacted-by-eaton-fire",
+    "canonical": "http://newsroom.edison.com/releases/sce-extends-offers-to-over-5000-community-members-impacted-by-eaton-fire"
+  },
+  "title": "SCE Extends Offers to Over 5,000 Community Members Impacted by Eaton Fire",
+  "summary": "Media Relations: 626-302-2255, news@sce.comInvestor Relations: Sam Ramraj, 626-302-2540Feinberg/Biros: Amy Weiss, 202-203-0448, ...",
+  "published_at": "2026-06-25T15:44:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:58.102003+00:00",
+  "fetched_at": "2026-07-28T20:48:11.217348+00:00",
+  "last_updated_at": "2026-07-28T22:01:02.975011+00:00",
+  "paths": {
+    "article": "articles/v1/3a/edison-international-common-stock/2026/06/ed/ed2ace86e933128a812d0caf58d031ed57f1a544855eeaba11d214704c9eaa14/article.md",
+    "record": "articles/v1/3a/edison-international-common-stock/2026/06/ed/ed2ace86e933128a812d0caf58d031ed57f1a544855eeaba11d214704c9eaa14/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6161,
+    "sha256": "sha256:448d1da2d364b13c1e1ffb8b1fa8b7ecdfa2b7146833637a9ae3db9cee542a97",
+    "normalized_content_hash": "sha256:1e6d3d345d1797d571decd175f37639511e0c2e1c9aa166e62bf168d8acd8f5c"
+  },
+  "provenance": {
+    "source_item_id": "d1943927-bb89-4e29-aaf8-e48a619eb5ec",
+    "external_id": "http://newsroom.edison.com/releases/sce-extends-offers-to-over-5000-community-members-impacted-by-eaton-fire"
+  }
+}

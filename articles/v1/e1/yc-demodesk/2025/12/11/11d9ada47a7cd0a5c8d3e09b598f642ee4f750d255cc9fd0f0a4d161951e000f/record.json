@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11d9ada47a7cd0a5c8d3e09b598f642ee4f750d255cc9fd0f0a4d161951e000f",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/the-4-tool-stack-for-sales-productivity",
+    "canonical": "https://demodesk.com/blog/the-4-tool-stack-for-sales-productivity"
+  },
+  "title": "The 4-Tool Stack For Sales Productivity",
+  "summary": "The 4-tool stack Demodesk's SDR team runs in 2026: CRM, AI sales agent, calendar, prospecting. Why fewer tools beats sprawl on rep productivity.",
+  "published_at": "2025-12-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:07:17.937229+00:00",
+  "fetched_at": "2026-07-28T21:27:04.798558+00:00",
+  "last_updated_at": "2026-07-28T21:27:30.176010+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2025/12/11/11d9ada47a7cd0a5c8d3e09b598f642ee4f750d255cc9fd0f0a4d161951e000f/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2025/12/11/11d9ada47a7cd0a5c8d3e09b598f642ee4f750d255cc9fd0f0a4d161951e000f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6094,
+    "sha256": "sha256:f2cfb5524cf538efc8adb568d17e46624dd4438a2cd38e634fdd0f1a68f6c983",
+    "normalized_content_hash": "sha256:e131472459c988c81d2d9665f847e547864242eeaa481cfbeeefd4c56f1c82b5"
+  },
+  "provenance": {
+    "source_item_id": "712cad5b-0d04-476f-88fa-32b606296077",
+    "external_id": "https://demodesk.com/blog/the-4-tool-stack-for-sales-productivity"
+  }
+}

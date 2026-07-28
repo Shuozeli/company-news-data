@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fe2b02864641fd8638f95c19c1206174a91546f2456d5bb2d8b94b55cb1f7a7d",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/inference-optimized-image-droplet",
+    "canonical": "https://www.digitalocean.com/blog/inference-optimized-image-droplet"
+  },
+  "title": "DigitalOcean Gradient™ AI GPU Droplets Optimized for Inference: Increasing Throughput at Lower the Cost",
+  "summary": "In this post, we walk through the Inference Optimized Image, a fully pre-configured OS image, available on DigitalOcean's GPU Droplets. We cover the optimization stack, the engineering reasoning behind each layer, and the benchmark methodology and our test results showing these gains.",
+  "published_at": "2026-02-19T14:42:18.983+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T22:19:37.621751+00:00",
+  "last_updated_at": "2026-07-28T22:23:56.853788+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/02/fe/fe2b02864641fd8638f95c19c1206174a91546f2456d5bb2d8b94b55cb1f7a7d/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/02/fe/fe2b02864641fd8638f95c19c1206174a91546f2456d5bb2d8b94b55cb1f7a7d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19632,
+    "sha256": "sha256:6c5bae308cae14650d15e013d1f66c4995738695f8dbe12fa2bf0fb8aaef2332",
+    "normalized_content_hash": "sha256:33189dd57b7cef70dbb3ce816fd00d4665fcca7f6f4e971f22a5c9ea5398477d"
+  },
+  "provenance": {
+    "source_item_id": "969f6edd-6e70-474f-b337-8d826b5d0724",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/inference-optimized-image-droplet"
+  }
+}

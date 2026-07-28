@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "genedx-holdings-corp-class-a-common-stock",
+    "name": "GeneDx Holdings Corp. Class A Common Stock"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-06-24T18:42:30.047+00:00",
+  "last_published_at": "2026-07-23T19:46:33.039+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "38b21a15f8ddbdab4efc67f0155af62a6f904f999c0f9145ea2155104638b9de",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/qorvo-announces-fiscal-2026-third-quarter-financial-results",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/qorvo-announces-fiscal-2026-third-quarter-financial-results"
+  },
+  "title": "Qorvo Announces Fiscal 2026 Third Quarter Financial Results",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:13:47.878690+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:24.102225+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/38/38b21a15f8ddbdab4efc67f0155af62a6f904f999c0f9145ea2155104638b9de/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/38/38b21a15f8ddbdab4efc67f0155af62a6f904f999c0f9145ea2155104638b9de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 37505,
+    "sha256": "sha256:321c30ec403e73c86969119550bf38190f7d026b0a5862225348c221bfa47f5a",
+    "normalized_content_hash": "sha256:3b3e128a0d5c63b81073c8ac06ed4c1a0ef54877adf0350348492fec7596b696"
+  },
+  "provenance": {
+    "source_item_id": "41a8fb84-7015-4da4-926c-0715f417c31d",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/qorvo-announces-fiscal-2026-third-quarter-financial-results"
+  }
+}

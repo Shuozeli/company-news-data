@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-taxgpt",
+    "name": "TaxGPT"
+  },
+  "record_count": 101,
+  "first_published_at": "2026-03-02T14:24:35+00:00",
+  "last_published_at": "2026-07-28T14:26:36+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 62
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 32
+    }
+  ]
+}

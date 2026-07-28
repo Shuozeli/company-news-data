@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b9229748b77ac4fd23013675d1cf6334a778b0b0f672307577456d33dd60451",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-32a101d93405",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2026/q2/making-power-moves",
+    "canonical": "https://www.chevron.com/newsroom/2026/q2/making-power-moves"
+  },
+  "title": "Making power moves",
+  "summary": "Chevron is expanding into the power-for-AI business. The company’s first project in this space will deliver on-site electricity to support a Microsoft data center.",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:27.541950+00:00",
+  "fetched_at": "2026-07-28T01:33:02.875944+00:00",
+  "last_updated_at": "2026-07-28T01:33:05.369023+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2026/06/4b/4b9229748b77ac4fd23013675d1cf6334a778b0b0f672307577456d33dd60451/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2026/06/4b/4b9229748b77ac4fd23013675d1cf6334a778b0b0f672307577456d33dd60451/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1506,
+    "sha256": "sha256:7cfffa973cf342e958009658c4d5552d686405cc6fc56f70c8d1b0731f6ba3de",
+    "normalized_content_hash": "sha256:77e6410bd83ce37717c3f1a4868a84b32fbad46c22dab5f58bef17d84893b0a4"
+  },
+  "provenance": {
+    "source_item_id": "d1667f41-6f62-49ff-84ac-d902f4ae377d",
+    "external_id": "https://www.chevron.com/newsroom/2026/q2/making-power-moves"
+  }
+}

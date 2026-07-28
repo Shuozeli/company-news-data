@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-genecis-bio",
+    "name": "Genecis Bio"
+  },
+  "record_count": 10,
+  "first_published_at": "2018-11-20T06:32:40+00:00",
+  "last_published_at": "2023-03-15T06:35:00+00:00",
+  "partitions": [
+    {
+      "partition": "2018-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    }
+  ]
+}

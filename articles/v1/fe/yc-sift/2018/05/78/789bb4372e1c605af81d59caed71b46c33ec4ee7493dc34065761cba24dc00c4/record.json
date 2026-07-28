@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "789bb4372e1c605af81d59caed71b46c33ec4ee7493dc34065761cba24dc00c4",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-news-import-56a09e055dd6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/sift-science-javascript-loading-strategy/",
+    "canonical": "https://engineering.sift.com/sift-science-javascript-loading-strategy/"
+  },
+  "title": "The Sift Science Console’s Javascript Loading Strategy",
+  "summary": "A few years ago, the advice for keeping your page fast was to keep your page weight down. These days, however, we know that it’s not necessarily how big your page is, it’s how, when, and if you send it content; a 5MB page and a 200kB page could have the same First Meaningful Paints […]",
+  "published_at": "2018-05-24T15:06:02+00:00",
+  "first_seen_at": "2026-07-24T13:26:21.656972+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:25.640631+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2018/05/78/789bb4372e1c605af81d59caed71b46c33ec4ee7493dc34065761cba24dc00c4/article.md",
+    "record": "articles/v1/fe/yc-sift/2018/05/78/789bb4372e1c605af81d59caed71b46c33ec4ee7493dc34065761cba24dc00c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19238,
+    "sha256": "sha256:449e0f0f687c3eb9d7a287d5683655dcca87bd53f6186051098f5508bc3f2a94",
+    "normalized_content_hash": "sha256:4ab02fca66ad22043891b2a8a6dbd7d6f8f3986e5607d7993708581889ec2568"
+  },
+  "provenance": {
+    "source_item_id": "6ccd27f8-52da-498b-b5c8-d02fff7e21f3",
+    "external_id": "https://engineering.sift.com/sift-science-javascript-loading-strategy/"
+  }
+}

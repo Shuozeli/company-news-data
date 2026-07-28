@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5c1fb9b250190c681983e5355eb93566715dbd0589a2d93a78de2ea6354781e8",
+  "company": {
+    "key": "ttec-holdings-inc-common-stock",
+    "name": "TTEC Holdings Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttec-holdings-inc-common-stock-news-import-09d3aab661b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttecdigital.com/news/nice-recognizes-ttec-digital-in-ai-specialization-program",
+    "canonical": "https://www.ttecdigital.com/news/nice-recognizes-ttec-digital-in-ai-specialization-program"
+  },
+  "title": "NiCE recognizes TTEC Digital in inaugural AI Specialization Program",
+  "summary": "TTEC Digital is named an inaugural NiCE AI Specialization partner, making it one of only five global partners verified to deliver enterprise AI at scale.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:51:38.265268+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:21.066128+00:00",
+  "paths": {
+    "article": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/07/5c/5c1fb9b250190c681983e5355eb93566715dbd0589a2d93a78de2ea6354781e8/article.md",
+    "record": "articles/v1/b5/ttec-holdings-inc-common-stock/2026/07/5c/5c1fb9b250190c681983e5355eb93566715dbd0589a2d93a78de2ea6354781e8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2505,
+    "sha256": "sha256:fe3da81172ac01b1dd1795fd8a0e6800a972e1566600492410af3dcdb52503e6",
+    "normalized_content_hash": "sha256:910dc2d62e57230cf2dbc735e725b81e39566708a406e84b9f03c636984549da"
+  },
+  "provenance": {
+    "source_item_id": "ca43ebe7-02fd-4518-9e96-de2f82b6fcc4",
+    "external_id": "https://www.ttecdigital.com/news/nice-recognizes-ttec-digital-in-ai-specialization-program"
+  }
+}

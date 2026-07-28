@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b085e46448ef186490ee8627df68911a822ae0ba0ed56e8c42a92f3158c5cc3",
+  "company": {
+    "key": "yc-telli",
+    "name": "telli"
+  },
+  "source": {
+    "id": "yc-telli-news-import-b3cf4d9fac74",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.telli.com/articles/introducing-telli-voices",
+    "canonical": "https://www.telli.com/articles/introducing-telli-voices"
+  },
+  "title": "Introducing telli voices: Authentic voices for every customer conversation",
+  "summary": "AI voice agents have the potential to scale a sales team’s reach like never before, so why do many businesses hesitate to fully embrace them?",
+  "published_at": "2026-07-24T08:24:53.371+00:00",
+  "first_seen_at": "2026-07-22T15:58:19.892183+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:24.861556+00:00",
+  "paths": {
+    "article": "articles/v1/d0/yc-telli/2026/07/2b/2b085e46448ef186490ee8627df68911a822ae0ba0ed56e8c42a92f3158c5cc3/article.md",
+    "record": "articles/v1/d0/yc-telli/2026/07/2b/2b085e46448ef186490ee8627df68911a822ae0ba0ed56e8c42a92f3158c5cc3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6285,
+    "sha256": "sha256:99fae9259b05e7a184670d6bea12301af258dcebae4c3241eaa79fb4d62f5a74",
+    "normalized_content_hash": "sha256:d44647c5f72a0fb7ca169f33fb5ea8a1ae0209803ca51d12c121579547802b73"
+  },
+  "provenance": {
+    "source_item_id": "523a5152-3124-451a-9787-95d9f227d480",
+    "external_id": "https://www.telli.com/articles/introducing-telli-voices"
+  }
+}

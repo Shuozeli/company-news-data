@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ed5aa93feeaa65e179c833372138205197152be1fcfa341eabacf526de53d00",
+  "company": {
+    "key": "blackstone-inc-common-stock",
+    "name": "Blackstone Inc. Common Stock"
+  },
+  "source": {
+    "id": "blackstone-inc-common-stock-news-import-2d5dbb90454a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blackstone.com/news/press/brookfield-to-acquire-aypa-power-the-leading-north-american-battery-storage-platform-from-blackstone-energy-transition-partners/",
+    "canonical": "https://www.blackstone.com/news/press/brookfield-to-acquire-aypa-power-the-leading-north-american-battery-storage-platform-from-blackstone-energy-transition-partners/"
+  },
+  "title": "Brookfield to Acquire Aypa Power, the Leading North American Battery Storage Platform, from Blackstone Energy Transition Partners",
+  "summary": "Press releases, portfolio company news, and timely updates on our business.",
+  "published_at": "2026-07-22T21:37:55+00:00",
+  "first_seen_at": "2026-07-22T22:39:07.681262+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-07-28T21:20:51.423891+00:00",
+  "paths": {
+    "article": "articles/v1/76/blackstone-inc-common-stock/2026/07/8e/8ed5aa93feeaa65e179c833372138205197152be1fcfa341eabacf526de53d00/article.md",
+    "record": "articles/v1/76/blackstone-inc-common-stock/2026/07/8e/8ed5aa93feeaa65e179c833372138205197152be1fcfa341eabacf526de53d00/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12810,
+    "sha256": "sha256:1c4636569f74d4693077724e76a4ebaf3705b780807036423dd57204ada4a595",
+    "normalized_content_hash": "sha256:65326226d13a6128242bac450ef444f1467c7a857db6185f33444cc433e9531c"
+  },
+  "provenance": {
+    "source_item_id": "2baed552-7876-44cf-a6d6-fa6b3c3dcc5c",
+    "external_id": "https://www.blackstone.com/news/press/brookfield-to-acquire-aypa-power-the-leading-north-american-battery-storage-platform-from-blackstone-energy-transition-partners/"
+  }
+}

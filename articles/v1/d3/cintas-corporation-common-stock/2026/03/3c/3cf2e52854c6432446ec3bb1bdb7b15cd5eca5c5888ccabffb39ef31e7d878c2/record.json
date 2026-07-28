@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3cf2e52854c6432446ec3bb1bdb7b15cd5eca5c5888ccabffb39ef31e7d878c2",
+  "company": {
+    "key": "cintas-corporation-common-stock",
+    "name": "Cintas Corporation Common Stock"
+  },
+  "source": {
+    "id": "cintas-corporation-common-stock-news-import-2fb9347ed285",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cintas.com/about/newsroom/details/news/2026/03/09/fortune-names-cintas-to-its-2026-world-s-most-admired-companies-list/",
+    "canonical": "https://www.cintas.com/about/newsroom/details/news/2026/03/09/fortune-names-cintas-to-its-2026-world-s-most-admired-companies-list"
+  },
+  "title": "FORTUNE Names Cintas to its 2026 World’s Most Admired Companies List",
+  "summary": "CINCINNATI, Ohio – Cintas Corporation (Nasdaq: CTAS) has earned a spot on FORTUNE’s 2026 World’s Most Admired Companies list.",
+  "published_at": "2026-03-09T20:27:15+00:00",
+  "first_seen_at": "2026-07-21T13:30:40.420943+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-07-28T22:04:19.523510+00:00",
+  "paths": {
+    "article": "articles/v1/d3/cintas-corporation-common-stock/2026/03/3c/3cf2e52854c6432446ec3bb1bdb7b15cd5eca5c5888ccabffb39ef31e7d878c2/article.md",
+    "record": "articles/v1/d3/cintas-corporation-common-stock/2026/03/3c/3cf2e52854c6432446ec3bb1bdb7b15cd5eca5c5888ccabffb39ef31e7d878c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3007,
+    "sha256": "sha256:06413ae8ac05b34cb456f5a01513db985d95973cae1b870320ce2d34d30f8125",
+    "normalized_content_hash": "sha256:ab1f32a0efd2dcaed696027b1237bd655ea4d41fde592a95d3f465efcaf235cf"
+  },
+  "provenance": {
+    "source_item_id": "e24d0764-9fc3-47f1-9d08-4b7a828699ae",
+    "external_id": "https://www.cintas.com/about/newsroom/details/news/2026/03/09/fortune-names-cintas-to-its-2026-world-s-most-admired-companies-list"
+  }
+}

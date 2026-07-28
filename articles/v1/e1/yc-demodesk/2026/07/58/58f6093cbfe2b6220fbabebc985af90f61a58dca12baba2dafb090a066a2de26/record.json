@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "58f6093cbfe2b6220fbabebc985af90f61a58dca12baba2dafb090a066a2de26",
+  "company": {
+    "key": "yc-demodesk",
+    "name": "Demodesk"
+  },
+  "source": {
+    "id": "yc-demodesk-news-import-5cd66572c62f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://demodesk.com/blog/kickscale-vs-demodesk-ui-vs-open-platform",
+    "canonical": "https://demodesk.com/blog/kickscale-vs-demodesk-ui-vs-open-platform"
+  },
+  "title": "Kickscale vs Demodesk: UI Simplicity vs Open Platform",
+  "summary": "Kickscale wins on a more self-explanatory UI. Demodesk wins on open data access, MCP, and CRM depth. Here's how to choose between them in 2026.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T16:28:03.851214+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.701666+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-demodesk/2026/07/58/58f6093cbfe2b6220fbabebc985af90f61a58dca12baba2dafb090a066a2de26/article.md",
+    "record": "articles/v1/e1/yc-demodesk/2026/07/58/58f6093cbfe2b6220fbabebc985af90f61a58dca12baba2dafb090a066a2de26/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8177,
+    "sha256": "sha256:1f85e173868c54a3499ed32273914c81a19f953ae720abbf3a5622d40585a875",
+    "normalized_content_hash": "sha256:549afd94a64d0e3b12857f7b94158bef0c94f6757cf48b2345a79f7f6ac9b59b"
+  },
+  "provenance": {
+    "source_item_id": "1f53f827-13ad-4e44-92e0-11edba7ee569",
+    "external_id": "https://demodesk.com/blog/kickscale-vs-demodesk-ui-vs-open-platform"
+  }
+}

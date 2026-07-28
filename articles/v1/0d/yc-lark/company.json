@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-lark",
+    "name": "Lark"
+  },
+  "record_count": 3,
+  "first_published_at": "2026-02-19T00:00:00+00:00",
+  "last_published_at": "2026-06-03T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ]
+}

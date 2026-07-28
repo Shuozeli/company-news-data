@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d3ffc0b05c6abe251b0a3c630a91d68712f3f3c375fde48327eaf673282e4ecf",
+  "company": {
+    "key": "dave-inc-class-a-common-stock",
+    "name": "Dave Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "dave-inc-class-a-common-stock-news-import-515ef0a24fde",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://dave.com/blog/future-of-mobile-banking",
+    "canonical": "https://dave.com/blog/future-of-mobile-banking"
+  },
+  "title": "The future of mobile banking",
+  "summary": "Stay ahead with Dave's guide to banking trends. Discover the future of mobile banking and navigate your way to financial efficiency.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T08:38:37.709598+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-07-28T21:38:16.350780+00:00",
+  "paths": {
+    "article": "articles/v1/59/dave-inc-class-a-common-stock/2026/07/d3/d3ffc0b05c6abe251b0a3c630a91d68712f3f3c375fde48327eaf673282e4ecf/article.md",
+    "record": "articles/v1/59/dave-inc-class-a-common-stock/2026/07/d3/d3ffc0b05c6abe251b0a3c630a91d68712f3f3c375fde48327eaf673282e4ecf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6461,
+    "sha256": "sha256:c769bb120691ad6d989fa0c87ef963b28e9589e44ea4b75830aa952468760ecc",
+    "normalized_content_hash": "sha256:72d3b42efe2824707710a0d061d94d96e82a2dd3de5403d5b556c474cd195d5b"
+  },
+  "provenance": {
+    "source_item_id": "c6fd58bf-584f-421b-b274-96705fd22613",
+    "external_id": "https://dave.com/blog/future-of-mobile-banking"
+  }
+}

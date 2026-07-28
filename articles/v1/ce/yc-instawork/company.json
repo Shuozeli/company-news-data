@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-instawork",
+    "name": "Instawork"
+  },
+  "record_count": 107,
+  "first_published_at": "2026-01-13T19:29:25+00:00",
+  "last_published_at": "2026-07-24T21:38:04+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 33
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 22
+    }
+  ]
+}

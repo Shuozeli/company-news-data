@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "100a3cb6e4fd4d3daffba81ac65c75fd40e4aa747f7b43d5e9c22e67b76e4198",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/cashing-in-on-quantum-security",
+    "canonical": "https://www.btq.tech/blog/cashing-in-on-quantum-security"
+  },
+  "title": "Cashing in on Quantum Security",
+  "summary": "If quantum computers large enough to break modern encryption aren’t here yet, why does quantum security matter? As of July 2023, 5.2 billion people, almost two-thirds of the world’s population, are internet users. By 2025, we expect to see around 38.6 billion devices connected to the internet, and by 2030, this number...",
+  "published_at": "2023-10-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:02.679843+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2023/10/10/100a3cb6e4fd4d3daffba81ac65c75fd40e4aa747f7b43d5e9c22e67b76e4198/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2023/10/10/100a3cb6e4fd4d3daffba81ac65c75fd40e4aa747f7b43d5e9c22e67b76e4198/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11323,
+    "sha256": "sha256:4bd25bee5c48b9b36602ee6619f0a904273cacf4a4720f25619ef9ce3b534173",
+    "normalized_content_hash": "sha256:1f1aa3f05a2c5c7888bb0a8ad78fc87ef340f3c93016986e04c1e3878e9c8585"
+  },
+  "provenance": {
+    "source_item_id": "bf04de81-a93a-46c4-b27d-6fcc80fcbb8c",
+    "external_id": "https://www.btq.tech/blog/cashing-in-on-quantum-security"
+  }
+}

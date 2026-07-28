@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00a4b0aa6e303df0c26649754bab47179e460536800c4c36cd5c1c89a2703be3",
+  "company": {
+    "key": "yc-posh",
+    "name": "Posh"
+  },
+  "source": {
+    "id": "yc-posh-news-import-ab552dcc7ac3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://poshenergy.com/news/posh-featured-world-economic-forum-battery-storage-innovations",
+    "canonical": "https://poshenergy.com/news/posh-featured-world-economic-forum-battery-storage-innovations"
+  },
+  "title": "Posh Featured in World Economic Forum: 5 Battery Storage Innovations Powering the Clean Energy Transition",
+  "summary": "The World Economic Forum spotlighted Posh among the battery technology innovators pioneering the next generation of energy storage — from data centers to road transport.",
+  "published_at": "2024-02-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:39:36.892007+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:35:59.145977+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-posh/2024/02/00/00a4b0aa6e303df0c26649754bab47179e460536800c4c36cd5c1c89a2703be3/article.md",
+    "record": "articles/v1/b2/yc-posh/2024/02/00/00a4b0aa6e303df0c26649754bab47179e460536800c4c36cd5c1c89a2703be3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1271,
+    "sha256": "sha256:d919b1a729a327b20da49c3eff4be46e98a8516ee98e93fd5a24efaf8313e807",
+    "normalized_content_hash": "sha256:10da3d94ee4c892bd3f87b206ea543df453f95cd5b0cf2d549842b0c02ff6a56"
+  },
+  "provenance": {
+    "source_item_id": "32e55c64-b8ff-4f43-9ac8-7cec21819e48",
+    "external_id": "https://poshenergy.com/news/posh-featured-world-economic-forum-battery-storage-innovations"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae649f4c0b2ec6e5aa6502c1e4d6e649eebc7dfdb666516a9656c2bb01541314",
+  "company": {
+    "key": "yc-coderhouse",
+    "name": "Coderhouse"
+  },
+  "source": {
+    "id": "yc-coderhouse-news-import-7a925063f664",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coderhouse.com/coderlibrary/amd-anthropic-inversion-equipos-datos-infraestructura",
+    "canonical": "https://www.coderhouse.com/coderlibrary/amd-anthropic-inversion-equipos-datos-infraestructura"
+  },
+  "title": "AMD invierte USD 5.000M en Anthropic | Coderhouse",
+  "summary": "AMD invertirá hasta USD 5.000M en Anthropic y desplegará 2 GW de GPUs. Qué cambia para los equipos de datos que dependen de NVIDIA y los costos de IA.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:42:10.739604+00:00",
+  "fetched_at": "2026-07-28T20:24:14.254979+00:00",
+  "last_updated_at": "2026-07-28T20:24:16.440773+00:00",
+  "paths": {
+    "article": "articles/v1/7a/yc-coderhouse/2026/07/ae/ae649f4c0b2ec6e5aa6502c1e4d6e649eebc7dfdb666516a9656c2bb01541314/article.md",
+    "record": "articles/v1/7a/yc-coderhouse/2026/07/ae/ae649f4c0b2ec6e5aa6502c1e4d6e649eebc7dfdb666516a9656c2bb01541314/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7374,
+    "sha256": "sha256:26377a4880863ab2b70f77f538e69b83e18ed3de3d052100641035243a08b5f2",
+    "normalized_content_hash": "sha256:e937a7507e93b1a147c89204504de8804a63143209af9063283f5472ed37d42a"
+  },
+  "provenance": {
+    "source_item_id": "039d2283-1e47-4de7-a22c-f1ae2c3fc013",
+    "external_id": "https://www.coderhouse.com/coderlibrary/amd-anthropic-inversion-equipos-datos-infraestructura"
+  }
+}

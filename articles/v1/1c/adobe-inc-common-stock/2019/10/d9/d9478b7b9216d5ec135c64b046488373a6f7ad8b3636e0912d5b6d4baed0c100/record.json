@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9478b7b9216d5ec135c64b046488373a6f7ad8b3636e0912d5b6d4baed0c100",
+  "company": {
+    "key": "adobe-inc-common-stock",
+    "name": "Adobe Inc. Common Stock"
+  },
+  "source": {
+    "id": "adobe-inc-common-stock-rss-28948b03acf0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.developer.adobe.com/en/publish/2019/10/estk-and-macos-10-15-catalina",
+    "canonical": "https://blog.developer.adobe.com/en/publish/2019/10/estk-and-macos-10-15-catalina"
+  },
+  "title": "ESTK and macOS 10.15 Catalina",
+  "summary": "︎ExtendScript Debugger for VSCode is supported on macOS 10.15 Catalina.",
+  "published_at": "2019-10-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:41.472965+00:00",
+  "fetched_at": "2026-07-28T20:31:19.849002+00:00",
+  "last_updated_at": "2026-07-28T20:31:20.766529+00:00",
+  "paths": {
+    "article": "articles/v1/1c/adobe-inc-common-stock/2019/10/d9/d9478b7b9216d5ec135c64b046488373a6f7ad8b3636e0912d5b6d4baed0c100/article.md",
+    "record": "articles/v1/1c/adobe-inc-common-stock/2019/10/d9/d9478b7b9216d5ec135c64b046488373a6f7ad8b3636e0912d5b6d4baed0c100/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 672,
+    "sha256": "sha256:2f2a1311de52a6112780c26727f63f75ead8be1583687e8639f8a6d0a3e67e95",
+    "normalized_content_hash": "sha256:de68b02270b9bd702c97fdfebc71b64a86b281325f44034b3477a5d012b572ec"
+  },
+  "provenance": {
+    "source_item_id": "34a38f7a-5dfe-4fb3-be55-fdeafdb14e05",
+    "external_id": "https://blog.developer.adobe.com/en/publish/2019/10/estk-and-macos-10-15-catalina"
+  }
+}

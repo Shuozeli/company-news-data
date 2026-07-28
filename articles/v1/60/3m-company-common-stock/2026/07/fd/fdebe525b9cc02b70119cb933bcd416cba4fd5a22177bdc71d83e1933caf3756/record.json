@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fdebe525b9cc02b70119cb933bcd416cba4fd5a22177bdc71d83e1933caf3756",
+  "company": {
+    "key": "3m-company-common-stock",
+    "name": "3M Company Common Stock"
+  },
+  "source": {
+    "id": "3m-company-common-stock-rss-20738e6defe8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.3m.com/news-events/press-releases/detail/1935/3m-announces-upcoming-investor-event",
+    "canonical": "https://investors.3m.com/news-events/press-releases/detail/1935/3m-announces-upcoming-investor-event"
+  },
+  "title": "3M Announces Upcoming Investor Event",
+  "summary": "ST. PAUL, Minn., July 7, 2026 /PRNewswire/ --&nbsp;3M (NYSE:&nbsp;MMM) today announced the following investor event: Second-quarter 2026 earnings…...",
+  "published_at": "2026-07-07T14:15:00+00:00",
+  "first_seen_at": "2026-07-20T04:35:20.596334+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:42.685004+00:00",
+  "paths": {
+    "article": "articles/v1/60/3m-company-common-stock/2026/07/fd/fdebe525b9cc02b70119cb933bcd416cba4fd5a22177bdc71d83e1933caf3756/article.md",
+    "record": "articles/v1/60/3m-company-common-stock/2026/07/fd/fdebe525b9cc02b70119cb933bcd416cba4fd5a22177bdc71d83e1933caf3756/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2508,
+    "sha256": "sha256:70e06349fe4a4cad9af4bb13801106d88949c36c327e0e697ab6d21a696f854b",
+    "normalized_content_hash": "sha256:18855aac39aba8f8213f9c232ccd9f4dbdd87f08904d16229093ea5f10f3366e"
+  },
+  "provenance": {
+    "source_item_id": "a5bde364-4d15-42a3-9c09-f6964bb63d45",
+    "external_id": "https://investors.3m.com/news-events/press-releases/detail/1935/3m-announces-upcoming-investor-event"
+  }
+}

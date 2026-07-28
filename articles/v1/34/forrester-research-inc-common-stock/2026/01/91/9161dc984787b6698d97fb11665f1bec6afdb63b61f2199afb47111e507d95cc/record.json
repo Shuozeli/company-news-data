@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9161dc984787b6698d97fb11665f1bec6afdb63b61f2199afb47111e507d95cc",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-news-import-c48a1b0dcb72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/press-newsroom/bbc-is-the-us-tiktok-deal-a-new-reality-for-chinas-tech-champions/",
+    "canonical": "https://www.forrester.com/press-newsroom/bbc-is-the-us-tiktok-deal-a-new-reality-for-chinas-tech-champions/"
+  },
+  "title": "BBC – Is The US-TikTok Deal A New Reality For China’s Tech Champions?",
+  "summary": "BBC: Principal Analyst Kelsey Chickering discusses the US TikTok deal, observing that retraining the algorithm on domestic data will fundamentally change the user experience. Read the full article here. Read more from Kelsey here.",
+  "published_at": "2026-01-23T17:42:35+00:00",
+  "first_seen_at": "2026-07-22T22:15:37.198406+00:00",
+  "fetched_at": "2026-07-28T22:23:12.089184+00:00",
+  "last_updated_at": "2026-07-28T22:24:45.448764+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2026/01/91/9161dc984787b6698d97fb11665f1bec6afdb63b61f2199afb47111e507d95cc/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2026/01/91/9161dc984787b6698d97fb11665f1bec6afdb63b61f2199afb47111e507d95cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3077,
+    "sha256": "sha256:02fe03f2667bc60c57ccce83335302fde052f9c761cd7601ba67dad0d39ac9cf",
+    "normalized_content_hash": "sha256:0d0ad3d89326dc075866deb2a96aa58bcab6511d4ede5ef5b89d5fcc55cff1d6"
+  },
+  "provenance": {
+    "source_item_id": "d741d247-134b-40a9-aa5c-dc8279ff6afb",
+    "external_id": "https://www.forrester.com/press-newsroom/bbc-is-the-us-tiktok-deal-a-new-reality-for-chinas-tech-champions/"
+  }
+}

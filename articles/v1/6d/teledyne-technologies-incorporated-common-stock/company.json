@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "teledyne-technologies-incorporated-common-stock",
+    "name": "Teledyne Technologies Incorporated Common Stock"
+  },
+  "record_count": 25,
+  "first_published_at": "2022-07-05T12:00:00+00:00",
+  "last_published_at": "2023-02-27T13:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50c76b9e83de9f06a6af90b9881d66b38ed95eaa437642ab4a919d1bc10e8694",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-33dd9daf8236",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/irs-proposes-new-crypto-tax-rules",
+    "canonical": "https://www.cointracker.io/blog/irs-proposes-new-crypto-tax-rules"
+  },
+  "title": "New IRS crypto rules for 2026: Key changes and how to file",
+  "summary": "The IRS proposes 6045 Regs applicable to crypto asset brokers.",
+  "published_at": "2026-03-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:51:14.288459+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-07-28T22:04:19.244713+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2026/03/50/50c76b9e83de9f06a6af90b9881d66b38ed95eaa437642ab4a919d1bc10e8694/article.md",
+    "record": "articles/v1/57/yc-cointracker/2026/03/50/50c76b9e83de9f06a6af90b9881d66b38ed95eaa437642ab4a919d1bc10e8694/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12385,
+    "sha256": "sha256:78c96868388e9728827501a5e2d50db3c128fba5c7746c17571ff49555fd65ad",
+    "normalized_content_hash": "sha256:7bf206eea445233c11f4c4c91d60fa522ea72b503cef091fadd50e5bc7c96020"
+  },
+  "provenance": {
+    "source_item_id": "7e7980ca-d071-41a5-bd55-d64a84a1dd3b",
+    "external_id": "https://www.cointracker.io/blog/irs-proposes-new-crypto-tax-rules"
+  }
+}

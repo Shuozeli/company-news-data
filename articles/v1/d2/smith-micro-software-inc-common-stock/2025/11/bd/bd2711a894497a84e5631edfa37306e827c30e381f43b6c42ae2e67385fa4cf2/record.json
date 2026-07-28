@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bd2711a894497a84e5631edfa37306e827c30e381f43b6c42ae2e67385fa4cf2",
+  "company": {
+    "key": "smith-micro-software-inc-common-stock",
+    "name": "Smith Micro Software Inc. Common Stock"
+  },
+  "source": {
+    "id": "smith-micro-software-inc-common-stock-news-import-b4a9963a09cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.smithmicro.com/press-releases/2025/11/05/smith-micro-reports-third-quarter-2025-financial-results/",
+    "canonical": "https://www.smithmicro.com/press-releases/2025/11/05/smith-micro-reports-third-quarter-2025-financial-results/"
+  },
+  "title": "Smith Micro Reports Third Quarter 2025 Financial Results",
+  "summary": "Q3 results highlight growth plans and SafePath® family focus",
+  "published_at": "2025-11-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:51:11.899355+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:43.404872+00:00",
+  "paths": {
+    "article": "articles/v1/d2/smith-micro-software-inc-common-stock/2025/11/bd/bd2711a894497a84e5631edfa37306e827c30e381f43b6c42ae2e67385fa4cf2/article.md",
+    "record": "articles/v1/d2/smith-micro-software-inc-common-stock/2025/11/bd/bd2711a894497a84e5631edfa37306e827c30e381f43b6c42ae2e67385fa4cf2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11530,
+    "sha256": "sha256:162b5161caae861b93cf513a8f644a088ea2bf591930c5f43fec3f377105adc3",
+    "normalized_content_hash": "sha256:61425a01cd586d416b1ad5281a5eacb6a6b32af4421ac7241b89df5ce2d5696d"
+  },
+  "provenance": {
+    "source_item_id": "50ef1339-e71b-4b0a-8bde-5ebcafc3da21",
+    "external_id": "https://www.smithmicro.com/press-releases/2025/11/05/smith-micro-reports-third-quarter-2025-financial-results/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4aa652e1caffd2a811090537fc4fbad7d0c2d6cbcca415143a014d6a4539e703",
+  "company": {
+    "key": "pineapple-financial-inc-common-stock",
+    "name": "Pineapple Financial Inc. Common Stock"
+  },
+  "source": {
+    "id": "pineapple-financial-inc-common-stock-news-import-b60ffd90cb36",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stocktitan.net/news/PAPL/pineapple-financial-announces-expanded-15-million-share-repurchase-5vmst8rm471v.html",
+    "canonical": "https://www.stocktitan.net/news/PAPL/pineapple-financial-announces-expanded-15-million-share-repurchase-5vmst8rm471v.html"
+  },
+  "title": "Pineapple Financial Announces Expanded $15 Million Share Repurchase Program",
+  "summary": "Initial $3M authorization can be used now, while up to $12M more awaits board approval and solvency tests, outlining the program's scale and limits.",
+  "published_at": "2026-04-22T20:30:00+00:00",
+  "first_seen_at": "2026-07-23T20:27:42.033052+00:00",
+  "fetched_at": "2026-07-23T20:27:41.228499+00:00",
+  "last_updated_at": "2026-07-23T20:27:42.033052+00:00",
+  "paths": {
+    "article": "articles/v1/e5/pineapple-financial-inc-common-stock/2026/04/4a/4aa652e1caffd2a811090537fc4fbad7d0c2d6cbcca415143a014d6a4539e703/article.md",
+    "record": "articles/v1/e5/pineapple-financial-inc-common-stock/2026/04/4a/4aa652e1caffd2a811090537fc4fbad7d0c2d6cbcca415143a014d6a4539e703/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12948,
+    "sha256": "sha256:1ea254355f401cde8ffc1bfeb9559aa86a5496fb2d5f5150222e845775b6f851",
+    "normalized_content_hash": "sha256:8820c17a45155ce5191e519a4168d714cfa9488b197a515b414c8636c66be579"
+  },
+  "provenance": {
+    "source_item_id": "afd132d0-d0b4-44fb-8003-99c9c8e47544",
+    "external_id": "https://www.stocktitan.net/news/PAPL/pineapple-financial-announces-expanded-15-million-share-repurchase-5vmst8rm471v.html"
+  }
+}

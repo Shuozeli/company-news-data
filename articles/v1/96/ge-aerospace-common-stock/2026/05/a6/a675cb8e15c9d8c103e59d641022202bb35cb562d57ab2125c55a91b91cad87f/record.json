@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a675cb8e15c9d8c103e59d641022202bb35cb562d57ab2125c55a91b91cad87f",
+  "company": {
+    "key": "ge-aerospace-common-stock",
+    "name": "GE Aerospace Common Stock"
+  },
+  "source": {
+    "id": "ge-aerospace-common-stock-news-import-cc3bb1578416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.geaerospace.com/news/articles/triumph-kindness-remembering-misci-president-and-ge-archivist-chris-hunter",
+    "canonical": "https://www.geaerospace.com/news/articles/triumph-kindness-remembering-misci-president-and-ge-archivist-chris-hunter"
+  },
+  "title": "A Triumph of Kindness: Remembering MiSci President and GE Archivist Chris Hunter",
+  "summary": "GE Aerospace joins New York’s Capital Region in mourning the loss of Chris Hunter, a true friend of countless past and present employees who appreciated his passion and pride in",
+  "published_at": "2026-05-29T12:15:00+00:00",
+  "first_seen_at": "2026-07-21T21:23:10.954248+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-07-28T21:43:24.071046+00:00",
+  "paths": {
+    "article": "articles/v1/96/ge-aerospace-common-stock/2026/05/a6/a675cb8e15c9d8c103e59d641022202bb35cb562d57ab2125c55a91b91cad87f/article.md",
+    "record": "articles/v1/96/ge-aerospace-common-stock/2026/05/a6/a675cb8e15c9d8c103e59d641022202bb35cb562d57ab2125c55a91b91cad87f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5474,
+    "sha256": "sha256:1a23c4e4a99e598419ade7acb8cddb8ec8b4012b76d0a149963dba0e0c21f914",
+    "normalized_content_hash": "sha256:62591b3613ae7fafc2b411e4b98d0555de5ef73304d3c7dea654ec62f1749a70"
+  },
+  "provenance": {
+    "source_item_id": "8acdc56d-44c2-4b48-8b32-00ff4d9a9435",
+    "external_id": "https://www.geaerospace.com/news/articles/triumph-kindness-remembering-misci-president-and-ge-archivist-chris-hunter"
+  }
+}

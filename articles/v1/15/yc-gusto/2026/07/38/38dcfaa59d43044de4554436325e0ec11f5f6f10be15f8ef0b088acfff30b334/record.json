@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "38dcfaa59d43044de4554436325e0ec11f5f6f10be15f8ef0b088acfff30b334",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-news-import-bd2aa08e45c5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gusto.com/resources/articles/benefits/health-insurance/ppo-hmo-epo-pos",
+    "canonical": "https://gusto.com/resources/articles/benefits/health-insurance/ppo-hmo-epo-pos"
+  },
+  "title": "What’s the Difference Between an HMO, PPO, POS, and EPO Insurance Plan?",
+  "summary": "A PPO, HMO, EPO, and POS are all different kinds of health plans that you can enroll in. They differ in terms of network size, requirements, cost, and more.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T07:19:55.051983+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.901776+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/07/38/38dcfaa59d43044de4554436325e0ec11f5f6f10be15f8ef0b088acfff30b334/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/07/38/38dcfaa59d43044de4554436325e0ec11f5f6f10be15f8ef0b088acfff30b334/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6416,
+    "sha256": "sha256:ff5544e31624a20859d40109f6504bcfc5f6127a7e26f8fd31250e29ceff91d4",
+    "normalized_content_hash": "sha256:6e3f734fa23f70291567b6b7e405fea3f5709cf4f16fc8b99403fc2c59e3fead"
+  },
+  "provenance": {
+    "source_item_id": "fde043c2-e8ee-4662-8768-734e408e1e84",
+    "external_id": "https://gusto.com/resources/articles/benefits/health-insurance/ppo-hmo-epo-pos"
+  }
+}

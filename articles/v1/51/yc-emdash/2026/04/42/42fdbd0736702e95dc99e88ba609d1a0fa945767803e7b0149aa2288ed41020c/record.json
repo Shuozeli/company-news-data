@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "42fdbd0736702e95dc99e88ba609d1a0fa945767803e7b0149aa2288ed41020c",
+  "company": {
+    "key": "yc-emdash",
+    "name": "Emdash"
+  },
+  "source": {
+    "id": "yc-emdash-news-import-f97630886411",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://emdash.ai/blog/public-v1-beta",
+    "canonical": "https://emdash.ai/blog/public-v1-beta"
+  },
+  "title": "Emdash public v1 beta",
+  "summary": "The public v1 beta of Emdash is now available.",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T17:59:11.363639+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-07-28T21:26:12.748183+00:00",
+  "paths": {
+    "article": "articles/v1/51/yc-emdash/2026/04/42/42fdbd0736702e95dc99e88ba609d1a0fa945767803e7b0149aa2288ed41020c/article.md",
+    "record": "articles/v1/51/yc-emdash/2026/04/42/42fdbd0736702e95dc99e88ba609d1a0fa945767803e7b0149aa2288ed41020c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2782,
+    "sha256": "sha256:5997cea61ce84f3a36800382d784fbec2f29dc27ff6fb0687f9a5823989539a2",
+    "normalized_content_hash": "sha256:a39c12a695f4c5402737935a08645b403f4d120b6088da4291bd2397f00b2b1b"
+  },
+  "provenance": {
+    "source_item_id": "b2c5ecaa-bc90-4da6-988c-733e1cbb3b29",
+    "external_id": "https://emdash.ai/blog/public-v1-beta"
+  }
+}

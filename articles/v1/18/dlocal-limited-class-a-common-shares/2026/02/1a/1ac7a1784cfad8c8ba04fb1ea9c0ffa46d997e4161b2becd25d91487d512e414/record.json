@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1ac7a1784cfad8c8ba04fb1ea9c0ffa46d997e4161b2becd25d91487d512e414",
+  "company": {
+    "key": "dlocal-limited-class-a-common-shares",
+    "name": "DLocal Limited Class A Common Shares"
+  },
+  "source": {
+    "id": "dlocal-limited-class-a-common-shares-news-import-6a9c68791fc2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dlocal.com/press-releases/dlocal-partners-with-dhl-express-brazil-to-automate-pix-payments-and-accelerate-parcel-release/",
+    "canonical": "https://www.dlocal.com/press-releases/dlocal-partners-with-dhl-express-brazil-to-automate-pix-payments-and-accelerate-parcel-release/"
+  },
+  "title": "dLocal partners with DHL Express Brazil to automate Pix payments and accelerate parcel release",
+  "summary": "The integration replaces manual payment checks with real-time confirmation, improving customer experience and operational efficiency across Brazil",
+  "published_at": "2026-02-03T13:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:40:35.099772+00:00",
+  "fetched_at": "2026-07-28T22:22:52.608086+00:00",
+  "last_updated_at": "2026-07-28T22:23:01.196677+00:00",
+  "paths": {
+    "article": "articles/v1/18/dlocal-limited-class-a-common-shares/2026/02/1a/1ac7a1784cfad8c8ba04fb1ea9c0ffa46d997e4161b2becd25d91487d512e414/article.md",
+    "record": "articles/v1/18/dlocal-limited-class-a-common-shares/2026/02/1a/1ac7a1784cfad8c8ba04fb1ea9c0ffa46d997e4161b2becd25d91487d512e414/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4538,
+    "sha256": "sha256:1d013712a4314a700034a650efe10b66c7b44edf84b9566db425cd7a72579d0b",
+    "normalized_content_hash": "sha256:8c7afd34a8f4799ba7194bfae3ed1ae6ca7d7eeea78f38b1f7c7a4f28cb530e0"
+  },
+  "provenance": {
+    "source_item_id": "e0f7517b-1476-4355-9446-c795c91394cb",
+    "external_id": "https://www.dlocal.com/press-releases/dlocal-partners-with-dhl-express-brazil-to-automate-pix-payments-and-accelerate-parcel-release/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7d6ab2601962b49d1a5b4e96e647641986b33e1fc383deea57ac4cf9a3b5135c",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-32a101d93405",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2026/q2/how-wildlife-migration-informs-chevrons-plans-in-colorado",
+    "canonical": "https://www.chevron.com/newsroom/2026/q2/how-wildlife-migration-informs-chevrons-plans-in-colorado"
+  },
+  "title": "How wildlife migration informs Chevron’s plans in Colorado",
+  "summary": "Meet the team behind a data-driven effort to protect pronghorn, mule deer and their habitats. Meet the team behind a data-driven effort to protect pronghorn, mule deer and their habitats.",
+  "published_at": "2026-04-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:27.541950+00:00",
+  "fetched_at": "2026-07-28T01:33:02.875944+00:00",
+  "last_updated_at": "2026-07-28T01:33:05.369023+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2026/04/7d/7d6ab2601962b49d1a5b4e96e647641986b33e1fc383deea57ac4cf9a3b5135c/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2026/04/7d/7d6ab2601962b49d1a5b4e96e647641986b33e1fc383deea57ac4cf9a3b5135c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2437,
+    "sha256": "sha256:4aed769093b1c67c40492a6ad05991c776c35a4d1d39b3435e90876b66db11cc",
+    "normalized_content_hash": "sha256:ca2f9fa63a56d35efacdee8ebaa1baba3644c819c3e65188f0e1bbfed9ab684a"
+  },
+  "provenance": {
+    "source_item_id": "7b280a7e-58ef-40d4-a78f-416b5d962194",
+    "external_id": "https://www.chevron.com/newsroom/2026/q2/how-wildlife-migration-informs-chevrons-plans-in-colorado"
+  }
+}

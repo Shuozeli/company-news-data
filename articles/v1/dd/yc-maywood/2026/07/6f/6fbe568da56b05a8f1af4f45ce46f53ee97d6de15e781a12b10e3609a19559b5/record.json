@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6fbe568da56b05a8f1af4f45ce46f53ee97d6de15e781a12b10e3609a19559b5",
+  "company": {
+    "key": "yc-maywood",
+    "name": "Maywood"
+  },
+  "source": {
+    "id": "yc-maywood-news-import-280be323e7e6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.maywoodai.com/news/sp-global-market-intelligence",
+    "canonical": "https://www.maywoodai.com/news/sp-global-market-intelligence"
+  },
+  "title": "Maywood Collaborates with S&P Global Market Intelligence to Power Proactive AI for Dealmaking",
+  "summary": "Maywood has collaborated with S&P Global Market Intelligence to integrate its data into Maywood's proactive AI harness, enabling Maverick to track important companies, identify key signals, and help teams do more deals.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T14:18:14.930665+00:00",
+  "fetched_at": "2026-07-27T18:12:12.349023+00:00",
+  "last_updated_at": "2026-07-27T18:12:14.013670+00:00",
+  "paths": {
+    "article": "articles/v1/dd/yc-maywood/2026/07/6f/6fbe568da56b05a8f1af4f45ce46f53ee97d6de15e781a12b10e3609a19559b5/article.md",
+    "record": "articles/v1/dd/yc-maywood/2026/07/6f/6fbe568da56b05a8f1af4f45ce46f53ee97d6de15e781a12b10e3609a19559b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3733,
+    "sha256": "sha256:97e117ea973bac997020ea30ba91c2af42c7eace92a72353d36015d9f6ea2103",
+    "normalized_content_hash": "sha256:b6ce4209cef872e96c343e826e71e2a63d3289914da845a314c8f65af6c27ee0"
+  },
+  "provenance": {
+    "source_item_id": "db696698-a16a-4ebf-a7bb-34c02ee33d86",
+    "external_id": "https://www.maywoodai.com/news/sp-global-market-intelligence"
+  }
+}

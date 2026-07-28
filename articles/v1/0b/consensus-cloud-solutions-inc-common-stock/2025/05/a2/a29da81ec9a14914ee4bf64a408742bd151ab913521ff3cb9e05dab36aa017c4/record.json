@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a29da81ec9a14914ee4bf64a408742bd151ab913521ff3cb9e05dab36aa017c4",
+  "company": {
+    "key": "consensus-cloud-solutions-inc-common-stock",
+    "name": "Consensus Cloud Solutions Inc. Common Stock"
+  },
+  "source": {
+    "id": "consensus-cloud-solutions-inc-common-stock-news-import-8dce54ed2999",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.consensus.com/blog/cloud-adoption-2025/",
+    "canonical": "https://www.consensus.com/blog/cloud-adoption-2025/"
+  },
+  "title": "Predictions from the C-Suite: A Sunny Outlook for the Cloud in 2025",
+  "summary": "Tech leaders forecast secure, equitable cloud adoption in 2025, driving interoperability in healthcare.",
+  "published_at": "2025-05-20T16:11:12+00:00",
+  "first_seen_at": "2026-07-21T14:50:45.936843+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-07-28T21:32:50.909732+00:00",
+  "paths": {
+    "article": "articles/v1/0b/consensus-cloud-solutions-inc-common-stock/2025/05/a2/a29da81ec9a14914ee4bf64a408742bd151ab913521ff3cb9e05dab36aa017c4/article.md",
+    "record": "articles/v1/0b/consensus-cloud-solutions-inc-common-stock/2025/05/a2/a29da81ec9a14914ee4bf64a408742bd151ab913521ff3cb9e05dab36aa017c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6488,
+    "sha256": "sha256:f2ef177fa586e7030bc3bde3e35f96b89bf85118eca72f1ef376274416638154",
+    "normalized_content_hash": "sha256:b6abff5a45a48a75014199e2ce40218195ea6c7c50199d48a22e23d195b576f4"
+  },
+  "provenance": {
+    "source_item_id": "a3872d47-e231-4ec6-81c9-3f0cd3a8b481",
+    "external_id": "https://www.consensus.com/blog/cloud-adoption-2025/"
+  }
+}

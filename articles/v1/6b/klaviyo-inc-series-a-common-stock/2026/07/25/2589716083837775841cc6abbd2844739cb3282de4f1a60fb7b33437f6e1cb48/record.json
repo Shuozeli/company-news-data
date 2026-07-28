@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2589716083837775841cc6abbd2844739cb3282de4f1a60fb7b33437f6e1cb48",
+  "company": {
+    "key": "klaviyo-inc-series-a-common-stock",
+    "name": "Klaviyo Inc. Series A Common Stock"
+  },
+  "source": {
+    "id": "klaviyo-inc-series-a-common-stock-news-import-abe5cdb5a224",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.klaviyo.com/newsroom/ai-persona-research",
+    "canonical": "https://www.klaviyo.com/newsroom/ai-persona-research"
+  },
+  "title": "Consumers are turning to AI to discover and buy products, new research shows trust will shape the next wave of experiences",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T01:37:00.501404+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-07-28T21:19:53.555500+00:00",
+  "paths": {
+    "article": "articles/v1/6b/klaviyo-inc-series-a-common-stock/2026/07/25/2589716083837775841cc6abbd2844739cb3282de4f1a60fb7b33437f6e1cb48/article.md",
+    "record": "articles/v1/6b/klaviyo-inc-series-a-common-stock/2026/07/25/2589716083837775841cc6abbd2844739cb3282de4f1a60fb7b33437f6e1cb48/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7033,
+    "sha256": "sha256:588403229514b0a92eb14f5e7df074e42b7265b7fdf8a48a79e6882af82b0b36",
+    "normalized_content_hash": "sha256:364ba543dd02859009b3ba2c072894c62ef684927a11fedb4d4929ee7703f59d"
+  },
+  "provenance": {
+    "source_item_id": "b0f0f4bc-0f6b-4362-ba78-afda75d46ae7",
+    "external_id": "https://www.klaviyo.com/newsroom/ai-persona-research"
+  }
+}

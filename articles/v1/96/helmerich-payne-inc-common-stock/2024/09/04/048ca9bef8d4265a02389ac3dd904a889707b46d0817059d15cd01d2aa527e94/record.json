@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "048ca9bef8d4265a02389ac3dd904a889707b46d0817059d15cd01d2aa527e94",
+  "company": {
+    "key": "helmerich-payne-inc-common-stock",
+    "name": "Helmerich & Payne Inc. Common Stock"
+  },
+  "source": {
+    "id": "helmerich-payne-inc-common-stock-news-import-5ae549a21ed6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hpinc.com/news/announcements/ribbon-cutting",
+    "canonical": "https://www.hpinc.com/news/announcements/ribbon-cutting"
+  },
+  "title": "H&P Welcomes Community to HQ Ribbon Cutting",
+  "summary": "H&P hosts a ribbon-cutting ceremony at their new HQ in downtown Tulsa, OK. The 104-year old company has been based in Tulsa since 1926.",
+  "published_at": "2024-09-18T18:54:00+00:00",
+  "first_seen_at": "2026-07-21T22:46:51.827606+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-28T21:33:38.592164+00:00",
+  "paths": {
+    "article": "articles/v1/96/helmerich-payne-inc-common-stock/2024/09/04/048ca9bef8d4265a02389ac3dd904a889707b46d0817059d15cd01d2aa527e94/article.md",
+    "record": "articles/v1/96/helmerich-payne-inc-common-stock/2024/09/04/048ca9bef8d4265a02389ac3dd904a889707b46d0817059d15cd01d2aa527e94/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2464,
+    "sha256": "sha256:93426ba4a47e6991ced467c0d4d1ddb747ea3473a67734cd2a29edea5c3b5012",
+    "normalized_content_hash": "sha256:ff948690c1824cd868ba9a9aa30cf9fb3808b339d52a242ff884dd8a0d38992a"
+  },
+  "provenance": {
+    "source_item_id": "86f7e96f-d8ef-45f2-85a6-ae1bbd66d01a",
+    "external_id": "https://www.hpinc.com/news/announcements/ribbon-cutting"
+  }
+}

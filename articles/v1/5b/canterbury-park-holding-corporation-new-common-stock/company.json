@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "canterbury-park-holding-corporation-new-common-stock",
+    "name": "Canterbury Park Holding Corporation 'New' Common Stock"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-06-19T01:15:27+00:00",
+  "last_published_at": "2026-07-24T00:23:09+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    }
+  ]
+}

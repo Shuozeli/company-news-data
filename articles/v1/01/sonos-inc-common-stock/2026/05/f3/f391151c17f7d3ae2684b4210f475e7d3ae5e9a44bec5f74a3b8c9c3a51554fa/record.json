@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f391151c17f7d3ae2684b4210f475e7d3ae5e9a44bec5f74a3b8c9c3a51554fa",
+  "company": {
+    "key": "sonos-inc-common-stock",
+    "name": "Sonos Inc. Common Stock"
+  },
+  "source": {
+    "id": "sonos-inc-common-stock-news-import-358168792368",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://en.community.sonos.com/product-updates/heads-up-update-required-prompt-in-the-sonos-app-6933822?postid=12429",
+    "canonical": "https://en.community.sonos.com/product-updates/heads-up-update-required-prompt-in-the-sonos-app-6933822"
+  },
+  "title": "Heads up: \"Update Required\" prompt in the Sonos app",
+  "summary": "Hi everyone 🖖Just wanted to keep you looped in as we roll out the latest app update this week.Most of you won't see any changes, but for a small percentage of users running older software, you may encounter an \"Update Required\" screen. This is a new minimum requirement to make sure your system inclu...",
+  "published_at": "2026-05-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:42:45.861887+00:00",
+  "fetched_at": "2026-07-27T10:56:07.023305+00:00",
+  "last_updated_at": "2026-07-27T10:56:14.606672+00:00",
+  "paths": {
+    "article": "articles/v1/01/sonos-inc-common-stock/2026/05/f3/f391151c17f7d3ae2684b4210f475e7d3ae5e9a44bec5f74a3b8c9c3a51554fa/article.md",
+    "record": "articles/v1/01/sonos-inc-common-stock/2026/05/f3/f391151c17f7d3ae2684b4210f475e7d3ae5e9a44bec5f74a3b8c9c3a51554fa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15986,
+    "sha256": "sha256:2acb5d02ce0bc2956a60a14c4ff08ef5c276a8bbc56443f784c8e18ef187b969",
+    "normalized_content_hash": "sha256:a6f47691280c66eb511465b3e578bf4039fca184c9e7966beeeba209ef4de0e7"
+  },
+  "provenance": {
+    "source_item_id": "88214bfe-5f71-4374-b646-ad266f64e8bd",
+    "external_id": "https://en.community.sonos.com/product-updates/heads-up-update-required-prompt-in-the-sonos-app-6933822"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8347dc5f7c549b2dd43f385aeefd0d09cf1b1f2405ad1fd076aee6269874eaad",
+  "company": {
+    "key": "clarus-corporation-common-stock",
+    "name": "Clarus Corporation Common Stock"
+  },
+  "source": {
+    "id": "clarus-corporation-common-stock-news-import-05d5c677432b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.claruscorp.com/press-releases/detail/313/clarus-sets-fourth-quarter-and-full-year-2025-conference",
+    "canonical": "https://www.claruscorp.com/press-releases/detail/313/clarus-sets-fourth-quarter-and-full-year-2025-conference"
+  },
+  "title": "Clarus Sets Fourth Quarter and Full Year 2025 Conference Call for Thursday, March 5, 2026, at 5:00 p.m. ET :: Clarus Corporation (CLAR)",
+  "summary": "",
+  "published_at": "2026-02-26T18:15:00+00:00",
+  "first_seen_at": "2026-07-21T13:42:44.166503+00:00",
+  "fetched_at": "2026-07-28T20:05:22.280610+00:00",
+  "last_updated_at": "2026-07-28T20:05:24.631651+00:00",
+  "paths": {
+    "article": "articles/v1/b5/clarus-corporation-common-stock/2026/02/83/8347dc5f7c549b2dd43f385aeefd0d09cf1b1f2405ad1fd076aee6269874eaad/article.md",
+    "record": "articles/v1/b5/clarus-corporation-common-stock/2026/02/83/8347dc5f7c549b2dd43f385aeefd0d09cf1b1f2405ad1fd076aee6269874eaad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5203,
+    "sha256": "sha256:b7466e1a4174a3488b3265f38fe01ab17479f3a2ef36a20e0a28a86bb92834eb",
+    "normalized_content_hash": "sha256:63fd87e1ca0dbaed0a5dd1bd198d367ad81abea960faec44e0a1ef14ae933889"
+  },
+  "provenance": {
+    "source_item_id": "5dd5a27e-dc09-402a-80f4-0155c5b456de",
+    "external_id": "https://www.claruscorp.com/press-releases/detail/313/clarus-sets-fourth-quarter-and-full-year-2025-conference"
+  }
+}

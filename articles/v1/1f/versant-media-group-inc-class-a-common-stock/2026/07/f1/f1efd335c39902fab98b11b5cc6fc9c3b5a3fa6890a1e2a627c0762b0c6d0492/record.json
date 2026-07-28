@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f1efd335c39902fab98b11b5cc6fc9c3b5a3fa6890a1e2a627c0762b0c6d0492",
+  "company": {
+    "key": "versant-media-group-inc-class-a-common-stock",
+    "name": "Versant Media Group Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "versant-media-group-inc-class-a-common-stock-news-import-330025bd2632",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.versantmedia.com/newsroom/entertainment/e",
+    "canonical": "https://www.versantmedia.com/newsroom/entertainment/e"
+  },
+  "title": "E! | VERSANT",
+  "summary": "A global media and technology company.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:03:58.815262+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:43.760928+00:00",
+  "paths": {
+    "article": "articles/v1/1f/versant-media-group-inc-class-a-common-stock/2026/07/f1/f1efd335c39902fab98b11b5cc6fc9c3b5a3fa6890a1e2a627c0762b0c6d0492/article.md",
+    "record": "articles/v1/1f/versant-media-group-inc-class-a-common-stock/2026/07/f1/f1efd335c39902fab98b11b5cc6fc9c3b5a3fa6890a1e2a627c0762b0c6d0492/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1471,
+    "sha256": "sha256:672be9bbf9bc729c35f3ceb72136845da6e29fb01ee54932f2af454fcc29e169",
+    "normalized_content_hash": "sha256:72d02bdb85cec2af8db2b94bccef6c4ea670aa00dbe15ff5dd4949c52381e4cf"
+  },
+  "provenance": {
+    "source_item_id": "de250c56-d27e-4c82-9d8b-4d886b2118de",
+    "external_id": "https://www.versantmedia.com/newsroom/entertainment/e"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d5987fe67339972a893e33476d846e7ddf8713056d8ae7786c8fa69bab80494d",
+  "company": {
+    "key": "btq-technologies-corp-common-stock",
+    "name": "BTQ Technologies Corp. Common Stock"
+  },
+  "source": {
+    "id": "btq-technologies-corp-common-stock-news-import-4b4199d8e235",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.btq.tech/blog/what-does-a-transition-to-post-quantum-cryptography-look-like",
+    "canonical": "https://www.btq.tech/blog/what-does-a-transition-to-post-quantum-cryptography-look-like"
+  },
+  "title": "What Does a Transition to Post-Quantum Cryptography Look Like?",
+  "summary": "Cryptography is the cornerstone of digital security, enabling everything from secure communications to online banking. In the other resources in this series, we have covered the rise of quantum computing and how it threatens current cryptographic systems. Quantum computing is not theoretical. Real strides are being made towards building scalable quantum computers. However, there's still debate about when quantum machines will become powerful enough to break contemporary cryptographic algorithm",
+  "published_at": "2023-10-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:47:25.232763+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:36:02.777789+00:00",
+  "paths": {
+    "article": "articles/v1/fe/btq-technologies-corp-common-stock/2023/10/d5/d5987fe67339972a893e33476d846e7ddf8713056d8ae7786c8fa69bab80494d/article.md",
+    "record": "articles/v1/fe/btq-technologies-corp-common-stock/2023/10/d5/d5987fe67339972a893e33476d846e7ddf8713056d8ae7786c8fa69bab80494d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9956,
+    "sha256": "sha256:0e3579d0c35f66806b18f165925065e1dd68de4533dcee7ae06c312ea3faa167",
+    "normalized_content_hash": "sha256:94c8b614c7d42e50564bccb6eb9af64a34a71f97ef0de42fd886cf45584ddfde"
+  },
+  "provenance": {
+    "source_item_id": "71950873-6107-48c6-90e3-3f7f37230933",
+    "external_id": "https://www.btq.tech/blog/what-does-a-transition-to-post-quantum-cryptography-look-like"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbb08145c6e1125dfc82ce5c7ad51669a1bb0d3930f515eda6f1f30be418a577",
+  "company": {
+    "key": "zoominfo-technologies-inc-common-stock",
+    "name": "ZoomInfo Technologies Inc Common Stock"
+  },
+  "source": {
+    "id": "zoominfo-technologies-inc-common-stock-news-import-8d5d92e532e7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.zoominfo.com/deployment-strategies-in-k8s-using-argo-rollout-and-how-to-benefit-from-it",
+    "canonical": "https://engineering.zoominfo.com/deployment-strategies-in-k8s-using-argo-rollout-and-how-to-benefit-from-it"
+  },
+  "title": "Deployment Strategies in K8s using Argo rollout (and how to benefit from it)",
+  "summary": "Overview In the world of software deployment, structured strategies drive efficiency in updating applications while ensuring uninterrupted availability. These methodologies minimize user impact, mitigate risks, and enable swift rollbacks when necessary. Moreover, they serve as vital tools for version testing. Orchestrated by the Continuous Delivery (CD) system, these strategies aim…",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T06:38:16.632877+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-07-28T21:37:46.496387+00:00",
+  "paths": {
+    "article": "articles/v1/68/zoominfo-technologies-inc-common-stock/2026/07/bb/bbb08145c6e1125dfc82ce5c7ad51669a1bb0d3930f515eda6f1f30be418a577/article.md",
+    "record": "articles/v1/68/zoominfo-technologies-inc-common-stock/2026/07/bb/bbb08145c6e1125dfc82ce5c7ad51669a1bb0d3930f515eda6f1f30be418a577/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21682,
+    "sha256": "sha256:0362a6add5c323ce602f1f225fa6ef695b3a7e4c690b1410cdee89cf30291d00",
+    "normalized_content_hash": "sha256:64eccedcf3c8a2b3f85120ccc6ba4e1606c382800bf4fd9428c087a743bb74a6"
+  },
+  "provenance": {
+    "source_item_id": "e359f4b8-ffbf-4f4b-a74a-620d10e9fa89",
+    "external_id": "https://engineering.zoominfo.com/deployment-strategies-in-k8s-using-argo-rollout-and-how-to-benefit-from-it"
+  }
+}

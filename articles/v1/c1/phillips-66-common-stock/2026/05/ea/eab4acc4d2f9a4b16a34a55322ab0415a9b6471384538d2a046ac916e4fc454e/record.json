@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eab4acc4d2f9a4b16a34a55322ab0415a9b6471384538d2a046ac916e4fc454e",
+  "company": {
+    "key": "phillips-66-common-stock",
+    "name": "Phillips 66 Common Stock"
+  },
+  "source": {
+    "id": "phillips-66-common-stock-news-import-d9399e0d03a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.phillips66.com/newsroom/phillips-66-pipeline-honored-with-safety-award/",
+    "canonical": "https://www.phillips66.com/newsroom/phillips-66-pipeline-honored-with-safety-award/"
+  },
+  "title": "Phillips 66 honored with safety award",
+  "summary": "Phillips 66 Pipeline earns 2025 API Distinguished Pipeline Safety Award for a strong culture of performance, accountability and continuous improvement",
+  "published_at": "2026-05-06T19:29:21+00:00",
+  "first_seen_at": "2026-07-22T08:53:17.580250+00:00",
+  "fetched_at": "2026-07-28T22:12:45.343034+00:00",
+  "last_updated_at": "2026-07-28T22:13:01.683406+00:00",
+  "paths": {
+    "article": "articles/v1/c1/phillips-66-common-stock/2026/05/ea/eab4acc4d2f9a4b16a34a55322ab0415a9b6471384538d2a046ac916e4fc454e/article.md",
+    "record": "articles/v1/c1/phillips-66-common-stock/2026/05/ea/eab4acc4d2f9a4b16a34a55322ab0415a9b6471384538d2a046ac916e4fc454e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4545,
+    "sha256": "sha256:d81cf3f8682bb154a45ea968b8df43faf82612e0cdffc1eaaff05a5e9f683cfd",
+    "normalized_content_hash": "sha256:62933ff566177e54b8c7ae6b7fc215afb8a17528cc5e371e2b22cff385fa1e78"
+  },
+  "provenance": {
+    "source_item_id": "3e667443-abc8-471c-8f48-71b3e93b6fcd",
+    "external_id": "https://www.phillips66.com/newsroom/phillips-66-pipeline-honored-with-safety-award/"
+  }
+}

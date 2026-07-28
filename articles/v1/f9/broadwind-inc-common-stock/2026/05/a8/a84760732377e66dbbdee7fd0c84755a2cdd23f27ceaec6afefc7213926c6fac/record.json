@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a84760732377e66dbbdee7fd0c84755a2cdd23f27ceaec6afefc7213926c6fac",
+  "company": {
+    "key": "broadwind-inc-common-stock",
+    "name": "Broadwind Inc. Common Stock"
+  },
+  "source": {
+    "id": "broadwind-inc-common-stock-rss-eded55d2a731",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.bwen.com/investor-news/investor-news-details/2026/Broadwind-Announces-First-Quarter-2026-Results/default.aspx",
+    "canonical": "https://investors.bwen.com/investor-news/investor-news-details/2026/Broadwind-Announces-First-Quarter-2026-Results/default.aspx"
+  },
+  "title": "Broadwind Announces First Quarter 2026 Results",
+  "summary": "",
+  "published_at": "2026-05-12T11:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:06:56.675955+00:00",
+  "fetched_at": "2026-07-28T19:49:09.436573+00:00",
+  "last_updated_at": "2026-07-28T19:49:09.496632+00:00",
+  "paths": {
+    "article": "articles/v1/f9/broadwind-inc-common-stock/2026/05/a8/a84760732377e66dbbdee7fd0c84755a2cdd23f27ceaec6afefc7213926c6fac/article.md",
+    "record": "articles/v1/f9/broadwind-inc-common-stock/2026/05/a8/a84760732377e66dbbdee7fd0c84755a2cdd23f27ceaec6afefc7213926c6fac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 674,
+    "sha256": "sha256:c192d3c986bf24db35cf1aede9ca69211008f37f253f64e04144ad5d02d578fb",
+    "normalized_content_hash": "sha256:ce20a153a0c2a604afd6c2d6db444c0b6a326b9f44e274b70966598b94ac1217"
+  },
+  "provenance": {
+    "source_item_id": "947597af-518b-43e9-a872-33d32c492a9a",
+    "external_id": "d440655f-4b8c-40ee-8556-b0849be1e39a"
+  }
+}

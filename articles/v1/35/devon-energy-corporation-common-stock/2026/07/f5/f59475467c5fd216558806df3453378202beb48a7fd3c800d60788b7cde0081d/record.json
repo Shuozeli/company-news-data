@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f59475467c5fd216558806df3453378202beb48a7fd3c800d60788b7cde0081d",
+  "company": {
+    "key": "devon-energy-corporation-common-stock",
+    "name": "Devon Energy Corporation Common Stock"
+  },
+  "source": {
+    "id": "devon-energy-corporation-common-stock-news-import-bcaa6d747838",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.devonenergy.com/news/2026/Devon-Energy-CEO-Clay-Gaspar-to-Participate-in-a-Fireside-Chat-at-the-J-P--Morgan-Energy-Power-Renewables--Mining-Conference",
+    "canonical": "https://www.devonenergy.com/news/2026/Devon-Energy-CEO-Clay-Gaspar-to-Participate-in-a-Fireside-Chat-at-the-J-P--Morgan-Energy-Power-Renewables--Mining-Conference"
+  },
+  "title": "Devon Energy CEO Clay Gaspar to Participate in a Fireside Chat at the J.P. Morgan Energy, Power, Renewables & Mining Conference",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:10:36.356012+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:42:07.774327+00:00",
+  "paths": {
+    "article": "articles/v1/35/devon-energy-corporation-common-stock/2026/07/f5/f59475467c5fd216558806df3453378202beb48a7fd3c800d60788b7cde0081d/article.md",
+    "record": "articles/v1/35/devon-energy-corporation-common-stock/2026/07/f5/f59475467c5fd216558806df3453378202beb48a7fd3c800d60788b7cde0081d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2646,
+    "sha256": "sha256:5b064a997123fd073359857c6808fe5d3889980e2f45aaadd6a1c83c3004d8c4",
+    "normalized_content_hash": "sha256:114fecaa7214ecd4292f9f6f1a6f4e49aae0013c31f9dde19e7c2b5fd71a6e41"
+  },
+  "provenance": {
+    "source_item_id": "40ef1b7a-9ed1-4506-8b8c-e8821f778059",
+    "external_id": "https://www.devonenergy.com/news/2026/Devon-Energy-CEO-Clay-Gaspar-to-Participate-in-a-Fireside-Chat-at-the-J-P--Morgan-Energy-Power-Renewables--Mining-Conference"
+  }
+}

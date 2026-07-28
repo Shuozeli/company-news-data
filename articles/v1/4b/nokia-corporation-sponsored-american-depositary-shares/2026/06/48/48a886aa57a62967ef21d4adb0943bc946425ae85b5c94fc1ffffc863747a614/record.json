@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "48a886aa57a62967ef21d4adb0943bc946425ae85b5c94fc1ffffc863747a614",
+  "company": {
+    "key": "nokia-corporation-sponsored-american-depositary-shares",
+    "name": "Nokia Corporation Sponsored American Depositary Shares"
+  },
+  "source": {
+    "id": "nokia-corporation-sponsored-american-depositary-shares-news-import-bb650893ccf7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nokia.com/blog/transpower-a-journey-into-the-heart-of-new-zealands-national-grid/",
+    "canonical": "https://www.nokia.com/blog/transpower-a-journey-into-the-heart-of-new-zealands-national-grid/"
+  },
+  "title": "Transpower: A journey into the heart of New Zealand’s national grid",
+  "summary": "We’re helping Transpower update its grid communications network so it can keep providing reliable power to all New Zealanders.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:04:49.665774+00:00",
+  "fetched_at": "2026-07-27T20:24:08.774797+00:00",
+  "last_updated_at": "2026-07-27T20:24:15.457712+00:00",
+  "paths": {
+    "article": "articles/v1/4b/nokia-corporation-sponsored-american-depositary-shares/2026/06/48/48a886aa57a62967ef21d4adb0943bc946425ae85b5c94fc1ffffc863747a614/article.md",
+    "record": "articles/v1/4b/nokia-corporation-sponsored-american-depositary-shares/2026/06/48/48a886aa57a62967ef21d4adb0943bc946425ae85b5c94fc1ffffc863747a614/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4274,
+    "sha256": "sha256:aad3ebba14a1d7e5e9c16610643b456673b555e765dc3ecf462fbc0778f882b8",
+    "normalized_content_hash": "sha256:4b22e0e8564ba7326f0c9e26bbccdf59b72158baebedf9f41f8174edf410a0d1"
+  },
+  "provenance": {
+    "source_item_id": "2ea6cc99-13cb-4eee-8501-a5b79d7c5e1c",
+    "external_id": "https://www.nokia.com/blog/transpower-a-journey-into-the-heart-of-new-zealands-national-grid/"
+  }
+}

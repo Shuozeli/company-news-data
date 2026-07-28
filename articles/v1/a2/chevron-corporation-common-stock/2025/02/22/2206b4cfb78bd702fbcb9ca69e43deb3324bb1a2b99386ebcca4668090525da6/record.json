@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2206b4cfb78bd702fbcb9ca69e43deb3324bb1a2b99386ebcca4668090525da6",
+  "company": {
+    "key": "chevron-corporation-common-stock",
+    "name": "Chevron Corporation Common Stock"
+  },
+  "source": {
+    "id": "chevron-corporation-common-stock-news-import-06b8bc8a305e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.chevron.com/newsroom/2025/q1/chevron-ceo-talks-company-growth-new-ventures",
+    "canonical": "https://www.chevron.com/newsroom/2025/q1/chevron-ceo-talks-company-growth-new-ventures"
+  },
+  "title": "chevron CEO talks company growth, new ventures",
+  "summary": "Mike Wirth, Chevron chairman and CEO, recently visited Bloomberg Surveillance to discuss changing attitudes toward energy and Chevron’s growth.",
+  "published_at": "2025-02-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:44:31.975410+00:00",
+  "fetched_at": "2026-07-28T01:33:10.855006+00:00",
+  "last_updated_at": "2026-07-28T01:33:17.926872+00:00",
+  "paths": {
+    "article": "articles/v1/a2/chevron-corporation-common-stock/2025/02/22/2206b4cfb78bd702fbcb9ca69e43deb3324bb1a2b99386ebcca4668090525da6/article.md",
+    "record": "articles/v1/a2/chevron-corporation-common-stock/2025/02/22/2206b4cfb78bd702fbcb9ca69e43deb3324bb1a2b99386ebcca4668090525da6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2796,
+    "sha256": "sha256:e824ebbce846017a7d35dd1cb7149bfac1f5d97c484e824ea088ff3bdf615cf3",
+    "normalized_content_hash": "sha256:b96206531716c49b6e5f9239125e92efb5d7d315066a7dfec5c3a8a62af572ea"
+  },
+  "provenance": {
+    "source_item_id": "a9c5a4fc-2eb4-4dd0-8fd9-2981a1bd1091",
+    "external_id": "https://www.chevron.com/newsroom/2025/q1/chevron-ceo-talks-company-growth-new-ventures"
+  }
+}

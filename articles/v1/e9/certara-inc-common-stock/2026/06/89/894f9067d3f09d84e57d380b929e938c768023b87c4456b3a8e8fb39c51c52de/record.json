@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "894f9067d3f09d84e57d380b929e938c768023b87c4456b3a8e8fb39c51c52de",
+  "company": {
+    "key": "certara-inc-common-stock",
+    "name": "Certara Inc. Common Stock"
+  },
+  "source": {
+    "id": "certara-inc-common-stock-news-import-bbe25235e5a2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.certara.com/announcement/migrating-to-chemaxon-java-libraries-26-what-changed-and-how-to-adapt/",
+    "canonical": "https://www.certara.com/announcement/migrating-to-chemaxon-java-libraries-26-what-changed-and-how-to-adapt/"
+  },
+  "title": "Migrating to Chemaxon Java Libraries 26: What Changed and How to Adapt",
+  "summary": "Chemaxon Java Libraries 26 moves to Java 21 with a reorganized API—relocated classes and renamed artifacts. What has changed and how to adapt efficiently.",
+  "published_at": "2026-06-17T16:07:34+00:00",
+  "first_seen_at": "2026-07-22T21:45:04.765085+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:23.628897+00:00",
+  "paths": {
+    "article": "articles/v1/e9/certara-inc-common-stock/2026/06/89/894f9067d3f09d84e57d380b929e938c768023b87c4456b3a8e8fb39c51c52de/article.md",
+    "record": "articles/v1/e9/certara-inc-common-stock/2026/06/89/894f9067d3f09d84e57d380b929e938c768023b87c4456b3a8e8fb39c51c52de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8230,
+    "sha256": "sha256:c72c3827befc826d9ec9af78d0eaa32401899f96cf0c55218fb913151930b4be",
+    "normalized_content_hash": "sha256:f9f7e156555549243f0549715b189b45b40cd4db284bcb059cb32cb593c53fe2"
+  },
+  "provenance": {
+    "source_item_id": "3602118d-8dbe-43dd-aec2-6348ed16a5d1",
+    "external_id": "https://www.certara.com/announcement/migrating-to-chemaxon-java-libraries-26-what-changed-and-how-to-adapt/"
+  }
+}

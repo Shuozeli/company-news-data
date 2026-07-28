@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d161cb862a5cd7bf3c0725271dc749b4151d81b197835b16f2529a295395f48f",
+  "company": {
+    "key": "ttm-technologies-inc-common-stock",
+    "name": "TTM Technologies Inc. Common Stock"
+  },
+  "source": {
+    "id": "ttm-technologies-inc-common-stock-news-import-6d017d0c85d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ttm.com/en/blog/Advanced-Technology-Smaller-Footprint-Uncompromised-Performance",
+    "canonical": "http://www.ttm.com/en/blog/Advanced-Technology-Smaller-Footprint-Uncompromised-Performance"
+  },
+  "title": "Advanced Technology. Smaller Footprint. Uncompromised Performance.",
+  "summary": "As a proven leader in high-performance circulators, TTM delivers exceptional RF performance through our dual junction surface-mount circulator—ideal for phased array radar antennas, electronic warfare systems, and advanced communication networks.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:50:20.236425+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-07-28T21:38:21.195167+00:00",
+  "paths": {
+    "article": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/d1/d161cb862a5cd7bf3c0725271dc749b4151d81b197835b16f2529a295395f48f/article.md",
+    "record": "articles/v1/64/ttm-technologies-inc-common-stock/2026/07/d1/d161cb862a5cd7bf3c0725271dc749b4151d81b197835b16f2529a295395f48f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1630,
+    "sha256": "sha256:e8c4443e118bcddd22835efddb9fbf99204f8ea52725ff9cd63922095984a0e5",
+    "normalized_content_hash": "sha256:675d6475bce7f65cb7a8a347dd220d5cec30203e74edc74d899246cdfc41ec49"
+  },
+  "provenance": {
+    "source_item_id": "4dd5b51a-b957-488f-96c5-ff83671da573",
+    "external_id": "http://www.ttm.com/en/blog/Advanced-Technology-Smaller-Footprint-Uncompromised-Performance"
+  }
+}

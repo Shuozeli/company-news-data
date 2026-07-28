@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "10c92b2ede55d989aec8b773d492e55a62b6ebf2158df90bb1818ee2f5962b21",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation Common Stock"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-865bfd380f75",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.microsoft.com/source/asia/2026/06/16/microsofts-2026-work-trend-index-shows-singapore-workforce-ahead-on-ai-adoption-with-organisations-poised-to-capture-greater-value",
+    "canonical": "https://news.microsoft.com/source/asia/2026/06/16/microsofts-2026-work-trend-index-shows-singapore-workforce-ahead-on-ai-adoption-with-organisations-poised-to-capture-greater-value/"
+  },
+  "title": "Microsoft’s 2026 Work Trend Index shows Singapore workforce ahead on AI adoption, with organisations poised to capture greater value",
+  "summary": "",
+  "published_at": "2026-06-16T06:00:10+00:00",
+  "first_seen_at": "2026-07-25T02:49:24.947798+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-07-28T21:44:15.464365+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/06/10/10c92b2ede55d989aec8b773d492e55a62b6ebf2158df90bb1818ee2f5962b21/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/06/10/10c92b2ede55d989aec8b773d492e55a62b6ebf2158df90bb1818ee2f5962b21/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8009,
+    "sha256": "sha256:94c3d62ac1f8e3e9b8ccd2b435141db0f4537a68a0da4a4423e029395c2ad868",
+    "normalized_content_hash": "sha256:d6120feb89e9ac06c3b98e194ee89974e51c9e8a7987eaf23b0ff37ec9671ea8"
+  },
+  "provenance": {
+    "source_item_id": "3ad575a1-0cda-4f61-a8b2-de46f34b1034",
+    "external_id": "https://news.microsoft.com/source/asia/2026/06/16/microsofts-2026-work-trend-index-shows-singapore-workforce-ahead-on-ai-adoption-with-organisations-poised-to-capture-greater-value/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "85f4c9b8afa8b02a84a710f1790d1276992242187401b017b4f4d154b6988186",
+  "company": {
+    "key": "yc-pipekit",
+    "name": "Pipekit"
+  },
+  "source": {
+    "id": "yc-pipekit-rss-36462c6998f9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://homepage.pipekit.io/blog/options-backtesting-in-python-an-introductory-walkthrough",
+    "canonical": "https://homepage.pipekit.io/blog/options-backtesting-in-python-an-introductory-walkthrough"
+  },
+  "title": "Options Backtesting in Python: An Introductory Walkthrough",
+  "summary": "In this overview of options backtesting, we'll cover how to get started backtesting in Python, discuss options, highlight resources, and share why Python is a good choice.",
+  "published_at": "2024-01-24T15:17:49+00:00",
+  "first_seen_at": "2026-07-25T19:08:09.004424+00:00",
+  "fetched_at": "2026-07-28T22:26:17.179631+00:00",
+  "last_updated_at": "2026-07-28T22:26:22.287172+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-pipekit/2024/01/85/85f4c9b8afa8b02a84a710f1790d1276992242187401b017b4f4d154b6988186/article.md",
+    "record": "articles/v1/5f/yc-pipekit/2024/01/85/85f4c9b8afa8b02a84a710f1790d1276992242187401b017b4f4d154b6988186/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9462,
+    "sha256": "sha256:d730d0871e645343e7497b8d0e440a4e9df223285f047029b1a12061da9042a6",
+    "normalized_content_hash": "sha256:d643702de92adfc6afeb833025fd9a2f0520a453943840a7c212a8e109ffa12a"
+  },
+  "provenance": {
+    "source_item_id": "884319fe-2c31-417b-b212-28178ebb7083",
+    "external_id": "https://homepage.pipekit.io/blog/options-backtesting-in-python-an-introductory-walkthrough"
+  }
+}

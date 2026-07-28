@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65885fb4b0c3034d9cc7f419f5ed1bbc4a5a3898e9d3ec908afefb58d3e9a0ec",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260727/alliancebernstein-global-high-income-fund,-inc.-nyse-awf-declared-a-dividend-of-$0.0655-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260727/alliancebernstein-global-high-income-fund,-inc.-nyse-awf-declared-a-dividend-of-$0.0655-per-share/"
+  },
+  "title": "AWF Dividend Announcement $0.0655/Share 7/27/2026",
+  "summary": "NYSE:AWF AllianceBernstein Global High Income Fund, Inc. Dividend Announcement $0.0655 per share on July 27, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-28T02:43:00.123235+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-07-28T21:37:31.051280+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/65/65885fb4b0c3034d9cc7f419f5ed1bbc4a5a3898e9d3ec908afefb58d3e9a0ec/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/65/65885fb4b0c3034d9cc7f419f5ed1bbc4a5a3898e9d3ec908afefb58d3e9a0ec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2170,
+    "sha256": "sha256:b5f185cab1e716e1fe115d068b1d342c7b93af5764dfa9221e4f0d04d0c74e1d",
+    "normalized_content_hash": "sha256:351a2ad0bbd0288bdd92c0ee541bf163479f79e152d6112104c12907c6fe0781"
+  },
+  "provenance": {
+    "source_item_id": "6e5f59ea-fb82-4959-918b-177ce6074f65",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260727/alliancebernstein-global-high-income-fund,-inc.-nyse-awf-declared-a-dividend-of-$0.0655-per-share/"
+  }
+}

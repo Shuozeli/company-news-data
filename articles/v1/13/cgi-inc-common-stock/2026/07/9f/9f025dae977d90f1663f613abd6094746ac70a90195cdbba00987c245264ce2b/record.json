@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f025dae977d90f1663f613abd6094746ac70a90195cdbba00987c245264ce2b",
+  "company": {
+    "key": "cgi-inc-common-stock",
+    "name": "CGI Inc. Common Stock"
+  },
+  "source": {
+    "id": "cgi-inc-common-stock-rss-66ef697d2497",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cgi.com/en/blog/business-consulting/ai-agents-dont-create-value-they-reveal-what-you-value",
+    "canonical": "https://www.cgi.com/en/blog/business-consulting/ai-agents-dont-create-value-they-reveal-what-you-value"
+  },
+  "title": "AI agents don’t create value: They reveal what you value",
+  "summary": "AI agents don’t just automate decisions—they amplify an organization’s priorities, values, and trade-offs at scale.",
+  "published_at": null,
+  "first_seen_at": "2026-07-20T23:21:24.029549+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-07-28T20:36:55.427344+00:00",
+  "paths": {
+    "article": "articles/v1/13/cgi-inc-common-stock/2026/07/9f/9f025dae977d90f1663f613abd6094746ac70a90195cdbba00987c245264ce2b/article.md",
+    "record": "articles/v1/13/cgi-inc-common-stock/2026/07/9f/9f025dae977d90f1663f613abd6094746ac70a90195cdbba00987c245264ce2b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9528,
+    "sha256": "sha256:2ef88b4f0a6df5c8044351266f44fbbda7c813bf47f18e34f1961463f9280ec0",
+    "normalized_content_hash": "sha256:2a8675d730ce1c355309451289115bdd9aacd9ce602677ef819982019b5f59d3"
+  },
+  "provenance": {
+    "source_item_id": "18233aff-542a-429b-bf9e-124635d6a8be",
+    "external_id": "AI agents don’t create value: They reveal what you value"
+  }
+}

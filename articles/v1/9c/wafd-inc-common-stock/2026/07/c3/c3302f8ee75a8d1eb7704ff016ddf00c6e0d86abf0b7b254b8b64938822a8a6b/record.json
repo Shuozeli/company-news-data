@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c3302f8ee75a8d1eb7704ff016ddf00c6e0d86abf0b7b254b8b64938822a8a6b",
+  "company": {
+    "key": "wafd-inc-common-stock",
+    "name": "WaFd Inc. Common Stock"
+  },
+  "source": {
+    "id": "wafd-inc-common-stock-news-import-9f554546cc1e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wafdbank.com/articles/community-support",
+    "canonical": "https://www.wafdbank.com/articles/community-support"
+  },
+  "title": "Local Community Bank Articles | WaFd Bank",
+  "summary": "Learn about WaFd Bank, a local community bank in 8 western states including Washington, Oregon, Idaho, Colorado, Utah, Arizona, New Mexico, and Texas.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T23:37:32.572003+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:42:03.635006+00:00",
+  "paths": {
+    "article": "articles/v1/9c/wafd-inc-common-stock/2026/07/c3/c3302f8ee75a8d1eb7704ff016ddf00c6e0d86abf0b7b254b8b64938822a8a6b/article.md",
+    "record": "articles/v1/9c/wafd-inc-common-stock/2026/07/c3/c3302f8ee75a8d1eb7704ff016ddf00c6e0d86abf0b7b254b8b64938822a8a6b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 907,
+    "sha256": "sha256:752d198c193fb62a533519a76c9a4c32dc158ef47ea1e7b7e5a745bda2be4655",
+    "normalized_content_hash": "sha256:2ae3abdbb24a157c7998f3f6e2f62b65fb78f8449e1ccfb32697db696d3f199d"
+  },
+  "provenance": {
+    "source_item_id": "20a77652-68d7-45e0-a04f-eaa7e8b3eb62",
+    "external_id": "https://www.wafdbank.com/articles/community-support"
+  }
+}

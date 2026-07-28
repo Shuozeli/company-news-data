@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dbaed40029a03d22a2898b0366aaea0ad9f9560e74dae907482c213e551188de",
+  "company": {
+    "key": "navient-corporation-common-stock",
+    "name": "Navient Corporation Common Stock"
+  },
+  "source": {
+    "id": "navient-corporation-common-stock-rss-a6796364cc5f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://news.navient.com/news-releases/news-release-details/navient-completes-683-million-securitization-backed-refinance",
+    "canonical": "https://news.navient.com/news-releases/news-release-details/navient-completes-683-million-securitization-backed-refinance"
+  },
+  "title": "Navient Completes $683 Million Securitization Backed by Refinance Student Loans",
+  "summary": "The Investor Relations website contains information about Navient Corporation's business for stockholders, potential investors, and financial analysts.",
+  "published_at": "2026-02-27T13:15:00+00:00",
+  "first_seen_at": "2026-07-25T15:40:50.617607+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:36.737230+00:00",
+  "paths": {
+    "article": "articles/v1/cb/navient-corporation-common-stock/2026/02/db/dbaed40029a03d22a2898b0366aaea0ad9f9560e74dae907482c213e551188de/article.md",
+    "record": "articles/v1/cb/navient-corporation-common-stock/2026/02/db/dbaed40029a03d22a2898b0366aaea0ad9f9560e74dae907482c213e551188de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2523,
+    "sha256": "sha256:5424d06acacae811c9464274b542696d45a6c3958e644211ef83f2571c2f6b7a",
+    "normalized_content_hash": "sha256:752238cdfed69162c8e5adbb5800223fe41826326869286b6eb7ad6114150565"
+  },
+  "provenance": {
+    "source_item_id": "84f71df7-34ce-4ceb-a09c-90abd447bd46",
+    "external_id": "13321"
+  }
+}

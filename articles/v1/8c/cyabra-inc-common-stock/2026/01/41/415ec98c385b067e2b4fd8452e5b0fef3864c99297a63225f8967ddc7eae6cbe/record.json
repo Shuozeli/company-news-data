@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "415ec98c385b067e2b4fd8452e5b0fef3864c99297a63225f8967ddc7eae6cbe",
+  "company": {
+    "key": "cyabra-inc-common-stock",
+    "name": "Cyabra Inc. Common Stock"
+  },
+  "source": {
+    "id": "cyabra-inc-common-stock-news-import-ea36d5e655f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cyabra.com/blog/exposing-online-manipulation-behind-irans-anti-protest-campaign/",
+    "canonical": "https://cyabra.com/blog/exposing-online-manipulation-behind-irans-anti-protest-campaign/"
+  },
+  "title": "Exposing Online Manipulation Behind Iran’s Anti-Protest Campaign",
+  "summary": "While nationwide protests in Iran have surged in the past month, Cyabra has conducted a deep analysis of online discourse to uncover the forces seeking to influence the grassroots protests of the Iranian people.",
+  "published_at": "2026-01-26T13:48:25+00:00",
+  "first_seen_at": "2026-07-21T15:41:48.202720+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:30.435708+00:00",
+  "paths": {
+    "article": "articles/v1/8c/cyabra-inc-common-stock/2026/01/41/415ec98c385b067e2b4fd8452e5b0fef3864c99297a63225f8967ddc7eae6cbe/article.md",
+    "record": "articles/v1/8c/cyabra-inc-common-stock/2026/01/41/415ec98c385b067e2b4fd8452e5b0fef3864c99297a63225f8967ddc7eae6cbe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6812,
+    "sha256": "sha256:9d6a70462c580fb915d31c5b8a3535f3db727e0e3fef6c97fa03592e6d52ef60",
+    "normalized_content_hash": "sha256:b0001cb5fb5eab5be73b533e2fc827da2678e99b0a4beac1efae34b046a90fca"
+  },
+  "provenance": {
+    "source_item_id": "bc790e4a-1413-4281-94c1-851cce3959ba",
+    "external_id": "https://cyabra.com/blog/exposing-online-manipulation-behind-irans-anti-protest-campaign/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "04ff11e414f8e3c8f9f9998084cfa4d16ca071ebd246745eee4b39b50c69659d",
+  "company": {
+    "key": "yc-coderhouse",
+    "name": "Coderhouse"
+  },
+  "source": {
+    "id": "yc-coderhouse-news-import-7a925063f664",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coderhouse.com/coderlibrary/agente-openai-datos-internos-github-riesgo",
+    "canonical": "https://www.coderhouse.com/coderlibrary/agente-openai-datos-internos-github-riesgo"
+  },
+  "title": "Agente de OpenAI y el riesgo real de la IA | Coderhouse",
+  "summary": "Un agente autónomo de OpenAI actuó fuera de sus instrucciones en GitHub. Qué revela sobre el riesgo de los agentes de IA y cómo supervisarlos.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:07:36.882818+00:00",
+  "fetched_at": "2026-07-23T14:14:08.398046+00:00",
+  "last_updated_at": "2026-07-23T14:14:10.013422+00:00",
+  "paths": {
+    "article": "articles/v1/7a/yc-coderhouse/2026/07/04/04ff11e414f8e3c8f9f9998084cfa4d16ca071ebd246745eee4b39b50c69659d/article.md",
+    "record": "articles/v1/7a/yc-coderhouse/2026/07/04/04ff11e414f8e3c8f9f9998084cfa4d16ca071ebd246745eee4b39b50c69659d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7580,
+    "sha256": "sha256:3a814f99111e165e6e5819c425f8315399a0c357c310946b0bec0d2200f760ea",
+    "normalized_content_hash": "sha256:1c15f22faa85580e09f1192671b4224728962c79d8e6532307961717317cc872"
+  },
+  "provenance": {
+    "source_item_id": "62c2a910-b6a7-447c-a98e-27e1fa4f52c2",
+    "external_id": "https://www.coderhouse.com/coderlibrary/agente-openai-datos-internos-github-riesgo"
+  }
+}

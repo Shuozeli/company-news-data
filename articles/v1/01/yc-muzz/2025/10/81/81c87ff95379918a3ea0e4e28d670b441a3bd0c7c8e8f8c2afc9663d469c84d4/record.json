@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81c87ff95379918a3ea0e4e28d670b441a3bd0c7c8e8f8c2afc9663d469c84d4",
+  "company": {
+    "key": "yc-muzz",
+    "name": "Muzz"
+  },
+  "source": {
+    "id": "yc-muzz-news-import-8560c890bd85",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://muzz.com/us/en/blog/relationships/black-muslim-and-in-love-how-kaosara-and-ridwan-redefined-identity-on-muzz/",
+    "canonical": "https://muzz.com/us/en/blog/relationships/black-muslim-and-in-love-how-kaosara-and-ridwan-redefined-identity-on-muzz/"
+  },
+  "title": "Black, Muslim and in Love: How Kaosara and Ridwan Redefined Identity on Muzz",
+  "summary": "This Black History Month, we speak with Kaosara and Ridwan on how embracing your roots is the secret to finding a love on Muzz that lasts.",
+  "published_at": "2025-10-13T15:10:48+00:00",
+  "first_seen_at": "2026-07-25T16:23:30.018891+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:52.315304+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-muzz/2025/10/81/81c87ff95379918a3ea0e4e28d670b441a3bd0c7c8e8f8c2afc9663d469c84d4/article.md",
+    "record": "articles/v1/01/yc-muzz/2025/10/81/81c87ff95379918a3ea0e4e28d670b441a3bd0c7c8e8f8c2afc9663d469c84d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8912,
+    "sha256": "sha256:c828730c17e992a4699af6a6c83b4bd6c52d684dd64db841b0bfc925ef17dd9b",
+    "normalized_content_hash": "sha256:751b050effa36a44d853ff1d0caf5b2e15a3a4d41c5f87923f2173aebe5d8a10"
+  },
+  "provenance": {
+    "source_item_id": "d6ea16c5-739c-4a49-8b23-723c1a6a9c43",
+    "external_id": "https://muzz.com/us/en/blog/relationships/black-muslim-and-in-love-how-kaosara-and-ridwan-redefined-identity-on-muzz/"
+  }
+}
