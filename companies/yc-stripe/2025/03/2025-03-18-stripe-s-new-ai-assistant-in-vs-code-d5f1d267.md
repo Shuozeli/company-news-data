@@ -5,7 +5,7 @@ source_id: "yc-stripe-dev-blog-rss"
 url: "https://stripe.dev/blog/stripes-ai-assistant-vs-code"
 canonical_url: "https://stripe.dev/blog/stripes-ai-assistant-vs-code"
 published_at: "2025-03-18T00:00:00+00:00"
-fetched_at: "2026-07-28T02:22:22.866688+00:00"
+fetched_at: "2026-07-28T04:01:00.398137+00:00"
 content_hash: "sha256:254c6631815e46f17603dd251c7e33bb3e3d6e4dd7cb09e8d3d485ed77f11161"
 ---
 

@@ -5,7 +5,7 @@ source_id: "co-nvda-newsroom-rss"
 url: "https://blogs.nvidia.com/blog/open-secure-ai-alliance/"
 canonical_url: "https://blogs.nvidia.com/blog/open-secure-ai-alliance/"
 published_at: "2026-07-27T09:00:07+00:00"
-fetched_at: "2026-07-28T02:25:26.999025+00:00"
+fetched_at: "2026-07-28T04:03:31.606749+00:00"
 content_hash: "sha256:cfe34b8d136cf2a8fca38cce7ee4eb39e6b843b23cd4b2b1184658c16f2acf56"
 ---
 
