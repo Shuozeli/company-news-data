@@ -4,9 +4,9 @@
     "key": "alpha-modus-holdings-inc-class-a-common-stock",
     "name": "Alpha Modus Holdings Inc. Class A Common Stock"
   },
-  "record_count": 20,
+  "record_count": 21,
   "first_published_at": "2026-02-05T00:00:00+00:00",
-  "last_published_at": "2026-07-22T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-02",
@@ -30,11 +30,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 4
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -42,10 +42,10 @@
       {
         "page": 1,
         "path": "articles/v1/8b/alpha-modus-holdings-inc-class-a-common-stock/index/pages/000001.json",
-        "record_count": 20,
-        "byte_count": 25443,
-        "sha256": "sha256:27f3905cd88aea08ffbdb6f78a8d886f13d974f7481f7ce88208e380eccb5046",
-        "newest_at": "2026-07-22T00:00:00+00:00",
+        "record_count": 21,
+        "byte_count": 26670,
+        "sha256": "sha256:fb1d6c0df5039c7924a66f838625cd4482b82497d80f6fbee1778f78587dece1",
+        "newest_at": "2026-07-29T00:00:00+00:00",
         "oldest_at": "2026-02-05T00:00:00+00:00"
       }
     ]

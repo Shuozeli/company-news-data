@@ -7,7 +7,7 @@ source_id: "buenaventura-mining-company-inc-rss-513086ac22dc"
 canonical_url: "https://buenaventura.com/en/cajamarca-buenaventura-y-ministerio-de-vivienda-dotaran-de-agua-potable-y-saneamiento-a-localidad-del-distrito-de-hualgayoc/"
 published_at: null
 first_seen_at: "2026-07-20T03:32:02.604277+00:00"
-fetched_at: "2026-07-28T23:26:15.642484+00:00"
+fetched_at: "2026-07-29T15:21:08.029630+00:00"
 content_hash: "sha256:322a2fa05a1ae46e2acbe34255dd7ef62878ebebec233b592f96a3dd0cf3ba8a"
 ---
 

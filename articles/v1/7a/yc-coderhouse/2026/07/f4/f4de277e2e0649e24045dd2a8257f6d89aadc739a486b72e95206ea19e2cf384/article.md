@@ -7,7 +7,7 @@ source_id: "yc-coderhouse-news-import-7a925063f664"
 canonical_url: "https://www.coderhouse.com/coderlibrary/dbt-data-build-tool-que-es-como-funciona"
 published_at: "2026-07-27T00:00:00+00:00"
 first_seen_at: "2026-07-28T07:56:38.769046+00:00"
-fetched_at: "2026-07-28T07:56:35.409468+00:00"
+fetched_at: "2026-07-29T09:13:10.215478+00:00"
 content_hash: "sha256:e3f20c1d78e94eff183cfbfaec057aa8cfa68596639f01f5534eaf96da30614a"
 ---
 

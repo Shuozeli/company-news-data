@@ -7,7 +7,7 @@ source_id: "airbnb-inc-class-a-common-stock-rss-d1a7958eece3"
 canonical_url: "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788"
 published_at: "2026-07-28T17:01:03+00:00"
 first_seen_at: "2026-07-28T18:01:20.781754+00:00"
-fetched_at: "2026-07-28T23:43:02.929663+00:00"
+fetched_at: "2026-07-29T15:37:30.601321+00:00"
 content_hash: "sha256:7c3f55362ebb885d83702445d366fca9de292b163a6104960bc539bafb282429"
 ---
 

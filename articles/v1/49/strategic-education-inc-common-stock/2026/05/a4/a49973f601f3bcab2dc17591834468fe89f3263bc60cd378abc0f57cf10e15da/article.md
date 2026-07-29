@@ -7,7 +7,7 @@ source_id: "strategic-education-inc-common-stock-rss-a3c36f4e146a"
 canonical_url: "https://sei.strategiceducation.com/resources/news/news-releases/sei-news-releases-details/2026/Workforce-Edge-Partners-with-Southern-New-Hampshire-University-to-Create-New-Pathways-to-Career-Advancement-for-Working-Adults/default.aspx"
 published_at: "2026-05-12T11:01:00+00:00"
 first_seen_at: "2026-07-26T00:29:55.466914+00:00"
-fetched_at: "2026-07-28T22:13:04.585439+00:00"
+fetched_at: "2026-07-29T14:21:34.627154+00:00"
 content_hash: "sha256:a0500fdd4a3a8a8d426ce38a2143a37ae90e4e4482bd69c37d81cecabab1cfe4"
 ---
 

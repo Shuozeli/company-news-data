@@ -4,9 +4,9 @@
     "key": "janus-international-group-inc-common-stock",
     "name": "Janus International Group Inc. Common Stock"
   },
-  "record_count": 21,
+  "record_count": 22,
   "first_published_at": "2025-11-06T11:55:00+00:00",
-  "last_published_at": "2026-07-21T10:55:00+00:00",
+  "last_published_at": "2026-07-29T12:00:02+00:00",
   "partitions": [
     {
       "partition": "2025-11",
@@ -38,11 +38,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 4
+      "record_count": 5
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -50,10 +50,10 @@
       {
         "page": 1,
         "path": "articles/v1/64/janus-international-group-inc-common-stock/index/pages/000001.json",
-        "record_count": 21,
-        "byte_count": 24277,
-        "sha256": "sha256:234fe4d857611df5f607b83b21a7cc93b9460d065e3d2f47c1fddac48fb2940b",
-        "newest_at": "2026-07-21T10:55:00+00:00",
+        "record_count": 22,
+        "byte_count": 25506,
+        "sha256": "sha256:9e0fd106e0ea2208b4cf3a837e2ad96fc0ec47f12b1518704633742c5c3e4772",
+        "newest_at": "2026-07-29T12:00:02+00:00",
         "oldest_at": "2025-11-06T11:55:00+00:00"
       }
     ]

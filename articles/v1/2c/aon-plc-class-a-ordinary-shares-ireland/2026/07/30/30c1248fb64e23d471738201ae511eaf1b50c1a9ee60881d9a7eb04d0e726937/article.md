@@ -7,7 +7,7 @@ source_id: "aon-plc-class-a-ordinary-shares-ireland-rss-454ed4bdb964"
 canonical_url: "https://aon.mediaroom.com/news-releases?item=138622"
 published_at: "2026-07-22T18:33:00+00:00"
 first_seen_at: "2026-07-22T19:06:22.554697+00:00"
-fetched_at: "2026-07-28T23:26:05.885014+00:00"
+fetched_at: "2026-07-29T15:20:02.334566+00:00"
 content_hash: "sha256:33c35801d6c5dadfcc42d430938a008bad74a60737ef4518a6c100d1e6ace44d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "diversified-healthcare-trust-common-shares-of-beneficial-interest-rs
 canonical_url: "https://www.dhcreit.com/news/press-release-details/2026/Diversified-Healthcare-Trust-Announces-Fourth-Quarter-2025-Results/default.aspx"
 published_at: "2026-02-23T21:15:00+00:00"
 first_seen_at: "2026-07-25T01:02:14.072473+00:00"
-fetched_at: "2026-07-28T23:32:40.854634+00:00"
+fetched_at: "2026-07-29T15:29:33.355709+00:00"
 content_hash: "sha256:525fca7be3071509de1330a9db31a03ce59f927d0da27709c3c160dbef71155e"
 ---
 

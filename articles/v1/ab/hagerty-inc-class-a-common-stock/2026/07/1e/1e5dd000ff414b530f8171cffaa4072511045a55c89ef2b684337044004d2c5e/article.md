@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/new-car-reviews/2026-lyriq-v-the-sharper-quicker-cadillac-crossover/"
 published_at: "2026-07-16T18:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:01113a3e03e9fac93b1fc30bce10f276b98e974f9bac57a248aba0e1981304d7"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/todo-lo-que-debes-saber-sobre-el-iva-retenido"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:7d934b085511341665cea183c20f78062a26937f05f5dee0feb591f61a62601b"
 ---
 

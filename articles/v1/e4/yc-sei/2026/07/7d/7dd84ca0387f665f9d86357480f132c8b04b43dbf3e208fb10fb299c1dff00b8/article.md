@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/elder-financial-exploitation-ai-voice-agents-senior-safe-act-fincen"
 published_at: "2026-07-03T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:0c4f369b47a4dbd94f946e7c17ac543e9a28ed8f5cc636ef910f3b3e442a4e9d"
 ---
 

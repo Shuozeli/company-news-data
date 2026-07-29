@@ -7,7 +7,7 @@ source_id: "ppg-industries-inc-common-stock-rss-1d67a1abf440"
 canonical_url: "http://news.ppg.com/Press-Releases/news-details/2026/PPG-SIGMAGLIDE-2390-marine-coating-receives-prestigious-green-chemistry-award-from-the-American-Chemical-Society/default.aspx"
 published_at: "2026-07-06T16:33:00+00:00"
 first_seen_at: "2026-07-25T19:41:10.949227+00:00"
-fetched_at: "2026-07-29T00:51:44.093149+00:00"
+fetched_at: "2026-07-29T14:19:58.505899+00:00"
 content_hash: "sha256:8f37035e190fb57a5b054f76e0fb222a5792116aea2f1bc638f92a99a95ffb2d"
 ---
 

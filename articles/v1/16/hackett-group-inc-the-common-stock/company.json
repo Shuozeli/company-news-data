@@ -4,9 +4,9 @@
     "key": "hackett-group-inc-the-common-stock",
     "name": "Hackett Group Inc (The). Common Stock"
   },
-  "record_count": 15,
+  "record_count": 16,
   "first_published_at": "2025-03-19T13:21:18+00:00",
-  "last_published_at": "2026-07-28T14:00:00+00:00",
+  "last_published_at": "2026-07-29T14:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-03",
@@ -30,11 +30,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 7
+      "record_count": 8
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -42,10 +42,10 @@
       {
         "page": 1,
         "path": "articles/v1/16/hackett-group-inc-the-common-stock/index/pages/000001.json",
-        "record_count": 15,
-        "byte_count": 22793,
-        "sha256": "sha256:3f292553b2c7698dea4bc3ba92baf4ee89c9aad540e437f85cacc45738436577",
-        "newest_at": "2026-07-28T14:00:00+00:00",
+        "record_count": 16,
+        "byte_count": 24527,
+        "sha256": "sha256:af8b22f44a54c0b759cbc39eb600f452dd6537ae57f2a25d39f91a71170be2da",
+        "newest_at": "2026-07-29T14:00:00+00:00",
         "oldest_at": "2025-03-19T13:21:18+00:00"
       }
     ]

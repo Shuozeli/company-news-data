@@ -7,7 +7,7 @@ source_id: "dick-s-sporting-goods-inc-common-stock-rss-de248d14cae7"
 canonical_url: "https://investors.dicks.com/news/news-details/2026/DICKS-Sporting-Goods-Inc--Reports-First-Quarter-Results/default.aspx"
 published_at: "2026-05-27T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:49:30.343356+00:00"
-fetched_at: "2026-07-28T23:09:14.310149+00:00"
+fetched_at: "2026-07-29T14:54:13.044553+00:00"
 content_hash: "sha256:1d1e5c3fb875ca019f330b4e5227bfe06a9bc7c446ff14f6c97a18be30ca007f"
 ---
 

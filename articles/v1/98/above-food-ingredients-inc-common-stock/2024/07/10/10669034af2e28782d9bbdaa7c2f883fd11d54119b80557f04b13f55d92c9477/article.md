@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/above-food-ceo-discusses-going-public-and-u-s-listing/"
 published_at: "2024-07-12T22:35:49+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-29T00:43:09.170627+00:00"
+fetched_at: "2026-07-29T14:06:11.402678+00:00"
 content_hash: "sha256:ff47b924755c74f8922dd357231e55122af1628aea9c9e4dd25e9fe9c5eb5051"
 ---
 

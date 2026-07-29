@@ -7,7 +7,7 @@ source_id: "qcr-holdings-inc-common-stock-rss-47e5c43e82bb"
 canonical_url: "https://qcrh.com/news/news-details/2026/QCR-Holdings-Inc--Announces-Increased-Cash-Dividend-of-0-10-Per-Share/default.aspx"
 published_at: "2026-02-19T21:05:00+00:00"
 first_seen_at: "2026-07-25T20:12:05.606881+00:00"
-fetched_at: "2026-07-28T23:43:50.947173+00:00"
+fetched_at: "2026-07-29T15:36:31.349336+00:00"
 content_hash: "sha256:f15ef9ad3665309fcfe9d0956e3cfacb02f986348e843faa559b9816ccccdc1e"
 ---
 

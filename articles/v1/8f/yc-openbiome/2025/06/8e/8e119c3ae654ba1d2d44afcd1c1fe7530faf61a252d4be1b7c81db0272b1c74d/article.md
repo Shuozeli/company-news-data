@@ -7,7 +7,7 @@ source_id: "yc-openbiome-rss-4bb0352ef7c8"
 canonical_url: "https://openbiome.org/advancing-care-for-pediatric-patients-with-c-difficile-insights-from-a-clinical-webinar-on-investigational-fmt/"
 published_at: "2025-06-30T17:44:26+00:00"
 first_seen_at: "2026-07-20T23:20:39.694819+00:00"
-fetched_at: "2026-07-28T22:13:29.962371+00:00"
+fetched_at: "2026-07-29T14:21:44.683022+00:00"
 content_hash: "sha256:04e8b7a60da65c528bd0c2251efc155193ac8493bf4d9ddfa72bc984dbbe17dc"
 ---
 

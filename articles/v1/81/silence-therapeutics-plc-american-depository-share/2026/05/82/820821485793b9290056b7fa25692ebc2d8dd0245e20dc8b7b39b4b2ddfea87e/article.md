@@ -7,7 +7,7 @@ source_id: "silence-therapeutics-plc-american-depository-share-rss-4f2caa2d9c31"
 canonical_url: "https://silence-therapeutics.com/investors/press-releases/press-releases-details/2026/Silence-Therapeutics-Highlights-Recent-Business-Achievements-and-Reports-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-05-07T12:00:00+00:00"
 first_seen_at: "2026-07-25T23:04:22.261189+00:00"
-fetched_at: "2026-07-28T23:33:46.514473+00:00"
+fetched_at: "2026-07-29T15:30:25.471270+00:00"
 content_hash: "sha256:5daf9b6d3599068ae24ab5b6b7e995bace8596f9b26ba566619107f4dafac44c"
 ---
 

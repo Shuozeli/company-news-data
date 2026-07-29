@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/agios-ceo-jackie-fouse-weighs-in-on-the-healthcare-space/"
 published_at: "2020-01-13T18:00:06+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-29T00:23:58.530332+00:00"
+fetched_at: "2026-07-29T17:22:54.765339+00:00"
 content_hash: "sha256:b3871b56b2742b484aa54c7bdd116dffe128ff82c3ad6017ae18207e34e1b982"
 ---
 

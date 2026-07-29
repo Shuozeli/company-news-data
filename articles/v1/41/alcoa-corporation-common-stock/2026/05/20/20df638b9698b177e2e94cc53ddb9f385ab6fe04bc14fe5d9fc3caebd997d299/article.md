@@ -7,7 +7,7 @@ source_id: "alcoa-corporation-common-stock-rss-dcd5d9d0aa64"
 canonical_url: "https://news.alcoa.com/press-releases/press-release-details/2026/Alcoa-to-Participate-in-Wells-Fargo-Industrials-and-Materials-Conference-2026/default.aspx"
 published_at: "2026-05-27T12:30:00+00:00"
 first_seen_at: "2026-07-25T01:06:54.828744+00:00"
-fetched_at: "2026-07-29T00:05:44.057276+00:00"
+fetched_at: "2026-07-29T16:58:25.911376+00:00"
 content_hash: "sha256:ac4d3bca33579f1e2f717469897bf411e399c5f46c78625514788a69015797af"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-tab-news-import-b7e57d60c428"
 canonical_url: "https://business.tab.travel/blog/how-to-send-a-payment-link-on-whatsapp-for-hotel-bookings"
 published_at: null
 first_seen_at: "2026-07-24T03:09:56.218120+00:00"
-fetched_at: "2026-07-28T21:33:33.638260+00:00"
+fetched_at: "2026-07-29T10:10:53.763556+00:00"
 content_hash: "sha256:ecb197a728bed485f602b7f6d0563af77496f962967627f3a6b5388317c048aa"
 ---
 

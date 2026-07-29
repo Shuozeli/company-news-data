@@ -7,7 +7,7 @@ source_id: "industrial-logistics-properties-trust-common-shares-of-beneficial-in
 canonical_url: "http://www.ilptreit.com/investors/news/press-release-details/2026/Industrial-Logistics-Properties-Trust-Announces-Fourth-Quarter-2025-Results/default.aspx"
 published_at: "2026-02-18T21:15:00+00:00"
 first_seen_at: "2026-07-25T09:17:51.178487+00:00"
-fetched_at: "2026-07-29T00:14:05.979554+00:00"
+fetched_at: "2026-07-29T17:18:03.868677+00:00"
 content_hash: "sha256:0de11989107c46a85f417db957a61fb66c3f711f07822d951fde441b59ee1a10"
 ---
 

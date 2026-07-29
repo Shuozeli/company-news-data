@@ -7,7 +7,7 @@ source_id: "danaos-corporation-common-stock-rss-a36761cbfee0"
 canonical_url: "https://www.danaos.com/investors/press-releases/press-release-details/2026/Danaos-Corporation-Reports-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2025/default.aspx"
 published_at: "2026-02-09T21:30:00+00:00"
 first_seen_at: "2026-07-27T01:33:11.569635+00:00"
-fetched_at: "2026-07-28T23:28:31.928055+00:00"
+fetched_at: "2026-07-29T15:26:23.734830+00:00"
 content_hash: "sha256:034b985692827e0ae355cc0bbc50195d30157415b0b9c5bad395fe1f4f3d2d5d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "molson-coors-beverage-company-class-b-common-stock-rss-e6bd3149473d"
 canonical_url: "https://ir.molsoncoors.com/news/news-details/2026/Molson-Coors-Beverage-Company-to-Webcast-2026-First-Quarter-Earnings-Conference-Call/default.aspx"
 published_at: "2026-04-07T10:30:00+00:00"
 first_seen_at: "2026-07-25T16:00:12.821263+00:00"
-fetched_at: "2026-07-28T23:22:50.261363+00:00"
+fetched_at: "2026-07-29T15:17:12.799184+00:00"
 content_hash: "sha256:bea6223f92dac7770e690c038610bd609f82e14876eaba2170c13c201319de6d"
 ---
 

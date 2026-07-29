@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/jay-leno-decides-its-time-for-a-new-hobby/"
 published_at: "2026-07-20T14:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:cfdbc2fcf2ec5e68d36f67b8ce98b0216a2865c8295c53e1dfe0cb66477a234b"
 ---
 

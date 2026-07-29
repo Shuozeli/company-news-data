@@ -7,7 +7,7 @@ source_id: "johnson-outdoors-inc-class-a-common-stock-rss-d7a348c41086"
 canonical_url: "https://www.johnsonoutdoors.com/us/node/18171"
 published_at: "2025-09-26T15:12:19+00:00"
 first_seen_at: "2026-07-20T23:22:39.768322+00:00"
-fetched_at: "2026-07-28T23:31:05.038598+00:00"
+fetched_at: "2026-07-29T15:26:46.745165+00:00"
 content_hash: "sha256:4de2fd75de756120f36618a19f8d27cbe606638805959bb60aa642f9736774fc"
 ---
 

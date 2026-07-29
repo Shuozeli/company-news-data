@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/fintech-customer-experience-ai"
 published_at: "2024-12-20T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:a60fa50c5ec13bdd3f822ad07932c25e0dcec97a631801703c3b058f24036a92"
 ---
 

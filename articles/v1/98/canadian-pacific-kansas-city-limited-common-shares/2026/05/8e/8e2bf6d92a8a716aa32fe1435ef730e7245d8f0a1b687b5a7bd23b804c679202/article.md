@@ -7,7 +7,7 @@ source_id: "canadian-pacific-kansas-city-limited-common-shares-rss-ebe5547364b1"
 canonical_url: "https://investor.cpkcr.com/news/press-release-details/2026/CPKC-executives-to-present-at-Wells-Fargo-Industrials--Materials-Conference/default.aspx"
 published_at: "2026-05-27T14:59:00+00:00"
 first_seen_at: "2026-07-25T01:41:40.149453+00:00"
-fetched_at: "2026-07-28T23:13:30.634453+00:00"
+fetched_at: "2026-07-29T14:59:54.815800+00:00"
 content_hash: "sha256:fa2b5dd0bd47e84e414c4baa26bc43c9aaef89f9d846997eba03201e4f7ecf5d"
 ---
 

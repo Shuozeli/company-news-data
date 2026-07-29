@@ -7,7 +7,7 @@ source_id: "opera-limited-american-depositary-shares-rss-2f5c2c4cdfef"
 canonical_url: "https://blogs.opera.com/news/2026/07/data-privacy-opera-gx/"
 published_at: "2026-07-20T09:45:29+00:00"
 first_seen_at: "2026-07-25T01:12:28.064402+00:00"
-fetched_at: "2026-07-29T00:45:13.328847+00:00"
+fetched_at: "2026-07-29T14:07:49.355145+00:00"
 content_hash: "sha256:8b7acad3709a225fcf8629f04d435ee90f08b2d6539a53ceddb2a2ada3886ff8"
 ---
 

@@ -7,7 +7,7 @@ source_id: "great-elm-group-inc-common-stock-rss-afee43b60da9"
 canonical_url: "http://www.greatelmgroup.com/press-releases/press-release-details/2026/Great-Elm-Group-Reports-Fiscal-2026-Second-Quarter-Financial-Results/default.aspx"
 published_at: "2026-02-04T21:15:00+00:00"
 first_seen_at: "2026-07-25T07:03:42.627230+00:00"
-fetched_at: "2026-07-29T00:10:33.504674+00:00"
+fetched_at: "2026-07-29T17:13:14.363919+00:00"
 content_hash: "sha256:9bfd89196849dfd11e0a945281e7c362be2d0a50fe49942082e522603b203c82"
 ---
 

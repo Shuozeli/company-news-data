@@ -7,7 +7,7 @@ source_id: "pinterest-inc-class-a-common-stock-rss-45b43224fdd9"
 canonical_url: "https://medium.com/pinterest-engineering/pinner-progression-better-use-case-representation-driving-weekly-active-user-growth-at-pinterest-bd2131ab238a"
 published_at: "2026-07-27T16:01:02+00:00"
 first_seen_at: "2026-07-27T16:40:44.704033+00:00"
-fetched_at: "2026-07-28T23:50:26.205888+00:00"
+fetched_at: "2026-07-29T15:43:38.234515+00:00"
 content_hash: "sha256:a84583ca0db0e00636569dc754e29dce0d1425896b74537e3ee0214a624f7ddb"
 ---
 

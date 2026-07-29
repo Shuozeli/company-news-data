@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/5g-applications-and-use-cases"
 published_at: "2020-01-01T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:ec4ff2ae784dba373406561d9ca18fce2c1cb13f0df562a86ed96fb3acf946f9"
 ---
 

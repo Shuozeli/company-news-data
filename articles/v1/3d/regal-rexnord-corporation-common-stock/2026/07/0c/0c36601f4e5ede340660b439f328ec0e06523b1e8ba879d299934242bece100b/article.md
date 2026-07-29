@@ -7,7 +7,7 @@ source_id: "regal-rexnord-corporation-common-stock-news-import-634959d3629c"
 canonical_url: "https://www.regalrexnord.com/news/introducing-kollmorgen-essentials-system"
 published_at: null
 first_seen_at: "2026-07-26T21:54:57.082929+00:00"
-fetched_at: "2026-07-27T10:32:03.572825+00:00"
+fetched_at: "2026-07-29T01:46:34.709244+00:00"
 content_hash: "sha256:0558b80190999daa3d7fd75f2b95ec833ae4315dc1170971e031208bf0a2c8ad"
 ---
 

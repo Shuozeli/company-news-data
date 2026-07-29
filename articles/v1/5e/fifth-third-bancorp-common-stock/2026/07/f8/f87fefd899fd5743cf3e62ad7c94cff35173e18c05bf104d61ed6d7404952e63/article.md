@@ -7,7 +7,7 @@ source_id: "fifth-third-bancorp-common-stock-rss-1b7a592f5f20"
 canonical_url: "https://ir.53.com/news/news-details/2026/Fifth-Third-Receives-Worlds-Top-Disability-Inclusive-Business-Recognition/default.aspx"
 published_at: "2026-07-27T12:39:00+00:00"
 first_seen_at: "2026-07-27T13:32:59.292300+00:00"
-fetched_at: "2026-07-28T23:51:45.862570+00:00"
+fetched_at: "2026-07-29T17:00:26.040311+00:00"
 content_hash: "sha256:5dba6d7d44fe028c7ee28cb2955b5dcd3a203f78769b3b735ddd01ff2266cdd3"
 ---
 

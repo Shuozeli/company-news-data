@@ -7,7 +7,7 @@ source_id: "jack-in-the-box-inc-common-stock-rss-81dcefd5d5ea"
 canonical_url: "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Inc--Prices-500-Million-Securitized-Financing-Facility/default.aspx"
 published_at: "2026-06-15T11:30:00+00:00"
 first_seen_at: "2026-07-25T10:06:06.072938+00:00"
-fetched_at: "2026-07-28T23:38:18.965200+00:00"
+fetched_at: "2026-07-29T15:34:00.106995+00:00"
 content_hash: "sha256:f8d2064b58e30219efa71c5d4665543b79a29b9ee121c36e3be89c99aa660e00"
 ---
 

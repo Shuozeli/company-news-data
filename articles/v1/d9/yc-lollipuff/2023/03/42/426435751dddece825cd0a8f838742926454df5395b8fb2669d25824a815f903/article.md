@@ -7,7 +7,7 @@ source_id: "yc-lollipuff-rss-1aefb943cc78"
 canonical_url: "https://www.lollipuff.com/small-light-handbags-truly-for-your-wrist/"
 published_at: "2023-03-30T21:17:26+00:00"
 first_seen_at: "2026-07-25T01:53:27.944775+00:00"
-fetched_at: "2026-07-28T23:16:31.531465+00:00"
+fetched_at: "2026-07-29T15:06:12.951381+00:00"
 content_hash: "sha256:84cb85f41671b243d72b869698b0f3a4f4b24e94abad2fc735d4757fcb01141f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "comstock-holding-companies-inc-class-a-common-stock-rss-cd4bb1e70261
 canonical_url: "https://ir.comstock.com/news/news-details/2026/Comstock-Welcomes-The-Back-Nine-Golf-to-The-Row-at-Reston-Station/default.aspx"
 published_at: "2026-05-18T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:14:22.836197+00:00"
-fetched_at: "2026-07-29T00:49:30.333513+00:00"
+fetched_at: "2026-07-29T14:19:13.122120+00:00"
 content_hash: "sha256:cfaa7f188ef6753f72f8d43993826dd68018b7d70b5ebb2470ae513cd5e8312a"
 ---
 

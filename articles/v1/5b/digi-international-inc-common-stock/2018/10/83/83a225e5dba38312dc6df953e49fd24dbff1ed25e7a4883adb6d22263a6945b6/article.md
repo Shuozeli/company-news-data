@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2018/preparing-for-wireless-design-certification"
 published_at: "2018-10-13T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:c87bef876bdf684d56cc2c49342dc15c0aabf00eda3b33c00c99ce248ed83cd3"
 ---
 

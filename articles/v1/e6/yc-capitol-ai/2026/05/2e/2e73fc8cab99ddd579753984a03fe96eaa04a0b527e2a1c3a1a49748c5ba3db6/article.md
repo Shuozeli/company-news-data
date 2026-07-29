@@ -7,7 +7,7 @@ source_id: "yc-capitol-ai-news-import-f6452f568795"
 canonical_url: "https://www.capitol.ai/blog/why-ai%E2%80%99s-future-depends-on-design-not-just-models"
 published_at: "2026-05-20T00:00:00+00:00"
 first_seen_at: "2026-07-23T04:42:41.632332+00:00"
-fetched_at: "2026-07-28T11:13:23.646323+00:00"
+fetched_at: "2026-07-29T14:24:04.055144+00:00"
 content_hash: "sha256:07496cd4cdcedcfe438f2edb2b9387ee633438591e04f3764a5211e128fa84ac"
 ---
 

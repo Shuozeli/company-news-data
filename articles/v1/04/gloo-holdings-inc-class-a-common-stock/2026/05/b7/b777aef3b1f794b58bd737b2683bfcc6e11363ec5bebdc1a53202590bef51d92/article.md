@@ -7,7 +7,7 @@ source_id: "gloo-holdings-inc-class-a-common-stock-news-import-83695c9a4b8a"
 canonical_url: "https://gloo.com/press/releases/gloo-to-report-first-quarter-2026-financial-results-on-june-8-2026"
 published_at: "2026-05-27T00:00:00+00:00"
 first_seen_at: "2026-07-23T10:35:25.165423+00:00"
-fetched_at: "2026-07-28T17:20:13.644649+00:00"
+fetched_at: "2026-07-29T06:09:37.784067+00:00"
 content_hash: "sha256:bb00616b0baf65dab3073723878515b6eb395621d03d77b97237a6e4bf1efaf6"
 ---
 

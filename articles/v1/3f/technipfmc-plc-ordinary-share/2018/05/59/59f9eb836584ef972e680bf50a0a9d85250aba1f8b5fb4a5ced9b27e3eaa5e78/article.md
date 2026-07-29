@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-contracts-for-two-fertilizer-plants-in-india/"
 published_at: "2018-05-22T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-29T00:26:14.657354+00:00"
+fetched_at: "2026-07-29T17:23:25.881224+00:00"
 content_hash: "sha256:24ba49a495145c521914fb260053c8d2a1d384efffb10734c38bce0bb7391aa9"
 ---
 

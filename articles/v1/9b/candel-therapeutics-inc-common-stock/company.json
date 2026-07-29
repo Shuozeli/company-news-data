@@ -4,9 +4,9 @@
     "key": "candel-therapeutics-inc-common-stock",
     "name": "Candel Therapeutics Inc. Common Stock"
   },
-  "record_count": 10,
+  "record_count": 11,
   "first_published_at": "2026-05-04T12:05:29+00:00",
-  "last_published_at": "2026-07-08T20:05:28+00:00",
+  "last_published_at": "2026-07-29T12:05:30+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -18,11 +18,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,10 +30,10 @@
       {
         "page": 1,
         "path": "articles/v1/9b/candel-therapeutics-inc-common-stock/index/pages/000001.json",
-        "record_count": 10,
-        "byte_count": 14354,
-        "sha256": "sha256:35df1ad56260b7bc46347c469b49089c4b8aef2d9730bc018ba97b9a86bdd541",
-        "newest_at": "2026-07-08T20:05:28+00:00",
+        "record_count": 11,
+        "byte_count": 15734,
+        "sha256": "sha256:321fed20a81b508586d57cd89b2cb5974a05219ab0772a8a68e05b91e1747f32",
+        "newest_at": "2026-07-29T12:05:30+00:00",
         "oldest_at": "2026-05-04T12:05:29+00:00"
       }
     ]

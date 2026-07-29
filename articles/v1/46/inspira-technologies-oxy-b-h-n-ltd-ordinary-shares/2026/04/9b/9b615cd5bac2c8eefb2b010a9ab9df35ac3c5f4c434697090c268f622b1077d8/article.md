@@ -7,7 +7,7 @@ source_id: "inspira-technologies-oxy-b-h-n-ltd-ordinary-shares-rss-7eae96d06492"
 canonical_url: "https://inspira-technologies.com/inspira-technologies-announces-acquisition-of-the-ame-platform-from-nano-dimension/"
 published_at: "2026-04-06T12:37:01+00:00"
 first_seen_at: "2026-07-25T09:33:30.249851+00:00"
-fetched_at: "2026-07-29T00:39:29.265252+00:00"
+fetched_at: "2026-07-29T14:02:12.112398+00:00"
 content_hash: "sha256:d191ff2d1c2634def7a0776c464991fa367b6046ead8b9ef61acf1c0b6e7767b"
 ---
 

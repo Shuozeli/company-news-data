@@ -7,7 +7,7 @@ source_id: "ge-aerospace-common-stock-rss-a1dd69a4054d"
 canonical_url: "https://www.geaerospace.com/investor-relations/events-reports/2025-ge-aerospace-product-and-technology-update"
 published_at: "2025-10-06T11:10:54+00:00"
 first_seen_at: "2026-07-20T23:24:51.828822+00:00"
-fetched_at: "2026-07-28T23:50:06.638047+00:00"
+fetched_at: "2026-07-29T15:41:52.623120+00:00"
 content_hash: "sha256:d427c6f4251cd6dc08ae8a9382afb0a394c73d719776b356a09e43d142257ae9"
 ---
 

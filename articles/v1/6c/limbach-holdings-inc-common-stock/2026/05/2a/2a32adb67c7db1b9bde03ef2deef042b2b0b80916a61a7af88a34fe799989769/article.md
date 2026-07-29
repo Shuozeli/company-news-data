@@ -7,7 +7,7 @@ source_id: "limbach-holdings-inc-common-stock-rss-1ada01d0cce8"
 canonical_url: "https://www.limbachinc.com/news-events/press-releases/limbach-holdings-inc-reports-first-quarter-2026-results/"
 published_at: "2026-05-05T20:17:08+00:00"
 first_seen_at: "2026-07-20T23:17:37.969487+00:00"
-fetched_at: "2026-07-28T23:11:42.786202+00:00"
+fetched_at: "2026-07-29T14:58:20.835549+00:00"
 content_hash: "sha256:73e345ec51523ecefb2b04c2a2782c0a08f72f0d2312b5733257542c0ab61379"
 ---
 

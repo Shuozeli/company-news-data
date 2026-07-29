@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/largest-free-collection-of-minecraft-education-edition-mods-and-add-ons"
 published_at: "2026-05-01T00:41:26+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T23:10:27.687348+00:00"
+fetched_at: "2026-07-29T14:56:56.066516+00:00"
 content_hash: "sha256:d4a74df607a4232a58f5d024bb95a7cdf4625d1a35432f33495f04e43a32f3f4"
 ---
 

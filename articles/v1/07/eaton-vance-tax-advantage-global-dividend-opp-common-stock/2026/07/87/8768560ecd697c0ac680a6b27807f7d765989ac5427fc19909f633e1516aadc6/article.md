@@ -7,7 +7,7 @@ source_id: "eaton-vance-tax-advantage-global-dividend-opp-common-stock-rss-22984
 canonical_url: "https://www.dividendinvestor.com/three-dividend-paying-investments-to-buy-now/"
 published_at: "2026-07-11T01:53:50+00:00"
 first_seen_at: "2026-07-26T13:16:06.169537+00:00"
-fetched_at: "2026-07-28T22:17:18.236318+00:00"
+fetched_at: "2026-07-29T14:22:24.012703+00:00"
 content_hash: "sha256:200afa7bb0b76510bf49e4887d07aa0f039e0eaa0265540c4128ffbc5e074fbe"
 ---
 

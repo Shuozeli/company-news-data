@@ -7,7 +7,7 @@ source_id: "dxp-enterprises-inc-common-stock-rss-585e49f607bc"
 canonical_url: "https://ir.dxpe.com/news/news-details/2025/DXP-Enterprises-Inc--Announces-Acquisition-of-Pump-Solutions-Inc-/default.aspx"
 published_at: "2025-12-03T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:34:41.241208+00:00"
-fetched_at: "2026-07-28T23:11:35.373731+00:00"
+fetched_at: "2026-07-29T14:57:37.085391+00:00"
 content_hash: "sha256:1eb1de90cb3863c1e27d06051b6b11efa1554ef9e3ca5fc0e3e8dc26e8c74030"
 ---
 

@@ -7,7 +7,7 @@ source_id: "mogu-inc-american-depositary-shares-each-representing-25-class-a-ord
 canonical_url: "https://ir.mogu-inc.com/news/news-details/2026/MOGU-Announces-Unaudited-Financial-Results-for-the-Six-Months-Ended-March-31-2026-and-Fiscal-Year-2026/default.aspx"
 published_at: "2026-06-22T10:34:00+00:00"
 first_seen_at: "2026-07-25T14:45:30.550850+00:00"
-fetched_at: "2026-07-29T00:30:15.072789+00:00"
+fetched_at: "2026-07-29T13:56:20.048718+00:00"
 content_hash: "sha256:563b857c371a82caf8dfd3a57a43f8a75e43b6972f44166fa9986cd6e17ad066"
 ---
 

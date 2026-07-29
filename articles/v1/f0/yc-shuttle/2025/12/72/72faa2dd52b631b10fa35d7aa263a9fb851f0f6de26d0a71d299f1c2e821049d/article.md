@@ -7,7 +7,7 @@ source_id: "yc-shuttle-rss-52efc69d7cac"
 canonical_url: "https://www.shuttle.dev/blog/2025/12/02/claude-skills-complete-guide"
 published_at: "2025-12-02T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:24:10.103156+00:00"
-fetched_at: "2026-07-28T23:18:15.366460+00:00"
+fetched_at: "2026-07-29T15:13:00.471480+00:00"
 content_hash: "sha256:e321a23e26e2ea21554c4584e2d51cf972c40e63b83e72daf030a2db643a1dd0"
 ---
 

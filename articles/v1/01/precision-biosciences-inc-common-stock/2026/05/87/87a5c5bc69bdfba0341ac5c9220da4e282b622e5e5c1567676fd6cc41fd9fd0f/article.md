@@ -7,7 +7,7 @@ source_id: "precision-biosciences-inc-common-stock-rss-119dfa03b7a7"
 canonical_url: "https://precisionbiosciences.com/wp-content/uploads/2026/05/Precision-BioSciences-PBGENE-DMD-gene-editing-drives-safe-efficacious-and-durable-functional-improvement-in-a-humanized-Duchenne.pdf"
 published_at: "2026-05-14T14:07:12+00:00"
 first_seen_at: "2026-07-24T13:01:05.596206+00:00"
-fetched_at: "2026-07-28T23:17:22.824977+00:00"
+fetched_at: "2026-07-29T15:05:33.247151+00:00"
 content_hash: "sha256:9ad5bf4fc2c6e3fc23b679ff94e4f1c28fb671afc86ee3dc64825c68d9fc185c"
 ---
 

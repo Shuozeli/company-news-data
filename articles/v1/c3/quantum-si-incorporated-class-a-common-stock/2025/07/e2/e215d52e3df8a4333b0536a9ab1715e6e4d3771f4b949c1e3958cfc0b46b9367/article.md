@@ -7,7 +7,7 @@ source_id: "quantum-si-incorporated-class-a-common-stock-rss-5dc339ba7c8c"
 canonical_url: "https://www.quantum-si.com/news/screening-mrna-therapeutics-with-protein-barcoding/"
 published_at: "2025-07-07T16:41:45+00:00"
 first_seen_at: "2026-07-25T01:13:17.793514+00:00"
-fetched_at: "2026-07-28T22:13:28.896883+00:00"
+fetched_at: "2026-07-29T14:21:25.250350+00:00"
 content_hash: "sha256:9b299ddabb619becd26ff4aa734e7ee3d05f77bbfd3873f4ac6e8bcfba176b33"
 ---
 

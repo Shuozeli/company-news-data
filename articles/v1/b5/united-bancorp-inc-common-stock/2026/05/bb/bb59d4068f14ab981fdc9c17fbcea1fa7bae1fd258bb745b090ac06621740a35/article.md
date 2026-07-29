@@ -7,7 +7,7 @@ source_id: "united-bancorp-inc-common-stock-rss-b3c26c14cc42"
 canonical_url: "https://www.unitedbancorp.com/news-market-info/press-releases/press-release/2026/United-Bancorp-Inc--Reports-2026-First-Quarter-Earnings-Performance/default.aspx"
 published_at: "2026-05-07T15:00:00+00:00"
 first_seen_at: "2026-07-26T03:42:33.713323+00:00"
-fetched_at: "2026-07-29T00:03:32.136649+00:00"
+fetched_at: "2026-07-29T17:09:17.341244+00:00"
 content_hash: "sha256:e9709655254d19f5a7fd211356f186f834f3f7ed60360a53b0b07252cc4ce2a8"
 ---
 

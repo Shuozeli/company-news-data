@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/even-realities-g2-supported-on-mentraos"
 published_at: "2025-11-15T01:40:00+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T23:47:18.716244+00:00"
+fetched_at: "2026-07-29T15:41:05.701886+00:00"
 content_hash: "sha256:8095522cbdd238f9741a620c94952194152cb2b2c95e1f2d12c3c8cffd9c16d9"
 ---
 

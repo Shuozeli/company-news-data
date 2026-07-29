@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/sei-vs-saris-agentic-ai-lending-banking"
 published_at: "2026-06-03T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:7e9dd4a640e921487dbac5c4f53eec5a3baa03f23aa6543936893c69539d87a6"
 ---
 

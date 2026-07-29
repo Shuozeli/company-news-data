@@ -7,7 +7,7 @@ source_id: "nexpoint-real-estate-finance-inc-common-stock-rss-2a15693f1259"
 canonical_url: "https://nref.nexpoint.com/news/news-details/2026/NexPoint-Real-Estate-Finance-Inc--Announces-Record-Date-and-Date-of-2026-Annual-Meeting-of-Stockholders/default.aspx"
 published_at: "2026-03-11T21:00:00+00:00"
 first_seen_at: "2026-07-25T16:12:43.168991+00:00"
-fetched_at: "2026-07-28T23:34:36.060823+00:00"
+fetched_at: "2026-07-29T15:30:59.058839+00:00"
 content_hash: "sha256:e9bda690cbd0c389992821a9b040f36f472107b907d29868efebc866e100abd1"
 ---
 

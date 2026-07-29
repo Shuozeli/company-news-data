@@ -7,7 +7,7 @@ source_id: "yc-opentrons-rss-767f8d415bdd"
 canonical_url: "https://opentrons.com/archives/news/opentrons-accelerates-the-enablement-of-ai-based-laboratory-robotics-with-nvidia"
 published_at: "2026-02-05T13:39:56+00:00"
 first_seen_at: "2026-07-25T17:41:16.998093+00:00"
-fetched_at: "2026-07-28T23:27:55.051365+00:00"
+fetched_at: "2026-07-29T15:23:54.658863+00:00"
 content_hash: "sha256:fc5a2fbd9d6b86abfac7804ed7cedaba026f4998fbe638c199b89a14e18bd3f6"
 ---
 

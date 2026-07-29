@@ -7,7 +7,7 @@ source_id: "yc-backerkit-rss-16060e51d2f4"
 canonical_url: "https://www.backerkit.com/blog/backerkit-launches-new-patreon-integration-to-unlock-crowdfunding-revenue-for-patreon-creators/"
 published_at: "2025-12-09T16:00:29+00:00"
 first_seen_at: "2026-07-27T07:56:11.356641+00:00"
-fetched_at: "2026-07-28T23:57:52.029477+00:00"
+fetched_at: "2026-07-29T15:46:45.334420+00:00"
 content_hash: "sha256:3cccff977f548a1f69dcfb250dd161aa21d5ba3f94d458fb2b6504f891399099"
 ---
 

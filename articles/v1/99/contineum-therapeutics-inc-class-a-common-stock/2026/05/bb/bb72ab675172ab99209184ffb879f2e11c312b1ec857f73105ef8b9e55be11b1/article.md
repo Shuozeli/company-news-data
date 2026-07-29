@@ -7,7 +7,7 @@ source_id: "contineum-therapeutics-inc-class-a-common-stock-rss-954367339e87"
 canonical_url: "https://contineum-tx.com/publications/pipe-791-and-bms-986278-two-lysophosphatidic-acid-receptor-1-lpa1-antagonists-with-distinct-lung-occupancy-profiles-and-vascular-effects/"
 published_at: "2026-05-18T19:43:29+00:00"
 first_seen_at: "2026-07-25T03:15:09.445652+00:00"
-fetched_at: "2026-07-28T23:18:11.580766+00:00"
+fetched_at: "2026-07-29T15:07:28.643496+00:00"
 content_hash: "sha256:01dabe3bcf3ddb417ed29f3a706162a060d33957c8f6cd545370dc391245836b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/you-built-an-app-now-help-the-world-s-best-mobile-teams-build-theirs"
 published_at: "2026-06-29T13:00:06+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:af711296d1e440f40652e2d252139c27f7530b4fc8fe56d32baa488eaadb40cb"
 ---
 

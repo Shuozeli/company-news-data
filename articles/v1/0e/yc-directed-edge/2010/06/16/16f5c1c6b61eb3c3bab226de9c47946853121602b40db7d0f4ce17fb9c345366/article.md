@@ -7,7 +7,7 @@ source_id: "yc-directed-edge-rss-7c8e8fe81473"
 canonical_url: "https://blog.directededge.com/2010/06/05/using-taps-without-running-a-taps-server/"
 published_at: "2010-06-06T04:50:18+00:00"
 first_seen_at: "2026-07-27T01:55:50.875550+00:00"
-fetched_at: "2026-07-28T22:59:14.304469+00:00"
+fetched_at: "2026-07-29T14:36:05.001882+00:00"
 content_hash: "sha256:638633c54087864c081e545704ea2a841e09ce67a9047fbcd8733251ddc71b66"
 ---
 

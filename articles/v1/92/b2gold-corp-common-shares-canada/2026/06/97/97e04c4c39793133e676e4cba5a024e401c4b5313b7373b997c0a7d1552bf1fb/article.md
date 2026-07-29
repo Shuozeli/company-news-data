@@ -7,7 +7,7 @@ source_id: "b2gold-corp-common-shares-canada-rss-03122df7d041"
 canonical_url: "https://www.b2gold.com/news-media/news-releases/news-details/2026/B2Gold-Announces-Voting-Results-from-its-2026-Annual-General-and-Special-Meeting/default.aspx"
 published_at: "2026-06-05T22:33:00+00:00"
 first_seen_at: "2026-07-26T10:00:33.300803+00:00"
-fetched_at: "2026-07-28T23:00:01.840341+00:00"
+fetched_at: "2026-07-29T14:38:27.060019+00:00"
 content_hash: "sha256:f8b6132a6022ef4ce377b0e5ad3925f5d129e59f5bc91fe4909857d84046ffa4"
 ---
 

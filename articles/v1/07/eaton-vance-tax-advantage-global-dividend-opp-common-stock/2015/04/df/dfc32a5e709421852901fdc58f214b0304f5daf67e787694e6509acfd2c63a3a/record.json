@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dfc32a5e709421852901fdc58f214b0304f5daf67e787694e6509acfd2c63a3a",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/capitol-federal-financial-inc-nasdaq-cffn-declared-a-dividend-of-$0.0850-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/capitol-federal-financial-inc-nasdaq-cffn-declared-a-dividend-of-$0.0850-per-share/"
+  },
+  "title": "CFFN Dividend Announcement $0.0850/Share 7/28/2026",
+  "summary": "NASDAQ:CFFN Capitol Federal Financial Inc Dividend Announcement $0.0850 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.577372+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/df/dfc32a5e709421852901fdc58f214b0304f5daf67e787694e6509acfd2c63a3a/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/df/dfc32a5e709421852901fdc58f214b0304f5daf67e787694e6509acfd2c63a3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2255,
+    "sha256": "sha256:0327ac8eb1435ba91f0bc1ab764bf6ca80872b865bba0384aff7b4d5a5fcdc9c",
+    "normalized_content_hash": "sha256:3a9da741a7b7a11c0d98e57d9fb9a2764d168fcf016d2aae3b7b397e824855b7"
+  },
+  "provenance": {
+    "source_item_id": "3c462e73-2e7b-45bf-b628-d3e4067c97e6",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/capitol-federal-financial-inc-nasdaq-cffn-declared-a-dividend-of-$0.0850-per-share/"
+  }
+}

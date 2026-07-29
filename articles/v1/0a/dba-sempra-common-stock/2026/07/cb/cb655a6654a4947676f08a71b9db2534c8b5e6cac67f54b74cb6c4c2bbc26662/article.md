@@ -7,7 +7,7 @@ source_id: "dba-sempra-common-stock-rss-832771b9d43f"
 canonical_url: "https://www.sempra.com/newsroom/press-releases/socalgas-and-usvets-honor-veterans-250th-anniversary-fourth-july"
 published_at: "2026-07-03T01:45:00+00:00"
 first_seen_at: "2026-07-20T23:21:20.257594+00:00"
-fetched_at: "2026-07-29T00:44:57.161112+00:00"
+fetched_at: "2026-07-29T15:38:54.480654+00:00"
 content_hash: "sha256:7f9e7ef04bbd6b439126d739ef4905e95a6e60390fd441e57fc2e4551cdf81cc"
 ---
 

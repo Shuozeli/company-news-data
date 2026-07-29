@@ -7,7 +7,7 @@ source_id: "coda-octopus-group-inc-common-stock-news-import-a71b5dd22bdf"
 canonical_url: "https://www.codaoctopusgroup.com/press-releases/detail/218/coda-octopus-group-sets-fiscal-first-quarter-2026-earnings"
 published_at: "2026-03-05T14:49:00+00:00"
 first_seen_at: "2026-07-21T14:00:31.087001+00:00"
-fetched_at: "2026-07-28T20:18:48.546574+00:00"
+fetched_at: "2026-07-29T09:08:01.592672+00:00"
 content_hash: "sha256:6cfb9a31a58c31d6f2036998fbc7be65f6f134a5b4a24392aba9133a64ad2c2c"
 ---
 

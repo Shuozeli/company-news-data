@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/matchgroup/match-groups-tinder-reset-ai-gen-z-and-dating-app-growth/"
 published_at: "2026-05-26T22:08:48+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:50050ce513c3561bfd552c3ebeb29b14ea7c6be8d62a21220f1add9c443f2c12"
 ---
 

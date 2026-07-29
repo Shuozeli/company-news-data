@@ -7,7 +7,7 @@ source_id: "sonida-senior-living-inc-common-stock-rss-c7587f24cfab"
 canonical_url: "https://investors.sonidaseniorliving.com/news/news-details/2026/Sonida-Senior-Living-Inc--Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-03-11T11:45:00+00:00"
 first_seen_at: "2026-07-25T23:47:41.304240+00:00"
-fetched_at: "2026-07-29T00:09:43.087619+00:00"
+fetched_at: "2026-07-29T17:12:42.739281+00:00"
 content_hash: "sha256:c69600d880092372c72b898e5a7614f19c83e79e3cc92592266720bf4f7df33c"
 ---
 

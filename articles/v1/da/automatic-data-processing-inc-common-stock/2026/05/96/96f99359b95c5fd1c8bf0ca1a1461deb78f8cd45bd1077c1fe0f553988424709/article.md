@@ -7,7 +7,7 @@ source_id: "automatic-data-processing-inc-common-stock-rss-53b9cd362f71"
 canonical_url: "https://mediacenter.adp.com/2026-05-06-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-109,000-Jobs-in-April-Annual-Pay-was-Up-4-4"
 published_at: "2026-05-06T12:15:00+00:00"
 first_seen_at: "2026-07-20T04:35:27.491401+00:00"
-fetched_at: "2026-07-28T23:40:01.706271+00:00"
+fetched_at: "2026-07-29T15:34:18.786626+00:00"
 content_hash: "sha256:e893928151c3c6e651f230968420ed8d9455835e529d7581888c21997fad822a"
 ---
 

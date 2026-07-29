@@ -7,7 +7,7 @@ source_id: "valero-energy-corporation-common-stock-rss-832c48122082"
 canonical_url: "https://investorvalero.com/news/news-details/2025/Valero-Energy-Corporation-to-Release-Fourth-Quarter-and-Full-Year-2025-Earnings-Results-on-January-29-2026/default.aspx"
 published_at: "2025-12-05T15:05:00+00:00"
 first_seen_at: "2026-07-26T04:09:40.578026+00:00"
-fetched_at: "2026-07-28T23:16:39.053387+00:00"
+fetched_at: "2026-07-29T15:06:11.922606+00:00"
 content_hash: "sha256:994fe1ceaf39492798f7bd4d2ecd9cb48fcecaca5ce0c0031289241daba8bfde"
 ---
 

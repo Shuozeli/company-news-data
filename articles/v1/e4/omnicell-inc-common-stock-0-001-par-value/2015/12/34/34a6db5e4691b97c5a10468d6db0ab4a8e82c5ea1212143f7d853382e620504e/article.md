@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2015/New-Omnicell-Analytics-and-Central-Pharmacy-Offerings-Showcased-at-Annual-ASHP-Midyear-Meeting/default.aspx"
 published_at: "2015-12-03T05:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:528a40a3484b7991856723e5042131ef071ae8977f7ec15ee054c98b61694ebf"
 ---
 

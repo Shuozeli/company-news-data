@@ -7,7 +7,7 @@ source_id: "yc-capitol-ai-news-import-f6452f568795"
 canonical_url: "https://www.capitol.ai/blog/capitol-names-chester-leung-as-vice-president-of-engineering-to-advance-enterprise-trust-security-and-governance"
 published_at: "2026-02-10T00:00:00+00:00"
 first_seen_at: "2026-07-23T04:42:41.632332+00:00"
-fetched_at: "2026-07-28T11:13:23.646323+00:00"
+fetched_at: "2026-07-29T14:24:04.055144+00:00"
 content_hash: "sha256:2e0d22e8303c444e70897f58a0c54ddafd5b19bd2fea53083d639cb456442b28"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ast-spacemobile-inc-class-a-common-stock-rss-890bf889267f"
 canonical_url: "https://ast-science.com/ast-spacemobile-bluebird-8-10-shipment/"
 published_at: "2026-05-19T16:12:38+00:00"
 first_seen_at: "2026-07-20T04:35:35.768007+00:00"
-fetched_at: "2026-07-28T23:41:25.201266+00:00"
+fetched_at: "2026-07-29T15:34:19.610346+00:00"
 content_hash: "sha256:7759568adb63b6c8809857940bca2481da8adc1743e252e43644ec544306b009"
 ---
 

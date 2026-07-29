@@ -7,7 +7,7 @@ source_id: "corvex-inc-common-stock-rss-5d3752083407"
 canonical_url: "https://www.corvex.ai/blog/video-rail-aligned-architectures-in-high-performance-computing"
 published_at: "2025-04-07T00:00:00+00:00"
 first_seen_at: "2026-07-26T12:16:19.295968+00:00"
-fetched_at: "2026-07-28T23:14:05.298165+00:00"
+fetched_at: "2026-07-29T15:01:56.064995+00:00"
 content_hash: "sha256:3283a0cb0bee425777d828dee3de3fe8c5022c8ad2fbc1304f932f4455e2fa01"
 ---
 

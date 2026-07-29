@@ -7,7 +7,7 @@ source_id: "yc-botbuilt-rss-52b4cca2e71a"
 canonical_url: "https://www.botbuilt.com/from-napkin-sketches-to-precision-frames-how-robots-are-transforming-home-building/"
 published_at: "2025-04-08T15:13:31+00:00"
 first_seen_at: "2026-07-20T23:23:39.000790+00:00"
-fetched_at: "2026-07-28T22:53:25.256511+00:00"
+fetched_at: "2026-07-29T14:23:25.942941+00:00"
 content_hash: "sha256:7f5817ad847fd6c38537ecf2a6363532f2949e3bdd2da133e8061f9a31960ca4"
 ---
 

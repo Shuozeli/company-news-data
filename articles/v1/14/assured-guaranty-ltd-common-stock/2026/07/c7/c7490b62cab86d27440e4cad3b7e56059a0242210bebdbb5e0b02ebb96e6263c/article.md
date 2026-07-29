@@ -7,7 +7,7 @@ source_id: "assured-guaranty-ltd-common-stock-rss-a0c04d90a5d9"
 canonical_url: "https://info.assuredguaranty.com/press-room/all-press-releases/news-details/2026/Assured-Guaranty-Ltd--to-Report-Second-Quarter-2026-Financial-Results-on-August-6-2026/default.aspx"
 published_at: "2026-07-23T11:30:00+00:00"
 first_seen_at: "2026-07-26T09:42:28.838945+00:00"
-fetched_at: "2026-07-28T23:43:29.547621+00:00"
+fetched_at: "2026-07-29T15:37:49.703039+00:00"
 content_hash: "sha256:0bbdf9a48b69b1aa759d13ebdc1d81180cb648d9f8709a8fb20939259f941c3d"
 ---
 

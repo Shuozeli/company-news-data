@@ -7,7 +7,7 @@ source_id: "passage-bio-inc-common-stock-rss-3a8ea804251b"
 canonical_url: "https://www.passagebio.com/investors-and-news/press-releases-and-statements/news-details/2026/Passage-Bio-andRemix-Therapeutics-Announce-Merger-Agreement/default.aspx"
 published_at: "2026-06-24T20:05:00+00:00"
 first_seen_at: "2026-07-25T18:30:27.722002+00:00"
-fetched_at: "2026-07-28T23:53:10.595713+00:00"
+fetched_at: "2026-07-29T15:46:40.625759+00:00"
 content_hash: "sha256:fda425805b660d4a5f11231844bf48b6f6976d2a52c3245f88c034c002ff55f5"
 ---
 

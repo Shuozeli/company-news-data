@@ -7,7 +7,7 @@ source_id: "data-i-o-corporation-common-stock-rss-f86f593ae275"
 canonical_url: "https://www.sec.gov/Archives/edgar/data/351998/000165495426001683/daio_8k.htm"
 published_at: "2026-02-20T00:00:00+00:00"
 first_seen_at: "2026-07-25T00:21:29.653205+00:00"
-fetched_at: "2026-07-28T23:15:30.997493+00:00"
+fetched_at: "2026-07-29T15:05:42.282684+00:00"
 content_hash: "sha256:9020ffd9167607dcfe5d28dd81f714f17f32d21361c2aadf32e826e2b2232d85"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ericsson-american-depositary-shares-atom-6bf64ebaa824"
 canonical_url: "https://www.ericsson.com/en/press-releases/2026/7/ericsson-reports-second-quarter-results-2026"
 published_at: "2026-07-14T05:00:00+00:00"
 first_seen_at: "2026-07-21T01:18:49.155691+00:00"
-fetched_at: "2026-07-29T00:16:19.705635+00:00"
+fetched_at: "2026-07-29T17:19:26.186158+00:00"
 content_hash: "sha256:65ace2233530df575749fb8cfc2b5b7b77ec0b997b0e60abdaa322da3339d752"
 ---
 

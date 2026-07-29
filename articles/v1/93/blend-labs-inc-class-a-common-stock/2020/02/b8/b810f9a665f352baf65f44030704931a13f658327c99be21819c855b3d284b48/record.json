@@ -17,8 +17,8 @@
   "summary": "At Blend, we make extensive use of Kubernetes on AWS to power our infrastructure. Kubernetes has many moving parts, and most of these components are swappable, allowing us to customize clusters to our needs. An important component of any cluster is the Container Network Interface (CNI), which handles the networking for all pods running on the cluster. Choosing the right CNI for each use case is critically important and making changes, once serving production traffic, can be painful.",
   "published_at": "2020-02-03T23:46:57+00:00",
   "first_seen_at": "2026-07-20T23:18:43.300114+00:00",
-  "fetched_at": "2026-07-29T00:27:54.647135+00:00",
-  "last_updated_at": "2026-07-29T00:27:54.724270+00:00",
+  "fetched_at": "2026-07-29T13:54:11.516897+00:00",
+  "last_updated_at": "2026-07-29T13:54:11.577394+00:00",
   "paths": {
     "article": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/02/b8/b810f9a665f352baf65f44030704931a13f658327c99be21819c855b3d284b48/article.md",
     "record": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/02/b8/b810f9a665f352baf65f44030704931a13f658327c99be21819c855b3d284b48/record.json"
@@ -26,7 +26,7 @@
   "content": {
     "media_type": "text/markdown; charset=utf-8",
     "bytes": 1167,
-    "sha256": "sha256:5559ba63ce0fd63ddef648ca426840c880b487a09a3af77c72a7825fcd13d138",
+    "sha256": "sha256:783337de34992b92811caf34c8b0bab6e8ab4d07a03905bc6edf3685613e0015",
     "normalized_content_hash": "sha256:6de5ed5c0f8b9369fe5614b9cc53c6313fc0d1192e0f9cb0bea707d2427a58cd"
   },
   "provenance": {

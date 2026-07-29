@@ -7,7 +7,7 @@ source_id: "boyd-group-services-inc-common-shares-rss-ad43043dc3e1"
 canonical_url: "https://boydgroup.com/investor/investor-news/news-details/2026/Boyd-Group-Services-Inc--Announces-First-Quarter-2026-Cash-Dividend-03-17-2026/default.aspx"
 published_at: "2026-03-17T04:00:00+00:00"
 first_seen_at: "2026-07-27T00:00:00.334636+00:00"
-fetched_at: "2026-07-28T23:34:22.990546+00:00"
+fetched_at: "2026-07-29T15:31:07.646974+00:00"
 content_hash: "sha256:65a569151f30d19b4813641e9dd8390670b9ca9773380a8ea686168bfeea8597"
 ---
 

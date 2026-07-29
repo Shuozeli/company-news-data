@@ -7,7 +7,7 @@ source_id: "trupanion-inc-common-stock-news-import-ac8b67a28768"
 canonical_url: "https://www.trupanion.com/pet-blog/article/pet-fur-removal-tips"
 published_at: "2026-06-29T00:00:00+00:00"
 first_seen_at: "2026-07-26T03:12:24.686679+00:00"
-fetched_at: "2026-07-28T17:37:59.572099+00:00"
+fetched_at: "2026-07-29T06:24:38.757976+00:00"
 content_hash: "sha256:ef3945caf5864726cf0d0c8ca8fdd21d112525e24b1f095d99e93cd4a16be5fc"
 ---
 

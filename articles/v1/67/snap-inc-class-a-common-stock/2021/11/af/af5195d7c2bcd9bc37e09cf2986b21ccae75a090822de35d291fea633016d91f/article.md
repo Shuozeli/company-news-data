@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/values"
 published_at: "2021-11-28T01:22:18.943+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T23:22:34.016732+00:00"
+fetched_at: "2026-07-29T15:16:23.251342+00:00"
 content_hash: "sha256:12eea292e8c4945e2971d090316731491a8ba9b19787ddff877612530a315b23"
 ---
 

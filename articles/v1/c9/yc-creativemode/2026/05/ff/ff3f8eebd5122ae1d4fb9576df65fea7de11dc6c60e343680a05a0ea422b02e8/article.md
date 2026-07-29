@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/pro-tips-to-get-your-mod-on-the-front-page"
 published_at: "2026-05-28T00:23:20+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T23:10:27.687348+00:00"
+fetched_at: "2026-07-29T14:56:56.066516+00:00"
 content_hash: "sha256:152b8210df73a637d0cd754b10209a63651c0c7d38610bb466c6ac54da6123b3"
 ---
 

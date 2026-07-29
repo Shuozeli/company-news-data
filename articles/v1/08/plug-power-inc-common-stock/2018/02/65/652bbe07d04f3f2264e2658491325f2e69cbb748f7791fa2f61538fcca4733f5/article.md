@@ -7,7 +7,7 @@ source_id: "plug-power-inc-common-stock-rss-15e242ac1693"
 canonical_url: "https://www.plugpower.com/blog/hydrogen-economy-growth-in-south-korea/"
 published_at: "2018-02-16T13:00:36+00:00"
 first_seen_at: "2026-07-20T03:31:30.208255+00:00"
-fetched_at: "2026-07-29T00:40:06.818792+00:00"
+fetched_at: "2026-07-29T14:03:31.186117+00:00"
 content_hash: "sha256:98706336edd83c8c16b9046a4c8e3cc3385d1da5f9b59a150277319d6f3ca473"
 ---
 

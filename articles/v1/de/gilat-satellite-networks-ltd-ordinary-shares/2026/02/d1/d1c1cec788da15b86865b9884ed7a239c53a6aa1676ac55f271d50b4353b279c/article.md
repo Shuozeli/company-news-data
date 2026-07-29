@@ -7,7 +7,7 @@ source_id: "gilat-satellite-networks-ltd-ordinary-shares-rss-076d0814984f"
 canonical_url: "https://www.gilat.com/newsroom/media/resource-center-whitepaper-tactical-satcoms/"
 published_at: "2026-02-09T07:38:39+00:00"
 first_seen_at: "2026-07-25T03:17:43.964106+00:00"
-fetched_at: "2026-07-28T23:21:54.528556+00:00"
+fetched_at: "2026-07-29T15:15:40.340812+00:00"
 content_hash: "sha256:27006a42d438f83ecabd779fe1db2de3cc7c35c1cce58625688c3a1b472226ec"
 ---
 

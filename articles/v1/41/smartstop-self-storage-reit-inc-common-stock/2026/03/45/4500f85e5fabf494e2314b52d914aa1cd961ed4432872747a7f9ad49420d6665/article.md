@@ -7,7 +7,7 @@ source_id: "smartstop-self-storage-reit-inc-common-stock-rss-4e2120e48ff1"
 canonical_url: "https://investors.smartstopselfstorage.com/news-and-events/press-releases/press-releases-details/2026/SmartStop-EVP-Bliss-Edwards-to-Join-Industry-Leaders-at-Vancouver-Real-Estate-Forum/default.aspx"
 published_at: "2026-03-31T20:30:00+00:00"
 first_seen_at: "2026-07-25T23:24:42.322687+00:00"
-fetched_at: "2026-07-28T23:37:07.431411+00:00"
+fetched_at: "2026-07-29T15:33:04.990397+00:00"
 content_hash: "sha256:d6b48f6726e79ce9ccde750d7afae8c507e047ade91d7e94c5f5161014bacb49"
 ---
 

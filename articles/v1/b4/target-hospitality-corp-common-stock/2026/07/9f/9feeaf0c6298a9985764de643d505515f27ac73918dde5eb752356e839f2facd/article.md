@@ -7,7 +7,7 @@ source_id: "target-hospitality-corp-common-stock-rss-d12f643ead96"
 canonical_url: "http://investors.targethospitality.com/news/news-details/2026/Target-Hospitality-Announces-New-660-Million-Credit-Facility-Significantly-Expanding-Liquidity-and-Lowering-Cost-of-Capital-to-Support-Strategic-Growth/default.aspx"
 published_at: "2026-07-27T10:45:00+00:00"
 first_seen_at: "2026-07-27T10:46:58.550068+00:00"
-fetched_at: "2026-07-28T23:25:06.224872+00:00"
+fetched_at: "2026-07-29T15:20:15.433840+00:00"
 content_hash: "sha256:19437c941f6a6ff3b477814ca5fdd21ad53f755ec2241c08728ed64e07ceca36"
 ---
 

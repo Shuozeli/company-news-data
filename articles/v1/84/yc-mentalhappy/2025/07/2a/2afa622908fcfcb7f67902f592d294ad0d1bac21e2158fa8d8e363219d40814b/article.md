@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:27:44.796938+00:00"
 content_hash: "sha256:e38a2d2851751886e4e7fc57673553651c80e6c1d02a46fa2a5cd567dd38fb03"
 ---
 
-# Hosting Your First Mental Health Support Group Session: A Guide by Dr. Pritika
+# Hosting Your First Mental Health Support Group Session
 
 # **Hosting Your First Mental Health Support Group Session: A Guide by Dr. Pritika**
 

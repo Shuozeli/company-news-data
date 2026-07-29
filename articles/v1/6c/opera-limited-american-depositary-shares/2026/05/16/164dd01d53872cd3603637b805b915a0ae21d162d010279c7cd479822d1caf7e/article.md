@@ -7,7 +7,7 @@ source_id: "opera-limited-american-depositary-shares-rss-2f5c2c4cdfef"
 canonical_url: "https://blogs.opera.com/news/2026/05/opera-one-gets-a-new-and-faster-native-ad-blocker/"
 published_at: "2026-05-14T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:28.064402+00:00"
-fetched_at: "2026-07-29T00:45:13.328847+00:00"
+fetched_at: "2026-07-29T14:07:49.355145+00:00"
 content_hash: "sha256:21fb4eeb2bc1ebcbad6efb45998e04ca5f5df64bd4dcc492536df03b5c841865"
 ---
 

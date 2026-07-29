@@ -7,7 +7,7 @@ source_id: "evercore-inc-class-a-common-stock-rss-cec3ba1f6fc0"
 canonical_url: "https://www.evercore.com/mark-hibbert-joins-evercore-equities-as-senior-managing-director/"
 published_at: "2026-05-12T12:02:54+00:00"
 first_seen_at: "2026-07-21T01:18:50.348672+00:00"
-fetched_at: "2026-07-29T00:20:15.020156+00:00"
+fetched_at: "2026-07-29T15:05:01.473214+00:00"
 content_hash: "sha256:f6e04bd5201163cac351e19231b5ebc6ccdc96a651a7714abfa3a3013af202c0"
 ---
 

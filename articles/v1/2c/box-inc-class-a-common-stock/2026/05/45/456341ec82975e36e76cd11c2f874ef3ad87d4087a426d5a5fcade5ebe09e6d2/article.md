@@ -7,7 +7,7 @@ source_id: "box-inc-class-a-common-stock-rss-a1b756dbb5f0"
 canonical_url: "https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Sets-Date-to-Announce-First-Quarter-Fiscal-2027-Financial-Results/default.aspx"
 published_at: "2026-05-05T12:00:00+00:00"
 first_seen_at: "2026-07-26T23:59:55.533287+00:00"
-fetched_at: "2026-07-28T23:33:39.655435+00:00"
+fetched_at: "2026-07-29T15:31:10.551887+00:00"
 content_hash: "sha256:95d886ed1aa9659bec0c917bd783a0f10b1345e6fdec734d642d2a208b072d3d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/digi-soc-2-type-2-compliance"
 published_at: "2026-01-13T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:43059e738f2605975b7ef9cd9a8ae538f767b2a440c7c1dacc9d67b5c557ae48"
 ---
 

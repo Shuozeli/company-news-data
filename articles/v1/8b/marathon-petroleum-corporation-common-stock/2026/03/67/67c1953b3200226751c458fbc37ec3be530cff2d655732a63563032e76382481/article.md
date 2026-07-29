@@ -7,7 +7,7 @@ source_id: "marathon-petroleum-corporation-common-stock-rss-10c770213549"
 canonical_url: "https://ir.marathonpetroleum.com/investor/news-releases/news-details/2026/Marathon-Petroleum-Corp--to-Report-First-Quarter-Financial-Results-on-May-5-2026/default.aspx"
 published_at: "2026-03-23T20:15:00+00:00"
 first_seen_at: "2026-07-22T17:28:42.331591+00:00"
-fetched_at: "2026-07-28T23:51:29.991025+00:00"
+fetched_at: "2026-07-29T16:59:04.313008+00:00"
 content_hash: "sha256:b6eeccf5bc14ea182c9c2b150a305f6097b3b4a7387308989497837810f5008e"
 ---
 

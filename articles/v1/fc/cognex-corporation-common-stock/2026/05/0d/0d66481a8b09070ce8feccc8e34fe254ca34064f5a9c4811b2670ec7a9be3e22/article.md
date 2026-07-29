@@ -7,7 +7,7 @@ source_id: "cognex-corporation-common-stock-rss-d1b80f9f3658"
 canonical_url: "https://investor.cognex.com/news/news-details/2026/Cognex-Launches-Highest-Performance-Embedded-AI-Vision-System-Powered-by-Qualcomm/default.aspx"
 published_at: "2026-05-05T13:00:00+00:00"
 first_seen_at: "2026-07-24T22:51:25.514805+00:00"
-fetched_at: "2026-07-28T23:31:53.894126+00:00"
+fetched_at: "2026-07-29T15:27:32.081476+00:00"
 content_hash: "sha256:88f768145214f9441f4a3faa5663bab83d7476b5e83890d0015c88e2f762fe33"
 ---
 

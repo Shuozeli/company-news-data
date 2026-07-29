@@ -7,7 +7,7 @@ source_id: "yc-daivin-rss-4c7a129a2120"
 canonical_url: "https://www.daivin.tech/post/daivin-is-part-of-y-combinator"
 published_at: "2026-03-13T08:13:26+00:00"
 first_seen_at: "2026-07-27T01:33:11.321814+00:00"
-fetched_at: "2026-07-28T23:31:04.611759+00:00"
+fetched_at: "2026-07-29T15:27:10.583335+00:00"
 content_hash: "sha256:533681b04d6a5678ab4b11d80d03082d7540926738a24c08016e292352f91963"
 ---
 

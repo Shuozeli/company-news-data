@@ -7,7 +7,7 @@ source_id: "seven-hills-realty-trust-common-stock-rss-7751350469b0"
 canonical_url: "https://sevnreit.com/news/press-release-details/2026/Seven-Hills-Realty-Trust-Announces-Quarterly-Dividend-on-Common-Shares-94db56bc3/default.aspx"
 published_at: "2026-04-09T12:00:00+00:00"
 first_seen_at: "2026-07-25T22:45:04.033079+00:00"
-fetched_at: "2026-07-28T23:18:40.842894+00:00"
+fetched_at: "2026-07-29T15:09:16.392674+00:00"
 content_hash: "sha256:1228a4d5bdb685788243bc2051ccef4bb8dd5fa0da19fcef00c5b630ed42b855"
 ---
 

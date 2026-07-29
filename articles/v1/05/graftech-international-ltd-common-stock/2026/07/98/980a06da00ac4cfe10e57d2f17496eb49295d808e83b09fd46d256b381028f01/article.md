@@ -7,7 +7,7 @@ source_id: "graftech-international-ltd-common-stock-rss-5bd990f9c094"
 canonical_url: "https://ir.graftech.com/investors/news/news-details/2026/GrafTech-Announces-Second-Quarter-2026-Earnings-Conference-Call-and-Webcast/default.aspx"
 published_at: "2026-07-02T20:30:00+00:00"
 first_seen_at: "2026-07-25T06:59:25.117987+00:00"
-fetched_at: "2026-07-29T00:16:38.367486+00:00"
+fetched_at: "2026-07-29T17:19:25.701787+00:00"
 content_hash: "sha256:fd8418ecd259805ba14a035434114ce9bc6c9a0fce4a48bf8d373b0e3388d74e"
 ---
 

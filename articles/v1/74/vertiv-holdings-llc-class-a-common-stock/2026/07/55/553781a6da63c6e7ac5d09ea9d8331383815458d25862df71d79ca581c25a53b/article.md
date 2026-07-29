@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2020/Vertiv-Delivers-Strong-Third-Quarter-Operating-Performance/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T23:23:56.894710+00:00"
+fetched_at: "2026-07-29T15:18:57.174384+00:00"
 content_hash: "sha256:1e10cd6073eae5d0deda4e2a8076bf43958aefd45222104e876539b2ca4c75de"
 ---
 

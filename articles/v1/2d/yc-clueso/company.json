@@ -5,7 +5,7 @@
     "name": "Clueso"
   },
   "record_count": 7,
-  "first_published_at": "2026-07-15T00:00:00+00:00",
+  "first_published_at": "2026-07-28T00:00:00+00:00",
   "last_published_at": "2026-07-28T00:00:00+00:00",
   "partitions": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -23,10 +23,10 @@
         "page": 1,
         "path": "articles/v1/2d/yc-clueso/index/pages/000001.json",
         "record_count": 7,
-        "byte_count": 6943,
-        "sha256": "sha256:af94e12ac08f853eacebe8cc3487e5fddb1b0ca024962c16cd38b8a7a7cf32ea",
+        "byte_count": 6920,
+        "sha256": "sha256:b7dfec0171148a62b67d39fa1ab357c521bf2ee2bbec2f5a4d8efc0877ece798",
         "newest_at": "2026-07-28T21:37:36.757263+00:00",
-        "oldest_at": "2026-07-15T00:00:00+00:00"
+        "oldest_at": "2026-07-28T00:00:00+00:00"
       }
     ]
   }

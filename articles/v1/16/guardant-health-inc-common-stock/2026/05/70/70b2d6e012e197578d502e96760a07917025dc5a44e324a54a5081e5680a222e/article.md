@@ -7,7 +7,7 @@ source_id: "guardant-health-inc-common-stock-rss-fb6215599895"
 canonical_url: "https://guardanthealth.com/2026/05/05/reputation-trust-and-culture-assets-not-on-the-balance-sheet/"
 published_at: "2026-05-05T13:03:58+00:00"
 first_seen_at: "2026-07-20T23:21:46.463762+00:00"
-fetched_at: "2026-07-28T23:14:42.692011+00:00"
+fetched_at: "2026-07-29T15:04:27.009535+00:00"
 content_hash: "sha256:c7ba2ef777668b382a4de9611f48942b0074b2f92eb9046718143e92d7e6330e"
 ---
 

@@ -5,7 +5,7 @@ company_key: "netflix-inc-common-stock"
 company: "Netflix Inc. Common Stock"
 source_id: "netflix-inc-common-stock-rss-924a579478a7"
 canonical_url: "https://about.netflix.com/en/news/possible-love-premieres-november-6"
-published_at: "2026-07-27T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-28T01:25:36.159639+00:00"
 fetched_at: "2026-07-28T20:31:35.420648+00:00"
 content_hash: "sha256:02b57559858ac25574ea4e864c661ec75a6d01b8221d3e8bd475e494a8748207"

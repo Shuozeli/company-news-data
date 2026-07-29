@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6f5a9370180ba830cddc5bf41fd998d82d235ac2a154ccb428a1900d5edff86a",
+  "company": {
+    "key": "blackline-inc-common-stock",
+    "name": "BlackLine Inc. Common Stock"
+  },
+  "source": {
+    "id": "blackline-inc-common-stock-news-import-2d1fe8859cfb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blackline.com/blog/how-cfo-masters-agentic-remittance-processing/",
+    "canonical": "https://www.blackline.com/blog/how-cfo-masters-agentic-remittance-processing/"
+  },
+  "title": "How the Unstoppable CFO Masters Agentic Remittance Processing",
+  "summary": "Discover how agentic AI and Verity Remit help CFOs automate remittance processing, eliminate unapplied cash, and achieve a 90% straight-through processing rate.",
+  "published_at": null,
+  "first_seen_at": "2026-07-29T02:56:54.150350+00:00",
+  "fetched_at": "2026-07-29T02:56:55.748763+00:00",
+  "last_updated_at": "2026-07-29T02:56:56.527612+00:00",
+  "paths": {
+    "article": "articles/v1/7a/blackline-inc-common-stock/2026/07/6f/6f5a9370180ba830cddc5bf41fd998d82d235ac2a154ccb428a1900d5edff86a/article.md",
+    "record": "articles/v1/7a/blackline-inc-common-stock/2026/07/6f/6f5a9370180ba830cddc5bf41fd998d82d235ac2a154ccb428a1900d5edff86a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14528,
+    "sha256": "sha256:aa6df83257a3a2a81c89f47f828cc599c92ae60ea64b988107a063871160b45a",
+    "normalized_content_hash": "sha256:d72716646e614c998558f151745200ecb5f2f368d460e65d6bbbe716b44cc710"
+  },
+  "provenance": {
+    "source_item_id": "d3a41a10-860a-4e4f-9e62-1d2ec6d993ac",
+    "external_id": "https://www.blackline.com/blog/how-cfo-masters-agentic-remittance-processing/"
+  }
+}

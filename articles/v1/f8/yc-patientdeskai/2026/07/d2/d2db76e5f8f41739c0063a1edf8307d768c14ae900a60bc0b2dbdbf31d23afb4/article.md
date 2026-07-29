@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/ai-receptionists-the-2-1b-revolution-hitting-dental-practices"
 published_at: "2026-07-19T10:25:44.448+00:00"
 first_seen_at: "2026-07-24T08:23:01.167291+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:147d6b024eb6fc8c4c29da7f83fda96d860a95b5790745526aab7b1a44df903c"
 ---
 

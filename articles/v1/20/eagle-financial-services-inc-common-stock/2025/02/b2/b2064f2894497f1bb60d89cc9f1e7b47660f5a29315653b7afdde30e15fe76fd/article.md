@@ -7,7 +7,7 @@ source_id: "eagle-financial-services-inc-common-stock-rss-a6fe58020a51"
 canonical_url: "https://investors.bankofclarke.bank/news/news-details/2025/Eagle-Financial-Services-Inc.-Announces-Launch-of-Common-Stock-Offering/default.aspx"
 published_at: "2025-02-06T21:03:00+00:00"
 first_seen_at: "2026-07-27T01:59:54.493327+00:00"
-fetched_at: "2026-07-29T00:13:43.697163+00:00"
+fetched_at: "2026-07-29T17:17:37.119717+00:00"
 content_hash: "sha256:2f464908ff57d3368867703dc0d7931ff8b6f0de993923f8032bdf03b61d9853"
 ---
 

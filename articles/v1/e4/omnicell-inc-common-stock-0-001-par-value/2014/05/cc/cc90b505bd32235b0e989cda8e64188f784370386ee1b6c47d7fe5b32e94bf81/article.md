@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2014/Allina-Health-Selects-Omnicell-for-Medication-Automation-Solutions/default.aspx"
 published_at: "2014-05-28T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:fdbb361d47f8e36f296d7be191322f1777b86830bcf624c9099fde7f6a4f67a0"
 ---
 

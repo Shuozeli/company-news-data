@@ -7,7 +7,7 @@ source_id: "columbus-mckinnon-corporation-common-stock-rss-1961a4508973"
 canonical_url: "https://investors.cmco.com/investor-news/news-details/2026/Columbus-McKinnon-Declares-Quarterly-Dividend-of-0-07-per-Share-7e6aa8089/default.aspx"
 published_at: "2026-07-20T20:10:00+00:00"
 first_seen_at: "2026-07-27T01:10:06.045228+00:00"
-fetched_at: "2026-07-28T22:56:38.204176+00:00"
+fetched_at: "2026-07-29T14:28:12.718886+00:00"
 content_hash: "sha256:be7ae2ca8fab7b764bbac97736946cfb4676d2fee4d0df5d48c60e4e130bd1a2"
 ---
 

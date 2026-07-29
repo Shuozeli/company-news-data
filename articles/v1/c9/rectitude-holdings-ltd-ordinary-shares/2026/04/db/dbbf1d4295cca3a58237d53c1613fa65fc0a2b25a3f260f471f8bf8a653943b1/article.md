@@ -7,7 +7,7 @@ source_id: "rectitude-holdings-ltd-ordinary-shares-rss-0d297b397433"
 canonical_url: "https://ir.rectitude.com.sg/rectitude-holdings-ltd-announces-final-installation-of-proprietary-ai-powered-safety-system-at-china-construction-site-in-collaboration-with-nanyang-polytechnic/"
 published_at: "2026-04-30T12:00:54+00:00"
 first_seen_at: "2026-07-25T20:39:27.562148+00:00"
-fetched_at: "2026-07-29T00:49:35.606057+00:00"
+fetched_at: "2026-07-29T14:09:49.320394+00:00"
 content_hash: "sha256:66333de4c8db6f7ad793dae3cf2bf39efdd42de5de4a34ca04dbb0d459031f29"
 ---
 

@@ -7,7 +7,7 @@ source_id: "infinity-natural-resources-inc-class-a-common-stock-rss-c01032534446
 canonical_url: "https://ir.infinitynaturalresources.com/news/news-details/2026/Infinity-Natural-Resources-Appoints-Scott-McNeill-to-Board-of-Directors/default.aspx"
 published_at: "2026-04-13T20:05:00+00:00"
 first_seen_at: "2026-07-27T03:05:45.903497+00:00"
-fetched_at: "2026-07-28T23:30:11.085647+00:00"
+fetched_at: "2026-07-29T15:26:47.245606+00:00"
 content_hash: "sha256:8883801899c168904678d5d5da440d83a034bc643b2f47479f2d78e97eb77a35"
 ---
 

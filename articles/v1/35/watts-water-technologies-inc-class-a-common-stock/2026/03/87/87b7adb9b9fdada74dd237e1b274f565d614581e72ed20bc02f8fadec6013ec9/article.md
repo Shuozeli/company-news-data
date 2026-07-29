@@ -7,7 +7,7 @@ source_id: "watts-water-technologies-inc-class-a-common-stock-rss-3eddadbf95be"
 canonical_url: "https://investors.wattswater.com/press-releases/press-release-details/2026/Watts-Named-One-of-Newsweek-Americas-Most-Charitable-Companies/default.aspx"
 published_at: "2026-03-11T17:41:00+00:00"
 first_seen_at: "2026-07-26T05:11:59.088103+00:00"
-fetched_at: "2026-07-29T00:06:28.523087+00:00"
+fetched_at: "2026-07-29T17:09:52.900128+00:00"
 content_hash: "sha256:f292b521c67099d9c95f746345aaa4e8c8c198d0685c18c5427ba526ab413277"
 ---
 

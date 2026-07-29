@@ -7,7 +7,7 @@ source_id: "onto-innovation-inc-common-stock-rss-c0808ecb27f7"
 canonical_url: "https://investors.ontoinnovation.com/news/news-details/2026/Onto-Innovation-Announces-Strategic-Partnership-With-Leading-X-Ray-Provider-Rigaku-To-Advance-Next-Generation-Process-Control-Solutions/default.aspx"
 published_at: "2026-04-20T23:16:00+00:00"
 first_seen_at: "2026-07-25T17:34:39.012386+00:00"
-fetched_at: "2026-07-28T23:28:44.600129+00:00"
+fetched_at: "2026-07-29T15:24:50.231475+00:00"
 content_hash: "sha256:ec50b97f9c32122d387c4998920cce49ef7b85154e60105f8e6502b4557077f0"
 ---
 

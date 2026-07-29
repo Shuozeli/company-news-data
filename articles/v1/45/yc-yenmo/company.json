@@ -4,17 +4,17 @@
     "key": "yc-yenmo",
     "name": "Yenmo"
   },
-  "record_count": 15,
+  "record_count": 16,
   "first_published_at": "2026-07-06T00:00:00+00:00",
   "last_published_at": "2026-07-06T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 15
+      "record_count": 16
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/45/yc-yenmo/index/pages/000001.json",
-        "record_count": 15,
-        "byte_count": 15038,
-        "sha256": "sha256:f626f72c583186202f901628882987c1bc7273073f4e00b8a6d11e29f1dda973",
-        "newest_at": "2026-07-28T21:39:52.838477+00:00",
+        "record_count": 16,
+        "byte_count": 16048,
+        "sha256": "sha256:1834a5ed3d7a09f5350915fbd056eda4897596e782fe47d11debbf8df05165f2",
+        "newest_at": "2026-07-29T14:50:07.487550+00:00",
         "oldest_at": "2026-07-06T00:00:00+00:00"
       }
     ]

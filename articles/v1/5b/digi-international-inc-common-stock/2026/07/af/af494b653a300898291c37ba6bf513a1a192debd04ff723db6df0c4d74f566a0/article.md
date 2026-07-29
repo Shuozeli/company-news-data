@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2026/digi-xrt-m-receives-2026-iot-evolution-award"
 published_at: "2026-07-14T05:00:00+00:00"
 first_seen_at: "2026-07-23T05:39:41.592412+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:0c5afcf0310412b25506cccaedec7ef2148da9f57020f3e053eb2f5b231d195b"
 ---
 

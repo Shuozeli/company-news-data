@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2018/Omnicell-Opens-Center-of-Excellence-in-Cranberry-Township-Showcasing-Innovation-and-Industry-Leading-Medication-Management-Platform/default.aspx"
 published_at: "2018-03-01T05:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:07f8261c989166ed54f3417767aec7e088ff4a282c10d2a7fa81fa568f00c1be"
 ---
 

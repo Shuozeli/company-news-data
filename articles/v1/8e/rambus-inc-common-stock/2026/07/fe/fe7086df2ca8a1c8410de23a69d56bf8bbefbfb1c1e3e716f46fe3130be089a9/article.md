@@ -7,7 +7,7 @@ source_id: "rambus-inc-common-stock-rss-ae9cc712c4a3"
 canonical_url: "https://go.rambus.com/ddr5-rcd-9600-product-brief"
 published_at: "2026-07-08T21:01:08+00:00"
 first_seen_at: "2026-07-20T03:32:34.663136+00:00"
-fetched_at: "2026-07-28T23:33:57.038670+00:00"
+fetched_at: "2026-07-29T15:28:39.617669+00:00"
 content_hash: "sha256:07856a98e2cb5e60ec310ef075493de75d164815fe4ea956168d2f3772854930"
 ---
 

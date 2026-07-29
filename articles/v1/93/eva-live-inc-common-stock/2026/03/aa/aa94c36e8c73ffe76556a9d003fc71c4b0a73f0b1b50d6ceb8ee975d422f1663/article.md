@@ -7,7 +7,7 @@ source_id: "eva-live-inc-common-stock-rss-fa36d30c6b04"
 canonical_url: "https://eva.live/eva-live-inc-engages-anderson-kill-p-c-to-execute-nasdaq-tokenization-strategy-for-goai/"
 published_at: "2026-03-30T06:00:00+00:00"
 first_seen_at: "2026-07-25T03:24:54.313623+00:00"
-fetched_at: "2026-07-28T23:38:42.811853+00:00"
+fetched_at: "2026-07-29T15:33:36.261466+00:00"
 content_hash: "sha256:bc885745cb369f07d988d9c25da9ee02d48ebb310625d5d5b317f5b13f3ba16e"
 ---
 

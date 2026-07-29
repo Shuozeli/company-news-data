@@ -7,7 +7,7 @@ source_id: "airbnb-inc-class-a-common-stock-rss-d1a7958eece3"
 canonical_url: "https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f"
 published_at: "2026-04-28T17:01:02+00:00"
 first_seen_at: "2026-07-20T04:35:41.377728+00:00"
-fetched_at: "2026-07-28T23:43:02.929663+00:00"
+fetched_at: "2026-07-29T15:37:30.601321+00:00"
 content_hash: "sha256:d190bdddc97245774af8af3fac6c3115150b5e2868a3041b8c81dd1d1be75e89"
 ---
 

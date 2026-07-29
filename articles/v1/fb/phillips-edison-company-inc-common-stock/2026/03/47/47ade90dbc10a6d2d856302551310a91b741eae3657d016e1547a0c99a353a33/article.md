@@ -7,7 +7,7 @@ source_id: "phillips-edison-company-inc-common-stock-rss-7489895c143d"
 canonical_url: "https://investors.phillipsedison.com/news-events/news-details/2026/Phillips-Edison--Company-Inc--Invites-You-to-Join-Its-First-Quarter-2026-Earnings-Conference-Call/default.aspx"
 published_at: "2026-03-24T20:05:00+00:00"
 first_seen_at: "2026-07-25T18:56:15.112855+00:00"
-fetched_at: "2026-07-28T23:28:29.854266+00:00"
+fetched_at: "2026-07-29T15:24:02.647630+00:00"
 content_hash: "sha256:9e09cdf635128831f89ae1ebb28b0254ca1819513ec8c5910bf7f36700db104e"
 ---
 

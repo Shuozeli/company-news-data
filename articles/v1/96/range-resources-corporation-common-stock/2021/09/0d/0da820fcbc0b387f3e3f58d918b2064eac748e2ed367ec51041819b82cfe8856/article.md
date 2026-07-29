@@ -7,7 +7,7 @@ source_id: "range-resources-corporation-common-stock-rss-39ebe470ada3"
 canonical_url: "https://www.rangeresources.com/range-announces-changes-to-board-of-directors-reginal-spiller-joins-the-board/"
 published_at: "2021-09-27T20:55:12+00:00"
 first_seen_at: "2026-07-25T01:14:33.578834+00:00"
-fetched_at: "2026-07-29T00:50:21.600149+00:00"
+fetched_at: "2026-07-29T16:58:42.414622+00:00"
 content_hash: "sha256:7f24680f1fe04ba35255a1e87be9a30822074bbb304d0248af06d398cd19ee94"
 ---
 

@@ -7,7 +7,7 @@ source_id: "nicolet-bankshares-inc-common-stock-rss-e5f4fcd536be"
 canonical_url: "https://investors.nicoletbank.com/news-market-information/press-releases/news-details/2025/Nicolet-Bankshares-Inc--Announces-Extension-of-Mike-Daniels-Leadership-Through-2030/default.aspx"
 published_at: "2025-09-09T20:15:00+00:00"
 first_seen_at: "2026-07-25T16:20:55.850182+00:00"
-fetched_at: "2026-07-28T23:41:30.060629+00:00"
+fetched_at: "2026-07-29T15:34:30.934790+00:00"
 content_hash: "sha256:0152271caee2a5581be272ef7add1339333b323cf7eeec6be49fc7a0a82d71d6"
 ---
 

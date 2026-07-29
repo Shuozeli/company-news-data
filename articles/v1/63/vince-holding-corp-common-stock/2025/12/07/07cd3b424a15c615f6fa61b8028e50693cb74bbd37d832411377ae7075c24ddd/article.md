@@ -7,7 +7,7 @@ source_id: "vince-holding-corp-common-stock-rss-88eb2c7b52d3"
 canonical_url: "http://investors.vince.com/press-releases/press-release-details/2025/Vince-Announces-Participation-in-the-KeyBanc-Capital-Markets-Consumer-Conference/default.aspx"
 published_at: "2025-12-04T12:30:00+00:00"
 first_seen_at: "2026-07-26T04:41:31.329212+00:00"
-fetched_at: "2026-07-28T23:38:21.832592+00:00"
+fetched_at: "2026-07-29T15:33:23.404729+00:00"
 content_hash: "sha256:e096d71dd20dc71b32e8f7cc0c087a7edcf90af7c8892577afaa88f56d6c5bd7"
 ---
 

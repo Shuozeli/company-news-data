@@ -7,7 +7,7 @@ source_id: "fifth-third-bancorp-depositary-shares-rss-48a52068557c"
 canonical_url: "https://ir.53.com/news/news-details/2026/Fifth-Third-Bancorp-Announces-Cash-Dividends-fa2bc8ad1/default.aspx"
 published_at: "2026-06-11T17:35:00+00:00"
 first_seen_at: "2026-07-25T04:30:59.094438+00:00"
-fetched_at: "2026-07-28T23:14:18.720884+00:00"
+fetched_at: "2026-07-29T15:00:47.008258+00:00"
 content_hash: "sha256:1780aae08757b528f8c7f3841973884f6695d0073c4fdc2d1c18d7d70c54d00a"
 ---
 

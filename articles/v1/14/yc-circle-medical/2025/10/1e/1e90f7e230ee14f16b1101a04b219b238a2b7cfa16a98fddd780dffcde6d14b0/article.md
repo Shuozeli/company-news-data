@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:27:35.329570+00:00"
 content_hash: "sha256:4389daa5944e0e531cb66c9162a3b09339c75a88482476c4372243dc2d1b1a1a"
 ---
 
-# Male Annual Physical Exam Checklist
+# Male Annual Physical Exam Checklist: Screenings Every Man Needs by Age
 
 # **Male Annual Physical Exam Checklist: Screenings Every Man Needs by Age**
 

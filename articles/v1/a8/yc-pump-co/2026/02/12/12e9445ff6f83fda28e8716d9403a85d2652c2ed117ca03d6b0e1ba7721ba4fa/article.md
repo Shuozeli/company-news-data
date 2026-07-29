@@ -7,7 +7,7 @@ source_id: "yc-pump-co-news-import-86a46b79533f"
 canonical_url: "https://www.pump.co/blog/amazong-lex/"
 published_at: "2026-02-27T00:00:00+00:00"
 first_seen_at: "2026-07-25T20:15:23.871807+00:00"
-fetched_at: "2026-07-28T11:48:07.834159+00:00"
+fetched_at: "2026-07-29T14:52:31.762897+00:00"
 content_hash: "sha256:f33fd73a3749fbd7ee6533fb53e4257073d7cf7c510b43268b36e6d29b9a15a6"
 ---
 

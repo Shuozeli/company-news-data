@@ -7,7 +7,7 @@ source_id: "nexpoint-real-estate-finance-inc-common-stock-rss-2a15693f1259"
 canonical_url: "https://nref.nexpoint.com/news/news-details/2026/NexPoint-Real-Estate-Finance-Inc--Announces-Second-Quarter-2026-Earnings-Conference-Call/default.aspx"
 published_at: "2026-07-09T20:30:00+00:00"
 first_seen_at: "2026-07-25T16:12:43.168991+00:00"
-fetched_at: "2026-07-28T23:34:36.060823+00:00"
+fetched_at: "2026-07-29T15:30:59.058839+00:00"
 content_hash: "sha256:57326448a0b6ea03e2ac7bbed358a65feba27c606d83bcb842456f3b937e6f61"
 ---
 

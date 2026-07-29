@@ -7,7 +7,7 @@ source_id: "yc-directed-edge-rss-7c8e8fe81473"
 canonical_url: "https://blog.directededge.com/2012/10/29/terror-in-recommendations-ville/"
 published_at: "2012-10-29T21:01:33+00:00"
 first_seen_at: "2026-07-27T01:55:50.875550+00:00"
-fetched_at: "2026-07-28T22:59:14.304469+00:00"
+fetched_at: "2026-07-29T14:36:05.001882+00:00"
 content_hash: "sha256:cc0625b01f2488eb63aead80a3fdce5156be527c32fa7ac1d694d95c997e23ad"
 ---
 

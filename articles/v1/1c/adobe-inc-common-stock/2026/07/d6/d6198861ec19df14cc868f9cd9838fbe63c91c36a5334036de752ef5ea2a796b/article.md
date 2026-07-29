@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2026/07/large-document-support-is-coming-to-adobe-express-what-add-on-developers-need-to-know"
 published_at: "2026-07-20T00:00:00+00:00"
 first_seen_at: "2026-07-20T14:37:16.154790+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:61e7db8f6027bcac6df067fda0f25556548f2222e738a9424bda04a05f9d6a71"
 ---
 

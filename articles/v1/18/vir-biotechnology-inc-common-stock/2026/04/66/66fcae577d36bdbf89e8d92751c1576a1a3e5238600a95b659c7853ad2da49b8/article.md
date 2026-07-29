@@ -7,7 +7,7 @@ source_id: "vir-biotechnology-inc-common-stock-rss-72c28e7484de"
 canonical_url: "https://investors.vir.bio/news/news-details/2026/Vir-Biotechnology-Announces-First-Patient-Dosed-in-Phase-1-Dose-expansion-Cohorts-Evaluating-PSMA-targeted-PRO-XTEN-Dual-masked-T-cell-Engager-VIR-5500-in-Patients-with-Metastatic-Prostate-Cancer/default.aspx"
 published_at: "2026-04-13T12:05:00+00:00"
 first_seen_at: "2026-07-26T04:46:53.245331+00:00"
-fetched_at: "2026-07-28T23:50:05.426076+00:00"
+fetched_at: "2026-07-29T15:44:29.931538+00:00"
 content_hash: "sha256:a7643d0ef3e6b5d7207f90a2f9b6420b968697d44c776a02ab0c6acaedbf9ae7"
 ---
 

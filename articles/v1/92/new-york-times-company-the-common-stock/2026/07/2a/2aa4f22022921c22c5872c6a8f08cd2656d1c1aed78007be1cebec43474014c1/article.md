@@ -5,10 +5,10 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html"
-published_at: "2026-07-28T19:54:09+00:00"
+published_at: "2026-07-28T19:54:10+00:00"
 first_seen_at: "2026-07-28T16:46:08.230306+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
-content_hash: "sha256:c6ca567c0bba80c8cc8a3414449b3b9e1cae9b0d239897fae92ca05039ff6e1e"
+fetched_at: "2026-07-29T09:49:52.392820+00:00"
+content_hash: "sha256:47b3b00abdac4e33debc5b464ca35856ed22b89930ecf6960b3229b704aac5cc"
 ---
 
 # Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience

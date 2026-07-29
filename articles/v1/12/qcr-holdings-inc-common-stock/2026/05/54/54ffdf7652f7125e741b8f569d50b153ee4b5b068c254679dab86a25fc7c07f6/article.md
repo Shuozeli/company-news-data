@@ -7,7 +7,7 @@ source_id: "qcr-holdings-inc-common-stock-rss-47e5c43e82bb"
 canonical_url: "https://qcrh.com/news/news-details/2026/QCR-Holdings-Inc--Announces-Annual-Meeting-Results-and-a-Cash-Dividend-of-0-10-Per-Share/default.aspx"
 published_at: "2026-05-26T20:05:00+00:00"
 first_seen_at: "2026-07-25T20:12:05.606881+00:00"
-fetched_at: "2026-07-28T23:43:50.947173+00:00"
+fetched_at: "2026-07-29T15:36:31.349336+00:00"
 content_hash: "sha256:db18d7a158305d048cc8a0e90a26f443740cc4662045e35d5fb65c629d054c03"
 ---
 

@@ -7,7 +7,7 @@ source_id: "united-airlines-holdings-inc-common-stock-rss-09ebc8191126"
 canonical_url: "https://united.mediaroom.com/United-Sees-Increased-Demand-for-Americana-Inspired-Trips-During-Countrys-250th-Anniversary"
 published_at: "2026-06-24T15:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:22.575844+00:00"
-fetched_at: "2026-07-28T23:04:31.859605+00:00"
+fetched_at: "2026-07-29T14:41:57.745037+00:00"
 content_hash: "sha256:382638b527ec37752769645298adbcfcc6084479c527a5ed81ba11bd57a7ca64"
 ---
 

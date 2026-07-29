@@ -7,7 +7,7 @@ source_id: "industrial-logistics-properties-trust-common-shares-of-beneficial-in
 canonical_url: "http://www.ilptreit.com/investors/news/press-release-details/2026/Industrial-Logistics-Properties-Trust-Announces-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-04-29T20:15:00+00:00"
 first_seen_at: "2026-07-25T09:17:51.178487+00:00"
-fetched_at: "2026-07-29T00:14:05.979554+00:00"
+fetched_at: "2026-07-29T17:18:03.868677+00:00"
 content_hash: "sha256:a67bc633649f7b71ed057e397d14f34bf9562d61071ba0d414bfe4abc08eb264"
 ---
 

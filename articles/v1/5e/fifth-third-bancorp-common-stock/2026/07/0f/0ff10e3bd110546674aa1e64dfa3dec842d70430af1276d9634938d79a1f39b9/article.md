@@ -7,7 +7,7 @@ source_id: "fifth-third-bancorp-common-stock-rss-1b7a592f5f20"
 canonical_url: "https://ir.53.com/news/news-details/2026/Fifth-Third-Bancorp-Reports-Second-Quarter-2026-Earnings/default.aspx"
 published_at: "2026-07-17T10:30:00+00:00"
 first_seen_at: "2026-07-26T08:17:33.498077+00:00"
-fetched_at: "2026-07-28T23:51:45.862570+00:00"
+fetched_at: "2026-07-29T17:00:26.040311+00:00"
 content_hash: "sha256:171a3b6a9fd0f38b4ce21510d68c44ecab75045467a8c73af6ab192133aee12a"
 ---
 

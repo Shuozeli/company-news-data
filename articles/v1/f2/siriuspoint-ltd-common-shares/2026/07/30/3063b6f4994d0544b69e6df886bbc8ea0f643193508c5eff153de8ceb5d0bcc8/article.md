@@ -7,7 +7,7 @@ source_id: "siriuspoint-ltd-common-shares-rss-b0b83e96ed77"
 canonical_url: "https://investors.siriuspt.com/press-releases/news-details/2026/SiriusPoint-Launches-Fine-Art--Specie-Offering-with-Appointment-of-Mark-Aspinall/default.aspx"
 published_at: "2026-07-01T20:15:00+00:00"
 first_seen_at: "2026-07-25T23:14:39.687560+00:00"
-fetched_at: "2026-07-28T23:33:31.156577+00:00"
+fetched_at: "2026-07-29T15:30:24.921559+00:00"
 content_hash: "sha256:965c425a282b40f5f03faab68563cff9f59063a74a189f5ef1ccc1b9acac9cd2"
 ---
 

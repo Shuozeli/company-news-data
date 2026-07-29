@@ -7,7 +7,7 @@ source_id: "data-i-o-corporation-common-stock-rss-f86f593ae275"
 canonical_url: "https://www.businesswire.com/news/home/20251023388682/en/Data-IO-to-Unveil-Reimagined-Preprogramming-Solutions-at-productronica-2025"
 published_at: "2025-10-23T00:00:00+00:00"
 first_seen_at: "2026-07-25T00:21:29.653205+00:00"
-fetched_at: "2026-07-28T23:15:30.997493+00:00"
+fetched_at: "2026-07-29T15:05:42.282684+00:00"
 content_hash: "sha256:e25c4a726de282c332d74f0a6f16d60781b76cfd3585fbb8a62f4c5a910fe518"
 ---
 

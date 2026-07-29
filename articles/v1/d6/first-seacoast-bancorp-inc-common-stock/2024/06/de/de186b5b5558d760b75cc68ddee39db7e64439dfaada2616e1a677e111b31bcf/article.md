@@ -7,7 +7,7 @@ source_id: "first-seacoast-bancorp-inc-common-stock-rss-90406ee7d062"
 canonical_url: "https://ir.firstseacoastbank.com/news/news-details/2024/First-Seacoast-Bank-Completes-Sale-Leaseback-Transaction-with-MountainSeed-Real-Estate-Services-LLC/default.aspx"
 published_at: "2024-06-17T20:15:00+00:00"
 first_seen_at: "2026-07-25T05:00:25.931486+00:00"
-fetched_at: "2026-07-29T00:17:10.451483+00:00"
+fetched_at: "2026-07-29T17:18:57.364833+00:00"
 content_hash: "sha256:81d6fd788bbbd55abba0872477944f8089d4bc02cb490f1e4be88147f7c8aa95"
 ---
 

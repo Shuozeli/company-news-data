@@ -4,9 +4,9 @@
     "key": "compass-pathways-plc-american-depository-shares",
     "name": "COMPASS Pathways Plc American Depository Shares"
   },
-  "record_count": 10,
+  "record_count": 11,
   "first_published_at": "2026-05-06T10:25:00+00:00",
-  "last_published_at": "2026-07-16T10:35:00+00:00",
+  "last_published_at": "2026-07-29T10:30:00+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -18,11 +18,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 4
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,10 +30,10 @@
       {
         "page": 1,
         "path": "articles/v1/99/compass-pathways-plc-american-depository-shares/index/pages/000001.json",
-        "record_count": 10,
-        "byte_count": 21577,
-        "sha256": "sha256:b30c6719686589e212dfbbe6a52d9bd1218c2c64e8b385f5e59b01a95033a7a9",
-        "newest_at": "2026-07-16T10:35:00+00:00",
+        "record_count": 11,
+        "byte_count": 23770,
+        "sha256": "sha256:7bae21dc3437ccfa942f3ba0b545a75aad25fb1a93abbdbfaa24534bc8a4e108",
+        "newest_at": "2026-07-29T10:30:00+00:00",
         "oldest_at": "2026-05-06T10:25:00+00:00"
       }
     ]

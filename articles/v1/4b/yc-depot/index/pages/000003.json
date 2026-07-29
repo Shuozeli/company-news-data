@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 3,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "6ffd685661bd5dfe9f84bcf160220a87acd93648a4a2d840833bc22d76aadbea",
+      "company_key": "yc-depot",
+      "company_name": "Depot",
+      "source_id": "yc-depot-rss-ed70a28fffeb",
+      "source_kind": "rss",
+      "canonical_url": "https://depot.dev/blog/ultra-runners-for-macos",
+      "title": "macOS GitHub Actions Runners are now twice as fast",
+      "summary": "We are excited to announce an upgrade to Depot-managed macOS GitHub Actions runners that greatly accelerates disk I/O for all macOS jobs.",
+      "published_at": "2025-02-19T00:00:00+00:00",
+      "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+      "article_path": "articles/v1/4b/yc-depot/2025/02/6f/6ffd685661bd5dfe9f84bcf160220a87acd93648a4a2d840833bc22d76aadbea/article.md",
+      "record_path": "articles/v1/4b/yc-depot/2025/02/6f/6ffd685661bd5dfe9f84bcf160220a87acd93648a4a2d840833bc22d76aadbea/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "2c03060c1c966173a65cb18eafa37d66ecd62355f45698545b34805b7af9a31f",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T21:00:24.623123+00:00",
       "article_path": "articles/v1/4b/yc-depot/2024/04/52/528ba7e3ef31da814eda5e3c6ef5ff3562b8e280ec86d4b287e9df7d31e78dde/article.md",
       "record_path": "articles/v1/4b/yc-depot/2024/04/52/528ba7e3ef31da814eda5e3c6ef5ff3562b8e280ec86d4b287e9df7d31e78dde/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "add395209b7af8f58b042a1fbf6984163fc6573876c6783dd3c5e04fc31eefad",
-      "company_key": "yc-depot",
-      "company_name": "Depot",
-      "source_id": "yc-depot-rss-ed70a28fffeb",
-      "source_kind": "rss",
-      "canonical_url": "https://depot.dev/blog/rust-dockerfile-best-practices",
-      "title": "Best practice Dockerfile for speedy Rust builds",
-      "summary": "Rust builds in Docker tend to be slow. This article shows how to drastically speed them up using Docker layer caching and more advanced techniques like sccache.",
-      "published_at": "2024-04-19T00:00:00+00:00",
-      "fetched_at": "2026-07-28T22:25:56.819128+00:00",
-      "article_path": "articles/v1/4b/yc-depot/2024/04/ad/add395209b7af8f58b042a1fbf6984163fc6573876c6783dd3c5e04fc31eefad/article.md",
-      "record_path": "articles/v1/4b/yc-depot/2024/04/ad/add395209b7af8f58b042a1fbf6984163fc6573876c6783dd3c5e04fc31eefad/record.json"
     }
   ]
 }

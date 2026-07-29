@@ -7,7 +7,7 @@ source_id: "yc-the-human-utility-rss-2a14128849f6"
 canonical_url: "https://medium.com/the-human-utility-blog/meet-loria-the-first-person-the-human-utility-ever-helped-311f20e0e9f8"
 published_at: "2018-05-24T05:36:29+00:00"
 first_seen_at: "2026-07-24T03:53:49.413717+00:00"
-fetched_at: "2026-07-29T00:01:18.916886+00:00"
+fetched_at: "2026-07-29T17:08:53.139033+00:00"
 content_hash: "sha256:959d39b130bcfde157839dc01efdea3b99ab23fd5c6f6d7da6f38214b9332c87"
 ---
 

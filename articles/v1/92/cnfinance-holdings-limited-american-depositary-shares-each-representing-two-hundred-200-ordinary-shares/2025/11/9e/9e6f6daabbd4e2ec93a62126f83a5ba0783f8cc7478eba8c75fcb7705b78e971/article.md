@@ -7,7 +7,7 @@ source_id: "cnfinance-holdings-limited-american-depositary-shares-each-represent
 canonical_url: "https://ir.cashchina.cn/2025-11-10-CNFINANCE-TO-HOLD-AN-EXTRAORDINARY-GENERAL-MEETING-ON-DECEMBER-10,-2025"
 published_at: "2025-11-10T11:30:00+00:00"
 first_seen_at: "2026-07-24T22:41:06.464135+00:00"
-fetched_at: "2026-07-28T23:04:13.541099+00:00"
+fetched_at: "2026-07-29T14:42:45.656610+00:00"
 content_hash: "sha256:75174384a1fadbc62e0dc62b018d1005350cb6cb049c22cb22476e639ce572d0"
 ---
 

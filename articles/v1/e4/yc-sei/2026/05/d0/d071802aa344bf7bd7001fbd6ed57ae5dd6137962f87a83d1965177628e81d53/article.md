@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/ai-agents-credit-unions-ncua-deployment-guide"
 published_at: "2026-05-10T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:757a765be4da9dccbe39f69b8540602dd0eda31d1d2a55d1e2161ea2919e70ee"
 ---
 

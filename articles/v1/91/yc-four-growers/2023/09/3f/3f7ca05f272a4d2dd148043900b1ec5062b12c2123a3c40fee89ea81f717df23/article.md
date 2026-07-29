@@ -7,7 +7,7 @@ source_id: "yc-four-growers-rss-8be8350904ae"
 canonical_url: "https://fourgrowers.com/about/media/5-qs-for-brandon-contino-co-founder-and-ceo-of-four-growers/"
 published_at: "2023-09-05T10:35:08+00:00"
 first_seen_at: "2026-07-25T05:36:06.101502+00:00"
-fetched_at: "2026-07-28T23:19:57.925010+00:00"
+fetched_at: "2026-07-29T15:15:36.699332+00:00"
 content_hash: "sha256:a274eb3a42f87186ae3906de796af42340f2e06a43e7d4e35d75983766ab6206"
 ---
 

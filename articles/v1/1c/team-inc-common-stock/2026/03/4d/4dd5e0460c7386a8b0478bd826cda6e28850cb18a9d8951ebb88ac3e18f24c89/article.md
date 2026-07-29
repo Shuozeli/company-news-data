@@ -7,7 +7,7 @@ source_id: "team-inc-common-stock-rss-ea7a13d32a8c"
 canonical_url: "https://www.teaminc.com/watch-live-team-inc-2025-fourth-quarter-update/"
 published_at: "2026-03-12T13:38:48+00:00"
 first_seen_at: "2026-07-20T23:20:11.742485+00:00"
-fetched_at: "2026-07-28T22:59:31.655248+00:00"
+fetched_at: "2026-07-29T14:32:38.907670+00:00"
 content_hash: "sha256:b28621a3cb85c33936a06ef3feb2018ee169e2e4d5e264e4098cfdd2da00171d"
 ---
 

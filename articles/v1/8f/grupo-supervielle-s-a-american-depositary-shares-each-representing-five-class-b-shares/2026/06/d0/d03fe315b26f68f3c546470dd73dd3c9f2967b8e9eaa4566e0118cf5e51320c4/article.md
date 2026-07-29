@@ -7,7 +7,7 @@ source_id: "grupo-supervielle-s-a-american-depositary-shares-each-representing-f
 canonical_url: "https://www.gruposupervielle.com/English/news-and-investor-education/news/news-details/2026/Grupo-Supervielle-is-part-of-the-BYMA-Sustainability-Stock-Index-for-the-eighth-consecutive-year-since-its-launch/default.aspx"
 published_at: "2026-06-17T04:00:00+00:00"
 first_seen_at: "2026-07-25T07:14:20.769534+00:00"
-fetched_at: "2026-07-28T23:42:41.926637+00:00"
+fetched_at: "2026-07-29T15:37:13.701623+00:00"
 content_hash: "sha256:aa1c34ba82b45095c07d1a04fde89192d0fa2fa3f92bfa307216dd0757664b16"
 ---
 

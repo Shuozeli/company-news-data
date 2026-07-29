@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/market-trends/hagerty-insider/sale-of-the-week/aston-martin-db5-shooting-brake-sale-of-the-week/"
 published_at: "2026-07-18T16:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:f156941770f502891b24a48ff7da52b01b1965a78633f01c4e630bf9f33a077f"
 ---
 

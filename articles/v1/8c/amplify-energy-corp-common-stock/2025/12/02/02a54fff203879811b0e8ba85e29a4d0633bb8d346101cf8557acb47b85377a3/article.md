@@ -7,7 +7,7 @@ source_id: "amplify-energy-corp-common-stock-rss-827eecb48ef6"
 canonical_url: "https://www.amplifyenergy.com/investor-relations/press-releases/press-release-details/2025/Amplify-Energy-Announces-Closing-of-Amended-Revolving-Credit-Facility/default.aspx"
 published_at: "2025-12-31T22:27:00+00:00"
 first_seen_at: "2026-07-25T01:06:52.663192+00:00"
-fetched_at: "2026-07-28T23:32:39.993612+00:00"
+fetched_at: "2026-07-29T15:29:36.744355+00:00"
 content_hash: "sha256:6776dc0b682888ae453227fb99afbde8ddad74a053a625093cef46b320ca98b8"
 ---
 

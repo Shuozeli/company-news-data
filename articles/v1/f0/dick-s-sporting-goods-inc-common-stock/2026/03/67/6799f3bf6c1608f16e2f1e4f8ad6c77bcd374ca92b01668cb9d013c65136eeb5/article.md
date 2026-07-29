@@ -7,7 +7,7 @@ source_id: "dick-s-sporting-goods-inc-common-stock-rss-de248d14cae7"
 canonical_url: "https://investors.dicks.com/news/news-details/2026/DICKS-Sporting-Goods-Announces-Participation-in-the-J-P--Morgan-12th-Annual-Retail-Round-Up/default.aspx"
 published_at: "2026-03-25T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:49:30.343356+00:00"
-fetched_at: "2026-07-28T23:09:14.310149+00:00"
+fetched_at: "2026-07-29T14:54:13.044553+00:00"
 content_hash: "sha256:eddd78e6d303c2d6e6d0529b4dd46c5ebb4caef1933503e9f786d0d3bf224571"
 ---
 

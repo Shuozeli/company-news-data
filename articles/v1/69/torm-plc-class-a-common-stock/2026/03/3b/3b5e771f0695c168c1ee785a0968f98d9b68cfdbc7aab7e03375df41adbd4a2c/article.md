@@ -7,7 +7,7 @@ source_id: "torm-plc-class-a-common-stock-rss-542d265fc6d9"
 canonical_url: "https://www.torm.com/news/company-announcements/company-announcements-details/2026/Correction-to-Share-Capital-Information-in-Announcement-of-16-March-2026/default.aspx"
 published_at: "2026-03-17T07:59:00+00:00"
 first_seen_at: "2026-07-27T05:46:47.408281+00:00"
-fetched_at: "2026-07-28T23:07:56.938066+00:00"
+fetched_at: "2026-07-29T14:50:29.133983+00:00"
 content_hash: "sha256:7e9aad457690ac0acaf90300458d276d23c601830911504d709a880ab6d3242c"
 ---
 

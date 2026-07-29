@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/digi-lifecycle-assurance-complete-solution"
 published_at: "2024-04-11T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:0a30476ee8702b4e346df7dcc8f36bc4f5b1afa4ee041deb6f2564c6be980fec"
 ---
 

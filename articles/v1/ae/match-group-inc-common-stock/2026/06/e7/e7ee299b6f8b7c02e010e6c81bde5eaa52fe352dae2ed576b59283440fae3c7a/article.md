@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/hinge/cnn-asks-hinge-ceo-if-the-dating-app-really-is-designed-to-be-deleted/"
 published_at: "2026-06-05T20:56:37+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:1e58464a6c965dea914c6df0a25e31fdb9a6f6c6f4cc32c5dc182c7ffb4dcc9a"
 ---
 

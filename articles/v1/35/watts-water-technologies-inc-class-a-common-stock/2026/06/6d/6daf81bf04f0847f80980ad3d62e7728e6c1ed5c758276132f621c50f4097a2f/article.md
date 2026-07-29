@@ -7,7 +7,7 @@ source_id: "watts-water-technologies-inc-class-a-common-stock-rss-3eddadbf95be"
 canonical_url: "https://investors.wattswater.com/press-releases/press-release-details/2026/Watts-Named-One-of-Newsweeks-Worlds-Greenest-Companies-2026/default.aspx"
 published_at: "2026-06-04T22:33:00+00:00"
 first_seen_at: "2026-07-26T05:11:59.088103+00:00"
-fetched_at: "2026-07-29T00:06:28.523087+00:00"
+fetched_at: "2026-07-29T17:09:52.900128+00:00"
 content_hash: "sha256:c54db21983d0a1ccf71f6396d03bd34fcb91435b4731e497ff916c63d2136174"
 ---
 

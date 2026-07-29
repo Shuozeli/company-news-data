@@ -7,7 +7,7 @@ source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/nyregion/noncitizen-voting-new-jersey-sherrill.html"
 published_at: "2026-07-28T22:11:43+00:00"
 first_seen_at: "2026-07-28T21:10:05.886882+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
+fetched_at: "2026-07-29T09:49:52.392820+00:00"
 content_hash: "sha256:15f0f2f6c1b67dd591df941e5192a8f0ad6e09e4838f5aa8b2b30c4511260838"
 ---
 

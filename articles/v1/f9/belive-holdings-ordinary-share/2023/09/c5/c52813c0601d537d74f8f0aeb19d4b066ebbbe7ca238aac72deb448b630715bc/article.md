@@ -7,7 +7,7 @@ source_id: "belive-holdings-ordinary-share-rss-59b63e28f0be"
 canonical_url: "https://www.techinasia.com/shopback-belive-live-commerce-feature"
 published_at: "2023-09-14T03:51:48+00:00"
 first_seen_at: "2026-07-23T22:07:03.112461+00:00"
-fetched_at: "2026-07-28T22:56:37.715172+00:00"
+fetched_at: "2026-07-29T14:29:50.620896+00:00"
 content_hash: "sha256:dd8b1b16e66f51440d7039f28e9667aa9912e67b2a937ab706de38afd660e967"
 ---
 

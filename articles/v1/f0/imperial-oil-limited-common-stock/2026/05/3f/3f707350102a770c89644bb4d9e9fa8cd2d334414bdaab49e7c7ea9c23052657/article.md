@@ -7,7 +7,7 @@ source_id: "imperial-oil-limited-common-stock-rss-064478ca8d2c"
 canonical_url: "https://news.imperialoil.ca/news-releases/news-releases/2026/LImpriale-annonce-les-rsultats-de-llection-des-administrateurs/default.aspx"
 published_at: "2026-05-04T21:05:00+00:00"
 first_seen_at: "2026-07-25T09:09:14.198352+00:00"
-fetched_at: "2026-07-28T22:15:51.440354+00:00"
+fetched_at: "2026-07-29T14:22:09.639524+00:00"
 content_hash: "sha256:9f25444e5ee61fd3eafb1b192488b7b0cc9bd5ab0fa36c9803ea55f472348ca1"
 ---
 

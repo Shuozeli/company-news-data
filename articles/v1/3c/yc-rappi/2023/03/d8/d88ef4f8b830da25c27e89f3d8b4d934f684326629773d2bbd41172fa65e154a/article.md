@@ -7,7 +7,7 @@ source_id: "yc-rappi-rss-63ff898fda0d"
 canonical_url: "https://engineering.rappi.com/planificaci%C3%B3n-de-tareas-scheduler-4250961fa944"
 published_at: "2023-03-21T15:42:51+00:00"
 first_seen_at: "2026-07-20T23:20:59.100260+00:00"
-fetched_at: "2026-07-28T22:17:04.847464+00:00"
+fetched_at: "2026-07-29T14:22:59.373532+00:00"
 content_hash: "sha256:1382184d0d38f77f69046faf6d48e6c95932865936331647e91f2e8b01443162"
 ---
 

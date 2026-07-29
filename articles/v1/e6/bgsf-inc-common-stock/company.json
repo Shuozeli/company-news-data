@@ -4,9 +4,9 @@
     "key": "bgsf-inc-common-stock",
     "name": "BGSF Inc. Common Stock"
   },
-  "record_count": 30,
+  "record_count": 34,
   "first_published_at": "2025-11-06T04:30:00+00:00",
-  "last_published_at": "2026-07-21T17:53:32+00:00",
+  "last_published_at": "2026-07-28T15:45:24.806+00:00",
   "partitions": [
     {
       "partition": "2025-11",
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 14
+      "record_count": 18
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -46,10 +46,10 @@
       {
         "page": 1,
         "path": "articles/v1/e6/bgsf-inc-common-stock/index/pages/000001.json",
-        "record_count": 30,
-        "byte_count": 39453,
-        "sha256": "sha256:b09306cbe76e2c9b65fe6f98739f109fb834d47c4e735e9f9faef132f1137568",
-        "newest_at": "2026-07-21T17:53:32+00:00",
+        "record_count": 34,
+        "byte_count": 45349,
+        "sha256": "sha256:3c48177541e38461ef88722488a3d5f13bf70d594933d2270c5c4ef4a8a8d7c1",
+        "newest_at": "2026-07-28T15:45:24.806+00:00",
         "oldest_at": "2025-11-06T04:30:00+00:00"
       }
     ]

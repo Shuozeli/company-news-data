@@ -7,7 +7,7 @@ source_id: "central-pacific-financial-corp-new-rss-e68df64c5498"
 canonical_url: "https://ir.cpb.bank/news/news-details/2026/Central-Pacific-Financial-Reports-Fourth-Quarter-and-Full-Year-2025-Earnings/default.aspx"
 published_at: "2026-01-28T10:30:00+00:00"
 first_seen_at: "2026-07-26T11:21:10.476543+00:00"
-fetched_at: "2026-07-28T23:32:44.303724+00:00"
+fetched_at: "2026-07-29T15:30:39.152663+00:00"
 content_hash: "sha256:2193419cc0a17bf10de78c9698fcce20bfe01145b356ada9b6985294e1109278"
 ---
 

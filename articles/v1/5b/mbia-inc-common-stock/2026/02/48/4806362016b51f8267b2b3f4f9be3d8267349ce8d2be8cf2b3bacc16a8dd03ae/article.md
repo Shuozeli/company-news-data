@@ -7,7 +7,7 @@ source_id: "mbia-inc-common-stock-rss-e521afb3d53b"
 canonical_url: "https://investor.mbia.com/investor-relations/press-releases/press-release-details/2026/MBIA-Inc--Reports-Full-Year-and-Fourth-Quarter-2025-Financial-Results/default.aspx"
 published_at: "2026-02-26T21:15:00+00:00"
 first_seen_at: "2026-07-27T03:42:17.978557+00:00"
-fetched_at: "2026-07-28T23:43:23.477312+00:00"
+fetched_at: "2026-07-29T15:36:25.741866+00:00"
 content_hash: "sha256:2b4fca24239f75ae835d571dc5c39314f7e2e21807de2e9b2e3f1f2147773e39"
 ---
 

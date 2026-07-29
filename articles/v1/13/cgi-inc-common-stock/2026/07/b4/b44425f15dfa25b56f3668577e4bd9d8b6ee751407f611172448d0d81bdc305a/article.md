@@ -7,7 +7,7 @@ source_id: "cgi-inc-common-stock-rss-66ef697d2497"
 canonical_url: "https://www.cgi.com/en/blog/us/reflections-on-5-business-changing-it-trends"
 published_at: null
 first_seen_at: "2026-07-20T23:21:24.029549+00:00"
-fetched_at: "2026-07-28T23:00:22.765111+00:00"
+fetched_at: "2026-07-29T14:37:06.846679+00:00"
 content_hash: "sha256:236ec377a8f93efb124e7a559743b90a8af38c002684be0a51c75b4bf388abe9"
 ---
 

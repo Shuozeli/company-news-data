@@ -7,7 +7,7 @@ source_id: "spruce-power-holding-corporation-class-a-common-stock-rss-3c9778a338
 canonical_url: "https://investors.sprucepower.com/news/news-details/2026/Spruce-Power-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-13T20:05:00+00:00"
 first_seen_at: "2026-07-26T00:03:19.386569+00:00"
-fetched_at: "2026-07-29T00:07:57.504840+00:00"
+fetched_at: "2026-07-29T17:12:14.664654+00:00"
 content_hash: "sha256:15f941da72aea155343048878e01d428a52db83c862051bf92de970e5735f297"
 ---
 

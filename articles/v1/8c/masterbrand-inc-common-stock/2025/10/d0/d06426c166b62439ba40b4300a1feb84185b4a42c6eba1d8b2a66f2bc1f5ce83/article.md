@@ -7,7 +7,7 @@ source_id: "masterbrand-inc-common-stock-rss-68b1dce10314"
 canonical_url: "https://masterbrand.com/investors/investor-news/news-details/2025/Merger-Between-MasterBrand-and-American-Woodmark-Receives-Shareholder-Approval/default.aspx"
 published_at: "2025-10-30T20:05:00+00:00"
 first_seen_at: "2026-07-25T13:25:20.188168+00:00"
-fetched_at: "2026-07-28T22:13:13.801253+00:00"
+fetched_at: "2026-07-29T14:21:37.351482+00:00"
 content_hash: "sha256:aa3c85b2a8b3c8447e17cd134a83ef2b285ed3ac7bf082f7ca8428560569e0bd"
 ---
 

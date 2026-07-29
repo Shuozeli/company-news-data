@@ -7,7 +7,7 @@ source_id: "flagstar-bank-n-a-common-stock-rss-54152b4d27de"
 canonical_url: "https://ir.flagstar.com/news-and-events/news-releases/press-release-details/2026/FLAGSTAR-BANK-N-A--TO-PARTICIPATE-AT-THE-BARCLAYS-18TH-ANNUAL-AMERICAS-SELECT-CONFERENCE/default.aspx"
 published_at: "2026-04-28T12:30:00+00:00"
 first_seen_at: "2026-07-27T02:28:06.875488+00:00"
-fetched_at: "2026-07-28T23:51:48.531137+00:00"
+fetched_at: "2026-07-29T17:00:25.115868+00:00"
 content_hash: "sha256:81596c59286e4c7f3fd5470a4b039036bc6c011215a641d075a2e93fad06279c"
 ---
 

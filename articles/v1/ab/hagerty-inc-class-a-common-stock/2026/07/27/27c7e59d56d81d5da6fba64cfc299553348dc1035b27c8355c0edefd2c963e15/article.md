@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/toyota-may-already-be-prepping-a-hotter-version-of-the-gr-gt/"
 published_at: "2026-07-15T18:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:d59f84ff46b5bbb14e78fae43a28403bd38a86c6fa9c37ba6d9c07ec73f5bff9"
 ---
 

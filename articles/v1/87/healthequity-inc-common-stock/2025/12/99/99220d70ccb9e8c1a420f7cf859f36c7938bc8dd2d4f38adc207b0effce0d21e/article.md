@@ -7,7 +7,7 @@ source_id: "healthequity-inc-common-stock-rss-6283c6a40ed3"
 canonical_url: "https://ir.healthequity.com/news-releases/news-release-details/healthequity-reports-third-quarter-ended-october-31-2025"
 published_at: "2025-12-03T21:01:00+00:00"
 first_seen_at: "2026-07-25T07:53:28.852709+00:00"
-fetched_at: "2026-07-28T21:07:28.054456+00:00"
+fetched_at: "2026-07-29T07:13:01.523523+00:00"
 content_hash: "sha256:36a7c8bebe96782b3f5f14d849c74d47024a9bf6a4d4be4e12d98c52d309ac39"
 ---
 

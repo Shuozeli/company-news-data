@@ -7,7 +7,7 @@ source_id: "dick-s-sporting-goods-inc-common-stock-rss-de248d14cae7"
 canonical_url: "https://investors.dicks.com/news/news-details/2026/DICKS-EXPANDS-ITS-INVESTMENT-IN-WOMENS-SPORTS-WITH-COOKIE-JAR--A-DREAM-STUDIOS-LIFE-IN-THE-W-DOCUMENTARY-SERIES-ON-ESPN/default.aspx"
 published_at: "2026-07-20T17:24:00+00:00"
 first_seen_at: "2026-07-25T01:49:30.343356+00:00"
-fetched_at: "2026-07-28T23:09:14.310149+00:00"
+fetched_at: "2026-07-29T14:54:13.044553+00:00"
 content_hash: "sha256:478875cff72ff34adba3cc5c3dd8a510f32e2d33c15c237dcd7b4dda76542724"
 ---
 

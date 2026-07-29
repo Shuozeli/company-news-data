@@ -7,7 +7,7 @@ source_id: "yc-rappi-rss-63ff898fda0d"
 canonical_url: "https://engineering.rappi.com/b%C3%BAsqueda-eficiente-de-hiperpar%C3%A1metros-con-optuna-sklearn-para-xgboost-y-lightgbm-96805f1a48ed"
 published_at: "2022-08-26T14:53:49+00:00"
 first_seen_at: "2026-07-20T23:20:59.100260+00:00"
-fetched_at: "2026-07-28T22:17:04.847464+00:00"
+fetched_at: "2026-07-29T14:22:59.373532+00:00"
 content_hash: "sha256:d75eabfc772df65a644ba3b2f34f25941129c1c5cb860f22923b12a47119e127"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-infinity-news-import-cf26c849fe19"
 canonical_url: "https://www.infinityapp.in/blog/how-much-should-a-business-owner-invest-in-mutual-funds"
 published_at: "2024-08-22T00:00:00+00:00"
 first_seen_at: "2026-07-25T09:34:10.825678+00:00"
-fetched_at: "2026-07-28T11:32:33.369115+00:00"
+fetched_at: "2026-07-29T14:40:40.812323+00:00"
 content_hash: "sha256:1d4f727fe38a8c826e809f594857e5d6f7ac9a4a455f7efcd17d51b924bcfc7a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "riot-platforms-inc-common-stock-rss-31fdadf17010"
 canonical_url: "https://www.riotplatforms.com/riot-announces-fee-simple-acquisition-of-land-and-first-data-center-lease-with-amd-at-the-rockdale-site/"
 published_at: "2026-01-16T14:00:00+00:00"
 first_seen_at: "2026-07-24T13:19:46.152955+00:00"
-fetched_at: "2026-07-28T23:47:45.295382+00:00"
+fetched_at: "2026-07-29T15:40:56.903727+00:00"
 content_hash: "sha256:ba605082ae82948f35f34a5e58113ee4d708cbedf9bb99db30b56199a9668f12"
 ---
 

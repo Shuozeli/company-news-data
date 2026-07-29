@@ -7,7 +7,7 @@ source_id: "marten-transport-ltd-common-stock-rss-bcf18caba5a0"
 canonical_url: "https://www.marten.com/news/marten-named-an-elite-fleet/"
 published_at: "2025-04-15T14:45:04+00:00"
 first_seen_at: "2026-07-20T23:21:50.115287+00:00"
-fetched_at: "2026-07-28T23:21:51.721924+00:00"
+fetched_at: "2026-07-29T15:15:21.779856+00:00"
 content_hash: "sha256:18291a60dedfc24b77dba60b1ba8700627dce186726cbcf531caf83e298af2f3"
 ---
 

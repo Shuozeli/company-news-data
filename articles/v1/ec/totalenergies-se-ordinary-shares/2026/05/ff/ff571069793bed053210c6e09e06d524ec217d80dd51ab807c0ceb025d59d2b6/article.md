@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-va-baisser-le-prix-des-carburants-pour-les-week-ends-de-la-fete-des-meres-et-des-peres/"
 published_at: "2026-05-27T14:08:02+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-29T00:33:16.098879+00:00"
+fetched_at: "2026-07-29T13:59:20.653816+00:00"
 content_hash: "sha256:e3cb99e5a78400a826f9f0db435708ca1354a0269d7977db95a0ca4b733cb82a"
 ---
 

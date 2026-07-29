@@ -7,7 +7,7 @@ source_id: "bioceres-crop-solutions-corp-ordinary-shares-rss-bba452165c0b"
 canonical_url: "https://investors.biocerescrops.com/news/news-details/2025/Bioceres-Crop-Solutions-Announces-Changes-to-Board-of-Directors/default.aspx"
 published_at: "2025-06-20T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.497091+00:00"
-fetched_at: "2026-07-28T23:31:51.239149+00:00"
+fetched_at: "2026-07-29T15:29:36.233558+00:00"
 content_hash: "sha256:76273b8530bf55a2c626f4ab70ca6b0ef8e57e1e4110230d0f0bad9b9917daea"
 ---
 

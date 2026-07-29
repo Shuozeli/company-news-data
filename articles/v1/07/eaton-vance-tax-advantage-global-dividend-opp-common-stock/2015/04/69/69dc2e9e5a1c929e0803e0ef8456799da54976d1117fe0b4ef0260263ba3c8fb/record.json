@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "69dc2e9e5a1c929e0803e0ef8456799da54976d1117fe0b4ef0260263ba3c8fb",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/capital-power-corp-otcbb-cpxwf-declared-a-dividend-of-$0.7048-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/capital-power-corp-otcbb-cpxwf-declared-a-dividend-of-$0.7048-per-share/"
+  },
+  "title": "CPXWF Dividend Announcement $0.7048/Share 7/28/2026",
+  "summary": "OTCBB:CPXWF Capital Power Corp Dividend Announcement $0.7048 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.572410+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/69/69dc2e9e5a1c929e0803e0ef8456799da54976d1117fe0b4ef0260263ba3c8fb/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/69/69dc2e9e5a1c929e0803e0ef8456799da54976d1117fe0b4ef0260263ba3c8fb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2137,
+    "sha256": "sha256:b2361230653c1595f0fbec8236f242eb34e598e803d72f118ff8e81ed08bd6e7",
+    "normalized_content_hash": "sha256:0ba534e0a736b7bc4e26170340fa7d78a9baa84cb2990cf52c5671a8e6e59b48"
+  },
+  "provenance": {
+    "source_item_id": "dad5b8b4-9672-4753-af9c-9a146826a47e",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/capital-power-corp-otcbb-cpxwf-declared-a-dividend-of-$0.7048-per-share/"
+  }
+}

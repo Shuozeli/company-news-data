@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "13b460a666bf3f22286f19d9e1d7aeffcecdf3dd832eddc98a7c19b76e1ae0b4",
+      "company_key": "apple",
+      "company_name": "Apple",
+      "source_id": "apple-news-import-9ba92da28538",
+      "source_kind": "html",
+      "canonical_url": "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers",
+      "title": "Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers",
+      "summary": "Siri Expressive Voices synthesize rich, configurable speech in real time and entirely on device, powered by AFM 3 Core Advanced, Apple’s…",
+      "published_at": null,
+      "fetched_at": "2026-07-29T03:22:24.586686+00:00",
+      "article_path": "articles/v1/3a/apple/2026/07/13/13b460a666bf3f22286f19d9e1d7aeffcecdf3dd832eddc98a7c19b76e1ae0b4/article.md",
+      "record_path": "articles/v1/3a/apple/2026/07/13/13b460a666bf3f22286f19d9e1d7aeffcecdf3dd832eddc98a7c19b76e1ae0b4/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "0c4a4f87a21d15157bc95c1c625728841c68dda42652cf4d1d394be5c5ccf103",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T21:30:14.907341+00:00",
       "article_path": "articles/v1/3a/apple/2025/05/ce/ce1d76f8426480760639f204d4137b79086cf6eb3626f9861389d48a244c9e15/article.md",
       "record_path": "articles/v1/3a/apple/2025/05/ce/ce1d76f8426480760639f204d4137b79086cf6eb3626f9861389d48a244c9e15/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "01fa15a9bd938b6889dc43297b21d94a407c4a47d7fa5d96df0c34fb8c72acab",
-      "company_key": "apple",
-      "company_name": "Apple",
-      "source_id": "apple-news-import-b03a533acb22",
-      "source_kind": "html",
-      "canonical_url": "https://www.apple.com/newsroom/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/",
-      "title": "Meet four emerging filmmakers bending cultural and creative lines with iPhone 16 Pro Max",
-      "summary": "From a horror-comedy in Tamil to a magical romance in Malayalam, MAMI Select filmmakers are redefining cinema with iPhone 16 Pro Max.",
-      "published_at": "2025-04-15T00:00:00+00:00",
-      "fetched_at": "2026-07-28T21:30:42.971376+00:00",
-      "article_path": "articles/v1/3a/apple/2025/04/01/01fa15a9bd938b6889dc43297b21d94a407c4a47d7fa5d96df0c34fb8c72acab/article.md",
-      "record_path": "articles/v1/3a/apple/2025/04/01/01fa15a9bd938b6889dc43297b21d94a407c4a47d7fa5d96df0c34fb8c72acab/record.json"
     }
   ]
 }

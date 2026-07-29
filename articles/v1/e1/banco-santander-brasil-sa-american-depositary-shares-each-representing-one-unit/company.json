@@ -4,9 +4,9 @@
     "key": "banco-santander-brasil-sa-american-depositary-shares-each-representing-one-unit",
     "name": "Banco Santander Brasil SA American Depositary Shares each representing one unit"
   },
-  "record_count": 10,
+  "record_count": 11,
   "first_published_at": "2026-02-11T10:10:49+00:00",
-  "last_published_at": "2026-07-17T10:59:42+00:00",
+  "last_published_at": "2026-07-29T09:29:38+00:00",
   "partitions": [
     {
       "partition": "2026-02",
@@ -26,11 +26,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -38,10 +38,10 @@
       {
         "page": 1,
         "path": "articles/v1/e1/banco-santander-brasil-sa-american-depositary-shares-each-representing-one-unit/index/pages/000001.json",
-        "record_count": 10,
-        "byte_count": 16100,
-        "sha256": "sha256:476f84dd6673da3f4cb023563acd608779e0e83c2cad08d6949abd91ddfe9874",
-        "newest_at": "2026-07-17T10:59:42+00:00",
+        "record_count": 11,
+        "byte_count": 17591,
+        "sha256": "sha256:396af90f03059176242c979c550aa184576473a73110c50937c38f4cfa9e622d",
+        "newest_at": "2026-07-29T09:29:38+00:00",
         "oldest_at": "2026-02-11T10:10:49+00:00"
       }
     ]

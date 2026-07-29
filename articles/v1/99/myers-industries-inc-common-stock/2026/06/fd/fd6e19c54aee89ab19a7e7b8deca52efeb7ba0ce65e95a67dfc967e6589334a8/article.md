@@ -7,7 +7,7 @@ source_id: "myers-industries-inc-common-stock-rss-499aae5c2159"
 canonical_url: "https://investor.myersindustries.com/news/press-release-details/2026/Myers-Industries-Announces-Quarterly-Dividend-ce299d20e/default.aspx"
 published_at: "2026-06-03T20:30:00+00:00"
 first_seen_at: "2026-07-25T15:11:21.164937+00:00"
-fetched_at: "2026-07-28T23:46:19.710141+00:00"
+fetched_at: "2026-07-29T15:40:24.322119+00:00"
 content_hash: "sha256:e138e0d22fc59e728db1b690b060dab8cc1d243ef11c5c68bfeef10b1bf2ee57"
 ---
 

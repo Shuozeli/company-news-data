@@ -7,7 +7,7 @@ source_id: "great-elm-group-inc-common-stock-rss-afee43b60da9"
 canonical_url: "http://www.greatelmgroup.com/press-releases/press-release-details/2025/Great-Elm-Group-Reports-Fiscal-2025-Fourth-Quarterand-Full-Year-Financial-Results/default.aspx"
 published_at: "2025-09-02T20:25:00+00:00"
 first_seen_at: "2026-07-25T07:03:42.627230+00:00"
-fetched_at: "2026-07-29T00:10:33.504674+00:00"
+fetched_at: "2026-07-29T17:13:14.363919+00:00"
 content_hash: "sha256:e1801c220e58b23382001e46bde322eb2f19034f459719bc29915d38b964369b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "anheuser-busch-inbev-sa-sponsored-adr-belgium-news-import-a63806e940
 canonical_url: "https://www.anheuser-busch.com/newsroom/2025-brew-across-america-congressional-brewing-competition-brew-democracy-cup"
 published_at: "2026-01-14T02:00:00+00:00"
 first_seen_at: "2026-07-25T00:38:16.785338+00:00"
-fetched_at: "2026-07-28T17:56:40.627808+00:00"
+fetched_at: "2026-07-29T06:41:35.056141+00:00"
 content_hash: "sha256:7b28ffeff7223d2d41a04c615f5458520915fa050d9cc6d5b6f490170d664602"
 ---
 

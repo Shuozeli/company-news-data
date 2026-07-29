@@ -7,7 +7,7 @@ source_id: "aecom-common-stock-rss-06e0000d390a"
 canonical_url: "https://aecom.com/blog/where-movement-meets-place-a-conversation-with-kurt-ziegel/"
 published_at: "2026-05-18T13:54:09+00:00"
 first_seen_at: "2026-07-25T01:09:37.919036+00:00"
-fetched_at: "2026-07-28T23:46:17.625245+00:00"
+fetched_at: "2026-07-29T15:39:21.116498+00:00"
 content_hash: "sha256:d0ef0daffa930a64bfe368b8ef2d06c4454a03a13164200deea657787a779221"
 ---
 

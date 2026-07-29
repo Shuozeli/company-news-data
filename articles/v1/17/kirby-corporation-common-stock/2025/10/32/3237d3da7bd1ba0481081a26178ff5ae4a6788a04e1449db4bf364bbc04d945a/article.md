@@ -7,7 +7,7 @@ source_id: "kirby-corporation-common-stock-rss-26f1ed7fb77b"
 canonical_url: "https://kirbycorp.com/kirby-corporation-2025-third-quarter-earnings-conference-call/"
 published_at: "2025-10-28T13:30:48+00:00"
 first_seen_at: "2026-07-25T03:19:04.140546+00:00"
-fetched_at: "2026-07-28T23:26:07.668158+00:00"
+fetched_at: "2026-07-29T15:20:31.620603+00:00"
 content_hash: "sha256:9bbe781c6d096931af27359631baec8f54113bde3823c4629a3887ac419f4310"
 ---
 

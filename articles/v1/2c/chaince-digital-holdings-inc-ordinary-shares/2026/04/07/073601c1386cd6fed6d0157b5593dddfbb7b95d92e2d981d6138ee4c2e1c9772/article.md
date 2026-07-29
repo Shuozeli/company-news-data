@@ -7,7 +7,7 @@ source_id: "chaince-digital-holdings-inc-ordinary-shares-rss-3f461f105395"
 canonical_url: "https://chaincedigital.com/mercurity-fintechs-chaince-securities-announces-strategic-collaboration-with-ogbc-group-to-launch-digital-asset-treasury-fund-strategy-and-drive-u-s-capital-markets-fundraising-2/"
 published_at: "2026-04-13T23:11:18+00:00"
 first_seen_at: "2026-07-20T23:18:10.276107+00:00"
-fetched_at: "2026-07-28T22:17:20.039825+00:00"
+fetched_at: "2026-07-29T14:22:21.060654+00:00"
 content_hash: "sha256:67a515cc998acd60b5aeeb40bcf87f1df46e32992103f79ac79e2e7af435c6b3"
 ---
 

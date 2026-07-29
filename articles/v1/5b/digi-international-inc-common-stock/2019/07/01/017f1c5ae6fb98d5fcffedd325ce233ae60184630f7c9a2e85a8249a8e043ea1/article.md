@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2019/digi-to-release-third-fiscal-quarter-2019-results"
 published_at: "2019-07-03T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:c2d452d1c6cd0fe6755c9a015da029bba854267054831340c1d71e4c365dc7c5"
 ---
 

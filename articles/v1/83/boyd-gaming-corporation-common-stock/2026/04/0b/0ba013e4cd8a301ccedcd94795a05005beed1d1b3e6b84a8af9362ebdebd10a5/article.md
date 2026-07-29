@@ -7,7 +7,7 @@ source_id: "boyd-gaming-corporation-common-stock-rss-f22aba5248cd"
 canonical_url: "https://investors.boydgaming.com/2026-04-23-BOYD-GAMING-REPORTS-FIRST-QUARTER-2026-RESULTS"
 published_at: "2026-04-23T20:05:00+00:00"
 first_seen_at: "2026-07-20T03:33:16.827589+00:00"
-fetched_at: "2026-07-28T23:29:13.595220+00:00"
+fetched_at: "2026-07-29T15:24:31.593755+00:00"
 content_hash: "sha256:0221558cee3b42223b963aff9920354f7f8c760ab10d704a8fce202b8bf805ae"
 ---
 

@@ -5,10 +5,10 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html"
-published_at: "2026-07-28T23:15:54+00:00"
+published_at: "2026-07-29T00:26:11+00:00"
 first_seen_at: "2026-07-28T23:55:50.418024+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
-content_hash: "sha256:dafd5fca5d44b9ce59cd1455f672a820b495833de18c7b2b748a1f5d884348d3"
+fetched_at: "2026-07-29T09:49:52.392820+00:00"
+content_hash: "sha256:fdf7c49b7e71c26eec095ff6e6ebe68af2e2f0d4577fbc71fb59c488ff74572c"
 ---
 
 # Trump Asks Supreme Court to Overturn $83.3 Million Award in Carroll Defamation Case

@@ -7,7 +7,7 @@ source_id: "axos-financial-inc-common-stock-rss-752e4796f309"
 canonical_url: "https://investors.axosfinancial.com/news-events/press-releases/news-details/2026/Axos-Financial-Inc--to-Announce-Third-Quarter-Fiscal-2026-Results-on-April-30-2026/default.aspx"
 published_at: "2026-03-27T12:30:00+00:00"
 first_seen_at: "2026-07-26T23:21:51.360191+00:00"
-fetched_at: "2026-07-28T23:53:40.559338+00:00"
+fetched_at: "2026-07-29T17:07:10.957781+00:00"
 content_hash: "sha256:3e383d20738db5a5995302504b116cefc1420faefb1e3ed7f33749bb941bd2cc"
 ---
 

@@ -7,7 +7,7 @@ source_id: "grupo-aeromexico-s-a-b-de-c-v-american-depositary-shares-each-repres
 canonical_url: "https://ir.aeromexico.com/news-releases/news-release-details/aeromexico-june-2026-traffic-results"
 published_at: "2026-07-02T21:30:00+00:00"
 first_seen_at: "2026-07-25T07:12:21.745434+00:00"
-fetched_at: "2026-07-29T00:04:23.463151+00:00"
+fetched_at: "2026-07-29T17:08:40.409414+00:00"
 content_hash: "sha256:4dbde30b1bee4f88be94d26df7c4b11a67bc159f9923c72271133de41ad7ae8e"
 ---
 

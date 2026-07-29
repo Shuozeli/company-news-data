@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2021/digi-to-deliver-comprehensive-5g-enabled-solutions"
 published_at: "2021-04-28T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:e427ed3f289132cff6053f379503d995b498dc3fe65e1e50b4bf8ba2270fdd7d"
 ---
 

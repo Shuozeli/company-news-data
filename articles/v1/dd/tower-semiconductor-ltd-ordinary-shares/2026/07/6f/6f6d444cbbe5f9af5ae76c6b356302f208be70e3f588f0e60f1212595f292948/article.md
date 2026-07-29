@@ -7,7 +7,7 @@ source_id: "tower-semiconductor-ltd-ordinary-shares-rss-b1fd9c3c764d"
 canonical_url: "https://towersemi.com/2026/07/26/spie-defense-and-security-2027/"
 published_at: "2026-07-26T06:00:02+00:00"
 first_seen_at: "2026-07-26T06:42:06.519308+00:00"
-fetched_at: "2026-07-28T23:19:14.487032+00:00"
+fetched_at: "2026-07-29T15:12:40.938243+00:00"
 content_hash: "sha256:cb124d1aff909719f2a0a572b5460fe61d83874fa7caabd2becf0a2641d7aaa5"
 ---
 

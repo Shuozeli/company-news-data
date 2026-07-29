@@ -7,7 +7,7 @@ source_id: "unity-software-inc-common-stock-rss-726793b11211"
 canonical_url: "https://unity.com/blog/games/games-made-with-unity-december-2025-releases"
 published_at: "2026-01-02T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:37.442468+00:00"
-fetched_at: "2026-07-28T23:03:23.422750+00:00"
+fetched_at: "2026-07-29T14:40:36.124148+00:00"
 content_hash: "sha256:b46542b9c699fd16575af4b8f500de461f2cea2106205d8f611aab7454306cd3"
 ---
 

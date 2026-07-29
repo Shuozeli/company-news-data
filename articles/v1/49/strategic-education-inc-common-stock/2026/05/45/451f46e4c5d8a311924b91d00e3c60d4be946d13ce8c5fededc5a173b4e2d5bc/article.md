@@ -7,7 +7,7 @@ source_id: "strategic-education-inc-common-stock-rss-a3c36f4e146a"
 canonical_url: "https://sei.strategiceducation.com/resources/news/news-releases/sei-news-releases-details/2026/American-International-College-Partners-with-Sophia-Learning-to-Expand-Access-to-Education-for-Working-Adult-Learners/default.aspx"
 published_at: "2026-05-26T11:01:00+00:00"
 first_seen_at: "2026-07-26T00:29:55.466914+00:00"
-fetched_at: "2026-07-28T22:13:04.585439+00:00"
+fetched_at: "2026-07-29T14:21:34.627154+00:00"
 content_hash: "sha256:cb20da5b123b01012edf31a2dc30ff9849c5b7ea8361b84b105fef230a553ebc"
 ---
 

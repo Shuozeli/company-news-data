@@ -7,7 +7,7 @@ source_id: "yc-infinity-news-import-cf26c849fe19"
 canonical_url: "https://www.infinityapp.in/blog/4-myths-about-mutual-funds-startup-founders-should-be-aware-of"
 published_at: "2024-09-09T00:00:00+00:00"
 first_seen_at: "2026-07-25T09:34:10.825678+00:00"
-fetched_at: "2026-07-28T11:32:33.369115+00:00"
+fetched_at: "2026-07-29T14:40:40.812323+00:00"
 content_hash: "sha256:4b142207f1d8db8213315707a38ecfca1e42a6ec0987395b1580273ef8cdf859"
 ---
 

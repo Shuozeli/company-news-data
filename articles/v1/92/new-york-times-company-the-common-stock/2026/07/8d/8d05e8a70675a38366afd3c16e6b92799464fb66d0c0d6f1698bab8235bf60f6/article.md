@@ -5,12 +5,12 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html"
-published_at: "2026-07-28T23:25:12+00:00"
+published_at: "2026-07-29T00:59:08+00:00"
 first_seen_at: "2026-07-28T23:55:50.418024+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
-content_hash: "sha256:0448440a164766d09ea31ab060742c53c9f6715dfab1eaa3c794ad62618781dd"
+fetched_at: "2026-07-29T13:19:23.004190+00:00"
+content_hash: "sha256:820a342a9d92da33e66ba138c7d80a5c1caf031cfe4b5ccb1113a299b1a9f724"
 ---
 
 # Mark Zuckerberg Blasts Centralization of A.I. Power
 
-In an interview, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.”
+In an interview with The Times, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.”

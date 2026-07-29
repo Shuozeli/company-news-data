@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/construction-economics-may2026-cost-inputs"
 published_at: "2026-05-20T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T23:18:38.216278+00:00"
+fetched_at: "2026-07-29T15:07:27.395221+00:00"
 content_hash: "sha256:c27323e86bcb90830d83b2bc3b9f6781a485bf2cfa5f2c0bf4d99e04caabc3ad"
 ---
 

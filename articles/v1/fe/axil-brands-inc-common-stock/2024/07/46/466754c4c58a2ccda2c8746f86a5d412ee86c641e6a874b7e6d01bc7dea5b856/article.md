@@ -7,7 +7,7 @@ source_id: "axil-brands-inc-common-stock-atom-24fbf9c867e9"
 canonical_url: "https://goaxil.com/blogs/news/axil-announces-sales-representative-agreement-with-fuel-medical-group"
 published_at: "2024-07-31T12:00:05+00:00"
 first_seen_at: "2026-07-28T21:59:47.363205+00:00"
-fetched_at: "2026-07-29T00:38:47.787676+00:00"
+fetched_at: "2026-07-29T14:03:59.288657+00:00"
 content_hash: "sha256:54908e6d3f2a4636d54517857f2f8d7e5a13f4f5c08e3881bc3589e18d01131e"
 ---
 

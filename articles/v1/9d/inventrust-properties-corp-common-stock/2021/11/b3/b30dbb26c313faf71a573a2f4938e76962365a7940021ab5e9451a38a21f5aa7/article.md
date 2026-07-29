@@ -7,7 +7,7 @@ source_id: "inventrust-properties-corp-common-stock-rss-69554ea628a1"
 canonical_url: "https://inventrustproperties.q4ir.com/investor-relations/news/news-details/2021/InvenTrust-Properties-Corp.-Announces-Preliminary-Results-of-Dutch-Auction-Tender-Offer/default.aspx"
 published_at: "2021-11-09T14:07:00+00:00"
 first_seen_at: "2026-07-25T09:50:02.769299+00:00"
-fetched_at: "2026-07-28T22:58:19.726655+00:00"
+fetched_at: "2026-07-29T14:29:39.308674+00:00"
 content_hash: "sha256:0f1abad0d7444eaaedb770cdbbabec8d5c70779f78e7e1263bd49ed133c60a20"
 ---
 

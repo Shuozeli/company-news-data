@@ -7,7 +7,7 @@ source_id: "trio-tech-international-common-stock-rss-99f64778e8d5"
 canonical_url: "https://www.triotech.com/reliability-testing/"
 published_at: "2025-07-04T10:27:19+00:00"
 first_seen_at: "2026-07-25T01:07:54.066074+00:00"
-fetched_at: "2026-07-28T23:16:41.355776+00:00"
+fetched_at: "2026-07-29T15:06:17.629139+00:00"
 content_hash: "sha256:86e09996936fb82ff715e842a922e129aaa7273b19fc7095cdcf16cbfca360eb"
 ---
 

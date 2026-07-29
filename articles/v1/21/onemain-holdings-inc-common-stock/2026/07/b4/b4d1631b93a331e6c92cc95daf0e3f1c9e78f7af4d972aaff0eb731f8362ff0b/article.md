@@ -7,7 +7,7 @@ source_id: "onemain-holdings-inc-common-stock-rss-0e9371cba93c"
 canonical_url: "https://investor.onemainfinancial.com/files/doc_news/2026/Jul/Press-Release-OneMain-CW-Tech-Donation_EVV-BGC-2026.pdf"
 published_at: "2026-07-27T04:00:00+00:00"
 first_seen_at: "2026-07-27T21:51:15.647347+00:00"
-fetched_at: "2026-07-28T23:21:51.405041+00:00"
+fetched_at: "2026-07-29T15:15:18.494606+00:00"
 content_hash: "sha256:8f42bfdedf9469abd95b8f2cec7fc7d0fbc80497958a5875f660ff8c4dddd12e"
 ---
 

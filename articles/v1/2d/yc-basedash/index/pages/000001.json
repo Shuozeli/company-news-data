@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "83ceef9c87159dc5276f9ae84e67d6f82e619b5c57a12f08bb3838aab1a932ac",
+      "company_key": "yc-basedash",
+      "company_name": "Basedash",
+      "source_id": "yc-basedash-rss-86d6e075e8cf",
+      "source_kind": "rss",
+      "canonical_url": "https://www.basedash.com/blog/how-to-build-dashboards-on-clickhouse-data/",
+      "title": "How to build dashboards on ClickHouse data",
+      "summary": "How to build dashboards on ClickHouse: how to connect a BI tool, the FINAL gotcha that makes results wrong, materialized views vs raw tables, and when not to.",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "fetched_at": "2026-07-29T14:02:03.295268+00:00",
+      "article_path": "articles/v1/2d/yc-basedash/2026/07/83/83ceef9c87159dc5276f9ae84e67d6f82e619b5c57a12f08bb3838aab1a932ac/article.md",
+      "record_path": "articles/v1/2d/yc-basedash/2026/07/83/83ceef9c87159dc5276f9ae84e67d6f82e619b5c57a12f08bb3838aab1a932ac/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "50ff803d860bf042f15f927aad9fe1eccff045c508309afbfb6a63d37623ed44",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T21:10:52.268184+00:00",
       "article_path": "articles/v1/2d/yc-basedash/2026/06/54/54e204eba9c088b18daf011142b6092b08b2dcc21a8e12288f2b938c89df12fc/article.md",
       "record_path": "articles/v1/2d/yc-basedash/2026/06/54/54e204eba9c088b18daf011142b6092b08b2dcc21a8e12288f2b938c89df12fc/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "9034a36f27d10d5d915e72a5fe73e2412a1c6ceba4c0026df5749ba2d0859f8d",
-      "company_key": "yc-basedash",
-      "company_name": "Basedash",
-      "source_id": "yc-basedash-rss-86d6e075e8cf",
-      "source_kind": "rss",
-      "canonical_url": "https://www.basedash.com/blog/how-to-build-a-sql-dashboard-from-queries-to-a-dashboard-people-trust/",
-      "title": "How to build a SQL dashboard: from queries to a dashboard people trust",
-      "summary": "A practical workflow for building a SQL dashboard: connect a data source, write one query per tile, pick the right charts, add filters, and keep the numbers…",
-      "published_at": "2026-06-21T00:00:00+00:00",
-      "fetched_at": "2026-07-28T21:13:02.492982+00:00",
-      "article_path": "articles/v1/2d/yc-basedash/2026/06/90/9034a36f27d10d5d915e72a5fe73e2412a1c6ceba4c0026df5749ba2d0859f8d/article.md",
-      "record_path": "articles/v1/2d/yc-basedash/2026/06/90/9034a36f27d10d5d915e72a5fe73e2412a1c6ceba4c0026df5749ba2d0859f8d/record.json"
     }
   ]
 }

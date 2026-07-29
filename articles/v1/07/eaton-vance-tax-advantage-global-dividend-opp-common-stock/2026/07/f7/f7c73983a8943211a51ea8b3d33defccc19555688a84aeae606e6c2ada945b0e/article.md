@@ -7,7 +7,7 @@ source_id: "eaton-vance-tax-advantage-global-dividend-opp-common-stock-rss-22984
 canonical_url: "https://www.dividendinvestor.com/five-dividend-paying-stocks-to-purchase-despite-consumer-concerns/"
 published_at: "2026-07-25T01:46:13+00:00"
 first_seen_at: "2026-07-26T13:16:06.169537+00:00"
-fetched_at: "2026-07-28T22:17:18.236318+00:00"
+fetched_at: "2026-07-29T14:22:24.012703+00:00"
 content_hash: "sha256:5b0a561438ea3ac897c2e43ef5a63170fa9d91239b75c926da243cabcbdce14a"
 ---
 

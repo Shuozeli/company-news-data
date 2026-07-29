@@ -7,7 +7,7 @@ source_id: "wingstop-inc-common-stock-rss-7f135f859589"
 canonical_url: "https://ir.wingstop.com/memorial-day-weekend-just-got-more-flavorful-with-wingstops-new-1-per-wing-bundles/"
 published_at: "2026-05-22T21:35:28+00:00"
 first_seen_at: "2026-07-20T23:17:13.311245+00:00"
-fetched_at: "2026-07-28T23:58:14.897862+00:00"
+fetched_at: "2026-07-29T15:45:09.724440+00:00"
 content_hash: "sha256:ecd75c0b1e71c4612ad43a523d4bb2f2e87042396cd0c53e69e0e71519e8bf5d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-hires-andy-miner-as-senior-director-ai-for-corporate-commercial-banking"
 published_at: "2026-06-29T21:40:00+00:00"
 first_seen_at: "2026-07-20T04:36:20.180992+00:00"
-fetched_at: "2026-07-29T00:43:53.379763+00:00"
+fetched_at: "2026-07-29T14:07:10.673770+00:00"
 content_hash: "sha256:e9500998d053e568b939d6180f6a857e552c11d556bac21e97298dc658abd495"
 ---
 

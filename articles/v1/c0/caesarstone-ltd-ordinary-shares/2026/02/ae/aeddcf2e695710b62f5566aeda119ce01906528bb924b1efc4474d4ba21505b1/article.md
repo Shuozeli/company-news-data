@@ -7,7 +7,7 @@ source_id: "caesarstone-ltd-ordinary-shares-rss-6a376ed3cca3"
 canonical_url: "https://ir.caesarstone.com/news/news-details/2026/Caesarstone-Announces-Date-for-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-02-18T21:15:00+00:00"
 first_seen_at: "2026-07-27T00:20:27.001271+00:00"
-fetched_at: "2026-07-29T00:10:19.683080+00:00"
+fetched_at: "2026-07-29T17:13:00.517459+00:00"
 content_hash: "sha256:1205c753992be9673c93d52579a516ee939debdd40ed52561b6670aaabd08c04"
 ---
 

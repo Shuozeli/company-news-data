@@ -7,7 +7,7 @@ source_id: "yc-juicy-marbles-atom-7197f6bedd7e"
 canonical_url: "https://juicymarbles.com/blogs/blog/loving-animals-is-not-cool"
 published_at: "2025-03-10T13:59:04+00:00"
 first_seen_at: "2026-07-23T22:07:10.702607+00:00"
-fetched_at: "2026-07-28T23:00:30.420409+00:00"
+fetched_at: "2026-07-29T14:37:51.124070+00:00"
 content_hash: "sha256:5856d97ec0207ef17fc9e5b9bdfe7136f95906810e22574663691de7af42c57c"
 ---
 

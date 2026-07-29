@@ -4,9 +4,9 @@
     "key": "technipfmc-plc-ordinary-share",
     "name": "TechnipFMC plc Ordinary Share"
   },
-  "record_count": 550,
+  "record_count": 551,
   "first_published_at": "2015-08-04T01:00:00+00:00",
-  "last_published_at": "2026-07-28T09:15:00+00:00",
+  "last_published_at": "2026-07-29T08:00:00+00:00",
   "partitions": [
     {
       "partition": "2015-08",
@@ -482,112 +482,121 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 4
+      "record_count": 5
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
-    "page_count": 11,
+    "page_count": 12,
     "pages": [
       {
         "page": 1,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 53429,
-        "sha256": "sha256:f46323c30c10214833aa2e83b5166bb7b46c1df2406ffcee3c14094c14a7262b",
-        "newest_at": "2026-07-28T09:15:00+00:00",
-        "oldest_at": "2025-03-26T08:15:00+00:00"
+        "byte_count": 53422,
+        "sha256": "sha256:947cbb85a5c41b7fa79d37461d264543e677f0a00a412cecd0b6d73e5e068b7d",
+        "newest_at": "2026-07-29T08:00:00+00:00",
+        "oldest_at": "2025-04-22T09:15:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000002.json",
         "record_count": 50,
-        "byte_count": 53976,
-        "sha256": "sha256:3530d8df5d81168fb162e895406ca4518aef456f425a35aee366fcfd449368c7",
-        "newest_at": "2025-03-25T08:15:00+00:00",
-        "oldest_at": "2023-08-02T09:15:00+00:00"
+        "byte_count": 53998,
+        "sha256": "sha256:25a42c728b5a18cba1a6356b38e04ac953268d38424642af43ff0e6da3b791d7",
+        "newest_at": "2025-03-26T08:15:00+00:00",
+        "oldest_at": "2023-08-23T09:15:00+00:00"
       },
       {
         "page": 3,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000003.json",
         "record_count": 50,
-        "byte_count": 54283,
-        "sha256": "sha256:ef5b6c1857c03971266c661d15a805bdd0a35210ca46fc9cbaade2fe5183b1b7",
-        "newest_at": "2023-07-27T11:45:00+00:00",
-        "oldest_at": "2022-05-31T12:00:00+00:00"
+        "byte_count": 54260,
+        "sha256": "sha256:f641cb23dab58f48a90debc7a2568cddbaa282bde8412b9585725db55928b45f",
+        "newest_at": "2023-08-02T09:15:00+00:00",
+        "oldest_at": "2022-06-08T12:00:00+00:00"
       },
       {
         "page": 4,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000004.json",
         "record_count": 50,
-        "byte_count": 53883,
-        "sha256": "sha256:c15414e559a169952d0fbd645c4cdd09f275410cf837de0774c89e6077d0e4dd",
-        "newest_at": "2022-05-25T12:00:00+00:00",
-        "oldest_at": "2021-09-03T12:00:00+00:00"
+        "byte_count": 53920,
+        "sha256": "sha256:9bf1d0905432de35560744e70b93836353c1e735f8f83623c1ba14ea7eea7c26",
+        "newest_at": "2022-05-31T12:00:00+00:00",
+        "oldest_at": "2021-09-14T12:00:00+00:00"
       },
       {
         "page": 5,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000005.json",
         "record_count": 50,
-        "byte_count": 54251,
-        "sha256": "sha256:5b5551bc7f47e40e979f66d7c14d2acf2f408f144bdca919fae0a8fb50d49544",
-        "newest_at": "2021-09-02T12:00:00+00:00",
-        "oldest_at": "2021-02-08T12:00:00+00:00"
+        "byte_count": 54197,
+        "sha256": "sha256:07c55b47b7d6182a63359ac463a26a83a98f4dda5c9b29cd40d766416181c9f8",
+        "newest_at": "2021-09-03T12:00:00+00:00",
+        "oldest_at": "2021-02-09T12:00:00+00:00"
       },
       {
         "page": 6,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000006.json",
         "record_count": 50,
-        "byte_count": 54138,
-        "sha256": "sha256:04c6b0073844e7f5ab430770dcb0b9c4de32e15c8b82e694d74a2a941fce7018",
-        "newest_at": "2021-02-04T12:00:00+00:00",
-        "oldest_at": "2020-05-04T12:00:00+00:00"
+        "byte_count": 54276,
+        "sha256": "sha256:c38d45f541b101cd55a575bd9659bf6196fd139cb7b3d8016ee3e29253203d61",
+        "newest_at": "2021-02-08T12:00:00+00:00",
+        "oldest_at": "2020-05-05T02:46:00+00:00"
       },
       {
         "page": 7,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000007.json",
         "record_count": 50,
-        "byte_count": 53725,
-        "sha256": "sha256:88f85d3f6d69dcf3492122ee7b2a074702d194c19376e7a3740085146c47d15e",
-        "newest_at": "2020-05-04T06:48:00+00:00",
-        "oldest_at": "2019-07-24T12:00:00+00:00"
+        "byte_count": 53661,
+        "sha256": "sha256:5f1a4dba17791c97737e2857b83b09f037d72f96b6e90180c41bf9920d5033cf",
+        "newest_at": "2020-05-04T12:00:00+00:00",
+        "oldest_at": "2019-08-01T01:00:00+00:00"
       },
       {
         "page": 8,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000008.json",
         "record_count": 50,
-        "byte_count": 53197,
-        "sha256": "sha256:d9abf06e862d996836446e90d3643b17aaedca66efc18e179d59ce249a75d431",
-        "newest_at": "2019-07-23T12:00:00+00:00",
-        "oldest_at": "2019-02-18T12:00:00+00:00"
+        "byte_count": 53077,
+        "sha256": "sha256:020fe465c8e221870b57fb8a7d15ee2975ab5c6bb345357fb451ee6fc8713517",
+        "newest_at": "2019-07-24T12:00:00+00:00",
+        "oldest_at": "2019-02-19T12:00:00+00:00"
       },
       {
         "page": 9,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000009.json",
         "record_count": 50,
-        "byte_count": 53672,
-        "sha256": "sha256:60f6f167e5c914840a72ffe657e53cb60ab5e5fe1d068c01bd2929e34c8807b0",
-        "newest_at": "2019-02-13T12:00:00+00:00",
+        "byte_count": 53762,
+        "sha256": "sha256:aca5039090cb4467bc96dd919f60f39fdf6ecaa4be8663627372fb2e0cf290f2",
+        "newest_at": "2019-02-18T12:00:00+00:00",
         "oldest_at": "2018-06-06T12:00:00+00:00"
       },
       {
         "page": 10,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000010.json",
         "record_count": 50,
-        "byte_count": 53274,
-        "sha256": "sha256:c0a22c6d3d9c207691d7920be4e14c67dd08f9d9688be8e0ba48f96c7e4fda3f",
-        "newest_at": "2018-05-31T12:00:00+00:00",
-        "oldest_at": "2017-09-28T12:00:00+00:00"
+        "byte_count": 53230,
+        "sha256": "sha256:d37a96ce824489fa0967fc0f7ed4d184657348b1fe9d361e0a3725799dd5f403",
+        "newest_at": "2018-06-06T12:00:00+00:00",
+        "oldest_at": "2017-10-03T01:00:00+00:00"
       },
       {
         "page": 11,
         "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000011.json",
         "record_count": 50,
-        "byte_count": 54110,
-        "sha256": "sha256:7d8436499bed1ab212102146556d91951cde0b6ab862c027d6deb4ce1d4c65f3",
-        "newest_at": "2017-09-25T12:00:00+00:00",
+        "byte_count": 54190,
+        "sha256": "sha256:91028d5d9bf0a7e360fcea172046fcb8b2a28b0992a604741488ba5b5fe8ad43",
+        "newest_at": "2017-09-28T12:00:00+00:00",
+        "oldest_at": "2016-05-19T12:00:00+00:00"
+      },
+      {
+        "page": 12,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000012.json",
+        "record_count": 1,
+        "byte_count": 1190,
+        "sha256": "sha256:513717fe573a073fd50e110c6d3566eae4e5b60e4879de1a0d78e1f57dca2332",
+        "newest_at": "2015-08-04T01:00:00+00:00",
         "oldest_at": "2015-08-04T01:00:00+00:00"
       }
     ]

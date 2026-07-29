@@ -1,16 +1,18 @@
 {
-  "contract_version": "1.0.0",
+  "contract_version": "1.1.0",
   "dataset": "company-news-data",
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
-  "generated_at": "2026-07-29T00:51:47.844374+00:00",
-  "record_count": 114967,
-  "company_count": 6534,
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
+  "taxonomy_generation": "83bd6055b96820b3dd8f6fa97539b943d3197c82b1c831e656062b045fa8f956",
+  "generated_at": "2026-07-29T17:26:26.174551+00:00",
+  "record_count": 115681,
+  "company_count": 6524,
   "paths": {
     "head": "HEAD.json",
     "archive_manifest": "index/v1/current/manifest.json",
     "recent_manifest": "index/v1/current/recent/manifest.json",
     "company_directory_manifest": "index/v1/current/companies/manifest.json",
+    "category_directory_manifest": "index/v1/current/categories/manifest.json",
     "openapi": "openapi/openapi.json",
     "content_rights": "CONTENT_RIGHTS.md"
   }

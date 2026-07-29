@@ -7,7 +7,7 @@ source_id: "yc-pump-co-news-import-86a46b79533f"
 canonical_url: "https://www.pump.co/blog/amazon-ecr/"
 published_at: "2026-02-11T00:00:00+00:00"
 first_seen_at: "2026-07-25T20:15:23.871807+00:00"
-fetched_at: "2026-07-28T11:48:07.834159+00:00"
+fetched_at: "2026-07-29T14:52:31.762897+00:00"
 content_hash: "sha256:419790c83da4c33153c0ff34fcbcab0771b7036f554120684685d7b2c391db70"
 ---
 

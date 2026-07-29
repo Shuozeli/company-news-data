@@ -7,7 +7,7 @@ source_id: "inventrust-properties-corp-common-stock-rss-69554ea628a1"
 canonical_url: "https://inventrustproperties.q4ir.com/investor-relations/news/news-details/2021/InvenTrust-Properties-Corp.-Announces-Promotion-of-David-Heimberger-to-Chief-Investment-Officer/default.aspx"
 published_at: "2021-11-15T21:15:00+00:00"
 first_seen_at: "2026-07-25T09:50:02.769299+00:00"
-fetched_at: "2026-07-28T22:58:19.726655+00:00"
+fetched_at: "2026-07-29T14:29:39.308674+00:00"
 content_hash: "sha256:fcc19fc0c866c41df0f1ae1975e498a8ccb52da706cb90d9c673ab2e1aab343a"
 ---
 

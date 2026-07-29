@@ -7,7 +7,7 @@ source_id: "simpson-manufacturing-company-inc-common-stock-rss-37136d895a62"
 canonical_url: "https://ir.simpsonmfg.com/news/news-details/2026/SIMPSON-MANUFACTURING-CO--INC--ANNOUNCES-2025-FOURTH-QUARTER-AND-FULL-YEAR-FINANCIAL-RESULTS-PROVIDES-2026-OUTLOOK/default.aspx"
 published_at: "2026-02-09T21:15:00+00:00"
 first_seen_at: "2026-07-25T23:14:37.290492+00:00"
-fetched_at: "2026-07-28T23:36:33.273190+00:00"
+fetched_at: "2026-07-29T15:31:53.672629+00:00"
 content_hash: "sha256:6b2f5ba8f61816f539044cf38abd11be5c46f94759c4d0549902f7c78942a60c"
 ---
 

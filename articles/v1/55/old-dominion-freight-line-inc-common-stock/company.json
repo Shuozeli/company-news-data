@@ -4,9 +4,9 @@
     "key": "old-dominion-freight-line-inc-common-stock",
     "name": "Old Dominion Freight Line Inc. Common Stock"
   },
-  "record_count": 11,
+  "record_count": 12,
   "first_published_at": "2025-10-29T11:00:00+00:00",
-  "last_published_at": "2026-07-23T11:00:00+00:00",
+  "last_published_at": "2026-07-29T11:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-10",
@@ -42,11 +42,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -54,10 +54,10 @@
       {
         "page": 1,
         "path": "articles/v1/55/old-dominion-freight-line-inc-common-stock/index/pages/000001.json",
-        "record_count": 11,
-        "byte_count": 13662,
-        "sha256": "sha256:421b36de5ceb54da50c37872ef3ec87c012f31c3dbeec24d69efdfb9784b9c2c",
-        "newest_at": "2026-07-23T11:00:00+00:00",
+        "record_count": 12,
+        "byte_count": 14903,
+        "sha256": "sha256:ea12db28348b66d2ea158fa87647f819f1a4b32bf41799657b3f9f5bdd0d44a0",
+        "newest_at": "2026-07-29T11:00:00+00:00",
         "oldest_at": "2025-10-29T11:00:00+00:00"
       }
     ]

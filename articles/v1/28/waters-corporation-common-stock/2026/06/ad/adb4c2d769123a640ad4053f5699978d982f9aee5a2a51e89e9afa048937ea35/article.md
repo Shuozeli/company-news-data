@@ -7,7 +7,7 @@ source_id: "waters-corporation-common-stock-rss-4214e009fa6a"
 canonical_url: "https://ir.waters.com/News--Events/newsroom/news-details/2026/Waters-Introduces-Unrivaled-Sensitivity-and-Speed-to-Benchtop-HRMS-with-Xevo-MRT-P10-MS-Accelerating-Multiomics-Research/default.aspx"
 published_at: "2026-06-01T12:00:00+00:00"
 first_seen_at: "2026-07-26T05:11:09.878037+00:00"
-fetched_at: "2026-07-28T23:08:16.411580+00:00"
+fetched_at: "2026-07-29T14:50:03.613231+00:00"
 content_hash: "sha256:97bb7ea1c2aaa653f78d02deb53b905374c37f86af23e33424f70f6f4e8d29c0"
 ---
 

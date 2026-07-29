@@ -3,12 +3,12 @@ schema_version: "1.0.0"
 document_id: "f4c3e056ba1d9b02ba311ad4139dc5f9ca85594fa84b307e4aa07c1a1426d2d6"
 company_key: "yc-plexus"
 company: "Plexus"
-source_id: "yc-plexus-rss-cc1b87ea1133"
+source_id: "yc-plexus-rss-fd7a21fba0b1"
 canonical_url: "https://www.plexus.com/blog/turnkey-product-development/"
 published_at: "2026-07-01T19:21:12+00:00"
-first_seen_at: "2026-07-27T04:25:33.439043+00:00"
-fetched_at: "2026-07-28T20:47:42.945239+00:00"
-content_hash: "sha256:27cf35471b16576367406e452624c3e15cadced2d2b7a3e3db1ad0aff51f3dea"
+first_seen_at: "2026-07-29T01:55:45.554966+00:00"
+fetched_at: "2026-07-29T01:55:46.232948+00:00"
+content_hash: "sha256:3f2011dd49257322945cc58fac398ea37b905cafa513fccd0bf4a64fa40b0b6f"
 ---
 
 # Turnkey Product Development: Your De-Risked Path to Market
@@ -160,6 +160,18 @@ Contact our team today to learn how our design and development solutions can hel
 [Blogs](https://www.plexus.com/category/blog/)
 
 
+### Scaling AI Data Centers: Solving for 100kW Rack Densities
+
+
+8 min read
+
+
+-
+
+
+[Blogs](https://www.plexus.com/category/blog/)
+
+
 ### Engineering C-UAS Systems for Allied Defense
 
 
@@ -176,15 +188,3 @@ Contact our team today to learn how our design and development solutions can hel
 
 
 4 min read
-
-
--
-
-
-[Blogs](https://www.plexus.com/category/blog/)
-
-
-### The FPGA Advantage in Mission-Critical Design
-
-
-5 min read

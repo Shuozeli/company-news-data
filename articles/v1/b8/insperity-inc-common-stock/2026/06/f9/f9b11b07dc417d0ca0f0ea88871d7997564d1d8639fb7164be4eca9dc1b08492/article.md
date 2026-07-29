@@ -7,7 +7,7 @@ source_id: "insperity-inc-common-stock-rss-70d704854329"
 canonical_url: "https://www.insperity.com/blog/employee-career-path/"
 published_at: "2026-06-09T14:30:00+00:00"
 first_seen_at: "2026-07-27T06:19:13.921156+00:00"
-fetched_at: "2026-07-28T21:48:34.378179+00:00"
+fetched_at: "2026-07-29T10:05:45.558212+00:00"
 content_hash: "sha256:b892102922923ba1e600a16c501ec2f7c4956d4ea575ae71cb7b062769236007"
 ---
 

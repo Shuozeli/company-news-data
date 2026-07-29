@@ -7,7 +7,7 @@ source_id: "everus-construction-group-inc-common-stock-rss-6a863ba83559"
 canonical_url: "https://investors.everus.com/news/news-details/2026/Everus-Construction-Group-to-Hold-Fourth-Quarter-and-Full-Year-2025-Results-Webcast-Feb--25/default.aspx"
 published_at: "2026-01-28T21:30:00+00:00"
 first_seen_at: "2026-07-25T03:33:11.117425+00:00"
-fetched_at: "2026-07-28T23:52:33.428454+00:00"
+fetched_at: "2026-07-29T17:12:11.699036+00:00"
 content_hash: "sha256:96c640c7ec5acea5f6387baaaeaf2265d3af5fe9c398fee779e37572b39b7243"
 ---
 

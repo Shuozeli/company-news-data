@@ -7,7 +7,7 @@ source_id: "smart-sand-inc-common-stock-rss-1046bb579a6a"
 canonical_url: "https://ir.smartsand.com/2026-03-23-Smart-Sand,-Inc-to-Participate-in-the-Lytham-Partners-2026-Industrials-Basic-Materials-Investor-Summit-on-April-1,-2026"
 published_at: "2026-03-23T20:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:08.226751+00:00"
-fetched_at: "2026-07-29T00:07:22.437619+00:00"
+fetched_at: "2026-07-29T17:12:05.798746+00:00"
 content_hash: "sha256:ea598548f1655290ee2095fbd57748b42cd10304bcf274a3e5324705af25ec2a"
 ---
 

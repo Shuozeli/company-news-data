@@ -7,7 +7,7 @@ source_id: "performance-food-group-company-common-stock-rss-241193237c0b"
 canonical_url: "https://investors.pfgc.com/press-releases/press-release-details/2026/Performance-Food-Group-Company-Announces-Intention-to-offer-1-06-billion-of-Senior-Notes/default.aspx"
 published_at: "2026-02-09T12:20:00+00:00"
 first_seen_at: "2026-07-25T01:06:48.099064+00:00"
-fetched_at: "2026-07-28T23:22:39.625616+00:00"
+fetched_at: "2026-07-29T15:17:03.189773+00:00"
 content_hash: "sha256:b812efbac7cf0c62b8f180a95fb50bbdd196f6dcbfe6a6e95686059231bb75e5"
 ---
 

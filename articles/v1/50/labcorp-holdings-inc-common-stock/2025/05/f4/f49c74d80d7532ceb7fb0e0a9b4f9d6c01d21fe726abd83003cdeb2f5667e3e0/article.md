@@ -7,7 +7,7 @@ source_id: "labcorp-holdings-inc-common-stock-rss-dbaf16a720f9"
 canonical_url: "https://www.labcorp.com/biocompatibility-evaluation-implantable-medical-devices"
 published_at: "2025-05-14T16:51:10+00:00"
 first_seen_at: "2026-07-20T23:24:51.380106+00:00"
-fetched_at: "2026-07-28T22:57:44.599077+00:00"
+fetched_at: "2026-07-29T14:28:56.383035+00:00"
 content_hash: "sha256:d186ea43a9edeab2fdd8c503fd9e91b184cc203feeb4f6dee519ad17caf871b9"
 ---
 

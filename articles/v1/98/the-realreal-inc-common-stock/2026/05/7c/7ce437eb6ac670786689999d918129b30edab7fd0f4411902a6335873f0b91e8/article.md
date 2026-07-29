@@ -7,7 +7,7 @@ source_id: "the-realreal-inc-common-stock-rss-2f71ca5a7bf7"
 canonical_url: "https://investor.therealreal.com/news/news-details/2026/The-RealReal-Announces-First-Quarter-2026-Results-05-07-2026/default.aspx"
 published_at: "2026-05-07T04:00:00+00:00"
 first_seen_at: "2026-07-26T02:16:58.872962+00:00"
-fetched_at: "2026-07-28T22:57:54.283564+00:00"
+fetched_at: "2026-07-29T14:31:03.812958+00:00"
 content_hash: "sha256:d97d76251d9272065177bd6a74c36f6c78c8d6e237ee386d79d027b868aaf61d"
 ---
 

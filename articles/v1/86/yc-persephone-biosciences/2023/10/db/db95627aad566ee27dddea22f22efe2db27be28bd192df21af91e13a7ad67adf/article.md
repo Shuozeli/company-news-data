@@ -7,7 +7,7 @@ source_id: "yc-persephone-biosciences-rss-3e1d37532ea3"
 canonical_url: "https://www.persephonebiosciences.com/persephone-biosciences-and-ginkgo-bioworks-complete-reusable-bacteroides-anaerobic-engineering-toolkit/"
 published_at: "2023-10-17T17:39:02+00:00"
 first_seen_at: "2026-07-20T23:24:06.192520+00:00"
-fetched_at: "2026-07-28T23:25:55.741277+00:00"
+fetched_at: "2026-07-29T15:22:18.759194+00:00"
 content_hash: "sha256:7615f3cc3b25a1b915c883ff700305a73f1d6d31b02b2c1d12791ee2edf7c03b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "tenet-healthcare-corporation-common-stock-rss-40cdf8ca7df2"
 canonical_url: "https://investor.tenethealth.com/press-releases/press-release-details/2026/Tenet-to-Report-Its-Second-Quarter-2026-Results-on-July-24/default.aspx"
 published_at: "2026-06-22T12:00:00+00:00"
 first_seen_at: "2026-07-26T01:51:00.671470+00:00"
-fetched_at: "2026-07-28T23:33:42.012857+00:00"
+fetched_at: "2026-07-29T15:29:40.209995+00:00"
 content_hash: "sha256:77e96cbf37a2b10ff47a18e82ab36a245b3faddc441783f46dac404ffb31d298"
 ---
 

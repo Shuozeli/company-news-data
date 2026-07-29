@@ -7,7 +7,7 @@ source_id: "yc-players-lounge-news-import-68d148ea6bb2"
 canonical_url: "https://www.playerslounge.com/blog/ea-cancels-return-of-college-basketball-video-game"
 published_at: null
 first_seen_at: "2026-07-23T20:45:53.392710+00:00"
-fetched_at: "2026-07-28T15:09:19.351622+00:00"
+fetched_at: "2026-07-29T04:15:54.707542+00:00"
 content_hash: "sha256:b5bd97734f56d44f6693836044d252b166e2e8876c27657c666de14e72f64fe0"
 ---
 

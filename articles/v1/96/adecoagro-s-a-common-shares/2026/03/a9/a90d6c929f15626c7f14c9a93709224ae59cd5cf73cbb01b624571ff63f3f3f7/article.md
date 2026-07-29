@@ -7,7 +7,7 @@ source_id: "adecoagro-s-a-common-shares-rss-f13b21bc4c5a"
 canonical_url: "https://ir.adecoagro.com/2025-annual-report-and-annual-accounts/"
 published_at: "2026-03-20T16:42:36+00:00"
 first_seen_at: "2026-07-20T23:17:29.619489+00:00"
-fetched_at: "2026-07-28T23:53:16.307397+00:00"
+fetched_at: "2026-07-29T15:44:41.362097+00:00"
 content_hash: "sha256:f3216f82ec5cf713153678a807a4c414a8745d0701dfe9839572b43824c4022f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-juicy-marbles-atom-7197f6bedd7e"
 canonical_url: "https://juicymarbles.com/blogs/blog/all-meat-is-processed"
 published_at: "2025-03-10T13:59:03+00:00"
 first_seen_at: "2026-07-23T22:07:10.702607+00:00"
-fetched_at: "2026-07-28T23:00:30.420409+00:00"
+fetched_at: "2026-07-29T14:37:51.124070+00:00"
 content_hash: "sha256:d3d86e94f385a7c79d028fd3caf9610a0a292de277aad60a2a9189b552736bb1"
 ---
 

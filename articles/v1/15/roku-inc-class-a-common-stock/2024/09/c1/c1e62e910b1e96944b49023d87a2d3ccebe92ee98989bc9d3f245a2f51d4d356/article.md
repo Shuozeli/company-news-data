@@ -7,7 +7,7 @@ source_id: "roku-inc-class-a-common-stock-rss-7fd84d003d99"
 canonical_url: "https://engineering.roku.com/personalised-retrieval-for-typed-text-queries"
 published_at: "2024-09-13T12:42:25+00:00"
 first_seen_at: "2026-07-20T23:21:49.245762+00:00"
-fetched_at: "2026-07-28T23:19:32.883693+00:00"
+fetched_at: "2026-07-29T15:09:04.844369+00:00"
 content_hash: "sha256:f9947f4a6e60b9a3c7c62f010a6d2d475c811c127a4852e4f277aec1900223b5"
 ---
 

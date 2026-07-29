@@ -7,7 +7,7 @@ source_id: "yc-yemaachi-biotechnology-rss-52f865158616"
 canonical_url: "https://www.yemaachi.com/2026/05/29/https-oncodaily-com-pulse-emmanuella-amoako-2026/"
 published_at: "2026-05-29T10:42:25+00:00"
 first_seen_at: "2026-07-20T23:21:01.870758+00:00"
-fetched_at: "2026-07-28T22:54:11.978332+00:00"
+fetched_at: "2026-07-29T14:25:07.371111+00:00"
 content_hash: "sha256:f775ee3c3ad7e821b8363237f8e42eafc087479788e3ad8efde0ef4864005fa3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2026/Eaton-PCA-Expansion_Press%20Release_for-07-20-26.pdf"
 published_at: "2026-07-20T15:35:00+00:00"
 first_seen_at: "2026-07-23T16:17:47.777091+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:2de0e4f880bac24ea2b2167ba5e16896f36e925929fc9e21e831ff06b8a7ecc7"
 ---
 

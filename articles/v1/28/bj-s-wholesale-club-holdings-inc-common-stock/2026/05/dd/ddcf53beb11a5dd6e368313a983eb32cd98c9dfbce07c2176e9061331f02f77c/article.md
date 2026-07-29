@@ -7,7 +7,7 @@ source_id: "bj-s-wholesale-club-holdings-inc-common-stock-rss-dd25fd37e36b"
 canonical_url: "https://investors.bjs.com/press-releases/press-release-details/2026/BJs-Wholesale-Club-Receives-First-Time-Investment-Grade-Rating-from-Fitch/default.aspx"
 published_at: "2026-05-22T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:22.633439+00:00"
-fetched_at: "2026-07-28T23:52:43.781550+00:00"
+fetched_at: "2026-07-29T17:01:23.628661+00:00"
 content_hash: "sha256:b4a1470aec8070d679c6b3daeccd3d5334be0cd850fab5dddf0a94edfeb9827d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-cratejoy-news-import-dd12a64f4f7a"
 canonical_url: "https://www.cratejoy.com/blogs/box-insider/engaging-tweens-in-reading-through-teen-book-clubs-and-subscription-boxes"
 published_at: "2024-05-12T23:48:04+00:00"
 first_seen_at: "2026-07-21T15:17:11.835732+00:00"
-fetched_at: "2026-07-28T11:18:21.307540+00:00"
+fetched_at: "2026-07-29T14:27:14.696882+00:00"
 content_hash: "sha256:6691a6f9cf473ad84f898d7a2c0cc2e3f5f7fff9a1353d78b1a6908dd0fdd5e3"
 ---
 

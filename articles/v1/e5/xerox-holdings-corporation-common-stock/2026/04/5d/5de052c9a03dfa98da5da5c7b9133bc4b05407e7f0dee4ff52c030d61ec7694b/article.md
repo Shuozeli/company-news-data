@@ -7,7 +7,7 @@ source_id: "xerox-holdings-corporation-common-stock-rss-126393eca513"
 canonical_url: "https://www.news.xerox.com/news/xerox-releases-first-quarter-results-6919963"
 published_at: "2026-04-29T13:21:00+00:00"
 first_seen_at: "2026-07-20T23:23:01.926259+00:00"
-fetched_at: "2026-07-28T23:25:19.278650+00:00"
+fetched_at: "2026-07-29T15:20:02.666767+00:00"
 content_hash: "sha256:784902e47e11fd9df3f7454426c2a1aac91303ff877e0aa8f5d1864a999d4389"
 ---
 

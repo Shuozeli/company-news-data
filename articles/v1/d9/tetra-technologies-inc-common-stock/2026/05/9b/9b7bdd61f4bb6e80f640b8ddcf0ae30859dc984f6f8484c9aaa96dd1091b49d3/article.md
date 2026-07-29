@@ -7,7 +7,7 @@ source_id: "tetra-technologies-inc-common-stock-rss-9ed6ad8d1054"
 canonical_url: "https://ir.onetetra.com/news/news-details/2026/TETRA-TECHNOLOGIES-INC--BOARD-OF-DIRECTORS-APPROVES-FINAL-INVESTMENT-DECISION-FOR-ARKANSAS-BROMINE-PRODUCTION-FACILITY/default.aspx"
 published_at: "2026-05-28T21:30:00+00:00"
 first_seen_at: "2026-07-27T06:02:55.571459+00:00"
-fetched_at: "2026-07-28T23:27:17.864487+00:00"
+fetched_at: "2026-07-29T15:23:38.774406+00:00"
 content_hash: "sha256:a4d70a95cbbd2985982eaf0cf28ab645aac2c1a8e7c17845bfc0e4e0d1cbee0f"
 ---
 

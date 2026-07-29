@@ -7,7 +7,7 @@ source_id: "brillia-inc-class-a-ordinary-shares-rss-cb6eb7b84839"
 canonical_url: "https://brilliaincorporated.com/news/news-details/2025/BrilliA-Announces-15-Percent-Revenue-Growth-Earnings-of-2-8-Million-for-Year-Ended-March-31-2025/default.aspx"
 published_at: "2025-07-22T04:00:00+00:00"
 first_seen_at: "2026-07-27T00:06:03.377497+00:00"
-fetched_at: "2026-07-28T23:43:48.749550+00:00"
+fetched_at: "2026-07-29T15:38:02.159736+00:00"
 content_hash: "sha256:fa1885451fdc21a48db122589069154ffd3874d23e34355fa7810e8d790f4f31"
 ---
 

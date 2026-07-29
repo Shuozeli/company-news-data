@@ -7,7 +7,7 @@ source_id: "helen-of-troy-limited-common-stock-rss-828c87400604"
 canonical_url: "https://investor.helenoftroy.com/press-releases/press-release-details/2026/Helen-of-Troy-Reports-Fourth-Quarter-Fiscal-2026-Results/default.aspx"
 published_at: "2026-04-23T10:45:00+00:00"
 first_seen_at: "2026-07-25T07:53:28.497791+00:00"
-fetched_at: "2026-07-28T23:46:26.812439+00:00"
+fetched_at: "2026-07-29T15:41:33.733030+00:00"
 content_hash: "sha256:e386621857200a241104208a629fbf11f26a5b715d96defd4e82703a3020a463"
 ---
 

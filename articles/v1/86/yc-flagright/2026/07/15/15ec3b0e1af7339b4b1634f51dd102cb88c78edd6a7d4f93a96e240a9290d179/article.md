@@ -7,7 +7,7 @@ source_id: "yc-flagright-news-import-ace9cee3e95e"
 canonical_url: "https://www.flagright.com/post/track-fraud-with-device-intelligence"
 published_at: "2026-07-21T00:00:00+00:00"
 first_seen_at: "2026-07-25T05:15:45.844172+00:00"
-fetched_at: "2026-07-27T08:00:34.444438+00:00"
+fetched_at: "2026-07-29T05:13:09.711822+00:00"
 content_hash: "sha256:768bfd9f7f5131fa682d26a375a5657172620015521f972c1e5cbbfd2b3d5e72"
 ---
 

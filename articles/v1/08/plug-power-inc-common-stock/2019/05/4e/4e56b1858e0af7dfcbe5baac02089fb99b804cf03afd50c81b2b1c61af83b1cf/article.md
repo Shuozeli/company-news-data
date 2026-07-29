@@ -7,7 +7,7 @@ source_id: "plug-power-inc-common-stock-rss-15e242ac1693"
 canonical_url: "https://www.plugpower.com/blog/congratulations-mitch-walmarts-fuel-cell-pioneer/"
 published_at: "2019-05-17T14:56:20+00:00"
 first_seen_at: "2026-07-20T03:31:30.208255+00:00"
-fetched_at: "2026-07-29T00:40:06.818792+00:00"
+fetched_at: "2026-07-29T14:03:31.186117+00:00"
 content_hash: "sha256:e365f384b4360d10f7bd6424779880e102216d22e12f7710475bd2b4c7c8fb3d"
 ---
 

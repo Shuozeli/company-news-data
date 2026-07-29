@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-expands-power-portfolio-with-new-compact-desktop-ups-for-personal-computing-gaming-and-networking-devices/redirect-only--battery-backup/"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T23:23:56.894710+00:00"
+fetched_at: "2026-07-29T15:18:57.174384+00:00"
 content_hash: "sha256:0b26dd890d0b7cfa77597cd23ae9695f33a5659fb9af50daa9375df6d68bc5ce"
 ---
 

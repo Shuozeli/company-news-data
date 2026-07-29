@@ -7,7 +7,7 @@ source_id: "four-seasons-education-cayman-inc-american-depositary-shares-each-ad
 canonical_url: "https://ir.sijiedu.com/2025-12-02-Four-Seasons-Education-Reports-First-Half-of-Fiscal-Year-2026-Unaudited-Financial-Results"
 published_at: "2025-12-02T10:45:00+00:00"
 first_seen_at: "2026-07-27T02:35:10.746439+00:00"
-fetched_at: "2026-07-29T00:51:28.801007+00:00"
+fetched_at: "2026-07-29T14:21:20.648009+00:00"
 content_hash: "sha256:e0f54c2ca884725f2c796d56184e3e0b66626f7430bfd77febdac17ca31391af"
 ---
 

@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:33:41.699737+00:00"
 content_hash: "sha256:80a91e7a0d4ba8571fa5c67746cb972d81eb8c37838204dcea7c637c52b8826b"
 ---
 
-# Select Balanced Dataset with Cohort Creation, and New Annotation Tools!
+# Select balanced dataset with cohort creation, and new annotation tools!
 
 # Select balanced dataset with cohort creation, and new annotation tools!
 

@@ -7,7 +7,7 @@ source_id: "actinium-pharmaceuticals-inc-delaware-common-stock-rss-6be2b0c295db"
 canonical_url: "https://ir.actiniumpharma.com/news/detail/505/actinium-presents-data-supporting-paradigm-changing-potential-of-atnm-400-in-prostate-cancer-demonstrating-its-superior-efficacy-and-improved-survival-in-treatment-resistant-tumor-models-versus-pluvicto-and-arpi-therapy-and-also-enhanced-efficacy-in-combination-with-arpi-therapy-at-the-4th-annual-targeted-radiopharmaceuticals-summit"
 published_at: "2025-07-31T12:30:00+00:00"
 first_seen_at: "2026-07-24T14:15:59.355691+00:00"
-fetched_at: "2026-07-28T23:34:30.818831+00:00"
+fetched_at: "2026-07-29T15:31:15.280058+00:00"
 content_hash: "sha256:49ec27cedb409f0853dc0587dd3ee6b28aaad4271ee431d17da54a3c69cea734"
 ---
 

@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-appoints-brianna-elsass-as-chief-digital-officer"
 published_at: "2026-07-27T20:03:00+00:00"
 first_seen_at: "2026-07-28T14:21:55.597118+00:00"
-fetched_at: "2026-07-29T00:43:53.379763+00:00"
+fetched_at: "2026-07-29T14:07:10.673770+00:00"
 content_hash: "sha256:39e4e9ecdcb3f54fea42a5036875c3d66396795c50d199745c0b1e99a2696498"
 ---
 

@@ -7,7 +7,7 @@ source_id: "unitil-corporation-common-stock-rss-b52a37baddee"
 canonical_url: "https://unitil.com/for-businesses"
 published_at: "2020-12-15T15:12:57+00:00"
 first_seen_at: "2026-07-20T23:22:29.081518+00:00"
-fetched_at: "2026-07-28T23:09:53.129731+00:00"
+fetched_at: "2026-07-29T14:54:27.784164+00:00"
 content_hash: "sha256:a5ff657bf5c38ea36c1058e0c87a29e010cd9bb16c6c8183fc0f2070b60f6865"
 ---
 

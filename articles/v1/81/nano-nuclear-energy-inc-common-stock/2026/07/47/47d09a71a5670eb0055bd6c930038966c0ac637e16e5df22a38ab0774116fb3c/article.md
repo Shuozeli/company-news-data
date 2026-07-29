@@ -7,7 +7,7 @@ source_id: "nano-nuclear-energy-inc-common-stock-rss-37f535d5108a"
 canonical_url: "https://nanonuclearenergy.com/nano-nuclear-energy-joins-virginia-nuclear-energy-consortium-to-advance-nuclear-innovation-and-support-the-commonwealths-growing-energy-requirements/"
 published_at: "2026-07-17T13:34:37+00:00"
 first_seen_at: "2026-07-24T11:57:10.338713+00:00"
-fetched_at: "2026-07-28T23:04:07.289571+00:00"
+fetched_at: "2026-07-29T14:41:55.212067+00:00"
 content_hash: "sha256:822552bd7f9ec3c80920a87d84f35b8a3f0fc94a9e9dcae55e6c01d808b642d2"
 ---
 

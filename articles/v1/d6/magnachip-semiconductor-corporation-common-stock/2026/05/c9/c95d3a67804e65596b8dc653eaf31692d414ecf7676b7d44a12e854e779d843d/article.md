@@ -7,7 +7,7 @@ source_id: "magnachip-semiconductor-corporation-common-stock-rss-29ac0c68db0c"
 canonical_url: "https://www.magnachip.com/qr-code-3/"
 published_at: "2026-05-27T23:08:21+00:00"
 first_seen_at: "2026-07-24T10:23:13.131661+00:00"
-fetched_at: "2026-07-28T23:48:20.909697+00:00"
+fetched_at: "2026-07-29T15:43:10.525003+00:00"
 content_hash: "sha256:46f7d4a3a5cbf2a23960e553752188fe0e9c69b913f75e29f0789f101472c1ac"
 ---
 

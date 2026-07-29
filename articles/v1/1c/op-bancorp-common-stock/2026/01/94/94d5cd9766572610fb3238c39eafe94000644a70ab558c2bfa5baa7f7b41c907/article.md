@@ -7,7 +7,7 @@ source_id: "op-bancorp-common-stock-rss-23efaa764f2f"
 canonical_url: "https://opbancorp.q4ir.com/news/news-details/2026/OP-Bancorp-Reports-Fourth-Quarter-2025-Net-Income-of-7-1-Million-Diluted-EPS-of-0-47/default.aspx"
 published_at: "2026-01-22T21:30:00+00:00"
 first_seen_at: "2026-07-27T04:07:26.460307+00:00"
-fetched_at: "2026-07-28T22:57:39.777871+00:00"
+fetched_at: "2026-07-29T14:29:07.250840+00:00"
 content_hash: "sha256:e0b7c4b3f200d851800b9fbca1a129d70c0e975790fdcef823473210b89fb480"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2016/how-to-meet-critical-infrastructure-requirements-w"
 published_at: "2016-02-03T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:8e9d7ca13661c38b5f23228800920af137c470b11f4b6cd528a2a6b8ed8c6956"
 ---
 

@@ -7,7 +7,7 @@ source_id: "revolve-group-inc-class-a-common-stock-rss-da3bb9d2eaef"
 canonical_url: "https://investors.revolve.com/news/news-details/2026/REVOLVE-Group-Inc--Introduces-REVOLVE-Los-Angeles-a-Next-Generation-Fashion-House-More-than-20-Years-in-the-Making/default.aspx"
 published_at: "2026-03-04T14:00:00+00:00"
 first_seen_at: "2026-07-25T21:21:37.624140+00:00"
-fetched_at: "2026-07-28T23:41:29.506698+00:00"
+fetched_at: "2026-07-29T15:34:39.966505+00:00"
 content_hash: "sha256:0304bdc9ade945cad27913431d9511debe46e5517cf3a4ab41a44ae2bb2a2821"
 ---
 

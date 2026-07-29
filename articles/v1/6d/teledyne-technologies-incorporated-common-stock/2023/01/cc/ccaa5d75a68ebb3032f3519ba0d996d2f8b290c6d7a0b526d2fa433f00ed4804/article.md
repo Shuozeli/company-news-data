@@ -7,7 +7,7 @@ source_id: "teledyne-technologies-incorporated-common-stock-rss-9000605d05af"
 canonical_url: "https://blog.teledynelecroy.com/2023/01/signal-return-paths-signal-and-power.html"
 published_at: "2023-01-16T13:00:00+00:00"
 first_seen_at: "2026-07-20T04:36:13.437201+00:00"
-fetched_at: "2026-07-28T23:46:25.634618+00:00"
+fetched_at: "2026-07-29T15:39:33.510429+00:00"
 content_hash: "sha256:6b107c08a50f481e84df9114254356d80da56f83402e3f4f6e3020e8ee76ba1b"
 ---
 

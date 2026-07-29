@@ -4,9 +4,9 @@
     "key": "zillow-group-inc-class-c-capital-stock",
     "name": "Zillow Group Inc. Class C Capital Stock"
   },
-  "record_count": 12,
+  "record_count": 13,
   "first_published_at": "2026-03-17T13:00:00+00:00",
-  "last_published_at": "2026-07-23T12:00:00+00:00",
+  "last_published_at": "2026-07-29T12:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-03",
@@ -26,11 +26,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 6
+      "record_count": 7
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -38,10 +38,10 @@
       {
         "page": 1,
         "path": "articles/v1/1b/zillow-group-inc-class-c-capital-stock/index/pages/000001.json",
-        "record_count": 12,
-        "byte_count": 12962,
-        "sha256": "sha256:8ac3367ddb40a7e46e5fdb66d2c99afd5350c7f7e0080bf163b3e6917d4f36f9",
-        "newest_at": "2026-07-23T12:00:00+00:00",
+        "record_count": 13,
+        "byte_count": 14065,
+        "sha256": "sha256:83521af4a2f61a555a08e3fd6dcbce2687c4d6ef3982aa1bfd2f7dc2e35c0387",
+        "newest_at": "2026-07-29T12:00:00+00:00",
         "oldest_at": "2026-03-17T13:00:00+00:00"
       }
     ]

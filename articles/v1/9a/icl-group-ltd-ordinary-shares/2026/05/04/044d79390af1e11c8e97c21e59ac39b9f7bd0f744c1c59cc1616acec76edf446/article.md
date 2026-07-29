@@ -7,7 +7,7 @@ source_id: "icl-group-ltd-ordinary-shares-rss-1319d6d0e2f1"
 canonical_url: "https://investors.icl-group.com/reports-news-and-events/press-releases/press-releases-details/2026/ICL-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-13T06:22:00+00:00"
 first_seen_at: "2026-07-28T23:02:56.552705+00:00"
-fetched_at: "2026-07-28T23:02:56.502587+00:00"
+fetched_at: "2026-07-29T14:39:30.358461+00:00"
 content_hash: "sha256:30fdce1697dd7fbb9af6085e4540f0ef4846cdcdcdc08605c5ba26dcbdf26aa5"
 ---
 

@@ -7,7 +7,7 @@ source_id: "first-seacoast-bancorp-inc-common-stock-rss-90406ee7d062"
 canonical_url: "https://ir.firstseacoastbank.com/news/news-details/2024/First-Seacoast-Bancorp-Inc.-Authorizes-Stock-Repurchase-Program/default.aspx"
 published_at: "2024-04-11T20:30:00+00:00"
 first_seen_at: "2026-07-25T05:00:25.931486+00:00"
-fetched_at: "2026-07-29T00:17:10.451483+00:00"
+fetched_at: "2026-07-29T17:18:57.364833+00:00"
 content_hash: "sha256:01be09e3e938c47689e5162b14d41c6128ed97573dd0c8576fc0072fee5be837"
 ---
 

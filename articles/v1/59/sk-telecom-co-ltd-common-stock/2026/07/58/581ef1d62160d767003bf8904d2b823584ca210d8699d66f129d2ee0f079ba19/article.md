@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:35:55.789196+00:00"
 content_hash: "sha256:8c391dbaf9dd40da43fa50d07bd02980ee619e2a25284ee6feb17a0494ce9061"
 ---
 
-# SK Telecom Leads Global Technical Standardization for Physical AI
+# SK Telecom Unveils A.X K2,Driving AI Adoption in Industry and Daily Life
 
 ## content area
 

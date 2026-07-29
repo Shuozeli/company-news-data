@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2020/digital-health-screening-bolster-employee-safety"
 published_at: "2020-05-13T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:dbdc1816da7e24d2503fa03c040ddba82d3029900244a1b55362f370e38beeb6"
 ---
 

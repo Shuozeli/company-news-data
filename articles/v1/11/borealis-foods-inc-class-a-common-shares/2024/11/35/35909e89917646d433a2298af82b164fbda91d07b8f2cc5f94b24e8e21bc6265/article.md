@@ -7,7 +7,7 @@ source_id: "borealis-foods-inc-class-a-common-shares-rss-fd4c56f1a486"
 canonical_url: "https://investors.borealisfoods.com/news/news-details/2024/Borealis-Foods-to-exclusively-produce-a-leading-global-Ramen-brand-for-Major-Multinational-Food-Company-in-its-US-factory/default.aspx"
 published_at: "2024-11-13T19:57:00+00:00"
 first_seen_at: "2026-07-26T10:49:50.477759+00:00"
-fetched_at: "2026-07-29T00:49:17.833006+00:00"
+fetched_at: "2026-07-29T14:19:04.340103+00:00"
 content_hash: "sha256:a2c43df7763c3486c5e5337fdba26c16b58a0d038bfbb47365a6c7bb43a5d01a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-sunfarmer-rss-1f8e1553caad"
 canonical_url: "https://www.virgin.com/virgin-unite/energy-access-delivering-affordable-solar-energy-hungry-nepal"
 published_at: "2016-10-14T17:37:41+00:00"
 first_seen_at: "2026-07-24T02:43:22.011384+00:00"
-fetched_at: "2026-07-29T00:50:10.433723+00:00"
+fetched_at: "2026-07-29T14:19:18.321148+00:00"
 content_hash: "sha256:eaffaaadabb7af02647b937d38c4101f3aa1f995c18d870c03d6b4c58b676c44"
 ---
 

@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/during-the-french-road-cycling-championship-we-came-to-support-at-teamtotalenergies-heres-a-recap-on-how-the-day-went/"
 published_at: "2025-06-30T10:08:10+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T23:24:39.102238+00:00"
+fetched_at: "2026-07-29T15:20:19.764825+00:00"
 content_hash: "sha256:a698f1f506acba6fadb19636a72b3485c8c8011e93a412068a5bd887e60e6676"
 ---
 

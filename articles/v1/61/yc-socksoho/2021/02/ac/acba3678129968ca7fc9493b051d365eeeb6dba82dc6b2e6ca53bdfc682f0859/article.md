@@ -7,7 +7,7 @@ source_id: "yc-socksoho-atom-d805c5109efe"
 canonical_url: "https://socksoho.com/blogs/news/buy-happy-socks-for-men"
 published_at: "2021-02-23T13:19:07+00:00"
 first_seen_at: "2026-07-24T01:53:15.412166+00:00"
-fetched_at: "2026-07-29T00:30:39.919325+00:00"
+fetched_at: "2026-07-29T13:57:36.761307+00:00"
 content_hash: "sha256:cf28f25d4366a6d5ff20de64a611a70b768b7c569af5dfffe5b587ef315b07b6"
 ---
 

@@ -7,7 +7,7 @@ source_id: "csx-corporation-common-stock-rss-75032840f4ad"
 canonical_url: "https://investors.csx.com/news-and-events/news/news-details/2026/CSX-Corp--Announces-Second-Quarter-2026-Results/default.aspx"
 published_at: "2026-07-22T20:02:00+00:00"
 first_seen_at: "2026-07-25T01:47:55.378538+00:00"
-fetched_at: "2026-07-28T23:05:58.407801+00:00"
+fetched_at: "2026-07-29T14:46:40.876228+00:00"
 content_hash: "sha256:9ccba4d329bf18fa9cd2440bf61be61cf127b35f7a4504051a891eb9028cf4f0"
 ---
 

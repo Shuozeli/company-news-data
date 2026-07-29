@@ -7,7 +7,7 @@ source_id: "claros-mortgage-trust-inc-common-stock-rss-9c43230d4b0c"
 canonical_url: "https://www.clarosmortgage.com/news/news-details/2026/Claros-Mortgage-Trust-Inc--Announces-500-Million-Secured-Term-Loan-Credit-Facility/default.aspx"
 published_at: "2026-02-02T13:31:00+00:00"
 first_seen_at: "2026-07-27T00:55:26.690644+00:00"
-fetched_at: "2026-07-28T23:48:21.566861+00:00"
+fetched_at: "2026-07-29T15:42:02.171638+00:00"
 content_hash: "sha256:9c855a82efdcfb9a7890469753a73d502b132b1e56714ceafc68f3c717af1d64"
 ---
 

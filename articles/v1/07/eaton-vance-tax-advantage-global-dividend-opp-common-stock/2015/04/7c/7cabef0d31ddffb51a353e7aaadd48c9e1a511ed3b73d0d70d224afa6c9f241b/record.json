@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7cabef0d31ddffb51a353e7aaadd48c9e1a511ed3b73d0d70d224afa6c9f241b",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/centerra-gold-inc-nyse-cgau-declared-a-dividend-of-$0.0700-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/centerra-gold-inc-nyse-cgau-declared-a-dividend-of-$0.0700-per-share/"
+  },
+  "title": "CGAU Dividend Announcement $0.0700/Share 7/28/2026",
+  "summary": "NYSE:CGAU Centerra Gold Inc Dividend Announcement $0.0700 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.588184+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/7c/7cabef0d31ddffb51a353e7aaadd48c9e1a511ed3b73d0d70d224afa6c9f241b/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/7c/7cabef0d31ddffb51a353e7aaadd48c9e1a511ed3b73d0d70d224afa6c9f241b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1647,
+    "sha256": "sha256:9cee40d0277df20b66622b7dfb7c98981234492f2b33b40a19f96cdcb93af968",
+    "normalized_content_hash": "sha256:47299aab612414e0b29215c4d26e2b3edb642a08a9928a7e78e908f389d9d59d"
+  },
+  "provenance": {
+    "source_item_id": "34af5cee-2a36-4e31-962f-0f4bdd414b4c",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/centerra-gold-inc-nyse-cgau-declared-a-dividend-of-$0.0700-per-share/"
+  }
+}

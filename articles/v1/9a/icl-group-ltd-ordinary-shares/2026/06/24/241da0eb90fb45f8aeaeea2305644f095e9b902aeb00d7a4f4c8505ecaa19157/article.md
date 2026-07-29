@@ -7,7 +7,7 @@ source_id: "icl-group-ltd-ordinary-shares-rss-1319d6d0e2f1"
 canonical_url: "https://investors.icl-group.com/reports-news-and-events/press-releases/press-releases-details/2026/ICL-Group-Announces-Completion-of-Senior-Notes-Offering/default.aspx"
 published_at: "2026-06-16T15:50:00+00:00"
 first_seen_at: "2026-07-28T23:02:56.552705+00:00"
-fetched_at: "2026-07-28T23:02:56.502587+00:00"
+fetched_at: "2026-07-29T14:39:30.358461+00:00"
 content_hash: "sha256:d7d76356c7c018ba39227573701eda9f4e653cfcfb092db57ab645b1252d33bc"
 ---
 

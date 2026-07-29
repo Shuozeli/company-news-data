@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/buzz-buzz-dodge-teases-the-return-of-the-super-bee/"
 published_at: "2026-07-28T19:30:00+00:00"
 first_seen_at: "2026-07-28T20:07:46.991490+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:a7e3bbb33d577022d8f5d0cc20a5739aa55af1ad6e1a6bf2279ceefd50208941"
 ---
 

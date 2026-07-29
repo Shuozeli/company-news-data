@@ -7,7 +7,7 @@ source_id: "tat-technologies-ltd-ordinary-shares-rss-cbf58fbf7dc6"
 canonical_url: "https://tat-technologies.com/tat-technologies-expands-strategic-relationship-with-honeywell-aerospace-strengthening-its-position-in-the-apu-aftermarket-2/"
 published_at: "2026-07-16T13:48:03+00:00"
 first_seen_at: "2026-07-20T23:19:41.327451+00:00"
-fetched_at: "2026-07-28T23:07:02.052518+00:00"
+fetched_at: "2026-07-29T14:47:26.473788+00:00"
 content_hash: "sha256:3e75d15fb73e36b16418f064925b2abdc1c4aff9da1f3611bd31605bf972c5b8"
 ---
 

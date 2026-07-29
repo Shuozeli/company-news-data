@@ -7,7 +7,7 @@ source_id: "exozymes-inc-common-stock-rss-741f122b5abb"
 canonical_url: "https://exozymes.com/blog/biomass-magazine-enzymes-nlr"
 published_at: "2026-06-29T20:26:00+00:00"
 first_seen_at: "2026-07-25T03:51:33.698656+00:00"
-fetched_at: "2026-07-29T00:27:19.021608+00:00"
+fetched_at: "2026-07-29T13:52:57.192576+00:00"
 content_hash: "sha256:d91f522353d2388549c154510bd46f871ebaf63c64d0307b815d7fa8ec5a51d0"
 ---
 

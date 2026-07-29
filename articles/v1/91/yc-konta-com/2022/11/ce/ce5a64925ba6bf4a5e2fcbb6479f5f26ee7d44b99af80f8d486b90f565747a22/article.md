@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/que-hace-un-contador-como-elegir-el-mejor-para-tu-negocio"
 published_at: "2022-11-03T18:53:13+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:de0cb2f5523bb542bdcc54fcf9dde3c53e48665834f8241a628f32dae1dedd91"
 ---
 

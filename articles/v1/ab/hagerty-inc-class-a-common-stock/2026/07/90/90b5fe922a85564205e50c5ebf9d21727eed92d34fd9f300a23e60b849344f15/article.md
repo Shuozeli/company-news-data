@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/car-profiles/grumman-llv-has-finally-reached-the-end-of-its-mail-delivery-days/"
 published_at: "2026-07-27T15:00:00+00:00"
 first_seen_at: "2026-07-27T15:48:26.905870+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:44f424bef4c957854db8e8f65dc48aefe51c1d3f3ae3e2d2c573b2aa56aa6c1f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "cheesecake-factory-incorporated-the-common-stock-rss-d1db0065f926"
 canonical_url: "https://investors.thecheesecakefactory.com/news-and-events/news-releases/news-release-details/2026/The-Cheesecake-Factory-Celebrates-Moms-With-Sweet-Gift-Card-Offer-Online/default.aspx"
 published_at: "2026-04-27T12:11:00+00:00"
 first_seen_at: "2026-07-26T11:29:02.053775+00:00"
-fetched_at: "2026-07-28T22:13:37.117719+00:00"
+fetched_at: "2026-07-29T14:21:54.918173+00:00"
 content_hash: "sha256:79f1c9898c6d286cd4d2d8d9ee0f10cf1a0f64cfe593340f6bda94ad9d33dc89"
 ---
 

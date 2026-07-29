@@ -7,7 +7,7 @@ source_id: "boyd-gaming-corporation-common-stock-rss-f22aba5248cd"
 canonical_url: "https://investors.boydgaming.com/2026-07-23-BOYD-GAMING-REPORTS-SECOND-QUARTER-2026-RESULTS"
 published_at: "2026-07-23T20:05:00+00:00"
 first_seen_at: "2026-07-23T20:21:13.540778+00:00"
-fetched_at: "2026-07-28T23:29:13.595220+00:00"
+fetched_at: "2026-07-29T15:24:31.593755+00:00"
 content_hash: "sha256:571693519b1f12174fb9491d5856f42f78720c60e08c4bc922608ccc69c5c958"
 ---
 

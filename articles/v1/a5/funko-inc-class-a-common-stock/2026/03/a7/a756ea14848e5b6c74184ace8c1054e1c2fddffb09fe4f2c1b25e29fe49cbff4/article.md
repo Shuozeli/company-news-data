@@ -7,7 +7,7 @@ source_id: "funko-inc-class-a-common-stock-rss-cd6b2a8e8083"
 canonical_url: "https://investor.funko.com/news-and-events/press-releases/Press-Releases/2026/Funko-Reports-2025-Fourth-Quarter-Full-Year-Financial-Results-Provides-Full-Year-Outlook-for-2026/default.aspx"
 published_at: "2026-03-12T20:05:00+00:00"
 first_seen_at: "2026-07-25T05:58:51.373067+00:00"
-fetched_at: "2026-07-29T00:15:01.335432+00:00"
+fetched_at: "2026-07-29T17:19:02.546935+00:00"
 content_hash: "sha256:cf76508c966835d02b40fa252321aa1ff11e729f173ed5e39055d791cace4461"
 ---
 

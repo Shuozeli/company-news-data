@@ -7,7 +7,7 @@ source_id: "equity-residential-common-shares-of-beneficial-interest-rss-e3f53151
 canonical_url: "https://investors.equityapartments.com/news-events/press-releases-news/news-details/2026/Equity-Residential-Reports-Fourth-Quarter-2025-Results/default.aspx"
 published_at: "2026-02-05T21:15:00+00:00"
 first_seen_at: "2026-07-25T03:03:27.927171+00:00"
-fetched_at: "2026-07-28T23:14:03.140548+00:00"
+fetched_at: "2026-07-29T15:00:52.159560+00:00"
 content_hash: "sha256:1ae403b7c301871594bbcb22c976098719858363df5243e6b450ddaad36017f5"
 ---
 

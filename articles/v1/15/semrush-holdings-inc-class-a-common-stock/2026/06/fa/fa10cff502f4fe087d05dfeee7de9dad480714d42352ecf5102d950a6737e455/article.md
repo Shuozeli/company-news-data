@@ -7,7 +7,7 @@ source_id: "semrush-holdings-inc-class-a-common-stock-rss-cf0b72cbbd40"
 canonical_url: "https://semrush.com/461510-semrushs-new-traffic-insights-explains-changes-in-competitor-traffic-performance"
 published_at: "2026-06-11T13:54:58+00:00"
 first_seen_at: "2026-07-25T01:12:32.810977+00:00"
-fetched_at: "2026-07-29T00:44:14.590389+00:00"
+fetched_at: "2026-07-29T14:07:19.770216+00:00"
 content_hash: "sha256:7150135a8a42039f89fdb7b5407a157375d85c5ff0250c31f214e58e30e002b7"
 ---
 

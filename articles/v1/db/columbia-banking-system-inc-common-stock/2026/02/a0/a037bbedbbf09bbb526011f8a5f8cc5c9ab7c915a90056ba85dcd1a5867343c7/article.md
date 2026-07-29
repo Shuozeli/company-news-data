@@ -7,7 +7,7 @@ source_id: "columbia-banking-system-inc-common-stock-rss-e48cdacf2732"
 canonical_url: "https://www.columbiabankingsystem.com/news-market-data/press-releases/press-release/2026/Columbia-Banking-System-to-Present-at-the-RBC-Capital-Markets-Conference/default.aspx"
 published_at: "2026-02-20T13:15:00+00:00"
 first_seen_at: "2026-07-27T01:09:07.517712+00:00"
-fetched_at: "2026-07-28T22:56:05.854016+00:00"
+fetched_at: "2026-07-29T14:25:21.073491+00:00"
 content_hash: "sha256:0824b120df53190e386c1a6ed1380578218d5d08dffacbbd88cdf70bdec9d758"
 ---
 

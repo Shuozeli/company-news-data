@@ -4,9 +4,9 @@
     "key": "aerovironment-inc-common-stock",
     "name": "AeroVironment Inc. Common Stock"
   },
-  "record_count": 17,
+  "record_count": 19,
   "first_published_at": "2026-06-15T13:10:43+00:00",
-  "last_published_at": "2026-07-27T12:00:10+00:00",
+  "last_published_at": "2026-07-29T13:10:00+00:00",
   "partitions": [
     {
       "partition": "2026-06",
@@ -14,11 +14,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 11
+      "record_count": 13
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -26,10 +26,10 @@
       {
         "page": 1,
         "path": "articles/v1/2d/aerovironment-inc-common-stock/index/pages/000001.json",
-        "record_count": 17,
-        "byte_count": 23692,
-        "sha256": "sha256:b7efc49fec9a3ad1794e25c2567ccfec662a3c92a2be0801f06dca86901d94a8",
-        "newest_at": "2026-07-27T12:00:10+00:00",
+        "record_count": 19,
+        "byte_count": 26391,
+        "sha256": "sha256:9645b37553f833d26e7923e05c15719f171a789860e4c747ea7f861e5c94fe69",
+        "newest_at": "2026-07-29T13:10:00+00:00",
         "oldest_at": "2026-06-15T13:10:43+00:00"
       }
     ]

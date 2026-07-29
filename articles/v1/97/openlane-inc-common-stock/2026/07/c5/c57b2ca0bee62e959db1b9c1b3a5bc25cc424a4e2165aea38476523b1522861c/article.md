@@ -7,7 +7,7 @@ source_id: "openlane-inc-common-stock-rss-e0cbba041141"
 canonical_url: "https://ir.corporate.openlane.com/investor-relations/investor-news/press-release-details/2026/OPENLANE-to-Announce-Second-Quarter-2026-Earnings/default.aspx"
 published_at: "2026-07-08T20:15:00+00:00"
 first_seen_at: "2026-07-27T15:58:06.069466+00:00"
-fetched_at: "2026-07-28T23:00:27.892971+00:00"
+fetched_at: "2026-07-29T14:36:49.548400+00:00"
 content_hash: "sha256:a2f28f0c954610829b68b9e00848cb701c559b1c8e77e73a3b665b40d7da3eae"
 ---
 

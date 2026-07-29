@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/above-food-ceo-lionel-kambeitz-on-capturing-growth-in-private-label-movement/"
 published_at: "2024-08-21T17:02:01+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-29T00:43:09.170627+00:00"
+fetched_at: "2026-07-29T14:06:11.402678+00:00"
 content_hash: "sha256:e516c97c7e8a0b804724c47cb95464637a57defc7226840c0616038c8e05a017"
 ---
 

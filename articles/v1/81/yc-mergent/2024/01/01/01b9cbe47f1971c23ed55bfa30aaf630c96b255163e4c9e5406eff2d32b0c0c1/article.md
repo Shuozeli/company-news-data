@@ -7,7 +7,7 @@ source_id: "yc-mergent-rss-c4a67b378e23"
 canonical_url: "https://blog.mergent.co/hello-changelog"
 published_at: "2024-01-16T06:00:00+00:00"
 first_seen_at: "2026-07-25T13:51:58.649676+00:00"
-fetched_at: "2026-07-28T23:24:02.513180+00:00"
+fetched_at: "2026-07-29T15:19:29.450428+00:00"
 content_hash: "sha256:90e7dd8e1da07543b823c02cca5fbd7e5271b8bf828f65bcaccec63738aed367"
 ---
 

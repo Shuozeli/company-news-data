@@ -7,7 +7,7 @@ source_id: "bark-inc-class-a-common-stock-atom-d9f7d0936a18"
 canonical_url: "https://bark.co/blogs/press/bark-and-crocs-unleash-highly-anticipated-crocs-for-dogs"
 published_at: "2024-11-14T17:55:28+00:00"
 first_seen_at: "2026-07-25T01:26:35.275186+00:00"
-fetched_at: "2026-07-28T23:30:18.317292+00:00"
+fetched_at: "2026-07-29T15:27:04.969445+00:00"
 content_hash: "sha256:9c5eff0a1b467ead8c09d5e8230344574e98126a7198dda7610907d75ced845a"
 ---
 

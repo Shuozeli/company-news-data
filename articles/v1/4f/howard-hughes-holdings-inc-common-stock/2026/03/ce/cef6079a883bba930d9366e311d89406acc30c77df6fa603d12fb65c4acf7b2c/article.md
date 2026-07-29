@@ -7,7 +7,7 @@ source_id: "howard-hughes-holdings-inc-common-stock-rss-4e88654bb052"
 canonical_url: "https://communities.howardhughes.com/news/italian-energy-co-to-open-us-hq-in-the-woodlands-filling-last-space-in-former-anadarko-tower/"
 published_at: "2026-03-11T17:11:00+00:00"
 first_seen_at: "2026-07-24T09:07:31.143725+00:00"
-fetched_at: "2026-07-28T23:49:42.315584+00:00"
+fetched_at: "2026-07-29T15:44:32.861400+00:00"
 content_hash: "sha256:137f3d935b47c2d09fa429ab0516b7c5efbc799a01aa998c9b4763e3b086aa36"
 ---
 

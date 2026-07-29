@@ -7,7 +7,7 @@ source_id: "umh-properties-inc-common-stock-rss-9ccbda77220e"
 canonical_url: "https://umh.reit/news/news-details/2026/UMH-PROPERTIES-INC--PUBLISHES-ITS-2025-SUSTAINABILITY-REPORT/default.aspx"
 published_at: "2026-06-08T15:36:00+00:00"
 first_seen_at: "2026-07-26T03:38:03.914750+00:00"
-fetched_at: "2026-07-29T00:49:25.250206+00:00"
+fetched_at: "2026-07-29T14:10:36.696067+00:00"
 content_hash: "sha256:4b01f4c6c75488d2ba0545b7c2515a6d021041a414325b21fb4285577d6d482b"
 ---
 

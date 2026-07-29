@@ -4,9 +4,9 @@
     "key": "precision-drilling-corporation-common-stock",
     "name": "Precision Drilling Corporation Common Stock"
   },
-  "record_count": 9,
+  "record_count": 10,
   "first_published_at": "2026-02-27T19:14:11+00:00",
-  "last_published_at": "2026-07-13T21:00:27+00:00",
+  "last_published_at": "2026-07-29T00:20:07+00:00",
   "partitions": [
     {
       "partition": "2026-02",
@@ -30,11 +30,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 1
+      "record_count": 2
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -42,10 +42,10 @@
       {
         "page": 1,
         "path": "articles/v1/f0/precision-drilling-corporation-common-stock/index/pages/000001.json",
-        "record_count": 9,
-        "byte_count": 13625,
-        "sha256": "sha256:76ae656a952778085daa8922166e35bf01e876ff2003dc1cc9e7e7e3fe8211c9",
-        "newest_at": "2026-07-13T21:00:27+00:00",
+        "record_count": 10,
+        "byte_count": 15144,
+        "sha256": "sha256:52958529c1b200e5491360631761da5363bace97d0648e3b284f979a8c7dfba1",
+        "newest_at": "2026-07-29T00:20:07+00:00",
         "oldest_at": "2026-02-27T19:14:11+00:00"
       }
     ]

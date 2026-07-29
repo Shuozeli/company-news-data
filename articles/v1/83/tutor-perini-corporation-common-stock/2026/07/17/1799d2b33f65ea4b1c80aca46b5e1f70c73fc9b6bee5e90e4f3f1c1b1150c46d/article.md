@@ -7,7 +7,7 @@ source_id: "tutor-perini-corporation-common-stock-rss-2b36d8bfa727"
 canonical_url: "https://investors.tutorperini.com/press-releases/press-release-details/2026/Fisk-Electric-Awarded-26-9-Million-Electrical-Renovation-Project/default.aspx"
 published_at: "2026-07-21T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:48.551875+00:00"
-fetched_at: "2026-07-29T00:23:30.531521+00:00"
+fetched_at: "2026-07-29T17:23:06.735968+00:00"
 content_hash: "sha256:486e481315a5bd78a40e2a9e88162e00cd965969c6ba3ef940822fa63731771b"
 ---
 

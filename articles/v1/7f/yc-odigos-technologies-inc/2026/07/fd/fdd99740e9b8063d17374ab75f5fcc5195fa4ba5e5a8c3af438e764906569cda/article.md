@@ -7,7 +7,7 @@ source_id: "yc-odigos-technologies-inc-rss-eb41174e661a"
 canonical_url: "https://odigos.io/blog/mcp-based-auto-remediation-davis-ai-to-odigos-mcp-server-and-back-again"
 published_at: "2026-07-21T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:02:44.020335+00:00"
-fetched_at: "2026-07-28T23:46:13.985043+00:00"
+fetched_at: "2026-07-29T15:39:32.474947+00:00"
 content_hash: "sha256:175018a951bc243c5dde2179726c6982a35e8c75e990aee3cb60d77f553a8411"
 ---
 

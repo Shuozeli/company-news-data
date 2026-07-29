@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/hinge/career-journeys-how-hinges-tamika-young-is-bringing-communications-to-the-cmo-role/"
 published_at: "2026-07-07T13:38:11+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:689bcbb58d2bc3f96abcb79590584d0a3f81b267d2f0c5dedea88cf4879cfee8"
 ---
 

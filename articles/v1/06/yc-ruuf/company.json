@@ -4,9 +4,9 @@
     "key": "yc-ruuf",
     "name": "RUUF"
   },
-  "record_count": 39,
+  "record_count": 40,
   "first_published_at": "2025-10-21T18:59:40.114+00:00",
-  "last_published_at": "2026-07-28T01:25:05.032+00:00",
+  "last_published_at": "2026-07-28T23:20:47.760+00:00",
   "partitions": [
     {
       "partition": "2025-10",
@@ -38,11 +38,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 7
+      "record_count": 8
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -50,10 +50,10 @@
       {
         "page": 1,
         "path": "articles/v1/06/yc-ruuf/index/pages/000001.json",
-        "record_count": 39,
-        "byte_count": 37678,
-        "sha256": "sha256:eecb82e69eeaf4a3a226de785f966788080593c63e656b5ce1fce3d813f2d071",
-        "newest_at": "2026-07-28T01:25:05.032+00:00",
+        "record_count": 40,
+        "byte_count": 38687,
+        "sha256": "sha256:75c09fb101043f40e44061d1dea584278731f3ef582d527dd1359b1f565e9950",
+        "newest_at": "2026-07-28T23:20:47.760+00:00",
         "oldest_at": "2025-10-21T18:59:40.114+00:00"
       }
     ]

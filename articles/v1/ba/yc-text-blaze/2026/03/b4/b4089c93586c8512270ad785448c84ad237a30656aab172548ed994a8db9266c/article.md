@@ -7,7 +7,7 @@ source_id: "yc-text-blaze-rss-1b8d5cb9d28d"
 canonical_url: "https://blaze.today/blog/ai-rubric-generator/"
 published_at: "2026-03-23T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:34.723875+00:00"
-fetched_at: "2026-07-28T23:51:07.644239+00:00"
+fetched_at: "2026-07-29T15:44:49.805971+00:00"
 content_hash: "sha256:59d7a46a2d5ab3ae2d022feab4d243eb6ce4ed84b76f97f0e57c109b1203eb1e"
 ---
 

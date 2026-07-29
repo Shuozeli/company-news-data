@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2022/SF_Dividend_Common_Preferred_Announcement.pdf"
 published_at: "2022-08-03T20:05:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:ac1133c9d21c5ebf58b6e9a6edc33de5cb6d0b4181092c7b576212e1ee4d5b4b"
 ---
 

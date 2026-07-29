@@ -7,7 +7,7 @@ source_id: "borealis-foods-inc-class-a-common-shares-rss-fd4c56f1a486"
 canonical_url: "https://investors.borealisfoods.com/news/news-details/2024/Borealis-Foods-Expands-U.S.-Walmart-Distribution-with-the-Launch-of-Ramen-Noodles-by-Chef-Ramsay-Crafted-by-Master-Chef-Gordon-Ramsay/default.aspx"
 published_at: "2024-10-31T20:20:00+00:00"
 first_seen_at: "2026-07-26T10:49:50.477759+00:00"
-fetched_at: "2026-07-29T00:49:17.833006+00:00"
+fetched_at: "2026-07-29T14:19:04.340103+00:00"
 content_hash: "sha256:3fa5a952f57775b3e4d2fc7387961352327351a3347a4332dfc2934cdfaf9a99"
 ---
 

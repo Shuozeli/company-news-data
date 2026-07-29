@@ -7,7 +7,7 @@ source_id: "yc-coderhouse-news-import-7a925063f664"
 canonical_url: "https://www.coderhouse.com/coderlibrary/kimi-k3-open-source-pesos-frontend-benchmark"
 published_at: "2026-07-27T00:00:00+00:00"
 first_seen_at: "2026-07-28T07:56:38.769046+00:00"
-fetched_at: "2026-07-28T07:56:35.409468+00:00"
+fetched_at: "2026-07-29T09:13:10.215478+00:00"
 content_hash: "sha256:61faa259a92f25ea60b8e17ba9caf77a5478647d3b63b7d5fdb60aa8ae9603bc"
 ---
 

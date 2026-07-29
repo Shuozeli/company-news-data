@@ -7,7 +7,7 @@ source_id: "u-haul-holding-company-common-stock-rss-bfed9e054f62"
 canonical_url: "https://investors.uhaul.com/news/news-details/2025/U-Haul-Holding-Company-Announces-Quarterly-Cash-Dividend-120325/default.aspx"
 published_at: "2025-12-03T05:00:00+00:00"
 first_seen_at: "2026-07-26T03:36:37.448494+00:00"
-fetched_at: "2026-07-28T23:54:41.192343+00:00"
+fetched_at: "2026-07-29T17:03:11.777232+00:00"
 content_hash: "sha256:02fd65b988923ae3928f1447aeea0dae77ce54b234bee3815140d1025637b0d0"
 ---
 

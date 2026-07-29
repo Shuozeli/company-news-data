@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2017/MACH4-Pharma-Systems-Receives-German-Global-Health-Award-for-South-Africa-Pharmacy-Access-Initiative/default.aspx"
 published_at: "2017-06-08T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:857d2aec98cb9065d46aef3448981a41bb9c8cbc602e242ac6c2b75f58077abc"
 ---
 

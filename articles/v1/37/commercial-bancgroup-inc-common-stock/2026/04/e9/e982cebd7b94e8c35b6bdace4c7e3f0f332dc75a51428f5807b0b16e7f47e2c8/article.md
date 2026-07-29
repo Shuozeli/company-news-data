@@ -7,7 +7,7 @@ source_id: "commercial-bancgroup-inc-common-stock-rss-6edce68eb4b7"
 canonical_url: "https://ir.cbtn.com/news-and-events/news/news-details/2026/Commercial-Bancgroup-Inc--Announces-Date-for-First-Quarter-2026-Earnings-Release/default.aspx"
 published_at: "2026-04-01T21:00:00+00:00"
 first_seen_at: "2026-07-27T01:10:07.703175+00:00"
-fetched_at: "2026-07-28T22:55:17.405050+00:00"
+fetched_at: "2026-07-29T14:28:29.966669+00:00"
 content_hash: "sha256:8c0696b91a5c53b9e7a5cdef5318473653afaaef7d67f30feddffc185ab734ae"
 ---
 

@@ -7,7 +7,7 @@ source_id: "badger-meter-inc-common-stock-rss-6149203c610d"
 canonical_url: "http://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-to-Expand-Leadership-Position-in-Global-Sewer-Line-Monitoring-with-Acquisition-of-UDlive/default.aspx"
 published_at: "2026-04-17T12:30:00+00:00"
 first_seen_at: "2026-07-26T10:00:33.518201+00:00"
-fetched_at: "2026-07-28T23:01:13.731152+00:00"
+fetched_at: "2026-07-29T14:38:34.817744+00:00"
 content_hash: "sha256:6322ca4936e4b24ffa23b32509e0411b0c2b9458a570f8ea677249cb24d34a96"
 ---
 

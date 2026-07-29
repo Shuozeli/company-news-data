@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "6b3aa249c8b4027626617c915dc1996b4a9e275607310d7cf04d353828165a6f",
+      "company_key": "salesforce-inc-common-stock",
+      "company_name": "Salesforce Inc. Common Stock",
+      "source_id": "salesforce-inc-common-stock-rss-d41d574f701a",
+      "source_kind": "rss",
+      "canonical_url": "https://www.salesforce.com/news/stories/ask-slackbot-data-insights-specialist/",
+      "title": "Ask Slackbot",
+      "summary": "Advice for the agentic age from a columnist that always has the right context",
+      "published_at": "2026-07-29T15:00:00+00:00",
+      "fetched_at": "2026-07-29T15:34:34.650578+00:00",
+      "article_path": "articles/v1/e1/salesforce-inc-common-stock/2026/07/6b/6b3aa249c8b4027626617c915dc1996b4a9e275607310d7cf04d353828165a6f/article.md",
+      "record_path": "articles/v1/e1/salesforce-inc-common-stock/2026/07/6b/6b3aa249c8b4027626617c915dc1996b4a9e275607310d7cf04d353828165a6f/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "1a6dba6045ca52d19615defca7de9e14a39ef27999009b5b584a0878ce3a0fb2",
@@ -30,7 +45,7 @@
       "title": "The latest articles about AI, Data and CRM | Salesforce",
       "summary": "Check out our most recent articles on AI, data and CRM — read the trends, learn tips for your company and be in the know.",
       "published_at": "2026-07-28T00:00:00+00:00",
-      "fetched_at": "2026-07-28T19:11:09.735168+00:00",
+      "fetched_at": "2026-07-29T07:55:57.005290+00:00",
       "article_path": "articles/v1/e1/salesforce-inc-common-stock/2026/07/e2/e2034fe94ee55340e5ab5c01e7d41b7367333e11b3c6422790a5ccb7cafe7576/article.md",
       "record_path": "articles/v1/e1/salesforce-inc-common-stock/2026/07/e2/e2034fe94ee55340e5ab5c01e7d41b7367333e11b3c6422790a5ccb7cafe7576/record.json"
     },
@@ -105,7 +120,7 @@
       "title": "Toward Self-Improving Agents",
       "summary": "The agents that win the next few years won’t just be ones with the cleverest foundation model. They’ll be the ones that learn from their own outcomes.",
       "published_at": "2026-07-23T16:19:18+00:00",
-      "fetched_at": "2026-07-28T23:40:30.069113+00:00",
+      "fetched_at": "2026-07-29T15:34:33.644389+00:00",
       "article_path": "articles/v1/e1/salesforce-inc-common-stock/2026/07/31/312dc82a8f5e5cf4bdff3ef138464a90dad3e7d3c15841b90318703c9189a884/article.md",
       "record_path": "articles/v1/e1/salesforce-inc-common-stock/2026/07/31/312dc82a8f5e5cf4bdff3ef138464a90dad3e7d3c15841b90318703c9189a884/record.json"
     },
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T22:12:59.555603+00:00",
       "article_path": "articles/v1/e1/salesforce-inc-common-stock/2026/05/cc/cc737ab8c8f21a0868bd2a1cf1ad9fe91156f6f69673b3fbcec9b4a222787aad/article.md",
       "record_path": "articles/v1/e1/salesforce-inc-common-stock/2026/05/cc/cc737ab8c8f21a0868bd2a1cf1ad9fe91156f6f69673b3fbcec9b4a222787aad/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "310ba45f4b16fe6d4aed3e6df9843dbfaf3ecd970c4e28b18c66e95f90b04c9e",
-      "company_key": "salesforce-inc-common-stock",
-      "company_name": "Salesforce Inc. Common Stock",
-      "source_id": "salesforce-inc-common-stock-news-import-14515a567cd2",
-      "source_kind": "html",
-      "canonical_url": "https://www.salesforce.com/news/press-releases/2026/05/20/informatica-deepens-collaboration-with-microsoft/",
-      "title": "Informatica Deepens Collaboration with Microsoft to Deliver Trusted Data for Agentic AI and Analytics at Scale",
-      "summary": "Informatica’s Headless Intelligent Data Management Cloud is now available in Microsoft Foundry; expanded Microsoft Fabric integration enhances analytics capabilities",
-      "published_at": "2026-05-20T00:00:00+00:00",
-      "fetched_at": "2026-07-28T22:13:02.720629+00:00",
-      "article_path": "articles/v1/e1/salesforce-inc-common-stock/2026/05/31/310ba45f4b16fe6d4aed3e6df9843dbfaf3ecd970c4e28b18c66e95f90b04c9e/article.md",
-      "record_path": "articles/v1/e1/salesforce-inc-common-stock/2026/05/31/310ba45f4b16fe6d4aed3e6df9843dbfaf3ecd970c4e28b18c66e95f90b04c9e/record.json"
     }
   ]
 }

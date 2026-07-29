@@ -7,7 +7,7 @@ source_id: "claros-mortgage-trust-inc-common-stock-rss-9c43230d4b0c"
 canonical_url: "https://www.clarosmortgage.com/news/news-details/2026/Claros-Mortgage-Trust-Inc--Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-02-18T22:25:00+00:00"
 first_seen_at: "2026-07-27T00:55:26.690644+00:00"
-fetched_at: "2026-07-28T23:48:21.566861+00:00"
+fetched_at: "2026-07-29T15:42:02.171638+00:00"
 content_hash: "sha256:34ed6b309bcaa23c16f8a3dad5902ace7e5a79947f9c296857ba3e4cea98778a"
 ---
 

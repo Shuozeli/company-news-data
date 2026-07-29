@@ -7,7 +7,7 @@ source_id: "yc-fidocure-rss-f7dc5a4fc18d"
 canonical_url: "https://fidocure.com/fidocure-blog/top-downloaded-cancer-paper-in-2023-2/"
 published_at: "2025-08-13T14:10:05+00:00"
 first_seen_at: "2026-07-20T23:20:29.421869+00:00"
-fetched_at: "2026-07-29T00:46:46.902341+00:00"
+fetched_at: "2026-07-29T14:10:31.733438+00:00"
 content_hash: "sha256:3920071110390601f9ecf40bd0c11b09e597df75aeaac2e67685fdd43cc78f37"
 ---
 

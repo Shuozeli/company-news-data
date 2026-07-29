@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/great-reads/dodge-vs-ford-over-a-century-ago-an-epic-grudge-match-raged-in-detroit/"
 published_at: "2026-07-21T16:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:c29ddc8e7624f5d49e8059f638760f0525db9f78380b7c3bd5ce41e9f3040916"
 ---
 

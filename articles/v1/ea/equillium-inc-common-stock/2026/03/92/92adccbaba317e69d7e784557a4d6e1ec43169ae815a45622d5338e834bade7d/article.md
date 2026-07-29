@@ -7,7 +7,7 @@ source_id: "equillium-inc-common-stock-rss-ab50b30d38d9"
 canonical_url: "https://www.equilliumbio.com/investors/press-releases/news-details/2026/Equillium-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Recent-Corporate-and-Clinical-Highlights/default.aspx"
 published_at: "2026-03-25T20:05:00+00:00"
 first_seen_at: "2026-07-25T03:15:43.712339+00:00"
-fetched_at: "2026-07-28T23:19:20.140666+00:00"
+fetched_at: "2026-07-29T15:09:23.622423+00:00"
 content_hash: "sha256:0c615e1252325f454ff24e4b773936db07d6148154c59821455fbdc1a1e9ccc8"
 ---
 

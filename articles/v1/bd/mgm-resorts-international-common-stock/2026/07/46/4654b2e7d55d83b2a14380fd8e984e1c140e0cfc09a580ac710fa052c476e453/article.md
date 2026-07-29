@@ -7,7 +7,7 @@ source_id: "mgm-resorts-international-common-stock-rss-57fd81e09870"
 canonical_url: "https://newsroom.mgmresorts.com/press-releases?item=122957"
 published_at: "2026-07-23T16:10:00+00:00"
 first_seen_at: "2026-07-23T17:14:20.948884+00:00"
-fetched_at: "2026-07-28T23:19:14.793268+00:00"
+fetched_at: "2026-07-29T15:09:42.356944+00:00"
 content_hash: "sha256:a458d6ee4a95aeead52aaf9b95846d4e0686bfb76f6b0ac0c6bf886a8f969586"
 ---
 

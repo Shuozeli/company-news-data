@@ -5,13 +5,13 @@ company_key: "yc-avocado"
 company: "Avocado"
 source_id: "yc-avocado-news-import-38bb8a83867d"
 canonical_url: "https://www.avocadopos.com/blog/09022025-california-cottage-food-operation"
-published_at: null
+published_at: "2025-09-01T00:00:00+00:00"
 first_seen_at: "2026-07-24T18:13:15.302974+00:00"
 fetched_at: "2026-07-28T21:37:36.757263+00:00"
 content_hash: "sha256:c92a4bfb98d20ee952803e8d0e5303e5082b3ce1c8c4a144e2fab736c7be9ad3"
 ---
 
-# Add a Retail Revenue Stream from Your Home Kitchen: A Guide for California Food Pros - The Avocado - Avocado POS
+# Add a Retail Revenue Stream from Your Home Kitchen: A Guide for California Food Pros
 
 As a restaurant or food truck owner, you're constantly thinking about the next move. How do you expand your menu, increase revenue, and build your brand without massive overhead? If you're in California, the answer might be closer than you think: your own home kitchen.
 

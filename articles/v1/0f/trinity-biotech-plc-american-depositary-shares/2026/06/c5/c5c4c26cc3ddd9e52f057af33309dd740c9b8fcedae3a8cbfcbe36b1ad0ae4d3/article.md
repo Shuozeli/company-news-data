@@ -7,7 +7,7 @@ source_id: "trinity-biotech-plc-american-depositary-shares-rss-6b6858b1b9bc"
 canonical_url: "https://trinitybiotech.com/press-releases/news/trinity-biotech-terminates-standby-equity-purchase-agreement-with-yorkville/"
 published_at: "2026-06-29T16:00:00+00:00"
 first_seen_at: "2026-07-24T04:40:06.159898+00:00"
-fetched_at: "2026-07-28T23:50:15.896400+00:00"
+fetched_at: "2026-07-29T15:41:24.201947+00:00"
 content_hash: "sha256:375b463ff96a5b37e0c50df66f5eefdced982697efb0fb1d846b0c7155161f38"
 ---
 

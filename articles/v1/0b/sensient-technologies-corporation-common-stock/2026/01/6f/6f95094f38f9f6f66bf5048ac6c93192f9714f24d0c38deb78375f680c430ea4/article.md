@@ -7,7 +7,7 @@ source_id: "sensient-technologies-corporation-common-stock-rss-f0d338703db5"
 canonical_url: "https://investor.sensient.com/news-and-events/press-releases/news-details/2026/Sensient-Announces-Conference-Call/default.aspx"
 published_at: "2026-01-30T21:05:00+00:00"
 first_seen_at: "2026-07-25T22:37:13.977314+00:00"
-fetched_at: "2026-07-28T23:15:52.770539+00:00"
+fetched_at: "2026-07-29T15:04:53.875456+00:00"
 content_hash: "sha256:f6104e4f4e083d075a4ddf1cd757df7c16d7fddb09d695075d38669849ee9790"
 ---
 

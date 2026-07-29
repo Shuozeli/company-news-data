@@ -7,7 +7,7 @@ source_id: "evolv-technologies-holdings-inc-class-a-common-stock-rss-ec54816aa3b
 canonical_url: "https://evolv.com/resources/blog/how-alert-context-supports-screening-operations/"
 published_at: "2026-06-25T12:00:19+00:00"
 first_seen_at: "2026-07-28T21:27:51.933751+00:00"
-fetched_at: "2026-07-28T21:27:51.792375+00:00"
+fetched_at: "2026-07-29T15:07:48.185123+00:00"
 content_hash: "sha256:3917896be45a084cdf2e354dff15ed289ae4affec3f16b9669ca9d998cf5aeef"
 ---
 

@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/against-all-oddities/against-all-oddities-my-eagle-is-a-nest-of-surprises/"
 published_at: "2026-07-23T18:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:d5647f132bf926c14a4d7e0de88ef53af863b6ba2363a6dd26c34d7eb279e2f5"
 ---
 

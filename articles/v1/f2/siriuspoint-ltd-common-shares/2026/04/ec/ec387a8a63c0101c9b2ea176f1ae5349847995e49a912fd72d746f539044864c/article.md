@@ -7,7 +7,7 @@ source_id: "siriuspoint-ltd-common-shares-rss-b0b83e96ed77"
 canonical_url: "https://investors.siriuspt.com/press-releases/news-details/2026/SP-upgrades-SiriusPoints-Insurance-Subsidiaries-to-A-based-on-consistent-robust-earnings-and-strength-of-capital-position/default.aspx"
 published_at: "2026-04-21T17:22:00+00:00"
 first_seen_at: "2026-07-25T23:14:39.687560+00:00"
-fetched_at: "2026-07-28T23:33:31.156577+00:00"
+fetched_at: "2026-07-29T15:30:24.921559+00:00"
 content_hash: "sha256:b80e83a3ca6cc152ae601ef238e7405a82bd7a75690acea77bfee858d6a08f88"
 ---
 

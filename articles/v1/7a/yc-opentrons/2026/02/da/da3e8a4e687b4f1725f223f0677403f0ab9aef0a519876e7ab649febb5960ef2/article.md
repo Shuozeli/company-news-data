@@ -7,7 +7,7 @@ source_id: "yc-opentrons-rss-767f8d415bdd"
 canonical_url: "https://opentrons.com/archives/news/unifying-opentrons-design-systems-lessons-from-3-years-of-unification-work"
 published_at: "2026-02-13T14:00:00+00:00"
 first_seen_at: "2026-07-25T17:41:16.998093+00:00"
-fetched_at: "2026-07-28T23:27:55.051365+00:00"
+fetched_at: "2026-07-29T15:23:54.658863+00:00"
 content_hash: "sha256:e36d2b232c47163632853e3a82b39e64af9a13a26c6c7437b753872418016e63"
 ---
 

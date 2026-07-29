@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/market-trends/hagerty-insider/6-rufs-under-one-tent-at-broad-arrows-2026-quail-auction/"
 published_at: "2026-07-23T21:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:b6eae69c66107b0d48e2772eb5bc79855b31509639893c532cd20a32018fdad9"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-pushbullet-rss-4ba42a362971"
 canonical_url: "https://blog.pushbullet.com/2019/03/11/better-notifications-on-android"
 published_at: "2019-03-11T05:00:00+00:00"
 first_seen_at: "2026-07-25T20:08:48.518680+00:00"
-fetched_at: "2026-07-28T23:36:19.489802+00:00"
+fetched_at: "2026-07-29T15:32:18.727731+00:00"
 content_hash: "sha256:d860023475b75f14cec690220b07590ffc4ecc189b47123c83b6e1ff48b366af"
 ---
 

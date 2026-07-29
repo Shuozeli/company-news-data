@@ -4,9 +4,9 @@
     "key": "descartes-systems-group-inc-the-common-stock",
     "name": "Descartes Systems Group Inc. (The) Common Stock"
   },
-  "record_count": 35,
+  "record_count": 37,
   "first_published_at": "2019-10-01T10:45:59+00:00",
-  "last_published_at": "2026-07-21T05:50:07+00:00",
+  "last_published_at": "2026-07-29T10:02:17+00:00",
   "partitions": [
     {
       "partition": "2019-10",
@@ -62,11 +62,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 4
+      "record_count": 6
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -74,10 +74,10 @@
       {
         "page": 1,
         "path": "articles/v1/ff/descartes-systems-group-inc-the-common-stock/index/pages/000001.json",
-        "record_count": 35,
-        "byte_count": 50256,
-        "sha256": "sha256:ef91e7b9a9a9e1e47712d5955ab3667adee5ffdc4b91e77a9cc25d46acfe3a97",
-        "newest_at": "2026-07-21T05:50:07+00:00",
+        "record_count": 37,
+        "byte_count": 52833,
+        "sha256": "sha256:7953c4faf5f33c6ecd9e403689e63ec18ce438ee1ce3ceb5cac5a2297837bb63",
+        "newest_at": "2026-07-29T10:02:17+00:00",
         "oldest_at": "2019-10-01T10:45:59+00:00"
       }
     ]

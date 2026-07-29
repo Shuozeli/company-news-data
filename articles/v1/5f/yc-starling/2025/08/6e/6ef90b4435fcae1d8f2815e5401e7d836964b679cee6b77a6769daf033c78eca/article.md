@@ -7,7 +7,7 @@ source_id: "yc-starling-rss-2a8bfdf7d43c"
 canonical_url: "https://starlingmedical.com/2025/08/28/pete-your-daily-edge-for-wellness-performance-and-longevity/"
 published_at: "2025-08-28T19:10:31+00:00"
 first_seen_at: "2026-07-25T01:53:29.741858+00:00"
-fetched_at: "2026-07-28T23:14:51.936097+00:00"
+fetched_at: "2026-07-29T15:04:54.519379+00:00"
 content_hash: "sha256:c7c0200f4d193e850a0a057b50e306e2657ac2d5b6669f258e1dfc3840aaaac8"
 ---
 

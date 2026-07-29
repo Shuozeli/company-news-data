@@ -7,7 +7,7 @@ source_id: "cbl-associates-properties-inc-common-stock-rss-516cf3ac8c37"
 canonical_url: "https://invest.cblproperties.com/news-views/news-details/2026/CBL-Properties-Closes-78-5-Million-Sale-of-Hammock-Landing-in-West-Melbourne-FL/default.aspx"
 published_at: "2026-05-27T13:35:00+00:00"
 first_seen_at: "2026-07-26T11:17:59.392658+00:00"
-fetched_at: "2026-07-28T23:35:32.168494+00:00"
+fetched_at: "2026-07-29T15:31:53.168615+00:00"
 content_hash: "sha256:19868a112a88a33b98b36b61fccf8f78582913cad11abee8115beb8c41c64278"
 ---
 

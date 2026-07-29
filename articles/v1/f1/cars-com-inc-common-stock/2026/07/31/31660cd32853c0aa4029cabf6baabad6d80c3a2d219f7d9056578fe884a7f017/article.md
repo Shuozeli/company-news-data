@@ -7,7 +7,7 @@ source_id: "cars-com-inc-common-stock-rss-a219e5b1eade"
 canonical_url: "https://investor.cars.com/2026-07-23-Cars-com-to-Announce-Second-Quarter-2026-Financial-Results"
 published_at: "2026-07-23T20:30:00+00:00"
 first_seen_at: "2026-07-25T01:07:01.290160+00:00"
-fetched_at: "2026-07-29T00:27:00.987485+00:00"
+fetched_at: "2026-07-29T17:26:16.403860+00:00"
 content_hash: "sha256:3b0831a64bc9d75a82c60ef5056964543cb8e6fc03e7d6a09ac78eed5e3a1586"
 ---
 

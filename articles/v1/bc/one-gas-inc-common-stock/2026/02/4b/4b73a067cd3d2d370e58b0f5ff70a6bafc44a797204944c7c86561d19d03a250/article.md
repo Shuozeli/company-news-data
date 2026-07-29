@@ -7,7 +7,7 @@ source_id: "one-gas-inc-common-stock-rss-aa9bfc293deb"
 canonical_url: "https://www.onegas.com/news/press-release-details/2026/ONE-Gas-to-Participate-in-UBS-Morgan-Stanley-and-Jefferies-Conferences/default.aspx"
 published_at: "2026-02-24T21:15:00+00:00"
 first_seen_at: "2026-07-25T17:25:35.745524+00:00"
-fetched_at: "2026-07-28T23:17:19.673637+00:00"
+fetched_at: "2026-07-29T15:07:38.629718+00:00"
 content_hash: "sha256:c868ef130fabfc42ed90c43f11cdab0aa7e7bad0a1ab3c5f3ac761b0084e4431"
 ---
 

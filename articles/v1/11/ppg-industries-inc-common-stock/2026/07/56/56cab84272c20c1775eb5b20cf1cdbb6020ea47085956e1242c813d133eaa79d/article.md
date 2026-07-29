@@ -7,7 +7,7 @@ source_id: "ppg-industries-inc-common-stock-rss-1d67a1abf440"
 canonical_url: "http://news.ppg.com/Press-Releases/news-details/2026/PPG-reports-second-quarter-2026-financial-results/default.aspx"
 published_at: "2026-07-28T20:05:00+00:00"
 first_seen_at: "2026-07-28T20:09:50.667874+00:00"
-fetched_at: "2026-07-29T00:51:44.093149+00:00"
+fetched_at: "2026-07-29T14:19:58.505899+00:00"
 content_hash: "sha256:840797752b215182772327be16f6dc422bff725429e66319acce175b07477099"
 ---
 

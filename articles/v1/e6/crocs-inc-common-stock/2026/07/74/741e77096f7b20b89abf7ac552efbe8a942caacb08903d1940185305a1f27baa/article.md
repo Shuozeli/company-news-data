@@ -7,7 +7,7 @@ source_id: "crocs-inc-common-stock-rss-06481efa57c0"
 canonical_url: "https://investors.crocs.com/news-and-events/press-releases/press-release-details/2026/Crocs-Inc--Announces-Conference-Call-to-Review-Second-Quarter-2026-Earnings-Results/default.aspx"
 published_at: "2026-07-09T11:30:00+00:00"
 first_seen_at: "2026-07-25T01:25:14.804076+00:00"
-fetched_at: "2026-07-28T23:06:23.889804+00:00"
+fetched_at: "2026-07-29T14:46:04.887539+00:00"
 content_hash: "sha256:f089412e4e089feee6ceca2f27dbdd79301b6a5460d74e906cab6cd652948367"
 ---
 

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c597749cb37ec39f6af133fed4f72383ce40f281475c8fee3c6b6a85b09803e4",
+  "company": {
+    "key": "yc-mdhub",
+    "name": "mdhub"
+  },
+  "source": {
+    "id": "yc-mdhub-news-import-bbf3c05d7e92",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mdhub.ai/blog-posts/insurance-eligibility-verification",
+    "canonical": "https://www.mdhub.ai/blog-posts/insurance-eligibility-verification"
+  },
+  "title": "Insurance Eligibility Verification: Why Behavioral Health Practices Lose Twice When It Fails",
+  "summary": "Insurance eligibility verification errors don't just delay revenue in behavioral health, they trigger patient dropout. Learn what to fix and when.",
+  "published_at": "2026-07-28T16:08:45.517+00:00",
+  "first_seen_at": "2026-07-29T02:22:00.692811+00:00",
+  "fetched_at": "2026-07-29T02:22:01.773941+00:00",
+  "last_updated_at": "2026-07-29T17:00:21.865463+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-mdhub/2026/07/c5/c597749cb37ec39f6af133fed4f72383ce40f281475c8fee3c6b6a85b09803e4/article.md",
+    "record": "articles/v1/05/yc-mdhub/2026/07/c5/c597749cb37ec39f6af133fed4f72383ce40f281475c8fee3c6b6a85b09803e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19529,
+    "sha256": "sha256:5be27847c02d9b882326d56e1095e2a4768850fef588ef91168054f556a93f38",
+    "normalized_content_hash": "sha256:dc80ed69a7792f7eeed01a4e505acfdb469cd377902f526dca7c584e111f8323"
+  },
+  "provenance": {
+    "source_item_id": "54f7dc39-5a59-463a-9c61-15d6ec74b73f",
+    "external_id": "https://www.mdhub.ai/blog-posts/insurance-eligibility-verification"
+  }
+}

@@ -7,7 +7,7 @@ source_id: "international-flavors-fragrances-inc-common-stock-rss-5af8663efd29"
 canonical_url: "https://www.iff.com/media/stories/explorando-el-microbioma/"
 published_at: "2026-07-23T19:26:06+00:00"
 first_seen_at: "2026-07-23T20:25:33.432353+00:00"
-fetched_at: "2026-07-29T00:26:33.797363+00:00"
+fetched_at: "2026-07-29T13:53:19.676274+00:00"
 content_hash: "sha256:6fae5aae01a1cf80341df18093a56168481b77b35b2a50368bd3714ccb28343b"
 ---
 

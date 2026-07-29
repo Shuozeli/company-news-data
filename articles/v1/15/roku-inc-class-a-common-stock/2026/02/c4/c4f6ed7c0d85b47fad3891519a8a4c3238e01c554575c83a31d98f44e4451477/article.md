@@ -7,7 +7,7 @@ source_id: "roku-inc-class-a-common-stock-rss-7fd84d003d99"
 canonical_url: "https://engineering.roku.com/reducing-storage-costs-at-petabyte-scale-partition-aware-data-retention-at-roku"
 published_at: "2026-02-18T13:32:15+00:00"
 first_seen_at: "2026-07-20T23:21:49.245762+00:00"
-fetched_at: "2026-07-28T23:19:32.883693+00:00"
+fetched_at: "2026-07-29T15:09:04.844369+00:00"
 content_hash: "sha256:656cb3e53fb2741b5c555e5aab2994518f8d9911e0cb0b06cb52b01b298c8773"
 ---
 

@@ -7,7 +7,7 @@ source_id: "information-services-group-inc-common-stock-rss-538d49f51dc8"
 canonical_url: "https://ir.isg-one.com/news-market-information/press-releases/news-details/2026/Global-Insurers-Accelerate-AI-Led-ITO-Transformation/default.aspx"
 published_at: "2026-07-23T13:00:00+00:00"
 first_seen_at: "2026-07-25T09:22:57.245429+00:00"
-fetched_at: "2026-07-29T00:12:12.558272+00:00"
+fetched_at: "2026-07-29T17:13:34.862522+00:00"
 content_hash: "sha256:fc93156987229d2e7802af7f54e7ddb268ca2514be287d88ac20cac8383882f8"
 ---
 

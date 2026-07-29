@@ -7,7 +7,7 @@ source_id: "yc-inspectmind-ai-rss-7125fafcc8d8"
 canonical_url: "https://www.inspectmind.ai/"
 published_at: "2026-01-06T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:20.200105+00:00"
-fetched_at: "2026-07-28T22:52:50.159667+00:00"
+fetched_at: "2026-07-29T14:23:09.976212+00:00"
 content_hash: "sha256:01e8240e725bc9534e62f6665e68611887a60ba5a22bcd660a00d4fb420209b3"
 ---
 

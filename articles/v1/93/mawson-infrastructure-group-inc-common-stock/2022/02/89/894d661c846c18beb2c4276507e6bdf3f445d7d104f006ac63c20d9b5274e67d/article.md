@@ -7,7 +7,7 @@ source_id: "mawson-infrastructure-group-inc-common-stock-rss-8e61b7fe9dbc"
 canonical_url: "http://www.bigdigital.energy/news/post/mawson-appoints-heath-donald-as-cmo-and-tom-hughes-as-general-counsel"
 published_at: "2022-02-11T06:00:00+00:00"
 first_seen_at: "2026-07-25T03:22:07.630495+00:00"
-fetched_at: "2026-07-28T23:29:40.490465+00:00"
+fetched_at: "2026-07-29T15:26:37.124173+00:00"
 content_hash: "sha256:61a6f1a06e3dcc8374f320e231049e7f1258081ad4ef74adc138820e1158ecab"
 ---
 

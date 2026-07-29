@@ -7,7 +7,7 @@ source_id: "everspin-technologies-inc-common-stock-rss-89a261ceb02b"
 canonical_url: "https://www.everspin.com/products/series/em256lxq"
 published_at: "2026-07-06T20:54:24+00:00"
 first_seen_at: "2026-07-25T03:32:17.017001+00:00"
-fetched_at: "2026-07-28T23:52:01.403293+00:00"
+fetched_at: "2026-07-29T17:04:05.119082+00:00"
 content_hash: "sha256:b4ee0f9582a7d8417d54254ec88852767c90e1164aa0385fff79039d3dfc9b07"
 ---
 

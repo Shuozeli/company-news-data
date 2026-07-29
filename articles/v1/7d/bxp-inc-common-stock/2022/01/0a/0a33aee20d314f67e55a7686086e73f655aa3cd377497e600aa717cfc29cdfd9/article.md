@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-named-to-newsweeks-most-responsible-companies-2022"
 published_at: "2022-01-04T21:36:04+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:3f66cffd2e2e194f08bde8fd0295aac3bc6d238fc5505bb29a46ae5f174e86df"
 ---
 

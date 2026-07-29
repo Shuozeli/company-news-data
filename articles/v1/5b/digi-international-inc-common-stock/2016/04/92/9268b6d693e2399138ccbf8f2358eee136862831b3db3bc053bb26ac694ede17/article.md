@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2016/olsbergs-uses-xbee-make-construction-sites-safer"
 published_at: "2016-04-18T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:2c340ad49cea9b25f0b9f0a5bb69975aba27b746a4550e1d9bbed970d83686c9"
 ---
 

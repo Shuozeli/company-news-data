@@ -7,7 +7,7 @@ source_id: "biodesix-inc-common-stock-rss-a924513f16a8"
 canonical_url: "https://investors.biodesix.com/analyst-1"
 published_at: "2026-07-02T17:29:27+00:00"
 first_seen_at: "2026-07-24T19:19:15.956899+00:00"
-fetched_at: "2026-07-28T22:56:41.783016+00:00"
+fetched_at: "2026-07-29T14:28:26.319450+00:00"
 content_hash: "sha256:24fdbaea132e708bbd7cbe7d04d32c7ffa9872a91db4d544797a13d31bc7596b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "global-business-travel-group-inc-class-a-common-stock-rss-17274f5ce8
 canonical_url: "https://investors.amexglobalbusinesstravel.com/investors/news/news-details/2026/American-Express-Global-Business-Travel-Reduces-Interest-Rate-and-Increases-Liquidity/default.aspx"
 published_at: "2026-01-21T23:55:00+00:00"
 first_seen_at: "2026-07-25T06:42:19.713282+00:00"
-fetched_at: "2026-07-28T23:27:46.279236+00:00"
+fetched_at: "2026-07-29T15:24:29.564275+00:00"
 content_hash: "sha256:a7cdbb6a91dc33d04f760d2f80ad8233feb7a023cdb7f0f00b8bd1a082c7f500"
 ---
 

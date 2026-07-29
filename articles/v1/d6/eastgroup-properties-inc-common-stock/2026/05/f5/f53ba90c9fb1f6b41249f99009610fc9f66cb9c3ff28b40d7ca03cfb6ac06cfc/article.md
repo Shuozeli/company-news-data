@@ -7,7 +7,7 @@ source_id: "eastgroup-properties-inc-common-stock-rss-cadf7b5862c3"
 canonical_url: "https://investor.eastgroup.net/2026-05-21-EastGroup-Properties-Announces-186th-Consecutive-Quarterly-Cash-Dividend"
 published_at: "2026-05-21T20:05:00+00:00"
 first_seen_at: "2026-07-20T03:32:55.655546+00:00"
-fetched_at: "2026-07-28T23:39:16.854054+00:00"
+fetched_at: "2026-07-29T15:33:11.404730+00:00"
 content_hash: "sha256:cd69a04e923c0fd696efa2e03aa46d230bf18a215ed278153ce5e2f79d58b746"
 ---
 

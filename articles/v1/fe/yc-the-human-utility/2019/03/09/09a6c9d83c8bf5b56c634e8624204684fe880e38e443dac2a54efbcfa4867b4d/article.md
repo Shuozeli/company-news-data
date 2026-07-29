@@ -7,7 +7,7 @@ source_id: "yc-the-human-utility-rss-2a14128849f6"
 canonical_url: "https://medium.com/the-human-utility-blog/city-employees-are-heroes-55daba615486"
 published_at: "2019-03-15T21:56:16+00:00"
 first_seen_at: "2026-07-24T03:53:49.413717+00:00"
-fetched_at: "2026-07-29T00:01:18.916886+00:00"
+fetched_at: "2026-07-29T17:08:53.139033+00:00"
 content_hash: "sha256:b7cc40c378de7b551386f37e49067808983afae38e9b2d96635a9f48a58ee804"
 ---
 

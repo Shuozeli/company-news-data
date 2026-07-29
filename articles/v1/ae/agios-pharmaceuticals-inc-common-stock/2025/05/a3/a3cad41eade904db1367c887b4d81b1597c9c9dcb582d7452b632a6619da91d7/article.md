@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/to-celebrate-international-thalassaemia-day-2025-this-thalassemianews-special-edition-is-dedicated-to-the-thalassaemia-international-federation-tif/"
 published_at: "2025-05-06T16:32:19+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-29T00:23:58.530332+00:00"
+fetched_at: "2026-07-29T17:22:54.765339+00:00"
 content_hash: "sha256:44f6c9bf6f054b092e2b079eb103d72bd94721a247045c5fd833302521bf9111"
 ---
 

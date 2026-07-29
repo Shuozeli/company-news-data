@@ -7,7 +7,7 @@ source_id: "first-northwest-bancorp-common-stock-rss-18e4a95d90b4"
 canonical_url: "https://investor.ourfirstfed.com/press-releases/pr/2026/First-Northwest-Bancorp-Announces-Fourth-Quarter-2025-Results/default.aspx"
 published_at: "2026-01-29T12:00:00+00:00"
 first_seen_at: "2026-07-25T05:00:25.751324+00:00"
-fetched_at: "2026-07-29T00:30:50.991012+00:00"
+fetched_at: "2026-07-29T13:58:35.280327+00:00"
 content_hash: "sha256:79302d6a02bce6971e08f200da93748b24e670722608e58dc4b5d5d6ce1ab275"
 ---
 

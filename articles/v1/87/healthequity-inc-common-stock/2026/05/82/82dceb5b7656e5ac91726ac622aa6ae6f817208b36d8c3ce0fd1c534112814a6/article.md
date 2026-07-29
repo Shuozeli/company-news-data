@@ -7,7 +7,7 @@ source_id: "healthequity-inc-common-stock-rss-6283c6a40ed3"
 canonical_url: "https://ir.healthequity.com/news-releases/news-release-details/healthequity-reports-first-quarter-ended-april-30-2026-financial"
 published_at: "2026-05-28T20:01:00+00:00"
 first_seen_at: "2026-07-25T07:53:28.852709+00:00"
-fetched_at: "2026-07-28T21:07:28.054456+00:00"
+fetched_at: "2026-07-29T07:13:01.523523+00:00"
 content_hash: "sha256:bed664a93ac5b151e40b0bdf1475b4ec5c2aae07a82afa3b97a0d7437da48e52"
 ---
 

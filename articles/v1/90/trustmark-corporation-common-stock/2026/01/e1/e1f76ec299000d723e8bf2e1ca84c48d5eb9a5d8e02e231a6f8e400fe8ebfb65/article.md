@@ -7,7 +7,7 @@ source_id: "trustmark-corporation-common-stock-rss-1872e3f20368"
 canonical_url: "https://investorrelations.trustmark.com/news-events/press-releases/news-details/2026/Trustmark-Partners-with-Greenlight-to-Help-Parents-Raise-Financially-Smart-Kids-and-Teens/default.aspx"
 published_at: "2026-01-14T21:30:00+00:00"
 first_seen_at: "2026-07-26T03:12:25.582451+00:00"
-fetched_at: "2026-07-29T00:50:25.133360+00:00"
+fetched_at: "2026-07-29T14:19:01.123347+00:00"
 content_hash: "sha256:e6e155c3bd0a9ac1420315b8bc3cfd34df98f40d67aae7dfcb8c10e09276ed2c"
 ---
 

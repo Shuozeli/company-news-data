@@ -4,9 +4,9 @@
     "key": "yc-taxgpt",
     "name": "TaxGPT"
   },
-  "record_count": 101,
+  "record_count": 102,
   "first_published_at": "2026-03-02T14:24:35+00:00",
-  "last_published_at": "2026-07-28T14:26:36+00:00",
+  "last_published_at": "2026-07-28T23:57:12+00:00",
   "partitions": [
     {
       "partition": "2026-03",
@@ -26,11 +26,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 32
+      "record_count": 33
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 3,
@@ -39,27 +39,27 @@
         "page": 1,
         "path": "articles/v1/03/yc-taxgpt/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 50577,
-        "sha256": "sha256:ec93d8efd51ee50dfa32340516f312e09a38cd8d482b5924bf91a9c76b8e6d0b",
-        "newest_at": "2026-07-28T14:26:36+00:00",
+        "byte_count": 50464,
+        "sha256": "sha256:f3ce663326af13149fc56bc4778ce76852775d8d994c5b56daa753da4e7a8228",
+        "newest_at": "2026-07-28T23:57:12+00:00",
         "oldest_at": "2026-06-17T13:31:15+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/03/yc-taxgpt/index/pages/000002.json",
         "record_count": 50,
-        "byte_count": 51186,
-        "sha256": "sha256:a181d70ca3af14079e1184c45534aaf998f307517a34ef862f78aa40fba75d2f",
+        "byte_count": 51169,
+        "sha256": "sha256:483eccf7683b7a77c05c48eba72cd30f2e8f006f14e26c75434b16eeb71e7826",
         "newest_at": "2026-06-17T13:31:15+00:00",
-        "oldest_at": "2026-03-11T14:55:13+00:00"
+        "oldest_at": "2026-03-31T13:40:35+00:00"
       },
       {
         "page": 3,
         "path": "articles/v1/03/yc-taxgpt/index/pages/000003.json",
-        "record_count": 1,
-        "byte_count": 1205,
-        "sha256": "sha256:366d64b7329f4258295aeef08103cdc00f5a5f23d6bb0e8ccc9065b5d1a8aa01",
-        "newest_at": "2026-03-02T14:24:35+00:00",
+        "record_count": 2,
+        "byte_count": 2205,
+        "sha256": "sha256:c3cc5402f39f06f63fb5a41b9470b3cf881fcd669c64dd4cba592ccd7b00b009",
+        "newest_at": "2026-03-11T14:55:13+00:00",
         "oldest_at": "2026-03-02T14:24:35+00:00"
       }
     ]

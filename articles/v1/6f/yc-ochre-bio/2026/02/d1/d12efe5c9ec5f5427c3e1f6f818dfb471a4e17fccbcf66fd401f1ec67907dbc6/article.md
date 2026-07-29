@@ -7,7 +7,7 @@ source_id: "yc-ochre-bio-rss-279ab36d1688"
 canonical_url: "https://www.ochre-bio.com/2026/02/08/how-old-is-your-liver-take-our-6-step-test-to-find-out-if-youre-at-risk-of-fibrosis-and-cirrhosis-and-the-easy-lifestyle-tweaks-to-de-age-the-organ-fast/"
 published_at: "2026-02-08T12:38:00+00:00"
 first_seen_at: "2026-07-20T23:20:39.135312+00:00"
-fetched_at: "2026-07-28T23:13:09.647277+00:00"
+fetched_at: "2026-07-29T15:00:02.506650+00:00"
 content_hash: "sha256:7d3f7869700456348dfcf8a5e4ffb12c910465eaffd4df440f5db47dde58d631"
 ---
 

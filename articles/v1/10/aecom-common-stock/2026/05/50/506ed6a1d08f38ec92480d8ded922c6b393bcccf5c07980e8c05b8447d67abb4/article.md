@@ -7,7 +7,7 @@ source_id: "aecom-common-stock-rss-06e0000d390a"
 canonical_url: "https://aecom.com/blog/people-spotlight-meet-gianpaolo-busacchi/"
 published_at: "2026-05-11T15:43:00+00:00"
 first_seen_at: "2026-07-25T01:09:37.919036+00:00"
-fetched_at: "2026-07-28T23:46:17.625245+00:00"
+fetched_at: "2026-07-29T15:39:21.116498+00:00"
 content_hash: "sha256:863f6bb607a2c2121ecc5ec9ec6ccf115a9885bac76dead2a15d70a12b108579"
 ---
 

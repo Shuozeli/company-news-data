@@ -7,7 +7,7 @@ source_id: "grupo-supervielle-s-a-american-depositary-shares-each-representing-f
 canonical_url: "https://www.gruposupervielle.com/English/news-and-investor-education/news/news-details/2026/Aerolneas-Argentinas-and-Supervielle-a-new-partnership-for-premium-customers/default.aspx"
 published_at: "2026-05-15T16:00:00+00:00"
 first_seen_at: "2026-07-25T07:14:20.769534+00:00"
-fetched_at: "2026-07-28T23:42:41.926637+00:00"
+fetched_at: "2026-07-29T15:37:13.701623+00:00"
 content_hash: "sha256:0fc71c8ce3f151b708864160f58a197578d8b438b40a584216acc4a9816d9e75"
 ---
 

@@ -7,7 +7,7 @@ source_id: "sunstone-hotel-investors-inc-sunstone-hotel-investors-inc-common-sha
 canonical_url: "https://www.sunstonehotels.com/investor-relations/press-releases/news-details/2026/SUNSTONE-HOTEL-INVESTORS-REPORTS-RESULTS-FOR-FOURTH-QUARTER-AND-FULL-YEAR-2025/default.aspx"
 published_at: "2026-02-27T12:30:00+00:00"
 first_seen_at: "2026-07-26T07:47:55.987383+00:00"
-fetched_at: "2026-07-28T23:15:49.114754+00:00"
+fetched_at: "2026-07-29T15:05:53.584154+00:00"
 content_hash: "sha256:76a5da6735ca6d4d6836bcb703b2530272af640182ee79865f172e38d6151e69"
 ---
 

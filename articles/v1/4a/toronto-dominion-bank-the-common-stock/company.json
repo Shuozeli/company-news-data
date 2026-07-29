@@ -4,7 +4,7 @@
     "key": "toronto-dominion-bank-the-common-stock",
     "name": "Toronto Dominion Bank (The) Common Stock"
   },
-  "record_count": 49,
+  "record_count": 50,
   "first_published_at": "2022-06-21T00:00:00+00:00",
   "last_published_at": "2026-07-28T00:00:00+00:00",
   "partitions": [
@@ -94,11 +94,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 16
+      "record_count": 17
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -106,9 +106,9 @@
       {
         "page": 1,
         "path": "articles/v1/4a/toronto-dominion-bank-the-common-stock/index/pages/000001.json",
-        "record_count": 49,
-        "byte_count": 57816,
-        "sha256": "sha256:9cfed6f45134151d273a93fb63d7e70e143466c7d9504e9f9249bf19e0ed2337",
+        "record_count": 50,
+        "byte_count": 59076,
+        "sha256": "sha256:b0b4743cb6b4cba941c829bbec44b53b05f6a15905a8e523b02625bf52a5a259",
         "newest_at": "2026-07-28T21:36:14.883471+00:00",
         "oldest_at": "2022-06-21T00:00:00+00:00"
       }

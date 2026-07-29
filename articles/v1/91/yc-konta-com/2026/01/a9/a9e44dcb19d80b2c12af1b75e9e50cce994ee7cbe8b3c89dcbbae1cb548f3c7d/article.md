@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/como-facturar-en-home-depot-guia-paso-a-paso-2026"
 published_at: "2026-01-08T22:40:00+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:6676563d685c3c8c3ad5890e9269688ccbfb5ff2fb71e6e095be9aa85237bfc3"
 ---
 

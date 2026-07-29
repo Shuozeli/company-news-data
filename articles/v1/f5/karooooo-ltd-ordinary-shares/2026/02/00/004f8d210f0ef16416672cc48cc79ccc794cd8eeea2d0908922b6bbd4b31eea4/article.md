@@ -7,7 +7,7 @@ source_id: "karooooo-ltd-ordinary-shares-rss-90fe8cb4cf55"
 canonical_url: "https://karooooo.com/press-release/karooooo-to-present-at-the-raymond-james-27th-annual-institutional-investors-conference/"
 published_at: "2026-02-20T06:27:32+00:00"
 first_seen_at: "2026-07-20T23:17:55.333800+00:00"
-fetched_at: "2026-07-29T00:12:19.960855+00:00"
+fetched_at: "2026-07-29T17:13:39.077772+00:00"
 content_hash: "sha256:20709acf7ae58069952086c95b5abfc8510cf70b40428fbcfb2fdc04f85e3760"
 ---
 

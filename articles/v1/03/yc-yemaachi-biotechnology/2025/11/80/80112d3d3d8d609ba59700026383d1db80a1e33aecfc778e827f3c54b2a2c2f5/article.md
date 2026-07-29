@@ -7,7 +7,7 @@ source_id: "yc-yemaachi-biotechnology-rss-52f865158616"
 canonical_url: "https://www.yemaachi.com/2025/11/28/https-ashesi-edu-gh-yaw-bediako-dean-research-innovation/"
 published_at: "2025-11-28T10:56:00+00:00"
 first_seen_at: "2026-07-20T23:21:01.870758+00:00"
-fetched_at: "2026-07-28T22:54:11.978332+00:00"
+fetched_at: "2026-07-29T14:25:07.371111+00:00"
 content_hash: "sha256:cd6fae91c919fdae82758a4a70d999f0e08c110a1dc7cc7732f5baa8c52de9cc"
 ---
 

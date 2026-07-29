@@ -7,7 +7,7 @@ source_id: "american-airlines-group-inc-common-stock-news-import-f35386f4cd76"
 canonical_url: "https://news.aa.com/news/news-details/2026/American-is-ready-for-a-record-breaking-summer-OPS-OTH-05/default.aspx"
 published_at: "2026-05-10T00:00:00+00:00"
 first_seen_at: "2026-07-23T01:45:36.404123+00:00"
-fetched_at: "2026-07-28T20:07:07.541585+00:00"
+fetched_at: "2026-07-29T08:53:20.055255+00:00"
 content_hash: "sha256:e5d94f9735fa8fb317c9d2ea52072e66f5a6005c6feaf19bb6acb8f3455ccb1f"
 ---
 

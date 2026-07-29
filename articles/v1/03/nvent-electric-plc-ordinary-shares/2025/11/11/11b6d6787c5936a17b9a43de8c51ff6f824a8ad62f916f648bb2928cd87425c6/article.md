@@ -7,7 +7,7 @@ source_id: "nvent-electric-plc-ordinary-shares-rss-7e545b783f0e"
 canonical_url: "https://blog.nvent.com/evaluating-pour-strip-methods-modern-vs-traditional/"
 published_at: "2025-11-17T18:44:19+00:00"
 first_seen_at: "2026-07-20T23:21:35.308535+00:00"
-fetched_at: "2026-07-28T23:16:06.368241+00:00"
+fetched_at: "2026-07-29T17:00:16.148692+00:00"
 content_hash: "sha256:5ed9e74b0f087af69df5c1434ce1ff587adbcac4bff134983b596f3fcb79d74f"
 ---
 

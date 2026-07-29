@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/voice-ai-loan-collections-playbook"
 published_at: "2025-09-29T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:f6c4928b66af4d786d992740e6df13bb285ddaac63e75404466b32c08063fb3c"
 ---
 

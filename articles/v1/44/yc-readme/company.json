@@ -4,17 +4,17 @@
     "key": "yc-readme",
     "name": "ReadMe"
   },
-  "record_count": 21,
+  "record_count": 22,
   "first_published_at": null,
   "last_published_at": null,
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 21
+      "record_count": 22
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/44/yc-readme/index/pages/000001.json",
-        "record_count": 21,
-        "byte_count": 19981,
-        "sha256": "sha256:cabeb0be4b40ed82c79b9870f0ae01be976e78c9ea2f52c547d59039bdc1ad3a",
-        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "record_count": 22,
+        "byte_count": 20992,
+        "sha256": "sha256:b2a1f78c5b1551e29c1c4f4e84b8a5790da70a0f9cb809a7c9bf0b8ca27fe9e0",
+        "newest_at": "2026-07-29T06:39:02.337761+00:00",
         "oldest_at": "2026-07-28T21:20:10.944044+00:00"
       }
     ]

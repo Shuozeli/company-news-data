@@ -7,7 +7,7 @@ source_id: "one-gas-inc-common-stock-rss-aa9bfc293deb"
 canonical_url: "https://www.onegas.com/news/press-release-details/2026/ONE-Gas-to-Participate-in-Bank-of-America-Power-Utilities-and-Cleantech-Conference/default.aspx"
 published_at: "2026-05-26T20:15:00+00:00"
 first_seen_at: "2026-07-25T17:25:35.745524+00:00"
-fetched_at: "2026-07-28T23:17:19.673637+00:00"
+fetched_at: "2026-07-29T15:07:38.629718+00:00"
 content_hash: "sha256:d7cd081cdd1ed1cfc2a03dd62558c53cbdcab93fd8dcbfc0c16f730240798dce"
 ---
 

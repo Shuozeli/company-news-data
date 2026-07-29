@@ -7,7 +7,7 @@ source_id: "coinbase-global-inc-class-a-common-stock-rss-0560afd38a6f"
 canonical_url: "https://investor.coinbase.com/news/news-details/2025/Coinbase-to-Participate-in-Goldman-Sachs-2025-Financial-Services-Conference/default.aspx"
 published_at: "2025-12-03T01:45:00+00:00"
 first_seen_at: "2026-07-27T01:08:36.461488+00:00"
-fetched_at: "2026-07-29T00:50:58.796605+00:00"
+fetched_at: "2026-07-29T14:20:36.200858+00:00"
 content_hash: "sha256:b4d835913987ff561d30577072309bcf08429c8ef8189ac458db4c2ef5e19a87"
 ---
 

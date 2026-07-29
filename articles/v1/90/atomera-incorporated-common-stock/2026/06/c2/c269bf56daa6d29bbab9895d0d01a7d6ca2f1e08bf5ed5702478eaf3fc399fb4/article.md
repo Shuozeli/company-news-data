@@ -7,7 +7,7 @@ source_id: "atomera-incorporated-common-stock-rss-54d6f1fe514e"
 canonical_url: "https://atomera.com/quashing-parasitics-in-rf-gan-on-silicon-hemts/"
 published_at: "2026-06-17T10:53:26+00:00"
 first_seen_at: "2026-07-20T23:18:45.750540+00:00"
-fetched_at: "2026-07-29T00:05:52.112935+00:00"
+fetched_at: "2026-07-29T15:46:55.215301+00:00"
 content_hash: "sha256:653a04b09cff4602f73019f60b284dfc494877e91edf47b615f0dccb3ce01b74"
 ---
 

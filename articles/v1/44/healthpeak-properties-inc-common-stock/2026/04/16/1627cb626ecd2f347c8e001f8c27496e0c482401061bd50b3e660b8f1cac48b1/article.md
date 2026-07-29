@@ -7,7 +7,7 @@ source_id: "healthpeak-properties-inc-common-stock-rss-3e38838c357d"
 canonical_url: "https://ir.healthpeak.com/news/news-details/2026/Healthpeak-Properties-Announces-Dates-of-First-Quarter-2026-Earnings-Release-Conference-Call-and-Webcast/default.aspx"
 published_at: "2026-04-08T20:15:00+00:00"
 first_seen_at: "2026-07-25T07:50:27.033385+00:00"
-fetched_at: "2026-07-28T23:39:14.000643+00:00"
+fetched_at: "2026-07-29T15:32:54.443050+00:00"
 content_hash: "sha256:aa1d0b10116036e80bf5ee856927fe292d86cf728796a2d09921dfad59c53a4d"
 ---
 

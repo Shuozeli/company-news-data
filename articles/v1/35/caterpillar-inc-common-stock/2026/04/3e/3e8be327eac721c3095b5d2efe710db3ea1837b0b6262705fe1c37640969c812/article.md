@@ -7,7 +7,7 @@ source_id: "caterpillar-inc-common-stock-rss-90e46305743e"
 canonical_url: "https://www.caterpillar.com/en/news/corporate-press-releases/h/1q26-results-caterpillar-inc.html"
 published_at: "2026-04-30T10:30:00+00:00"
 first_seen_at: "2026-07-26T11:14:59.126973+00:00"
-fetched_at: "2026-07-28T23:27:09.036262+00:00"
+fetched_at: "2026-07-29T15:23:49.618282+00:00"
 content_hash: "sha256:43e82f841200212bd2cfdef46776d5d417f2d0f3d9dd5d776ce3cf7229e5128a"
 ---
 

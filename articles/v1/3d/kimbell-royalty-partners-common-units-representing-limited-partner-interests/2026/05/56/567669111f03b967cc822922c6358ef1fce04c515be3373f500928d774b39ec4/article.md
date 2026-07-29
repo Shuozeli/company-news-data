@@ -7,7 +7,7 @@ source_id: "kimbell-royalty-partners-common-units-representing-limited-partner-i
 canonical_url: "https://kimbellrp.investorroom.com/2026-05-07-Kimbell-Royalty-Partners-Announces-First-Quarter-2026-Results"
 published_at: "2026-05-07T11:00:00+00:00"
 first_seen_at: "2026-07-25T10:49:16.934746+00:00"
-fetched_at: "2026-07-28T22:13:50.769502+00:00"
+fetched_at: "2026-07-29T14:22:09.092066+00:00"
 content_hash: "sha256:e40924386e623fb600edf1edf3ed1c3502f463270258d0c16c026b865f0c7409"
 ---
 

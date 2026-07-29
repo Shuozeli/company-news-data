@@ -7,7 +7,7 @@ source_id: "johnson-outdoors-inc-class-a-common-stock-rss-d7a348c41086"
 canonical_url: "https://www.johnsonoutdoors.com/us/investors/news/johnson-outdoors-announces-fiscal-first-quarter-results-december-2026"
 published_at: "2026-02-06T14:55:04+00:00"
 first_seen_at: "2026-07-20T23:22:39.768322+00:00"
-fetched_at: "2026-07-28T23:31:05.038598+00:00"
+fetched_at: "2026-07-29T15:26:46.745165+00:00"
 content_hash: "sha256:002ff7513edb46bb5f5cd74dbf62683b5d228b0316fe4cae09985cc1f9227596"
 ---
 

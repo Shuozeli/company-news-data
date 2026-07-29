@@ -7,7 +7,7 @@ source_id: "smart-sand-inc-common-stock-rss-1046bb579a6a"
 canonical_url: "https://ir.smartsand.com/2026-04-09-SMART-SAND,-INC-DECLARES-SPECIAL-DIVIDEND-OF-0-10-PER-SHARE"
 published_at: "2026-04-09T20:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:08.226751+00:00"
-fetched_at: "2026-07-29T00:07:22.437619+00:00"
+fetched_at: "2026-07-29T17:12:05.798746+00:00"
 content_hash: "sha256:45f8070ee9905e790d1483fa8b37a397c1deae7a79e8ce744c17ce4760edaf24"
 ---
 

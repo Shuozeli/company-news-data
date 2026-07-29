@@ -3,12 +3,12 @@ schema_version: "1.0.0"
 document_id: "44dacd2520fd6450085c3a9cc0f3fab433b0e94d901d7ba5db3a47dfd5ab705c"
 company_key: "yc-plexus"
 company: "Plexus"
-source_id: "yc-plexus-rss-cc1b87ea1133"
+source_id: "yc-plexus-rss-fd7a21fba0b1"
 canonical_url: "https://www.plexus.com/blog/engineering-c-uas-systems-for-allied-defense/"
 published_at: "2026-07-23T21:13:23+00:00"
-first_seen_at: "2026-07-27T04:25:33.439043+00:00"
-fetched_at: "2026-07-28T21:47:36.059629+00:00"
-content_hash: "sha256:db6a5877c6ecb026a201a603cf98aacc699aeb8422ca6e5577e0b0fb3853771a"
+first_seen_at: "2026-07-29T01:55:45.554966+00:00"
+fetched_at: "2026-07-29T01:55:46.232948+00:00"
+content_hash: "sha256:2ed712fc4b478ba8b982316c8c034b7ae6d3ce25484ec947eb2208c48c1ef351"
 ---
 
 # Engineering C-UAS Systems for Allied Defense
@@ -220,6 +220,18 @@ Contact the Plexus Defense team today to scale your mission-critical technology 
 [Blogs](https://www.plexus.com/category/blog/)
 
 
+### Scaling AI Data Centers: Solving for 100kW Rack Densities
+
+
+8 min read
+
+
+-
+
+
+[Blogs](https://www.plexus.com/category/blog/)
+
+
 ### Plexus Recognized at 2026 Manufacturing Leadership Awards
 
 
@@ -236,15 +248,3 @@ Contact the Plexus Defense team today to scale your mission-critical technology 
 
 
 6 min read
-
-
--
-
-
-[Blogs](https://www.plexus.com/category/blog/)
-
-
-### The FPGA Advantage in Mission-Critical Design
-
-
-5 min read

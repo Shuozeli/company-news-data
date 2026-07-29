@@ -7,7 +7,7 @@ source_id: "utz-brands-inc-class-a-common-stock-atom-1dc00602c727"
 canonical_url: "https://www.utzsnacks.com/blogs/news/utz-brands-showcase-seasonal-snack-collections-innovations-at-2025-sweets-snacks-expo"
 published_at: "2025-05-09T20:25:36+00:00"
 first_seen_at: "2026-07-24T05:39:22.118071+00:00"
-fetched_at: "2026-07-28T23:27:00.567069+00:00"
+fetched_at: "2026-07-29T15:23:05.061283+00:00"
 content_hash: "sha256:1dd6904c4ad10971c86fa2f0c16d307c59ecd689bb78bbba7e086c85bdf931aa"
 ---
 

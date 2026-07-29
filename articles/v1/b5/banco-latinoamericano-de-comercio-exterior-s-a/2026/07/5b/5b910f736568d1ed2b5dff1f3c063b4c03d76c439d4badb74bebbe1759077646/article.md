@@ -7,8 +7,8 @@ source_id: "banco-latinoamericano-de-comercio-exterior-s-a-rss-c43c50395ab0"
 canonical_url: "https://www.bladex.com/en/Bladex_Strengthens_Its_Board_of_Directors_with_Two_New_Appointments"
 published_at: "2026-07-17T21:43:14+00:00"
 first_seen_at: "2026-07-24T18:13:16.466615+00:00"
-fetched_at: "2026-07-29T00:24:29.653053+00:00"
-content_hash: "sha256:0604230d0727f94f6cd41028b625e22a7f6461446b72974cbae5b488a9086dee"
+fetched_at: "2026-07-29T17:22:33.727432+00:00"
+content_hash: "sha256:ed4b3d6309536cec7cadf7b8aaef7edbd485157a8a368951bcb9bc4ca1e5a5de"
 ---
 
 # Bladex Strengthens Its Board of Directors with Two New Appointments
@@ -19,4 +19,4 @@ Bladex Strengthens Its Board of Directors with Two New Appointments
 Griselda Arias
 
 
-July 28, 2026
+July 29, 2026

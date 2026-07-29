@@ -7,7 +7,7 @@ source_id: "trio-tech-international-common-stock-rss-99f64778e8d5"
 canonical_url: "https://www.triotech.com/equipment-maintenance-repair-services/"
 published_at: "2025-07-04T05:00:10+00:00"
 first_seen_at: "2026-07-25T01:07:54.066074+00:00"
-fetched_at: "2026-07-28T23:16:41.355776+00:00"
+fetched_at: "2026-07-29T15:06:17.629139+00:00"
 content_hash: "sha256:c250725f82aec2fa22fb065fcccf0d25cbbc2af1cf5b50cb9730b5212cd543dd"
 ---
 

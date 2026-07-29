@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/car-profiles/lanchester-the-other-british-luxury-car-drafted-into-wwi/"
 published_at: "2026-07-14T15:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:a89adf6b4c4ba99b82253da847f1bad05ae5b5f985b230e380b94b8cbec58ddc"
 ---
 

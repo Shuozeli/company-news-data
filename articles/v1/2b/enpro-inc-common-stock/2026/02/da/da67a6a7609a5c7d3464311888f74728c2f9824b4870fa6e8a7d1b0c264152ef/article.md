@@ -7,7 +7,7 @@ source_id: "enpro-inc-common-stock-rss-6c2830fcce4a"
 canonical_url: "https://www.enpro.com/for-investors/investor-news/news-details/2026/Enpro-to-Present-at-Gabelli-36th-Annual-Pump-Valve--Water-Systems-Symposium/default.aspx"
 published_at: "2026-02-23T15:00:00+00:00"
 first_seen_at: "2026-07-25T02:29:38.601646+00:00"
-fetched_at: "2026-07-29T00:21:31.239130+00:00"
+fetched_at: "2026-07-29T17:21:53.260454+00:00"
 content_hash: "sha256:cb14dd3ad4b91e70e310875ea3172eb6c18a798b4c35e7616735dd54491b6701"
 ---
 

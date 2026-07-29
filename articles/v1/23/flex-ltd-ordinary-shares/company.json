@@ -4,9 +4,9 @@
     "key": "flex-ltd-ordinary-shares",
     "name": "Flex Ltd. Ordinary Shares"
   },
-  "record_count": 10,
+  "record_count": 12,
   "first_published_at": "2026-05-04T13:05:00+00:00",
-  "last_published_at": "2026-07-09T13:05:00+00:00",
+  "last_published_at": "2026-07-29T11:06:00+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -18,11 +18,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 4
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,10 +30,10 @@
       {
         "page": 1,
         "path": "articles/v1/23/flex-ltd-ordinary-shares/index/pages/000001.json",
-        "record_count": 10,
-        "byte_count": 18974,
-        "sha256": "sha256:e2486685678bf202310b1b0d18e78510becb4ff6e6107bcdbdf60fddb8e018f3",
-        "newest_at": "2026-07-09T13:05:00+00:00",
+        "record_count": 12,
+        "byte_count": 22983,
+        "sha256": "sha256:6eeeae4d6c1e2b2bcc074ec23e4408b0992085eb93a0995266e8e73a4df8b0e2",
+        "newest_at": "2026-07-29T11:06:00+00:00",
         "oldest_at": "2026-05-04T13:05:00+00:00"
       }
     ]

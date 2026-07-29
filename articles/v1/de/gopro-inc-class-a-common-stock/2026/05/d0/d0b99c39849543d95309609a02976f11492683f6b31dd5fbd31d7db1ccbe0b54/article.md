@@ -7,7 +7,7 @@ source_id: "gopro-inc-class-a-common-stock-rss-6614c0f220fc"
 canonical_url: "http://investor.gopro.com/press-releases/press-release-details/2026/GoPros-New-MISSION-1-Series-Cameras-Mounts-and-Accessories-Now-Available-on-Retail-Shelves-Globally-and-at-GoPro-com/default.aspx"
 published_at: "2026-05-28T13:00:00+00:00"
 first_seen_at: "2026-07-25T06:56:22.873146+00:00"
-fetched_at: "2026-07-28T23:53:03.370491+00:00"
+fetched_at: "2026-07-29T15:46:16.915174+00:00"
 content_hash: "sha256:31c918d759cc8202e264ef7d82cbf242634e65295d1db4144081e6a1a2d47e0a"
 ---
 

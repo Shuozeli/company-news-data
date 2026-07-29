@@ -7,7 +7,7 @@ source_id: "bark-inc-class-a-common-stock-atom-d9f7d0936a18"
 canonical_url: "https://bark.co/blogs/press/bark-air-introduces-flights-with-lower-fares-uniting-more-dogs-and-their-people-in-the-skies"
 published_at: "2024-12-11T05:00:00+00:00"
 first_seen_at: "2026-07-25T01:26:35.275186+00:00"
-fetched_at: "2026-07-28T23:30:18.317292+00:00"
+fetched_at: "2026-07-29T15:27:04.969445+00:00"
 content_hash: "sha256:6e77ed4a33da105218a5c28031c3433a2f2ed6ad25d52bfe72b7a95e102c04d7"
 ---
 

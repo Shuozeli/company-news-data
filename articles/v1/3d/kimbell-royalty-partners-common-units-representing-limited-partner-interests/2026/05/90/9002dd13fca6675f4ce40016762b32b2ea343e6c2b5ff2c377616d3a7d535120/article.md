@@ -7,7 +7,7 @@ source_id: "kimbell-royalty-partners-common-units-representing-limited-partner-i
 canonical_url: "https://kimbellrp.investorroom.com/2026-05-19-Kimbell-Royalty-Partners,-LP-Announces-147-Million-Permian-Basin-Mineral-and-Royalty-Acquisition-from-Mesa-Royalties"
 published_at: "2026-05-19T12:30:00+00:00"
 first_seen_at: "2026-07-25T10:49:16.934746+00:00"
-fetched_at: "2026-07-28T22:13:50.769502+00:00"
+fetched_at: "2026-07-29T14:22:09.092066+00:00"
 content_hash: "sha256:d81fc756636c0ecb04298fa853b6be2467dd303893572afe55352e3b705277a7"
 ---
 

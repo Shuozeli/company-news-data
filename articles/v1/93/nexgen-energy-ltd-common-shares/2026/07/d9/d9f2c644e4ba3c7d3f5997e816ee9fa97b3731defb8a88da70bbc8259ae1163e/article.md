@@ -7,7 +7,7 @@ source_id: "nexgen-energy-ltd-common-shares-rss-08ce1b442850"
 canonical_url: "https://www.nexgenenergy.ca/news/news-details/2026/NexGen-Announces-Voting-Results-for-Election-of-Directors/default.aspx"
 published_at: "2026-07-01T01:32:00+00:00"
 first_seen_at: "2026-07-26T08:21:32.536103+00:00"
-fetched_at: "2026-07-29T00:01:26.019962+00:00"
+fetched_at: "2026-07-29T17:03:06.541097+00:00"
 content_hash: "sha256:12a900f0278f7dfc37208b28b75c8aa218d863cc834f6380b337f2ca9ec9ec68"
 ---
 

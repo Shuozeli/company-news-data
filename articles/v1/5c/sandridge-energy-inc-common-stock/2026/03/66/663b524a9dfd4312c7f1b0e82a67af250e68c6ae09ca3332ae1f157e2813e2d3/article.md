@@ -7,7 +7,7 @@ source_id: "sandridge-energy-inc-common-stock-rss-5b82a608bfe4"
 canonical_url: "https://investors.sandridgeenergy.com/Investor-Relations/press-releases/press-release-details/2026/SANDRIDGE-ENERGY-INC--ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2025-OPERATIONAL-AND-FINANCIAL-RESULTS-RELEASE-DATE-AND-CONFERENCE-CALL-INFORMATION/default.aspx"
 published_at: "2026-03-02T21:15:00+00:00"
 first_seen_at: "2026-07-25T22:09:48.506465+00:00"
-fetched_at: "2026-07-29T00:50:09.401555+00:00"
+fetched_at: "2026-07-29T14:20:18.067562+00:00"
 content_hash: "sha256:6628be5f27bdcfb6e9bb5a9ed1fa58b675d78681924f22297dff39f78a680c97"
 ---
 

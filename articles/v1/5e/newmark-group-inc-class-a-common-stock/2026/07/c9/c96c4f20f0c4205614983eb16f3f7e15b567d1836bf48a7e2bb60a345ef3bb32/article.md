@@ -7,7 +7,7 @@ source_id: "newmark-group-inc-class-a-common-stock-rss-3925c6b543ec"
 canonical_url: "https://www.nmrk.com/insights/in-the-news/downtown-toronto-office-vacancy-reaches-three-year-low-even-as-leasing-slows-newmark"
 published_at: "2026-07-23T04:00:00+00:00"
 first_seen_at: "2026-07-26T17:55:39.497785+00:00"
-fetched_at: "2026-07-28T22:59:53.234597+00:00"
+fetched_at: "2026-07-29T14:37:57.528482+00:00"
 content_hash: "sha256:4eb529771d11294ef2a364ad9ed2ec017be8e7fcecf722a20c0cb875fb14b21a"
 ---
 

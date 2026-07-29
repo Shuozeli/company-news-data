@@ -4,17 +4,17 @@
     "key": "newmark-group-inc-class-a-common-stock",
     "name": "Newmark Group Inc. Class A Common Stock"
   },
-  "record_count": 17,
+  "record_count": 18,
   "first_published_at": "2026-07-15T13:00:00+00:00",
-  "last_published_at": "2026-07-27T19:30:00+00:00",
+  "last_published_at": "2026-07-29T12:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 17
+      "record_count": 18
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/5e/newmark-group-inc-class-a-common-stock/index/pages/000001.json",
-        "record_count": 17,
-        "byte_count": 21179,
-        "sha256": "sha256:bedd95c2521f5bb4209969d32b90eedce21de23ab894843d20ed189b6c071497",
-        "newest_at": "2026-07-27T19:30:00+00:00",
+        "record_count": 18,
+        "byte_count": 22204,
+        "sha256": "sha256:f1be2baa45c7076111c0a9811701bcb8cf33d5ed07a24396924b7ba495ad9361",
+        "newest_at": "2026-07-29T12:00:00+00:00",
         "oldest_at": "2026-07-15T13:00:00+00:00"
       }
     ]

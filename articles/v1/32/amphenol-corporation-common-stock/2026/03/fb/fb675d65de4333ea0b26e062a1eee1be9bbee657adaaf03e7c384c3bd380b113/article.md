@@ -7,7 +7,7 @@ source_id: "amphenol-corporation-common-stock-rss-77a167a514cc"
 canonical_url: "https://investors.amphenol.com/news-and-events/news-details/2026/Amphenol-Announces-Pricing-of-Euro-Denominated-Senior-Notes-Offering/default.aspx"
 published_at: "2026-03-24T20:15:00+00:00"
 first_seen_at: "2026-07-26T22:30:06.734884+00:00"
-fetched_at: "2026-07-29T00:30:41.375943+00:00"
+fetched_at: "2026-07-29T13:57:34.823689+00:00"
 content_hash: "sha256:8f92113764dadf792872350e8d0aab9587c247e7ea85ad3cd0632b638f0a66a3"
 ---
 

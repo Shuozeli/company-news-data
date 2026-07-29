@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/faster-ios-builds-with-precompiled-xcframeworks"
 published_at: "2026-06-11T12:45:00+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:cc8be2fcd805cc13cc1512325adb4f7f2c9a013875c70dd8dbd54d1a5c452fb1"
 ---
 

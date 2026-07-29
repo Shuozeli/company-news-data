@@ -7,7 +7,7 @@ source_id: "aligos-therapeutics-inc-common-stock-rss-e904f5283fa0"
 canonical_url: "https://aligos.com/pevifoscorvir-sodium-demonstrated-profound-antiviral-activity-in-untreated-hbeag-subjects-regardless-of-baseline-alt-level/"
 published_at: "2026-05-27T06:29:00+00:00"
 first_seen_at: "2026-07-24T09:07:29.405763+00:00"
-fetched_at: "2026-07-28T23:49:30.340433+00:00"
+fetched_at: "2026-07-29T15:42:40.714947+00:00"
 content_hash: "sha256:c487ab3cc1f9252431c29770a4cd0631085091cbc2edf2c801930e558c3645a1"
 ---
 

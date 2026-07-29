@@ -7,7 +7,7 @@ source_id: "forte-biosciences-inc-common-stock-rss-ecb02a61bf8b"
 canonical_url: "https://www.fortebiorx.com/investor-relations/news/news-details/2026/Forte-Biosciences-Announces-Pricing-of-150-Million-Public-Offering/default.aspx"
 published_at: "2026-04-09T01:30:00+00:00"
 first_seen_at: "2026-07-25T05:32:08.733879+00:00"
-fetched_at: "2026-07-28T23:13:51.121139+00:00"
+fetched_at: "2026-07-29T15:00:50.763078+00:00"
 content_hash: "sha256:22a9f14d384cd2acb7654296b0366aed1f16ba288cc4b913b588bb2b69e0ef53"
 ---
 

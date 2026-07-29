@@ -3,15 +3,15 @@ schema_version: "1.0.0"
 document_id: "bc9e92c19a614e550a4d48a3ac8f54b509f78e49efcb6180732ab86f52c17ee1"
 company_key: "evercore-inc-class-a-common-stock"
 company: "Evercore Inc. Class A Common Stock"
-source_id: "evercore-inc-class-a-common-stock-news-import-3fbf37355688"
+source_id: "evercore-inc-class-a-common-stock-rss-195d2cdaf7a7"
 canonical_url: "https://evercorewealthandtrust.com/news/evercore-wealth-management-recognized-in-financial-advisors-2026-ria-ranking/"
-published_at: null
-first_seen_at: "2026-07-26T13:49:30.653089+00:00"
-fetched_at: "2026-07-28T21:35:55.789196+00:00"
-content_hash: "sha256:7001b5f14f80c5a818e19249f533715862a9fe2d885bf5cfb1a60b7ececea39c"
+published_at: "2026-07-17T14:10:23+00:00"
+first_seen_at: "2026-07-29T08:23:54.113138+00:00"
+fetched_at: "2026-07-29T08:23:55.001992+00:00"
+content_hash: "sha256:d6c5bdb6ae40149a8d88ec66a0c02152b64ca269b3082d66b4e30b9d30dc1d2b"
 ---
 
-# Evercore Wealth Management recognized in Financial Advisor’s 2026 RIA ranking - Evercore Wealth Management
+# Evercore Wealth Management recognized in Financial Advisor’s 2026 RIA ranking
 
 [Home](https://evercorewealthandtrust.com/)
 
@@ -124,7 +124,7 @@ Announcements
 Evercore Wealth Management is once again included in *Financial Advisor’s* 2026 Registered Investment Advisor (RIA) ranking (7/10/26). This recognition reflects our team’s hard work, dedication, and commitment to serving our clients.
 
 
-If you would like to learn more about our firm, please reach out to[\[email protected\]](https://evercorewealthandtrust.com/cdn-cgi/l/email-protection#6413010508100c09050a05030109010a102401120116070b16014a070b09) .
+If you would like to learn more about our firm, please reach out to[\[email protected\]](https://evercorewealthandtrust.com/cdn-cgi/l/email-protection#91e6f4f0fde5f9fcf0fff0f6f4fcf4ffe5d1f4e7f4e3f2fee3f4bff2fefc) .
 
 
 Back

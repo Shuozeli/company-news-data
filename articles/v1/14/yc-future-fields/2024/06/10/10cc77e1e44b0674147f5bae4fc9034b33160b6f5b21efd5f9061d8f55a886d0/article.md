@@ -7,7 +7,7 @@ source_id: "yc-future-fields-rss-02d8ed225558"
 canonical_url: "https://futurefields.io/overview-of-recombinant-protein-expression-systems/"
 published_at: "2024-06-20T21:30:00+00:00"
 first_seen_at: "2026-07-25T03:17:21.494318+00:00"
-fetched_at: "2026-07-28T23:21:50.356181+00:00"
+fetched_at: "2026-07-29T15:15:39.745784+00:00"
 content_hash: "sha256:da1dd8d0934dd37149ba15976c8adf2d28f825bf65c09a8d8692e6d3eb510551"
 ---
 

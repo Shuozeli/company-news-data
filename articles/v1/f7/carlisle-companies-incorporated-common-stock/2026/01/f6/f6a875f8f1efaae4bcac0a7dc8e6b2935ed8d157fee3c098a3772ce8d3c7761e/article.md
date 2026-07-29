@@ -7,7 +7,7 @@ source_id: "carlisle-companies-incorporated-common-stock-rss-e3395e65bc20"
 canonical_url: "https://www.carlisle.com/investors/news/press-release-details/2026/Carlisle-Companies-Declares-Regular-Quarterly-Dividend/default.aspx"
 published_at: "2026-01-28T21:05:00+00:00"
 first_seen_at: "2026-07-25T01:06:56.398889+00:00"
-fetched_at: "2026-07-29T00:06:47.568889+00:00"
+fetched_at: "2026-07-29T17:09:40.631562+00:00"
 content_hash: "sha256:e17bd00159392ab0b935d2cd972b3c029c318703e215ff5b782542c71217fcf5"
 ---
 

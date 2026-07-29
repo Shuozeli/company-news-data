@@ -7,7 +7,7 @@ source_id: "axos-financial-inc-common-stock-rss-752e4796f309"
 canonical_url: "https://investors.axosfinancial.com/news-events/press-releases/news-details/2026/Axos-Bank-Joins-Qualias-Bank-Partner-Network-to-Enhance-Digital-Real-Estate-Closings/default.aspx"
 published_at: "2026-01-05T14:00:00+00:00"
 first_seen_at: "2026-07-26T23:21:51.360191+00:00"
-fetched_at: "2026-07-28T23:53:40.559338+00:00"
+fetched_at: "2026-07-29T17:07:10.957781+00:00"
 content_hash: "sha256:c63ad8275771bcfc4d942ed5e1d024ddf47dc51dee635c1854314c7fa93aef04"
 ---
 

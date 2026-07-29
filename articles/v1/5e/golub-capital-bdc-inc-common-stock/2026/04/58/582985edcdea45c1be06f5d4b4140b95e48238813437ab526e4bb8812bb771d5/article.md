@@ -7,7 +7,7 @@ source_id: "golub-capital-bdc-inc-common-stock-rss-42b3214e2170"
 canonical_url: "https://golubcapitalbdc.com/2026/04/13/u-s-middle-market-remained-resilient-in-q1-2026/"
 published_at: "2026-04-13T17:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:52.275280+00:00"
-fetched_at: "2026-07-28T23:03:48.236161+00:00"
+fetched_at: "2026-07-29T14:41:41.576560+00:00"
 content_hash: "sha256:0d28aa21ce505f66fb23a25cf1d3a535ca654c7975e2449b5c917bb3c0df5e86"
 ---
 

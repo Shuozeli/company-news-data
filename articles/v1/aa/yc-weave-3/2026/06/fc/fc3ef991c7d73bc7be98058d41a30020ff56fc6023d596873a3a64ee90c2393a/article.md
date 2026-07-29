@@ -7,7 +7,7 @@ source_id: "yc-weave-3-news-import-b8160165addf"
 canonical_url: "https://weaveos.com/blog/best-engineering-analytics-for-agile-teams-to-drive-speed"
 published_at: "2026-06-08T00:00:00+00:00"
 first_seen_at: "2026-07-22T19:33:03.286750+00:00"
-fetched_at: "2026-07-28T01:31:06.686672+00:00"
+fetched_at: "2026-07-29T03:27:10.305016+00:00"
 content_hash: "sha256:a8288f880764abb7e320f5eaa31120397dd240a0d828af3dd9a71a911203be39"
 ---
 

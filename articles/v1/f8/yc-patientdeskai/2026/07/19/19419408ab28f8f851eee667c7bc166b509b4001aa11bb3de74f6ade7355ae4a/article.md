@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/dental-marketing-in-2026-7-strategies-that-fill-chairs"
 published_at: "2026-07-24T11:03:31.498+00:00"
 first_seen_at: "2026-07-25T22:02:25.832637+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:0114f84f017796017a6452b308b759d7cd1b369c904bc2ce53be296100b4896d"
 ---
 

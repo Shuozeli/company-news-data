@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2020/STIFEL%20ANNOUNCES%20PRICING%20OF%20PREFERRED%20STOCK.pdf"
 published_at: "2020-05-13T03:26:50+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:de3b164a31adae80ce326f7c0ba968544908205e402ad719eccf5ae9abe98b8d"
 ---
 

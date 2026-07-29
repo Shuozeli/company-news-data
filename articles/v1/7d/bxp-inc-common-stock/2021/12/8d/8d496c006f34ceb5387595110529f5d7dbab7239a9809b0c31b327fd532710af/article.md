@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-named-to-2021-forbes-green-growth-50"
 published_at: "2021-12-16T16:32:56+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:b2fcca6475e6f93ed530a987f28f0ad11660f43ef240986e94c6cd4131d6e013"
 ---
 

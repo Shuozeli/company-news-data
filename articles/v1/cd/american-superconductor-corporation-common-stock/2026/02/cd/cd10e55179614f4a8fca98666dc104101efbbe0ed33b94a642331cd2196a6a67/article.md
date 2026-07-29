@@ -7,7 +7,7 @@ source_id: "american-superconductor-corporation-common-stock-rss-3d6598dfe779"
 canonical_url: "https://www.amsc.com/american-superconductor-ceo-addresses-challenges-in-grid-reliability/"
 published_at: "2026-02-13T18:48:05+00:00"
 first_seen_at: "2026-07-24T15:54:45.345704+00:00"
-fetched_at: "2026-07-29T00:46:23.854870+00:00"
+fetched_at: "2026-07-29T14:10:40.251687+00:00"
 content_hash: "sha256:09009f824cfe2c7f39447263878d518fde476c308c1f3ae2bc8fb8f2b29f451f"
 ---
 

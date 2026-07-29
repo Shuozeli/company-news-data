@@ -7,7 +7,7 @@ source_id: "logistic-properties-of-the-americas-ordinary-shares-rss-03de7fdaa01e
 canonical_url: "https://ir.lpamericas.com/news-events/news/news-details/2026/Logistic-Properties-of-the-Americas-Announces-Full-Year-2025-Earnings-Results/default.aspx"
 published_at: "2026-03-18T20:33:00+00:00"
 first_seen_at: "2026-07-26T04:52:04.973940+00:00"
-fetched_at: "2026-07-28T22:15:50.593951+00:00"
+fetched_at: "2026-07-29T14:21:51.896569+00:00"
 content_hash: "sha256:6f973fe445114a0d612d14532751b0fddd5ec419610a64e94f92349bd7f3a66a"
 ---
 

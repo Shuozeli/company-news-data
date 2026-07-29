@@ -7,7 +7,7 @@ source_id: "american-express-company-common-stock-rss-567d71192cd7"
 canonical_url: "https://americanexpress.mediaroom.com/2026-05-19-American-Express-Canada-Expands-Platinum-Dining-Experiences-with-New-American-Express-R-Chef-in-Residence-Program"
 published_at: "2026-05-19T10:00:00+00:00"
 first_seen_at: "2026-07-24T15:49:06.140336+00:00"
-fetched_at: "2026-07-29T00:25:35.005980+00:00"
+fetched_at: "2026-07-29T13:53:49.569301+00:00"
 content_hash: "sha256:4b12b4d47e94ddde659da8b3b33dc07dada5fa02e355c99bed93a8e877f6ce48"
 ---
 

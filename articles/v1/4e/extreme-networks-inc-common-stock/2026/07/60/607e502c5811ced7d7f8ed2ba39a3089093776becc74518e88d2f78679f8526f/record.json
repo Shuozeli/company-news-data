@@ -17,8 +17,8 @@
   "summary": "A vulnerability in libcurl allows stale Host header state to persist across requests when reusing the same easy handle. If a custom Host: header is set for an initial request and not explicitly cleared before a subsequent request to a different host, libcurl may incorrectly include cookies associated with the original host in the follow-up request. This can result in unintended cross-domain cookie leakage, potentially exposing sensitive session information under specific application configurations that reuse connections and manipulate request headers. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
   "published_at": "2026-07-22T19:14:45+00:00",
   "first_seen_at": "2026-07-22T20:09:57.178797+00:00",
-  "fetched_at": "2026-07-28T23:46:40.217305+00:00",
-  "last_updated_at": "2026-07-28T23:46:40.335342+00:00",
+  "fetched_at": "2026-07-29T15:39:26.203413+00:00",
+  "last_updated_at": "2026-07-29T15:39:26.242947+00:00",
   "paths": {
     "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/60/607e502c5811ced7d7f8ed2ba39a3089093776becc74518e88d2f78679f8526f/article.md",
     "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/60/607e502c5811ced7d7f8ed2ba39a3089093776becc74518e88d2f78679f8526f/record.json"
@@ -26,7 +26,7 @@
   "content": {
     "media_type": "text/markdown; charset=utf-8",
     "bytes": 1634,
-    "sha256": "sha256:d57ddd4df60528f9d83dffe76b4bf96482240e6111985f0ed9d906e4d46f1d41",
+    "sha256": "sha256:f833e0b5b958840329ad433d828da25d28823eca00ed0024f2fd4846323b1bf1",
     "normalized_content_hash": "sha256:1c5dfc15c4f918472005972f77f8aa7f94ec3b5d0c9bd8fcaab2e4877751ed28"
   },
   "provenance": {

@@ -7,7 +7,7 @@ source_id: "ge-aerospace-common-stock-rss-a1dd69a4054d"
 canonical_url: "https://www.geaerospace.com/investor-relations/events-reports/ge-aerospace-2nd-quarter-2026-earnings-webcast"
 published_at: "2026-05-15T19:57:33+00:00"
 first_seen_at: "2026-07-20T23:24:51.828822+00:00"
-fetched_at: "2026-07-28T23:50:06.638047+00:00"
+fetched_at: "2026-07-29T15:41:52.623120+00:00"
 content_hash: "sha256:27b03f87b21bdebf4c9defc345df14e4a1516e07138f88563e69e032fde26ad7"
 ---
 

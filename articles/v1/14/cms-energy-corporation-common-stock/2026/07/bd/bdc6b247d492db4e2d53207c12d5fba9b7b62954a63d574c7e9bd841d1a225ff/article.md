@@ -7,7 +7,7 @@ source_id: "cms-energy-corporation-common-stock-rss-601c04a7cd5c"
 canonical_url: "https://www.cmsenergy.com/investor-relations/news-releases/news-release-details/2026/Consumers-Energy-Surpasses-Goal-to-Restore-over-6500-acres-of-land-throughout-Michigan/default.aspx"
 published_at: "2026-07-08T18:21:00+00:00"
 first_seen_at: "2026-07-25T01:08:51.275325+00:00"
-fetched_at: "2026-07-29T00:06:52.427039+00:00"
+fetched_at: "2026-07-29T17:08:07.204244+00:00"
 content_hash: "sha256:5fd3ce5430da2d88d729daa5d3ecd50893924bb15223b4dfbf1a436cf1549342"
 ---
 

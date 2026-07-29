@@ -7,7 +7,7 @@ source_id: "absci-corporation-common-stock-rss-3a87fd054c09"
 canonical_url: "https://www.absci.com/?p=138640"
 published_at: "2026-05-06T12:27:23+00:00"
 first_seen_at: "2026-07-20T23:22:57.028146+00:00"
-fetched_at: "2026-07-28T23:27:55.935408+00:00"
+fetched_at: "2026-07-29T15:23:52.790659+00:00"
 content_hash: "sha256:44b3781819f1fa47aa831a0cc78fc62354a2d38af5f2f063c27e1dddf6b39973"
 ---
 

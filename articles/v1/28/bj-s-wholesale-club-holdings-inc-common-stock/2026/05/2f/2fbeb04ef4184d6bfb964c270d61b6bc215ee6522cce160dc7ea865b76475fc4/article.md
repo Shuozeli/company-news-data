@@ -7,7 +7,7 @@ source_id: "bj-s-wholesale-club-holdings-inc-common-stock-rss-dd25fd37e36b"
 canonical_url: "https://investors.bjs.com/press-releases/press-release-details/2026/BJs-Wholesale-Club-Fort-Worth-Location-Set-to-Open-on-May-8/default.aspx"
 published_at: "2026-05-05T20:01:00+00:00"
 first_seen_at: "2026-07-25T01:12:22.633439+00:00"
-fetched_at: "2026-07-28T23:52:43.781550+00:00"
+fetched_at: "2026-07-29T17:01:23.628661+00:00"
 content_hash: "sha256:09b1e1ce0df75d717dc843b30de5b1f48c0b4abada05c5a77cd87104b5511cd0"
 ---
 

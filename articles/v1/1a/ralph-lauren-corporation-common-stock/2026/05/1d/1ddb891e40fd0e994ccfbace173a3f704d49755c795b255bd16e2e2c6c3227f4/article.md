@@ -7,7 +7,7 @@ source_id: "ralph-lauren-corporation-common-stock-rss-ec1c69687ea9"
 canonical_url: "https://investor.ralphlauren.com/news-releases/news-release-details/ralph-lauren-reports-fourth-quarter-and-full-year-fiscal-2026"
 published_at: "2026-05-21T12:01:00+00:00"
 first_seen_at: "2026-07-27T04:37:59.393873+00:00"
-fetched_at: "2026-07-28T23:34:22.609103+00:00"
+fetched_at: "2026-07-29T15:31:41.750089+00:00"
 content_hash: "sha256:9ec26ff143dac830aaad812d0578961f47d244a99a18f2423a18dbc19055f7ee"
 ---
 

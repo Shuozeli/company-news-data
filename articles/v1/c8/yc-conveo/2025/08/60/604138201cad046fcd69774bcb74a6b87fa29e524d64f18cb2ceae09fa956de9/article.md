@@ -7,7 +7,7 @@ source_id: "yc-conveo-news-import-892b57e5f5a6"
 canonical_url: "https://conveo.ai/insights/testimonial-jde-peets-scaling-diy-qual"
 published_at: "2025-08-25T12:27:17.512+00:00"
 first_seen_at: "2026-07-27T01:16:07.962169+00:00"
-fetched_at: "2026-07-28T02:04:34.342383+00:00"
+fetched_at: "2026-07-29T03:49:05.059626+00:00"
 content_hash: "sha256:4846449bfad548c6cf7741cc72d914f40104f2121bbd95837e9563501b44a102"
 ---
 

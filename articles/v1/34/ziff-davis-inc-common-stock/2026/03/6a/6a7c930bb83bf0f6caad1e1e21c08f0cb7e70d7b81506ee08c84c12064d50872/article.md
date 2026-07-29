@@ -7,7 +7,7 @@ source_id: "ziff-davis-inc-common-stock-rss-97915001e723"
 canonical_url: "https://www.ziffdavis.com/about/news/how-new-nvidia-chips-can-help-ai-chatbots-perform-better"
 published_at: "2026-03-19T12:39:01+00:00"
 first_seen_at: "2026-07-24T08:06:25.970573+00:00"
-fetched_at: "2026-07-28T22:57:55.158764+00:00"
+fetched_at: "2026-07-29T14:31:43.468367+00:00"
 content_hash: "sha256:5240803cf9ab471a14c1b1b1dfae28ab52694bb1053379cbc940b8fd158cb2b0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ormat-technologies-inc-common-stock-rss-dcb2e318d3f1"
 canonical_url: "https://investor.ormat.com/news-events/news/news-details/2026/Ormat-Commences-Commercial-Operation-of-the-80MW320MWh-Shirk-Energy-Storage-Facility-in-California/default.aspx"
 published_at: "2026-03-12T16:10:00+00:00"
 first_seen_at: "2026-07-25T17:54:58.710294+00:00"
-fetched_at: "2026-07-28T23:54:10.524266+00:00"
+fetched_at: "2026-07-29T17:03:12.435689+00:00"
 content_hash: "sha256:b34c447c19302bc69eaf2b966148d836f1b56db8c48f27ac7117059c581c8019"
 ---
 

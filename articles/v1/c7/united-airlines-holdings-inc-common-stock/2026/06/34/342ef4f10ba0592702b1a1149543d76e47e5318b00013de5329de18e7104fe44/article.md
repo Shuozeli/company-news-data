@@ -7,7 +7,7 @@ source_id: "united-airlines-holdings-inc-common-stock-rss-09ebc8191126"
 canonical_url: "https://united.mediaroom.com/2026-06-10-United-Unveils-New-Menu-Items-from-Worlds-Leading-Chefs"
 published_at: "2026-06-10T12:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:22.575844+00:00"
-fetched_at: "2026-07-28T23:04:31.859605+00:00"
+fetched_at: "2026-07-29T14:41:57.745037+00:00"
 content_hash: "sha256:cce56817037550385ab00e8fef84b5a5f2705ddf3a29772a93d27f8ad2d79788"
 ---
 

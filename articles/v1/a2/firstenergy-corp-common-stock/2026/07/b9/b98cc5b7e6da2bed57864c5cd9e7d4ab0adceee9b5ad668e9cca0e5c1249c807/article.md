@@ -7,7 +7,7 @@ source_id: "firstenergy-corp-common-stock-rss-a56d4a0f1bba"
 canonical_url: "https://investors.firstenergycorp.com/investor-materials/news-releases/news-details/2026/FirstEnergy-Corp--Declares-Common-Stock-Dividend-of-46-5-Cents-Per-Share/default.aspx"
 published_at: "2026-07-22T20:20:00+00:00"
 first_seen_at: "2026-07-25T04:48:53.602624+00:00"
-fetched_at: "2026-07-28T22:53:05.043726+00:00"
+fetched_at: "2026-07-29T14:23:04.298778+00:00"
 content_hash: "sha256:507e95af71069bd2774de53d567a851b0e1059af8896c3c2f507b70114db8a94"
 ---
 

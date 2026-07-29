@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/its-here-the-hashtagenergytalks-podcast-episode-4-is-live/"
 published_at: "2025-09-08T10:08:04+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T23:24:39.102238+00:00"
+fetched_at: "2026-07-29T15:20:19.764825+00:00"
 content_hash: "sha256:86d44e75924dda8459291c0bbe764d98a48690ffb5bae7ac87a7dc0926d69849"
 ---
 

@@ -7,7 +7,7 @@ source_id: "fastenal-company-common-stock-rss-cf592647852a"
 canonical_url: "https://investor.fastenal.com/news-releases/news-details/2026/Fastenal-Company-Announces-Cash-Dividend-and-Share-Repurchase-Activity-f05889f22/default.aspx"
 published_at: "2026-07-10T20:05:00+00:00"
 first_seen_at: "2026-07-25T04:05:43.367273+00:00"
-fetched_at: "2026-07-28T23:49:08.956540+00:00"
+fetched_at: "2026-07-29T15:43:30.365610+00:00"
 content_hash: "sha256:edcc904f7078c69cab316e2f06cf2181b22907da77caa1e37b57da43b914669d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "sweetgreen-inc-class-a-common-stock-rss-02b512030049"
 canonical_url: "https://investor.sweetgreen.com/press/news-details/2026/Sweetgreen-Debuts-New-Faces-of-the-Farm-Feature-on-Texas-Farmer-Who-Built-an-Organic-Farm-Against-the-Odds/default.aspx"
 published_at: "2026-04-28T13:00:00+00:00"
 first_seen_at: "2026-07-26T01:02:33.757530+00:00"
-fetched_at: "2026-07-28T23:08:46.260368+00:00"
+fetched_at: "2026-07-29T14:51:12.036581+00:00"
 content_hash: "sha256:ddc55be8450626bf1bb7cd5e00bb7991d0ab2033100777df7cff9547c72bf83d"
 ---
 

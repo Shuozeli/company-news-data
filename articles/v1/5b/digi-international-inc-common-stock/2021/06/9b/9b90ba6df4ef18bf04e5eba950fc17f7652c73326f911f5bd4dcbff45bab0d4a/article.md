@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2021/opengear-introduces-next-evolution-of-lighthouse"
 published_at: "2021-06-02T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:b0a81e354397c636fa136fc716adfb36f4f8fb7127a601d9d54886de6354ffed"
 ---
 

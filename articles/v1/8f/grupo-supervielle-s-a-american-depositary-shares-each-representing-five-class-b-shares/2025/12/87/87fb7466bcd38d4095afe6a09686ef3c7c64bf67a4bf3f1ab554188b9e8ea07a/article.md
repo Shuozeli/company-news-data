@@ -7,7 +7,7 @@ source_id: "grupo-supervielle-s-a-american-depositary-shares-each-representing-f
 canonical_url: "https://www.gruposupervielle.com/English/news-and-investor-education/news/news-details/2025/Banco-Supervielle-Hosts-a-New-Edition-of-the-Supervielle-Export-Award/default.aspx"
 published_at: "2025-12-18T05:00:00+00:00"
 first_seen_at: "2026-07-25T07:14:20.769534+00:00"
-fetched_at: "2026-07-28T23:42:41.926637+00:00"
+fetched_at: "2026-07-29T15:37:13.701623+00:00"
 content_hash: "sha256:69948a02b5dea19def50cd2a23d871c9b32ac7b7009c20159d9e1019d06b8cd4"
 ---
 

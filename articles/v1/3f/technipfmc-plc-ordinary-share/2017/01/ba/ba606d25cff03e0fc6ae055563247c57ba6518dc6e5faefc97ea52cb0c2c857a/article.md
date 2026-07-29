@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-begins-operations-as-a-combined-company-after-completing-merger-of-fmc-technologies-and-technip/"
 published_at: "2017-01-17T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-29T00:26:14.657354+00:00"
+fetched_at: "2026-07-29T17:23:25.881224+00:00"
 content_hash: "sha256:5421b68d06d172e4f8b851eef028e62ce5596e55a8662d0c2bfc968c1d8bd813"
 ---
 

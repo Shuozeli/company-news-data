@@ -7,7 +7,7 @@ source_id: "yc-click-and-grow-atom-1c723306d7ee"
 canonical_url: "https://www.clickandgrow.com/blogs/news/click-grow-partners-with-little-kitchen-academy-as-their-exclusive-indoor-garden-provider-1"
 published_at: "2025-05-28T06:41:35+00:00"
 first_seen_at: "2026-07-24T22:35:58.431324+00:00"
-fetched_at: "2026-07-28T23:44:11.944826+00:00"
+fetched_at: "2026-07-29T15:38:22.496188+00:00"
 content_hash: "sha256:e4a09dc405d0e0fe933e3ec97d172f7603ddbb1cdcafc05de7d36770c15a829b"
 ---
 

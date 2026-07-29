@@ -7,7 +7,7 @@ source_id: "golub-capital-bdc-inc-common-stock-rss-42b3214e2170"
 canonical_url: "https://golubcapitalbdc.com/2026/04/06/golub-capital-bdc-inc-schedules-release-of-fiscal-year-2026-second-quarter-results/"
 published_at: "2026-04-06T20:22:04+00:00"
 first_seen_at: "2026-07-20T03:31:52.275280+00:00"
-fetched_at: "2026-07-28T23:03:48.236161+00:00"
+fetched_at: "2026-07-29T14:41:41.576560+00:00"
 content_hash: "sha256:0fdfb8d39025dad64c8d618a702cfed172c717f01b9f4b6f3bd8168aa5f1ba4a"
 ---
 

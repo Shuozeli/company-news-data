@@ -7,7 +7,7 @@ source_id: "seritage-growth-properties-class-a-common-stock-rss-1c239fbd4158"
 canonical_url: "http://ir.seritage.com/news/news-details/2025/Seritage-Growth-Properties-Makes-40-Million-Loan-Prepayment/default.aspx"
 published_at: "2025-06-11T20:35:00+00:00"
 first_seen_at: "2026-07-25T22:45:02.956321+00:00"
-fetched_at: "2026-07-28T23:15:49.604619+00:00"
+fetched_at: "2026-07-29T15:05:56.184331+00:00"
 content_hash: "sha256:164d1a5379e98a8cc039235d197368dfed6063d075c299d662dc759ae00025aa"
 ---
 

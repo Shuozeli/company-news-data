@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/george-leslie-driving-productivity-through-connected-construction"
 published_at: "2026-03-04T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T23:18:38.216278+00:00"
+fetched_at: "2026-07-29T15:07:27.395221+00:00"
 content_hash: "sha256:81a13c54012f1d59ba725322a6937613258abe66e147e9b1ea70685d27f0b93f"
 ---
 

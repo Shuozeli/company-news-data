@@ -6,7 +6,7 @@
   },
   "record_count": 363,
   "first_published_at": "2021-07-28T00:00:00+00:00",
-  "last_published_at": "2026-07-28T23:19:52.045+00:00",
+  "last_published_at": "2026-07-29T13:45:27.504+00:00",
   "partitions": [
     {
       "partition": "2021-07",
@@ -106,7 +106,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 8,
@@ -116,8 +116,8 @@
         "path": "articles/v1/53/yc-athina-ai/index/pages/000001.json",
         "record_count": 50,
         "byte_count": 50540,
-        "sha256": "sha256:d494027cbab2e9a24d8676a0a52c51226af2f4b4c257bb40d50ed8e839d5890b",
-        "newest_at": "2026-07-28T23:19:52.045+00:00",
+        "sha256": "sha256:b9bb3dc4867eb0d592a924ea912f6bac7cb401a54a31a10e6b7597eb1c68f496",
+        "newest_at": "2026-07-29T13:45:27.504+00:00",
         "oldest_at": "2024-03-23T00:00:00+00:00"
       },
       {
@@ -125,7 +125,7 @@
         "path": "articles/v1/53/yc-athina-ai/index/pages/000002.json",
         "record_count": 50,
         "byte_count": 50700,
-        "sha256": "sha256:562a4d81c09f826c54dae79ce9c14cb2e0c00dae2984c8905f7b1e0e69bae041",
+        "sha256": "sha256:100bff5c9359bff9fdb9c596fd8f5e7b503050bdbd534e5accbb87ff1e5e6e0b",
         "newest_at": "2024-03-22T00:00:00+00:00",
         "oldest_at": "2024-01-04T00:00:00+00:00"
       },
@@ -134,7 +134,7 @@
         "path": "articles/v1/53/yc-athina-ai/index/pages/000003.json",
         "record_count": 50,
         "byte_count": 50867,
-        "sha256": "sha256:574dcc955946cba1c7906e9326cddc86719c638e3c6374b0668c5cbf6bc1ae93",
+        "sha256": "sha256:2e33e7606cb0dc2a11f3fff338edf003a325ae9582f88f4e1ad7e98d37f2021d",
         "newest_at": "2023-12-26T00:00:00+00:00",
         "oldest_at": "2023-10-19T00:00:00+00:00"
       },
@@ -143,7 +143,7 @@
         "path": "articles/v1/53/yc-athina-ai/index/pages/000004.json",
         "record_count": 50,
         "byte_count": 51028,
-        "sha256": "sha256:10d5782443742d19db9d6335f62d66efda7d5d6b0ddd255d2bd98aa4d24a8ea4",
+        "sha256": "sha256:d83c1528bb0f933861e462f62a1a840503cf1842390e74850c4775326ce82889",
         "newest_at": "2023-10-17T00:00:00+00:00",
         "oldest_at": "2023-08-02T00:00:00+00:00"
       },
@@ -152,7 +152,7 @@
         "path": "articles/v1/53/yc-athina-ai/index/pages/000005.json",
         "record_count": 50,
         "byte_count": 50470,
-        "sha256": "sha256:da2411b7087528f5df071bed1701a6a28f7eb7f3799754d746a576b79faba7a0",
+        "sha256": "sha256:ae9cbf625c33a400b917b0feba321f7c87dede0e4f9824a3c7272b1bf6b90262",
         "newest_at": "2023-07-31T00:00:00+00:00",
         "oldest_at": "2023-05-18T00:00:00+00:00"
       },
@@ -161,7 +161,7 @@
         "path": "articles/v1/53/yc-athina-ai/index/pages/000006.json",
         "record_count": 50,
         "byte_count": 50404,
-        "sha256": "sha256:03a2c776dc2034ff2669ff15a77af50cc6f3d787fdcb708e7138da32b468b4db",
+        "sha256": "sha256:f4333771138e0a98d57855c087b970f1adba5decf20f006d0d49067c97009d0f",
         "newest_at": "2023-05-18T00:00:00+00:00",
         "oldest_at": "2023-03-20T00:00:00+00:00"
       },
@@ -170,7 +170,7 @@
         "path": "articles/v1/53/yc-athina-ai/index/pages/000007.json",
         "record_count": 50,
         "byte_count": 50033,
-        "sha256": "sha256:4bb722d1c61d51253b00c0378a44f5c98fae4a788ae1ef63da0ef90183210931",
+        "sha256": "sha256:ca46aec1e2145be55247c8098c93aa1225e510a630564c5498c14a3b7ad522e9",
         "newest_at": "2023-03-18T00:00:00+00:00",
         "oldest_at": "2023-01-29T00:00:00+00:00"
       },
@@ -179,7 +179,7 @@
         "path": "articles/v1/53/yc-athina-ai/index/pages/000008.json",
         "record_count": 13,
         "byte_count": 12888,
-        "sha256": "sha256:b44e5df7cdd28d7bc81e7209fbe5a5e1d7fc32d046c43a8061959a463fc38b84",
+        "sha256": "sha256:f727ac01b01f1d982a70e7b3bf96ab3ed5add1c707ac3c8e53ae1c9aa5263f02",
         "newest_at": "2023-01-27T00:00:00+00:00",
         "oldest_at": "2021-07-28T00:00:00+00:00"
       }

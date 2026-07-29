@@ -7,7 +7,7 @@ source_id: "insperity-inc-common-stock-news-import-506516edf724"
 canonical_url: "https://www.insperity.com/blog/what-is-a-peo/"
 published_at: "2025-05-20T19:30:00+00:00"
 first_seen_at: "2026-07-27T06:18:39.928548+00:00"
-fetched_at: "2026-07-28T20:22:24.007965+00:00"
+fetched_at: "2026-07-29T09:12:04.304099+00:00"
 content_hash: "sha256:5a6456f361b1e9b8211fbff4497bc6469ffdafb2f5d5a26387f7055d3beaf207"
 ---
 

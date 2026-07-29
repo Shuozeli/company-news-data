@@ -7,7 +7,7 @@ source_id: "howard-hughes-holdings-inc-common-stock-rss-4e88654bb052"
 canonical_url: "https://communities.howardhughes.com/news/alpha-school-signs-lease-in-the-woodlands-town-center-for-first-houston-area-location/"
 published_at: "2026-03-03T17:00:00+00:00"
 first_seen_at: "2026-07-24T09:07:31.143725+00:00"
-fetched_at: "2026-07-28T23:49:42.315584+00:00"
+fetched_at: "2026-07-29T15:44:32.861400+00:00"
 content_hash: "sha256:1d389446ac4da51de9d8bdc0d37073a58f405ea6c4c8a63d6c07c8493367afa6"
 ---
 

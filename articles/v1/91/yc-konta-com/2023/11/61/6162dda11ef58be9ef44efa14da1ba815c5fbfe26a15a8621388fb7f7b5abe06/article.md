@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/ptu-en-mexico-quienes-estan-exentos-del-reparto-de-utilidades"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:eb1653d980ab09252cb612cb2ef7a4218c23fc3c6bb3fcded35e812d30943d5c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yatra-online-inc-ordinary-shares-rss-e8f187711a66"
 canonical_url: "https://investors.yatra.com/press-releases/press-release-details/2025/Yatra-Online-Inc--Announces-Results-for-the-Three-Months-Ended-September-30-2025/default.aspx"
 published_at: "2025-11-12T11:15:00+00:00"
 first_seen_at: "2026-07-26T06:10:56.529491+00:00"
-fetched_at: "2026-07-28T23:14:55.559505+00:00"
+fetched_at: "2026-07-29T15:01:43.150800+00:00"
 content_hash: "sha256:28f9e304a72179e96879d539717e11e3c087382804dd17e82df53707ae42a7f8"
 ---
 

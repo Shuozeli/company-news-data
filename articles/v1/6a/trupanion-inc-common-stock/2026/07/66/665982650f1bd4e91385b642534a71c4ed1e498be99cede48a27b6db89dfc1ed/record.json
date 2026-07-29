@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "665982650f1bd4e91385b642534a71c4ed1e498be99cede48a27b6db89dfc1ed",
+  "company": {
+    "key": "trupanion-inc-common-stock",
+    "name": "Trupanion Inc. Common Stock"
+  },
+  "source": {
+    "id": "trupanion-inc-common-stock-news-import-ac8b67a28768",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trupanion.com/pet-blog/article/national-dog-day",
+    "canonical": "https://www.trupanion.com/pet-blog/article/national-dog-day"
+  },
+  "title": "National Dog Day: When It Is, Why It Matters & How to Celebrate",
+  "summary": "When is National Dog Day? Learn why August 26th matters and discover meaningful ways to celebrate, support adoption, and protect your dog’s health.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T06:24:44.604253+00:00",
+  "fetched_at": "2026-07-29T06:24:45.569833+00:00",
+  "last_updated_at": "2026-07-29T06:24:46.100351+00:00",
+  "paths": {
+    "article": "articles/v1/6a/trupanion-inc-common-stock/2026/07/66/665982650f1bd4e91385b642534a71c4ed1e498be99cede48a27b6db89dfc1ed/article.md",
+    "record": "articles/v1/6a/trupanion-inc-common-stock/2026/07/66/665982650f1bd4e91385b642534a71c4ed1e498be99cede48a27b6db89dfc1ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9556,
+    "sha256": "sha256:bbd7f020c7efe24525a361c9ee485e5125e62c8c5094c9b49868a5227b290e8f",
+    "normalized_content_hash": "sha256:8a99aced7e2b4d9ad2f4a068284656deab9cc972b7475025274437f62218d2c8"
+  },
+  "provenance": {
+    "source_item_id": "826876f0-e0ad-4f2b-93e3-5788ea7acd3d",
+    "external_id": "https://www.trupanion.com/pet-blog/article/national-dog-day"
+  }
+}

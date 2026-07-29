@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2021/11/celebrating-10-years-of-renewable-energy-from-dunfermline-s-wind-turbine/"
 published_at: "2021-11-26T04:30:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-29T00:17:43.124361+00:00"
+fetched_at: "2026-07-29T17:18:57.942752+00:00"
 content_hash: "sha256:16c6a624734de47ddf2bdb724bd8795dbe320b227c6b80053287146adf272734"
 ---
 

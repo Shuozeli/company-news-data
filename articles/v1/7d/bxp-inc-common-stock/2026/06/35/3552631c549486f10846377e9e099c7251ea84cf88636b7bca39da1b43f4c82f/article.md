@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-executes-150000-square-foot-lease-with-mcdermott-will-schulte-at-343-madison"
 published_at: "2026-06-16T14:05:14+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:9ce33ecde0d4f3d644cde75d78ec9bb6c8828a1c39edaa0e7d290e469b06000e"
 ---
 

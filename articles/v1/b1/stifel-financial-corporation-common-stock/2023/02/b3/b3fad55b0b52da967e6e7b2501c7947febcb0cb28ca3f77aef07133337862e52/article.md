@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2023/FICM-Agency-Structured-Group-for-02.16.23.pdf"
 published_at: "2023-02-16T13:30:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:c00916c76cba66967d987cdaecaa10d4be8e3624f9d42cc7190ff7134435f616"
 ---
 

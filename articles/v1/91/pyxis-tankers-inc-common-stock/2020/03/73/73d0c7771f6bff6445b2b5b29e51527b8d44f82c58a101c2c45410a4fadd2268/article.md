@@ -7,7 +7,7 @@ source_id: "pyxis-tankers-inc-common-stock-atom-7822dd0d168e"
 canonical_url: "https://www.pyxistankers.com/investor-relations/events/14th-annual-capital-link-international-shipping-forum-nyc"
 published_at: "2020-03-30T16:59:10+00:00"
 first_seen_at: "2026-07-25T20:11:22.683173+00:00"
-fetched_at: "2026-07-28T23:46:44.775223+00:00"
+fetched_at: "2026-07-29T15:38:17.772753+00:00"
 content_hash: "sha256:b1d4d3ea926b8714ae4fc90eea85afd1de90ff667fb56c6f44dc6f8378bbe451"
 ---
 

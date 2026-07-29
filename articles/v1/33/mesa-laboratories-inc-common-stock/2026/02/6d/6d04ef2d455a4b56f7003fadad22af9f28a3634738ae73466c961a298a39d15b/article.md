@@ -7,7 +7,7 @@ source_id: "mesa-laboratories-inc-common-stock-rss-17f15e7fc420"
 canonical_url: "https://investors.mesalabs.com/news/news-details/2026/Calibration-Solutions-DryCal-Defender-Press-Release-2026--oCEGO6AQb/default.aspx"
 published_at: "2026-02-19T15:40:00+00:00"
 first_seen_at: "2026-07-25T13:54:57.011223+00:00"
-fetched_at: "2026-07-28T23:29:24.575615+00:00"
+fetched_at: "2026-07-29T15:26:46.365162+00:00"
 content_hash: "sha256:55a6c7faf9001ad5b0e963e7ea6f1ab50bfdd2bb7582433a8092800d4ea71ff9"
 ---
 

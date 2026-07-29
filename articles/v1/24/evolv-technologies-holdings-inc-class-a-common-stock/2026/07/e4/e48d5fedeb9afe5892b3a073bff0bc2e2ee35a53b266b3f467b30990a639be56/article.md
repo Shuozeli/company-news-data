@@ -7,7 +7,7 @@ source_id: "evolv-technologies-holdings-inc-class-a-common-stock-rss-ec54816aa3b
 canonical_url: "https://evolv.com/resources/blog/fy26-cops-svpp-grant-key-opportunity-to-strengthen-school-safety/"
 published_at: "2026-07-16T12:00:45+00:00"
 first_seen_at: "2026-07-28T21:27:51.933751+00:00"
-fetched_at: "2026-07-28T21:27:51.792375+00:00"
+fetched_at: "2026-07-29T15:07:48.185123+00:00"
 content_hash: "sha256:3de47f5fb6ceaf6567fa74e29a50a2cc776c6521120bd141cf5a04dbcb9affb4"
 ---
 

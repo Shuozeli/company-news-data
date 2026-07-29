@@ -7,7 +7,7 @@ source_id: "kulicke-and-soffa-industries-inc-common-stock-rss-473809dcc7b3"
 canonical_url: "https://investor.kns.com/2026-07-22-Kulicke-Soffa-Schedules-Third-Quarter-2026-Conference-Call-for-8-00-AM-ET,-August-6th,-2026"
 published_at: "2026-07-22T13:05:00+00:00"
 first_seen_at: "2026-07-22T13:05:38.045308+00:00"
-fetched_at: "2026-07-28T23:52:02.369180+00:00"
+fetched_at: "2026-07-29T17:09:23.242533+00:00"
 content_hash: "sha256:9fe297f2c616a6591ccafd8d4f1d8dbf24cc5f90132db6886406136273199c36"
 ---
 

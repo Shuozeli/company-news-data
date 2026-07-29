@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
   "record_count": 7,
   "items": [
@@ -15,7 +15,7 @@
       "title": "Introducing chunkr-layout-1: State Of The Art Document Layout Analysis",
       "summary": "A production-ready document layout detection model that accurately extracts tables, images, text blocks, and 16+ layout elements from PDFs across financial, legal, medical, and technical documents—achieving 80.9% mAP@50 and outperforming AWS Textract, Azure Document Intelligence, and Gemini 2.5 Pro at real-time inference speeds.",
       "published_at": "2025-10-15T07:00:00+00:00",
-      "fetched_at": "2026-07-29T00:42:08.864346+00:00",
+      "fetched_at": "2026-07-29T14:05:55.882824+00:00",
       "article_path": "articles/v1/3a/yc-chunkr/2025/10/93/9319a36dea0ed9f24385da871892daee2a3c8491f6a95b2f5761fdf83fb4d64a/article.md",
       "record_path": "articles/v1/3a/yc-chunkr/2025/10/93/9319a36dea0ed9f24385da871892daee2a3c8491f6a95b2f5761fdf83fb4d64a/record.json"
     },
@@ -30,7 +30,7 @@
       "title": "Introducing chunkr-parse-1-thinking: The best VLM for Document OCR",
       "summary": "Introducing chunkr-parse-1-thinking: Purpose Built for Document Understanding",
       "published_at": "2025-10-09T07:00:00+00:00",
-      "fetched_at": "2026-07-29T00:42:08.864346+00:00",
+      "fetched_at": "2026-07-29T14:05:55.882824+00:00",
       "article_path": "articles/v1/3a/yc-chunkr/2025/10/69/692e0254f34449d3bccb34da77a975e089c9fa8edfc5836e16f989eb93568de5/article.md",
       "record_path": "articles/v1/3a/yc-chunkr/2025/10/69/692e0254f34449d3bccb34da77a975e089c9fa8edfc5836e16f989eb93568de5/record.json"
     },
@@ -45,7 +45,7 @@
       "title": "Building better PDF experiences with Chunkr",
       "summary": "How to add Granular citations and in-answer images to RAG with Chunkr",
       "published_at": "2025-06-24T07:00:00+00:00",
-      "fetched_at": "2026-07-29T00:42:08.864346+00:00",
+      "fetched_at": "2026-07-29T14:05:55.882824+00:00",
       "article_path": "articles/v1/3a/yc-chunkr/2025/06/eb/ebe36d7912e80c4fc6f1192f9df961e4a1bc40188bc2e07cd53d156770a24a92/article.md",
       "record_path": "articles/v1/3a/yc-chunkr/2025/06/eb/ebe36d7912e80c4fc6f1192f9df961e4a1bc40188bc2e07cd53d156770a24a92/record.json"
     },
@@ -60,7 +60,7 @@
       "title": "Why PDFs: From inception to an AI native world (A Brief History)",
       "summary": "How a format designed for perfect printing became a huge problem for modern AI.",
       "published_at": "2025-06-17T07:00:00+00:00",
-      "fetched_at": "2026-07-29T00:42:08.864346+00:00",
+      "fetched_at": "2026-07-29T14:05:55.882824+00:00",
       "article_path": "articles/v1/3a/yc-chunkr/2025/06/69/6907561e96960b1ce4539b37e685f7948a7123b936139df017a995ba5c724d6f/article.md",
       "record_path": "articles/v1/3a/yc-chunkr/2025/06/69/6907561e96960b1ce4539b37e685f7948a7123b936139df017a995ba5c724d6f/record.json"
     },
@@ -75,7 +75,7 @@
       "title": "Vision RAG sucks - Text is Still King",
       "summary": "We benchmarked Vision RAG vs. structured text on 5 top models. Text still reigns, with a 57% lead in accuracy.",
       "published_at": "2025-06-06T07:00:00+00:00",
-      "fetched_at": "2026-07-29T00:42:08.864346+00:00",
+      "fetched_at": "2026-07-29T14:05:55.882824+00:00",
       "article_path": "articles/v1/3a/yc-chunkr/2025/06/96/96d70ad30c45a321599be00afea385f4db1283c69ea1f9204949a5d5ea4036c6/article.md",
       "record_path": "articles/v1/3a/yc-chunkr/2025/06/96/96d70ad30c45a321599be00afea385f4db1283c69ea1f9204949a5d5ea4036c6/record.json"
     },
@@ -90,7 +90,7 @@
       "title": "Introducing Modular LLM Controls and Extended Context",
       "summary": "High-accuracy LLM document parsing made easy. Chunkr’s customizable segment-level controls and full-page context ensure flawless results.",
       "published_at": "2025-05-27T07:00:00+00:00",
-      "fetched_at": "2026-07-29T00:42:08.864346+00:00",
+      "fetched_at": "2026-07-29T14:05:55.882824+00:00",
       "article_path": "articles/v1/3a/yc-chunkr/2025/05/8f/8f36dddabf50722e795286285045e892e795ec1e8778668feac0a9ac7364ee8b/article.md",
       "record_path": "articles/v1/3a/yc-chunkr/2025/05/8f/8f36dddabf50722e795286285045e892e795ec1e8778668feac0a9ac7364ee8b/record.json"
     },
@@ -105,7 +105,7 @@
       "title": "Benchmarking LLM Parsing via the Chunkr API",
       "summary": "A comprehensive guide to select LLMs within Chunkr - exploring accuracy, speed and reliability.",
       "published_at": "2025-05-26T07:00:00+00:00",
-      "fetched_at": "2026-07-29T00:42:08.864346+00:00",
+      "fetched_at": "2026-07-29T14:05:55.882824+00:00",
       "article_path": "articles/v1/3a/yc-chunkr/2025/05/14/14a4ffe704336b0642708c95fdb82d77e96f11d4f7de63e3f0b9e4a91ff12570/article.md",
       "record_path": "articles/v1/3a/yc-chunkr/2025/05/14/14a4ffe704336b0642708c95fdb82d77e96f11d4f7de63e3f0b9e4a91ff12570/record.json"
     }

@@ -7,7 +7,7 @@ source_id: "smartstop-self-storage-reit-inc-common-stock-rss-4e2120e48ff1"
 canonical_url: "https://investors.smartstopselfstorage.com/news-and-events/press-releases/press-releases-details/2026/SmartStop-Self-Storage-REIT-Inc--Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-06T20:05:00+00:00"
 first_seen_at: "2026-07-25T23:24:42.322687+00:00"
-fetched_at: "2026-07-28T23:37:07.431411+00:00"
+fetched_at: "2026-07-29T15:33:04.990397+00:00"
 content_hash: "sha256:98dc22729372c7bc608ae5f1be9ae0883a39d132b61c27a54b446a6297183d5a"
 ---
 

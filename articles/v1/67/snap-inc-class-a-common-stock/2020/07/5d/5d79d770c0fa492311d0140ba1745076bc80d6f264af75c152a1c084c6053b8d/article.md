@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/shipping_two_apps_in_one_android"
 published_at: "2020-07-27T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T23:22:34.016732+00:00"
+fetched_at: "2026-07-29T15:16:23.251342+00:00"
 content_hash: "sha256:dd19cc1a185ca9767a429e51438c7dd358700251c3e7ced8004296e3687916d0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "hanover-insurance-group-inc-rss-d013cf553baa"
 canonical_url: "https://www.hanover.com/agents-and-brokers/agent-solutions/commercial-lines/plugged-tech-and-life-sciences/growing-use-and"
 published_at: "2025-08-12T12:52:22+00:00"
 first_seen_at: "2026-07-25T07:33:50.288624+00:00"
-fetched_at: "2026-07-28T23:01:45.439004+00:00"
+fetched_at: "2026-07-29T14:38:42.024843+00:00"
 content_hash: "sha256:39b57dcccb16b7270e05f5b31dff6345d776b02db3500dda03f04ac818a8165c"
 ---
 

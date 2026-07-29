@@ -7,7 +7,7 @@ source_id: "nexpoint-residential-trust-inc-common-stock-rss-5e0c3a8978c2"
 canonical_url: "https://nxrt.nexpoint.com/news/news-details/2026/NexPoint-Residential-Trust-Inc--Announces-Quarterly-Dividend/default.aspx"
 published_at: "2026-02-24T13:15:00+00:00"
 first_seen_at: "2026-07-25T16:12:43.393972+00:00"
-fetched_at: "2026-07-28T23:36:52.951650+00:00"
+fetched_at: "2026-07-29T15:32:38.020577+00:00"
 content_hash: "sha256:814fd417c50fb9b367ca3c85315a059ca86d497383d11c1c3acbf66c9107c335"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-pushbullet-rss-4ba42a362971"
 canonical_url: "https://blog.pushbullet.com/2019/12/18/a-better-looking-and-easier-to-use-browser-extension"
 published_at: "2019-12-18T06:00:00+00:00"
 first_seen_at: "2026-07-25T20:08:48.518680+00:00"
-fetched_at: "2026-07-28T23:36:19.489802+00:00"
+fetched_at: "2026-07-29T15:32:18.727731+00:00"
 content_hash: "sha256:4d05647f89d096e4dcad061f7f92bb8adc71eef0a369df1d032eba54f1b66c19"
 ---
 

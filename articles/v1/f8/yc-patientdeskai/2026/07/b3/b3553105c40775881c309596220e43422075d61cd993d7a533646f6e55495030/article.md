@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/90-of-patients-prefer-texts-mastering-dental-communication-in-2026"
 published_at: "2026-07-14T10:44:52.740+00:00"
 first_seen_at: "2026-07-24T08:23:01.167291+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:9e8ba4d0ad62f735d1d59fc8673b9cb3cc110f6f7e2dbebc72a4a17567a345cd"
 ---
 

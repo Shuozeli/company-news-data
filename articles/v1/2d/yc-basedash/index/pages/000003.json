@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 3,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "6f905ef94c75f39d07d84ee3066a0e7f07319fc0ca864cb97734858103b0f3e6",
+      "company_key": "yc-basedash",
+      "company_name": "Basedash",
+      "source_id": "yc-basedash-rss-86d6e075e8cf",
+      "source_kind": "rss",
+      "canonical_url": "https://www.basedash.com/blog/how-to-migrate-from-metabase-to-a-modern-bi-tool-a-practical-playbook/",
+      "title": "How to migrate from Metabase to a modern BI tool: a practical playbook",
+      "summary": "A step-by-step Metabase migration playbook: audit, tool selection, dashboard rebuild, cutover, and decommission. Includes a checklist and common mistakes.",
+      "published_at": "2026-05-13T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:13:17.137376+00:00",
+      "article_path": "articles/v1/2d/yc-basedash/2026/05/6f/6f905ef94c75f39d07d84ee3066a0e7f07319fc0ca864cb97734858103b0f3e6/article.md",
+      "record_path": "articles/v1/2d/yc-basedash/2026/05/6f/6f905ef94c75f39d07d84ee3066a0e7f07319fc0ca864cb97734858103b0f3e6/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "677b70c721ac2977fb737cc8a654921ce4c55a7425bfdc2198ef8d1ae4fe9a94",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T22:17:35.086279+00:00",
       "article_path": "articles/v1/2d/yc-basedash/2026/03/51/51a034620492f8d04c81486aebd1f7f5ab0c630c3b17f021207b9c4ff8cea131/article.md",
       "record_path": "articles/v1/2d/yc-basedash/2026/03/51/51a034620492f8d04c81486aebd1f7f5ab0c630c3b17f021207b9c4ff8cea131/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "19c16664b41f58a1abe29e113f7c450ada37f06beaab16bf195b52989e21c340",
-      "company_key": "yc-basedash",
-      "company_name": "Basedash",
-      "source_id": "yc-basedash-rss-86d6e075e8cf",
-      "source_kind": "rss",
-      "canonical_url": "https://www.basedash.com/blog/introducing-basedash-insights/",
-      "title": "Introducing Basedash Insights",
-      "summary": "Today we're launching Insights — an AI agent that analyzes all your company data every day and surfaces the most important findings automatically. Think of it…",
-      "published_at": "2026-03-25T00:00:00+00:00",
-      "fetched_at": "2026-07-28T22:17:51.657377+00:00",
-      "article_path": "articles/v1/2d/yc-basedash/2026/03/19/19c16664b41f58a1abe29e113f7c450ada37f06beaab16bf195b52989e21c340/article.md",
-      "record_path": "articles/v1/2d/yc-basedash/2026/03/19/19c16664b41f58a1abe29e113f7c450ada37f06beaab16bf195b52989e21c340/record.json"
     }
   ]
 }

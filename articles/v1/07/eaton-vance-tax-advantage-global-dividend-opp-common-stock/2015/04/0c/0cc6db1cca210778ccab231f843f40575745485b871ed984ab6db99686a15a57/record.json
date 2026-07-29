@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0cc6db1cca210778ccab231f843f40575745485b871ed984ab6db99686a15a57",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/becton,-dickinson--co-nyse-bdx-declared-a-dividend-of-$1.0500-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/becton,-dickinson--co-nyse-bdx-declared-a-dividend-of-$1.0500-per-share/"
+  },
+  "title": "BDX Dividend Announcement $1.0500/Share 7/28/2026",
+  "summary": "NYSE:BDX Becton, Dickinson & Co Dividend Announcement $1.0500 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.532191+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/0c/0cc6db1cca210778ccab231f843f40575745485b871ed984ab6db99686a15a57/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/0c/0cc6db1cca210778ccab231f843f40575745485b871ed984ab6db99686a15a57/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2184,
+    "sha256": "sha256:ea2ed2501baf15fe026205ea376af961feaa523527f2440f71e1cb331f4f2a62",
+    "normalized_content_hash": "sha256:14188e7f25730d701e68abb2942ee288e1566ee00877c667d5aaeccb4bbbda8c"
+  },
+  "provenance": {
+    "source_item_id": "992dee4b-033f-4cbf-9745-4d2a225f5d12",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/becton,-dickinson--co-nyse-bdx-declared-a-dividend-of-$1.0500-per-share/"
+  }
+}

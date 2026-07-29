@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/maintenance-and-tech/how-to-solve-a-midlife-crisis-with-the-car-you-already-have/"
 published_at: "2026-07-24T19:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:0f4add7d3487259403866b2e7b9c27981b6205644b0b5f3a292cd9e6d10340d4"
 ---
 

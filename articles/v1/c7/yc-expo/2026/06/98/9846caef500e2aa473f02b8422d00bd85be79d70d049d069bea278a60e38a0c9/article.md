@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/ios-widgets-and-live-activities-in-expo"
 published_at: "2026-06-18T14:15:00+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:4f996c9f468750b36884ab7f7fcd59436c0ef732c9792a01084f8c436c922bf6"
 ---
 

@@ -7,7 +7,7 @@ source_id: "axil-brands-inc-common-stock-atom-2f9e2e7b844d"
 canonical_url: "https://goaxil.com/blogs/press-releases/axil-announces-next-generation-of-over-the-ear-hearing-protection-and-enhancement-products"
 published_at: "2025-01-29T21:47:02+00:00"
 first_seen_at: "2026-07-25T01:09:14.553659+00:00"
-fetched_at: "2026-07-28T23:46:00.445611+00:00"
+fetched_at: "2026-07-29T15:39:38.104194+00:00"
 content_hash: "sha256:f07b85f875f36dfd15dbc185f2af4930cf13e8730a5d5c00a452991a47b0282a"
 ---
 

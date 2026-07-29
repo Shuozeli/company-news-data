@@ -7,7 +7,7 @@ source_id: "yc-plate-iq-rss-f07b9327356d"
 canonical_url: "https://ottimate.com/video/ottimate-copilot/"
 published_at: "2026-06-23T20:26:34+00:00"
 first_seen_at: "2026-07-20T23:20:54.109753+00:00"
-fetched_at: "2026-07-28T22:56:43.409412+00:00"
+fetched_at: "2026-07-29T14:29:08.913357+00:00"
 content_hash: "sha256:350b3e7b16b89e5c90c0c9391838a9fd8968c74f66bf4c37ff196914237b305d"
 ---
 

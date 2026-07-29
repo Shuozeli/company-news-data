@@ -7,7 +7,7 @@ source_id: "rb-global-inc-common-stock-rss-fb81f22698ea"
 canonical_url: "https://investor.rbglobal.com/news/news-details/2026/RB-Global-Announces-Early-Termination-of-Hart-Scott-Rodino-Waiting-Period-for-BigIron-Acquisition/default.aspx"
 published_at: "2026-04-23T20:30:00+00:00"
 first_seen_at: "2026-07-25T20:31:53.969569+00:00"
-fetched_at: "2026-07-29T00:23:51.284961+00:00"
+fetched_at: "2026-07-29T17:23:06.162541+00:00"
 content_hash: "sha256:88e3d92f241c6c2e4bad3902f72dda70c4bd2e229b43e94fceca86c7d3aaee8a"
 ---
 

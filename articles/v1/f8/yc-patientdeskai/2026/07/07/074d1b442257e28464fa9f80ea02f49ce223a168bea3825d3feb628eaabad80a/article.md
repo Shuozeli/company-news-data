@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/patient-satisfaction-in-2026-the-28-point-gap-costing-dental-practices"
 published_at: "2026-07-10T11:50:07.281+00:00"
 first_seen_at: "2026-07-24T08:23:01.167291+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:d59974f6765c800725161b689323199997134bce17cc2402870bf893f8585968"
 ---
 

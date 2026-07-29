@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/hinge/why-hinge-is-looking-to-give-gen-z-tools-to-connect/"
 published_at: "2026-07-07T13:45:14+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:aa5305040842c11ed810d04393d6b63c6d00bfbf3059be8b8e3255a515a95202"
 ---
 

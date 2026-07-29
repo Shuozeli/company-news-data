@@ -7,7 +7,7 @@ source_id: "taylor-devices-inc-common-stock-rss-a5c8db47bfc4"
 canonical_url: "https://www.taylordevices.com/case-study/126-design-for-speed-resiliency/"
 published_at: "2026-07-09T15:58:15+00:00"
 first_seen_at: "2026-07-20T23:19:30.465763+00:00"
-fetched_at: "2026-07-29T00:44:37.639630+00:00"
+fetched_at: "2026-07-29T14:06:31.475095+00:00"
 content_hash: "sha256:180a60b94c3d3b38c6772c38b9949d0c07ad13236c41f4a335dbeeeaac94ea6e"
 ---
 

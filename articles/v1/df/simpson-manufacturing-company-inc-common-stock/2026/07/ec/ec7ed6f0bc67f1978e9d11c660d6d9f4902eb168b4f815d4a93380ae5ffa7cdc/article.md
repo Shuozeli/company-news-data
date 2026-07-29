@@ -7,7 +7,7 @@ source_id: "simpson-manufacturing-company-inc-common-stock-rss-37136d895a62"
 canonical_url: "https://ir.simpsonmfg.com/news/news-details/2026/Simpson-Manufacturing-Co--Inc--Declares-Quarterly-Dividend-d0c42df29/default.aspx"
 published_at: "2026-07-24T13:00:00+00:00"
 first_seen_at: "2026-07-25T23:14:37.290492+00:00"
-fetched_at: "2026-07-28T23:36:33.273190+00:00"
+fetched_at: "2026-07-29T15:31:53.672629+00:00"
 content_hash: "sha256:9489f6a3d02e7421f3856da4d4bf24895abda5897fcfe35d1b23bc293443a799"
 ---
 

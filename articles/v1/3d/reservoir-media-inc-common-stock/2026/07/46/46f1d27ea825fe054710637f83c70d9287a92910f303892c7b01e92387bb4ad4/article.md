@@ -7,7 +7,7 @@ source_id: "reservoir-media-inc-common-stock-rss-a19592763df7"
 canonical_url: "https://reservoir-media.com/oak-felder-earns-2026-emmy-nomination/"
 published_at: "2026-07-08T14:28:18+00:00"
 first_seen_at: "2026-07-27T04:42:39.995150+00:00"
-fetched_at: "2026-07-28T23:40:05.171984+00:00"
+fetched_at: "2026-07-29T15:34:31.651798+00:00"
 content_hash: "sha256:c489f5f5deb00e964be0d4e3cdc6372eb1ae831924dc08273fca1aae4286d730"
 ---
 

@@ -7,7 +7,7 @@ source_id: "quantum-si-incorporated-class-a-common-stock-rss-5dc339ba7c8c"
 canonical_url: "https://www.quantum-si.com/news/is-single-molecule-protein-sequencing-here-yetis-single-molecule-protein-sequencing-here-yet/"
 published_at: "2025-08-07T15:20:28+00:00"
 first_seen_at: "2026-07-25T01:13:17.793514+00:00"
-fetched_at: "2026-07-28T22:13:28.896883+00:00"
+fetched_at: "2026-07-29T14:21:25.250350+00:00"
 content_hash: "sha256:95e57b52c8eb9cac391211e4430329786e72240c1d8fca3de2bb881081bbaccb"
 ---
 

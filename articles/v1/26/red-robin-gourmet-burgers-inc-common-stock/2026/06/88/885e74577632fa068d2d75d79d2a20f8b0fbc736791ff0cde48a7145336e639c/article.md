@@ -7,7 +7,7 @@ source_id: "red-robin-gourmet-burgers-inc-common-stock-news-import-7e8d24f88fc2"
 canonical_url: "https://ir.redrobin.com/news-events/press-releases/detail/730/red-robin-gourmet-burgers-inc-announces-two-additional"
 published_at: "2026-06-15T16:05:00+00:00"
 first_seen_at: "2026-07-23T22:40:47.769936+00:00"
-fetched_at: "2026-07-28T17:20:38.747274+00:00"
+fetched_at: "2026-07-29T06:09:50.304070+00:00"
 content_hash: "sha256:d4c140be908f1d949107be079c47f68652101ac2f4b890c065b0c7b46d350601"
 ---
 

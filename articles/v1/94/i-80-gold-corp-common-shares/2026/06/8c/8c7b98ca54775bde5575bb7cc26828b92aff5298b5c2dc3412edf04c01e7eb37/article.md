@@ -7,7 +7,7 @@ source_id: "i-80-gold-corp-common-shares-rss-3d35b1983e0d"
 canonical_url: "https://www.i80gold.com/i-80-gold-announces-termination-of-gold-offtake-agreement/"
 published_at: "2026-06-26T12:45:46+00:00"
 first_seen_at: "2026-07-20T23:17:48.246523+00:00"
-fetched_at: "2026-07-29T00:03:55.112586+00:00"
+fetched_at: "2026-07-29T17:08:44.299201+00:00"
 content_hash: "sha256:005fe56da83f1815bb65d00ddcb39abcf6992caeb8480eea8279616056fac7f2"
 ---
 

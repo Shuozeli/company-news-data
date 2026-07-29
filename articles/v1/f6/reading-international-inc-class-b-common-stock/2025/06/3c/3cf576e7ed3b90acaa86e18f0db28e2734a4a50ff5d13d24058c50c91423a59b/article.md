@@ -7,7 +7,7 @@ source_id: "reading-international-inc-class-b-common-stock-rss-6934166d39c5"
 canonical_url: "https://www.readingrdi.com/reading-cinemas-rouse-hill-town-centre-voted-outstanding-specialised-business-2025/"
 published_at: "2025-06-09T12:00:53+00:00"
 first_seen_at: "2026-07-25T20:36:56.283617+00:00"
-fetched_at: "2026-07-29T00:44:10.114429+00:00"
+fetched_at: "2026-07-29T14:06:33.745399+00:00"
 content_hash: "sha256:6f203e3aa43b0642ae23540d04877d64ca4eda153352acc6aaa927fa2057048b"
 ---
 

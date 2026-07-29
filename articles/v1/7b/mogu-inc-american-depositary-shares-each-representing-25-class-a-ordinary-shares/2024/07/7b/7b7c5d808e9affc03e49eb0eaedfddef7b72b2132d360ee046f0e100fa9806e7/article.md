@@ -7,7 +7,7 @@ source_id: "mogu-inc-american-depositary-shares-each-representing-25-class-a-ord
 canonical_url: "https://ir.mogu-inc.com/news/news-details/2024/MOGU-Files-Annual-Report-on-Form-20-F-for-Fiscal-Year-2024/default.aspx"
 published_at: "2024-07-19T04:00:00+00:00"
 first_seen_at: "2026-07-25T14:45:30.550850+00:00"
-fetched_at: "2026-07-29T00:30:15.072789+00:00"
+fetched_at: "2026-07-29T13:56:20.048718+00:00"
 content_hash: "sha256:7e2208225f7d2a6556aa5562ae12982514d75532e73a7588f9251428b36f46f2"
 ---
 

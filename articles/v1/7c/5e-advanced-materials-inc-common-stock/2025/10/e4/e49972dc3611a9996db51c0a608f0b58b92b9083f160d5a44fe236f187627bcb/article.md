@@ -7,7 +7,7 @@ source_id: "5e-advanced-materials-inc-common-stock-rss-72effc5e4ccb"
 canonical_url: "https://www.5eadvancedmaterials.com/blog/critical-mineral-boron-the-best-supporting-actor-of-us-magnet-supply-chain-5e-ceo"
 published_at: "2025-10-14T20:02:30+00:00"
 first_seen_at: "2026-07-20T23:19:28.499350+00:00"
-fetched_at: "2026-07-28T23:10:28.119754+00:00"
+fetched_at: "2026-07-29T14:53:27.773488+00:00"
 content_hash: "sha256:e820f552b0994e0255bea0caf5a4db0cc719124720fa6fcf83e1bdc94fc6002b"
 ---
 

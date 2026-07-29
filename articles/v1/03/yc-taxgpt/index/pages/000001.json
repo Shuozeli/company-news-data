@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "dd33c7e2d1d8b4eccadd6436787a6dac451e6cd8a7d28a26fd000a3767375da5",
+      "company_key": "yc-taxgpt",
+      "company_name": "TaxGPT",
+      "source_id": "yc-taxgpt-rss-7837c4d6eefc",
+      "source_kind": "rss",
+      "canonical_url": "https://www.taxgpt.com/blog/general-ai-vs-tax-specific-ai",
+      "title": "General AI vs. Tax-Specific AI: What the IRS’s New Guidance Means for Your Tool Choice",
+      "summary": "",
+      "published_at": "2026-07-28T23:57:12+00:00",
+      "fetched_at": "2026-07-29T02:02:25.004753+00:00",
+      "article_path": "articles/v1/03/yc-taxgpt/2026/07/dd/dd33c7e2d1d8b4eccadd6436787a6dac451e6cd8a7d28a26fd000a3767375da5/article.md",
+      "record_path": "articles/v1/03/yc-taxgpt/2026/07/dd/dd33c7e2d1d8b4eccadd6436787a6dac451e6cd8a7d28a26fd000a3767375da5/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "8865fa8ef718958c04d418c3c0efcce07bd34ee2c6097e480eefaeadb85be8c3",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T21:13:02.492982+00:00",
       "article_path": "articles/v1/03/yc-taxgpt/2026/06/8f/8f1c72ffa0f4764bc4a5e0c2c2a2e429e53963ce3efb2d140558bccc7d79bf8e/article.md",
       "record_path": "articles/v1/03/yc-taxgpt/2026/06/8f/8f1c72ffa0f4764bc4a5e0c2c2a2e429e53963ce3efb2d140558bccc7d79bf8e/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "92b3a73f0c101d8373065227b50d847456285fd478b51a1da8eb02b0e657c2d0",
-      "company_key": "yc-taxgpt",
-      "company_name": "TaxGPT",
-      "source_id": "yc-taxgpt-rss-7837c4d6eefc",
-      "source_kind": "rss",
-      "canonical_url": "https://www.taxgpt.com/blog/form-1040-x-checklist",
-      "title": "Form 1040-X Checklist for Tax Professionals",
-      "summary": "Complete Form 1040-X checklist for CPAs preparing amended individual returns. Covers statutes, documentation, computations, carrybacks, and common rejection triggers.",
-      "published_at": "2026-06-17T13:31:15+00:00",
-      "fetched_at": "2026-07-28T21:13:02.492982+00:00",
-      "article_path": "articles/v1/03/yc-taxgpt/2026/06/92/92b3a73f0c101d8373065227b50d847456285fd478b51a1da8eb02b0e657c2d0/article.md",
-      "record_path": "articles/v1/03/yc-taxgpt/2026/06/92/92b3a73f0c101d8373065227b50d847456285fd478b51a1da8eb02b0e657c2d0/record.json"
     }
   ]
 }

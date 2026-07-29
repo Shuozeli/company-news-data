@@ -7,7 +7,7 @@ source_id: "yc-spotless-materials-atom-27f9e38cc9f8"
 canonical_url: "https://spotlessmaterials.com/blogs/press-releases-1/high-tech-slippery-coating-helps-toilets-shed-all-the-gross-stuff"
 published_at: "2019-11-18T15:00:00+00:00"
 first_seen_at: "2026-07-26T00:03:15.518146+00:00"
-fetched_at: "2026-07-29T00:06:27.340276+00:00"
+fetched_at: "2026-07-29T15:47:08.635528+00:00"
 content_hash: "sha256:3034851097dcd6029112b92300f98eae485876ccdebacea9455db70810d02dc6"
 ---
 

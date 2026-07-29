@@ -7,7 +7,7 @@ source_id: "flowserve-corporation-common-stock-news-import-f47152ddce73"
 canonical_url: "https://ir.flowserve.com/news-events/news-details/2026/Flowserve-Announces-Results-of-2026-Annual-Meeting-of-Shareholders-and-Quarterly-Dividend/default.aspx"
 published_at: "2026-05-14T00:00:00+00:00"
 first_seen_at: "2026-07-22T22:14:42.287001+00:00"
-fetched_at: "2026-07-28T16:24:43.533464+00:00"
+fetched_at: "2026-07-29T05:21:44.345211+00:00"
 content_hash: "sha256:5e4336bf47bb45885c332cf1fbc22a8259419587fdb053cdbb015e6513d8024a"
 ---
 

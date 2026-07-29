@@ -7,7 +7,7 @@ source_id: "essent-group-ltd-common-shares-rss-73b1762c5152"
 canonical_url: "https://www.essent.us/lendingpad"
 published_at: "2022-04-13T17:56:14+00:00"
 first_seen_at: "2026-07-25T03:08:43.110347+00:00"
-fetched_at: "2026-07-28T23:09:05.620698+00:00"
+fetched_at: "2026-07-29T14:51:12.708470+00:00"
 content_hash: "sha256:905afe701dc625447e2f6f6172b52ccc4a630ad6c870ca3d18702fefeb00ce6c"
 ---
 

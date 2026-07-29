@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/device-distributed-machine-learning"
 published_at: "2020-07-08T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T23:22:34.016732+00:00"
+fetched_at: "2026-07-29T15:16:23.251342+00:00"
 content_hash: "sha256:6c0aeac23febd65a1db49ed2c8dd369b5592ef8ade379fe60be6e505d1e29800"
 ---
 

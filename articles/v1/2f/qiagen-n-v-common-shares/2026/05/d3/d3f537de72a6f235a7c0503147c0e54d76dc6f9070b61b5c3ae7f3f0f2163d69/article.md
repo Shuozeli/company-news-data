@@ -7,7 +7,7 @@ source_id: "qiagen-n-v-common-shares-rss-98e7f8d13456"
 canonical_url: "https://corporate.qiagen.com/English/newsroom/press-releases/press-release-details/2026/QIAGEN-to-advance-AI-driven-drug-discovery-with-graph-based-AI-and-curated-bioinformatics-knowledge-with-NVIDIA/default.aspx"
 published_at: "2026-05-19T20:05:00+00:00"
 first_seen_at: "2026-07-28T04:42:25.610146+00:00"
-fetched_at: "2026-07-28T23:50:39.335368+00:00"
+fetched_at: "2026-07-29T15:43:35.357325+00:00"
 content_hash: "sha256:24cb34ff117b811b5a8580841575405f9a4387faf987b721d6526a181fb98439"
 ---
 

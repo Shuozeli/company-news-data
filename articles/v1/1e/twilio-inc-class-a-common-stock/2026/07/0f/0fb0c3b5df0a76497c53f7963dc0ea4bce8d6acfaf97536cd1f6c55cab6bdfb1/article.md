@@ -3,15 +3,15 @@ schema_version: "1.0.0"
 document_id: "0fb0c3b5df0a76497c53f7963dc0ea4bce8d6acfaf97536cd1f6c55cab6bdfb1"
 company_key: "twilio-inc-class-a-common-stock"
 company: "Twilio Inc. Class A Common Stock"
-source_id: "twilio-inc-class-a-common-stock-news-import-801d48e1d714"
+source_id: "twilio-inc-class-a-common-stock-rss-c0df8d7be67f"
 canonical_url: "https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-csharp"
 published_at: "2026-07-28T00:00:00+00:00"
-first_seen_at: "2026-07-29T00:38:26.071748+00:00"
-fetched_at: "2026-07-29T00:38:28.019094+00:00"
-content_hash: "sha256:bac60ab6f92c672563e78a4565b7abb3e0519dc68d3076a543638d4c0272176b"
+first_seen_at: "2026-07-29T14:41:51.679553+00:00"
+fetched_at: "2026-07-29T14:41:54.220955+00:00"
+content_hash: "sha256:02781c13f507366e6f16da6fc00e4ce15176d3dc87386549a90ee8ae8fa070a8"
 ---
 
-# How do I make my AI Voice Sound more human and less robotic sounding in C#
+# How to Make Your AI Voice Sound More Human and Less Robotic with C#
 
 Time to read:
 

@@ -7,7 +7,7 @@ source_id: "range-resources-corporation-common-stock-rss-39ebe470ada3"
 canonical_url: "https://www.rangeresources.com/range-announces-first-quarter-2021-financial-results/"
 published_at: "2021-04-26T20:54:16+00:00"
 first_seen_at: "2026-07-25T01:14:33.578834+00:00"
-fetched_at: "2026-07-29T00:50:21.600149+00:00"
+fetched_at: "2026-07-29T16:58:42.414622+00:00"
 content_hash: "sha256:cb23af15b6f10d39451adb35dbe485fbb5c0f267cda883638f20b611025b13a8"
 ---
 

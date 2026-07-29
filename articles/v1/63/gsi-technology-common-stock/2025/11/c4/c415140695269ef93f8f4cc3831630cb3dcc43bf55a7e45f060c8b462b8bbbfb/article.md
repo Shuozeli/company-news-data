@@ -7,7 +7,7 @@ source_id: "gsi-technology-common-stock-rss-21eb7f8c73cb"
 canonical_url: "https://gsitechnology.com/gemini-ii-apu-for-edge-devices-in-space/"
 published_at: "2025-11-26T14:58:48+00:00"
 first_seen_at: "2026-07-20T23:18:39.889524+00:00"
-fetched_at: "2026-07-28T23:26:28.737573+00:00"
+fetched_at: "2026-07-29T15:20:57.476055+00:00"
 content_hash: "sha256:ed2ff2965b536785c7fbce9b99baae550c62809022114d600064520f6582a5e8"
 ---
 

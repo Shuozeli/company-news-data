@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/blogs/2026/trust-through-transparency-customer-care.html"
 published_at: "2026-07-28T18:30:00+00:00"
 first_seen_at: "2026-07-28T19:21:15.005224+00:00"
-fetched_at: "2026-07-28T23:38:49.340178+00:00"
+fetched_at: "2026-07-29T15:32:36.560237+00:00"
 content_hash: "sha256:2893fb343ac656ab80ef0f14cbf2feeb10eb8d6bfb268b73755aa6fe8e561dc3"
 ---
 

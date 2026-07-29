@@ -7,7 +7,7 @@ source_id: "madison-square-garden-entertainment-corp-class-a-common-stock-rss-5f
 canonical_url: "https://investor.msgentertainment.com/news/news-details/2026/Madison-Square-Garden-Launches-Thank-You-NYPD-Campaign-Bringing-Together-Celebrities-Athletes-Business-Leaders-and-Other-Prominent-Figures-to-Say-Thank-You-to-the-New-York-City-Police-Department/default.aspx"
 published_at: "2026-03-18T15:54:00+00:00"
 first_seen_at: "2026-07-25T12:57:48.415898+00:00"
-fetched_at: "2026-07-29T00:29:31.997448+00:00"
+fetched_at: "2026-07-29T13:56:23.365114+00:00"
 content_hash: "sha256:d97c5f4e92608bfcb03a4c0deee6dcb217fb7cd7da22984eb02eb1dc6c95fece"
 ---
 

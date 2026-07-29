@@ -7,7 +7,7 @@ source_id: "ziff-davis-inc-common-stock-rss-97915001e723"
 canonical_url: "https://www.ziffdavis.com/about/news/revolutionizing-performance-measurement-industry-first-methodology-for-testing-5g-network-slices-enabled-by-ookla-and-ericsson"
 published_at: "2026-02-23T14:30:27+00:00"
 first_seen_at: "2026-07-24T08:06:25.970573+00:00"
-fetched_at: "2026-07-28T22:57:55.158764+00:00"
+fetched_at: "2026-07-29T14:31:43.468367+00:00"
 content_hash: "sha256:e9eb6f7fc8012a0399be94ffc9a209592180595482cd56492c222df3aae77aed"
 ---
 

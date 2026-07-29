@@ -7,7 +7,7 @@ source_id: "tower-semiconductor-ltd-ordinary-shares-rss-b1fd9c3c764d"
 canonical_url: "https://towersemi.com/2026/07/19/siemens-eda-forum-china-2026/"
 published_at: "2026-07-19T08:57:54+00:00"
 first_seen_at: "2026-07-20T04:36:16.495236+00:00"
-fetched_at: "2026-07-28T23:19:14.487032+00:00"
+fetched_at: "2026-07-29T15:12:40.938243+00:00"
 content_hash: "sha256:470e7f45b723e265d7455793d66cf0a64322839db3d4f9b8994bf7906f00153a"
 ---
 

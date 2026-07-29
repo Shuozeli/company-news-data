@@ -7,7 +7,7 @@ source_id: "j-long-group-limited-class-a-ordinary-shares-rss-f100273bc0f8"
 canonical_url: "https://investors.j-long.com/j-long-group-limited-announces-a-delay-in-the-record-date-and-effective-time-for-the-share-consolidation-reverse-stock-split-previously-announced/"
 published_at: "2024-12-02T10:00:35+00:00"
 first_seen_at: "2026-07-27T03:16:23.483706+00:00"
-fetched_at: "2026-07-28T23:58:05.766082+00:00"
+fetched_at: "2026-07-29T17:22:56.603450+00:00"
 content_hash: "sha256:19f3e53a1f047df0020f78c472dd66a66bf17c0a1c151e650d55cf132f6bdcc9"
 ---
 

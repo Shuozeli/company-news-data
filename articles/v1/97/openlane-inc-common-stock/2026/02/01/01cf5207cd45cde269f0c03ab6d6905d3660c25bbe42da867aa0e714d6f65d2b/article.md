@@ -7,7 +7,7 @@ source_id: "openlane-inc-common-stock-rss-e0cbba041141"
 canonical_url: "https://ir.corporate.openlane.com/investor-relations/investor-news/press-release-details/2026/OPENLANE-Inc--Reports-2025-Financial-Results/default.aspx"
 published_at: "2026-02-18T12:00:00+00:00"
 first_seen_at: "2026-07-27T15:58:06.069466+00:00"
-fetched_at: "2026-07-28T23:00:27.892971+00:00"
+fetched_at: "2026-07-29T14:36:49.548400+00:00"
 content_hash: "sha256:ce724892ba77245d142191d8d9df22eca13ecde234e47a29c0752db1a7b5b018"
 ---
 

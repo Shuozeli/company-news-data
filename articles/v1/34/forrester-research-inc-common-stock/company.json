@@ -4,9 +4,9 @@
     "key": "forrester-research-inc-common-stock",
     "name": "Forrester Research Inc. Common Stock"
   },
-  "record_count": 50,
+  "record_count": 55,
   "first_published_at": "2018-08-16T16:26:51+00:00",
-  "last_published_at": "2026-07-27T21:10:17+00:00",
+  "last_published_at": "2026-07-29T14:33:00+00:00",
   "partitions": [
     {
       "partition": "2018-08",
@@ -38,22 +38,31 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 36
+      "record_count": 41
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
-    "page_count": 1,
+    "page_count": 2,
     "pages": [
       {
         "page": 1,
         "path": "articles/v1/34/forrester-research-inc-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 62430,
-        "sha256": "sha256:e79aa3cbfc803862ff73770821b8d8f27fcb4e016ee5123a7c8a058e491f1b35",
-        "newest_at": "2026-07-27T21:10:17+00:00",
+        "byte_count": 63477,
+        "sha256": "sha256:b92a3f8cd56dc011423e43ec4697fe3d845aff23ef66349833b772e809e13a6f",
+        "newest_at": "2026-07-29T14:33:00+00:00",
+        "oldest_at": "2024-09-04T13:00:36+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/34/forrester-research-inc-common-stock/index/pages/000002.json",
+        "record_count": 5,
+        "byte_count": 5662,
+        "sha256": "sha256:a6766a3cb78deec38454d1e30efcf1874cd31b8f241880791d23421f5ccc2735",
+        "newest_at": "2024-03-29T18:29:46+00:00",
         "oldest_at": "2018-08-16T16:26:51+00:00"
       }
     ]

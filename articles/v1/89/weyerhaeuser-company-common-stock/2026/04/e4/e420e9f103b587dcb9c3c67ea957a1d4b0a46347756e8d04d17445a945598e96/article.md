@@ -7,7 +7,7 @@ source_id: "weyerhaeuser-company-common-stock-rss-432ce8ceed5f"
 canonical_url: "https://investor.weyerhaeuser.com/2026-04-30-Weyerhaeuser-Reports-First-Quarter-2026-Results"
 published_at: "2026-04-30T20:15:00+00:00"
 first_seen_at: "2026-07-20T03:31:52.997098+00:00"
-fetched_at: "2026-07-28T23:06:48.894643+00:00"
+fetched_at: "2026-07-29T14:49:23.408098+00:00"
 content_hash: "sha256:9a8926d0ff51f29e5cb8fe9f88ba0ce0f8e2bef112e5f025a368fcc3ec7251d7"
 ---
 

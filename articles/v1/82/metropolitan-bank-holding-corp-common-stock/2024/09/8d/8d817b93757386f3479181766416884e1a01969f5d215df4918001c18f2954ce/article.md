@@ -7,7 +7,7 @@ source_id: "metropolitan-bank-holding-corp-common-stock-rss-3ca9c020781e"
 canonical_url: "https://mcbankny.com/metropolitan-commercial-bank-recognized-as-a-member-of-piper-sandlers-sm-all-stars-class-of-2024/"
 published_at: "2024-09-30T20:32:57+00:00"
 first_seen_at: "2026-07-20T23:17:44.493826+00:00"
-fetched_at: "2026-07-29T00:03:40.624761+00:00"
+fetched_at: "2026-07-29T17:06:40.327456+00:00"
 content_hash: "sha256:ee249670bf758f290f9a50b77062abee88ec6ce8f7fc34be909f0b14ee0e709a"
 ---
 

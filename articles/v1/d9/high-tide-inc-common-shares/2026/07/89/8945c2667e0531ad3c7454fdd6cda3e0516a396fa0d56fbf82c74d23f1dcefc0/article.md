@@ -7,7 +7,7 @@ source_id: "high-tide-inc-common-shares-rss-f83dc5e20636"
 canonical_url: "https://hightideinc.com/high-tide-announces-adoption-of-new-shareholder-rights-plans/"
 published_at: "2026-07-06T10:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:05.127242+00:00"
-fetched_at: "2026-07-29T00:41:30.017006+00:00"
+fetched_at: "2026-07-29T14:06:34.773204+00:00"
 content_hash: "sha256:7761c91c0d5c9189a25b84f64b4963bab1fd2c950bbbfd34a92adc2f7855afed"
 ---
 

@@ -17,8 +17,8 @@
   "summary": "At Blend, we deal with highly sensitive consumer financial data. We use several data stores — Postgres, MongoDB, CockroachDB, and Etcd — all of which need to be backed up. While MongoDB and Postgres give us prebuilt tools for encrypting backups, Etcd and CockroachDB do not. Our standard practice is to encrypt these backups before storing them. This became more challenging as our backups grew. Encrypting backups in memory At the beginning the backups were small, and we were able to use Vault’s transit features to encrypt them.",
   "published_at": "2019-05-07T08:00:00+00:00",
   "first_seen_at": "2026-07-20T23:18:43.300114+00:00",
-  "fetched_at": "2026-07-29T00:27:54.647135+00:00",
-  "last_updated_at": "2026-07-29T00:27:54.724270+00:00",
+  "fetched_at": "2026-07-29T13:54:11.516897+00:00",
+  "last_updated_at": "2026-07-29T13:54:11.577394+00:00",
   "paths": {
     "article": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/05/74/74ed52a2b64876aea46e92dac61ad7de3016ae0f421031d7840760355d73112b/article.md",
     "record": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/05/74/74ed52a2b64876aea46e92dac61ad7de3016ae0f421031d7840760355d73112b/record.json"
@@ -26,7 +26,7 @@
   "content": {
     "media_type": "text/markdown; charset=utf-8",
     "bytes": 1147,
-    "sha256": "sha256:950a8f26e915452863460d0f43fd2f9d2268e48d6e2f72ef4979d6bec736422b",
+    "sha256": "sha256:b64c93cbc3293eeb94713498b1396db330d2af65f5bd7db5cb3c10ce7eaaa012",
     "normalized_content_hash": "sha256:1ced18d9cd48ae0ecf3d8dab789c16ee7d3959b652d32169cdec39fb56c6a5b3"
   },
   "provenance": {

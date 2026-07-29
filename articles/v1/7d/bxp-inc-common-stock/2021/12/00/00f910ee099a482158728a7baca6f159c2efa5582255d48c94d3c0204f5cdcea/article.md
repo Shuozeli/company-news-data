@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-completes-acquisition-of-360-park-avenue-south"
 published_at: "2021-12-20T12:50:26+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:a21a026a1756139e5ac46271e40b95a51e209e83cf9ed8ad215433dcf53b4ea9"
 ---
 

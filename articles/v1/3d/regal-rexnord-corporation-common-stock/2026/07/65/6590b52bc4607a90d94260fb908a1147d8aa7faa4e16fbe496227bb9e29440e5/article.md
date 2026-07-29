@@ -7,7 +7,7 @@ source_id: "regal-rexnord-corporation-common-stock-rss-7a5f3be3ac40"
 canonical_url: "https://investors.regalrexnord.com/investors/ir-news/press-release-details/2026/Regal-Rexnord-Corporation-Declares-Quarterly-Dividend-of--35-per-share-b20eabfc3/default.aspx"
 published_at: "2026-07-21T20:00:00+00:00"
 first_seen_at: "2026-07-25T20:45:27.737236+00:00"
-fetched_at: "2026-07-28T22:14:02.022169+00:00"
+fetched_at: "2026-07-29T14:21:42.677620+00:00"
 content_hash: "sha256:f6c57c9d9a8aa609cd402a0aaa1cba1e2405adf0f3156cfbf764de9f5669025e"
 ---
 

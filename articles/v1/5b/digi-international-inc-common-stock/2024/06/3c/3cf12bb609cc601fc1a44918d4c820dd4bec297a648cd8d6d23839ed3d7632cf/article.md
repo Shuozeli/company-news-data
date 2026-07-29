@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2024/ron-konezny-entrepreneur-of-the-year"
 published_at: "2024-06-27T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:52bad26413753d3af07de5630f3e7cee37c283a8bc6003a7d1849c506836ad49"
 ---
 

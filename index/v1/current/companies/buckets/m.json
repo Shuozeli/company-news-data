@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "bucket": "m",
-  "company_count": 360,
+  "company_count": 359,
   "companies": [
     {
       "company_key": "m-t-bank-corporation-common-stock",
@@ -215,7 +215,7 @@
     {
       "company_key": "yc-mailmodo",
       "company_name": "Mailmodo",
-      "record_count": 20,
+      "record_count": 21,
       "first_published_at": "2021-03-19T20:39:23.266+00:00",
       "last_published_at": "2025-07-24T22:06:52.035+00:00",
       "company_manifest_path": "articles/v1/96/yc-mailmodo/company.json"
@@ -231,9 +231,9 @@
     {
       "company_key": "yc-mailwarm",
       "company_name": "Mailwarm",
-      "record_count": 18,
+      "record_count": 19,
       "first_published_at": "2026-06-18T17:07:52.608+00:00",
-      "last_published_at": "2026-07-28T09:10:00.324+00:00",
+      "last_published_at": "2026-07-29T09:41:56.152+00:00",
       "company_manifest_path": "articles/v1/fe/yc-mailwarm/company.json"
     },
     {
@@ -359,9 +359,9 @@
     {
       "company_key": "mannkind-corporation-common-stock",
       "company_name": "MannKind Corporation Common Stock",
-      "record_count": 11,
+      "record_count": 12,
       "first_published_at": "2026-05-06T20:01:00+00:00",
-      "last_published_at": "2026-07-28T20:01:00+00:00",
+      "last_published_at": "2026-07-29T10:30:00+00:00",
       "company_manifest_path": "articles/v1/6f/mannkind-corporation-common-stock/company.json"
     },
     {
@@ -455,9 +455,9 @@
     {
       "company_key": "marcus-corporation-the-common-stock",
       "company_name": "Marcus Corporation (The) Common Stock",
-      "record_count": 10,
+      "record_count": 11,
       "first_published_at": "2026-05-07T11:45:00+00:00",
-      "last_published_at": "2026-07-16T11:45:00+00:00",
+      "last_published_at": "2026-07-29T11:45:00+00:00",
       "company_manifest_path": "articles/v1/de/marcus-corporation-the-common-stock/company.json"
     },
     {
@@ -471,9 +471,9 @@
     {
       "company_key": "marinemax-inc-fl-common-stock",
       "company_name": "MarineMax Inc. (FL) Common Stock",
-      "record_count": 30,
-      "first_published_at": "2026-03-11T17:35:34+00:00",
-      "last_published_at": "2026-07-16T13:20:26+00:00",
+      "record_count": 40,
+      "first_published_at": "2026-02-26T13:15:00+00:00",
+      "last_published_at": "2026-07-23T10:45:00+00:00",
       "company_manifest_path": "articles/v1/a3/marinemax-inc-fl-common-stock/company.json"
     },
     {
@@ -623,9 +623,9 @@
     {
       "company_key": "marvell-technology-inc-common-stock",
       "company_name": "Marvell Technology Inc. Common Stock",
-      "record_count": 10,
+      "record_count": 11,
       "first_published_at": "2026-03-17T13:02:00+00:00",
-      "last_published_at": "2026-06-25T20:05:00+00:00",
+      "last_published_at": "2026-07-29T10:30:00+00:00",
       "company_manifest_path": "articles/v1/d2/marvell-technology-inc-common-stock/company.json"
     },
     {
@@ -815,9 +815,9 @@
     {
       "company_key": "yc-mattermost",
       "company_name": "Mattermost",
-      "record_count": 16,
+      "record_count": 17,
       "first_published_at": "2026-06-10T05:00:03+00:00",
-      "last_published_at": "2026-07-28T13:00:23+00:00",
+      "last_published_at": "2026-07-29T13:25:39+00:00",
       "company_manifest_path": "articles/v1/17/yc-mattermost/company.json"
     },
     {
@@ -871,17 +871,17 @@
     {
       "company_key": "maximus-inc-common-stock",
       "company_name": "Maximus Inc. Common Stock",
-      "record_count": 28,
+      "record_count": 29,
       "first_published_at": "2025-12-16T00:00:00+00:00",
-      "last_published_at": "2026-07-09T13:00:00+00:00",
+      "last_published_at": "2026-07-28T00:00:00+00:00",
       "company_manifest_path": "articles/v1/76/maximus-inc-common-stock/company.json"
     },
     {
       "company_key": "maxlinear-inc-common-stock",
       "company_name": "MaxLinear Inc. Common Stock",
-      "record_count": 21,
+      "record_count": 22,
       "first_published_at": "2026-02-20T21:35:00+00:00",
-      "last_published_at": "2026-07-23T20:05:00+00:00",
+      "last_published_at": "2026-07-29T12:35:00+00:00",
       "company_manifest_path": "articles/v1/18/maxlinear-inc-common-stock/company.json"
     },
     {
@@ -923,14 +923,6 @@
       "first_published_at": "2025-05-27T15:53:14+00:00",
       "last_published_at": "2026-06-02T17:17:14+00:00",
       "company_manifest_path": "articles/v1/d7/mayville-engineering-company-inc-common-stock/company.json"
-    },
-    {
-      "company_key": "yc-maywood",
-      "company_name": "Maywood",
-      "record_count": 14,
-      "first_published_at": "2025-10-30T00:00:00+00:00",
-      "last_published_at": "2026-07-15T00:00:00+00:00",
-      "company_manifest_path": "articles/v1/dd/yc-maywood/company.json"
     },
     {
       "company_key": "maze-therapeutics-inc-common-stock",
@@ -999,9 +991,9 @@
     {
       "company_key": "mcgraw-hill-inc-common-stock",
       "company_name": "McGraw Hill Inc. Common Stock",
-      "record_count": 11,
+      "record_count": 12,
       "first_published_at": "2026-03-24T13:00:00+00:00",
-      "last_published_at": "2026-07-28T12:00:00+00:00",
+      "last_published_at": "2026-07-29T13:00:00+00:00",
       "company_manifest_path": "articles/v1/36/mcgraw-hill-inc-common-stock/company.json"
     },
     {
@@ -1031,9 +1023,9 @@
     {
       "company_key": "yc-mdhub",
       "company_name": "mdhub",
-      "record_count": 13,
+      "record_count": 14,
       "first_published_at": "2026-06-10T10:36:33.998+00:00",
-      "last_published_at": "2026-07-24T14:18:04.018+00:00",
+      "last_published_at": "2026-07-28T16:08:45.517+00:00",
       "company_manifest_path": "articles/v1/05/yc-mdhub/company.json"
     },
     {
@@ -1055,9 +1047,9 @@
     {
       "company_key": "yc-meadow",
       "company_name": "Meadow",
-      "record_count": 15,
+      "record_count": 19,
       "first_published_at": "2026-06-04T16:25:03.028+00:00",
-      "last_published_at": "2026-07-28T14:03:19.539+00:00",
+      "last_published_at": "2026-07-28T22:45:37.962+00:00",
       "company_manifest_path": "articles/v1/4b/yc-meadow/company.json"
     },
     {
@@ -1095,9 +1087,9 @@
     {
       "company_key": "medical-properties-trust-inc-common-stock",
       "company_name": "Medical Properties Trust Inc. common stock",
-      "record_count": 10,
+      "record_count": 11,
       "first_published_at": "2025-11-17T13:30:00+00:00",
-      "last_published_at": "2026-07-08T12:00:00+00:00",
+      "last_published_at": "2026-07-29T12:00:00+00:00",
       "company_manifest_path": "articles/v1/12/medical-properties-trust-inc-common-stock/company.json"
     },
     {
@@ -1143,9 +1135,9 @@
     {
       "company_key": "mediwound-ltd-ordinary-shares",
       "company_name": "MediWound Ltd. Ordinary Shares",
-      "record_count": 10,
+      "record_count": 11,
       "first_published_at": "2026-01-12T12:00:41+00:00",
-      "last_published_at": "2026-05-27T11:00:32+00:00",
+      "last_published_at": "2026-07-29T12:00:39+00:00",
       "company_manifest_path": "articles/v1/56/mediwound-ltd-ordinary-shares/company.json"
     },
     {
@@ -1167,9 +1159,9 @@
     {
       "company_key": "medpace-holdings-inc-common-stock",
       "company_name": "Medpace Holdings Inc. Common Stock",
-      "record_count": 21,
+      "record_count": 22,
       "first_published_at": "2025-11-19T20:44:24+00:00",
-      "last_published_at": "2026-07-23T13:40:07+00:00",
+      "last_published_at": "2026-07-29T14:21:29+00:00",
       "company_manifest_path": "articles/v1/8e/medpace-holdings-inc-common-stock/company.json"
     },
     {
@@ -1215,9 +1207,9 @@
     {
       "company_key": "yc-mem0",
       "company_name": "Mem0",
-      "record_count": 29,
+      "record_count": 30,
       "first_published_at": "2026-06-05T00:00:00+00:00",
-      "last_published_at": "2026-07-23T00:00:00+00:00",
+      "last_published_at": "2026-07-29T00:00:00+00:00",
       "company_manifest_path": "articles/v1/bd/yc-mem0/company.json"
     },
     {
@@ -1479,7 +1471,7 @@
     {
       "company_key": "yc-method-financial",
       "company_name": "Method Financial",
-      "record_count": 10,
+      "record_count": 11,
       "first_published_at": "2026-01-13T00:00:00+00:00",
       "last_published_at": "2026-01-13T00:00:00+00:00",
       "company_manifest_path": "articles/v1/8f/yc-method-financial/company.json"
@@ -1527,7 +1519,7 @@
     {
       "company_key": "yc-metreecs",
       "company_name": "Metreecs",
-      "record_count": 17,
+      "record_count": 19,
       "first_published_at": null,
       "last_published_at": null,
       "company_manifest_path": "articles/v1/aa/yc-metreecs/company.json"
@@ -1599,9 +1591,9 @@
     {
       "company_key": "mgp-ingredients-inc",
       "company_name": "MGP Ingredients Inc.",
-      "record_count": 21,
+      "record_count": 22,
       "first_published_at": "2024-11-21T17:08:57+00:00",
-      "last_published_at": "2026-07-28T12:00:00+00:00",
+      "last_published_at": "2026-07-29T11:30:00+00:00",
       "company_manifest_path": "articles/v1/50/mgp-ingredients-inc/company.json"
     },
     {
@@ -1735,9 +1727,9 @@
     {
       "company_key": "yc-middleware",
       "company_name": "Middleware",
-      "record_count": 20,
+      "record_count": 21,
       "first_published_at": "2026-06-12T00:00:00+00:00",
-      "last_published_at": "2026-07-28T00:00:00+00:00",
+      "last_published_at": "2026-07-29T00:00:00+00:00",
       "company_manifest_path": "articles/v1/07/yc-middleware/company.json"
     },
     {
@@ -2567,9 +2559,9 @@
     {
       "company_key": "yc-mosaicvoice",
       "company_name": "MosaicVoice",
-      "record_count": 10,
+      "record_count": 11,
       "first_published_at": "2026-06-16T09:04:00+00:00",
-      "last_published_at": "2026-07-28T16:47:56+00:00",
+      "last_published_at": "2026-07-29T05:53:00+00:00",
       "company_manifest_path": "articles/v1/d5/yc-mosaicvoice/company.json"
     },
     {
@@ -2815,9 +2807,9 @@
     {
       "company_key": "yc-muzz",
       "company_name": "Muzz",
-      "record_count": 31,
+      "record_count": 33,
       "first_published_at": "2025-04-04T21:09:01+00:00",
-      "last_published_at": "2026-07-22T18:14:12+00:00",
+      "last_published_at": "2026-07-29T09:40:57+00:00",
       "company_manifest_path": "articles/v1/01/yc-muzz/company.json"
     },
     {

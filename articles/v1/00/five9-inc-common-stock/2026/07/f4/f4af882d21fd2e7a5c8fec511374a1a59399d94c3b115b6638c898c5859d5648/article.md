@@ -7,7 +7,7 @@ source_id: "five9-inc-common-stock-rss-8477dcdb899e"
 canonical_url: "https://www.five9.com/registration/2026/stopping-fraud-it-stops-you-how-financial-services-leaders-are-winning-fight"
 published_at: "2026-07-07T14:19:17+00:00"
 first_seen_at: "2026-07-20T23:21:52.950221+00:00"
-fetched_at: "2026-07-28T23:20:01.419019+00:00"
+fetched_at: "2026-07-29T15:09:57.217849+00:00"
 content_hash: "sha256:07db14ed9c76f3efa5854fea489e8e78e22ca62739664dd6416b0495770da6e1"
 ---
 

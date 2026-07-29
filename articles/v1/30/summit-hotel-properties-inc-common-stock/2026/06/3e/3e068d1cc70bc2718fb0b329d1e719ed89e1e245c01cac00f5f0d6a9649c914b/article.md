@@ -7,7 +7,7 @@ source_id: "summit-hotel-properties-inc-common-stock-rss-2ccb932bd701"
 canonical_url: "https://investor.shpreit.com/news-events/news/news-details/2026/SUMMIT-HOTEL-PROPERTIES-COMPLETES-650-MILLION-CREDIT-FACILITY-REFINANCING/default.aspx"
 published_at: "2026-06-30T20:30:00+00:00"
 first_seen_at: "2026-07-26T00:50:07.796417+00:00"
-fetched_at: "2026-07-28T22:54:24.748195+00:00"
+fetched_at: "2026-07-29T14:24:45.917846+00:00"
 content_hash: "sha256:d00b0a66f5f24026a3f1c9638e565ae57c0b972fd633d6663de63dbf3202950f"
 ---
 

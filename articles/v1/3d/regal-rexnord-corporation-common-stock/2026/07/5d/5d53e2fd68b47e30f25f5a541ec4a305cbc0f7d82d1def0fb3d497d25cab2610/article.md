@@ -7,7 +7,7 @@ source_id: "regal-rexnord-corporation-common-stock-news-import-634959d3629c"
 canonical_url: "https://www.regalrexnord.com/news/2024-regal-rexnord-sustainability-report"
 published_at: null
 first_seen_at: "2026-07-26T21:54:57.082929+00:00"
-fetched_at: "2026-07-27T10:32:03.572825+00:00"
+fetched_at: "2026-07-29T01:46:34.709244+00:00"
 content_hash: "sha256:1697e71d08745924063f2a97fee55bd3b2da4c92f50fd36bf17ba2c030d6b027"
 ---
 

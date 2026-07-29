@@ -7,7 +7,7 @@ source_id: "yc-players-lounge-news-import-68d148ea6bb2"
 canonical_url: "https://www.playerslounge.com/blog/the-first-madden-26-trailer-has-been-released"
 published_at: null
 first_seen_at: "2026-07-23T20:45:53.392710+00:00"
-fetched_at: "2026-07-28T15:09:19.351622+00:00"
+fetched_at: "2026-07-29T04:15:54.707542+00:00"
 content_hash: "sha256:38f8e34e25050372943074c381354a9b2674ceeea676efe096561a3791edd87e"
 ---
 

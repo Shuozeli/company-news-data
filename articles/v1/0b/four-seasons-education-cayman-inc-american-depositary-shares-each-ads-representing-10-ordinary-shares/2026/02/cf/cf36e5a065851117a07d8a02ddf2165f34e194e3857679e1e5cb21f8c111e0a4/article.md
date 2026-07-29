@@ -7,7 +7,7 @@ source_id: "four-seasons-education-cayman-inc-american-depositary-shares-each-ad
 canonical_url: "https://ir.sijiedu.com/2026-02-12-Four-Seasons-Education-Regains-Compliance-with-NYSE-Continued-Listing-Standards"
 published_at: "2026-02-12T10:00:00+00:00"
 first_seen_at: "2026-07-27T02:35:10.746439+00:00"
-fetched_at: "2026-07-29T00:51:28.801007+00:00"
+fetched_at: "2026-07-29T14:21:20.648009+00:00"
 content_hash: "sha256:c86103898d4afc37b3f36d97dab72ea1d9253afa28658d8249e315ebca0d067c"
 ---
 

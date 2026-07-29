@@ -7,7 +7,7 @@ source_id: "yc-cointracker-news-import-8eddc0d2ffc8"
 canonical_url: "https://www.cointracker.io/blog/5-major-companies-that-accept-bitcoin-how-your-business-can-too"
 published_at: "2025-03-04T00:00:00+00:00"
 first_seen_at: "2026-07-24T23:51:12.353224+00:00"
-fetched_at: "2026-07-28T15:50:30.558354+00:00"
+fetched_at: "2026-07-29T04:56:52.338692+00:00"
 content_hash: "sha256:15b29bd87bb4c21f6211d1df3a19d0be1c3154d169c36bcbc249489d5573a389"
 ---
 

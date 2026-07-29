@@ -7,7 +7,7 @@ source_id: "rithm-capital-corp-common-stock-news-import-5314a4c76407"
 canonical_url: "https://ir.rithmcap.com/investors/news/news-details/2024/Rithm-Capital-Corp.-Announces-Second-Quarter-2024-Results/default.aspx"
 published_at: "2024-07-31T00:00:00+00:00"
 first_seen_at: "2026-07-23T23:09:28.985234+00:00"
-fetched_at: "2026-07-28T12:56:36.109173+00:00"
+fetched_at: "2026-07-29T17:03:48.445205+00:00"
 content_hash: "sha256:25c154f6cc650f069f13a7f1fcc1ce5c01a2e6368fe31a9e81916d4c2ed2bb06"
 ---
 

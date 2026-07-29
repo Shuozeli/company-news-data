@@ -7,7 +7,7 @@ source_id: "axil-brands-inc-common-stock-atom-2f9e2e7b844d"
 canonical_url: "https://goaxil.com/blogs/press-releases/axil-brands-reports-second-quarter-fiscal-year-2025-financial-results"
 published_at: "2025-01-08T15:25:51+00:00"
 first_seen_at: "2026-07-25T01:09:14.553659+00:00"
-fetched_at: "2026-07-28T23:46:00.445611+00:00"
+fetched_at: "2026-07-29T15:39:38.104194+00:00"
 content_hash: "sha256:b4495ab56e367ad2a546a6c40a2b52077e608aa0d22b5a6a059b06bf81c68f84"
 ---
 

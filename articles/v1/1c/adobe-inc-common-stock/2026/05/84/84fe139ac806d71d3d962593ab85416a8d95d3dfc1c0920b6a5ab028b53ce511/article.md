@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2026/05/how-to-fix-cors-errors-in-your-adobe-express-add-on"
 published_at: "2026-05-31T00:00:00+00:00"
 first_seen_at: "2026-07-27T16:11:58.622749+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:cd64b2dd18e461487d6f4bf2d2249aab80f450db74728dad12b566278b872b7f"
 ---
 

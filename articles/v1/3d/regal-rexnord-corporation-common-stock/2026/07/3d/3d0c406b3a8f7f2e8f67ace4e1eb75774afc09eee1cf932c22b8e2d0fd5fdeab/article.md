@@ -7,7 +7,7 @@ source_id: "regal-rexnord-corporation-common-stock-news-import-634959d3629c"
 canonical_url: "https://www.regalrexnord.com/news/regal-rexnord-to-showcase-durable-asphalt-and-aggregate-solutions-at-world-of-asphalt"
 published_at: null
 first_seen_at: "2026-07-26T21:54:57.082929+00:00"
-fetched_at: "2026-07-27T10:32:03.572825+00:00"
+fetched_at: "2026-07-29T01:46:34.709244+00:00"
 content_hash: "sha256:11e1d4d330dbd7b411ba5f42462ffe3f59973dcfcc7508b404f4185bcb3baf88"
 ---
 

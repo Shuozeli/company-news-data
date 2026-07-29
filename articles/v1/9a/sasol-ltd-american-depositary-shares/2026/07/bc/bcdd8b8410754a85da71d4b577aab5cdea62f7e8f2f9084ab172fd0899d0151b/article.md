@@ -7,7 +7,7 @@ source_id: "sasol-ltd-american-depositary-shares-rss-19efa4e62491"
 canonical_url: "https://www.sasol.com/node/9667"
 published_at: "2026-07-12T05:30:03+00:00"
 first_seen_at: "2026-07-20T23:22:14.619222+00:00"
-fetched_at: "2026-07-28T23:04:59.546851+00:00"
+fetched_at: "2026-07-29T14:44:29.016564+00:00"
 content_hash: "sha256:91c37e57125b99d48caee888f92391016872d1dc5c0036e9af68cc53fa970f07"
 ---
 

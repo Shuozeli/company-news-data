@@ -7,7 +7,7 @@ source_id: "eva-live-inc-common-stock-rss-fa36d30c6b04"
 canonical_url: "https://eva.live/eva-live-targets-a-3-trillion-global-defense-satellite-and-ai-infrastructure-opportunity-with-proposed-acquisition-of-airbeam-wireless-technologies/"
 published_at: "2026-07-20T06:00:00+00:00"
 first_seen_at: "2026-07-25T03:24:54.313623+00:00"
-fetched_at: "2026-07-28T23:38:42.811853+00:00"
+fetched_at: "2026-07-29T15:33:36.261466+00:00"
 content_hash: "sha256:ec5dd17775a85e8cfa75c27253f44bf0c1e7368965be3760dbd516c53ca53548"
 ---
 

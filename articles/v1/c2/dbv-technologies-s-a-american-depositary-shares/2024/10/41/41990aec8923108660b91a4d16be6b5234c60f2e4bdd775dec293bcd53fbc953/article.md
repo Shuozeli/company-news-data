@@ -7,7 +7,7 @@ source_id: "dbv-technologies-s-a-american-depositary-shares-rss-99010b1c3409"
 canonical_url: "https://dbv-technologies.com/uncategorized/"
 published_at: "2024-10-14T20:44:55+00:00"
 first_seen_at: "2026-07-25T03:33:18.707326+00:00"
-fetched_at: "2026-07-28T22:17:39.775273+00:00"
+fetched_at: "2026-07-29T14:22:23.459565+00:00"
 content_hash: "sha256:658463d38ebce7549fe22c3e344878929be2f0770e3f862c692dde5e037c5847"
 ---
 

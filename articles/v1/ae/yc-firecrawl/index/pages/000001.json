@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
-  "record_count": 34,
+  "record_count": 35,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "8e45ae1ec2cb733867484b637a4d728f181539184771db8a8855a315732c7482",
+      "company_key": "yc-firecrawl",
+      "company_name": "Firecrawl",
+      "source_id": "yc-firecrawl-news-import-e3b10de50c72",
+      "source_kind": "html",
+      "canonical_url": "https://www.firecrawl.dev/blog/claude-code-web-research-tokens",
+      "title": "Claude Code Uses Too Many Tokens on Web Search - Here's the Fix",
+      "summary": "Every time Claude Code scrapes or searches the web mid-session, that page's content sticks around in context for every message after it. Four Firecrawl techniques, tested live against Claude Code's default tools, cut what actually lands in context.",
+      "published_at": "2026-07-28T00:00:00+00:00",
+      "fetched_at": "2026-07-29T03:51:19.789559+00:00",
+      "article_path": "articles/v1/ae/yc-firecrawl/2026/07/8e/8e45ae1ec2cb733867484b637a4d728f181539184771db8a8855a315732c7482/article.md",
+      "record_path": "articles/v1/ae/yc-firecrawl/2026/07/8e/8e45ae1ec2cb733867484b637a4d728f181539184771db8a8855a315732c7482/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "95302cb4f9d0dc7b6acfbd2f832d0b3dc35af188875b25f0ab6431302a508d7c",

@@ -4,17 +4,17 @@
     "key": "asure-software-inc-common-stock",
     "name": "Asure Software Inc Common Stock"
   },
-  "record_count": 8,
+  "record_count": 13,
   "first_published_at": "2026-07-09T15:27:45+00:00",
-  "last_published_at": "2026-07-16T15:15:55+00:00",
+  "last_published_at": "2026-07-29T13:33:03+00:00",
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 8
+      "record_count": 13
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/69/asure-software-inc-common-stock/index/pages/000001.json",
-        "record_count": 8,
-        "byte_count": 10481,
-        "sha256": "sha256:e3806e428d0b28e64949bf4f37d47cff7fdb4bb51472094ce4f4bd05834a0227",
-        "newest_at": "2026-07-16T15:15:55+00:00",
+        "record_count": 13,
+        "byte_count": 16894,
+        "sha256": "sha256:43f2d92d63c3ef492e3f3a07f65ce0c468cf70635a7b9121a1293c4f0dd8cffd",
+        "newest_at": "2026-07-29T13:33:03+00:00",
         "oldest_at": "2026-07-09T15:27:45+00:00"
       }
     ]

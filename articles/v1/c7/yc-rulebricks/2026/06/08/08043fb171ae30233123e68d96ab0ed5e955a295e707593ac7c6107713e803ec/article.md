@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/from-fraud-signals-to-payment-actions"
 published_at: "2026-06-07T16:04:34+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T22:57:17.651461+00:00"
+fetched_at: "2026-07-29T14:31:05.567422+00:00"
 content_hash: "sha256:5f660e5179a54906c1f4c8b46e61445d9875a65ec271db05254dea2a59061c67"
 ---
 

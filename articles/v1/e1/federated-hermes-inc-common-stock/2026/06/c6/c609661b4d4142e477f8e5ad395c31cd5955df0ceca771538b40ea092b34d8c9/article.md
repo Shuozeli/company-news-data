@@ -7,7 +7,7 @@ source_id: "federated-hermes-inc-common-stock-news-import-e493f31fb4b1"
 canonical_url: "https://www.federatedhermes.com/us/insights/article/looking-out-the-side-window.do"
 published_at: "2026-06-24T00:00:00+00:00"
 first_seen_at: "2026-07-25T04:31:44.723777+00:00"
-fetched_at: "2026-07-28T15:58:11.230193+00:00"
+fetched_at: "2026-07-29T05:05:35.865323+00:00"
 content_hash: "sha256:6d6a268c24543b0755ef6a8bbabfdcfac23e795c66f807c33a8d31a3d5c91b64"
 ---
 

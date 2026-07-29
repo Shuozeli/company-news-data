@@ -7,7 +7,7 @@ source_id: "flexsteel-industries-inc-common-stock-news-import-99d97880673a"
 canonical_url: "https://www.flexsteel.com/blogs/news/flexsteel-celebrates-early-achievement-in-plant-a-tree-campaign-as-earth-day-and-arbor-day-approach"
 published_at: "2024-04-23T09:39:30+00:00"
 first_seen_at: "2026-07-26T14:24:19.098770+00:00"
-fetched_at: "2026-07-28T16:38:29.854927+00:00"
+fetched_at: "2026-07-29T05:32:54.256538+00:00"
 content_hash: "sha256:ea2b01dbb6576e4d01abc137a8279fd67e95fb41e77ae70133deecb139b9bf75"
 ---
 

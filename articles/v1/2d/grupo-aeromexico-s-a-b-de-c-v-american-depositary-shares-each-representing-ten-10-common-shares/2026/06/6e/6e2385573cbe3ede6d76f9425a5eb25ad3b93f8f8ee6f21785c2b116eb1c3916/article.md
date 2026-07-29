@@ -7,7 +7,7 @@ source_id: "grupo-aeromexico-s-a-b-de-c-v-american-depositary-shares-each-repres
 canonical_url: "https://ir.aeromexico.com/news-releases/news-release-details/aeromexico-announces-webcast-second-quarter-2026-financial-0"
 published_at: "2026-06-23T15:00:00+00:00"
 first_seen_at: "2026-07-25T07:12:21.745434+00:00"
-fetched_at: "2026-07-29T00:04:23.463151+00:00"
+fetched_at: "2026-07-29T17:08:40.409414+00:00"
 content_hash: "sha256:ee56cc7299202c77888f525fc99ada989f4703eccb9389007668cc59dca06372"
 ---
 

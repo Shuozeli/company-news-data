@@ -7,7 +7,7 @@ source_id: "progressive-corporation-the-common-stock-rss-26387ce00949"
 canonical_url: "https://progressive.mediaroom.com/2026-07-21-Cleveland-WNBA-Names-Progressive-R-as-Founding-Partner-and-Sole-Jersey-Patch-Sponsor"
 published_at: "2026-07-21T13:00:00+00:00"
 first_seen_at: "2026-07-21T13:48:59.232395+00:00"
-fetched_at: "2026-07-28T23:06:00.378591+00:00"
+fetched_at: "2026-07-29T14:46:39.141832+00:00"
 content_hash: "sha256:4d88e68cf9ec01609a630fc1bfe50df2f1eba9a4625b97140c242f783393e18e"
 ---
 

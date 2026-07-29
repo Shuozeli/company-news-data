@@ -7,7 +7,7 @@ source_id: "qiagen-n-v-common-shares-rss-98e7f8d13456"
 canonical_url: "https://corporate.qiagen.com/English/newsroom/press-releases/press-release-details/2026/QIAGEN-Expands-QIAstat-Dx-Bloodstream-Infection-Testing-Menu-in-Europe/default.aspx"
 published_at: "2026-07-14T20:05:00+00:00"
 first_seen_at: "2026-07-28T04:42:25.610146+00:00"
-fetched_at: "2026-07-28T23:50:39.335368+00:00"
+fetched_at: "2026-07-29T15:43:35.357325+00:00"
 content_hash: "sha256:1c1996245ba76c3483b0db8432b162ef26e3af65c39bcc5dc83fc35431405d49"
 ---
 

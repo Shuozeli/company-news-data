@@ -7,7 +7,7 @@ source_id: "j-and-friends-holdings-limited-american-depositary-shares-rss-bd6898
 canonical_url: "https://ir.j-friends.com/2025-10-24-PINTEC-Announces-Changes-in-the-Board-of-Directors"
 published_at: "2025-10-24T20:30:00+00:00"
 first_seen_at: "2026-07-27T03:14:15.292887+00:00"
-fetched_at: "2026-07-28T23:43:44.432221+00:00"
+fetched_at: "2026-07-29T15:36:48.300844+00:00"
 content_hash: "sha256:a61663937c08137fd5bea891d2616aeebbc0b80ceb4a23b8d3b4fcb82995560e"
 ---
 

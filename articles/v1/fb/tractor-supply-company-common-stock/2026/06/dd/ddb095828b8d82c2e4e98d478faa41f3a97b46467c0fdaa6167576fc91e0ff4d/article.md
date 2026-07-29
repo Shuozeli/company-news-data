@@ -7,7 +7,7 @@ source_id: "tractor-supply-company-common-stock-rss-a230632fee03"
 canonical_url: "https://corporate.tractorsupply.com/newsroom/news-releases/news-releases-details/2026/Tractor-Supply-Customers-Show-Their-Passion-for-Shelter-Pets-During-Relief-for-Rescues-Fundraiser/default.aspx"
 published_at: "2026-06-17T15:54:00+00:00"
 first_seen_at: "2026-07-26T02:53:33.187444+00:00"
-fetched_at: "2026-07-28T22:56:08.683766+00:00"
+fetched_at: "2026-07-29T14:28:32.339732+00:00"
 content_hash: "sha256:e5cd5e64285df5241960716dcc4de7c12bc5a968792eb1344064d97d7ad06763"
 ---
 

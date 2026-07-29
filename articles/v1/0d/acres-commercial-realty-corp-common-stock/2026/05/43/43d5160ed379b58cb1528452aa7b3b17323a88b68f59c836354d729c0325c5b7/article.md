@@ -7,7 +7,7 @@ source_id: "acres-commercial-realty-corp-common-stock-rss-3b21511dc4b0"
 canonical_url: "https://www.acresreit.com/2026-05-27-ACRES-Commercial-Realty-Corp-Declares-Quarterly-Cash-Dividends-for-its-Preferred-Stock"
 published_at: "2026-05-27T20:15:00+00:00"
 first_seen_at: "2026-07-20T23:18:09.950469+00:00"
-fetched_at: "2026-07-29T00:06:28.142757+00:00"
+fetched_at: "2026-07-29T17:00:16.871021+00:00"
 content_hash: "sha256:856bf004161e55a581d57109754a9240bbdaf5d8532417905b785310a8f8797e"
 ---
 

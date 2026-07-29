@@ -7,7 +7,7 @@ source_id: "chewy-inc-class-a-common-stock-rss-a2d1c38e05ec"
 canonical_url: "https://investor.chewy.com/news-and-events/news/news-details/2025/Chewy-Announces-Third-Quarter-2025-Financial-Results/default.aspx"
 published_at: "2025-12-10T12:05:00+00:00"
 first_seen_at: "2026-07-25T01:35:11.824086+00:00"
-fetched_at: "2026-07-28T23:09:07.041546+00:00"
+fetched_at: "2026-07-29T14:51:11.017992+00:00"
 content_hash: "sha256:54c5c4951beaac7284dd05227305e828dc58277974dfbf0a21609df7a1e30f17"
 ---
 

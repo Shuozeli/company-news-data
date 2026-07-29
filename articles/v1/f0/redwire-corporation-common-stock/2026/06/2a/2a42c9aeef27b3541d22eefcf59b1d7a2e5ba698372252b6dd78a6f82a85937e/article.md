@@ -7,7 +7,7 @@ source_id: "redwire-corporation-common-stock-rss-a3eb383a60df"
 canonical_url: "https://rdw.com/newsroom/full-burn-ep21-inference-without-guilt-the-case-for-space-ai-data-centers-al-tadros-of-redwire/"
 published_at: "2026-06-09T14:27:08+00:00"
 first_seen_at: "2026-07-20T23:18:23.159838+00:00"
-fetched_at: "2026-07-29T00:26:21.020535+00:00"
+fetched_at: "2026-07-29T13:53:17.847231+00:00"
 content_hash: "sha256:0ba9217bc2e4fc88713b62c17241b016edfd078f9c9c9ece7064be94929464b3"
 ---
 

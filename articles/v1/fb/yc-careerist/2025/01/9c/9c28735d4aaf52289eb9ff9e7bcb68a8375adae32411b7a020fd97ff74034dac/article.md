@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:32:04.842955+00:00"
 content_hash: "sha256:070708df048f424a5c267995c87919da9ffeb7c6abce8534539467dbac83101d"
 ---
 
-# A Day in the Life of an SDET Engineer: Behind the Scenes in Tech
+# A Day in the Life of an SDET Engineer
 
 # A Day in the Life of an SDET Engineer
 

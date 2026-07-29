@@ -7,7 +7,7 @@ source_id: "4d-molecular-therapeutics-inc-common-stock-rss-c7123edf6d85"
 canonical_url: "https://www.fiercebiotech.com/biotech/4dmt-eyes-385m-deal-otsuka-cash-aimed-retinal-gene-therapys-phase-3-plans"
 published_at: "2025-12-04T14:47:26+00:00"
 first_seen_at: "2026-07-24T06:17:35.853138+00:00"
-fetched_at: "2026-07-29T00:35:12.607526+00:00"
+fetched_at: "2026-07-29T14:00:46.945507+00:00"
 content_hash: "sha256:8f782a64569f48846fbdfdd63174c433feab0f3ecceafe91819410c97e5c2184"
 ---
 

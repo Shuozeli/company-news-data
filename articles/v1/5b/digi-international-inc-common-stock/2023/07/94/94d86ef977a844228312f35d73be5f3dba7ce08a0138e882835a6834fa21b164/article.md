@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/announcing-digi-dal-os-23-6-firmware-updates"
 published_at: "2023-07-21T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:daae39aa41699145acd5e008df166d91445e73b9eea7f023a96f3bd9c4ee7b68"
 ---
 

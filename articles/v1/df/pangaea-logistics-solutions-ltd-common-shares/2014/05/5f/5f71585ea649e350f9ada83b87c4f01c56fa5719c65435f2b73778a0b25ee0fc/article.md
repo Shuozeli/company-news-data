@@ -7,7 +7,7 @@ source_id: "pangaea-logistics-solutions-ltd-common-shares-rss-1548a8a6c012"
 canonical_url: "https://www.pangaeals.com/link-post-format/"
 published_at: "2014-05-31T16:36:22+00:00"
 first_seen_at: "2026-07-20T23:19:12.443516+00:00"
-fetched_at: "2026-07-29T00:15:52.656499+00:00"
+fetched_at: "2026-07-29T17:18:02.595596+00:00"
 content_hash: "sha256:7ad57e9fee1b40b0535e8fb63cd53242a69698cbd77d2d12aeb85ba5b18aa285"
 ---
 

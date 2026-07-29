@@ -7,7 +7,7 @@ source_id: "cnh-industrial-n-v-common-shares-rss-eda1b7762abb"
 canonical_url: "https://investors.cnh.com/news/news-details/2026/CNH-publishes-2026-Annual-General-Meeting-agenda/default.aspx"
 published_at: "2026-03-25T21:06:00+00:00"
 first_seen_at: "2026-07-27T08:32:58.799449+00:00"
-fetched_at: "2026-07-28T23:53:42.862702+00:00"
+fetched_at: "2026-07-29T17:09:49.446994+00:00"
 content_hash: "sha256:750adec94f488b00287e5930ebe2daf4470ada5454f56192dba498c888e9792c"
 ---
 

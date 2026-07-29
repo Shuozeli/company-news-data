@@ -7,7 +7,7 @@ source_id: "thor-industries-inc-common-stock-rss-d0b8e219f7f8"
 canonical_url: "https://ir.thorindustries.com/investor-resources/press-releases/press-release-details/2026/THOR-INDUSTRIES-ANNOUNCES-FISCAL-2026-SECOND-QUARTER-RESULTS/default.aspx"
 published_at: "2026-03-03T11:30:00+00:00"
 first_seen_at: "2026-07-26T02:24:17.764835+00:00"
-fetched_at: "2026-07-29T00:03:08.074894+00:00"
+fetched_at: "2026-07-29T17:02:32.111655+00:00"
 content_hash: "sha256:d5e83da1b9ab4db21764416608623cd1c31b1ab816409525b3dd65f9253c40df"
 ---
 

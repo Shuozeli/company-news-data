@@ -7,7 +7,7 @@ source_id: "timberland-bancorp-inc-common-stock-rss-5ec6bfedda23"
 canonical_url: "https://timberlandbancorp.q4ir.com/news/news-details/2025/Timberland-Bancorp-2025-Fiscal-Years-Net-Income-Increases-20-to-29-16-Million/default.aspx"
 published_at: "2025-10-30T22:33:00+00:00"
 first_seen_at: "2026-07-26T02:42:36.256216+00:00"
-fetched_at: "2026-07-29T00:04:21.741723+00:00"
+fetched_at: "2026-07-29T15:47:04.456270+00:00"
 content_hash: "sha256:398f656520190c4882a9fdda86e3b84e06bfb522eda639060e093d2aa5fc6f30"
 ---
 

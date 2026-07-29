@@ -7,7 +7,7 @@ source_id: "evolv-technologies-holdings-inc-class-a-common-stock-rss-ec54816aa3b
 canonical_url: "https://evolv.com/resources/white-papers/weapons-detection-what-is-it/"
 published_at: "2026-07-20T21:37:15+00:00"
 first_seen_at: "2026-07-28T21:27:51.933751+00:00"
-fetched_at: "2026-07-28T21:27:51.792375+00:00"
+fetched_at: "2026-07-29T15:07:48.185123+00:00"
 content_hash: "sha256:45486a336551db41fc892d0c16a79c61de760daf3f86dd7d1818a486d6089c9e"
 ---
 

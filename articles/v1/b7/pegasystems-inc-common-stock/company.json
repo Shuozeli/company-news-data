@@ -4,7 +4,7 @@
     "key": "pegasystems-inc-common-stock",
     "name": "Pegasystems Inc. Common Stock"
   },
-  "record_count": 71,
+  "record_count": 72,
   "first_published_at": "2023-09-20T12:00:00+00:00",
   "last_published_at": "2026-07-27T12:00:00+00:00",
   "partitions": [
@@ -26,11 +26,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 51
+      "record_count": 52
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -39,17 +39,17 @@
         "page": 1,
         "path": "articles/v1/b7/pegasystems-inc-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 87821,
-        "sha256": "sha256:b6a0c6c4dc7fe59a527216ae39244ac5b2003c2418ce5d5d74b7bbc14fe62709",
+        "byte_count": 87851,
+        "sha256": "sha256:1be89e4d91d8dcfc8995bb752a308439fecf60255270dca7a2cb6221b6048ea7",
         "newest_at": "2026-07-28T21:38:27.854613+00:00",
-        "oldest_at": "2026-07-07T12:00:00+00:00"
+        "oldest_at": "2026-07-08T12:00:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/b7/pegasystems-inc-common-stock/index/pages/000002.json",
-        "record_count": 21,
-        "byte_count": 79304,
-        "sha256": "sha256:994a135a9dd1e8f20ddbda18c69eef8cadc9efd93b671ac9f6cc57c9a34525eb",
+        "record_count": 22,
+        "byte_count": 80393,
+        "sha256": "sha256:663793e17f94cc9f930f2bb644051022c6af3cace15ac7b2f91c262bcb015b1f",
         "newest_at": "2026-07-07T12:00:00+00:00",
         "oldest_at": "2023-09-20T12:00:00+00:00"
       }

@@ -7,7 +7,7 @@ source_id: "yc-hannah-life-technologies-atom-e425c915ce44"
 canonical_url: "https://www.twoplushealth.com/blogs/fertility/covid-19-affect-male-fertility"
 published_at: "2022-04-27T08:27:08+00:00"
 first_seen_at: "2026-07-25T01:09:10.378171+00:00"
-fetched_at: "2026-07-29T00:19:55.911473+00:00"
+fetched_at: "2026-07-29T17:20:38.342410+00:00"
 content_hash: "sha256:58933a505f415d2b34f6d16a6c6e26d1d0b5de5e70af035a60c3d04be5e1cd5d"
 ---
 

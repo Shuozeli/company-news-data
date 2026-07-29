@@ -7,7 +7,7 @@ source_id: "group-1-automotive-inc-common-stock-rss-3fb657a1ed4b"
 canonical_url: "https://www.group1corp.com/2026-05-12-Group-1-Automotive-Board-Declares-Quarterly-Dividend"
 published_at: "2026-05-12T22:29:00+00:00"
 first_seen_at: "2026-07-20T04:35:54.447468+00:00"
-fetched_at: "2026-07-28T23:49:20.512652+00:00"
+fetched_at: "2026-07-29T15:44:21.059049+00:00"
 content_hash: "sha256:9e142028d6a2c668d592e0c7ec8b1f875d08df333a7084e8553b38d90895d2ed"
 ---
 

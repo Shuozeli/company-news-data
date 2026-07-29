@@ -7,7 +7,7 @@ source_id: "flexsteel-industries-inc-common-stock-news-import-99d97880673a"
 canonical_url: "https://www.flexsteel.com/blogs/news/flexsteel-seeks-new-horizons-with-record-product-launches-at-april-market"
 published_at: "2024-03-19T11:27:38+00:00"
 first_seen_at: "2026-07-26T14:24:19.098770+00:00"
-fetched_at: "2026-07-28T16:38:29.854927+00:00"
+fetched_at: "2026-07-29T05:32:54.256538+00:00"
 content_hash: "sha256:fa3102308955014c6f18b795ae6f1891fb85e93c1c6c2bf93a652604c45f655f"
 ---
 

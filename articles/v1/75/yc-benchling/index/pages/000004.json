@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 4,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "ed7dd9c3a2512173fb41d866083d2aeaa3e54306418200ba324d7719f6117574",
+      "company_key": "yc-benchling",
+      "company_name": "Benchling",
+      "source_id": "yc-benchling-rss-dcbca8149e4b",
+      "source_kind": "rss",
+      "canonical_url": "https://www.benchling.com/blog/3-things-every-biologist-should-know-about-p-values",
+      "title": "3 things every biologist should know about p-values",
+      "summary": "Learn how to draw statistically significant conclusions in bioinformatics analysis.",
+      "published_at": "2022-08-04T07:00:00+00:00",
+      "fetched_at": "2026-07-29T00:41:27.899557+00:00",
+      "article_path": "articles/v1/75/yc-benchling/2022/08/ed/ed7dd9c3a2512173fb41d866083d2aeaa3e54306418200ba324d7719f6117574/article.md",
+      "record_path": "articles/v1/75/yc-benchling/2022/08/ed/ed7dd9c3a2512173fb41d866083d2aeaa3e54306418200ba324d7719f6117574/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "ab70122c8fc47d8e56ad24125b9e08771a6889f7543110d611e543f94092feff",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T21:04:47.382363+00:00",
       "article_path": "articles/v1/75/yc-benchling/2021/08/d7/d78b01b7fe00eef3033aeb0be066e737edd2975b2ed9db3889159861ceabac15/article.md",
       "record_path": "articles/v1/75/yc-benchling/2021/08/d7/d78b01b7fe00eef3033aeb0be066e737edd2975b2ed9db3889159861ceabac15/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "c835958ce55915c68389967c023543e4dd4adb2c8a73567b43703b2e546ab024",
-      "company_key": "yc-benchling",
-      "company_name": "Benchling",
-      "source_id": "yc-benchling-rss-dcbca8149e4b",
-      "source_kind": "rss",
-      "canonical_url": "https://www.benchling.com/blog/how-to-organize-a-lab-notebook-for-growing-biotech-companies",
-      "title": "How to Organize a Lab Notebook for Growing Biotech Companies",
-      "summary": "To maximize the value of your electronic lab notebook, you first need to know how to organize it. Read more about tips and best practices for your ELN.",
-      "published_at": "2021-07-31T05:02:33+00:00",
-      "fetched_at": "2026-07-28T21:04:47.382363+00:00",
-      "article_path": "articles/v1/75/yc-benchling/2021/07/c8/c835958ce55915c68389967c023543e4dd4adb2c8a73567b43703b2e546ab024/article.md",
-      "record_path": "articles/v1/75/yc-benchling/2021/07/c8/c835958ce55915c68389967c023543e4dd4adb2c8a73567b43703b2e546ab024/record.json"
     }
   ]
 }

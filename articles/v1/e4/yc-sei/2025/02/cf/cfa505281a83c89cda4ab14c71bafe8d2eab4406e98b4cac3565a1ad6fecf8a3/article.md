@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/voice-ai-agents-collections"
 published_at: "2025-02-01T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:d0cee0cfe79fa75404a3f8508ada38c9db83cdb75ad85f75c1a4ba6faf301547"
 ---
 

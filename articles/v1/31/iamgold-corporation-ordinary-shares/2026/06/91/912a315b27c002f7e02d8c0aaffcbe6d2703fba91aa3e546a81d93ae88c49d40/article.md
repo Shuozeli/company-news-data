@@ -7,7 +7,7 @@ source_id: "iamgold-corporation-ordinary-shares-rss-524b2db29cae"
 canonical_url: "https://www.iamgold.com/English/investors/news-releases/news-releases-details/2026/IAMGOLD-Announces-Consolidated-Mineral-Resource-Estimate-for-Ct-Gold/default.aspx"
 published_at: "2026-06-01T11:00:00+00:00"
 first_seen_at: "2026-07-25T08:45:16.333702+00:00"
-fetched_at: "2026-07-29T00:49:47.335702+00:00"
+fetched_at: "2026-07-29T14:19:31.192618+00:00"
 content_hash: "sha256:ad17d09bcf7708120bf11b76bfa18fdc270b2279da86322890940556af3f09e0"
 ---
 

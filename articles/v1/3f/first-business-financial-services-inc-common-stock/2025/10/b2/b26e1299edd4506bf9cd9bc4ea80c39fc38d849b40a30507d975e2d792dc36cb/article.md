@@ -7,7 +7,7 @@ source_id: "first-business-financial-services-inc-common-stock-rss-e6a9ea1577e1"
 canonical_url: "https://ir.firstbusiness.bank/news-presentations/news-details/2025/First-Business-Bank-Reports-Third-Quarter-2025-Net-Income-of-14-2-Million/default.aspx"
 published_at: "2025-10-30T20:01:00+00:00"
 first_seen_at: "2026-07-25T04:46:11.112331+00:00"
-fetched_at: "2026-07-28T23:43:03.427891+00:00"
+fetched_at: "2026-07-29T15:36:25.142244+00:00"
 content_hash: "sha256:001c80d606201cfd910e0f8364cf3787633b7cea9f474e285d73982ee7711b76"
 ---
 

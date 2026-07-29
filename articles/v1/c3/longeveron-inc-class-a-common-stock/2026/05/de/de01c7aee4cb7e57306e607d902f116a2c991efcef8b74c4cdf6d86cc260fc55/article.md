@@ -7,7 +7,7 @@ source_id: "longeveron-inc-class-a-common-stock-rss-67d3213fd071"
 canonical_url: "https://investors.longeveron.com/news/News/news-details/2026/Longeveron-Issues-Letter-to-Stockholders-Highlighting-Corporate-Strategy-Strategic-Partnering-Approach-and-2026-Key-Priorities/default.aspx"
 published_at: "2026-05-20T20:05:00+00:00"
 first_seen_at: "2026-07-25T12:43:41.146504+00:00"
-fetched_at: "2026-07-29T00:25:00.376877+00:00"
+fetched_at: "2026-07-29T17:23:32.846338+00:00"
 content_hash: "sha256:28c35be0a9d4877772cd9fa49f31fe2cf760da0a70a67861a425e145247861bd"
 ---
 

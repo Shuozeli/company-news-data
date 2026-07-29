@@ -7,7 +7,7 @@ source_id: "perma-pipe-international-holdings-inc-common-stock-rss-204668fef2c0"
 canonical_url: "https://investors.permapipe.com/news/news-details/2025/Perma-Pipe-International-Holdings-Inc--Announces-30-Million-in-Contract-Awards-and-the-Strategic-Milestone-Approval-for-Saudi-Aramco/default.aspx"
 published_at: "2025-09-24T17:37:00+00:00"
 first_seen_at: "2026-07-25T18:48:56.852120+00:00"
-fetched_at: "2026-07-28T23:19:21.180132+00:00"
+fetched_at: "2026-07-29T15:08:56.009663+00:00"
 content_hash: "sha256:c57a272112cb4e32691f167d51a46a0824b18c5174f393b44748ea65221b64a5"
 ---
 

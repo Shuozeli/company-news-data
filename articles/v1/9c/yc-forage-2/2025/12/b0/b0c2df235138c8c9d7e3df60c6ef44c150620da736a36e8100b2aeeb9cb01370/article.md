@@ -7,7 +7,7 @@ source_id: "yc-forage-2-news-import-fbc52634aadb"
 canonical_url: "https://www.joinforage.com/newsroom/forage-named-to-inc-2025-best-in-business-list-for-advancing-food-access"
 published_at: "2025-12-02T00:00:00+00:00"
 first_seen_at: "2026-07-23T09:56:12.801149+00:00"
-fetched_at: "2026-07-28T04:13:54.743843+00:00"
+fetched_at: "2026-07-29T05:34:01.047617+00:00"
 content_hash: "sha256:3f268b82e7381fc12ca053321c4d4f48923e35b09deb2b77952c631fd472a185"
 ---
 

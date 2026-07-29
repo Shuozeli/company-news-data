@@ -7,7 +7,7 @@ source_id: "the-glimpse-group-inc-common-stock-rss-a8a553a6f685"
 canonical_url: "https://ir.theglimpsegroup.com/swarmer-and-brightline-partner-on-ai-data-collection-and-drone-interoperability-for-u-s-department-of-war/"
 published_at: "2026-07-27T12:58:24+00:00"
 first_seen_at: "2026-07-27T13:36:57.874073+00:00"
-fetched_at: "2026-07-28T23:55:41.393142+00:00"
+fetched_at: "2026-07-29T16:59:05.665060+00:00"
 content_hash: "sha256:3eb41bbccce9d54455110b8d5952d00939b410deb4a744f7dfb709f7a5f8ccbd"
 ---
 

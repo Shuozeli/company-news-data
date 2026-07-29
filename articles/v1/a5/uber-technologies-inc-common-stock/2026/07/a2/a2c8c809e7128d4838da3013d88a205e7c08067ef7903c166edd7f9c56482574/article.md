@@ -7,7 +7,7 @@ source_id: "uber-technologies-inc-common-stock-rss-0f1894567009"
 canonical_url: "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Acquisition-Offer-for-Delivery-Hero/default.aspx"
 published_at: "2026-07-16T05:57:00+00:00"
 first_seen_at: "2026-07-25T01:06:46.437477+00:00"
-fetched_at: "2026-07-29T00:17:05.950701+00:00"
+fetched_at: "2026-07-29T17:19:20.602674+00:00"
 content_hash: "sha256:913b1ff636bdda352e25c6fced12435092506089ea631be1736911c772558fb1"
 ---
 

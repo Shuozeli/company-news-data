@@ -7,7 +7,7 @@ source_id: "domino-s-pizza-inc-common-stock-rss-a15730a9b7d2"
 canonical_url: "http://biz.dominos.com/stories/international-womens-day-2023/"
 published_at: "2023-03-08T21:08:53+00:00"
 first_seen_at: "2026-07-21T01:23:20.782241+00:00"
-fetched_at: "2026-07-28T22:57:25.422181+00:00"
+fetched_at: "2026-07-29T14:31:02.134070+00:00"
 content_hash: "sha256:dce6c9853ff3d9dd190338d7bd91ae102c7314f5e892f27f2deb68db72c75f7b"
 ---
 

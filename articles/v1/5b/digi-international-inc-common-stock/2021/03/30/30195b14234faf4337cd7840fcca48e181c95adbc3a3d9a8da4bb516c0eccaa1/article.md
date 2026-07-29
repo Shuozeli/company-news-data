@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2021/opengear-expands-om2200-netops-console-server"
 published_at: "2021-03-30T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:2e05544bbc7feca72ed1082fcc0039ace82c1ddb5c166baa4211e58b014d1188"
 ---
 

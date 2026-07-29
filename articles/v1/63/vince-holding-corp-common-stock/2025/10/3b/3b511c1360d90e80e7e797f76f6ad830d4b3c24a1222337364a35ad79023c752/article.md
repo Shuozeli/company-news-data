@@ -7,7 +7,7 @@ source_id: "vince-holding-corp-common-stock-rss-88eb2c7b52d3"
 canonical_url: "http://investors.vince.com/press-releases/press-release-details/2025/Vince-Holding-Corp--Debuts-on-Nasdaq/default.aspx"
 published_at: "2025-10-21T11:30:00+00:00"
 first_seen_at: "2026-07-26T04:41:31.329212+00:00"
-fetched_at: "2026-07-28T23:38:21.832592+00:00"
+fetched_at: "2026-07-29T15:33:23.404729+00:00"
 content_hash: "sha256:475e4c604a46e916e4e703d00752c760a5c360e3ea9a0335bc92e186d77ea7e6"
 ---
 

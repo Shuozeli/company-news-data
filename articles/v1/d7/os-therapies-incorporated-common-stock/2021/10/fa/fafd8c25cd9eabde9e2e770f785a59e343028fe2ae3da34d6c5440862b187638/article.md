@@ -7,7 +7,7 @@ source_id: "os-therapies-incorporated-common-stock-rss-92cfd25f0c73"
 canonical_url: "https://ostherapies.com/news/os-therapies-announces-dosing-of-first-patient-in-a-phase-iib-trial-of-ost-her2-listeria-monocytogenes-in-recurred-resected-osteosarcoma/"
 published_at: "2021-10-22T16:23:54+00:00"
 first_seen_at: "2026-07-28T21:18:46.943222+00:00"
-fetched_at: "2026-07-29T00:31:19.265561+00:00"
+fetched_at: "2026-07-29T13:57:53.779054+00:00"
 content_hash: "sha256:9f1a36570c232aed2d98acf0df3a1a4c6b1f2403c9a5dc5d214321f776b03d51"
 ---
 

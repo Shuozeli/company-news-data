@@ -7,7 +7,7 @@ source_id: "yc-conveo-news-import-892b57e5f5a6"
 canonical_url: "https://conveo.ai/insights/ai-powered-qual-customer-behavior-why"
 published_at: "2025-08-12T12:27:06.055+00:00"
 first_seen_at: "2026-07-27T01:16:07.962169+00:00"
-fetched_at: "2026-07-28T02:04:34.342383+00:00"
+fetched_at: "2026-07-29T03:49:05.059626+00:00"
 content_hash: "sha256:cf71177dcec571798a59bd99b1fe86b513d056abdce2ab7b4cba0ce8f19cb19b"
 ---
 

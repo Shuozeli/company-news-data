@@ -7,7 +7,7 @@ source_id: "jack-in-the-box-inc-common-stock-rss-81dcefd5d5ea"
 canonical_url: "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Announces-Third-Quarter-2026-Earnings-Webcast/default.aspx"
 published_at: "2026-07-17T11:30:00+00:00"
 first_seen_at: "2026-07-25T10:06:06.072938+00:00"
-fetched_at: "2026-07-28T23:38:18.965200+00:00"
+fetched_at: "2026-07-29T15:34:00.106995+00:00"
 content_hash: "sha256:6b5be5594f113cee013e686a18771f44dec5a75b5120b2526964f365c1f7a83e"
 ---
 

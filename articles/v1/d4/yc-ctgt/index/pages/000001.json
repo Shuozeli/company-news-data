@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
-  "record_count": 5,
+  "record_count": 7,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "07b80e2e4a563fc97f2cbe5b989765906f82bd94ca2019db9169e42cb97c9482",
+      "company_key": "yc-ctgt",
+      "company_name": "CTGT",
+      "source_id": "yc-ctgt-news-import-358f70d55d44",
+      "source_kind": "html",
+      "canonical_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "title": "What a Distilled Model Inherits From Its Teacher",
+      "summary": "DeepSeek V4 Flash scores 45 points more censored on China-sensitive questions than on matched controls. Every model trained on it stays at the level of the untouched American base.",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "fetched_at": "2026-07-29T13:42:17.345293+00:00",
+      "article_path": "articles/v1/d4/yc-ctgt/2026/07/07/07b80e2e4a563fc97f2cbe5b989765906f82bd94ca2019db9169e42cb97c9482/article.md",
+      "record_path": "articles/v1/d4/yc-ctgt/2026/07/07/07b80e2e4a563fc97f2cbe5b989765906f82bd94ca2019db9169e42cb97c9482/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "7794f4ec876525a58ec0c0f4614b52e6e07b9b46135755ba17497442f87a3e71",
@@ -12,7 +27,7 @@
       "source_id": "yc-ctgt-news-import-358f70d55d44",
       "source_kind": "html",
       "canonical_url": "https://www.ctgt.ai/research/introducing-mentat",
-      "title": "Introducing Mentat: Deterministic Runtime Control for LLMs",
+      "title": "Introducing Mentat: Reliable Runtime Control for LLMs",
       "summary": "Today, we’re excited to introduce Mentat, CTGT’s new OpenAI-compatible endpoint built to deliver something the AI industry has been missing: deterministic control over large language models.",
       "published_at": "2025-12-09T00:00:00+00:00",
       "fetched_at": "2026-07-28T21:58:33.663804+00:00",
@@ -33,6 +48,21 @@
       "fetched_at": "2026-07-28T21:30:42.971376+00:00",
       "article_path": "articles/v1/d4/yc-ctgt/2025/03/b1/b1bfc2f6e6c3e93efd2819a9e8e05e2422d51a5d39fb19ded98e3db6f4fdff85/article.md",
       "record_path": "articles/v1/d4/yc-ctgt/2025/03/b1/b1bfc2f6e6c3e93efd2819a9e8e05e2422d51a5d39fb19ded98e3db6f4fdff85/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "de00b918667f362ed63c88be5092f5ddc89a5ade803628cf1eb8bd37e6c9af3e",
+      "company_key": "yc-ctgt",
+      "company_name": "CTGT",
+      "source_id": "yc-ctgt-news-import-358f70d55d44",
+      "source_kind": "html",
+      "canonical_url": "https://www.ctgt.ai/research/ctgt-raises-7-6m",
+      "title": "CTGT Raises $7.6M To Deepen Understanding of Frontier AI Behavior",
+      "summary": "It's no secret that we're reaching the limits of traditional methods to control AI output. To improve our ability to deploy these models where they matter most, we must understand their behavior on a foundational level.",
+      "published_at": "2025-02-20T00:00:00+00:00",
+      "fetched_at": "2026-07-29T13:42:17.345293+00:00",
+      "article_path": "articles/v1/d4/yc-ctgt/2025/02/de/de00b918667f362ed63c88be5092f5ddc89a5ade803628cf1eb8bd37e6c9af3e/article.md",
+      "record_path": "articles/v1/d4/yc-ctgt/2025/02/de/de00b918667f362ed63c88be5092f5ddc89a5ade803628cf1eb8bd37e6c9af3e/record.json"
     },
     {
       "schema_version": "1.0.0",

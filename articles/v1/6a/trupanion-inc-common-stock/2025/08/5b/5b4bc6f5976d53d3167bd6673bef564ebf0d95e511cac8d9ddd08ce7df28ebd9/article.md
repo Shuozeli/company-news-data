@@ -7,7 +7,7 @@ source_id: "trupanion-inc-common-stock-news-import-b3fe567ac9c2"
 canonical_url: "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/most-famous-movie-pets"
 published_at: "2025-08-20T00:00:00+00:00"
 first_seen_at: "2026-07-26T03:12:03.797628+00:00"
-fetched_at: "2026-07-28T17:37:55.930207+00:00"
+fetched_at: "2026-07-29T06:24:58.307897+00:00"
 content_hash: "sha256:f1ccb1739d96b8bd248a7e948ec46f7c7c27b274f14452883a5ef6168f6516b1"
 ---
 

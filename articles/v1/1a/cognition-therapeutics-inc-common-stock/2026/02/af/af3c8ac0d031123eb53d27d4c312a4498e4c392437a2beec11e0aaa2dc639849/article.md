@@ -7,7 +7,7 @@ source_id: "cognition-therapeutics-inc-common-stock-rss-ed2edde8b549"
 canonical_url: "https://cogrx.com/cognition-lengthens-zervinesine-ct1812-program-in-dlb/"
 published_at: "2026-02-06T21:59:07+00:00"
 first_seen_at: "2026-07-27T01:08:35.415304+00:00"
-fetched_at: "2026-07-28T23:38:02.619779+00:00"
+fetched_at: "2026-07-29T15:32:52.051957+00:00"
 content_hash: "sha256:5f06a1c316be12dc5647f8a47a3ae58905f56d1f61f22d395e0b29b63e919040"
 ---
 

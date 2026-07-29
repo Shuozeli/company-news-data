@@ -7,8 +7,8 @@ source_id: "leidos-holdings-inc-common-stock-rss-27b1906f4f8e"
 canonical_url: "https://www.leidos.com/insights/intelligence"
 published_at: "2021-03-02T21:25:51+00:00"
 first_seen_at: "2026-07-20T23:24:51.153241+00:00"
-fetched_at: "2026-07-28T23:52:51.225222+00:00"
-content_hash: "sha256:780fd803b8f486b51d5fe4f59e35b025e57b9896bd18d0f24d3467294c2101ec"
+fetched_at: "2026-07-29T17:04:15.032740+00:00"
+content_hash: "sha256:3e7a460ff6848d68e19597cce8962bc9e1aab30f24505f1ae1fe93e271d94953"
 ---
 
 # Actionable Insights for the Intelligence Community
@@ -26,6 +26,15 @@ Lead
 
 
 How we are leveraging modern solutions for a more secure world.
+
+
+###### News
+
+
+###### Leidos introduces new AI platform to find, fix cybersecurity vulnerabilities
+
+
+[Read More](https://www.leidos.com/insights/leidos-introduces-new-ai-platform-find-fix-cybersecurity-vulnerabilities)
 
 
 ###### News
@@ -125,15 +134,6 @@ How we are leveraging modern solutions for a more secure world.
 
 
 [Read More](https://www.leidos.com/insights/every-moment-digital-friction-carries-cost)
-
-
-###### Article
-
-
-###### America at 250: Building on a legacy of innovation & service
-
-
-[Read More](https://www.leidos.com/insights/america-250-building-legacy-innovation-service)
 
 
 - [Load More](https://www.leidos.com/insights/intelligence?page=1)

@@ -7,7 +7,7 @@ source_id: "belive-holdings-ordinary-share-rss-5172b670eb64"
 canonical_url: "https://retailistmag.com/unlocking-sales-potential-the-power-of-integrated-event-and-live-shopping-strategies/"
 published_at: "2024-08-07T04:59:44+00:00"
 first_seen_at: "2026-07-23T22:07:01.361971+00:00"
-fetched_at: "2026-07-28T22:17:53.026989+00:00"
+fetched_at: "2026-07-29T14:22:29.812613+00:00"
 content_hash: "sha256:0377c232aae2ac9bf3c410773c8ce8f8f98209ea661802ee4f0d7b6088d7c623"
 ---
 

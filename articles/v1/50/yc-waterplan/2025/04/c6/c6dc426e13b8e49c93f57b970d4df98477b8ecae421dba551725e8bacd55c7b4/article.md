@@ -7,7 +7,7 @@ source_id: "yc-waterplan-news-import-8432a9416678"
 canonical_url: "https://www.waterplan.com/blog/features-to-make-water-risk-management-effortless"
 published_at: "2025-04-03T00:00:00+00:00"
 first_seen_at: "2026-07-24T19:31:12.015781+00:00"
-fetched_at: "2026-07-28T11:35:16.661862+00:00"
+fetched_at: "2026-07-29T14:40:49.044954+00:00"
 content_hash: "sha256:7a970aa3a334eaa6cb94c3a7eeadcc082880c3857515b0eceb87e4bd8aa173fa"
 ---
 

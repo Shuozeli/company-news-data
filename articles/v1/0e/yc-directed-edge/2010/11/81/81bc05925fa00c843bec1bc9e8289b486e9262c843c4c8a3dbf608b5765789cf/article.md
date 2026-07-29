@@ -7,7 +7,7 @@ source_id: "yc-directed-edge-rss-7c8e8fe81473"
 canonical_url: "https://blog.directededge.com/2010/11/29/whats-happening/"
 published_at: "2010-11-30T05:55:55+00:00"
 first_seen_at: "2026-07-27T01:55:50.875550+00:00"
-fetched_at: "2026-07-28T22:59:14.304469+00:00"
+fetched_at: "2026-07-29T14:36:05.001882+00:00"
 content_hash: "sha256:9f7996992a1f30fc75426b19a08116428d5081a6db973a4028fe6dac03c03b1b"
 ---
 

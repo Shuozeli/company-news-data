@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/native-code-expo-sdk-56"
 published_at: "2026-06-02T15:00:29+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:c59824e8b67e709aef999d72e4668fe3d6f284a2c34b2de01dac5dced82676f3"
 ---
 

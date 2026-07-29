@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2022/digi-unveils-digi-xbee-rr-and-rapid-redesign"
 published_at: "2022-11-07T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:c599f835b9961eadf9bf5cf0041b1a3e2a2c6d5c89db1d25cfec0a91638810e2"
 ---
 

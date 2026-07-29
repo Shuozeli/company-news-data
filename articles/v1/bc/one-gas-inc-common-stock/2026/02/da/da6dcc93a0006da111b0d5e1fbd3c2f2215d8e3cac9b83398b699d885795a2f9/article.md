@@ -7,7 +7,7 @@ source_id: "one-gas-inc-common-stock-rss-aa9bfc293deb"
 canonical_url: "https://www.onegas.com/news/press-release-details/2026/ONE-Gas-Sets-Record-Date-for-2026-Annual-Meeting-of-Shareholders/default.aspx"
 published_at: "2026-02-20T21:15:00+00:00"
 first_seen_at: "2026-07-25T17:25:35.745524+00:00"
-fetched_at: "2026-07-28T23:17:19.673637+00:00"
+fetched_at: "2026-07-29T15:07:38.629718+00:00"
 content_hash: "sha256:35edc2a2c952a2e20817eac04f6f0706b4e96d1e9d584eee6b2f0dfbdb73c2ac"
 ---
 

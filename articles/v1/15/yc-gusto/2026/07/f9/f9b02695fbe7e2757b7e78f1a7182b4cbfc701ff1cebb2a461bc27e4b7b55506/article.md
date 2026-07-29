@@ -7,7 +7,7 @@ source_id: "yc-gusto-news-import-a18fb5381575"
 canonical_url: "https://gusto.com/resources/articles/payroll/set-payroll-first-time"
 published_at: null
 first_seen_at: "2026-07-25T07:19:59.033602+00:00"
-fetched_at: "2026-07-28T11:17:57.475842+00:00"
+fetched_at: "2026-07-29T14:27:10.535547+00:00"
 content_hash: "sha256:2637bc84d658867a9456ead8b95b6a75bc185bd8642163d7f22593e0d7754eb4"
 ---
 

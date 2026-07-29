@@ -7,7 +7,7 @@ source_id: "maris-tech-ltd-ordinary-shares-rss-219e3dd21362"
 canonical_url: "https://www.maris-tech.com/maris-tech-awarded-a-government-defense-contract-as-prime-contractor/press-releases/"
 published_at: "2026-06-26T14:06:53+00:00"
 first_seen_at: "2026-07-24T10:37:38.674777+00:00"
-fetched_at: "2026-07-28T22:52:59.438148+00:00"
+fetched_at: "2026-07-29T14:23:10.907007+00:00"
 content_hash: "sha256:c48baa168750cf840dec12bbddf133fbb49a9273e3a98e8caff3408379994c3b"
 ---
 

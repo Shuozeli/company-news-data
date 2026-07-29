@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2025/Stifel-Press-Release-for-01.06.25.pdf"
 published_at: "2025-01-06T12:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:02968ba8a16af7b2927cef7493b204975b6f2726fa7fb8f4c20688ac18af3d66"
 ---
 

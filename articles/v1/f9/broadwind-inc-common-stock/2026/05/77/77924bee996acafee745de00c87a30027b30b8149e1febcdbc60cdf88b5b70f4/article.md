@@ -7,7 +7,7 @@ source_id: "broadwind-inc-common-stock-rss-eded55d2a731"
 canonical_url: "https://investors.bwen.com/investor-news/investor-news-details/2026/Broadwind-Announces-First-Quarter-2026-Results-Conference-Call-and-Webcast-Date/default.aspx"
 published_at: "2026-05-01T18:15:00+00:00"
 first_seen_at: "2026-07-25T01:06:56.675955+00:00"
-fetched_at: "2026-07-28T23:31:51.745295+00:00"
+fetched_at: "2026-07-29T15:27:40.865791+00:00"
 content_hash: "sha256:99bafe04875bd34562f1486325d2309ff52af3d5a836617b825ab472e413c098"
 ---
 

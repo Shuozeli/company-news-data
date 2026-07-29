@@ -7,7 +7,7 @@ source_id: "talos-energy-inc-common-stock-rss-7720b01b3d18"
 canonical_url: "http://www.talosenergy.com/investor-relations/news/news-details/2026/Talos-Energy-to-Announce-Second-Quarter-2026-Results-on-August-4-2026-and-Host-Earnings-Conference-Call-on-August-5-2026/default.aspx"
 published_at: "2026-07-13T20:15:00+00:00"
 first_seen_at: "2026-07-26T01:23:40.241246+00:00"
-fetched_at: "2026-07-28T23:21:35.754297+00:00"
+fetched_at: "2026-07-29T15:15:24.687475+00:00"
 content_hash: "sha256:505df8eba4aa0deb75233463a30f75c28eee985c2c1291e664e306a3f86238d8"
 ---
 

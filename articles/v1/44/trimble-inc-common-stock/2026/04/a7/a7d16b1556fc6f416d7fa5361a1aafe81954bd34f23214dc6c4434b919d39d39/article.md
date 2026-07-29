@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/overtime-tax-changes-2026"
 published_at: "2026-04-07T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T23:18:38.216278+00:00"
+fetched_at: "2026-07-29T15:07:27.395221+00:00"
 content_hash: "sha256:201a0b8439d7c4a08a1f973ababfcb777b3973d999b3caaa19eacd15140f7f0d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/fair-lending-disparate-impact-ai-agents-ecoa-hmda"
 published_at: "2026-05-15T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:e8688836c74d7fd92baa87b012643829de4f997e0b8c7ab7ab4a63a7644af1be"
 ---
 

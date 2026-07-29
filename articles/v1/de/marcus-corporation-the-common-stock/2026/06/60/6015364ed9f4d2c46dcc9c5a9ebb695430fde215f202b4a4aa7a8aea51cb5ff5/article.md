@@ -7,7 +7,7 @@ source_id: "marcus-corporation-the-common-stock-rss-7de286f0d18b"
 canonical_url: "https://www.marcuscorp.com/investors/news/news-details/2026/Marcus-Corporation-Announces-Kim-M--Lueck-to-Retire/default.aspx"
 published_at: "2026-06-02T11:45:00+00:00"
 first_seen_at: "2026-07-25T13:17:35.096336+00:00"
-fetched_at: "2026-07-29T00:42:00.843394+00:00"
+fetched_at: "2026-07-29T14:05:56.390192+00:00"
 content_hash: "sha256:f3c9539e2e4e9394018e19b18da8b020fc30bf86148d6346e22891d9d318d69b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "genuine-parts-company-common-stock-rss-43880087d8e2"
 canonical_url: "https://www.genpt.com/2026-04-28-Genuine-Parts-Company-Declares-Regular-Quarterly-Dividend"
 published_at: "2026-04-28T20:30:00+00:00"
 first_seen_at: "2026-07-20T04:35:24.665538+00:00"
-fetched_at: "2026-07-28T23:40:41.974331+00:00"
+fetched_at: "2026-07-29T15:34:18.438008+00:00"
 content_hash: "sha256:7de3535e0170bc820a2af0116e4e05ad05316c163783a09b2ab6d8eca2978a1d"
 ---
 

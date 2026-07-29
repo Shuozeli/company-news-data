@@ -7,7 +7,7 @@ source_id: "valero-energy-corporation-common-stock-rss-832c48122082"
 canonical_url: "https://investorvalero.com/news/news-details/2026/Valero-Energy-Corporation-Declares-Regular-Cash-Dividend-on-Common-Stock/default.aspx"
 published_at: "2026-05-07T20:21:00+00:00"
 first_seen_at: "2026-07-26T04:09:40.578026+00:00"
-fetched_at: "2026-07-28T23:16:39.053387+00:00"
+fetched_at: "2026-07-29T15:06:11.922606+00:00"
 content_hash: "sha256:604ba5c51603b0b140c76a5a3cbfa4743338b55827e89ae9402f5f9be4e61428"
 ---
 

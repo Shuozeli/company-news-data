@@ -4,9 +4,9 @@
     "key": "suburban-propane-partners-l-p-common-stock",
     "name": "Suburban Propane Partners L.P. Common Stock"
   },
-  "record_count": 35,
+  "record_count": 36,
   "first_published_at": "2025-07-24T11:25:00+00:00",
-  "last_published_at": "2026-07-23T11:25:00+00:00",
+  "last_published_at": "2026-07-29T12:00:25+00:00",
   "partitions": [
     {
       "partition": "2025-07",
@@ -54,11 +54,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 6
+      "record_count": 7
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -66,10 +66,10 @@
       {
         "page": 1,
         "path": "articles/v1/e1/suburban-propane-partners-l-p-common-stock/index/pages/000001.json",
-        "record_count": 35,
-        "byte_count": 39795,
-        "sha256": "sha256:68775a50c061c137ea5dadea05718f232ffe319b1299638976900583959ec371",
-        "newest_at": "2026-07-23T11:25:00+00:00",
+        "record_count": 36,
+        "byte_count": 40983,
+        "sha256": "sha256:2f7c9df4eee6524a247b6a47736839dfe57b7932dc11ba9d68264c87e821ceb6",
+        "newest_at": "2026-07-29T12:00:25+00:00",
         "oldest_at": "2025-07-24T11:25:00+00:00"
       }
     ]

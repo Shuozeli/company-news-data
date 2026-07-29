@@ -7,7 +7,7 @@ source_id: "yc-botbuilt-rss-52b4cca2e71a"
 canonical_url: "https://www.botbuilt.com/botbuilt-is-changing-construction-forever/"
 published_at: "2025-05-10T15:13:58+00:00"
 first_seen_at: "2026-07-20T23:23:39.000790+00:00"
-fetched_at: "2026-07-28T22:53:25.256511+00:00"
+fetched_at: "2026-07-29T14:23:25.942941+00:00"
 content_hash: "sha256:6d6cb5a5b78c274f1cbcb01d9c17452793d93a1542faf525c0181cdb342368fd"
 ---
 

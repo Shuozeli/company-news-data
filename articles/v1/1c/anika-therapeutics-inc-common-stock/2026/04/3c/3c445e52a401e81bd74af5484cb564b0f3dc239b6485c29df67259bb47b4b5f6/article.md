@@ -7,7 +7,7 @@ source_id: "anika-therapeutics-inc-common-stock-rss-f250450dc442"
 canonical_url: "https://ir.anika.com/2026-04-29-Anika-Reports-First-Quarter-2026-Financial-Results"
 published_at: "2026-04-29T11:05:00+00:00"
 first_seen_at: "2026-07-25T01:07:25.774026+00:00"
-fetched_at: "2026-07-29T00:20:48.551567+00:00"
+fetched_at: "2026-07-29T17:22:23.252680+00:00"
 content_hash: "sha256:408a04c32ad1a6d99d0f6737393592737899eb87a17ff589b185567731c4018f"
 ---
 

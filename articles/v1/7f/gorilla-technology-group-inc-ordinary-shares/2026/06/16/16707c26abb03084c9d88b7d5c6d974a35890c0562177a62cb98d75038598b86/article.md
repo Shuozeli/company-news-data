@@ -7,7 +7,7 @@ source_id: "gorilla-technology-group-inc-ordinary-shares-rss-f5e7578f1e87"
 canonical_url: "https://investors.gorilla-technology.com/gorilla-technology-announces-2-billion-ai-infrastructure-deal-in-india-with-supermicro-expanding-strategic-collaboration-across-asia-pacific/"
 published_at: "2026-06-02T13:00:49+00:00"
 first_seen_at: "2026-07-20T23:19:42.204541+00:00"
-fetched_at: "2026-07-29T00:49:40.981826+00:00"
+fetched_at: "2026-07-29T14:19:19.829719+00:00"
 content_hash: "sha256:1e674d508c103356e9af95018cb04bf3a7fc0e7999a96733ead63090bc066553"
 ---
 

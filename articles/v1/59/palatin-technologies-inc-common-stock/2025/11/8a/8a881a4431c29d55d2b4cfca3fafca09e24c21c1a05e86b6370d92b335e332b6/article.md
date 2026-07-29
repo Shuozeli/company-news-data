@@ -7,7 +7,7 @@ source_id: "palatin-technologies-inc-common-stock-rss-d180129b5346"
 canonical_url: "https://palatin.com/press_releases/palatin-technologies-announces-closing-of-upsized-18-2-million-public-offering-with-the-full-exercise-of-the-underwriters-over-allotment-option/"
 published_at: "2025-11-12T17:15:00+00:00"
 first_seen_at: "2026-07-25T18:13:52.743786+00:00"
-fetched_at: "2026-07-29T00:14:35.041460+00:00"
+fetched_at: "2026-07-29T17:16:23.291870+00:00"
 content_hash: "sha256:c7996b12ba84c0e81b611771823789fcdbd6fde3a7b91e132a41118d7c818393"
 ---
 

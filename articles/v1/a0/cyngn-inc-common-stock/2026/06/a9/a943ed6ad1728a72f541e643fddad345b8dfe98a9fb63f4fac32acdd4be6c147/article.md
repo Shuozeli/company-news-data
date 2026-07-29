@@ -7,7 +7,7 @@ source_id: "cyngn-inc-common-stock-rss-ce82edd48e57"
 canonical_url: "https://www.cyngn.com/blog/ai-in-warehouse-efficiency-in-2025"
 published_at: "2026-06-10T22:37:17+00:00"
 first_seen_at: "2026-07-25T00:14:08.809814+00:00"
-fetched_at: "2026-07-28T23:09:25.864786+00:00"
+fetched_at: "2026-07-29T14:52:08.828163+00:00"
 content_hash: "sha256:542fc988d97c6ecb74206d7737357cb3a0f2394c2564c228a5a8c24c56e12803"
 ---
 

@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/kinardi-line/kinardi-line-7-adorn-thy-toolbox/"
 published_at: "2026-07-28T20:30:00+00:00"
 first_seen_at: "2026-07-28T22:11:01.428282+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:9928760b0a5123c5d21f0933e5b5bd4929b6bd567c64501d0569c62261cb78ce"
 ---
 

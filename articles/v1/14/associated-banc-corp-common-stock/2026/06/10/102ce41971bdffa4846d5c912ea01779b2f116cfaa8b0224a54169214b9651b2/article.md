@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-announces-17-7m-loan-for-townhome-community-acquisition-in-suburban-des-moines-iowa"
 published_at: "2026-06-23T12:23:00+00:00"
 first_seen_at: "2026-07-20T04:36:20.180992+00:00"
-fetched_at: "2026-07-29T00:43:53.379763+00:00"
+fetched_at: "2026-07-29T14:07:10.673770+00:00"
 content_hash: "sha256:9dee471e113f5899a3a135a759f9b2d79ba5152b3412b1cb17b05ac36450c911"
 ---
 

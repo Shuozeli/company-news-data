@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/how-we-stopped-wasting-time-building-custom-integrations.html"
 published_at: "2018-04-23T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-29T00:27:54.647135+00:00"
+fetched_at: "2026-07-29T13:54:11.516897+00:00"
 content_hash: "sha256:bae066cbe53fb9cf1c6b91814c6dab063006eb3fc1ac1905cd03e4f131deb65d"
 ---
 

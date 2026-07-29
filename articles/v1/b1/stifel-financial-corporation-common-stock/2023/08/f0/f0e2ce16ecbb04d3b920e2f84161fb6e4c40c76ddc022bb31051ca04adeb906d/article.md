@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2023/2Q23_Dividend_Announcement.pdf"
 published_at: "2023-08-09T20:15:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:49ea075461c77d32253b6f6a0c2cae1190aeb8a3f2cb56322c6e02ff56b27c1b"
 ---
 

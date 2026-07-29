@@ -7,7 +7,7 @@ source_id: "national-bankshares-inc-common-stock-rss-4407399c20f5"
 canonical_url: "https://www.nationalbankshares.com/news/news-details/2026/Jason-Pospichal-Named-Chief-Lending-Officer-at-The-National-Bank-of-Blacksburg-2026-uIiPbG-G_9/default.aspx"
 published_at: "2026-03-25T20:30:00+00:00"
 first_seen_at: "2026-07-25T15:34:18.899977+00:00"
-fetched_at: "2026-07-29T00:50:55.744691+00:00"
+fetched_at: "2026-07-29T14:21:00.488255+00:00"
 content_hash: "sha256:e3222cd5b4fd07a73cc80426b429a3d6d68b6a69c31353a4734a9ce675263817"
 ---
 

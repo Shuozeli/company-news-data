@@ -7,7 +7,7 @@ source_id: "outdoor-holding-company-common-stock-rss-8214ebf4eec0"
 canonical_url: "https://outdoorholding.com/news/news-details/2026/Outdoor-Holding-Company-Announces-Preferred-Stock-Dividend-b58d19ff2/default.aspx"
 published_at: "2026-05-18T12:00:00+00:00"
 first_seen_at: "2026-07-27T04:10:59.869142+00:00"
-fetched_at: "2026-07-28T22:57:48.901233+00:00"
+fetched_at: "2026-07-29T14:29:15.105689+00:00"
 content_hash: "sha256:296cb5e6976a988408f4d35b7d933bf6798a616e00987991a0381ee132e4ac1f"
 ---
 

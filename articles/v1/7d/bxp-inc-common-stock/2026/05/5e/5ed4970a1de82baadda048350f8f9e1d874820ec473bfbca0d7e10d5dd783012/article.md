@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-announces-first-quarter-2026-results"
 published_at: "2026-05-07T20:32:10+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:69876da0ded6971aff63214251afdd983ab530437dc43805322eef14baff95e2"
 ---
 

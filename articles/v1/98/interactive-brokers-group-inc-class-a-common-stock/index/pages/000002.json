@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 2,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "213869cd032232c8ed632404024828f0296a24aea8ab0b1b097d914fa0ea459a",
+      "company_key": "interactive-brokers-group-inc-class-a-common-stock",
+      "company_name": "Interactive Brokers Group Inc. Class A Common Stock",
+      "source_id": "interactive-brokers-group-inc-class-a-common-stock-rss-cfec0d92c0e6",
+      "source_kind": "rss",
+      "canonical_url": "https://www.interactivebrokers.com/campus/ibkr-quant-news/web-development-with-python-flask-and-django/",
+      "title": "Web Development with Python: Flask and Django",
+      "summary": "This guide delves into web development with Python, highlighting Flask and Django, and offers insights into building robust and scalable web applications.",
+      "published_at": "2026-07-21T16:00:22+00:00",
+      "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+      "article_path": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/2026/07/21/213869cd032232c8ed632404024828f0296a24aea8ab0b1b097d914fa0ea459a/article.md",
+      "record_path": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/2026/07/21/213869cd032232c8ed632404024828f0296a24aea8ab0b1b097d914fa0ea459a/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "45ed0a460eb93f1081e852bbb390249d1134f7ad8907fb6af6b620f308cdcdf1",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T21:10:03.278263+00:00",
       "article_path": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/2026/06/1d/1dec7abbed7249fa092975aab92364c0a8fe68f48c3ad4cfd69b4e9bc5269403/article.md",
       "record_path": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/2026/06/1d/1dec7abbed7249fa092975aab92364c0a8fe68f48c3ad4cfd69b4e9bc5269403/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "ceb7ca82ef350e615136f614229b5e11277152b6f8de341818d205cc7c07c25e",
-      "company_key": "interactive-brokers-group-inc-class-a-common-stock",
-      "company_name": "Interactive Brokers Group Inc. Class A Common Stock",
-      "source_id": "interactive-brokers-group-inc-class-a-common-stock-rss-cfec0d92c0e6",
-      "source_kind": "rss",
-      "canonical_url": "https://www.interactivebrokers.com/campus/ibkr-quant-news/machine-learning-algorithms-for-stock-market-prediction/",
-      "title": "Machine Learning Algorithms for Stock Market Prediction",
-      "summary": "Machine learning (ML), a subset of artificial intelligence (AI), involves training algorithms to learn from data and make predictions or decisions.",
-      "published_at": "2026-06-22T15:55:43+00:00",
-      "fetched_at": "2026-07-28T21:10:52.268184+00:00",
-      "article_path": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/2026/06/ce/ceb7ca82ef350e615136f614229b5e11277152b6f8de341818d205cc7c07c25e/article.md",
-      "record_path": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/2026/06/ce/ceb7ca82ef350e615136f614229b5e11277152b6f8de341818d205cc7c07c25e/record.json"
     }
   ]
 }

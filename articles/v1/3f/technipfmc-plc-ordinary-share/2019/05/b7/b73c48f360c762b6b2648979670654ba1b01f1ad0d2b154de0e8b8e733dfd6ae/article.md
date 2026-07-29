@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2019/05/how-we-are-helping-tackle-plastic-pollution-on-the-streets-of-mumbai/"
 published_at: "2019-05-28T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-29T00:17:43.124361+00:00"
+fetched_at: "2026-07-29T17:18:57.942752+00:00"
 content_hash: "sha256:81777a014b880995a7162fc9a7f7461bcd31e9b0744903ce685ea28253de8562"
 ---
 

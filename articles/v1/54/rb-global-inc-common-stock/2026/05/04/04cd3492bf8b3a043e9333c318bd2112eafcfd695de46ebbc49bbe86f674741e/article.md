@@ -7,7 +7,7 @@ source_id: "rb-global-inc-common-stock-rss-fb81f22698ea"
 canonical_url: "https://investor.rbglobal.com/news/news-details/2026/Ritchie-Bros--Generates-CA175-Million-in-GTV-at-Premier-Canadian-Auction-in-Edmonton/default.aspx"
 published_at: "2026-05-27T12:30:00+00:00"
 first_seen_at: "2026-07-25T20:31:53.969569+00:00"
-fetched_at: "2026-07-29T00:23:51.284961+00:00"
+fetched_at: "2026-07-29T17:23:06.162541+00:00"
 content_hash: "sha256:83fd5de807f7ce5361328942e81d10f4e6a7d2fe5d71ed5c3400385954caa6c7"
 ---
 

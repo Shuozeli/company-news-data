@@ -7,7 +7,7 @@ source_id: "signet-jewelers-limited-common-shares-rss-0a03f7d17480"
 canonical_url: "https://www.signetjewelers.com/investors/financial-news-releases/financial-news-release/2026/Signet-Jewelers-Announces-Timing-of-Fiscal-2026-Fourth-Quarter-Earnings-Release-and-Conference-Call/default.aspx"
 published_at: "2026-02-19T12:30:00+00:00"
 first_seen_at: "2026-07-25T23:04:22.075178+00:00"
-fetched_at: "2026-07-28T23:32:46.260295+00:00"
+fetched_at: "2026-07-29T15:30:26.010267+00:00"
 content_hash: "sha256:b4708267bd43e096da40e46e514b0b51d46e6ad770dd86cefc3e76669d7ebe38"
 ---
 

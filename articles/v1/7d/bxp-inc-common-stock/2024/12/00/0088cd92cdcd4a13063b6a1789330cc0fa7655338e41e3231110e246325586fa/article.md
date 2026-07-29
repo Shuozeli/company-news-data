@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-announces-413000-sf-renewal-with-ropes-gray-at-bostons-prudential-tower"
 published_at: "2024-12-19T21:17:29+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:5f5217cc5c9a446ddfa08e679284e5e98e7667fe28a2af72ca85dc21d1d6f256"
 ---
 

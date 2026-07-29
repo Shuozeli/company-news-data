@@ -7,7 +7,7 @@ source_id: "yc-aoa-dx-inc-rss-3a191abfb2c6"
 canonical_url: "https://aoadx.com/aoa-dx-appoints-chris-roberts-as-chief-product-officer-to-advance-next-generation-ovarian-cancer-diagnostics/"
 published_at: "2026-03-31T06:18:50+00:00"
 first_seen_at: "2026-07-24T16:23:53.470400+00:00"
-fetched_at: "2026-07-28T22:59:18.279054+00:00"
+fetched_at: "2026-07-29T14:33:20.451368+00:00"
 content_hash: "sha256:66020dad25bd29bbc054ef173e8b730abc04375285f95fba9bccbdae7bdce4eb"
 ---
 

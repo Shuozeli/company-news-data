@@ -7,7 +7,7 @@ source_id: "gloo-holdings-inc-class-a-common-stock-news-import-83695c9a4b8a"
 canonical_url: "https://gloo.com/press/releases/gen-z-most-likely-to-believe-revival-is-coming-to-america-new-data-shows"
 published_at: "2026-03-31T00:00:00+00:00"
 first_seen_at: "2026-07-23T10:35:25.165423+00:00"
-fetched_at: "2026-07-28T17:20:13.644649+00:00"
+fetched_at: "2026-07-29T06:09:37.784067+00:00"
 content_hash: "sha256:7150ac073620481c31b954f66ee6e03f89b2b03591c5c5347228d0bf76c92ad3"
 ---
 

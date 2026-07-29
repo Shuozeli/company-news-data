@@ -7,7 +7,7 @@ source_id: "regal-rexnord-corporation-common-stock-news-import-634959d3629c"
 canonical_url: "https://www.regalrexnord.com/news/regal-rexnord-aerospace-solutions-announces-as9100-certification-for-chihuahua-mx-plant"
 published_at: null
 first_seen_at: "2026-07-26T21:54:57.082929+00:00"
-fetched_at: "2026-07-27T10:32:03.572825+00:00"
+fetched_at: "2026-07-29T01:46:34.709244+00:00"
 content_hash: "sha256:2fe174544045d9af71c5745d81ef71596ba1572cf20cf1832585eda09c3d8927"
 ---
 

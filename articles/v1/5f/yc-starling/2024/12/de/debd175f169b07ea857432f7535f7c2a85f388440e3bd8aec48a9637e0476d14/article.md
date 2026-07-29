@@ -7,7 +7,7 @@ source_id: "yc-starling-rss-2a8bfdf7d43c"
 canonical_url: "https://starlingmedical.com/2024/12/09/hydration-is-a-powerful-tool-for-uti-prevention/"
 published_at: "2024-12-09T16:33:48+00:00"
 first_seen_at: "2026-07-25T01:53:29.741858+00:00"
-fetched_at: "2026-07-28T23:14:51.936097+00:00"
+fetched_at: "2026-07-29T15:04:54.519379+00:00"
 content_hash: "sha256:3053fcf00fa7c3f67af1de90318e48f623ce75cd6c705096e1223228a18179ff"
 ---
 

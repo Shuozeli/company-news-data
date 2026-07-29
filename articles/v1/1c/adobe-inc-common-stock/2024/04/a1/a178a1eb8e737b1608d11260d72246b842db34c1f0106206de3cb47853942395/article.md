@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2024/04/important-cross-origin-isolation-update-for-adobe-express-add-on-developers"
 published_at: "2024-04-11T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:fcd0dd7736914e1a0210750f5fad514fbb23dbd006a0fc6c827b54d6b3fbc23d"
 ---
 

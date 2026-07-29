@@ -7,7 +7,7 @@ source_id: "diversified-healthcare-trust-common-shares-of-beneficial-interest-rs
 canonical_url: "https://www.dhcreit.com/news/press-release-details/2026/Diversified-Healthcare-Trust-Fourth-Quarter-2025-Conference-Call-Scheduled-for-Tuesday-February-24th/default.aspx"
 published_at: "2026-01-27T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:02:14.072473+00:00"
-fetched_at: "2026-07-28T23:32:40.854634+00:00"
+fetched_at: "2026-07-29T15:29:33.355709+00:00"
 content_hash: "sha256:ca1828a56b6a99344165689e6462f991668daf0f6999a6fb24c9d97b1a573f80"
 ---
 

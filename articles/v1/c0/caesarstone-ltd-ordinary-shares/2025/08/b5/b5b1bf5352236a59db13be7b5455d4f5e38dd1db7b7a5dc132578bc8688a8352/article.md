@@ -7,7 +7,7 @@ source_id: "caesarstone-ltd-ordinary-shares-rss-6a376ed3cca3"
 canonical_url: "https://ir.caesarstone.com/news/news-details/2025/Caesarstone-Reports-Second-Quarter-2025-Financial-Results/default.aspx"
 published_at: "2025-08-06T11:00:00+00:00"
 first_seen_at: "2026-07-27T00:20:27.001271+00:00"
-fetched_at: "2026-07-29T00:10:19.683080+00:00"
+fetched_at: "2026-07-29T17:13:00.517459+00:00"
 content_hash: "sha256:0855c93ade43291b3c4a819ef1f518a68abe69f7c0739428c60c810acec85b6b"
 ---
 

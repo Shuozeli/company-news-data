@@ -7,7 +7,7 @@ source_id: "yc-chunkr-rss-ccbc1a71b139"
 canonical_url: "https://www.chunkr.ai/blog/building-better-pdf-experiences-with-chunkr"
 published_at: "2025-06-24T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:25.721612+00:00"
-fetched_at: "2026-07-29T00:42:08.864346+00:00"
+fetched_at: "2026-07-29T14:05:55.882824+00:00"
 content_hash: "sha256:d6111bcad677b583b281f5a1f189b95bcccbb17f5327bebc0c7255d270ba82fd"
 ---
 

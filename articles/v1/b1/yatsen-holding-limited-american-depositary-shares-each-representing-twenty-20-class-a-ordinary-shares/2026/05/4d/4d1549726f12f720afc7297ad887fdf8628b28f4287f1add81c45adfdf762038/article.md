@@ -7,7 +7,7 @@ source_id: "yatsen-holding-limited-american-depositary-shares-each-representing-
 canonical_url: "https://ir.yatsenglobal.com/2026-05-21-Yatsen-Announces-Completion-of-First-Tranche-in-Previously-Announced-Private-Placement-and-Hillhouse-Participation"
 published_at: "2026-05-21T10:00:00+00:00"
 first_seen_at: "2026-07-24T07:42:38.782959+00:00"
-fetched_at: "2026-07-28T23:41:03.589754+00:00"
+fetched_at: "2026-07-29T15:35:46.429431+00:00"
 content_hash: "sha256:99306486072a59f9857eb2ce5cf7f98d87cb9e65b7b9d86cf4ccdc7494ac7a75"
 ---
 

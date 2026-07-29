@@ -7,7 +7,7 @@ source_id: "thredup-inc-class-a-common-stock-rss-cddb21541ec6"
 canonical_url: "https://medium.com/connect-the-dots/from-data-analyst-to-ml-engineer-how-to-choose-a-position-in-data-science-f2c92d91ef60"
 published_at: "2022-02-12T23:23:18+00:00"
 first_seen_at: "2026-07-20T23:18:30.437987+00:00"
-fetched_at: "2026-07-29T00:30:10.977373+00:00"
+fetched_at: "2026-07-29T13:56:24.383852+00:00"
 content_hash: "sha256:0f17c8773d7586ae482a4465c3c1b07b5a0d682a4c08ef22ded6dc4b5359dc37"
 ---
 

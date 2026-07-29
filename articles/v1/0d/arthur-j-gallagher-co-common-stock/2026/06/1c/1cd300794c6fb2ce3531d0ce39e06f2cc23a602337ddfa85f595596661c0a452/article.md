@@ -7,7 +7,7 @@ source_id: "arthur-j-gallagher-co-common-stock-rss-4a6c70b51a08"
 canonical_url: "https://investor.ajg.com/news/news-details/2026/ARTHUR-J--GALLAGHER--CO--TO-HOST-REGULARLY-SCHEDULED-QUARTERLY-INVESTOR-MEETING-WITH-MANAGEMENT-2c24c18e4/default.aspx"
 published_at: "2026-06-03T20:01:00+00:00"
 first_seen_at: "2026-07-26T22:52:16.037730+00:00"
-fetched_at: "2026-07-29T00:30:09.662219+00:00"
+fetched_at: "2026-07-29T13:57:40.689838+00:00"
 content_hash: "sha256:b44d9b788cbe81ed4d3a6675fc6b5c7c9e98e3daf68cc34a1bf8ef59cecb3427"
 ---
 

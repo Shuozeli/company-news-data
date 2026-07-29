@@ -7,7 +7,7 @@ source_id: "fifth-third-bancorp-depositary-shares-rss-48a52068557c"
 canonical_url: "https://ir.53.com/news/news-details/2026/Fifth-Third-Named-United-States-Best-Bank-by-Euromoney/default.aspx"
 published_at: "2026-07-17T11:00:00+00:00"
 first_seen_at: "2026-07-25T04:30:59.094438+00:00"
-fetched_at: "2026-07-28T23:14:18.720884+00:00"
+fetched_at: "2026-07-29T15:00:47.008258+00:00"
 content_hash: "sha256:e5361be749f3344a4dc397e2c9cf16449efde2c69262ed28f8f1b8502d71e73b"
 ---
 

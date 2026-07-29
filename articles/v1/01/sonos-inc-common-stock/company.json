@@ -4,9 +4,9 @@
     "key": "sonos-inc-common-stock",
     "name": "Sonos Inc. Common Stock"
   },
-  "record_count": 38,
+  "record_count": 30,
   "first_published_at": "2023-07-23T21:22:00+00:00",
-  "last_published_at": "2026-07-14T00:00:00+00:00",
+  "last_published_at": "2026-06-23T15:15:00+00:00",
   "partitions": [
     {
       "partition": "2023-07",
@@ -74,27 +74,19 @@
     },
     {
       "partition": "2026-03",
-      "record_count": 5
-    },
-    {
-      "partition": "2026-04",
-      "record_count": 1
-    },
-    {
-      "partition": "2026-05",
-      "record_count": 3
-    },
-    {
-      "partition": "2026-06",
       "record_count": 2
     },
     {
-      "partition": "2026-07",
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
       "record_count": 1
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -102,10 +94,10 @@
       {
         "page": 1,
         "path": "articles/v1/01/sonos-inc-common-stock/index/pages/000001.json",
-        "record_count": 38,
-        "byte_count": 43240,
-        "sha256": "sha256:cee5de4273c2715ea6423b4b332ff073f045b7cd25d89ed4dd75cc1513e93565",
-        "newest_at": "2026-07-14T00:00:00+00:00",
+        "record_count": 30,
+        "byte_count": 33086,
+        "sha256": "sha256:d396a5076e7478998b51dd9040ad482922964299a8734bca807aa2924e373756",
+        "newest_at": "2026-06-23T15:15:00+00:00",
         "oldest_at": "2023-07-23T21:22:00+00:00"
       }
     ]

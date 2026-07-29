@@ -7,7 +7,7 @@ source_id: "southside-bancshares-inc-common-stock-rss-41ee03916695"
 canonical_url: "https://investors.southside.com/news/news-details/2026/Southside-Bancshares-Inc--Declares-Cash-Dividend-f6f72e643/default.aspx"
 published_at: "2026-05-06T20:15:00+00:00"
 first_seen_at: "2026-07-25T23:51:45.625954+00:00"
-fetched_at: "2026-07-29T00:19:38.188233+00:00"
+fetched_at: "2026-07-29T17:20:49.316319+00:00"
 content_hash: "sha256:35780b5f7ae830fccc4c0dbf80595105a64f7f8db0fe6f7692cee95f87f5680b"
 ---
 

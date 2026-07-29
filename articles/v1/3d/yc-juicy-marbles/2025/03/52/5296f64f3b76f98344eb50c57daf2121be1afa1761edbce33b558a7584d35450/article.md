@@ -7,7 +7,7 @@ source_id: "yc-juicy-marbles-atom-7197f6bedd7e"
 canonical_url: "https://juicymarbles.com/blogs/blog/how-to-prepare-a-juicy-marbles-steak"
 published_at: "2025-03-10T13:59:04+00:00"
 first_seen_at: "2026-07-23T22:07:10.702607+00:00"
-fetched_at: "2026-07-28T23:00:30.420409+00:00"
+fetched_at: "2026-07-29T14:37:51.124070+00:00"
 content_hash: "sha256:31b6bcf69f7e3cfe7a122cf7bfbbeab71b94ee9c2ddf43999a912cc276dbf1b7"
 ---
 

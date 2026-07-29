@@ -7,7 +7,7 @@ source_id: "j-and-friends-holdings-limited-american-depositary-shares-rss-bd6898
 canonical_url: "https://ir.j-friends.com/2025-10-20-PINTECs-Subsidiary-ZIITECH-Recognized-by-Austrade-Under-EMDG-Program"
 published_at: "2025-10-20T09:30:00+00:00"
 first_seen_at: "2026-07-27T03:14:15.292887+00:00"
-fetched_at: "2026-07-28T23:43:44.432221+00:00"
+fetched_at: "2026-07-29T15:36:48.300844+00:00"
 content_hash: "sha256:42dbb2b199307d82d9b10d1be97eccdeba2d88ad6ad83a83efb951a44e11eafe"
 ---
 

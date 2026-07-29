@@ -7,7 +7,7 @@ source_id: "fifth-third-bancorp-common-stock-rss-1b7a592f5f20"
 canonical_url: "https://ir.53.com/news/news-details/2026/Fifth-Third-Bank-Celebrates-168-Years-of-Innovation-and-Service-as-America-Approaches-250th-Birthday/default.aspx"
 published_at: "2026-06-15T12:00:00+00:00"
 first_seen_at: "2026-07-26T08:17:33.498077+00:00"
-fetched_at: "2026-07-28T23:51:45.862570+00:00"
+fetched_at: "2026-07-29T17:00:26.040311+00:00"
 content_hash: "sha256:09fef13b364a72e57f765738fbd6640ab4a167c1a1694e3b8ccdb61f5735ddee"
 ---
 

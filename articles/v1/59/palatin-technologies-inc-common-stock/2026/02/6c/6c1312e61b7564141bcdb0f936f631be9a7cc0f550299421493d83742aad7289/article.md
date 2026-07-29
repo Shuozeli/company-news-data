@@ -7,7 +7,7 @@ source_id: "palatin-technologies-inc-common-stock-rss-d180129b5346"
 canonical_url: "https://palatin.com/press_releases/palatin-reports-second-quarter-fiscal-year-2026-financial-results-and-provides-corporate-update/"
 published_at: "2026-02-17T12:30:00+00:00"
 first_seen_at: "2026-07-25T18:13:52.743786+00:00"
-fetched_at: "2026-07-29T00:14:35.041460+00:00"
+fetched_at: "2026-07-29T17:16:23.291870+00:00"
 content_hash: "sha256:b67cb80045f8bae5ecab21bcf11818f6eeec5e8c8a2be67fa2cd5fc6a00afa36"
 ---
 

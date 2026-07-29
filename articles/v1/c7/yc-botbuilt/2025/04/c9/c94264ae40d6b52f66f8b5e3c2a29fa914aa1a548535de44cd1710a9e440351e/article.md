@@ -7,7 +7,7 @@ source_id: "yc-botbuilt-rss-52b4cca2e71a"
 canonical_url: "https://www.botbuilt.com/why-robotic-builders-are-supercritical/"
 published_at: "2025-04-07T15:13:09+00:00"
 first_seen_at: "2026-07-20T23:23:39.000790+00:00"
-fetched_at: "2026-07-28T22:53:25.256511+00:00"
+fetched_at: "2026-07-29T14:23:25.942941+00:00"
 content_hash: "sha256:6c3d4a42e8160c15d95b59983ad5d60b30ccf125c9b510b5aef2a4077369b861"
 ---
 

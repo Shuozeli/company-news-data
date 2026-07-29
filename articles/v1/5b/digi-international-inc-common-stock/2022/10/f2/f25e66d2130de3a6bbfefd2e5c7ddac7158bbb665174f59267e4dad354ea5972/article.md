@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2022/digi-launches-digi-safe-at-2022-iacp-conference"
 published_at: "2022-10-12T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:5e5c0d30008c2107541008ada4162f5c5430e81dcca0968c80949f89cd1a0aa1"
 ---
 

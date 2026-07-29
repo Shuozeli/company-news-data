@@ -7,7 +7,7 @@ source_id: "pitney-bowes-inc-common-stock-news-import-dfaa9c6403ce"
 canonical_url: "https://www.pitneybowes.com/us/blog/finance.html"
 published_at: null
 first_seen_at: "2026-07-25T19:17:04.982426+00:00"
-fetched_at: "2026-07-28T21:51:45.437859+00:00"
+fetched_at: "2026-07-29T10:24:21.393364+00:00"
 content_hash: "sha256:d6e91c5c2430614240b00a0a7de0d94c60eb952fcaf29113343ecc021c9e8dc9"
 ---
 

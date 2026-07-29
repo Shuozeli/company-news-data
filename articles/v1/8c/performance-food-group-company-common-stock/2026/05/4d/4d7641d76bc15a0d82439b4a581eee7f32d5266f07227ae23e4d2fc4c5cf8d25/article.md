@@ -7,7 +7,7 @@ source_id: "performance-food-group-company-common-stock-rss-241193237c0b"
 canonical_url: "https://investors.pfgc.com/press-releases/press-release-details/2026/Performance-Food-Group-Company-Reports-Third-Quarter-and-First-Nine-Months-Fiscal-2026-Results/default.aspx"
 published_at: "2026-05-06T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:48.099064+00:00"
-fetched_at: "2026-07-28T23:22:39.625616+00:00"
+fetched_at: "2026-07-29T15:17:03.189773+00:00"
 content_hash: "sha256:e90231304f36f50b77c0b5ede32512b1f250330f601fdc99900952ace25ffffb"
 ---
 

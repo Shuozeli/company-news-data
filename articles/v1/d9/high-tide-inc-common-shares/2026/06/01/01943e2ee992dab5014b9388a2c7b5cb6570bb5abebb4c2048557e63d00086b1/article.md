@@ -7,7 +7,7 @@ source_id: "high-tide-inc-common-shares-rss-f83dc5e20636"
 canonical_url: "https://hightideinc.com/high-tide-reports-second-quarter-2026-financial-results-featuring-record-revenue-of-179-3mm-and-adjusted-ebitda-of-13-9mm/"
 published_at: "2026-06-15T20:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:05.127242+00:00"
-fetched_at: "2026-07-29T00:41:30.017006+00:00"
+fetched_at: "2026-07-29T14:06:34.773204+00:00"
 content_hash: "sha256:1c9b4bf0b9822c7eaf311e7b887b324e283868eb67e89a21effd45ec3049f127"
 ---
 

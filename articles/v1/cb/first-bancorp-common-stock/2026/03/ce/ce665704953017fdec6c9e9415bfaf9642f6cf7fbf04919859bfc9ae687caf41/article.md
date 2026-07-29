@@ -7,7 +7,7 @@ source_id: "first-bancorp-common-stock-rss-7286cdaab2e3"
 canonical_url: "https://investor.localfirstbank.com/news/news-details/2026/First-Bancorp-Announces-Cash-Dividend/default.aspx"
 published_at: "2026-03-13T13:05:00+00:00"
 first_seen_at: "2026-07-25T04:46:10.796202+00:00"
-fetched_at: "2026-07-28T23:43:53.359098+00:00"
+fetched_at: "2026-07-29T15:37:52.769243+00:00"
 content_hash: "sha256:6945a389549a60a78bccf3cb28dbae0ccf5a1a30df372b3bdf72f8b66f0a28fe"
 ---
 

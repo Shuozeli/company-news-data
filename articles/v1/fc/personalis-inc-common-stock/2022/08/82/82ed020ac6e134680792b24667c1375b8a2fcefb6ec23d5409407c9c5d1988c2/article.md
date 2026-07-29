@@ -7,7 +7,7 @@ source_id: "personalis-inc-common-stock-rss-edd5b8439e74"
 canonical_url: "https://www.personalis.com/leading-the-way-in-whole-human-genome-sequencing-including-for-cancer-mrd/"
 published_at: "2022-08-01T20:30:00+00:00"
 first_seen_at: "2026-07-20T23:22:21.339580+00:00"
-fetched_at: "2026-07-28T23:27:08.590284+00:00"
+fetched_at: "2026-07-29T15:22:21.130717+00:00"
 content_hash: "sha256:5feb59b3ef779a0d2907c92095885b5e31be6c25377ebbeee082a0b421db7e60"
 ---
 

@@ -7,7 +7,7 @@ source_id: "fidelis-insurance-holdings-limited-common-shares-rss-c2a6490362ce"
 canonical_url: "https://investors.pelagosinsurancecapital.com/news/news-details/2026/Pelagos-Insurance-Capital-Reports-Strong-First-Quarter-2026/default.aspx"
 published_at: "2026-05-13T20:15:00+00:00"
 first_seen_at: "2026-07-25T04:24:47.490690+00:00"
-fetched_at: "2026-07-28T23:09:16.121435+00:00"
+fetched_at: "2026-07-29T14:53:19.394687+00:00"
 content_hash: "sha256:34024d45f3e97eafb5b256be66aa9fadad0a163acc7d4c1dd22daf1181b7efa9"
 ---
 

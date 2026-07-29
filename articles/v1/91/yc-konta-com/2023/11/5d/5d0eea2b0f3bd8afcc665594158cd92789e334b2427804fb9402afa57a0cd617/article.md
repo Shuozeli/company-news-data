@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/todo-lo-que-debes-saber-si-vas-a-trabajar-como-freelance"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:066b88fbdd5897188102cbe9adc3ac88428fb0c2074f17b99496cf7ccb0d7336"
 ---
 

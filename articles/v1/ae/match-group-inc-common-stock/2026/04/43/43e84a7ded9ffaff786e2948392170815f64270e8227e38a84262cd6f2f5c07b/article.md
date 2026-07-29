@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/tinder/tinders-cmo-talks-dating-app-burnout-and-how-ai-is-changing-how-we-meet/"
 published_at: "2026-04-03T22:04:02+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:0067b804c319990e3ba75194f2b2116614d6b92aa45343a76f69dcd953a685b0"
 ---
 

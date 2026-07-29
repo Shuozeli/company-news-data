@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/aston-martin-dreadnought-call-of-duty-pictures-specs/"
 published_at: "2026-07-17T14:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:5533b730f1a9442f3bde93889a0397288a42cd89f784d86ebd15d43b6ae2f937"
 ---
 

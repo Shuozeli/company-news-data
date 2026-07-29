@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2025/Omnicell-Welcomes-Perry-A--Genova-PhD-as-Chief-Technology-Officer/default.aspx"
 published_at: "2025-03-24T20:01:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:3a89271b9121a004772237584b7ba33135c7ec9356c63dc7d2fae7565c276157"
 ---
 

@@ -7,7 +7,7 @@ source_id: "carter-bankshares-inc-common-stock-rss-580b97201413"
 canonical_url: "https://investors.carterbank.com/news/news-details/2026/Carter-Bankshares-Inc--Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx"
 published_at: "2026-01-29T13:00:00+00:00"
 first_seen_at: "2026-07-26T11:12:57.255590+00:00"
-fetched_at: "2026-07-28T23:21:29.249802+00:00"
+fetched_at: "2026-07-29T15:15:48.907633+00:00"
 content_hash: "sha256:465b4b749c49bf7db54741a07889a473f6da260e76a4e0e459623f22929819f6"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2025/opengear-achieves-soc-2-and-iso-27001-compliance"
 published_at: "2025-12-17T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:75a720967330671067beb883a9bde22d6165e9c44f706d84178203e7aaea71b6"
 ---
 

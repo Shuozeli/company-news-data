@@ -7,7 +7,7 @@ source_id: "yc-cratejoy-news-import-dd12a64f4f7a"
 canonical_url: "https://www.cratejoy.com/blogs/box-insider/easy-summer-crafts-for-adults-popsicle-stick-projects-diy-sidewalk-chalk-suncatchers-and-more"
 published_at: "2024-05-08T17:45:56+00:00"
 first_seen_at: "2026-07-21T15:17:11.835732+00:00"
-fetched_at: "2026-07-28T11:18:21.307540+00:00"
+fetched_at: "2026-07-29T14:27:14.696882+00:00"
 content_hash: "sha256:f6975465be2664b8f2c50a9ca2ed94f8e2db3ad5b4f55095e73740669daa015f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "drdgold-limited-american-depositary-shares-rss-0b0d638d96d7"
 canonical_url: "https://www.drdgold.com/media-insights/in-the-media/2026/1822-drdgold-concludes-wage-negotiations-at-ergo-operations"
 published_at: "2026-02-02T07:59:36+00:00"
 first_seen_at: "2026-07-27T01:56:23.749821+00:00"
-fetched_at: "2026-07-28T23:58:09.802602+00:00"
+fetched_at: "2026-07-29T17:00:23.031731+00:00"
 content_hash: "sha256:e279a810762820cc1774fd16c711eb8bdec2dda46521441162a7d98d8f4eb564"
 ---
 

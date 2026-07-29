@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2014/Omnicell-To-Present-At-The-26th-Annual-Piper-Jaffray-Health-Care-Conference/default.aspx"
 published_at: "2014-11-25T05:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:b8f3d09d2e255e6b06f4c6e3c1658ba178997deba174a20a93fe843751ab9074"
 ---
 

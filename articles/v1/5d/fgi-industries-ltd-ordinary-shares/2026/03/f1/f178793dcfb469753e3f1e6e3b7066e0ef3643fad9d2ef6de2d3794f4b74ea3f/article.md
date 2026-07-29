@@ -7,7 +7,7 @@ source_id: "fgi-industries-ltd-ordinary-shares-rss-b56fab7f14d1"
 canonical_url: "https://investor.fgi-industries.com/news/news-details/2026/FGI-INDUSTRIES-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-RESULTS-CONFERENCE-CALL-DATE/default.aspx"
 published_at: "2026-03-12T20:30:00+00:00"
 first_seen_at: "2026-07-25T04:18:59.655529+00:00"
-fetched_at: "2026-07-28T23:05:49.324633+00:00"
+fetched_at: "2026-07-29T14:46:43.653699+00:00"
 content_hash: "sha256:a8aa01a087e9fc9e6eadbbe9efdba1057a5700c17b294f417be9ab274fc89e26"
 ---
 

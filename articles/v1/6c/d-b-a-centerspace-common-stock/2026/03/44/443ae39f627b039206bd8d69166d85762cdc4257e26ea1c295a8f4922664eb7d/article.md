@@ -7,7 +7,7 @@ source_id: "d-b-a-centerspace-common-stock-rss-24f8760a568a"
 canonical_url: "https://ir.centerspacehomes.com/corporate-overview/press-releases/news-details/2026/CENTERSPACE-ANNOUNCES-CHANGE-TO-BOARD-OF-TRUSTEES/default.aspx"
 published_at: "2026-03-11T20:15:00+00:00"
 first_seen_at: "2026-07-27T01:39:11.039267+00:00"
-fetched_at: "2026-07-28T23:31:56.400956+00:00"
+fetched_at: "2026-07-29T15:28:00.108199+00:00"
 content_hash: "sha256:f9f1be09797e120c0d5c3cdcf0fbe6f073deab5764001deb2c055d6cce69b1de"
 ---
 

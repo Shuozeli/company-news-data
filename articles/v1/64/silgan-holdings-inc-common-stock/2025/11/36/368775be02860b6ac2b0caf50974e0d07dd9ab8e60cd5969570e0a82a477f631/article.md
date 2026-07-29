@@ -7,7 +7,7 @@ source_id: "silgan-holdings-inc-common-stock-rss-09190a0319ca"
 canonical_url: "https://www.silganholdings.com/news/news-details/2025/Silgan-Announces-Organizational-Updates/default.aspx"
 published_at: "2025-11-06T11:55:00+00:00"
 first_seen_at: "2026-07-25T23:04:22.549773+00:00"
-fetched_at: "2026-07-28T23:33:46.108452+00:00"
+fetched_at: "2026-07-29T15:29:57.790396+00:00"
 content_hash: "sha256:935ddbf2016ad95c80bc4d3f197f55d21c62cf13dea1694f79d929cf67dd9909"
 ---
 

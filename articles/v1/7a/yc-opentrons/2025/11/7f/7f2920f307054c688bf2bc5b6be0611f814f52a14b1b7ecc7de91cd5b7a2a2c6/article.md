@@ -7,7 +7,7 @@ source_id: "yc-opentrons-rss-767f8d415bdd"
 canonical_url: "https://opentrons.com/archives/news/neochromosome-and-globalbio-launch-pre-transformed-antibody-libraries-in-switchable-yeast-platform"
 published_at: "2025-11-12T14:38:16+00:00"
 first_seen_at: "2026-07-25T17:41:16.998093+00:00"
-fetched_at: "2026-07-28T23:27:55.051365+00:00"
+fetched_at: "2026-07-29T15:23:54.658863+00:00"
 content_hash: "sha256:5216201c8959a5baeb1c050ec0f43aa95a72470b008ff2b87975d1b24f34cd74"
 ---
 

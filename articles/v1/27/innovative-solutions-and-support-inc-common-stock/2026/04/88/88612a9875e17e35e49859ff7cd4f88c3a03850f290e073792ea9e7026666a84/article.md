@@ -7,7 +7,7 @@ source_id: "innovative-solutions-and-support-inc-common-stock-rss-a5b100a80071"
 canonical_url: "https://presscenter.iascorp.com/press-releases/news-details/2026/Innovative-Aerosystems-Acquires-License-for-Honeywell-Power-Generator-Systems-Further-Expanding-Electrical-Power-and-Sustainment-Capabilities/default.aspx"
 published_at: "2026-04-02T13:00:00+00:00"
 first_seen_at: "2026-07-25T09:29:02.759549+00:00"
-fetched_at: "2026-07-29T00:13:54.714159+00:00"
+fetched_at: "2026-07-29T17:18:00.994072+00:00"
 content_hash: "sha256:dfcf768a672884cb212fd81e0744a1f80510c5601a268ef5f6e31548eb287b19"
 ---
 

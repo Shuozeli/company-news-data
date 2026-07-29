@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/automotive-history/high-fidelity-the-story-of-house-yamaha/"
 published_at: "2026-07-17T21:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:9708ee4417c4e9faed8a6b072b6caad1d753d11d02e7468252e1be3037283179"
 ---
 

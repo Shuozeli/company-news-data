@@ -7,7 +7,7 @@ source_id: "yc-gather-2-news-import-dcc281bbc950"
 canonical_url: "https://www.gather.town/blog/improve-remote-team-culture"
 published_at: "2026-04-06T00:00:00+00:00"
 first_seen_at: "2026-07-23T10:20:21.528696+00:00"
-fetched_at: "2026-07-28T16:38:04.130384+00:00"
+fetched_at: "2026-07-29T05:32:17.643761+00:00"
 content_hash: "sha256:946354671fbb905136ba564cc0b1f27c8d7fc7963033914eebbd20fa804b40eb"
 ---
 

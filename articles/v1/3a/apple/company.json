@@ -4,7 +4,7 @@
     "key": "apple",
     "name": "Apple"
   },
-  "record_count": 54,
+  "record_count": 55,
   "first_published_at": "2021-10-12T00:00:00+00:00",
   "last_published_at": "2026-07-28T12:20:23.616+00:00",
   "partitions": [
@@ -50,11 +50,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 25
+      "record_count": 26
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -63,18 +63,18 @@
         "page": 1,
         "path": "articles/v1/3a/apple/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 50490,
-        "sha256": "sha256:f87641ed411e239e8cbb7b0ba795e99b199172536349955749931d10c8063039",
-        "newest_at": "2026-07-28T21:38:29.998390+00:00",
-        "oldest_at": "2025-04-15T00:00:00+00:00"
+        "byte_count": 50425,
+        "sha256": "sha256:4cf91919cfbf406f849bd0677e9ead0e2c86dd55dfa61cb73099bea2f986168a",
+        "newest_at": "2026-07-29T03:22:24.586686+00:00",
+        "oldest_at": "2025-05-08T00:00:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/3a/apple/index/pages/000002.json",
-        "record_count": 4,
-        "byte_count": 4109,
-        "sha256": "sha256:acd5e668a180190755a0206038985eb52dbac9ebf4bda51977b712ea547934a9",
-        "newest_at": "2024-10-25T00:00:00+00:00",
+        "record_count": 5,
+        "byte_count": 5175,
+        "sha256": "sha256:5ad5944e5f5a693967622cdc358164064c037459d07a7920524de76db3cfd2c9",
+        "newest_at": "2025-04-15T00:00:00+00:00",
         "oldest_at": "2021-10-12T00:00:00+00:00"
       }
     ]

@@ -7,7 +7,7 @@ source_id: "equity-residential-common-shares-of-beneficial-interest-rss-e3f53151
 canonical_url: "https://investors.equityapartments.com/news-events/press-releases-news/news-details/2026/Equity-Residential-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-04-28T20:30:00+00:00"
 first_seen_at: "2026-07-25T03:03:27.927171+00:00"
-fetched_at: "2026-07-28T23:14:03.140548+00:00"
+fetched_at: "2026-07-29T15:00:52.159560+00:00"
 content_hash: "sha256:4faee2a131d90388ce6ca3a1086e7e4acfe795fc285424c2858b71b728f9211f"
 ---
 

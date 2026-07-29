@@ -7,7 +7,7 @@ source_id: "reservoir-media-inc-common-stock-rss-a19592763df7"
 canonical_url: "https://reservoir-media.com/golnar-khosrowshahi-named-one-of-la-times-2026-entertainment-business-visionaries/"
 published_at: "2026-06-16T18:05:03+00:00"
 first_seen_at: "2026-07-27T04:42:39.995150+00:00"
-fetched_at: "2026-07-28T23:40:05.171984+00:00"
+fetched_at: "2026-07-29T15:34:31.651798+00:00"
 content_hash: "sha256:61d3fa52efa70eea149c5231bd71f5e58535e1296642111bb0742b6a2b55f90d"
 ---
 

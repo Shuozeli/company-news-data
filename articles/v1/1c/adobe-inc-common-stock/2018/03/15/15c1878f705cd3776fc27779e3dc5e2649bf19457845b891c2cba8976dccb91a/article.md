@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2019/06/scripting-for-cc-apps-via-cep-panels"
 published_at: "2018-03-21T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:92850091694b68933c39561fbe6fa37a7cf8666cb287c870b838eceb21a9f0ad"
 ---
 

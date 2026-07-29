@@ -4,9 +4,9 @@
     "key": "spotify-technology-s-a-ordinary-shares",
     "name": "Spotify Technology S.A. Ordinary Shares"
   },
-  "record_count": 30,
+  "record_count": 31,
   "first_published_at": "2018-10-19T23:49:09+00:00",
-  "last_published_at": "2026-07-28T15:00:52+00:00",
+  "last_published_at": "2026-07-29T12:59:44+00:00",
   "partitions": [
     {
       "partition": "2018-10",
@@ -42,11 +42,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 19
+      "record_count": 20
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -54,10 +54,10 @@
       {
         "page": 1,
         "path": "articles/v1/a4/spotify-technology-s-a-ordinary-shares/index/pages/000001.json",
-        "record_count": 30,
-        "byte_count": 38933,
-        "sha256": "sha256:c4f8baea3c8df66e7a753f0fc44619a003b88b7290741fa5ee0fc4d5e57179fa",
-        "newest_at": "2026-07-28T15:00:52+00:00",
+        "record_count": 31,
+        "byte_count": 40311,
+        "sha256": "sha256:d90ce2be0b2061908c53780b3273fd5a520a7b50f46bc573a9c1eb6b0f845b26",
+        "newest_at": "2026-07-29T12:59:44+00:00",
         "oldest_at": "2018-10-19T23:49:09+00:00"
       }
     ]

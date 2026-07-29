@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/key-dental-industry-statistics-shaping-2026-the-growth-paradox"
 published_at: "2026-07-23T11:09:36.091+00:00"
 first_seen_at: "2026-07-24T08:23:01.167291+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:c566fb2f091e23d44e7aa3bb9b888a25e2f63c2c61b6030e685b647d7cebb595"
 ---
 

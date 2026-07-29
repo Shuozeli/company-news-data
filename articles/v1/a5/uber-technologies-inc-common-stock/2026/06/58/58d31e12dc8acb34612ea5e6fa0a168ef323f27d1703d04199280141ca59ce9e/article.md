@@ -7,7 +7,7 @@ source_id: "uber-technologies-inc-common-stock-rss-0f1894567009"
 canonical_url: "https://investor.uber.com/news-events/news/press-release-details/2026/Autobrains-and-Uber-to-Launch-Agentic-AI-Robotaxi-Program-in-Munich-built-on-NVIDIA-DRIVE-Hyperion-2026-yMEt3xDSDA/default.aspx"
 published_at: "2026-06-01T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:46.437477+00:00"
-fetched_at: "2026-07-29T00:17:05.950701+00:00"
+fetched_at: "2026-07-29T17:19:20.602674+00:00"
 content_hash: "sha256:672183f8a551c1ec7bdd8e19bc272f8965e8ba0d365e24b913fd8796eaac149a"
 ---
 

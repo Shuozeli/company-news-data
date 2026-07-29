@@ -7,7 +7,7 @@ source_id: "yc-bulk-mro-industrial-supply-rss-f7d25cf2a5b1"
 canonical_url: "https://bulkmro.com/criteria-to-consider-while-onboarding-an-aggregator/"
 published_at: "2023-09-15T12:22:19+00:00"
 first_seen_at: "2026-07-24T22:17:58.140075+00:00"
-fetched_at: "2026-07-28T23:14:38.963458+00:00"
+fetched_at: "2026-07-29T01:48:54.076096+00:00"
 content_hash: "sha256:35c30d11f0ae62f14d02549f04dc288813a348de4bcc31b78bd3062b18985ee2"
 ---
 

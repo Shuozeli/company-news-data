@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/celebrating-30-years-of-connected-technology"
 published_at: "2015-07-30T15:03:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:05592d7f5a14ecf37bf84f9d2265386b36f5689ba7d26918bf2306e5c21a5bf4"
 ---
 

@@ -7,7 +7,7 @@ source_id: "united-bancorp-inc-common-stock-rss-b3c26c14cc42"
 canonical_url: "https://www.unitedbancorp.com/news-market-info/press-releases/press-release/2025/United-Bancorp-Inc--Increases-its-Third-Quarter-Cash-Dividend-Payment-to-0-1875-per-Share-which-produces-a-Forward-Yield-of-5-2/default.aspx"
 published_at: "2025-08-21T15:00:00+00:00"
 first_seen_at: "2026-07-26T03:42:33.713323+00:00"
-fetched_at: "2026-07-29T00:03:32.136649+00:00"
+fetched_at: "2026-07-29T17:09:17.341244+00:00"
 content_hash: "sha256:bbac599238c5a94b2fabe28afb38a53ab11c8a8b9b0e11f8d65410aeccbd9282"
 ---
 

@@ -4,9 +4,9 @@
     "key": "netscout-systems-inc-common-stock",
     "name": "NetScout Systems Inc. Common Stock"
   },
-  "record_count": 73,
+  "record_count": 74,
   "first_published_at": "2026-02-11T15:53:58+00:00",
-  "last_published_at": "2026-07-24T05:00:00+00:00",
+  "last_published_at": "2026-07-29T13:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-02",
@@ -30,11 +30,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 26
+      "record_count": 27
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -43,18 +43,18 @@
         "page": 1,
         "path": "articles/v1/55/netscout-systems-inc-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 59958,
-        "sha256": "sha256:567301b043fa9212050978a027443abd73449d5241b526d6d5b634d77ccd1b2d",
-        "newest_at": "2026-07-28T21:38:27.854613+00:00",
-        "oldest_at": "2026-05-01T13:25:34+00:00"
+        "byte_count": 60152,
+        "sha256": "sha256:a2fc1117732810e7227c403469ac7fc90de851ec31bc47b0d71d3875759b5fc3",
+        "newest_at": "2026-07-29T13:00:00+00:00",
+        "oldest_at": "2026-05-05T15:01:03+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/55/netscout-systems-inc-common-stock/index/pages/000002.json",
-        "record_count": 23,
-        "byte_count": 27235,
-        "sha256": "sha256:fcbe92b4a72b7b5deb3493b2807f1c987a601164b3f34b29689e9de1c3e2dd04",
-        "newest_at": "2026-04-29T17:37:39+00:00",
+        "record_count": 24,
+        "byte_count": 28373,
+        "sha256": "sha256:8f07dd623927f07653890ce57a97f11fcfed43d8e0fe8750a75bde8c88136749",
+        "newest_at": "2026-05-01T13:25:34+00:00",
         "oldest_at": "2026-02-11T15:53:58+00:00"
       }
     ]

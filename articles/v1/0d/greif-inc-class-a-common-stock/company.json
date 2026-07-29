@@ -6,7 +6,7 @@
   },
   "record_count": 34,
   "first_published_at": "2025-11-13T07:02:00+00:00",
-  "last_published_at": "2026-07-28T15:11:43+00:00",
+  "last_published_at": "2026-07-29T09:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-11",
@@ -46,7 +46,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -56,8 +56,8 @@
         "path": "articles/v1/0d/greif-inc-class-a-common-stock/index/pages/000001.json",
         "record_count": 34,
         "byte_count": 42604,
-        "sha256": "sha256:5186b4699c5a252a0c1317c7bd7c61fabc02b2a82efcd4397506c276cc49740d",
-        "newest_at": "2026-07-28T15:11:43+00:00",
+        "sha256": "sha256:fa6b0405a0f278e4f96feaa0bfd2440ead73a51f6851fc202acc1dd99790db20",
+        "newest_at": "2026-07-29T09:00:00+00:00",
         "oldest_at": "2025-11-13T07:02:00+00:00"
       }
     ]

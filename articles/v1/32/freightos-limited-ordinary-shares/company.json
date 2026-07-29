@@ -4,9 +4,9 @@
     "key": "freightos-limited-ordinary-shares",
     "name": "Freightos Limited Ordinary shares"
   },
-  "record_count": 22,
+  "record_count": 23,
   "first_published_at": "2026-03-12T11:02:16+00:00",
-  "last_published_at": "2026-07-28T11:01:05+00:00",
+  "last_published_at": "2026-07-29T08:23:52+00:00",
   "partitions": [
     {
       "partition": "2026-03",
@@ -26,11 +26,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 9
+      "record_count": 10
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -38,10 +38,10 @@
       {
         "page": 1,
         "path": "articles/v1/32/freightos-limited-ordinary-shares/index/pages/000001.json",
-        "record_count": 22,
-        "byte_count": 30497,
-        "sha256": "sha256:113f3304d31dd33af885089cfbdceb877f7c89c8c55049dba89d6d04a4099a2b",
-        "newest_at": "2026-07-28T11:01:05+00:00",
+        "record_count": 23,
+        "byte_count": 31868,
+        "sha256": "sha256:3342bfc3e9030deed275cc6005592d1c195a59edef9da2d9cc9f68e86c87315b",
+        "newest_at": "2026-07-29T08:23:52+00:00",
         "oldest_at": "2026-03-12T11:02:16+00:00"
       }
     ]

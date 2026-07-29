@@ -7,7 +7,7 @@ source_id: "u-s-physical-therapy-inc-common-stock-news-import-e626c955a999"
 canonical_url: "https://www.usph.com/press-releases/investor/"
 published_at: "2023-03-29T14:11:42+00:00"
 first_seen_at: "2026-07-24T05:46:03.049335+00:00"
-fetched_at: "2026-07-28T18:53:34.045482+00:00"
+fetched_at: "2026-07-29T07:36:59.577709+00:00"
 content_hash: "sha256:226a759b1c80e6b4d2d84b20f1145a6831b75eb71d3423da879a7455bd5642b9"
 ---
 

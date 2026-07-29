@@ -7,7 +7,7 @@ source_id: "spire-inc-common-stock-rss-56f8a65da92a"
 canonical_url: "https://investors.spireenergy.com/news/news-details/2026/Spire-completes-acquisition-of-Tennessee-Piedmont-Natural-Gas-business-from-Duke-Energy/default.aspx"
 published_at: "2026-03-31T20:30:00+00:00"
 first_seen_at: "2026-07-25T23:59:51.848339+00:00"
-fetched_at: "2026-07-29T00:32:31.597650+00:00"
+fetched_at: "2026-07-29T13:58:32.863813+00:00"
 content_hash: "sha256:b0ff09986cfdb4108e94ca695efbaf7a36026f654cfcb04816f776f9338bfea8"
 ---
 

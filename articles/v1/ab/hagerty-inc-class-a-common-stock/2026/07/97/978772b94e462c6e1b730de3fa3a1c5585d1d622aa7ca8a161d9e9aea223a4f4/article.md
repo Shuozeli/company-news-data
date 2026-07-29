@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/final-parking-space/final-parking-space-1988-chrysler-town-country-turbo-mark-cross-wagon/"
 published_at: "2026-07-28T13:00:00+00:00"
 first_seen_at: "2026-07-28T14:28:21.127713+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:d35ae866c6c7200504aa6e56295fc785f6bfe8c3c231b42aa7285bae68b75e39"
 ---
 

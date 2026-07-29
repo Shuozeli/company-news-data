@@ -7,7 +7,7 @@ source_id: "southern-company-the-2025-series-a-corporate-units-rss-4b709d0f5934"
 canonical_url: "https://investor.southerncompany.com/2026/Southern-Company-announces-quarterly-dividend/default.aspx"
 published_at: "2026-01-28T20:05:00+00:00"
 first_seen_at: "2026-07-25T23:48:46.387141+00:00"
-fetched_at: "2026-07-29T00:10:18.781147+00:00"
+fetched_at: "2026-07-29T17:12:48.348055+00:00"
 content_hash: "sha256:d19e362d13e14772069a1e1c6114085787113d917c6af0369ec201558e283ee5"
 ---
 

@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:33:52.463534+00:00"
 content_hash: "sha256:8ea1399d520b58ca4e899e30f27b12371600fba598a89558e648e6ef39c83c90"
 ---
 
-# ARFID Treatment: What Works and What to Expect
+# How ARFID Is Treated: Therapy, Nutrition, and Support
 
 If you're looking into ARFID treatment for yourself or a loved one, you may be feeling overwhelmed, confused, or unsure where to start. That's understandable.[ARFID (avoidant/restrictive food intake disorder)](https://equip.health/articles/understanding-eds/what-is-ARFID) looks different from person to person, which can make finding clear information about treatment especially challenging.
 

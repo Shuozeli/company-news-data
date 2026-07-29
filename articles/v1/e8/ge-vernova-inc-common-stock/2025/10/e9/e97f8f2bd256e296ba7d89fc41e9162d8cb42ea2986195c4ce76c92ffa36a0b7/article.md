@@ -7,7 +7,7 @@ source_id: "ge-vernova-inc-common-stock-rss-7c51d258e120"
 canonical_url: "https://www.gevernova.com/node/10347"
 published_at: "2025-10-22T10:36:35+00:00"
 first_seen_at: "2026-07-20T23:21:29.268016+00:00"
-fetched_at: "2026-07-29T00:29:33.959606+00:00"
+fetched_at: "2026-07-29T13:55:26.572326+00:00"
 content_hash: "sha256:98d4a226f85687f9b84fc573011d07cac50dd4ff97ecb20f9ed2a2f2daafd9fa"
 ---
 

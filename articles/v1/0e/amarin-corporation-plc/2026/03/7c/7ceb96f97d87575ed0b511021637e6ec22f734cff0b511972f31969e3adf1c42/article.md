@@ -7,7 +7,7 @@ source_id: "amarin-corporation-plc-rss-5a6dc08ff807"
 canonical_url: "https://investors.amarincorp.com/news-releases/news-release-details/new-reduce-it-data-patients-extreme-cardiovascular-risk-and"
 published_at: "2026-03-16T12:15:27+00:00"
 first_seen_at: "2026-07-26T09:06:16.575376+00:00"
-fetched_at: "2026-07-28T23:16:02.876317+00:00"
+fetched_at: "2026-07-29T15:05:52.933617+00:00"
 content_hash: "sha256:90c4fc0f53007ba2a27661011caff9dc5735c6b2b153a200d81d8cb7cafee48a"
 ---
 

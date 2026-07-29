@@ -7,7 +7,7 @@ source_id: "absci-corporation-common-stock-rss-3a87fd054c09"
 canonical_url: "https://www.absci.com/antibody-inverse-folding/"
 published_at: "2024-05-01T17:40:07+00:00"
 first_seen_at: "2026-07-20T23:22:57.028146+00:00"
-fetched_at: "2026-07-28T23:27:55.935408+00:00"
+fetched_at: "2026-07-29T15:23:52.790659+00:00"
 content_hash: "sha256:7355c584f8440a090daaee05edf9b7174d98f015b4f6c9ecad3ab0ccf0adbf03"
 ---
 

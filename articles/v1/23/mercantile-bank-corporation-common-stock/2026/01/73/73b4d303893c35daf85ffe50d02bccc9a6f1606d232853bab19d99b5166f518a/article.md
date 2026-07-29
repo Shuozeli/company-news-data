@@ -7,7 +7,7 @@ source_id: "mercantile-bank-corporation-common-stock-rss-af96d5eac485"
 canonical_url: "https://ir.mercbank.com/news/news-details/2026/Mercantile-Bank-Corporation-Increases-Regular-Cash-Dividend/default.aspx"
 published_at: "2026-01-20T10:00:00+00:00"
 first_seen_at: "2026-07-25T13:50:25.663288+00:00"
-fetched_at: "2026-07-28T23:21:37.508841+00:00"
+fetched_at: "2026-07-29T15:12:58.435653+00:00"
 content_hash: "sha256:6a735d59c23551cb8604c28f11e474ce88e619eba329df08b55865864ed1cba9"
 ---
 

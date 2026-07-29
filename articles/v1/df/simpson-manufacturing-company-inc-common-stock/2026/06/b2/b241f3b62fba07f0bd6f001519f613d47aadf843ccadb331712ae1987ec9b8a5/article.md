@@ -7,7 +7,7 @@ source_id: "simpson-manufacturing-company-inc-common-stock-rss-aba38fe2948a"
 canonical_url: "https://news.strongtie.com/462599-simpson-strong-tie-adds-more-options-to-outdoor-accents-essentials-collection-of-outdoor-living-hardware"
 published_at: "2026-06-10T20:01:00+00:00"
 first_seen_at: "2026-07-25T23:14:36.962127+00:00"
-fetched_at: "2026-07-28T23:35:20.392496+00:00"
+fetched_at: "2026-07-29T15:31:03.829984+00:00"
 content_hash: "sha256:ce30ca9e6436b47e1636b50a7ebc51d27e149c078508b2e588767f50dbe7a200"
 ---
 

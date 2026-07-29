@@ -7,7 +7,7 @@ source_id: "yalla-group-limited-american-depositary-shares-each-representing-one
 canonical_url: "https://ir.yalla.com/2026-05-08-Yalla-Group-Limited-to-Report-First-Quarter-2026-Financial-Results-on-May-18,-2026-Eastern-Time"
 published_at: "2026-05-08T10:00:00+00:00"
 first_seen_at: "2026-07-24T07:42:21.932229+00:00"
-fetched_at: "2026-07-28T23:29:38.949411+00:00"
+fetched_at: "2026-07-29T15:26:41.548499+00:00"
 content_hash: "sha256:55cecff4795a908ac3b766e3824016a8bf4e8bc02a6f8b3d21814e1536f0c25e"
 ---
 

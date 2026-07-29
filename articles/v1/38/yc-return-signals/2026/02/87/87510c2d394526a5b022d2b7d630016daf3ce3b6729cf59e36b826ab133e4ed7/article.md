@@ -7,7 +7,7 @@ source_id: "yc-return-signals-rss-dfedba3fe891"
 canonical_url: "https://www.returnsignals.com/blog/best-apparel-return-portals-2026/"
 published_at: "2026-02-25T00:00:00+00:00"
 first_seen_at: "2026-07-23T23:09:42.823995+00:00"
-fetched_at: "2026-07-28T22:55:06.665534+00:00"
+fetched_at: "2026-07-29T14:24:38.287641+00:00"
 content_hash: "sha256:26dbeb98d85fc992f4de3025c7eaa61e2f3c0c1b572dd570028fedce537bafbf"
 ---
 

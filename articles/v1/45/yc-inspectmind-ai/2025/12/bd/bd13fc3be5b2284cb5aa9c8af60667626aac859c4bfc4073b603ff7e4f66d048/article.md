@@ -7,7 +7,7 @@ source_id: "yc-inspectmind-ai-rss-7125fafcc8d8"
 canonical_url: "https://www.inspectmind.ai/education/what-is-construction-qa-qc"
 published_at: "2025-12-30T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:20.200105+00:00"
-fetched_at: "2026-07-28T22:52:50.159667+00:00"
+fetched_at: "2026-07-29T14:23:09.976212+00:00"
 content_hash: "sha256:9733b22c4c0cd2d174a10e6cf62f6548e1384da5eb9981cc527067eed2257f72"
 ---
 

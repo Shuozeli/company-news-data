@@ -7,7 +7,7 @@ source_id: "baycom-corp-common-stock-rss-9032c38160e0"
 canonical_url: "https://baycomcorp.q4ir.com/news-market-information/news/news-details/2026/BayCom-Corp-Announces-Appointment-of-New-Director/default.aspx"
 published_at: "2026-04-23T20:30:00+00:00"
 first_seen_at: "2026-07-26T10:10:07.257614+00:00"
-fetched_at: "2026-07-28T23:19:41.612149+00:00"
+fetched_at: "2026-07-29T15:09:44.922659+00:00"
 content_hash: "sha256:157ba0bf21d3d6c0ab43adf83d3ce593fb618e0731747209317e1c4f9510b783"
 ---
 

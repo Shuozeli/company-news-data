@@ -7,7 +7,7 @@ source_id: "u-s-energy-corp-common-stock-de-rss-2920db3b8278"
 canonical_url: "https://usnrg.com/audit-committee/"
 published_at: "2025-01-31T17:15:40+00:00"
 first_seen_at: "2026-07-27T06:31:46.149605+00:00"
-fetched_at: "2026-07-28T20:06:47.260334+00:00"
+fetched_at: "2026-07-29T11:28:20.765536+00:00"
 content_hash: "sha256:bb2c65be7ccf180931a1f8d1b5ee2b1466c0015b584198f47906035e9c941574"
 ---
 

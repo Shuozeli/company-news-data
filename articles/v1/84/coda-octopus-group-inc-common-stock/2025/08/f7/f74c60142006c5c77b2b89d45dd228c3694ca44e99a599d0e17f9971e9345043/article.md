@@ -7,7 +7,7 @@ source_id: "coda-octopus-group-inc-common-stock-news-import-a71b5dd22bdf"
 canonical_url: "https://www.codaoctopusgroup.com/press-releases/detail/212/coda-octopus-group-announces-that-it-has-recently-received"
 published_at: "2025-08-06T07:00:00+00:00"
 first_seen_at: "2026-07-21T14:00:31.087001+00:00"
-fetched_at: "2026-07-28T20:18:48.546574+00:00"
+fetched_at: "2026-07-29T09:08:01.592672+00:00"
 content_hash: "sha256:457801020217108b50ec2e83a62052653947f7ba1701b5be7a8b8df3764ece8d"
 ---
 

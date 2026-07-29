@@ -7,7 +7,7 @@ source_id: "hf-sinclair-corporation-common-stock-rss-60d3559137a6"
 canonical_url: "https://investor.hfsinclair.com/investor-relations/press-releases/press-releases-details/2026/HF-Sinclair-Provides-Leadership-Update/default.aspx"
 published_at: "2026-07-08T11:00:00+00:00"
 first_seen_at: "2026-07-25T08:03:42.553379+00:00"
-fetched_at: "2026-07-29T00:14:56.390298+00:00"
+fetched_at: "2026-07-29T17:17:44.313523+00:00"
 content_hash: "sha256:72b0ce38aa679f6ed0a7fcd52130c96aa39353f1a89ce1a7d1e63011336efa69"
 ---
 

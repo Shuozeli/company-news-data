@@ -1,9 +1,39 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
-  "record_count": 21,
+  "record_count": 23,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "7ae82c8b7734e7bd7690d9f0d656501184d18ee9e460e2fa67d3f73e7d3e251b",
+      "company_key": "whitefiber-inc-ordinary-shares",
+      "company_name": "WhiteFiber Inc. Ordinary Shares",
+      "source_id": "whitefiber-inc-ordinary-shares-news-import-44ec15aad2d1",
+      "source_kind": "html",
+      "canonical_url": "https://www.whitefiber.com/blog/slurm-vs-kubernetes",
+      "title": "Slurm vs Kubernetes for AI/ML Workloads in 2025",
+      "summary": "Compare Slurm vs Kubernetes for AI/ML in 2025—choose the right orchestration for training, inference, and hybrid workloads.",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "fetched_at": "2026-07-29T02:08:45.031467+00:00",
+      "article_path": "articles/v1/73/whitefiber-inc-ordinary-shares/2026/07/7a/7ae82c8b7734e7bd7690d9f0d656501184d18ee9e460e2fa67d3f73e7d3e251b/article.md",
+      "record_path": "articles/v1/73/whitefiber-inc-ordinary-shares/2026/07/7a/7ae82c8b7734e7bd7690d9f0d656501184d18ee9e460e2fa67d3f73e7d3e251b/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "8e5ca78f6e86f4a2f29ebd7a5be520b4a22e9579d0053d7eb581f62558ed354b",
+      "company_key": "whitefiber-inc-ordinary-shares",
+      "company_name": "WhiteFiber Inc. Ordinary Shares",
+      "source_id": "whitefiber-inc-ordinary-shares-news-import-44ec15aad2d1",
+      "source_kind": "html",
+      "canonical_url": "https://www.whitefiber.com/blog/ai-storage-ceph-vast-weka",
+      "title": "Storage for AI Workloads:Ceph, VAST, and WEKA",
+      "summary": "Explore how Ceph, VAST, and WEKA compare as high-performance storage solutions for AI workloads. Discover which option best fits your infrastructure needs and innovation goals.",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "fetched_at": "2026-07-29T02:08:45.031467+00:00",
+      "article_path": "articles/v1/73/whitefiber-inc-ordinary-shares/2026/07/8e/8e5ca78f6e86f4a2f29ebd7a5be520b4a22e9579d0053d7eb581f62558ed354b/article.md",
+      "record_path": "articles/v1/73/whitefiber-inc-ordinary-shares/2026/07/8e/8e5ca78f6e86f4a2f29ebd7a5be520b4a22e9579d0053d7eb581f62558ed354b/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "cc4dcfa3b2718c57e106eb073e1e1c6c349c1900677cf8fee372d0372cf1fa88",
@@ -14,7 +44,7 @@
       "canonical_url": "https://www.whitefiber.com/blog/understanding-slurm-for-ai-ml-workloads",
       "title": "Understanding Slurm for AI/ML Workloads",
       "summary": "Learn how Slurm powers large-scale AI/ML training with HPC-grade scheduling, and when to choose Slurm over serverless Kubernetes for your AI workloads.",
-      "published_at": "2026-07-27T00:00:00+00:00",
+      "published_at": "2026-07-29T00:00:00+00:00",
       "fetched_at": "2026-07-28T21:33:52.463534+00:00",
       "article_path": "articles/v1/73/whitefiber-inc-ordinary-shares/2026/07/cc/cc4dcfa3b2718c57e106eb073e1e1c6c349c1900677cf8fee372d0372cf1fa88/article.md",
       "record_path": "articles/v1/73/whitefiber-inc-ordinary-shares/2026/07/cc/cc4dcfa3b2718c57e106eb073e1e1c6c349c1900677cf8fee372d0372cf1fa88/record.json"

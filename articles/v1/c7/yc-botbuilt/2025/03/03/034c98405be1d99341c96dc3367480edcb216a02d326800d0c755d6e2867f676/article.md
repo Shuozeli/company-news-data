@@ -7,7 +7,7 @@ source_id: "yc-botbuilt-rss-52b4cca2e71a"
 canonical_url: "https://www.botbuilt.com/barrett-ames-robots-wield-nailguns-and-circular-saws-to-build-normal-american-homes/"
 published_at: "2025-03-18T15:12:10+00:00"
 first_seen_at: "2026-07-20T23:23:39.000790+00:00"
-fetched_at: "2026-07-28T22:53:25.256511+00:00"
+fetched_at: "2026-07-29T14:23:25.942941+00:00"
 content_hash: "sha256:5c64814e7dc91de97722be1c5dd0fc359f25d6cefca7cad1a93c646cdf8d2253"
 ---
 

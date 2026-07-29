@@ -7,7 +7,7 @@ source_id: "aleanna-inc-class-a-common-stock-rss-a2da9a51b1e2"
 canonical_url: "https://www.aleannainc.com/post/compensation-committee-charter"
 published_at: "2025-04-08T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:23.923026+00:00"
-fetched_at: "2026-07-29T00:14:58.972209+00:00"
+fetched_at: "2026-07-29T17:16:27.551154+00:00"
 content_hash: "sha256:508bfac5c457140aa5d9dbc7c9e07c21f0ce00dd0a58056eea57551658defc6b"
 ---
 

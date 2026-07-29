@@ -7,7 +7,7 @@ source_id: "yc-opentrons-rss-767f8d415bdd"
 canonical_url: "https://opentrons.com/archives/news/opentrons-launches-compliance-ready-software-for-the-opentrons-flex-at-slas-europe-2026"
 published_at: "2026-05-19T13:00:00+00:00"
 first_seen_at: "2026-07-25T17:41:16.998093+00:00"
-fetched_at: "2026-07-28T23:27:55.051365+00:00"
+fetched_at: "2026-07-29T15:23:54.658863+00:00"
 content_hash: "sha256:d127486e052daefe1a11ea362e1b7727f2f65b42c7e27d5fbfe3b77a8b24e1d2"
 ---
 

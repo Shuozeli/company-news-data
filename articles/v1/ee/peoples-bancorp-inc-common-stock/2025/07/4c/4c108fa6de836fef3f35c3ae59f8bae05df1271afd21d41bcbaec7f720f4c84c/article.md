@@ -7,7 +7,7 @@ source_id: "peoples-bancorp-inc-common-stock-news-import-f8f44106e2f2"
 canonical_url: "https://investors.peoplesbancorp.com/news/news-details/2025/PEOPLES-BANCORP-INC--ANNOUNCES-SECOND-QUARTER-2025-RESULTS/default.aspx"
 published_at: "2025-07-22T05:00:00+00:00"
 first_seen_at: "2026-07-22T08:33:40.565126+00:00"
-fetched_at: "2026-07-28T14:45:57.384416+00:00"
+fetched_at: "2026-07-29T03:47:21.922049+00:00"
 content_hash: "sha256:19d4c905d494937f1cf26dd1aa157adace4cd8013ca9457d3c03edf42de77fae"
 ---
 

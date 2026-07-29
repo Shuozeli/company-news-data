@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/what-are-cbrs-and-private-lte-and-use-cases"
 published_at: "2023-09-16T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:85436f00d5377260c9ebf7dbb950b81155a1aa5b61ae70489d5e1a03e10c6e91"
 ---
 

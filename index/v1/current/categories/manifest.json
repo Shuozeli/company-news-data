@@ -1,0 +1,696 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
+  "taxonomy_generation": "83bd6055b96820b3dd8f6fa97539b943d3197c82b1c831e656062b045fa8f956",
+  "company_count": 6524,
+  "record_count": 115681,
+  "category_count": 13,
+  "page_size": 100,
+  "categories": [
+    {
+      "key": "basic-materials-f380d30f8481b984",
+      "name": "Basic Materials",
+      "company_count": 106,
+      "record_count": 1400,
+      "page_count": 2,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/basic-materials-f380d30f8481b984/pages/000001.json",
+          "company_count": 100,
+          "record_count": 1319,
+          "byte_count": 37634,
+          "sha256": "sha256:e0ff2b9d5c62614478720581f9e0c99251e53099712f2cc7f969e46e106e691d"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/basic-materials-f380d30f8481b984/pages/000002.json",
+          "company_count": 6,
+          "record_count": 81,
+          "byte_count": 2649,
+          "sha256": "sha256:1e3ffafa738eaebb22fa166f7b1cdde842fe097cf7148c70766ed7a888ec43f1"
+        }
+      ]
+    },
+    {
+      "key": "consumer-discretionary-c2ef8c5fb4379b89",
+      "name": "Consumer Discretionary",
+      "company_count": 773,
+      "record_count": 12541,
+      "page_count": 8,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/consumer-discretionary-c2ef8c5fb4379b89/pages/000001.json",
+          "company_count": 100,
+          "record_count": 1613,
+          "byte_count": 37413,
+          "sha256": "sha256:cca8ad3a0c52f7acaaff90e6cfca83302c07c1381aad17b911ac6d7a74ac437d"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/consumer-discretionary-c2ef8c5fb4379b89/pages/000002.json",
+          "company_count": 100,
+          "record_count": 1595,
+          "byte_count": 38244,
+          "sha256": "sha256:8c497677eba5d883bc1e4b36d82c94eccef77ec0311842505bd415ddf39d427e"
+        },
+        {
+          "page": 3,
+          "path": "index/v1/current/categories/consumer-discretionary-c2ef8c5fb4379b89/pages/000003.json",
+          "company_count": 100,
+          "record_count": 1640,
+          "byte_count": 37203,
+          "sha256": "sha256:c1ed0efe7dc22d9b026b4fe856f4ceb128312d2c3e7712839672b813a509e94b"
+        },
+        {
+          "page": 4,
+          "path": "index/v1/current/categories/consumer-discretionary-c2ef8c5fb4379b89/pages/000004.json",
+          "company_count": 100,
+          "record_count": 1303,
+          "byte_count": 38400,
+          "sha256": "sha256:7db8d4ba7efffc954ab9c2527a19882108d6a29d19e12b868e4d647b00abcec7"
+        },
+        {
+          "page": 5,
+          "path": "index/v1/current/categories/consumer-discretionary-c2ef8c5fb4379b89/pages/000005.json",
+          "company_count": 100,
+          "record_count": 1678,
+          "byte_count": 38497,
+          "sha256": "sha256:cffc96a105660751675a51ab2a1394aa50a6376371f6664964459cafa8b28e99"
+        },
+        {
+          "page": 6,
+          "path": "index/v1/current/categories/consumer-discretionary-c2ef8c5fb4379b89/pages/000006.json",
+          "company_count": 100,
+          "record_count": 1617,
+          "byte_count": 37879,
+          "sha256": "sha256:ddf9cf0559ae35fa723fe5817ad1c9547c0e328b4c297e035775a6eae3089994"
+        },
+        {
+          "page": 7,
+          "path": "index/v1/current/categories/consumer-discretionary-c2ef8c5fb4379b89/pages/000007.json",
+          "company_count": 100,
+          "record_count": 2037,
+          "byte_count": 38136,
+          "sha256": "sha256:e81af1a8715966de585f04380ae3c80d67ed13de75318f17d4693ed6d8b7f113"
+        },
+        {
+          "page": 8,
+          "path": "index/v1/current/categories/consumer-discretionary-c2ef8c5fb4379b89/pages/000008.json",
+          "company_count": 73,
+          "record_count": 1058,
+          "byte_count": 27504,
+          "sha256": "sha256:50a82c9c6b570ef15af9c79b6bb2944fe849af0a2e8c073cae4aaae182051380"
+        }
+      ]
+    },
+    {
+      "key": "consumer-staples-4d635f128d2fa099",
+      "name": "Consumer Staples",
+      "company_count": 101,
+      "record_count": 1463,
+      "page_count": 2,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/consumer-staples-4d635f128d2fa099/pages/000001.json",
+          "company_count": 100,
+          "record_count": 1453,
+          "byte_count": 37786,
+          "sha256": "sha256:4c16d1b4e79f4250c1ae297f94e581b84d5a2f065dd0d6fb10db7a4d8becf012"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/consumer-staples-4d635f128d2fa099/pages/000002.json",
+          "company_count": 1,
+          "record_count": 10,
+          "byte_count": 718,
+          "sha256": "sha256:6c1335aaafd2136fbddeed8fba3190369d4987fdad22ca01a185dd15e164447e"
+        }
+      ]
+    },
+    {
+      "key": "energy-f2fcd3f7dccadd19",
+      "name": "Energy",
+      "company_count": 154,
+      "record_count": 3069,
+      "page_count": 2,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/energy-f2fcd3f7dccadd19/pages/000001.json",
+          "company_count": 100,
+          "record_count": 1239,
+          "byte_count": 38963,
+          "sha256": "sha256:388943d2cd49fee7bca42c23a456297b90bf45eaeb1c781e269762c4a2bccc91"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/energy-f2fcd3f7dccadd19/pages/000002.json",
+          "company_count": 54,
+          "record_count": 1830,
+          "byte_count": 21082,
+          "sha256": "sha256:6048f3e9b176ec03331dadd58ccc805d257c256268f159e43fcd4d9f39c28659"
+        }
+      ]
+    },
+    {
+      "key": "finance-b696d75511dc16f2",
+      "name": "Finance",
+      "company_count": 679,
+      "record_count": 9949,
+      "page_count": 7,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/finance-b696d75511dc16f2/pages/000001.json",
+          "company_count": 100,
+          "record_count": 1333,
+          "byte_count": 38875,
+          "sha256": "sha256:73ac51123a6cc3e79f296351835d1866b2f82a75ef926b4c65d32bf094214f3a"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/finance-b696d75511dc16f2/pages/000002.json",
+          "company_count": 100,
+          "record_count": 1798,
+          "byte_count": 38322,
+          "sha256": "sha256:54eb24dfb22237b83466d47aace57fa7f6e01c9bbb1b00573f1ac816720db4a6"
+        },
+        {
+          "page": 3,
+          "path": "index/v1/current/categories/finance-b696d75511dc16f2/pages/000003.json",
+          "company_count": 100,
+          "record_count": 1429,
+          "byte_count": 38125,
+          "sha256": "sha256:430600b12810ed1829e4a0a625570dd586ded6b7f76a9d33c4cc3a8a02151041"
+        },
+        {
+          "page": 4,
+          "path": "index/v1/current/categories/finance-b696d75511dc16f2/pages/000004.json",
+          "company_count": 100,
+          "record_count": 1406,
+          "byte_count": 38554,
+          "sha256": "sha256:a4a46c105a88be23e4236afb4c6536af8e831184422c9cb04d2e5ecd83cb92a4"
+        },
+        {
+          "page": 5,
+          "path": "index/v1/current/categories/finance-b696d75511dc16f2/pages/000005.json",
+          "company_count": 100,
+          "record_count": 1383,
+          "byte_count": 38021,
+          "sha256": "sha256:e06d5b6db2e531bba070c980e9d2ad557925aa641aed33d2d8c47495bbb0248d"
+        },
+        {
+          "page": 6,
+          "path": "index/v1/current/categories/finance-b696d75511dc16f2/pages/000006.json",
+          "company_count": 100,
+          "record_count": 1578,
+          "byte_count": 37957,
+          "sha256": "sha256:c5f25b42549774554df5c85d8df9a75cc6d14d81303d05e84ac9e2b9ea481e1f"
+        },
+        {
+          "page": 7,
+          "path": "index/v1/current/categories/finance-b696d75511dc16f2/pages/000007.json",
+          "company_count": 79,
+          "record_count": 1022,
+          "byte_count": 29912,
+          "sha256": "sha256:cbd2ae2e4ea6fc99e40f5fc3110e4b39e96086fc6a1f620ea118bd5e2cbcf466"
+        }
+      ]
+    },
+    {
+      "key": "health-care-04b0a88a87070712",
+      "name": "Health Care",
+      "company_count": 842,
+      "record_count": 11128,
+      "page_count": 9,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/health-care-04b0a88a87070712/pages/000001.json",
+          "company_count": 100,
+          "record_count": 1732,
+          "byte_count": 37390,
+          "sha256": "sha256:7ed4c22a25b93998491c91508e941e87455abe7640f84ccc752a692778e01bee"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/health-care-04b0a88a87070712/pages/000002.json",
+          "company_count": 100,
+          "record_count": 1229,
+          "byte_count": 37577,
+          "sha256": "sha256:fbb4d0e36d5f10d3090fd10ff6bf7895e92bab5acd996a1abf14cb1c21f675e6"
+        },
+        {
+          "page": 3,
+          "path": "index/v1/current/categories/health-care-04b0a88a87070712/pages/000003.json",
+          "company_count": 100,
+          "record_count": 1295,
+          "byte_count": 37520,
+          "sha256": "sha256:2b035d11a30057d77a45922c5e4afafa412ca0a03d64099e095194d33a91cb6e"
+        },
+        {
+          "page": 4,
+          "path": "index/v1/current/categories/health-care-04b0a88a87070712/pages/000004.json",
+          "company_count": 100,
+          "record_count": 1336,
+          "byte_count": 36885,
+          "sha256": "sha256:b4c6d43c9c9c47930cdd906340b2dbb41cb15998cae5247785a996dc93f3c122"
+        },
+        {
+          "page": 5,
+          "path": "index/v1/current/categories/health-care-04b0a88a87070712/pages/000005.json",
+          "company_count": 100,
+          "record_count": 1143,
+          "byte_count": 37494,
+          "sha256": "sha256:3c86f9dbda99c54c519d4735d42cda1c93cf69371b5c32b80cb39620367eb088"
+        },
+        {
+          "page": 6,
+          "path": "index/v1/current/categories/health-care-04b0a88a87070712/pages/000006.json",
+          "company_count": 100,
+          "record_count": 1358,
+          "byte_count": 37255,
+          "sha256": "sha256:bebd517454d38d674cc7543517e08ee02332970c9451dc9dc0f455038cc08d11"
+        },
+        {
+          "page": 7,
+          "path": "index/v1/current/categories/health-care-04b0a88a87070712/pages/000007.json",
+          "company_count": 100,
+          "record_count": 1374,
+          "byte_count": 37665,
+          "sha256": "sha256:5cec2497b8185ded16543f21dcaf9a56feb0261b575faafe133a45e14d9e5207"
+        },
+        {
+          "page": 8,
+          "path": "index/v1/current/categories/health-care-04b0a88a87070712/pages/000008.json",
+          "company_count": 100,
+          "record_count": 1168,
+          "byte_count": 37398,
+          "sha256": "sha256:0909dc04c38d828ed7489f41c912f4dfc3800b04ccc52e8ee5800dfec083d372"
+        },
+        {
+          "page": 9,
+          "path": "index/v1/current/categories/health-care-04b0a88a87070712/pages/000009.json",
+          "company_count": 42,
+          "record_count": 493,
+          "byte_count": 15813,
+          "sha256": "sha256:45cf1155b584497431e6459fa720ab4df0930dd7f86d2759061dceaf2710f2fd"
+        }
+      ]
+    },
+    {
+      "key": "industrials-cb8757a58a3ca860",
+      "name": "Industrials",
+      "company_count": 482,
+      "record_count": 7961,
+      "page_count": 5,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/industrials-cb8757a58a3ca860/pages/000001.json",
+          "company_count": 100,
+          "record_count": 1432,
+          "byte_count": 37147,
+          "sha256": "sha256:c99d33ed3972d41f2d79020d3a5b2ed23b54b3eb6cde338bee4a7aa898bde2c6"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/industrials-cb8757a58a3ca860/pages/000002.json",
+          "company_count": 100,
+          "record_count": 1417,
+          "byte_count": 36649,
+          "sha256": "sha256:9a970f7708473504a59c22c8fb8b514648cb8bce501b75a1e050aca9034744cc"
+        },
+        {
+          "page": 3,
+          "path": "index/v1/current/categories/industrials-cb8757a58a3ca860/pages/000003.json",
+          "company_count": 100,
+          "record_count": 1945,
+          "byte_count": 37677,
+          "sha256": "sha256:b055e0e9e8bf440a76fe4b50ed3a8655a991afca6fa436c2fdc6cfab826931db"
+        },
+        {
+          "page": 4,
+          "path": "index/v1/current/categories/industrials-cb8757a58a3ca860/pages/000004.json",
+          "company_count": 100,
+          "record_count": 1450,
+          "byte_count": 37678,
+          "sha256": "sha256:4bc3b82e1184747dcb89de62c00c30cdcf0be4280b6df5eaa1689ddc19a793a4"
+        },
+        {
+          "page": 5,
+          "path": "index/v1/current/categories/industrials-cb8757a58a3ca860/pages/000005.json",
+          "company_count": 82,
+          "record_count": 1717,
+          "byte_count": 31222,
+          "sha256": "sha256:ecd3feea0d4d73111a8d38d3438ef4b2f8d88d66f1b8051a5ab8239b0fcb4b44"
+        }
+      ]
+    },
+    {
+      "key": "miscellaneous-5cb0b42660589925",
+      "name": "Miscellaneous",
+      "company_count": 47,
+      "record_count": 851,
+      "page_count": 1,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/miscellaneous-5cb0b42660589925/pages/000001.json",
+          "company_count": 47,
+          "record_count": 851,
+          "byte_count": 17708,
+          "sha256": "sha256:d7db3532ea5b5479a377af5751f20cae3d20e2cf0aceb8bd41dab1968f64bf44"
+        }
+      ]
+    },
+    {
+      "key": "real-estate-5226954feafeae18",
+      "name": "Real Estate",
+      "company_count": 265,
+      "record_count": 4306,
+      "page_count": 3,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/real-estate-5226954feafeae18/pages/000001.json",
+          "company_count": 100,
+          "record_count": 1543,
+          "byte_count": 38528,
+          "sha256": "sha256:08417eabfc2d41686de1639ca68044e85e8f91fecad37ea9ed4ce750239fd857"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/real-estate-5226954feafeae18/pages/000002.json",
+          "company_count": 100,
+          "record_count": 1470,
+          "byte_count": 39389,
+          "sha256": "sha256:095481920ff1f6fc8e6ce03ca763981a672cd86ca9006e25e3bdbf0bbe325b01"
+        },
+        {
+          "page": 3,
+          "path": "index/v1/current/categories/real-estate-5226954feafeae18/pages/000003.json",
+          "company_count": 65,
+          "record_count": 1293,
+          "byte_count": 24551,
+          "sha256": "sha256:2f9e1fc5187d684b9b0c247e57d11ea77ef6b0aa5424bb0f067b4ffbdbfc7c3e"
+        }
+      ]
+    },
+    {
+      "key": "technology-3169ce6442acdc81",
+      "name": "Technology",
+      "company_count": 593,
+      "record_count": 14504,
+      "page_count": 6,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/technology-3169ce6442acdc81/pages/000001.json",
+          "company_count": 100,
+          "record_count": 2418,
+          "byte_count": 36758,
+          "sha256": "sha256:fdde521651f47e1c01c1a42a29b31fbe1ca0bc994cfa2c58d9e73aa655d7e989"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/technology-3169ce6442acdc81/pages/000002.json",
+          "company_count": 100,
+          "record_count": 2391,
+          "byte_count": 37115,
+          "sha256": "sha256:3add9236a79f726ad04c38af0032a600b0f0fec59336854164a1e88cbfbd5c05"
+        },
+        {
+          "page": 3,
+          "path": "index/v1/current/categories/technology-3169ce6442acdc81/pages/000003.json",
+          "company_count": 100,
+          "record_count": 2283,
+          "byte_count": 37516,
+          "sha256": "sha256:1b3ed8e62749385da13c9e7254e20209443042299d199743e8aab838d3755e7d"
+        },
+        {
+          "page": 4,
+          "path": "index/v1/current/categories/technology-3169ce6442acdc81/pages/000004.json",
+          "company_count": 100,
+          "record_count": 2738,
+          "byte_count": 36678,
+          "sha256": "sha256:5a28bd8c39451e5676afd6f0aa97966d65d8144f524d3a0d85656237fa476f6b"
+        },
+        {
+          "page": 5,
+          "path": "index/v1/current/categories/technology-3169ce6442acdc81/pages/000005.json",
+          "company_count": 100,
+          "record_count": 2235,
+          "byte_count": 37688,
+          "sha256": "sha256:09e9c44adf2541e1e5cd08bbd99d2b43bb08d6301181b21719435198b4397078"
+        },
+        {
+          "page": 6,
+          "path": "index/v1/current/categories/technology-3169ce6442acdc81/pages/000006.json",
+          "company_count": 93,
+          "record_count": 2439,
+          "byte_count": 35211,
+          "sha256": "sha256:ee855d349958bcb568607263db54ef0f32cf4efb7d8dd9f551ed18619af9aee1"
+        }
+      ]
+    },
+    {
+      "key": "telecommunications-1d2eb916fd243aab",
+      "name": "Telecommunications",
+      "company_count": 70,
+      "record_count": 2403,
+      "page_count": 1,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/telecommunications-1d2eb916fd243aab/pages/000001.json",
+          "company_count": 70,
+          "record_count": 2403,
+          "byte_count": 26120,
+          "sha256": "sha256:0319e982e8603fa08e93f8ddcc7d98160a783950ba5b0e9200491b337724cf23"
+        }
+      ]
+    },
+    {
+      "key": "uncategorized",
+      "name": "Uncategorized",
+      "company_count": 2293,
+      "record_count": 44190,
+      "page_count": 23,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/uncategorized/pages/000001.json",
+          "company_count": 100,
+          "record_count": 1433,
+          "byte_count": 29565,
+          "sha256": "sha256:f9db75dc2df1639b8385d7f4fd74ae0b4a6cec3dc4505cef1f504b58dce95ee2"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/uncategorized/pages/000002.json",
+          "company_count": 100,
+          "record_count": 2842,
+          "byte_count": 29160,
+          "sha256": "sha256:0574e7f56d2a3c7476fe8e2554c7e0af9e01dba9b11611b0d465002e22230d14"
+        },
+        {
+          "page": 3,
+          "path": "index/v1/current/categories/uncategorized/pages/000003.json",
+          "company_count": 100,
+          "record_count": 2590,
+          "byte_count": 29914,
+          "sha256": "sha256:e7254f40c95b431e4fe6aa5e48c7015c49b8d1802e1106553cb585e5510ae0ce"
+        },
+        {
+          "page": 4,
+          "path": "index/v1/current/categories/uncategorized/pages/000004.json",
+          "company_count": 100,
+          "record_count": 1553,
+          "byte_count": 29708,
+          "sha256": "sha256:4df8d2cb1528a27bb4fd2b4e369cd13fc117eae23f0b9b51c2f99a2c4187f78b"
+        },
+        {
+          "page": 5,
+          "path": "index/v1/current/categories/uncategorized/pages/000005.json",
+          "company_count": 100,
+          "record_count": 2057,
+          "byte_count": 29587,
+          "sha256": "sha256:dbdc296520098d1c9d82ea2cdd9322da078d2e1995b794b964fcd55215785c45"
+        },
+        {
+          "page": 6,
+          "path": "index/v1/current/categories/uncategorized/pages/000006.json",
+          "company_count": 100,
+          "record_count": 1905,
+          "byte_count": 29449,
+          "sha256": "sha256:b8ec909d54056e818ccde9e4f4e4da3b956ba2dd2be3c63bc746aae4f4eca754"
+        },
+        {
+          "page": 7,
+          "path": "index/v1/current/categories/uncategorized/pages/000007.json",
+          "company_count": 100,
+          "record_count": 2138,
+          "byte_count": 29501,
+          "sha256": "sha256:3abc629bb9d9c856747d6c6f5b8e22c114f656ad4b495ee4fb439533b0ce0a6f"
+        },
+        {
+          "page": 8,
+          "path": "index/v1/current/categories/uncategorized/pages/000008.json",
+          "company_count": 100,
+          "record_count": 1901,
+          "byte_count": 29732,
+          "sha256": "sha256:53b1d9f67a4ede5d761919ebdc5ee22459d62a36523ae7ec01ebf029f7011fe9"
+        },
+        {
+          "page": 9,
+          "path": "index/v1/current/categories/uncategorized/pages/000009.json",
+          "company_count": 100,
+          "record_count": 1590,
+          "byte_count": 29665,
+          "sha256": "sha256:782c3df9e9451ff9d46b1371fe3a76858d0ba27f499071e010cdd6e8274ffcd7"
+        },
+        {
+          "page": 10,
+          "path": "index/v1/current/categories/uncategorized/pages/000010.json",
+          "company_count": 100,
+          "record_count": 1849,
+          "byte_count": 29938,
+          "sha256": "sha256:5c316842daf8d305ba95a421f7396b888246fb7a11d90d4ab0cbced6cce070c4"
+        },
+        {
+          "page": 11,
+          "path": "index/v1/current/categories/uncategorized/pages/000011.json",
+          "company_count": 100,
+          "record_count": 2014,
+          "byte_count": 28957,
+          "sha256": "sha256:370b101185d179d23e3418ce04caaccb9ca9ede461313b3959f0a9e760530bab"
+        },
+        {
+          "page": 12,
+          "path": "index/v1/current/categories/uncategorized/pages/000012.json",
+          "company_count": 100,
+          "record_count": 1386,
+          "byte_count": 29648,
+          "sha256": "sha256:4bde1ba2f20c6591075035e62071bcaa726b6a947e6181dee58784794c482269"
+        },
+        {
+          "page": 13,
+          "path": "index/v1/current/categories/uncategorized/pages/000013.json",
+          "company_count": 100,
+          "record_count": 1601,
+          "byte_count": 29297,
+          "sha256": "sha256:75f81203b3c90c605b92391a9adaf7b45b29a13adc7324526ca69d53301cda49"
+        },
+        {
+          "page": 14,
+          "path": "index/v1/current/categories/uncategorized/pages/000014.json",
+          "company_count": 100,
+          "record_count": 1582,
+          "byte_count": 29531,
+          "sha256": "sha256:65bb86b1f5398e98d161e8baa24d0bc6e2370e23afed065ac38b8a6d1f3f0207"
+        },
+        {
+          "page": 15,
+          "path": "index/v1/current/categories/uncategorized/pages/000015.json",
+          "company_count": 100,
+          "record_count": 2142,
+          "byte_count": 29049,
+          "sha256": "sha256:87ec54accf304ba633b4af0dba7c603c17a3f5d357dff6a08544e356090a01b5"
+        },
+        {
+          "page": 16,
+          "path": "index/v1/current/categories/uncategorized/pages/000016.json",
+          "company_count": 100,
+          "record_count": 2106,
+          "byte_count": 29364,
+          "sha256": "sha256:0c4d2fe1479c0f5dacc7b513ad6d6a695253b014424f6e604bf803fe27e4b328"
+        },
+        {
+          "page": 17,
+          "path": "index/v1/current/categories/uncategorized/pages/000017.json",
+          "company_count": 100,
+          "record_count": 1669,
+          "byte_count": 29286,
+          "sha256": "sha256:35c148f51ee1481a1c44e00ad2fb3afcabcb2950db871c8b1d36a644f44b8324"
+        },
+        {
+          "page": 18,
+          "path": "index/v1/current/categories/uncategorized/pages/000018.json",
+          "company_count": 100,
+          "record_count": 2330,
+          "byte_count": 28957,
+          "sha256": "sha256:5dbd1b73b5214f4f04d8b9ccd26683c0a1e5d818d66573b832517b63bda4df9d"
+        },
+        {
+          "page": 19,
+          "path": "index/v1/current/categories/uncategorized/pages/000019.json",
+          "company_count": 100,
+          "record_count": 1902,
+          "byte_count": 29743,
+          "sha256": "sha256:3ffb65fa2702ce64ba5978a71b3c004a1e4871ebb8a0ff0f92ce964fd7c9bc60"
+        },
+        {
+          "page": 20,
+          "path": "index/v1/current/categories/uncategorized/pages/000020.json",
+          "company_count": 100,
+          "record_count": 2466,
+          "byte_count": 29352,
+          "sha256": "sha256:d835689d2cf29efe4bf1a786b16ad099a2f562018cd7b375deb130fa0a31f41a"
+        },
+        {
+          "page": 21,
+          "path": "index/v1/current/categories/uncategorized/pages/000021.json",
+          "company_count": 100,
+          "record_count": 2089,
+          "byte_count": 29820,
+          "sha256": "sha256:91095c4887042e4adae7ccbe4dbf01aa91b2d11761d82b00743abad69d00eae6"
+        },
+        {
+          "page": 22,
+          "path": "index/v1/current/categories/uncategorized/pages/000022.json",
+          "company_count": 100,
+          "record_count": 1463,
+          "byte_count": 29374,
+          "sha256": "sha256:f0614ba2c55428063b924ca75cb7275a2267b1a98d877d11f0e4d77eb9e92bb4"
+        },
+        {
+          "page": 23,
+          "path": "index/v1/current/categories/uncategorized/pages/000023.json",
+          "company_count": 93,
+          "record_count": 1582,
+          "byte_count": 27279,
+          "sha256": "sha256:2cff1302a3343bf592d7f70446a010ed91d88fcfe61728f89e87e3db7e34854d"
+        }
+      ]
+    },
+    {
+      "key": "utilities-0a035c2b85b8f35d",
+      "name": "Utilities",
+      "company_count": 119,
+      "record_count": 1916,
+      "page_count": 2,
+      "pages": [
+        {
+          "page": 1,
+          "path": "index/v1/current/categories/utilities-0a035c2b85b8f35d/pages/000001.json",
+          "company_count": 100,
+          "record_count": 1646,
+          "byte_count": 38005,
+          "sha256": "sha256:94aaf9f09d3c24c4bac3d73ef28392e6b5823ac308e916363737fc177142f9fd"
+        },
+        {
+          "page": 2,
+          "path": "index/v1/current/categories/utilities-0a035c2b85b8f35d/pages/000002.json",
+          "company_count": 19,
+          "record_count": 270,
+          "byte_count": 7511,
+          "sha256": "sha256:dd9bdca745781bcf955467d8d5da45d61faccfc12e75bfdd0501d230c1204eac"
+        }
+      ]
+    }
+  ]
+}

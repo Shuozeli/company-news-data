@@ -7,7 +7,7 @@ source_id: "extreme-networks-inc-common-stock-rss-0242d87c651c"
 canonical_url: "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000136548"
 published_at: "2026-05-28T13:30:02+00:00"
 first_seen_at: "2026-07-20T04:35:47.988677+00:00"
-fetched_at: "2026-07-28T23:46:40.217305+00:00"
+fetched_at: "2026-07-29T15:39:26.203413+00:00"
 content_hash: "sha256:fb94def6d335d1297004a22e1b5aa61545f98c4ca1ca85d60337d502e6be0d09"
 ---
 

@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-above-food-corp-to-present-at-the-ldmicro-invitational-xiv/"
 published_at: "2024-04-02T17:04:48+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:3a60056a596dd26587c21165d75533e47faec40be9aa2badb9db03e25a3cc2e3"
 ---
 

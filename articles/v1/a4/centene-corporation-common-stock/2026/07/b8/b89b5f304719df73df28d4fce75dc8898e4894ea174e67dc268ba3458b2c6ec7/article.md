@@ -7,7 +7,7 @@ source_id: "centene-corporation-common-stock-rss-80dc5615cd85"
 canonical_url: "https://investors.centene.com/2026-07-28-CENTENE-ANNOUNCES-BOARD-OF-DIRECTORS-CHANGES"
 published_at: "2026-07-28T10:00:00+00:00"
 first_seen_at: "2026-07-28T11:14:17.340130+00:00"
-fetched_at: "2026-07-28T23:22:15.789255+00:00"
+fetched_at: "2026-07-29T15:15:27.209412+00:00"
 content_hash: "sha256:882f3538afeab13c6ea7fb105110123c630e23e7caded8189bf3aad002c7cf24"
 ---
 

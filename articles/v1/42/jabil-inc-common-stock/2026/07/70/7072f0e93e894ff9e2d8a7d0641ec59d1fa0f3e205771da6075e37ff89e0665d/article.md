@@ -7,7 +7,7 @@ source_id: "jabil-inc-common-stock-rss-7d060940dc80"
 canonical_url: "https://investors.jabil.com/news/news-details/2026/Jabil-Announces-1-5-Billion-Share-Repurchase-Authorization/default.aspx"
 published_at: "2026-07-15T20:10:00+00:00"
 first_seen_at: "2026-07-25T01:08:56.097172+00:00"
-fetched_at: "2026-07-29T00:29:02.466380+00:00"
+fetched_at: "2026-07-29T13:55:32.729320+00:00"
 content_hash: "sha256:6a363b60a9c61beeaf713ae5f60363eb98db21f23a5d90b9b70ec78bea190d87"
 ---
 

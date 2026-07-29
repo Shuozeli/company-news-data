@@ -4,9 +4,9 @@
     "key": "netflix-inc-common-stock",
     "name": "Netflix Inc. Common Stock"
   },
-  "record_count": 68,
+  "record_count": 75,
   "first_published_at": "2026-06-19T23:53:16+00:00",
-  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-06",
@@ -14,11 +14,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 60
+      "record_count": 67
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -27,18 +27,18 @@
         "page": 1,
         "path": "articles/v1/59/netflix-inc-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 56169,
-        "sha256": "sha256:42af9c7de61b27a77bfea483bd9a40e10b0c924d42e7efd11b80e91315a618f8",
-        "newest_at": "2026-07-28T21:52:24.088997+00:00",
-        "oldest_at": "2026-07-16T00:00:00+00:00"
+        "byte_count": 56252,
+        "sha256": "sha256:7137062d65061e3621c0c89fa440c68064230c8ad2bb1cc086dbd9ef16292023",
+        "newest_at": "2026-07-29T15:24:31.737270+00:00",
+        "oldest_at": "2026-07-20T00:00:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/59/netflix-inc-common-stock/index/pages/000002.json",
-        "record_count": 18,
-        "byte_count": 19628,
-        "sha256": "sha256:e6b9b6c636d4a215ed14a4965704a3a68d6190da5c94652374a8b6714b5d4fde",
-        "newest_at": "2026-07-16T00:00:00+00:00",
+        "record_count": 25,
+        "byte_count": 27202,
+        "sha256": "sha256:5e1c24c2dd4846938ddf1b134edc25a24ac122be61b247d4c6e519e0730b9237",
+        "newest_at": "2026-07-20T00:00:00+00:00",
         "oldest_at": "2026-06-19T23:53:16+00:00"
       }
     ]

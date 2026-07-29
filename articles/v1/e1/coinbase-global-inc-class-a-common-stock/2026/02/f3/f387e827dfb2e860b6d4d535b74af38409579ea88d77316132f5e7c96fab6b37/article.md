@@ -7,7 +7,7 @@ source_id: "coinbase-global-inc-class-a-common-stock-rss-0560afd38a6f"
 canonical_url: "https://investor.coinbase.com/news/news-details/2026/Everybody-Coinbase-Is-Back-Again-with-a-Karaoke-Ode-to-Crypto-in-Sundays-Big-Game/default.aspx"
 published_at: "2026-02-09T05:33:00+00:00"
 first_seen_at: "2026-07-27T01:08:36.461488+00:00"
-fetched_at: "2026-07-29T00:50:58.796605+00:00"
+fetched_at: "2026-07-29T14:20:36.200858+00:00"
 content_hash: "sha256:ba34096e1b0f81b213adeaa217923135cdcc9cd2cba97f8dbaf4954a03422324"
 ---
 

@@ -7,7 +7,7 @@ source_id: "chaince-digital-holdings-inc-ordinary-shares-rss-3f461f105395"
 canonical_url: "https://chaincedigital.com/chaince-digital-announces-launch-of-usdc-yield-vault-on-morpho-curated-by-alphaping/"
 published_at: "2026-06-15T12:00:32+00:00"
 first_seen_at: "2026-07-20T23:18:10.276107+00:00"
-fetched_at: "2026-07-28T22:17:20.039825+00:00"
+fetched_at: "2026-07-29T14:22:21.060654+00:00"
 content_hash: "sha256:1095680113293e5fb83b33a9c2d6c78fb710fc20cfbfe9e18970289e88b45c3f"
 ---
 

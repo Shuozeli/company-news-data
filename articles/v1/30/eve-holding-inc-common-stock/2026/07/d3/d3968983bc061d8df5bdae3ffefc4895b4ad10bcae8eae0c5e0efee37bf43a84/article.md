@@ -7,7 +7,7 @@ source_id: "eve-holding-inc-common-stock-rss-a787984ba43b"
 canonical_url: "https://www.eveairmobility.com/eve-air-mobility-secures-an-order-for-up-to-16-evtol-aircraft-from-shearwater-global-capital-bay-points-aviation-finance-company/"
 published_at: "2026-07-19T10:01:29+00:00"
 first_seen_at: "2026-07-25T01:07:11.530198+00:00"
-fetched_at: "2026-07-29T00:04:41.801497+00:00"
+fetched_at: "2026-07-29T16:59:31.363277+00:00"
 content_hash: "sha256:90d60f1d2857d94a0edc33a5b1a8ebae2b8c6a7e07261fc5b34afa3efb37a283"
 ---
 

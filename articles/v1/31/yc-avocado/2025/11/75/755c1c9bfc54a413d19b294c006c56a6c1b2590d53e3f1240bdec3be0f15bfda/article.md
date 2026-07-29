@@ -5,13 +5,13 @@ company_key: "yc-avocado"
 company: "Avocado"
 source_id: "yc-avocado-news-import-38bb8a83867d"
 canonical_url: "https://www.avocadopos.com/blog/20251016-oklahoma-food-truck-freedom-act-november-1-2025"
-published_at: "2025-11-01T00:00:00+00:00"
+published_at: "2025-10-16T00:00:00+00:00"
 first_seen_at: "2026-07-24T18:13:15.302974+00:00"
 fetched_at: "2026-07-28T21:27:35.329570+00:00"
 content_hash: "sha256:32ad68465f3b2735f4a5986bb3e884ab1c8e59a2c56c3179b96637000259fab1"
 ---
 
-# Oklahoma’s Food Truck Freedom Act: What Vendors Need to Know Before November 1 - The Avocado - Avocado POS
+# Oklahoma’s Food Truck Freedom Act: What Vendors Need to Know Before November 1
 
 Starting **November 1, 2025** , Oklahoma food truck vendors will see a major change in how they operate across the state. The **Food Truck Freedom Act** now allows vendors to operate anywhere in Oklahoma with a single **state food establishment license** , while still following local rules.
 

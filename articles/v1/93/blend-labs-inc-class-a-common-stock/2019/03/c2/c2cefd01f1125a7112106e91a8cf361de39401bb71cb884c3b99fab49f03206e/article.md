@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/building-a-versioned-ui-deploy-system-for-fast-stable-deploys-and-rollbacks.html"
 published_at: "2019-03-04T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-29T00:27:54.647135+00:00"
+fetched_at: "2026-07-29T13:54:11.516897+00:00"
 content_hash: "sha256:06c62778b494f67cb310cf7c1ccda919753b900621fa28a0872431373b5b5700"
 ---
 

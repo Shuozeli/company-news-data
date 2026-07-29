@@ -7,7 +7,7 @@ source_id: "richardson-electronics-ltd-common-stock-rss-d6367bf03fd0"
 canonical_url: "https://www.rell.com/richardson-healthcare-announces-iso-134852016-certification/"
 published_at: "2022-08-30T18:28:29+00:00"
 first_seen_at: "2026-07-20T23:20:10.039774+00:00"
-fetched_at: "2026-07-29T00:46:02.853224+00:00"
+fetched_at: "2026-07-29T15:38:50.903792+00:00"
 content_hash: "sha256:4eed82ec30426e69ce32cdf2e897d19db107326ae02222296744a7fc572f2a01"
 ---
 

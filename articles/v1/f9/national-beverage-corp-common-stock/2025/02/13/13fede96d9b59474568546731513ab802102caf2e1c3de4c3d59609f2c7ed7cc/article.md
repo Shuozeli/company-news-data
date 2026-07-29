@@ -7,7 +7,7 @@ source_id: "national-beverage-corp-common-stock-rss-c0166684d17c"
 canonical_url: "https://ir.nationalbeverage.com/news-releases/news-release-details/lacroix-launches-sunshine"
 published_at: "2025-02-25T15:03:00+00:00"
 first_seen_at: "2026-07-25T15:34:19.144056+00:00"
-fetched_at: "2026-07-29T00:46:57.827573+00:00"
+fetched_at: "2026-07-29T14:10:31.023577+00:00"
 content_hash: "sha256:fd3b24598c20a405ebd9293feacb88bb88ae16e9a80852a2c14478f46c2631e4"
 ---
 

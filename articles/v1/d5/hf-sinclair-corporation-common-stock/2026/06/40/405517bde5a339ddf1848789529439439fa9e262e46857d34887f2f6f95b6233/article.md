@@ -7,7 +7,7 @@ source_id: "hf-sinclair-corporation-common-stock-rss-60d3559137a6"
 canonical_url: "https://investor.hfsinclair.com/investor-relations/press-releases/press-releases-details/2026/HF-Sinclair-Corporation-Second-Quarter-2026-Earnings-Release-and-Conference-Webcast/default.aspx"
 published_at: "2026-06-23T20:30:00+00:00"
 first_seen_at: "2026-07-25T08:03:42.553379+00:00"
-fetched_at: "2026-07-29T00:14:56.390298+00:00"
+fetched_at: "2026-07-29T17:17:44.313523+00:00"
 content_hash: "sha256:b93a3eafd11863171969b5f6b577601fe3397a8c3ce7c078f31490e4cd295861"
 ---
 

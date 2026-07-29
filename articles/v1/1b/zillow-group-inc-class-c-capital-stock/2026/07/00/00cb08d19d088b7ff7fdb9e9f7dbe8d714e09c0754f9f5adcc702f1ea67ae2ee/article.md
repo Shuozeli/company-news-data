@@ -7,7 +7,7 @@ source_id: "zillow-group-inc-class-c-capital-stock-rss-5f74dc8a78b4"
 canonical_url: "https://zillow.mediaroom.com/2026-07-07-Zillows-June-Market-Report-shows-signs-of-life-for-home-shopping-season-as-sales,-new-listings-rebound"
 published_at: "2026-07-07T12:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:05.419620+00:00"
-fetched_at: "2026-07-28T23:27:19.200281+00:00"
+fetched_at: "2026-07-29T10:58:01.764090+00:00"
 content_hash: "sha256:6f328d03003578f791ea7ee6916045e3d8e32e3247d4b22f4e8cfae964e042e5"
 ---
 

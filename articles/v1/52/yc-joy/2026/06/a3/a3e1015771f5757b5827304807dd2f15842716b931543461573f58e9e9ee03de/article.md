@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:43:26.997349+00:00"
 content_hash: "sha256:7955dbc20341b604cb8c27f02be65337c3ad30fcdcb69d2d45805033a9608fb4"
 ---
 
-# Wedding Ceremony Order of Events: A Complete Guide for 2026 | Joy
+# Wedding Ceremony Order of Events: A Complete Guide for 2026
 
 Last Updated on June 30, 2026 by[Joy Editors](https://withjoy.com/)
 

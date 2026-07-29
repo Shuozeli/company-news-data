@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/new-digi-firmware-for-dalos-22-11-digi-rm"
 published_at: "2022-12-21T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:28998a186ba32ee54b7a4f2caff26234a92d3545cdf7e94e0fc85e57ba756056"
 ---
 

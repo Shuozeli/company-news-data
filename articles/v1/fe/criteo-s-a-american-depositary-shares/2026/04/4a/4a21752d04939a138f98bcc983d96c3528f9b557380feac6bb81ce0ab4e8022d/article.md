@@ -7,7 +7,7 @@ source_id: "criteo-s-a-american-depositary-shares-rss-02db2411825d"
 canonical_url: "https://medium.com/criteo-engineering/the-grind-behind-the-epiphany-a-short-story-of-a-research-project-45e94a21a489"
 published_at: "2026-04-30T06:46:01+00:00"
 first_seen_at: "2026-07-20T23:17:33.645392+00:00"
-fetched_at: "2026-07-29T00:25:12.574821+00:00"
+fetched_at: "2026-07-29T13:53:51.033530+00:00"
 content_hash: "sha256:a9de135af2a8adba13848920ed9cf8804aa15d6c6caf483ac665e649a591d25c"
 ---
 

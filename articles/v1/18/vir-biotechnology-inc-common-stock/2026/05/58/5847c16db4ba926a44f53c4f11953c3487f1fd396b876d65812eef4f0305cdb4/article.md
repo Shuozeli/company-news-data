@@ -7,7 +7,7 @@ source_id: "vir-biotechnology-inc-common-stock-rss-72c28e7484de"
 canonical_url: "https://investors.vir.bio/news/news-details/2026/Vir-Biotechnology-Provides-Corporate-Update-and-Reports-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-05-06T20:05:00+00:00"
 first_seen_at: "2026-07-26T04:46:53.245331+00:00"
-fetched_at: "2026-07-28T23:50:05.426076+00:00"
+fetched_at: "2026-07-29T15:44:29.931538+00:00"
 content_hash: "sha256:50c382839ff9d53bf8ef6fee2ad9eafa72033cce7e35a5b108148105e729adbe"
 ---
 

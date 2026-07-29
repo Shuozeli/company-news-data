@@ -7,7 +7,7 @@ source_id: "yc-bulk-mro-industrial-supply-rss-f7d25cf2a5b1"
 canonical_url: "https://bulkmro.com/using-technology-to-ensure-smooth-operations-in-the-supply-chain-industry/"
 published_at: "2023-09-15T12:18:07+00:00"
 first_seen_at: "2026-07-24T22:17:58.140075+00:00"
-fetched_at: "2026-07-28T23:14:38.963458+00:00"
+fetched_at: "2026-07-29T01:48:54.076096+00:00"
 content_hash: "sha256:e0feb262bfea1f1398b9cbef4cd6ac746ed1bf0ff0de887bbadabb2365c4a5c4"
 ---
 

@@ -7,7 +7,7 @@ source_id: "flowserve-corporation-common-stock-rss-41e9b9c7e0cd"
 canonical_url: "https://www.flowserve.com/company/events/tradeshows/gastech/"
 published_at: "2026-03-05T03:07:25+00:00"
 first_seen_at: "2026-07-20T23:21:25.534488+00:00"
-fetched_at: "2026-07-28T23:08:16.934407+00:00"
+fetched_at: "2026-07-29T14:51:29.153176+00:00"
 content_hash: "sha256:6af76e69951edfe8ea4a7e5761ad38aa366e9921c930efda8a3d4cd3fb968a7e"
 ---
 

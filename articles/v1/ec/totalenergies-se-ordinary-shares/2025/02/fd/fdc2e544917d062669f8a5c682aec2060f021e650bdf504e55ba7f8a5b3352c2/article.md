@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/we-are-committed-to-supporting-indias-energy-transition-and-growth/"
 published_at: "2025-02-05T13:44:40+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T23:24:39.102238+00:00"
+fetched_at: "2026-07-29T15:20:19.764825+00:00"
 content_hash: "sha256:a59d0a182a8ac7fffcf76f6ada94dda917e1f9f1068c288224e126f174cfc3e7"
 ---
 

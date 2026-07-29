@@ -4,9 +4,9 @@
     "key": "amazon-com-inc-common-stock",
     "name": "Amazon.com Inc. Common Stock"
   },
-  "record_count": 162,
+  "record_count": 163,
   "first_published_at": "2023-04-13T11:55:00+00:00",
-  "last_published_at": "2026-07-28T17:18:00+00:00",
+  "last_published_at": "2026-07-29T13:00:07+00:00",
   "partitions": [
     {
       "partition": "2023-04",
@@ -58,11 +58,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 139
+      "record_count": 140
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 4,
@@ -71,36 +71,36 @@
         "page": 1,
         "path": "articles/v1/51/amazon-com-inc-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 55131,
-        "sha256": "sha256:ad1a5fe3a1388a544f0957c0a2b808f745df7a03f967df707739d5055f7fed04",
-        "newest_at": "2026-07-28T17:18:00+00:00",
-        "oldest_at": "2026-07-22T15:23:00+00:00"
+        "byte_count": 55213,
+        "sha256": "sha256:8fcf54890191e9b9837d4c2919f976e46d198bf58867c77f3fc14f5e83220aff",
+        "newest_at": "2026-07-29T13:00:07+00:00",
+        "oldest_at": "2026-07-22T17:00:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/51/amazon-com-inc-common-stock/index/pages/000002.json",
         "record_count": 50,
-        "byte_count": 55656,
-        "sha256": "sha256:04b8d800fb1387449a351902018f7b152498d89f610060ebe38b2eb05941e261",
-        "newest_at": "2026-07-22T14:30:00+00:00",
-        "oldest_at": "2026-07-16T04:07:00+00:00"
+        "byte_count": 55547,
+        "sha256": "sha256:a4b038dc41dabb45e396bffc11d150e4801372e49558a718ad0d906ceab706b1",
+        "newest_at": "2026-07-22T15:23:00+00:00",
+        "oldest_at": "2026-07-16T10:00:00+00:00"
       },
       {
         "page": 3,
         "path": "articles/v1/51/amazon-com-inc-common-stock/index/pages/000003.json",
         "record_count": 50,
-        "byte_count": 57418,
-        "sha256": "sha256:e2638e87500bee4217fc5f6dbc8670df60c2e1593e6ef08db1db9e6dcd2b6d44",
-        "newest_at": "2026-07-16T00:00:00+00:00",
-        "oldest_at": "2026-05-01T13:00:09.166+00:00"
+        "byte_count": 57494,
+        "sha256": "sha256:ad900a34411e17acc05aa4432585a847e53ac0c4283f69974f1c9865cc03a735",
+        "newest_at": "2026-07-16T04:07:00+00:00",
+        "oldest_at": "2026-06-08T13:00:08.798+00:00"
       },
       {
         "page": 4,
         "path": "articles/v1/51/amazon-com-inc-common-stock/index/pages/000004.json",
-        "record_count": 12,
-        "byte_count": 13880,
-        "sha256": "sha256:454e03a58ce654928284a6277f5f7169c3b23a44076b31a7ac9b4cb03d598923",
-        "newest_at": "2026-04-28T17:00:03.299+00:00",
+        "record_count": 13,
+        "byte_count": 14959,
+        "sha256": "sha256:d4c9788df268054e9f04c80a3cfadb5c4ff0adeb5b1cff00a75fd4890bfb10bd",
+        "newest_at": "2026-05-01T13:00:09.166+00:00",
         "oldest_at": "2023-04-13T11:55:00+00:00"
       }
     ]

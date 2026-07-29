@@ -7,7 +7,7 @@ source_id: "the-arena-group-holdings-inc-common-stock-rss-9ea05f6be366"
 canonical_url: "https://www.businesswire.com/news/home/20260511981800/en/The-Arena-Group-Reports-Q1-2026-Results"
 published_at: "2026-05-11T20:47:56+00:00"
 first_seen_at: "2026-07-24T03:49:58.062520+00:00"
-fetched_at: "2026-07-28T23:55:45.666638+00:00"
+fetched_at: "2026-07-29T15:46:29.354113+00:00"
 content_hash: "sha256:beeb0ccf3889d4ded3b32a95edc2789aab98b0846a48d65b832f463467435184"
 ---
 

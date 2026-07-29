@@ -7,7 +7,7 @@ source_id: "box-inc-class-a-common-stock-rss-a1b756dbb5f0"
 canonical_url: "https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Reports-First-Quarter-Fiscal-2027-Financial-Results/default.aspx"
 published_at: "2026-05-26T20:05:00+00:00"
 first_seen_at: "2026-07-26T23:59:55.533287+00:00"
-fetched_at: "2026-07-28T23:33:39.655435+00:00"
+fetched_at: "2026-07-29T15:31:10.551887+00:00"
 content_hash: "sha256:97743d90cd48e920befa7e606d336c351c033aff8d8625a275620d277cb2112e"
 ---
 

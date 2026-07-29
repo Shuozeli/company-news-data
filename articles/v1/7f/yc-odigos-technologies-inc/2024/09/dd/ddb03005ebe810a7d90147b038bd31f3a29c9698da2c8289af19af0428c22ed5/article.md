@@ -7,7 +7,7 @@ source_id: "yc-odigos-technologies-inc-rss-eb41174e661a"
 canonical_url: "https://odigos.io/blog/key-observability-metrics-and-tools"
 published_at: "2024-09-12T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:02:44.020335+00:00"
-fetched_at: "2026-07-28T23:46:13.985043+00:00"
+fetched_at: "2026-07-29T15:39:32.474947+00:00"
 content_hash: "sha256:3e154c3bed1f8c447c523f80bb35d67764edd503748ffa65899e888ac655632d"
 ---
 

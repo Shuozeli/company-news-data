@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/broad-arrow-patina-collective-sale-lots-highlights-date/"
 published_at: "2026-07-20T18:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:773c6e9efe1db32555cfb312136740c7f5e063648dc1fe37a9a2a484b3882fd0"
 ---
 

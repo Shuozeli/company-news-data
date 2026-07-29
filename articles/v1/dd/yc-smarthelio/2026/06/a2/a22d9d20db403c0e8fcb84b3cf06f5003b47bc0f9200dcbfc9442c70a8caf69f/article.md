@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:10:52.268184+00:00"
 content_hash: "sha256:b120c09a3d285fb9011560e6c32c2b4ee94b1067c6d908c2b7b889738e2377c2"
 ---
 
-# 5 Real-World Insights About AI Agents in Solar Operations
+# Real-World Insights About AI Agents in Solar Operations
 
 June 19, 2026
 

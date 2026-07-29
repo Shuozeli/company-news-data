@@ -7,7 +7,7 @@ source_id: "nano-nuclear-energy-inc-common-stock-rss-37f535d5108a"
 canonical_url: "https://nanonuclearenergy.com/nano-nuclear-energy-selected-by-afwerx-for-sbir-phase-i-award-to-advance-kronos-mmr-for-the-u-s-air-force/"
 published_at: "2026-07-27T12:15:46+00:00"
 first_seen_at: "2026-07-27T13:02:20.085026+00:00"
-fetched_at: "2026-07-28T23:04:07.289571+00:00"
+fetched_at: "2026-07-29T14:41:55.212067+00:00"
 content_hash: "sha256:5e1e632bb5ab741a45c80c94c5dabd6fafb24b307746670c0f946d65565c4b81"
 ---
 

@@ -7,7 +7,7 @@ source_id: "sunopta-inc-common-stock-rss-7dfa930bd6bd"
 canonical_url: "https://www.sunopta.com/refresco-completes-acquisition-of-sunopta-a-north-american-supply-chain-solutions-provider/"
 published_at: "2026-05-07T14:23:37+00:00"
 first_seen_at: "2026-07-20T23:18:19.636673+00:00"
-fetched_at: "2026-07-28T23:54:33.502464+00:00"
+fetched_at: "2026-07-29T15:45:13.124433+00:00"
 content_hash: "sha256:cfce30c23455233608b32a1f97be2053e85af1dcef35c70d82150d6e7a935d68"
 ---
 

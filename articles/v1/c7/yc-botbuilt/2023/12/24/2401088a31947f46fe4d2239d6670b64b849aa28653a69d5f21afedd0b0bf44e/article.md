@@ -7,7 +7,7 @@ source_id: "yc-botbuilt-rss-52b4cca2e71a"
 canonical_url: "https://www.botbuilt.com/qa-with-brent-wadas-how-botbuilt-is-automating-home-construction/"
 published_at: "2023-12-02T16:47:00+00:00"
 first_seen_at: "2026-07-20T23:23:39.000790+00:00"
-fetched_at: "2026-07-28T22:53:25.256511+00:00"
+fetched_at: "2026-07-29T14:23:25.942941+00:00"
 content_hash: "sha256:a7a64367a0adb3eb98d8ad847f75f7b2cf83a4a4d699cfd709c87bcae616ced6"
 ---
 

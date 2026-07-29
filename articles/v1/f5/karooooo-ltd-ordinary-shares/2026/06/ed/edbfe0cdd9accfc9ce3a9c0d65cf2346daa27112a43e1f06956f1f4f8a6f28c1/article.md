@@ -7,7 +7,7 @@ source_id: "karooooo-ltd-ordinary-shares-rss-90fe8cb4cf55"
 canonical_url: "https://karooooo.com/press-release/karooooo-ltd-group-ceo-zak-calisto-featured-on-water-tower-research-small-cap-spotlight/"
 published_at: "2026-06-02T07:27:39+00:00"
 first_seen_at: "2026-07-20T23:17:55.333800+00:00"
-fetched_at: "2026-07-29T00:12:19.960855+00:00"
+fetched_at: "2026-07-29T17:13:39.077772+00:00"
 content_hash: "sha256:06ab5c4fb06a387becba991963047503f60aeefbedb281a1ef4b21c615b3386b"
 ---
 

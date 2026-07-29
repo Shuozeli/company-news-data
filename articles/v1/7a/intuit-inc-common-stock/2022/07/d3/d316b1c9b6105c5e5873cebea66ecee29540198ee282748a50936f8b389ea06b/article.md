@@ -7,7 +7,7 @@ source_id: "intuit-inc-common-stock-rss-5487f66ec073"
 canonical_url: "https://www.intuit.com/blog/global-stories/impacting-peoples-lives-through-the-power-of-ai/"
 published_at: "2022-07-18T04:55:03+00:00"
 first_seen_at: "2026-07-20T04:35:56.728587+00:00"
-fetched_at: "2026-07-28T23:44:35.787151+00:00"
+fetched_at: "2026-07-29T15:39:14.730114+00:00"
 content_hash: "sha256:389c97684512f4738b82892ea97f8010a085e5e40e0498012eb2c8ff91ca8ee6"
 ---
 

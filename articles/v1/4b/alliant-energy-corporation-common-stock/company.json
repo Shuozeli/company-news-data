@@ -4,7 +4,7 @@
     "key": "alliant-energy-corporation-common-stock",
     "name": "Alliant Energy Corporation Common Stock"
   },
-  "record_count": 26,
+  "record_count": 10,
   "first_published_at": "2026-01-08T21:15:00+00:00",
   "last_published_at": "2026-07-17T12:00:00+00:00",
   "partitions": [
@@ -18,23 +18,15 @@
     },
     {
       "partition": "2026-04",
-      "record_count": 5
-    },
-    {
-      "partition": "2026-05",
-      "record_count": 5
-    },
-    {
-      "partition": "2026-06",
-      "record_count": 5
+      "record_count": 3
     },
     {
       "partition": "2026-07",
-      "record_count": 6
+      "record_count": 2
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -42,10 +34,10 @@
       {
         "page": 1,
         "path": "articles/v1/4b/alliant-energy-corporation-common-stock/index/pages/000001.json",
-        "record_count": 26,
-        "byte_count": 38398,
-        "sha256": "sha256:4f6bd765f2eff945e0a196cfdc164329f69946334d21dcd17ca6771aa9c62cf9",
-        "newest_at": "2026-07-27T11:32:36.077817+00:00",
+        "record_count": 10,
+        "byte_count": 20219,
+        "sha256": "sha256:c41762a497647ffe66c12264d5b035ee8d45798e05b9e538e8fe7629a5ea75d9",
+        "newest_at": "2026-07-17T12:00:00+00:00",
         "oldest_at": "2026-01-08T21:15:00+00:00"
       }
     ]

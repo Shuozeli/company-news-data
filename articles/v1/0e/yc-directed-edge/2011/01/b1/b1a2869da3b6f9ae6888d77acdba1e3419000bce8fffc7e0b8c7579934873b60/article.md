@@ -7,7 +7,7 @@ source_id: "yc-directed-edge-rss-7c8e8fe81473"
 canonical_url: "https://blog.directededge.com/2011/01/06/google-spam-heresy-the-adsense-paradox/"
 published_at: "2011-01-06T08:38:32+00:00"
 first_seen_at: "2026-07-27T01:55:50.875550+00:00"
-fetched_at: "2026-07-28T22:59:14.304469+00:00"
+fetched_at: "2026-07-29T14:36:05.001882+00:00"
 content_hash: "sha256:847959b583aa7d2ec56eb6ebb9497f78793b54d3934c3a7b68fa552e67eaf2cf"
 ---
 

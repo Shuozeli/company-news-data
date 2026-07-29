@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/speed-up-feature-engineering"
 published_at: "2022-09-29T19:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T23:22:34.016732+00:00"
+fetched_at: "2026-07-29T15:16:23.251342+00:00"
 content_hash: "sha256:d57a56e9eace2a128d767bf0e85c5f32631ccf2813b3fe3e994578b4c56ed6f7"
 ---
 

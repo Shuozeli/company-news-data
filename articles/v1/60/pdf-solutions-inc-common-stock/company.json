@@ -4,7 +4,7 @@
     "key": "pdf-solutions-inc-common-stock",
     "name": "PDF Solutions Inc. Common Stock"
   },
-  "record_count": 37,
+  "record_count": 36,
   "first_published_at": "2024-10-16T20:07:48+00:00",
   "last_published_at": "2026-07-27T16:29:02+00:00",
   "partitions": [
@@ -38,10 +38,6 @@
     },
     {
       "partition": "2025-07",
-      "record_count": 1
-    },
-    {
-      "partition": "2025-08",
       "record_count": 1
     },
     {
@@ -82,7 +78,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -90,9 +86,9 @@
       {
         "page": 1,
         "path": "articles/v1/60/pdf-solutions-inc-common-stock/index/pages/000001.json",
-        "record_count": 37,
-        "byte_count": 45427,
-        "sha256": "sha256:8eafa89b11d4dec1dc06e63c855b5555bb10647354b5905c2bf91e664a654eac",
+        "record_count": 36,
+        "byte_count": 44128,
+        "sha256": "sha256:a8a0827b624752690a576063058d528c57d251ae3982a1cdf782684344813155",
         "newest_at": "2026-07-27T16:29:02+00:00",
         "oldest_at": "2024-10-16T20:07:48+00:00"
       }

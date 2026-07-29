@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://vertiv.com/Vertiv-First-Quarter-2023-Earnings-Release"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T23:23:56.894710+00:00"
+fetched_at: "2026-07-29T15:18:57.174384+00:00"
 content_hash: "sha256:c5f988ad9f06891fa04454e776491e32f45c3804395be07624ca940dbe2ec04a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/time_to_camera_ready"
 published_at: "2021-01-06T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T23:22:34.016732+00:00"
+fetched_at: "2026-07-29T15:16:23.251342+00:00"
 content_hash: "sha256:a8b12fa5be9b672296705a0258fe3b29a3e24cefaa16a972100e92717ad2cb69"
 ---
 

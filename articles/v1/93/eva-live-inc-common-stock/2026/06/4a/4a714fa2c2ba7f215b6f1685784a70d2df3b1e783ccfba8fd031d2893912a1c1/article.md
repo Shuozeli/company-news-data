@@ -7,7 +7,7 @@ source_id: "eva-live-inc-common-stock-rss-fa36d30c6b04"
 canonical_url: "https://eva.live/eva-live-increases-ownership-interest-to-51-in-spiro-senior-living-following-successful-launch-of-initial-healthcare-and-technology-operations-tapping-1-3-trillion-dollar-industry/"
 published_at: "2026-06-12T06:00:00+00:00"
 first_seen_at: "2026-07-25T03:24:54.313623+00:00"
-fetched_at: "2026-07-28T23:38:42.811853+00:00"
+fetched_at: "2026-07-29T15:33:36.261466+00:00"
 content_hash: "sha256:56727d6660ec3bd010fcacb767ad254e5c857bcd1da2fb3a4f673b07475e943e"
 ---
 

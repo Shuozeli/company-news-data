@@ -7,7 +7,7 @@ source_id: "universal-corporation-common-stock-rss-4256e7879866"
 canonical_url: "https://investor.universalcorp.com/news/news-details/2026/Universal-Corporation-Announces-Quarterly-Dividend/default.aspx"
 published_at: "2026-02-04T21:15:00+00:00"
 first_seen_at: "2026-07-26T03:47:38.707820+00:00"
-fetched_at: "2026-07-29T00:03:22.248017+00:00"
+fetched_at: "2026-07-29T17:00:28.224576+00:00"
 content_hash: "sha256:0271d6f6527aa67e80fbdb41ae08277e32ae2ce950ac9d5ea4a847b7cdde302c"
 ---
 

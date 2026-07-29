@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-announces-first-quarter-2025-results"
 published_at: "2025-04-30T12:57:19+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:b32c0a1cf41aaba5719c74cd5c69f4505b59855ff07b930f0130811df01614a1"
 ---
 

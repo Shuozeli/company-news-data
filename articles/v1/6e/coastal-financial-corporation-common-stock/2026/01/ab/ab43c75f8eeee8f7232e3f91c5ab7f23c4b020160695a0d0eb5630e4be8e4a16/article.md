@@ -7,7 +7,7 @@ source_id: "coastal-financial-corporation-common-stock-rss-8da7af7b9245"
 canonical_url: "https://ir.coastalbank.com/news/press-releases/news-details/2026/Coastal-Financial-Corporation-Acquires-GreenFi-Brand-Expanding-Strategic-Flexibility/default.aspx"
 published_at: "2026-01-09T23:32:00+00:00"
 first_seen_at: "2026-07-25T01:44:15.371196+00:00"
-fetched_at: "2026-07-28T23:10:11.848400+00:00"
+fetched_at: "2026-07-29T14:53:28.285511+00:00"
 content_hash: "sha256:2526f5d60029c029514cf534580d6bb07b18c70d6bda40240d8e336b0bb4e0f1"
 ---
 

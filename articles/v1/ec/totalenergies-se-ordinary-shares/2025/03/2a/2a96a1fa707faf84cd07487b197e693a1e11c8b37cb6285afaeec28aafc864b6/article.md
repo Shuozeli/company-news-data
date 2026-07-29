@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-renforce-une-nouvelle-fois-ses-objectifs-de-reduction-demissions-des-progres-notables-encore-realises-en-2024/"
 published_at: "2025-03-27T13:44:58+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T23:24:39.102238+00:00"
+fetched_at: "2026-07-29T15:20:19.764825+00:00"
 content_hash: "sha256:ac30b21eae6e32f82a0903ec15d6aa5e74cc0a1e82a318ab342ebcab040ee830"
 ---
 

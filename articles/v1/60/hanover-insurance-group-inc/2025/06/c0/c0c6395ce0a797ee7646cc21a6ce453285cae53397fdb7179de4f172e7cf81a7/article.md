@@ -7,7 +7,7 @@ source_id: "hanover-insurance-group-inc-rss-d013cf553baa"
 canonical_url: "https://www.hanover.com/agents-and-brokers/agent-solutions/commercial-lines/plugged-tech-and-life-sciences/safeguarding"
 published_at: "2025-06-25T16:48:59+00:00"
 first_seen_at: "2026-07-25T07:33:50.288624+00:00"
-fetched_at: "2026-07-28T23:01:45.439004+00:00"
+fetched_at: "2026-07-29T14:38:42.024843+00:00"
 content_hash: "sha256:0ffcf5f6a7021e5e42b93a8c68e2aa7de06f41fa14df699177817d866d27a8f9"
 ---
 

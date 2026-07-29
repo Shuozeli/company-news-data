@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/no-show-reduction-with-ai-45-fewer-missed-appointments"
 published_at: "2026-07-20T11:44:19.177+00:00"
 first_seen_at: "2026-07-22T08:21:05.592812+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:6eeaa0a5e5ab90744396c930daa2ae8a8b5d7eb00e41a07d5f717510fe75a1d4"
 ---
 

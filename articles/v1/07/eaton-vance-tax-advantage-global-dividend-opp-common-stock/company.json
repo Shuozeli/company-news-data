@@ -4,13 +4,13 @@
     "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
     "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
   },
-  "record_count": 52,
+  "record_count": 72,
   "first_published_at": "2015-04-11T08:10:45+00:00",
   "last_published_at": "2026-07-25T01:46:13+00:00",
   "partitions": [
     {
       "partition": "2015-04",
-      "record_count": 43
+      "record_count": 63
     },
     {
       "partition": "2026-06",
@@ -22,7 +22,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -31,17 +31,17 @@
         "page": 1,
         "path": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 64423,
-        "sha256": "sha256:8075b0c6a9ad25b8efd785a044b32e1505ffdf4b3f932c9189b565925e578989",
+        "byte_count": 64823,
+        "sha256": "sha256:fc9a47c9796066e7cddbeafe07ad78c4f9c46185eb76fd896d87c676c03f3b91",
         "newest_at": "2026-07-25T01:46:13+00:00",
         "oldest_at": "2015-04-11T08:10:45+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/index/pages/000002.json",
-        "record_count": 2,
-        "byte_count": 2780,
-        "sha256": "sha256:c6deef1510fb414c1d45d47aa148acb92f66e73a389ba362d7b1800de205b352",
+        "record_count": 22,
+        "byte_count": 28375,
+        "sha256": "sha256:0aea8471d40bdc8d94dfce5f91fd48d198d1932843b12143466cb34c81583332",
         "newest_at": "2015-04-11T08:10:45+00:00",
         "oldest_at": "2015-04-11T08:10:45+00:00"
       }

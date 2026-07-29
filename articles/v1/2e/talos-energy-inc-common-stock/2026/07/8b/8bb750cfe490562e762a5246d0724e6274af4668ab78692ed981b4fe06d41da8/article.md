@@ -7,7 +7,7 @@ source_id: "talos-energy-inc-common-stock-rss-7720b01b3d18"
 canonical_url: "http://www.talosenergy.com/investor-relations/news/news-details/2026/Talos-Energy-Announces-Strategic-Offshore-Mexico-Development-Farm-In/default.aspx"
 published_at: "2026-07-27T20:15:00+00:00"
 first_seen_at: "2026-07-27T21:51:01.758153+00:00"
-fetched_at: "2026-07-28T23:21:35.754297+00:00"
+fetched_at: "2026-07-29T15:15:24.687475+00:00"
 content_hash: "sha256:8ffc5dd35857740d76314ca39e1e671cf557f41ac940fa933398df8c51162eaf"
 ---
 

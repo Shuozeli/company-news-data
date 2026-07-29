@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/the-real-cost-of-react-native-animations-benchmarking-every-approach"
 published_at: "2026-04-28T13:30:00+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:559f42e48842b906c19b33ba1935069b254a62e94fb2779151072d64fdd69d56"
 ---
 

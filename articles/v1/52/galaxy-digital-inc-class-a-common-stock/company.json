@@ -4,7 +4,7 @@
     "key": "galaxy-digital-inc-class-a-common-stock",
     "name": "Galaxy Digital Inc. Class A Common Stock"
   },
-  "record_count": 60,
+  "record_count": 61,
   "first_published_at": "2025-04-23T00:00:00+00:00",
   "last_published_at": "2026-07-28T11:00:00+00:00",
   "partitions": [
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 49
+      "record_count": 50
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -47,18 +47,18 @@
         "page": 1,
         "path": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 62311,
-        "sha256": "sha256:cf7df3896c92d38f9da92a9fbb7f1b3d8915eacab8017e4e42fc2b3d483d1100",
-        "newest_at": "2026-07-28T21:40:00.658555+00:00",
-        "oldest_at": "2026-06-25T00:00:00+00:00"
+        "byte_count": 63395,
+        "sha256": "sha256:b1c8e9b71a660ed721ee859f168a7da7bc45c73da9badf448aad1dbe2f8c03f6",
+        "newest_at": "2026-07-29T05:38:52.791866+00:00",
+        "oldest_at": "2026-07-06T20:30:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/52/galaxy-digital-inc-class-a-common-stock/index/pages/000002.json",
-        "record_count": 10,
-        "byte_count": 12825,
-        "sha256": "sha256:4be4924d6af42e8e28ba45fe17823f172f10105ef57ece237c74f15c6957a6cb",
-        "newest_at": "2026-06-02T11:00:00+00:00",
+        "record_count": 11,
+        "byte_count": 13865,
+        "sha256": "sha256:d21a63ea72c59db52d98b20269f06df4467a31626db0eb55a3f3a4509305287e",
+        "newest_at": "2026-06-25T00:00:00+00:00",
         "oldest_at": "2025-04-23T00:00:00+00:00"
       }
     ]

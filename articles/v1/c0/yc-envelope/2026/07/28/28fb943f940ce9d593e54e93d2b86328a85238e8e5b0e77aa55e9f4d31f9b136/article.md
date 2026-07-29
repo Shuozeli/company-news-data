@@ -7,7 +7,7 @@ source_id: "yc-envelope-news-import-bee3141ade7e"
 canonical_url: "https://envelopebudgeting.com/articles/virtual-card-for-subscriptions"
 published_at: "2026-07-14T00:00:00+00:00"
 first_seen_at: "2026-07-25T03:03:48.735463+00:00"
-fetched_at: "2026-07-28T08:18:38.346356+00:00"
+fetched_at: "2026-07-29T09:34:39.456546+00:00"
 content_hash: "sha256:6467286237d4b4fc45ee728210a7de3ba1156b79f84ac5e194a0b436b89908f1"
 ---
 

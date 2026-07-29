@@ -4,9 +4,9 @@
     "key": "porch-group-inc-common-stock",
     "name": "Porch Group Inc. Common Stock"
   },
-  "record_count": 27,
+  "record_count": 28,
   "first_published_at": "2025-11-10T14:00:00+00:00",
-  "last_published_at": "2026-07-22T13:38:00+00:00",
+  "last_published_at": "2026-07-28T14:10:00+00:00",
   "partitions": [
     {
       "partition": "2025-11",
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 12
+      "record_count": 13
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -46,9 +46,9 @@
       {
         "page": 1,
         "path": "articles/v1/3f/porch-group-inc-common-stock/index/pages/000001.json",
-        "record_count": 27,
-        "byte_count": 42517,
-        "sha256": "sha256:78d328d790bc831207b75e46d860fa013a527fdb9835a81bedb9d200f0a98b6b",
+        "record_count": 28,
+        "byte_count": 43663,
+        "sha256": "sha256:5afeda3ec18b3213c13b701e2fc9fe6d41cbaabae2f07501732fd25278181082",
         "newest_at": "2026-07-28T21:38:24.318832+00:00",
         "oldest_at": "2025-11-10T14:00:00+00:00"
       }

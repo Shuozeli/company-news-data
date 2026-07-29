@@ -7,7 +7,7 @@ source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html"
 published_at: "2026-07-28T23:23:20+00:00"
 first_seen_at: "2026-07-28T23:55:50.418024+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
+fetched_at: "2026-07-29T09:49:52.392820+00:00"
 content_hash: "sha256:d6429c412bde6a2166282577cd45a9d36da74552983e64969d8e703c51d6d845"
 ---
 

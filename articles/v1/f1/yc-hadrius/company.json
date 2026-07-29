@@ -4,14 +4,10 @@
     "key": "yc-hadrius",
     "name": "Hadrius"
   },
-  "record_count": 14,
-  "first_published_at": "2025-12-04T16:07:58.808+00:00",
-  "last_published_at": "2026-07-28T09:55:02.056+00:00",
+  "record_count": 15,
+  "first_published_at": "2026-01-02T15:13:13.808+00:00",
+  "last_published_at": "2026-07-28T19:16:14.547+00:00",
   "partitions": [
-    {
-      "partition": "2025-12",
-      "record_count": 5
-    },
     {
       "partition": "2026-01",
       "record_count": 1
@@ -22,11 +18,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 7
+      "record_count": 13
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -34,11 +30,11 @@
       {
         "page": 1,
         "path": "articles/v1/f1/yc-hadrius/index/pages/000001.json",
-        "record_count": 14,
-        "byte_count": 14376,
-        "sha256": "sha256:c115fbd3375f7dff7f8923e9ef750b95b31e124c8cb25ba9afd9581d240746b0",
-        "newest_at": "2026-07-28T09:55:02.056+00:00",
-        "oldest_at": "2025-12-04T16:07:58.808+00:00"
+        "record_count": 15,
+        "byte_count": 15451,
+        "sha256": "sha256:d2ecd04bef5ff4370b622e87201ea0d9a466b76dad3a8823d0a86f5bf2b5760d",
+        "newest_at": "2026-07-28T19:16:14.547+00:00",
+        "oldest_at": "2026-01-02T15:13:13.808+00:00"
       }
     ]
   }

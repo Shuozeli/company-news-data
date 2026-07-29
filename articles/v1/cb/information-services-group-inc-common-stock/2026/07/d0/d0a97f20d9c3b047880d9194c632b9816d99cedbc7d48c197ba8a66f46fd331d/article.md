@@ -7,7 +7,7 @@ source_id: "information-services-group-inc-common-stock-rss-538d49f51dc8"
 canonical_url: "https://ir.isg-one.com/news-market-information/press-releases/news-details/2026/German-Enterprises-Migrate-to-Software-Defined-Networks/default.aspx"
 published_at: "2026-07-28T08:00:00+00:00"
 first_seen_at: "2026-07-28T08:34:55.324503+00:00"
-fetched_at: "2026-07-29T00:12:12.558272+00:00"
+fetched_at: "2026-07-29T17:13:34.862522+00:00"
 content_hash: "sha256:c7c15cab599d1ca94dbf5967a5bb5eae3e0dbf81980b6085693a37f86a0b48ba"
 ---
 

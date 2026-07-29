@@ -7,7 +7,7 @@ source_id: "yc-envelope-news-import-bee3141ade7e"
 canonical_url: "https://envelopebudgeting.com/articles/sinking-fund-vs-emergency-fund"
 published_at: "2026-07-13T00:00:00+00:00"
 first_seen_at: "2026-07-25T03:03:48.735463+00:00"
-fetched_at: "2026-07-28T08:18:38.346356+00:00"
+fetched_at: "2026-07-29T09:34:39.456546+00:00"
 content_hash: "sha256:44b17e18f63d7b75417e589413f8d4252905c0989c8240975f2ef0ac4bdeb07b"
 ---
 

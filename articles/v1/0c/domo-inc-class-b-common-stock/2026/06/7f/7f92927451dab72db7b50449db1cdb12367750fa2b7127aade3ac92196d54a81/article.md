@@ -7,7 +7,7 @@ source_id: "domo-inc-class-b-common-stock-rss-298bf834a3f7"
 canonical_url: "https://www.domoinvestors.com/news/news-details/2026/Domo-and-Regional-One-Health-Solutions-Put-AI-to-Work-in-Healthcare-Operations-Built-on-AWS/default.aspx"
 published_at: "2026-06-03T13:01:00+00:00"
 first_seen_at: "2026-07-25T01:15:23.455293+00:00"
-fetched_at: "2026-07-29T00:50:19.785669+00:00"
+fetched_at: "2026-07-29T14:20:31.919281+00:00"
 content_hash: "sha256:269679856b18f8093c37e6cc307ee24eb27a87cefe27c0b58b7ce35495d4671c"
 ---
 

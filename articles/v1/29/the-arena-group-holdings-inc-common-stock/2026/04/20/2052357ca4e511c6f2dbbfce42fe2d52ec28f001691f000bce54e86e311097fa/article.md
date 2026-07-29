@@ -7,7 +7,7 @@ source_id: "the-arena-group-holdings-inc-common-stock-rss-9ea05f6be366"
 canonical_url: "https://www.businesswire.com/news/home/20260430208479/en/The-Arena-Group-Reschedules-Q1-2026-Earnings-Conference-Call-to-Monday-May-11-2026"
 published_at: "2026-04-30T23:00:34+00:00"
 first_seen_at: "2026-07-24T03:49:58.062520+00:00"
-fetched_at: "2026-07-28T23:55:45.666638+00:00"
+fetched_at: "2026-07-29T15:46:29.354113+00:00"
 content_hash: "sha256:0ec9314301805d5b5adc407b1b4d92d91cc5098ab4359b6c413427908cf571a5"
 ---
 

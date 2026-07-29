@@ -7,7 +7,7 @@ source_id: "yc-avocademy-atom-b6352a591443"
 canonical_url: "https://www.avocademy.com/blogs/the-guac/breaking-into-the-gaming-industry-as-a-ux-designer-a-comprehensive-guide"
 published_at: "2024-10-14T18:07:46+00:00"
 first_seen_at: "2026-07-24T17:49:57.508530+00:00"
-fetched_at: "2026-07-28T23:04:51.921253+00:00"
+fetched_at: "2026-07-29T14:44:26.733402+00:00"
 content_hash: "sha256:ed020728923215c23b517c5d3e7c0ecb304724803ef1eedcd3378f4b9a9889db"
 ---
 

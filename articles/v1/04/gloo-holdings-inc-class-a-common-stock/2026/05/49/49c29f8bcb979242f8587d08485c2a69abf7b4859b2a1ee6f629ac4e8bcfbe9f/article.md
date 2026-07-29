@@ -7,7 +7,7 @@ source_id: "gloo-holdings-inc-class-a-common-stock-news-import-83695c9a4b8a"
 canonical_url: "https://gloo.com/press/releases/ai-is-becoming-a-spiritual-authority-even-among-practicing-christians"
 published_at: "2026-05-20T00:00:00+00:00"
 first_seen_at: "2026-07-23T10:35:25.165423+00:00"
-fetched_at: "2026-07-28T17:20:13.644649+00:00"
+fetched_at: "2026-07-29T06:09:37.784067+00:00"
 content_hash: "sha256:1b0e7d0404693bb3ea4dec7287e0fa078fa834fbcdab94b89e8ddf7e0965f6b6"
 ---
 

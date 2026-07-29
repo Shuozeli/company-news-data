@@ -7,7 +7,7 @@ source_id: "badger-meter-inc-common-stock-rss-6149203c610d"
 canonical_url: "http://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Reports-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-04-17T12:30:00+00:00"
 first_seen_at: "2026-07-26T10:00:33.518201+00:00"
-fetched_at: "2026-07-28T23:01:13.731152+00:00"
+fetched_at: "2026-07-29T14:38:34.817744+00:00"
 content_hash: "sha256:3608045fbd90c3b967deedbc13691af9b76e5f375d2cf518e6ffa57df924f9c8"
 ---
 

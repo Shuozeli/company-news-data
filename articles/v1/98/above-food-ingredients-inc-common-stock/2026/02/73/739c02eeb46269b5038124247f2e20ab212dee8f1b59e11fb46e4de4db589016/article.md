@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-ingredients-inc-reporting-update/"
 published_at: "2026-02-17T21:23:38+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:b9932aaab1ccabfc8b4c7d737e5db871b1fdad627554abddffddf2582b5dab59"
 ---
 

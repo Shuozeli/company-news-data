@@ -7,7 +7,7 @@ source_id: "globant-s-a-common-shares-rss-bbac095d6884"
 canonical_url: "https://investors.globant.com/2026-06-11-US-Head-Coach-Mauricio-Pochettino-chooses-Globants-Coaching-Platform,-Sportian-Performance,-for-team-analytics-and-real-time-decision-making"
 published_at: "2026-06-11T14:48:00+00:00"
 first_seen_at: "2026-07-20T03:32:47.727843+00:00"
-fetched_at: "2026-07-28T23:27:23.002786+00:00"
+fetched_at: "2026-07-29T15:22:37.836313+00:00"
 content_hash: "sha256:b14a924a869d38ec714554447c6471b145163730eef850212c23d471dcb4262c"
 ---
 

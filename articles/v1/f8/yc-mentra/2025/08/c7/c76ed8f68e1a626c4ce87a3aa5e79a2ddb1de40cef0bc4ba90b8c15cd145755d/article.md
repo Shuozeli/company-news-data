@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/august-22-community-update"
 published_at: "2025-08-22T11:05:00+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T23:47:18.716244+00:00"
+fetched_at: "2026-07-29T15:41:05.701886+00:00"
 content_hash: "sha256:6d3bd688295c8e0205aa1d6faee250ba0324c81bd6ae16e3c24905cc56be9408"
 ---
 

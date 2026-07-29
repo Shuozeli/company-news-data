@@ -7,7 +7,7 @@ source_id: "kimbell-royalty-partners-common-units-representing-limited-partner-i
 canonical_url: "https://kimbellrp.investorroom.com/2026-07-17-Kimbell-Royalty-Partners,-LP-Announces-215-4-Million-Drop-Down-Acquisition"
 published_at: "2026-07-17T12:00:00+00:00"
 first_seen_at: "2026-07-25T10:49:16.934746+00:00"
-fetched_at: "2026-07-28T22:13:50.769502+00:00"
+fetched_at: "2026-07-29T14:22:09.092066+00:00"
 content_hash: "sha256:16a46d265ac2a877d15f2a966bb8ad23ff463960bf04eaf1663df947544d206d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "moderna-inc-common-stock-rss-ffb730a7f05d"
 canonical_url: "https://news.modernatx.com/statements-perspectives/joint-statement-from-moderna-and-takeda-on-the-investigation-of-suspended-lots-of-modernas-covid-19-vaccine-in-japan"
 published_at: "2021-09-01T22:04:53+00:00"
 first_seen_at: "2026-07-20T03:33:23.394172+00:00"
-fetched_at: "2026-07-28T23:33:38.008859+00:00"
+fetched_at: "2026-07-29T15:29:46.414087+00:00"
 content_hash: "sha256:60cb772ed2ceb1b6e6d51e3091cd6bfe9bf5794968c552db3bdbf076bcffef96"
 ---
 

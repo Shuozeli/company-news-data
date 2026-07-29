@@ -7,7 +7,7 @@ source_id: "yc-function-of-beauty-atom-d26e5db07ffe"
 canonical_url: "https://functionofbeauty.com/blogs/blog/how-we-function-personalized-hair-care-backed-by-hair-science"
 published_at: "2023-12-15T05:00:00+00:00"
 first_seen_at: "2026-07-25T05:58:14.554793+00:00"
-fetched_at: "2026-07-28T23:52:13.231352+00:00"
+fetched_at: "2026-07-29T17:00:02.000921+00:00"
 content_hash: "sha256:e4ce155122f969c2ec9e633bd845d1a6085172cc1b1d2ffc23812ca2dac2f9e5"
 ---
 

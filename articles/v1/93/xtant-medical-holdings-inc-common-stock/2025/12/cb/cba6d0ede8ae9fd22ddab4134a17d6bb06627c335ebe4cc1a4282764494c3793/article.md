@@ -7,7 +7,7 @@ source_id: "xtant-medical-holdings-inc-common-stock-rss-9d2c31a6f4f3"
 canonical_url: "https://xtantmedical.com/xtant-medical-announces-commercial-launch-of-its-next-generation-nanoss-strata-synthetic-bone-graft/"
 published_at: "2025-12-12T17:19:54+00:00"
 first_seen_at: "2026-07-24T07:40:41.821257+00:00"
-fetched_at: "2026-07-28T23:32:47.362435+00:00"
+fetched_at: "2026-07-29T15:29:17.337291+00:00"
 content_hash: "sha256:39614efce8cc7b64f2849408c682399e125f425df52d399b3a6e99b99e0863c4"
 ---
 

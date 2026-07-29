@@ -7,7 +7,7 @@ source_id: "arrow-electronics-inc-common-stock-rss-ccc92a609f92"
 canonical_url: "https://news.arrow.com/news-releases/news-details/2026/Arrow-Electronics-Works-with-STMicroelectronics-to-Accelerate-Industrial-AMR-Development-with-a-New-Reference-Platform-/default.aspx"
 published_at: "2026-06-22T10:00:00+00:00"
 first_seen_at: "2026-07-25T01:02:49.134971+00:00"
-fetched_at: "2026-07-29T00:27:07.929144+00:00"
+fetched_at: "2026-07-29T13:52:14.990181+00:00"
 content_hash: "sha256:5e2d74b834d4f94b3967b3f498987ced0a8bb9b972c640eb7feae2cbdc4b6ad5"
 ---
 

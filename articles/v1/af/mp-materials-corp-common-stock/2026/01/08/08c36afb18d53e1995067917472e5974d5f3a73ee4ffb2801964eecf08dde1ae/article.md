@@ -7,7 +7,7 @@ source_id: "mp-materials-corp-common-stock-rss-dfaffb3e61ed"
 canonical_url: "https://investors.mpmaterials.com/investor-news/news-details/2026/MP-Materials-Announces-Date-for-Fourth-Quarter-2025-Financial-Results-and-Webcast/default.aspx"
 published_at: "2026-01-29T21:05:00+00:00"
 first_seen_at: "2026-07-25T15:05:41.685551+00:00"
-fetched_at: "2026-07-28T23:32:37.452291+00:00"
+fetched_at: "2026-07-29T15:29:42.807171+00:00"
 content_hash: "sha256:f12695c5b3a5677c59cbb5b426c02d079ca231026af93e596bf197dce4a3c258"
 ---
 

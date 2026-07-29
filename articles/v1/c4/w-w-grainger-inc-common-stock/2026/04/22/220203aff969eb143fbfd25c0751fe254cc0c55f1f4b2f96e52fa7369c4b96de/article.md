@@ -7,7 +7,7 @@ source_id: "w-w-grainger-inc-common-stock-rss-c26f5457af09"
 canonical_url: "https://pressroom.grainger.com/news/press-release-details/2026/GRAINGER-INCREASES-QUARTERLY-DIVIDEND-BY-10/default.aspx"
 published_at: "2026-04-29T15:30:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.900782+00:00"
-fetched_at: "2026-07-29T00:24:15.617790+00:00"
+fetched_at: "2026-07-29T17:23:54.969525+00:00"
 content_hash: "sha256:ff30ad177019e972ecd10167473f2cc98d73d96d38ef7a0da488f36d2e7a24dd"
 ---
 

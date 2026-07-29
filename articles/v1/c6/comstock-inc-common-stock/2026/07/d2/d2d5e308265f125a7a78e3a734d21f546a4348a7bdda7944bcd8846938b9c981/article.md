@@ -7,7 +7,7 @@ source_id: "comstock-inc-common-stock-rss-459d1d0927c7"
 canonical_url: "https://comstock.inc/investor-update/watch-comstock-metals-robotic-arms-feed-solar-panels-onto-conveyance-system/"
 published_at: "2026-07-07T13:35:39+00:00"
 first_seen_at: "2026-07-20T23:18:13.531039+00:00"
-fetched_at: "2026-07-29T00:30:36.127340+00:00"
+fetched_at: "2026-07-29T13:57:42.719246+00:00"
 content_hash: "sha256:493ac5269a82d20a6067f7ab218b4f0575b4e99876e9d312b0ecc71134597ace"
 ---
 

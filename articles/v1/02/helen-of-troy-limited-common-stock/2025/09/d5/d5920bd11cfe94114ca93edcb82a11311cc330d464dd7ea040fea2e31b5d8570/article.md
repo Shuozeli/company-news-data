@@ -7,7 +7,7 @@ source_id: "helen-of-troy-limited-common-stock-rss-828c87400604"
 canonical_url: "https://investor.helenoftroy.com/press-releases/press-release-details/2025/Helen-of-Troy-Limited-Announces-Earnings-Release-Date-Conference-Call-and-Webcast-for-Second-Quarter-Fiscal-Year-2026-Results/default.aspx"
 published_at: "2025-09-18T20:05:00+00:00"
 first_seen_at: "2026-07-25T07:53:28.497791+00:00"
-fetched_at: "2026-07-28T23:46:26.812439+00:00"
+fetched_at: "2026-07-29T15:41:33.733030+00:00"
 content_hash: "sha256:f5dd5c4c94ff633d035752f24f628cbd89ae7a3ecd4adcb98bb64ade6281a16d"
 ---
 

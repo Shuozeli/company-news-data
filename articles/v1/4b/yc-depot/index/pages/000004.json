@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 4,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "add395209b7af8f58b042a1fbf6984163fc6573876c6783dd3c5e04fc31eefad",
+      "company_key": "yc-depot",
+      "company_name": "Depot",
+      "source_id": "yc-depot-rss-ed70a28fffeb",
+      "source_kind": "rss",
+      "canonical_url": "https://depot.dev/blog/rust-dockerfile-best-practices",
+      "title": "Best practice Dockerfile for speedy Rust builds",
+      "summary": "Rust builds in Docker tend to be slow. This article shows how to drastically speed them up using Docker layer caching and more advanced techniques like sccache.",
+      "published_at": "2024-04-19T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:25:56.819128+00:00",
+      "article_path": "articles/v1/4b/yc-depot/2024/04/ad/add395209b7af8f58b042a1fbf6984163fc6573876c6783dd3c5e04fc31eefad/article.md",
+      "record_path": "articles/v1/4b/yc-depot/2024/04/ad/add395209b7af8f58b042a1fbf6984163fc6573876c6783dd3c5e04fc31eefad/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "b7de92800eacde58a62ffbb9d22c81dde4d65e5eb8717b3872259c04fcff5c8a",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T21:02:21.428828+00:00",
       "article_path": "articles/v1/4b/yc-depot/2023/03/d4/d4bb76994352d5460ec35a25cc515e4896c50f40bb6e78550b39e32cf71c0d9d/article.md",
       "record_path": "articles/v1/4b/yc-depot/2023/03/d4/d4bb76994352d5460ec35a25cc515e4896c50f40bb6e78550b39e32cf71c0d9d/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "7d4cf10d9b62812733e6d28a3419fccc442353e47a52c3a9f985ef00ef64a136",
-      "company_key": "yc-depot",
-      "company_name": "Depot",
-      "source_id": "yc-depot-rss-ed70a28fffeb",
-      "source_kind": "rss",
-      "canonical_url": "https://depot.dev/blog/turbo-builders",
-      "title": "Turbo Builders are now available",
-      "summary": "Fast image builds just got even faster with the introduction of bigger builder machines that have 4x the compute power.",
-      "published_at": "2023-02-24T00:00:00+00:00",
-      "fetched_at": "2026-07-28T21:02:31.747135+00:00",
-      "article_path": "articles/v1/4b/yc-depot/2023/02/7d/7d4cf10d9b62812733e6d28a3419fccc442353e47a52c3a9f985ef00ef64a136/article.md",
-      "record_path": "articles/v1/4b/yc-depot/2023/02/7d/7d4cf10d9b62812733e6d28a3419fccc442353e47a52c3a9f985ef00ef64a136/record.json"
     }
   ]
 }

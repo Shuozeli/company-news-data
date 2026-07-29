@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/the-missing-control-layer-for-ai"
 published_at: "2026-03-26T16:04:47+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T22:57:17.651461+00:00"
+fetched_at: "2026-07-29T14:31:05.567422+00:00"
 content_hash: "sha256:7cb4ce2a287dc977acc327a7a42e38a35e1a370803ed2a0d5365ca0febb568ad"
 ---
 

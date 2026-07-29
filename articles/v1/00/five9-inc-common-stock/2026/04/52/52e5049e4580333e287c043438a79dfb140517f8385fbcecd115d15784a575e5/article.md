@@ -7,7 +7,7 @@ source_id: "five9-inc-common-stock-rss-8477dcdb899e"
 canonical_url: "https://www.five9.com/registration/2026/quality-scale-how-gen-ai-powered-quality-management-transforms-every-agent-0"
 published_at: "2026-04-08T18:47:10+00:00"
 first_seen_at: "2026-07-20T23:21:52.950221+00:00"
-fetched_at: "2026-07-28T23:20:01.419019+00:00"
+fetched_at: "2026-07-29T15:09:57.217849+00:00"
 content_hash: "sha256:5f8339e3b62153b1730db1766de07115284f476dcf7ceb906e8546f210478970"
 ---
 

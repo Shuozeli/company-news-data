@@ -7,7 +7,7 @@ source_id: "madison-square-garden-entertainment-corp-class-a-common-stock-rss-5f
 canonical_url: "https://investor.msgentertainment.com/news/news-details/2026/MSG-Entertainment-and-Sphere-Entertainment-Name-Allen-Lo-Executive-Vice-President-Chief-Legal-Officer/default.aspx"
 published_at: "2026-03-18T15:00:00+00:00"
 first_seen_at: "2026-07-25T12:57:48.415898+00:00"
-fetched_at: "2026-07-29T00:29:31.997448+00:00"
+fetched_at: "2026-07-29T13:56:23.365114+00:00"
 content_hash: "sha256:0037abfbf4ca45c086282cfc23e21bc3ee46ed8269ee5312616fd171b9703e9f"
 ---
 

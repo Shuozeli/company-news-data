@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "2f481d98796dfe08a899ec6bad4c73352a8853867017fd79461b69bbf128a730",
+      "company_key": "yc-depot",
+      "company_name": "Depot",
+      "source_id": "yc-depot-rss-ed70a28fffeb",
+      "source_kind": "rss",
+      "canonical_url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+      "title": "GitHub is the wrong shape for this new world",
+      "summary": "GitHub isn't just falling short on performance and reliability. The whole collaboration paradigm is the wrong shape for how we build software now.",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "fetched_at": "2026-07-29T13:10:00.743032+00:00",
+      "article_path": "articles/v1/4b/yc-depot/2026/07/2f/2f481d98796dfe08a899ec6bad4c73352a8853867017fd79461b69bbf128a730/article.md",
+      "record_path": "articles/v1/4b/yc-depot/2026/07/2f/2f481d98796dfe08a899ec6bad4c73352a8853867017fd79461b69bbf128a730/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "2309b748e0b2605d50d33adb89692463c8eb87b6ba1c51932ff68dff5aef2494",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T20:55:05.658267+00:00",
       "article_path": "articles/v1/4b/yc-depot/2025/12/d9/d98e38b1f60a79067962a6754fcb6a6995b13d946355199fe15173eddc2a8780/article.md",
       "record_path": "articles/v1/4b/yc-depot/2025/12/d9/d98e38b1f60a79067962a6754fcb6a6995b13d946355199fe15173eddc2a8780/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "c40e4054eef0c3aceb9061e1339a44ab0bd99d43159bc5ceca13cead73bbfd82",
-      "company_key": "yc-depot",
-      "company_name": "Depot",
-      "source_id": "yc-depot-rss-ed70a28fffeb",
-      "source_kind": "rss",
-      "canonical_url": "https://depot.dev/blog/planetscale-to-reduce-the-thundering-herd",
-      "title": "Scaling Depot: Solving a thundering herd problem",
-      "summary": "When upstream systems fail, retries pile up fast and your database becomes the bottleneck. Here's how we used PlanetScale's Insights to identify and fix the queries that were slowing us down during thundering herd events.",
-      "published_at": "2025-11-21T00:00:00+00:00",
-      "fetched_at": "2026-07-28T21:58:34.938322+00:00",
-      "article_path": "articles/v1/4b/yc-depot/2025/11/c4/c40e4054eef0c3aceb9061e1339a44ab0bd99d43159bc5ceca13cead73bbfd82/article.md",
-      "record_path": "articles/v1/4b/yc-depot/2025/11/c4/c40e4054eef0c3aceb9061e1339a44ab0bd99d43159bc5ceca13cead73bbfd82/record.json"
     }
   ]
 }

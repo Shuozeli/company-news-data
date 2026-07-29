@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/how-add-in-store-card-payments-to-a-pos-app"
 published_at: "2026-07-01T13:30:44+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:ab243a9f58f193e44618c253a407b34ffc2181761ec6e27ab6245151ae1f104e"
 ---
 

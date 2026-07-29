@@ -7,7 +7,7 @@ source_id: "agilent-technologies-inc-common-stock-rss-729b0e525b41"
 canonical_url: "https://www.investor.agilent.com/news-and-events/news/news-details/2026/Agilent-Expands-Altura-Portfolio-with-Inert-Size-Exclusion-and-PLRP-S-Columns-for-Biotherapeutic-Analysis/default.aspx"
 published_at: "2026-07-08T12:00:00+00:00"
 first_seen_at: "2026-07-26T21:59:06.916476+00:00"
-fetched_at: "2026-07-28T23:23:43.349748+00:00"
+fetched_at: "2026-07-29T15:19:28.992512+00:00"
 content_hash: "sha256:90bbbd9f22909dacdcc9fd09b891c2c01093d74425eeb1eab5a6c1a37f076143"
 ---
 

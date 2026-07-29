@@ -7,7 +7,7 @@ source_id: "one-gas-inc-common-stock-rss-aa9bfc293deb"
 canonical_url: "https://www.onegas.com/news/press-release-details/2026/ONE-Gas-Adds-New-Member-to-Board-of-Directors/default.aspx"
 published_at: "2026-07-13T20:15:00+00:00"
 first_seen_at: "2026-07-25T17:25:35.745524+00:00"
-fetched_at: "2026-07-28T23:17:19.673637+00:00"
+fetched_at: "2026-07-29T15:07:38.629718+00:00"
 content_hash: "sha256:0bfb6a28d7aff5ae225f99434613ece85a47b59e2aa2d3fb6700d4a8a481e377"
 ---
 

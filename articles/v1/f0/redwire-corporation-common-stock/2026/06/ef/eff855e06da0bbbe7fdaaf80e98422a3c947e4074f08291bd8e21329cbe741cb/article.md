@@ -7,7 +7,7 @@ source_id: "redwire-corporation-common-stock-rss-a3eb383a60df"
 canonical_url: "https://rdw.com/newsroom/redwire-and-the-space-infrastructure-boom/"
 published_at: "2026-06-15T18:47:06+00:00"
 first_seen_at: "2026-07-20T23:18:23.159838+00:00"
-fetched_at: "2026-07-29T00:26:21.020535+00:00"
+fetched_at: "2026-07-29T13:53:17.847231+00:00"
 content_hash: "sha256:6cf84a0c4d603c7203524ffaf570da2dd2c5df2350bba775e11541c0ad60fe91"
 ---
 

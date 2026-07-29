@@ -7,7 +7,7 @@ source_id: "quantum-si-incorporated-class-a-common-stock-rss-5dc339ba7c8c"
 canonical_url: "https://www.quantum-si.com/news/quantum-si-inks-deals-for-development-of-new-proteomics-platform-distribution-agreement/"
 published_at: "2024-11-20T16:45:43+00:00"
 first_seen_at: "2026-07-25T01:13:17.793514+00:00"
-fetched_at: "2026-07-28T22:13:28.896883+00:00"
+fetched_at: "2026-07-29T14:21:25.250350+00:00"
 content_hash: "sha256:d50a91545c52cb3153a062943cd61293e53683eabeeaa47f56bb9ed2b5796cbe"
 ---
 

@@ -7,7 +7,7 @@ source_id: "kura-oncology-inc-common-stock-rss-1f69cfa245ee"
 canonical_url: "https://ordinarily-extraordinary.com/episode-121-kathy-ford/"
 published_at: "2023-12-21T01:13:01+00:00"
 first_seen_at: "2026-07-25T11:07:49.723778+00:00"
-fetched_at: "2026-07-28T23:32:32.764926+00:00"
+fetched_at: "2026-07-29T15:28:46.754084+00:00"
 content_hash: "sha256:fb1459a78e4ec9408833e9fb7d801a5cd36e3fcd3c1de40fd06719855a1fe306"
 ---
 

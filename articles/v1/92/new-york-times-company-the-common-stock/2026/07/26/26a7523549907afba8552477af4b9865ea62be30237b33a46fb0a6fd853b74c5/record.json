@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26a7523549907afba8552477af4b9865ea62be30237b33a46fb0a6fd853b74c5",
+  "company": {
+    "key": "new-york-times-company-the-common-stock",
+    "name": "New York Times Company (The) Common Stock"
+  },
+  "source": {
+    "id": "new-york-times-company-the-common-stock-rss-077dcf020701",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.nytimes.com/2026/07/29/us/politics/obama-endorses-turek-iowa-senate.html",
+    "canonical": "https://www.nytimes.com/2026/07/29/us/politics/obama-endorses-turek-iowa-senate.html"
+  },
+  "title": "Obama Endorses Josh Turek in Iowa Senate Race With Basketball Video",
+  "summary": "The former president is trying to help Josh Turek net a Senate seat in Iowa, which Democrats see as one of their best pickup opportunities of the midterms.",
+  "published_at": "2026-07-29T16:02:26+00:00",
+  "first_seen_at": "2026-07-29T16:58:26.302568+00:00",
+  "fetched_at": "2026-07-29T16:58:26.253636+00:00",
+  "last_updated_at": "2026-07-29T16:58:26.302568+00:00",
+  "paths": {
+    "article": "articles/v1/92/new-york-times-company-the-common-stock/2026/07/26/26a7523549907afba8552477af4b9865ea62be30237b33a46fb0a6fd853b74c5/article.md",
+    "record": "articles/v1/92/new-york-times-company-the-common-stock/2026/07/26/26a7523549907afba8552477af4b9865ea62be30237b33a46fb0a6fd853b74c5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 847,
+    "sha256": "sha256:cc01a3e1809ea05865d2874b63fcccb30956d7d0daf6e61e930df50b58db87c7",
+    "normalized_content_hash": "sha256:7df712f5266689431bafacadcfa488d4fc61d04e9c52db764c205f9e45b119a5"
+  },
+  "provenance": {
+    "source_item_id": "62ba3dc4-ead9-4a9f-8c1a-a9d85f934b18",
+    "external_id": "https://www.nytimes.com/2026/07/29/us/politics/obama-endorses-turek-iowa-senate.html"
+  }
+}

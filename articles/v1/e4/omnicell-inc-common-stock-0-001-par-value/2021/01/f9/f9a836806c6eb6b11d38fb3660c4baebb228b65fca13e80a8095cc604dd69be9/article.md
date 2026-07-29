@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2021/Omnicell-to-Partner-with-Guys-and-St-Thomas-NHS-Foundation-Trust-London-on-Development-of-European-Technology-Enabled-Intelligence-Centre-as-Part-of-Expansion-of-Omnicell-Systems-Across-the-South-East-London-NHS-Integrated-Care-System/default.aspx"
 published_at: "2021-01-04T05:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:9ac4fb1fe7e9f657521dfa2b54afb86398a9eed796c25e1f964304cbe5c2f1a7"
 ---
 

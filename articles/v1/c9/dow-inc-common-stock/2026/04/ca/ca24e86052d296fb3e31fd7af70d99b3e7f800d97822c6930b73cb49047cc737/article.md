@@ -7,7 +7,7 @@ source_id: "dow-inc-common-stock-rss-a764c88a6383"
 canonical_url: "https://investors.dow.com/en/news/news-details/2026/Dow-announces-results-from-2026-Annual-Stockholder-Meeting/default.aspx"
 published_at: "2026-04-09T20:15:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.067378+00:00"
-fetched_at: "2026-07-29T00:19:09.815212+00:00"
+fetched_at: "2026-07-29T17:19:00.396962+00:00"
 content_hash: "sha256:d998a6c2465490fa89d80f953643d0809a45f49385b3f18070bfab05716bc433"
 ---
 

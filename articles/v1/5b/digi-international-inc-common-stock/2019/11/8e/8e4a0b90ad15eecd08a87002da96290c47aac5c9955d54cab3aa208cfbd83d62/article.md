@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2019/digi-xbee-tools-wins-the-minnesota-tekne-award"
 published_at: "2019-11-21T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:c5bd14a1ab06c8390e5abee8e79a761a727240c68fe446126b7e674fbe9ef187"
 ---
 

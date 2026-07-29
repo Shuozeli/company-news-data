@@ -7,7 +7,7 @@ source_id: "southern-missouri-bancorp-inc-common-stock-rss-72d06b4e31ef"
 canonical_url: "https://investors.bankwithsouthern.com/news-events/news/news-details/2025/SOUTHERN-MISSOURI-BANCORP-ANNOUNCES-UPDATE-TO-ITS-EXECUTIVE-LEADERSHIP-TEAM/default.aspx"
 published_at: "2025-03-31T22:00:00+00:00"
 first_seen_at: "2026-07-25T23:51:15.966166+00:00"
-fetched_at: "2026-07-29T00:18:31.369155+00:00"
+fetched_at: "2026-07-29T17:20:19.550509+00:00"
 content_hash: "sha256:f22a10aba380285a777bc2851023bb09cb3079f4e99020e4b35b85ff595227de"
 ---
 

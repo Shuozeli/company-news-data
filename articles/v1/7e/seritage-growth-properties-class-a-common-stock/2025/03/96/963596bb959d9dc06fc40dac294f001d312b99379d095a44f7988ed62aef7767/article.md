@@ -7,7 +7,7 @@ source_id: "seritage-growth-properties-class-a-common-stock-rss-1c239fbd4158"
 canonical_url: "http://ir.seritage.com/news/news-details/2025/Seritage-Growth-Properties-Reports-Fourth-Quarter-and-Full-Year-2024-Operating-Results/default.aspx"
 published_at: "2025-03-31T21:01:00+00:00"
 first_seen_at: "2026-07-25T22:45:02.956321+00:00"
-fetched_at: "2026-07-28T23:15:49.604619+00:00"
+fetched_at: "2026-07-29T15:05:56.184331+00:00"
 content_hash: "sha256:c541f993a47c6da5709b457190e0b11692090da3fcc8049f1bfaa94450b55174"
 ---
 

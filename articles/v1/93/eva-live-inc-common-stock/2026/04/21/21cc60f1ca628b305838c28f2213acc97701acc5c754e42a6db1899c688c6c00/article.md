@@ -7,7 +7,7 @@ source_id: "eva-live-inc-common-stock-rss-fa36d30c6b04"
 canonical_url: "https://eva.live/eva-live-inc-nasdaq-goai-launches-eva-brain-a-fully-autonomous-ai-marketing-agent-designed-to-replace-traditional-advertising-agencies/"
 published_at: "2026-04-28T06:00:00+00:00"
 first_seen_at: "2026-07-25T03:24:54.313623+00:00"
-fetched_at: "2026-07-28T23:38:42.811853+00:00"
+fetched_at: "2026-07-29T15:33:36.261466+00:00"
 content_hash: "sha256:d58157d7dd2b39c50b27b27369d9f3db0d0e053913e76585d03a81a41af57688"
 ---
 

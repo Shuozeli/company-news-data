@@ -7,7 +7,7 @@ source_id: "mplx-lp-common-units-representing-limited-partner-interests-rss-4a76
 canonical_url: "https://ir.mplx.com/CorporateProfile/press-releases/news-release/2026/MPLX-LP-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-02-03T11:30:00+00:00"
 first_seen_at: "2026-07-27T10:42:09.203732+00:00"
-fetched_at: "2026-07-28T23:22:24.820605+00:00"
+fetched_at: "2026-07-29T15:16:29.129767+00:00"
 content_hash: "sha256:c8c67e07a8360bacaf8df80a75883603e47cbc61a0bcccb5cdcd84269a3f49c4"
 ---
 

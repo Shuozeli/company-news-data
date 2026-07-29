@@ -7,7 +7,7 @@ source_id: "bankwell-financial-group-inc-common-stock-rss-1ef95c736e2a"
 canonical_url: "https://investor.mybankwell.com/news/news-details/2025/Bankwell-Financial-Group-Reports-Operating-Results-for-the-Second-Quarter-Declares-Third-Quarter-Dividend/default.aspx"
 published_at: "2025-07-28T11:00:00+00:00"
 first_seen_at: "2026-07-26T23:30:25.495462+00:00"
-fetched_at: "2026-07-28T22:54:09.887470+00:00"
+fetched_at: "2026-07-29T14:24:35.579201+00:00"
 content_hash: "sha256:dc2c73efac818818bed79679c3b395e1023c229d0db329c2489aaa9800821fb9"
 ---
 

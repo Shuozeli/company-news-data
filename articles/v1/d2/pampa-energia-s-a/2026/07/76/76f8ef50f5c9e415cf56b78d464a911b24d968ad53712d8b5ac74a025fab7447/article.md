@@ -7,7 +7,7 @@ source_id: "pampa-energia-s-a-news-import-098327c819ca"
 canonical_url: "https://ri.pampa.com/en/press-release/rincon-de-aranda-rda-project-approved-under-argentinas-incentive-regime-for-large-investments-rigi/"
 published_at: "2026-07-21T12:36:20+00:00"
 first_seen_at: "2026-07-23T19:46:40.359057+00:00"
-fetched_at: "2026-07-28T14:31:20.889256+00:00"
+fetched_at: "2026-07-29T03:32:23.076900+00:00"
 content_hash: "sha256:20a456d436ecb05628f25bc0687b430a3ec55af4b84aa3bb8dce241585d052ce"
 ---
 

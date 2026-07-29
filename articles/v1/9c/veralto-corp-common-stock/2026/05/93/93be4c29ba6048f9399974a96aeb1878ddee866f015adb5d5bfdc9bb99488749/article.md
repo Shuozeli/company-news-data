@@ -7,7 +7,7 @@ source_id: "veralto-corp-common-stock-rss-061472cdeea0"
 canonical_url: "https://investors.veralto.com/2026-05-27-Veralto-Announces-Pricing-of-Senior-Notes-Offering"
 published_at: "2026-05-27T21:20:00+00:00"
 first_seen_at: "2026-07-20T03:31:18.742713+00:00"
-fetched_at: "2026-07-28T22:15:54.927830+00:00"
+fetched_at: "2026-07-29T14:22:33.213156+00:00"
 content_hash: "sha256:410a14ff84ec65fd640ef93ceb70ca9ab572063210ea0927cb6b4cb06ea0f1ab"
 ---
 

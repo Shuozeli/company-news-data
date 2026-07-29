@@ -7,7 +7,7 @@ source_id: "smartfinancial-inc-common-stock-rss-adbb4269f35c"
 canonical_url: "https://www.smartfinancialinc.com/news-market-information/press-releases/news-details/2026/SmartFinancial-Approves-Regular-Quarterly-Cash-Dividend/default.aspx"
 published_at: "2026-04-30T21:00:00+00:00"
 first_seen_at: "2026-07-25T23:24:32.337260+00:00"
-fetched_at: "2026-07-28T23:39:10.971647+00:00"
+fetched_at: "2026-07-29T15:34:00.599456+00:00"
 content_hash: "sha256:def0524c029d5fe0bfd78b7e86bb028e06a10c72d161731fb81922ce9ae95f44"
 ---
 

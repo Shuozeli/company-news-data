@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/patrick-pouyanne-pdg-tres-politique-de-totalenergies-la-crise-petroliere-lui-va-si-bien/"
 published_at: "2026-05-28T15:37:16+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-29T00:33:16.098879+00:00"
+fetched_at: "2026-07-29T13:59:20.653816+00:00"
 content_hash: "sha256:f26aac286f3fa4704629543d02b1c4a8202bdda51b054dec2d06dc56578608cd"
 ---
 

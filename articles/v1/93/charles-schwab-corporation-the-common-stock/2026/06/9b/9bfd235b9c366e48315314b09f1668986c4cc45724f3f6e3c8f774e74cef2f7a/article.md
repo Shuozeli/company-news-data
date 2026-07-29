@@ -7,7 +7,7 @@ source_id: "charles-schwab-corporation-the-common-stock-rss-2a4eae788bb7"
 canonical_url: "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Charles-Schwab-Recognized-Among-Nations-Most-Community-Minded-Companies-for-10th-Consecutive-Year/default.aspx"
 published_at: "2026-06-23T12:30:00+00:00"
 first_seen_at: "2026-07-25T01:17:37.258476+00:00"
-fetched_at: "2026-07-28T22:55:17.996619+00:00"
+fetched_at: "2026-07-29T14:29:15.569604+00:00"
 content_hash: "sha256:6a95d180fccbd48eb1dc4d748a0edf360ec834e9a8d5b149c9581a6d68acfcf4"
 ---
 

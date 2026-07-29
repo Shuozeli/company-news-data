@@ -7,7 +7,7 @@ source_id: "carvana-co-class-a-common-stock-rss-3df81febfc1a"
 canonical_url: "https://investors.carvana.com/news-releases/2026/04-29-2026-210512659"
 published_at: "2026-04-29T21:05:00+00:00"
 first_seen_at: "2026-07-27T00:28:15.303151+00:00"
-fetched_at: "2026-07-29T00:31:22.163537+00:00"
+fetched_at: "2026-07-29T13:58:13.488882+00:00"
 content_hash: "sha256:a14598ef7ff3bd7d64cab261e5ede7163d7a8b3f2f0e9fb6aba789d2d5e5b112"
 ---
 

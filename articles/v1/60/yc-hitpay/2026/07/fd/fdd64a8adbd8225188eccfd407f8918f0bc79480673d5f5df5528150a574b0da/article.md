@@ -7,7 +7,7 @@ source_id: "yc-hitpay-news-import-8b4a406bcaf9"
 canonical_url: "https://hitpayapp.com/blog/card-payment-gateways-philippines-comparison"
 published_at: "2026-07-21T00:00:00+00:00"
 first_seen_at: "2026-07-25T08:10:54.825285+00:00"
-fetched_at: "2026-07-27T23:06:37.571662+00:00"
+fetched_at: "2026-07-29T14:53:21.030636+00:00"
 content_hash: "sha256:5c8cabb169da849837e49e66d1f5ae2ffd63d1fe80f0dd0fbf9785f2248648e3"
 ---
 

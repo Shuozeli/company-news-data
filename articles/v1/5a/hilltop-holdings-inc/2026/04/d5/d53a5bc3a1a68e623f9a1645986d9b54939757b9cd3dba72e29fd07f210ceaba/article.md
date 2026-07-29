@@ -7,7 +7,7 @@ source_id: "hilltop-holdings-inc-rss-9cdb75ae5162"
 canonical_url: "https://ir.hilltop.com/news/news-details/2026/Hilltop-Holdings-Inc--Announces-First-Quarter-2026-Earnings-Conference-Call-and-Webcast/default.aspx"
 published_at: "2026-04-13T12:00:00+00:00"
 first_seen_at: "2026-07-25T08:06:30.300792+00:00"
-fetched_at: "2026-07-29T00:24:21.647353+00:00"
+fetched_at: "2026-07-29T17:25:52.295328+00:00"
 content_hash: "sha256:115e82a095dbe6c4445eef7f891ebe558abbb19f2968030d01431f9d9f401493"
 ---
 

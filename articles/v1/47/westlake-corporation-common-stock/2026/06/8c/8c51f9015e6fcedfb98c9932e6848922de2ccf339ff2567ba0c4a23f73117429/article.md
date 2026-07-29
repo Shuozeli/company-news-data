@@ -7,7 +7,7 @@ source_id: "westlake-corporation-common-stock-rss-403a0cef3f5a"
 canonical_url: "http://westlake.com/jonathan-baksht"
 published_at: "2026-06-15T21:15:53+00:00"
 first_seen_at: "2026-07-26T05:25:06.510406+00:00"
-fetched_at: "2026-07-28T21:41:26.625510+00:00"
+fetched_at: "2026-07-29T15:27:08.183301+00:00"
 content_hash: "sha256:3ca6a2c4ecdcc5091847b66247033e06c5eb60c762929e1740c67465f568fb45"
 ---
 

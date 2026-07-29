@@ -7,7 +7,7 @@ source_id: "tetra-technologies-inc-common-stock-rss-9ed6ad8d1054"
 canonical_url: "https://ir.onetetra.com/news/news-details/2026/TETRA-TECHNOLOGIES-INC--TO-PARTICIPATE-IN-THE-PIPER-SANDLER-26TH-ANNUAL-ENERGY-CONFERENCE/default.aspx"
 published_at: "2026-03-04T20:02:00+00:00"
 first_seen_at: "2026-07-27T06:02:55.571459+00:00"
-fetched_at: "2026-07-28T23:27:17.864487+00:00"
+fetched_at: "2026-07-29T15:23:38.774406+00:00"
 content_hash: "sha256:01cb5dcc8c6a33966bd767bbee51ec89a1ea155d25b9235950acbedd3724a0b0"
 ---
 

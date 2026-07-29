@@ -7,7 +7,7 @@ source_id: "avnet-inc-common-stock-rss-d24cfd72cd07"
 canonical_url: "https://news.avnet.com/press-releases/press-release-details/2026/Avnet-Declares-Regular-Quarterly-Dividend-7585645df/default.aspx"
 published_at: "2026-05-20T23:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:43.819386+00:00"
-fetched_at: "2026-07-28T23:31:50.370529+00:00"
+fetched_at: "2026-07-29T15:29:33.793253+00:00"
 content_hash: "sha256:778b8798b2b8dd0c1487993b8ee92083dbb740d63779ffc5595b642d798d2d10"
 ---
 

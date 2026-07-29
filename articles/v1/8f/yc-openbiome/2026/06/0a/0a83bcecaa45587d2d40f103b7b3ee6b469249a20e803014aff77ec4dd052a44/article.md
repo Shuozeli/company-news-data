@@ -7,7 +7,7 @@ source_id: "yc-openbiome-rss-4bb0352ef7c8"
 canonical_url: "https://openbiome.org/qa-with-dr-alexander-khoruts-director-of-the-microbiota-therapeutics-program-umn/"
 published_at: "2026-06-11T19:30:36+00:00"
 first_seen_at: "2026-07-20T23:20:39.694819+00:00"
-fetched_at: "2026-07-28T22:13:29.962371+00:00"
+fetched_at: "2026-07-29T14:21:44.683022+00:00"
 content_hash: "sha256:164248d1b9dd98006a4acb1bd1487a5a881f568932327cda09c51c91e50f26b0"
 ---
 

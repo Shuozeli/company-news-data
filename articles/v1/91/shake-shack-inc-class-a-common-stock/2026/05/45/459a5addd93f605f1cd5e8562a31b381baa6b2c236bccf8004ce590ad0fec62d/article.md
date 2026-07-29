@@ -7,7 +7,7 @@ source_id: "shake-shack-inc-class-a-common-stock-rss-d9ffffb10238"
 canonical_url: "https://investor.shakeshack.com/press-releases/press-release-details/2026/Shake-Shack-Announces-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-05-07T11:00:00+00:00"
 first_seen_at: "2026-07-25T22:45:04.685271+00:00"
-fetched_at: "2026-07-28T23:18:12.378299+00:00"
+fetched_at: "2026-07-29T15:09:50.369523+00:00"
 content_hash: "sha256:4c05f2330d175a0d6afa19683ddcb1e28f427a3ab25aa38a1008ad750ad8a216"
 ---
 

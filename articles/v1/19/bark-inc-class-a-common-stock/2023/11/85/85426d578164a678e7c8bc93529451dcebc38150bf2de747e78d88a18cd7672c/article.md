@@ -7,7 +7,7 @@ source_id: "bark-inc-class-a-common-stock-atom-d9f7d0936a18"
 canonical_url: "https://bark.co/blogs/press/bark-and-dunkin-%C2%AE-bring-more-joy-this-holiday-season-with-new-dunkin-inspired-dog-toys-that-give-back"
 published_at: "2023-11-02T14:47:07+00:00"
 first_seen_at: "2026-07-25T01:26:35.275186+00:00"
-fetched_at: "2026-07-28T23:30:18.317292+00:00"
+fetched_at: "2026-07-29T15:27:04.969445+00:00"
 content_hash: "sha256:2e8e09e22e7ce4e175b48e480aa0d5ae0d86af5a8041e609f34f6d13d5b9a062"
 ---
 

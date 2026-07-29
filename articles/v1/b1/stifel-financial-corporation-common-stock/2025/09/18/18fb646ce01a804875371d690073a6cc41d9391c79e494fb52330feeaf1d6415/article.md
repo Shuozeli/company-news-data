@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2025/Stifel-Venture-Banking-Life-Sciences-Hires-09.23.25.pdf"
 published_at: "2025-09-23T12:50:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:d8d4109c7ff09488d1e6525aad2902872d4b27a2a89933c3a3290899404b544b"
 ---
 

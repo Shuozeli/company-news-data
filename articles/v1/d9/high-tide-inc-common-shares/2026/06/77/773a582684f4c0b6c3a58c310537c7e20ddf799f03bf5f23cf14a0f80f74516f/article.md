@@ -7,7 +7,7 @@ source_id: "high-tide-inc-common-shares-rss-f83dc5e20636"
 canonical_url: "https://hightideinc.com/high-tides-german-subsidiary-remexian-pharma-showcases-exclusive-canadian-medical-cannabis-brand-partnerships-at-mary-jane-berlin-2026/"
 published_at: "2026-06-17T10:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:05.127242+00:00"
-fetched_at: "2026-07-29T00:41:30.017006+00:00"
+fetched_at: "2026-07-29T14:06:34.773204+00:00"
 content_hash: "sha256:600c4f2ce7de8c8f77212d24a3a54abd694d9169199cb3c33bb3ccd50879b228"
 ---
 

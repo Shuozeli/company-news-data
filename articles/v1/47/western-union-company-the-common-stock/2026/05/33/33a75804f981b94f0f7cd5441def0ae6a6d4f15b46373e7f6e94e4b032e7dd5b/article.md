@@ -7,7 +7,7 @@ source_id: "western-union-company-the-common-stock-rss-b97466c15713"
 canonical_url: "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-to-Present-at-J-P--Morgan-2026-Global-Technology-Media-and-Communications-Conference-on-May-20th/default.aspx"
 published_at: "2026-05-06T20:05:00+00:00"
 first_seen_at: "2026-07-26T05:24:37.115894+00:00"
-fetched_at: "2026-07-28T23:31:52.252898+00:00"
+fetched_at: "2026-07-29T15:29:35.235872+00:00"
 content_hash: "sha256:4b62d40b7ff80ad57869918938bc70f302d744b86d2b90ff4f7532859229a84c"
 ---
 

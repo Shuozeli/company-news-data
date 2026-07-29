@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/ai-patient-communication-7-high-roi-strategies-for-2026"
 published_at: "2026-07-26T10:43:40.313+00:00"
 first_seen_at: "2026-07-26T22:48:18.784447+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:4638805fcb4f54ba4c4569f90258bf09fece0d2f64dd0e6520854016c11f5d1d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2022/teradata-reports-fourth-quarter-and-full-year-2021-financial-results"
 published_at: "2022-02-07T08:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T23:07:12.403269+00:00"
+fetched_at: "2026-07-29T14:50:19.991351+00:00"
 content_hash: "sha256:28fd7dcfac17eb9df3dd64b8940d7bb2f936aebf8e178e55d6b7297fafdd3488"
 ---
 

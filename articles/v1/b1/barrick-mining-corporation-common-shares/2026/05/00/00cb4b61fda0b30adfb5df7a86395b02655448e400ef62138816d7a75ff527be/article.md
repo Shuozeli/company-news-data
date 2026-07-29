@@ -7,7 +7,7 @@ source_id: "barrick-mining-corporation-common-shares-rss-04ef954d86c6"
 canonical_url: "https://www.barrick.com/English/news/news-details/2026/q1-2026-dividend/default.aspx"
 published_at: "2026-05-11T09:58:00+00:00"
 first_seen_at: "2026-07-25T01:16:22.091967+00:00"
-fetched_at: "2026-07-28T23:01:12.069195+00:00"
+fetched_at: "2026-07-29T14:37:43.073143+00:00"
 content_hash: "sha256:5c5be3a22161c925bef2ed75510bf43645d8f842621808df9254f7dad8652dfc"
 ---
 

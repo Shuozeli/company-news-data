@@ -7,7 +7,7 @@ source_id: "offerpad-solutions-inc-class-a-common-stock-rss-25e925482b6d"
 canonical_url: "https://investor.offerpad.com/news-releases/news-details/2026/Offerpad-Introduces-SCOUT-and-HENRY-AI-Platforms-Built-to-Make-Every-Home-Transaction-Smarter-Company-Anticipates-Improved-Conversion-Reduced-Acquisition-Risk-and-Greater-Capital-Efficiency-Across-Every-Stage-of-the-Home-Transaction/default.aspx"
 published_at: "2026-03-18T12:45:00+00:00"
 first_seen_at: "2026-07-27T04:04:57.335198+00:00"
-fetched_at: "2026-07-28T22:54:34.157017+00:00"
+fetched_at: "2026-07-29T14:23:32.281007+00:00"
 content_hash: "sha256:796604c0006758df9488dfe503bc81fea7058332587a9a6834549cad0609c0d2"
 ---
 

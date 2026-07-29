@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-strengthens-private-banking-team-with-hiring-of-matt-krutza-for-milwaukee-market"
 published_at: "2026-07-14T18:15:00+00:00"
 first_seen_at: "2026-07-20T04:36:20.180992+00:00"
-fetched_at: "2026-07-29T00:43:53.379763+00:00"
+fetched_at: "2026-07-29T14:07:10.673770+00:00"
 content_hash: "sha256:959781b389ea154d00943e42c82603fa623ba1dedfab9614ad87fa7ed7d0862f"
 ---
 

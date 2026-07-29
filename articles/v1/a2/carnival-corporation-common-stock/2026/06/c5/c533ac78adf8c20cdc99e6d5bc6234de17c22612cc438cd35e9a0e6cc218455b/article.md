@@ -7,7 +7,7 @@ source_id: "carnival-corporation-common-stock-rss-ffa6724d6ae9"
 canonical_url: "https://www.carnivalcorp.com/inthenews/how-princess-cruises-new-star-princess-tames-the-wilds-of-alaska/"
 published_at: "2026-06-22T16:25:34+00:00"
 first_seen_at: "2026-07-27T00:26:15.782947+00:00"
-fetched_at: "2026-07-29T00:11:01.176524+00:00"
+fetched_at: "2026-07-29T17:13:46.589005+00:00"
 content_hash: "sha256:68bf4186315c2dc24c035e1bf81a50853651a27d9ce606646b379c7b0532bfe7"
 ---
 

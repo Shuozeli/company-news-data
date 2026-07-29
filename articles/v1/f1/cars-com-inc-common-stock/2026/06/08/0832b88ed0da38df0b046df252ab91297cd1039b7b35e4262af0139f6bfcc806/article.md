@@ -7,7 +7,7 @@ source_id: "cars-com-inc-common-stock-rss-a219e5b1eade"
 canonical_url: "https://investor.cars.com/2026-06-11-Cars-com-Announces-Inducement-Awards-Under-NYSE-Listing-Rule-303A-08"
 published_at: "2026-06-12T01:40:00+00:00"
 first_seen_at: "2026-07-25T01:07:01.290160+00:00"
-fetched_at: "2026-07-29T00:27:00.987485+00:00"
+fetched_at: "2026-07-29T17:26:16.403860+00:00"
 content_hash: "sha256:6a630ad0b54929ccdb9346d6faced42ec1ab1b5e77b419e319c24432cd0ed771"
 ---
 

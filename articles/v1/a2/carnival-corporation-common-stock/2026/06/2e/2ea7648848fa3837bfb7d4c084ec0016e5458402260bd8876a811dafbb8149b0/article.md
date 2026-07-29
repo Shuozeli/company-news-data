@@ -7,7 +7,7 @@ source_id: "carnival-corporation-common-stock-rss-ffa6724d6ae9"
 canonical_url: "https://www.carnivalcorp.com/inthenews/costa-cruises-overhauls-costa-extra-portal-with-new-layout-navigation-tools/"
 published_at: "2026-06-23T16:26:08+00:00"
 first_seen_at: "2026-07-27T00:26:15.782947+00:00"
-fetched_at: "2026-07-29T00:11:01.176524+00:00"
+fetched_at: "2026-07-29T17:13:46.589005+00:00"
 content_hash: "sha256:a1ebf7fe42ac1d1f5412094a3ae32e8f794e780b54d83c4595b5b40d6cd481a4"
 ---
 

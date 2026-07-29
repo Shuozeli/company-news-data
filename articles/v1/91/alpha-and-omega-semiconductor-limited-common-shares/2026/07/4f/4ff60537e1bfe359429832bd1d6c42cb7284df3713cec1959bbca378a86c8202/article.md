@@ -7,7 +7,7 @@ source_id: "alpha-and-omega-semiconductor-limited-common-shares-rss-c75c286b6c68
 canonical_url: "http://investor.aosmd.com/press-releases/press-release-details/2026/Alpha-and-Omega-Semiconductor-Announces-Appointment-of-New-Director/default.aspx"
 published_at: "2026-07-10T20:01:00+00:00"
 first_seen_at: "2026-07-25T01:37:38.330172+00:00"
-fetched_at: "2026-07-28T23:10:28.649430+00:00"
+fetched_at: "2026-07-29T14:57:38.558596+00:00"
 content_hash: "sha256:3b5894937b6595f1b7d1c191af29706873e3c2bf5f7f0848d4761897b107e590"
 ---
 

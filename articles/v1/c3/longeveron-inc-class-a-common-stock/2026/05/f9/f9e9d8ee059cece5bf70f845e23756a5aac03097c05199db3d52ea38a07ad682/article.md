@@ -7,7 +7,7 @@ source_id: "longeveron-inc-class-a-common-stock-rss-67d3213fd071"
 canonical_url: "https://investors.longeveron.com/news/News/news-details/2026/Longeveron-Announces-2026-First-Quarter-Financial-Results-and-Provides-Business-Update/default.aspx"
 published_at: "2026-05-13T20:05:00+00:00"
 first_seen_at: "2026-07-25T12:43:41.146504+00:00"
-fetched_at: "2026-07-29T00:25:00.376877+00:00"
+fetched_at: "2026-07-29T17:23:32.846338+00:00"
 content_hash: "sha256:9daf44fe994e3647e7308e69712f7caa89ed1a2a597efdc16556bbc6b316fd78"
 ---
 

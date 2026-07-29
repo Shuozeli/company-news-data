@@ -7,7 +7,7 @@ source_id: "madison-air-solutions-corporation-class-a-common-stock-rss-478729183
 canonical_url: "https://investors.madisonair.com/2026-04-15-Madison-Air-Announces-Pricing-of-Initial-Public-Offering"
 published_at: "2026-04-15T20:45:00+00:00"
 first_seen_at: "2026-07-20T04:35:26.067780+00:00"
-fetched_at: "2026-07-28T23:48:53.625785+00:00"
+fetched_at: "2026-07-29T15:42:53.826043+00:00"
 content_hash: "sha256:9b779f56b97642632352b6887a2089751036f3b7c994c78840c9e28f15cb36e6"
 ---
 

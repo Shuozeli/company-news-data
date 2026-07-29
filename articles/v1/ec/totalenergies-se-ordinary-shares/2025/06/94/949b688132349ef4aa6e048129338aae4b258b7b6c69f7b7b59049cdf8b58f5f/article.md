@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/cap-sur-la-reunion-avec-la-decouverte-du-parc-denergies-renouvelables-totalenergies-de-la-perriere/"
 published_at: "2025-06-30T16:21:00+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T23:24:39.102238+00:00"
+fetched_at: "2026-07-29T15:20:19.764825+00:00"
 content_hash: "sha256:7daf7f549445a4d8a2773451ebcedf0d4adb2aa84d6855e7fb665ee694109369"
 ---
 

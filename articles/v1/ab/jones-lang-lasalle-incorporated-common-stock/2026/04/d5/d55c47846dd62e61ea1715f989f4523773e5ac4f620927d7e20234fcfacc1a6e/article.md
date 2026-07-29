@@ -7,7 +7,7 @@ source_id: "jones-lang-lasalle-incorporated-common-stock-rss-aafaf3e1ee4a"
 canonical_url: "https://parkmadisonpartners.com/podcast-info?id=76264"
 published_at: "2026-04-02T04:29:02+00:00"
 first_seen_at: "2026-07-20T04:35:39.901123+00:00"
-fetched_at: "2026-07-28T23:22:39.041449+00:00"
+fetched_at: "2026-07-29T15:15:47.265343+00:00"
 content_hash: "sha256:b9de09c36ee0c90c9d42fc0886f3f703e38bcb28fbf046c05046bfc8f48b39f9"
 ---
 

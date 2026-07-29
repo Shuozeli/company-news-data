@@ -7,7 +7,7 @@ source_id: "gopro-inc-class-a-common-stock-rss-6614c0f220fc"
 canonical_url: "http://investor.gopro.com/press-releases/press-release-details/2026/GoPro-Announces-Financing-from-Founder-and-CEO-Nicholas-Woodman/default.aspx"
 published_at: "2026-07-08T21:05:00+00:00"
 first_seen_at: "2026-07-25T06:56:22.873146+00:00"
-fetched_at: "2026-07-28T23:53:03.370491+00:00"
+fetched_at: "2026-07-29T15:46:16.915174+00:00"
 content_hash: "sha256:00290c38c42e001ed8487a391ab8c68278458d374bcd2070f9beb93e0db39b34"
 ---
 

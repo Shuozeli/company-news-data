@@ -7,7 +7,7 @@ source_id: "openlane-inc-common-stock-rss-e0cbba041141"
 canonical_url: "https://ir.corporate.openlane.com/investor-relations/investor-news/press-release-details/2026/OPENLANE-Converts-Remaining-Series-A-Convertible-Preferred-Stock/default.aspx"
 published_at: "2026-06-02T20:16:00+00:00"
 first_seen_at: "2026-07-27T15:58:06.069466+00:00"
-fetched_at: "2026-07-28T23:00:27.892971+00:00"
+fetched_at: "2026-07-29T14:36:49.548400+00:00"
 content_hash: "sha256:2e643f6fccfe0b6929641ecece809b050fc5fe5b7eff256b89daaa1331f286f1"
 ---
 

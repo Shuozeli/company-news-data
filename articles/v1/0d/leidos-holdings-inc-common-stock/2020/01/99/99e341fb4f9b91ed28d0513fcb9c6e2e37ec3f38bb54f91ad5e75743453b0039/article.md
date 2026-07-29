@@ -7,8 +7,8 @@ source_id: "leidos-holdings-inc-common-stock-rss-27b1906f4f8e"
 canonical_url: "https://www.leidos.com/insights/energy-management"
 published_at: "2020-01-17T15:50:04+00:00"
 first_seen_at: "2026-07-20T23:24:51.153241+00:00"
-fetched_at: "2026-07-28T23:52:51.225222+00:00"
-content_hash: "sha256:167f8ae4e882fb092c3281be5f8031665915c5363a697af351addcc99c2bbe17"
+fetched_at: "2026-07-29T17:04:15.032740+00:00"
+content_hash: "sha256:e33bb358f68eb5cffe728fad59d1137a42e0603136d0b5e236afc385258445e8"
 ---
 
 # Energy Management in Action
@@ -26,6 +26,15 @@ Lead
 
 
 Expertise, industry leadership, unique perspectives, and more.
+
+
+###### News
+
+
+###### Leidos introduces new AI platform to find, fix cybersecurity vulnerabilities
+
+
+[Read More](https://www.leidos.com/insights/leidos-introduces-new-ai-platform-find-fix-cybersecurity-vulnerabilities)
 
 
 ###### News
@@ -125,15 +134,6 @@ Expertise, industry leadership, unique perspectives, and more.
 
 
 [Read More](https://www.leidos.com/insights/every-moment-digital-friction-carries-cost)
-
-
-###### Article
-
-
-###### America at 250: Building on a legacy of innovation & service
-
-
-[Read More](https://www.leidos.com/insights/america-250-building-legacy-innovation-service)
 
 
 - [Load More](https://www.leidos.com/insights/energy-management?page=1)

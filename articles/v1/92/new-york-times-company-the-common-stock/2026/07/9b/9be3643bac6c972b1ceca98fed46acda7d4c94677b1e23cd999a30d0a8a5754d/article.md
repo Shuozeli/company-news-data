@@ -5,12 +5,12 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/opinion/israel-settlers-west-bank.html"
-published_at: "2026-07-28T21:00:05+00:00"
+published_at: "2026-07-28T23:56:10+00:00"
 first_seen_at: "2026-07-28T21:10:05.886882+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
-content_hash: "sha256:f514f35536756a53585d49f48f6453e390ab5e48d27a2f7b30591fd4518e235f"
+fetched_at: "2026-07-29T04:33:08.823497+00:00"
+content_hash: "sha256:c45ba87c22128230186f768b7741f3ffee2362cd7627e713157eaf33339cd3cb"
 ---
 
-# Jewish Terrorism Is Also a Threat to Zionism
+# A Blunt Warning for Israel
 
-A blunt warning for Israel.
+Jewish terrorism is also a threat to Zionism.

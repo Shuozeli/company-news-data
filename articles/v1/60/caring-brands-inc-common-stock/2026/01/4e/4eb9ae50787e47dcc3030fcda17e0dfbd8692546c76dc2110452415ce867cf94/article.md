@@ -7,7 +7,7 @@ source_id: "caring-brands-inc-common-stock-rss-66147c472423"
 canonical_url: "https://caringbrands.com/caring-brands-announces-exclusive-global-license-to-manufacture-and-market-emesyl/"
 published_at: "2026-01-05T13:30:22+00:00"
 first_seen_at: "2026-07-24T22:18:05.610221+00:00"
-fetched_at: "2026-07-28T23:10:52.869007+00:00"
+fetched_at: "2026-07-29T14:56:49.750657+00:00"
 content_hash: "sha256:d2defc26210ad82a45ffa51e46e3bae94407cb9f22dd394df2cd3aa3e68fa781"
 ---
 

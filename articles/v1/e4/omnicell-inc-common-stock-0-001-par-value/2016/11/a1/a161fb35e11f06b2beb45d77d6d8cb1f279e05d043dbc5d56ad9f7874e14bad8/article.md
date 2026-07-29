@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2016/Health-Systems-to-Realize-Improved-Financial-and-Clinical-Outcomes-through-Omnicell-Performance-Center/default.aspx"
 published_at: "2016-11-02T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:0b7c758ed35f88d0c7f5a1f0bd9a8a6eeef46a0c7c40979dac3d7b7168ec5f23"
 ---
 

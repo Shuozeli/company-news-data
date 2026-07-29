@@ -4,9 +4,9 @@
     "key": "cars-com-inc-common-stock",
     "name": "Cars.com Inc. Common Stock"
   },
-  "record_count": 15,
+  "record_count": 16,
   "first_published_at": "2019-11-08T21:20:01+00:00",
-  "last_published_at": "2026-07-23T20:30:00+00:00",
+  "last_published_at": "2026-07-29T11:30:00+00:00",
   "partitions": [
     {
       "partition": "2019-11",
@@ -42,11 +42,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -54,10 +54,10 @@
       {
         "page": 1,
         "path": "articles/v1/f1/cars-com-inc-common-stock/index/pages/000001.json",
-        "record_count": 15,
-        "byte_count": 15398,
-        "sha256": "sha256:7a17140fe92e045bcbe05b921d83a5460645d82345efeba41426766b59b8d79a",
-        "newest_at": "2026-07-23T20:30:00+00:00",
+        "record_count": 16,
+        "byte_count": 16381,
+        "sha256": "sha256:b935880ef6464f97cdaed0de4e7206aed02eee7381478c6494b8ca79d3ad03b7",
+        "newest_at": "2026-07-29T11:30:00+00:00",
         "oldest_at": "2019-11-08T21:20:01+00:00"
       }
     ]

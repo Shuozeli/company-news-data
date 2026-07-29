@@ -7,7 +7,7 @@ source_id: "simpson-manufacturing-company-inc-common-stock-rss-aba38fe2948a"
 canonical_url: "https://news.strongtie.com/460723-simpson-strong-tie-employees-take-part-in-2026-habitat-for-humanity-carter-work-project"
 published_at: "2026-06-03T18:48:31+00:00"
 first_seen_at: "2026-07-25T23:14:36.962127+00:00"
-fetched_at: "2026-07-28T23:35:20.392496+00:00"
+fetched_at: "2026-07-29T15:31:03.829984+00:00"
 content_hash: "sha256:e7044ee2ee23f53fe40fad164194306741035dfe6e2fc5903b83e9baa0f83e44"
 ---
 

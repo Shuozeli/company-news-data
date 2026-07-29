@@ -7,7 +7,7 @@ source_id: "dorman-products-inc-common-stock-rss-b8556f430883"
 canonical_url: "https://shoppress.dormanproducts.com/chevrolet-454-ss-muscle-truck/"
 published_at: "2026-07-16T12:00:29+00:00"
 first_seen_at: "2026-07-20T03:32:46.564497+00:00"
-fetched_at: "2026-07-28T23:42:19.685738+00:00"
+fetched_at: "2026-07-29T15:35:42.270399+00:00"
 content_hash: "sha256:f0409f047170a72b805dc3cfcdd455c32e4478c7518414707761c14335150886"
 ---
 

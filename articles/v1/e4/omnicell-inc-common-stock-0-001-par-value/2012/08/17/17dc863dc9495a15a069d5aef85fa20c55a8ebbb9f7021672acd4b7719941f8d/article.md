@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2012/Omnicell-Will-Demonstrate-Solutions-for-Healthcare-Supply-Chain-Management-at-AHRMM-2012/default.aspx"
 published_at: "2012-08-06T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:539322adb4afd72c02b02a2ec6e9b92ec07ef18fca013db578130a63500d3fb6"
 ---
 

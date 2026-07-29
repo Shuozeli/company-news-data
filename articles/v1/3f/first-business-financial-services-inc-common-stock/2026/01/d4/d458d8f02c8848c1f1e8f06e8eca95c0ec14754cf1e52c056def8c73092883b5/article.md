@@ -7,7 +7,7 @@ source_id: "first-business-financial-services-inc-common-stock-rss-e6a9ea1577e1"
 canonical_url: "https://ir.firstbusiness.bank/news-presentations/news-details/2026/First-Business-Bank-Announces-Fourth-Quarter-2025-Financial-Results-and-17-Cash-Dividend-Increase/default.aspx"
 published_at: "2026-01-29T21:05:00+00:00"
 first_seen_at: "2026-07-25T04:46:11.112331+00:00"
-fetched_at: "2026-07-28T23:43:03.427891+00:00"
+fetched_at: "2026-07-29T15:36:25.142244+00:00"
 content_hash: "sha256:18207abdb8ff604325623de9e2f279d3df023908164b5ccd972e44011062cac2"
 ---
 

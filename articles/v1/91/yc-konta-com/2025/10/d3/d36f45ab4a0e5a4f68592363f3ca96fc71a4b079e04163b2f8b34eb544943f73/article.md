@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/los-5-errores-mas-comunes-al-facturar-y-como-evitarlos"
 published_at: "2025-10-24T17:32:00+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:7be2e39cf76ec7d01acf818f29099a245d733fa271ed0eb59d02f8b009859c3c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2018/iot-development-and-wireless-communication"
 published_at: "2018-09-20T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:314c784ef9fe7ffa6467e7511f1947ce8a3be35bfe1532569ca4ef13549ab350"
 ---
 

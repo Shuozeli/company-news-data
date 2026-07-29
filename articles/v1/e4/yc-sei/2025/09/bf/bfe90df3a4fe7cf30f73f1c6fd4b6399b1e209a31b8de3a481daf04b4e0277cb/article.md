@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/ai-voice-agents-mortgage-application-follow-ups"
 published_at: "2025-09-20T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:9b0ea2ca1b87866e0da3e7014f02d6e4597f1092d812a9002ec80f0c9b4589c5"
 ---
 

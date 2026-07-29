@@ -7,7 +7,7 @@ source_id: "dyne-therapeutics-inc-common-stock-rss-d110a4ccdb6e"
 canonical_url: "https://www.dyne-tx.com/dyne-therapeutics-accelerates-programs-in-facioscapulohumeral-muscular-dystrophy-fshd-with-exclusive-licensing-of-technologies-to-target-genetic-basis-of-fshd-and-expanded-scientific-advisory-board/"
 published_at: "2020-05-19T12:01:40+00:00"
 first_seen_at: "2026-07-20T23:21:48.721292+00:00"
-fetched_at: "2026-07-28T23:22:18.035043+00:00"
+fetched_at: "2026-07-29T15:16:40.894200+00:00"
 content_hash: "sha256:8ac37fb7b4cda7ee142becc2c8ebbc3d7c713b512eb8773acb078a687097b8b5"
 ---
 

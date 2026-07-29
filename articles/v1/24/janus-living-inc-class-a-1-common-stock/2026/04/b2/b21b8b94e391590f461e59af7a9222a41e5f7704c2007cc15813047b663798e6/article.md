@@ -7,7 +7,7 @@ source_id: "janus-living-inc-class-a-1-common-stock-rss-f0bd0059a7de"
 canonical_url: "https://ir.janusreit.com/news/news-details/2026/Janus-Living-Announces-Dates-of-First-Quarter-2026-Earnings-Release-Conference-Call-and-Webcast/default.aspx"
 published_at: "2026-04-08T20:15:00+00:00"
 first_seen_at: "2026-07-25T10:08:36.207513+00:00"
-fetched_at: "2026-07-28T23:52:00.796365+00:00"
+fetched_at: "2026-07-29T15:46:46.178526+00:00"
 content_hash: "sha256:a8b359a0c99c606709f860d6afa997c35e0a4fb0b8f340b0f4fff2589a14b1a4"
 ---
 

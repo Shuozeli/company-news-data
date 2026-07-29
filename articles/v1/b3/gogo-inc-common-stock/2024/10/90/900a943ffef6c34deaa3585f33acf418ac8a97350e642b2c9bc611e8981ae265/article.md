@@ -7,7 +7,7 @@ source_id: "gogo-inc-common-stock-rss-ed096a8486ac"
 canonical_url: "https://gogoair.mediaroom.com/2024-10-22-Wheels-Up-Selects-Gogo-Galileo-HDX-Fleetwide"
 published_at: "2024-10-22T21:00:00+00:00"
 first_seen_at: "2026-07-25T06:49:51.427791+00:00"
-fetched_at: "2026-07-28T23:49:19.175161+00:00"
+fetched_at: "2026-07-29T15:41:56.330344+00:00"
 content_hash: "sha256:0147e64960cf4359b35ffe599500bb2d60e6ea6439852e1fc3b980c7376691cf"
 ---
 

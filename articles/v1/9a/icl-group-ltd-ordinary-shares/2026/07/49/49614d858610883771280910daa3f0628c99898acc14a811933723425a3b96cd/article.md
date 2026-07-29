@@ -7,7 +7,7 @@ source_id: "icl-group-ltd-ordinary-shares-rss-1319d6d0e2f1"
 canonical_url: "https://investors.icl-group.com/reports-news-and-events/press-releases/press-releases-details/2026/ICL-Announces-Second-Quarter-2026-Earnings-Call/default.aspx"
 published_at: "2026-07-21T21:22:00+00:00"
 first_seen_at: "2026-07-28T23:02:56.552705+00:00"
-fetched_at: "2026-07-28T23:02:56.502587+00:00"
+fetched_at: "2026-07-29T14:39:30.358461+00:00"
 content_hash: "sha256:1f2a5f2f297636a5aabb1449278d07df93a146fa955ca3239e3195a981709bed"
 ---
 

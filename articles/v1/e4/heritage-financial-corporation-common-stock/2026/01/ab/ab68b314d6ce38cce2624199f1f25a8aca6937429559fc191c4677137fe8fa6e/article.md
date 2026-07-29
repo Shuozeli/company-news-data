@@ -7,7 +7,7 @@ source_id: "heritage-financial-corporation-common-stock-rss-80f026da48dd"
 canonical_url: "https://www.hf-wa.com/news/news-details/2026/Heritage-Financial-Announces-Earnings-Release-Date-and-Conference-Call/default.aspx"
 published_at: "2026-01-06T22:19:00+00:00"
 first_seen_at: "2026-07-25T07:59:02.298223+00:00"
-fetched_at: "2026-07-29T00:16:52.512574+00:00"
+fetched_at: "2026-07-29T17:19:02.067452+00:00"
 content_hash: "sha256:5e0830a242b08a42cc23f197563856c366780846004938ce420272623a342028"
 ---
 

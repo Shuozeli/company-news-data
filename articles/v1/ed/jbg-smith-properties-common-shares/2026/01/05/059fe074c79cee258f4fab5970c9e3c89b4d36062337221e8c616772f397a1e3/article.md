@@ -7,7 +7,7 @@ source_id: "jbg-smith-properties-common-shares-rss-83f1679a022e"
 canonical_url: "https://investors.jbgsmith.com/investor-relations/newsroom/news-details/2026/JBG-SMITH-Announces-Date-of-Fourth-Quarter-and-Year-End-2025-Results/default.aspx"
 published_at: "2026-01-20T21:16:00+00:00"
 first_seen_at: "2026-07-25T10:09:45.870565+00:00"
-fetched_at: "2026-07-28T23:53:33.482349+00:00"
+fetched_at: "2026-07-29T17:01:39.598469+00:00"
 content_hash: "sha256:27577c80eb167fd68c611a54279b6c21284b38a7fed912ac713d9f38c3bc124d"
 ---
 

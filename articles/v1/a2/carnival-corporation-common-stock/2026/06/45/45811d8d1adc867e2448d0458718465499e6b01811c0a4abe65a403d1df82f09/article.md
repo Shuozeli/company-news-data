@@ -7,7 +7,7 @@ source_id: "carnival-corporation-common-stock-rss-ffa6724d6ae9"
 canonical_url: "https://www.carnivalcorp.com/inthenews/holland-america-lines-denali-lodge-receives-enhancements-ahead-of-2027-alaska-season/"
 published_at: "2026-06-29T16:28:30+00:00"
 first_seen_at: "2026-07-27T00:26:15.782947+00:00"
-fetched_at: "2026-07-29T00:11:01.176524+00:00"
+fetched_at: "2026-07-29T17:13:46.589005+00:00"
 content_hash: "sha256:784b34b8554ad095ee1d1ce63c7db4994c31730d2695b259f760d947501c3ec8"
 ---
 

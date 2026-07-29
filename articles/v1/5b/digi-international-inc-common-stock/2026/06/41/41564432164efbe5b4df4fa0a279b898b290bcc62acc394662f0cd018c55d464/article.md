@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/3gpp-release-17-meets-the-road-with-digi-tx65"
 published_at: "2026-06-16T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:601aa844e127530c79e3a3b54afd093b69496b44a9becf3e4471b190537cd03c"
 ---
 

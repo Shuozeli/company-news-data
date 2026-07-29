@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-declares-quarterly-dividend-10/"
 published_at: "2026-07-28T09:15:00+00:00"
 first_seen_at: "2026-07-28T21:49:44.514954+00:00"
-fetched_at: "2026-07-29T00:26:14.657354+00:00"
+fetched_at: "2026-07-29T17:23:25.881224+00:00"
 content_hash: "sha256:e430fc033b7a83123e6efd83dd3b0e32fda1b26ada47cfdb466d1a145bbd5031"
 ---
 

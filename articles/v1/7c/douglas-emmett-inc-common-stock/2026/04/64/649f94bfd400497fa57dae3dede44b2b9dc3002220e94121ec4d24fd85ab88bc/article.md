@@ -7,7 +7,7 @@ source_id: "douglas-emmett-inc-common-stock-rss-a7a35a8db74b"
 canonical_url: "https://ir.douglasemmett.com/investors/News-Events/press-releases/press-releases-details/2026/Douglas-Emmett-Announces-Dates-for-Its-2026-First-Quarter-Earnings-Results-and-Live-Conference-Call/default.aspx"
 published_at: "2026-04-01T00:47:00+00:00"
 first_seen_at: "2026-07-25T01:20:03.346462+00:00"
-fetched_at: "2026-07-29T00:51:29.323719+00:00"
+fetched_at: "2026-07-29T14:21:05.850133+00:00"
 content_hash: "sha256:7848f6733ef4f2f1dae0bfbb3fc122c716b558c70163255f33cc0911cd2a63f1"
 ---
 

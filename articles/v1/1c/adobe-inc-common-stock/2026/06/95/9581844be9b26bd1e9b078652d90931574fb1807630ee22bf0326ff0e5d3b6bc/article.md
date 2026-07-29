@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2026/06/meet-the-new-team-members-who-build-support-and-improve-uxp-for-third-party-developers"
 published_at: "2026-06-15T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:9a198d9c04a08cf2022924a9355d360154d892980cbd1d02e942855100b557df"
 ---
 

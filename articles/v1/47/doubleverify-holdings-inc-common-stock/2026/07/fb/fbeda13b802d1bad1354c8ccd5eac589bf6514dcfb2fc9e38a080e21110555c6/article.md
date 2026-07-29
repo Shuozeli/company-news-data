@@ -7,7 +7,7 @@ source_id: "doubleverify-holdings-inc-common-stock-rss-f6469e95d005"
 canonical_url: "https://medium.com/doubleverify-engineering/ending-on-call-nightmares-architectural-lessons-from-distributed-caching-with-apache-ignite-78eec9123d31"
 published_at: "2026-07-06T10:16:36+00:00"
 first_seen_at: "2026-07-20T23:17:33.321656+00:00"
-fetched_at: "2026-07-29T00:07:21.153865+00:00"
+fetched_at: "2026-07-29T17:12:04.510548+00:00"
 content_hash: "sha256:95f84fa4cb1540c300c39d5ad28bf45f5820e91d3611e15f4ae40f78a73b612b"
 ---
 

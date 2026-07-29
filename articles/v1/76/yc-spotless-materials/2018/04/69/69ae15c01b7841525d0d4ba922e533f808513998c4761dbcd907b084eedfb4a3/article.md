@@ -7,7 +7,7 @@ source_id: "yc-spotless-materials-atom-baac52d4cef5"
 canonical_url: "https://spotlessmaterials.com/blogs/the-spotlight/engineering-team-wins-grand-prize-for-water-saving-impactful-tech"
 published_at: "2018-04-26T14:00:00+00:00"
 first_seen_at: "2026-07-26T00:03:15.822503+00:00"
-fetched_at: "2026-07-29T00:13:55.299743+00:00"
+fetched_at: "2026-07-29T17:14:06.798295+00:00"
 content_hash: "sha256:1cb98c38353b923f0bc46b05920912f427a868f2dda3b26c646e5cb3191b97cd"
 ---
 

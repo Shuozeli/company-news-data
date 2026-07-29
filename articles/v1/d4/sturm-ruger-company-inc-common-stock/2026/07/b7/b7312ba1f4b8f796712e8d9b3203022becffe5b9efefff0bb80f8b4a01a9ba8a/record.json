@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b7312ba1f4b8f796712e8d9b3203022becffe5b9efefff0bb80f8b4a01a9ba8a",
+  "company": {
+    "key": "sturm-ruger-company-inc-common-stock",
+    "name": "Sturm Ruger & Company Inc. Common Stock"
+  },
+  "source": {
+    "id": "sturm-ruger-company-inc-common-stock-news-import-7defa1374ed4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ruger.com/news/2026-07-28.html",
+    "canonical": "https://ruger.com/news/2026-07-28.html"
+  },
+  "title": "Sturm, Ruger & Company, Inc. to Report Second Quarter 2026 Financial Results on Wednesday, July 29",
+  "summary": "",
+  "published_at": "2026-07-28T16:05:00+00:00",
+  "first_seen_at": "2026-07-29T05:49:54.045341+00:00",
+  "fetched_at": "2026-07-29T05:49:55.644467+00:00",
+  "last_updated_at": "2026-07-29T05:49:55.993841+00:00",
+  "paths": {
+    "article": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/07/b7/b7312ba1f4b8f796712e8d9b3203022becffe5b9efefff0bb80f8b4a01a9ba8a/article.md",
+    "record": "articles/v1/d4/sturm-ruger-company-inc-common-stock/2026/07/b7/b7312ba1f4b8f796712e8d9b3203022becffe5b9efefff0bb80f8b4a01a9ba8a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3563,
+    "sha256": "sha256:86f13ec0156107cd2f13e8793592e5e00c884250eac537bd1f928b5d99bfc879",
+    "normalized_content_hash": "sha256:ed073b57a3d8d10d65ed4105ce20f3f94ba4a0749119d50ccd6a1e187981bacc"
+  },
+  "provenance": {
+    "source_item_id": "1c350df9-a254-4389-b0f7-13bc54ecfa9e",
+    "external_id": "https://ruger.com/news/2026-07-28.html"
+  }
+}

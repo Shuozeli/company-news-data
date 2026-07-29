@@ -7,7 +7,7 @@ source_id: "yc-renthop-rss-2954ff02c95e"
 canonical_url: "https://www.renthop.com/blog/heat-waves/"
 published_at: "2026-07-14T21:00:29+00:00"
 first_seen_at: "2026-07-25T21:04:29.929203+00:00"
-fetched_at: "2026-07-28T23:28:46.448791+00:00"
+fetched_at: "2026-07-29T15:24:47.318598+00:00"
 content_hash: "sha256:f163ecdfc10e90edac9c9181fd34c0086b8b679dc58fe3e51190f3fd98f1f455"
 ---
 

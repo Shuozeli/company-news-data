@@ -7,7 +7,7 @@ source_id: "u-s-energy-corp-common-stock-de-rss-2920db3b8278"
 canonical_url: "https://usnrg.com/nominating-committee-and-nominating-process/"
 published_at: "2025-01-31T17:28:23+00:00"
 first_seen_at: "2026-07-27T06:31:46.149605+00:00"
-fetched_at: "2026-07-28T20:06:47.260334+00:00"
+fetched_at: "2026-07-29T11:28:20.765536+00:00"
 content_hash: "sha256:d5e0c7597d97f6dda7371fb3ad10863bb34ecfffe183dcfc17d23882f242b195"
 ---
 

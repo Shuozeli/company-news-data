@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/why-integration-is-the-real-innovation-in-construction-tech"
 published_at: "2026-03-25T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T23:18:38.216278+00:00"
+fetched_at: "2026-07-29T15:07:27.395221+00:00"
 content_hash: "sha256:483a22bdaacab2094817edda7aeed1229a7f92befce6bf02f38805d7fdc36da2"
 ---
 

@@ -7,7 +7,7 @@ source_id: "smartstop-self-storage-reit-inc-common-stock-rss-4e2120e48ff1"
 canonical_url: "https://investors.smartstopselfstorage.com/news-and-events/press-releases/press-releases-details/2026/SmartStop-Self-Storage-Named-One-of-Revieweds-Best-National-Storage-Chains-of-2026/default.aspx"
 published_at: "2026-06-05T22:50:00+00:00"
 first_seen_at: "2026-07-25T23:24:42.322687+00:00"
-fetched_at: "2026-07-28T23:37:07.431411+00:00"
+fetched_at: "2026-07-29T15:33:04.990397+00:00"
 content_hash: "sha256:e3e9347cf7914fe1a51131b6b48e4666e103d1c011e53b0f80f83ab7ed9af841"
 ---
 

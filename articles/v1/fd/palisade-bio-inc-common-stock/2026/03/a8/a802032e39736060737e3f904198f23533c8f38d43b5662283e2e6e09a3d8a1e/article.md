@@ -7,7 +7,7 @@ source_id: "palisade-bio-inc-common-stock-rss-dc15a313ba00"
 canonical_url: "https://palisadebio.com/palisade-bio-reports-positive-topline-data-from-phase-1b-clinical-study-of-pali-2108-in-fibrostenotic-crohns-disease/"
 published_at: "2026-03-30T20:01:11+00:00"
 first_seen_at: "2026-07-20T23:19:44.339993+00:00"
-fetched_at: "2026-07-29T00:39:43.955472+00:00"
+fetched_at: "2026-07-29T14:03:27.397453+00:00"
 content_hash: "sha256:66be3d5e1c080d03fe9fa810b9cbb1ece23170d8449f3a00585b7df3a9a0a81f"
 ---
 

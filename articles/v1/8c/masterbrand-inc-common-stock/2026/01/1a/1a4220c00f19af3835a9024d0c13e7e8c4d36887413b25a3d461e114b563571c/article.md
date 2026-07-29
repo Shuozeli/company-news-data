@@ -7,7 +7,7 @@ source_id: "masterbrand-inc-common-stock-rss-68b1dce10314"
 canonical_url: "https://masterbrand.com/investors/investor-news/news-details/2026/MasterBrand-and-Cambria-Collaborate-on-Feature-Kitchen-at-KBIS-2026/default.aspx"
 published_at: "2026-01-29T13:03:00+00:00"
 first_seen_at: "2026-07-25T13:25:20.188168+00:00"
-fetched_at: "2026-07-28T22:13:13.801253+00:00"
+fetched_at: "2026-07-29T14:21:37.351482+00:00"
 content_hash: "sha256:147ea5f378eeb39668bc4472c22a9dc58a637124db39691c405d1695012a25b7"
 ---
 

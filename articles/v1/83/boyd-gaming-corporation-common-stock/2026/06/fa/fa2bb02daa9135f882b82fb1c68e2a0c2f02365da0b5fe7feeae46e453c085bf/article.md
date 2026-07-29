@@ -7,7 +7,7 @@ source_id: "boyd-gaming-corporation-common-stock-rss-f22aba5248cd"
 canonical_url: "https://investors.boydgaming.com/2026-06-25-BOYD-GAMING-APPOINTS-STACIA-ANDERSEN,-GEORGE-ROETH-TO-BOARD-OF-DIRECTORS"
 published_at: "2026-06-25T20:10:00+00:00"
 first_seen_at: "2026-07-20T03:33:16.827589+00:00"
-fetched_at: "2026-07-28T23:29:13.595220+00:00"
+fetched_at: "2026-07-29T15:24:31.593755+00:00"
 content_hash: "sha256:fedf13b011f253dd53924e2eb3acb0bee5cdbf765b965b2a0d9f89e85bc60aaf"
 ---
 

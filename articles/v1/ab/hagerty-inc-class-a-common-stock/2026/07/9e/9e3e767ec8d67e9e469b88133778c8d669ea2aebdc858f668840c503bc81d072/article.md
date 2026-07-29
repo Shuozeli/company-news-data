@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/klockau-classics/1988-mercedes-benz-560sl-best-of-the-breed/"
 published_at: "2026-07-25T13:00:00+00:00"
 first_seen_at: "2026-07-25T13:24:12.060722+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:8285bb04fd584c14489b619e6137bd74108f5d61937b4ddec5610be965e2d10f"
 ---
 

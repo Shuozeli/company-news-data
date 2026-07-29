@@ -7,7 +7,7 @@ source_id: "pebblebrook-hotel-trust-common-shares-of-beneficial-interest-rss-739
 canonical_url: "https://investor.pebblebrookhotels.com/news-1/news-releases/news-details/2026/Pebblebrook-Hotel-Trust-Declares-Dividends-for-First-Quarter-2026/default.aspx"
 published_at: "2026-03-16T11:00:00+00:00"
 first_seen_at: "2026-07-25T18:41:31.965462+00:00"
-fetched_at: "2026-07-28T22:59:16.337532+00:00"
+fetched_at: "2026-07-29T14:35:27.028471+00:00"
 content_hash: "sha256:51cdf4bdfc85bfa84a22fa52b4087f928e09412f7cc0e6213038205062373dd8"
 ---
 

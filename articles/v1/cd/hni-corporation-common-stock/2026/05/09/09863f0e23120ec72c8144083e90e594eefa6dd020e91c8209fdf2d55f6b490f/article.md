@@ -7,7 +7,7 @@ source_id: "hni-corporation-common-stock-rss-c13c429f2c6e"
 canonical_url: "https://investors.hnicorp.com/news-releases/news-release-details/hni-corporation-reports-first-quarter-2026-results"
 published_at: "2026-05-06T12:00:00+00:00"
 first_seen_at: "2026-07-25T08:11:31.149615+00:00"
-fetched_at: "2026-07-29T00:16:47.176254+00:00"
+fetched_at: "2026-07-29T17:19:24.678148+00:00"
 content_hash: "sha256:99a20b6d5de70b0c17324e6f6865e4a270271652b7df0e7094889bdcbf7ac00e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2025/06/adobe-express-add-ons-whats-new-and-coming-up-for-developers"
 published_at: "2025-06-27T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:8ac786244d9547e538cd4e7211fd82288c9e7d64cec913d84111aa2844181643"
 ---
 

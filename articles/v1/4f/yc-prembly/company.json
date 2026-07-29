@@ -4,9 +4,9 @@
     "key": "yc-prembly",
     "name": "Prembly (formerly Identitypass)"
   },
-  "record_count": 11,
+  "record_count": 12,
   "first_published_at": "2026-06-09T07:19:59+00:00",
-  "last_published_at": "2026-07-14T16:03:31+00:00",
+  "last_published_at": "2026-07-29T09:15:09+00:00",
   "partitions": [
     {
       "partition": "2026-06",
@@ -14,11 +14,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 4
+      "record_count": 5
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -26,10 +26,10 @@
       {
         "page": 1,
         "path": "articles/v1/4f/yc-prembly/index/pages/000001.json",
-        "record_count": 11,
-        "byte_count": 11809,
-        "sha256": "sha256:1da6386a34ee68e0f66d3da1a1ea9513cf1d94aad8837445b0daf09232832d08",
-        "newest_at": "2026-07-14T16:03:31+00:00",
+        "record_count": 12,
+        "byte_count": 12866,
+        "sha256": "sha256:4ff355a510a6c684ab3fc49fb1a86c8dbea5e2200e89493b7ed5a37d13a396a4",
+        "newest_at": "2026-07-29T09:15:09+00:00",
         "oldest_at": "2026-06-09T07:19:59+00:00"
       }
     ]

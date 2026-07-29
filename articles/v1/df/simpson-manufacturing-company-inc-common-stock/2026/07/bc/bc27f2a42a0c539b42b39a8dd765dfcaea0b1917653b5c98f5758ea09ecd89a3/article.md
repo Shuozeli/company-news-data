@@ -7,7 +7,7 @@ source_id: "simpson-manufacturing-company-inc-common-stock-rss-aba38fe2948a"
 canonical_url: "https://news.strongtie.com/464543-simpson-strong-tie-donates-25000-to-the-red-crossfollowing-venezuela-earthquakes"
 published_at: "2026-07-09T19:15:00+00:00"
 first_seen_at: "2026-07-25T23:14:36.962127+00:00"
-fetched_at: "2026-07-28T23:35:20.392496+00:00"
+fetched_at: "2026-07-29T15:31:03.829984+00:00"
 content_hash: "sha256:e71f6269eda0e974ff23c09e22c01efa3d6621e08394a14778bbd90932f290fc"
 ---
 

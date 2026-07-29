@@ -7,7 +7,7 @@ source_id: "evercommerce-inc-common-stock-rss-8b36004534dd"
 canonical_url: "https://www.nasdaq.com/articles/embracing-automation-the-positive-impact-of-technology-on-us-small-businesses"
 published_at: "2023-12-08T22:59:00+00:00"
 first_seen_at: "2026-07-24T08:48:31.908932+00:00"
-fetched_at: "2026-07-28T23:36:52.339325+00:00"
+fetched_at: "2026-07-29T15:32:30.996707+00:00"
 content_hash: "sha256:1a1d34414e5e99f3c6d538f1f581bbdd2796cce5809bad01d27837de82b0f231"
 ---
 

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f02e50e18f8ad655b6fd1a626b8f224aa2866d12524f2619e9ef44813024a68a",
+  "company": {
+    "key": "new-york-times-company-the-common-stock",
+    "name": "New York Times Company (The) Common Stock"
+  },
+  "source": {
+    "id": "new-york-times-company-the-common-stock-rss-077dcf020701",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.nytimes.com/2026/07/29/opinion/elon-musk-far-right-remigration.html",
+    "canonical": "https://www.nytimes.com/2026/07/29/opinion/elon-musk-far-right-remigration.html"
+  },
+  "title": "Why Do We Tolerate Elon Musk’s Racist Commentary?",
+  "summary": "Why does the owner of X get a pass for what he says and does there?",
+  "published_at": "2026-07-29T10:56:50+00:00",
+  "first_seen_at": "2026-07-29T09:49:52.450056+00:00",
+  "fetched_at": "2026-07-29T13:19:23.004190+00:00",
+  "last_updated_at": "2026-07-29T13:19:23.033937+00:00",
+  "paths": {
+    "article": "articles/v1/92/new-york-times-company-the-common-stock/2026/07/f0/f02e50e18f8ad655b6fd1a626b8f224aa2866d12524f2619e9ef44813024a68a/article.md",
+    "record": "articles/v1/92/new-york-times-company-the-common-stock/2026/07/f0/f02e50e18f8ad655b6fd1a626b8f224aa2866d12524f2619e9ef44813024a68a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 738,
+    "sha256": "sha256:8e9461447c4618545af66a5156b873baf00aa44f892a169c82f2d290c590c2bb",
+    "normalized_content_hash": "sha256:dcf6bde9e8653fd8e9577c7503f7a046e68b5b14f57fdf15dd83a5582e55458f"
+  },
+  "provenance": {
+    "source_item_id": "1ca085f5-86c7-4af5-babe-df35da9a5179",
+    "external_id": "https://www.nytimes.com/2026/07/29/opinion/elon-musk-far-right-remigration.html"
+  }
+}

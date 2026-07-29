@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/market-trends/hagerty-insider/10-oddball-cars-at-the-2026-monterey-auctions/"
 published_at: "2026-07-27T18:00:00+00:00"
 first_seen_at: "2026-07-27T19:21:44.747120+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:19a57c466f2ee4bbded23b0fc93a453d52e6161831d79b3ff4afb8e4ef494a68"
 ---
 

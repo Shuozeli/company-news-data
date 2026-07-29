@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2025/teradata-reports-third-quarter-2025-financial-results"
 published_at: "2025-11-04T08:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T23:07:12.403269+00:00"
+fetched_at: "2026-07-29T14:50:19.991351+00:00"
 content_hash: "sha256:7ea7d5ec096c89650e8b465ad6600217452cd290b4246081cbb6b40818b388f2"
 ---
 

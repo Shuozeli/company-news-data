@@ -7,7 +7,7 @@ source_id: "extra-space-storage-inc-common-stock-rss-589d889c512f"
 canonical_url: "https://ir.extraspace.com/news/news-details/2026/Extra-Space-Storage-Inc--Announces-Date-of-Earnings-Release-and-Conference-Call-to-Discuss-1st-Quarter-Results/default.aspx"
 published_at: "2026-03-30T20:15:00+00:00"
 first_seen_at: "2026-07-25T03:55:52.181743+00:00"
-fetched_at: "2026-07-28T23:32:41.780584+00:00"
+fetched_at: "2026-07-29T15:27:42.286563+00:00"
 content_hash: "sha256:13955333145c5d7fad95d7ac466547e53da9d233ead3455987d101737ba70816"
 ---
 

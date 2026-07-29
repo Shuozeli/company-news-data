@@ -7,7 +7,7 @@ source_id: "yc-tappity-rss-5facf5230dc9"
 canonical_url: "https://www.earlylearning.app/blog/2020/3/22/3-simple-fun-and-unique-at-home-activities-that-will-keep-kids-entertained-for-hours-rktjl"
 published_at: "2020-03-24T17:58:00+00:00"
 first_seen_at: "2026-07-26T01:27:42.930036+00:00"
-fetched_at: "2026-07-28T23:27:45.215123+00:00"
+fetched_at: "2026-07-29T15:23:48.155297+00:00"
 content_hash: "sha256:12228cb99f4c611907606a0781df566b70e272cf2794c1be20c75842b2306259"
 ---
 

@@ -7,7 +7,7 @@ source_id: "consolidated-water-co-ltd-ordinary-shares-rss-592e2c87a685"
 canonical_url: "https://ir.cwco.com/corporate/press-releases/news-details/2026/Consolidated-Water-Receives-25-Year-Exclusive-Retail-Water-License-for-Grand-Cayman-Operations-as-Tourism-Momentum-Continues/default.aspx"
 published_at: "2026-06-24T21:07:00+00:00"
 first_seen_at: "2026-07-26T12:13:59.807825+00:00"
-fetched_at: "2026-07-28T23:12:29.725987+00:00"
+fetched_at: "2026-07-29T14:58:16.020029+00:00"
 content_hash: "sha256:0c54aceefbac866fb6f8caeaccd87529d790bab6fd8dfb4684a3ddc68975cdd7"
 ---
 

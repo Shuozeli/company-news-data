@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-a-significant-subsea-contract-for-petrobras-marlim-and-voador-fields/"
 published_at: "2021-04-20T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-29T00:26:14.657354+00:00"
+fetched_at: "2026-07-29T17:23:25.881224+00:00"
 content_hash: "sha256:3dc8cd192f44d2657bc3f00f61a67dc7feb72c8c650056af3dc0bbb4fc1cec62"
 ---
 

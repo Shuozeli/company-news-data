@@ -4,9 +4,9 @@
     "key": "rapid7-inc-common-stock",
     "name": "Rapid7 Inc. Common Stock"
   },
-  "record_count": 46,
+  "record_count": 47,
   "first_published_at": "2025-01-07T14:00:00+00:00",
-  "last_published_at": "2026-07-28T18:32:03+00:00",
+  "last_published_at": "2026-07-29T13:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-01",
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 37
+      "record_count": 38
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -46,10 +46,10 @@
       {
         "page": 1,
         "path": "articles/v1/22/rapid7-inc-common-stock/index/pages/000001.json",
-        "record_count": 46,
-        "byte_count": 55990,
-        "sha256": "sha256:bc351493917fa743b36b0a058921bb324ddb97f6afc0d56aeb7e4fbdd8f30835",
-        "newest_at": "2026-07-28T21:37:39.039431+00:00",
+        "record_count": 47,
+        "byte_count": 57155,
+        "sha256": "sha256:73cb2eba3de3322f5a5eced54a7bcc02540dd508e10248872a5fce52e6ac29df",
+        "newest_at": "2026-07-29T13:00:00+00:00",
         "oldest_at": "2025-01-07T14:00:00+00:00"
       }
     ]

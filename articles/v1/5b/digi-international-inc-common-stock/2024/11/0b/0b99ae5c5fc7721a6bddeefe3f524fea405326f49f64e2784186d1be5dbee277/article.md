@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/digi-software-updates-for-dalos-24-9-and-digi-rm"
 published_at: "2024-11-15T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:11fe47b03f7279c503b301cc8e306e2e16ee83314b81073befa6e5a594846575"
 ---
 

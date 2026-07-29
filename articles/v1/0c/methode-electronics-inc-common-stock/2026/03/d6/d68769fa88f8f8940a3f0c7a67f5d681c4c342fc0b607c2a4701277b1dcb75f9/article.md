@@ -7,7 +7,7 @@ source_id: "methode-electronics-inc-common-stock-rss-6edafacdf2f1"
 canonical_url: "https://ir.methode.com/news/news-details/2026/MethodeElectronics-Announces-Sale-ofdataMateBusiness/default.aspx"
 published_at: "2026-03-05T21:20:00+00:00"
 first_seen_at: "2026-07-25T13:58:57.317442+00:00"
-fetched_at: "2026-07-28T23:33:53.652231+00:00"
+fetched_at: "2026-07-29T15:30:06.857371+00:00"
 content_hash: "sha256:d08b84ea1ba17b9137eeb0390bd92aa2455e6d22a82327631a15440b2f63b480"
 ---
 

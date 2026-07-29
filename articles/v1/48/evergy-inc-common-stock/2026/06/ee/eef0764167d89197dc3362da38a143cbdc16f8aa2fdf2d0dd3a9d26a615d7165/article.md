@@ -7,7 +7,7 @@ source_id: "evergy-inc-common-stock-rss-921793057d9e"
 canonical_url: "https://blog.evergyenergypartners.com/case-study-city-of-nixa"
 published_at: "2026-06-15T19:05:00+00:00"
 first_seen_at: "2026-07-20T03:32:28.130485+00:00"
-fetched_at: "2026-07-28T23:28:58.944984+00:00"
+fetched_at: "2026-07-29T15:26:29.223096+00:00"
 content_hash: "sha256:ed1f042a15e6bc4e646998e7ab5fa2faca7f08327ec30db7216de56086c25507"
 ---
 

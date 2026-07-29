@@ -4,9 +4,9 @@
     "key": "bioharvest-sciences-inc-common-stock",
     "name": "BioHarvest Sciences Inc. Common Stock"
   },
-  "record_count": 6,
+  "record_count": 7,
   "first_published_at": "2026-05-13T14:08:04+00:00",
-  "last_published_at": "2026-07-15T15:19:43+00:00",
+  "last_published_at": "2026-07-29T12:51:16+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -18,11 +18,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,10 +30,10 @@
       {
         "page": 1,
         "path": "articles/v1/49/bioharvest-sciences-inc-common-stock/index/pages/000001.json",
-        "record_count": 6,
-        "byte_count": 9089,
-        "sha256": "sha256:60539f1e69db31e67a2b1d3f798f34fedbae72d4d5eb71b937a06aa8af241a50",
-        "newest_at": "2026-07-15T15:19:43+00:00",
+        "record_count": 7,
+        "byte_count": 10535,
+        "sha256": "sha256:fdb9d94f8b09bca3e4530598a2849eeeb851230881437941cee95e6737134f15",
+        "newest_at": "2026-07-29T12:51:16+00:00",
         "oldest_at": "2026-05-13T14:08:04+00:00"
       }
     ]

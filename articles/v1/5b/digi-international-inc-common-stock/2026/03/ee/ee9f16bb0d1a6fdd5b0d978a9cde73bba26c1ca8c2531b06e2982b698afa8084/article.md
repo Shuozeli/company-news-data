@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2026/smartsense-survey-report-heightened-cost"
 published_at: "2026-03-18T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:3253dc410b8c6166a12e0cf270edcc8a89ee9ff4e22fb1848e6113103e547e21"
 ---
 

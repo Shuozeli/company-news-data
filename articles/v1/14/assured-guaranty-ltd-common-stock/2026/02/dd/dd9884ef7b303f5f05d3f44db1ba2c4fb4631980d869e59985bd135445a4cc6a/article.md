@@ -7,7 +7,7 @@ source_id: "assured-guaranty-ltd-common-stock-rss-a0c04d90a5d9"
 canonical_url: "https://info.assuredguaranty.com/press-room/all-press-releases/news-details/2026/Assured-Guaranty-Ltd--to-Report-Full-Year-and-Fourth-Quarter-2025-Financial-Results-on-February-26-2026/default.aspx"
 published_at: "2026-02-11T21:00:00+00:00"
 first_seen_at: "2026-07-26T09:42:28.838945+00:00"
-fetched_at: "2026-07-28T23:43:29.547621+00:00"
+fetched_at: "2026-07-29T15:37:49.703039+00:00"
 content_hash: "sha256:3fe5a72b61c05ee992de375625c3722be5853b36c563d21b06d1ca38e5bc801e"
 ---
 

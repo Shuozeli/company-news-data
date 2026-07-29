@@ -7,7 +7,7 @@ source_id: "tripadvisor-inc-common-stock-rss-6295d6870799"
 canonical_url: "https://medium.com/tripadvisor/how-weekly-operations-reviews-strengthen-engineering-teams-90222a5100b1"
 published_at: "2026-03-02T16:30:00+00:00"
 first_seen_at: "2026-07-20T23:18:15.449539+00:00"
-fetched_at: "2026-07-29T00:17:38.800558+00:00"
+fetched_at: "2026-07-29T17:19:06.309843+00:00"
 content_hash: "sha256:760ce31753ec9bfb5275014e1b03fb91aea9d5c459ad5dee99010fc60de54dec"
 ---
 

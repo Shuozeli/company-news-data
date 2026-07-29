@@ -4,17 +4,17 @@
     "key": "yc-combinehealth",
     "name": "CombineHealth"
   },
-  "record_count": 14,
+  "record_count": 15,
   "first_published_at": "2026-07-07T18:30:00+00:00",
-  "last_published_at": "2026-07-27T18:30:00+00:00",
+  "last_published_at": "2026-07-28T18:30:00+00:00",
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 14
+      "record_count": 15
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/8d/yc-combinehealth/index/pages/000001.json",
-        "record_count": 14,
-        "byte_count": 14995,
-        "sha256": "sha256:3d682a2ef1debe5d62abeb39e2d2964bf540313772d93546c42f7ab6b275d873",
-        "newest_at": "2026-07-27T18:30:00+00:00",
+        "record_count": 15,
+        "byte_count": 16026,
+        "sha256": "sha256:b7209657fe1cd58674649c9afbb36ca9277c00a2daa5425ad8701eace41e0295",
+        "newest_at": "2026-07-28T18:30:00+00:00",
         "oldest_at": "2026-07-07T18:30:00+00:00"
       }
     ]

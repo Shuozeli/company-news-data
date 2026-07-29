@@ -7,7 +7,7 @@ source_id: "arthur-j-gallagher-co-common-stock-rss-4a6c70b51a08"
 canonical_url: "https://investor.ajg.com/news/news-details/2026/Arthur-J--Gallagher--Co--Acquires-W-N--Tuscano-Agency-Inc-/default.aspx"
 published_at: "2026-07-21T13:00:00+00:00"
 first_seen_at: "2026-07-26T22:52:16.037730+00:00"
-fetched_at: "2026-07-29T00:30:09.662219+00:00"
+fetched_at: "2026-07-29T13:57:40.689838+00:00"
 content_hash: "sha256:3463ab597c801f2584d3417796707548a4ee9afa46d873f74d4d14141e466181"
 ---
 

@@ -7,7 +7,7 @@ source_id: "siga-technologies-inc-common-stock-rss-8779b6f17980"
 canonical_url: "https://investor.siga.com/investors/news/news-details/2026/SIGA-Declares-Special-Cash-Dividend-of-0-60-Per-Share/default.aspx"
 published_at: "2026-03-26T20:01:00+00:00"
 first_seen_at: "2026-07-25T23:04:21.697807+00:00"
-fetched_at: "2026-07-28T23:34:19.886275+00:00"
+fetched_at: "2026-07-29T15:29:57.330331+00:00"
 content_hash: "sha256:6e81e787dca2769dcd02421e83c05ea35adeaddb3d793f79ed6faea74a243ceb"
 ---
 

@@ -7,7 +7,7 @@ source_id: "spruce-power-holding-corporation-class-a-common-stock-rss-3c9778a338
 canonical_url: "https://investors.sprucepower.com/news/news-details/2026/Spruce-Power-to-Release-Fourth-Quarter-and-Full-Year-2025-Results-and-Host-Conference-Call-on-March-30/default.aspx"
 published_at: "2026-03-24T20:03:00+00:00"
 first_seen_at: "2026-07-26T00:03:19.386569+00:00"
-fetched_at: "2026-07-29T00:07:57.504840+00:00"
+fetched_at: "2026-07-29T17:12:14.664654+00:00"
 content_hash: "sha256:68e0f0564e4a6f3a294dc3aad2b8ebd9076c56949d176167db84d8605e952baf"
 ---
 

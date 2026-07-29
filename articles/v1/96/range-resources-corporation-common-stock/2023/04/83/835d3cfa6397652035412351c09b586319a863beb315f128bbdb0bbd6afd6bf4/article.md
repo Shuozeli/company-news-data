@@ -7,7 +7,7 @@ source_id: "range-resources-corporation-common-stock-rss-39ebe470ada3"
 canonical_url: "https://www.rangeresources.com/range-publishes-second-public-health-evaluation-confirming-no-contributions-to-potential-health-impacts-from-shale-development/"
 published_at: "2023-04-25T16:08:00+00:00"
 first_seen_at: "2026-07-25T01:14:33.578834+00:00"
-fetched_at: "2026-07-29T00:50:21.600149+00:00"
+fetched_at: "2026-07-29T16:58:42.414622+00:00"
 content_hash: "sha256:b42300be4531f6843bc0b3b9393a0bb700eb4957814c6d276dabb4c0227386da"
 ---
 

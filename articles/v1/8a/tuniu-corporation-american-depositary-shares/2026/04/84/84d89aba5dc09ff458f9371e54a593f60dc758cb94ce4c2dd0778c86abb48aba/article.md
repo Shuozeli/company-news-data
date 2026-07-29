@@ -7,7 +7,7 @@ source_id: "tuniu-corporation-american-depositary-shares-rss-680deb8ac97f"
 canonical_url: "https://ir.tuniu.com/2026-04-23-Tuniu-Discloses-Cash-Dividend-to-Holders-of-ADSs"
 published_at: "2026-04-23T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:54.003826+00:00"
-fetched_at: "2026-07-29T00:44:52.266067+00:00"
+fetched_at: "2026-07-29T14:09:26.079404+00:00"
 content_hash: "sha256:4a799c6dabe68122a543047491ca0346b04967f18d46746f8ecead0de78ae01c"
 ---
 

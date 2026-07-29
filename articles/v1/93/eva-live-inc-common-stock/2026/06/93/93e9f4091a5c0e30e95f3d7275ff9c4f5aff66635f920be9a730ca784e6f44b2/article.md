@@ -7,7 +7,7 @@ source_id: "eva-live-inc-common-stock-rss-fa36d30c6b04"
 canonical_url: "https://eva.live/eva-live-launches-fastquotedirect-its-ai-powered-consumer-engagement-platform-across-5-6-billion-dollar-market/"
 published_at: "2026-06-05T06:00:00+00:00"
 first_seen_at: "2026-07-25T03:24:54.313623+00:00"
-fetched_at: "2026-07-28T23:38:42.811853+00:00"
+fetched_at: "2026-07-29T15:33:36.261466+00:00"
 content_hash: "sha256:a0fe4a6bf3872ee64a1391e5b043126bd34f65a95033d427099e35d6eddec4c2"
 ---
 

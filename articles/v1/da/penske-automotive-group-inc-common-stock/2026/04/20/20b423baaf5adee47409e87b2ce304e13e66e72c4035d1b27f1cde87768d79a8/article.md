@@ -7,7 +7,7 @@ source_id: "penske-automotive-group-inc-common-stock-rss-a02bf8e21472"
 canonical_url: "https://investors.penskeautomotive.com/news/news-details/2026/PENSKE-AUTOMOTIVE-GROUP-SCHEDULES-FIRST-QUARTER-2026-FINANCIAL-RESULTS-CONFERENCE-CALL/default.aspx"
 published_at: "2026-04-13T20:30:00+00:00"
 first_seen_at: "2026-07-25T18:44:51.963501+00:00"
-fetched_at: "2026-07-28T23:09:44.794270+00:00"
+fetched_at: "2026-07-29T14:57:00.985197+00:00"
 content_hash: "sha256:3886828c789e748141997aed11b447533c8ac3240fee0d403003d599e0ca1d82"
 ---
 

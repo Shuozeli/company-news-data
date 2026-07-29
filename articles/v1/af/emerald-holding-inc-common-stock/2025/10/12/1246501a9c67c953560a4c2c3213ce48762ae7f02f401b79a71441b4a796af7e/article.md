@@ -7,7 +7,7 @@ source_id: "emerald-holding-inc-common-stock-rss-725768d323f2"
 canonical_url: "https://www.emeraldx.com/emerald-reports-third-quarter-2025-financial-results/"
 published_at: "2025-10-31T13:05:12+00:00"
 first_seen_at: "2026-07-25T02:15:22.320048+00:00"
-fetched_at: "2026-07-28T23:49:56.532091+00:00"
+fetched_at: "2026-07-29T15:43:39.541465+00:00"
 content_hash: "sha256:1a2d5bb903a25f36b58065d40bcff2c847e1a755eecea8bd25d5079d3aabe05f"
 ---
 

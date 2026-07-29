@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/story/2026/calling-is-connecting.html"
 published_at: "2026-07-13T12:00:00+00:00"
 first_seen_at: "2026-07-20T04:35:42.625239+00:00"
-fetched_at: "2026-07-28T23:38:49.340178+00:00"
+fetched_at: "2026-07-29T15:32:36.560237+00:00"
 content_hash: "sha256:eb76ae6222d2538e5b7877d1ee4dea26b738b0cbb2d65d9e6b96e058842b4738"
 ---
 

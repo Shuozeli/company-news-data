@@ -7,7 +7,7 @@ source_id: "shoe-carnival-inc-common-stock-rss-066a5ac40f71"
 canonical_url: "https://investors.shoecarnival.com/news/news-details/2026/Shoe-Carnival-Declares-Increased-Quarterly-Cash-Dividend-and-Sets-Date-for-Fourth-Quarter-2025-Earnings-Release/default.aspx"
 published_at: "2026-03-09T15:45:00+00:00"
 first_seen_at: "2026-07-25T22:52:29.471785+00:00"
-fetched_at: "2026-07-29T00:25:35.973785+00:00"
+fetched_at: "2026-07-29T17:26:14.876840+00:00"
 content_hash: "sha256:34b665139e91a0e9a16466af1b390880fe892f820ff28d0d4f8ba0bb3e079443"
 ---
 

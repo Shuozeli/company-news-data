@@ -7,7 +7,7 @@ source_id: "atmos-energy-corporation-common-stock-rss-883faa8fc121"
 canonical_url: "https://www.investors.atmosenergy.com/news/news-details/2025/Atmos-Energy-Corporation-Reports-Earnings-for-Fiscal-2025-Initiates-Fiscal-2026-Guidance-Raises-Dividend/default.aspx"
 published_at: "2025-11-05T21:31:00+00:00"
 first_seen_at: "2026-07-26T23:07:07.098622+00:00"
-fetched_at: "2026-07-29T00:42:09.965709+00:00"
+fetched_at: "2026-07-29T14:06:31.934527+00:00"
 content_hash: "sha256:c2c2e1ec4392c3a912ed9ae42c4ccd964ddc5120d901bdb1260fb2251c89f0d2"
 ---
 

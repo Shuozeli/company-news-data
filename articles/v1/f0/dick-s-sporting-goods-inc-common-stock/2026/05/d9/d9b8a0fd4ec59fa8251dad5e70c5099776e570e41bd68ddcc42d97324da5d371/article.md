@@ -7,7 +7,7 @@ source_id: "dick-s-sporting-goods-inc-common-stock-rss-de248d14cae7"
 canonical_url: "https://investors.dicks.com/news/news-details/2026/DICKS-Sporting-Goods-Introduces-Coach-by-DICKS-an-Agentic-AI-Conversational-Experience-to-Support-Athletes-at-Every-Stage/default.aspx"
 published_at: "2026-05-22T17:15:00+00:00"
 first_seen_at: "2026-07-25T01:49:30.343356+00:00"
-fetched_at: "2026-07-28T23:09:14.310149+00:00"
+fetched_at: "2026-07-29T14:54:13.044553+00:00"
 content_hash: "sha256:aa53db975679d578432c9b8248752074275a6bc3969a38e7f03fbdb4a72de00f"
 ---
 

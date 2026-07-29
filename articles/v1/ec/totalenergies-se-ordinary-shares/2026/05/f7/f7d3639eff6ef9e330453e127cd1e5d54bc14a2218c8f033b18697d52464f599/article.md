@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/patrick-pouyanne-patron-de-totalenergies-nos-profits-ne-tombent-pas-du-ciel/"
 published_at: "2026-05-28T08:47:00+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-29T00:33:16.098879+00:00"
+fetched_at: "2026-07-29T13:59:20.653816+00:00"
 content_hash: "sha256:46a11635dd5a41f1c00a7e548efc01f63bfe9b8d004503cc40b996d1a84694f0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "essent-group-ltd-common-shares-rss-73b1762c5152"
 canonical_url: "https://www.essent.us/essent-api"
 published_at: "2025-01-16T17:09:07+00:00"
 first_seen_at: "2026-07-25T03:08:43.110347+00:00"
-fetched_at: "2026-07-28T23:09:05.620698+00:00"
+fetched_at: "2026-07-29T14:51:12.708470+00:00"
 content_hash: "sha256:73fcf3ff7fdfc4c580b4422e5eab828b30cc1e223408442270782859c7e37d6f"
 ---
 

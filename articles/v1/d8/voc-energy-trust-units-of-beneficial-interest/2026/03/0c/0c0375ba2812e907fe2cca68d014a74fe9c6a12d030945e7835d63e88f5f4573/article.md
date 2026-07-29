@@ -7,7 +7,7 @@ source_id: "voc-energy-trust-units-of-beneficial-interest-rss-4903f6e3b905"
 canonical_url: "https://voc.q4web.com/news-releases/news-details/2026/VOC-Energy-Trust-Files-2025-Annual-Report-on-Form-10-K/default.aspx"
 published_at: "2026-03-24T20:20:00+00:00"
 first_seen_at: "2026-07-26T04:55:08.456007+00:00"
-fetched_at: "2026-07-29T00:01:24.532577+00:00"
+fetched_at: "2026-07-29T15:47:09.262187+00:00"
 content_hash: "sha256:86a4acbb9a2c90e1e0eeaf7f5378f85c47400a59aaafd102f5cad2a0a7014b76"
 ---
 

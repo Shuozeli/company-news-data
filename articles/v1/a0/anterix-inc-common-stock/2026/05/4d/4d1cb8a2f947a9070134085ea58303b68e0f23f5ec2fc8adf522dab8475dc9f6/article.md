@@ -7,7 +7,7 @@ source_id: "anterix-inc-common-stock-rss-5ccc97b4bda7"
 canonical_url: "https://investors.anterix.com/news-releases/news-release-details/lynk-and-anterix-get-fcc-nod-test-satellite-d2d-private-utility"
 published_at: "2026-05-19T13:49:36+00:00"
 first_seen_at: "2026-07-26T09:22:22.313626+00:00"
-fetched_at: "2026-07-28T23:41:44.309473+00:00"
+fetched_at: "2026-07-29T15:35:53.916245+00:00"
 content_hash: "sha256:2a3201b4a52c0fe686e9f54dbb1c5126010687d605e0fb0d3634ff784510b909"
 ---
 

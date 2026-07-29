@@ -7,7 +7,7 @@ source_id: "cnfinance-holdings-limited-american-depositary-shares-each-represent
 canonical_url: "https://ir.cashchina.cn/2026-04-30-CNFinance-Files-Annual-Report-on-Form-20-F-for-Fiscal-Year-2025"
 published_at: "2026-04-30T20:35:00+00:00"
 first_seen_at: "2026-07-24T22:41:06.464135+00:00"
-fetched_at: "2026-07-28T23:04:13.541099+00:00"
+fetched_at: "2026-07-29T14:42:45.656610+00:00"
 content_hash: "sha256:ac1be16eb2f4668d7a18d6be4b36418c03890ca87861fea9e0d890045cbbab67"
 ---
 

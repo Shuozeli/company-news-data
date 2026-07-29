@@ -7,7 +7,7 @@ source_id: "dte-energy-company-common-stock-rss-f527ae2f6741"
 canonical_url: "https://ir.dteenergy.com/news/press-release-details/2026/DTE-Energy-reports-second-quarter-2026-accomplishments-investments-and-earnings/default.aspx"
 published_at: "2026-07-28T11:00:00+00:00"
 first_seen_at: "2026-07-28T11:47:16.087456+00:00"
-fetched_at: "2026-07-28T23:05:39.719456+00:00"
+fetched_at: "2026-07-29T14:46:47.523930+00:00"
 content_hash: "sha256:4488d2247726a06a81dcd61e510b40511446140a87dab78048eb8ebe3154ab8c"
 ---
 

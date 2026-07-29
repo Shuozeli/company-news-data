@@ -5,10 +5,10 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/us/politics/spy-chief-bill-pulte-final-hours.html"
-published_at: "2026-07-28T23:25:50+00:00"
+published_at: "2026-07-28T23:25:51+00:00"
 first_seen_at: "2026-07-28T21:10:05.886882+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
-content_hash: "sha256:1978d19e02f98f1f29b912e468500a11f03ee94fa5f31a1a990fd35b8d36c216"
+fetched_at: "2026-07-29T09:49:52.392820+00:00"
+content_hash: "sha256:329053bb917a35376f18887b4f50c6650def94fb03466dfa332b3dfe2e229c9a"
 ---
 
 # Trump’s Spy Chief Spends Final Hours in Job Boasting of Mass Firings

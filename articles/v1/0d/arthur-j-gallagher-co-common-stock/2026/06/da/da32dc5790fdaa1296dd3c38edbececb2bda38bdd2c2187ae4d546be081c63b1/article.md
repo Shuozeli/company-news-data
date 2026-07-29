@@ -7,7 +7,7 @@ source_id: "arthur-j-gallagher-co-common-stock-rss-4a6c70b51a08"
 canonical_url: "https://investor.ajg.com/news/news-details/2026/Gallagher-Survey-Finds-Business-Owners-Are-Taking-More-Integrated-Approaches-to-Risk-as-Pressures-Mount/default.aspx"
 published_at: "2026-06-10T13:00:00+00:00"
 first_seen_at: "2026-07-26T22:52:16.037730+00:00"
-fetched_at: "2026-07-29T00:30:09.662219+00:00"
+fetched_at: "2026-07-29T13:57:40.689838+00:00"
 content_hash: "sha256:4c8122d9414db973b3b0a81bf7d47c12d95eff8c2d38c71c23ba022e4a19156d"
 ---
 

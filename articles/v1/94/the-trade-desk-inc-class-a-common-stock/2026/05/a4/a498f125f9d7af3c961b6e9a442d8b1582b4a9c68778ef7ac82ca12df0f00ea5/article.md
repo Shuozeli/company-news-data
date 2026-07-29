@@ -7,7 +7,7 @@ source_id: "the-trade-desk-inc-class-a-common-stock-rss-72860708601d"
 canonical_url: "https://investors.thetradedesk.com/news-and-events/news/news-details/2026/The-Trade-Desk-Reports-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-05-07T20:01:00+00:00"
 first_seen_at: "2026-07-26T02:22:02.161763+00:00"
-fetched_at: "2026-07-29T00:29:37.665134+00:00"
+fetched_at: "2026-07-29T13:56:54.233366+00:00"
 content_hash: "sha256:01be7b8b3d78fb7528e3c48f8c9148039d45331bb8e0a7c99f8c9db3f70bb2d3"
 ---
 

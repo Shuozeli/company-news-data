@@ -7,7 +7,7 @@ source_id: "the-beachbody-company-inc-class-a-common-stock-rss-35a92663784d"
 canonical_url: "https://thebeachbodycompany.com/news/news-details/2026/The-Vitamin-Shoppe-to-Add-Shakeology-by-BODi-in-Retail-Locations-Nationwide/default.aspx"
 published_at: "2026-05-11T12:00:00+00:00"
 first_seen_at: "2026-07-26T02:03:19.730585+00:00"
-fetched_at: "2026-07-28T23:40:31.042221+00:00"
+fetched_at: "2026-07-29T15:33:58.611585+00:00"
 content_hash: "sha256:e833ba3c69730e5f37ac4064d10cc87e0aaef178478467047c3e7d759c3bcec5"
 ---
 

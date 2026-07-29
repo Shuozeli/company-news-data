@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/top-ai-voice-agent-metrics-regulated-finance"
 published_at: "2025-09-22T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:d1982591e0c0208fca74fd9c6d1a4cc7d79a6a850d9bd8323f964ab3b0429b7f"
 ---
 

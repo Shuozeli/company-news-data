@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/hinge/hinges-latest-feature-makes-date-planning-a-little-easier/"
 published_at: "2026-04-22T17:33:54+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:270b8607218ed9222f630d03247f477fecd466cc46e30a643b746dc02900d3e8"
 ---
 

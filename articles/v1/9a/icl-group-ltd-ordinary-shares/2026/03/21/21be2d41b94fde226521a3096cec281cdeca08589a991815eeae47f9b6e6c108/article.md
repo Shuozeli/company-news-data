@@ -7,7 +7,7 @@ source_id: "icl-group-ltd-ordinary-shares-rss-1319d6d0e2f1"
 canonical_url: "https://investors.icl-group.com/reports-news-and-events/press-releases/press-releases-details/2026/ICL-Group-Opens-Specialty-Fertilizer-Manufacturing-Facility-in-India/default.aspx"
 published_at: "2026-03-18T04:00:00+00:00"
 first_seen_at: "2026-07-28T23:02:56.552705+00:00"
-fetched_at: "2026-07-28T23:02:56.502587+00:00"
+fetched_at: "2026-07-29T14:39:30.358461+00:00"
 content_hash: "sha256:52e7f31d28b2cda721d58613147a72da2d0719aa092dc70a319f6afaf8658a7d"
 ---
 

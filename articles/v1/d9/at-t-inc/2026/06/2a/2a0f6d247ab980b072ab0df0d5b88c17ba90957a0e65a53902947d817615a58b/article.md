@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/story/2026/att-expands-build-a-plan.html"
 published_at: "2026-06-30T11:00:00+00:00"
 first_seen_at: "2026-07-20T04:35:42.625239+00:00"
-fetched_at: "2026-07-28T23:38:49.340178+00:00"
+fetched_at: "2026-07-29T15:32:36.560237+00:00"
 content_hash: "sha256:03d3fa1f10322f65e20192def8c45a568fa08217204b879a5299b4b663ce2899"
 ---
 

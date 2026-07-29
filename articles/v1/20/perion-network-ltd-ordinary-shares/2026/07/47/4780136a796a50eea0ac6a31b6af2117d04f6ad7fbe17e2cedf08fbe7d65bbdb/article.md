@@ -7,7 +7,7 @@ source_id: "perion-network-ltd-ordinary-shares-rss-2c2626ab728d"
 canonical_url: "https://perion.com/product/how-to-increase-the-return-on-ad-spend-roas/"
 published_at: "2026-07-13T15:02:25+00:00"
 first_seen_at: "2026-07-20T23:22:51.777610+00:00"
-fetched_at: "2026-07-28T23:25:21.207430+00:00"
+fetched_at: "2026-07-29T15:20:28.430784+00:00"
 content_hash: "sha256:0003f6f3ff5d1ab11600a073cb84734321331f70c3c37ed4802a94d1976a15d7"
 ---
 

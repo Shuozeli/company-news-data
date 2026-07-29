@@ -7,7 +7,7 @@ source_id: "xcf-global-inc-class-a-common-stock-rss-7600714c668d"
 canonical_url: "https://xcf.global/news-details/2026/XCF-Announces-2-50-Exercise-Price-Warrant-Capital-Strategy-to-Support-Operations-and-Growth/default.aspx"
 published_at: "2026-07-22T10:30:00+00:00"
 first_seen_at: "2026-07-27T06:08:47.646338+00:00"
-fetched_at: "2026-07-28T23:35:50.576355+00:00"
+fetched_at: "2026-07-29T15:31:30.081629+00:00"
 content_hash: "sha256:a03d804276082286d2b042fd6a64fd70dad880a4aeaa7f42c8d9f525ada5a438"
 ---
 

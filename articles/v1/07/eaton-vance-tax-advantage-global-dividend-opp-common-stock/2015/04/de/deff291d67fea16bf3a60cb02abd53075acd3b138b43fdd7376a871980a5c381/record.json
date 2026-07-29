@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "deff291d67fea16bf3a60cb02abd53075acd3b138b43fdd7376a871980a5c381",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/bluemonte-diversified-income-etf-exchange-traded-concepts-trust-nyse-blui-declared-a-dividend-of-$0.1022-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/bluemonte-diversified-income-etf-exchange-traded-concepts-trust-nyse-blui-declared-a-dividend-of-$0.1022-per-share/"
+  },
+  "title": "BLUI Dividend Announcement $0.1022/Share 7/28/2026",
+  "summary": "NYSE:BLUI Bluemonte Diversified Income ETF/Exchange Traded Concepts Trust Dividend Announcement $0.1022 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.558514+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/de/deff291d67fea16bf3a60cb02abd53075acd3b138b43fdd7376a871980a5c381/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/de/deff291d67fea16bf3a60cb02abd53075acd3b138b43fdd7376a871980a5c381/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1693,
+    "sha256": "sha256:1d0099813d8555df5eb1f8e261438b30c304466f46700ba86dbe40f7fffe9784",
+    "normalized_content_hash": "sha256:fc0747bb4afeeab0f9e4fc939f6cf1036d927c300fa85894f58e5dc73a0f6922"
+  },
+  "provenance": {
+    "source_item_id": "6e6fc698-94e1-4630-8286-312bbd238841",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/bluemonte-diversified-income-etf-exchange-traded-concepts-trust-nyse-blui-declared-a-dividend-of-$0.1022-per-share/"
+  }
+}

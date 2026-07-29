@@ -7,7 +7,7 @@ source_id: "ericsson-american-depositary-shares-atom-6bf64ebaa824"
 canonical_url: "https://www.ericsson.com/en/press-releases/2026/7/lg-uplus-voice-ai"
 published_at: "2026-07-22T00:33:00+00:00"
 first_seen_at: "2026-07-22T02:32:20.885428+00:00"
-fetched_at: "2026-07-29T00:16:19.705635+00:00"
+fetched_at: "2026-07-29T17:19:26.186158+00:00"
 content_hash: "sha256:c150426ad61ea6fe4f44a2da35101d7e3c06d4a6700a3744edaec9e6e83d680d"
 ---
 

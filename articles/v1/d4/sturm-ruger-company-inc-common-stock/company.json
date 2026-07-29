@@ -4,9 +4,9 @@
     "key": "sturm-ruger-company-inc-common-stock",
     "name": "Sturm Ruger & Company Inc. Common Stock"
   },
-  "record_count": 20,
+  "record_count": 21,
   "first_published_at": "2026-01-19T11:00:00+00:00",
-  "last_published_at": "2026-07-15T16:05:00+00:00",
+  "last_published_at": "2026-07-28T16:05:00+00:00",
   "partitions": [
     {
       "partition": "2026-01",
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 1
+      "record_count": 2
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -46,10 +46,10 @@
       {
         "page": 1,
         "path": "articles/v1/d4/sturm-ruger-company-inc-common-stock/index/pages/000001.json",
-        "record_count": 20,
-        "byte_count": 20201,
-        "sha256": "sha256:48ac889046bfccbf904acad63845597f3483f9a402b1746c03dfe2d30a63c7e0",
-        "newest_at": "2026-07-15T16:05:00+00:00",
+        "record_count": 21,
+        "byte_count": 21212,
+        "sha256": "sha256:b5154d33667f3798ab0c3220326fd0fd2d735ab88f8bb98dc3c94f0529d1cfdf",
+        "newest_at": "2026-07-28T16:05:00+00:00",
         "oldest_at": "2026-01-19T11:00:00+00:00"
       }
     ]

@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/member-stories/my-69-corvette-was-a-dream-fulfilled/"
 published_at: "2026-07-20T19:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:378a4dce3207e9913fa70c1f6495c7e691e702e856ac345cbbb24e7e21998dd3"
 ---
 

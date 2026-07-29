@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/hinge/hinge-celebrates-the-near-misses-behind-every-gen-z-love-story/"
 published_at: "2026-05-14T21:09:38+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:7872ea8cc24ceef723b29391669dd24c57ea098916907e3f239e276995db6d9e"
 ---
 

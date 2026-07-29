@@ -4,9 +4,9 @@
     "key": "new-york-times-company-the-common-stock",
     "name": "New York Times Company (The) Common Stock"
   },
-  "record_count": 239,
+  "record_count": 278,
   "first_published_at": "2026-04-02T20:08:50+00:00",
-  "last_published_at": "2026-07-28T23:40:40+00:00",
+  "last_published_at": "2026-07-29T16:52:34+00:00",
   "partitions": [
     {
       "partition": "2026-04",
@@ -22,58 +22,67 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 234
+      "record_count": 273
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
-    "page_count": 5,
+    "page_count": 6,
     "pages": [
       {
         "page": 1,
         "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 58337,
-        "sha256": "sha256:e8baa20684d8bcdae1f267466314af54ca08df54ae8ab56d26f76d5661082a84",
-        "newest_at": "2026-07-28T23:40:40+00:00",
-        "oldest_at": "2026-07-28T13:13:34+00:00"
+        "byte_count": 57993,
+        "sha256": "sha256:4dee09d89746af838435505eff26c685073b36da2d090b87e3987d62b49342d5",
+        "newest_at": "2026-07-29T16:52:34+00:00",
+        "oldest_at": "2026-07-28T23:12:12+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000002.json",
         "record_count": 50,
-        "byte_count": 58109,
-        "sha256": "sha256:9ff944e10999d808488e739c2cff1a6b122f6ba63adc61e6104e3eb0b7f96c9b",
-        "newest_at": "2026-07-28T13:12:25+00:00",
-        "oldest_at": "2026-07-27T16:30:33+00:00"
+        "byte_count": 58023,
+        "sha256": "sha256:f5ca5c21d92677875a714c39f3190ec17f5280e1d6ffda4ddd67d2554323c4a0",
+        "newest_at": "2026-07-28T22:38:23+00:00",
+        "oldest_at": "2026-07-28T09:01:03+00:00"
       },
       {
         "page": 3,
         "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000003.json",
         "record_count": 50,
-        "byte_count": 58695,
-        "sha256": "sha256:ae412cbbdb4a522b61d0868b177277f476285cf00f1e37302233b59ff64f2a64",
-        "newest_at": "2026-07-27T16:07:45+00:00",
-        "oldest_at": "2026-07-26T13:35:03+00:00"
+        "byte_count": 58355,
+        "sha256": "sha256:93988494cf70a5e355027390a2f7fb17790d0d692bb08306dcf3d0c430202324",
+        "newest_at": "2026-07-28T09:00:48+00:00",
+        "oldest_at": "2026-07-27T12:48:09+00:00"
       },
       {
         "page": 4,
         "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000004.json",
         "record_count": 50,
-        "byte_count": 58088,
-        "sha256": "sha256:168967236fd1842d07db785c930d366b5e29d5ade62dfb65daf804315957ba3c",
-        "newest_at": "2026-07-26T13:00:06+00:00",
-        "oldest_at": "2026-07-25T00:06:49+00:00"
+        "byte_count": 58526,
+        "sha256": "sha256:41ec60886deb5ef657f675442a162c5bf713b92ac89862332dbccb9fa74badc2",
+        "newest_at": "2026-07-27T12:37:04+00:00",
+        "oldest_at": "2026-07-26T04:01:13+00:00"
       },
       {
         "page": 5,
         "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000005.json",
-        "record_count": 39,
-        "byte_count": 43462,
-        "sha256": "sha256:7b4eebd8c3fc791aafaad61f63420704f0dd629acbc542bc401873aa611d3fdb",
-        "newest_at": "2026-07-24T23:02:23+00:00",
+        "record_count": 50,
+        "byte_count": 58403,
+        "sha256": "sha256:9f39dc81c47cafd872aaad7b3c1e704d7a03e3d6812f635060ae7ac586b1ebd1",
+        "newest_at": "2026-07-26T00:20:15+00:00",
+        "oldest_at": "2026-07-24T18:18:50+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000006.json",
+        "record_count": 28,
+        "byte_count": 30417,
+        "sha256": "sha256:a5de69198fa14cbb5cac52586901de152976b565350cab93baa2b48070953495",
+        "newest_at": "2026-07-24T15:08:01+00:00",
         "oldest_at": "2026-04-02T20:08:50+00:00"
       }
     ]

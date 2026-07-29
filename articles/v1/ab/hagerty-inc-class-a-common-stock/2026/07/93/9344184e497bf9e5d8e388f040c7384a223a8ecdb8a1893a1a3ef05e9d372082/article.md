@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/never-stop-driving/never-stop-driving-192-when-will-we-have-our-own-goodwood-hill-climb/"
 published_at: "2026-07-17T12:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:ec8489ee57cbfe9637502676ff9c2983f1e06fafef6da23cbedabacf0918fce5"
 ---
 

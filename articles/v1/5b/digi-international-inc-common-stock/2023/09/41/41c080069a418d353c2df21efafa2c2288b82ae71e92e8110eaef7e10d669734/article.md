@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/strengthen-your-serial-connectivity-security"
 published_at: "2023-09-11T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:21e5892341a5d83fa93ec9c739e9e3ccb99f833f90e467f8cb8f6eae437a7259"
 ---
 

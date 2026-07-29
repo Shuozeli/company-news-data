@@ -7,7 +7,7 @@ source_id: "huya-inc-american-depositary-shares-each-representing-one-class-a-or
 canonical_url: "https://ir.huya.com/2026-05-19-HUYA-Inc-Provides-Update-on-Share-Repurchase-Program"
 published_at: "2026-05-19T10:55:00+00:00"
 first_seen_at: "2026-07-25T08:43:33.883223+00:00"
-fetched_at: "2026-07-28T22:13:17.806530+00:00"
+fetched_at: "2026-07-29T14:21:38.306252+00:00"
 content_hash: "sha256:96557206ba36ed264819a358010667ecd04a06715c87ead7767fc56f959d6518"
 ---
 

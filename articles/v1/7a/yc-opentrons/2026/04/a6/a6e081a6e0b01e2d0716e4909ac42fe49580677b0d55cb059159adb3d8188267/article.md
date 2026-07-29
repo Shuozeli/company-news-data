@@ -7,7 +7,7 @@ source_id: "yc-opentrons-rss-767f8d415bdd"
 canonical_url: "https://opentrons.com/archives/news/learn-python-with-opentrons-for-education-protocol-designer"
 published_at: "2026-04-06T14:11:21+00:00"
 first_seen_at: "2026-07-25T17:41:16.998093+00:00"
-fetched_at: "2026-07-28T23:27:55.051365+00:00"
+fetched_at: "2026-07-29T15:23:54.658863+00:00"
 content_hash: "sha256:a9a5b71b42de5c60bc81ccf2427bc32118b045f1b038e70d0d98c03e5f4b9f62"
 ---
 

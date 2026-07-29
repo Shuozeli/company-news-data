@@ -7,7 +7,7 @@ source_id: "shattuck-labs-inc-common-stock-rss-e22609ab3c3b"
 canonical_url: "https://ir.shattucklabs.com/news-events/press-releases/news-details/2026/Shattuck-Labs-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Recent-Business-Highlights/default.aspx"
 published_at: "2026-03-05T11:15:00+00:00"
 first_seen_at: "2026-07-25T22:46:01.608850+00:00"
-fetched_at: "2026-07-28T23:19:35.797214+00:00"
+fetched_at: "2026-07-29T15:09:15.929194+00:00"
 content_hash: "sha256:f225c35ab9cd657baaca88cd765f8edcd46a56176c03c60d618ea3b5aedc36f7"
 ---
 

@@ -7,7 +7,7 @@ source_id: "trupanion-inc-common-stock-news-import-b3fe567ac9c2"
 canonical_url: "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/2026-veterinary-appreciation-day-award-winners"
 published_at: "2026-06-18T00:00:00+00:00"
 first_seen_at: "2026-07-26T03:12:03.797628+00:00"
-fetched_at: "2026-07-28T17:37:55.930207+00:00"
+fetched_at: "2026-07-29T06:24:58.307897+00:00"
 content_hash: "sha256:41fc8eeef82dd98487eff808f8a38185d0fd9c8f5e6d644df5936b4ed1f4205f"
 ---
 

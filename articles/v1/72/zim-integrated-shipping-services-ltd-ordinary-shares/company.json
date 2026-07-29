@@ -4,9 +4,9 @@
     "key": "zim-integrated-shipping-services-ltd-ordinary-shares",
     "name": "ZIM Integrated Shipping Services Ltd. Ordinary Shares"
   },
-  "record_count": 11,
+  "record_count": 12,
   "first_published_at": "2026-03-03T13:00:00+00:00",
-  "last_published_at": "2026-07-28T20:10:00+00:00",
+  "last_published_at": "2026-07-29T12:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-03",
@@ -26,11 +26,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 4
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -38,10 +38,10 @@
       {
         "page": 1,
         "path": "articles/v1/72/zim-integrated-shipping-services-ltd-ordinary-shares/index/pages/000001.json",
-        "record_count": 11,
-        "byte_count": 65932,
-        "sha256": "sha256:6f46f696eb5db73b39f1cc037fb25749082be85c79035182105ca028ba49f59d",
-        "newest_at": "2026-07-28T20:10:00+00:00",
+        "record_count": 12,
+        "byte_count": 68076,
+        "sha256": "sha256:4ee26003751a85a0d81a0254a21967955a539663e331578e43a9404a14763fbf",
+        "newest_at": "2026-07-29T12:00:00+00:00",
         "oldest_at": "2026-03-03T13:00:00+00:00"
       }
     ]

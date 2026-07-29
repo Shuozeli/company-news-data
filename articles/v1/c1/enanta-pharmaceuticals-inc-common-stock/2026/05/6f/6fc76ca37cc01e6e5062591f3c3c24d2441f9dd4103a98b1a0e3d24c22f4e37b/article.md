@@ -7,7 +7,7 @@ source_id: "enanta-pharmaceuticals-inc-common-stock-rss-6165ef0aa60b"
 canonical_url: "https://www.enanta.com/eps-3903-a-potent-oral-stat6-inhibitor-exhibits-preferential-lung-and-alveolar-macrophage-distribution-with-low-drug-drug-interaction-potential-for-the-treatment-of-asthma/"
 published_at: "2026-05-19T17:14:00+00:00"
 first_seen_at: "2026-07-25T03:15:15.140684+00:00"
-fetched_at: "2026-07-28T23:17:26.594855+00:00"
+fetched_at: "2026-07-29T15:07:42.242480+00:00"
 content_hash: "sha256:c05ab725f11172974c991f016f28fbdc69a515a8b1b1488f143ac0adbbaf30b4"
 ---
 

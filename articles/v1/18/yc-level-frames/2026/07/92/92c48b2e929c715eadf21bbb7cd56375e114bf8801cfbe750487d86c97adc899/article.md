@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:16:50.994015+00:00"
 content_hash: "sha256:e0288ea76948effb20bc2de66083db26513504fdff41f7cea51929028ebded33"
 ---
 
-# America's Most Controversial Interior Trends: The Styles We Love to Hate
+# America's Most Controversial Interior Trends
 
 # America's Most Controversial Interior Trends: The Styles We Love to Hate
 

@@ -5,10 +5,10 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
-published_at: "2026-07-28T23:40:40+00:00"
+published_at: "2026-07-29T00:47:19+00:00"
 first_seen_at: "2026-07-28T23:55:50.418024+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
-content_hash: "sha256:db2b81566a8c1b725e33ae92104e534a53fd854b8507437de3459990fe1334cb"
+fetched_at: "2026-07-29T09:49:52.392820+00:00"
+content_hash: "sha256:5a5dd3ccda472ad283c81524e31fda76d17d06c67533950d33f24575a1bbbd1b"
 ---
 
 # Senate Confirms Jay Clayton to Lead U.S. Intelligence Community

@@ -7,7 +7,7 @@ source_id: "lcnb-corporation-common-stock-rss-a47c5cb26130"
 canonical_url: "https://www.lcnbcorp.com/news-link/news-releases/news-details/2026/LCNB-Corp--Announces-2026-Second-Quarter-Dividend/default.aspx"
 published_at: "2026-05-18T20:05:00+00:00"
 first_seen_at: "2026-07-25T11:47:01.678478+00:00"
-fetched_at: "2026-07-28T23:47:05.010020+00:00"
+fetched_at: "2026-07-29T15:41:55.674450+00:00"
 content_hash: "sha256:987bf6135f68c4241edf1d4a04b17cfafa17257e6fc409eeb8d2794708cf8d6e"
 ---
 

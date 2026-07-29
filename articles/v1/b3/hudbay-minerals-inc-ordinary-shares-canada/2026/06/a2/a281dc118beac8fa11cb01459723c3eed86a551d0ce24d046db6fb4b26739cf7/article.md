@@ -7,7 +7,7 @@ source_id: "hudbay-minerals-inc-ordinary-shares-canada-rss-c4096adde97b"
 canonical_url: "https://hudbayminerals.com/investors/press-releases/press-release-details/2026/Hudbay-Celebrates-Groundbreaking-of-New-Ingerbelle-Expansion-at-Copper-Mountain-Mine/default.aspx"
 published_at: "2026-06-18T12:00:00+00:00"
 first_seen_at: "2026-07-25T08:33:11.818329+00:00"
-fetched_at: "2026-07-28T23:54:13.555520+00:00"
+fetched_at: "2026-07-29T16:59:14.716248+00:00"
 content_hash: "sha256:95fa4ece2ca394dc45c75dc9474de1ca29e37e1594daecf0bf7d7d2e9c1cfae0"
 ---
 

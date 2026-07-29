@@ -7,7 +7,7 @@ source_id: "yc-trestle-biotherapeutics-rss-04355419af2b"
 canonical_url: "https://trestlebio.com/news/trestle-biotherapeutics-announces-license-agreement-with-kumamoto-university-for-key-stem-cell-biology-technology-for-regenerative-medicine-2/"
 published_at: "2022-02-15T16:30:25+00:00"
 first_seen_at: "2026-07-20T23:21:07.447758+00:00"
-fetched_at: "2026-07-28T22:57:18.317880+00:00"
+fetched_at: "2026-07-29T14:31:43.059599+00:00"
 content_hash: "sha256:0f7b137f27962895917d5d03c30c5ddf7d37820c8d17b70deac8c47f6f9015bc"
 ---
 

@@ -7,7 +7,7 @@ source_id: "kura-oncology-inc-common-stock-rss-1f69cfa245ee"
 canonical_url: "https://vimeo.com/896727759"
 published_at: "2023-12-20T00:47:43+00:00"
 first_seen_at: "2026-07-25T11:07:49.723778+00:00"
-fetched_at: "2026-07-28T23:32:32.764926+00:00"
+fetched_at: "2026-07-29T15:28:46.754084+00:00"
 content_hash: "sha256:dea35bed9c1004ebb0b6b348ee87deba074f15edd9f337e3a8dba7fe31df6e6f"
 ---
 

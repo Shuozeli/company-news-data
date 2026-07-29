@@ -7,7 +7,7 @@ source_id: "american-airlines-group-inc-common-stock-news-import-aa1b8ed8edb0"
 canonical_url: "https://news.aa.com/news/news-details/2026/American-Airlines-elects-Mary-Dillon-to-its-board-of-directors-CORP-EXEC-03/default.aspx"
 published_at: "2026-03-24T00:00:00+00:00"
 first_seen_at: "2026-07-23T01:45:10.249277+00:00"
-fetched_at: "2026-07-28T20:07:09.735080+00:00"
+fetched_at: "2026-07-29T08:53:34.681477+00:00"
 content_hash: "sha256:3eb998587ae4aba85203344407a460af85e01c4a68fa19a1428ecd28e260f5f3"
 ---
 

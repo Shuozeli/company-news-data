@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-an-epc-contract-for-a-sulfate-reduction-plant-in-abu-dhabi/"
 published_at: "2017-04-27T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-29T00:26:14.657354+00:00"
+fetched_at: "2026-07-29T17:23:25.881224+00:00"
 content_hash: "sha256:310280cd4f5f3162a10e7e2dc80403a2ada9d3a3f08cdbc05aba5dbad5ee0e5b"
 ---
 

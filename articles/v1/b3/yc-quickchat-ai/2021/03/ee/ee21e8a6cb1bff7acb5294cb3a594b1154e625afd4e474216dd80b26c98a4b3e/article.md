@@ -7,7 +7,7 @@ source_id: "yc-quickchat-ai-rss-bd17510cf053"
 canonical_url: "https://quickchat.ai/post/interview-with-quickchat-founder"
 published_at: "2021-03-01T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:54.491295+00:00"
-fetched_at: "2026-07-28T22:56:27.924038+00:00"
+fetched_at: "2026-07-29T14:25:03.661651+00:00"
 content_hash: "sha256:062693c36d5e0917e96088e7eca455312fc0fb1799b07534585c658ce8d3dd84"
 ---
 

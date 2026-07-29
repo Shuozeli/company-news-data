@@ -7,7 +7,7 @@ source_id: "the-glimpse-group-inc-common-stock-rss-a8a553a6f685"
 canonical_url: "https://ir.theglimpsegroup.com/the-glimpse-group-announces-pricing-of-1-845-million-investment-as-it-transitions-into-a-physical-ai-company/"
 published_at: "2026-05-15T13:16:47+00:00"
 first_seen_at: "2026-07-24T03:52:28.349530+00:00"
-fetched_at: "2026-07-28T23:55:41.393142+00:00"
+fetched_at: "2026-07-29T16:59:05.665060+00:00"
 content_hash: "sha256:d4c5ebadfd2656fc3b2843e16af2055efff11452840b58f2575ee3b06d11ef49"
 ---
 

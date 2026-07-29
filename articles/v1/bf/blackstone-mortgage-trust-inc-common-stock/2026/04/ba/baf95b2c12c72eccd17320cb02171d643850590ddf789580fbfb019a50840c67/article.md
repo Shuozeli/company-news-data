@@ -7,7 +7,7 @@ source_id: "blackstone-mortgage-trust-inc-common-stock-rss-0b0bb6f59cf9"
 canonical_url: "https://ir.blackstonemortgagetrust.com/press-releases-and-news/press-release-and-news-details/2026/Blackstone-Mortgage-Trust-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-04-29T11:00:00+00:00"
 first_seen_at: "2026-07-26T23:52:20.161591+00:00"
-fetched_at: "2026-07-28T23:24:03.567410+00:00"
+fetched_at: "2026-07-29T15:19:28.401550+00:00"
 content_hash: "sha256:409a692d3e98ea861c7f0e774d4649fc4ae2d7ccdcbef8c7cee25af6c730cc49"
 ---
 

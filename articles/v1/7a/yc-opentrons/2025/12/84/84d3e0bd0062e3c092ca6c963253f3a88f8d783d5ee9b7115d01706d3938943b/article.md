@@ -7,7 +7,7 @@ source_id: "yc-opentrons-rss-767f8d415bdd"
 canonical_url: "https://opentrons.com/whats-new-opentrons-app-8-8"
 published_at: "2025-12-04T15:26:41+00:00"
 first_seen_at: "2026-07-25T17:41:16.998093+00:00"
-fetched_at: "2026-07-28T23:27:55.051365+00:00"
+fetched_at: "2026-07-29T15:23:54.658863+00:00"
 content_hash: "sha256:bf2bbf4c30c5ebcaef669cc2f5641f239d536bd36273548d1f43ce15406c2a14"
 ---
 

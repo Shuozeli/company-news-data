@@ -7,7 +7,7 @@ source_id: "waters-corporation-common-stock-rss-4214e009fa6a"
 canonical_url: "https://ir.waters.com/News--Events/newsroom/news-details/2026/Waters-Launches-Industry-First-Reversed-Phase-Bioseparation-Columns-to-Deliver-Up-to-3x-Faster-GLP-1-Characterization-and-2x-Faster-LNP-Component-Analysis/default.aspx"
 published_at: "2026-06-08T12:00:00+00:00"
 first_seen_at: "2026-07-26T05:11:09.878037+00:00"
-fetched_at: "2026-07-28T23:08:16.411580+00:00"
+fetched_at: "2026-07-29T14:50:03.613231+00:00"
 content_hash: "sha256:b533bc7b667c8485214ab66319637d5fff54083ea06864d319a49edd7139e755"
 ---
 

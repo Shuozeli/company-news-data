@@ -7,7 +7,7 @@ source_id: "rtx-corporation-common-stock-rss-4320d06174be"
 canonical_url: "https://www.rtx.com/news/2026/07/13/the-army-is-building-its-next-rotorcraft"
 published_at: "2026-07-13T00:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:53.144851+00:00"
-fetched_at: "2026-07-28T23:01:39.449603+00:00"
+fetched_at: "2026-07-29T14:38:59.367012+00:00"
 content_hash: "sha256:3c7ad534f4a18524fa1f89a0597fd0dbb58fc8f396aa3eac287cd9db7406bcd0"
 ---
 

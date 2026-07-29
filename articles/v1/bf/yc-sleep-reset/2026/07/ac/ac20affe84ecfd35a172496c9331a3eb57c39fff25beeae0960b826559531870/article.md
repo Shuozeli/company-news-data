@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:40:00.658555+00:00"
 content_hash: "sha256:2836c715cfc4742f6046dc5f6ac074b09717f5cc4bae84ab0871f304d9ab3c5e"
 ---
 
-# Sleep Calculator: How Much Sleep Do You Actually Need?
+# Sleep Calculator
 
 ## Sleep Calculator Cycles (Quick Answer)
 

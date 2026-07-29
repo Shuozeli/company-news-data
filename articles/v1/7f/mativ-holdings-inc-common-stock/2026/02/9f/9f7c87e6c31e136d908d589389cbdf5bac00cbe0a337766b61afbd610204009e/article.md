@@ -7,7 +7,7 @@ source_id: "mativ-holdings-inc-common-stock-rss-5358ab7b546f"
 canonical_url: "https://ir.mativ.com/news/news-details/2026/Mativ-Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-02-18T21:11:00+00:00"
 first_seen_at: "2026-07-25T13:30:50.859713+00:00"
-fetched_at: "2026-07-28T22:56:06.881496+00:00"
+fetched_at: "2026-07-29T14:26:18.528060+00:00"
 content_hash: "sha256:af2d7c86d80898cb876dc903de421aafe6d93f40956e09fd39e6d150f8c234cb"
 ---
 

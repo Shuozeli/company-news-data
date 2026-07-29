@@ -4,17 +4,17 @@
     "key": "yc-axar-ai",
     "name": "AXAR AI"
   },
-  "record_count": 14,
+  "record_count": 15,
   "first_published_at": "2026-07-15T12:06:25+00:00",
-  "last_published_at": "2026-07-28T12:05:42+00:00",
+  "last_published_at": "2026-07-29T12:20:07+00:00",
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 14
+      "record_count": 15
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/f4/yc-axar-ai/index/pages/000001.json",
-        "record_count": 14,
-        "byte_count": 13981,
-        "sha256": "sha256:623ce42fada6b3625e577c20a46f58f884640cdf4f57789847d1984dd968bbe3",
-        "newest_at": "2026-07-28T12:05:42+00:00",
+        "record_count": 15,
+        "byte_count": 14966,
+        "sha256": "sha256:6bed7deda55592be931ca6ef89841590f524bce8d0de06003a09cdfefef3c288",
+        "newest_at": "2026-07-29T12:20:07+00:00",
         "oldest_at": "2026-07-15T12:06:25+00:00"
       }
     ]

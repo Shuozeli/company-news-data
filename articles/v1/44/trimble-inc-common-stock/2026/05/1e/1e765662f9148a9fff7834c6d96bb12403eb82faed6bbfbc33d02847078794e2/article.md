@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/6-ways-communities-are-streamlining-their-water-wastewater-asset-lifecycle-management"
 published_at: "2026-05-12T00:00:00+00:00"
 first_seen_at: "2026-07-28T20:33:46.828941+00:00"
-fetched_at: "2026-07-28T23:18:38.216278+00:00"
+fetched_at: "2026-07-29T15:07:27.395221+00:00"
 content_hash: "sha256:ec2bd15982b4775c41b8c3b140f884d67ed1ac8a5edf14f70d65d91b3cdab462"
 ---
 

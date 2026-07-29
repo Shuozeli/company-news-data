@@ -7,7 +7,7 @@ source_id: "yc-shuttle-rss-52efc69d7cac"
 canonical_url: "https://www.shuttle.dev/blog/2025/10/16/claude-code-best-practices"
 published_at: "2025-10-16T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:24:10.103156+00:00"
-fetched_at: "2026-07-28T23:18:15.366460+00:00"
+fetched_at: "2026-07-29T15:13:00.471480+00:00"
 content_hash: "sha256:0f439ee299935c9d821fefcddb6c410ea4ea6069e8f4e46373e18f26362f4ad6"
 ---
 

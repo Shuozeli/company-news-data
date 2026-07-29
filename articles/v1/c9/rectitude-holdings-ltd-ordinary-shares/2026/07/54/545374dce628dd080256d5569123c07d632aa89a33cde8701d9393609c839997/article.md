@@ -7,7 +7,7 @@ source_id: "rectitude-holdings-ltd-ordinary-shares-rss-0d297b397433"
 canonical_url: "https://ir.rectitude.com.sg/rectitude-holdings-ltd-announces-new-retail-branch-at-enterprise-hub-in-singapores-jurong-east-district/"
 published_at: "2026-07-06T12:55:25+00:00"
 first_seen_at: "2026-07-25T20:39:27.562148+00:00"
-fetched_at: "2026-07-29T00:49:35.606057+00:00"
+fetched_at: "2026-07-29T14:09:49.320394+00:00"
 content_hash: "sha256:b5951f415250c35688218bb6b6dfd027f7df6698a7c6086c27957c163da36d30"
 ---
 

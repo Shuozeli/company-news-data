@@ -7,7 +7,7 @@ source_id: "yc-mailtime-rss-507b21835822"
 canonical_url: "https://blog.measurable.ai/2026/03/25/ai-reshaping-app-store-in-app-purchases-decline/"
 published_at: "2026-03-25T09:50:23+00:00"
 first_seen_at: "2026-07-24T10:25:40.143056+00:00"
-fetched_at: "2026-07-29T00:30:16.556586+00:00"
+fetched_at: "2026-07-29T13:58:12.999505+00:00"
 content_hash: "sha256:59be3eff62b2cb1bc0f8f14d1b415d2a78d84b1fc64def4c3adfe573356e8a48"
 ---
 

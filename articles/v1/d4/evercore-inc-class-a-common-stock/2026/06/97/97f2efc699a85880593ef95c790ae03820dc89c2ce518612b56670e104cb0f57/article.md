@@ -7,7 +7,7 @@ source_id: "evercore-inc-class-a-common-stock-rss-cec3ba1f6fc0"
 canonical_url: "https://www.evercore.com/dennis-cornell-joins-evercore-as-senior-managing-director-in-the-private-capital-markets-group/"
 published_at: "2026-06-22T19:35:08+00:00"
 first_seen_at: "2026-07-21T01:18:50.348672+00:00"
-fetched_at: "2026-07-29T00:20:15.020156+00:00"
+fetched_at: "2026-07-29T15:05:01.473214+00:00"
 content_hash: "sha256:154a7c6c443d8fd07eefc0991659c75d5d41e71a74122a356b9b2c74b79f3c9a"
 ---
 

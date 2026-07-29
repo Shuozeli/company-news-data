@@ -7,7 +7,7 @@ source_id: "zentalis-pharmaceuticals-inc-common-stock-rss-ecf8d61559d0"
 canonical_url: "https://ir.zentalis.com/news--events/press-releases/press-releases-details/2026/Zentalis-Strengthens-Commercial-Leadership-with-Appointments-of-Shannon-Campbell-to-Board-of-Directors-and-Sarah-Kelly-as-SVP-of-Commercial-Strategy/default.aspx"
 published_at: "2026-05-27T20:05:00+00:00"
 first_seen_at: "2026-07-26T06:25:30.608888+00:00"
-fetched_at: "2026-07-28T23:27:19.989771+00:00"
+fetched_at: "2026-07-29T15:23:50.977593+00:00"
 content_hash: "sha256:ca044d968aebef1d90b58a8ebdfe9bc2c93dff7593572b7c55638d6223511e32"
 ---
 

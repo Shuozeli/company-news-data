@@ -7,7 +7,7 @@ source_id: "avnet-inc-common-stock-rss-97276dcd8bba"
 canonical_url: "https://news.avnet.com/press-releases/press-release-details/2026/Avnet-Cares-funds-Tempe-Agency-ahead-of-corporate-move-2026-4K5BktgaRk/default.aspx"
 published_at: "2026-07-01T12:00:00+00:00"
 first_seen_at: "2026-07-28T21:48:40.971423+00:00"
-fetched_at: "2026-07-29T00:14:11.820089+00:00"
+fetched_at: "2026-07-29T13:39:56.062707+00:00"
 content_hash: "sha256:2e00f6151ad106d41d9307f70b17405acdb6f0d31cd07d383f01e34a204c99e1"
 ---
 

@@ -7,7 +7,7 @@ source_id: "pcb-bancorp-common-stock-rss-fe3afe33cb4a"
 canonical_url: "http://pcbbancorp.q4ir.com/news-market-data/press-releases/news-details/2026/PCB-Bancorp-Reports-Earnings-for-Q2-2026/default.aspx"
 published_at: "2026-07-23T20:05:00+00:00"
 first_seen_at: "2026-07-25T18:37:24.336059+00:00"
-fetched_at: "2026-07-28T22:53:56.794965+00:00"
+fetched_at: "2026-07-29T14:23:34.723784+00:00"
 content_hash: "sha256:29ca55694c323b7561e05832b6b3ce33d08416eda37bed4fa3bb8271e349f16d"
 ---
 

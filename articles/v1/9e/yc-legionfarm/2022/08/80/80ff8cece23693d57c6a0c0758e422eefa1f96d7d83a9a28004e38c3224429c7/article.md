@@ -7,7 +7,7 @@ source_id: "yc-legionfarm-rss-6c0916a33cbe"
 canonical_url: "https://medium.com/@legionfarm_official/meet-alexandremix-11572b6d6f64"
 published_at: "2022-08-19T17:40:29+00:00"
 first_seen_at: "2026-07-25T11:54:32.807926+00:00"
-fetched_at: "2026-07-28T22:54:23.598175+00:00"
+fetched_at: "2026-07-29T14:23:54.476101+00:00"
 content_hash: "sha256:7f2ee6d8f346c00c845a4877649eaca8045df5c3328fcfbdefbbdae0ab33f2d5"
 ---
 

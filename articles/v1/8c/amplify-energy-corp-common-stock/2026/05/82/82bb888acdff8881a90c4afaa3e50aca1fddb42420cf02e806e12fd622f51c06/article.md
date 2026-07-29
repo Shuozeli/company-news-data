@@ -7,7 +7,7 @@ source_id: "amplify-energy-corp-common-stock-rss-827eecb48ef6"
 canonical_url: "https://www.amplifyenergy.com/investor-relations/press-releases/press-release-details/2026/Amplify-Energy-Announces-First-Quarter-2026-Results-and-Announces-Beta-Field-Royalty-Relief/default.aspx"
 published_at: "2026-05-11T20:05:00+00:00"
 first_seen_at: "2026-07-25T01:06:52.663192+00:00"
-fetched_at: "2026-07-28T23:32:39.993612+00:00"
+fetched_at: "2026-07-29T15:29:36.744355+00:00"
 content_hash: "sha256:9ed89b1a7fab40d82f39fbdf07e08d083fef35a907f348d99a0ebcd610d38b47"
 ---
 

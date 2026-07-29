@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 6,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "f65a0530abb74789bdd0a178a92f1b983c132ba0b4351920b25e3c2fd30289ee",
+      "company_key": "yc-benchling",
+      "company_name": "Benchling",
+      "source_id": "yc-benchling-rss-dcbca8149e4b",
+      "source_kind": "rss",
+      "canonical_url": "https://www.benchling.com/blog/the-life-science-rd-data-maturity-curve",
+      "title": "The Life Science R&D Data Maturity Curve",
+      "summary": "",
+      "published_at": "2020-03-04T16:00:00+00:00",
+      "fetched_at": "2026-07-28T21:05:25.747778+00:00",
+      "article_path": "articles/v1/75/yc-benchling/2020/03/f6/f65a0530abb74789bdd0a178a92f1b983c132ba0b4351920b25e3c2fd30289ee/article.md",
+      "record_path": "articles/v1/75/yc-benchling/2020/03/f6/f65a0530abb74789bdd0a178a92f1b983c132ba0b4351920b25e3c2fd30289ee/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "1cf83dec58a196b07ac2447d52e6844b4602c8a6029553aa9dfd62b5846b2efd",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T21:06:15.160827+00:00",
       "article_path": "articles/v1/75/yc-benchling/2019/02/90/908d1d2929987bf393f22e267aca516eb2c8d4c3572429ce3cd665daedc9c246/article.md",
       "record_path": "articles/v1/75/yc-benchling/2019/02/90/908d1d2929987bf393f22e267aca516eb2c8d4c3572429ce3cd665daedc9c246/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "b33334e68063188c9f6fa5dd77add902683ee12cfe87ebd033a2396e25efad77",
-      "company_key": "yc-benchling",
-      "company_name": "Benchling",
-      "source_id": "yc-benchling-rss-dcbca8149e4b",
-      "source_kind": "rss",
-      "canonical_url": "https://www.benchling.com/blog/the-importance-of-adopting-an-informatics-platform-over-point-solutions",
-      "title": "The importance of adopting an informatics platform over point solutions",
-      "summary": "Large molecule R&D involves complex datasets, broad range of sample types and cross-team collaboration. Learn how a platform approach can be beneficial!",
-      "published_at": "2019-02-18T16:00:00+00:00",
-      "fetched_at": "2026-07-28T21:06:15.160827+00:00",
-      "article_path": "articles/v1/75/yc-benchling/2019/02/b3/b33334e68063188c9f6fa5dd77add902683ee12cfe87ebd033a2396e25efad77/article.md",
-      "record_path": "articles/v1/75/yc-benchling/2019/02/b3/b33334e68063188c9f6fa5dd77add902683ee12cfe87ebd033a2396e25efad77/record.json"
     }
   ]
 }

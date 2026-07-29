@@ -7,7 +7,7 @@ source_id: "rayonier-inc-reit-common-stock-rss-44618455a17c"
 canonical_url: "https://ir.rayonier.com/news/news-details/2026/Rayonier-Maintains-Current-Name-and-Ticker-Symbol-Introduces-New-Logo/default.aspx"
 published_at: "2026-03-31T20:12:00+00:00"
 first_seen_at: "2026-07-26T07:30:19.497255+00:00"
-fetched_at: "2026-07-28T22:13:16.585315+00:00"
+fetched_at: "2026-07-29T14:21:26.566479+00:00"
 content_hash: "sha256:8fd378b1266727f1548e3561c94369943a053d6683420976847358bef4ef860d"
 ---
 

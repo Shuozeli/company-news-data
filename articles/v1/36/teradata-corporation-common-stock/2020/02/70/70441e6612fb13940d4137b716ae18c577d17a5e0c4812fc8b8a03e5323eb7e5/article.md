@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2020/teradata-reports-fourth-quarter-and-full-year-2019-financial-results"
 published_at: "2020-02-06T08:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T23:07:12.403269+00:00"
+fetched_at: "2026-07-29T14:50:19.991351+00:00"
 content_hash: "sha256:4a7bbbbe03c5d82203007f95ce6e03e8bd90a79544a3a50c101b9d2fee5149f2"
 ---
 

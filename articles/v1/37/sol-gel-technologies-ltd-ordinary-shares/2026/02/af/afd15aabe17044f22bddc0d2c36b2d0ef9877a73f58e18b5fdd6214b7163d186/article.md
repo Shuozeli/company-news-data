@@ -7,7 +7,7 @@ source_id: "sol-gel-technologies-ltd-ordinary-shares-rss-3cf46d7bf6a9"
 canonical_url: "https://ir.sol-gel.com/board-member/sharon-kochan"
 published_at: "2026-02-05T11:44:00+00:00"
 first_seen_at: "2026-07-20T23:23:00.216025+00:00"
-fetched_at: "2026-07-28T23:25:19.850687+00:00"
+fetched_at: "2026-07-29T14:09:27.419407+00:00"
 content_hash: "sha256:25d6d372548d4c52c1a6e091d695998ecd6ab3de09849b3b80a4c9bdc3081fb6"
 ---
 

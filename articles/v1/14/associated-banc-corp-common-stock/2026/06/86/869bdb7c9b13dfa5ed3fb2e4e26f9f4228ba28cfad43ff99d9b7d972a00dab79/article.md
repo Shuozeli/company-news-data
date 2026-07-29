@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-finalizes-construction-loan-for-houston-class-a-industrial-warehouse"
 published_at: "2026-06-18T20:31:00+00:00"
 first_seen_at: "2026-07-20T04:36:20.180992+00:00"
-fetched_at: "2026-07-29T00:43:53.379763+00:00"
+fetched_at: "2026-07-29T14:07:10.673770+00:00"
 content_hash: "sha256:cbdb44c78a006eafe05d4d5cdea6cb982f56d5f9dbbbaa44cffa755712d7cb34"
 ---
 

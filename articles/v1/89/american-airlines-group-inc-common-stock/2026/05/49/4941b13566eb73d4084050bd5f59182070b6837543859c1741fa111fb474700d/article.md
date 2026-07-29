@@ -7,7 +7,7 @@ source_id: "american-airlines-group-inc-common-stock-news-import-f35386f4cd76"
 canonical_url: "https://news.aa.com/news/news-details/2026/American-gets-ready-with-football-schedule-for-fans-NET-OTH-05/default.aspx"
 published_at: "2026-05-15T00:00:00+00:00"
 first_seen_at: "2026-07-23T01:45:36.404123+00:00"
-fetched_at: "2026-07-28T20:07:07.541585+00:00"
+fetched_at: "2026-07-29T08:53:20.055255+00:00"
 content_hash: "sha256:8f2c4383f55cd9dfed6c203328e2a2f41aff271a76ef43f71def5cfde1135411"
 ---
 

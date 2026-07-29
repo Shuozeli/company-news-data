@@ -7,7 +7,7 @@ source_id: "vuzix-corporation-common-stock-atom-704dbe6a03d0"
 canonical_url: "https://www.vuzix.com/blogs/vuzix-blog/transforming-pharmacy-hrs-wins-pfizer-award-with-vuzix-smart-glasses-and-flex4vision-technology"
 published_at: "2024-06-17T15:03:00+00:00"
 first_seen_at: "2026-07-20T23:19:27.942006+00:00"
-fetched_at: "2026-07-28T23:31:42.121983+00:00"
+fetched_at: "2026-07-29T15:28:50.904089+00:00"
 content_hash: "sha256:ece5dc309c41b3b91c3e96e2f07a5041c7ebad62eff1581ec4c4502c35e64cb9"
 ---
 

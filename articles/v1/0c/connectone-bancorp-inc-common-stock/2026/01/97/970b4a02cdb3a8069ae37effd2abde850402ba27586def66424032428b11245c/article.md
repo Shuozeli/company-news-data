@@ -7,7 +7,7 @@ source_id: "connectone-bancorp-inc-common-stock-rss-93f36156fe6f"
 canonical_url: "https://ir.connectonebank.com/news-market-information/press-release/news-details/2026/ConnectOne-Bancorp-Inc--to-Host-2025-Fourth-Quarter-Results-Conference-Call-on-January-29-2026/default.aspx"
 published_at: "2026-01-15T12:00:00+00:00"
 first_seen_at: "2026-07-27T01:14:37.016202+00:00"
-fetched_at: "2026-07-28T23:03:39.206306+00:00"
+fetched_at: "2026-07-29T14:42:44.360868+00:00"
 content_hash: "sha256:38dda1cecfc9a3e9557103ce36d65b536ec2f400dd4e39f6fca4884ac618d887"
 ---
 

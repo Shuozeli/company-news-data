@@ -7,7 +7,7 @@ source_id: "yc-onelocal-news-import-533c9df33ae9"
 canonical_url: "https://www.onelocal.com/resources/blog/local-backlink-strategies"
 published_at: "2024-11-18T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:51:30.741252+00:00"
-fetched_at: "2026-07-28T12:40:03.639470+00:00"
+fetched_at: "2026-07-29T15:40:41.682860+00:00"
 content_hash: "sha256:39133b577194928169c4d8757909e4ffe6c7422b61627ba98a01c2bc28d8a2ef"
 ---
 

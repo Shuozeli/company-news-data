@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/finance-grade-voice-ai-servicing-collections-compliance"
 published_at: "2025-09-15T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:d8583099f1d0a0dcf4ac749e428f8f0dee8b60c78dedd6ad34f6c2be3eb0c4d7"
 ---
 

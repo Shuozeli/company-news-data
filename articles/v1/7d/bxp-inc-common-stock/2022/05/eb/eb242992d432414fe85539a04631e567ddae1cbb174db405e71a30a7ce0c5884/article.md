@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-expands-in-seattle-acquires-madison-centre"
 published_at: "2022-05-17T21:19:25+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:a928438e6d95d7a35f833e88a11d6028450d718d46ad42699bc8d1db0adda700"
 ---
 

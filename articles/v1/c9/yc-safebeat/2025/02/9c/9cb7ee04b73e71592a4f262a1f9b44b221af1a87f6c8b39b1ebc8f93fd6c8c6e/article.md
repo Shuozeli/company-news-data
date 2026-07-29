@@ -7,7 +7,7 @@ source_id: "yc-safebeat-rss-5fe32a996575"
 canonical_url: "https://safebeat.com/safebeat-receives-supplement-award-for-ucsf-phase-ii-sbir-grant-advancing-dr-margaret-ferraris-career-development/"
 published_at: "2025-02-06T18:25:00+00:00"
 first_seen_at: "2026-07-20T23:20:46.604155+00:00"
-fetched_at: "2026-07-29T00:48:37.803194+00:00"
+fetched_at: "2026-07-29T14:10:01.340666+00:00"
 content_hash: "sha256:a8755e6cacaef0417222e5aa67ae8ae3db370d1a688e9a1d1dc9bd2fd2444547"
 ---
 

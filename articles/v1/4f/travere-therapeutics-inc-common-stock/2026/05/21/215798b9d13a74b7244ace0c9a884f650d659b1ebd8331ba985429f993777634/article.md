@@ -7,7 +7,7 @@ source_id: "travere-therapeutics-inc-common-stock-news-import-f735c6b7ba42"
 canonical_url: "https://ir.travere.com/press-releases/news-details/2026/Travere-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635c4-1e9165af5/default.aspx"
 published_at: "2026-05-12T16:00:00+00:00"
 first_seen_at: "2026-07-22T17:09:41.623837+00:00"
-fetched_at: "2026-07-29T00:01:59.247459+00:00"
+fetched_at: "2026-07-29T12:59:19.858169+00:00"
 content_hash: "sha256:45d316bac5dcde71373777cb64120c977e891a95e0a17101e1f7f7f6f7012eee"
 ---
 

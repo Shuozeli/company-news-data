@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2024/Stifel-SBA-Approval-for-10.22.24.pdf"
 published_at: "2024-10-22T13:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:5295a2bfe0c51eafe0f9c4c32d578d692a31325b7c7ddceacf575cb951ce7782"
 ---
 

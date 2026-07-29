@@ -6,7 +6,7 @@
   },
   "record_count": 21,
   "first_published_at": "2026-06-11T00:00:00+00:00",
-  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-06",
@@ -18,7 +18,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -28,8 +28,8 @@
         "path": "articles/v1/c0/yc-openmart/index/pages/000001.json",
         "record_count": 21,
         "byte_count": 20765,
-        "sha256": "sha256:19df4883c15b629029eb1f0ada02d74958535b52d07b19b0a6ba8d97366087a5",
-        "newest_at": "2026-07-28T21:20:14.720808+00:00",
+        "sha256": "sha256:5563d9609298ac53b20f816cf3b6738fb7d96583ed6e0a165fd9f4558921a492",
+        "newest_at": "2026-07-29T00:00:00+00:00",
         "oldest_at": "2026-06-11T00:00:00+00:00"
       }
     ]

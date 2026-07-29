@@ -7,7 +7,7 @@ source_id: "cheesecake-factory-incorporated-the-common-stock-rss-d1db0065f926"
 canonical_url: "https://investors.thecheesecakefactory.com/news-and-events/news-releases/news-release-details/2026/The-Cheesecake-Factory-Reports-Results-for-Second-Quarter-of-Fiscal-2026/default.aspx"
 published_at: "2026-07-28T20:15:00+00:00"
 first_seen_at: "2026-07-28T22:13:37.165627+00:00"
-fetched_at: "2026-07-28T22:13:37.117719+00:00"
+fetched_at: "2026-07-29T14:21:54.918173+00:00"
 content_hash: "sha256:3d06fe0613c7ef6c72d6186ad1a9424e434c61d8440a5110ec188df9923ff77f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "trustmark-corporation-common-stock-rss-1872e3f20368"
 canonical_url: "https://investorrelations.trustmark.com/news-events/press-releases/news-details/2026/Trustmark-Corporation-to-Announce-Fourth-Quarter-Financial-Results-January-27-and-Conduct-Earnings-Conference-Call-January-28/default.aspx"
 published_at: "2026-01-05T21:30:00+00:00"
 first_seen_at: "2026-07-26T03:12:25.582451+00:00"
-fetched_at: "2026-07-29T00:50:25.133360+00:00"
+fetched_at: "2026-07-29T14:19:01.123347+00:00"
 content_hash: "sha256:d579200da092865f9d1fa7bdb187b96eb323f790d56787a3c290d4ea464f4574"
 ---
 

@@ -7,7 +7,7 @@ source_id: "united-rentals-inc-common-stock-rss-4e2df8fb3ae6"
 canonical_url: "https://investors.unitedrentals.com/press-releases/press-releases-details/2026/United-Rentals-Declares-Quarterly-Cash-Dividend-56c245cbe/default.aspx"
 published_at: "2026-07-22T20:30:00+00:00"
 first_seen_at: "2026-07-26T03:44:40.223060+00:00"
-fetched_at: "2026-07-29T00:50:23.960931+00:00"
+fetched_at: "2026-07-29T14:20:33.907616+00:00"
 content_hash: "sha256:bb4cedd6c3fcf8171cdafdd1a1fc2ac6e75d643c4bf9e2307c531ea50b8aaf90"
 ---
 

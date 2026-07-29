@@ -7,7 +7,7 @@ source_id: "yc-onelocal-news-import-533c9df33ae9"
 canonical_url: "https://www.onelocal.com/resources/blog/serp-features"
 published_at: "2025-01-20T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:51:30.741252+00:00"
-fetched_at: "2026-07-28T12:40:03.639470+00:00"
+fetched_at: "2026-07-29T15:40:41.682860+00:00"
 content_hash: "sha256:2e08cdac075fe35a7d292ee3567e8f2f08bc6189752f3aa569db8eaa7b7f6f95"
 ---
 

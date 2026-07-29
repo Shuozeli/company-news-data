@@ -7,7 +7,7 @@ source_id: "nvent-electric-plc-ordinary-shares-rss-7e545b783f0e"
 canonical_url: "https://blog.nvent.com/employee-story-bobby-applications-engineer/"
 published_at: "2025-06-03T18:07:48+00:00"
 first_seen_at: "2026-07-20T23:21:35.308535+00:00"
-fetched_at: "2026-07-28T23:16:06.368241+00:00"
+fetched_at: "2026-07-29T17:00:16.148692+00:00"
 content_hash: "sha256:1ca1d57ad2471ad44043d0e50559f3682f443ce3d1073b429ecb3e7d7a52efcf"
 ---
 

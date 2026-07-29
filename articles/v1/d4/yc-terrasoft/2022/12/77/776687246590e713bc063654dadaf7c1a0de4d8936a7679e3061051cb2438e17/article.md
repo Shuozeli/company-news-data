@@ -7,7 +7,7 @@ source_id: "yc-terrasoft-rss-87e7566d3554"
 canonical_url: "https://www.creatio.com/node/21493"
 published_at: "2022-12-12T15:25:23+00:00"
 first_seen_at: "2026-07-24T03:44:25.588333+00:00"
-fetched_at: "2026-07-28T23:51:45.449364+00:00"
+fetched_at: "2026-07-29T17:00:05.747104+00:00"
 content_hash: "sha256:c290a088b0feba04f9adef516be9f9008cc4875f93f55a216b0851a29a1347d3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/palm-global-partners-with-abu-dhabis-promax-united-to-transform-global-finance-creating-the-worlds-largest-portfolio-of-real-world-asset-backed-investment-products-fixed-income-fun/"
 published_at: "2025-05-06T17:41:54+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:72bb36dda047ed89d31c5293073b940c1da2a5e020d5961accdd505fafcb5f54"
 ---
 

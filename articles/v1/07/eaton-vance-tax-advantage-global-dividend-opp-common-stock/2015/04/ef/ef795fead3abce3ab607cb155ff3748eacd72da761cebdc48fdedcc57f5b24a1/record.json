@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef795fead3abce3ab607cb155ff3748eacd72da761cebdc48fdedcc57f5b24a1",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/rex-ai-equity-premium-income-etf-etf-opportunities-trust-nasdaq-aipi-declared-a-dividend-of-$0.2317-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/rex-ai-equity-premium-income-etf-etf-opportunities-trust-nasdaq-aipi-declared-a-dividend-of-$0.2317-per-share/"
+  },
+  "title": "AIPI Dividend Announcement $0.2317/Share 7/28/2026",
+  "summary": "NASDAQ:AIPI REX AI Equity Premium Income ETF/ETF Opportunities Trust Dividend Announcement $0.2317 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.624221+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/ef/ef795fead3abce3ab607cb155ff3748eacd72da761cebdc48fdedcc57f5b24a1/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/ef/ef795fead3abce3ab607cb155ff3748eacd72da761cebdc48fdedcc57f5b24a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1671,
+    "sha256": "sha256:66294a9d7e69dca1b5fa929cd12383e6f766ff5955b0cbfc01e134ef02d0ee3d",
+    "normalized_content_hash": "sha256:63a7eb73cde8826b2ae93d4f5e4d57afbc819b185297477408565bcbd57cf428"
+  },
+  "provenance": {
+    "source_item_id": "a44881e6-e9d8-4cdb-9ab3-f6be0b76a509",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/rex-ai-equity-premium-income-etf-etf-opportunities-trust-nasdaq-aipi-declared-a-dividend-of-$0.2317-per-share/"
+  }
+}

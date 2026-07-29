@@ -7,7 +7,7 @@ source_id: "cheesecake-factory-incorporated-the-common-stock-rss-d1db0065f926"
 canonical_url: "https://investors.thecheesecakefactory.com/news-and-events/news-releases/news-release-details/2026/The-Cheesecake-Factory-Celebrates-Dads-With-Special-Online-Gift-Card-Offer/default.aspx"
 published_at: "2026-06-04T12:11:00+00:00"
 first_seen_at: "2026-07-26T11:29:02.053775+00:00"
-fetched_at: "2026-07-28T22:13:37.117719+00:00"
+fetched_at: "2026-07-29T14:21:54.918173+00:00"
 content_hash: "sha256:a6820b90d3afb2a177228551673a3dca5a741547ec8373aa3e36b7beb7e06db4"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-remora-rss-f395f4ff84ec"
 canonical_url: "https://remoracarbon.com/capturing-semitrucks-exhaust-at-the-source-a-new-device-dramatically-reduces-trucks-co2-emissions/"
 published_at: "2023-01-06T03:59:51+00:00"
 first_seen_at: "2026-07-20T23:25:17.250531+00:00"
-fetched_at: "2026-07-28T23:37:31.240386+00:00"
+fetched_at: "2026-07-29T15:32:36.114581+00:00"
 content_hash: "sha256:3982b084975df06800885dd91c97c57801e7d90b2c63d03079ce9bef241ca1ff"
 ---
 

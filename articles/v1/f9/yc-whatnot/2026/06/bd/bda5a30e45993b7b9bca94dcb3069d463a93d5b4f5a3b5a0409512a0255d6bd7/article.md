@@ -7,7 +7,7 @@ source_id: "yc-whatnot-rss-30861744a6f8"
 canonical_url: "https://medium.com/whatnot-engineering/the-souffl%C3%A9-problem-one-regex-30-fewer-tokens-5026e6841cf4"
 published_at: "2026-06-23T16:01:03+00:00"
 first_seen_at: "2026-07-24T07:07:55.027426+00:00"
-fetched_at: "2026-07-28T23:57:51.006693+00:00"
+fetched_at: "2026-07-29T16:59:06.136550+00:00"
 content_hash: "sha256:78cb40e7d42c0bbded63514623c0855c35ea7575a5e5eea5121aea972194d416"
 ---
 

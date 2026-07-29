@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/mentra-roadmap-update-moving-to-miniapps-on-the-phone"
 published_at: "2026-06-09T04:32:05+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T23:47:18.716244+00:00"
+fetched_at: "2026-07-29T15:41:05.701886+00:00"
 content_hash: "sha256:486f1ca5555dffa55f620fb9fbef3ea5aace5feb51bc869d895b54d75924770f"
 ---
 

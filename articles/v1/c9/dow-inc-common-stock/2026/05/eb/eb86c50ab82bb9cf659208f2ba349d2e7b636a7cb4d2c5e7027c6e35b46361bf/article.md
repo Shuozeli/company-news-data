@@ -7,7 +7,7 @@ source_id: "dow-inc-common-stock-rss-a764c88a6383"
 canonical_url: "https://investors.dow.com/en/news/news-details/2026/NRC-Issues-Environmental-Assessment-with-Finding-of-No-Significant-Impact-for-Dow-and-X-energys-Proposed-Advanced-Nuclear-Project-in-Texas/default.aspx"
 published_at: "2026-05-18T20:05:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.067378+00:00"
-fetched_at: "2026-07-29T00:19:09.815212+00:00"
+fetched_at: "2026-07-29T17:19:00.396962+00:00"
 content_hash: "sha256:cc91c0ca99c2f59d5da5a1c20b1dc943dc6d5b4fd7b84cb56809cbd6f1069fd5"
 ---
 

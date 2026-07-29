@@ -7,7 +7,7 @@ source_id: "cheesecake-factory-incorporated-the-common-stock-rss-d1db0065f926"
 canonical_url: "https://investors.thecheesecakefactory.com/news-and-events/news-releases/news-release-details/2026/The-Cheesecake-Factory-Named-to-Fortunes-100-Best-Companies-to-Work-For-List-for-Thirteenth-Time/default.aspx"
 published_at: "2026-04-01T20:58:00+00:00"
 first_seen_at: "2026-07-26T11:29:02.053775+00:00"
-fetched_at: "2026-07-28T22:13:37.117719+00:00"
+fetched_at: "2026-07-29T14:21:54.918173+00:00"
 content_hash: "sha256:bbcd5660667301660174ed0622a006f8e26ee02f654e618e1f108326df0ef046"
 ---
 

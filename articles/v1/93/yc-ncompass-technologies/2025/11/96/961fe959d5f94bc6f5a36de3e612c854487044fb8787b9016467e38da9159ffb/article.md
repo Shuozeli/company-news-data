@@ -7,7 +7,7 @@ source_id: "yc-ncompass-technologies-rss-225d7ec730f1"
 canonical_url: "https://community.ncompass.tech/t/about-the-site-feedback-category/1"
 published_at: "2025-11-04T12:30:02+00:00"
 first_seen_at: "2026-07-25T15:45:43.528659+00:00"
-fetched_at: "2026-07-28T23:01:42.570361+00:00"
+fetched_at: "2026-07-29T14:39:46.966789+00:00"
 content_hash: "sha256:f59c48def5bca88712cd7e50807434c27e26f3ff4f23e591fd76dc501b5ead61"
 ---
 

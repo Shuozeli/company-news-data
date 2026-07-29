@@ -7,7 +7,7 @@ source_id: "eve-holding-inc-common-stock-rss-a787984ba43b"
 canonical_url: "https://www.eveairmobility.com/alt-air-teams-up-with-eve-air-mobility-and-skyports-infrastructure-to-advance-electric-aviation-in-new-south-wales-and-queensland/"
 published_at: "2026-03-10T10:51:43+00:00"
 first_seen_at: "2026-07-25T01:07:11.530198+00:00"
-fetched_at: "2026-07-29T00:04:41.801497+00:00"
+fetched_at: "2026-07-29T16:59:31.363277+00:00"
 content_hash: "sha256:e7bc3e87f4f99dd26cefe2fd1503d5f149dcce99f111454c63b4a8f8e57799a0"
 ---
 

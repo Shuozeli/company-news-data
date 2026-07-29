@@ -7,7 +7,7 @@ source_id: "equity-residential-common-shares-of-beneficial-interest-rss-e3f53151
 canonical_url: "https://investors.equityapartments.com/news-events/press-releases-news/news-details/2026/Equity-Residential-to-Participate-in-Citi-2026-Global-Property-CEO-Conference/default.aspx"
 published_at: "2026-02-27T22:53:00+00:00"
 first_seen_at: "2026-07-25T03:03:27.927171+00:00"
-fetched_at: "2026-07-28T23:14:03.140548+00:00"
+fetched_at: "2026-07-29T15:00:52.159560+00:00"
 content_hash: "sha256:f12cab624cc9ceab7a312c568b75f83ead146219e6765db805122d7599372795"
 ---
 

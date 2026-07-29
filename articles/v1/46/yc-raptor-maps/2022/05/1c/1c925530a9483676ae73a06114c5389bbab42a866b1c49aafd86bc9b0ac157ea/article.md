@@ -7,7 +7,7 @@ source_id: "yc-raptor-maps-news-import-b5ff0369b973"
 canonical_url: "https://raptormaps.com/blog-posts/cypress-creek-renewables-chooses-raptor-maps-new-insights-platform-to-maximize-returns-across-its-portfolio"
 published_at: "2022-05-02T00:00:00+00:00"
 first_seen_at: "2026-07-25T20:33:59.779959+00:00"
-fetched_at: "2026-07-28T13:16:38.520230+00:00"
+fetched_at: "2026-07-29T17:22:01.176239+00:00"
 content_hash: "sha256:800b35baa300a725ef69de74c6c451913c45dad7dd5499cd8479a06d8a2bddcb"
 ---
 

@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/interview-of-patrick-pouyanne-with-cgtn-at-china-development-forum-in-beijing-447422/"
 published_at: "2026-03-23T13:01:28+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-29T00:33:16.098879+00:00"
+fetched_at: "2026-07-29T13:59:20.653816+00:00"
 content_hash: "sha256:8d668b4e3923a56c21d9197c2429c96ba44e302593ff27f59c939e57bdaf801a"
 ---
 

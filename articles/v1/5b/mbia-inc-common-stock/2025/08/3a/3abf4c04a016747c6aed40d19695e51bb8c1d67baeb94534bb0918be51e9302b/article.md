@@ -7,7 +7,7 @@ source_id: "mbia-inc-common-stock-rss-e521afb3d53b"
 canonical_url: "https://investor.mbia.com/investor-relations/press-releases/press-release-details/2025/MBIA-Inc--Reports-Second-Quarter-2025-Financial-Results/default.aspx"
 published_at: "2025-08-06T20:15:00+00:00"
 first_seen_at: "2026-07-27T03:42:17.978557+00:00"
-fetched_at: "2026-07-28T23:43:23.477312+00:00"
+fetched_at: "2026-07-29T15:36:25.741866+00:00"
 content_hash: "sha256:ea207dde0ac6731102aa264c88e629219a1eac58b87e103f9f81ad79a84a52c2"
 ---
 

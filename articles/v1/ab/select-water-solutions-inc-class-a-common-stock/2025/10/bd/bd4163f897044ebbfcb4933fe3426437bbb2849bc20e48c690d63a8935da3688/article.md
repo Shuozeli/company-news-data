@@ -7,7 +7,7 @@ source_id: "select-water-solutions-inc-class-a-common-stock-rss-ec544dd21d21"
 canonical_url: "https://www.selectwater.com/aogr-industry-makes-progress-on-turning-produced-water-into-much-needed-resource/"
 published_at: "2025-10-30T18:16:46+00:00"
 first_seen_at: "2026-07-25T01:07:15.733048+00:00"
-fetched_at: "2026-07-29T00:23:28.366884+00:00"
+fetched_at: "2026-07-29T17:22:13.065978+00:00"
 content_hash: "sha256:8828f95943d2efe0bfb082e60723939ad272e36bb20802df4e083201baca0844"
 ---
 

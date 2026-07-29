@@ -7,7 +7,7 @@ source_id: "nicolet-bankshares-inc-common-stock-rss-e5f4fcd536be"
 canonical_url: "https://investors.nicoletbank.com/news-market-information/press-releases/news-details/2026/Nicolet-Bankshares-Inc--Announces-Record-Earnings/default.aspx"
 published_at: "2026-01-20T21:15:00+00:00"
 first_seen_at: "2026-07-25T16:20:55.850182+00:00"
-fetched_at: "2026-07-28T23:41:30.060629+00:00"
+fetched_at: "2026-07-29T15:34:30.934790+00:00"
 content_hash: "sha256:722282900f7e4bed74b49e7b323aae5c76c75340d4bf95ac49bec3e8e689c32e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-dover-news-import-0c30b263f835"
 canonical_url: "https://www.dover.com/blog/startup-ats-guide"
 published_at: "2026-07-12T00:00:00+00:00"
 first_seen_at: "2026-07-23T07:58:02.953466+00:00"
-fetched_at: "2026-07-28T01:57:48.905469+00:00"
+fetched_at: "2026-07-29T03:45:16.593978+00:00"
 content_hash: "sha256:de364112f46138812a70abd093d3122ee5bec8fbb89d8775998922b6e8590170"
 ---
 

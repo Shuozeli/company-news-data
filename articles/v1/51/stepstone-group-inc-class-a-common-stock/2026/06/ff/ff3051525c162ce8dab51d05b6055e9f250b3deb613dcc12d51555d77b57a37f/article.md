@@ -7,7 +7,7 @@ source_id: "stepstone-group-inc-class-a-common-stock-rss-d53e45329a72"
 canonical_url: "https://www.stepstonegroup.com/news-insights/beneath-the-headlines-german-private-equity/"
 published_at: "2026-06-02T12:00:00+00:00"
 first_seen_at: "2026-07-24T02:21:02.641674+00:00"
-fetched_at: "2026-07-28T23:06:00.697821+00:00"
+fetched_at: "2026-07-29T14:46:39.461282+00:00"
 content_hash: "sha256:47a856136173a014502622994e4422a6569d0dbdd9965d09765785ed4d798fc1"
 ---
 

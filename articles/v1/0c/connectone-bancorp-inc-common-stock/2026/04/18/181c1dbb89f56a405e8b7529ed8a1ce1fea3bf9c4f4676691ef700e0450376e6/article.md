@@ -7,7 +7,7 @@ source_id: "connectone-bancorp-inc-common-stock-rss-93f36156fe6f"
 canonical_url: "https://ir.connectonebank.com/news-market-information/press-release/news-details/2026/ConnectOne-Bancorp-Inc--Reports-FirstQuarter2026Results/default.aspx"
 published_at: "2026-04-23T11:00:00+00:00"
 first_seen_at: "2026-07-27T01:14:37.016202+00:00"
-fetched_at: "2026-07-28T23:03:39.206306+00:00"
+fetched_at: "2026-07-29T14:42:44.360868+00:00"
 content_hash: "sha256:4cbac31c4025d817ada53bf7f892b2c5020e544c96e30cd25a44e727ab8f35ff"
 ---
 

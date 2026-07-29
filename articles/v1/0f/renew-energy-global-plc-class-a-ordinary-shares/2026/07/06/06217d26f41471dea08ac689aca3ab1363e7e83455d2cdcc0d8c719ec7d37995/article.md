@@ -7,7 +7,7 @@ source_id: "renew-energy-global-plc-class-a-ordinary-shares-rss-d5d99d5fc981"
 canonical_url: "https://www.renew.com/news/sumant-sinha-s-bet-on-a-greener-india"
 published_at: "2026-07-21T04:20:06+00:00"
 first_seen_at: "2026-07-21T04:29:17.703072+00:00"
-fetched_at: "2026-07-28T23:23:56.325688+00:00"
+fetched_at: "2026-07-29T15:19:15.964025+00:00"
 content_hash: "sha256:5b14c7787a6624950760f1167fa04c8dff86f8cca25d3b8d24547c8290ed3e1b"
 ---
 

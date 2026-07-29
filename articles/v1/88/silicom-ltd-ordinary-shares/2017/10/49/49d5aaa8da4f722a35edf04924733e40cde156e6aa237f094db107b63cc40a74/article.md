@@ -7,7 +7,7 @@ source_id: "silicom-ltd-ordinary-shares-rss-23a299f84053"
 canonical_url: "https://www.silicom-usa.com/accelerated-data-plane-nfv/"
 published_at: "2017-10-08T09:30:25+00:00"
 first_seen_at: "2026-07-20T23:19:15.462150+00:00"
-fetched_at: "2026-07-29T00:42:10.848574+00:00"
+fetched_at: "2026-07-29T14:07:10.168013+00:00"
 content_hash: "sha256:413ad7d98b4a81cd3169e934f545272c0a90ff01d59a5c186e5bdbcaeaa1998c"
 ---
 

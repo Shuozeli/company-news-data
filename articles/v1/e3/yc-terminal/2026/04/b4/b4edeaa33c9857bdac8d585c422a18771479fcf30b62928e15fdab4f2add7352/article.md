@@ -7,7 +7,7 @@ source_id: "yc-terminal-rss-78690d64b189"
 canonical_url: "https://docs.withterminal.com/changelog"
 published_at: "2026-04-10T14:44:53+00:00"
 first_seen_at: "2026-07-26T01:53:49.682680+00:00"
-fetched_at: "2026-07-28T23:33:37.355813+00:00"
+fetched_at: "2026-07-29T15:29:54.465734+00:00"
 content_hash: "sha256:8a897010e0a8c4263cafd0a19ca0ed52f3b8e28e29c7c6c452ff195ee729ebdc"
 ---
 

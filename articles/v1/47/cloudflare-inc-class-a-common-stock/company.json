@@ -4,9 +4,9 @@
     "key": "cloudflare-inc-class-a-common-stock",
     "name": "Cloudflare Inc. Class A Common Stock"
   },
-  "record_count": 38,
+  "record_count": 39,
   "first_published_at": "2026-05-05T00:00:00+00:00",
-  "last_published_at": "2026-07-28T13:00:00+00:00",
+  "last_published_at": "2026-07-29T13:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -18,11 +18,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 23
+      "record_count": 24
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,10 +30,10 @@
       {
         "page": 1,
         "path": "articles/v1/47/cloudflare-inc-class-a-common-stock/index/pages/000001.json",
-        "record_count": 38,
-        "byte_count": 45934,
-        "sha256": "sha256:dedb1b30a30cffeec37587bd9c26497df43b8ac790635793dfdde267c1261f0c",
-        "newest_at": "2026-07-28T13:00:00+00:00",
+        "record_count": 39,
+        "byte_count": 47164,
+        "sha256": "sha256:559db7f6ca1e89e974b8895af1e5bf406a2edbdf7276aeeac32f4c905197cc64",
+        "newest_at": "2026-07-29T13:00:00+00:00",
         "oldest_at": "2026-05-05T00:00:00+00:00"
       }
     ]

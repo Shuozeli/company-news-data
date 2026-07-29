@@ -7,7 +7,7 @@ source_id: "contineum-therapeutics-inc-class-a-common-stock-rss-954367339e87"
 canonical_url: "https://contineum-tx.com/publications/discovery-of-a-brain-penetrant-small-molecule-antagonist-targeting-lpa1-receptors-to-reduce-neuroinflammation-and-promote-remyelination-in-multiple-sclerosis/"
 published_at: "2024-05-09T15:00:11+00:00"
 first_seen_at: "2026-07-25T03:15:09.445652+00:00"
-fetched_at: "2026-07-28T23:18:11.580766+00:00"
+fetched_at: "2026-07-29T15:07:28.643496+00:00"
 content_hash: "sha256:78f6adfbb96201cd4b793350c2d7c19ee24826c4e0456b17dbe92ef9a1df56aa"
 ---
 

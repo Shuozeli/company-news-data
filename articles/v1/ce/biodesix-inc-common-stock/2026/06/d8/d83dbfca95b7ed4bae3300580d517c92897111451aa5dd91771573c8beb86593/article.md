@@ -7,7 +7,7 @@ source_id: "biodesix-inc-common-stock-rss-a924513f16a8"
 canonical_url: "https://investors.biodesix.com/analyst/hc-wainwright"
 published_at: "2026-06-15T13:35:02+00:00"
 first_seen_at: "2026-07-24T19:19:15.956899+00:00"
-fetched_at: "2026-07-28T22:56:41.783016+00:00"
+fetched_at: "2026-07-29T14:28:26.319450+00:00"
 content_hash: "sha256:f38f1d336764b09e12074deebcbbe308e4c217d5892e80cd643fe01cac39143f"
 ---
 

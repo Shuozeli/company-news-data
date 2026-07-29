@@ -7,7 +7,7 @@ source_id: "anika-therapeutics-inc-common-stock-rss-f250450dc442"
 canonical_url: "https://ir.anika.com/2026-07-15-Anika-to-Issue-Second-Quarter-2026-Financial-Results-on-Wednesday,-July-29,-2026"
 published_at: "2026-07-15T20:01:00+00:00"
 first_seen_at: "2026-07-25T01:07:25.774026+00:00"
-fetched_at: "2026-07-29T00:20:48.551567+00:00"
+fetched_at: "2026-07-29T17:22:23.252680+00:00"
 content_hash: "sha256:5facdb4919131d7d71a0828f916699fbfb8f1b9b8e5bbe48f262259e8c1e98c9"
 ---
 

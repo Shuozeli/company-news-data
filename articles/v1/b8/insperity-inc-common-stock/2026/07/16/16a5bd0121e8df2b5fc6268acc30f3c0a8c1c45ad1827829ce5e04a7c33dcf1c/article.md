@@ -7,7 +7,7 @@ source_id: "insperity-inc-common-stock-rss-70d704854329"
 canonical_url: "https://www.insperity.com/blog/how-to-get-out-of-a-work-slump/"
 published_at: "2026-07-07T14:30:00+00:00"
 first_seen_at: "2026-07-27T06:19:13.921156+00:00"
-fetched_at: "2026-07-28T21:48:34.378179+00:00"
+fetched_at: "2026-07-29T10:05:45.558212+00:00"
 content_hash: "sha256:d557a0dfd1e7919b5c679820c671ce4aaf39745af90b98caaa4d7544aa7bf432"
 ---
 

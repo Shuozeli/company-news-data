@@ -7,7 +7,7 @@ source_id: "yc-gather-2-news-import-dcc281bbc950"
 canonical_url: "https://www.gather.town/blog/virtual-office-holiday-decorating-guide"
 published_at: "2026-06-30T00:00:00+00:00"
 first_seen_at: "2026-07-23T10:20:21.528696+00:00"
-fetched_at: "2026-07-28T16:38:04.130384+00:00"
+fetched_at: "2026-07-29T05:32:17.643761+00:00"
 content_hash: "sha256:11a6c59168adbffb5dd865a2ec5e44f3c5a23be4fd9eb43e60a525bf48f15382"
 ---
 

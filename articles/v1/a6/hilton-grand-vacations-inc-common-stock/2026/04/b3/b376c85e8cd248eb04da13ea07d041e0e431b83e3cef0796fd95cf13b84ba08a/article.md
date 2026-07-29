@@ -7,7 +7,7 @@ source_id: "hilton-grand-vacations-inc-common-stock-rss-a44538a6a744"
 canonical_url: "https://investors.hgv.com/press-releases/news-details/2026/Hilton-Grand-Vacations-to-Report-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-04-16T20:15:00+00:00"
 first_seen_at: "2026-07-25T08:07:30.877596+00:00"
-fetched_at: "2026-07-29T00:27:14.447163+00:00"
+fetched_at: "2026-07-29T13:52:09.644962+00:00"
 content_hash: "sha256:802ba430b470886692c9713e4a98e2964b83173476ad45468f5057b2b7657ea8"
 ---
 

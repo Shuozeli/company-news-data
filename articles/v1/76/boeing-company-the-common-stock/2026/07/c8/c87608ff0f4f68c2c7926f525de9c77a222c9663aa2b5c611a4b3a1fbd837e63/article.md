@@ -7,7 +7,7 @@ source_id: "boeing-company-the-common-stock-rss-76526cfc8662"
 canonical_url: "http://investors.boeing.com/investors/news/press-release-details/2026/Luxair-Continues-To-Soar-With-Additional-Order-For-Boeing-737-Jets/default.aspx"
 published_at: "2026-07-21T10:00:00+00:00"
 first_seen_at: "2026-07-26T23:54:21.829354+00:00"
-fetched_at: "2026-07-28T23:26:48.703887+00:00"
+fetched_at: "2026-07-29T15:20:37.393147+00:00"
 content_hash: "sha256:7acbd1226bcaf1982999c0e5bed00ad35eaf73a6642f4176b3b1797c5dd494b7"
 ---
 

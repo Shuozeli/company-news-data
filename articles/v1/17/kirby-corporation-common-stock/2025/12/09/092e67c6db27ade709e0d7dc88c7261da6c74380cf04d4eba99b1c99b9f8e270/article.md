@@ -7,7 +7,7 @@ source_id: "kirby-corporation-common-stock-rss-26f1ed7fb77b"
 canonical_url: "https://kirbycorp.com/january-29-2026-at-830-am-est-kirby-corporation-2025-fourth-quarter-earnings-conference-call/"
 published_at: "2025-12-30T21:46:08+00:00"
 first_seen_at: "2026-07-25T03:19:04.140546+00:00"
-fetched_at: "2026-07-28T23:26:07.668158+00:00"
+fetched_at: "2026-07-29T15:20:31.620603+00:00"
 content_hash: "sha256:332a1c554b3b639d2c4f7b23881e5044951e89b50e99ba3a6b63cd94c2e6f9ff"
 ---
 

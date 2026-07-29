@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-ingredients-inc-secures-20-million-strategic-investment-via-convertible-note-from-web3-powerhouse-aqua-1-foundation-a-key-backer-of-the-trump-founded-crypto-venture-world-libert/"
 published_at: "2025-09-04T13:58:52+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:3cd80a663d8c19382184bbc2f1ead864445d94edb1dc6d23d3774e1e1d519b59"
 ---
 

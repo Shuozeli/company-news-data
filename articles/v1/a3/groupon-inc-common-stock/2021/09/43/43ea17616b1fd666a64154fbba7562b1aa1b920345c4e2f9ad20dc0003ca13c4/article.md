@@ -7,7 +7,7 @@ source_id: "groupon-inc-common-stock-rss-99044b78d036"
 canonical_url: "https://medium.com/groupon-eng/3-guidelines-to-reduce-implementation-flaws-958511e2a82f"
 published_at: "2021-09-03T17:06:05+00:00"
 first_seen_at: "2026-07-20T04:36:53.869647+00:00"
-fetched_at: "2026-07-28T23:50:16.638455+00:00"
+fetched_at: "2026-07-29T15:44:32.079364+00:00"
 content_hash: "sha256:3948a7271b505307dc45c2e5eb31c64c79fc041c8c8fef98e04d9dc2d1ddba17"
 ---
 

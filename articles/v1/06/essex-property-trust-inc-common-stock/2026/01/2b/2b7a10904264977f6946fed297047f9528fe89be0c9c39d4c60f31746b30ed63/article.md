@@ -7,7 +7,7 @@ source_id: "essex-property-trust-inc-common-stock-rss-e730d2184aac"
 canonical_url: "https://investors.essexapartmenthomes.com/investors/news-events--presentations/news/news-details/2026/Essex-Reports-Characteristics-of-2025-Dividends/default.aspx"
 published_at: "2026-01-16T21:15:00+00:00"
 first_seen_at: "2026-07-26T08:15:31.163257+00:00"
-fetched_at: "2026-07-28T23:49:57.017606+00:00"
+fetched_at: "2026-07-29T15:44:01.546770+00:00"
 content_hash: "sha256:7681db9b37f9aebc7bfac080ed3819df0f0a03635d3ea4004398f1ef4eb9dbef"
 ---
 

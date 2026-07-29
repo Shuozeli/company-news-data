@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/making-mentra-live"
 published_at: "2025-12-21T19:54:03+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T23:47:18.716244+00:00"
+fetched_at: "2026-07-29T15:41:05.701886+00:00"
 content_hash: "sha256:c411e10e8ad78753550dee7ea14bdc7bd8506105cf92a3e1dc09bb212ab1a2dd"
 ---
 

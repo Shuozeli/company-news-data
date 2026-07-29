@@ -7,7 +7,7 @@ source_id: "fastenal-company-common-stock-rss-cf592647852a"
 canonical_url: "https://investor.fastenal.com/news-releases/news-details/2026/Fastenal-Company-Reports-2026-Second-Quarter-Earnings/default.aspx"
 published_at: "2026-07-14T10:50:00+00:00"
 first_seen_at: "2026-07-25T04:05:43.367273+00:00"
-fetched_at: "2026-07-28T23:49:08.956540+00:00"
+fetched_at: "2026-07-29T15:43:30.365610+00:00"
 content_hash: "sha256:4246cca58bc7a8f52124988a384659b3dbdc8389797b77d0238bf4d155b4925f"
 ---
 

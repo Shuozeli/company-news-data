@@ -7,7 +7,7 @@ source_id: "equity-lifestyle-properties-inc-common-stock-rss-a4c7415067a9"
 canonical_url: "https://equitylifestyle.gcs-web.com/news-releases/news-release-details/els-announces-tax-treatment-2025-distributions-0"
 published_at: "2026-01-22T14:15:08+00:00"
 first_seen_at: "2026-07-27T02:11:25.582387+00:00"
-fetched_at: "2026-07-29T00:05:44.713129+00:00"
+fetched_at: "2026-07-29T17:01:41.719204+00:00"
 content_hash: "sha256:8a8689b2214da4a351ddc29b0ff61b76fb0088ffbef83232b85892aefa2a7a8b"
 ---
 

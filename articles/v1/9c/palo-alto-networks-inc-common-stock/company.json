@@ -4,9 +4,9 @@
     "key": "palo-alto-networks-inc-common-stock",
     "name": "Palo Alto Networks Inc. Common Stock"
   },
-  "record_count": 47,
+  "record_count": 48,
   "first_published_at": "2026-02-17T00:00:00+00:00",
-  "last_published_at": "2026-07-23T14:10:53+00:00",
+  "last_published_at": "2026-07-28T19:05:03+00:00",
   "partitions": [
     {
       "partition": "2026-02",
@@ -30,11 +30,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 16
+      "record_count": 17
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -42,9 +42,9 @@
       {
         "page": 1,
         "path": "articles/v1/9c/palo-alto-networks-inc-common-stock/index/pages/000001.json",
-        "record_count": 47,
-        "byte_count": 57214,
-        "sha256": "sha256:523ee07f6bae527c15980ff1e65a4d4412ecd7bb32c64d2de66ffa5464ed6e18",
+        "record_count": 48,
+        "byte_count": 58394,
+        "sha256": "sha256:22dda144854dd053046144f7f9106d6b22c2e496c4753ca9e5a44fdbf04a085c",
         "newest_at": "2026-07-28T21:35:55.789196+00:00",
         "oldest_at": "2026-02-17T00:00:00+00:00"
       }

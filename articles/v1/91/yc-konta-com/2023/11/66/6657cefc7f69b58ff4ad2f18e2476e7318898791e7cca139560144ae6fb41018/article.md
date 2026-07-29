@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/factura-o-recibo-de-honorarios-es-lo-mismo-asi-puedes-emitirlo"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:a4eb3af4c835d1a878e6db5b379a342e775087f5d8393004be8b71fbca32dddc"
 ---
 

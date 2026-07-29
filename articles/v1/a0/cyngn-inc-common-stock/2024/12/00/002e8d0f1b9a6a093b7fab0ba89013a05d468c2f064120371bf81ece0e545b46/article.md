@@ -7,7 +7,7 @@ source_id: "cyngn-inc-common-stock-rss-ce82edd48e57"
 canonical_url: "https://www.cyngn.com/blog/overcoming-labor-shortages-with-agvs-and-amrs"
 published_at: "2024-12-19T15:45:00+00:00"
 first_seen_at: "2026-07-25T00:14:08.809814+00:00"
-fetched_at: "2026-07-28T23:09:25.864786+00:00"
+fetched_at: "2026-07-29T14:52:08.828163+00:00"
 content_hash: "sha256:0cd69cc87279b90cb92935130bbff7211d073a30436375732634119151899ea6"
 ---
 

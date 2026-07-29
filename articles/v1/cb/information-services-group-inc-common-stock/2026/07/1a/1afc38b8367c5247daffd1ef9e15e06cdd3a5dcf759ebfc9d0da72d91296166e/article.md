@@ -7,7 +7,7 @@ source_id: "information-services-group-inc-common-stock-rss-538d49f51dc8"
 canonical_url: "https://ir.isg-one.com/news-market-information/press-releases/news-details/2026/Agentic-AI-Reshapes-Property-Casualty-Insurance-Operations/default.aspx"
 published_at: "2026-07-23T15:35:00+00:00"
 first_seen_at: "2026-07-25T09:22:57.245429+00:00"
-fetched_at: "2026-07-29T00:12:12.558272+00:00"
+fetched_at: "2026-07-29T17:13:34.862522+00:00"
 content_hash: "sha256:5628eb35e740b6a448f2a1d67de22ef713dcd5934a403bde070f44a04f070ff0"
 ---
 

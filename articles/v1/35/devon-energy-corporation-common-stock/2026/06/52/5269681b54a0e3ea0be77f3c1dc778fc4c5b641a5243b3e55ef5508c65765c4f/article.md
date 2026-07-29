@@ -7,7 +7,7 @@ source_id: "devon-energy-corporation-common-stock-rss-b68131991e20"
 canonical_url: "http://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-CEO-Clay-Gaspar-to-Participate-in-a-Fireside-Chat-at-the-J-P--Morgan-Energy-Power-Renewables--Mining-Conference/default.aspx"
 published_at: "2026-06-16T20:05:00+00:00"
 first_seen_at: "2026-07-25T01:08:53.429704+00:00"
-fetched_at: "2026-07-29T00:32:43.805760+00:00"
+fetched_at: "2026-07-29T13:58:53.801670+00:00"
 content_hash: "sha256:ab1ae09d514b6d4a1d9b3d070900a52c8d7fac17f70c9f87751c16cc1a32340c"
 ---
 

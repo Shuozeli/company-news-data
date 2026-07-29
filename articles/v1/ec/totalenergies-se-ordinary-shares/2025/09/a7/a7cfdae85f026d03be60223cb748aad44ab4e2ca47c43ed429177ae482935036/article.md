@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/des-centaines-de-milliers-tonnes-dacier-en-pleine-mer-au-coeur-de-tyra-ii-la-plateforme-gaziere-geante-du-danemark-tf1-info/"
 published_at: "2025-09-17T13:46:02+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T23:24:39.102238+00:00"
+fetched_at: "2026-07-29T15:20:19.764825+00:00"
 content_hash: "sha256:fa819029381671b4bd9ed62b781039d9a8317297735fec0b10a1ec0bf2e564c4"
 ---
 

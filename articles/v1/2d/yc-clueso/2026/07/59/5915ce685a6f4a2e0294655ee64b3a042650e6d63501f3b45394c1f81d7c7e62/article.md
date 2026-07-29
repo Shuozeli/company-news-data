@@ -5,7 +5,7 @@ company_key: "yc-clueso"
 company: "Clueso"
 source_id: "yc-clueso-news-import-fdc543697114"
 canonical_url: "https://www.clueso.io/blog/video-documentation"
-published_at: "2026-07-15T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T21:50:58.184203+00:00"
 fetched_at: "2026-07-28T21:22:05.726331+00:00"
 content_hash: "sha256:5a9f1878f76b04b356ca5248fe3dedf0bb8a8fd75b428bb3ebf8270df3cbf503"

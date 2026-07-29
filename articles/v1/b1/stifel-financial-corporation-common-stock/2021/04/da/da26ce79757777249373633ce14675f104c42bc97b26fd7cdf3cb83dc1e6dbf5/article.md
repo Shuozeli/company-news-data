@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2021/PF%20Built%20by%20Bonds%20FINAL%20for%2004.07.21.pdf"
 published_at: "2021-04-07T13:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:41c49f1037ce9812c6a2c6a5d7b0c2d0178aa4932dcf46d173f895788071df5a"
 ---
 

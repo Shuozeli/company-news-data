@@ -7,7 +7,7 @@ source_id: "roku-inc-class-a-common-stock-rss-7fd84d003d99"
 canonical_url: "https://engineering.roku.com/unlocking-potential-rethinking-how-we-measure-developer-productivity"
 published_at: "2023-06-28T13:02:15+00:00"
 first_seen_at: "2026-07-20T23:21:49.245762+00:00"
-fetched_at: "2026-07-28T23:19:32.883693+00:00"
+fetched_at: "2026-07-29T15:09:04.844369+00:00"
 content_hash: "sha256:1de04cb02cd12a7aa0a97ab852b93c0ef339d2ae1e9e7eb4641d72f17c3477e0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "anfield-energy-inc-common-shares-rss-a0a17c475371"
 canonical_url: "https://anfieldenergy.com/anfield-energy-completes-drilling-of-monitoring-wells-at-shootaring-canyon-mill-and-slick-rock-mine-complex/"
 published_at: "2026-05-13T11:27:23+00:00"
 first_seen_at: "2026-07-24T04:08:28.516317+00:00"
-fetched_at: "2026-07-29T00:46:15.737896+00:00"
+fetched_at: "2026-07-29T14:10:29.586078+00:00"
 content_hash: "sha256:bdf6675445a66624512245b4074dcb1347ee59bfdf98cebd31435210b23d9954"
 ---
 

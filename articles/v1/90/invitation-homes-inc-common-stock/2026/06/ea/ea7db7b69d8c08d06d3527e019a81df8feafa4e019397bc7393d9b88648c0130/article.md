@@ -7,7 +7,7 @@ source_id: "invitation-homes-inc-common-stock-rss-1545f6c2cf53"
 canonical_url: "https://www.invh.com/news-events/news/news-details/2026/Invitation-Homes-to-Participate-in-Nareits-REITweek-2026-Investor-Conference/default.aspx"
 published_at: "2026-06-01T10:45:00+00:00"
 first_seen_at: "2026-07-25T09:56:53.291090+00:00"
-fetched_at: "2026-07-28T23:23:23.747600+00:00"
+fetched_at: "2026-07-29T15:20:00.705610+00:00"
 content_hash: "sha256:c2448cded25b6ae9be1df1f622a90b24bf6c99b3c437e53a453ff565854340d0"
 ---
 

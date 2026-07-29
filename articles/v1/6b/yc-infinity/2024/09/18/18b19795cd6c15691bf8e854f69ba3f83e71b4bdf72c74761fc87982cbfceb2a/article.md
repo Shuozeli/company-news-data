@@ -7,7 +7,7 @@ source_id: "yc-infinity-news-import-cf26c849fe19"
 canonical_url: "https://www.infinityapp.in/blog/how-indian-startups-can-manage-liquidity-during-economic-uncertainty"
 published_at: "2024-09-04T00:00:00+00:00"
 first_seen_at: "2026-07-25T09:34:10.825678+00:00"
-fetched_at: "2026-07-28T11:32:33.369115+00:00"
+fetched_at: "2026-07-29T14:40:40.812323+00:00"
 content_hash: "sha256:b79fbcbddd54e6d7ff015d3b4ed7aa2dd52fb61af85c331b198ce40f22901617"
 ---
 

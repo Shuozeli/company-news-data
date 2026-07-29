@@ -7,7 +7,7 @@ source_id: "yc-chunkr-rss-ccbc1a71b139"
 canonical_url: "https://www.chunkr.ai/blog/benchmarking-llm-parsing-via-the-chunkr-api"
 published_at: "2025-05-26T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:25.721612+00:00"
-fetched_at: "2026-07-29T00:42:08.864346+00:00"
+fetched_at: "2026-07-29T14:05:55.882824+00:00"
 content_hash: "sha256:2dcef50649011c0f5cc4988359a85263fdf1e228f17075d0ea932dee56018945"
 ---
 

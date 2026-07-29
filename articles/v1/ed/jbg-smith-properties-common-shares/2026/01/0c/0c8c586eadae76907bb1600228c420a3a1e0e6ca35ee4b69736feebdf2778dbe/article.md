@@ -7,7 +7,7 @@ source_id: "jbg-smith-properties-common-shares-rss-83f1679a022e"
 canonical_url: "https://investors.jbgsmith.com/investor-relations/newsroom/news-details/2026/JBG-SMITH-Reports-Taxable-Composition-of-2025-Distributions/default.aspx"
 published_at: "2026-01-15T21:15:00+00:00"
 first_seen_at: "2026-07-25T10:09:45.870565+00:00"
-fetched_at: "2026-07-28T23:53:33.482349+00:00"
+fetched_at: "2026-07-29T17:01:39.598469+00:00"
 content_hash: "sha256:af18cadea9e47a7fb20faee758f5371bc66a9f6e3ba5410ee504d86194648d31"
 ---
 

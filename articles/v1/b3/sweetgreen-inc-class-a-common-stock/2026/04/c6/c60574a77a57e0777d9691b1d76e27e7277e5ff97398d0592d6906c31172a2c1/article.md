@@ -7,7 +7,7 @@ source_id: "sweetgreen-inc-class-a-common-stock-rss-02b512030049"
 canonical_url: "https://investor.sweetgreen.com/press/news-details/2026/Sweetgreen-Names-Ryan-Slemons-Chief-Development-Officer/default.aspx"
 published_at: "2026-04-30T13:00:00+00:00"
 first_seen_at: "2026-07-26T01:02:33.757530+00:00"
-fetched_at: "2026-07-28T23:08:46.260368+00:00"
+fetched_at: "2026-07-29T14:51:12.036581+00:00"
 content_hash: "sha256:df068e44bc667717d9e41b3d944d831b0ded8b35a7673c813dbad0714d9bc450"
 ---
 

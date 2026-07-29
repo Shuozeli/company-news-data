@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/hot-wheels-and-7-eleven-team-up-for-164-scale-nissan-gt-r/"
 published_at: "2026-07-16T19:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:b57512fe7267ac7288acaed7897271285db52d0d1e2c2e705a50bbf0efe3bd41"
 ---
 

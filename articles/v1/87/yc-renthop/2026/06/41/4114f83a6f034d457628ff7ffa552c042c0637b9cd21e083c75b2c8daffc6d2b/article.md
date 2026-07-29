@@ -7,7 +7,7 @@ source_id: "yc-renthop-rss-2954ff02c95e"
 canonical_url: "https://www.renthop.com/blog/best-neighborhoods-along-the-g-train-stops/"
 published_at: "2026-06-23T16:45:20+00:00"
 first_seen_at: "2026-07-25T21:04:29.929203+00:00"
-fetched_at: "2026-07-28T23:28:46.448791+00:00"
+fetched_at: "2026-07-29T15:24:47.318598+00:00"
 content_hash: "sha256:ca4f8d338b587fc5e4e9ddd8059faaa3fa3434970ced6539aa601811ca5db7d9"
 ---
 

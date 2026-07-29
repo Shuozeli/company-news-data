@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/memcards-the-first-third-party-app-to-launch-on-mentra-market"
 published_at: "2025-08-29T00:35:00+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T23:47:18.716244+00:00"
+fetched_at: "2026-07-29T15:41:05.701886+00:00"
 content_hash: "sha256:98e645152cf96a7cc676cf18a7bf177e2d3cb5ee638ea7d7de7ee7b089afbe55"
 ---
 

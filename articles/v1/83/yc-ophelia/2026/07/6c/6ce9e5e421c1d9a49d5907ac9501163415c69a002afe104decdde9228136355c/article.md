@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:22:12.115321+00:00"
 content_hash: "sha256:468164e9653c386267e2c1c0605c57d69e4048e12db337142fc3312b9189cd89"
 ---
 
-# Methadone Alternatives for Opioid Use Disorder
+# Methadone alternatives for opioid use disorder
 
 Key takeaways
 

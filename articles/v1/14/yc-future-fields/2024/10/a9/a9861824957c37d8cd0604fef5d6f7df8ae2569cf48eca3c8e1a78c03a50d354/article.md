@@ -7,7 +7,7 @@ source_id: "yc-future-fields-rss-02d8ed225558"
 canonical_url: "https://futurefields.io/from-classic-genetics-to-cutting-edge-biotech-exploring-the-genetic-tools-enabling-protein-expression-in-fruit-flies/"
 published_at: "2024-10-29T06:01:03+00:00"
 first_seen_at: "2026-07-25T03:17:21.494318+00:00"
-fetched_at: "2026-07-28T23:21:50.356181+00:00"
+fetched_at: "2026-07-29T15:15:39.745784+00:00"
 content_hash: "sha256:38fda8d024ae85b0330e08c78a6b51ef2351c5b037fd0f0dddced200ba2bf3ba"
 ---
 

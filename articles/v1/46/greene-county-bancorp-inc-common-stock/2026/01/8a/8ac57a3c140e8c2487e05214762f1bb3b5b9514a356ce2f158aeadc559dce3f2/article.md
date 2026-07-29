@@ -7,7 +7,7 @@ source_id: "greene-county-bancorp-inc-common-stock-rss-2106cb4d1533"
 canonical_url: "https://greenecountybancorp.q4ir.com/news/news-details/2026/Greene-County-Bancorp-Inc--Announces-Cash-Dividend/default.aspx"
 published_at: "2026-01-21T19:15:00+00:00"
 first_seen_at: "2026-07-25T07:05:09.523201+00:00"
-fetched_at: "2026-07-29T00:27:42.163758+00:00"
+fetched_at: "2026-07-29T13:55:33.225406+00:00"
 content_hash: "sha256:b1299a7d6472b4b43c28e4db3f0be83ff78401f522afe1252b1643f23ad6265b"
 ---
 

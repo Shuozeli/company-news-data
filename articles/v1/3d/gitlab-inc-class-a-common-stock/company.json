@@ -4,9 +4,9 @@
     "key": "gitlab-inc-class-a-common-stock",
     "name": "GitLab Inc. Class A Common Stock"
   },
-  "record_count": 56,
+  "record_count": 57,
   "first_published_at": "2024-08-27T00:00:00+00:00",
-  "last_published_at": "2026-07-27T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2024-08",
@@ -54,11 +54,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 18
+      "record_count": 19
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -67,18 +67,18 @@
         "page": 1,
         "path": "articles/v1/3d/gitlab-inc-class-a-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 56005,
-        "sha256": "sha256:1aaad1b93e5ff6654540b80c3d4f32211453dbbee62e71f324250fe74fdc7545",
-        "newest_at": "2026-07-27T00:00:00+00:00",
-        "oldest_at": "2026-02-25T00:00:00+00:00"
+        "byte_count": 55977,
+        "sha256": "sha256:fdc1ee670e2c30337391cd5e1461134cb7c02145dc627eb34264883a5c2d47f9",
+        "newest_at": "2026-07-29T00:00:00+00:00",
+        "oldest_at": "2026-03-03T00:00:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/3d/gitlab-inc-class-a-common-stock/index/pages/000002.json",
-        "record_count": 6,
-        "byte_count": 7077,
-        "sha256": "sha256:659953daf1251767e7be52e9c26a196359905d79bed44c4972f91ddd5e1ff5be",
-        "newest_at": "2026-01-08T00:00:00+00:00",
+        "record_count": 7,
+        "byte_count": 8205,
+        "sha256": "sha256:f98122bd9de0a2bb2c3c83055432b68ca729be812674afd5c083fe9a9428539a",
+        "newest_at": "2026-02-25T00:00:00+00:00",
         "oldest_at": "2024-08-27T00:00:00+00:00"
       }
     ]

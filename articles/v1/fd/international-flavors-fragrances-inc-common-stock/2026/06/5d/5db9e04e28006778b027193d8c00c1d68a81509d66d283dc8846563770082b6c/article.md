@@ -7,7 +7,7 @@ source_id: "international-flavors-fragrances-inc-common-stock-rss-5af8663efd29"
 canonical_url: "https://www.iff.com/media/stories/evolucion-de-la-ia-en-la-produccion-de-etanol/"
 published_at: "2026-06-26T13:54:18+00:00"
 first_seen_at: "2026-07-21T01:55:53.290272+00:00"
-fetched_at: "2026-07-29T00:26:33.797363+00:00"
+fetched_at: "2026-07-29T13:53:19.676274+00:00"
 content_hash: "sha256:34c81372b5e475d6e49b60ff452a02c785f59a7f5794e35dd488ad8705e5be97"
 ---
 

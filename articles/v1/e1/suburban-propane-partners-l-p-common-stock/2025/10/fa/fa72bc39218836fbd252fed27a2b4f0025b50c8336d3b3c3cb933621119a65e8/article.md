@@ -7,7 +7,7 @@ source_id: "suburban-propane-partners-l-p-common-stock-rss-735cd6635d3c"
 canonical_url: "https://investor.suburbanpropane.com/2025-10-23-Suburban-Propane-Partners,-L-P-Declares-Quarterly-Distribution-of-0-325-per-Common-Unit"
 published_at: "2025-10-23T11:25:00+00:00"
 first_seen_at: "2026-07-25T01:08:05.565238+00:00"
-fetched_at: "2026-07-29T00:35:11.121502+00:00"
+fetched_at: "2026-07-29T14:00:49.970072+00:00"
 content_hash: "sha256:67b17b4f110f90cd6f2d24ced31f94b981826e3e5111b56a98c48882a49a34ee"
 ---
 

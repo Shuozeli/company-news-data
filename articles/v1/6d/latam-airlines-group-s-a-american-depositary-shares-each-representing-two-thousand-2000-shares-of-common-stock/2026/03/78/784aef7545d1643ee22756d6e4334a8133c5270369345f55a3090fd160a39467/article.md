@@ -7,7 +7,7 @@ source_id: "latam-airlines-group-s-a-american-depositary-shares-each-representin
 canonical_url: "https://ir.latam.com/English/news/press-releases/news-details/2026/CALL-TO-TENDER-SAO-PAULO---GUARULHOS-AIRPORT-IN-ACCORDANCE-TO-THE-SLOTS-EXCHANGE-PROCEDURE-2026-SmabSaFSjt/default.aspx"
 published_at: "2026-03-26T20:30:00+00:00"
 first_seen_at: "2026-07-25T11:44:00.487545+00:00"
-fetched_at: "2026-07-28T23:47:15.337073+00:00"
+fetched_at: "2026-07-29T15:41:12.673202+00:00"
 content_hash: "sha256:834b529ee8c3659ccd323c8fc8039a1c837fd216eea608d76a56effdb70e4c94"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-cratejoy-news-import-dd12a64f4f7a"
 canonical_url: "https://www.cratejoy.com/blogs/box-insider/back-to-school-preparation-a-parents-guide-to-a-stress-free-start"
 published_at: "2024-07-29T18:40:55+00:00"
 first_seen_at: "2026-07-21T15:17:11.835732+00:00"
-fetched_at: "2026-07-28T11:18:21.307540+00:00"
+fetched_at: "2026-07-29T14:27:14.696882+00:00"
 content_hash: "sha256:b30dda3e40a56b2760fe5262b8164c306895f8178eb4d96344fe89eb4345a7a1"
 ---
 

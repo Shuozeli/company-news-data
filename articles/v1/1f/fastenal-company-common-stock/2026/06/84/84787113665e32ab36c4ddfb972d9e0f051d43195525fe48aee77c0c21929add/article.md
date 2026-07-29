@@ -7,7 +7,7 @@ source_id: "fastenal-company-common-stock-rss-cf592647852a"
 canonical_url: "https://investor.fastenal.com/news-releases/news-details/2026/Fastenal-Company-Announces-Conference-Call-to-Review-2026-Second-Quarter-Earnings/default.aspx"
 published_at: "2026-06-26T20:05:00+00:00"
 first_seen_at: "2026-07-25T04:05:43.367273+00:00"
-fetched_at: "2026-07-28T23:49:08.956540+00:00"
+fetched_at: "2026-07-29T15:43:30.365610+00:00"
 content_hash: "sha256:3cd09dbc3f47193b9d3b5e8138df4d8284253b398b089febd62819b5990e4651"
 ---
 

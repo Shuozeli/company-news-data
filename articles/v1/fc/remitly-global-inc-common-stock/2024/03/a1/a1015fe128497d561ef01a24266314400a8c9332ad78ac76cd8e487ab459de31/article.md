@@ -7,7 +7,7 @@ source_id: "remitly-global-inc-common-stock-rss-3a89e3398c7b"
 canonical_url: "https://news.remitly.com/news/cnbc/"
 published_at: "2024-03-26T00:27:36+00:00"
 first_seen_at: "2026-07-25T01:11:25.530472+00:00"
-fetched_at: "2026-07-28T23:50:42.220711+00:00"
+fetched_at: "2026-07-29T15:43:29.915282+00:00"
 content_hash: "sha256:633c92518910313b7e85551b575a60bca2ca43ec31a28f5a2945a6c07be5f168"
 ---
 

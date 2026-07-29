@@ -7,7 +7,7 @@ source_id: "gorilla-technology-group-inc-ordinary-shares-rss-f5e7578f1e87"
 canonical_url: "https://investors.gorilla-technology.com/gorilla-technology-completes-acquisition-of-shackleton-finance-and-launches-gorilla-tech-capital/"
 published_at: "2026-07-01T12:30:34+00:00"
 first_seen_at: "2026-07-20T23:19:42.204541+00:00"
-fetched_at: "2026-07-29T00:49:40.981826+00:00"
+fetched_at: "2026-07-29T14:19:19.829719+00:00"
 content_hash: "sha256:e39a7f19e10ab1f811c4a62668c85c7229363d6e60a77af13ed4d8da6b3ac99f"
 ---
 

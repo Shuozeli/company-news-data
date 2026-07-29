@@ -7,7 +7,7 @@ source_id: "veralto-corp-common-stock-rss-061472cdeea0"
 canonical_url: "https://investors.veralto.com/2025-11-25-Veralto-Announces-Agreement-to-Acquire-In-Situ-and-Establishes-750-Million-Share-Repurchase-Program"
 published_at: "2025-11-25T12:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:18.742713+00:00"
-fetched_at: "2026-07-28T22:15:54.927830+00:00"
+fetched_at: "2026-07-29T14:22:33.213156+00:00"
 content_hash: "sha256:4212e7ca249ee458ff5936d6f5bfe025e114cadf9305ed6b4d9945c5bf6a7b5a"
 ---
 

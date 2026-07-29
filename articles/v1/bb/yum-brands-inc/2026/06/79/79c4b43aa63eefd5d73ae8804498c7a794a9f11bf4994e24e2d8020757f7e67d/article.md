@@ -7,7 +7,7 @@ source_id: "yum-brands-inc-rss-553029e24616"
 canonical_url: "https://investors.yum.com/news-events/financial-releases/news-details/2026/Yum-Brands-Announces-Retirement-of-Tracy-Skeans-Chief-Operating-Officer-and-Chief-People--Culture-Officer/default.aspx"
 published_at: "2026-06-02T17:35:00+00:00"
 first_seen_at: "2026-07-26T06:18:27.554263+00:00"
-fetched_at: "2026-07-28T23:20:58.245599+00:00"
+fetched_at: "2026-07-29T15:12:58.864992+00:00"
 content_hash: "sha256:f0cf9fbc232bb7d6bff39158734eea0fef14faa8674621b6bf4c19c226f30634"
 ---
 

@@ -7,7 +7,7 @@ source_id: "gilat-satellite-networks-ltd-ordinary-shares-rss-076d0814984f"
 canonical_url: "https://www.gilat.com/newsroom/media/cailabs-partners-with-gilat-datapath-to-build-transportable-optical-ground-stations/"
 published_at: "2025-12-18T10:38:18+00:00"
 first_seen_at: "2026-07-25T03:17:43.964106+00:00"
-fetched_at: "2026-07-28T23:21:54.528556+00:00"
+fetched_at: "2026-07-29T15:15:40.340812+00:00"
 content_hash: "sha256:32a3c59b1ac91b54b8c31ff354aa06023ab37acd4279a474580ef8a570c9d941"
 ---
 

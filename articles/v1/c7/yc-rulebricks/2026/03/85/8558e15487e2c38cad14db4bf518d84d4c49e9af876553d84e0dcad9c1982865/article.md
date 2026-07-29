@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/bnpl-logic-under-pressure"
 published_at: "2026-03-29T15:06:59+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T22:57:17.651461+00:00"
+fetched_at: "2026-07-29T14:31:05.567422+00:00"
 content_hash: "sha256:2f4386770945cc4f97cce7bf588b01f1e6f96686464c92c11097a09358d0dfcd"
 ---
 

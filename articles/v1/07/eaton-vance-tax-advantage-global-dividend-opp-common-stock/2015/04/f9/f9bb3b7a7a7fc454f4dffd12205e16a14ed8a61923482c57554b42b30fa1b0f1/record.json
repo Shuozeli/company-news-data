@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f9bb3b7a7a7fc454f4dffd12205e16a14ed8a61923482c57554b42b30fa1b0f1",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/blueharbor-bank-mooresville,-nc-otcbb-blhk-declared-a-dividend-of-$0.2500-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/blueharbor-bank-mooresville,-nc-otcbb-blhk-declared-a-dividend-of-$0.2500-per-share/"
+  },
+  "title": "BLHK Dividend Announcement $0.2500/Share 7/28/2026",
+  "summary": "OTCBB:BLHK BlueHarbor Bank (Mooresville, NC) Dividend Announcement $0.2500 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.545064+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/f9/f9bb3b7a7a7fc454f4dffd12205e16a14ed8a61923482c57554b42b30fa1b0f1/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/f9/f9bb3b7a7a7fc454f4dffd12205e16a14ed8a61923482c57554b42b30fa1b0f1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1667,
+    "sha256": "sha256:ae8fdaf156423dba996328995a68e64c967c3919eebdd8bef0d179e1bb27ce34",
+    "normalized_content_hash": "sha256:83f84394e1cf73fcfd1bb8a42bb5e3266d620a81eb637a2d4ed702f742c64ae1"
+  },
+  "provenance": {
+    "source_item_id": "360068fd-47a9-4ab1-b386-4f0bd1ed9675",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/blueharbor-bank-mooresville,-nc-otcbb-blhk-declared-a-dividend-of-$0.2500-per-share/"
+  }
+}

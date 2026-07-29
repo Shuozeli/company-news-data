@@ -7,7 +7,7 @@ source_id: "hudson-pacific-properties-inc-common-stock-rss-348072d19ba0"
 canonical_url: "https://investors.hudsonpacificproperties.com/investor-resources/press-releases/press-release-details/2026/Hudson-Pacific-Properties-Reports-Fourth-Quarter-2025-Financial-Results/default.aspx"
 published_at: "2026-02-26T14:00:00+00:00"
 first_seen_at: "2026-07-25T08:33:12.400252+00:00"
-fetched_at: "2026-07-28T23:53:39.931348+00:00"
+fetched_at: "2026-07-29T17:09:58.010250+00:00"
 content_hash: "sha256:6c0484b194dc655eb5f9be9eeffb82cf93c62b23a9feb0892b575847c52721f9"
 ---
 

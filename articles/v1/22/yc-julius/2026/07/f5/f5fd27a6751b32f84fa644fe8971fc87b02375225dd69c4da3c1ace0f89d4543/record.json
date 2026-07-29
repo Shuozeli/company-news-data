@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f5fd27a6751b32f84fa644fe8971fc87b02375225dd69c4da3c1ace0f89d4543",
+  "company": {
+    "key": "yc-julius",
+    "name": "Julius"
+  },
+  "source": {
+    "id": "yc-julius-news-import-b50522af521c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://julius.ai/articles/prezi-reviews",
+    "canonical": "https://julius.ai/articles/prezi-reviews"
+  },
+  "title": "Prezi Reviews: What Users Are Saying + My Honest Take [2026]",
+  "summary": "Prezi reviews highlight fast, visually engaging presentations, but flag limits with AI features and exports. Here's what I found after testing it in 2026.",
+  "published_at": null,
+  "first_seen_at": "2026-07-29T08:06:29.610252+00:00",
+  "fetched_at": "2026-07-29T08:06:31.526580+00:00",
+  "last_updated_at": "2026-07-29T08:06:32.097989+00:00",
+  "paths": {
+    "article": "articles/v1/22/yc-julius/2026/07/f5/f5fd27a6751b32f84fa644fe8971fc87b02375225dd69c4da3c1ace0f89d4543/article.md",
+    "record": "articles/v1/22/yc-julius/2026/07/f5/f5fd27a6751b32f84fa644fe8971fc87b02375225dd69c4da3c1ace0f89d4543/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14712,
+    "sha256": "sha256:e11731a9911714cdecb13558b32e6ec96335ce75d1463941758d78618d60c235",
+    "normalized_content_hash": "sha256:9e8a983e80e22da7068dc35b920bf87417d40782577993828be52a7c829bd22f"
+  },
+  "provenance": {
+    "source_item_id": "ba5525e0-6ced-4204-a3f7-a64a137b192d",
+    "external_id": "https://julius.ai/articles/prezi-reviews"
+  }
+}

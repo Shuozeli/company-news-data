@@ -7,7 +7,7 @@ source_id: "peoples-bancorp-of-north-carolina-inc-common-stock-rss-1893cdd41d17"
 canonical_url: "https://pebk.q4ir.com/news-events/news-market-data/news-details/2025/Peoples-Bancorp-Announces-Cash-Dividend-e154ea0c3/default.aspx"
 published_at: "2025-08-22T16:00:00+00:00"
 first_seen_at: "2026-07-25T18:45:30.727373+00:00"
-fetched_at: "2026-07-28T23:11:41.637137+00:00"
+fetched_at: "2026-07-29T14:59:17.536007+00:00"
 content_hash: "sha256:d829d46b80ab39f829a29c63b85971dda570984f762cd5af69f20c94673ae8cc"
 ---
 

@@ -7,7 +7,7 @@ source_id: "turning-point-brands-inc-common-stock-rss-04da633dfb74"
 canonical_url: "https://www.turningpointbrands.com/investor-relations/news/news-details/2026/Turning-Point-Brands-Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-03-02T13:00:00+00:00"
 first_seen_at: "2026-07-26T03:18:36.260463+00:00"
-fetched_at: "2026-07-29T00:06:34.597835+00:00"
+fetched_at: "2026-07-29T13:21:27.097757+00:00"
 content_hash: "sha256:611a40dce93748df7753e38b4ba9eb4a42102151b56f862a73dedf4e6177704e"
 ---
 

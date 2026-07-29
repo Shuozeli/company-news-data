@@ -7,7 +7,7 @@ source_id: "yc-players-lounge-news-import-68d148ea6bb2"
 canonical_url: "https://www.playerslounge.com/blog/massive-ultimate-team-change-to-madden-26"
 published_at: null
 first_seen_at: "2026-07-23T20:45:53.392710+00:00"
-fetched_at: "2026-07-28T15:09:19.351622+00:00"
+fetched_at: "2026-07-29T04:15:54.707542+00:00"
 content_hash: "sha256:a7a5056d5f911ed37802f8a375b5d59ff396bff2cfaba57382fcb968dbea0ef3"
 ---
 

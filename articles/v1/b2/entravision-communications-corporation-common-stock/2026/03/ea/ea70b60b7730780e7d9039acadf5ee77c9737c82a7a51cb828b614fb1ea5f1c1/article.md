@@ -7,7 +7,7 @@ source_id: "entravision-communications-corporation-common-stock-rss-d9440f623c54
 canonical_url: "https://investor.entravision.com/news/news-details/2026/Entravision-Relaunches-Politics-Con-Acento-with-Expanded-TV-and-Digital-Distribution/default.aspx"
 published_at: "2026-03-26T21:01:00+00:00"
 first_seen_at: "2026-07-25T02:46:24.469556+00:00"
-fetched_at: "2026-07-28T22:13:44.430007+00:00"
+fetched_at: "2026-07-29T14:21:33.632591+00:00"
 content_hash: "sha256:db6c89c198d25f9fb533b3c8fc9357ab1d52e226d3fc2949153c79cac8b09f7b"
 ---
 

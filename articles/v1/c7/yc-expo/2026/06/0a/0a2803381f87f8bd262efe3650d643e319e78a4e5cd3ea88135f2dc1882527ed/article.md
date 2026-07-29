@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/how-a-kotlin-compiler-plugin-cut-android-time-to-first-render"
 published_at: "2026-06-10T13:15:22+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:89c81ec6e379b064d11ccd6ace07d80bd9482541b680f0addb2447d856e496e5"
 ---
 

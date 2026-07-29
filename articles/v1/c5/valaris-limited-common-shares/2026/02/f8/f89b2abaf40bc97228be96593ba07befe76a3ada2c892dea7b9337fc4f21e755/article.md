@@ -7,7 +7,7 @@ source_id: "valaris-limited-common-shares-rss-2177b94654ae"
 canonical_url: "https://www.valaris.com/news/news-details/2026/Transocean-to-Acquire-Valaris/default.aspx"
 published_at: "2026-02-09T11:00:00+00:00"
 first_seen_at: "2026-07-26T04:09:40.327837+00:00"
-fetched_at: "2026-07-28T23:16:24.568801+00:00"
+fetched_at: "2026-07-29T15:06:18.622554+00:00"
 content_hash: "sha256:ef7c6de01107c25140c25d1ff9513cfe965cc815dbb5804c5ae0763c3f810253"
 ---
 

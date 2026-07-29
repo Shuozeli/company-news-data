@@ -7,7 +7,7 @@ source_id: "napco-security-technologies-inc-common-stock-rss-411f7979d9c5"
 canonical_url: "https://investor.napcosecurity.com/2026-05-04-NAPCO-Security-Technologies,-Inc-Reports-Fiscal-2026-Q3-Results"
 published_at: "2026-05-04T11:00:00+00:00"
 first_seen_at: "2026-07-20T23:17:44.623691+00:00"
-fetched_at: "2026-07-29T00:16:09.754390+00:00"
+fetched_at: "2026-07-29T17:18:34.301514+00:00"
 content_hash: "sha256:812954f3e79980ab3f2737ad2e8f9d69d48e67bf09fb306ac30363d0d11fba71"
 ---
 

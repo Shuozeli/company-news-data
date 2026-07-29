@@ -7,7 +7,7 @@ source_id: "healthequity-inc-common-stock-rss-6283c6a40ed3"
 canonical_url: "https://ir.healthequity.com/news-releases/news-release-details/healthequity-enhance-member-experience-agentic-ai"
 published_at: "2025-11-13T14:00:00+00:00"
 first_seen_at: "2026-07-25T07:53:28.852709+00:00"
-fetched_at: "2026-07-28T21:07:28.054456+00:00"
+fetched_at: "2026-07-29T07:13:01.523523+00:00"
 content_hash: "sha256:c9d93bedc92085adbe5c3507175ef04c5e5accf83ae8ef4089f7c22895c81950"
 ---
 

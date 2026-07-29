@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2024/12/developer-spotlight-building-adobe-express-add-ons-with-prasanta-barman"
 published_at: "2024-12-06T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:00ad936a3805a518f78f0ea0007aa775d142cc59b1829bec14d194644d3a761f"
 ---
 

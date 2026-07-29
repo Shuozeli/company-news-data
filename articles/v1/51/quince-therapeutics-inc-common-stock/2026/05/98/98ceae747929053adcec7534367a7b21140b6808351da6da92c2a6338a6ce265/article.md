@@ -7,7 +7,7 @@ source_id: "quince-therapeutics-inc-common-stock-rss-97efc44c0cb3"
 canonical_url: "https://ir.quincetx.com/news-releases/news-release-details/quince-therapeutics-announces-clinically-meaningful-improvements"
 published_at: "2026-05-18T13:26:00+00:00"
 first_seen_at: "2026-07-26T07:27:47.660669+00:00"
-fetched_at: "2026-07-29T00:46:08.549177+00:00"
+fetched_at: "2026-07-29T14:07:13.028978+00:00"
 content_hash: "sha256:9b82563dfdd85f0f1683307c15337eeb34ca5fa050dfdc5a7884d3b2cf67c398"
 ---
 

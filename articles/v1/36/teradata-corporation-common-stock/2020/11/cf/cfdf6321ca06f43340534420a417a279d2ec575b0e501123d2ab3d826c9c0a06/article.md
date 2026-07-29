@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2020/teradata-reports-third-quarter-2020-financial-results"
 published_at: "2020-11-05T08:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T23:07:12.403269+00:00"
+fetched_at: "2026-07-29T14:50:19.991351+00:00"
 content_hash: "sha256:089505bd2e39323a7c9e3b15c473b6171dbc1bd7fe21a989dbb9c5c7f60a07d3"
 ---
 

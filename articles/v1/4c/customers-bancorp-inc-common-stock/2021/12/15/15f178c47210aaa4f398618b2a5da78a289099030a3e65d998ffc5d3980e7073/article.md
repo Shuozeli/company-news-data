@@ -7,7 +7,7 @@ source_id: "customers-bancorp-inc-common-stock-rss-16be7c8eba4f"
 canonical_url: "https://vimeo.com/657073551"
 published_at: "2021-12-03T20:19:39+00:00"
 first_seen_at: "2026-07-20T04:35:51.749531+00:00"
-fetched_at: "2026-07-28T23:52:38.222587+00:00"
+fetched_at: "2026-07-29T17:03:15.817194+00:00"
 content_hash: "sha256:fe4cb4c8597f27f95009db7f0ad526dfa37f85e5746f3d26ba3d11ed28ff99f9"
 ---
 

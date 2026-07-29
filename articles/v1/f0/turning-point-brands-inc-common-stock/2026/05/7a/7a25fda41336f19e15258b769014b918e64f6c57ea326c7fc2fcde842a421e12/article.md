@@ -7,7 +7,7 @@ source_id: "turning-point-brands-inc-common-stock-rss-04da633dfb74"
 canonical_url: "https://www.turningpointbrands.com/investor-relations/news/news-details/2026/Turning-Point-Brands-Announces-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-07T11:30:00+00:00"
 first_seen_at: "2026-07-26T03:18:36.260463+00:00"
-fetched_at: "2026-07-29T00:06:34.597835+00:00"
+fetched_at: "2026-07-29T13:21:27.097757+00:00"
 content_hash: "sha256:bbdf509f640ed44d00c80edc4f1b3910fc4f59d229664aafef1d25fff75e3016"
 ---
 

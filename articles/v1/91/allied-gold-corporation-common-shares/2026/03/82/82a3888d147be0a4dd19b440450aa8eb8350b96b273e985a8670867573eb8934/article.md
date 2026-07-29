@@ -7,7 +7,7 @@ source_id: "allied-gold-corporation-common-shares-rss-86d012b525fc"
 canonical_url: "https://alliedgold.com/investor-relations/investor-news/news-details/2026/Allied-Gold-Announces-Filing-and-Mailing-of-Management-Information-Circular-in-Connection-with-the-Proposed-Arrangement-with-Zijin-Gold-International/default.aspx"
 published_at: "2026-03-09T21:00:00+00:00"
 first_seen_at: "2026-07-26T22:13:34.483293+00:00"
-fetched_at: "2026-07-28T23:40:09.565176+00:00"
+fetched_at: "2026-07-29T15:34:09.545978+00:00"
 content_hash: "sha256:a07b395b45c6aeb8f48e2bb031271914b2f9332af9797ff2ff3a62c7ad03356e"
 ---
 

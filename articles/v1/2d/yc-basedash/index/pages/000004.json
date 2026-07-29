@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 4,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "19c16664b41f58a1abe29e113f7c450ada37f06beaab16bf195b52989e21c340",
+      "company_key": "yc-basedash",
+      "company_name": "Basedash",
+      "source_id": "yc-basedash-rss-86d6e075e8cf",
+      "source_kind": "rss",
+      "canonical_url": "https://www.basedash.com/blog/introducing-basedash-insights/",
+      "title": "Introducing Basedash Insights",
+      "summary": "Today we're launching Insights — an AI agent that analyzes all your company data every day and surfaces the most important findings automatically. Think of it…",
+      "published_at": "2026-03-25T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:17:51.657377+00:00",
+      "article_path": "articles/v1/2d/yc-basedash/2026/03/19/19c16664b41f58a1abe29e113f7c450ada37f06beaab16bf195b52989e21c340/article.md",
+      "record_path": "articles/v1/2d/yc-basedash/2026/03/19/19c16664b41f58a1abe29e113f7c450ada37f06beaab16bf195b52989e21c340/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "3e3012e79900f2373cc34b2198040128fb639620466bc00e2814aecc65ea1024",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T22:01:00.433769+00:00",
       "article_path": "articles/v1/2d/yc-basedash/2025/10/c3/c359f842a66de9907d9de068d3c866e598f5ee24d79575c7ac8edff5c9a6f726/article.md",
       "record_path": "articles/v1/2d/yc-basedash/2025/10/c3/c359f842a66de9907d9de068d3c866e598f5ee24d79575c7ac8edff5c9a6f726/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "1129632a539fffd47d04dd604aa69909129beaaf80c8cbaebc6090a4864a113e",
-      "company_key": "yc-basedash",
-      "company_name": "Basedash",
-      "source_id": "yc-basedash-rss-86d6e075e8cf",
-      "source_kind": "rss",
-      "canonical_url": "https://www.basedash.com/blog/al-data-analyst-software-complete-guide-for-b2b-saas-teams/",
-      "title": "Al Data Analyst Software: Complete Guide for B2B SaaS Teams",
-      "summary": "Discover how AI-powered data analyst software is transforming traditional BI. Learn how smart tools deliver faster insights, reduce complexity, and empower…",
-      "published_at": "2025-09-23T00:00:00+00:00",
-      "fetched_at": "2026-07-28T22:01:02.064378+00:00",
-      "article_path": "articles/v1/2d/yc-basedash/2025/09/11/1129632a539fffd47d04dd604aa69909129beaaf80c8cbaebc6090a4864a113e/article.md",
-      "record_path": "articles/v1/2d/yc-basedash/2025/09/11/1129632a539fffd47d04dd604aa69909129beaaf80c8cbaebc6090a4864a113e/record.json"
     }
   ]
 }

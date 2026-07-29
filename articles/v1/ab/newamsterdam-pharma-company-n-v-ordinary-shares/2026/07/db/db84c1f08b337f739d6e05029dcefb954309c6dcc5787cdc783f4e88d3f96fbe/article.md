@@ -7,7 +7,7 @@ source_id: "newamsterdam-pharma-company-n-v-ordinary-shares-rss-bf22562b2191"
 canonical_url: "https://ir.newamsterdampharma.com/analyst/conor-mackay"
 published_at: "2026-07-20T21:44:11+00:00"
 first_seen_at: "2026-07-20T23:22:13.348301+00:00"
-fetched_at: "2026-07-28T23:17:18.796237+00:00"
+fetched_at: "2026-07-29T15:07:04.547205+00:00"
 content_hash: "sha256:a7aa2195cb8d767f61fc6d0b68a27e2b980c0f22aceb621291cd12dfb195a0c9"
 ---
 

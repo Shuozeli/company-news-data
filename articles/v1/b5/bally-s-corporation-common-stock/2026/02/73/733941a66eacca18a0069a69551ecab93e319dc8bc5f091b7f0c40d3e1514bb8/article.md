@@ -7,7 +7,7 @@ source_id: "bally-s-corporation-common-stock-rss-b0bb6c8c39e7"
 canonical_url: "https://www.ballys.com/news/news-details/2026/BOYD-GAMING-TO-SELL-SAMS-TOWN-SHREVEPORT-TO-BALLYS-CORPORATION-2026-bkVxkQcTPq/default.aspx"
 published_at: "2026-02-26T16:15:00+00:00"
 first_seen_at: "2026-07-26T10:03:35.974224+00:00"
-fetched_at: "2026-07-28T23:08:22.318942+00:00"
+fetched_at: "2026-07-29T14:50:54.649073+00:00"
 content_hash: "sha256:2602a8769c35a85c19e0e56bfe6302d5345e6ce9aba314bbb3d1cf61ab859925"
 ---
 

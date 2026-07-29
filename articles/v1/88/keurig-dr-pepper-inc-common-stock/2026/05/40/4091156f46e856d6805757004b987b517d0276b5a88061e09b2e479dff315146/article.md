@@ -7,7 +7,7 @@ source_id: "keurig-dr-pepper-inc-common-stock-rss-28bc20b6d247"
 canonical_url: "https://www.keurigdrpepper.com/keurig-dr-peppers-2026-state-of-beverages-trend-report-reveals-gen-zs-drink-choice-is-now-a-form-of-self-expression/"
 published_at: "2026-05-06T13:05:03+00:00"
 first_seen_at: "2026-07-25T10:42:45.972346+00:00"
-fetched_at: "2026-07-29T00:42:53.622202+00:00"
+fetched_at: "2026-07-29T14:07:18.973286+00:00"
 content_hash: "sha256:09aff78b215c323ed2dae61e8f04908f2b8b966eeab692853d6edd057b82d16c"
 ---
 

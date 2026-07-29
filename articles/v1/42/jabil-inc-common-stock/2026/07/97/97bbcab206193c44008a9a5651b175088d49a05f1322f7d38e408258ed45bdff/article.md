@@ -7,7 +7,7 @@ source_id: "jabil-inc-common-stock-rss-7d060940dc80"
 canonical_url: "https://investors.jabil.com/news/news-details/2026/Jabil-Opens-Next-Generation-Intelligent-Logistics-Hub-in-Penang/default.aspx"
 published_at: "2026-07-16T01:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:56.097172+00:00"
-fetched_at: "2026-07-29T00:29:02.466380+00:00"
+fetched_at: "2026-07-29T13:55:32.729320+00:00"
 content_hash: "sha256:4473de4fc4174617f4d30409c70b8248f3661d44b4116686753552c31c7241c6"
 ---
 

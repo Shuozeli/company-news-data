@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/green-tech-innovation-iot-supports-sustainability"
 published_at: "2022-04-22T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:77a1053f503a99c55a5135b7100e25b0b7597e892979b0c53b331f8e0ce4b911"
 ---
 

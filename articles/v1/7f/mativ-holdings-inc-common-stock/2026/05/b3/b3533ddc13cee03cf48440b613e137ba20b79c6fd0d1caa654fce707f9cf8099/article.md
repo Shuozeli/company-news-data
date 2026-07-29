@@ -7,7 +7,7 @@ source_id: "mativ-holdings-inc-common-stock-rss-5358ab7b546f"
 canonical_url: "https://ir.mativ.com/news/news-details/2026/Mativ-Announces-Participation-in-Upcoming-Investor-Conferences/default.aspx"
 published_at: "2026-05-19T21:42:00+00:00"
 first_seen_at: "2026-07-25T13:30:50.859713+00:00"
-fetched_at: "2026-07-28T22:56:06.881496+00:00"
+fetched_at: "2026-07-29T14:26:18.528060+00:00"
 content_hash: "sha256:55294a5743a023eafb2b462576357d9f1008b2348cd08e2810c90056257541d6"
 ---
 

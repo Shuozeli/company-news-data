@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/batch-1-almost-sold-out"
 published_at: "2026-01-05T19:11:31+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T23:47:18.716244+00:00"
+fetched_at: "2026-07-29T15:41:05.701886+00:00"
 content_hash: "sha256:5aa58f566b77749683371a193a1462bf8ad489f2793885b14fdebc1b1ecc03cd"
 ---
 

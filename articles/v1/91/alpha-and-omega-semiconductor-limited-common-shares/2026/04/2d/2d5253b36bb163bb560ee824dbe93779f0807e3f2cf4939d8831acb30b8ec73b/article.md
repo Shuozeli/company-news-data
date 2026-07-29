@@ -7,7 +7,7 @@ source_id: "alpha-and-omega-semiconductor-limited-common-shares-rss-c75c286b6c68
 canonical_url: "http://investor.aosmd.com/press-releases/press-release-details/2026/Alpha-and-Omega-Semiconductor-Announces-Commencement-of-Production-of-Intelligent-Power-Module-IPM5-Products-at-Kaynes-Semicon-Inaugural-Opening-in-Sanand-Gujarat/default.aspx"
 published_at: "2026-04-14T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:37:38.330172+00:00"
-fetched_at: "2026-07-28T23:10:28.649430+00:00"
+fetched_at: "2026-07-29T14:57:38.558596+00:00"
 content_hash: "sha256:91ec16099d5a8f642e322a29a89315fb0c40cf24f31b7b55d16068cb4e704a4c"
 ---
 

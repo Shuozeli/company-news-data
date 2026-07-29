@@ -7,7 +7,7 @@ source_id: "yc-persephone-biosciences-rss-3e1d37532ea3"
 canonical_url: "https://www.persephonebiosciences.com/building-a-better-micriobiome/"
 published_at: "2023-08-14T14:54:45+00:00"
 first_seen_at: "2026-07-20T23:24:06.192520+00:00"
-fetched_at: "2026-07-28T23:25:55.741277+00:00"
+fetched_at: "2026-07-29T15:22:18.759194+00:00"
 content_hash: "sha256:2d876598503cee4bd61534376dfb1445e9a9f0e479dbea8373fd37550e9bf90a"
 ---
 

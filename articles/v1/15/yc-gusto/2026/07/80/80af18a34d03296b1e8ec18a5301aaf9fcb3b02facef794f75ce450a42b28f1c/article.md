@@ -7,7 +7,7 @@ source_id: "yc-gusto-news-import-a18fb5381575"
 canonical_url: "https://gusto.com/resources/articles/taxes/earned-income-tax-credit"
 published_at: null
 first_seen_at: "2026-07-25T07:19:59.033602+00:00"
-fetched_at: "2026-07-28T11:17:57.475842+00:00"
+fetched_at: "2026-07-29T14:27:10.535547+00:00"
 content_hash: "sha256:6fe2a29eac16810f6fe7aad653d06f76f84a8f9c5929175851cd744afae9909e"
 ---
 

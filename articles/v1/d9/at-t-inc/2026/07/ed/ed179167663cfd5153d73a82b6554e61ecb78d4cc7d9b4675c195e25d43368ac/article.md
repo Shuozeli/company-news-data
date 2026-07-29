@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/story/2026/built-for-global-moments.html"
 published_at: "2026-07-20T14:00:00+00:00"
 first_seen_at: "2026-07-20T16:41:51.847065+00:00"
-fetched_at: "2026-07-28T23:38:49.340178+00:00"
+fetched_at: "2026-07-29T15:32:36.560237+00:00"
 content_hash: "sha256:0103030292caeb3166253e8ffb5d87325baeab19f8df30c8b9a8c0fd1db92c44"
 ---
 

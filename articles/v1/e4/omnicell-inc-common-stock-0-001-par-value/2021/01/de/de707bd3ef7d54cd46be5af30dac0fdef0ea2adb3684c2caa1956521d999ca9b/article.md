@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2021/Omnicell-Announces-Preliminary-Fiscal-Year-2020-Financial-Results/default.aspx"
 published_at: "2021-01-13T05:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:e133ea5735db4d3de943de549b00cf4797e55514b50c0220fe7f060065dcc59b"
 ---
 

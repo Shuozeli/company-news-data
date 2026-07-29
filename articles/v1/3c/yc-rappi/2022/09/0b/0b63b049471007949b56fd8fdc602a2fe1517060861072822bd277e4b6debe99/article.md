@@ -7,7 +7,7 @@ source_id: "yc-rappi-rss-63ff898fda0d"
 canonical_url: "https://engineering.rappi.com/mi-primer-a%C3%B1o-como-cient%C3%ADfico-de-datos-b7211fc1c7f8"
 published_at: "2022-09-15T21:38:06+00:00"
 first_seen_at: "2026-07-20T23:20:59.100260+00:00"
-fetched_at: "2026-07-28T22:17:04.847464+00:00"
+fetched_at: "2026-07-29T14:22:59.373532+00:00"
 content_hash: "sha256:bbd5653c398453f813af6da1c1104aaea3f50e64cf26df18b60a578373880485"
 ---
 

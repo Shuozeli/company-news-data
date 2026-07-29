@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/taming-step-functions-branching"
 published_at: "2026-04-07T16:05:15+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T22:57:17.651461+00:00"
+fetched_at: "2026-07-29T14:31:05.567422+00:00"
 content_hash: "sha256:f1bc94fae0b4d13f0e6cd65f6f30fabe557ab4c877dc1166277ea97dfc93e476"
 ---
 

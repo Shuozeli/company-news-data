@@ -7,7 +7,7 @@ source_id: "ovintiv-inc-de-rss-44e9b96d5380"
 canonical_url: "https://investor.ovintiv.com/2026-07-02-Ovintiv-to-Host-its-Second-Quarter-2026-Results-Conference-Call-and-Webcast-on-July-24,-2026"
 published_at: "2026-07-02T15:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:53.451600+00:00"
-fetched_at: "2026-07-28T23:12:43.675809+00:00"
+fetched_at: "2026-07-29T14:59:23.424299+00:00"
 content_hash: "sha256:a2095039a0d1dfc8b14a3c18c9faf0be603ea0266f3a970673016e37913b2aac"
 ---
 

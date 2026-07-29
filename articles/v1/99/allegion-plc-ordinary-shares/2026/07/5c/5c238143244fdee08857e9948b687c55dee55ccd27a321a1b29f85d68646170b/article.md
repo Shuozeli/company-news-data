@@ -7,7 +7,7 @@ source_id: "allegion-plc-ordinary-shares-rss-abe5e2ecadb5"
 canonical_url: "https://investor.allegion.com/news-and-events/news-releases/2026/07-23-2026-110034749"
 published_at: "2026-07-23T11:00:00+00:00"
 first_seen_at: "2026-07-26T22:10:28.440504+00:00"
-fetched_at: "2026-07-29T00:16:00.103061+00:00"
+fetched_at: "2026-07-29T17:17:54.966814+00:00"
 content_hash: "sha256:ec6a2fe83dcde5d359733c131f9ec1bf3ab70df666cee271d5f4eb0cf30cae01"
 ---
 

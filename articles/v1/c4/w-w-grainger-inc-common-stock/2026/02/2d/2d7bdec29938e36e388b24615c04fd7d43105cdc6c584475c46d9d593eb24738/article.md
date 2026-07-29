@@ -7,7 +7,7 @@ source_id: "w-w-grainger-inc-common-stock-rss-c26f5457af09"
 canonical_url: "https://pressroom.grainger.com/news/press-release-details/2026/TWELVE-DIRECTORS-SLATED-FOR-GRAINGERS-BOARD-TO-BE-VOTED-ON-AT-THE-COMPANYS-ANNUAL-MEETING-ON-APRIL-29-2026/default.aspx"
 published_at: "2026-02-18T17:27:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.900782+00:00"
-fetched_at: "2026-07-29T00:24:15.617790+00:00"
+fetched_at: "2026-07-29T17:23:54.969525+00:00"
 content_hash: "sha256:89517a91931c6662608f49026dc066363a973cb90400d22be5a34c98f9012c7f"
 ---
 

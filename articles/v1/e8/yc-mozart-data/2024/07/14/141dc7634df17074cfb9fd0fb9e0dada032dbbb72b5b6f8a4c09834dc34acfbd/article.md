@@ -7,7 +7,7 @@ source_id: "yc-mozart-data-rss-80d5f072b9ee"
 canonical_url: "https://mozartdata.com/using-sigma-with-mozart-data/"
 published_at: "2024-07-09T23:27:48+00:00"
 first_seen_at: "2026-07-24T11:43:21.667443+00:00"
-fetched_at: "2026-07-28T22:58:23.502461+00:00"
+fetched_at: "2026-07-29T14:35:27.324706+00:00"
 content_hash: "sha256:cfb9fbe86d210cf3e53b33373da44ab467acc2847bb2d86751fb2255902a542c"
 ---
 

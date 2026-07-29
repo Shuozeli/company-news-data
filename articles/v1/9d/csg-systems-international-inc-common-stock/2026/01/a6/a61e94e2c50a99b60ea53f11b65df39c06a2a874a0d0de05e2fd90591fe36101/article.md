@@ -7,7 +7,7 @@ source_id: "csg-systems-international-inc-common-stock-rss-f90a2ee7dc01"
 canonical_url: "https://ir.csgi.com/press-releases/press-release-details/2026/CSG-Announces-Contract-Renewal-with-DISH-Network/default.aspx"
 published_at: "2026-01-28T13:30:00+00:00"
 first_seen_at: "2026-07-27T01:22:58.859023+00:00"
-fetched_at: "2026-07-28T23:18:44.504727+00:00"
+fetched_at: "2026-07-29T15:08:59.593073+00:00"
 content_hash: "sha256:2e38fd602fc7b2b400e8076bdf9fd902bd2e15973cb3f83044b932b86e261ad2"
 ---
 

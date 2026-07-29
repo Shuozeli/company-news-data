@@ -7,7 +7,7 @@ source_id: "i-80-gold-corp-common-shares-rss-3d35b1983e0d"
 canonical_url: "https://www.i80gold.com/10326-2/"
 published_at: "2026-06-23T21:30:20+00:00"
 first_seen_at: "2026-07-20T23:17:48.246523+00:00"
-fetched_at: "2026-07-29T00:03:55.112586+00:00"
+fetched_at: "2026-07-29T17:08:44.299201+00:00"
 content_hash: "sha256:7207c347722ef8e2a079e1f10503ed83f3af446a47a9ecc66d8daf67c8c54f2e"
 ---
 

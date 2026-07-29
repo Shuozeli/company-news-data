@@ -4,9 +4,9 @@
     "key": "yc-onboard-io",
     "name": "Onboard.io"
   },
-  "record_count": 22,
+  "record_count": 23,
   "first_published_at": "2022-12-13T00:00:00+00:00",
-  "last_published_at": "2026-07-27T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2022-12",
@@ -54,11 +54,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 4
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -66,10 +66,10 @@
       {
         "page": 1,
         "path": "articles/v1/c1/yc-onboard-io/index/pages/000001.json",
-        "record_count": 22,
-        "byte_count": 24740,
-        "sha256": "sha256:bde3dffb3772ab0ff97338f457163687f848e23380387ad525cf6b57378bf75e",
-        "newest_at": "2026-07-27T00:00:00+00:00",
+        "record_count": 23,
+        "byte_count": 25921,
+        "sha256": "sha256:92ddd592276ff22abc8e90989cbf3eed3fbd029aa16e275c133d4964624b65b9",
+        "newest_at": "2026-07-29T00:00:00+00:00",
         "oldest_at": "2022-12-13T00:00:00+00:00"
       }
     ]

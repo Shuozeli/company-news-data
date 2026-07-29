@@ -7,7 +7,7 @@ source_id: "tidewater-inc-common-stock-rss-c9509bca7147"
 canonical_url: "https://investor.tdw.com/news/news-details/2026/Tidewater-Reports-Results-for-the-Three-and-Twelve-Months-Ended-December-31-2025/default.aspx"
 published_at: "2026-03-02T21:25:00+00:00"
 first_seen_at: "2026-07-26T02:42:27.308058+00:00"
-fetched_at: "2026-07-29T00:25:20.820515+00:00"
+fetched_at: "2026-07-29T17:25:54.308819+00:00"
 content_hash: "sha256:0e011d4dc809a8711fa1a6e619a1078984a5a7c878d46a24dd3fe268e624f3c0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/como-crear-una-tienda-en-linea-12-pasos-para-que-sea-exitosa"
 published_at: "2022-09-20T15:23:46+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:a660a5e66ffc4efd5fa2867d7d38de7a6b80100750c48361afe7c77731d32f05"
 ---
 

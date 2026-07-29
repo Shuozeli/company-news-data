@@ -5,7 +5,7 @@ company_key: "darling-ingredients-inc-common-stock"
 company: "Darling Ingredients Inc. Common Stock"
 source_id: "darling-ingredients-inc-common-stock-news-import-0e8fa759eabc"
 canonical_url: "https://www.darlingii.com/media/news/20260709-darling-ingredients-to-release-second-quarter-2026-financial-results"
-published_at: null
+published_at: "2026-07-09T00:00:00+00:00"
 first_seen_at: "2026-07-21T15:50:54.425469+00:00"
 fetched_at: "2026-07-28T21:38:29.998390+00:00"
 content_hash: "sha256:8a578d64836db344f1d688f5e19f89555a37fcecc3ad0420a18a6aaa8e26c9f2"

@@ -7,7 +7,7 @@ source_id: "criteo-s-a-american-depositary-shares-rss-02db2411825d"
 canonical_url: "https://medium.com/criteo-engineering/are-tech-speakers-still-relevant-in-the-ai-era-46879ecc862c"
 published_at: "2026-05-19T07:11:00+00:00"
 first_seen_at: "2026-07-20T23:17:33.645392+00:00"
-fetched_at: "2026-07-29T00:25:12.574821+00:00"
+fetched_at: "2026-07-29T13:53:51.033530+00:00"
 content_hash: "sha256:8a94d4feae6e2ce0d2dfabda8c88d68c7325fdfbe4cfb59a10a3bab9aec6b731"
 ---
 

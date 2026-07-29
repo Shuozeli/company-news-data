@@ -7,7 +7,7 @@ source_id: "public-policy-holding-company-inc-common-stock-rss-545b961adce8"
 canonical_url: "https://pphcompany.com/pphc-expands-uk-team-with-wpi-strategy-acquisition/"
 published_at: "2026-03-23T07:41:39+00:00"
 first_seen_at: "2026-07-24T13:10:50.134551+00:00"
-fetched_at: "2026-07-28T23:37:57.926381+00:00"
+fetched_at: "2026-07-29T15:32:27.485416+00:00"
 content_hash: "sha256:0c8a5e44352282345d64c176178eee15368ee40b9797c40c94aba0bbf9d4e19c"
 ---
 

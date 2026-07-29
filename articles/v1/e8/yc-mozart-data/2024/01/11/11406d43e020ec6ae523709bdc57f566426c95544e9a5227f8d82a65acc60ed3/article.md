@@ -7,7 +7,7 @@ source_id: "yc-mozart-data-rss-80d5f072b9ee"
 canonical_url: "https://mozartdata.com/everyone-uses-data/"
 published_at: "2024-01-24T23:15:50+00:00"
 first_seen_at: "2026-07-24T11:43:21.667443+00:00"
-fetched_at: "2026-07-28T22:58:23.502461+00:00"
+fetched_at: "2026-07-29T14:35:27.324706+00:00"
 content_hash: "sha256:a11907baccfcfc367f1439508e1427f1f7e7af531b94f1f9c51ca998c1c7ad97"
 ---
 

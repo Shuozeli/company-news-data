@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2023/Vertiv-Announces-Pricing-of-Secondary-Offering-by-VPE-Holdings-LLC-an-affiliate-of-Platinum-Equity-LLC/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T23:23:56.894710+00:00"
+fetched_at: "2026-07-29T15:18:57.174384+00:00"
 content_hash: "sha256:dc2b9bce8c04d2c466ce6e5d991bde404aeae77f867ce8500cb879bd643c0d34"
 ---
 

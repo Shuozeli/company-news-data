@@ -7,7 +7,7 @@ source_id: "w-w-grainger-inc-common-stock-rss-c26f5457af09"
 canonical_url: "https://pressroom.grainger.com/news/press-release-details/2026/ETHISPHERE-NAMES-GRAINGER-AS-ONE-OF-THE-2026-WORLDS-MOST-ETHICAL-COMPANIES/default.aspx"
 published_at: "2026-03-18T13:15:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.900782+00:00"
-fetched_at: "2026-07-29T00:24:15.617790+00:00"
+fetched_at: "2026-07-29T17:23:54.969525+00:00"
 content_hash: "sha256:d011ed8a02ed6500fe1c76f708b985118d7ef4e3b7614d7cfec8220595955b27"
 ---
 

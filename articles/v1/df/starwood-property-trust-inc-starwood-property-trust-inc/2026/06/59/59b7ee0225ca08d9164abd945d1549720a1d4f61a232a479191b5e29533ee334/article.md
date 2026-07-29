@@ -7,7 +7,7 @@ source_id: "starwood-property-trust-inc-starwood-property-trust-inc-rss-371735f7
 canonical_url: "http://ir.starwoodpropertytrust.com/news/press-release-details/2026/Starwood-Property-Trust-Awarded-2026-Nareit-Gold-Investor-CARE-Award/default.aspx"
 published_at: "2026-06-08T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:48.915073+00:00"
-fetched_at: "2026-07-29T00:10:19.325154+00:00"
+fetched_at: "2026-07-29T17:12:49.264090+00:00"
 content_hash: "sha256:37a11d66ba70cc8360f774680b22ac552426b6349bd427feaeab1985f1d7a62a"
 ---
 

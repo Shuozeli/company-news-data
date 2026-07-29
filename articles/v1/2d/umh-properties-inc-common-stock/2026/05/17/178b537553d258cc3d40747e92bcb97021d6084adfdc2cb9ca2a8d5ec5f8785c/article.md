@@ -7,7 +7,7 @@ source_id: "umh-properties-inc-common-stock-rss-9ccbda77220e"
 canonical_url: "https://umh.reit/news/news-details/2026/UMH-PROPERTIES-INC--ANNOUNCES-CHIEF-FINANCIAL-OFFICER-TRANSITION/default.aspx"
 published_at: "2026-05-28T20:30:00+00:00"
 first_seen_at: "2026-07-26T03:38:03.914750+00:00"
-fetched_at: "2026-07-29T00:49:25.250206+00:00"
+fetched_at: "2026-07-29T14:10:36.696067+00:00"
 content_hash: "sha256:32868805a2a2d3a0702dafd2a1d82ab098d228edad9837354ed3903810fb0780"
 ---
 

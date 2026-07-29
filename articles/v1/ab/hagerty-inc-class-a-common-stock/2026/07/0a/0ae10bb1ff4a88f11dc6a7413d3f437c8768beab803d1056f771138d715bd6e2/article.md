@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/motorcycles/the-moto-morini-tresette-sprint-was-built-to-conquer-italy/"
 published_at: "2026-07-13T17:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:e2469b65f09941eb86b1e1e2b92904d5463b1326abb1fdd0a253386ffbae3b16"
 ---
 

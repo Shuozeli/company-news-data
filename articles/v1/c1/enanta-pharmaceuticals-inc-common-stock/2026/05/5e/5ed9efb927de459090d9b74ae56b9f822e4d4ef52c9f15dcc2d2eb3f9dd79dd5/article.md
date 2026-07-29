@@ -7,7 +7,7 @@ source_id: "enanta-pharmaceuticals-inc-common-stock-rss-6165ef0aa60b"
 canonical_url: "https://www.enanta.com/eps-3903-is-a-potent-and-selective-oral-stat6-inhibitor-that-blocks-th2-inflammation-in-a-house-dust-mite-induced-asthma-mouse-model/"
 published_at: "2026-05-19T17:14:00+00:00"
 first_seen_at: "2026-07-25T03:15:15.140684+00:00"
-fetched_at: "2026-07-28T23:17:26.594855+00:00"
+fetched_at: "2026-07-29T15:07:42.242480+00:00"
 content_hash: "sha256:8e6bba47d8d203e95bdddfce395e0d8e34f71e815559a096148ea3a5b1947539"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-quickchat-ai-rss-bd17510cf053"
 canonical_url: "https://quickchat.ai/post/how-to-build-a-gpt-3-ai-chat-bot-in-10-minutes"
 published_at: "2021-11-14T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:54.491295+00:00"
-fetched_at: "2026-07-28T22:56:27.924038+00:00"
+fetched_at: "2026-07-29T14:25:03.661651+00:00"
 content_hash: "sha256:9b7ed5e7108bcbef98246dbd74a3dc7440630c9ed4d71688b59673e34d957701"
 ---
 

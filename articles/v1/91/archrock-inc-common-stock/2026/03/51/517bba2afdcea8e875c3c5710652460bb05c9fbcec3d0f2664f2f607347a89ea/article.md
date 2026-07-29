@@ -7,7 +7,7 @@ source_id: "archrock-inc-common-stock-rss-e2777d195d38"
 canonical_url: "https://investors.archrock.com/news/news-details/2026/Archrock-Announces-Retirement-of-Chief-Financial-Officer-Doug-Aron/default.aspx"
 published_at: "2026-03-26T00:58:00+00:00"
 first_seen_at: "2026-07-26T22:45:11.981007+00:00"
-fetched_at: "2026-07-29T00:23:29.983337+00:00"
+fetched_at: "2026-07-29T17:23:09.873800+00:00"
 content_hash: "sha256:435dae281ecbd4bf13c18056f689b4cea558c7555458ae35d7b2f6c9c8f01f3c"
 ---
 

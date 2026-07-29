@@ -4,13 +4,33 @@
     "key": "genenta-science-s-p-a-american-depositary-shares",
     "name": "Genenta Science S.p.A. American Depositary Shares"
   },
-  "record_count": 10,
-  "first_published_at": "2026-04-24T09:49:02+00:00",
-  "last_published_at": "2026-07-01T16:02:53+00:00",
+  "record_count": 20,
+  "first_published_at": "2025-11-24T09:00:00+00:00",
+  "last_published_at": "2026-07-23T07:09:00+00:00",
   "partitions": [
     {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
       "partition": "2026-04",
-      "record_count": 4
+      "record_count": 5
     },
     {
       "partition": "2026-05",
@@ -22,11 +42,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 4
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -34,11 +54,11 @@
       {
         "page": 1,
         "path": "articles/v1/a8/genenta-science-s-p-a-american-depositary-shares/index/pages/000001.json",
-        "record_count": 10,
-        "byte_count": 11726,
-        "sha256": "sha256:a2edd71d1887eca63c36a941ba028963bdc625e6a457ff6ec27ad1c9bcd96ca0",
-        "newest_at": "2026-07-01T16:02:53+00:00",
-        "oldest_at": "2026-04-24T09:49:02+00:00"
+        "record_count": 20,
+        "byte_count": 26223,
+        "sha256": "sha256:4fb2e3b2d9843fca952314e44e85cb4fa3d91bf92a137b54d73b527f361d4bb1",
+        "newest_at": "2026-07-23T07:09:00+00:00",
+        "oldest_at": "2025-11-24T09:00:00+00:00"
       }
     ]
   }

@@ -7,7 +7,7 @@ source_id: "dyne-therapeutics-inc-common-stock-rss-d110a4ccdb6e"
 canonical_url: "https://www.dyne-tx.com/dyne-therapeutics-expands-leadership-team-with-key-hires/"
 published_at: "2020-02-06T17:18:02+00:00"
 first_seen_at: "2026-07-20T23:21:48.721292+00:00"
-fetched_at: "2026-07-28T23:22:18.035043+00:00"
+fetched_at: "2026-07-29T15:16:40.894200+00:00"
 content_hash: "sha256:f104e9b4eb8f23a0521e900d47ecbb3c36b56e214a222b40c9bd5fe2ae303107"
 ---
 

@@ -7,7 +7,7 @@ source_id: "madison-air-solutions-corporation-class-a-common-stock-rss-478729183
 canonical_url: "https://investors.madisonair.com/2026-04-16-Madison-Air-Rings-NYSE-Opening-Bell-as-Trading-Commences"
 published_at: "2026-04-16T20:25:00+00:00"
 first_seen_at: "2026-07-20T04:35:26.067780+00:00"
-fetched_at: "2026-07-28T23:48:53.625785+00:00"
+fetched_at: "2026-07-29T15:42:53.826043+00:00"
 content_hash: "sha256:d9ed824d25348788b6f4a3de1c65cc904df9b0d737e9de5ed8352ce8c7f20a21"
 ---
 

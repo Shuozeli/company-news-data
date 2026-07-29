@@ -7,7 +7,7 @@ source_id: "box-inc-class-a-common-stock-rss-a1b756dbb5f0"
 canonical_url: "https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Named-a-Leader-in-the-2026-Gartner-Magic-Quadrant-for-Document-Management/default.aspx"
 published_at: "2026-04-28T19:00:00+00:00"
 first_seen_at: "2026-07-26T23:59:55.533287+00:00"
-fetched_at: "2026-07-28T23:33:39.655435+00:00"
+fetched_at: "2026-07-29T15:31:10.551887+00:00"
 content_hash: "sha256:3f96713316d1aad69c8338fcd84d58870d57ade53f4a4f75e023454ae32efb65"
 ---
 

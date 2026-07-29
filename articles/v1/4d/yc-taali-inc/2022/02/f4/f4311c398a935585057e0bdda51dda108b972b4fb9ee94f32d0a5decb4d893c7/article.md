@@ -7,7 +7,7 @@ source_id: "yc-taali-inc-atom-1c5284bf832e"
 canonical_url: "https://taalifoods.in/blogs/blog/5-foods-that-are-killing-your-diet"
 published_at: "2022-02-28T10:30:00+00:00"
 first_seen_at: "2026-07-26T01:19:03.323341+00:00"
-fetched_at: "2026-07-29T00:34:47.254454+00:00"
+fetched_at: "2026-07-29T14:01:38.736751+00:00"
 content_hash: "sha256:0273a44ddcc12a51947be82dd0f4c131624e8dd71410495ecc8ef98db016e09a"
 ---
 

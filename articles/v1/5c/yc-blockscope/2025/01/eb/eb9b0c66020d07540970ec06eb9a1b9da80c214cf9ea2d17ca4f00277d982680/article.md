@@ -7,7 +7,7 @@ source_id: "yc-blockscope-rss-6562ab22cedc"
 canonical_url: "https://medium.com/@blockscope.co/the-blockchain-bandit-active-again-ef537104f424"
 published_at: "2025-01-07T16:13:30+00:00"
 first_seen_at: "2026-07-27T08:09:19.809826+00:00"
-fetched_at: "2026-07-29T00:07:54.859516+00:00"
+fetched_at: "2026-07-29T17:12:10.366729+00:00"
 content_hash: "sha256:c3badddf126ff9932c8547cc04609d8d89ea229a70d37d099e6592e2ce93f31a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "american-vanguard-corporation-common-stock-0-10-par-value-rss-05bd65
 canonical_url: "https://investors-american-vanguard.com/news/news-details/2026/American-Vanguard-Announces-Date-of-First-Quarter-2026-Earnings-Release-and-Webcast-Conference-Call-2026-34sIVx6JY6/default.aspx"
 published_at: "2026-05-04T12:15:00+00:00"
 first_seen_at: "2026-07-26T22:25:07.097327+00:00"
-fetched_at: "2026-07-28T22:13:38.219065+00:00"
+fetched_at: "2026-07-29T14:21:39.355179+00:00"
 content_hash: "sha256:e42faeb70706b195308e3f83454742d73b0b456edcf9affeeff8db5bd7bfd062"
 ---
 

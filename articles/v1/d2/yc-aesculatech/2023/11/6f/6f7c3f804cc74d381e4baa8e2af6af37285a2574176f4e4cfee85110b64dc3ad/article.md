@@ -7,7 +7,7 @@ source_id: "yc-aesculatech-rss-031e9d4c8897"
 canonical_url: "https://fox59.com/business/press-releases/ein-presswire/669798801/aesculatech-to-showcase-humidifeye-dry-eye-device-at-the-ophthalmology-innovation-summit-xiii/"
 published_at: "2023-11-20T23:32:07+00:00"
 first_seen_at: "2026-07-24T14:35:17.916635+00:00"
-fetched_at: "2026-07-28T23:53:48.515613+00:00"
+fetched_at: "2026-07-29T17:02:57.585724+00:00"
 content_hash: "sha256:0231be8fe242f8f7eeaff08de2dc1620553c2a4f5a33cb2814a217a2c4b25c10"
 ---
 

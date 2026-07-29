@@ -7,7 +7,7 @@ source_id: "riskified-ltd-class-a-ordinary-shares-rss-dd7d0cc56e2d"
 canonical_url: "https://medium.com/riskified-technology/building-data-you-can-trust-our-journey-to-a-single-source-of-truth-baab80277d4a"
 published_at: "2025-12-02T12:46:32+00:00"
 first_seen_at: "2026-07-20T23:18:31.853064+00:00"
-fetched_at: "2026-07-28T23:10:47.152354+00:00"
+fetched_at: "2026-07-29T14:57:01.923368+00:00"
 content_hash: "sha256:51616679690aa87dc8f8156856115427c329d6cba0f1d437633ce28a1db75974"
 ---
 

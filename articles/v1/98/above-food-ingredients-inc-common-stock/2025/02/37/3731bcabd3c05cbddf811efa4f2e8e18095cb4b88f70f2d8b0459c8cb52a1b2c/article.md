@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-signs-loi-to-acquire-the-palm-global-group-unlocking-new-frontiers-in-agritech-fintech-and-sustainability/"
 published_at: "2025-02-06T17:16:37+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:0882583e058b93641564ae835f227ac0010ac1df0c38542dda17339256ea64cd"
 ---
 

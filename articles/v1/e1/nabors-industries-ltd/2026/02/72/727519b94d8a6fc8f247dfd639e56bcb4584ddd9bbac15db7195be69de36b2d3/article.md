@@ -7,7 +7,7 @@ source_id: "nabors-industries-ltd-rss-44818faee468"
 canonical_url: "https://investor.nabors.com/2026-02-11-Nabors-Announces-Fourth-Quarter-and-Full-Year-2025-Results"
 published_at: "2026-02-11T21:15:00+00:00"
 first_seen_at: "2026-07-20T23:17:47.193586+00:00"
-fetched_at: "2026-07-28T23:12:44.443033+00:00"
+fetched_at: "2026-07-29T15:00:33.241455+00:00"
 content_hash: "sha256:739b69b9b4dc4fc2002189f1fba44095fe1123d21abdf9e2a90b2915eedb39c2"
 ---
 

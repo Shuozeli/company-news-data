@@ -7,7 +7,7 @@ source_id: "allogene-therapeutics-inc-common-stock-rss-a39e7aa31584"
 canonical_url: "https://allogene.com/2026/07/15/allogeneic-cd70-targeted-chimeric-antigen-receptor-t-cell-therapy-for-advanced-renal-cell-carcinoma-results-from-the-phase-i-traverse-trial/"
 published_at: "2026-07-15T12:30:00+00:00"
 first_seen_at: "2026-07-24T09:07:30.055397+00:00"
-fetched_at: "2026-07-28T23:52:03.818547+00:00"
+fetched_at: "2026-07-29T17:07:22.051179+00:00"
 content_hash: "sha256:d513a31b70a2caa25ae4883c0cd7b861f8db38a25628ac218ea96fb8a04dc11d"
 ---
 

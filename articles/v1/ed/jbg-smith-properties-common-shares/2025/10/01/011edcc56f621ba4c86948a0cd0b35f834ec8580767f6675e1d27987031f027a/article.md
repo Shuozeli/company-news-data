@@ -7,7 +7,7 @@ source_id: "jbg-smith-properties-common-shares-rss-83f1679a022e"
 canonical_url: "https://investors.jbgsmith.com/investor-relations/newsroom/news-details/2025/JBG-SMITH-Announces-Third-Quarter-2025-Results/default.aspx"
 published_at: "2025-10-28T20:15:00+00:00"
 first_seen_at: "2026-07-25T10:09:45.870565+00:00"
-fetched_at: "2026-07-28T23:53:33.482349+00:00"
+fetched_at: "2026-07-29T17:01:39.598469+00:00"
 content_hash: "sha256:7a4e1761aefe15d87ecd13543afc1a933b9f0cf9f93c8b7bd3e2ef17d137ffb5"
 ---
 

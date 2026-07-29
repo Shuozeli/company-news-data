@@ -7,7 +7,7 @@ source_id: "revolve-group-inc-class-a-common-stock-rss-da3bb9d2eaef"
 canonical_url: "https://investors.revolve.com/news/news-details/2026/Revolve-Group-Announces-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-05-05T20:03:00+00:00"
 first_seen_at: "2026-07-25T21:21:37.624140+00:00"
-fetched_at: "2026-07-28T23:41:29.506698+00:00"
+fetched_at: "2026-07-29T15:34:39.966505+00:00"
 content_hash: "sha256:56be7c25778bd65f4a4b4a3f02f7c53d02cb6e30fece76475a3abe3823c71336"
 ---
 

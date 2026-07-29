@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/jackie-fouse-admired-by-investors-to-become-ceo-of-biotech-agios/"
 published_at: "2018-09-04T15:37:00+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-29T00:23:58.530332+00:00"
+fetched_at: "2026-07-29T17:22:54.765339+00:00"
 content_hash: "sha256:0355bef375e85195ccafbd6af757b0f6dcebdeabfac2781028092645d3eff204"
 ---
 

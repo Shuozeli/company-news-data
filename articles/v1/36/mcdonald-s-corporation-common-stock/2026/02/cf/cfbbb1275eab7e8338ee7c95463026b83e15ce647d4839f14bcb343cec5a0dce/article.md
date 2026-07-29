@@ -7,7 +7,7 @@ source_id: "mcdonald-s-corporation-common-stock-rss-e3f7e88d5cc9"
 canonical_url: "https://medium.com/mcdonalds-technical-blog/the-secret-to-faster-migrations-ai-pandas-and-a-little-prompt-engineering-f1171a7623ce"
 published_at: "2026-02-10T14:12:08+00:00"
 first_seen_at: "2026-07-22T17:27:13.648832+00:00"
-fetched_at: "2026-07-28T23:53:24.017559+00:00"
+fetched_at: "2026-07-29T17:01:15.253896+00:00"
 content_hash: "sha256:01a713e8ab3e8f404238d3edc4704b7be810825627ca7aad2e24e594f35e7a52"
 ---
 

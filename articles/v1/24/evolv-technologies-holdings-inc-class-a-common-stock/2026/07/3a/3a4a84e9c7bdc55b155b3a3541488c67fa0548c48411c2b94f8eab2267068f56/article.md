@@ -7,7 +7,7 @@ source_id: "evolv-technologies-holdings-inc-class-a-common-stock-rss-ec54816aa3b
 canonical_url: "https://evolv.com/resources/blog/trusted-voices-how-clinicians-can-help-shape-safer-communities/"
 published_at: "2026-07-13T16:33:47+00:00"
 first_seen_at: "2026-07-28T21:27:51.933751+00:00"
-fetched_at: "2026-07-28T21:27:51.792375+00:00"
+fetched_at: "2026-07-29T15:07:48.185123+00:00"
 content_hash: "sha256:ed720f264be4f014ce750a099d954f88bfc19caafbb80c224a85592bb01a2263"
 ---
 

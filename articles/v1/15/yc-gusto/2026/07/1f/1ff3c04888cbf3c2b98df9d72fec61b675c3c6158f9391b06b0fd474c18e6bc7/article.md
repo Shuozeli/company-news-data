@@ -7,7 +7,7 @@ source_id: "yc-gusto-news-import-a18fb5381575"
 canonical_url: "https://gusto.com/resources/articles/benefits/401k/safe-harbor-401k-owner-benefits"
 published_at: null
 first_seen_at: "2026-07-25T07:19:59.033602+00:00"
-fetched_at: "2026-07-28T11:17:57.475842+00:00"
+fetched_at: "2026-07-29T14:27:10.535547+00:00"
 content_hash: "sha256:ddb056ddd78e8a3dd913e1e0d3f0070d8540e2b4a645bfdc0766c62dfde25f76"
 ---
 

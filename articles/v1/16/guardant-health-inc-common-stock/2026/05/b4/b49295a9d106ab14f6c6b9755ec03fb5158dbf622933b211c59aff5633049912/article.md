@@ -7,7 +7,7 @@ source_id: "guardant-health-inc-common-stock-rss-fb6215599895"
 canonical_url: "https://guardanthealth.com/2026/05/21/guardant-wins-fda-approval-for-updated-liquid-biopsy/"
 published_at: "2026-05-21T15:48:29+00:00"
 first_seen_at: "2026-07-20T23:21:46.463762+00:00"
-fetched_at: "2026-07-28T23:14:42.692011+00:00"
+fetched_at: "2026-07-29T15:04:27.009535+00:00"
 content_hash: "sha256:17ee6586157d09d9c4cba065648cc340f93903b79b95952f29beafaf17b9246f"
 ---
 

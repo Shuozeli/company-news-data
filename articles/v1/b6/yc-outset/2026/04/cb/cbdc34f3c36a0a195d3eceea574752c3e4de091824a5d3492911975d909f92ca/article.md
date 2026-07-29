@@ -7,7 +7,7 @@ source_id: "yc-outset-news-import-a92d7cb56115"
 canonical_url: "https://outset.ai/resources/blog/five-things-we-learned-from-indeeds-ai-research-playbook"
 published_at: "2026-04-15T00:00:00+00:00"
 first_seen_at: "2026-07-24T22:41:16.762018+00:00"
-fetched_at: "2026-07-28T14:23:22.591545+00:00"
+fetched_at: "2026-07-29T03:25:31.060831+00:00"
 content_hash: "sha256:36b3a27b5f09dc7f8bdd97cb52982937e261e89e8a33159f9b834330399b4815"
 ---
 

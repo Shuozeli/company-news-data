@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/purely-canada-foods-acquires-kindersley-sk-ingredient-processing-terminal/"
 published_at: "2021-05-03T23:38:33+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-29T00:43:09.170627+00:00"
+fetched_at: "2026-07-29T14:06:11.402678+00:00"
 content_hash: "sha256:21d13766f5ec9686686956f2419f0ee04096f996e881d936f8e699f3125adf80"
 ---
 

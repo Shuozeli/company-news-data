@@ -7,7 +7,7 @@ source_id: "healthcare-realty-trust-incorporated-common-stock-rss-e625338219f6"
 canonical_url: "https://investors.healthcarerealty.com/corporate-profile/press-releases/news-details/2026/Healthcare-Realty-Announces-Proposed-Exchangeable-Senior-Notes-Offering/default.aspx"
 published_at: "2026-05-04T11:23:00+00:00"
 first_seen_at: "2026-07-25T07:49:26.905659+00:00"
-fetched_at: "2026-07-28T23:30:00.394300+00:00"
+fetched_at: "2026-07-29T15:26:36.366629+00:00"
 content_hash: "sha256:196e80646b780f5b2a95bcb051290dd31cac55115766d7ecda9c598d669fc84f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "international-paper-company-common-stock-rss-b23711046dd2"
 canonical_url: "https://www.internationalpaper.com/location/brandon-container-plant"
 published_at: "2026-05-01T21:12:45+00:00"
 first_seen_at: "2026-07-20T23:21:31.145147+00:00"
-fetched_at: "2026-07-28T23:11:01.003804+00:00"
+fetched_at: "2026-07-29T14:58:02.957747+00:00"
 content_hash: "sha256:f1ce60bea447dd92514ef4a656d1ac44991974fecdccea0370d86b4cbe9af2b0"
 ---
 

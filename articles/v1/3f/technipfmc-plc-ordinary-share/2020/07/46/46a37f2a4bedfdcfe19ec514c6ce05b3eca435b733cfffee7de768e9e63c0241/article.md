@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-signs-a-major-contract-with-assiut-national-oil-processing-company-anopc-for-a-new-hydrocracking-complex-in-egypt/"
 published_at: "2020-07-07T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-29T00:26:14.657354+00:00"
+fetched_at: "2026-07-29T17:23:25.881224+00:00"
 content_hash: "sha256:de8ae709fd98c28d45044e278e4ef35d5ef5fa0f4193f84a4b61f07f0db8df83"
 ---
 

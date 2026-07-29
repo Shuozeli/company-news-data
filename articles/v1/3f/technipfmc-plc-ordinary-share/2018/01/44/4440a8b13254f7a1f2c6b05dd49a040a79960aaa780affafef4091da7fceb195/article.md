@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2018/01/technipfmc-celebrates-45-years-of-enhancing-the-performance-of-the-engineering-industry-in-spain/"
 published_at: "2018-01-16T08:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-29T00:17:43.124361+00:00"
+fetched_at: "2026-07-29T17:18:57.942752+00:00"
 content_hash: "sha256:f131c03818044cda874e8de0c9b5706984c1955d29eaee0b7bdf951a707b02cb"
 ---
 

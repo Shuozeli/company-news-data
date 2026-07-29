@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/above-food-to-go-public-in-deal-with-bite-acquisition-spac/"
 published_at: "2023-05-04T16:18:42+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-29T00:43:09.170627+00:00"
+fetched_at: "2026-07-29T14:06:11.402678+00:00"
 content_hash: "sha256:c5812cb18a1b01dd4ba42974cfbb2642191c1fadf7a4d047a859b387ee00c282"
 ---
 

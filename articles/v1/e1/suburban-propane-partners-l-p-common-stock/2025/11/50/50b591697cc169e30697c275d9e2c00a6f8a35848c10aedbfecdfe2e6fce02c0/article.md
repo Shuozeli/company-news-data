@@ -7,7 +7,7 @@ source_id: "suburban-propane-partners-l-p-common-stock-rss-735cd6635d3c"
 canonical_url: "https://investor.suburbanpropane.com/2025-11-13-Suburban-Propane-Partners,-L-P-Announces-Full-Year-and-Fourth-Quarter-Results"
 published_at: "2025-11-13T12:30:00+00:00"
 first_seen_at: "2026-07-25T01:08:05.565238+00:00"
-fetched_at: "2026-07-29T00:35:11.121502+00:00"
+fetched_at: "2026-07-29T14:00:49.970072+00:00"
 content_hash: "sha256:037a750d26651e7d787a85158d9d1ef9f0596add69d92f28158c430de7acd0d3"
 ---
 

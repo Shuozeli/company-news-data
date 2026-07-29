@@ -7,7 +7,7 @@ source_id: "ennis-inc-common-stock-rss-a62890cdf36a"
 canonical_url: "https://www.ennis.com/2026/03/23/ennis-inc-declares-quarterly-dividend-6/"
 published_at: "2026-03-23T15:28:55+00:00"
 first_seen_at: "2026-07-20T23:18:54.315135+00:00"
-fetched_at: "2026-07-29T00:06:45.128588+00:00"
+fetched_at: "2026-07-29T17:01:20.408577+00:00"
 content_hash: "sha256:6436bc61f77d0bdad3efdd2459ffd1edda690ff191b25304e91c33a47407af61"
 ---
 

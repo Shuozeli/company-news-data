@@ -7,7 +7,7 @@ source_id: "kb-home-common-stock-rss-f9c0d027171a"
 canonical_url: "https://investor.kbhome.com/company-news/news-releases/press-release-details/2026/KB-HOME-TO-RELEASE-2026-SECOND-QUARTER-EARNINGS-ON-JUNE-23-2026/default.aspx"
 published_at: "2026-06-09T20:10:00+00:00"
 first_seen_at: "2026-07-25T10:32:49.519333+00:00"
-fetched_at: "2026-07-28T23:45:20.875289+00:00"
+fetched_at: "2026-07-29T15:39:30.709049+00:00"
 content_hash: "sha256:f7e4909a0263722bc138757814c85d5d8bfed8dbae985eb91511809d9816ec79"
 ---
 

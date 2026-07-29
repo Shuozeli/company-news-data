@@ -7,7 +7,7 @@ source_id: "lci-industries-rss-49d48e881163"
 canonical_url: "https://investors.lci1.com/news/news-details/2026/LCI-Industries-Second-Quarter-2026-Conference-Call-Scheduled-for-August-5-2026-at-830-a-m--ET/default.aspx"
 published_at: "2026-07-22T12:00:00+00:00"
 first_seen_at: "2026-07-25T11:47:01.499081+00:00"
-fetched_at: "2026-07-29T00:40:59.574796+00:00"
+fetched_at: "2026-07-29T14:03:48.510429+00:00"
 content_hash: "sha256:2acb791429aab54767c4baa3cae59b30d8ffcca0099f56af7e7dc64ad9532a23"
 ---
 

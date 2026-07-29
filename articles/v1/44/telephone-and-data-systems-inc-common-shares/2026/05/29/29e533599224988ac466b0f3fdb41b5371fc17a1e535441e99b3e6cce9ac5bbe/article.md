@@ -7,7 +7,7 @@ source_id: "telephone-and-data-systems-inc-common-shares-rss-26d0a83d633d"
 canonical_url: "https://www.tdsinc.com/news/news-details/2026/TDS-announces-second-quarter-2026-dividends/default.aspx"
 published_at: "2026-05-21T20:15:00+00:00"
 first_seen_at: "2026-07-26T01:45:04.556146+00:00"
-fetched_at: "2026-07-28T23:36:01.086150+00:00"
+fetched_at: "2026-07-29T15:31:22.382438+00:00"
 content_hash: "sha256:1e044cbdb1b2631ecff4c820b2690fcc3db9578b512f522640fdab1f89e63d49"
 ---
 

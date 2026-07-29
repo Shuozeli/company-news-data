@@ -7,7 +7,7 @@ source_id: "yatsen-holding-limited-american-depositary-shares-each-representing-
 canonical_url: "https://ir.yatsenglobal.com/2026-05-19-Yatsen-to-Announce-First-Quarter-2026-Financial-Results-on-May-26,-2026"
 published_at: "2026-05-19T09:00:00+00:00"
 first_seen_at: "2026-07-24T07:42:38.782959+00:00"
-fetched_at: "2026-07-28T23:41:03.589754+00:00"
+fetched_at: "2026-07-29T15:35:46.429431+00:00"
 content_hash: "sha256:09fa10ec34c4247300f94d6daf6535afab85c4d38be55da5371ef382a3736443"
 ---
 

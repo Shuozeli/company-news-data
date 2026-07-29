@@ -7,7 +7,7 @@ source_id: "scholar-rock-holding-corporation-common-stock-rss-2424710d9e9a"
 canonical_url: "https://scholarrock.com/our-company/newsroom/believe-in-what-is-possible/"
 published_at: "2025-09-22T13:55:29+00:00"
 first_seen_at: "2026-07-25T22:21:08.973354+00:00"
-fetched_at: "2026-07-28T22:12:55.734972+00:00"
+fetched_at: "2026-07-29T14:21:16.803197+00:00"
 content_hash: "sha256:95de2c3556701de2aa12c594a1afeef97867861b0eea4f9814cd8a2408310d52"
 ---
 

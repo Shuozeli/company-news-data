@@ -7,7 +7,7 @@ source_id: "yc-long-term-stock-exchange-rss-8ed301e0b245"
 canonical_url: "https://medium.com/ltse-blog/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
 published_at: "2020-09-09T11:39:31+00:00"
 first_seen_at: "2026-07-24T09:56:31.727747+00:00"
-fetched_at: "2026-07-28T23:50:31.805566+00:00"
+fetched_at: "2026-07-29T15:44:44.555343+00:00"
 content_hash: "sha256:04d1e8b70c7ad25b1bc3265ebf919f80dbf8f711cc91f9e4bd7f9903cb9b3920"
 ---
 

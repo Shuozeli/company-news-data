@@ -7,7 +7,7 @@ source_id: "shake-shack-inc-class-a-common-stock-rss-d9ffffb10238"
 canonical_url: "https://investor.shakeshack.com/press-releases/press-release-details/2026/Shake-Shack-Appoints-Christiane-Pendarvis-to-Board-of-Directors/default.aspx"
 published_at: "2026-06-12T12:30:00+00:00"
 first_seen_at: "2026-07-25T22:45:04.685271+00:00"
-fetched_at: "2026-07-28T23:18:12.378299+00:00"
+fetched_at: "2026-07-29T15:09:50.369523+00:00"
 content_hash: "sha256:76c4d5a3b5127f5ed4ac363f9e6222a240bda0edb5cfea42453289939cd9c2b4"
 ---
 

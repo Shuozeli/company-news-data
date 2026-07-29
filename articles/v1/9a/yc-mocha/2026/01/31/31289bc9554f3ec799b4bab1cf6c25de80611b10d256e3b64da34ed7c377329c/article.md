@@ -7,7 +7,7 @@ source_id: "yc-mocha-rss-d0ffed2c2227"
 canonical_url: "https://getmocha.com/how-to-scrape-data-firecrawl"
 published_at: "2026-01-22T00:00:00+00:00"
 first_seen_at: "2026-07-24T11:28:42.148680+00:00"
-fetched_at: "2026-07-28T23:57:26.073716+00:00"
+fetched_at: "2026-07-29T17:00:43.115511+00:00"
 content_hash: "sha256:0da77fabcff0061589ced894df3d8b72c6e14372796ee63fda86d2676c35df7c"
 ---
 

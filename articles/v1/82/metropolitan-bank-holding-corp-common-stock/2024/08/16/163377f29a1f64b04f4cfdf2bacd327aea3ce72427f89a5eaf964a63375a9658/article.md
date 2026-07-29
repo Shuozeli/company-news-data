@@ -7,7 +7,7 @@ source_id: "metropolitan-bank-holding-corp-common-stock-rss-3ca9c020781e"
 canonical_url: "https://mcbankny.com/metropolitan-commercial-bank-rings-nyse-opening-bell-to-commemorate-25th-anniversary/"
 published_at: "2024-08-29T16:45:00+00:00"
 first_seen_at: "2026-07-20T23:17:44.493826+00:00"
-fetched_at: "2026-07-29T00:03:40.624761+00:00"
+fetched_at: "2026-07-29T17:06:40.327456+00:00"
 content_hash: "sha256:ba7a97ed883d2d0757349861ef7fbbc28bbd93b64b10e728fd3d52d67467ad87"
 ---
 

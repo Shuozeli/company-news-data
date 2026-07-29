@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/contact/"
 published_at: "2025-10-01T09:41:34+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-29T00:33:16.098879+00:00"
+fetched_at: "2026-07-29T13:59:20.653816+00:00"
 content_hash: "sha256:1b0df5d869bde11aeb3fc9e1ea2d71f2ee4bc7b00ba6c6796e69e72df20110f3"
 ---
 

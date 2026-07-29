@@ -4,28 +4,168 @@
     "key": "dominari-holdings-inc-common-stock",
     "name": "Dominari Holdings Inc. Common Stock"
   },
-  "record_count": 3,
+  "record_count": 212,
   "first_published_at": "2021-04-01T07:19:08+00:00",
-  "last_published_at": "2021-04-01T07:19:08+00:00",
+  "last_published_at": "2026-07-27T15:43:31+00:00",
   "partitions": [
     {
       "partition": "2021-04",
       "record_count": 3
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 15
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 8
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 10
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 13
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 16
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
-    "page_count": 1,
+    "page_count": 5,
     "pages": [
       {
         "page": 1,
         "path": "articles/v1/96/dominari-holdings-inc-common-stock/index/pages/000001.json",
-        "record_count": 3,
-        "byte_count": 3560,
-        "sha256": "sha256:40c6c7c842c77731b240a3bbe17292829a6483a3bc65283a4a4af87919251074",
-        "newest_at": "2021-04-01T07:19:08+00:00",
+        "record_count": 50,
+        "byte_count": 61616,
+        "sha256": "sha256:6f5b7dafe7322af9e6b07388c8b0194afac40081826f1bf1d78619880299593a",
+        "newest_at": "2026-07-27T15:43:31+00:00",
+        "oldest_at": "2026-03-16T17:27:51+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/96/dominari-holdings-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 61386,
+        "sha256": "sha256:d9161a79bf6c4b4e8ae53f8888da1b7cd8323770e30b38ab7c640280ecd3658f",
+        "newest_at": "2026-03-10T17:22:01+00:00",
+        "oldest_at": "2025-08-18T14:58:30+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/96/dominari-holdings-inc-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 61240,
+        "sha256": "sha256:80d276d53856e8402bd99fe39859c1e13e35e8dbbc2c749267839ec50ab3926f",
+        "newest_at": "2025-08-15T15:14:31+00:00",
+        "oldest_at": "2025-02-11T15:48:25+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/96/dominari-holdings-inc-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 60680,
+        "sha256": "sha256:bae7dcabdad59fa3ac745e26d57f55a7298ed7e4a2f20e82712fb9535d94128e",
+        "newest_at": "2025-02-11T15:47:16+00:00",
+        "oldest_at": "2024-08-08T14:43:47+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/96/dominari-holdings-inc-common-stock/index/pages/000005.json",
+        "record_count": 12,
+        "byte_count": 14303,
+        "sha256": "sha256:3c0c94ff60685550f64a24ce1b4831cf2c46fdd94a00604b7e53c9a6994d1fcd",
+        "newest_at": "2024-07-24T14:46:11+00:00",
         "oldest_at": "2021-04-01T07:19:08+00:00"
       }
     ]

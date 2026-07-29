@@ -7,7 +7,7 @@ source_id: "gohealth-inc-class-a-common-stock-news-import-26830f1c318e"
 canonical_url: "https://www.gohealth.com/newsroom/brand-stories/"
 published_at: "2025-03-18T00:00:00+00:00"
 first_seen_at: "2026-07-21T21:51:01.074741+00:00"
-fetched_at: "2026-07-28T17:13:38.916505+00:00"
+fetched_at: "2026-07-29T06:03:18.854826+00:00"
 content_hash: "sha256:cff5437010ecd5130855671d6501b5b3eca1e1312729227f80226d44f37a6788"
 ---
 

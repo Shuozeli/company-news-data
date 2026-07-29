@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/bruce-linton-chairman-of-the-above-food-innovation-advisory-council-appears-on-the-midas-letter-to-share-his-thoughts-on-the-plant-based-food-market/"
 published_at: "2021-06-02T20:41:03+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-29T00:43:09.170627+00:00"
+fetched_at: "2026-07-29T14:06:11.402678+00:00"
 content_hash: "sha256:bf7f463386f04ec722bd78a60bf2e21a565796ba6e701de89cfd5fc5d7e5534e"
 ---
 

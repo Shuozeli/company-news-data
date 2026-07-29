@@ -7,7 +7,7 @@ source_id: "roku-inc-class-a-common-stock-rss-7fd84d003d99"
 canonical_url: "https://engineering.roku.com/apache-pinot-and-trino-scalable-architecture-to-help-advertisers-plan-their-spend-on-the-roku-platform"
 published_at: "2025-04-22T16:42:59+00:00"
 first_seen_at: "2026-07-20T23:21:49.245762+00:00"
-fetched_at: "2026-07-28T23:19:32.883693+00:00"
+fetched_at: "2026-07-29T15:09:04.844369+00:00"
 content_hash: "sha256:92bbccaeb10cdd499f0761d1270b585ffc672e250d05e03b8fb3d47ffbc6f36e"
 ---
 

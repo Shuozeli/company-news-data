@@ -7,7 +7,7 @@ source_id: "danaher-corporation-common-stock-rss-baeab7bd386b"
 canonical_url: "https://investors.danaher.com/2025-11-11-Danaher-to-Present-at-Jefferies-Global-Healthcare-Conference"
 published_at: "2025-11-11T21:15:00+00:00"
 first_seen_at: "2026-07-20T03:32:45.140623+00:00"
-fetched_at: "2026-07-28T23:34:39.620039+00:00"
+fetched_at: "2026-07-29T15:30:14.901077+00:00"
 content_hash: "sha256:6ee255763f62f45c697a6f17fb6a8b420ad1c5d30281fd572c296065587fc2ae"
 ---
 

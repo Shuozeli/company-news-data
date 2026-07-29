@@ -7,7 +7,7 @@ source_id: "new-horizon-aircraft-ltd-class-a-ordinary-share-rss-622475094ee2"
 canonical_url: "https://www.horizonaircraft.com/horizons-hybrid-evtol-aims-to-cut-aircraft-operating-costs-by-up-to-75/"
 published_at: "2026-07-14T18:14:53+00:00"
 first_seen_at: "2026-07-27T06:22:39.835180+00:00"
-fetched_at: "2026-07-28T23:52:42.572580+00:00"
+fetched_at: "2026-07-29T16:58:29.125493+00:00"
 content_hash: "sha256:166b9f61bc042c0468018a130630118def9b6781d16bbe7c0e51454013e2df5b"
 ---
 

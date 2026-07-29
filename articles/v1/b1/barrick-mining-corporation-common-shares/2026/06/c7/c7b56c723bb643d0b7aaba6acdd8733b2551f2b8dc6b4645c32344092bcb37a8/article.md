@@ -7,7 +7,7 @@ source_id: "barrick-mining-corporation-common-shares-rss-04ef954d86c6"
 canonical_url: "https://www.barrick.com/English/news/news-details/2026/2025-sustainability-report/default.aspx"
 published_at: "2026-06-12T14:00:00+00:00"
 first_seen_at: "2026-07-25T01:16:22.091967+00:00"
-fetched_at: "2026-07-28T23:01:12.069195+00:00"
+fetched_at: "2026-07-29T14:37:43.073143+00:00"
 content_hash: "sha256:3bffbf5c4f55bbb94b14a643d2d25d7e8066bd07333d9648acd4db5df2c8fbf5"
 ---
 

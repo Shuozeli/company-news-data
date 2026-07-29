@@ -7,7 +7,7 @@ source_id: "dyne-therapeutics-inc-common-stock-rss-d110a4ccdb6e"
 canonical_url: "https://www.dyne-tx.com/dyne-therapeutics-appoints-daniel-wilson-as-vice-president-head-of-intellectual-property/"
 published_at: "2020-06-11T12:01:40+00:00"
 first_seen_at: "2026-07-20T23:21:48.721292+00:00"
-fetched_at: "2026-07-28T23:22:18.035043+00:00"
+fetched_at: "2026-07-29T15:16:40.894200+00:00"
 content_hash: "sha256:999374b69ea9aadee223fc64ae99a3ff2a5a84b39e8e205bfc340033310db82a"
 ---
 

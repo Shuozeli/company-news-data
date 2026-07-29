@@ -7,7 +7,7 @@ source_id: "invitation-homes-inc-common-stock-rss-1545f6c2cf53"
 canonical_url: "https://www.invh.com/news-events/news/news-details/2026/Invitation-Homes-Announces-Dates-for-First-Quarter-2026-Earnings-Release-and-Conference-Call/default.aspx"
 published_at: "2026-04-08T20:30:00+00:00"
 first_seen_at: "2026-07-25T09:56:53.291090+00:00"
-fetched_at: "2026-07-28T23:23:23.747600+00:00"
+fetched_at: "2026-07-29T15:20:00.705610+00:00"
 content_hash: "sha256:27a3532bbb3822904736ce448767264a5c1b07303900908f29262c3774715a9b"
 ---
 

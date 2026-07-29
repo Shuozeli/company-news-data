@@ -7,7 +7,7 @@ source_id: "chegg-inc-common-stock-rss-0b23ec2ec36f"
 canonical_url: "https://investor.chegg.com/Press-Releases/press-release-details/2026/Three-in-Ten-Employers-Lose-a-Full-Workday-Every-Week-to-Skills-Gaps-Chegg-Research-Finds/default.aspx"
 published_at: "2026-06-11T13:05:00+00:00"
 first_seen_at: "2026-07-26T11:29:01.770598+00:00"
-fetched_at: "2026-07-28T23:54:18.574143+00:00"
+fetched_at: "2026-07-29T17:00:03.652798+00:00"
 content_hash: "sha256:2f48992a73d3aa087260c6cc2ae6d9199b6e9a3aa628a39ebec108f17217cef5"
 ---
 

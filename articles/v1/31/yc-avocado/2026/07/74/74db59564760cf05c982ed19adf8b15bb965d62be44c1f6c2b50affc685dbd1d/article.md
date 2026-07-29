@@ -5,13 +5,13 @@ company_key: "yc-avocado"
 company: "Avocado"
 source_id: "yc-avocado-news-import-38bb8a83867d"
 canonical_url: "https://www.avocadopos.com/blog/800-google-reviews"
-published_at: null
+published_at: "2026-07-16T00:00:00+00:00"
 first_seen_at: "2026-07-24T18:13:15.302974+00:00"
 fetched_at: "2026-07-28T21:37:36.757263+00:00"
 content_hash: "sha256:19341488387572adc2e0e24e929e24fe2f30f5d8acc78ef82b4e6180326dc822"
 ---
 
-# How We Got 800 Google Reviews in 6 Months (And Why It Was the Best Thing We Did) - The Avocado - Avocado POS
+# How We Got 800 Google Reviews in 6 Months (And Why It Was the Best Thing We Did)
 
 If I had to pick one thing that drove more new customers to my restaurant than anything else, it would be Google reviews. Not Instagram. Not ads. Not any growth hack. Just a lot of people leaving honest reviews on Google.
 

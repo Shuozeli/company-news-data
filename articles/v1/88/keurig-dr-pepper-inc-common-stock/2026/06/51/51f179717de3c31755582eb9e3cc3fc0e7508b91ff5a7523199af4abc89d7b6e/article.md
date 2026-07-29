@@ -7,7 +7,7 @@ source_id: "keurig-dr-pepper-inc-common-stock-rss-28bc20b6d247"
 canonical_url: "https://www.keurigdrpepper.com/detroit-celebrates-160-years-of-vernors-with-community-block-party/"
 published_at: "2026-06-23T17:28:49+00:00"
 first_seen_at: "2026-07-25T10:42:45.972346+00:00"
-fetched_at: "2026-07-29T00:42:53.622202+00:00"
+fetched_at: "2026-07-29T14:07:18.973286+00:00"
 content_hash: "sha256:0bb005bfab0d2f76a6285cd659ad10eeea0b4eb973f7df8804702bf71f03b33a"
 ---
 

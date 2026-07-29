@@ -7,7 +7,7 @@ source_id: "northrop-grumman-corporation-common-stock-rss-ef10a2a904f8"
 canonical_url: "https://investor.northropgrumman.com/news-releases/news-release-details/northrop-grumman-releases-second-quarter-2026-financial-results"
 published_at: "2026-07-21T10:54:34+00:00"
 first_seen_at: "2026-07-25T16:32:17.291083+00:00"
-fetched_at: "2026-07-28T22:17:38.219613+00:00"
+fetched_at: "2026-07-29T14:22:16.452299+00:00"
 content_hash: "sha256:aee3d0e8e6626dbafb3c814df8b8597fd33e7a7cb68001f3583a36b46dea953b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "john-marshall-bancorp-inc-common-stock-rss-fb2b4f9b8bad"
 canonical_url: "https://investor.johnmarshallbank.com/news/press-releases/news-details/2026/John-Marshall-Bancorp-Inc--Initiates-Quarterly-Cash-Dividend/default.aspx"
 published_at: "2026-01-28T14:05:00+00:00"
 first_seen_at: "2026-07-25T16:44:26.379368+00:00"
-fetched_at: "2026-07-28T23:11:48.710378+00:00"
+fetched_at: "2026-07-29T14:58:42.054663+00:00"
 content_hash: "sha256:62df4d3eab31f00ba08f8983dbd629446eaa764dc2cf92afaf4c5b5a0497e1a1"
 ---
 

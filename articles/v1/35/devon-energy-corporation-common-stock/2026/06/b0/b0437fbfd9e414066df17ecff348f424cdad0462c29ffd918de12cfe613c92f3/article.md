@@ -7,7 +7,7 @@ source_id: "devon-energy-corporation-common-stock-rss-b68131991e20"
 canonical_url: "http://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Announces-Results-of-Early-Participation-in-Private-Exchange-Offers-and-Consent-Solicitations-and-Extension-of-Deadline-to-Receive-Total-Exchange-Consideration/default.aspx"
 published_at: "2026-06-08T10:55:00+00:00"
 first_seen_at: "2026-07-25T01:08:53.429704+00:00"
-fetched_at: "2026-07-29T00:32:43.805760+00:00"
+fetched_at: "2026-07-29T13:58:53.801670+00:00"
 content_hash: "sha256:68e2e387e4df4476bc19dc026a154ecb19224433a6c4ce9740fde6e8ae91351b"
 ---
 

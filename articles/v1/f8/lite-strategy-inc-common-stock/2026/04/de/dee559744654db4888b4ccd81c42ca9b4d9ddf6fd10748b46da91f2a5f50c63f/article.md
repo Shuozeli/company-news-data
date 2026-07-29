@@ -7,7 +7,7 @@ source_id: "lite-strategy-inc-common-stock-rss-2606cd5303da"
 canonical_url: "https://litestrategy.com/jay-file-ceo-of-lite-strategy-on-the-touchgrass-podcast/"
 published_at: "2026-04-17T10:43:16+00:00"
 first_seen_at: "2026-07-26T17:13:39.100722+00:00"
-fetched_at: "2026-07-29T00:12:39.739773+00:00"
+fetched_at: "2026-07-29T17:14:05.363305+00:00"
 content_hash: "sha256:da9b359339ec1686bfe054a79af48f491dba392afb3a84d164ec1b98b090403a"
 ---
 

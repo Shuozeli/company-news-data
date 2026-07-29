@@ -7,7 +7,7 @@ source_id: "xplr-infrastructure-lp-common-units-representing-limited-partner-int
 canonical_url: "https://www.investor.xplrinfrastructure.com/news-and-events/news-releases/2025/11-19-2025-123034750"
 published_at: "2025-11-19T11:30:00+00:00"
 first_seen_at: "2026-07-26T06:07:54.334635+00:00"
-fetched_at: "2026-07-28T23:11:07.933544+00:00"
+fetched_at: "2026-07-29T14:58:17.399338+00:00"
 content_hash: "sha256:24730e626eb90ccc45849e92bbad8ee887a9ca9f9d717c92dc50c0dfc3fa3687"
 ---
 

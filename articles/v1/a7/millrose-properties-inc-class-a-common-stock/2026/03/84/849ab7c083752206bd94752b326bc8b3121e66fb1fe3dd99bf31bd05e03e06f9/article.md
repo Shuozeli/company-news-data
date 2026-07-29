@@ -7,7 +7,7 @@ source_id: "millrose-properties-inc-class-a-common-stock-rss-6302012778d0"
 canonical_url: "https://ir.millroseproperties.com/news/news-details/2026/Millrose-Properties-Announces-Quarterly-Dividend-Payment/default.aspx"
 published_at: "2026-03-23T20:15:00+00:00"
 first_seen_at: "2026-07-25T14:15:58.173585+00:00"
-fetched_at: "2026-07-28T23:48:22.092710+00:00"
+fetched_at: "2026-07-29T15:41:37.305797+00:00"
 content_hash: "sha256:b5278f5a994770c54bea8fe5fabbbea440e53911c294d4cdf5882bfe06386f3d"
 ---
 

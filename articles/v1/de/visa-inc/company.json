@@ -4,9 +4,9 @@
     "key": "visa-inc",
     "name": "Visa Inc."
   },
-  "record_count": 11,
+  "record_count": 12,
   "first_published_at": "2026-06-04T12:00:00+00:00",
-  "last_published_at": "2026-07-22T11:00:00+00:00",
+  "last_published_at": "2026-07-28T20:05:00+00:00",
   "partitions": [
     {
       "partition": "2026-06",
@@ -14,11 +14,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 6
+      "record_count": 7
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -26,9 +26,9 @@
       {
         "page": 1,
         "path": "articles/v1/de/visa-inc/index/pages/000001.json",
-        "record_count": 11,
-        "byte_count": 12856,
-        "sha256": "sha256:2ac7d230051c70198f2ecbed912f8023b7e38f60418da8895d4ebce841e2a184",
+        "record_count": 12,
+        "byte_count": 14000,
+        "sha256": "sha256:f84626d0725a22b69ab7cf5c24578b811768656ef09576faf479f414d76f6b3c",
         "newest_at": "2026-07-28T21:36:14.883471+00:00",
         "oldest_at": "2026-06-04T12:00:00+00:00"
       }

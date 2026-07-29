@@ -7,7 +7,7 @@ source_id: "national-beverage-corp-common-stock-rss-c0166684d17c"
 canonical_url: "https://ir.nationalbeverage.com/news-releases/news-release-details/national-beverage-corp-reports-fourth-quarter-and-year-end"
 published_at: "2025-07-02T20:30:00+00:00"
 first_seen_at: "2026-07-25T15:34:19.144056+00:00"
-fetched_at: "2026-07-29T00:46:57.827573+00:00"
+fetched_at: "2026-07-29T14:10:31.023577+00:00"
 content_hash: "sha256:5075bf2cfd468bdefe9070f63af840920fa1970c34003b75d83a7525ab3d847f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "fortrea-holdings-inc-common-stock-rss-2a3b555f8624"
 canonical_url: "https://www.fortrea.com/about-us/our-experts/gemma-gaunt"
 published_at: "2026-07-22T11:51:13+00:00"
 first_seen_at: "2026-07-22T14:49:48.625008+00:00"
-fetched_at: "2026-07-28T23:10:04.281502+00:00"
+fetched_at: "2026-07-29T14:53:18.844471+00:00"
 content_hash: "sha256:faaaccf227eddc599af2d39638653edc50df6bb5503beb025ac222ab4d938fab"
 ---
 

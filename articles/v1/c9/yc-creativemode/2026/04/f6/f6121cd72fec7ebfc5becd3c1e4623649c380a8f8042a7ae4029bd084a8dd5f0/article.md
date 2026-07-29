@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/how-to-publish-and-share-your-minecraft-mods-with-creativemode"
 published_at: "2026-04-14T01:54:03+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T23:10:27.687348+00:00"
+fetched_at: "2026-07-29T14:56:56.066516+00:00"
 content_hash: "sha256:49a742aa00e4579d22d74c06c0703c378ab96071bbd6f4afaaf369004f7e416b"
 ---
 

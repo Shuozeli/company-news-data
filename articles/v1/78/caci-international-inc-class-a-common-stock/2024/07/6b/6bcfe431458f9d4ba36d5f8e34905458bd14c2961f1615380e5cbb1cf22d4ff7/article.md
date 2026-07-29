@@ -7,7 +7,7 @@ source_id: "caci-international-inc-class-a-common-stock-rss-5a63f98b2d44"
 canonical_url: "https://www.caci.com/digital-solutions"
 published_at: "2024-07-15T15:58:15+00:00"
 first_seen_at: "2026-07-25T01:09:46.458624+00:00"
-fetched_at: "2026-07-29T00:39:44.891627+00:00"
+fetched_at: "2026-07-29T14:03:47.092681+00:00"
 content_hash: "sha256:5970ab23111f31c37d4dca1a01d9994a198a429b6f9c12e8eabc5bb80239b841"
 ---
 

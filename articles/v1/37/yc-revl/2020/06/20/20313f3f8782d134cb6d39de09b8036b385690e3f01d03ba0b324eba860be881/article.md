@@ -7,7 +7,7 @@ source_id: "yc-revl-rss-5edb2d8aa7bb"
 canonical_url: "https://revl.com/case-study-falcon"
 published_at: "2020-06-24T19:42:01+00:00"
 first_seen_at: "2026-07-25T21:21:37.023939+00:00"
-fetched_at: "2026-07-28T23:38:31.647128+00:00"
+fetched_at: "2026-07-29T15:33:39.778692+00:00"
 content_hash: "sha256:7b259f38f022da74493a7cd15b2e5930073c1da28205c9b6adb0164407706130"
 ---
 

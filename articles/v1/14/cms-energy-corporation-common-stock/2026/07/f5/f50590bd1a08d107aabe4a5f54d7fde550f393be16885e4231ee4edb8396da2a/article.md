@@ -7,7 +7,7 @@ source_id: "cms-energy-corporation-common-stock-rss-601c04a7cd5c"
 canonical_url: "https://www.cmsenergy.com/investor-relations/news-releases/news-release-details/2026/CMS-Energys-Board-of-Directors-Declares-Quarterly-Dividend-on-Common-Stock-0a5e13971/default.aspx"
 published_at: "2026-07-20T17:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:51.275325+00:00"
-fetched_at: "2026-07-29T00:06:52.427039+00:00"
+fetched_at: "2026-07-29T17:08:07.204244+00:00"
 content_hash: "sha256:55f69e3cb2b32512fe8caf796d3c1bdb01b3a0496e759996e8100cb87b581152"
 ---
 

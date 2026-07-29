@@ -4,9 +4,9 @@
     "key": "titan-mining-corporation-common-shares",
     "name": "Titan Mining Corporation Common Shares"
   },
-  "record_count": 20,
+  "record_count": 21,
   "first_published_at": "2025-12-16T00:00:00+00:00",
-  "last_published_at": "2026-07-15T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-12",
@@ -38,11 +38,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -50,10 +50,10 @@
       {
         "page": 1,
         "path": "articles/v1/2e/titan-mining-corporation-common-shares/index/pages/000001.json",
-        "record_count": 20,
-        "byte_count": 25334,
-        "sha256": "sha256:0c8e9d8e053443218b1bf1bfc67cf0f39df60032e0dd80925463edec7234eb2f",
-        "newest_at": "2026-07-15T00:00:00+00:00",
+        "record_count": 21,
+        "byte_count": 26561,
+        "sha256": "sha256:374ac844cceb9b45182116adc7e2ddc1e53e32f75e296d732a8f055167d217f9",
+        "newest_at": "2026-07-29T00:00:00+00:00",
         "oldest_at": "2025-12-16T00:00:00+00:00"
       }
     ]

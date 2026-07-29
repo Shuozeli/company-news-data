@@ -7,7 +7,7 @@ source_id: "clearpoint-neuro-inc-common-stock-rss-5217729afd52"
 canonical_url: "https://www.clearpointneuro.com/blog/2023/03/30/clearpoint-on-demand-prone-positioning-for-imri-optimizing-anesthesia-protocols-dr-rees-cosgrove-dr-dennis-mcnicholl/"
 published_at: "2023-03-30T00:22:56+00:00"
 first_seen_at: "2026-07-20T23:18:45.399735+00:00"
-fetched_at: "2026-07-29T00:26:57.074247+00:00"
+fetched_at: "2026-07-29T17:26:01.087433+00:00"
 content_hash: "sha256:843ec1368aa4e4a8a0d47d9ff6f42dbfbafe8749aff148cacc0c15f29f21b17f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/insurance-claim-automation-cut-costs-40-in-2026"
 published_at: "2026-07-12T10:26:00.221+00:00"
 first_seen_at: "2026-07-24T08:23:01.167291+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:d7c2e6e7c1a876034e9378e80942e9bdf3f0e26e39c63e0e5f38e8519e5c6999"
 ---
 

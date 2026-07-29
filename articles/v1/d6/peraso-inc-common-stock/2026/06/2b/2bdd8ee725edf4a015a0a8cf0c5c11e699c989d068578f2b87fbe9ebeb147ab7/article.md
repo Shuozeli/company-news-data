@@ -7,7 +7,7 @@ source_id: "peraso-inc-common-stock-rss-236a130b6967"
 canonical_url: "https://perasoinc.com/media/daily-briefs/"
 published_at: "2026-06-30T09:20:23+00:00"
 first_seen_at: "2026-07-25T18:46:27.343170+00:00"
-fetched_at: "2026-07-28T23:17:25.859722+00:00"
+fetched_at: "2026-07-29T15:07:39.810038+00:00"
 content_hash: "sha256:dd03c0dcb62de51661ac2e361fe5acf59035df57dcaf9076e182d8c8b22c1590"
 ---
 

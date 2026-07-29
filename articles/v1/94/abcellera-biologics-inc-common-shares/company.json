@@ -4,9 +4,9 @@
     "key": "abcellera-biologics-inc-common-shares",
     "name": "AbCellera Biologics Inc. Common Shares"
   },
-  "record_count": 19,
+  "record_count": 20,
   "first_published_at": "2026-02-11T21:05:00+00:00",
-  "last_published_at": "2026-07-07T20:05:00+00:00",
+  "last_published_at": "2026-07-29T11:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-02",
@@ -26,11 +26,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 11
+      "record_count": 12
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -38,10 +38,10 @@
       {
         "page": 1,
         "path": "articles/v1/94/abcellera-biologics-inc-common-shares/index/pages/000001.json",
-        "record_count": 19,
-        "byte_count": 29367,
-        "sha256": "sha256:d87a1b6614cea459324079e49923793780f8c29f91411cd89ca717bafeceb4c7",
-        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "record_count": 20,
+        "byte_count": 31582,
+        "sha256": "sha256:4a9c0a667d0f225da85fd746f0f3c98ce241273f627f65305d558b962bbdf72c",
+        "newest_at": "2026-07-29T11:00:00+00:00",
         "oldest_at": "2026-02-11T21:05:00+00:00"
       }
     ]

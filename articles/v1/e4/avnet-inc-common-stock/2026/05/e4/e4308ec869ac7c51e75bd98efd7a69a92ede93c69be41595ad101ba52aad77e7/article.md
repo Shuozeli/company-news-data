@@ -7,7 +7,7 @@ source_id: "avnet-inc-common-stock-rss-97276dcd8bba"
 canonical_url: "https://news.avnet.com/press-releases/press-release-details/2026/Farnell-Leadership-Team-gives-back-in-Leeds-2026-fCGCajC8s3/default.aspx"
 published_at: "2026-05-21T12:00:00+00:00"
 first_seen_at: "2026-07-28T21:48:40.971423+00:00"
-fetched_at: "2026-07-29T00:14:11.820089+00:00"
+fetched_at: "2026-07-29T13:39:56.062707+00:00"
 content_hash: "sha256:cdaa10973091e6ed209723638a018a6f6becb92a8eedbc83083b5cdfc0dc4e24"
 ---
 

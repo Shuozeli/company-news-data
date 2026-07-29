@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/hinge/hinge-ceo-our-algorithm-doesnt-judge-on-attractiveness/"
 published_at: "2026-03-12T16:40:31+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:1b569bc6c5b60526b272c2ea6d25810ec9fb374e0b1a97e0e8c180677c7191b6"
 ---
 

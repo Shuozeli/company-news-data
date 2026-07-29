@@ -7,7 +7,7 @@ source_id: "emergent-biosolutions-inc-common-stock-rss-a13a3e2df02d"
 canonical_url: "https://investors.emergentbiosolutions.com/news-releases/news-release-details/emergent-biosolutions-partners-professional-baseball-player"
 published_at: "2026-04-29T10:53:00+00:00"
 first_seen_at: "2026-07-25T02:16:37.099543+00:00"
-fetched_at: "2026-07-28T23:53:01.341013+00:00"
+fetched_at: "2026-07-29T17:12:22.242825+00:00"
 content_hash: "sha256:6cd7dfe344e0a95b740eeb84b604ffeecf04310e29dfc16586247354c91ee130"
 ---
 

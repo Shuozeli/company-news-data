@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/story/2026/mls-all-star-week.html"
 published_at: "2026-07-23T14:00:00+00:00"
 first_seen_at: "2026-07-23T15:19:43.238506+00:00"
-fetched_at: "2026-07-28T23:38:49.340178+00:00"
+fetched_at: "2026-07-29T15:32:36.560237+00:00"
 content_hash: "sha256:f827dd45262e579ea20811da355f749a996dec95a149a254db58e54c54e89608"
 ---
 

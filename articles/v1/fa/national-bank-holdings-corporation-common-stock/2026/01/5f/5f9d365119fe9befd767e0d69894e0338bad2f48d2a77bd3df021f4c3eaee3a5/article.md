@@ -7,7 +7,7 @@ source_id: "national-bank-holdings-corporation-common-stock-rss-ce14e24241e6"
 canonical_url: "https://www.nationalbankholdings.com/news/news-details/2026/National-Bank-Holdings-Corporation-Announces-Date-for-2025-Fourth-Quarter-and-Full-Year-Earnings-Release/default.aspx"
 published_at: "2026-01-08T21:10:00+00:00"
 first_seen_at: "2026-07-25T15:34:18.653293+00:00"
-fetched_at: "2026-07-29T00:51:02.612240+00:00"
+fetched_at: "2026-07-29T14:20:32.981190+00:00"
 content_hash: "sha256:31eee8f66786cd2285e85f30ebc5cd326a12f4f763e00e9e8c1da6b8d28b110c"
 ---
 

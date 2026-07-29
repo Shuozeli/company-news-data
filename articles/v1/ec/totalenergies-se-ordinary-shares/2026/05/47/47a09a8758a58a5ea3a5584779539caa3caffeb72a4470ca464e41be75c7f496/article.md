@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/l-ny-a-aucune-honte-a-faire-des-profits-cela-signifie-que-lentreprise-fonctionne-bien/"
 published_at: "2026-05-05T16:48:02+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-29T00:33:16.098879+00:00"
+fetched_at: "2026-07-29T13:59:20.653816+00:00"
 content_hash: "sha256:f92f7fc11c4e73aa0b901b4d7e9a479f45641b2c9a77dbb479b83b7d77aae6fd"
 ---
 

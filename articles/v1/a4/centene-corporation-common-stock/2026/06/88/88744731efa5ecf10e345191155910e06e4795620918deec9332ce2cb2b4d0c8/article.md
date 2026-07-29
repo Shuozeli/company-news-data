@@ -7,7 +7,7 @@ source_id: "centene-corporation-common-stock-rss-80dc5615cd85"
 canonical_url: "https://investors.centene.com/2026-06-24-Vision-y-Compromiso-Launches-MOVES-Program-Mobile-Unit-to-Expand-Health-Services-Across-Los-Angeles-County,-Supported-by-the-Centene-Foundation-and-Health-Net"
 published_at: "2026-06-24T20:10:00+00:00"
 first_seen_at: "2026-07-20T03:32:22.250342+00:00"
-fetched_at: "2026-07-28T23:22:15.789255+00:00"
+fetched_at: "2026-07-29T15:15:27.209412+00:00"
 content_hash: "sha256:3e826e3b012ea580024f7d692c0c3859c770a4c10e5993878efbc315ac8eab1d"
 ---
 

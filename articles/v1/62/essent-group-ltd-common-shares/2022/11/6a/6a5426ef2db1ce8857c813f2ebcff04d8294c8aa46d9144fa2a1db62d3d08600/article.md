@@ -7,7 +7,7 @@ source_id: "essent-group-ltd-common-shares-rss-73b1762c5152"
 canonical_url: "https://www.essent.us/documents/arm-tool"
 published_at: "2022-11-18T15:13:56+00:00"
 first_seen_at: "2026-07-25T03:08:43.110347+00:00"
-fetched_at: "2026-07-28T23:09:05.620698+00:00"
+fetched_at: "2026-07-29T14:51:12.708470+00:00"
 content_hash: "sha256:89cf09f10c350ea773d63c7636d137f7f0b7b1531a8aa5b9c264b692c4aed318"
 ---
 

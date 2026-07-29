@@ -17,8 +17,8 @@
   "summary": "PackageKit is a a D-Bus abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API. PackageKit is vulnerable to a time-of-check time-of-use (TOCTOU) race condition on transaction flags that allows unprivileged users to install packages as root and thus leads to a local privilege escalation. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
   "published_at": "2026-06-25T17:26:00+00:00",
   "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
-  "fetched_at": "2026-07-28T23:46:40.217305+00:00",
-  "last_updated_at": "2026-07-28T23:46:40.335342+00:00",
+  "fetched_at": "2026-07-29T15:39:26.203413+00:00",
+  "last_updated_at": "2026-07-29T15:39:26.242947+00:00",
   "paths": {
     "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/06/4f/4f8baba6da0a02f90d6d693daa4d65fbfe3f75380d614a6d4add62df88b914b1/article.md",
     "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/06/4f/4f8baba6da0a02f90d6d693daa4d65fbfe3f75380d614a6d4add62df88b914b1/record.json"
@@ -26,7 +26,7 @@
   "content": {
     "media_type": "text/markdown; charset=utf-8",
     "bytes": 1419,
-    "sha256": "sha256:22c1fbb5f999fc0eef26144ffab1845c83e82436b2471a85c652b217b2190589",
+    "sha256": "sha256:a04d9a1f300d0d25f598261e85779771119b03e01f8861bec91221b6fde5526a",
     "normalized_content_hash": "sha256:c9e3bc90ad873f5b052952c7c4bd2585b8352c1f7335811faa2a0486111857b2"
   },
   "provenance": {

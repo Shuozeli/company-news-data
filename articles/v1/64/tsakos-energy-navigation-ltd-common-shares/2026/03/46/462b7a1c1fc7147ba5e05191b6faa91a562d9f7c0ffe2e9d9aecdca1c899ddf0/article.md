@@ -7,7 +7,7 @@ source_id: "tsakos-energy-navigation-ltd-common-shares-rss-de2a2f5a42c3"
 canonical_url: "https://www.tenn.gr/bloomberg-surveillance-2026/"
 published_at: "2026-03-11T16:23:52+00:00"
 first_seen_at: "2026-07-20T23:18:34.965179+00:00"
-fetched_at: "2026-07-29T00:29:53.385856+00:00"
+fetched_at: "2026-07-29T13:56:26.759201+00:00"
 content_hash: "sha256:b49b31481568e0b6af557697ff0e1eee910ed7a06689c131e6699df457d5df01"
 ---
 

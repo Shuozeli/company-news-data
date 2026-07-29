@@ -7,7 +7,7 @@ source_id: "silicom-ltd-ordinary-shares-rss-f5c2dfa9165d"
 canonical_url: "https://www.silicom-usa.com/news/april-30-2026/"
 published_at: "2026-04-30T12:59:38+00:00"
 first_seen_at: "2026-07-25T01:07:37.683588+00:00"
-fetched_at: "2026-07-29T00:33:46.082438+00:00"
+fetched_at: "2026-07-29T13:58:43.285208+00:00"
 content_hash: "sha256:a7fac6c3e3941282254236b600d04bfec1177263f9b0e9e97c7bd789a1e31c04"
 ---
 

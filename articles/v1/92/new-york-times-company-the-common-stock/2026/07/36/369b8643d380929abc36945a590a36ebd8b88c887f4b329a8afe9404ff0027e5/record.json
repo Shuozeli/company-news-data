@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "369b8643d380929abc36945a590a36ebd8b88c887f4b329a8afe9404ff0027e5",
+  "company": {
+    "key": "new-york-times-company-the-common-stock",
+    "name": "New York Times Company (The) Common Stock"
+  },
+  "source": {
+    "id": "new-york-times-company-the-common-stock-rss-077dcf020701",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html",
+    "canonical": "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html"
+  },
+  "title": "The Doctor and His Diary: What Fauci’s Innermost Musings Reveal",
+  "summary": "Dr. Anthony S. Fauci seemed to be the life of the party, even in the midst of a deadly pandemic.",
+  "published_at": "2026-07-29T02:07:13+00:00",
+  "first_seen_at": "2026-07-29T02:24:23.324829+00:00",
+  "fetched_at": "2026-07-29T13:19:23.004190+00:00",
+  "last_updated_at": "2026-07-29T13:19:23.033937+00:00",
+  "paths": {
+    "article": "articles/v1/92/new-york-times-company-the-common-stock/2026/07/36/369b8643d380929abc36945a590a36ebd8b88c887f4b329a8afe9404ff0027e5/article.md",
+    "record": "articles/v1/92/new-york-times-company-the-common-stock/2026/07/36/369b8643d380929abc36945a590a36ebd8b88c887f4b329a8afe9404ff0027e5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 770,
+    "sha256": "sha256:1de92043ce2105774948c0e140a7c1604495a80cd69f76ed33e6777ca66a2324",
+    "normalized_content_hash": "sha256:f0ea6acc20e8405a37fa7394245a44ef2371d22e1299e5cbfa22b2f8b5e10250"
+  },
+  "provenance": {
+    "source_item_id": "d8eab175-02a5-469e-8d08-7d4ca174bc1c",
+    "external_id": "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html"
+  }
+}

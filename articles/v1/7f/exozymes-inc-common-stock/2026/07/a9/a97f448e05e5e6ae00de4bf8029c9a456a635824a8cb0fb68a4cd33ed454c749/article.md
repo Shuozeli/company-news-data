@@ -7,7 +7,7 @@ source_id: "exozymes-inc-common-stock-rss-741f122b5abb"
 canonical_url: "https://exozymes.com/blog/genesis-mission-2026"
 published_at: "2026-07-23T20:10:38+00:00"
 first_seen_at: "2026-07-25T03:51:33.698656+00:00"
-fetched_at: "2026-07-29T00:27:19.021608+00:00"
+fetched_at: "2026-07-29T13:52:57.192576+00:00"
 content_hash: "sha256:6b07470641faa7277d9caac42ced8d39a8077f4466e0031225cc9ec2d3848924"
 ---
 

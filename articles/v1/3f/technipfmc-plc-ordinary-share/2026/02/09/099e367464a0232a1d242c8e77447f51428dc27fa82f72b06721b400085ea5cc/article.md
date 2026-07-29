@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2026/02/engineering-with-heart-how-purpose-driven-innovation-changes-lives/"
 published_at: "2026-02-03T08:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-29T00:17:43.124361+00:00"
+fetched_at: "2026-07-29T17:18:57.942752+00:00"
 content_hash: "sha256:98880eebd4b8d0cb80842c18d77e94e6cab003c93021050d1227712c9078e560"
 ---
 

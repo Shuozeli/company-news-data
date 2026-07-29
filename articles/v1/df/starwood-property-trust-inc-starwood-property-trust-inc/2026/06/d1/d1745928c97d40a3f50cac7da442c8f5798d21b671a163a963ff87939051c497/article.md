@@ -7,7 +7,7 @@ source_id: "starwood-property-trust-inc-starwood-property-trust-inc-rss-371735f7
 canonical_url: "http://ir.starwoodpropertytrust.com/news/press-release-details/2026/Starwood-Property-Trust-Announces-Private-Offering-of-Sustainability-Bonds-d79c75254/default.aspx"
 published_at: "2026-06-25T13:01:00+00:00"
 first_seen_at: "2026-07-25T01:06:48.915073+00:00"
-fetched_at: "2026-07-29T00:10:19.325154+00:00"
+fetched_at: "2026-07-29T17:12:49.264090+00:00"
 content_hash: "sha256:79c0034d777736926cf1e4f3ffcfcfdc332f611c3115943f3c14b031311ffe18"
 ---
 

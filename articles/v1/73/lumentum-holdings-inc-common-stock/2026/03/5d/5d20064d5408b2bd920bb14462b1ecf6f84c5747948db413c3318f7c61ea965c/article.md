@@ -7,7 +7,7 @@ source_id: "lumentum-holdings-inc-common-stock-rss-38513c1c999d"
 canonical_url: "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-New-U-S--Manufacturing-Facility-to-Produce-Advanced-Lasers-for-the-Worlds-Largest-AI-Data-Centers/default.aspx"
 published_at: "2026-03-26T12:00:00+00:00"
 first_seen_at: "2026-07-27T03:34:21.746028+00:00"
-fetched_at: "2026-07-28T23:22:40.581294+00:00"
+fetched_at: "2026-07-29T15:16:32.735010+00:00"
 content_hash: "sha256:d11311dfa4d7a19b4ff466657f4e5e41fc8cc60fa7e496cdf46c135b36c96883"
 ---
 

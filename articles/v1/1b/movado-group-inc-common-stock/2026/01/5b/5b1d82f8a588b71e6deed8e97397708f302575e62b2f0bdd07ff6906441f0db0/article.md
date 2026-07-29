@@ -7,7 +7,7 @@ source_id: "movado-group-inc-common-stock-rss-48dfa9064518"
 canonical_url: "https://investors.movadogroup.com/news/news-details/2026/Movado-Group-Inc--Announces-Participation-in-the-ICR-Conference-2026/default.aspx"
 published_at: "2026-01-06T11:45:00+00:00"
 first_seen_at: "2026-07-25T15:05:12.591363+00:00"
-fetched_at: "2026-07-28T23:32:41.335651+00:00"
+fetched_at: "2026-07-29T15:30:20.659121+00:00"
 content_hash: "sha256:3fd4e50ec705a54af40d4f3311717a2d4d3a790cb405b4607fd98b4e2bcb65c8"
 ---
 

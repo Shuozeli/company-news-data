@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
   "record_count": 22,
   "items": [
@@ -105,7 +105,7 @@
       "title": "How We Write GitHub Actions in Go",
       "summary": "Go with GitHub Actions Introduction Since the release of GitHub Actions in 2019, GitHub has been heavily investing in improvements to the CI / CD experience. As part of this investment, repeatable tasks can be provided as custom actions and shared externally with the community or internally within a GitHub Enterprise instance. At Blend, we’ve benefited from adopting GitHub Actions. We have built tooling that enables writing an action in Go and automates the release process for actions within our GitHub Enterprise instance.",
       "published_at": "2022-02-07T07:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2022/02/29/29367e2b838667a4f06254833eb0a5b4b3322e2a1ed5f3330a155c5d170caac4/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2022/02/29/29367e2b838667a4f06254833eb0a5b4b3322e2a1ed5f3330a155c5d170caac4/record.json"
     },
@@ -120,7 +120,7 @@
       "title": "Scaling MongoDB for a Growing Customer Base",
       "summary": "MongoDB Introduction Here at Blend, one of the primary databases we use is MongoDB. MongoDB gives a number of important features, including flexible schemas, horizontal scalability, and solid operational tooling which have let us grow quickly as a business. An important aspect of this success is how we organize data in our database; we want to ensure isolation between our customers’ data as much as possible in a single MongoDB cluster.",
       "published_at": "2020-11-20T00:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/11/fa/fae441d489c8c24edf37883cadba23488e22747b87b76dcaa34ce957a166ac15/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/11/fa/fae441d489c8c24edf37883cadba23488e22747b87b76dcaa34ce957a166ac15/record.json"
     },
@@ -135,7 +135,7 @@
       "title": "A Day in the Life of a (Secure) Request",
       "summary": "All hops Introduction In this post, we will walk through the infrastructure components we use at Blend to secure incoming requests—a day in the life of a request, if you will. There are a variety of commonly-used mechanisms to secure cloud computing environments, which often involve load balancers and special-purpose proxy servers. As a result, requests from a client to an application server typically make a number of intermediate network hops en route to their final destination.",
       "published_at": "2020-07-27T07:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/07/2b/2b321a2462ba49ff4373f2545042abdcf63bd1a64a945b22325a76ea9826c44d/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/07/2b/2b321a2462ba49ff4373f2545042abdcf63bd1a64a945b22325a76ea9826c44d/record.json"
     },
@@ -150,7 +150,7 @@
       "title": "Choosing a blockchain platform for Finprint",
       "summary": "Note: Finprint isn’t under active development, but we think the lessons we learned are still valuable for other developers evaluating blockchain platforms. We recently open-sourced Finprint, a data sharing protocol that aims to empower consumers with the ability to own and securely share their financial data. Finprint’s goal of bringing control and transparency to consumers was a natural fit for the decentralized nature of blockchain platforms. We built our first implementation of the protocol on Ethereum in the Solidity smart contract language.",
       "published_at": "2020-03-25T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/03/51/51472c840c0af27dc4f7442b945be1af498dea2d8f9e8d9251d28da246bed2c2/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/03/51/51472c840c0af27dc4f7442b945be1af498dea2d8f9e8d9251d28da246bed2c2/record.json"
     },
@@ -165,7 +165,7 @@
       "title": "Making security audits more like the doctor’s office is a good thing",
       "summary": "Security certifications are table stakes for Blend. Of course, this is also true for other organizations in critical infrastructure spaces like financial services, healthcare, and government contracting. Proof of a comprehensive security compliance program is often necessary to sell your product or services, and the audits that precede certification can be costly in terms of fees, time, and lost opportunities to improve other components of your security program.",
       "published_at": "2020-02-18T23:46:57+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/02/40/4056773a6146e5cbc7dd81921b00c5d1b726bae62c0c2c1e7ce2a91934a44293/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/02/40/4056773a6146e5cbc7dd81921b00c5d1b726bae62c0c2c1e7ce2a91934a44293/record.json"
     },
@@ -180,7 +180,7 @@
       "title": "Migrating the Kubernetes Network Overlay With Zero Downtime",
       "summary": "At Blend, we make extensive use of Kubernetes on AWS to power our infrastructure. Kubernetes has many moving parts, and most of these components are swappable, allowing us to customize clusters to our needs. An important component of any cluster is the Container Network Interface (CNI), which handles the networking for all pods running on the cluster. Choosing the right CNI for each use case is critically important and making changes, once serving production traffic, can be painful.",
       "published_at": "2020-02-03T23:46:57+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/02/b8/b810f9a665f352baf65f44030704931a13f658327c99be21819c855b3d284b48/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/02/b8/b810f9a665f352baf65f44030704931a13f658327c99be21819c855b3d284b48/record.json"
     },
@@ -195,7 +195,7 @@
       "title": "Moving a Business-Critical Monolith to Kubernetes",
       "summary": "At Blend we have been pushing for Kubernetes adoption across all services for the last two years. Migrating our monolith from AWS ECS to a self-hosted Kubernetes cluster marked a major milestone. Moving business-critical applications in general requires deliberate planning and in many cases major updates to deployment pipelines, system monitoring, testing, and infrastructure. This post will explore the migration strategies and lessons learned as we got the monolith up and running across deployments with zero downtime.",
       "published_at": "2019-12-19T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/12/63/63e1e7c3529b749f8121fc8e90aded50f4e0ff82c18d3e5d24db96a914abb4b0/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/12/63/63e1e7c3529b749f8121fc8e90aded50f4e0ff82c18d3e5d24db96a914abb4b0/record.json"
     },
@@ -210,7 +210,7 @@
       "title": "Encrypting Streams in Go",
       "summary": "At Blend, we deal with highly sensitive consumer financial data. We use several data stores — Postgres, MongoDB, CockroachDB, and Etcd — all of which need to be backed up. While MongoDB and Postgres give us prebuilt tools for encrypting backups, Etcd and CockroachDB do not. Our standard practice is to encrypt these backups before storing them. This became more challenging as our backups grew. Encrypting backups in memory At the beginning the backups were small, and we were able to use Vault’s transit features to encrypt them.",
       "published_at": "2019-05-07T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/05/74/74ed52a2b64876aea46e92dac61ad7de3016ae0f421031d7840760355d73112b/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/05/74/74ed52a2b64876aea46e92dac61ad7de3016ae0f421031d7840760355d73112b/record.json"
     },
@@ -225,7 +225,7 @@
       "title": "DCS: Giving the power of configuration to the user",
       "summary": "If you’re not familiar with Blend, think of us as a modern experience for getting a loan. We offer a guided, personalized front end application that makes it easy for borrowers to connect their account data and more structured and secure for lenders to process it. We process loan applications for over 130 financial institutions including Wells Fargo and US Bank. To make the borrowing experience seamless, we integrate behind the scenes with our customers’ in-house tech stacks and dozens of third-party vendors.",
       "published_at": "2019-04-19T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/04/e7/e70b6254443468c45f74a860e4111aaf0d0d4acde6cfc3043a8fa957db2d3699/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/04/e7/e70b6254443468c45f74a860e4111aaf0d0d4acde6cfc3043a8fa957db2d3699/record.json"
     },
@@ -240,7 +240,7 @@
       "title": "Building a versioned UI deploy system for fast, stable deploys and rollbacks",
       "summary": "At Blend, we’re working to bring simplicity and transparency to consumer lending. In the last two years, the Blend engineering team has doubled from 50 engineers to more than 100. Unsurprisingly, our codebase has grown in size and complexity as well. As the team has grown, we’ve embraced the principle of distributed ownership. On the UI team, this means owning our own technical health, and, as of a few months ago, our own release.",
       "published_at": "2019-03-04T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/03/c2/c2cefd01f1125a7112106e91a8cf361de39401bb71cb884c3b99fab49f03206e/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/03/c2/c2cefd01f1125a7112106e91a8cf361de39401bb71cb884c3b99fab49f03206e/record.json"
     },
@@ -255,7 +255,7 @@
       "title": "Managing Customer Releases with Feature Flags instead of Branches",
       "summary": "At Blend, we offer a white-label consumer lending platform that streamlines the otherwise manual, paper-based, and generally painful borrowing process. One challenge inherent in our business model and industry is serving a diverse set of lenders with a single product — from small independents to the largest banks — each with different levels of comfort in accepting changes to the product. Some lenders want the latest functionality as soon as it’s available, while others prefer to test every user-facing change in our beta environment for a month or more before allowing it to be promoted to production.",
       "published_at": "2019-01-31T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/01/76/7629568eb2a61d327e0346cd44437c4c4a73bec433057af21924ca7c388c51d5/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/01/76/7629568eb2a61d327e0346cd44437c4c4a73bec433057af21924ca7c388c51d5/record.json"
     },
@@ -270,7 +270,7 @@
       "title": "Moving to Multitenancy",
       "summary": "Here at Blend, we recently shifted to a multitenant paradigm for our core application. That is to say we moved from a paradigm where a single instance of our app served traffic from a single customer to one where a single instance can serve any number of them. Why didn’t we start that way? If you have a system where customers need to interact with each other, multitenancy is necessary from the start.",
       "published_at": "2019-01-21T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/01/a7/a78d74b1bb4c98b657dde4e3115e7e15d823bd2c601f60aba68ba3efaeddc16a/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/01/a7/a78d74b1bb4c98b657dde4e3115e7e15d823bd2c601f60aba68ba3efaeddc16a/record.json"
     },
@@ -285,7 +285,7 @@
       "title": "Continuous delivery as code with Jenkins DSL",
       "summary": "At Blend, we’re dedicated to bringing simplicity and transparency to consumer finance. In our six years building a lending platform better suited for the 21st century — one that delivers greater security and transparency and is accessible to all consumers — we’ve grown a lot. Just two years ago our team was barely 100 employees total, but today, we’re at more than 350, including 90 engineers.",
       "published_at": "2018-11-26T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2018/11/f5/f56f16810a3bff2a3a9209ef1b8fc8ae0dc2862c8eb2860490136a8b1e21018b/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2018/11/f5/f56f16810a3bff2a3a9209ef1b8fc8ae0dc2862c8eb2860490136a8b1e21018b/record.json"
     },
@@ -300,7 +300,7 @@
       "title": "How we stopped wasting time building custom integrations",
       "summary": "At Blend, we’re always working to increase transparency and equity in access to consumer lending and lending-adjacent markets. The current technical ecosystem of consumer lending is disjointed. Much like bridges bring communities together in the real world, much of what Blend does depends on our ability first to construct virtual bridges (integrations) between these existing, disjointed systems, and second, to create a unified experience for our users.",
       "published_at": "2018-04-23T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2018/04/ad/ad779e6cc3a51f87dc4c82d33396288b3daf0246752442ff85f2dc29406b5b93/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2018/04/ad/ad779e6cc3a51f87dc4c82d33396288b3daf0246752442ff85f2dc29406b5b93/record.json"
     },
@@ -315,7 +315,7 @@
       "title": "Predicting Application Submission with a Recurrent Neural Network",
       "summary": "At Blend, we’re building tools to power a frictionless, more accessible consumer lending ecosystem. We want to ensure everyone who wants a loan (and qualifies for one) can apply easily. Applying for a mortgage is a complicated and lengthy process that requires close collaboration between borrowers and loan officers. It is critical for lenders to provide timely help to borrowers, but it’s difficult to know when to step in. One project we worked on over the past few sprints aimed to tackle that ambiguity.",
       "published_at": "2017-12-06T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2017/12/8b/8b4937710bb716496b442ee95b809baa29a7219e5f636b3b94dbce1652eb8df9/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2017/12/8b/8b4937710bb716496b442ee95b809baa29a7219e5f636b3b94dbce1652eb8df9/record.json"
     },
@@ -330,7 +330,7 @@
       "title": "Centralizing Logs in an Isolated AWS Account",
       "summary": "As a member of the information security team here at Blend, I recently teamed up with the business analytics team to re-architect our log pipeline to increase the security and availability of both the log delivery system and access to the logs themselves. Since the logs provide crucial insight into the production environment for many different teams at Blend, we found ourselves with a list of different requirements to accommodate each team.",
       "published_at": "2017-03-15T08:00:00+00:00",
-      "fetched_at": "2026-07-29T00:27:54.647135+00:00",
+      "fetched_at": "2026-07-29T13:54:11.516897+00:00",
       "article_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2017/03/c5/c54fb0c45b4872d0d9f2007348d73136a34b0b10f9f096be06cf654d9ad1860c/article.md",
       "record_path": "articles/v1/93/blend-labs-inc-class-a-common-stock/2017/03/c5/c54fb0c45b4872d0d9f2007348d73136a34b0b10f9f096be06cf654d9ad1860c/record.json"
     }

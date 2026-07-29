@@ -7,7 +7,7 @@ source_id: "maris-tech-ltd-ordinary-shares-rss-219e3dd21362"
 canonical_url: "https://www.maris-tech.com/maris-tech-receives-follow-on-orders-from-existing-defense-customer-for-observation-systems/press-releases/"
 published_at: "2026-07-09T13:10:20+00:00"
 first_seen_at: "2026-07-24T10:37:38.674777+00:00"
-fetched_at: "2026-07-28T22:52:59.438148+00:00"
+fetched_at: "2026-07-29T14:23:10.907007+00:00"
 content_hash: "sha256:e2ed59d20028437e24d8688526c9b3c19cf8051cd55fe9835562cf6f010f893a"
 ---
 

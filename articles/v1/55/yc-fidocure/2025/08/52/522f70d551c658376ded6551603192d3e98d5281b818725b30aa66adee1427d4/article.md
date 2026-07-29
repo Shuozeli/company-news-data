@@ -7,7 +7,7 @@ source_id: "yc-fidocure-rss-f7dc5a4fc18d"
 canonical_url: "https://fidocure.com/fidocure-blog/interview-with-renowned-oncologist-amy-abernethy-2/"
 published_at: "2025-08-13T14:10:05+00:00"
 first_seen_at: "2026-07-20T23:20:29.421869+00:00"
-fetched_at: "2026-07-29T00:46:46.902341+00:00"
+fetched_at: "2026-07-29T14:10:31.733438+00:00"
 content_hash: "sha256:1a2a67b620b1492c628286d6c226b267a743c4292d52296d48b12e0c76355884"
 ---
 

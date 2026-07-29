@@ -7,7 +7,7 @@ source_id: "warby-parker-inc-class-a-common-stock-rss-6380279b94f1"
 canonical_url: "https://investors.warbyparker.com/news/news-details/2026/Warby-Parker-Announces-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-07T10:45:00+00:00"
 first_seen_at: "2026-07-26T05:05:30.266124+00:00"
-fetched_at: "2026-07-28T23:11:11.272561+00:00"
+fetched_at: "2026-07-29T14:57:43.868164+00:00"
 content_hash: "sha256:207d120746e9a540df1316e0d5dabee0010d58c74e39ab42fb12c1f522cc9006"
 ---
 

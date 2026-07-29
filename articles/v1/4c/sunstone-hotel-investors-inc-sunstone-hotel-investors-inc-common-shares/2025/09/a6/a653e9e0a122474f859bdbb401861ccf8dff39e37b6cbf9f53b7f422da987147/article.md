@@ -7,7 +7,7 @@ source_id: "sunstone-hotel-investors-inc-sunstone-hotel-investors-inc-common-sha
 canonical_url: "https://www.sunstonehotels.com/investor-relations/press-releases/news-details/2025/SUNSTONE-HOTEL-INVESTORS-COMPLETES-1-35-BILLION-AMENDED-AND-RESTATED-CREDIT-AGREEMENT/default.aspx"
 published_at: "2025-09-25T12:00:00+00:00"
 first_seen_at: "2026-07-26T07:47:55.987383+00:00"
-fetched_at: "2026-07-28T23:15:49.114754+00:00"
+fetched_at: "2026-07-29T15:05:53.584154+00:00"
 content_hash: "sha256:f1be5437c70062d908258de28f47707579333c9b05516b9c1fcf84f650b0cd22"
 ---
 

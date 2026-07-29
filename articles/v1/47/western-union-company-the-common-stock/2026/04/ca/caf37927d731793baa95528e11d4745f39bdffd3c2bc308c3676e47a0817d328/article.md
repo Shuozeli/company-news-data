@@ -7,7 +7,7 @@ source_id: "western-union-company-the-common-stock-rss-b97466c15713"
 canonical_url: "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-to-Release-First-Quarter-2026-Results-on-April-24-2026/default.aspx"
 published_at: "2026-04-09T20:05:00+00:00"
 first_seen_at: "2026-07-26T05:24:37.115894+00:00"
-fetched_at: "2026-07-28T23:31:52.252898+00:00"
+fetched_at: "2026-07-29T15:29:35.235872+00:00"
 content_hash: "sha256:c875c05a372d745ae32e29e069ea3f1c2ae9b0803e0aa249f28cef75703e0fd8"
 ---
 

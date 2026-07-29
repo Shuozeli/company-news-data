@@ -7,7 +7,7 @@ source_id: "dorman-products-inc-common-stock-rss-b8556f430883"
 canonical_url: "https://shoppress.dormanproducts.com/electric-car-radiator/"
 published_at: "2026-07-23T12:00:25+00:00"
 first_seen_at: "2026-07-23T12:20:20.484686+00:00"
-fetched_at: "2026-07-28T23:42:19.685738+00:00"
+fetched_at: "2026-07-29T15:35:42.270399+00:00"
 content_hash: "sha256:ccbdf10dac9335e5714ca1ce8be89a2d8993da3c12ff93c672df186f4f09fde3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "flexsteel-industries-inc-common-stock-news-import-99d97880673a"
 canonical_url: "https://www.flexsteel.com/blogs/news/flexsteel-honored-as-one-of-newsweek-s-world-s-most-trustworthy-companies-2024"
 published_at: "2024-06-06T09:16:54+00:00"
 first_seen_at: "2026-07-26T14:24:19.098770+00:00"
-fetched_at: "2026-07-28T16:38:29.854927+00:00"
+fetched_at: "2026-07-29T05:32:54.256538+00:00"
 content_hash: "sha256:541aacf1ff158e2eeed848194ec7c4e092cddbee979cfcb7d371543d4eaea4bd"
 ---
 

@@ -7,7 +7,7 @@ source_id: "regional-management-corp-common-stock-rss-a5d1e458e13d"
 canonical_url: "https://www.regionalmanagement.com/news-and-events/news/press-release-details/2025/Regional-Management-Corp--Names-Lakhbir-Lamba-as-President-Chief-Executive-Officer-and-Director/default.aspx"
 published_at: "2025-11-05T21:20:00+00:00"
 first_seen_at: "2026-07-25T20:48:13.259631+00:00"
-fetched_at: "2026-07-28T22:54:28.620667+00:00"
+fetched_at: "2026-07-29T14:24:35.082399+00:00"
 content_hash: "sha256:0ae29919ddd6639af2b07daa57d38f895d40b18f674b2250d32034232d43d8b2"
 ---
 

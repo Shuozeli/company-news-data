@@ -7,7 +7,7 @@ source_id: "perion-network-ltd-ordinary-shares-rss-2c2626ab728d"
 canonical_url: "https://perion.com/product/commerce-media-vs-retail-media-whats-the-difference/"
 published_at: "2026-07-15T09:38:29+00:00"
 first_seen_at: "2026-07-20T23:22:51.777610+00:00"
-fetched_at: "2026-07-28T23:25:21.207430+00:00"
+fetched_at: "2026-07-29T15:20:28.430784+00:00"
 content_hash: "sha256:d8df0b76ddf6226218f81963c9a6bd9f23debec105b4c39257e51bf7d9906e3a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/best-way-to-build-a-mobile-app-that-makes-money-in-2026"
 published_at: "2026-05-20T21:00:12+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:16d3e9824a15ff88322da5d7989a30845fb34211f319f59584e001e2b677aeca"
 ---
 

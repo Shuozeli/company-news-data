@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9ab171d0e4b13ff28338cc545d3d254fa085740ee9661604320d0c3214157985",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/depositary-shs-repstg-1-40th-int-5.875-perp-pfd-ser-e-associated-banc-corp-nyse-asb_pe-declared-a-dividend-of-$0.3672-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/depositary-shs-repstg-1-40th-int-5.875-perp-pfd-ser-e-associated-banc-corp-nyse-asb_pe-declared-a-dividend-of-$0.3672-per-share/"
+  },
+  "title": "ASB_PE Dividend Announcement $0.3672/Share 7/28/2026",
+  "summary": "NYSE:ASB_PE Depositary Shs Repstg 1/40th Int 5.875% Perp Pfd Ser E/Associated Banc-Corp Dividend Announcement $0.3672 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.620758+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/9a/9ab171d0e4b13ff28338cc545d3d254fa085740ee9661604320d0c3214157985/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/9a/9ab171d0e4b13ff28338cc545d3d254fa085740ee9661604320d0c3214157985/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2355,
+    "sha256": "sha256:f01e35d2797f46b7b2153f3b7de98c86b2258984f1df7b12eb9457af9755e457",
+    "normalized_content_hash": "sha256:9c8ad0daaee300f4a9caa61fcb49bcd1f1e78e9cb72b6dbcd21223cd5ea0250d"
+  },
+  "provenance": {
+    "source_item_id": "870099f8-32d1-42ec-9743-c471ef2c1461",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/depositary-shs-repstg-1-40th-int-5.875-perp-pfd-ser-e-associated-banc-corp-nyse-asb_pe-declared-a-dividend-of-$0.3672-per-share/"
+  }
+}

@@ -7,7 +7,7 @@ source_id: "trinity-biotech-plc-american-depositary-shares-rss-6b6858b1b9bc"
 canonical_url: "https://trinitybiotech.com/press-releases/news/trinity-biotech-announces-successful-clinical-results-for-its-enhanced-epicapture-prostate-cancer-test/"
 published_at: "2026-03-23T16:00:23+00:00"
 first_seen_at: "2026-07-24T04:40:06.159898+00:00"
-fetched_at: "2026-07-28T23:50:15.896400+00:00"
+fetched_at: "2026-07-29T15:41:24.201947+00:00"
 content_hash: "sha256:fa9275a99c25cffe73bb19856df7cfd885461bbdac29b14494b30c12ed60557d"
 ---
 

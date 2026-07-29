@@ -7,7 +7,7 @@ source_id: "yc-four-growers-rss-8be8350904ae"
 canonical_url: "https://fourgrowers.com/about/media/lets-farm-to-fork-podcast-brandon-contino-four-growers-ep-42/"
 published_at: "2023-07-13T12:52:47+00:00"
 first_seen_at: "2026-07-25T05:36:06.101502+00:00"
-fetched_at: "2026-07-28T23:19:57.925010+00:00"
+fetched_at: "2026-07-29T15:15:36.699332+00:00"
 content_hash: "sha256:0d4b51db1fcb1320f15354535bd031706889acb7c64b5dfaf5283fd6cbe50512"
 ---
 

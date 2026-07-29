@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 2,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "6ab3adc3f12ddb1ae4dc37089a8ee49a8de12b1485d30f41c48d57a5d00849de",
+      "company_key": "yc-resend",
+      "company_name": "Resend",
+      "source_id": "yc-resend-rss-9474f2be6342",
+      "source_kind": "rss",
+      "canonical_url": "https://resend.com/blog/welcoming-felipe-freitag",
+      "title": "Welcoming Felipe Freitag, our new Software Engineer",
+      "summary": "We're thrilled to share the news that Felipe Freitag is joining Resend.",
+      "published_at": "2026-02-25T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+      "article_path": "articles/v1/78/yc-resend/2026/02/6a/6ab3adc3f12ddb1ae4dc37089a8ee49a8de12b1485d30f41c48d57a5d00849de/article.md",
+      "record_path": "articles/v1/78/yc-resend/2026/02/6a/6ab3adc3f12ddb1ae4dc37089a8ee49a8de12b1485d30f41c48d57a5d00849de/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "295419b69cab41f4ee5f55a20e4fe7d2d0e578ebc4101eb99e4b092590326e3a",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T20:57:45.279486+00:00",
       "article_path": "articles/v1/78/yc-resend/2025/04/5c/5c77ebc50cfc8bc41fef299ab14580360e058a39709408873f5b727e702dbd76/article.md",
       "record_path": "articles/v1/78/yc-resend/2025/04/5c/5c77ebc50cfc8bc41fef299ab14580360e058a39709408873f5b727e702dbd76/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "93e7a5e2f05e9d83f488feec34007483f78422ef5d60ad20c629f4d595fd7aa7",
-      "company_key": "yc-resend",
-      "company_name": "Resend",
-      "source_id": "yc-resend-rss-9474f2be6342",
-      "source_kind": "rss",
-      "canonical_url": "https://resend.com/blog/welcoming-cassio-zen",
-      "title": "Welcoming Cassio Zen, our new Software Engineer",
-      "summary": "We're thrilled to share the news that Cassio Zen is joining Resend.",
-      "published_at": "2025-04-25T00:00:00+00:00",
-      "fetched_at": "2026-07-28T20:57:45.279486+00:00",
-      "article_path": "articles/v1/78/yc-resend/2025/04/93/93e7a5e2f05e9d83f488feec34007483f78422ef5d60ad20c629f4d595fd7aa7/article.md",
-      "record_path": "articles/v1/78/yc-resend/2025/04/93/93e7a5e2f05e9d83f488feec34007483f78422ef5d60ad20c629f4d595fd7aa7/record.json"
     }
   ]
 }

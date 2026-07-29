@@ -6,31 +6,31 @@
     "name": "Evercore Inc. Class A Common Stock"
   },
   "source": {
-    "id": "evercore-inc-class-a-common-stock-news-import-3fbf37355688",
-    "kind": "html"
+    "id": "evercore-inc-class-a-common-stock-rss-195d2cdaf7a7",
+    "kind": "rss"
   },
   "urls": {
-    "observed": "https://evercorewealthandtrust.com/news/q2-2026-market-outlook/",
+    "observed": "https://evercorewealthandtrust.com/news/q2-2026-market-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=q2-2026-market-outlook",
     "canonical": "https://evercorewealthandtrust.com/news/q2-2026-market-outlook/"
   },
-  "title": "Q2 2026 Market Outlook - Evercore Wealth Management",
+  "title": "Q2 2026 Market Outlook",
   "summary": "Q2 2026 delivered exceptionally strong equity market returns, driven primarily by accelerating corporate earnings rather than expanding valuations, with",
-  "published_at": null,
-  "first_seen_at": "2026-07-26T13:49:30.653089+00:00",
-  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
-  "last_updated_at": "2026-07-28T21:18:21.532265+00:00",
+  "published_at": "2026-07-09T15:54:14+00:00",
+  "first_seen_at": "2026-07-29T08:23:54.113138+00:00",
+  "fetched_at": "2026-07-29T08:23:55.001992+00:00",
+  "last_updated_at": "2026-07-29T17:20:41.145954+00:00",
   "paths": {
     "article": "articles/v1/d4/evercore-inc-class-a-common-stock/2026/07/fd/fd4afb6aab38f23e25984ac87a607396214d1c555abce9e7146013d06440e9ef/article.md",
     "record": "articles/v1/d4/evercore-inc-class-a-common-stock/2026/07/fd/fd4afb6aab38f23e25984ac87a607396214d1c555abce9e7146013d06440e9ef/record.json"
   },
   "content": {
     "media_type": "text/markdown; charset=utf-8",
-    "bytes": 1720,
-    "sha256": "sha256:8af8f1100e27804984666cca09ceea48d70cb5b6f29f317e9c96de12df46aa21",
-    "normalized_content_hash": "sha256:3fe9069c6fd4aa038817403bda75a5386bb505bec14e563519493ff6bc92473f"
+    "bytes": 1706,
+    "sha256": "sha256:84906568355c22c36c10fe4519728e03b80f9b8f9b3693adb79d5ca15c80c52f",
+    "normalized_content_hash": "sha256:513863edf34a4adc127bb51a9fcb9f91471a1d4ce0f158d79942714f9f21de99"
   },
   "provenance": {
-    "source_item_id": "00bf1b8c-0e39-44a3-b65c-ec58e9c3187d",
-    "external_id": "https://evercorewealthandtrust.com/news/q2-2026-market-outlook/"
+    "source_item_id": "ed53cf85-0bfc-4638-ae27-e44bd32adbaa",
+    "external_id": "https://stage.evercorewealthandtrust.com/?post_type=news&p=2945"
   }
 }

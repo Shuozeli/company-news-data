@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/final-parking-space/final-parking-space-1974-jeep-cj-5/"
 published_at: "2026-07-14T13:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:f6fb9e0b90a582dc9af387ce3671e22bfe4feccebbd173f54bbc5b8b3ef28dfc"
 ---
 

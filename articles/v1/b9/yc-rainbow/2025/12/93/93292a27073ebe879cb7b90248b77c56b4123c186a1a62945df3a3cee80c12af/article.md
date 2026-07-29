@@ -7,7 +7,7 @@ source_id: "yc-rainbow-atom-0b2ea2826f28"
 canonical_url: "https://github.com/rainbow-me/rainbowkit/releases/tag/%40rainbow-me%2Frainbowkit%402.2.10"
 published_at: "2025-12-07T08:10:49+00:00"
 first_seen_at: "2026-07-25T20:24:22.592367+00:00"
-fetched_at: "2026-07-28T23:05:17.628282+00:00"
+fetched_at: "2026-07-29T14:41:51.125824+00:00"
 content_hash: "sha256:8f9b38072493b968627bdea3167377c71cf1428135e677b44ae85e67fe06d521"
 ---
 

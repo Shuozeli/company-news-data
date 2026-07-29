@@ -4,28 +4,37 @@
     "key": "yc-rejoy-health",
     "name": "Rejoy Health"
   },
-  "record_count": 46,
+  "record_count": 57,
   "first_published_at": "2026-07-24T06:58:15+00:00",
-  "last_published_at": "2026-07-28T08:12:42+00:00",
+  "last_published_at": "2026-07-29T10:16:27+00:00",
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 46
+      "record_count": 57
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
-    "page_count": 1,
+    "page_count": 2,
     "pages": [
       {
         "page": 1,
         "path": "articles/v1/0e/yc-rejoy-health/index/pages/000001.json",
-        "record_count": 46,
-        "byte_count": 67822,
-        "sha256": "sha256:bbb194bec5c6e7ef623e473ee60b365844754cb24d9f0a88f7520144e16b0485",
-        "newest_at": "2026-07-28T08:12:42+00:00",
+        "record_count": 50,
+        "byte_count": 73891,
+        "sha256": "sha256:4e6c3685dd2dcbabf18919fa25d871ea54b3427969d3020a7c820254cec6178b",
+        "newest_at": "2026-07-29T10:16:27+00:00",
+        "oldest_at": "2026-07-24T11:30:47+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/0e/yc-rejoy-health/index/pages/000002.json",
+        "record_count": 7,
+        "byte_count": 10414,
+        "sha256": "sha256:df3df13a38def168d0ec80213b3072795b8c589396110736e82d56210fc4bea8",
+        "newest_at": "2026-07-24T11:20:21+00:00",
         "oldest_at": "2026-07-24T06:58:15+00:00"
       }
     ]

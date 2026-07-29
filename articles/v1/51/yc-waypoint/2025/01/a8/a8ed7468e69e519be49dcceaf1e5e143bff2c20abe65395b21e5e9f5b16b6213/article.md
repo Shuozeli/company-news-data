@@ -7,7 +7,7 @@ source_id: "yc-waypoint-rss-69637758f48b"
 canonical_url: "https://www.usewaypoint.com/changelog/updated-docs/"
 published_at: "2025-01-31T00:00:00+00:00"
 first_seen_at: "2026-07-26T05:13:45.651737+00:00"
-fetched_at: "2026-07-29T00:17:46.376090+00:00"
+fetched_at: "2026-07-29T17:18:33.755300+00:00"
 content_hash: "sha256:faf33e47714b05ab6ff8b5d998e51df85a74c33505df553386132700090b4207"
 ---
 

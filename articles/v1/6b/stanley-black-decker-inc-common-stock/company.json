@@ -4,7 +4,7 @@
     "key": "stanley-black-decker-inc-common-stock",
     "name": "Stanley Black & Decker Inc. Common Stock"
   },
-  "record_count": 7,
+  "record_count": 6,
   "first_published_at": "2026-06-01T20:00:00+00:00",
   "last_published_at": "2026-07-23T20:15:00+00:00",
   "partitions": [
@@ -14,11 +14,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 2
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -26,10 +26,10 @@
       {
         "page": 1,
         "path": "articles/v1/6b/stanley-black-decker-inc-common-stock/index/pages/000001.json",
-        "record_count": 7,
-        "byte_count": 9683,
-        "sha256": "sha256:68c6a80ab96509de1a48be3bad9f4ec5dbd48bea3133d4a316200b251d67730f",
-        "newest_at": "2026-07-24T14:55:56.762291+00:00",
+        "record_count": 6,
+        "byte_count": 8125,
+        "sha256": "sha256:8d62cf6b80458bd70aab6c5dab59f819ad4307bcf097a3b317277a0d6bc9e812",
+        "newest_at": "2026-07-23T20:15:00+00:00",
         "oldest_at": "2026-06-01T20:00:00+00:00"
       }
     ]

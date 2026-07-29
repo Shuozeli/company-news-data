@@ -7,7 +7,7 @@ source_id: "yc-coupl-news-import-096e0dbd56ca"
 canonical_url: "https://coupl.money/blog/live-in-relationship-india-complete-guide"
 published_at: "2026-04-28T00:00:00+00:00"
 first_seen_at: "2026-07-24T03:13:35.479836+00:00"
-fetched_at: "2026-07-28T21:34:41.788697+00:00"
+fetched_at: "2026-07-29T10:12:31.769839+00:00"
 content_hash: "sha256:ad9498e6b2786b7572c29907338c34241fb2ca01c6cc48f74fadfddee5391728"
 ---
 

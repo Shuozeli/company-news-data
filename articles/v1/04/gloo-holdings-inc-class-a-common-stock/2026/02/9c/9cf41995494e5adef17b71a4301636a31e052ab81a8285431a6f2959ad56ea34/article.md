@@ -7,7 +7,7 @@ source_id: "gloo-holdings-inc-class-a-common-stock-news-import-83695c9a4b8a"
 canonical_url: "https://gloo.com/press/releases/gloo-to-present-at-the-citizens-technology-conference"
 published_at: "2026-02-17T00:00:00+00:00"
 first_seen_at: "2026-07-23T10:35:25.165423+00:00"
-fetched_at: "2026-07-28T17:20:13.644649+00:00"
+fetched_at: "2026-07-29T06:09:37.784067+00:00"
 content_hash: "sha256:8acd640c757798b63be76bc7ca32da51a27fa007715128ac5be5348f215abfbb"
 ---
 

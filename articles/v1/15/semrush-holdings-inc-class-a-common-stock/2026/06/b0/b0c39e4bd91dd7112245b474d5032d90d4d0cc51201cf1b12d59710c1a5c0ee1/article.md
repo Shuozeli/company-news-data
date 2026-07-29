@@ -7,7 +7,7 @@ source_id: "semrush-holdings-inc-class-a-common-stock-rss-cf0b72cbbd40"
 canonical_url: "https://semrush.com/461798-semrush-brings-the-brand-visibility-conversation-to-cannes-lions-2026"
 published_at: "2026-06-17T08:47:34+00:00"
 first_seen_at: "2026-07-25T01:12:32.810977+00:00"
-fetched_at: "2026-07-29T00:44:14.590389+00:00"
+fetched_at: "2026-07-29T14:07:19.770216+00:00"
 content_hash: "sha256:42c2c520a63d98071254da22a6f35593eb007b4c1032e48c22c0f83ea2bbf92c"
 ---
 

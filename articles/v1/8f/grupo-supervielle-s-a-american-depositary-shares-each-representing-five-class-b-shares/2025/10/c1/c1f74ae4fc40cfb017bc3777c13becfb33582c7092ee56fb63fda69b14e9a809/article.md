@@ -7,7 +7,7 @@ source_id: "grupo-supervielle-s-a-american-depositary-shares-each-representing-f
 canonical_url: "https://www.gruposupervielle.com/English/news-and-investor-education/news/news-details/2025/Supervielle-Becomes-a-New-Sponsor-of-the-Argentine-National-Soccer-Team/default.aspx"
 published_at: "2025-10-24T04:00:00+00:00"
 first_seen_at: "2026-07-25T07:14:20.769534+00:00"
-fetched_at: "2026-07-28T23:42:41.926637+00:00"
+fetched_at: "2026-07-29T15:37:13.701623+00:00"
 content_hash: "sha256:629015677669c5549a5c56be9388359b763350b009001d70ec0c5f4de7ffeb9c"
 ---
 

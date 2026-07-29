@@ -7,7 +7,7 @@ source_id: "california-bancorp-common-stock-rss-bc29c1f1abbe"
 canonical_url: "https://ir.californiabankofcommerce.com/news/news-details/2026/CALIFORNIA-BANCORP-REPORTS-NET-INCOME-OF-16-4-MILLION-FOR-THE-FOURTH-QUARTER-AND-63-1-MILLION-FOR-THE-FULL-YEAR-OF-2025/default.aspx"
 published_at: "2026-01-28T13:00:00+00:00"
 first_seen_at: "2026-07-26T11:03:24.087872+00:00"
-fetched_at: "2026-07-28T23:08:58.175190+00:00"
+fetched_at: "2026-07-29T14:51:11.543918+00:00"
 content_hash: "sha256:8f077ec4e770b5edcd518a0adb4b7c1e6ea4ebbc1984d9185ff9fc249d581b3b"
 ---
 

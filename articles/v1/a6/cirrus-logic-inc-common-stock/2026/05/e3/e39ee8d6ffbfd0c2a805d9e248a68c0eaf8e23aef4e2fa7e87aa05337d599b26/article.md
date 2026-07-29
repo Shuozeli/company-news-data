@@ -7,7 +7,7 @@ source_id: "cirrus-logic-inc-common-stock-rss-9feb8999e136"
 canonical_url: "https://investor.cirrus.com/news-and-events/investor-news/news-details/2026/Cirrus-Logic-Reports-Fourth-Quarter-Revenue-of-448-5-Million-and-Record-Full-Fiscal-Year-2026-Revenue-of-2-0-Billion/default.aspx"
 published_at: "2026-05-06T20:00:00+00:00"
 first_seen_at: "2026-07-27T00:50:25.802762+00:00"
-fetched_at: "2026-07-29T00:42:28.327588+00:00"
+fetched_at: "2026-07-29T14:07:13.904449+00:00"
 content_hash: "sha256:a318de28b4752b3fa634bc4133f04feb91889bdd9bb9ac5772061cae01aeab52"
 ---
 

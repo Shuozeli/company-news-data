@@ -7,7 +7,7 @@ source_id: "yc-mergent-rss-c4a67b378e23"
 canonical_url: "https://blog.mergent.co/announcing-mergent-teams"
 published_at: "2024-01-17T20:10:14+00:00"
 first_seen_at: "2026-07-25T13:51:58.649676+00:00"
-fetched_at: "2026-07-28T23:24:02.513180+00:00"
+fetched_at: "2026-07-29T15:19:29.450428+00:00"
 content_hash: "sha256:4cffc2c851d3e85ee6d697e087067a09dbc305d32922e455f4a5ac46e1ec587d"
 ---
 

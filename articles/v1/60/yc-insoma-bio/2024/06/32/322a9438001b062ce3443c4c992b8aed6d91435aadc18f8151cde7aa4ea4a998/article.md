@@ -7,7 +7,7 @@ source_id: "yc-insoma-bio-rss-163d5fd47698"
 canonical_url: "https://insomabio.com/dr-heather-brennan-joins-insoma-board-of-directors-2"
 published_at: "2024-06-20T08:00:14+00:00"
 first_seen_at: "2026-07-20T23:24:08.655569+00:00"
-fetched_at: "2026-07-28T23:00:12.975707+00:00"
+fetched_at: "2026-07-29T14:37:13.958598+00:00"
 content_hash: "sha256:bfbbda617c232f95b36dadb1648e4499a62b829a9ac80f9b89b60a230f085245"
 ---
 

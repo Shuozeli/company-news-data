@@ -5,13 +5,13 @@ company_key: "yc-avocado"
 company: "Avocado"
 source_id: "yc-avocado-news-import-38bb8a83867d"
 canonical_url: "https://www.avocadopos.com/blog/what-california-s-adde-menu-act-means-for-restaurants-and-food-trucks-of-different-sizes"
-published_at: null
+published_at: "2025-10-16T00:00:00+00:00"
 first_seen_at: "2026-07-24T18:13:15.302974+00:00"
 fetched_at: "2026-07-28T21:39:52.838477+00:00"
 content_hash: "sha256:3fa21ed3d97191677485459d5a1f0e0caad6cb3352bea21fc0dc2702e5efb1d8"
 ---
 
-# What California’s ADDE Menu Act Means for Restaurants and Food Trucks of Different Sizes - The Avocado - Avocado POS
+# What California’s ADDE Menu Act Means for Restaurants and Food Trucks of Different Sizes
 
 *Who must comply, who’s exempt, and why small operators should still pay attention.*
 

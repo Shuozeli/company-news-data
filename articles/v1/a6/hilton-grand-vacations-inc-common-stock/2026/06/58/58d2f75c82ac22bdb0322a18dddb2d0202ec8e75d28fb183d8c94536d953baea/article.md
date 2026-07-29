@@ -7,7 +7,7 @@ source_id: "hilton-grand-vacations-inc-common-stock-rss-6b09d9d42902"
 canonical_url: "https://corporate.hgv.com/news/news-details/2026/Hilton-Grand-Vacations-Named-One-of-Nations-Best-Adoption-Friendly-Workplaces-by-Dave-Thomas-Foundation-for-Adoption/default.aspx"
 published_at: "2026-06-10T04:00:00+00:00"
 first_seen_at: "2026-07-25T08:07:29.288435+00:00"
-fetched_at: "2026-07-29T00:05:49.192396+00:00"
+fetched_at: "2026-07-29T17:00:28.701053+00:00"
 content_hash: "sha256:f4caa9e24915d7cb5b6235f9993aa3753fda866b4d55df2e3ce124ba7875f74e"
 ---
 

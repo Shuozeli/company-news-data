@@ -7,7 +7,7 @@ source_id: "synaptics-incorporated-common-stock-0-001-par-value-rss-37ccc1913767
 canonical_url: "https://www.synaptics.com/assets/product-brief/displaylink-integrated-chipset/dl-6000"
 published_at: "2026-07-27T17:11:48+00:00"
 first_seen_at: "2026-07-27T18:56:32.293752+00:00"
-fetched_at: "2026-07-29T00:15:50.054198+00:00"
+fetched_at: "2026-07-29T14:23:38.751593+00:00"
 content_hash: "sha256:bb821ff66b4f3634a8181d0a5dd7062c2f4076571232e97e50ed037f0bcb7ea9"
 ---
 

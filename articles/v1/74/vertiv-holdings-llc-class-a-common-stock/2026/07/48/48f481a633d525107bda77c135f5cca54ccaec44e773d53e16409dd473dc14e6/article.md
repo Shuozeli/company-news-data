@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/link/38c78a998993408480e76574efe47e5f.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T23:23:56.894710+00:00"
+fetched_at: "2026-07-29T15:18:57.174384+00:00"
 content_hash: "sha256:0ddef3345780c0d987857165b5aacdaeff993a9f357a83fa06bd3d14eb648e3e"
 ---
 

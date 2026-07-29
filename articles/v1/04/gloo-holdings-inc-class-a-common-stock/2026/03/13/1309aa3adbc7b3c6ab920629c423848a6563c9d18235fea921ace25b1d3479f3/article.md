@@ -7,7 +7,7 @@ source_id: "gloo-holdings-inc-class-a-common-stock-news-import-83695c9a4b8a"
 canonical_url: "https://gloo.com/press/releases/gloo-to-present-at-38th-annual-roth-conference"
 published_at: "2026-03-17T00:00:00+00:00"
 first_seen_at: "2026-07-23T10:35:25.165423+00:00"
-fetched_at: "2026-07-28T17:20:13.644649+00:00"
+fetched_at: "2026-07-29T06:09:37.784067+00:00"
 content_hash: "sha256:1cbf2a8620ac88bdedc87a499a3085c1d731e1b3f8f3a040ddda238d81f3a33a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yeti-holdings-inc-common-stock-rss-7c60e11580ea"
 canonical_url: "https://investors.yeti.com/news/news-details/2026/YETI-Holdings-Inc--Announces-Participation-in-Upcoming-Investor-Conferences-5382132b7/default.aspx"
 published_at: "2026-05-28T12:00:00+00:00"
 first_seen_at: "2026-07-26T06:12:24.049163+00:00"
-fetched_at: "2026-07-28T23:16:59.371731+00:00"
+fetched_at: "2026-07-29T15:07:30.780416+00:00"
 content_hash: "sha256:68d778750e45b4809b1e3246e0c3a13856b45554852e43e58afb334382c3a3b1"
 ---
 

@@ -7,7 +7,7 @@ source_id: "iamgold-corporation-ordinary-shares-rss-524b2db29cae"
 canonical_url: "https://www.iamgold.com/English/investors/news-releases/news-releases-details/2026/IAMGOLD-Provides-Notice-of-First-Quarter-2026-Results-and-Conference-Call/default.aspx"
 published_at: "2026-04-10T21:30:00+00:00"
 first_seen_at: "2026-07-25T08:45:16.333702+00:00"
-fetched_at: "2026-07-29T00:49:47.335702+00:00"
+fetched_at: "2026-07-29T14:19:31.192618+00:00"
 content_hash: "sha256:6c7610dd35c4b496db72874fe6791b875ffcd63444bbdf35d194cb3c2575dc95"
 ---
 

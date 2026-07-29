@@ -7,7 +7,7 @@ source_id: "yc-infinity-news-import-cf26c849fe19"
 canonical_url: "https://www.infinityapp.in/blog/mutual-funds-vs-stocks-for-business-owners"
 published_at: "2024-08-30T00:00:00+00:00"
 first_seen_at: "2026-07-25T09:34:10.825678+00:00"
-fetched_at: "2026-07-28T11:32:33.369115+00:00"
+fetched_at: "2026-07-29T14:40:40.812323+00:00"
 content_hash: "sha256:dbf03bf2fd9bab91ad0ed49e323487605f804386e7ac5bfcf6ea4d6ef562aaba"
 ---
 

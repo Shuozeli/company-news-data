@@ -4,9 +4,9 @@
     "key": "yc-basedash",
     "name": "Basedash"
   },
-  "record_count": 265,
+  "record_count": 266,
   "first_published_at": "2021-06-11T00:00:00+00:00",
-  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2021-06",
@@ -122,11 +122,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 36
+      "record_count": 37
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 6,
@@ -135,54 +135,54 @@
         "page": 1,
         "path": "articles/v1/2d/yc-basedash/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 52049,
-        "sha256": "sha256:c1a85e5c2463cf5860c6c5b0bbe65d8166cd2573a558d73d457bc39a6148bfca",
-        "newest_at": "2026-07-28T00:00:00+00:00",
-        "oldest_at": "2026-06-21T00:00:00+00:00"
+        "byte_count": 51993,
+        "sha256": "sha256:50809409d8f7e8db3ee69fdc2064628e9d0d9149fc4f9bb8dcba008b48ebd96e",
+        "newest_at": "2026-07-29T00:00:00+00:00",
+        "oldest_at": "2026-06-22T00:00:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/2d/yc-basedash/index/pages/000002.json",
         "record_count": 50,
-        "byte_count": 52350,
-        "sha256": "sha256:2ce9f21b1d1de51b2dcec12e07dda6d7b782746a42b45806567ee99e93d3d569",
-        "newest_at": "2026-06-20T00:00:00+00:00",
-        "oldest_at": "2026-05-13T00:00:00+00:00"
+        "byte_count": 52355,
+        "sha256": "sha256:37c38fe4f813a65c8609c29e90363808b74aa5dc1460799e10ad14061573ec1e",
+        "newest_at": "2026-06-21T00:00:00+00:00",
+        "oldest_at": "2026-05-14T00:00:00+00:00"
       },
       {
         "page": 3,
         "path": "articles/v1/2d/yc-basedash/index/pages/000003.json",
         "record_count": 50,
-        "byte_count": 53265,
-        "sha256": "sha256:d05ee8613b68de36669d75608966b4de4d464fce9dda9aef61c11b74ce83ef0e",
-        "newest_at": "2026-05-12T00:00:00+00:00",
-        "oldest_at": "2026-03-25T00:00:00+00:00"
+        "byte_count": 53337,
+        "sha256": "sha256:1471138451b92ba8e1ff01f9af97bc48c39564e1ffc49b707750f966f4fa4147",
+        "newest_at": "2026-05-13T00:00:00+00:00",
+        "oldest_at": "2026-03-26T00:00:00+00:00"
       },
       {
         "page": 4,
         "path": "articles/v1/2d/yc-basedash/index/pages/000004.json",
         "record_count": 50,
-        "byte_count": 53023,
-        "sha256": "sha256:35a1cbf379099f30b5b4126a41aa84445fcd7d034bed1769a1c8c5b68b4603df",
+        "byte_count": 52969,
+        "sha256": "sha256:dd7f3468c5115eddcc4827de4c77a9442b9ba9b096b4977b3b610b8b02bb6f2a",
         "newest_at": "2026-03-25T00:00:00+00:00",
-        "oldest_at": "2025-09-23T00:00:00+00:00"
+        "oldest_at": "2025-10-05T00:00:00+00:00"
       },
       {
         "page": 5,
         "path": "articles/v1/2d/yc-basedash/index/pages/000005.json",
         "record_count": 50,
-        "byte_count": 50896,
-        "sha256": "sha256:1e841b855e52d8a47dfc1cf922a7e7c02cecac4c196b1d1b936b7b4aed41f588",
+        "byte_count": 50984,
+        "sha256": "sha256:69607ba80fe44f5cbf03d30b8e8d6d10e338f81364f1190baf162c67fb0597a3",
         "newest_at": "2025-09-23T00:00:00+00:00",
-        "oldest_at": "2023-10-10T00:00:00+00:00"
+        "oldest_at": "2025-01-31T00:00:00+00:00"
       },
       {
         "page": 6,
         "path": "articles/v1/2d/yc-basedash/index/pages/000006.json",
-        "record_count": 15,
-        "byte_count": 15317,
-        "sha256": "sha256:9d93cb22c3b8f00dadf5ab4bc55e0605ad44a85252055ce696076232e1704cef",
-        "newest_at": "2023-08-02T00:00:00+00:00",
+        "record_count": 16,
+        "byte_count": 16270,
+        "sha256": "sha256:22b2c9125fb033f6ef86d231fa9d23c0c2b4d8f6087f3fa703bfa0f4977a7475",
+        "newest_at": "2023-10-10T00:00:00+00:00",
         "oldest_at": "2021-06-11T00:00:00+00:00"
       }
     ]

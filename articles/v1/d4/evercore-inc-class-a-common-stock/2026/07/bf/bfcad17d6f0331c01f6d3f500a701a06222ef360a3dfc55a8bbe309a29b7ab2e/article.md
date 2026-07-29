@@ -3,15 +3,15 @@ schema_version: "1.0.0"
 document_id: "bfcad17d6f0331c01f6d3f500a701a06222ef360a3dfc55a8bbe309a29b7ab2e"
 company_key: "evercore-inc-class-a-common-stock"
 company: "Evercore Inc. Class A Common Stock"
-source_id: "evercore-inc-class-a-common-stock-news-import-3fbf37355688"
+source_id: "evercore-inc-class-a-common-stock-rss-195d2cdaf7a7"
 canonical_url: "https://evercorewealthandtrust.com/news/justin-miller-to-speak-at-the-2026-estate-planning-for-large-estates-program/"
-published_at: null
-first_seen_at: "2026-07-26T13:49:30.653089+00:00"
-fetched_at: "2026-07-28T21:16:48.751829+00:00"
-content_hash: "sha256:712ce77bd854f35f8830f30b0069bf3dfe09e7c705cea8fc080d453257eb57a0"
+published_at: "2026-07-08T18:41:19+00:00"
+first_seen_at: "2026-07-29T08:23:54.113138+00:00"
+fetched_at: "2026-07-29T08:23:55.001992+00:00"
+content_hash: "sha256:2c2a939ea6fe285cec2fb48c8faed919892bb50437c611fae7b1762990bf46a3"
 ---
 
-# Justin Miller to Speak at the 2026 Estate Planning for Large Estates Program - Evercore Wealth Management
+# Justin Miller to Speak at the 2026 Estate Planning for Large Estates Program
 
 Justin Miller, Partner and National Director of Wealth Planning at Evercore Wealth Management, will be a featured speaker at the 2026 Estate Planning for Large Estates Program.
 
@@ -22,4 +22,4 @@ His presentation, **“QSBS 2.0: Enhanced Opportunities for the Ultra-Wealthy Af
 Topics will include strategies for maximizing capital gain exclusions, the use of non-grantor trusts in QSBS planning, state income tax considerations, and key trust drafting issues.
 
 
-For more information, please contact[\[email protected\]](https://evercorewealthandtrust.com/cdn-cgi/l/email-protection#afd8cacec3dbc7c2cec1cec8cac2cac1dbefcad9caddccc0ddca81ccc0c2) .
+For more information, please contact[\[email protected\]](https://evercorewealthandtrust.com/cdn-cgi/l/email-protection#f88f9d99948c90959996999f9d959d968cb89d8e9d8a9b978a9dd69b9795) .

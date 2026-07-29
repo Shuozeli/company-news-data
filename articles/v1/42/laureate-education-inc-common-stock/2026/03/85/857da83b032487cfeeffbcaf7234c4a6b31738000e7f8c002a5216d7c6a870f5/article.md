@@ -7,7 +7,7 @@ source_id: "laureate-education-inc-common-stock-rss-833bbdd4cd3b"
 canonical_url: "https://investors.laureate.net/news/news-details/2026/Laureate-Education-Announces-Date-of-First-Quarter-2026-Earnings-Release-and-Conference-Call/default.aspx"
 published_at: "2026-03-24T20:15:00+00:00"
 first_seen_at: "2026-07-25T11:45:28.509151+00:00"
-fetched_at: "2026-07-29T00:41:34.461287+00:00"
+fetched_at: "2026-07-29T14:06:11.938336+00:00"
 content_hash: "sha256:cccabe38c4092d653af7a7fc8473dca5ec97b46d6a959fd6ce35ca0f348c69f4"
 ---
 

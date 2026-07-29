@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/tinder/tinders-latest-match-isnt-a-user-its-diesel/"
 published_at: "2026-06-04T20:34:01+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:440e8e29d48bc937077f36d320d0027ee546e5a5c1b5b9bd47641f21565a3ba3"
 ---
 

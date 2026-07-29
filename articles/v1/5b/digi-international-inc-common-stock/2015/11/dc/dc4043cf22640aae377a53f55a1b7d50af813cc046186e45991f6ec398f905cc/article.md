@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/the-next-chapter-in-the-digi-story-connect-with-co"
 published_at: "2015-11-10T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:865f9e34eb07d477f4733948da46e5bdc40f5edbf3ff099f5d6bbd3e7043ae51"
 ---
 

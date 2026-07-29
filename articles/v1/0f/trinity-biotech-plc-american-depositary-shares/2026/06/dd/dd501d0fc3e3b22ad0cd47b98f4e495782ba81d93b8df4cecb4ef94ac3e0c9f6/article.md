@@ -7,7 +7,7 @@ source_id: "trinity-biotech-plc-american-depositary-shares-rss-6b6858b1b9bc"
 canonical_url: "https://trinitybiotech.com/press-releases/news/trinity-biotech-launches-trinovium-to-bring-healthcare-grade-fluid-technology-to-the-rapidly-growing-multi-billion-dollar-ai-data-center-liquid-cooling-market/"
 published_at: "2026-06-23T14:08:57+00:00"
 first_seen_at: "2026-07-24T04:40:06.159898+00:00"
-fetched_at: "2026-07-28T23:50:15.896400+00:00"
+fetched_at: "2026-07-29T15:41:24.201947+00:00"
 content_hash: "sha256:3fc3762218a328f6b4066438d922f947039126c437efd5f0e46e7def95b98c8a"
 ---
 

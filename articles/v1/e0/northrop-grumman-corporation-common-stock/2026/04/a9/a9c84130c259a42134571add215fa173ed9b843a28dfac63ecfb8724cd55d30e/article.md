@@ -7,7 +7,7 @@ source_id: "northrop-grumman-corporation-common-stock-rss-ef10a2a904f8"
 canonical_url: "https://investor.northropgrumman.com/news-releases/news-release-details/northrop-grumman-releases-first-quarter-2026-financial-results"
 published_at: "2026-04-21T11:19:16+00:00"
 first_seen_at: "2026-07-25T16:32:17.291083+00:00"
-fetched_at: "2026-07-28T22:17:38.219613+00:00"
+fetched_at: "2026-07-29T14:22:16.452299+00:00"
 content_hash: "sha256:fb39b22ea9523fb2e47202a76db511a2c2898384e0ad3f891cc9520e7a6cc988"
 ---
 

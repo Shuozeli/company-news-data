@@ -4,9 +4,9 @@
     "key": "lennox-international-inc-common-stock",
     "name": "Lennox International Inc. Common Stock"
   },
-  "record_count": 11,
+  "record_count": 12,
   "first_published_at": "2026-03-04T13:00:00+00:00",
-  "last_published_at": "2026-07-28T12:08:00+00:00",
+  "last_published_at": "2026-07-29T10:45:00+00:00",
   "partitions": [
     {
       "partition": "2026-03",
@@ -26,11 +26,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -38,10 +38,10 @@
       {
         "page": 1,
         "path": "articles/v1/41/lennox-international-inc-common-stock/index/pages/000001.json",
-        "record_count": 11,
-        "byte_count": 13228,
-        "sha256": "sha256:a95833c617c34f68fbde530d4b555dede616f4b883dd192cfaa2b64b191d5322",
-        "newest_at": "2026-07-28T12:08:00+00:00",
+        "record_count": 12,
+        "byte_count": 14382,
+        "sha256": "sha256:1f76da48b0703557c53080f5703f7a27fab6f455709b96ae5c32cf8c024292e2",
+        "newest_at": "2026-07-29T10:45:00+00:00",
         "oldest_at": "2026-03-04T13:00:00+00:00"
       }
     ]

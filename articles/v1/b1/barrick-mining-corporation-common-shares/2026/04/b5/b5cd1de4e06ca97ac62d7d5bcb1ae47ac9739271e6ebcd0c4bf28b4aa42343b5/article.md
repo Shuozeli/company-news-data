@@ -7,7 +7,7 @@ source_id: "barrick-mining-corporation-common-shares-rss-04ef954d86c6"
 canonical_url: "https://www.barrick.com/English/news/news-details/2026/barrick-to-report-first-quarter-2026-results-on-may-11/default.aspx"
 published_at: "2026-04-10T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:16:22.091967+00:00"
-fetched_at: "2026-07-28T23:01:12.069195+00:00"
+fetched_at: "2026-07-29T14:37:43.073143+00:00"
 content_hash: "sha256:8d999ee91da382c54503329f85f369d167e99094ab9702394daee2780e2170b6"
 ---
 

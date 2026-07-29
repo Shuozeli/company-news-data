@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-expands-life-sciences-portfolio-in-kendall-square-in-cambridge-ma"
 published_at: "2022-09-20T11:25:11+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:63b3ed819d800fadbe1c16af15e37b521a98440051cfe086a558a07585b8d66e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/market-trends/hagerty-indexes-trend-upwards-despite-a-picky-market/"
 published_at: "2026-07-23T15:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:ea3ab06052aa9cae1f038933956504bc699f47e13f21080a8ecfbd6f62de0ab0"
 ---
 

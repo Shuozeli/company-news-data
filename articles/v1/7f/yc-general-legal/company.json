@@ -4,17 +4,17 @@
     "key": "yc-general-legal",
     "name": "General Legal"
   },
-  "record_count": 25,
+  "record_count": 31,
   "first_published_at": "2026-04-28T00:00:00+00:00",
   "last_published_at": "2026-04-28T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-04",
-      "record_count": 25
+      "record_count": 31
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,9 +22,9 @@
       {
         "page": 1,
         "path": "articles/v1/7f/yc-general-legal/index/pages/000001.json",
-        "record_count": 25,
-        "byte_count": 25759,
-        "sha256": "sha256:fdad68059c1301be0ce6849288e72456a6888bacd253bb3c498dcb6f35e5a81a",
+        "record_count": 31,
+        "byte_count": 31887,
+        "sha256": "sha256:74e33e0651d652b9a610d81b7f352b103a5ce84f3e81340daea085f08614f363",
         "newest_at": "2026-04-28T00:00:00+00:00",
         "oldest_at": "2026-04-28T00:00:00+00:00"
       }

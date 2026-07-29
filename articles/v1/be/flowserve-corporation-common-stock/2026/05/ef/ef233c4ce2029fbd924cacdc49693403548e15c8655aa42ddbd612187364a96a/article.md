@@ -7,7 +7,7 @@ source_id: "flowserve-corporation-common-stock-rss-41e9b9c7e0cd"
 canonical_url: "https://www.flowserve.com/products/products-catalog/valves/butterfly-valves/batley-valve-bv-36000-cryogenic/"
 published_at: "2026-05-01T14:14:08+00:00"
 first_seen_at: "2026-07-20T23:21:25.534488+00:00"
-fetched_at: "2026-07-28T23:08:16.934407+00:00"
+fetched_at: "2026-07-29T14:51:29.153176+00:00"
 content_hash: "sha256:085803cdbf828dcc223f1f8b46de579b51a70e94a82cc1aa2f704043989cb3aa"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-cratejoy-news-import-dd12a64f4f7a"
 canonical_url: "https://www.cratejoy.com/blogs/box-insider/personalized-diy-craft-projects-for-adults-using-affordable-supplies"
 published_at: "2024-05-08T17:38:29+00:00"
 first_seen_at: "2026-07-21T15:17:11.835732+00:00"
-fetched_at: "2026-07-28T11:18:21.307540+00:00"
+fetched_at: "2026-07-29T14:27:14.696882+00:00"
 content_hash: "sha256:dfb63f80ad520e1dbfdbbce480fa374a81782796e2e9feebf652810cd762f146"
 ---
 

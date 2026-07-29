@@ -7,7 +7,7 @@ source_id: "baycom-corp-common-stock-rss-9032c38160e0"
 canonical_url: "https://baycomcorp.q4ir.com/news-market-information/news/news-details/2025/BayCom-Corp-Reports-2025-Third-Quarter-Earnings-of-5-0-Million/default.aspx"
 published_at: "2025-10-23T20:30:00+00:00"
 first_seen_at: "2026-07-26T10:10:07.257614+00:00"
-fetched_at: "2026-07-28T23:19:41.612149+00:00"
+fetched_at: "2026-07-29T15:09:44.922659+00:00"
 content_hash: "sha256:c23ca2a78404c25ae8b71fe49b927f79e13f4ab8e5f0fedfd2bba3cb765e98d4"
 ---
 

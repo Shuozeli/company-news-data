@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/sei-vs-candor-mortgage-underwriting-ai"
 published_at: "2026-06-10T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:97184485bb67c802d8a4e9e92bc20b19ead997bcb05754369ced737868cd26a6"
 ---
 

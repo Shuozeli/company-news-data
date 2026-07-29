@@ -7,7 +7,7 @@ source_id: "bark-inc-class-a-common-stock-rss-1a677a91965a"
 canonical_url: "https://investors.bark.co/news/news-details/2026/BARK-Appoints-Anya-Hamill-as-Chief-Financial-Officer/default.aspx"
 published_at: "2026-07-28T20:10:00+00:00"
 first_seen_at: "2026-07-28T20:20:33.447876+00:00"
-fetched_at: "2026-07-28T23:04:03.254596+00:00"
+fetched_at: "2026-07-29T14:42:43.269356+00:00"
 content_hash: "sha256:507eaf2fcb31aa8eccee837b4918447c8100758b2a3545c4df29db578b5d01c4"
 ---
 

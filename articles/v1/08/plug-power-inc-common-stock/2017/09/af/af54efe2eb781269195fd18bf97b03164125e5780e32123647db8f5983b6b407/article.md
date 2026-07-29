@@ -7,7 +7,7 @@ source_id: "plug-power-inc-common-stock-rss-15e242ac1693"
 canonical_url: "https://www.plugpower.com/blog/chairman-of-board-buys-into-plug-powers-future-increasing-investment-by-200000-shares/"
 published_at: "2017-09-19T14:00:05+00:00"
 first_seen_at: "2026-07-20T03:31:30.208255+00:00"
-fetched_at: "2026-07-29T00:40:06.818792+00:00"
+fetched_at: "2026-07-29T14:03:31.186117+00:00"
 content_hash: "sha256:839a42ff049a9f3e19076405f569262833c71a8e906d4c76c85015d6234e2a9a"
 ---
 

@@ -4,13 +4,17 @@
     "key": "yc-salarybox",
     "name": "SalaryBox"
   },
-  "record_count": 33,
-  "first_published_at": "2025-12-31T18:09:03+00:00",
-  "last_published_at": "2026-07-28T12:35:34+00:00",
+  "record_count": 52,
+  "first_published_at": "2023-08-12T09:52:11+00:00",
+  "last_published_at": "2026-07-29T10:28:48+00:00",
   "partitions": [
     {
+      "partition": "2023-08",
+      "record_count": 8
+    },
+    {
       "partition": "2025-12",
-      "record_count": 1
+      "record_count": 9
     },
     {
       "partition": "2026-01",
@@ -18,23 +22,32 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 24
+      "record_count": 27
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
-    "page_count": 1,
+    "page_count": 2,
     "pages": [
       {
         "page": 1,
         "path": "articles/v1/64/yc-salarybox/index/pages/000001.json",
-        "record_count": 33,
-        "byte_count": 36639,
-        "sha256": "sha256:9e7b6dd4150194ad814d07ece6041e134e0c742dbcf74fb520ee9446c0a0d3b7",
-        "newest_at": "2026-07-28T12:35:34+00:00",
-        "oldest_at": "2025-12-31T18:09:03+00:00"
+        "record_count": 50,
+        "byte_count": 55382,
+        "sha256": "sha256:327db3892c52a1b8d1d9bfd62f3753dd80662f2cf29e7c247f11d20ae1d12dd2",
+        "newest_at": "2026-07-29T10:28:48+00:00",
+        "oldest_at": "2023-08-12T10:07:40+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/64/yc-salarybox/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 2399,
+        "sha256": "sha256:de4db4f8fb985c9f2cdef15d0259ffa961d783a49166c813d92dd1d283255dff",
+        "newest_at": "2023-08-12T10:01:18+00:00",
+        "oldest_at": "2023-08-12T09:52:11+00:00"
       }
     ]
   }

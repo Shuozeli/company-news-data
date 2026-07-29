@@ -7,7 +7,7 @@ source_id: "j-jill-inc-common-stock-rss-31f8245a526a"
 canonical_url: "https://investors.jjill.com/Investors-Relations/News-Events/News/News-details/2026/J-Jill-Inc--to-Report-Fourth-Quarter-and-Fiscal-Year-2025-Results-on-March-31-2026/default.aspx"
 published_at: "2026-03-12T10:45:00+00:00"
 first_seen_at: "2026-07-25T10:16:14.371289+00:00"
-fetched_at: "2026-07-29T00:13:59.828589+00:00"
+fetched_at: "2026-07-29T17:14:23.975979+00:00"
 content_hash: "sha256:2bfbf228a8dd7a87f7c8cc6dc9867c52e8dd5d7bdccc406c04db14f4d5fd5281"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/paso-a-paso-para-inscribirse-en-el-regimen-simplificado-de-confianza-resico"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:e7cbeecb92f2e4b392e03a290251d955eeff3d990c91ac4e8c2604e7e6860d99"
 ---
 

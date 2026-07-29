@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2018/04/cybernetix-monitoring-solutions-as-a-means-of-driving-cost-efficiency/"
 published_at: "2018-04-06T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-29T00:17:43.124361+00:00"
+fetched_at: "2026-07-29T17:18:57.942752+00:00"
 content_hash: "sha256:072bba71c638687d876261cd1fcc13ff37efc857df80e8418d59dfd5ffcddf0b"
 ---
 

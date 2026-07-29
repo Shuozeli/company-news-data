@@ -7,7 +7,7 @@ source_id: "cpi-aerostructures-inc-common-stock-rss-db509735545a"
 canonical_url: "https://investors.cpiaero.com/events-and-presentations/news/news-details/2026/CPI-Aerostructures-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-03-31T21:50:00+00:00"
 first_seen_at: "2026-07-27T01:19:39.076707+00:00"
-fetched_at: "2026-07-28T23:11:18.177352+00:00"
+fetched_at: "2026-07-29T14:58:16.597507+00:00"
 content_hash: "sha256:3c518e2cab8a42a29a2194aa760b3f6f12f76eba01fcf800047605abc085ea6c"
 ---
 

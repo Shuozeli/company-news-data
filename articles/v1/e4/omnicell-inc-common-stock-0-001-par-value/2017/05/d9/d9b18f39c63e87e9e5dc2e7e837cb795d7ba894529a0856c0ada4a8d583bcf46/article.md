@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2017/Omnicell-Announces-Launch-of-XT-Cabinets-for-AcuDose-Rx-Customers/default.aspx"
 published_at: "2017-05-01T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:756a07721d6c841c54fd30feddcd9a8c696d879cc7406bb056e6c203354b4202"
 ---
 

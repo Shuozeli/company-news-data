@@ -7,7 +7,7 @@ source_id: "cumberland-pharmaceuticals-inc-common-stock-rss-3ab07e3622d9"
 canonical_url: "https://www.cumberlandpharma.com/second-quarter-2025-updates-include-new-clinical-data-financial-momentum/"
 published_at: "2025-08-13T18:28:12+00:00"
 first_seen_at: "2026-07-20T23:19:50.983327+00:00"
-fetched_at: "2026-07-29T00:46:25.939104+00:00"
+fetched_at: "2026-07-29T14:09:43.459682+00:00"
 content_hash: "sha256:6d231879b2e0aeded693b216e2bf6b5d620b811e1fa414baa4cccbf7d580fdd0"
 ---
 

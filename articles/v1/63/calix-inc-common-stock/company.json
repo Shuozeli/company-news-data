@@ -4,9 +4,9 @@
     "key": "calix-inc-common-stock",
     "name": "Calix Inc Common Stock"
   },
-  "record_count": 29,
+  "record_count": 31,
   "first_published_at": "2025-10-20T00:00:00+00:00",
-  "last_published_at": "2026-07-27T13:05:00+00:00",
+  "last_published_at": "2026-07-28T06:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-10",
@@ -22,11 +22,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 20
+      "record_count": 22
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -34,9 +34,9 @@
       {
         "page": 1,
         "path": "articles/v1/63/calix-inc-common-stock/index/pages/000001.json",
-        "record_count": 29,
-        "byte_count": 34344,
-        "sha256": "sha256:ea1b8702c32c88b9d3a1b3f109449cddf067d7e6ea062a999ff5d2adfb263a8f",
+        "record_count": 31,
+        "byte_count": 36519,
+        "sha256": "sha256:dfee9c7e9cf471e875df04773f9f609f07ee087d4a32b49c94a1b916a1eeb805",
         "newest_at": "2026-07-28T21:21:00.620727+00:00",
         "oldest_at": "2025-10-20T00:00:00+00:00"
       }

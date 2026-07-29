@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/market-trends/a-rare-color-set-the-price-on-this-4-6m-carrera-gt/"
 published_at: "2026-07-25T16:00:00+00:00"
 first_seen_at: "2026-07-25T17:12:47.105971+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:7cce6544c816e5e82cff92f0779d878c2a60b306667d8ffde64f403feb3868e9"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-ramen-vr-atom-8d2a75475800"
 canonical_url: "https://zenithmmo.com/blogs/news/updates-to-shard-list-2"
 published_at: "2025-04-03T12:51:29+00:00"
 first_seen_at: "2026-07-25T20:28:01.905287+00:00"
-fetched_at: "2026-07-29T00:17:15.648185+00:00"
+fetched_at: "2026-07-29T17:18:37.437863+00:00"
 content_hash: "sha256:d4c366f373a9edc422cf9c89677dc326b9a8239f736d1717f6e02e3b932431b1"
 ---
 

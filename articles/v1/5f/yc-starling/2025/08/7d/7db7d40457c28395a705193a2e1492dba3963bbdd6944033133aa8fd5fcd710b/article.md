@@ -7,7 +7,7 @@ source_id: "yc-starling-rss-2a8bfdf7d43c"
 canonical_url: "https://starlingmedical.com/2025/08/28/pete-helping-you-break-the-cycle-of-recurring-urinary-tract-infections/"
 published_at: "2025-08-28T19:02:43+00:00"
 first_seen_at: "2026-07-25T01:53:29.741858+00:00"
-fetched_at: "2026-07-28T23:14:51.936097+00:00"
+fetched_at: "2026-07-29T15:04:54.519379+00:00"
 content_hash: "sha256:1e7c43866eb2c33f3daaa53a4d380f05ac7485886a1235db3c321d7a04c2c559"
 ---
 

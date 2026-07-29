@@ -4,9 +4,9 @@
     "key": "yc-mailwarm",
     "name": "Mailwarm"
   },
-  "record_count": 18,
+  "record_count": 19,
   "first_published_at": "2026-06-18T17:07:52.608+00:00",
-  "last_published_at": "2026-07-28T09:10:00.324+00:00",
+  "last_published_at": "2026-07-29T09:41:56.152+00:00",
   "partitions": [
     {
       "partition": "2026-06",
@@ -14,11 +14,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 17
+      "record_count": 18
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -26,10 +26,10 @@
       {
         "page": 1,
         "path": "articles/v1/fe/yc-mailwarm/index/pages/000001.json",
-        "record_count": 18,
-        "byte_count": 18234,
-        "sha256": "sha256:60ea3ff6c4d719ad75db7e33c317ecb64ef7aa39ac245171bf529c238fc7d8f4",
-        "newest_at": "2026-07-28T09:10:00.324+00:00",
+        "record_count": 19,
+        "byte_count": 19245,
+        "sha256": "sha256:465cb3dbbc2d3185d04af682b77129ab1fd984c47751648928e0e635cdd80860",
+        "newest_at": "2026-07-29T09:41:56.152+00:00",
         "oldest_at": "2026-06-18T17:07:52.608+00:00"
       }
     ]

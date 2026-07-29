@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/a-hell-of-a-time-to-be-a-builder"
 published_at: "2026-07-06T13:15:57+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:f492a89fc2c9cb5b22d112a5f8e40a011099a70555ccf98eb42544e58378abbc"
 ---
 

@@ -7,7 +7,7 @@ source_id: "hudbay-minerals-inc-ordinary-shares-canada-rss-c4096adde97b"
 canonical_url: "https://hudbayminerals.com/investors/press-releases/press-release-details/2026/Hudbay-to-Host-Conference-Call-for-Second-Quarter-2026-Results/default.aspx"
 published_at: "2026-07-08T21:00:00+00:00"
 first_seen_at: "2026-07-25T08:33:11.818329+00:00"
-fetched_at: "2026-07-28T23:54:13.555520+00:00"
+fetched_at: "2026-07-29T16:59:14.716248+00:00"
 content_hash: "sha256:35b3b593d0fec642d8bf393a057b3eb5435963ba280271f2a2ede54db46a94ca"
 ---
 

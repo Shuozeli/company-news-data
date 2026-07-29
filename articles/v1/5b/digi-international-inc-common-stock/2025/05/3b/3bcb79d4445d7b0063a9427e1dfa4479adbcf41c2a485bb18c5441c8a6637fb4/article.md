@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/the-explosive-growth-of-iiot-mqtt-is-the-1-choice"
 published_at: "2025-05-20T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:368ed35f1c04f99ece88eb83bf941952bfac09789f866920324ac43c2f1f6fd7"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/causes-of-network-failure-how-retail-businesses-ca"
 published_at: "2026-06-24T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:e38f445b244bd99860da13563b5932c3d840a3a3b29e8bc0e7f3cf4727b256a0"
 ---
 

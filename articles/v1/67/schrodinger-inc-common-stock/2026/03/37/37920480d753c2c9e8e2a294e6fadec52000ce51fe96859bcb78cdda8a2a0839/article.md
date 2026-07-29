@@ -7,7 +7,7 @@ source_id: "schrodinger-inc-common-stock-rss-e652f5c9119f"
 canonical_url: "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-Reports-Inducement-Grants-under-Nasdaq-Listing-Rule-5635c4-a9fe344a4/default.aspx"
 published_at: "2026-03-18T12:30:00+00:00"
 first_seen_at: "2026-07-25T22:22:55.202124+00:00"
-fetched_at: "2026-07-28T22:54:26.480774+00:00"
+fetched_at: "2026-07-29T14:25:17.867763+00:00"
 content_hash: "sha256:9b27dedc2390b7a0eb92dc70d09448969651ddbeaa1352cfd4745caaad68a03a"
 ---
 

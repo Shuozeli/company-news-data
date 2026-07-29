@@ -7,7 +7,7 @@ source_id: "personalis-inc-common-stock-rss-edd5b8439e74"
 canonical_url: "https://www.personalis.com/an-introduction-to-the-personalis-liquid-biopsy-approach/"
 published_at: "2022-05-23T19:49:00+00:00"
 first_seen_at: "2026-07-20T23:22:21.339580+00:00"
-fetched_at: "2026-07-28T23:27:08.590284+00:00"
+fetched_at: "2026-07-29T15:22:21.130717+00:00"
 content_hash: "sha256:01ce6bfd9130dbcba2ab0b3c240977d6b6092b55d5c1256b63c8b7000c4c1811"
 ---
 

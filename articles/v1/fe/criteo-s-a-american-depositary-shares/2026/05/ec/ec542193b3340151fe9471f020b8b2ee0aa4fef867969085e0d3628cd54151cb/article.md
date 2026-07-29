@@ -7,7 +7,7 @@ source_id: "criteo-s-a-american-depositary-shares-rss-02db2411825d"
 canonical_url: "https://medium.com/criteo-engineering/our-experience-at-devoxx-france-2026-8aaf3044f28f"
 published_at: "2026-05-21T07:21:00+00:00"
 first_seen_at: "2026-07-20T23:17:33.645392+00:00"
-fetched_at: "2026-07-29T00:25:12.574821+00:00"
+fetched_at: "2026-07-29T13:53:51.033530+00:00"
 content_hash: "sha256:585652d3049d25befd34ea5c591b23395ca2d71a4981e42d7aaecb7ed6a89b60"
 ---
 

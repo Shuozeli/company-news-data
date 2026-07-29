@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/nuevo-regimen-de-plataformas-tecnologicas"
 published_at: "2022-09-22T16:06:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:ede817fb674372af9836d1a4e67b4a5b538b48c3661cb4e5dd3c1bb0c00d2b57"
 ---
 

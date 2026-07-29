@@ -7,7 +7,7 @@ source_id: "exlservice-holdings-inc-common-stock-rss-1b11157f210b"
 canonical_url: "https://www.exlservice.com/node/22741"
 published_at: "2026-06-15T10:46:11+00:00"
 first_seen_at: "2026-07-20T23:21:56.119882+00:00"
-fetched_at: "2026-07-28T23:53:18.606505+00:00"
+fetched_at: "2026-07-29T17:03:08.689803+00:00"
 content_hash: "sha256:14ef0c71ba357c3af819e977b1c11f20e656aabe72e31a540c4ff2623be40608"
 ---
 

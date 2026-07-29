@@ -7,7 +7,7 @@ source_id: "whirlpool-corporation-common-stock-rss-9b451b6cb451"
 canonical_url: "https://investors.whirlpoolcorp.com/news-and-events/news/news-details/2026/WHIRLPOOL-CORPORATION-RESCHEDULES-SECOND-QUARTER-EARNINGS-RELEASE-TO-AUGUST-3RD-AND-CONFERENCE-CALL-TO-AUGUST-4TH/default.aspx"
 published_at: "2026-07-23T20:15:00+00:00"
 first_seen_at: "2026-07-27T06:37:12.153769+00:00"
-fetched_at: "2026-07-29T00:09:18.484649+00:00"
+fetched_at: "2026-07-29T17:12:40.121021+00:00"
 content_hash: "sha256:43290c9e280cec78def0470d774c3c7eb40e5e37f62508d02f715410298f0928"
 ---
 

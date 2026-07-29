@@ -7,7 +7,7 @@ source_id: "sify-technologies-limited-american-depositary-shares-rss-b8fe5996ed3
 canonical_url: "http://www.sifytechnologies.com/ai-impact-summit/infinitaizen-for-cybersecurity/"
 published_at: "2026-06-22T10:12:38+00:00"
 first_seen_at: "2026-07-20T23:18:32.019434+00:00"
-fetched_at: "2026-07-28T23:49:35.888295+00:00"
+fetched_at: "2026-07-29T15:44:37.491613+00:00"
 content_hash: "sha256:8663bdc2a02b9c40f49412c37c22655360685b317da304af1732d3c3ff387e00"
 ---
 

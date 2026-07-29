@@ -7,7 +7,7 @@ source_id: "first-guaranty-bancshares-inc-common-stock-rss-f3b47bacb082"
 canonical_url: "https://investors.fgb.net/news/news-details/2024/First-Guaranty-Bancshares-Inc.-Announces-Third-Quarter-2024-Financial-Results/default.aspx"
 published_at: "2024-10-31T14:41:00+00:00"
 first_seen_at: "2026-07-27T02:27:09.787603+00:00"
-fetched_at: "2026-07-28T23:51:55.171824+00:00"
+fetched_at: "2026-07-29T17:12:12.850497+00:00"
 content_hash: "sha256:43cee06c41c9f0df775ef2a248b70608015b68098819a718810eee1d4b7d58fa"
 ---
 

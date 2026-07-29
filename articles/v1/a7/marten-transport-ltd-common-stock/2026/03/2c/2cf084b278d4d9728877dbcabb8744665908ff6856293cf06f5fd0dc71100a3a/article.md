@@ -7,7 +7,7 @@ source_id: "marten-transport-ltd-common-stock-rss-e255c44019c3"
 canonical_url: "https://www.marten.com/transporter/q1-transporter-17/"
 published_at: "2026-03-11T18:05:26+00:00"
 first_seen_at: "2026-07-25T01:12:17.514235+00:00"
-fetched_at: "2026-07-29T00:45:41.110712+00:00"
+fetched_at: "2026-07-29T14:09:38.851522+00:00"
 content_hash: "sha256:03b371c840314c74355eb14efd3066dd9a879e2c5622a1728bb7ecee8cc855e2"
 ---
 

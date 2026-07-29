@@ -7,7 +7,7 @@ source_id: "integer-holdings-corporation-common-stock-rss-3c583142efbf"
 canonical_url: "https://www.integer.net/news-and-events/news-details/2026/Integer-Appoints-James-Flanagan-and-Aaron-Kapito-to-Board-of-Directors/default.aspx"
 published_at: "2026-03-12T12:00:00+00:00"
 first_seen_at: "2026-07-25T09:38:33.729133+00:00"
-fetched_at: "2026-07-29T00:41:35.205424+00:00"
+fetched_at: "2026-07-29T14:07:07.018870+00:00"
 content_hash: "sha256:3daccc5ecdd9e721d361838eb8c1f8161efd4dc5f5b1533ef698671a3e0162f2"
 ---
 

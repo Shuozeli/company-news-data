@@ -7,7 +7,7 @@ source_id: "automatic-data-processing-inc-common-stock-rss-53b9cd362f71"
 canonical_url: "https://mediacenter.adp.com/2026-05-07-ADP-to-Present-at-Upcoming-Investor-Conferences"
 published_at: "2026-05-07T12:00:00+00:00"
 first_seen_at: "2026-07-20T04:35:27.491401+00:00"
-fetched_at: "2026-07-28T23:40:01.706271+00:00"
+fetched_at: "2026-07-29T15:34:18.786626+00:00"
 content_hash: "sha256:1be1ad907390c1e7db0df16a64ba18861be17b1a12f8a2d912f013e31c60caad"
 ---
 

@@ -4,21 +4,29 @@
     "key": "yc-avocado",
     "name": "Avocado"
   },
-  "record_count": 10,
-  "first_published_at": "2025-11-01T00:00:00+00:00",
-  "last_published_at": "2026-07-01T00:00:00+00:00",
+  "record_count": 12,
+  "first_published_at": "2025-08-25T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
-      "partition": "2025-11",
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
       "record_count": 1
     },
     {
+      "partition": "2025-10",
+      "record_count": 4
+    },
+    {
       "partition": "2026-07",
-      "record_count": 9
+      "record_count": 5
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -26,11 +34,11 @@
       {
         "page": 1,
         "path": "articles/v1/31/yc-avocado/index/pages/000001.json",
-        "record_count": 10,
-        "byte_count": 11247,
-        "sha256": "sha256:a2f8002843cd513695c1f16015ba40c6ba9de962fd76df3f5907b1ee110a55ef",
-        "newest_at": "2026-07-28T21:39:52.838477+00:00",
-        "oldest_at": "2025-11-01T00:00:00+00:00"
+        "record_count": 12,
+        "byte_count": 13234,
+        "sha256": "sha256:89b2b1cb10f8fcdfb9ba224d70d2dbec7d456f62da981d30942e079f15a19dbf",
+        "newest_at": "2026-07-29T00:00:00+00:00",
+        "oldest_at": "2025-08-25T00:00:00+00:00"
       }
     ]
   }

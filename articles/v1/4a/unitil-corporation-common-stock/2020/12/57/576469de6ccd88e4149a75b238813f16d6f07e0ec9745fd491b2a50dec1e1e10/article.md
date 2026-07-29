@@ -7,7 +7,7 @@ source_id: "unitil-corporation-common-stock-rss-b52a37baddee"
 canonical_url: "https://unitil.com/account-billing"
 published_at: "2020-12-03T22:19:31+00:00"
 first_seen_at: "2026-07-20T23:22:29.081518+00:00"
-fetched_at: "2026-07-28T23:09:53.129731+00:00"
+fetched_at: "2026-07-29T14:54:27.784164+00:00"
 content_hash: "sha256:646b33e85f841c72bc202ac6ae9d62e8cb673ce3847419afc5c58bccbf6be340"
 ---
 

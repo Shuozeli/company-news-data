@@ -7,7 +7,7 @@ source_id: "danaher-corporation-common-stock-rss-baeab7bd386b"
 canonical_url: "https://investors.danaher.com/2026-06-10-Danaher-Completes-Acquisition-of-Masimo-Corporation"
 published_at: "2026-06-10T12:55:00+00:00"
 first_seen_at: "2026-07-20T03:32:45.140623+00:00"
-fetched_at: "2026-07-28T23:34:39.620039+00:00"
+fetched_at: "2026-07-29T15:30:14.901077+00:00"
 content_hash: "sha256:f13b54d7e5fc76641cd629a3a7ed3b6b5385094e13965c4636fcb4affe57691e"
 ---
 

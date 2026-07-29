@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/hagerty-community/according-to-you-the-coolest-engine-names/"
 published_at: "2026-07-13T21:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:705783fca103f8baaccda3ac5632c24b6710ee573ea61248494518c4e5128f87"
 ---
 

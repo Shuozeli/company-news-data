@@ -7,7 +7,7 @@ source_id: "tsakos-energy-navigation-ltd-common-shares-rss-de2a2f5a42c3"
 canonical_url: "https://www.tenn.gr/dr-nikolas-p-tsakos-video-2025/"
 published_at: "2025-10-31T10:29:30+00:00"
 first_seen_at: "2026-07-20T23:18:34.965179+00:00"
-fetched_at: "2026-07-29T00:29:53.385856+00:00"
+fetched_at: "2026-07-29T13:56:26.759201+00:00"
 content_hash: "sha256:19bd4dec80279882c5aa9378b1a56fbb3a6cc21f6c576619cc34e99d696c43fb"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-darmiyan-rss-75d14ada5252"
 canonical_url: "https://darmiyan.com/2022/06/23/darmiyan-ceo-was-selected-by-fortune-40-under-40/"
 published_at: "2022-06-23T06:39:03+00:00"
 first_seen_at: "2026-07-25T00:19:27.782832+00:00"
-fetched_at: "2026-07-28T23:13:09.911033+00:00"
+fetched_at: "2026-07-29T15:00:35.759686+00:00"
 content_hash: "sha256:d12ef47582fc2a628947d06d0704544f2aa6de051b371bdc15d4c619b39a2a25"
 ---
 

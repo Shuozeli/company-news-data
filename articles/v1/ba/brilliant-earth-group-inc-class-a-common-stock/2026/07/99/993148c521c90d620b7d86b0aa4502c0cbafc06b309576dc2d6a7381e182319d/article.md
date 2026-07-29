@@ -7,7 +7,7 @@ source_id: "brilliant-earth-group-inc-class-a-common-stock-news-import-bc3d249b1
 canonical_url: "https://www.brilliantearth.com/news/engagement-ring-trends/"
 published_at: "2026-07-24T16:00:25.415+00:00"
 first_seen_at: "2026-07-26T08:02:28.933146+00:00"
-fetched_at: "2026-07-28T11:14:47.793271+00:00"
+fetched_at: "2026-07-29T14:24:47.270005+00:00"
 content_hash: "sha256:f797fd0b249bbba766d1aa274822a100e4975c2509238eac87d3683944d759f2"
 ---
 

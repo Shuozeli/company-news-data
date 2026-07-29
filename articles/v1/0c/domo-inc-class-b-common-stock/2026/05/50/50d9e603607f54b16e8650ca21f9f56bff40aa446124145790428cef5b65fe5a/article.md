@@ -7,7 +7,7 @@ source_id: "domo-inc-class-b-common-stock-rss-298bf834a3f7"
 canonical_url: "https://www.domoinvestors.com/news/news-details/2026/Domo-Ranked-a-Top-Vendor-in-Dresner-Advisory-Services-2026-Cloud-BI-Report/default.aspx"
 published_at: "2026-05-12T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:15:23.455293+00:00"
-fetched_at: "2026-07-29T00:50:19.785669+00:00"
+fetched_at: "2026-07-29T14:20:31.919281+00:00"
 content_hash: "sha256:7a9110bc5d5122c9297f6cede09d44aaace13ac3df3de1f1ad629cfeddb8dd1e"
 ---
 

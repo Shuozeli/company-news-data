@@ -5,10 +5,10 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html"
-published_at: "2026-07-28T21:39:52+00:00"
+published_at: "2026-07-29T02:05:12+00:00"
 first_seen_at: "2026-07-28T23:55:50.418024+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
-content_hash: "sha256:d1348f05a65ec1ac28791e099b768860bd6a9c18226405eea3b1059b697bd09f"
+fetched_at: "2026-07-29T09:49:52.392820+00:00"
+content_hash: "sha256:6d1582377ae2d3c53d4c2db6dbc86f73909b32943746053296c9246726b53a29"
 ---
 
 # Iran Considered Retaliatory Strike on Ukrainian Seaport

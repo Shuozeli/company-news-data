@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/7-dental-technology-trends-defining-practices-in-2026"
 published_at: "2026-07-13T12:00:33.907+00:00"
 first_seen_at: "2026-07-24T08:23:01.167291+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:fd5eaebf5db2ec4062903153150e27d81c959bbd7c9499394d8b7a7610620fb0"
 ---
 

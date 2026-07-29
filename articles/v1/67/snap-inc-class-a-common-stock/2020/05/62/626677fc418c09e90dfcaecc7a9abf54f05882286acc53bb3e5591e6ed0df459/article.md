@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/dont-rewrite-your-app-unless-you-have-to"
 published_at: "2020-05-07T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T23:22:34.016732+00:00"
+fetched_at: "2026-07-29T15:16:23.251342+00:00"
 content_hash: "sha256:f37794527601112f50e2b3a3cffd0aa2b5a261b31ae98812eff2f1f670422f96"
 ---
 

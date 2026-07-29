@@ -4,17 +4,17 @@
     "key": "bank-of-america-corporation-common-stock",
     "name": "Bank of America Corporation Common Stock"
   },
-  "record_count": 20,
+  "record_count": 21,
   "first_published_at": null,
   "last_published_at": null,
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 20
+      "record_count": 21
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/3e/bank-of-america-corporation-common-stock/index/pages/000001.json",
-        "record_count": 20,
-        "byte_count": 29377,
-        "sha256": "sha256:77c36fd0833290966c21fb263cc8cac1264256b11e0c2ddd81b0fd026c87c640",
-        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "record_count": 21,
+        "byte_count": 31038,
+        "sha256": "sha256:58239721d05f7e5ab1b07867f03f0ac79968dfa12fa24c720954a4e938273a8e",
+        "newest_at": "2026-07-29T13:47:01.218268+00:00",
         "oldest_at": "2026-07-28T21:37:36.757263+00:00"
       }
     ]

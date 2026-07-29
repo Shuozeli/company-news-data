@@ -7,7 +7,7 @@ source_id: "zto-express-cayman-inc-american-depositary-shares-each-representing-
 canonical_url: "https://zto.investorroom.com/2026-06-16-ZTO-Express-Announces-Results-of-Annual-General-Meeting"
 published_at: "2026-06-16T11:00:00+00:00"
 first_seen_at: "2026-07-24T08:15:57.664718+00:00"
-fetched_at: "2026-07-29T00:14:10.146232+00:00"
+fetched_at: "2026-07-29T17:15:20.668420+00:00"
 content_hash: "sha256:ef91452b91de8d32c7c60eab4057cf0cce3c0d9e917d8aa89c893503e92a06fb"
 ---
 

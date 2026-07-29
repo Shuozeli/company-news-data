@@ -7,7 +7,7 @@ source_id: "yc-pump-co-news-import-86a46b79533f"
 canonical_url: "https://www.pump.co/blog/google-cloud-armor/"
 published_at: "2026-02-09T00:00:00+00:00"
 first_seen_at: "2026-07-25T20:15:23.871807+00:00"
-fetched_at: "2026-07-28T11:48:07.834159+00:00"
+fetched_at: "2026-07-29T14:52:31.762897+00:00"
 content_hash: "sha256:7b1ba5586308c3e188ef5c6f8521d4a64e78d320c13fe16a712a126e2d8400a2"
 ---
 

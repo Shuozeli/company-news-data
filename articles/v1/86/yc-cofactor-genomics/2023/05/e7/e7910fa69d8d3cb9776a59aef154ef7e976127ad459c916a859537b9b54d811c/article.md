@@ -7,7 +7,7 @@ source_id: "yc-cofactor-genomics-rss-8d01d31e56b4"
 canonical_url: "https://www.businesswire.com/news/home/20230509005472/en/Culmination-Bio-and-Cofactor-Genomics-Leverage-Largest-Biobank-in-the-U.S.-for-PREDAPT-Precision-Medicine-Clinical-Trial"
 published_at: "2023-05-09T23:40:32+00:00"
 first_seen_at: "2026-07-20T23:20:23.761393+00:00"
-fetched_at: "2026-07-29T00:46:25.304151+00:00"
+fetched_at: "2026-07-29T14:09:29.897383+00:00"
 content_hash: "sha256:ff76cf2891b886d9e1b4a607ce8641d0512bab4140c8faf4dc107bb32e81f0fc"
 ---
 

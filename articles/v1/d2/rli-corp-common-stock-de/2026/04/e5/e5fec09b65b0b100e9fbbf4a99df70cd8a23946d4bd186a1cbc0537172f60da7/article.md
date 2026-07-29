@@ -7,7 +7,7 @@ source_id: "rli-corp-common-stock-de-rss-553b3a825643"
 canonical_url: "https://investors.rlicorp.com/news/news-details/2026/RLI-Announces-Claim-Leadership-Promotions/default.aspx"
 published_at: "2026-04-01T20:15:00+00:00"
 first_seen_at: "2026-07-25T21:37:10.409954+00:00"
-fetched_at: "2026-07-28T22:53:29.344544+00:00"
+fetched_at: "2026-07-29T14:23:29.232668+00:00"
 content_hash: "sha256:af0ee3329596a0e345a65a4bc01b99808b14a5e1b8be553f08d5f92f1be53bbd"
 ---
 

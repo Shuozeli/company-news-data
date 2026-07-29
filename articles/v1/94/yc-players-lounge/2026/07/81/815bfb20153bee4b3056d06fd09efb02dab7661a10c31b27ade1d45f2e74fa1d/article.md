@@ -7,7 +7,7 @@ source_id: "yc-players-lounge-news-import-68d148ea6bb2"
 canonical_url: "https://www.playerslounge.com/blog/nba2k26-is-30-percent-off"
 published_at: null
 first_seen_at: "2026-07-23T20:45:53.392710+00:00"
-fetched_at: "2026-07-28T15:09:19.351622+00:00"
+fetched_at: "2026-07-29T04:15:54.707542+00:00"
 content_hash: "sha256:bb7b13857e58ab09f22bf817add198f4074a4bb85d5549d7c64f9b18e0d4838b"
 ---
 

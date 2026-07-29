@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2024/04/how-line-creative-lab-built-an-adobe-express-integration-with-the-embed-sdk"
 published_at: "2024-05-13T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:cf691f4b9a720715f5213f43e894b14f153316f64a1e7796e7f02fdb319c2937"
 ---
 

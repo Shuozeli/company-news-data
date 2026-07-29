@@ -7,7 +7,7 @@ source_id: "united-rentals-inc-common-stock-rss-4e2df8fb3ae6"
 canonical_url: "https://investors.unitedrentals.com/press-releases/press-releases-details/2026/United-Rentals-Expands-Digital-Customer-Experience-with-Equipment-Agent-Launch-in-ChatGPT/default.aspx"
 published_at: "2026-05-20T00:10:00+00:00"
 first_seen_at: "2026-07-26T03:44:40.223060+00:00"
-fetched_at: "2026-07-29T00:50:23.960931+00:00"
+fetched_at: "2026-07-29T14:20:33.907616+00:00"
 content_hash: "sha256:e28daabc003bcc23451280712af2bd3312856392d7459e4ba225e9d0f1c38d80"
 ---
 

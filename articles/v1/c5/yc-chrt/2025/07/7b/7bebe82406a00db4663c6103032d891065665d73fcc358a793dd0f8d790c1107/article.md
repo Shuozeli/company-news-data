@@ -7,7 +7,7 @@ source_id: "yc-chrt-rss-2d0a5d97a4f2"
 canonical_url: "https://chrt.org/2025/07/interview-with-john-rodriguez-chrts-new-communications-manager/"
 published_at: "2025-07-31T14:44:33+00:00"
 first_seen_at: "2026-07-27T08:33:17.895938+00:00"
-fetched_at: "2026-07-28T23:11:31.547398+00:00"
+fetched_at: "2026-07-29T10:46:22.779860+00:00"
 content_hash: "sha256:7ccfd71eae1300cc9be9dd4f3670b1e0c57cb9229c6db56882366d5e864e3251"
 ---
 

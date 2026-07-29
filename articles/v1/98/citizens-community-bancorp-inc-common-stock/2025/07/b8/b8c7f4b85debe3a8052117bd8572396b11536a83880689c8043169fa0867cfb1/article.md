@@ -7,7 +7,7 @@ source_id: "citizens-community-bancorp-inc-common-stock-rss-3e6c10d95bac"
 canonical_url: "https://investor.ccf.us/news-events/news-releases/news-details/2025/Citizens-Community-Bancorp-Inc--Reports-Second-Quarter-2025-Earnings-of-0-33-Per-Share-Board-of-Directors-Authorize-5-Stock-Buyback-Authorization/default.aspx"
 published_at: "2025-07-28T12:30:00+00:00"
 first_seen_at: "2026-07-27T00:54:31.617879+00:00"
-fetched_at: "2026-07-29T00:41:11.598667+00:00"
+fetched_at: "2026-07-29T14:05:59.734804+00:00"
 content_hash: "sha256:b2baae477f354654782f701f07cf0862283926fcbc54fa6ad21564d8a31d8ed4"
 ---
 

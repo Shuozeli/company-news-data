@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2019/08/technipfmc-opens-new-speers-facility-to-accommodate-business-growth/"
 published_at: "2019-08-01T01:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-29T00:17:43.124361+00:00"
+fetched_at: "2026-07-29T17:18:57.942752+00:00"
 content_hash: "sha256:8d5ff53ec58e766125d7b6fc4e51c0c331226f360bc849a911d237247c8daa20"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2022/digi-names-guy-yehiav-president-of-smartsense"
 published_at: "2022-02-01T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:d3c43c5e19dc3637c6eaba4a75d713b6eb180b57a7f69913e16ad4f47ba79023"
 ---
 

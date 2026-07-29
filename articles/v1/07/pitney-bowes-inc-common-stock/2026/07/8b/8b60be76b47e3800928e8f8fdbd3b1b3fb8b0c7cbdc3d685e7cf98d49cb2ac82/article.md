@@ -7,7 +7,7 @@ source_id: "pitney-bowes-inc-common-stock-news-import-dfaa9c6403ce"
 canonical_url: "https://www.pitneybowes.com/us/blog/shipping.html"
 published_at: null
 first_seen_at: "2026-07-25T19:17:04.982426+00:00"
-fetched_at: "2026-07-28T21:51:45.437859+00:00"
+fetched_at: "2026-07-29T10:24:21.393364+00:00"
 content_hash: "sha256:555dbddeb2b6e5cfeed1348850d698bb6a94d91fa709e847a3310478e03e4a8d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2023/digi-launches-connectcore-cloud-security-services"
 published_at: "2023-01-18T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:d4742ccd2c512dd18df73f6b989885d1f7f4e375c3c3319cf08b54af558be77a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "aurora-innovation-inc-class-a-common-stock-rss-b929390c0bbe"
 canonical_url: "https://www.axios.com/sponsored/the-link-between-autonomous-trucks-and-your-grocery-bill"
 published_at: "2026-05-07T19:50:39+00:00"
 first_seen_at: "2026-07-25T01:09:45.755868+00:00"
-fetched_at: "2026-07-29T00:35:55.516401+00:00"
+fetched_at: "2026-07-29T14:00:50.717575+00:00"
 content_hash: "sha256:c5cfc56ad8d10309830c0d00ce4ebacfa42ffb7aa85951feb45b6b24115c7c43"
 ---
 

@@ -7,7 +7,7 @@ source_id: "energys-group-limited-ordinary-shares-rss-4a3862782526"
 canonical_url: "https://energys.investorroom.com/Press-Releases?item=17"
 published_at: "2025-04-02T17:32:00+00:00"
 first_seen_at: "2026-07-25T02:23:38.130551+00:00"
-fetched_at: "2026-07-28T23:05:38.379657+00:00"
+fetched_at: "2026-07-29T14:43:24.232794+00:00"
 content_hash: "sha256:893f8eda805a745775d3231128fb0e540a9d259741a370630c3f91277e40d896"
 ---
 

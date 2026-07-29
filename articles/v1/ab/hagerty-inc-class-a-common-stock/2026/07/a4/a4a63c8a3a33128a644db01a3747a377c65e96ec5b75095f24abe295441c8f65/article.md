@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/range-rover-gt-preview-styling/"
 published_at: "2026-07-22T14:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:0f4ad05f2f8631ebf0107d30291e3e558a4cf022fef09273082608a7c42d3f1d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-trypillar-rss-79c93837c076"
 canonical_url: "https://trypillar.com/blog/our-story"
 published_at: "2026-01-10T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:02.957437+00:00"
-fetched_at: "2026-07-28T22:17:13.619015+00:00"
+fetched_at: "2026-07-29T14:22:41.747670+00:00"
 content_hash: "sha256:3e13485e653769c128d8e63f50325848d8897e1e0948ca2d578622f71ff91442"
 ---
 

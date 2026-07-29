@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/our-first-press-release-mentra-releases-first-smart-glasses-with-an-app-store"
 published_at: "2026-01-15T15:00:02+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T23:47:18.716244+00:00"
+fetched_at: "2026-07-29T15:41:05.701886+00:00"
 content_hash: "sha256:8e99b58d29c625270b372bede82035dbc40e1cc3b7349887a688e4b283e523f1"
 ---
 

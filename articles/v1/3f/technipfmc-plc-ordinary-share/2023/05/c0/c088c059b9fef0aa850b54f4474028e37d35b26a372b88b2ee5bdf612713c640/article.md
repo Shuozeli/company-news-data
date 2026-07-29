@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-major-iepci-contract-by-equinor-for-bm-c-33-project-in-brazil/"
 published_at: "2023-05-11T01:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-29T00:26:14.657354+00:00"
+fetched_at: "2026-07-29T17:23:25.881224+00:00"
 content_hash: "sha256:d9977ae8909c7529cf6b1429da895555dd1e590ce40ea78b5a0bffda7142c4e2"
 ---
 

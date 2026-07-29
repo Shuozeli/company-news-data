@@ -4,9 +4,9 @@
     "key": "federal-signal-corporation-common-stock",
     "name": "Federal Signal Corporation Common Stock"
   },
-  "record_count": 10,
+  "record_count": 11,
   "first_published_at": "2026-01-16T18:36:27+00:00",
-  "last_published_at": "2026-07-16T19:56:31+00:00",
+  "last_published_at": "2026-07-28T12:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-01",
@@ -26,11 +26,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 1
+      "record_count": 2
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -38,10 +38,10 @@
       {
         "page": 1,
         "path": "articles/v1/d8/federal-signal-corporation-common-stock/index/pages/000001.json",
-        "record_count": 10,
-        "byte_count": 12351,
-        "sha256": "sha256:fcd16a9717aaa20fbf5a3f415820a4d6eb469222e10052d883d519834abbe769",
-        "newest_at": "2026-07-16T19:56:31+00:00",
+        "record_count": 11,
+        "byte_count": 13473,
+        "sha256": "sha256:0d0cb5a2a49afbb80e8a200c4dc78587b47652c67cfa92dd71edc3ba208aaecf",
+        "newest_at": "2026-07-28T12:00:00+00:00",
         "oldest_at": "2026-01-16T18:36:27+00:00"
       }
     ]

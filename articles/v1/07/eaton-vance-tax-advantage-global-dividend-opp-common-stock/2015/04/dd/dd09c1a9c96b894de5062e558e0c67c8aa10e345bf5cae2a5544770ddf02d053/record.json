@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd09c1a9c96b894de5062e558e0c67c8aa10e345bf5cae2a5544770ddf02d053",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/saba-closed-end-fds-etf-exchange-listed-funds-trust-bats-cefs-declared-a-dividend-of-$0.1400-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/saba-closed-end-fds-etf-exchange-listed-funds-trust-bats-cefs-declared-a-dividend-of-$0.1400-per-share/"
+  },
+  "title": "CEFS Dividend Announcement $0.1400/Share 7/28/2026",
+  "summary": "BATS:CEFS Saba Closed-End Fds ETF/Exchange Listed Funds Trust Dividend Announcement $0.1400 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.634340+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/dd/dd09c1a9c96b894de5062e558e0c67c8aa10e345bf5cae2a5544770ddf02d053/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/dd/dd09c1a9c96b894de5062e558e0c67c8aa10e345bf5cae2a5544770ddf02d053/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1568,
+    "sha256": "sha256:4198b06a0b54546513a114cd6ea8b53d5de47414f8915939c0ed22c6cba540f7",
+    "normalized_content_hash": "sha256:920e5acd197566eaa114065287a68f40ccd0e6c9af632cd4bff3a3e07949e5fb"
+  },
+  "provenance": {
+    "source_item_id": "f1b82ce3-1da3-45fe-bf5b-dfed390d0271",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/saba-closed-end-fds-etf-exchange-listed-funds-trust-bats-cefs-declared-a-dividend-of-$0.1400-per-share/"
+  }
+}

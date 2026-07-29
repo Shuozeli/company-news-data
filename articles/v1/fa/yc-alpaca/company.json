@@ -4,9 +4,9 @@
     "key": "yc-alpaca",
     "name": "Alpaca"
   },
-  "record_count": 36,
+  "record_count": 37,
   "first_published_at": "2022-03-09T19:40:00+00:00",
-  "last_published_at": "2026-07-28T13:00:45+00:00",
+  "last_published_at": "2026-07-29T13:00:26+00:00",
   "partitions": [
     {
       "partition": "2022-03",
@@ -62,11 +62,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 10
+      "record_count": 11
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -74,10 +74,10 @@
       {
         "page": 1,
         "path": "articles/v1/fa/yc-alpaca/index/pages/000001.json",
-        "record_count": 36,
-        "byte_count": 38362,
-        "sha256": "sha256:c8dc4a5f066b7095baaa6fb62ad88f32092972e2a915a06e3a64655b34510565",
-        "newest_at": "2026-07-28T13:00:45+00:00",
+        "record_count": 37,
+        "byte_count": 39412,
+        "sha256": "sha256:e2ba4970872d1f6fc27fbcb5d3a128ea5c4ad9ea740723f0dd551b9aa70a9caf",
+        "newest_at": "2026-07-29T13:00:26+00:00",
         "oldest_at": "2022-03-09T19:40:00+00:00"
       }
     ]

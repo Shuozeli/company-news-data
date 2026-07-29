@@ -7,7 +7,7 @@ source_id: "funko-inc-class-a-common-stock-rss-cd6b2a8e8083"
 canonical_url: "https://investor.funko.com/news-and-events/press-releases/Press-Releases/2026/Funko-To-Announce-2026-First-Quarter-Financial-Results-and-Host-Video-Webcast-On-Thursday-May-7-2026/default.aspx"
 published_at: "2026-04-22T10:57:00+00:00"
 first_seen_at: "2026-07-25T05:58:51.373067+00:00"
-fetched_at: "2026-07-29T00:15:01.335432+00:00"
+fetched_at: "2026-07-29T17:19:02.546935+00:00"
 content_hash: "sha256:b157a1b39695d0654e70a366dfccb6e0d3da0a7e3bd28b1a3707a2c9c19f1785"
 ---
 

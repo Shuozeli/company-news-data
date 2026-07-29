@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2025/2025-Stifel-JD-Power-Advisor-Satisfaction-Study.pdf"
 published_at: "2025-07-16T15:10:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:78dcfe971af67ff8ebf01ee21d310133e6d48dcd1ecfd709fc4b431aaaf72bb7"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-capitol-ai-news-import-f6452f568795"
 canonical_url: "https://www.capitol.ai/blog/losses-vs-growth-tech%E2%80%99s-past-reveals-its-future-when-it-comes-to-ai-jobs"
 published_at: "2026-03-11T00:00:00+00:00"
 first_seen_at: "2026-07-23T04:42:41.632332+00:00"
-fetched_at: "2026-07-28T11:13:23.646323+00:00"
+fetched_at: "2026-07-29T14:24:04.055144+00:00"
 content_hash: "sha256:5ea913234a194b453ae46db75a18f2e9c777aef36955bb37e1890521a5acee2b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-gusto-news-import-a18fb5381575"
 canonical_url: "https://gusto.com/resources/articles/taxes/llc-taxed-as-s-corp"
 published_at: null
 first_seen_at: "2026-07-25T07:19:59.033602+00:00"
-fetched_at: "2026-07-28T11:17:57.475842+00:00"
+fetched_at: "2026-07-29T14:27:10.535547+00:00"
 content_hash: "sha256:a5b6e4faf9f64c1080570d0ef555bedbc0af2a41589c9f9ee5793b51b2640f54"
 ---
 

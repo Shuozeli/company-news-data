@@ -7,7 +7,7 @@ source_id: "aecom-common-stock-rss-06e0000d390a"
 canonical_url: "https://aecom.com/blog/why-an-integrated-energy-network-not-renewable-generation-is-the-next-challenge-for-scotland/"
 published_at: "2026-05-06T17:09:51+00:00"
 first_seen_at: "2026-07-25T01:09:37.919036+00:00"
-fetched_at: "2026-07-28T23:46:17.625245+00:00"
+fetched_at: "2026-07-29T15:39:21.116498+00:00"
 content_hash: "sha256:650ffdbfe6fa6237d202d4c022199ff6b1b26146f943044d9b9a143329baeed7"
 ---
 

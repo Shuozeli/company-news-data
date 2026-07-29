@@ -7,7 +7,7 @@ source_id: "cumberland-pharmaceuticals-inc-common-stock-rss-3ab07e3622d9"
 canonical_url: "https://www.cumberlandpharma.com/second-quarter-2024-updates-including-double-digit-revenue-growth/"
 published_at: "2024-08-14T17:24:08+00:00"
 first_seen_at: "2026-07-20T23:19:50.983327+00:00"
-fetched_at: "2026-07-29T00:46:25.939104+00:00"
+fetched_at: "2026-07-29T14:09:43.459682+00:00"
 content_hash: "sha256:0d32aa1cf7d586b2c4285b549bb580573b5059719c5021c211ad5c5145e71f6f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "perion-network-ltd-ordinary-shares-rss-2c2626ab728d"
 canonical_url: "https://perion.com/product/how-contextual-ai-impacts-audience-targeting/"
 published_at: "2026-07-13T14:44:01+00:00"
 first_seen_at: "2026-07-20T23:22:51.777610+00:00"
-fetched_at: "2026-07-28T23:25:21.207430+00:00"
+fetched_at: "2026-07-29T15:20:28.430784+00:00"
 content_hash: "sha256:ff1d47d57a656841f5968740726ad814ed3b674aec6f6c2e37a586fb93c4483d"
 ---
 

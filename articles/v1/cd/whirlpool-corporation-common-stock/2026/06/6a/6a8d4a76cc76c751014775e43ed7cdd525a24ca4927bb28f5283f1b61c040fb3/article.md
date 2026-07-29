@@ -7,7 +7,7 @@ source_id: "whirlpool-corporation-common-stock-rss-9b451b6cb451"
 canonical_url: "https://investors.whirlpoolcorp.com/news-and-events/news/news-details/2026/Whirlpool-Announces-Pricing-of-Cash-Tender-Offer/default.aspx"
 published_at: "2026-06-15T20:15:00+00:00"
 first_seen_at: "2026-07-27T06:37:12.153769+00:00"
-fetched_at: "2026-07-29T00:09:18.484649+00:00"
+fetched_at: "2026-07-29T17:12:40.121021+00:00"
 content_hash: "sha256:ef12a750c1e5ed745d1baa8677e696ee1eb49bbbb875bea3c57afbc91a828f2b"
 ---
 

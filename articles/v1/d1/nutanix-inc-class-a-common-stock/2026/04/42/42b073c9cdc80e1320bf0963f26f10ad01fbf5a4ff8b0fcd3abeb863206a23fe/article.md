@@ -7,7 +7,7 @@ source_id: "nutanix-inc-class-a-common-stock-rss-12a2d78c04c7"
 canonical_url: "https://www.nutanix.dev/2026/04/22/part-1-scale-from-zero-node-pools-in-nkp-how-it-works-and-how-to-configure-it-2/"
 published_at: "2026-04-22T14:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:13.386524+00:00"
-fetched_at: "2026-07-28T23:06:52.510487+00:00"
+fetched_at: "2026-07-29T14:48:26.863540+00:00"
 content_hash: "sha256:bf72c3c3d2521a99d22a863c59fbb49445be79e886bea75ba0d84ed5bc562098"
 ---
 

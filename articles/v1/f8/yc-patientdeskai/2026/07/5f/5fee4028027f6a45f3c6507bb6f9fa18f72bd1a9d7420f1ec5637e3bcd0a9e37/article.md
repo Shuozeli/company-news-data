@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/dental-practice-management-software-a-4b-market-in-2026"
 published_at: "2026-07-15T10:48:05.688+00:00"
 first_seen_at: "2026-07-22T08:21:05.592812+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:5615c2249a0e28a2c1627a90da5e1a3519c3186bb1d8c32df79612e4cd75f9d8"
 ---
 

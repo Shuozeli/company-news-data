@@ -7,7 +7,7 @@ source_id: "fitlife-brands-inc-common-stock-atom-9396f77d9fb3"
 canonical_url: "https://fitlifebrands.com/blogs/news/5-great-cardio-exercises-for-beginners"
 published_at: "2023-01-04T19:15:05+00:00"
 first_seen_at: "2026-07-25T05:05:30.159967+00:00"
-fetched_at: "2026-07-29T00:06:50.496811+00:00"
+fetched_at: "2026-07-29T15:44:32.535667+00:00"
 content_hash: "sha256:b3025c186ad3b543ef371df147eaf811b9b53e9a6d6ce3e70e2dd232130ade25"
 ---
 

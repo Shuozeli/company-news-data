@@ -7,7 +7,7 @@ source_id: "bark-inc-class-a-common-stock-atom-d9f7d0936a18"
 canonical_url: "https://bark.co/blogs/press/bark%C2%AE-and-dunkin-%C2%AE-celebrate-five-years-of-partnership-with-pumpkin-spice-dog-toys-that-support-a-great-cause"
 published_at: "2024-09-17T17:39:33+00:00"
 first_seen_at: "2026-07-25T01:26:35.275186+00:00"
-fetched_at: "2026-07-28T23:30:18.317292+00:00"
+fetched_at: "2026-07-29T15:27:04.969445+00:00"
 content_hash: "sha256:9133be4716014f2f801b3696833904d898ecce65bf78c9724787c12bb3079eb9"
 ---
 

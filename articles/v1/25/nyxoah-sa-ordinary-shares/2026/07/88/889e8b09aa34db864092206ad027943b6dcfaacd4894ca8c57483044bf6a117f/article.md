@@ -7,7 +7,7 @@ source_id: "nyxoah-sa-ordinary-shares-rss-12ff4f4b01b5"
 canonical_url: "https://investors.nyxoah.com/events/investor-day-2026"
 published_at: "2026-07-02T14:17:49+00:00"
 first_seen_at: "2026-07-25T16:50:30.874747+00:00"
-fetched_at: "2026-07-29T00:06:48.600529+00:00"
+fetched_at: "2026-07-29T16:59:10.314486+00:00"
 content_hash: "sha256:717ab370e2519afc358f3f284f4b15f02f1b239a832e12e8327cb595298690f2"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-hannah-life-technologies-atom-a63a77caafac"
 canonical_url: "https://blog.twoplusfertility.com/blogs/pregnancy-stories/pregnant-with-second-child-as-career-woman"
 published_at: "2024-11-25T05:29:11+00:00"
 first_seen_at: "2026-07-24T13:31:41.510206+00:00"
-fetched_at: "2026-07-28T23:50:30.923269+00:00"
+fetched_at: "2026-07-29T15:44:39.654860+00:00"
 content_hash: "sha256:afbd72aff308991807174021e49efd19d4223e33b0f85cd5843522abd731db31"
 ---
 

@@ -7,7 +7,7 @@ source_id: "dow-inc-common-stock-rss-a764c88a6383"
 canonical_url: "https://investors.dow.com/en/news/news-details/2026/Dow-reports-first-quarter-2026-results/default.aspx"
 published_at: "2026-04-23T10:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.067378+00:00"
-fetched_at: "2026-07-29T00:19:09.815212+00:00"
+fetched_at: "2026-07-29T17:19:00.396962+00:00"
 content_hash: "sha256:1cd284ca14dfaf3562925a5cad05e01550082fa503f81b7117160f63de30eb7c"
 ---
 

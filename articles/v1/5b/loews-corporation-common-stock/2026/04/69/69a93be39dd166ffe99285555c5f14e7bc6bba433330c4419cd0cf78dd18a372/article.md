@@ -7,7 +7,7 @@ source_id: "loews-corporation-common-stock-rss-3c1fa1c778bc"
 canonical_url: "https://loews.com/investors/news/news-details/2026/Boardwalk-Pipelines-Relocates-Corporate-Headquarters-to-Support-Growth/default.aspx"
 published_at: "2026-04-13T12:00:00+00:00"
 first_seen_at: "2026-07-25T12:39:18.898673+00:00"
-fetched_at: "2026-07-28T23:54:17.534763+00:00"
+fetched_at: "2026-07-29T17:08:06.652178+00:00"
 content_hash: "sha256:7dbb01aadbd5a7a3ef7bd54158ac7d424fd4af4e8bd10322d0465b8545597f1d"
 ---
 

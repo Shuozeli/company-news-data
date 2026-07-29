@@ -7,7 +7,7 @@ source_id: "hmh-holding-inc-class-a-common-stock-rss-06e03ba42fbb"
 canonical_url: "https://hmhw.com/archives/3484/hmh-financial-update-q3-2025/"
 published_at: "2025-10-30T05:45:02+00:00"
 first_seen_at: "2026-07-24T09:07:30.783862+00:00"
-fetched_at: "2026-07-28T23:37:02.956386+00:00"
+fetched_at: "2026-07-29T15:32:05.316889+00:00"
 content_hash: "sha256:5c2c538f33c6dedeb8f53c1767bf6532d844c930c94af219b31590213e0b8fd5"
 ---
 

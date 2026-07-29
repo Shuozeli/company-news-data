@@ -7,7 +7,7 @@ source_id: "aecom-common-stock-rss-06e0000d390a"
 canonical_url: "https://aecom.com/blog/delivering-linac-facilities-at-scale/"
 published_at: "2026-05-20T18:07:52+00:00"
 first_seen_at: "2026-07-25T01:09:37.919036+00:00"
-fetched_at: "2026-07-28T23:46:17.625245+00:00"
+fetched_at: "2026-07-29T15:39:21.116498+00:00"
 content_hash: "sha256:53484035575539fa0f7bae2db9a096a76233d78a84e4f0326b869c70d69fdc38"
 ---
 

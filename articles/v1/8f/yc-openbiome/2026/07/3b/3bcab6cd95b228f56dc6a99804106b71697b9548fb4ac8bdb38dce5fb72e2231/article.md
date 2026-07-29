@@ -7,7 +7,7 @@ source_id: "yc-openbiome-rss-4bb0352ef7c8"
 canonical_url: "https://openbiome.org/qa-with-christian-john-lillis-ceo-and-co-founder-of-the-peggy-lillis-foundation/"
 published_at: "2026-07-21T20:02:10+00:00"
 first_seen_at: "2026-07-21T20:35:17.229755+00:00"
-fetched_at: "2026-07-28T22:13:29.962371+00:00"
+fetched_at: "2026-07-29T14:21:44.683022+00:00"
 content_hash: "sha256:fe9763bc7bdf598512cfd0969f9fca99f599c9870014bd6843180889a2fe8a30"
 ---
 

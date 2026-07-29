@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/expo-ui-stable-sdk-56"
 published_at: "2026-05-26T13:15:16+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:64f2e1ffa2c2d7f6b9cdcf2345187a12c279711bb2a35cac4f612ede197f55e4"
 ---
 

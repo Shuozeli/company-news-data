@@ -7,7 +7,7 @@ source_id: "yc-ramen-vr-atom-8d2a75475800"
 canonical_url: "https://zenithmmo.com/blogs/news/season-2-frostrealm-launch"
 published_at: "2024-04-11T17:03:36+00:00"
 first_seen_at: "2026-07-25T20:28:01.905287+00:00"
-fetched_at: "2026-07-29T00:17:15.648185+00:00"
+fetched_at: "2026-07-29T17:18:37.437863+00:00"
 content_hash: "sha256:d88f9067caef19505448a2fe3ce5284e3258dfaf1e24a42f7fbdacac007ab856"
 ---
 

@@ -7,7 +7,7 @@ source_id: "tutor-perini-corporation-common-stock-rss-2b36d8bfa727"
 canonical_url: "https://investors.tutorperini.com/press-releases/press-release-details/2026/Tutor-Perini-Completes-Redemption-of-400-Million-of-Senior-Notes-and-Amendment-and-Restatement-of-Credit-Agreement/default.aspx"
 published_at: "2026-07-06T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:48.551875+00:00"
-fetched_at: "2026-07-29T00:23:30.531521+00:00"
+fetched_at: "2026-07-29T17:23:06.735968+00:00"
 content_hash: "sha256:33defd17ed92ce0b62f1fa87c9ce8d63a1e8b98fc72815d8e8e96849661df81e"
 ---
 

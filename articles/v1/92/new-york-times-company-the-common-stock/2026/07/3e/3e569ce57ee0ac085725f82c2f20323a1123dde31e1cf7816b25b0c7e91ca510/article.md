@@ -5,12 +5,12 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/us/politics/senators-russia-sanctions-bill-graham.html"
-published_at: "2026-07-28T20:24:26+00:00"
+published_at: "2026-07-29T00:45:51+00:00"
 first_seen_at: "2026-07-28T21:10:05.886882+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
-content_hash: "sha256:7ee11ccf17e971bd2c7a5f59ed49d4f996e2676be853fb4653530e8f1a6b2afc"
+fetched_at: "2026-07-29T02:24:23.281646+00:00"
+content_hash: "sha256:9ace4c909dfd4dd6230fb8f079df5a3904684d028af70a9a469b4ddc130cb182"
 ---
 
-# Senators Forge a Deal on Graham’s Bill to Advance Russia Sanctions
+# Senate Advances Graham’s Russia Sanctions Bill
 
-Senators announced a breakthrough on the long-stalled measure as Senator Lindsey Graham, its main champion, was memorialized.
+As Washington remembered Senator Lindsey Graham, his colleagues cleared away a hurdle to passage of his long-stalled bill to penalize Moscow.

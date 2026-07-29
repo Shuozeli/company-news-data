@@ -7,7 +7,7 @@ source_id: "bcb-bancorp-inc-nj-common-stock-rss-f2401a0a357f"
 canonical_url: "https://investorrelations.bcbcommunitybank.com/news-market-information/press-releases/news-details/2025/BCB-Bank-announces-Daniel-A--Araujos-promotion-to-Senior-Vice-President-and-Chief-Lending-Officer/default.aspx"
 published_at: "2025-07-21T20:48:00+00:00"
 first_seen_at: "2026-07-26T10:11:36.891880+00:00"
-fetched_at: "2026-07-28T23:21:58.814635+00:00"
+fetched_at: "2026-07-29T15:15:29.427819+00:00"
 content_hash: "sha256:7f690feb86a75e4e3e0fe4c8528f5652ab5027de014bf1e1f4c93a329aa05e12"
 ---
 

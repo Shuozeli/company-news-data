@@ -7,7 +7,7 @@ source_id: "unitil-corporation-common-stock-rss-b52a37baddee"
 canonical_url: "https://unitil.com/electric-gas-service"
 published_at: "2020-12-15T15:04:37+00:00"
 first_seen_at: "2026-07-20T23:22:29.081518+00:00"
-fetched_at: "2026-07-28T23:09:53.129731+00:00"
+fetched_at: "2026-07-29T14:54:27.784164+00:00"
 content_hash: "sha256:2f951877532034b0ce5c5166cc774f2a9eba61f87091abe25e14f424a2d787e9"
 ---
 

@@ -7,7 +7,7 @@ source_id: "wendy-s-company-the-common-stock-rss-ec0fd300449e"
 canonical_url: "https://www.wendys.com/drew-timme"
 published_at: "2022-03-05T00:59:39+00:00"
 first_seen_at: "2026-07-24T06:58:49.962146+00:00"
-fetched_at: "2026-07-28T23:57:23.225076+00:00"
+fetched_at: "2026-07-29T15:46:29.006724+00:00"
 content_hash: "sha256:753db700a798c27fd3e70a128f657be329c64dc6afb8aad46fdd66be2fcf0282"
 ---
 

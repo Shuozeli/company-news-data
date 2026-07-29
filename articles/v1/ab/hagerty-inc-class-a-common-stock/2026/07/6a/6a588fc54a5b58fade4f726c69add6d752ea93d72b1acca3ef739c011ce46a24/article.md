@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/automotive-history/porsches-transaxle-experiment-turns-50/"
 published_at: "2026-07-27T16:00:00+00:00"
 first_seen_at: "2026-07-27T17:31:52.115619+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:e9294d29d148a5f84671406867a71e920708fee70640df27ce13311a1470952c"
 ---
 

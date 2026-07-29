@@ -7,7 +7,7 @@ source_id: "yc-directed-edge-rss-7c8e8fe81473"
 canonical_url: "https://blog.directededge.com/2010/06/16/directed-edge-delivering-33-of-revenue-for-the-market-quarte/"
 published_at: "2010-06-16T20:44:10+00:00"
 first_seen_at: "2026-07-27T01:55:50.875550+00:00"
-fetched_at: "2026-07-28T22:59:14.304469+00:00"
+fetched_at: "2026-07-29T14:36:05.001882+00:00"
 content_hash: "sha256:f2acca27ba8ee1cd8eb80280ab21e59a71bc4dd4be352be449c81923d2f7ff44"
 ---
 

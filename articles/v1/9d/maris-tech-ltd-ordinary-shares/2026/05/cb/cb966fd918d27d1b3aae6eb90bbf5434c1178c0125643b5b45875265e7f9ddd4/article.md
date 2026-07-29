@@ -7,7 +7,7 @@ source_id: "maris-tech-ltd-ordinary-shares-rss-219e3dd21362"
 canonical_url: "https://www.maris-tech.com/maris-tech-announces-receipt-of-nasdaq-notification-of-minimum-stockholders-equity-non-compliance/press-releases/"
 published_at: "2026-05-22T20:10:08+00:00"
 first_seen_at: "2026-07-24T10:37:38.674777+00:00"
-fetched_at: "2026-07-28T22:52:59.438148+00:00"
+fetched_at: "2026-07-29T14:23:10.907007+00:00"
 content_hash: "sha256:92a5b175c584b71d7fc8c5ce479b997adec547abb8ae51b97edd313cb3405847"
 ---
 

@@ -7,7 +7,7 @@ source_id: "novavax-inc-common-stock-rss-4b8b7417dfcc"
 canonical_url: "https://ir.novavax.com/events/jefferies-biotech-beach-summit-0"
 published_at: "2026-02-26T18:15:27+00:00"
 first_seen_at: "2026-07-20T23:22:23.835023+00:00"
-fetched_at: "2026-07-28T23:24:16.341350+00:00"
+fetched_at: "2026-07-29T15:19:58.741531+00:00"
 content_hash: "sha256:2ecc006732c807706df4274b59ec752ce589a0eff9cb87cd5b53eef46a5d6fff"
 ---
 

@@ -7,7 +7,7 @@ source_id: "sandridge-energy-inc-common-stock-rss-5b82a608bfe4"
 canonical_url: "https://investors.sandridgeenergy.com/Investor-Relations/press-releases/press-release-details/2025/SANDRIDGE-ENERGY-INC--ANNOUNCES-ENROLLMENT-HAS-OPENED-FOR-PREVIOUSLY-ANNOUNCED-DIVIDEND-REINVESTMENT-PLAN-FOR-STOCKHOLDERS/default.aspx"
 published_at: "2025-09-08T20:53:00+00:00"
 first_seen_at: "2026-07-25T22:09:48.506465+00:00"
-fetched_at: "2026-07-29T00:50:09.401555+00:00"
+fetched_at: "2026-07-29T14:20:18.067562+00:00"
 content_hash: "sha256:91e8e61142a34cdee916e624e87b0420a017828ba57c913687705533f56d0be4"
 ---
 

@@ -7,7 +7,7 @@ source_id: "cheesecake-factory-incorporated-the-common-stock-rss-d1db0065f926"
 canonical_url: "https://investors.thecheesecakefactory.com/news-and-events/news-releases/news-release-details/2026/The-Cheesecake-Factory-Reports-Results-for-First-Quarter-of-Fiscal-2026/default.aspx"
 published_at: "2026-04-29T20:15:00+00:00"
 first_seen_at: "2026-07-26T11:29:02.053775+00:00"
-fetched_at: "2026-07-28T22:13:37.117719+00:00"
+fetched_at: "2026-07-29T14:21:54.918173+00:00"
 content_hash: "sha256:6623ec0ff594aaedc34c997002898ab2761e5258beac9d5d2bb6f5fb5f2ca1f5"
 ---
 

@@ -7,7 +7,7 @@ source_id: "aurora-innovation-inc-class-a-common-stock-rss-b929390c0bbe"
 canonical_url: "https://downloads.ctfassets.net/9i0s3p5vkth9/4IYqowfIQOQRHBvhTVu8Gn/bf7c6bb4ca78ba63e30199705dbc0a8f/Aurora_Driverless_Safety_Report_2025.pdf"
 published_at: "2025-03-25T00:00:00+00:00"
 first_seen_at: "2026-07-25T01:09:45.755868+00:00"
-fetched_at: "2026-07-29T00:35:55.516401+00:00"
+fetched_at: "2026-07-29T14:00:50.717575+00:00"
 content_hash: "sha256:a397206a9c8e7ee8bd522c57af01eeb84519a6df9d1b8d65af65cb693aae3f7e"
 ---
 

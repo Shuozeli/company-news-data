@@ -7,7 +7,7 @@ source_id: "salesforce-inc-common-stock-news-import-e12c13bbd360"
 canonical_url: "https://www.salesforce.com/blog/recent-stories/"
 published_at: "2026-07-28T00:00:00+00:00"
 first_seen_at: "2026-07-24T12:41:38.291806+00:00"
-fetched_at: "2026-07-28T19:11:09.735168+00:00"
+fetched_at: "2026-07-29T07:55:57.005290+00:00"
 content_hash: "sha256:9f6029553acf7a14ac3c44022740a00500806611176131cdacc2cf98a3a895bb"
 ---
 

@@ -7,7 +7,7 @@ source_id: "hamilton-beach-brands-holding-company-class-a-common-stock-rss-5027c
 canonical_url: "https://www.hamiltonbeachbrands.com/news/news-details/2026/HAMILTON-BEACH-BRANDS-HOLDING-COMPANY-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS/default.aspx"
 published_at: "2026-02-25T21:05:00+00:00"
 first_seen_at: "2026-07-25T16:48:36.916304+00:00"
-fetched_at: "2026-07-29T00:29:53.886312+00:00"
+fetched_at: "2026-07-29T13:56:27.214854+00:00"
 content_hash: "sha256:86b263014ab60922d0697253559ce5efa14d6e90f234f7cc9e231674717fc1f0"
 ---
 

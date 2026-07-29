@@ -4,9 +4,9 @@
     "key": "yc-carbonfact",
     "name": "Carbonfact"
   },
-  "record_count": 24,
+  "record_count": 25,
   "first_published_at": "2023-07-05T22:00:00+00:00",
-  "last_published_at": "2026-07-06T22:00:00+00:00",
+  "last_published_at": "2026-07-29T08:45:23+00:00",
   "partitions": [
     {
       "partition": "2023-07",
@@ -54,11 +54,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -66,10 +66,10 @@
       {
         "page": 1,
         "path": "articles/v1/26/yc-carbonfact/index/pages/000001.json",
-        "record_count": 24,
-        "byte_count": 24517,
-        "sha256": "sha256:596ce6567d58d4ace5a34e4700c46101f5830d1d23b6fa2b91fdf6a1aacad203",
-        "newest_at": "2026-07-06T22:00:00+00:00",
+        "record_count": 25,
+        "byte_count": 25495,
+        "sha256": "sha256:3fc698df464f57556a7327598f501cc42053ce47fa6d5ec6fb05ec91cd3e2fa5",
+        "newest_at": "2026-07-29T08:45:23+00:00",
         "oldest_at": "2023-07-05T22:00:00+00:00"
       }
     ]

@@ -7,7 +7,7 @@ source_id: "service-properties-trust-common-stock-rss-ab6cc6b38b1d"
 canonical_url: "http://www.svcreit.com/news/press-release-details/2026/Service-Properties-Trust-Announces-Five-for-One-Reverse-Split-of-its-Common-Shares/default.aspx"
 published_at: "2026-06-25T20:50:00+00:00"
 first_seen_at: "2026-07-25T22:45:03.297417+00:00"
-fetched_at: "2026-07-28T23:18:36.892673+00:00"
+fetched_at: "2026-07-29T15:09:23.007202+00:00"
 content_hash: "sha256:b52f56f178d42f1b2fb4da3a74bd7cd422f0d36aa522ee27a51b2b7543247adc"
 ---
 

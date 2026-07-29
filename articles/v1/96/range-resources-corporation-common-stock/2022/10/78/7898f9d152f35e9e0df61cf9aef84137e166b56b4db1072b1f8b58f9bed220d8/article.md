@@ -7,7 +7,7 @@ source_id: "range-resources-corporation-common-stock-rss-39ebe470ada3"
 canonical_url: "https://www.rangeresources.com/range-announces-third-quarter-2022-results%ef%bf%bc%ef%bf%bc/"
 published_at: "2022-10-24T20:37:41+00:00"
 first_seen_at: "2026-07-25T01:14:33.578834+00:00"
-fetched_at: "2026-07-29T00:50:21.600149+00:00"
+fetched_at: "2026-07-29T16:58:42.414622+00:00"
 content_hash: "sha256:14bd85c696f9f4f149c8d422bac44008dfa7e7b7f8c1b660b52005f800b28c13"
 ---
 

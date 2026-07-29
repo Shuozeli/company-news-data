@@ -7,7 +7,7 @@ source_id: "renew-energy-global-plc-class-a-ordinary-shares-rss-d5d99d5fc981"
 canonical_url: "https://www.renew.com/news/can-india-become-energy-independent-renew-x-bcg"
 published_at: "2026-07-03T13:12:29+00:00"
 first_seen_at: "2026-07-20T23:22:24.994581+00:00"
-fetched_at: "2026-07-28T23:23:56.325688+00:00"
+fetched_at: "2026-07-29T15:19:15.964025+00:00"
 content_hash: "sha256:9bb9d06fc3eaf6eebf61909931a3b8f215e10d024f6be3214df4f3bccaeaa9ef"
 ---
 

@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:33:52.463534+00:00"
 content_hash: "sha256:29ed275640e4d3e4763e8e44e422f4c26cd9e9d2c24630ce01ff654a0e01d613"
 ---
 
-# More sellers are delisting. This could be good for buyers
+# More sellers are de-listing, and this could be good for buyers
 
 Recent housing data shows more sellers are pulling their homes off the market instead of cutting the price to attract more buyers.
 

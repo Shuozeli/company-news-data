@@ -7,7 +7,7 @@ source_id: "kinross-gold-corporation-common-stock-rss-704a45ed047f"
 canonical_url: "https://www.kinross.com/English/news-and-investors/news-releases/press-release-details/2026/Kinross-recommends-shareholders-reject-TRC-Capital-Investments-below-market-mini-tender-offer-for-common-shares/default.aspx"
 published_at: "2026-04-10T21:00:00+00:00"
 first_seen_at: "2026-07-25T10:52:47.429571+00:00"
-fetched_at: "2026-07-28T23:06:17.021935+00:00"
+fetched_at: "2026-07-29T14:47:30.310791+00:00"
 content_hash: "sha256:4953e17a227c4c6969dd2b1aff39d3451179ef6dfb42d4c314771a96ebcb109e"
 ---
 

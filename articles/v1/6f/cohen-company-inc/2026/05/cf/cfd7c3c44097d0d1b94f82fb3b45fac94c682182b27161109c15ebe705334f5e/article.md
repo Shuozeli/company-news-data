@@ -7,7 +7,7 @@ source_id: "cohen-company-inc-rss-b12cf9ad3a83"
 canonical_url: "https://cohenandcompany.com/2026/05/01/cohen-company-reports-first-quarter-2026-financial-results/"
 published_at: "2026-05-01T12:14:16+00:00"
 first_seen_at: "2026-07-24T22:53:38.296871+00:00"
-fetched_at: "2026-07-29T00:18:20.497479+00:00"
+fetched_at: "2026-07-29T17:19:57.904859+00:00"
 content_hash: "sha256:0da5087fc47e43993713f7bc1d1fe46fd7636015c96387614d1812af783577ae"
 ---
 

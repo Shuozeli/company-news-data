@@ -7,7 +7,7 @@ source_id: "trupanion-inc-common-stock-news-import-b3fe567ac9c2"
 canonical_url: "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/4-billion-pet-insurance-claims"
 published_at: "2026-05-26T00:00:00+00:00"
 first_seen_at: "2026-07-26T03:12:03.797628+00:00"
-fetched_at: "2026-07-28T17:37:55.930207+00:00"
+fetched_at: "2026-07-29T06:24:58.307897+00:00"
 content_hash: "sha256:417dcc52bc878c4920a01582be3c6cbebcc1b1ce0e18bdfe7447703006bdb42f"
 ---
 

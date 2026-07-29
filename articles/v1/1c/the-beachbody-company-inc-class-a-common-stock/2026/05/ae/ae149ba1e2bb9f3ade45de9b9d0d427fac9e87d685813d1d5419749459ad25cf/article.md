@@ -7,7 +7,7 @@ source_id: "the-beachbody-company-inc-class-a-common-stock-rss-35a92663784d"
 canonical_url: "https://thebeachbodycompany.com/news/news-details/2026/Shakeology-by-BODi-Enters-Retail-Stores-Nationwide-Marking-a-Major-Expansion-in-the-Companys-Nutrition-Led-Strategy/default.aspx"
 published_at: "2026-05-07T12:00:00+00:00"
 first_seen_at: "2026-07-26T02:03:19.730585+00:00"
-fetched_at: "2026-07-28T23:40:31.042221+00:00"
+fetched_at: "2026-07-29T15:33:58.611585+00:00"
 content_hash: "sha256:15d2c894aba1d9b57128e4edb1dec966e271087100605635dc93a32a7d38fdac"
 ---
 

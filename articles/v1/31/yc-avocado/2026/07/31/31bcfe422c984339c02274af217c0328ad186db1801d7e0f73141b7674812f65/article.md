@@ -5,13 +5,13 @@ company_key: "yc-avocado"
 company: "Avocado"
 source_id: "yc-avocado-news-import-38bb8a83867d"
 canonical_url: "https://www.avocadopos.com/blog/20251020-california-newsom-signs-restaurant-permit-streamlining-law"
-published_at: null
+published_at: "2025-10-20T00:00:00+00:00"
 first_seen_at: "2026-07-24T18:13:15.302974+00:00"
 fetched_at: "2026-07-28T21:37:36.757263+00:00"
 content_hash: "sha256:a09c7b276ef9fc753ccd1950470c781dbc23ffc88c8adeb52701d681b9d03692"
 ---
 
-# California Streamlines Restaurant Permitting: Faster Tenant Improvements, Less Red Tape - The Avocado - Avocado POS
+# California Streamlines Restaurant Permitting: Faster Tenant Improvements, Less Red Tape
 
 Good news for California restaurant owners: Governor Gavin Newsom signed a new law on October 9, 2025 (effective 2026) aimed at **speeding up local permit approvals for restaurant buildouts and remodels** . The goal is simple — reduce costly delays and simplify the maze of local regulations that slow down openings and renovations.
 

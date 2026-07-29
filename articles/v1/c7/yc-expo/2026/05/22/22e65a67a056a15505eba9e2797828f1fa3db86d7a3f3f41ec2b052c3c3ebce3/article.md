@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/expo-router-v56-decoupling-from-react-navigation"
 published_at: "2026-05-28T14:00:05+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:9c8c0e26241851f1974e46ff25c95cc3b36426dc2277a2f6e2e365811a560619"
 ---
 

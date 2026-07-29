@@ -4,9 +4,9 @@
     "key": "yc-meadow",
     "name": "Meadow"
   },
-  "record_count": 15,
+  "record_count": 19,
   "first_published_at": "2026-06-04T16:25:03.028+00:00",
-  "last_published_at": "2026-07-28T14:03:19.539+00:00",
+  "last_published_at": "2026-07-28T22:45:37.962+00:00",
   "partitions": [
     {
       "partition": "2026-06",
@@ -14,11 +14,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 11
+      "record_count": 15
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -26,10 +26,10 @@
       {
         "page": 1,
         "path": "articles/v1/4b/yc-meadow/index/pages/000001.json",
-        "record_count": 15,
-        "byte_count": 15495,
-        "sha256": "sha256:8f02dc70a1c9b2cc74d386a91a626e2994c3b596cfd8f65383c16bd8231c61ba",
-        "newest_at": "2026-07-28T14:03:19.539+00:00",
+        "record_count": 19,
+        "byte_count": 19585,
+        "sha256": "sha256:1cd89b131d4c20e952fec8e61e22beb0dc6a75dd7982972013247c2780341f34",
+        "newest_at": "2026-07-28T22:45:37.962+00:00",
         "oldest_at": "2026-06-04T16:25:03.028+00:00"
       }
     ]

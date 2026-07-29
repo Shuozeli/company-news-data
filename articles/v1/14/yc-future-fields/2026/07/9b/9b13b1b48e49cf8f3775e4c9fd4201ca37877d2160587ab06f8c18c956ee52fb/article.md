@@ -7,7 +7,7 @@ source_id: "yc-future-fields-rss-02d8ed225558"
 canonical_url: "https://futurefields.io/transgenic-flies-vs-cell-lines/"
 published_at: "2026-07-14T21:22:35+00:00"
 first_seen_at: "2026-07-25T03:17:21.494318+00:00"
-fetched_at: "2026-07-28T23:21:50.356181+00:00"
+fetched_at: "2026-07-29T15:15:39.745784+00:00"
 content_hash: "sha256:903c85ef7243f055e866ae9852442c968410d498181a68539884af1c0d8ebd3e"
 ---
 

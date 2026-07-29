@@ -7,7 +7,7 @@ source_id: "utstarcom-holdings-corp-ordinary-shares-rss-3ef429a86b4e"
 canonical_url: "http://www.utstar.com/en/contact-us/request-information"
 published_at: "2025-05-26T13:06:35+00:00"
 first_seen_at: "2026-07-24T05:39:15.836527+00:00"
-fetched_at: "2026-07-28T23:49:14.064508+00:00"
+fetched_at: "2026-07-29T15:42:19.101799+00:00"
 content_hash: "sha256:82f2b37a627084a1c476e7c3af2d6f3cfb2a902548530a0edb1e3bf1e0d6536a"
 ---
 

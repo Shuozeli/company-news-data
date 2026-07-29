@@ -7,7 +7,7 @@ source_id: "amphenol-corporation-common-stock-rss-77a167a514cc"
 canonical_url: "https://investors.amphenol.com/news-and-events/news-details/2026/Amphenol-Announces-Second-Quarter-2026-Dividend/default.aspx"
 published_at: "2026-05-07T12:00:00+00:00"
 first_seen_at: "2026-07-26T22:30:06.734884+00:00"
-fetched_at: "2026-07-29T00:30:41.375943+00:00"
+fetched_at: "2026-07-29T13:57:34.823689+00:00"
 content_hash: "sha256:0a455cc0f03b98889ea245c99fdb5a8a7c4edc3f5d270baf9b4c4856ff8c24fe"
 ---
 

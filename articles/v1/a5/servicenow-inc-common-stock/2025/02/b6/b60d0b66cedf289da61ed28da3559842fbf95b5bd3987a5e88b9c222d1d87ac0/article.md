@@ -7,7 +7,7 @@ source_id: "servicenow-inc-common-stock-rss-e68ea5e3c60f"
 canonical_url: "https://www.servicenow.com/community/technology-blog/service-bridge-v2-1-february25-store-release/ba-p/3152695"
 published_at: "2025-02-05T22:58:01+00:00"
 first_seen_at: "2026-07-20T04:36:33.238428+00:00"
-fetched_at: "2026-07-28T23:50:36.807078+00:00"
+fetched_at: "2026-07-29T15:43:12.503823+00:00"
 content_hash: "sha256:d559021d731f68ccf079f1aefff7c1b7bec01bea7c21bc9b0f60c9112dc895ba"
 ---
 

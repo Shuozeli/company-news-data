@@ -7,7 +7,7 @@ source_id: "caleres-inc-common-stock-rss-0c861d034a87"
 canonical_url: "https://investor.caleres.com/news/news-details/2026/Caleres-Declares-Regular-Quarterly-Dividend-7068bde4f/default.aspx"
 published_at: "2026-05-28T20:30:00+00:00"
 first_seen_at: "2026-07-26T11:02:23.481129+00:00"
-fetched_at: "2026-07-28T23:04:00.387019+00:00"
+fetched_at: "2026-07-29T14:41:31.835814+00:00"
 content_hash: "sha256:addf1b68d1f903ae140d3b2042f07bc7a702222fcd4abc51a4f267fa8dca8974"
 ---
 

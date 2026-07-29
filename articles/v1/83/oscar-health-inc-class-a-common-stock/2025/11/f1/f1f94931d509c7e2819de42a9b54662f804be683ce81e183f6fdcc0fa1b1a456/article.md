@@ -7,7 +7,7 @@ source_id: "oscar-health-inc-class-a-common-stock-rss-69a1bcf667ba"
 canonical_url: "https://ir.hioscar.com/news-events-presentations/news-press-releases/news-details/2025/Oscar-Health-Announces-Financial-Results-for-Third-Quarter-2025-and-Reaffirms-2025-Guidance/default.aspx"
 published_at: "2025-11-06T11:00:00+00:00"
 first_seen_at: "2026-07-25T17:58:01.055270+00:00"
-fetched_at: "2026-07-29T00:01:26.780774+00:00"
+fetched_at: "2026-07-29T17:07:11.536130+00:00"
 content_hash: "sha256:a97bf2dd77f06556e68f3d013653441e270fcf022719188e42bf9447f6072627"
 ---
 

@@ -4,7 +4,7 @@
     "key": "cargurus-inc-class-a-common-stock",
     "name": "CarGurus Inc. Class A Common Stock"
   },
-  "record_count": 85,
+  "record_count": 100,
   "first_published_at": "2022-12-09T17:00:04+00:00",
   "last_published_at": "2026-06-08T20:19:19+00:00",
   "partitions": [
@@ -50,11 +50,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 75
+      "record_count": 90
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -63,17 +63,17 @@
         "page": 1,
         "path": "articles/v1/c5/cargurus-inc-class-a-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 56135,
-        "sha256": "sha256:2835060b6bc4291c59f4801ca41e1f83a95a9f6f862a74113e54eca65bc7c156",
-        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "byte_count": 57772,
+        "sha256": "sha256:247700e01572c9a5fcefccf82bf8dcc2ce3fe2969f576e20c92bb1fb3e4940eb",
+        "newest_at": "2026-07-29T03:12:36.621052+00:00",
         "oldest_at": "2026-07-28T21:36:14.883471+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/c5/cargurus-inc-class-a-common-stock/index/pages/000002.json",
-        "record_count": 35,
-        "byte_count": 40632,
-        "sha256": "sha256:4592f8a1aad1b49a062cdd394618469282f70eed164ba36a0be4687416d3f9ca",
+        "record_count": 50,
+        "byte_count": 57123,
+        "sha256": "sha256:fb07c0f0f9b99029b4293cb0e243b4ebce72db2aa596b00dd80fb8b6258880dd",
         "newest_at": "2026-07-28T21:36:14.883471+00:00",
         "oldest_at": "2022-12-09T17:00:04+00:00"
       }

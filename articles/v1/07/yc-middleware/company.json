@@ -4,9 +4,9 @@
     "key": "yc-middleware",
     "name": "Middleware"
   },
-  "record_count": 20,
+  "record_count": 21,
   "first_published_at": "2026-06-12T00:00:00+00:00",
-  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-06",
@@ -14,11 +14,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 17
+      "record_count": 18
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -26,10 +26,10 @@
       {
         "page": 1,
         "path": "articles/v1/07/yc-middleware/index/pages/000001.json",
-        "record_count": 20,
-        "byte_count": 20764,
-        "sha256": "sha256:0870806e9e61e2f9b3fadbcd33de54be34dd18c3f32cc1a7f1521352d37aacb8",
-        "newest_at": "2026-07-28T21:20:14.720808+00:00",
+        "record_count": 21,
+        "byte_count": 21801,
+        "sha256": "sha256:27b206904f42de9e1f4a3b91b7211a513fa52db031264ce9e19b20b2e729114d",
+        "newest_at": "2026-07-29T00:00:00+00:00",
         "oldest_at": "2026-06-12T00:00:00+00:00"
       }
     ]

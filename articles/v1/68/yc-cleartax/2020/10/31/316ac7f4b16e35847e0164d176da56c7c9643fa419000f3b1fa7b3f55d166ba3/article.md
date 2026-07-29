@@ -7,7 +7,7 @@ source_id: "yc-cleartax-rss-3da8b6d91e7d"
 canonical_url: "https://medium.com/cleartax-engineering/design-patterns-to-build-ui-components-library-in-react-f547ebbd0e46"
 published_at: "2020-10-13T05:22:28+00:00"
 first_seen_at: "2026-07-27T13:12:04.161420+00:00"
-fetched_at: "2026-07-28T23:21:54.031238+00:00"
+fetched_at: "2026-07-29T15:15:26.396101+00:00"
 content_hash: "sha256:a5b7d14de8e669e7717fa3f2e87daab08e7722a1d2f88ebd5f12191839db0e49"
 ---
 

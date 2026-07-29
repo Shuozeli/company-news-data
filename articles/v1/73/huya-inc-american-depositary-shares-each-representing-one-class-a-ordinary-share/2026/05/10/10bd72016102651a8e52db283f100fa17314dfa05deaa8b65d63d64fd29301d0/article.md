@@ -7,7 +7,7 @@ source_id: "huya-inc-american-depositary-shares-each-representing-one-class-a-or
 canonical_url: "https://ir.huya.com/2026-05-12-HUYA-Inc-Reports-First-Quarter-2026-Unaudited-Financial-Results"
 published_at: "2026-05-12T08:30:00+00:00"
 first_seen_at: "2026-07-25T08:43:33.883223+00:00"
-fetched_at: "2026-07-28T22:13:17.806530+00:00"
+fetched_at: "2026-07-29T14:21:38.306252+00:00"
 content_hash: "sha256:869c39d2ba8540ec4aa6f2fe62afad71e12dc6792d046f12ee3179ee82aa329e"
 ---
 

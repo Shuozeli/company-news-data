@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "da5f86c713ebb7819a766635f394e6f11a47f1d94da1e30d7d14007979878462",
+  "company": {
+    "key": "forrester-research-inc-common-stock",
+    "name": "Forrester Research Inc. Common Stock"
+  },
+  "source": {
+    "id": "forrester-research-inc-common-stock-rss-7ea008fcdcc6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.forrester.com/blogs/the-future-of-appsec-may-be-autonomous-the-present-is-surprisingly-practical/",
+    "canonical": "https://www.forrester.com/blogs/the-future-of-appsec-may-be-autonomous-the-present-is-surprisingly-practical/"
+  },
+  "title": "The Future Of AppSec May Be Autonomous. The Present Is Surprisingly Practical",
+  "summary": "AI is no longer a future feature in application security; it is rapidly becoming a core part of how AppSec tools identify, prioritize, and remediate risk. Yet despite aggressive vendor investment, adoption remains constrained by trust concerns, questions about value, and uncertainty about pricing models. In our new report, The State Of Artificial Intelligence In […]",
+  "published_at": "2026-07-29T12:15:58+00:00",
+  "first_seen_at": "2026-07-29T12:35:31.646869+00:00",
+  "fetched_at": "2026-07-29T12:35:33.474375+00:00",
+  "last_updated_at": "2026-07-29T15:05:59.402985+00:00",
+  "paths": {
+    "article": "articles/v1/34/forrester-research-inc-common-stock/2026/07/da/da5f86c713ebb7819a766635f394e6f11a47f1d94da1e30d7d14007979878462/article.md",
+    "record": "articles/v1/34/forrester-research-inc-common-stock/2026/07/da/da5f86c713ebb7819a766635f394e6f11a47f1d94da1e30d7d14007979878462/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5175,
+    "sha256": "sha256:c1f0dc13ac82ec2a4e471f96c0c9b5eaa112200cb658d537f4267497fca508c5",
+    "normalized_content_hash": "sha256:a567cec686c7f5f84e4807300e113f7fa4c83fb24b09b2963f988ea96b48e717"
+  },
+  "provenance": {
+    "source_item_id": "d22cc3a0-e6db-44f1-a1ff-c4f1b7686150",
+    "external_id": "https://www.forrester.com/?p=301593"
+  }
+}

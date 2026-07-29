@@ -7,7 +7,7 @@ source_id: "anheuser-busch-inbev-sa-sponsored-adr-belgium-news-import-a63806e940
 canonical_url: "https://www.anheuser-busch.com/newsroom/Anheuser-Busch-Invests-5.8-Million-in-Williamsburg-Brewery"
 published_at: "2026-05-21T14:00:00+00:00"
 first_seen_at: "2026-07-25T00:38:16.785338+00:00"
-fetched_at: "2026-07-28T17:56:40.627808+00:00"
+fetched_at: "2026-07-29T06:41:35.056141+00:00"
 content_hash: "sha256:c731b492cbb1ff08c3fdb4e6403f01e7e9f48646cda0a94e5dced06ffbb65aea"
 ---
 

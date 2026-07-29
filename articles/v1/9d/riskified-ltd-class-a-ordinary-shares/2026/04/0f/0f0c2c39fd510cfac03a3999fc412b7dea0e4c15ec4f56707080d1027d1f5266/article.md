@@ -7,7 +7,7 @@ source_id: "riskified-ltd-class-a-ordinary-shares-rss-dd7d0cc56e2d"
 canonical_url: "https://medium.com/riskified-technology/from-hallucinations-to-pull-requests-building-a-reliable-shifter-agent-in-48-hours-d3c8eef6421a"
 published_at: "2026-04-29T11:42:08+00:00"
 first_seen_at: "2026-07-20T23:18:31.853064+00:00"
-fetched_at: "2026-07-28T23:10:47.152354+00:00"
+fetched_at: "2026-07-29T14:57:01.923368+00:00"
 content_hash: "sha256:f622b486b0336016b4bba3e7866623395601031ae98c39d94388ce1ffe7cc329"
 ---
 

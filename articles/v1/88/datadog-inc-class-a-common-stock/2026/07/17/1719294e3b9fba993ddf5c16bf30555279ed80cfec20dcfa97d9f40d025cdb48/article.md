@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T20:34:24.680558+00:00"
 content_hash: "sha256:7e02f7b5f7f13a720723ac00ed57f2a5975d012f104ffc519eaa36edbc6b4fb6"
 ---
 
-# Efficient multi-provider agent environments with AI gateways: best practices
+# AI gateway best practices: Model routing, reliability, and budget controls for production agents
 
 Thomas Sobolik
 

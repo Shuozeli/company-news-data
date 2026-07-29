@@ -7,7 +7,7 @@ source_id: "cadence-design-systems-inc-common-stock-news-import-fe14fc9857d2"
 canonical_url: "https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/design-for-ai-and-ai-for-design"
 published_at: "2026-07-16T00:30:00+00:00"
 first_seen_at: "2026-07-24T23:33:23.620609+00:00"
-fetched_at: "2026-07-28T15:33:20.247361+00:00"
+fetched_at: "2026-07-29T04:40:22.421184+00:00"
 content_hash: "sha256:4b13c35c326e6895d54e3540eba70a22ccf4338c6f8c8be8ed2454dc1a76e666"
 ---
 

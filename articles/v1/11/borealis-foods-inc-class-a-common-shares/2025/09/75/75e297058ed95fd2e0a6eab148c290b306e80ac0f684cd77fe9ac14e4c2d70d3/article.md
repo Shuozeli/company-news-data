@@ -7,7 +7,7 @@ source_id: "borealis-foods-inc-class-a-common-shares-rss-fd4c56f1a486"
 canonical_url: "https://investors.borealisfoods.com/news/news-details/2025/Borealis-Foods-Receives-National-Recognition-and-Reports-Strong-Q2-Results/default.aspx"
 published_at: "2025-09-09T01:28:00+00:00"
 first_seen_at: "2026-07-26T10:49:50.477759+00:00"
-fetched_at: "2026-07-29T00:49:17.833006+00:00"
+fetched_at: "2026-07-29T14:19:04.340103+00:00"
 content_hash: "sha256:47ed6e1f8e5e00c298c0606d575237aadc1ab558cbc2f805e881ce00f41981f0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "insulet-corporation-common-stock-rss-9e13eeb168a8"
 canonical_url: "https://investors.insulet.com/news/news-details/2026/Insulet-Initiates-Voluntary-Medical-Device-Correction-for-Certain-Omnipod-Pods-in-the-U-S--and-Affected-International-Markets/default.aspx"
 published_at: "2026-05-26T20:05:00+00:00"
 first_seen_at: "2026-07-25T09:37:33.779193+00:00"
-fetched_at: "2026-07-28T23:51:50.320153+00:00"
+fetched_at: "2026-07-29T17:09:15.793542+00:00"
 content_hash: "sha256:74bfafaf115f51230a414151226d4673c50de5a42a14b8f053af7fec47a50897"
 ---
 

@@ -7,7 +7,7 @@ source_id: "flex-lng-ltd-ordinary-shares-rss-7ff9ab5b26ed"
 canonical_url: "https://www.flexlng.com/flex-lng-contract-overview-march-2026/"
 published_at: "2026-03-18T08:21:33+00:00"
 first_seen_at: "2026-07-25T01:07:03.816170+00:00"
-fetched_at: "2026-07-29T00:34:05.068746+00:00"
+fetched_at: "2026-07-29T13:59:45.749416+00:00"
 content_hash: "sha256:4f3226620d8dc39c4cec1c4c28c5e05881ccb9e5337fb2735dfa161e5434e3da"
 ---
 

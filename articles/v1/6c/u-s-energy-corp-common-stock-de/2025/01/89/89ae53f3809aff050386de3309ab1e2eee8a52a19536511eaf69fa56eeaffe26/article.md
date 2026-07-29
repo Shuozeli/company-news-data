@@ -7,7 +7,7 @@ source_id: "u-s-energy-corp-common-stock-de-rss-2920db3b8278"
 canonical_url: "https://usnrg.com/compensation-committee/"
 published_at: "2025-01-31T17:26:47+00:00"
 first_seen_at: "2026-07-27T06:31:46.149605+00:00"
-fetched_at: "2026-07-28T20:06:47.260334+00:00"
+fetched_at: "2026-07-29T11:28:20.765536+00:00"
 content_hash: "sha256:65ce2222a7e66bbff92dac3ef2172c7e12ddd2617bea607e886a43bdfe24d85d"
 ---
 

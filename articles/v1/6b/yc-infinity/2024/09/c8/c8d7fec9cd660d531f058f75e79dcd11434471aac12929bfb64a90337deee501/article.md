@@ -7,7 +7,7 @@ source_id: "yc-infinity-news-import-cf26c849fe19"
 canonical_url: "https://www.infinityapp.in/blog/comparing-the-role-of-banks-and-fintechs-in-b2b-cross-border-payments"
 published_at: "2024-09-16T00:00:00+00:00"
 first_seen_at: "2026-07-25T09:34:10.825678+00:00"
-fetched_at: "2026-07-28T11:32:33.369115+00:00"
+fetched_at: "2026-07-29T14:40:40.812323+00:00"
 content_hash: "sha256:41137e216d40d66d79dc29d5df77839dcee72d0287db341919d44c5647a55a41"
 ---
 

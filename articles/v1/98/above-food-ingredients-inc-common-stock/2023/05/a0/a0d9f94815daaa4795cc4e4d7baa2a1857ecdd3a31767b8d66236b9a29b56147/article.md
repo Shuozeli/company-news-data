@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/blank-check-firm-bite-to-take-stake-in-canadian-food-company/"
 published_at: "2023-05-04T16:10:46+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-29T00:43:09.170627+00:00"
+fetched_at: "2026-07-29T14:06:11.402678+00:00"
 content_hash: "sha256:017168a1e5359054019755b70872accecac63140d5f54b17a58c48c144795b6c"
 ---
 

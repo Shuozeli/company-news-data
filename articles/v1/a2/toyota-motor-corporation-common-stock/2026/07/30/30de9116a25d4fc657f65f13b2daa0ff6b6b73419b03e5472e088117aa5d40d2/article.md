@@ -7,7 +7,7 @@ source_id: "toyota-motor-corporation-common-stock-rss-16a5c5d98662"
 canonical_url: "https://toyotatimes.jp/en/series/series_mobilityforall/011.html"
 published_at: "2026-07-23T08:10:00+00:00"
 first_seen_at: "2026-07-24T01:09:20.567630+00:00"
-fetched_at: "2026-07-29T00:42:55.138799+00:00"
+fetched_at: "2026-07-29T14:06:23.629699+00:00"
 content_hash: "sha256:b460f6c9577aaaefdbc08c565cdca4cb641ef93b0805ccf147a0478c81faffa0"
 ---
 

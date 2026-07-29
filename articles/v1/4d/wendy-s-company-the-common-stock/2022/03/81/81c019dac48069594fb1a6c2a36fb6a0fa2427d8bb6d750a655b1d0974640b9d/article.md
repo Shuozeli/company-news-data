@@ -7,7 +7,7 @@ source_id: "wendy-s-company-the-common-stock-rss-ec0fd300449e"
 canonical_url: "https://www.wendys.com/ochai-agbaji"
 published_at: "2022-03-05T00:52:33+00:00"
 first_seen_at: "2026-07-24T06:58:49.962146+00:00"
-fetched_at: "2026-07-28T23:57:23.225076+00:00"
+fetched_at: "2026-07-29T15:46:29.006724+00:00"
 content_hash: "sha256:7d1ed4ffc10f009e82a3429523aa145003e12b2b73cb44c024c068fe92f8b6eb"
 ---
 

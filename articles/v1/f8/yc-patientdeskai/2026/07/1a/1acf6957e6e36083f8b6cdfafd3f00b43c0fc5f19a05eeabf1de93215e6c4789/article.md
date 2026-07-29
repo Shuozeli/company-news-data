@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/staff-efficiency-crisis-7-ways-dental-practices-win-in-2026"
 published_at: "2026-07-17T10:45:56.315+00:00"
 first_seen_at: "2026-07-24T08:23:01.167291+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:138923dbf48a2115b47c8e0c2f17867434d1d670574700f7f5cd96b0c74e4fba"
 ---
 

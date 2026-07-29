@@ -7,7 +7,7 @@ source_id: "precision-optics-corporation-inc-common-stock-rss-e4e1268f22c7"
 canonical_url: "https://www.poci.com/podcasts/the-state-of-optics-2026-scaling-the-lab-single-use-and-the-path-to-ai-integration/"
 published_at: "2026-05-15T16:49:31+00:00"
 first_seen_at: "2026-07-25T19:43:41.575348+00:00"
-fetched_at: "2026-07-28T22:59:22.018118+00:00"
+fetched_at: "2026-07-29T14:35:14.882149+00:00"
 content_hash: "sha256:5f9c1fa04da1ce34d888a43ce1c715d26f646839ef8f36b5b1c1d8c3f4547b73"
 ---
 

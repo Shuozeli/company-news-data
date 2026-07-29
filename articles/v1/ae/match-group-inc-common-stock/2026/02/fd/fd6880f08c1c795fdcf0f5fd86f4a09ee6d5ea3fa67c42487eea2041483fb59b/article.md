@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/matchgroup/how-match-group-cfos-runs-the-finance-function-behind-modern-dating/"
 published_at: "2026-02-13T21:36:01+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:834858d164b4bed3ef9af31964b13b8eb7fc25e60dce8b9a46c7424030f19655"
 ---
 

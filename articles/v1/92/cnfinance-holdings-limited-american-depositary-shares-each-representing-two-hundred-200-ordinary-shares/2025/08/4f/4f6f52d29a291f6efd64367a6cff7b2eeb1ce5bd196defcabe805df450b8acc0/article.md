@@ -7,7 +7,7 @@ source_id: "cnfinance-holdings-limited-american-depositary-shares-each-represent
 canonical_url: "https://ir.cashchina.cn/2025-08-28-CNFinance-Announces-First-Half-of-2025-Unaudited-Financial-Results"
 published_at: "2025-08-28T10:15:00+00:00"
 first_seen_at: "2026-07-24T22:41:06.464135+00:00"
-fetched_at: "2026-07-28T23:04:13.541099+00:00"
+fetched_at: "2026-07-29T14:42:45.656610+00:00"
 content_hash: "sha256:592bb75d3b78a8cfaddf656206c0dc8c0b44206649496bcd653d620c331e5d9e"
 ---
 

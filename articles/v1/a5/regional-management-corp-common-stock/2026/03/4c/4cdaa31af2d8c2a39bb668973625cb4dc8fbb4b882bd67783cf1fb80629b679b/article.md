@@ -7,7 +7,7 @@ source_id: "regional-management-corp-common-stock-rss-a5d1e458e13d"
 canonical_url: "https://www.regionalmanagement.com/news-and-events/news/press-release-details/2026/Regional-Management-Corp--to-Report-First-Quarter-2026-Results-on-Wednesday-April-29-2026/default.aspx"
 published_at: "2026-03-30T20:15:00+00:00"
 first_seen_at: "2026-07-25T20:48:13.259631+00:00"
-fetched_at: "2026-07-28T22:54:28.620667+00:00"
+fetched_at: "2026-07-29T14:24:35.082399+00:00"
 content_hash: "sha256:51f7f87971d970050fd70f2a3197d7c90989a8686a7283e07cb85fe101803f6b"
 ---
 

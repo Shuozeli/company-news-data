@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/regimen-simplificado-de-confianza-ventajas-y-desventajas"
 published_at: "2022-09-22T16:31:17+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:bd957f3192f7e5873fb89ffd38ef4fa19baed512e239ee5f1d4b2631d3b00c30"
 ---
 

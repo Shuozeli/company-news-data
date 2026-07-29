@@ -7,7 +7,7 @@ source_id: "greenidge-generation-holdings-inc-class-a-common-stock-rss-2e47b4921
 canonical_url: "https://ir.greenidge.com/news-releases/news-release-details/greenidge-new-york-state-agree-historic-new-air-permit-will"
 published_at: "2025-11-07T21:48:00+00:00"
 first_seen_at: "2026-07-25T07:06:39.923184+00:00"
-fetched_at: "2026-07-28T23:45:45.493892+00:00"
+fetched_at: "2026-07-29T14:59:20.435487+00:00"
 content_hash: "sha256:b517600b0a0decda20daf157f93232a832e4fdb9ca3179d92a9f42a560829803"
 ---
 

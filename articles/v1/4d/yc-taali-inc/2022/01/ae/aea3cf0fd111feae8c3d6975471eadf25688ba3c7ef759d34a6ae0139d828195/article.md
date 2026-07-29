@@ -7,7 +7,7 @@ source_id: "yc-taali-inc-atom-1c5284bf832e"
 canonical_url: "https://taalifoods.in/blogs/blog/5-habits-for-a-healthier-lifestyle"
 published_at: "2022-01-31T17:30:00+00:00"
 first_seen_at: "2026-07-26T01:19:03.323341+00:00"
-fetched_at: "2026-07-29T00:34:47.254454+00:00"
+fetched_at: "2026-07-29T14:01:38.736751+00:00"
 content_hash: "sha256:6d3f95fc529029edcc6ab86f2811023893a07e5ecf4b5d19de19c164681f77fc"
 ---
 

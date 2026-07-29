@@ -7,7 +7,7 @@ source_id: "pinnacle-west-capital-corporation-common-stock-rss-9af6db3e95b3"
 canonical_url: "http://www.pinnaclewest.com/newsroom/company-news/news-release-details/2026/Pinnacle-West-Reports-2025-Full-Year-and-Fourth-Quarter-Results/default.aspx"
 published_at: "2026-02-25T13:35:00+00:00"
 first_seen_at: "2026-07-25T19:07:04.087325+00:00"
-fetched_at: "2026-07-28T23:49:41.928661+00:00"
+fetched_at: "2026-07-29T15:43:59.850871+00:00"
 content_hash: "sha256:e90dfbaf7866e5e95ce4221443196f76c54829e066cf91e525827f6b2d7a6ae9"
 ---
 

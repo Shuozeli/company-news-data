@@ -7,7 +7,7 @@ source_id: "argan-inc-common-stock-rss-04f1fea248dc"
 canonical_url: "https://arganinc.com/news/argan-inc-to-announce-fourth-quarter-and-fiscal-year-end-2026-results-and-host-conference-call-on-thursday-march-26-2026/"
 published_at: "2026-03-12T13:16:28+00:00"
 first_seen_at: "2026-07-20T03:31:21.385236+00:00"
-fetched_at: "2026-07-28T23:05:16.878471+00:00"
+fetched_at: "2026-07-29T14:43:13.006777+00:00"
 content_hash: "sha256:b52bfcc3ee6110f66db791ca9bb9d201d093143b65364d10faecb43afd24dc2a"
 ---
 

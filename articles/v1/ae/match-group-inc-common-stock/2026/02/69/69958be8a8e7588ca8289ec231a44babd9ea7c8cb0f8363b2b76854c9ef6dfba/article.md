@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/matchgroup/match-group-ceo-public-performance-reviews-build-a-culture-of-transparency/"
 published_at: "2026-02-13T21:33:48+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:4fdfe787849f598275b7c0f6f6515acccd94f8ee1b96058ffb0f129e6afba3a0"
 ---
 

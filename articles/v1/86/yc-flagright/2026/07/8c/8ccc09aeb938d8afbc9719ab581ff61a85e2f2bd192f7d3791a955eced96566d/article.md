@@ -7,7 +7,7 @@ source_id: "yc-flagright-news-import-ace9cee3e95e"
 canonical_url: "https://www.flagright.com/post/how-flagright-supports-fintechs-at-scale"
 published_at: "2026-07-27T00:00:00+00:00"
 first_seen_at: "2026-07-25T05:15:45.844172+00:00"
-fetched_at: "2026-07-27T08:00:34.444438+00:00"
+fetched_at: "2026-07-29T05:13:09.711822+00:00"
 content_hash: "sha256:a6d170295617cc021892df9f322449ee03e37219fbb53cfc91eaed92d67cba44"
 ---
 

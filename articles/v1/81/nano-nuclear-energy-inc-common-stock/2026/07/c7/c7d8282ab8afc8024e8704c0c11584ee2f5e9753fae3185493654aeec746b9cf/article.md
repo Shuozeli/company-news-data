@@ -7,7 +7,7 @@ source_id: "nano-nuclear-energy-inc-common-stock-rss-37f535d5108a"
 canonical_url: "https://nanonuclearenergy.com/nano-nuclear-and-fortil-advance-engineering-collaboration-for-the-kronos-mmr-fuel-handling-storage-system/"
 published_at: "2026-07-22T12:05:13+00:00"
 first_seen_at: "2026-07-24T11:57:10.338713+00:00"
-fetched_at: "2026-07-28T23:04:07.289571+00:00"
+fetched_at: "2026-07-29T14:41:55.212067+00:00"
 content_hash: "sha256:e9a60431dc913968804804e132d0e53f50eeea491d25e02ad329cfb58047c54f"
 ---
 

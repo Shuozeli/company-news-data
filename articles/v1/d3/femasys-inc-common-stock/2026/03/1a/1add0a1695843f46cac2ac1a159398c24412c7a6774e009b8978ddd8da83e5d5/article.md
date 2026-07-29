@@ -7,7 +7,7 @@ source_id: "femasys-inc-common-stock-rss-373345f1915a"
 canonical_url: "https://ir.femasys.com/news/news-details/2026/Femasys-Appoints-Dr--Kenneth-D--Eichenbaum-to-Board-of-Directors/default.aspx"
 published_at: "2026-03-18T13:00:00+00:00"
 first_seen_at: "2026-07-25T04:11:17.717746+00:00"
-fetched_at: "2026-07-29T00:50:47.996828+00:00"
+fetched_at: "2026-07-29T14:20:14.419375+00:00"
 content_hash: "sha256:9bf6a49af5fd84574863ccc36c3f35ebd2d29e3beeb6cf1345706b5e7c42e74f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "quantum-si-incorporated-class-a-common-stock-rss-5dc339ba7c8c"
 canonical_url: "https://www.quantum-si.com/news/quantum-sis-q4-revenues-grow-threefold/"
 published_at: "2025-03-04T16:26:31+00:00"
 first_seen_at: "2026-07-25T01:13:17.793514+00:00"
-fetched_at: "2026-07-28T22:13:28.896883+00:00"
+fetched_at: "2026-07-29T14:21:25.250350+00:00"
 content_hash: "sha256:05d4f5a8ee27ad60f594ed03186393941adc6cdba131b7ebc6b1b7537b39565f"
 ---
 

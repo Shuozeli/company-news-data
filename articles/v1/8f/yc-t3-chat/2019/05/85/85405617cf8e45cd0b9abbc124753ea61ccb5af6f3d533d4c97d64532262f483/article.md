@@ -7,7 +7,7 @@ source_id: "yc-t3-chat-atom-d1fc2023c50f"
 canonical_url: "https://docs.ping.gg/blog/first-blog-post"
 published_at: "2019-05-28T00:00:00+00:00"
 first_seen_at: "2026-07-27T05:36:55.128030+00:00"
-fetched_at: "2026-07-28T22:53:55.781242+00:00"
+fetched_at: "2026-07-29T14:23:19.369415+00:00"
 content_hash: "sha256:61177cb24855802a1991e7f0b1b205e40e3273ff84b2c126d215e32cfb22ae06"
 ---
 

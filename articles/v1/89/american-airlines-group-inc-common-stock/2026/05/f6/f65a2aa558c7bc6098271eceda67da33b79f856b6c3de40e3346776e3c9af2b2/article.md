@@ -7,7 +7,7 @@ source_id: "american-airlines-group-inc-common-stock-news-import-f35386f4cd76"
 canonical_url: "https://news.aa.com/news/news-details/2026/Your-European-summer-is-calling-American-Airlines-unlocks-more-access-for-travelers-NET-RTS-05/default.aspx"
 published_at: "2026-05-21T00:00:00+00:00"
 first_seen_at: "2026-07-23T01:45:36.404123+00:00"
-fetched_at: "2026-07-28T20:07:07.541585+00:00"
+fetched_at: "2026-07-29T08:53:20.055255+00:00"
 content_hash: "sha256:75ec012cedd89b08d7ab6b2d9bfd6259e746baa4e2a503b71d84e4072aad9df0"
 ---
 

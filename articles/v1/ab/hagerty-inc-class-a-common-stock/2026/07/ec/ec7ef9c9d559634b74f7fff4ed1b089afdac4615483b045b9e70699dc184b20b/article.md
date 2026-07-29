@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/entire-podium-of-1966-le-mans-gt40s-now-reunited-in-one-collection/"
 published_at: "2026-07-28T18:00:00+00:00"
 first_seen_at: "2026-07-28T18:43:17.019387+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:f8332b3761be0c7aa609c6d681ba0287febcf1750c1c2282e27b5759905b9e45"
 ---
 

@@ -7,7 +7,7 @@ source_id: "j-long-group-limited-class-a-ordinary-shares-rss-f100273bc0f8"
 canonical_url: "https://investors.j-long.com/j-long-group-limited-announces-effective-time-of-share-consolidation-reverse-stock-split-to-regain-nasdaq-compliance/"
 published_at: "2024-12-05T10:00:05+00:00"
 first_seen_at: "2026-07-27T03:16:23.483706+00:00"
-fetched_at: "2026-07-28T23:58:05.766082+00:00"
+fetched_at: "2026-07-29T17:22:56.603450+00:00"
 content_hash: "sha256:053defbd6ba671f7e0f91b29bebd0d500d37966d80ff597cf36459c0e37038d3"
 ---
 

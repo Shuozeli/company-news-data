@@ -7,7 +7,7 @@ source_id: "chaince-digital-holdings-inc-ordinary-shares-rss-3f461f105395"
 canonical_url: "https://chaincedigital.com/former-fenbushi-capital-executive-peter-yang-joins-chaince-digital-as-head-of-digital-assets-to-spearhead-tokenization-expansion/"
 published_at: "2026-03-26T13:00:23+00:00"
 first_seen_at: "2026-07-20T23:18:10.276107+00:00"
-fetched_at: "2026-07-28T22:17:20.039825+00:00"
+fetched_at: "2026-07-29T14:22:21.060654+00:00"
 content_hash: "sha256:03a8beae2997fbaf9b70932cad1ebfee435233c268c1d32b9d57d37ba20ce040"
 ---
 

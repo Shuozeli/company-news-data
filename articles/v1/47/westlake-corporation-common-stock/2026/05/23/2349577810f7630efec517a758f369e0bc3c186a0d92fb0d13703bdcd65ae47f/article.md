@@ -7,7 +7,7 @@ source_id: "westlake-corporation-common-stock-rss-403a0cef3f5a"
 canonical_url: "http://westlake.com/westlake-awards-scholarships-students-employees"
 published_at: "2026-05-18T14:46:02+00:00"
 first_seen_at: "2026-07-26T05:25:06.510406+00:00"
-fetched_at: "2026-07-28T21:41:26.625510+00:00"
+fetched_at: "2026-07-29T15:27:08.183301+00:00"
 content_hash: "sha256:8e223d06c4b4149395fbab102155395a3b5b27559a3f35972c1f448e37568606"
 ---
 

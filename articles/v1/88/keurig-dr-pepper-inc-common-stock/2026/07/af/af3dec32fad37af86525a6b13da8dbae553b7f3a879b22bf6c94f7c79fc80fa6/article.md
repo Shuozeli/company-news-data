@@ -7,7 +7,7 @@ source_id: "keurig-dr-pepper-inc-common-stock-rss-28bc20b6d247"
 canonical_url: "https://www.keurigdrpepper.com/60-years-of-clamato-the-original-michelada-essential/"
 published_at: "2026-07-10T15:18:05+00:00"
 first_seen_at: "2026-07-25T10:42:45.972346+00:00"
-fetched_at: "2026-07-29T00:42:53.622202+00:00"
+fetched_at: "2026-07-29T14:07:18.973286+00:00"
 content_hash: "sha256:a38c7cc0d9097d2b73f1e20ecfd629a4620e1ee6c7c3bc9e22b5745044f59970"
 ---
 

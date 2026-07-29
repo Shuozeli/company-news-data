@@ -7,7 +7,7 @@ source_id: "camtek-ltd-ordinary-shares-rss-b0ef33c99f07"
 canonical_url: "https://www.camtek.com/camtek-announces-results-for-the-first-quarter-of-2024/"
 published_at: "2024-05-09T10:40:23+00:00"
 first_seen_at: "2026-07-20T23:21:49.362130+00:00"
-fetched_at: "2026-07-28T23:19:37.845810+00:00"
+fetched_at: "2026-07-29T15:12:00.972299+00:00"
 content_hash: "sha256:cded78e1e2a8de32cb6e2ab3dd95204b66ea97def5aeff1e07b3b8042b104389"
 ---
 

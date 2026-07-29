@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/beyond-the-beep-ai-voice-agents-financial-services"
 published_at: "2025-09-15T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:6b4cd85de17d82495ec99184c6c7b2586f774c7c8025909bde6665ee9f273e70"
 ---
 

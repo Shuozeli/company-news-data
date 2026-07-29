@@ -7,7 +7,7 @@ source_id: "cumberland-pharmaceuticals-inc-common-stock-rss-3ab07e3622d9"
 canonical_url: "https://www.cumberlandpharma.com/first-quarter-2024-updates-including-a-special-report-for-our-caldolor-product/"
 published_at: "2024-05-15T15:49:00+00:00"
 first_seen_at: "2026-07-20T23:19:50.983327+00:00"
-fetched_at: "2026-07-29T00:46:25.939104+00:00"
+fetched_at: "2026-07-29T14:09:43.459682+00:00"
 content_hash: "sha256:94c12a92bf5d27457f362bb971645673aa5ccd1851a3b796afe252b759e5d3be"
 ---
 

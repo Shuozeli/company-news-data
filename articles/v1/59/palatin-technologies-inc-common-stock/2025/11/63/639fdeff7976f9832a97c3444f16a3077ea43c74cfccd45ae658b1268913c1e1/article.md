@@ -7,7 +7,7 @@ source_id: "palatin-technologies-inc-common-stock-rss-d180129b5346"
 canonical_url: "https://palatin.com/press_releases/palatin-technologies-announces-pricing-of-upsized-15-8-million-public-offering/"
 published_at: "2025-11-06T12:30:00+00:00"
 first_seen_at: "2026-07-25T18:13:52.743786+00:00"
-fetched_at: "2026-07-29T00:14:35.041460+00:00"
+fetched_at: "2026-07-29T17:16:23.291870+00:00"
 content_hash: "sha256:59abdef8dc732777bfdfddfafadc57e39b311d372f74a5308b229b6dcf34e984"
 ---
 

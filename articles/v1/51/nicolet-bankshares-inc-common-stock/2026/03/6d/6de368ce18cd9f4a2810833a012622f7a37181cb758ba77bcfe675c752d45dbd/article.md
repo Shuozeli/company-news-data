@@ -7,7 +7,7 @@ source_id: "nicolet-bankshares-inc-common-stock-rss-e5f4fcd536be"
 canonical_url: "https://investors.nicoletbank.com/news-market-information/press-releases/news-details/2026/Nicolet-Bankshares-Inc--Added-to-the-KBW-Nasdaq-Regional-Bank-Index/default.aspx"
 published_at: "2026-03-30T20:15:00+00:00"
 first_seen_at: "2026-07-25T16:20:55.850182+00:00"
-fetched_at: "2026-07-28T23:41:30.060629+00:00"
+fetched_at: "2026-07-29T15:34:30.934790+00:00"
 content_hash: "sha256:8c2504f797d5ab114e1041a64a3f51c7e6bd66df1079adce1cad8fccae7ed399"
 ---
 

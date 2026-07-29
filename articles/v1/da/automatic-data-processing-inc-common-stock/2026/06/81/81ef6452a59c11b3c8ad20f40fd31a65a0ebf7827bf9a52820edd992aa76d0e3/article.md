@@ -7,7 +7,7 @@ source_id: "automatic-data-processing-inc-common-stock-rss-53b9cd362f71"
 canonical_url: "https://mediacenter.adp.com/2026-06-23-ADP-National-Employment-Report-Preliminary-Estimate-for-June-6,-2026"
 published_at: "2026-06-23T12:15:00+00:00"
 first_seen_at: "2026-07-20T04:35:27.491401+00:00"
-fetched_at: "2026-07-28T23:40:01.706271+00:00"
+fetched_at: "2026-07-29T15:34:18.786626+00:00"
 content_hash: "sha256:06b9bd0a37b7592f2c1915f148df1386a504aeed37561543b4082e304c25e705"
 ---
 

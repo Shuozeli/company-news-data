@@ -7,7 +7,7 @@ source_id: "yc-gusto-news-import-a18fb5381575"
 canonical_url: "https://gusto.com/resources/articles/taxes/form-1099-nec"
 published_at: null
 first_seen_at: "2026-07-25T07:19:59.033602+00:00"
-fetched_at: "2026-07-28T11:17:57.475842+00:00"
+fetched_at: "2026-07-29T14:27:10.535547+00:00"
 content_hash: "sha256:40e14efe256e7972f89d7b634a0dd43a45a003ffdaa5c6ed5cebfb8780dd91d4"
 ---
 

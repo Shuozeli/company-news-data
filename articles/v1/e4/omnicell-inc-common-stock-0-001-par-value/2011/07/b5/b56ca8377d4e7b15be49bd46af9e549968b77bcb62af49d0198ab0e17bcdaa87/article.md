@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2011/Royal-Victoria-Hospital-Selects-Omnicell-to-Improve-Patient-Safety-with-Automated-Medication-Management/default.aspx"
 published_at: "2011-07-26T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:e863c66378a1a65fcb5690679b42052b8b082a6625badf79caeae4403f2b44b1"
 ---
 

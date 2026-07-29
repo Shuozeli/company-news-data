@@ -7,7 +7,7 @@ source_id: "yc-hannah-life-technologies-atom-a63a77caafac"
 canonical_url: "https://blog.twoplusfertility.com/blogs/pregnancy-stories/4-years-of-trying-and-pregnant-in-one-cycle-of-twoplus-applicator"
 published_at: "2025-03-04T16:00:02+00:00"
 first_seen_at: "2026-07-24T13:31:41.510206+00:00"
-fetched_at: "2026-07-28T23:50:30.923269+00:00"
+fetched_at: "2026-07-29T15:44:39.654860+00:00"
 content_hash: "sha256:a7bc17b14b0bec7ec555735dda460d007cc508e275c68f1fc0768eacefd152b8"
 ---
 

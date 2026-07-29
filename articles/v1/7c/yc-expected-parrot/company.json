@@ -4,9 +4,9 @@
     "key": "yc-expected-parrot",
     "name": "Expected Parrot"
   },
-  "record_count": 20,
+  "record_count": 21,
   "first_published_at": "2025-04-07T20:13:09+00:00",
-  "last_published_at": "2026-07-23T20:31:42+00:00",
+  "last_published_at": "2026-07-29T00:57:22+00:00",
   "partitions": [
     {
       "partition": "2025-04",
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 5
+      "record_count": 6
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -46,10 +46,10 @@
       {
         "page": 1,
         "path": "articles/v1/7c/yc-expected-parrot/index/pages/000001.json",
-        "record_count": 20,
-        "byte_count": 20003,
-        "sha256": "sha256:7cbd32fc42972ed55a5f52d98462d221c63ae520db5d330866d9323cb995e262",
-        "newest_at": "2026-07-23T20:31:42+00:00",
+        "record_count": 21,
+        "byte_count": 20987,
+        "sha256": "sha256:228714de36250da7ba0cde6b3ac617f54ec875ad648909327c526d457b6b781f",
+        "newest_at": "2026-07-29T00:57:22+00:00",
         "oldest_at": "2025-04-07T20:13:09+00:00"
       }
     ]

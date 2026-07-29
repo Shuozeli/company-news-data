@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2023/digi-acknowledges-exemplary-performance"
 published_at: "2023-07-27T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:f0b57948e92d63828f365639f3cf7b4d59cecfeca5a82f3a9a4d81613d1f047f"
 ---
 

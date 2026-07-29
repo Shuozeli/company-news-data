@@ -7,7 +7,7 @@ source_id: "consolidated-water-co-ltd-ordinary-shares-rss-592e2c87a685"
 canonical_url: "https://ir.cwco.com/corporate/press-releases/news-details/2026/Consolidated-Water-Declares-Third-Quarter-Cash-Dividend/default.aspx"
 published_at: "2026-06-05T12:31:00+00:00"
 first_seen_at: "2026-07-26T12:13:59.807825+00:00"
-fetched_at: "2026-07-28T23:12:29.725987+00:00"
+fetched_at: "2026-07-29T14:58:16.020029+00:00"
 content_hash: "sha256:11bb70cc0ab9a2800e2ae14dd388f1eb3606f49f1d44b42f2247a857467e4971"
 ---
 

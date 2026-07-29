@@ -7,7 +7,7 @@ source_id: "yc-hannah-life-technologies-atom-a63a77caafac"
 canonical_url: "https://blog.twoplusfertility.com/blogs/pregnancy-stories/pregnant-in-one-cycle-despite-sex-challenges"
 published_at: "2024-09-30T04:07:23+00:00"
 first_seen_at: "2026-07-24T13:31:41.510206+00:00"
-fetched_at: "2026-07-28T23:50:30.923269+00:00"
+fetched_at: "2026-07-29T15:44:39.654860+00:00"
 content_hash: "sha256:b61f2986f5c58cdd2e4a7c3dc2b8ba54afb5f22c3c893985793347121e621f2b"
 ---
 

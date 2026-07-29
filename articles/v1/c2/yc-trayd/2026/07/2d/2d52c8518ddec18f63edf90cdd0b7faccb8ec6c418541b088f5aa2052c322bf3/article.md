@@ -7,7 +7,7 @@ source_id: "yc-trayd-news-import-fb61b5204c7e"
 canonical_url: "https://www.buildtrayd.com/blog/best-construction-payroll-software-in-2026-the-complete-buyer-s-guide-for-specialty-trade-contractors"
 published_at: "2026-07-15T00:00:00+00:00"
 first_seen_at: "2026-07-27T21:22:41.896679+00:00"
-fetched_at: "2026-07-28T10:07:22.225878+00:00"
+fetched_at: "2026-07-29T12:45:09.763976+00:00"
 content_hash: "sha256:e04f64745799fbc6377c8643efabf97ccda1ecfbb4b8f380fbeae43f153529db"
 ---
 

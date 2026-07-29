@@ -7,7 +7,7 @@ source_id: "vince-holding-corp-common-stock-rss-88eb2c7b52d3"
 canonical_url: "http://investors.vince.com/press-releases/press-release-details/2026/Vince-Announces-Participation-in-the-28th-Annual-ICR-Conference/default.aspx"
 published_at: "2026-01-05T12:30:00+00:00"
 first_seen_at: "2026-07-26T04:41:31.329212+00:00"
-fetched_at: "2026-07-28T23:38:21.832592+00:00"
+fetched_at: "2026-07-29T15:33:23.404729+00:00"
 content_hash: "sha256:fe43be18c6270dcf33b3ba45b7e8ca3b37327fdce033593b439626b3ba33c4ba"
 ---
 

@@ -7,7 +7,7 @@ source_id: "broadwind-inc-common-stock-rss-eded55d2a731"
 canonical_url: "https://investors.bwen.com/investor-news/investor-news-details/2025/Broadwind-Announces-New-Share-Repurchase-Program/default.aspx"
 published_at: "2025-09-10T20:17:00+00:00"
 first_seen_at: "2026-07-25T01:06:56.675955+00:00"
-fetched_at: "2026-07-28T23:31:51.745295+00:00"
+fetched_at: "2026-07-29T15:27:40.865791+00:00"
 content_hash: "sha256:1eca75e50c86edd1eba85413a7ab8481049e032aaa1b35f1963e398bf7631262"
 ---
 

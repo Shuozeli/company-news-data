@@ -7,7 +7,7 @@ source_id: "urban-one-inc-class-d-common-stock-rss-26e001b25260"
 canonical_url: "https://urban1.com/the-daily-play-with-joy-taylor/"
 published_at: "2026-06-01T17:56:47+00:00"
 first_seen_at: "2026-07-24T13:32:44.280218+00:00"
-fetched_at: "2026-07-29T00:03:51.864101+00:00"
+fetched_at: "2026-07-29T15:46:28.173865+00:00"
 content_hash: "sha256:ba83013e002bb25cc3d51d2731f1df5367f896c2b4aa3f07fe2db523d4f421e1"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-nano-technologies-rss-e57af4e48835"
 canonical_url: "http://vuiapp.vn/chinh-sach-dong-hanh-cua-vui-app-danh-cho-central-retail-vietnam"
 published_at: "2026-06-18T09:40:06+00:00"
 first_seen_at: "2026-07-25T01:53:29.155507+00:00"
-fetched_at: "2026-07-28T23:11:40.065777+00:00"
+fetched_at: "2026-07-29T14:56:52.420060+00:00"
 content_hash: "sha256:b702264a553e6e767df522f5cad667a78d06d434ffa1cb6d71ee20a120e6aedb"
 ---
 

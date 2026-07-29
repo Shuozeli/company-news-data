@@ -7,7 +7,7 @@ source_id: "amarin-corporation-plc-rss-5a6dc08ff807"
 canonical_url: "https://investors.amarincorp.com/news-releases/news-release-details/amarin-highlights-guideline-recommended-role-icosapent-ethyl"
 published_at: "2026-03-18T12:30:21+00:00"
 first_seen_at: "2026-07-26T09:06:16.575376+00:00"
-fetched_at: "2026-07-28T23:16:02.876317+00:00"
+fetched_at: "2026-07-29T15:05:52.933617+00:00"
 content_hash: "sha256:8d02bf935deead6f4978841e66d9305b65ccde08a46dd31e6b67a054af97ba02"
 ---
 

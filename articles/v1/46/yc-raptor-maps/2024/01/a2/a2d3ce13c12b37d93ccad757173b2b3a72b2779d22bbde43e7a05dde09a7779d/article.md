@@ -7,7 +7,7 @@ source_id: "yc-raptor-maps-news-import-b5ff0369b973"
 canonical_url: "https://raptormaps.com/blog-posts/raptor-maps-named-on-the-2024-global-cleantech-100"
 published_at: "2024-01-11T00:00:00+00:00"
 first_seen_at: "2026-07-25T20:33:59.779959+00:00"
-fetched_at: "2026-07-28T13:16:38.520230+00:00"
+fetched_at: "2026-07-29T17:22:01.176239+00:00"
 content_hash: "sha256:0193e2c1f5f21a3774e5407808d26c6feabc10291d71fd617af181dc76dc3a0a"
 ---
 

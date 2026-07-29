@@ -7,7 +7,7 @@ source_id: "icl-group-ltd-ordinary-shares-rss-1319d6d0e2f1"
 canonical_url: "https://investors.icl-group.com/reports-news-and-events/press-releases/press-releases-details/2026/ICL-Files-2025-Annual-Report-on-Form-20-F/default.aspx"
 published_at: "2026-03-11T07:15:00+00:00"
 first_seen_at: "2026-07-28T23:02:56.552705+00:00"
-fetched_at: "2026-07-28T23:02:56.502587+00:00"
+fetched_at: "2026-07-29T14:39:30.358461+00:00"
 content_hash: "sha256:fdd2ee68c297094fdb2e464267ed73f51fb8dedb9de31c6a6fd4e742028cf2f8"
 ---
 

@@ -7,7 +7,7 @@ source_id: "logistic-properties-of-the-americas-ordinary-shares-rss-03de7fdaa01e
 canonical_url: "https://ir.lpamericas.com/news-events/news/news-details/2026/Logistic-Properties-of-the-Americas-Announces-Filing-of-Its-Form-20-F-for-Fiscal-Year-2025/default.aspx"
 published_at: "2026-03-18T20:29:00+00:00"
 first_seen_at: "2026-07-26T04:52:04.973940+00:00"
-fetched_at: "2026-07-28T22:15:50.593951+00:00"
+fetched_at: "2026-07-29T14:21:51.896569+00:00"
 content_hash: "sha256:6dc5920c74e3b258aed062066971086cc378ac20b0163d3fa675d06492361d2f"
 ---
 

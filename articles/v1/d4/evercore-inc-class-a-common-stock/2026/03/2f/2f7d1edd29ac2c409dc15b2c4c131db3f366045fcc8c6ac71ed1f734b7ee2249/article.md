@@ -7,7 +7,7 @@ source_id: "evercore-inc-class-a-common-stock-rss-cec3ba1f6fc0"
 canonical_url: "https://www.evercore.com/ben-carpenter-joins-evercore-as-senior-managing-director-in-the-healthcare-investment-banking-group/"
 published_at: "2026-03-02T13:19:49+00:00"
 first_seen_at: "2026-07-21T01:18:50.348672+00:00"
-fetched_at: "2026-07-29T00:20:15.020156+00:00"
+fetched_at: "2026-07-29T15:05:01.473214+00:00"
 content_hash: "sha256:c1a458bd116e31655b9f218a2c94117e47a008639f50d398556c2a9d2238ac95"
 ---
 

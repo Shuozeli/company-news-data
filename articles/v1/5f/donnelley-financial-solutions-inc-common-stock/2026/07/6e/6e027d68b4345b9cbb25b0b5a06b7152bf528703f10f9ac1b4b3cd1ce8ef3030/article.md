@@ -7,7 +7,7 @@ source_id: "donnelley-financial-solutions-inc-common-stock-rss-11dcbf3bf672"
 canonical_url: "https://www.dfinsolutions.com/authors/gary-casagrande"
 published_at: "2026-07-20T19:46:29+00:00"
 first_seen_at: "2026-07-20T23:21:53.404481+00:00"
-fetched_at: "2026-07-28T23:10:46.503717+00:00"
+fetched_at: "2026-07-29T14:57:33.393555+00:00"
 content_hash: "sha256:3c055a4c3d8d72f77a219ea5088f7e0c0711894d3c17cfff28425b7905c70d3e"
 ---
 

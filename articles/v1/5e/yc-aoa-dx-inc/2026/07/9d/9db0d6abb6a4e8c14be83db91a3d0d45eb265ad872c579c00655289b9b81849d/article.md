@@ -7,7 +7,7 @@ source_id: "yc-aoa-dx-inc-rss-3a191abfb2c6"
 canonical_url: "https://aoadx.com/aoa-dx-publishes-peer-reviewed-study/"
 published_at: "2026-07-13T15:00:16+00:00"
 first_seen_at: "2026-07-24T16:23:53.470400+00:00"
-fetched_at: "2026-07-28T22:59:18.279054+00:00"
+fetched_at: "2026-07-29T14:33:20.451368+00:00"
 content_hash: "sha256:f18ab4b4ff333d645740b6093c99a05fdfb9068bf4cb2626496eb3f47daa076d"
 ---
 

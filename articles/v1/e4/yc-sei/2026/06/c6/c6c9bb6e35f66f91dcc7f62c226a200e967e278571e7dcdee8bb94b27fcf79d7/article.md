@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/colorado-ai-act-banks-lenders-consequential-decisions"
 published_at: "2026-06-05T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:ba17800e37dfe641e4b423786fa1f9eb3ae1960d3ae18d6a8743708a3c40c730"
 ---
 

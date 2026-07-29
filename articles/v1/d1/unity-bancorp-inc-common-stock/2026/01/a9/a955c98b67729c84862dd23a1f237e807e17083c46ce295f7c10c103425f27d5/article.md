@@ -7,7 +7,7 @@ source_id: "unity-bancorp-inc-common-stock-rss-166a70da2dab"
 canonical_url: "http://unitybancorp.q4ir.com/news/press-release/2026/Piper-Sandler-Names-Unity-Bank-a-Top-Bank-Investment-Idea-for-2026/default.aspx"
 published_at: "2026-01-30T18:43:00+00:00"
 first_seen_at: "2026-07-26T03:46:32.692293+00:00"
-fetched_at: "2026-07-29T00:03:22.888089+00:00"
+fetched_at: "2026-07-29T17:03:57.239577+00:00"
 content_hash: "sha256:1610e029ef98521fec4fb378d67f2a64b644be3e3c2f8b3a90f2ceea70abb6e7"
 ---
 

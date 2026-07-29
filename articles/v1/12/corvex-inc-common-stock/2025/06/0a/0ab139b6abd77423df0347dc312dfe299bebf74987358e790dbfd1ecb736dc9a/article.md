@@ -7,7 +7,7 @@ source_id: "corvex-inc-common-stock-rss-5d3752083407"
 canonical_url: "https://www.corvex.ai/blog/inside-the-nvidia-b200-performance-cooling-and-real-world-use-cases"
 published_at: "2025-06-24T00:00:00+00:00"
 first_seen_at: "2026-07-26T12:16:19.295968+00:00"
-fetched_at: "2026-07-28T23:14:05.298165+00:00"
+fetched_at: "2026-07-29T15:01:56.064995+00:00"
 content_hash: "sha256:8fa5242d35dcf2871643d4abddeeaa40f31a4549ea83f870e28f7289a4150ad0"
 ---
 

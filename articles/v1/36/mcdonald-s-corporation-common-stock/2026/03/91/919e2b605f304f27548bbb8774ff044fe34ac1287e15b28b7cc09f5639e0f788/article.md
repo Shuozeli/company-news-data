@@ -7,7 +7,7 @@ source_id: "mcdonald-s-corporation-common-stock-rss-e3f7e88d5cc9"
 canonical_url: "https://medium.com/mcdonalds-technical-blog/from-ideation-to-automation-the-scoop-on-outages-1ad0eab5cee1"
 published_at: "2026-03-12T16:13:47+00:00"
 first_seen_at: "2026-07-22T17:27:13.648832+00:00"
-fetched_at: "2026-07-28T23:53:24.017559+00:00"
+fetched_at: "2026-07-29T17:01:15.253896+00:00"
 content_hash: "sha256:1766b06367f6eb910b43b13c06a62287c68c3fb5c53a02789d11275f9aa5a2c9"
 ---
 

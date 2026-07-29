@@ -7,7 +7,7 @@ source_id: "renew-energy-global-plc-class-a-ordinary-shares-rss-d5d99d5fc981"
 canonical_url: "https://www.renew.com/news/the-biggest-energy-shock-ever-why-clean-energy-is-india-s-only-way-out"
 published_at: "2026-06-11T07:17:58+00:00"
 first_seen_at: "2026-07-20T23:22:24.994581+00:00"
-fetched_at: "2026-07-28T23:23:56.325688+00:00"
+fetched_at: "2026-07-29T15:19:15.964025+00:00"
 content_hash: "sha256:220b53dd8ec5d66e77202609f2a0ae8fcfd5352bb9afd6f68b4056b23da59706"
 ---
 

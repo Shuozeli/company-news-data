@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/principales-cambios-en-el-cfdi-4-0-actualiza-tu-sistema-de-facturacion"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:6df77638c02b4fef7ad31019bba97dc16af73f65006512bc75ec807dff422966"
 ---
 

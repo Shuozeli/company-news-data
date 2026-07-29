@@ -7,7 +7,7 @@ source_id: "nlight-inc-common-stock-rss-e6d45f288d48"
 canonical_url: "https://investors.nlight.net/news-releases/news-details/2026/nLIGHT-Inc--Announces-Expansion-of-Torino-Italy-Operations-to-Support-European-and-Allied-Directed-Energy-Programs/default.aspx"
 published_at: "2026-04-30T12:05:00+00:00"
 first_seen_at: "2026-07-25T16:22:51.371933+00:00"
-fetched_at: "2026-07-28T23:41:40.377684+00:00"
+fetched_at: "2026-07-29T15:34:37.796442+00:00"
 content_hash: "sha256:4379a62e070f2bc67951edbb736449c19a22b8d600cc1d50fdc8f726d9627e03"
 ---
 

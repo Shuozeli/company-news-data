@@ -4,33 +4,17 @@
     "key": "qiagen-n-v-common-shares",
     "name": "Qiagen N.V. Common Shares"
   },
-  "record_count": 29,
-  "first_published_at": "2024-03-15T20:01:10+00:00",
+  "record_count": 18,
+  "first_published_at": "2026-05-19T20:05:00+00:00",
   "last_published_at": "2026-07-24T01:08:42+00:00",
   "partitions": [
     {
-      "partition": "2024-03",
-      "record_count": 2
-    },
-    {
-      "partition": "2025-08",
-      "record_count": 2
-    },
-    {
-      "partition": "2026-03",
-      "record_count": 3
-    },
-    {
-      "partition": "2026-04",
-      "record_count": 1
-    },
-    {
       "partition": "2026-05",
-      "record_count": 4
+      "record_count": 3
     },
     {
       "partition": "2026-06",
-      "record_count": 3
+      "record_count": 1
     },
     {
       "partition": "2026-07",
@@ -38,7 +22,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -46,11 +30,11 @@
       {
         "page": 1,
         "path": "articles/v1/2f/qiagen-n-v-common-shares/index/pages/000001.json",
-        "record_count": 29,
-        "byte_count": 32134,
-        "sha256": "sha256:c4a91248a8b24a5da0a8e65c93b3e3d77e536006df947f32fd37f4687a610aad",
+        "record_count": 18,
+        "byte_count": 19919,
+        "sha256": "sha256:9143a1269d08623612dee64182a5d65247fcb1e66d496be84952f18b1f8f86b0",
         "newest_at": "2026-07-24T01:08:42+00:00",
-        "oldest_at": "2024-03-15T20:01:10+00:00"
+        "oldest_at": "2026-05-19T20:05:00+00:00"
       }
     ]
   }

@@ -7,7 +7,7 @@ source_id: "united-airlines-holdings-inc-common-stock-rss-09ebc8191126"
 canonical_url: "https://united.mediaroom.com/2026-06-22-United-Accelerates-Starlink-Wi-Fi-Rollout-with-First-Widebody-Transatlantic-Flight"
 published_at: "2026-06-22T18:46:00+00:00"
 first_seen_at: "2026-07-20T03:31:22.575844+00:00"
-fetched_at: "2026-07-28T23:04:31.859605+00:00"
+fetched_at: "2026-07-29T14:41:57.745037+00:00"
 content_hash: "sha256:9a7042d5130840ee6543e8480262ed719e48ad429575807c9979e05ed2cf826c"
 ---
 

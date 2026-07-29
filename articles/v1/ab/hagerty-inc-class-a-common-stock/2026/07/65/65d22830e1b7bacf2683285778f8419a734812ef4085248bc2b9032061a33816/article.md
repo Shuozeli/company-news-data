@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/picture-car-confidential/picture-car-confidential-44-right-hand-drive-reticence/"
 published_at: "2026-07-24T18:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:f64b7727bd85888bceef9dd4c2bac0ff183f08a6bf746ed5f1540c7c19232567"
 ---
 

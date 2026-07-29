@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 2,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "c40e4054eef0c3aceb9061e1339a44ab0bd99d43159bc5ceca13cead73bbfd82",
+      "company_key": "yc-depot",
+      "company_name": "Depot",
+      "source_id": "yc-depot-rss-ed70a28fffeb",
+      "source_kind": "rss",
+      "canonical_url": "https://depot.dev/blog/planetscale-to-reduce-the-thundering-herd",
+      "title": "Scaling Depot: Solving a thundering herd problem",
+      "summary": "When upstream systems fail, retries pile up fast and your database becomes the bottleneck. Here's how we used PlanetScale's Insights to identify and fix the queries that were slowing us down during thundering herd events.",
+      "published_at": "2025-11-21T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+      "article_path": "articles/v1/4b/yc-depot/2025/11/c4/c40e4054eef0c3aceb9061e1339a44ab0bd99d43159bc5ceca13cead73bbfd82/article.md",
+      "record_path": "articles/v1/4b/yc-depot/2025/11/c4/c40e4054eef0c3aceb9061e1339a44ab0bd99d43159bc5ceca13cead73bbfd82/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "65db01bfe8ab56d0ff94e2a6d5621d73d4b83e8e1713031c640335286cb6ff36",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T20:58:20.301648+00:00",
       "article_path": "articles/v1/4b/yc-depot/2025/02/a1/a1df4d3bbdaf7a8f1503cba355ac7ef7e0a133663d51c481f3becc5d0eca68b4/article.md",
       "record_path": "articles/v1/4b/yc-depot/2025/02/a1/a1df4d3bbdaf7a8f1503cba355ac7ef7e0a133663d51c481f3becc5d0eca68b4/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "6ffd685661bd5dfe9f84bcf160220a87acd93648a4a2d840833bc22d76aadbea",
-      "company_key": "yc-depot",
-      "company_name": "Depot",
-      "source_id": "yc-depot-rss-ed70a28fffeb",
-      "source_kind": "rss",
-      "canonical_url": "https://depot.dev/blog/ultra-runners-for-macos",
-      "title": "macOS GitHub Actions Runners are now twice as fast",
-      "summary": "We are excited to announce an upgrade to Depot-managed macOS GitHub Actions runners that greatly accelerates disk I/O for all macOS jobs.",
-      "published_at": "2025-02-19T00:00:00+00:00",
-      "fetched_at": "2026-07-28T20:58:20.301648+00:00",
-      "article_path": "articles/v1/4b/yc-depot/2025/02/6f/6ffd685661bd5dfe9f84bcf160220a87acd93648a4a2d840833bc22d76aadbea/article.md",
-      "record_path": "articles/v1/4b/yc-depot/2025/02/6f/6ffd685661bd5dfe9f84bcf160220a87acd93648a4a2d840833bc22d76aadbea/record.json"
     }
   ]
 }

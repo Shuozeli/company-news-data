@@ -7,7 +7,7 @@ source_id: "carnival-corporation-common-stock-rss-ffa6724d6ae9"
 canonical_url: "https://www.carnivalcorp.com/inthenews/carnivals-celebration-key-completes-pier-extension/"
 published_at: "2026-06-29T16:28:59+00:00"
 first_seen_at: "2026-07-27T00:26:15.782947+00:00"
-fetched_at: "2026-07-29T00:11:01.176524+00:00"
+fetched_at: "2026-07-29T17:13:46.589005+00:00"
 content_hash: "sha256:26c122aac5befa155e26d142a193d3b75d5ad0276b83266ae1756b762f48a149"
 ---
 

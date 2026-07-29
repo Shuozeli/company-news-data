@@ -7,7 +7,7 @@ source_id: "stepstone-group-inc-class-a-common-stock-rss-d53e45329a72"
 canonical_url: "https://www.stepstonegroup.com/news-insights/stepstone-real-estate-spring-2026-house-views/"
 published_at: "2026-05-22T15:03:00+00:00"
 first_seen_at: "2026-07-24T02:21:02.641674+00:00"
-fetched_at: "2026-07-28T23:06:00.697821+00:00"
+fetched_at: "2026-07-29T14:46:39.461282+00:00"
 content_hash: "sha256:138c1e5c65253abf132fd84b462551b0097cf52623d2bab499f57ad9f52c1244"
 ---
 

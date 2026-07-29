@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T22:01:05.353137+00:00"
 content_hash: "sha256:50e152c1c0fb1176f9c75acffb1b33eceac4e15b89a292f3ffda631d8566992e"
 ---
 
-# ANSI/ASHRAE Standard 514: What it Means for Water Management
+# ANSI/ASHRAE Standard 514
 
 # ANSI/ASHRAE Standard 514
 

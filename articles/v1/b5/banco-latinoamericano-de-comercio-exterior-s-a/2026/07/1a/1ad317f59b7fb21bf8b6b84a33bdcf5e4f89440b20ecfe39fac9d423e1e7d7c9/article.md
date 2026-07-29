@@ -7,8 +7,8 @@ source_id: "banco-latinoamericano-de-comercio-exterior-s-a-rss-c43c50395ab0"
 canonical_url: "https://www.bladex.com/en/Bladex_Co-Leads_Financing_Package_for_the_Acquisition_of_Banistmo"
 published_at: "2026-07-09T16:36:56+00:00"
 first_seen_at: "2026-07-24T18:13:16.466615+00:00"
-fetched_at: "2026-07-29T00:24:29.653053+00:00"
-content_hash: "sha256:4212bf4245ee176ad780719397eab53bd33846b1e85613a75509f220a120fc9c"
+fetched_at: "2026-07-29T17:22:33.727432+00:00"
+content_hash: "sha256:85d3149e345f8fd4503c6b4f1c15306df3df5b2098fcb80266fb84df9cb9b132"
 ---
 
 # Bladex Co-leads Financing Package for the Acquisition of Banistmo
@@ -19,4 +19,4 @@ Bladex Co-leads Financing Package for the Acquisition of Banistmo
 Griselda Arias
 
 
-July 28, 2026
+July 29, 2026

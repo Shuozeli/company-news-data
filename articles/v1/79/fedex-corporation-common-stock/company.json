@@ -4,9 +4,9 @@
     "key": "fedex-corporation-common-stock",
     "name": "FedEx Corporation Common Stock"
   },
-  "record_count": 25,
+  "record_count": 26,
   "first_published_at": "2025-12-18T14:19:55.045+00:00",
-  "last_published_at": "2026-07-27T09:21:56.113+00:00",
+  "last_published_at": "2026-07-28T10:01:47.954+00:00",
   "partitions": [
     {
       "partition": "2025-12",
@@ -30,11 +30,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 12
+      "record_count": 13
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -42,10 +42,10 @@
       {
         "page": 1,
         "path": "articles/v1/79/fedex-corporation-common-stock/index/pages/000001.json",
-        "record_count": 25,
-        "byte_count": 28913,
-        "sha256": "sha256:651d364cc4f8e10c996305900b48c4a25a43cd631fef9aaac7df6436b8f2585b",
-        "newest_at": "2026-07-27T09:21:56.113+00:00",
+        "record_count": 26,
+        "byte_count": 30194,
+        "sha256": "sha256:36b14b3ba49627fd0233260fb875159b3431c6dca59ca3446fc8a3ba3761d79b",
+        "newest_at": "2026-07-28T10:01:47.954+00:00",
         "oldest_at": "2025-12-18T14:19:55.045+00:00"
       }
     ]

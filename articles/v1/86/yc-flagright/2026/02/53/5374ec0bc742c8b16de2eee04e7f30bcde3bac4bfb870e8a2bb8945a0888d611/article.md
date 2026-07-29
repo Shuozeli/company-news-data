@@ -7,7 +7,7 @@ source_id: "yc-flagright-news-import-ace9cee3e95e"
 canonical_url: "https://www.flagright.com/post/sme-bank-selects-flagright-for-real-time-transaction-monitoring-and-watchlist-screening"
 published_at: "2026-02-03T00:00:00+00:00"
 first_seen_at: "2026-07-25T05:15:45.844172+00:00"
-fetched_at: "2026-07-27T08:00:34.444438+00:00"
+fetched_at: "2026-07-29T05:13:09.711822+00:00"
 content_hash: "sha256:a668a0171bbb5e20ab90cded15e100ef078e45a8b2af92718dac28dc0116bf0f"
 ---
 

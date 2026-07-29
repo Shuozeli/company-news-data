@@ -7,7 +7,7 @@ source_id: "enanta-pharmaceuticals-inc-common-stock-rss-6165ef0aa60b"
 canonical_url: "https://www.enanta.com/potent-stat6-inhibitor-eps-3903-has-excellent-preclinical-pharmacokinetics-enabling-sustained-stat6-inhibition-with-once-daily-oral-dosing-in-humans/"
 published_at: "2026-04-18T16:29:00+00:00"
 first_seen_at: "2026-07-25T03:15:15.140684+00:00"
-fetched_at: "2026-07-28T23:17:26.594855+00:00"
+fetched_at: "2026-07-29T15:07:42.242480+00:00"
 content_hash: "sha256:693f8180605782f7449489844992155a50a861dda35bcfb58d2cfed32bec135f"
 ---
 

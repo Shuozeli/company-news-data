@@ -7,7 +7,7 @@ source_id: "yc-renthop-rss-2954ff02c95e"
 canonical_url: "https://www.renthop.com/blog/brooklyn-listings-in-july-of-2026-under-3583/"
 published_at: "2026-07-07T19:00:09+00:00"
 first_seen_at: "2026-07-25T21:04:29.929203+00:00"
-fetched_at: "2026-07-28T23:28:46.448791+00:00"
+fetched_at: "2026-07-29T15:24:47.318598+00:00"
 content_hash: "sha256:c6edf13fe23a99dcd7629841824752c5057c61138612bd89a6497ee75cb79954"
 ---
 

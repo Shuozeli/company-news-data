@@ -7,7 +7,7 @@ source_id: "yc-ochre-bio-rss-279ab36d1688"
 canonical_url: "https://www.ochre-bio.com/2025/11/21/ochre-bio-and-gsk-complete-early-research-into-human-liver/"
 published_at: "2025-11-21T03:04:00+00:00"
 first_seen_at: "2026-07-20T23:20:39.135312+00:00"
-fetched_at: "2026-07-28T23:13:09.647277+00:00"
+fetched_at: "2026-07-29T15:00:02.506650+00:00"
 content_hash: "sha256:29db9641a19b4d769948997f50c9fe1e47717cb795e1d730c52f4369a855bb1e"
 ---
 

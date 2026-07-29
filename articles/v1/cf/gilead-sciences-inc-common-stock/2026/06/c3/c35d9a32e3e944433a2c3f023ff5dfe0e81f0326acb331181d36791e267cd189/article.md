@@ -7,7 +7,7 @@ source_id: "gilead-sciences-inc-common-stock-rss-09ccf02975fd"
 canonical_url: "https://investors.gilead.com/news/news-details/2026/U-S--FDA-Accepts-Gileads-Application-for-Investigational-Once-Weekly-Oral-Yeztugo-Potentially-the-First-Long-Acting-Pill-for-HIV-Prevention/default.aspx"
 published_at: "2026-06-15T20:34:00+00:00"
 first_seen_at: "2026-07-27T02:44:03.371478+00:00"
-fetched_at: "2026-07-28T22:58:33.422632+00:00"
+fetched_at: "2026-07-29T14:32:40.105718+00:00"
 content_hash: "sha256:c765bdcab3f381afd664eccaca4b0f32fd4e2464f19d7c520296d88e51b9e7cf"
 ---
 

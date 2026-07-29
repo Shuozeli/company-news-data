@@ -7,7 +7,7 @@ source_id: "five9-inc-common-stock-rss-8477dcdb899e"
 canonical_url: "https://www.five9.com/registration/2026/no-more-friction-five9-epic-fusion-and-future-intelligent-patient-access"
 published_at: "2026-07-06T17:29:20+00:00"
 first_seen_at: "2026-07-20T23:21:52.950221+00:00"
-fetched_at: "2026-07-28T23:20:01.419019+00:00"
+fetched_at: "2026-07-29T15:09:57.217849+00:00"
 content_hash: "sha256:8425ea969fe6c9793aab3f80966fcb8eb8758cfc529b313c218d2a7f3ada7623"
 ---
 

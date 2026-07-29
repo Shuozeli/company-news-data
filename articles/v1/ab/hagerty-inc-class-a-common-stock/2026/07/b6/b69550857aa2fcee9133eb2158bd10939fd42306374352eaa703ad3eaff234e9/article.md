@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/when-broken-down-in-the-boonies-get-creative-and-rely-on-community/"
 published_at: "2026-07-17T17:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:f1324d01a7e7e62c2a9dbd9f3c275fa90b123883618a2772054ef08cf0b4acdb"
 ---
 

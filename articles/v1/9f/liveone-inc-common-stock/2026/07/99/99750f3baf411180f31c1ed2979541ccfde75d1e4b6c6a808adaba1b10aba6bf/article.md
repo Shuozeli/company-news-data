@@ -7,7 +7,7 @@ source_id: "liveone-inc-common-stock-rss-c9113ebe66b2"
 canonical_url: "https://ir.livexlive.com/news/news-details/2026/PodcastOne-Nasdaq-PODC-Acquires-The-Magnificent-Others-with-Billy-Corgan/default.aspx"
 published_at: "2026-07-23T12:00:00+00:00"
 first_seen_at: "2026-07-25T12:36:55.813684+00:00"
-fetched_at: "2026-07-28T23:43:09.273874+00:00"
+fetched_at: "2026-07-29T15:37:15.360226+00:00"
 content_hash: "sha256:5b705f2523aa17e9eada0d581d35642ef9fa0a5945b593592df19d65a0f1c3aa"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-sunfarmer-rss-1f8e1553caad"
 canonical_url: "http://www.sunfarmer.org/blog-full/annual-report"
 published_at: "2016-02-15T20:36:00+00:00"
 first_seen_at: "2026-07-24T02:43:22.011384+00:00"
-fetched_at: "2026-07-29T00:50:10.433723+00:00"
+fetched_at: "2026-07-29T14:19:18.321148+00:00"
 content_hash: "sha256:dc37db43dfb8c6d7a3b4d2e596c73e2c93c97ccd5a9bca7c5ad4ed479c05c427"
 ---
 

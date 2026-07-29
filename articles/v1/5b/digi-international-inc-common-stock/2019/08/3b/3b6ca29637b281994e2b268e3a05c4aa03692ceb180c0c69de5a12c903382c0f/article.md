@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2019/about-5g-part-2-who-will-adopt-5g-technology-and-w"
 published_at: "2019-08-21T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:bae69c7a5ac5981eb98b9d4c0d396b5ead1f27a595de474825552ca959946dde"
 ---
 

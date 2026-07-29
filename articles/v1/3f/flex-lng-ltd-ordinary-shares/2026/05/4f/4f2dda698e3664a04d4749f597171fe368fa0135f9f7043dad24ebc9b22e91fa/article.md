@@ -7,7 +7,7 @@ source_id: "flex-lng-ltd-ordinary-shares-rss-7ff9ab5b26ed"
 canonical_url: "https://www.flexlng.com/flex-lng-q1-2026-presentation/"
 published_at: "2026-05-13T05:00:00+00:00"
 first_seen_at: "2026-07-25T01:07:03.816170+00:00"
-fetched_at: "2026-07-29T00:34:05.068746+00:00"
+fetched_at: "2026-07-29T13:59:45.749416+00:00"
 content_hash: "sha256:ded0b73e9fd88e1d2ea664860810debc0d49452f72a26e4d1452ff5ebe733f41"
 ---
 

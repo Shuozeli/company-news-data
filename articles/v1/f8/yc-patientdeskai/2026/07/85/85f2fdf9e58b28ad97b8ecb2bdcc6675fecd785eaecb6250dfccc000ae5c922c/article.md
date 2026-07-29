@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/cutting-dental-overhead-8-strategies-that-work-in-2026"
 published_at: "2026-07-27T12:19:44.112+00:00"
 first_seen_at: "2026-07-28T00:03:35.753004+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:cfe8ac8191dcc8eedefeb47c33a4c85fb2eb39fd9c8d21a2982b9be9421b2924"
 ---
 

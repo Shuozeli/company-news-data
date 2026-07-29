@@ -7,7 +7,7 @@ source_id: "yc-avocademy-atom-b6352a591443"
 canonical_url: "https://www.avocademy.com/blogs/the-guac/can-i-get-into-ux-design-with-no-experience"
 published_at: "2024-10-04T05:50:01+00:00"
 first_seen_at: "2026-07-24T17:49:57.508530+00:00"
-fetched_at: "2026-07-28T23:04:51.921253+00:00"
+fetched_at: "2026-07-29T14:44:26.733402+00:00"
 content_hash: "sha256:f1dec844d3edac334a915142f72ab7ed44e631629c81629668bd22a55c5b163d"
 ---
 

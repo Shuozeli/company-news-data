@@ -4,17 +4,17 @@
     "key": "intercontinental-exchange-inc-common-stock",
     "name": "Intercontinental Exchange Inc. Common Stock"
   },
-  "record_count": 11,
+  "record_count": 12,
   "first_published_at": "2026-07-06T13:00:00+00:00",
-  "last_published_at": "2026-07-27T12:30:00+00:00",
+  "last_published_at": "2026-07-29T12:30:00+00:00",
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 11
+      "record_count": 12
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/5d/intercontinental-exchange-inc-common-stock/index/pages/000001.json",
-        "record_count": 11,
-        "byte_count": 12464,
-        "sha256": "sha256:6a5825f1cc9657649e014f6adce16497d77acb53dd1093ae98302795f20a8a84",
-        "newest_at": "2026-07-27T12:30:00+00:00",
+        "record_count": 12,
+        "byte_count": 13580,
+        "sha256": "sha256:81684bd6828e7f4d395ceec20af7c3150586ccf5ce8c2a1eba84152199e593d7",
+        "newest_at": "2026-07-29T12:30:00+00:00",
         "oldest_at": "2026-07-06T13:00:00+00:00"
       }
     ]

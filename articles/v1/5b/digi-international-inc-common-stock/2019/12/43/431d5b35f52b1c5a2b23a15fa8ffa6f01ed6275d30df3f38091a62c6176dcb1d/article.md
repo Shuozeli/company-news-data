@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2019/digi-holiday-fun-and-fundraising-over-6k-raised-f"
 published_at: "2019-12-31T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:cac1050271db375c8cb526f5d835b8406cc16717a34b908b82894d66f8f6728e"
 ---
 

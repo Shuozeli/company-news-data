@@ -7,7 +7,7 @@ source_id: "flex-lng-ltd-ordinary-shares-rss-7ff9ab5b26ed"
 canonical_url: "https://www.flexlng.com/6-k-report-of-foreign-issuer-15/"
 published_at: "2026-03-25T14:17:17+00:00"
 first_seen_at: "2026-07-25T01:07:03.816170+00:00"
-fetched_at: "2026-07-29T00:34:05.068746+00:00"
+fetched_at: "2026-07-29T13:59:45.749416+00:00"
 content_hash: "sha256:d96e901c59f4f6af2ff468a48154f8524184f5a19711fa73beb51636c6b516e8"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-envelope-news-import-bee3141ade7e"
 canonical_url: "https://envelopebudgeting.com/articles/what-is-a-sinking-fund"
 published_at: "2026-07-13T00:00:00+00:00"
 first_seen_at: "2026-07-25T03:03:48.735463+00:00"
-fetched_at: "2026-07-28T08:18:38.346356+00:00"
+fetched_at: "2026-07-29T09:34:39.456546+00:00"
 content_hash: "sha256:d72fbe274907ae624c5a0b2bb8fcdcaf60a4cfd125fd6de31a8d069d0d25ecaa"
 ---
 

@@ -7,8 +7,8 @@ source_id: "leidos-holdings-inc-common-stock-rss-27b1906f4f8e"
 canonical_url: "https://www.leidos.com/insights/social-value"
 published_at: "2022-05-19T17:58:33+00:00"
 first_seen_at: "2026-07-20T23:24:51.153241+00:00"
-fetched_at: "2026-07-28T23:52:51.225222+00:00"
-content_hash: "sha256:a9e1c4748239677365898d00828b0b0ccc4f9184c28e31d210ce9a024dc0bfc0"
+fetched_at: "2026-07-29T17:04:15.032740+00:00"
+content_hash: "sha256:acae86e141bb171476bd458cf14efea934d42c9f287357d186bb07a5017dd7e1"
 ---
 
 # UK Social Value Stories
@@ -26,6 +26,15 @@ Lead
 
 
 Learn more about Leidos UK Social Value.
+
+
+###### News
+
+
+###### Leidos introduces new AI platform to find, fix cybersecurity vulnerabilities
+
+
+[Read More](https://www.leidos.com/insights/leidos-introduces-new-ai-platform-find-fix-cybersecurity-vulnerabilities)
 
 
 ###### News
@@ -125,15 +134,6 @@ Learn more about Leidos UK Social Value.
 
 
 [Read More](https://www.leidos.com/insights/every-moment-digital-friction-carries-cost)
-
-
-###### Article
-
-
-###### America at 250: Building on a legacy of innovation & service
-
-
-[Read More](https://www.leidos.com/insights/america-250-building-legacy-innovation-service)
 
 
 - [Load More](https://www.leidos.com/insights/social-value?page=1)

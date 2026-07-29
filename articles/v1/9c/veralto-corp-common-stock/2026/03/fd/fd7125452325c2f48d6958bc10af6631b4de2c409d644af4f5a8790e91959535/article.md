@@ -7,7 +7,7 @@ source_id: "veralto-corp-common-stock-rss-061472cdeea0"
 canonical_url: "https://investors.veralto.com/2026-03-31-Veralto-Announces-Acquisition-of-GlobalVision-and-the-Completion-of-300-Million-of-Share-Repurchases"
 published_at: "2026-03-31T12:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:18.742713+00:00"
-fetched_at: "2026-07-28T22:15:54.927830+00:00"
+fetched_at: "2026-07-29T14:22:33.213156+00:00"
 content_hash: "sha256:add1447cb76629a7c30aa76ddc43e572e1ebf32cffbf9363341f000cace2140e"
 ---
 

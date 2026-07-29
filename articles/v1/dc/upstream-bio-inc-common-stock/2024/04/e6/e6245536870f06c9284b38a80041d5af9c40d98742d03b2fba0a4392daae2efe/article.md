@@ -7,7 +7,7 @@ source_id: "upstream-bio-inc-common-stock-rss-99445b08e5d2"
 canonical_url: "https://upstreambio.com/press-releases/upstream-bio-announces-appointment-of-rand-sutherland-as-ceo-and-additions-to-leadership-team/"
 published_at: "2024-04-02T03:26:59+00:00"
 first_seen_at: "2026-07-26T03:55:04.735472+00:00"
-fetched_at: "2026-07-28T23:01:24.602344+00:00"
+fetched_at: "2026-07-29T14:38:44.915062+00:00"
 content_hash: "sha256:c2856c193b7d728243957a8bceace30cd807e5664b1996040b5e87d151ae5167"
 ---
 

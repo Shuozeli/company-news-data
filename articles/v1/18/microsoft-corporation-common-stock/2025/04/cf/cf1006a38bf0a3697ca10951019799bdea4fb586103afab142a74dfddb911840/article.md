@@ -7,7 +7,7 @@ source_id: "microsoft-corporation-common-stock-rss-b65fec576a55"
 canonical_url: "https://news.microsoft.com/2025/04/30/microsoft-cloud-and-ai-strength-drives-third-quarter-results/"
 published_at: "2025-04-30T20:10:30+00:00"
 first_seen_at: "2026-07-20T03:30:09.434982+00:00"
-fetched_at: "2026-07-28T22:58:53.683131+00:00"
+fetched_at: "2026-07-29T15:38:43.505199+00:00"
 content_hash: "sha256:0046175b546d200024bc36a29fa7a0f48be53ced557c66cff9d24f5b9f694445"
 ---
 

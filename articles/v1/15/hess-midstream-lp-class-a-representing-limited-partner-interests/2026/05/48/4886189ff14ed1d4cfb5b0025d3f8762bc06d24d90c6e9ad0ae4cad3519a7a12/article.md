@@ -7,7 +7,7 @@ source_id: "hess-midstream-lp-class-a-representing-limited-partner-interests-rss
 canonical_url: "https://hessmidstream.gcs-web.com/news-releases/news-release-details/hess-midstream-lp-reports-estimated-results-first-quarter-2026"
 published_at: "2026-05-04T12:00:00+00:00"
 first_seen_at: "2026-07-25T08:01:31.054168+00:00"
-fetched_at: "2026-07-28T23:57:55.268606+00:00"
+fetched_at: "2026-07-29T17:08:06.114392+00:00"
 content_hash: "sha256:3249ff4531722a38eff5b0cd4a836093a51ccd0e1f00e2fc45f7fab31cfd8e1f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "w-w-grainger-inc-common-stock-rss-c26f5457af09"
 canonical_url: "https://pressroom.grainger.com/news/press-release-details/2026/GRAINGER-REPORTS-RESULTS-FOR-THE-FOURTH-QUARTER-AND-FULL-YEAR-2025/default.aspx"
 published_at: "2026-02-03T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.900782+00:00"
-fetched_at: "2026-07-29T00:24:15.617790+00:00"
+fetched_at: "2026-07-29T17:23:54.969525+00:00"
 content_hash: "sha256:bd611fa1c480d29f4c7c4a03135ff6f333a5292c9a6df4f7e4f5e2e073ba1243"
 ---
 

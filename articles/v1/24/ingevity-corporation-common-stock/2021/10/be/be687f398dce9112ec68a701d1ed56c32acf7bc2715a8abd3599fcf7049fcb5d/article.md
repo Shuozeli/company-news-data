@@ -7,7 +7,7 @@ source_id: "ingevity-corporation-common-stock-rss-d8061a749430"
 canonical_url: "https://www.ingevity.com/news/plant-spotlight-zhuhai/"
 published_at: "2021-10-07T17:28:23+00:00"
 first_seen_at: "2026-07-20T04:36:56.590700+00:00"
-fetched_at: "2026-07-28T23:56:17.533183+00:00"
+fetched_at: "2026-07-29T17:00:34.896371+00:00"
 content_hash: "sha256:ee7fdee6edf1bee72eae4ed024ce6f78f7e5c2ec2291434cf48bee7670866d5e"
 ---
 

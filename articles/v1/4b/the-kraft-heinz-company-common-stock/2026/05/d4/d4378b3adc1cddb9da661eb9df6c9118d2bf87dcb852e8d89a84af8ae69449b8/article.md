@@ -7,7 +7,7 @@ source_id: "the-kraft-heinz-company-common-stock-rss-8f17a12574d3"
 canonical_url: "https://news.kraftheinzcompany.com/press-releases-details/2026/Kraft-Heinz-Announces-Early-Tender-Participation-Results-Satisfaction-of-the-Financing-Condition-and-Election-of-Early-Settlement-for-Its-Previously-Announced-Cash-Tender-Offer/default.aspx"
 published_at: "2026-05-21T12:45:00+00:00"
 first_seen_at: "2026-07-26T02:11:22.027754+00:00"
-fetched_at: "2026-07-28T22:15:52.028343+00:00"
+fetched_at: "2026-07-29T14:22:30.995761+00:00"
 content_hash: "sha256:357592edfd074de162b7c8fb564b66de26c88b1c0af9e86690547775cc3e1f26"
 ---
 

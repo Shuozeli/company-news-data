@@ -7,7 +7,7 @@ source_id: "yc-forage-2-news-import-fbc52634aadb"
 canonical_url: "https://www.joinforage.com/newsroom/forage-and-freshdirect-enable-online-snap-for-new-yorkers"
 published_at: "2026-04-13T00:00:00+00:00"
 first_seen_at: "2026-07-23T09:56:12.801149+00:00"
-fetched_at: "2026-07-28T16:41:06.843475+00:00"
+fetched_at: "2026-07-29T05:34:01.047617+00:00"
 content_hash: "sha256:236181e89dd194482a7e5aedfdc6c8730336196160a611a4c6726733071968fb"
 ---
 

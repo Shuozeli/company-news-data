@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2025/00/edge-delivery-services-for-commerce-a-new-storefront-has-dropped"
 published_at: "2024-12-13T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:280556c8a2a24f85c8f80d4455be836bc9819739f8a09149e38e8b581c971168"
 ---
 

@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-ingredients-inc-provides-update-on-completion-of-fiscal-2025-audit-and-readiness-to-file-form-20-f/"
 published_at: "2026-03-29T17:48:56+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:bf8cab23b21cb6d26f84674d353b1c37d1a795df91fccb7c8ad6f41c5188cc65"
 ---
 

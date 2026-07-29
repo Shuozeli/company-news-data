@@ -7,7 +7,7 @@ source_id: "boot-barn-holdings-inc-common-stock-rss-38c814ae8764"
 canonical_url: "https://investor.bootbarn.com/news/news-details/2025/Boot-Barn-Celebrates-500th-Store-Marking-Major-Milestone-in-Coast-to-Coast-Growth/default.aspx"
 published_at: "2025-11-21T21:05:00+00:00"
 first_seen_at: "2026-07-26T10:48:19.112221+00:00"
-fetched_at: "2026-07-28T23:52:46.416504+00:00"
+fetched_at: "2026-07-29T16:58:26.835479+00:00"
 content_hash: "sha256:96fc81b99ea6327b090c1a91ce23bc3a5dee2eecc1b1586cd59ccae4b62cb2a9"
 ---
 

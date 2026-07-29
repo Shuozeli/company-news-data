@@ -7,7 +7,7 @@ source_id: "phibro-animal-health-corporation-class-a-common-stock-rss-841b8b6905
 canonical_url: "https://investors.pahc.com/press-releases/press-release-details/2026/Phibro-Animal-Health-Corporation-Declares-Quarterly-Dividend-d31e2e514/default.aspx"
 published_at: "2026-05-05T20:30:00+00:00"
 first_seen_at: "2026-07-25T18:55:33.025775+00:00"
-fetched_at: "2026-07-28T23:27:20.556092+00:00"
+fetched_at: "2026-07-29T15:20:38.380505+00:00"
 content_hash: "sha256:3e9fba7d492bec6383c8420ce825332a14b9dd52709b4f0abe667e36b8b336d1"
 ---
 

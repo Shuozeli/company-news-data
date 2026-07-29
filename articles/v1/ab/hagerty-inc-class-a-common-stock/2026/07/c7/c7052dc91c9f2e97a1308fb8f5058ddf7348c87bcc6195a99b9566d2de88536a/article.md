@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/hagerty-community/7-cars-that-aged-better-than-we-expected/"
 published_at: "2026-07-22T20:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:cbc224855d94a94a11ea76af513ae247c8408e0bf45bb17cf45c1089b7d4737f"
 ---
 

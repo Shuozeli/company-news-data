@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/bienvenue-a-bord-du-gas-vitality-le-navire-qui-fournit-du-gnl-a-certains-paquebots/"
 published_at: "2025-04-11T13:45:05+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T23:24:39.102238+00:00"
+fetched_at: "2026-07-29T15:20:19.764825+00:00"
 content_hash: "sha256:c06f5afa85378f4618c82cfcdd6e0761f4b113e8a86df700aed1ac9219a76a23"
 ---
 

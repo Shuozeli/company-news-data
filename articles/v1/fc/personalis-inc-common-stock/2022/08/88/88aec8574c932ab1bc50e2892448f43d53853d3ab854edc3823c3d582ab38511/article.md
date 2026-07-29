@@ -7,7 +7,7 @@ source_id: "personalis-inc-common-stock-rss-edd5b8439e74"
 canonical_url: "https://www.personalis.com/whats-next-after-mrd/"
 published_at: "2022-08-16T14:57:00+00:00"
 first_seen_at: "2026-07-20T23:22:21.339580+00:00"
-fetched_at: "2026-07-28T23:27:08.590284+00:00"
+fetched_at: "2026-07-29T15:22:21.130717+00:00"
 content_hash: "sha256:5229f0ee45235625fcf68c5433fa512fb9240e7e53738a6caa40e776598e6688"
 ---
 

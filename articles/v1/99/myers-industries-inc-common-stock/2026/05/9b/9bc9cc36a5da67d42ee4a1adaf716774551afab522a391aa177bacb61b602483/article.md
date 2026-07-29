@@ -7,7 +7,7 @@ source_id: "myers-industries-inc-common-stock-rss-499aae5c2159"
 canonical_url: "https://investor.myersindustries.com/news/press-release-details/2026/Myers-Industries-Announces-2026-First-Quarter-Results/default.aspx"
 published_at: "2026-05-07T11:00:00+00:00"
 first_seen_at: "2026-07-25T15:11:21.164937+00:00"
-fetched_at: "2026-07-28T23:46:19.710141+00:00"
+fetched_at: "2026-07-29T15:40:24.322119+00:00"
 content_hash: "sha256:d913e7901a4d7ec4a6da405ddd26cff1ad61c0c9fae70da6ac9be3df0393e864"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-directed-edge-rss-7c8e8fe81473"
 canonical_url: "https://blog.directededge.com/2012/09/27/bindings-update-that-removes-extra-server-round-trips/"
 published_at: "2012-09-28T06:21:55+00:00"
 first_seen_at: "2026-07-27T01:55:50.875550+00:00"
-fetched_at: "2026-07-28T22:59:14.304469+00:00"
+fetched_at: "2026-07-29T14:36:05.001882+00:00"
 content_hash: "sha256:986b1169407424313061aea3e15b181c96efc44a0e14728802d3a385e4840dff"
 ---
 

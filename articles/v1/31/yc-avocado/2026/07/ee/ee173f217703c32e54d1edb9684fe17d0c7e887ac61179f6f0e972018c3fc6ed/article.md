@@ -5,13 +5,13 @@ company_key: "yc-avocado"
 company: "Avocado"
 source_id: "yc-avocado-news-import-38bb8a83867d"
 canonical_url: "https://www.avocadopos.com/blog/stop-wasting-money-on-facebook-ads"
-published_at: null
+published_at: "2026-07-17T00:00:00+00:00"
 first_seen_at: "2026-07-24T18:13:15.302974+00:00"
 fetched_at: "2026-07-28T21:39:52.838477+00:00"
 content_hash: "sha256:da337d0a0e715b5c09af977c804dfd1c95bbe25e44bc1203c817baf8f2f96781"
 ---
 
-# I Wasted Hundreds on Facebook Ads. Here's What Actually Works. - The Avocado - Avocado POS
+# I Wasted Hundreds on Facebook Ads. Here's What Actually Works.
 
 I'm going to say something a lot of people are scared to say: Facebook ads are mostly a waste of money for restaurants.
 

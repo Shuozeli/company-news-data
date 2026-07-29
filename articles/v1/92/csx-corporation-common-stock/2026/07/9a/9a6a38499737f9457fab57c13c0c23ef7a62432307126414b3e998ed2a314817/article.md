@@ -7,7 +7,7 @@ source_id: "csx-corporation-common-stock-rss-75032840f4ad"
 canonical_url: "https://investors.csx.com/news-and-events/news/news-details/2026/CSX-Corporation-Declares-Quarterly-Dividend-300d5f6f3/default.aspx"
 published_at: "2026-07-17T20:02:00+00:00"
 first_seen_at: "2026-07-25T01:47:55.378538+00:00"
-fetched_at: "2026-07-28T23:05:58.407801+00:00"
+fetched_at: "2026-07-29T14:46:40.876228+00:00"
 content_hash: "sha256:99721526f00c384b520b539a404af690893280f3494a81063fc90f968819ed26"
 ---
 

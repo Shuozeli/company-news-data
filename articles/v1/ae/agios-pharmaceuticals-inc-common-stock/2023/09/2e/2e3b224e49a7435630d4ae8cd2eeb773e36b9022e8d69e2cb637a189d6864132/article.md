@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/find-out-more-about-the-2023-thalassaemia-international-federation-tif-guidelines-for-the-management-of-non-transfusion-dependent-%ce%b2-thalassaemia-%ce%b2-ntdt-as-well-as-new-thalassemia-communi/"
 published_at: "2023-09-05T19:13:59+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-29T00:23:58.530332+00:00"
+fetched_at: "2026-07-29T17:22:54.765339+00:00"
 content_hash: "sha256:f9783f719f6e1056a8eaf5d21414242f9e2691805cdc60434c88ba29127c85ef"
 ---
 

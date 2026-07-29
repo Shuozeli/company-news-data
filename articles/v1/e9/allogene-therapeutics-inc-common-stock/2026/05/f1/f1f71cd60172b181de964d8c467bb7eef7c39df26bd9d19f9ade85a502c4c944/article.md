@@ -7,7 +7,7 @@ source_id: "allogene-therapeutics-inc-common-stock-rss-a39e7aa31584"
 canonical_url: "https://allogene.com/2026/05/13/cytokine-driven-divergence-between-allogeneic-car-t-platforms/"
 published_at: "2026-05-13T21:19:03+00:00"
 first_seen_at: "2026-07-24T09:07:30.055397+00:00"
-fetched_at: "2026-07-28T23:52:03.818547+00:00"
+fetched_at: "2026-07-29T17:07:22.051179+00:00"
 content_hash: "sha256:1afcced6bcd1420b2995666bf4d1bdd6559748c75ae0347978e8621a8cc38f00"
 ---
 

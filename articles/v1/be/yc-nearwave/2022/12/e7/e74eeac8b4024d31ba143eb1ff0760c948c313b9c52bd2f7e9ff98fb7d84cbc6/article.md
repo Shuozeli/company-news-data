@@ -7,7 +7,7 @@ source_id: "yc-nearwave-rss-9f4746cd284c"
 canonical_url: "https://nearwave.co/nearwave-is-now-backed-by-y-combinator/"
 published_at: "2022-12-27T19:05:17+00:00"
 first_seen_at: "2026-07-24T12:13:22.796027+00:00"
-fetched_at: "2026-07-28T23:38:34.703310+00:00"
+fetched_at: "2026-07-29T15:33:06.882632+00:00"
 content_hash: "sha256:0304ccd58415de2e175a010ae4439f800ea98e24301310e44ed7d67deb6841d1"
 ---
 

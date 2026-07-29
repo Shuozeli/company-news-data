@@ -7,7 +7,7 @@ source_id: "yc-envelope-news-import-bee3141ade7e"
 canonical_url: "https://envelopebudgeting.com/articles/how-to-budget-paycheck-to-paycheck"
 published_at: "2026-07-14T00:00:00+00:00"
 first_seen_at: "2026-07-25T03:03:48.735463+00:00"
-fetched_at: "2026-07-28T08:18:38.346356+00:00"
+fetched_at: "2026-07-29T09:34:39.456546+00:00"
 content_hash: "sha256:313c1c1e1f7bc820f83865cd9e442b492b5d25d49905df8b48207f9ad432213f"
 ---
 

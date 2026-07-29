@@ -7,7 +7,7 @@ source_id: "blackstone-inc-common-stock-news-import-35111e62c9d6"
 canonical_url: "https://www.blackstone.com/news/press/blackstone-announces-investment-in-futronic-koreas-leading-actuator-and-motion-control-technology-provider/"
 published_at: "2026-07-20T04:44:48+00:00"
 first_seen_at: "2026-07-21T10:38:19.379878+00:00"
-fetched_at: "2026-07-28T17:22:07.090515+00:00"
+fetched_at: "2026-07-29T06:10:44.514658+00:00"
 content_hash: "sha256:377d259c9cb6f7af299387bf1e2489a9996c1b616230e637f9a7eb2f2d0e04b6"
 ---
 
@@ -33,10 +33,10 @@ Blackstone is the world’s largest alternative asset manager. Blackstone seeks 
 
 
 **Media Contact **​​​​​**** Ellen Bogard
-[\[email protected\]](https://www.blackstone.com/cdn-cgi/l/email-protection#f8bd94949d96d6ba979f998a9cb8ba94999b938b8c97969dd69b9795)
+[\[email protected\]](https://www.blackstone.com/cdn-cgi/l/email-protection#91d4fdfdf4ffbfd3fef6f0e3f5d1d3fdf0f2fae2e5fefff4bff2fefc)
 +852 3651 7737
 
 
 Wendy Lee
-[\[email protected\]](https://www.blackstone.com/cdn-cgi/l/email-protection#e8bf8d868c91c6a48d8da8aa84898b839b9c87868dc68b8785)
+[\[email protected\]](https://www.blackstone.com/cdn-cgi/l/email-protection#1e497b707a6730527b7b5e5c727f7d756d6a71707b307d7173)
 +852 9176 6179

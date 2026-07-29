@@ -7,7 +7,7 @@ source_id: "kinross-gold-corporation-common-stock-rss-704a45ed047f"
 canonical_url: "https://www.kinross.com/English/news-and-investors/news-releases/press-release-details/2026/Kinross-announces-Annual-Shareholder-Meeting-voting-results/default.aspx"
 published_at: "2026-04-30T21:00:00+00:00"
 first_seen_at: "2026-07-25T10:52:47.429571+00:00"
-fetched_at: "2026-07-28T23:06:17.021935+00:00"
+fetched_at: "2026-07-29T14:47:30.310791+00:00"
 content_hash: "sha256:943340f9abe2e7786c8a9c6239dc03ec9bc599a82cdff7db6c8f64c38f9554a1"
 ---
 

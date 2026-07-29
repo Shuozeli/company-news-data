@@ -7,7 +7,7 @@ source_id: "tpg-re-finance-trust-inc-common-stock-rss-ef66e498ee7c"
 canonical_url: "http://investors.tpgrefinance.com/news/news-details/2026/TPG-RE-Finance-Trust-Inc--Reports-Operating-Results-for-the-Quarter-Ended-June-30-2026/default.aspx"
 published_at: "2026-07-28T20:45:00+00:00"
 first_seen_at: "2026-07-28T23:00:38.689246+00:00"
-fetched_at: "2026-07-28T23:00:38.611838+00:00"
+fetched_at: "2026-07-29T14:39:00.219744+00:00"
 content_hash: "sha256:1fe0800ca0b131f27ec570fb813da7c987407907ee70b695ea2297bdfdbc72f5"
 ---
 

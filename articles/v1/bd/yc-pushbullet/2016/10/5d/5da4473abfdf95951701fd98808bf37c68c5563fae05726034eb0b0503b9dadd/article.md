@@ -7,7 +7,7 @@ source_id: "yc-pushbullet-rss-4ba42a362971"
 canonical_url: "https://blog.pushbullet.com/2016/10/25/webextension-update-for-firefox"
 published_at: "2016-10-25T05:00:00+00:00"
 first_seen_at: "2026-07-25T20:08:48.518680+00:00"
-fetched_at: "2026-07-28T23:36:19.489802+00:00"
+fetched_at: "2026-07-29T15:32:18.727731+00:00"
 content_hash: "sha256:384b3fa7fda2cf36a953ac4b1af19617da74a33def4918550219fb272bac8096"
 ---
 

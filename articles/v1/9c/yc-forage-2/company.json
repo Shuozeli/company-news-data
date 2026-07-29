@@ -6,7 +6,7 @@
   },
   "record_count": 21,
   "first_published_at": "2025-09-29T00:00:00+00:00",
-  "last_published_at": "2026-07-23T00:00:00+00:00",
+  "last_published_at": "2026-07-28T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-09",
@@ -54,7 +54,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -64,8 +64,8 @@
         "path": "articles/v1/9c/yc-forage-2/index/pages/000001.json",
         "record_count": 21,
         "byte_count": 22437,
-        "sha256": "sha256:d433d5dbc64a3bca1f47522985170313b2605da408879f64d2dc47ee20ec733a",
-        "newest_at": "2026-07-23T00:00:00+00:00",
+        "sha256": "sha256:183f056d9676134c779d280d897fcf0c11fd9b19c88821aa7e935fe7b02f4b33",
+        "newest_at": "2026-07-28T00:00:00+00:00",
         "oldest_at": "2025-09-29T00:00:00+00:00"
       }
     ]

@@ -7,7 +7,7 @@ source_id: "core-natural-resources-inc-common-stock-rss-38d7d9da448b"
 canonical_url: "https://investors.corenaturalresources.com/2026-07-23-Core-Natural-Resources-to-Announce-Second-Quarter-2026-Results-on-August-6"
 published_at: "2026-07-23T11:55:00+00:00"
 first_seen_at: "2026-07-23T12:11:49.031968+00:00"
-fetched_at: "2026-07-28T23:17:02.077797+00:00"
+fetched_at: "2026-07-29T15:06:19.606103+00:00"
 content_hash: "sha256:bd07a8f1bf4f32a89370c7f95d5eef21431670c1cd82c4662cb702abf58ce1ea"
 ---
 

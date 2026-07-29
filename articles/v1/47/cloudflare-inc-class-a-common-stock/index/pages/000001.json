@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
-  "record_count": 38,
+  "record_count": 39,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "843da0906f758a74e9fd709e138346f44d0533d86c997491ea1375ae961f17ca",
+      "company_key": "cloudflare-inc-class-a-common-stock",
+      "company_name": "Cloudflare Inc. Class A Common Stock",
+      "source_id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+      "source_kind": "rss",
+      "canonical_url": "https://blog.cloudflare.com/post-quantum-authentication-to-origins/",
+      "title": "Post-quantum authentication to origins is now supported",
+      "summary": "Cloudflare now supports post-quantum (PQ) authentication when connecting to customer origin servers via Authenticated Origin Pulls and Custom Origin Trust Store. This is the first step towards providing PQ authentication for all Cloudflare products.",
+      "published_at": "2026-07-29T13:00:00+00:00",
+      "fetched_at": "2026-07-29T15:25:07.276396+00:00",
+      "article_path": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/84/843da0906f758a74e9fd709e138346f44d0533d86c997491ea1375ae961f17ca/article.md",
+      "record_path": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/84/843da0906f758a74e9fd709e138346f44d0533d86c997491ea1375ae961f17ca/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "c0532a99015b0f86356eed8b859ca0773eeb6916f0862722e2e6326b826de305",

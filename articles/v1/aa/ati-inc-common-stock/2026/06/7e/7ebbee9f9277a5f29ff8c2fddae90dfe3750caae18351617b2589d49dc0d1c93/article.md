@@ -7,7 +7,7 @@ source_id: "ati-inc-common-stock-rss-9cba1f538c4e"
 canonical_url: "https://ir.atimaterials.com/news-events/news-details/2026/ATI-Announces-Proposed-Senior-Notes-Offering/default.aspx"
 published_at: "2026-06-03T12:28:00+00:00"
 first_seen_at: "2026-07-26T23:01:45.872497+00:00"
-fetched_at: "2026-07-28T23:45:21.469454+00:00"
+fetched_at: "2026-07-29T15:38:26.032617+00:00"
 content_hash: "sha256:d98673a658e0a8680e4cc255394e817f654c82063fbb0b7f5be12d849c8b5061"
 ---
 

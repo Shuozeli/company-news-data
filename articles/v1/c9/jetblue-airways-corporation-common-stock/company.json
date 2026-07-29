@@ -4,9 +4,9 @@
     "key": "jetblue-airways-corporation-common-stock",
     "name": "JetBlue Airways Corporation Common Stock"
   },
-  "record_count": 12,
+  "record_count": 13,
   "first_published_at": "2026-05-28T14:00:00+00:00",
-  "last_published_at": "2026-07-28T11:00:00+00:00",
+  "last_published_at": "2026-07-29T13:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -18,11 +18,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 6
+      "record_count": 7
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,10 +30,10 @@
       {
         "page": 1,
         "path": "articles/v1/c9/jetblue-airways-corporation-common-stock/index/pages/000001.json",
-        "record_count": 12,
-        "byte_count": 24103,
-        "sha256": "sha256:a95a9388ea5534caf9c4ce4ed6c145407a541b1dd031ab93b400be092a793408",
-        "newest_at": "2026-07-28T11:00:00+00:00",
+        "record_count": 13,
+        "byte_count": 26235,
+        "sha256": "sha256:348286bba4828d0f9084f3956b42aea49405b52051c85e6c27d11222481a1f4a",
+        "newest_at": "2026-07-29T13:00:00+00:00",
         "oldest_at": "2026-05-28T14:00:00+00:00"
       }
     ]

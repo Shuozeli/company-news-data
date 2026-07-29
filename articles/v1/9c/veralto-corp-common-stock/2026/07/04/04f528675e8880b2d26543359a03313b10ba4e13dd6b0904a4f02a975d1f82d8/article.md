@@ -7,7 +7,7 @@ source_id: "veralto-corp-common-stock-rss-061472cdeea0"
 canonical_url: "https://investors.veralto.com/2026-07-21-Veralto-Acquires-Alfaa-UV-to-Expand-Ultraviolet-Water-Treatment-Portfolio"
 published_at: "2026-07-21T10:00:00+00:00"
 first_seen_at: "2026-07-21T10:47:10.054568+00:00"
-fetched_at: "2026-07-28T22:15:54.927830+00:00"
+fetched_at: "2026-07-29T14:22:33.213156+00:00"
 content_hash: "sha256:8af99eeeb17fa7800798cc5dbec6f86aa08f009ccf91196a59ca2f105d0fee1c"
 ---
 

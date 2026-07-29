@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/como-cancelar-tus-facturas-en-el-sat-simple-y-rapido"
 published_at: "2022-10-13T17:40:00+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:c8d30132be908c187a7230ee8cf7bd3da82973b6256fc285c35c21148426a447"
 ---
 

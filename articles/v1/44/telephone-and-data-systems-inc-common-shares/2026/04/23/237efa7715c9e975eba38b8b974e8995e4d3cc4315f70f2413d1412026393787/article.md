@@ -7,7 +7,7 @@ source_id: "telephone-and-data-systems-inc-common-shares-rss-26d0a83d633d"
 canonical_url: "https://www.tdsinc.com/news/news-details/2026/TDS-Names-Bill-Case-Senior-Vice-President-and-Chief-Information-Officer/default.aspx"
 published_at: "2026-04-27T12:00:00+00:00"
 first_seen_at: "2026-07-26T01:45:04.556146+00:00"
-fetched_at: "2026-07-28T23:36:01.086150+00:00"
+fetched_at: "2026-07-29T15:31:22.382438+00:00"
 content_hash: "sha256:389c693f09b15bea7d038ded11d34a1e92fd1c1e4629037b9d8265fb709419f0"
 ---
 

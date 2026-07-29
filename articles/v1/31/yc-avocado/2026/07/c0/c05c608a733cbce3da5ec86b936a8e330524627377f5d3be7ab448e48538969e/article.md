@@ -5,13 +5,13 @@ company_key: "yc-avocado"
 company: "Avocado"
 source_id: "yc-avocado-news-import-38bb8a83867d"
 canonical_url: "https://www.avocadopos.com/blog/always-be-launching"
-published_at: null
+published_at: "2026-07-15T00:00:00+00:00"
 first_seen_at: "2026-07-24T18:13:15.302974+00:00"
 fetched_at: "2026-07-28T21:39:52.838477+00:00"
 content_hash: "sha256:a92fd95c5307a284e80adc0cf523a15380f8897d1f019574bb1f1efba85d8a72"
 ---
 
-# "Always be launching" - The Avocado - Avocado POS
+# "Always be launching"
 
 When I was running my restaurant, we had a saying: grand opening every month.
 

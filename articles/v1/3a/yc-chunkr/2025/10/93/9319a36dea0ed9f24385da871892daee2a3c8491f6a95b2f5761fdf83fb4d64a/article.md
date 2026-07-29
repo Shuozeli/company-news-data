@@ -7,7 +7,7 @@ source_id: "yc-chunkr-rss-ccbc1a71b139"
 canonical_url: "https://www.chunkr.ai/blog/introducing-chunkr-layout-1-state-of-the-art-document-layout-analysis"
 published_at: "2025-10-15T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:25.721612+00:00"
-fetched_at: "2026-07-29T00:42:08.864346+00:00"
+fetched_at: "2026-07-29T14:05:55.882824+00:00"
 content_hash: "sha256:99ef762b78e9f5f36522a2a88a93344fc692250239c1b4795365e5e6f7b97f21"
 ---
 

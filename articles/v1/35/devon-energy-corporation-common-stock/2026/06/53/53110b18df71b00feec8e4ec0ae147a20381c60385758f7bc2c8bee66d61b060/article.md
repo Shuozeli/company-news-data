@@ -7,7 +7,7 @@ source_id: "devon-energy-corporation-common-stock-rss-b68131991e20"
 canonical_url: "http://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-Provides-Updated-2026-Outlook/default.aspx"
 published_at: "2026-06-09T20:55:00+00:00"
 first_seen_at: "2026-07-25T01:08:53.429704+00:00"
-fetched_at: "2026-07-29T00:32:43.805760+00:00"
+fetched_at: "2026-07-29T13:58:53.801670+00:00"
 content_hash: "sha256:2553250f0921f298d95061c97780442871baecd36e984805114153a321b4f9f5"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/5-proven-strategies-to-increase-adoption-of-your-b2b-mobile-app"
 published_at: "2026-03-19T13:45:10+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:d60d9629a4b0639835b0269f2373e6346d5a6ce38d3291e7e67e22ae764a57c2"
 ---
 

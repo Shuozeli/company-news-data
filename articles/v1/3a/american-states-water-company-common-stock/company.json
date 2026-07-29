@@ -4,9 +4,9 @@
     "key": "american-states-water-company-common-stock",
     "name": "American States Water Company Common Stock"
   },
-  "record_count": 26,
+  "record_count": 27,
   "first_published_at": "2021-05-24T16:17:00+00:00",
-  "last_published_at": "2026-07-21T13:00:00+00:00",
+  "last_published_at": "2026-07-29T13:00:00+00:00",
   "partitions": [
     {
       "partition": "2021-05",
@@ -66,11 +66,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 4
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -78,10 +78,10 @@
       {
         "page": 1,
         "path": "articles/v1/3a/american-states-water-company-common-stock/index/pages/000001.json",
-        "record_count": 26,
-        "byte_count": 31679,
-        "sha256": "sha256:a491960207dbf10454714b3cf25c7a63ba500191250258931e02d0f69f5a076d",
-        "newest_at": "2026-07-21T13:00:00+00:00",
+        "record_count": 27,
+        "byte_count": 32933,
+        "sha256": "sha256:adbe690bf29bb0a2a47e5082a30ac9e018df32ed86285e4a659f3b0e404604e3",
+        "newest_at": "2026-07-29T13:00:00+00:00",
         "oldest_at": "2021-05-24T16:17:00+00:00"
       }
     ]

@@ -4,9 +4,9 @@
     "key": "intapp-inc-common-stock",
     "name": "Intapp Inc. Common Stock"
   },
-  "record_count": 29,
+  "record_count": 30,
   "first_published_at": "2024-04-09T15:52:00+00:00",
-  "last_published_at": "2026-07-27T13:00:48+00:00",
+  "last_published_at": "2026-07-29T10:30:51+00:00",
   "partitions": [
     {
       "partition": "2024-04",
@@ -54,11 +54,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 15
+      "record_count": 16
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -66,10 +66,10 @@
       {
         "page": 1,
         "path": "articles/v1/a4/intapp-inc-common-stock/index/pages/000001.json",
-        "record_count": 29,
-        "byte_count": 32782,
-        "sha256": "sha256:150a32b84877616e654c2fecf585739747e388ba914760d71cc32f4d5d27d959",
-        "newest_at": "2026-07-27T13:00:48+00:00",
+        "record_count": 30,
+        "byte_count": 33881,
+        "sha256": "sha256:a749ca3b9b575e7060ed449290f04e91fb783e3a78402e6a0b836744dcdeed30",
+        "newest_at": "2026-07-29T10:30:51+00:00",
         "oldest_at": "2024-04-09T15:52:00+00:00"
       }
     ]

@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2023/05/aem-dispatcher-create-the-perfect-caching-architecture"
 published_at: "2023-05-23T00:00:00+00:00"
 first_seen_at: "2026-07-28T11:10:06.749151+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:77c5ee394c2b3ccffd9892c257986ac2ccb75b643f7c90a6408fdfb7e2057f05"
 ---
 

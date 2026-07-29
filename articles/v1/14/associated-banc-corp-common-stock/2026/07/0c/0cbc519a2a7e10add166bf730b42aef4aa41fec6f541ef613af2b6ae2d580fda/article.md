@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-recognized-as-northeast-wisconsin-top-workplace-2026"
 published_at: "2026-07-22T15:45:00+00:00"
 first_seen_at: "2026-07-22T16:06:49.005187+00:00"
-fetched_at: "2026-07-29T00:43:53.379763+00:00"
+fetched_at: "2026-07-29T14:07:10.673770+00:00"
 content_hash: "sha256:251cba5c6f241ba9126f3fd9c1d5a5f2e4fc8fbd7b84dba1538daea9e9b42c54"
 ---
 

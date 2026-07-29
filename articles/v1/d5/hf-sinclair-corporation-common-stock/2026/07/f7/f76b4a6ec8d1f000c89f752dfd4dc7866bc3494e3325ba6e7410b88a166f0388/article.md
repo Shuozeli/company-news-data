@@ -7,7 +7,7 @@ source_id: "hf-sinclair-corporation-common-stock-rss-60d3559137a6"
 canonical_url: "https://investor.hfsinclair.com/investor-relations/press-releases/press-releases-details/2026/HF-Sinclair-Reports-2026-Second-Quarter-Results-and-Announces-Increase-in-Regular-Cash-Dividend/default.aspx"
 published_at: "2026-07-28T10:30:00+00:00"
 first_seen_at: "2026-07-28T11:52:51.253798+00:00"
-fetched_at: "2026-07-29T00:14:56.390298+00:00"
+fetched_at: "2026-07-29T17:17:44.313523+00:00"
 content_hash: "sha256:7499a0fb42cf6f8d2f0e0695e609c6eef83680b08ec5b985e5f08c25d03a281b"
 ---
 

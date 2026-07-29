@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2022/Omnicell-Launches-Specialty-Pharmacy-Services-to-Support-Optimized-Outpatient-Medication-Management-and-Drive-Clinical-and-Business-Outcomes-for-Health-Systems/default.aspx"
 published_at: "2022-10-11T12:01:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:ab56499a93d9e1088394d4b0aa34a6f33f1a0ca054d7ea973cf1ba9f6a0949cd"
 ---
 

@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:38:29.998390+00:00"
 content_hash: "sha256:236d4df7cd776c99ebd698d2d3f30cb0ea7c042f8d9e73a112e028c6a2e91e44"
 ---
 
-# Body Doubling Around the World: 6 Examples From Different Communities
+# 6 Body Doubling Examples From Around the World
 
 When I first heard the term “body doubling,” I did not know what it meant. Like most founders, you build to test some hypothesis, and in the process you discover what you are actually building. Early on, a Flow Clubber casually remarked to me how Flow Club is the best body doubling platform for ADHD. I scrambled to learn everything I can about body doubling, and even put together an article to highlight the science and research behind the mechanism.
 

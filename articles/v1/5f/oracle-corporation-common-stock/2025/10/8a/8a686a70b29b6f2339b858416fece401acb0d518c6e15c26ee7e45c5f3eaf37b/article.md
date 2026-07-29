@@ -7,7 +7,7 @@ source_id: "oracle-corporation-common-stock-rss-f7a4ff100e4a"
 canonical_url: "https://investor.oracle.com/investor-news/news-details/2025/ORACLES-ANNUAL-MEETING-OF-STOCKHOLDERS-TO-BE-HELD-NOVEMBER-18-2025/default.aspx"
 published_at: "2025-10-20T20:01:00+00:00"
 first_seen_at: "2026-07-25T17:47:11.558725+00:00"
-fetched_at: "2026-07-28T23:40:28.687242+00:00"
+fetched_at: "2026-07-29T15:34:24.048813+00:00"
 content_hash: "sha256:d25885d6fc9d49aa2d1e42850a46ee241663554574149a16b9fb7c0a3abfbe51"
 ---
 

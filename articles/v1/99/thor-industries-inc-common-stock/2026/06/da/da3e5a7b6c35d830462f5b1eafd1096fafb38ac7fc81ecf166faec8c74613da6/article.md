@@ -7,7 +7,7 @@ source_id: "thor-industries-inc-common-stock-rss-d0b8e219f7f8"
 canonical_url: "https://ir.thorindustries.com/investor-resources/press-releases/press-release-details/2026/THOR-INDUSTRIES-ANNOUNCES-FISCAL-2026-THIRD-QUARTER-RESULTS/default.aspx"
 published_at: "2026-06-03T10:30:00+00:00"
 first_seen_at: "2026-07-26T02:24:17.764835+00:00"
-fetched_at: "2026-07-29T00:03:08.074894+00:00"
+fetched_at: "2026-07-29T17:02:32.111655+00:00"
 content_hash: "sha256:a8a92d7cb6eefd64f216b1cd19290d1cfb3f0dcdba7a3afd616833a644c2f890"
 ---
 

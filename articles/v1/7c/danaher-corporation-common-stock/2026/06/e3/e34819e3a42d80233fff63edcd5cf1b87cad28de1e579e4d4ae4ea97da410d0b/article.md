@@ -7,7 +7,7 @@ source_id: "danaher-corporation-common-stock-rss-baeab7bd386b"
 canonical_url: "https://investors.danaher.com/2026-06-29-Danaher-Foundation-Commits-1-Million-to-Ebola-Outbreak-Relief-Efforts-in-Central-Africa"
 published_at: "2026-06-29T12:30:00+00:00"
 first_seen_at: "2026-07-20T03:32:45.140623+00:00"
-fetched_at: "2026-07-28T23:34:39.620039+00:00"
+fetched_at: "2026-07-29T15:30:14.901077+00:00"
 content_hash: "sha256:ed23961d00ef42f2d40ca6aa13528b9f92dcc79e5783b757fc3be5f2c002ecf2"
 ---
 

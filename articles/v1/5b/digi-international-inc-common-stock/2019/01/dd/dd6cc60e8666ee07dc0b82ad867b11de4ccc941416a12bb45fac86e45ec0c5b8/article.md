@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2019/digi-to-release-first-fiscal-quarter-2019-results"
 published_at: "2019-01-03T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:1c9232e075fba353b9fffb77c420184d63264ca22d7dddd6e60f4c16bf97c5df"
 ---
 

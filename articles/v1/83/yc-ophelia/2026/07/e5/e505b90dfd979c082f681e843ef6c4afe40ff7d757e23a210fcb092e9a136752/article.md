@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:20:58.380206+00:00"
 content_hash: "sha256:294addab677e0260d90a61bbbb9731f81bab3b082451d15dedd66a4eb84ee485"
 ---
 
-# How Addictive Is Kratom? What Regular Users Need to Know
+# How addictive is kratom? What regular users need to know
 
 # How addictive is kratom? What regular users need to know
 

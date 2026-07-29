@@ -4,9 +4,9 @@
     "key": "yc-smarthelio",
     "name": "SmartHelio"
   },
-  "record_count": 8,
+  "record_count": 9,
   "first_published_at": "2026-05-08T07:24:19+00:00",
-  "last_published_at": "2026-07-23T07:51:00+00:00",
+  "last_published_at": "2026-07-29T13:29:51+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -18,11 +18,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,10 +30,10 @@
       {
         "page": 1,
         "path": "articles/v1/dd/yc-smarthelio/index/pages/000001.json",
-        "record_count": 8,
-        "byte_count": 7618,
-        "sha256": "sha256:dcff08ffde63dda62ea09b3f136ae9c665ae317e37d54eb4b72cf435f4b531e5",
-        "newest_at": "2026-07-23T07:51:00+00:00",
+        "record_count": 9,
+        "byte_count": 8530,
+        "sha256": "sha256:144e936456ef9757b1f740dbee73e843260ab1b67475080cc92f7aacf5935b11",
+        "newest_at": "2026-07-29T13:29:51+00:00",
         "oldest_at": "2026-05-08T07:24:19+00:00"
       }
     ]

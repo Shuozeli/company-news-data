@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:33:41.699737+00:00"
 content_hash: "sha256:1defc72a4ee81dd67711d538ef30c5f07153e4d1fc4bd1fa15ec17c22455fa4a"
 ---
 
-# RSNA 2023, Annotation Version Explorer, Semantic Segmentation Export and More!
+# RSNA 2023, Annotation Version Explorer, Semantic Segmentation Export and more!
 
 # RSNA 2023, Annotation Version Explorer, Semantic Segmentation Export and more!
 

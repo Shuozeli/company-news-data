@@ -7,7 +7,7 @@ source_id: "agomab-therapeutics-nv-american-depositary-shares-rss-88030a64c15e"
 canonical_url: "https://agomab.com/wp-content/uploads/2026/03/20260326_AGMB-447-US-patent_FINAL.pdf"
 published_at: "2026-03-26T09:31:28+00:00"
 first_seen_at: "2026-07-20T23:18:22.265454+00:00"
-fetched_at: "2026-07-29T00:19:39.326226+00:00"
+fetched_at: "2026-07-29T17:20:43.092203+00:00"
 content_hash: "sha256:1949682fa3ac13deb391b8ccdac824d633e69103edc6567b8eab15d2fccc08e1"
 ---
 

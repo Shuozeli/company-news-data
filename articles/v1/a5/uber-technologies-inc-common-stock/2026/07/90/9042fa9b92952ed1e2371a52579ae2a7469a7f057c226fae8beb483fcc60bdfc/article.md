@@ -7,7 +7,7 @@ source_id: "uber-technologies-inc-common-stock-rss-0f1894567009"
 canonical_url: "https://investor.uber.com/news-events/news/press-release-details/2026/GameStop-Joins-Uber-Eats-to-Deliver-Video-Games-Collectibles-and-Electronics-to-Customers-Nationwide/default.aspx"
 published_at: "2026-07-15T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:46.437477+00:00"
-fetched_at: "2026-07-29T00:17:05.950701+00:00"
+fetched_at: "2026-07-29T17:19:20.602674+00:00"
 content_hash: "sha256:04e16b32b17831ec14703d7cab3974dc40ddc63c348d563a973a9815409458f9"
 ---
 

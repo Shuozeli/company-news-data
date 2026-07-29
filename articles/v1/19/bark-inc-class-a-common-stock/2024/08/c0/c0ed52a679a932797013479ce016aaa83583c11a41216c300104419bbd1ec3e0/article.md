@@ -7,7 +7,7 @@ source_id: "bark-inc-class-a-common-stock-atom-d9f7d0936a18"
 canonical_url: "https://bark.co/blogs/press/bark-celebrates-national-dog-day-with-third-annual-tattoo-contest-awarding-humans-with-ink-inspired-by-their-dogs"
 published_at: "2024-08-20T13:00:03+00:00"
 first_seen_at: "2026-07-25T01:26:35.275186+00:00"
-fetched_at: "2026-07-28T23:30:18.317292+00:00"
+fetched_at: "2026-07-29T15:27:04.969445+00:00"
 content_hash: "sha256:b71f9d1c1faabd623101f27cf736d4c8774dd537bb336fab46471904c0110f5f"
 ---
 

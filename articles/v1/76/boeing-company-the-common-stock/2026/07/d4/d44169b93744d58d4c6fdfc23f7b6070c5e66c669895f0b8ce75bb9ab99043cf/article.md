@@ -7,7 +7,7 @@ source_id: "boeing-company-the-common-stock-rss-76526cfc8662"
 canonical_url: "http://investors.boeing.com/investors/news/press-release-details/2026/Boeing-and-Philippine-Airlines-Announce-Commitment-for-up-to-20-787-Dreamliner-Jets/default.aspx"
 published_at: "2026-07-20T10:43:00+00:00"
 first_seen_at: "2026-07-26T23:54:21.829354+00:00"
-fetched_at: "2026-07-28T23:26:48.703887+00:00"
+fetched_at: "2026-07-29T15:20:37.393147+00:00"
 content_hash: "sha256:1cea457175dace42708238e6e63a76d656ee308542c086de95e50f11e692c471"
 ---
 

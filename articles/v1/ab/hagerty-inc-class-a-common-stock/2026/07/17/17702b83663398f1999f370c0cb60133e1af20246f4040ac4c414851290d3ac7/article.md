@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/automotive-history/the-audi-80-did-everything-asked-of-it/"
 published_at: "2026-07-13T16:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:1765a2037abbe15e213d4d98f22885a201bf62a817ff9d715228a13d7efbe6f0"
 ---
 

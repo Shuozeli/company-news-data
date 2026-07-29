@@ -7,7 +7,7 @@ source_id: "healthequity-inc-common-stock-rss-6283c6a40ed3"
 canonical_url: "https://ir.healthequity.com/news-releases/news-release-details/healthequity-announces-fiscal-year-2027-outlook-presentation-jp"
 published_at: "2026-01-12T13:50:00+00:00"
 first_seen_at: "2026-07-25T07:53:28.852709+00:00"
-fetched_at: "2026-07-28T21:07:28.054456+00:00"
+fetched_at: "2026-07-29T07:13:01.523523+00:00"
 content_hash: "sha256:aa162d2e3fbc6ca532a16b54d66a0d0163e0067371e49cf7057cff6d70f9bc5b"
 ---
 

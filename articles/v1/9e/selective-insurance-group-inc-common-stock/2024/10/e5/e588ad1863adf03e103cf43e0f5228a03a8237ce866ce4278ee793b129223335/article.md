@@ -7,7 +7,7 @@ source_id: "selective-insurance-group-inc-common-stock-rss-8d6e086cb84e"
 canonical_url: "https://www.selective.com/investors/financial-calendar/10-22-2024"
 published_at: "2024-10-22T13:30:00+00:00"
 first_seen_at: "2026-07-25T22:32:54.601349+00:00"
-fetched_at: "2026-07-28T23:10:50.539616+00:00"
+fetched_at: "2026-07-29T14:57:41.635971+00:00"
 content_hash: "sha256:4036ce8ba3f575d3919f9d8cac036ed5a4d2b9942bdae002460f8ad7602fcbab"
 ---
 

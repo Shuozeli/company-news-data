@@ -7,7 +7,7 @@ source_id: "sound-financial-bancorp-inc-common-stock-rss-c64bb66fb796"
 canonical_url: "https://investor.soundcb.com/news/news-details/2026/Sound-Financial-Bancorp-Inc--Q4-2025-Results/default.aspx"
 published_at: "2026-01-27T23:19:00+00:00"
 first_seen_at: "2026-07-25T23:47:40.910620+00:00"
-fetched_at: "2026-07-29T00:26:22.233161+00:00"
+fetched_at: "2026-07-29T13:52:28.164752+00:00"
 content_hash: "sha256:50635c85fbb3309fd56753d98b90327f6bf25f5b139013377b882bc96018725f"
 ---
 

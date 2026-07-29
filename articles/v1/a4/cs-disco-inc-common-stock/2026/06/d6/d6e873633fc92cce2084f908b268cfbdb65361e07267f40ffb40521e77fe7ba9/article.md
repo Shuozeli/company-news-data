@@ -7,7 +7,7 @@ source_id: "cs-disco-inc-common-stock-news-import-f96a79529b37"
 canonical_url: "https://support.csdisco.com/hc/en-us/articles/46376121877901-Releases-for-June-2026"
 published_at: "2026-06-30T19:47:02+00:00"
 first_seen_at: "2026-07-24T03:28:26.271981+00:00"
-fetched_at: "2026-07-28T21:52:15.339115+00:00"
+fetched_at: "2026-07-29T10:24:34.372793+00:00"
 content_hash: "sha256:80e461efcb07d3f67b932d2cbc6a5b871a7ef362788fc8d50f0721222e879372"
 ---
 

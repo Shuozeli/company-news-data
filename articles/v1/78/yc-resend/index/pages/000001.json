@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "b4a2c507a1bcbd71f8aa768633172e29285ca156f0da1441103ee90e3de49fa7",
+      "company_key": "yc-resend",
+      "company_name": "Resend",
+      "source_id": "yc-resend-news-import-e788018b3f7d",
+      "source_kind": "html",
+      "canonical_url": "https://resend.com/changelog/suppression-list-support",
+      "title": "Email Suppressions",
+      "summary": "Manage your team's suppressed addresses from the dashboard and the API.",
+      "published_at": "2026-07-28T00:00:00+00:00",
+      "fetched_at": "2026-07-29T02:04:06.978250+00:00",
+      "article_path": "articles/v1/78/yc-resend/2026/07/b4/b4a2c507a1bcbd71f8aa768633172e29285ca156f0da1441103ee90e3de49fa7/article.md",
+      "record_path": "articles/v1/78/yc-resend/2026/07/b4/b4a2c507a1bcbd71f8aa768633172e29285ca156f0da1441103ee90e3de49fa7/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "56c7cf2abb476f75448b5478065693c4477c601fe277f4adcdd58fd3297e84cc",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T22:03:18.293552+00:00",
       "article_path": "articles/v1/78/yc-resend/2026/02/d8/d81226c3c6520228a7f5a912de54f162bcc5176d9e272458105a1377d1d74d8c/article.md",
       "record_path": "articles/v1/78/yc-resend/2026/02/d8/d81226c3c6520228a7f5a912de54f162bcc5176d9e272458105a1377d1d74d8c/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "6ab3adc3f12ddb1ae4dc37089a8ee49a8de12b1485d30f41c48d57a5d00849de",
-      "company_key": "yc-resend",
-      "company_name": "Resend",
-      "source_id": "yc-resend-rss-9474f2be6342",
-      "source_kind": "rss",
-      "canonical_url": "https://resend.com/blog/welcoming-felipe-freitag",
-      "title": "Welcoming Felipe Freitag, our new Software Engineer",
-      "summary": "We're thrilled to share the news that Felipe Freitag is joining Resend.",
-      "published_at": "2026-02-25T00:00:00+00:00",
-      "fetched_at": "2026-07-28T22:03:18.293552+00:00",
-      "article_path": "articles/v1/78/yc-resend/2026/02/6a/6ab3adc3f12ddb1ae4dc37089a8ee49a8de12b1485d30f41c48d57a5d00849de/article.md",
-      "record_path": "articles/v1/78/yc-resend/2026/02/6a/6ab3adc3f12ddb1ae4dc37089a8ee49a8de12b1485d30f41c48d57a5d00849de/record.json"
     }
   ]
 }

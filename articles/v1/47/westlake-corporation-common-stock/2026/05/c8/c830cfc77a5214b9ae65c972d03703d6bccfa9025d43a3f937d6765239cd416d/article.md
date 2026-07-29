@@ -7,7 +7,7 @@ source_id: "westlake-corporation-common-stock-rss-403a0cef3f5a"
 canonical_url: "http://westlake.com/muriatic-acid-hcl-22-natrium-and-beauharnois"
 published_at: "2026-05-14T18:48:20+00:00"
 first_seen_at: "2026-07-26T05:25:06.510406+00:00"
-fetched_at: "2026-07-28T21:41:26.625510+00:00"
+fetched_at: "2026-07-29T15:27:08.183301+00:00"
 content_hash: "sha256:1e908cc4f07f2daa1b00354a012bd84018eb2d4e79abfc6a9f1fcdb252f56b36"
 ---
 
@@ -25,7 +25,7 @@ Thu, 05/14/2026 - 14:48
 [Caustic Soda](http://westlake.com/chlorovinyls/caustic-soda)
 
 
-[Muriatic Acid 22 DEG Baume.pdf](http://westlake.com/sites/default/files/Muriatic%20Acid%2022%20DEG%20Baume.pdf)
+[Muriatic Acid 22 DEG Baume.pdf](http://www.westlake.com/sites/default/files/Muriatic%20Acid%2022%20DEG%20Baume.pdf)
 
 
 55.48 KB

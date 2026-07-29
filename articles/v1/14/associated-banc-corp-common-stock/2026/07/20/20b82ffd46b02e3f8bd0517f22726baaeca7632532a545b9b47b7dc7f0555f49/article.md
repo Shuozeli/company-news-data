@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-earns-national-recognition-from-fortune-time-and-newsweek"
 published_at: "2026-07-21T15:00:00+00:00"
 first_seen_at: "2026-07-21T15:54:06.062623+00:00"
-fetched_at: "2026-07-29T00:43:53.379763+00:00"
+fetched_at: "2026-07-29T14:07:10.673770+00:00"
 content_hash: "sha256:98c6abc729ba1eaa42774538ea2883aebdf710231ce0cb8451f9874a969d6a06"
 ---
 

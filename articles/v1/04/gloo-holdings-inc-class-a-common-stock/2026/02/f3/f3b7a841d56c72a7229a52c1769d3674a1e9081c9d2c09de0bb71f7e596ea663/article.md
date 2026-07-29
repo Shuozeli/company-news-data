@@ -7,7 +7,7 @@ source_id: "gloo-holdings-inc-class-a-common-stock-news-import-83695c9a4b8a"
 canonical_url: "https://gloo.com/press/releases/ai-is-becoming-a-spiritual-authority-in-americans%E2%80%99-lives-new-research-reveals"
 published_at: "2026-02-19T00:00:00+00:00"
 first_seen_at: "2026-07-23T10:35:25.165423+00:00"
-fetched_at: "2026-07-28T17:20:13.644649+00:00"
+fetched_at: "2026-07-29T06:09:37.784067+00:00"
 content_hash: "sha256:861ddab3e152d6f174bd6aa9e47cf68472f72aa2d7f39a2a2d10e6da1b0d5f24"
 ---
 

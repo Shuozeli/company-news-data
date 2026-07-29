@@ -7,7 +7,7 @@ source_id: "gloo-holdings-inc-class-a-common-stock-news-import-83695c9a4b8a"
 canonical_url: "https://gloo.com/press/releases/gloo-to-acquire-enterprisemarketdesk-(emd)-a-workday-services-partner-built-for-nonprofit-and-mid-market-organizations"
 published_at: "2026-04-14T00:00:00+00:00"
 first_seen_at: "2026-07-23T10:35:25.165423+00:00"
-fetched_at: "2026-07-28T17:20:13.644649+00:00"
+fetched_at: "2026-07-29T06:09:37.784067+00:00"
 content_hash: "sha256:fbd360af3fc1c8e840ec8ae1f43986256ca2696f08392de8216739aeccdf265d"
 ---
 

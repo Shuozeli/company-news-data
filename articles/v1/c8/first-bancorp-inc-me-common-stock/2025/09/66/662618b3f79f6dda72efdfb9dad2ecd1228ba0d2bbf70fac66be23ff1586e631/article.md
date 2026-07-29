@@ -7,7 +7,7 @@ source_id: "first-bancorp-inc-me-common-stock-rss-fb481d38c26c"
 canonical_url: "https://investors.thefirst.com/news/news-details/2025/The-First-Bancorp-Declares-Third-Quarter-Dividend/default.aspx"
 published_at: "2025-09-25T20:15:00+00:00"
 first_seen_at: "2026-07-27T02:26:21.178998+00:00"
-fetched_at: "2026-07-28T23:51:49.094534+00:00"
+fetched_at: "2026-07-29T17:03:25.228235+00:00"
 content_hash: "sha256:66d0bd41ff8ae080962129061df5b67bf9348e6f3bd85b225d0339cd960e9ed6"
 ---
 

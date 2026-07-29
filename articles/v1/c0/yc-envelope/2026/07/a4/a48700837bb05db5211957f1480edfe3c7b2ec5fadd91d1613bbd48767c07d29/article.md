@@ -7,7 +7,7 @@ source_id: "yc-envelope-news-import-bee3141ade7e"
 canonical_url: "https://envelopebudgeting.com/articles/disposable-credit-card"
 published_at: "2026-07-14T00:00:00+00:00"
 first_seen_at: "2026-07-25T03:03:48.735463+00:00"
-fetched_at: "2026-07-28T08:18:38.346356+00:00"
+fetched_at: "2026-07-29T09:34:39.456546+00:00"
 content_hash: "sha256:8bc1358dc4cbee5ed7f9d63fa4bc4ac3a1a30c9064048026de2341680a94b891"
 ---
 

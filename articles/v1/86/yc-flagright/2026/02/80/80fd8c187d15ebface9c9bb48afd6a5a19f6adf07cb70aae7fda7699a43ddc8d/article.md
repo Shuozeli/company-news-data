@@ -7,7 +7,7 @@ source_id: "yc-flagright-news-import-ace9cee3e95e"
 canonical_url: "https://www.flagright.com/post/aml-risk-in-healthcare-payments"
 published_at: "2026-02-28T00:00:00+00:00"
 first_seen_at: "2026-07-25T05:15:45.844172+00:00"
-fetched_at: "2026-07-27T08:00:34.444438+00:00"
+fetched_at: "2026-07-29T05:13:09.711822+00:00"
 content_hash: "sha256:9e04fc58c8efb699a6c0367a89898020374cb07a7a39bab96268035a15b0fc3e"
 ---
 

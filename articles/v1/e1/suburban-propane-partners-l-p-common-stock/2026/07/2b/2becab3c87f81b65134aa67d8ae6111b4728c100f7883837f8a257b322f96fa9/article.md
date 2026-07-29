@@ -7,7 +7,7 @@ source_id: "suburban-propane-partners-l-p-common-stock-rss-735cd6635d3c"
 canonical_url: "https://investor.suburbanpropane.com/2026-07-22-Suburban-Propane-Partners,-L-P-to-Hold-Fiscal-2026-Third-Quarter-Results-Conference-Call"
 published_at: "2026-07-22T20:20:00+00:00"
 first_seen_at: "2026-07-25T01:08:05.565238+00:00"
-fetched_at: "2026-07-29T00:35:11.121502+00:00"
+fetched_at: "2026-07-29T14:00:49.970072+00:00"
 content_hash: "sha256:38a60e2c6a8d87f09b9fd122996652f779497b2068d23606e880ce4b977fa4d3"
 ---
 

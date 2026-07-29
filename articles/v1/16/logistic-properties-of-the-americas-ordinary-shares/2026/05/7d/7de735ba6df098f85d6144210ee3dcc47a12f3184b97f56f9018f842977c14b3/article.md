@@ -7,7 +7,7 @@ source_id: "logistic-properties-of-the-americas-ordinary-shares-rss-24f70a84fdfb
 canonical_url: "https://lpamericas.com/logistic-properties-of-the-americas-announces-first-quarter-2026-earnings-results/"
 published_at: "2026-05-14T13:50:20+00:00"
 first_seen_at: "2026-07-24T09:54:54.960480+00:00"
-fetched_at: "2026-07-28T22:53:52.840678+00:00"
+fetched_at: "2026-07-29T15:33:22.887259+00:00"
 content_hash: "sha256:4c04525fde788ef055549781a47356f934a6b8ebf3b7a05c72c1c28a00a382c9"
 ---
 

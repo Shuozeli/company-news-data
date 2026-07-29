@@ -4,9 +4,9 @@
     "key": "globalfoundries-inc-ordinary-shares",
     "name": "GlobalFoundries Inc. Ordinary Shares"
   },
-  "record_count": 9,
+  "record_count": 10,
   "first_published_at": "2026-04-22T12:42:35+00:00",
-  "last_published_at": "2026-06-25T13:46:25+00:00",
+  "last_published_at": "2026-07-29T10:42:10+00:00",
   "partitions": [
     {
       "partition": "2026-04",
@@ -19,10 +19,14 @@
     {
       "partition": "2026-06",
       "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,10 +34,10 @@
       {
         "page": 1,
         "path": "articles/v1/68/globalfoundries-inc-ordinary-shares/index/pages/000001.json",
-        "record_count": 9,
-        "byte_count": 12471,
-        "sha256": "sha256:c80d5ad4dbe20fdcebd018707dff3dd325014a3167114ca42be321f541680ce0",
-        "newest_at": "2026-06-25T13:46:25+00:00",
+        "record_count": 10,
+        "byte_count": 13806,
+        "sha256": "sha256:521e10382f01638f8fb289be2843dd475931306da0aafb8a687ae3b714bfde38",
+        "newest_at": "2026-07-29T10:42:10+00:00",
         "oldest_at": "2026-04-22T12:42:35+00:00"
       }
     ]

@@ -7,7 +7,7 @@ source_id: "eaton-vance-tax-advantage-global-dividend-opp-common-stock-rss-22984
 canonical_url: "https://www.dividendinvestor.com/three-dividend-paying-mid-year-investments-to-buy/"
 published_at: "2026-07-03T00:45:01+00:00"
 first_seen_at: "2026-07-26T13:16:06.169537+00:00"
-fetched_at: "2026-07-28T22:17:18.236318+00:00"
+fetched_at: "2026-07-29T14:22:24.012703+00:00"
 content_hash: "sha256:f2d6824469bba5b7b5c2489aec813f476fac5dc1feddfa0921c3d16d35d1f7d4"
 ---
 

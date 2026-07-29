@@ -7,7 +7,7 @@ source_id: "range-resources-corporation-common-stock-rss-39ebe470ada3"
 canonical_url: "https://www.rangeresources.com/charles-griffie-appointed-as-range-director/"
 published_at: "2023-10-20T13:15:20+00:00"
 first_seen_at: "2026-07-25T01:14:33.578834+00:00"
-fetched_at: "2026-07-29T00:50:21.600149+00:00"
+fetched_at: "2026-07-29T16:58:42.414622+00:00"
 content_hash: "sha256:7805475a48b0b4aa967319b87090f1c174ee9fe64ac678a2c22c5d2fad7934ec"
 ---
 

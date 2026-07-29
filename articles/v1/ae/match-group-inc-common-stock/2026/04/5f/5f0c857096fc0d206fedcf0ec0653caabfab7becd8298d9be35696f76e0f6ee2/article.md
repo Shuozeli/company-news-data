@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/hinge/the-future-of-everything-roses-revenue-and-retention-hinges-strategy-for-a-1-billion-year/"
 published_at: "2026-04-03T22:03:02+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:02f18378c31cf77f1e7c8e66e1cc57c71373af25e6c55d0f13480a14bd791e46"
 ---
 

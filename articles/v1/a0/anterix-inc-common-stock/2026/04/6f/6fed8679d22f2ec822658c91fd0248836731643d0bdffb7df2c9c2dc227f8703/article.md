@@ -7,7 +7,7 @@ source_id: "anterix-inc-common-stock-rss-5ccc97b4bda7"
 canonical_url: "https://investors.anterix.com/news-releases/news-release-details/whats-stopping-anterix-launching-d2d-900-mhz"
 published_at: "2026-04-08T12:30:00+00:00"
 first_seen_at: "2026-07-26T09:22:22.313626+00:00"
-fetched_at: "2026-07-28T23:41:44.309473+00:00"
+fetched_at: "2026-07-29T15:35:53.916245+00:00"
 content_hash: "sha256:445a51b901ef7189175990daa345b9dc915a5bf984b3302c9cabcb0243a328a9"
 ---
 

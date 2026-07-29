@@ -7,7 +7,7 @@ source_id: "amarin-corporation-plc-rss-5a6dc08ff807"
 canonical_url: "https://investors.amarincorp.com/news-releases/news-release-details/amarin-report-second-quarter-2026-financial-results-and-host"
 published_at: "2026-07-15T12:00:32+00:00"
 first_seen_at: "2026-07-26T09:06:16.575376+00:00"
-fetched_at: "2026-07-28T23:16:02.876317+00:00"
+fetched_at: "2026-07-29T15:05:52.933617+00:00"
 content_hash: "sha256:694ac858284386173fb52d54ea3776512a13d7a68bef8cc4f605436dc850641e"
 ---
 

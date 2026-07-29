@@ -7,7 +7,7 @@ source_id: "newmont-corporation-rss-b28462199de7"
 canonical_url: "https://www.newmont.com/investors/news-release/news-details/2026/Newmont-Announces-Key-Executive-Appointments-for-the-Next-Phase-of-Delivery/default.aspx"
 published_at: "2026-06-15T21:20:00+00:00"
 first_seen_at: "2026-07-25T01:06:57.161799+00:00"
-fetched_at: "2026-07-28T23:32:39.038318+00:00"
+fetched_at: "2026-07-29T15:27:04.548285+00:00"
 content_hash: "sha256:2ad17acaa296c8b7e337434053aaa3af23db8fe3532fcfc9d29554c95714cc7e"
 ---
 

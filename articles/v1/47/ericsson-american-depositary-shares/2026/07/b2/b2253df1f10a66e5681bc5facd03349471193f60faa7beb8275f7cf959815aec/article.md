@@ -7,7 +7,7 @@ source_id: "ericsson-american-depositary-shares-atom-93f46de34b40"
 canonical_url: "https://www.ericsson.com/en/blog/2026/7/michael-gebhardt-radio-engineering"
 published_at: "2026-07-14T13:00:36+00:00"
 first_seen_at: "2026-07-25T01:08:03.792576+00:00"
-fetched_at: "2026-07-28T23:40:54.246754+00:00"
+fetched_at: "2026-07-29T15:07:41.763286+00:00"
 content_hash: "sha256:aa2f596e752ca0ff8bda7702e505c812b11ae286d0e6257508cf609fcc238e57"
 ---
 

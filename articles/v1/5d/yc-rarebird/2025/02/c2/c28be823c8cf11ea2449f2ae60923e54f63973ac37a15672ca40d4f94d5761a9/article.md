@@ -7,7 +7,7 @@ source_id: "yc-rarebird-atom-171a9e15b225"
 canonical_url: "https://rarebird.coffee/blogs/news/caffeine-and-sleep"
 published_at: "2025-02-26T02:03:02+00:00"
 first_seen_at: "2026-07-25T20:30:23.153216+00:00"
-fetched_at: "2026-07-29T00:05:27.664367+00:00"
+fetched_at: "2026-07-29T17:00:39.082353+00:00"
 content_hash: "sha256:682778772edda5b16155d727c0b294d5dc10fb52da68f6faae8ef528e3a40cca"
 ---
 

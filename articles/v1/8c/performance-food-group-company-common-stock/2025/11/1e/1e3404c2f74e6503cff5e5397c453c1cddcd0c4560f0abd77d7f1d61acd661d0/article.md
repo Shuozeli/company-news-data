@@ -7,7 +7,7 @@ source_id: "performance-food-group-company-common-stock-rss-241193237c0b"
 canonical_url: "https://investors.pfgc.com/press-releases/press-release-details/2025/Performance-Food-Group-and-US-Foods-Terminate-Information-Sharing-Process/default.aspx"
 published_at: "2025-11-24T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:48.099064+00:00"
-fetched_at: "2026-07-28T23:22:39.625616+00:00"
+fetched_at: "2026-07-29T15:17:03.189773+00:00"
 content_hash: "sha256:319bdb3b2c509d87ee8adf9d11f03c9bb2d13a5742863e133ca1aaded45079d4"
 ---
 

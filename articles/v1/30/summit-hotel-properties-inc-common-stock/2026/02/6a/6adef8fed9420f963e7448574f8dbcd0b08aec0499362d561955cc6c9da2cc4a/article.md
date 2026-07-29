@@ -7,7 +7,7 @@ source_id: "summit-hotel-properties-inc-common-stock-rss-2ccb932bd701"
 canonical_url: "https://investor.shpreit.com/news-events/news/news-details/2026/SUMMIT-HOTEL-PROPERTIES-REPORTS-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS--2026-jPgpGXl2is/default.aspx"
 published_at: "2026-02-25T21:30:00+00:00"
 first_seen_at: "2026-07-26T00:50:07.796417+00:00"
-fetched_at: "2026-07-28T22:54:24.748195+00:00"
+fetched_at: "2026-07-29T14:24:45.917846+00:00"
 content_hash: "sha256:1140cd5268c837fe5832d10c6d9b521d37be04c3b0bc90600767faf4172456e9"
 ---
 

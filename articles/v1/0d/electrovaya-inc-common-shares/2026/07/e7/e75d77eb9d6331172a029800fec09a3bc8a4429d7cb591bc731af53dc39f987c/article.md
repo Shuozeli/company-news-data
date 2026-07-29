@@ -7,7 +7,7 @@ source_id: "electrovaya-inc-common-shares-rss-9d2ff1dd1d30"
 canonical_url: "https://electrovaya.com/the-close-for-thursday-july-16-2026/"
 published_at: "2026-07-17T17:00:00+00:00"
 first_seen_at: "2026-07-28T14:56:56.771842+00:00"
-fetched_at: "2026-07-28T23:29:25.489839+00:00"
+fetched_at: "2026-07-29T15:27:58.241805+00:00"
 content_hash: "sha256:4ba7b5a302a9146544cc9c14f4a15efc3258030320bbc82cb4a1927c4233c99c"
 ---
 

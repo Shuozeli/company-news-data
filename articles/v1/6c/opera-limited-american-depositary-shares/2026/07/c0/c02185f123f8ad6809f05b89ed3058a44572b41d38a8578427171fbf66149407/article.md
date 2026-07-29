@@ -7,7 +7,7 @@ source_id: "opera-limited-american-depositary-shares-rss-2f5c2c4cdfef"
 canonical_url: "https://blogs.opera.com/news/2026/07/vertical-tabs-upgraded-google-lens-opera-one/"
 published_at: "2026-07-23T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:28.064402+00:00"
-fetched_at: "2026-07-29T00:45:13.328847+00:00"
+fetched_at: "2026-07-29T14:07:49.355145+00:00"
 content_hash: "sha256:e6df2b38358cd1af40351bca54b04493bf417e019932e3f91d8dd4d6e8642966"
 ---
 

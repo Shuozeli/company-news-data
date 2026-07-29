@@ -4,9 +4,9 @@
     "key": "nutrien-ltd-common-shares",
     "name": "Nutrien Ltd. Common Shares"
   },
-  "record_count": 20,
+  "record_count": 21,
   "first_published_at": "2026-04-09T00:00:00+00:00",
-  "last_published_at": "2026-07-21T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-04",
@@ -18,7 +18,7 @@
     },
     {
       "partition": "2026-06",
-      "record_count": 4
+      "record_count": 5
     },
     {
       "partition": "2026-07",
@@ -26,7 +26,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -34,10 +34,10 @@
       {
         "page": 1,
         "path": "articles/v1/77/nutrien-ltd-common-shares/index/pages/000001.json",
-        "record_count": 20,
-        "byte_count": 21756,
-        "sha256": "sha256:7905c3fcd0808476dbbdc39f95facbd2cb10d9ffef03ef8cabd849b44ab60642",
-        "newest_at": "2026-07-28T21:38:27.854613+00:00",
+        "record_count": 21,
+        "byte_count": 22881,
+        "sha256": "sha256:7e7c29460fe743563a3d57c4bf1843cbc6cf851416d1931733cc4b1b86fcfcaf",
+        "newest_at": "2026-07-29T00:00:00+00:00",
         "oldest_at": "2026-04-09T00:00:00+00:00"
       }
     ]

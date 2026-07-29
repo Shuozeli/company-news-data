@@ -7,7 +7,7 @@ source_id: "newmark-group-inc-class-a-common-stock-rss-3925c6b543ec"
 canonical_url: "https://www.nmrk.com/insights/in-the-news/newmark-completes-72k-sf-cold-storage-lease-in-kent"
 published_at: "2026-07-22T04:00:00+00:00"
 first_seen_at: "2026-07-26T17:55:39.497785+00:00"
-fetched_at: "2026-07-28T22:59:53.234597+00:00"
+fetched_at: "2026-07-29T14:37:57.528482+00:00"
 content_hash: "sha256:cbc31b1f4f23e59f477f55111485ad832903fc9a9cfa121e1c56784c75fbc19c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "imperial-oil-limited-common-stock-rss-064478ca8d2c"
 canonical_url: "https://news.imperialoil.ca/news-releases/news-releases/2026/Imperial-reports-voting-results-for-election-of-directors/default.aspx"
 published_at: "2026-05-04T21:05:00+00:00"
 first_seen_at: "2026-07-25T09:09:14.198352+00:00"
-fetched_at: "2026-07-28T22:15:51.440354+00:00"
+fetched_at: "2026-07-29T14:22:09.639524+00:00"
 content_hash: "sha256:8aa21e1a2773a4cf213d9e2d7d80f29db27aea4b42e2af03760d39b3768fe020"
 ---
 

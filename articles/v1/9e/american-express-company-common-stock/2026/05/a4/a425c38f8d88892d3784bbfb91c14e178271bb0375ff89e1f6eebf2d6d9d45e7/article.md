@@ -7,7 +7,7 @@ source_id: "american-express-company-common-stock-rss-567d71192cd7"
 canonical_url: "https://americanexpress.mediaroom.com/2026-05-13-American-Express-Expands-Acceptance-Across-Popular-Canadian-Restaurant-Chains"
 published_at: "2026-05-13T14:00:00+00:00"
 first_seen_at: "2026-07-24T15:49:06.140336+00:00"
-fetched_at: "2026-07-29T00:25:35.005980+00:00"
+fetched_at: "2026-07-29T13:53:49.569301+00:00"
 content_hash: "sha256:55b5300894ce069d36a9d22792fa73459ad0391ef8eb574a446fa6eca4529d98"
 ---
 

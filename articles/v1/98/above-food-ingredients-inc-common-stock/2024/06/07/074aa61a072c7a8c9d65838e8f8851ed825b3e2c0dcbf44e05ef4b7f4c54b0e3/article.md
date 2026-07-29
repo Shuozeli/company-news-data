@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-and-bite-acquisition-corp-announce-completion-of-business-combination/"
 published_at: "2024-06-28T20:07:51+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:c1b6620c165e5ec556bf033ca380997337c8d73185c5eebc179c7fac2e99e3ef"
 ---
 

@@ -7,7 +7,7 @@ source_id: "tiptree-inc-common-stock-rss-67f8f0593fc9"
 canonical_url: "https://investors.tiptreeinc.com/Investor-Resources/news/news-details/2026/Tiptree-Inc--Announces-Tax-Treatment-of-2025-Common-Stock-Distributions/default.aspx"
 published_at: "2026-01-06T14:03:00+00:00"
 first_seen_at: "2026-07-26T02:42:36.653502+00:00"
-fetched_at: "2026-07-29T00:20:50.028221+00:00"
+fetched_at: "2026-07-29T17:22:39.337637+00:00"
 content_hash: "sha256:d4d2c92f8ae04c557b8fb8cf524c91ac96f41e534999aae3a2611f4a4a8274e9"
 ---
 

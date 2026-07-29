@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/biokerosene-totalenergies-met-la-main-sur-pres-dun-million-de-tonnes-dhuiles-usagees/"
 published_at: "2025-06-17T13:46:29+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T23:24:39.102238+00:00"
+fetched_at: "2026-07-29T15:20:19.764825+00:00"
 content_hash: "sha256:069dd09553b49a67d737080804c8b44012aacab3d247cd5ed0ced445f04406be"
 ---
 

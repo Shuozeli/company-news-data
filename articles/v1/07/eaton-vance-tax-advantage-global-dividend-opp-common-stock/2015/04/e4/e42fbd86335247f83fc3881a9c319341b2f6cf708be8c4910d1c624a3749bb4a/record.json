@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e42fbd86335247f83fc3881a9c319341b2f6cf708be8c4910d1c624a3749bb4a",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/bluemonte-long-term-bond-etf-exchange-traded-concepts-trust-nyse-bltd-declared-a-dividend-of-$0.0917-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/bluemonte-long-term-bond-etf-exchange-traded-concepts-trust-nyse-bltd-declared-a-dividend-of-$0.0917-per-share/"
+  },
+  "title": "BLTD Dividend Announcement $0.0917/Share 7/28/2026",
+  "summary": "NYSE:BLTD Bluemonte Long Term Bond ETF/Exchange Traded Concepts Trust Dividend Announcement $0.0917 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.562200+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/e4/e42fbd86335247f83fc3881a9c319341b2f6cf708be8c4910d1c624a3749bb4a/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/e4/e42fbd86335247f83fc3881a9c319341b2f6cf708be8c4910d1c624a3749bb4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1676,
+    "sha256": "sha256:f92df3d4df0df9687e0da1352a43d93f654cd7d19a7545e93faa88291c79603d",
+    "normalized_content_hash": "sha256:5f17fc36d170920ccf87f8282fe111cede4c3e2492d75a67bc60ba01ac904030"
+  },
+  "provenance": {
+    "source_item_id": "e6262627-c821-4073-a424-d24986f407ea",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/bluemonte-long-term-bond-etf-exchange-traded-concepts-trust-nyse-bltd-declared-a-dividend-of-$0.0917-per-share/"
+  }
+}

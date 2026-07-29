@@ -7,7 +7,7 @@ source_id: "high-tide-inc-common-shares-rss-f83dc5e20636"
 canonical_url: "https://hightideinc.com/high-tide-to-open-new-canna-cabana-in-ottawa-ontario/"
 published_at: "2026-07-23T10:00:00+00:00"
 first_seen_at: "2026-07-23T10:51:45.349624+00:00"
-fetched_at: "2026-07-29T00:41:30.017006+00:00"
+fetched_at: "2026-07-29T14:06:34.773204+00:00"
 content_hash: "sha256:da85f48fb597a2fb1b68d4badb97be2585e3cf1381b4136ef65997cc1a54a042"
 ---
 

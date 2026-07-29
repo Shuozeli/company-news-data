@@ -4,9 +4,9 @@
     "key": "yc-alphawatch-ai",
     "name": "Alphawatch AI"
   },
-  "record_count": 24,
+  "record_count": 25,
   "first_published_at": "2026-05-28T15:34:00+00:00",
-  "last_published_at": "2026-07-27T16:11:50+00:00",
+  "last_published_at": "2026-07-29T14:47:09+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -18,11 +18,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 15
+      "record_count": 16
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,10 +30,10 @@
       {
         "page": 1,
         "path": "articles/v1/9f/yc-alphawatch-ai/index/pages/000001.json",
-        "record_count": 24,
-        "byte_count": 34132,
-        "sha256": "sha256:04baad3eeb96295058b3783c5efa2caa8ed32c055eef4c1ebe62ce3c3150c543",
-        "newest_at": "2026-07-27T16:11:50+00:00",
+        "record_count": 25,
+        "byte_count": 35616,
+        "sha256": "sha256:e4bc9a398a4944bc56c19961954965981d893b5cdca570244db0b50b644f5f96",
+        "newest_at": "2026-07-29T14:47:09+00:00",
         "oldest_at": "2026-05-28T15:34:00+00:00"
       }
     ]

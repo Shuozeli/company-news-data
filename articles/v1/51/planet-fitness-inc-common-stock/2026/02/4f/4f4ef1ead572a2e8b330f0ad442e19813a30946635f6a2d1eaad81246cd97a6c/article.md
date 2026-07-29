@@ -7,7 +7,7 @@ source_id: "planet-fitness-inc-common-stock-rss-514f026fe840"
 canonical_url: "http://investor.planetfitness.com/investors/press-releases/press-release-details/2026/Planet-Fitness-Inc--Announces-Fourth-Quarter-and-Year-End-2025-Results/default.aspx"
 published_at: "2026-02-24T11:30:00+00:00"
 first_seen_at: "2026-07-25T19:11:41.755428+00:00"
-fetched_at: "2026-07-29T00:14:33.992862+00:00"
+fetched_at: "2026-07-29T17:18:36.902175+00:00"
 content_hash: "sha256:984abe37650ff549789e261335a5b6d35771626ff3b5d24b57259252531d4749"
 ---
 

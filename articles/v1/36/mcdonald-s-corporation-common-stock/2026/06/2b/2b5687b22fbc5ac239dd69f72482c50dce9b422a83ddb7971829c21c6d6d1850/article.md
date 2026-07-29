@@ -7,7 +7,7 @@ source_id: "mcdonald-s-corporation-common-stock-rss-e3f7e88d5cc9"
 canonical_url: "https://medium.com/mcdonalds-technical-blog/from-unplanned-risk-to-lasting-resilience-the-role-of-immediate-risk-reduction-16b1c0d9c2b8"
 published_at: "2026-06-30T14:14:45+00:00"
 first_seen_at: "2026-07-22T17:27:13.648832+00:00"
-fetched_at: "2026-07-28T23:53:24.017559+00:00"
+fetched_at: "2026-07-29T17:01:15.253896+00:00"
 content_hash: "sha256:3313d2ca4b6126293deeec7736dd8c981f2d6e5cad21d3cdcbdd4ce810dcfdaa"
 ---
 

@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:38:29.998390+00:00"
 content_hash: "sha256:ad6399fbddbe67a690ae46e001f22d3ce1d63501e5281b8fb0559138496a95d8"
 ---
 
-# Stories from Flow Club: Caitryn In Flow
+# Languishing at Work: One Member's Way Out
 
 *This essay was first published on Caitryn McCallum's personal website. Republished here with her permission.*
 

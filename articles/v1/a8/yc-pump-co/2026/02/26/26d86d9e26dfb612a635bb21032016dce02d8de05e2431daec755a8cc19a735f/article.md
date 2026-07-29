@@ -7,7 +7,7 @@ source_id: "yc-pump-co-news-import-86a46b79533f"
 canonical_url: "https://www.pump.co/blog/amazon-lightsail/"
 published_at: "2026-02-25T00:00:00+00:00"
 first_seen_at: "2026-07-25T20:15:23.871807+00:00"
-fetched_at: "2026-07-28T11:48:07.834159+00:00"
+fetched_at: "2026-07-29T14:52:31.762897+00:00"
 content_hash: "sha256:5320ca1ab87ab95c097e11932e697c7bcad45fd055ec74fe88d75ace069abe00"
 ---
 

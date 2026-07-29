@@ -7,7 +7,7 @@ source_id: "hawaiian-electric-industries-inc-common-stock-rss-20259465158f"
 canonical_url: "https://www.hei.com/investor-relations/news-and-events/news/news-details/2026/Hawaiian-Electric-Industries-to-Announce-Second-Quarter-2026-Results-August-7/default.aspx"
 published_at: "2026-07-08T12:30:00+00:00"
 first_seen_at: "2026-07-25T07:43:38.567861+00:00"
-fetched_at: "2026-07-28T23:18:57.783665+00:00"
+fetched_at: "2026-07-29T15:08:39.829064+00:00"
 content_hash: "sha256:b0831415d0c9512f9f66690e0df163532b7bdea52b1ee635e72bfde871e1a133"
 ---
 

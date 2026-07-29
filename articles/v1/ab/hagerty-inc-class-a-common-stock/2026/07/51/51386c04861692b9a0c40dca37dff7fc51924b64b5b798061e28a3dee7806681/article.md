@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/hagerty-community/our-two-cents-concours-or-custom-paint-job/"
 published_at: "2026-07-24T16:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:8d94469101152e76af2ca64b5fdc6181ba021e45be9ea4af62f050cab8496d6c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "acco-brands-corporation-common-stock-rss-92734c555b09"
 canonical_url: "https://ir.accobrands.com/news/news-details/2026/ACCO-Brands-Reports-Fourth-Quarter-and-Full-Year-Results-and-Provides-Outlook-for-2026/default.aspx"
 published_at: "2026-03-09T11:00:00+00:00"
 first_seen_at: "2026-07-26T21:46:03.374935+00:00"
-fetched_at: "2026-07-28T23:08:41.981300+00:00"
+fetched_at: "2026-07-29T14:51:26.577698+00:00"
 content_hash: "sha256:bd373fbf7057e9f27550fe8eb84e9cd8bb715bbaf553e111e736e2e9f3d57b7c"
 ---
 

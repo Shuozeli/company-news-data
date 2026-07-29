@@ -7,7 +7,7 @@ source_id: "progressive-corporation-the-common-stock-rss-26387ce00949"
 canonical_url: "https://progressive.mediaroom.com/2026-05-04-progressive-insurance-R-expands-uppayment-R-to-help-200-first-time-homebuyers-get-into-a-home"
 published_at: "2026-05-04T13:11:00+00:00"
 first_seen_at: "2026-07-20T03:31:38.151957+00:00"
-fetched_at: "2026-07-28T23:06:00.378591+00:00"
+fetched_at: "2026-07-29T14:46:39.141832+00:00"
 content_hash: "sha256:f0f3615120e076d20c99556c2f6b0b14d02fa01f4e78002f24ecb5c7e266362a"
 ---
 

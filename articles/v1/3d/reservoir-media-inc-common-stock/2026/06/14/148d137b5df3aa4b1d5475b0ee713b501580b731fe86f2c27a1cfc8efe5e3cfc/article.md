@@ -7,7 +7,7 @@ source_id: "reservoir-media-inc-common-stock-rss-a19592763df7"
 canonical_url: "https://reservoir-media.com/reservoir-announces-joint-venture-with-latin-music-publisher-tu-publishing/"
 published_at: "2026-06-25T08:00:00+00:00"
 first_seen_at: "2026-07-27T04:42:39.995150+00:00"
-fetched_at: "2026-07-28T23:40:05.171984+00:00"
+fetched_at: "2026-07-29T15:34:31.651798+00:00"
 content_hash: "sha256:4b325cdbea9db5674789a4a1c1e9be3b1c35c909b2fa71abc8712bd3675c0cb7"
 ---
 

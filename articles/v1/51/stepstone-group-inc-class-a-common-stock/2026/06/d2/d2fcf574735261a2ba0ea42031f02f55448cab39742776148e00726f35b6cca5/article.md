@@ -7,7 +7,7 @@ source_id: "stepstone-group-inc-class-a-common-stock-rss-d53e45329a72"
 canonical_url: "https://www.stepstonegroup.com/news-insights/stepstone-pitchbook-launch-deal-level-benchmarking-solution-for-private-markets/"
 published_at: "2026-06-17T12:05:00+00:00"
 first_seen_at: "2026-07-24T02:21:02.641674+00:00"
-fetched_at: "2026-07-28T23:06:00.697821+00:00"
+fetched_at: "2026-07-29T14:46:39.461282+00:00"
 content_hash: "sha256:5ee251acda3ab8ce2750a8b5338c457149385e4f07169439f85ac07c6de16137"
 ---
 

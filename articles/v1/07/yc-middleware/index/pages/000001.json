@@ -1,9 +1,39 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
-  "record_count": 20,
+  "record_count": 21,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "97bfdc4d59489662e2e11d5844c7e989ebd0b56e2f859ffa89f6aac1ec99986e",
+      "company_key": "yc-middleware",
+      "company_name": "Middleware",
+      "source_id": "yc-middleware-news-import-fe54c9028845",
+      "source_kind": "html",
+      "canonical_url": "https://middleware.io/blog/aws-lambda-cloudformation/",
+      "title": "AWS Lambda CloudFormation: How to Create, Deploy, and Manage Lambda Functions",
+      "summary": "Learn how to create, deploy, update, troubleshoot, and monitor AWS Lambda functions with CloudFormation using templates and observability best practices.",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "fetched_at": "2026-07-29T11:56:08.204787+00:00",
+      "article_path": "articles/v1/07/yc-middleware/2026/07/97/97bfdc4d59489662e2e11d5844c7e989ebd0b56e2f859ffa89f6aac1ec99986e/article.md",
+      "record_path": "articles/v1/07/yc-middleware/2026/07/97/97bfdc4d59489662e2e11d5844c7e989ebd0b56e2f859ffa89f6aac1ec99986e/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "c2063e4157d83d98abe9a6ac7a6a03ebc006606243948b3dfdadec839d9343cc",
+      "company_key": "yc-middleware",
+      "company_name": "Middleware",
+      "source_id": "yc-middleware-news-import-fe54c9028845",
+      "source_kind": "html",
+      "canonical_url": "https://middleware.io/blog/datadog-pricing/",
+      "title": "Datadog Pricing: Why You’re Paying for More Than You Use",
+      "summary": "Datadog's pricing model has 6 hidden cost drivers most teams miss. Full breakdown of per-host, APM, and log ingestion costs, plus how teams cut 75% switching to Middleware.",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+      "article_path": "articles/v1/07/yc-middleware/2026/07/c2/c2063e4157d83d98abe9a6ac7a6a03ebc006606243948b3dfdadec839d9343cc/article.md",
+      "record_path": "articles/v1/07/yc-middleware/2026/07/c2/c2063e4157d83d98abe9a6ac7a6a03ebc006606243948b3dfdadec839d9343cc/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "ca54c2c3925183d4d04a952ea386953b6eeb6fa447a68eed0c43ee1ddc9f9425",
@@ -48,21 +78,6 @@
       "fetched_at": "2026-07-28T21:33:52.463534+00:00",
       "article_path": "articles/v1/07/yc-middleware/2026/07/0c/0c513ba6940f18e56e2eff4829e66397055f94aec95225d4086ee69341162981/article.md",
       "record_path": "articles/v1/07/yc-middleware/2026/07/0c/0c513ba6940f18e56e2eff4829e66397055f94aec95225d4086ee69341162981/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "c2063e4157d83d98abe9a6ac7a6a03ebc006606243948b3dfdadec839d9343cc",
-      "company_key": "yc-middleware",
-      "company_name": "Middleware",
-      "source_id": "yc-middleware-news-import-fe54c9028845",
-      "source_kind": "html",
-      "canonical_url": "https://middleware.io/blog/datadog-pricing/",
-      "title": "Datadog Pricing: Why You’re Paying for More Than You Use",
-      "summary": "Datadog's pricing model has 6 hidden cost drivers most teams miss. Full breakdown of per-host, APM, and log ingestion costs, plus how teams cut 75% switching to Middleware.",
-      "published_at": "2026-07-28T00:00:00+00:00",
-      "fetched_at": "2026-07-28T21:33:52.463534+00:00",
-      "article_path": "articles/v1/07/yc-middleware/2026/07/c2/c2063e4157d83d98abe9a6ac7a6a03ebc006606243948b3dfdadec839d9343cc/article.md",
-      "record_path": "articles/v1/07/yc-middleware/2026/07/c2/c2063e4157d83d98abe9a6ac7a6a03ebc006606243948b3dfdadec839d9343cc/record.json"
     },
     {
       "schema_version": "1.0.0",

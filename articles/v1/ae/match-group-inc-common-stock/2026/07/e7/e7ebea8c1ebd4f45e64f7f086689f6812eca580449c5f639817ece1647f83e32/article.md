@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/hinge/how-hinge-is-standing-out-in-the-dating-app-crowd/"
 published_at: "2026-07-07T13:31:02+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:e5ec7a6d8537c221fc002b438936a212b67dc18e1692df7a931bc7bc1445e264"
 ---
 

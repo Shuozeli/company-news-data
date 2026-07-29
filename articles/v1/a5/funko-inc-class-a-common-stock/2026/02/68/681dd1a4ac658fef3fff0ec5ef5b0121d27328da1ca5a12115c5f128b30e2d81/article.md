@@ -7,7 +7,7 @@ source_id: "funko-inc-class-a-common-stock-rss-cd6b2a8e8083"
 canonical_url: "https://investor.funko.com/news-and-events/press-releases/Press-Releases/2026/Funko-Announces-Amendment-and-Extension-of-Existing-Credit-Agreement/default.aspx"
 published_at: "2026-02-13T22:28:00+00:00"
 first_seen_at: "2026-07-25T05:58:51.373067+00:00"
-fetched_at: "2026-07-29T00:15:01.335432+00:00"
+fetched_at: "2026-07-29T17:19:02.546935+00:00"
 content_hash: "sha256:31e6c95d4b8edeee56fa675fbcc95512f37dbca91a169d018491f21a3fa09dc2"
 ---
 

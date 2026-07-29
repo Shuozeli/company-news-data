@@ -7,7 +7,7 @@ source_id: "rentokil-initial-plc-american-depositary-shares-each-representing-fi
 canonical_url: "https://www.rentokil.com/us/about/blog/all-industries/stink-bug-invasion"
 published_at: "2023-03-02T00:00:00+00:00"
 first_seen_at: "2026-07-25T21:09:42.289275+00:00"
-fetched_at: "2026-07-28T12:21:51.788771+00:00"
+fetched_at: "2026-07-29T15:29:24.164077+00:00"
 content_hash: "sha256:8a3e6d20c8269ae462d7f52fb61258b40c6db251f3147b24565aa19c565a8800"
 ---
 

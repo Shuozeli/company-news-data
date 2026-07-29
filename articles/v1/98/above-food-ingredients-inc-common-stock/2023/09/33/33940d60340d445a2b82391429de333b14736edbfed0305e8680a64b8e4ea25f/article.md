@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-corp-to-acquire-ai-based-genomic-assets-intellectual-property-and-trait-development-technology-licensing-rights-from-nrgene/"
 published_at: "2023-09-26T12:00:14+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:76ae0d720f9fd798de2a391afcdae9b3f16b7171108b0aee0b81c974b299dd8c"
 ---
 

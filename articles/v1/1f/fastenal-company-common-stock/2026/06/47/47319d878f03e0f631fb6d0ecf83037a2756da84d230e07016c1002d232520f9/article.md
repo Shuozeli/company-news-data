@@ -7,7 +7,7 @@ source_id: "fastenal-company-common-stock-rss-cf592647852a"
 canonical_url: "https://investor.fastenal.com/news-releases/news-details/2026/Fastenal-to-Serve-as-a-Partner-of-the-2026-Special-Olympics-USA-Games/default.aspx"
 published_at: "2026-06-15T20:05:00+00:00"
 first_seen_at: "2026-07-25T04:05:43.367273+00:00"
-fetched_at: "2026-07-28T23:49:08.956540+00:00"
+fetched_at: "2026-07-29T15:43:30.365610+00:00"
 content_hash: "sha256:ae458cf59f04922abcc7082402d5e22976a045c5e312d7ea2063a6b9bf1564ee"
 ---
 

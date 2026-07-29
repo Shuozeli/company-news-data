@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-awarded-2022-energy-star-sustained-excellence"
 published_at: "2022-05-10T15:10:42+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:a909d21fb32458749e8934162a736bebeef35aacd9ca61cbaf9bf4ac13cf52f6"
 ---
 

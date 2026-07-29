@@ -7,7 +7,7 @@ source_id: "capri-holdings-limited-ordinary-shares-rss-e9c048290598"
 canonical_url: "https://www.capriholdings.com/news/news-details/2026/Tyler-Reddien-Appointed-Chief-Financial-Officer-and-Chief-Operating-Officer-of-Capri-Holdings/default.aspx"
 published_at: "2026-02-24T21:05:00+00:00"
 first_seen_at: "2026-07-27T00:23:47.994959+00:00"
-fetched_at: "2026-07-28T23:13:00.981100+00:00"
+fetched_at: "2026-07-29T15:00:01.567898+00:00"
 content_hash: "sha256:7b48d114b61a890652a8709b0257eae904f071f7e9303bc19e204c6de56d5f89"
 ---
 

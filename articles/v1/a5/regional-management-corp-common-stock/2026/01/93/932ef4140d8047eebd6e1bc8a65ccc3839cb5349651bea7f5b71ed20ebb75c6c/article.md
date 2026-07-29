@@ -7,7 +7,7 @@ source_id: "regional-management-corp-common-stock-rss-a5d1e458e13d"
 canonical_url: "https://www.regionalmanagement.com/news-and-events/news/press-release-details/2026/Regional-Management-Corp--to-Report-Fourth-Quarter-2025-Results-on-Wednesday-February-4-2026/default.aspx"
 published_at: "2026-01-07T21:15:00+00:00"
 first_seen_at: "2026-07-25T20:48:13.259631+00:00"
-fetched_at: "2026-07-28T22:54:28.620667+00:00"
+fetched_at: "2026-07-29T14:24:35.082399+00:00"
 content_hash: "sha256:bd9b5f78799989e11191d3046d1341bdc55ad1dcb270d7c2af1e32f08fde797d"
 ---
 

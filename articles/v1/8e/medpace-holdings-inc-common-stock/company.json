@@ -4,9 +4,9 @@
     "key": "medpace-holdings-inc-common-stock",
     "name": "Medpace Holdings Inc. Common Stock"
   },
-  "record_count": 21,
+  "record_count": 22,
   "first_published_at": "2025-11-19T20:44:24+00:00",
-  "last_published_at": "2026-07-23T13:40:07+00:00",
+  "last_published_at": "2026-07-29T14:21:29+00:00",
   "partitions": [
     {
       "partition": "2025-11",
@@ -38,11 +38,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 4
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -50,10 +50,10 @@
       {
         "page": 1,
         "path": "articles/v1/8e/medpace-holdings-inc-common-stock/index/pages/000001.json",
-        "record_count": 21,
-        "byte_count": 23850,
-        "sha256": "sha256:565f41952bffa43e713b958b248b9ad19b3f2e64776675d17ac585f1cf277789",
-        "newest_at": "2026-07-23T13:40:07+00:00",
+        "record_count": 22,
+        "byte_count": 25061,
+        "sha256": "sha256:eecc110b6338847ed68237e8af8f541a06d8fbcc8f628ceb194275265f0bb911",
+        "newest_at": "2026-07-29T14:21:29+00:00",
         "oldest_at": "2025-11-19T20:44:24+00:00"
       }
     ]

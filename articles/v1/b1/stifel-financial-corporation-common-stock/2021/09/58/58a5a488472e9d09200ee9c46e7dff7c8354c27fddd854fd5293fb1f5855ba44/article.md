@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2021/Eaton-Arc70-Press-Release.pdf"
 published_at: "2021-09-02T13:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:261ece4a45705fe1c186bd3fa41202c1e05e89299860691b5b326c5f8dc32a47"
 ---
 

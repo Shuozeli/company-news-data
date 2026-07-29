@@ -4,10 +4,14 @@
     "key": "c-h-robinson-worldwide-inc-common-stock",
     "name": "C.H. Robinson Worldwide Inc. Common Stock"
   },
-  "record_count": 4,
-  "first_published_at": "2026-03-12T13:57:00+00:00",
+  "record_count": 5,
+  "first_published_at": "2026-01-14T06:00:00+00:00",
   "last_published_at": "2026-07-09T13:53:00+00:00",
   "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
     {
       "partition": "2026-03",
       "record_count": 1
@@ -22,7 +26,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,11 +34,11 @@
       {
         "page": 1,
         "path": "articles/v1/fe/c-h-robinson-worldwide-inc-common-stock/index/pages/000001.json",
-        "record_count": 4,
-        "byte_count": 5115,
-        "sha256": "sha256:2a274ecf3262f40ba8644a6092c67c6299f0d6dacb0f5519b7813f45b6155db5",
+        "record_count": 5,
+        "byte_count": 6291,
+        "sha256": "sha256:e809733b378156327d019ef66ae39f4ebab8138e341b160c6e501a824aacbe9f",
         "newest_at": "2026-07-09T13:53:00+00:00",
-        "oldest_at": "2026-03-12T13:57:00+00:00"
+        "oldest_at": "2026-01-14T06:00:00+00:00"
       }
     ]
   }

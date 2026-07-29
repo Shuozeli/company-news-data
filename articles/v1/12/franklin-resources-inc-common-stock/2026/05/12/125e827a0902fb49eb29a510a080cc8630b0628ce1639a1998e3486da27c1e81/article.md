@@ -7,7 +7,7 @@ source_id: "franklin-resources-inc-common-stock-rss-ad39536f923e"
 canonical_url: "https://investors.franklinresources.com/news-center/press-releases/press-release-details/2026/Franklin-Resources-Inc--Announces-Quarterly-Dividend-8531cc9a6/default.aspx"
 published_at: "2026-05-20T21:00:00+00:00"
 first_seen_at: "2026-07-25T05:39:35.013853+00:00"
-fetched_at: "2026-07-28T23:22:49.741548+00:00"
+fetched_at: "2026-07-29T15:17:54.531324+00:00"
 content_hash: "sha256:89e87ed224f067bc5c28ccffaf2467ea8a27e1ce2fe3678bf3c3f574fc36e11f"
 ---
 

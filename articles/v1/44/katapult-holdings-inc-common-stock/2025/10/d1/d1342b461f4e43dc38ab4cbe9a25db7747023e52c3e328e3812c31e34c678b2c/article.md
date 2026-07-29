@@ -7,7 +7,7 @@ source_id: "katapult-holdings-inc-common-stock-rss-e48851a132bd"
 canonical_url: "https://ir.katapultholdings.com/news-events/news/news-details/2025/Katapult-to-Announce-Third-Quarter-2025-Financial-Results-on-November-12-2025/default.aspx"
 published_at: "2025-10-29T10:00:00+00:00"
 first_seen_at: "2026-07-25T10:31:12.406373+00:00"
-fetched_at: "2026-07-29T00:10:13.951760+00:00"
+fetched_at: "2026-07-29T17:12:50.496055+00:00"
 content_hash: "sha256:a03b07a7e230fb7e859f82e0f4f6214d0c2c05e5db37f26b6202c2759b3670d0"
 ---
 

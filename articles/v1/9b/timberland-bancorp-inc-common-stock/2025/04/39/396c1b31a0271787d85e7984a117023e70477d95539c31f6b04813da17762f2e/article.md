@@ -7,7 +7,7 @@ source_id: "timberland-bancorp-inc-common-stock-rss-5ec6bfedda23"
 canonical_url: "https://timberlandbancorp.q4ir.com/news/news-details/2025/Timberland-Bancorp-Reports-Second-Fiscal-Quarter-Net-Income-of-6-76-Million/default.aspx"
 published_at: "2025-04-22T22:04:00+00:00"
 first_seen_at: "2026-07-26T02:42:36.256216+00:00"
-fetched_at: "2026-07-29T00:04:21.741723+00:00"
+fetched_at: "2026-07-29T15:47:04.456270+00:00"
 content_hash: "sha256:5b24880359613bbc2b0a29d9e5b58cd709cc22fe668f988d9dcdfc2612d59b07"
 ---
 

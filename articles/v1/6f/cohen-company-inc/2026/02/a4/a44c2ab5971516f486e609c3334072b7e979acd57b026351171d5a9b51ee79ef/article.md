@@ -7,7 +7,7 @@ source_id: "cohen-company-inc-rss-b12cf9ad3a83"
 canonical_url: "https://cohenandcompany.com/2026/02/27/cohen-company-announces-appointment-of-pawel-skonieczka-as-managing-director-to-lead-coverage-of-space-technology-aerospace-communications-infrastructure/"
 published_at: "2026-02-27T16:45:05+00:00"
 first_seen_at: "2026-07-24T22:53:38.296871+00:00"
-fetched_at: "2026-07-29T00:18:20.497479+00:00"
+fetched_at: "2026-07-29T17:19:57.904859+00:00"
 content_hash: "sha256:48c307c6287ab257079feae30cb909ca3b7d1f96bc20cb8a1d2b45eea9b2bec8"
 ---
 

@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2020/Stifel-StarMine-2020.pdf"
 published_at: "2020-09-29T11:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:415798cbe01c7829ac9bc4aad1fa429a49356b1ed2cb92111052d1c99a1379de"
 ---
 

@@ -7,7 +7,7 @@ source_id: "healthcare-realty-trust-incorporated-common-stock-rss-e625338219f6"
 canonical_url: "https://investors.healthcarerealty.com/corporate-profile/press-releases/news-details/2026/Healthcare-Realty-Trust-Announces-First-Quarter-Earnings-Release-Date-and-Conference-Call/default.aspx"
 published_at: "2026-04-08T20:10:00+00:00"
 first_seen_at: "2026-07-25T07:49:26.905659+00:00"
-fetched_at: "2026-07-28T23:30:00.394300+00:00"
+fetched_at: "2026-07-29T15:26:36.366629+00:00"
 content_hash: "sha256:017ef3973f6d8b54a9f7e721bcc59f6b4cf8913f6344969503ec781c8c8d9491"
 ---
 

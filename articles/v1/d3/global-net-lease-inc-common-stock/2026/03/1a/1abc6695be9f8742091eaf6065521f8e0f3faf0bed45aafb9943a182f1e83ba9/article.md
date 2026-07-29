@@ -7,7 +7,7 @@ source_id: "global-net-lease-inc-common-stock-rss-ed1964c4c638"
 canonical_url: "https://ir.globalnetlease.com/investors/news/news-details/2026/Global-Net-Lease-Inc--Announces-Preferred-Stock-Dividends/default.aspx"
 published_at: "2026-03-19T10:00:00+00:00"
 first_seen_at: "2026-07-25T06:44:50.442470+00:00"
-fetched_at: "2026-07-28T23:36:33.937279+00:00"
+fetched_at: "2026-07-29T15:31:22.976625+00:00"
 content_hash: "sha256:355604297126823110abbce331452ea535b24a6162721129742457c6f6c473f4"
 ---
 

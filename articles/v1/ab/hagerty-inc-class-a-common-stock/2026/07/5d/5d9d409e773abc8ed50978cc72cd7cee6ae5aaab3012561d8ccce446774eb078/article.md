@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/american-made-tools-are-worth-it-every-time/"
 published_at: "2026-07-28T17:00:00+00:00"
 first_seen_at: "2026-07-28T17:22:58.990510+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:84073982cab81d4da532e5faeaceba6e6b6c80320a70bd6914abf0f87abddd05"
 ---
 

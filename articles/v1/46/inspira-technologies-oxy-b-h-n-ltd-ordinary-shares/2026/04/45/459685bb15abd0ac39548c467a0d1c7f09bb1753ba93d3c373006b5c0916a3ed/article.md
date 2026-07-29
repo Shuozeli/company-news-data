@@ -7,7 +7,7 @@ source_id: "inspira-technologies-oxy-b-h-n-ltd-ordinary-shares-rss-7eae96d06492"
 canonical_url: "https://inspira-technologies.com/inspira-completes-commercial-deployment-of-its-ame-system-at-a-tier-1-u-s-defense-entity/"
 published_at: "2026-04-16T13:44:24+00:00"
 first_seen_at: "2026-07-25T09:33:30.249851+00:00"
-fetched_at: "2026-07-29T00:39:29.265252+00:00"
+fetched_at: "2026-07-29T14:02:12.112398+00:00"
 content_hash: "sha256:5e9b13c023fcbca04cd56614cca6bfd1a27496170dd19dfd135a93e53322793c"
 ---
 

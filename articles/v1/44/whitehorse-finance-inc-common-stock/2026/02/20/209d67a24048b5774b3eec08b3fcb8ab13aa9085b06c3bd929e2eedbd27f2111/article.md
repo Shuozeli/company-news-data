@@ -7,7 +7,7 @@ source_id: "whitehorse-finance-inc-common-stock-rss-1f427a4f252d"
 canonical_url: "https://whitehorsefinance.com/investors/press-releases/news-details/2026/WhiteHorse-Finance-Inc--To-Report-Fourth-Quarter-2025-and-Full-Year-Financial-Results/default.aspx"
 published_at: "2026-02-20T21:21:00+00:00"
 first_seen_at: "2026-07-27T06:37:09.089030+00:00"
-fetched_at: "2026-07-29T00:08:19.201579+00:00"
+fetched_at: "2026-07-29T17:12:36.762392+00:00"
 content_hash: "sha256:e8d627a67b20f4d95ed6b4e1df54d68ad55fedff57900fc8de469fa5da6eea0c"
 ---
 

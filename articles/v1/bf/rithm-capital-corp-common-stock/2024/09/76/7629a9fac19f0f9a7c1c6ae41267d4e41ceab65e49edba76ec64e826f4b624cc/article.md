@@ -7,7 +7,7 @@ source_id: "rithm-capital-corp-common-stock-news-import-5314a4c76407"
 canonical_url: "https://ir.rithmcap.com/investors/news/news-details/2024/Rithm-Capital-Corp.-Declares-Third-Quarter-2024-Common-and-Preferred-Dividends/default.aspx"
 published_at: "2024-09-20T00:00:00+00:00"
 first_seen_at: "2026-07-23T23:09:28.985234+00:00"
-fetched_at: "2026-07-28T12:56:36.109173+00:00"
+fetched_at: "2026-07-29T17:03:48.445205+00:00"
 content_hash: "sha256:7a13bca0265047bfbfe6425b2affaed7287575ea70b0284e78355d28252567bb"
 ---
 

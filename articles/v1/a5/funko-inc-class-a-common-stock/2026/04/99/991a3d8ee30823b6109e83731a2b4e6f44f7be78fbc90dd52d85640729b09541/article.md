@@ -7,7 +7,7 @@ source_id: "funko-inc-class-a-common-stock-rss-cd6b2a8e8083"
 canonical_url: "https://investor.funko.com/news-and-events/press-releases/Press-Releases/2026/Nik-Rupp-Joins-Funko-as-Senior-Vice-President-of-Brand-and-Marketing/default.aspx"
 published_at: "2026-04-28T10:56:00+00:00"
 first_seen_at: "2026-07-25T05:58:51.373067+00:00"
-fetched_at: "2026-07-29T00:15:01.335432+00:00"
+fetched_at: "2026-07-29T17:19:02.546935+00:00"
 content_hash: "sha256:ba3a019aa31e77b6e6f5b44e511558ea6ab89a18b5d31293725b49f6ad094355"
 ---
 

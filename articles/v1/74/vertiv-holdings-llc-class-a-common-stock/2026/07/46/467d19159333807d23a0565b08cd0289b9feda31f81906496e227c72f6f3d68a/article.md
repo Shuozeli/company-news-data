@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2024/Vertiv-Reports-57-Organic-Orders-Growth-13-Net-Sales-Growth-and-63-Operating-Profit-Growth-in-Second-Quarter-Raises-Full-Year-2024-Outlook/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T23:23:56.894710+00:00"
+fetched_at: "2026-07-29T15:18:57.174384+00:00"
 content_hash: "sha256:5a26a2fee8e35da78eb3cdf3623430ea10a08d09ecd7594e299a43aac66f83db"
 ---
 

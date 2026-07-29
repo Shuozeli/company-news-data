@@ -7,7 +7,7 @@ source_id: "pentair-plc-ordinary-share-rss-637c9c713903"
 canonical_url: "https://www.pentairpooleurope.com/node/2228"
 published_at: "2023-08-22T13:12:52+00:00"
 first_seen_at: "2026-07-24T12:53:08.074652+00:00"
-fetched_at: "2026-07-28T23:03:59.012032+00:00"
+fetched_at: "2026-07-29T14:42:35.439312+00:00"
 content_hash: "sha256:f25196645224dcba8df8045da9aca32ee2285c22a3bbc77645e2643b341d879d"
 ---
 

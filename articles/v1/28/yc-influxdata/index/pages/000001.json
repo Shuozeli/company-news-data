@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
-  "record_count": 28,
+  "record_count": 29,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "ef0733729ab8128a710be5386c0f55c8cac11edcdf3d424aa9322123d40116d0",
+      "company_key": "yc-influxdata",
+      "company_name": "InfluxData",
+      "source_id": "yc-influxdata-rss-012b8d0fa152",
+      "source_kind": "rss",
+      "canonical_url": "https://www.influxdata.com/blog/ai-powered-spacecraft-ops/",
+      "title": "AI-Powered Spacecraft Operations with InfluxDB 3",
+      "summary": "The InfluxDB satellite telemetry demo is a live mission-control application that monitors a simulated fleet of 12 satellites in real-time.",
+      "published_at": "2026-07-29T08:00:00+00:00",
+      "fetched_at": "2026-07-29T14:24:41.246783+00:00",
+      "article_path": "articles/v1/28/yc-influxdata/2026/07/ef/ef0733729ab8128a710be5386c0f55c8cac11edcdf3d424aa9322123d40116d0/article.md",
+      "record_path": "articles/v1/28/yc-influxdata/2026/07/ef/ef0733729ab8128a710be5386c0f55c8cac11edcdf3d424aa9322123d40116d0/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "bbc20053aa62df8cffc85afb57a82594eeba791f231bc2bb81f7baddf0cc1441",

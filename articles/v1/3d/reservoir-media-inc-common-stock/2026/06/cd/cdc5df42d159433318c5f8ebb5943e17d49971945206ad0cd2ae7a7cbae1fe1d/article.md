@@ -7,7 +7,7 @@ source_id: "reservoir-media-inc-common-stock-rss-a19592763df7"
 canonical_url: "https://reservoir-media.com/reservoir-announces-publishing-deal-with-jady-frontman-jarrett-doherty/"
 published_at: "2026-06-30T08:00:00+00:00"
 first_seen_at: "2026-07-27T04:42:39.995150+00:00"
-fetched_at: "2026-07-28T23:40:05.171984+00:00"
+fetched_at: "2026-07-29T15:34:31.651798+00:00"
 content_hash: "sha256:1b88997e925a916813a3320f53a2355d4e71c42dec750dd7a03e78dbf0301e06"
 ---
 

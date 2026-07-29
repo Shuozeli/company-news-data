@@ -7,7 +7,7 @@ source_id: "sonida-senior-living-inc-common-stock-rss-c7587f24cfab"
 canonical_url: "https://investors.sonidaseniorliving.com/news/news-details/2026/Sonida-Senior-Living-Completes-1-8-Billion-Strategic-Merger-with-CNL-Healthcare-Properties-Inc-/default.aspx"
 published_at: "2026-03-11T11:30:00+00:00"
 first_seen_at: "2026-07-25T23:47:41.304240+00:00"
-fetched_at: "2026-07-29T00:09:43.087619+00:00"
+fetched_at: "2026-07-29T17:12:42.739281+00:00"
 content_hash: "sha256:64c22a6cd1825316014b3268e1409decdec4c06ef9867268b80a39819ad98d52"
 ---
 

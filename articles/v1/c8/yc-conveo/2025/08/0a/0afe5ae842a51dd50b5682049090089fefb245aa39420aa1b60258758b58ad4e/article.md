@@ -7,7 +7,7 @@ source_id: "yc-conveo-news-import-892b57e5f5a6"
 canonical_url: "https://conveo.ai/insights/testimonial-edgar-cooper-cmi-special-forces"
 published_at: "2025-08-25T12:30:48.162+00:00"
 first_seen_at: "2026-07-27T01:16:07.962169+00:00"
-fetched_at: "2026-07-28T02:04:34.342383+00:00"
+fetched_at: "2026-07-29T03:49:05.059626+00:00"
 content_hash: "sha256:4ca4ab06efc22cd19b8d7618657f902dd24ffef7e01714b21786b839e1860dd9"
 ---
 

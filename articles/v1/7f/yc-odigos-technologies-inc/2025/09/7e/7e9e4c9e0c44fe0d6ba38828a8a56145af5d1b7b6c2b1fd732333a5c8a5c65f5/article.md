@@ -7,7 +7,7 @@ source_id: "yc-odigos-technologies-inc-rss-eb41174e661a"
 canonical_url: "https://odigos.io/blog/session-replay-blog"
 published_at: "2025-09-16T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:02:44.020335+00:00"
-fetched_at: "2026-07-28T23:46:13.985043+00:00"
+fetched_at: "2026-07-29T15:39:32.474947+00:00"
 content_hash: "sha256:83ae0e8b240d483c80988c49c6ada93ea5f66a0abb24063852e6350a2c52f367"
 ---
 

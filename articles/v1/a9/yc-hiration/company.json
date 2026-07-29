@@ -4,17 +4,17 @@
     "key": "yc-hiration",
     "name": "Hiration"
   },
-  "record_count": 26,
+  "record_count": 27,
   "first_published_at": "2026-07-09T15:50:00+00:00",
-  "last_published_at": "2026-07-28T05:53:52+00:00",
+  "last_published_at": "2026-07-29T05:23:53+00:00",
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 26
+      "record_count": 27
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/a9/yc-hiration/index/pages/000001.json",
-        "record_count": 26,
-        "byte_count": 27685,
-        "sha256": "sha256:a7abad2a1b3159ce74859f6c84fa22731296297aa7289e95d09774573edc62e7",
-        "newest_at": "2026-07-28T05:53:52+00:00",
+        "record_count": 27,
+        "byte_count": 28697,
+        "sha256": "sha256:553711b8eaa1071e48fd116e13abdecef0c5bd3e5a53ac6441f0fe762410dfb2",
+        "newest_at": "2026-07-29T05:23:53+00:00",
         "oldest_at": "2026-07-09T15:50:00+00:00"
       }
     ]

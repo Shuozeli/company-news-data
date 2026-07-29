@@ -7,7 +7,7 @@ source_id: "crown-holdings-inc-rss-4094c49e5fc0"
 canonical_url: "https://www.crowncork.com/news/events/q2-2026-crown-holdings-inc-earnings-conference-call"
 published_at: "2026-06-24T14:40:43+00:00"
 first_seen_at: "2026-07-20T23:21:19.015503+00:00"
-fetched_at: "2026-07-28T23:04:23.668108+00:00"
+fetched_at: "2026-07-29T14:43:05.806044+00:00"
 content_hash: "sha256:5c4c1620e7804e9c1deb037b920dcb8a99a61b2996aff955edd47a7dee554c39"
 ---
 

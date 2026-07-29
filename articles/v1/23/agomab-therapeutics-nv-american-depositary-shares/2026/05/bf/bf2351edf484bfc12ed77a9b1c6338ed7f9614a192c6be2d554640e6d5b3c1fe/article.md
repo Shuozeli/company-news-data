@@ -7,7 +7,7 @@ source_id: "agomab-therapeutics-nv-american-depositary-shares-rss-88030a64c15e"
 canonical_url: "https://www.agomab.com/wp-content/uploads/2026/05/20260527-AGM-2026_FINAL.pdf"
 published_at: "2026-05-27T09:02:42+00:00"
 first_seen_at: "2026-07-20T23:18:22.265454+00:00"
-fetched_at: "2026-07-29T00:19:39.326226+00:00"
+fetched_at: "2026-07-29T17:20:43.092203+00:00"
 content_hash: "sha256:aefaf069af9320b0690678d6e7f82b1d2922b0a4ff897e7237bfba093631446c"
 ---
 

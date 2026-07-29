@@ -7,7 +7,7 @@ source_id: "seven-hills-realty-trust-common-stock-rss-7751350469b0"
 canonical_url: "https://sevnreit.com/news/press-release-details/2026/Seven-Hills-Realty-Trust-Closes-24-3-Million-First-Mortgage-Loan-to-Refinance-a-Retail-Property-in-Park-City-Utah/default.aspx"
 published_at: "2026-07-27T12:00:00+00:00"
 first_seen_at: "2026-07-27T13:09:45.714391+00:00"
-fetched_at: "2026-07-28T23:18:40.842894+00:00"
+fetched_at: "2026-07-29T15:09:16.392674+00:00"
 content_hash: "sha256:85e0ed9879ee7a5fa1c38f9026e88c248af62721b7e1e11448f9033be72f5afa"
 ---
 

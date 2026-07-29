@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/how-hipcamp-upgraded-expo-sdk-versions-with-claude-code"
 published_at: "2026-04-21T13:15:32+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:89b3678eb42cb2089f3ef2c1a6f45da38d3b22c4be23656ca77f066b8f22bee7"
 ---
 

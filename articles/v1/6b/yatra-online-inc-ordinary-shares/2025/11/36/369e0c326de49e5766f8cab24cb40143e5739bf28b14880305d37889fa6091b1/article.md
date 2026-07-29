@@ -7,7 +7,7 @@ source_id: "yatra-online-inc-ordinary-shares-rss-e8f187711a66"
 canonical_url: "https://investors.yatra.com/press-releases/press-release-details/2025/Yatra-Strengthens-Leadership-for-Next-Phase-of-Growth/default.aspx"
 published_at: "2025-11-26T14:46:00+00:00"
 first_seen_at: "2026-07-26T06:10:56.529491+00:00"
-fetched_at: "2026-07-28T23:14:55.559505+00:00"
+fetched_at: "2026-07-29T15:01:43.150800+00:00"
 content_hash: "sha256:21c56046344e56d2facfcf8722a33d042b9077edd512afa051347c9a3571f87e"
 ---
 

@@ -4,7 +4,7 @@
     "key": "labcorp-holdings-inc-common-stock",
     "name": "Labcorp Holdings Inc. Common Stock"
   },
-  "record_count": 45,
+  "record_count": 46,
   "first_published_at": "2025-05-02T21:23:21+00:00",
   "last_published_at": "2026-07-28T00:00:00+00:00",
   "partitions": [
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 15
+      "record_count": 16
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -46,9 +46,9 @@
       {
         "page": 1,
         "path": "articles/v1/50/labcorp-holdings-inc-common-stock/index/pages/000001.json",
-        "record_count": 45,
-        "byte_count": 77971,
-        "sha256": "sha256:b861d2250fcd0810a1f1f401c2739664b9738ad878822f0bd60fbd9469edd9aa",
+        "record_count": 46,
+        "byte_count": 79247,
+        "sha256": "sha256:90b3004f8b2457cd4b71891f44a7f47a2cf2b61e16953af6cb039adc1b267e32",
         "newest_at": "2026-07-28T00:00:00+00:00",
         "oldest_at": "2025-05-02T21:23:21+00:00"
       }

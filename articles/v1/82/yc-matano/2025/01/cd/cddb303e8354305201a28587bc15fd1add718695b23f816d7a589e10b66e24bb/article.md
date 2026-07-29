@@ -7,7 +7,7 @@ source_id: "yc-matano-atom-d908e64129ff"
 canonical_url: "https://github.com/matanolabs/matano/releases/tag/nightly"
 published_at: "2025-01-30T12:23:25+00:00"
 first_seen_at: "2026-07-27T13:24:05.205543+00:00"
-fetched_at: "2026-07-28T23:32:13.925213+00:00"
+fetched_at: "2026-07-29T15:26:50.855682+00:00"
 content_hash: "sha256:e6df99cc3cc162d787060ac7c978748afdc0808ef47f74926e807e14bf0175d8"
 ---
 

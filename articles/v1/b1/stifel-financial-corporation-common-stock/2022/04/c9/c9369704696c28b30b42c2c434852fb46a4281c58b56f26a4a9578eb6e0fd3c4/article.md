@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2022/1Q22_Stifel_Earnings_Announcement_Schedule_Press_Release.pdf"
 published_at: "2022-04-20T20:05:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:8b11c31bb4fda46d7c9b19108ea9dd980f3a1dbcf4fd17b4608246af3f2788fd"
 ---
 

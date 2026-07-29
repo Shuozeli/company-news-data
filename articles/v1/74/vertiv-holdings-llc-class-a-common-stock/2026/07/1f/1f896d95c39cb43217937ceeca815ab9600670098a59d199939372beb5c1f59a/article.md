@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2022/Vertiv-Second-Quarter-Operating-Profit-of-26-Million-and-Adjusted-Operating-Profit1-of-82-Million-Exceed-Mid-point-of-Guidance/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T23:23:56.894710+00:00"
+fetched_at: "2026-07-29T15:18:57.174384+00:00"
 content_hash: "sha256:bd271e4b8f7f3843d66f5c11872f068dc98071bc7bd58e36a3046b23e69893a8"
 ---
 

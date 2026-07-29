@@ -7,7 +7,7 @@ source_id: "carmax-inc-rss-9901b4a43a3c"
 canonical_url: "https://media.carmax.com/press-releases/news-release/2026/Keith-Barr-publishes-open-letter-to-CarMax-associates-customers-and-shareholders/default.aspx"
 published_at: "2026-03-17T04:00:00+00:00"
 first_seen_at: "2026-07-25T01:21:07.891711+00:00"
-fetched_at: "2026-07-28T22:13:51.778429+00:00"
+fetched_at: "2026-07-29T14:21:27.905227+00:00"
 content_hash: "sha256:680344709b11637fdab504cf7769cee98fced39eda4861984c46bc143636518a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/sei-vs-kastle-ai-voice-mortgage-servicing"
 published_at: "2026-06-16T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:05301d41f8d1473765b90cc4213c52625119b8a7d4f149ca66fe1ebf7511d7df"
 ---
 

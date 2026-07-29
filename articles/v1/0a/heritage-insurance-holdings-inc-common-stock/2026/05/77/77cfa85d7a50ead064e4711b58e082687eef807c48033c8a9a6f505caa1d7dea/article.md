@@ -7,7 +7,7 @@ source_id: "heritage-insurance-holdings-inc-common-stock-rss-637bd21dca6b"
 canonical_url: "https://www.heritagepci.com/investor-news/heritage-reports-first-quarter-2026-results/"
 published_at: "2026-05-07T20:15:00+00:00"
 first_seen_at: "2026-07-25T07:59:28.574316+00:00"
-fetched_at: "2026-07-29T00:29:32.422872+00:00"
+fetched_at: "2026-07-29T13:56:42.171692+00:00"
 content_hash: "sha256:82733b2c6064e9cfee3e09bc24e747c6281b49a09b1d77ddb22e88ddea8a307c"
 ---
 

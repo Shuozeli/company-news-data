@@ -7,7 +7,7 @@ source_id: "murphy-usa-inc-common-stock-rss-bca8bbb3b0bf"
 canonical_url: "https://ir.corporate.murphyusa.com/investor-relations/news-releases/press-release-details/2026/Murphy-USA-Schedules-Second-Quarter-2026-Results-Conference-Call/default.aspx"
 published_at: "2026-07-06T20:31:00+00:00"
 first_seen_at: "2026-07-25T15:09:43.167313+00:00"
-fetched_at: "2026-07-29T00:04:24.403705+00:00"
+fetched_at: "2026-07-29T17:02:56.788015+00:00"
 content_hash: "sha256:c9755005e5d97fefb716a678ca1fb878b98bef5c6ebede1dee9e52dc5e5aca9e"
 ---
 

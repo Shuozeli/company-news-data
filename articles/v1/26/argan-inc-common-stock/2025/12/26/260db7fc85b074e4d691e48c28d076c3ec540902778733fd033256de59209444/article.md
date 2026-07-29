@@ -7,7 +7,7 @@ source_id: "argan-inc-common-stock-rss-04f1fea248dc"
 canonical_url: "https://arganinc.com/news/argan-inc-reports-third-quarter-fiscal-2026-results-reports-record-backlog-of-3-0-billion/"
 published_at: "2025-12-04T21:17:06+00:00"
 first_seen_at: "2026-07-20T03:31:21.385236+00:00"
-fetched_at: "2026-07-28T23:05:16.878471+00:00"
+fetched_at: "2026-07-29T14:43:13.006777+00:00"
 content_hash: "sha256:06019f6f18a057f73d824ab9e46365df30d81f0f6ad1cf64cb639886a75b4ddc"
 ---
 

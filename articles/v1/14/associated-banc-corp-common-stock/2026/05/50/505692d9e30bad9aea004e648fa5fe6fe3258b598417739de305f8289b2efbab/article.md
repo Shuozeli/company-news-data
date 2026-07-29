@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-returns-as-title-sponsor-of-second-annual-audaxity-bike-ride-driving-community-impact-for-local-cancer-research"
 published_at: "2026-05-28T14:23:00+00:00"
 first_seen_at: "2026-07-20T04:36:20.180992+00:00"
-fetched_at: "2026-07-29T00:43:53.379763+00:00"
+fetched_at: "2026-07-29T14:07:10.673770+00:00"
 content_hash: "sha256:198764b81f641ddfdd7011a59c4b4764da6b0207428a55b8f2a8835c6d58c3bb"
 ---
 

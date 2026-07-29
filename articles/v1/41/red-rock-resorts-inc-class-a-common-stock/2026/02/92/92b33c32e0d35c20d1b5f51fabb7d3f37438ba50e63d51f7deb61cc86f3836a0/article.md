@@ -7,7 +7,7 @@ source_id: "red-rock-resorts-inc-class-a-common-stock-rss-a3294e708657"
 canonical_url: "https://redrockresorts.investorroom.com/2026-02-10-Red-Rock-Resorts-Announces-Fourth-Quarter-and-Full-Year-2025-Results"
 published_at: "2026-02-10T21:01:00+00:00"
 first_seen_at: "2026-07-20T03:32:32.657883+00:00"
-fetched_at: "2026-07-28T23:27:17.146445+00:00"
+fetched_at: "2026-07-29T15:21:06.295844+00:00"
 content_hash: "sha256:91d114dbc6b88097987feed519d851b6759091e71c0fb6683f3045d8535b3ebb"
 ---
 

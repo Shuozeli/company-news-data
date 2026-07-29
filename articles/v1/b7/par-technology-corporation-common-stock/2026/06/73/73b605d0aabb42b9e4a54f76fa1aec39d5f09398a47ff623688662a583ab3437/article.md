@@ -7,7 +7,7 @@ source_id: "par-technology-corporation-common-stock-rss-ff6bd109d02b"
 canonical_url: "https://partech.com/2026/06/22/your_best_store_already_exists/"
 published_at: "2026-06-22T20:14:38+00:00"
 first_seen_at: "2026-07-20T23:18:32.669074+00:00"
-fetched_at: "2026-07-28T23:54:26.384749+00:00"
+fetched_at: "2026-07-29T17:12:05.365598+00:00"
 content_hash: "sha256:d860b8b243dd53eadc34c83daa42228e275fc8a31c4e762640121b49ff717519"
 ---
 

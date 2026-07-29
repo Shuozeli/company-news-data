@@ -7,7 +7,7 @@ source_id: "b2gold-corp-common-shares-canada-rss-03122df7d041"
 canonical_url: "https://www.b2gold.com/news-media/news-releases/news-details/2026/B2Gold-First-Quarter-2026-Results--Conference-Call-Details/default.aspx"
 published_at: "2026-04-13T21:30:00+00:00"
 first_seen_at: "2026-07-26T10:00:33.300803+00:00"
-fetched_at: "2026-07-28T23:00:01.840341+00:00"
+fetched_at: "2026-07-29T14:38:27.060019+00:00"
 content_hash: "sha256:23503accd6832a7fe558947ef2f436199b1bcfe785c900b9ea809fc91bf2246b"
 ---
 

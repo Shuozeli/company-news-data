@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-opens-state-of-the-art-ingredient-development-and-processing-centre/"
 published_at: "2022-05-25T13:00:31+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:af651c4bd3c7f00fb4081d9c7f2c2a719881b45aba05032c042b777e06c4bb6d"
 ---
 

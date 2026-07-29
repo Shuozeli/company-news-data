@@ -7,7 +7,7 @@ source_id: "karooooo-ltd-ordinary-shares-rss-90fe8cb4cf55"
 canonical_url: "https://karooooo.com/press-release/karooooo-to-announce-fourth-quarter-and-full-year-2026-results-on-may-13-2026/"
 published_at: "2026-05-05T14:40:55+00:00"
 first_seen_at: "2026-07-20T23:17:55.333800+00:00"
-fetched_at: "2026-07-29T00:12:19.960855+00:00"
+fetched_at: "2026-07-29T17:13:39.077772+00:00"
 content_hash: "sha256:13af355fd34cd7fd80f24d11d32dfbc382531183a3c62ffae7aaa75c44a68fd5"
 ---
 

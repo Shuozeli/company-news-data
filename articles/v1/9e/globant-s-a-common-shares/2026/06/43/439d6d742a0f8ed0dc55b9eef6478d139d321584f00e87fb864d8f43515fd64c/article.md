@@ -7,7 +7,7 @@ source_id: "globant-s-a-common-shares-rss-bbac095d6884"
 canonical_url: "https://investors.globant.com/2026-06-17-Globant-Launches-Synthetic-Operator,-dedicated-AI-Pods-for-Live-Stream-Monitoring"
 published_at: "2026-06-17T14:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:47.727843+00:00"
-fetched_at: "2026-07-28T23:27:23.002786+00:00"
+fetched_at: "2026-07-29T15:22:37.836313+00:00"
 content_hash: "sha256:7e1ca8345abff0654eb9d027db4392f271f1b573e87dd2fb8c27dd9c12fabbc2"
 ---
 

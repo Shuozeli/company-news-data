@@ -7,7 +7,7 @@ source_id: "harmony-biosciences-holdings-inc-common-stock-rss-ec59729ed92f"
 canonical_url: "https://www.harmonybiosciences.com/harmony-biosciences-strengthens-executive-team-with-new-appointment-and-announces-additions-to-its-board/"
 published_at: "2026-04-02T08:05:00+00:00"
 first_seen_at: "2026-07-25T07:36:23.779670+00:00"
-fetched_at: "2026-07-28T23:04:32.308046+00:00"
+fetched_at: "2026-07-29T14:42:32.670029+00:00"
 content_hash: "sha256:31c0d9a9142a0696fc9d78797bc070357571989f28dfa4dc9879fe4d9eb6127f"
 ---
 

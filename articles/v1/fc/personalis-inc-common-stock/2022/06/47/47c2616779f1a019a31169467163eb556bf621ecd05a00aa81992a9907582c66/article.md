@@ -7,7 +7,7 @@ source_id: "personalis-inc-common-stock-rss-edd5b8439e74"
 canonical_url: "https://www.personalis.com/what-does-the-future-hold-for-liquic-biopsy-technology/"
 published_at: "2022-06-15T15:10:00+00:00"
 first_seen_at: "2026-07-20T23:22:21.339580+00:00"
-fetched_at: "2026-07-28T23:27:08.590284+00:00"
+fetched_at: "2026-07-29T15:22:21.130717+00:00"
 content_hash: "sha256:45cf9761739e83beebc8dd47b2e361f7c49aff1a5fc3116293d35df3100e84b1"
 ---
 

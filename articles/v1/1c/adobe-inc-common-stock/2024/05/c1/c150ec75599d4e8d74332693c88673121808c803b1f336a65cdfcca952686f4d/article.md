@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2024/05/edge-delivery-services-generative-ai-and-other-top-innovations-in-adobe-experience-manager-2024"
 published_at: "2024-05-12T00:00:00+00:00"
 first_seen_at: "2026-07-28T11:10:06.749151+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:1dc440ad108a47abd30caa0e80f98ee6e1a2b27e529412bf2cac5ee9c5d9fde5"
 ---
 

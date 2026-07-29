@@ -7,7 +7,7 @@ source_id: "yc-ochre-bio-rss-279ab36d1688"
 canonical_url: "https://www.ochre-bio.com/2026/07/19/meet-the-man-trying-to-eradicate-the-need-for-liver-transplants/"
 published_at: "2026-07-19T13:59:40+00:00"
 first_seen_at: "2026-07-22T14:47:05.036817+00:00"
-fetched_at: "2026-07-28T23:13:09.647277+00:00"
+fetched_at: "2026-07-29T15:00:02.506650+00:00"
 content_hash: "sha256:3ae6f401ecb7ae726ed12ecfc61f0e003b8a9e605004832f505a059e1c4069eb"
 ---
 

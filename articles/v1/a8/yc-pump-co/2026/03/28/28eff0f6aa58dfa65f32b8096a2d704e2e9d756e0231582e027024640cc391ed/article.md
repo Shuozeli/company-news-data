@@ -7,7 +7,7 @@ source_id: "yc-pump-co-news-import-86a46b79533f"
 canonical_url: "https://www.pump.co/blog/azure-iot-hub/"
 published_at: "2026-03-05T00:00:00+00:00"
 first_seen_at: "2026-07-25T20:15:23.871807+00:00"
-fetched_at: "2026-07-28T11:48:07.834159+00:00"
+fetched_at: "2026-07-29T14:52:31.762897+00:00"
 content_hash: "sha256:996c6f3cf4ff1d3f6cea9b73667b6eb59a751e3acd1ccfdfa1f218da86e5fbdd"
 ---
 

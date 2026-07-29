@@ -7,7 +7,7 @@ source_id: "ppg-industries-inc-common-stock-rss-1d67a1abf440"
 canonical_url: "http://news.ppg.com/Press-Releases/news-details/2026/PPG-names-recipients-of-2025-Excellent-Supplier-Awards/default.aspx"
 published_at: "2026-06-26T12:02:00+00:00"
 first_seen_at: "2026-07-25T19:41:10.949227+00:00"
-fetched_at: "2026-07-29T00:51:44.093149+00:00"
+fetched_at: "2026-07-29T14:19:58.505899+00:00"
 content_hash: "sha256:93ef6decbde3cb8764584278f972cb09fcabf14c1cc149e58fb9110dafa19b72"
 ---
 

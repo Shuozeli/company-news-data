@@ -7,7 +7,7 @@ source_id: "alpha-and-omega-semiconductor-limited-common-shares-rss-c75c286b6c68
 canonical_url: "http://investor.aosmd.com/press-releases/press-release-details/2026/Alpha-and-Omega-Semiconductor-Unveils-Total-Power-Solution-for-Next-Gen-Intel-Panther-Lake-and-Wildcat-Lake-Platforms/default.aspx"
 published_at: "2026-05-18T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:37:38.330172+00:00"
-fetched_at: "2026-07-28T23:10:28.649430+00:00"
+fetched_at: "2026-07-29T14:57:38.558596+00:00"
 content_hash: "sha256:14cbdb6bde65dd77d1eedf749c1b272c6e7073c2fab4021271b9ddacf68a3ad2"
 ---
 

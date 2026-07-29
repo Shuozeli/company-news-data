@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "partition": "2021-03",
   "record_count": 126,
   "shard_count": 1,
-  "byte_count": 714970,
+  "byte_count": 714996,
   "shards": [
     {
       "prefix": "",
       "path": "index/v1/current/partitions/2021/03/shards/root.jsonl",
       "record_count": 126,
-      "byte_count": 714970,
-      "sha256": "sha256:950e2acf71fc8dfe3d30728ffe40eb5720dfd1523eb1e246faf79462ce55356a",
+      "byte_count": 714996,
+      "sha256": "sha256:d77c2c96eaa8a071666e13ce3cf2fe69b45575cb575060ba5d73ed53240a99d4",
       "min_document_id": "00fe95a9c8f3a05078a98039c2233463e791567317b04518848e2099521d0d8b",
       "max_document_id": "fffbcf0cebbfc5cd94329eaa9dace738f800e63bc8c6c18fdaa6b3fb3fe89799"
     }

@@ -5,7 +5,7 @@ company_key: "zebra-technologies-corporation-class-a-common-stock"
 company: "Zebra Technologies Corporation Class A Common Stock"
 source_id: "zebra-technologies-corporation-class-a-common-stock-news-import-80e753826a20"
 canonical_url: "https://www.zebra.com/us/en/blog/posts/2026/empowering-the-frontline-together.html"
-published_at: "2026-07-14T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-24T07:57:40.634766+00:00"
 fetched_at: "2026-07-28T21:22:05.726331+00:00"
 content_hash: "sha256:e745a86014ea1d95f48233056be6ca3528415aefefc7a1c2f8970abc0306ff25"

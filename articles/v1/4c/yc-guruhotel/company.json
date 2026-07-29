@@ -5,8 +5,8 @@
     "name": "GuruHotel"
   },
   "record_count": 5,
-  "first_published_at": "2026-07-28T16:42:15.278+00:00",
-  "last_published_at": "2026-07-28T16:42:16.416+00:00",
+  "first_published_at": "2026-07-29T05:19:18.667+00:00",
+  "last_published_at": "2026-07-29T05:34:35.585+00:00",
   "partitions": [
     {
       "partition": "2026-07",
@@ -14,7 +14,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -24,9 +24,9 @@
         "path": "articles/v1/4c/yc-guruhotel/index/pages/000001.json",
         "record_count": 5,
         "byte_count": 5327,
-        "sha256": "sha256:3ad18d95c588a9df000c11519c69f674dc66c9996941a5621788220c54aa4cc0",
-        "newest_at": "2026-07-28T16:42:16.416+00:00",
-        "oldest_at": "2026-07-28T16:42:15.278+00:00"
+        "sha256": "sha256:ff3721ddec9d5287b6f94b20f459030acc3b6230cdbe02da32d16b8a73059bf8",
+        "newest_at": "2026-07-29T05:34:35.585+00:00",
+        "oldest_at": "2026-07-29T05:19:18.667+00:00"
       }
     ]
   }

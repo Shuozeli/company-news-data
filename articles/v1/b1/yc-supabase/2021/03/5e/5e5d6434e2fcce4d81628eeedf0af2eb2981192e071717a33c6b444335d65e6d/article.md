@@ -7,7 +7,7 @@ source_id: "yc-supabase-rss-47281c9e7110"
 canonical_url: "https://supabase.com/blog/pricing"
 published_at: "2021-03-29T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:24:12.344578+00:00"
-fetched_at: "2026-07-28T23:14:46.325564+00:00"
+fetched_at: "2026-07-29T15:02:29.660484+00:00"
 content_hash: "sha256:a309f3d3a9431fda2c1ba5117ae330b688837ee34d093e74e4edb02089791094"
 ---
 

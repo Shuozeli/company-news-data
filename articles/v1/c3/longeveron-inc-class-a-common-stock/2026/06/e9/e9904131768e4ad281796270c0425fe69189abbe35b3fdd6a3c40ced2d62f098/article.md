@@ -7,7 +7,7 @@ source_id: "longeveron-inc-class-a-common-stock-rss-67d3213fd071"
 canonical_url: "https://investors.longeveron.com/news/News/news-details/2026/Longeveron-to-Present-at-BIO-International-Convention-2026/default.aspx"
 published_at: "2026-06-04T13:15:00+00:00"
 first_seen_at: "2026-07-25T12:43:41.146504+00:00"
-fetched_at: "2026-07-29T00:25:00.376877+00:00"
+fetched_at: "2026-07-29T17:23:32.846338+00:00"
 content_hash: "sha256:e010db5a88d6be934c33dfeed9cd3bc12db304e3026fcb3a27ad4c9fcb5bc771"
 ---
 

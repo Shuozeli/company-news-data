@@ -7,7 +7,7 @@ source_id: "dupont-de-nemours-inc-common-stock-rss-21e972ee78a3"
 canonical_url: "https://www.investors.dupont.com/news-and-media/press-release-details/2026/DuPont-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-05T10:00:00+00:00"
 first_seen_at: "2026-07-25T01:32:37.783941+00:00"
-fetched_at: "2026-07-28T23:05:21.799699+00:00"
+fetched_at: "2026-07-29T14:42:43.829614+00:00"
 content_hash: "sha256:92015165e84384f21668041c6dd9f7f95b619179cec22d3e9d58c93ae7d8698f"
 ---
 

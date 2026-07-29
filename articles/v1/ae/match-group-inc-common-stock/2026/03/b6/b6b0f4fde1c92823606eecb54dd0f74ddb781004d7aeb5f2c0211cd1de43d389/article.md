@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/tinder/new-tinder-users-in-the-uk-will-now-need-to-scan-their-faces/"
 published_at: "2026-03-25T21:54:49+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:63dbb8d7ff0d4d8e8e5c9ba779d01be43049041f1c3ef57c791fcf2347f18373"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/app-store-connect-minimum-sdk-26"
 published_at: "2026-04-27T19:00:23+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:2115bc3affbb1d173c7bb4cfbc9a132b5413c46ffff651b2c483f3ba59e2e26f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2017/UPMC-Chooses-Revolutionary-Technology-from-Omnicell-to-Elevate-and-Automate-Pharmacy/default.aspx"
 published_at: "2017-12-20T05:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:b1c2bc3bd5de79a2be5f8d292e8a41370a34a74fc52d7e9a154269e504da36c4"
 ---
 

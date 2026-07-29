@@ -7,7 +7,7 @@ source_id: "u-s-energy-corp-common-stock-de-rss-2920db3b8278"
 canonical_url: "https://usnrg.com/governance-bylaws/"
 published_at: "2023-05-02T07:27:56+00:00"
 first_seen_at: "2026-07-27T06:31:46.149605+00:00"
-fetched_at: "2026-07-28T20:06:47.260334+00:00"
+fetched_at: "2026-07-29T11:28:20.765536+00:00"
 content_hash: "sha256:ec6479f1595bfb15602a0152ed9370c5ca0640d28a19047731c459b6d4844ca9"
 ---
 

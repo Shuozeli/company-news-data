@@ -7,7 +7,7 @@ source_id: "eltek-ltd-ordinary-shares-rss-46b7bb6c744b"
 canonical_url: "https://www.nisteceltek.com/eltek-ltd-reports-2024-third-quarter-financial-results/"
 published_at: "2024-11-19T14:43:23+00:00"
 first_seen_at: "2026-07-25T02:10:06.936515+00:00"
-fetched_at: "2026-07-28T23:34:42.862462+00:00"
+fetched_at: "2026-07-29T15:31:49.927189+00:00"
 content_hash: "sha256:e062605d7012825967338952e7884160208f0e4a7d705e0ee2bf1a8c01325bb7"
 ---
 

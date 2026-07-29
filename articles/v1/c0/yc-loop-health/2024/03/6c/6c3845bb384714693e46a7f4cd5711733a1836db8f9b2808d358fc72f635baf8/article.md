@@ -7,7 +7,7 @@ source_id: "yc-loop-health-rss-2b917676138c"
 canonical_url: "https://loophealth.io/how-therapy-can-benefit-communities-of-color/"
 published_at: "2024-03-03T02:39:51+00:00"
 first_seen_at: "2026-07-24T09:56:55.836543+00:00"
-fetched_at: "2026-07-28T23:52:12.241134+00:00"
+fetched_at: "2026-07-29T17:08:39.834688+00:00"
 content_hash: "sha256:91d66c48baff119602a192f5ef06d8181b30d1fd0e2a4d5969a946f039aa8c6d"
 ---
 

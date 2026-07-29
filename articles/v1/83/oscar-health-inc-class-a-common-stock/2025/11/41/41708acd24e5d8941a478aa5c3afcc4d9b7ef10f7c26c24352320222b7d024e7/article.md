@@ -7,7 +7,7 @@ source_id: "oscar-health-inc-class-a-common-stock-rss-69a1bcf667ba"
 canonical_url: "https://ir.hioscar.com/news-events-presentations/news-press-releases/news-details/2025/Oscar-Launches-New-Affordable-Health-Insurance-Choices-for-Southern-Florida-Individuals-Families-and-Businesses/default.aspx"
 published_at: "2025-11-10T11:00:00+00:00"
 first_seen_at: "2026-07-25T17:58:01.055270+00:00"
-fetched_at: "2026-07-29T00:01:26.780774+00:00"
+fetched_at: "2026-07-29T17:07:11.536130+00:00"
 content_hash: "sha256:bd50d611a47e35db921fcc0497f0129f3741b6308e4ef30519e4651f4310a20d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "bristol-myers-squibb-company-common-stock-rss-d60a6dfff3be"
 canonical_url: "https://bristolmyers2016ir.q4web.com/iframes/press-releases/press-release-details/2026/Bristol-Myers-Squibb-Announces-CELMoD-Mezigdomide-Reduces-Risk-of-Disease-Progression-or-Death-by-More-than-50-vs--Standard-of-Care-in-Relapsed-or-Refractory-Multiple-Myeloma/default.aspx"
 published_at: "2026-05-29T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:54.310353+00:00"
-fetched_at: "2026-07-28T23:26:32.859592+00:00"
+fetched_at: "2026-07-29T15:20:45.993726+00:00"
 content_hash: "sha256:1d531cea2a414d2ee1e9ac49c4435e5b210a47609a17d65d4a34582c105c2560"
 ---
 

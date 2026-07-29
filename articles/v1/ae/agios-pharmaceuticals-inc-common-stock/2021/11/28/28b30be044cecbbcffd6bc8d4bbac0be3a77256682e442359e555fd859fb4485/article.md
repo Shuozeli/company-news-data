@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/when-it-comes-to-employee-mental-health-these-companies-put-in-the-work/"
 published_at: "2021-11-01T18:18:00+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-29T00:23:58.530332+00:00"
+fetched_at: "2026-07-29T17:22:54.765339+00:00"
 content_hash: "sha256:16173cfe9af0a51397f78fa5f6868756910c14366673025d4dc28f954e83cb25"
 ---
 

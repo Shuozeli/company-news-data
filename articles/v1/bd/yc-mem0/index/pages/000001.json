@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
-  "record_count": 29,
+  "record_count": 30,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "223ded8bb2c1c82a23640f68c0b0806e4a6242bf0d7befd35eaed8cd41b5c02c",
+      "company_key": "yc-mem0",
+      "company_name": "Mem0",
+      "source_id": "yc-mem0-news-import-acb706cfa21b",
+      "source_kind": "html",
+      "canonical_url": "https://mem0.ai/blog/beyond-agents.md-shared-memory-for-coding-agents-across-services-and-repos",
+      "title": "Beyond AGENTS․md: Shared Memory For Coding Agents Across Services And Repos",
+      "summary": "A runnable test: one agent rewrites a contract, and the agent in the next service silently stops sending receipts until it can read what changed.",
+      "published_at": "2026-07-29T00:00:00+00:00",
+      "fetched_at": "2026-07-29T13:25:51.938497+00:00",
+      "article_path": "articles/v1/bd/yc-mem0/2026/07/22/223ded8bb2c1c82a23640f68c0b0806e4a6242bf0d7befd35eaed8cd41b5c02c/article.md",
+      "record_path": "articles/v1/bd/yc-mem0/2026/07/22/223ded8bb2c1c82a23640f68c0b0806e4a6242bf0d7befd35eaed8cd41b5c02c/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "576e65d4b6f09fb2eca37d46d32420865898664c68956f90cb5b8a41d052be9c",

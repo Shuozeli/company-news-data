@@ -7,7 +7,7 @@ source_id: "yc-outset-news-import-a92d7cb56115"
 canonical_url: "https://outset.ai/resources/blog/visual-intelligence"
 published_at: "2026-03-31T00:00:00+00:00"
 first_seen_at: "2026-07-23T19:30:08.076259+00:00"
-fetched_at: "2026-07-28T14:23:22.591545+00:00"
+fetched_at: "2026-07-29T03:25:31.060831+00:00"
 content_hash: "sha256:7e8be9859ea088be2c091bfe60127836f2d569c35e8342d55dad30746e1256f5"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-arc-prize-foundation-atom-3536270edb25"
 canonical_url: "https://arcprize.org/blog/donate"
 published_at: "2025-02-24T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:48.897807+00:00"
-fetched_at: "2026-07-29T00:44:54.969326+00:00"
+fetched_at: "2026-07-29T14:07:50.059835+00:00"
 content_hash: "sha256:f88327892187050b1a1e1131ae67842a78203590125e9ab58e7417717e201074"
 ---
 

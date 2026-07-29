@@ -7,7 +7,7 @@ source_id: "consolidated-water-co-ltd-ordinary-shares-rss-592e2c87a685"
 canonical_url: "https://ir.cwco.com/corporate/press-releases/news-details/2026/Consolidated-Water-Reports-Full-Year-2025-Results/default.aspx"
 published_at: "2026-03-16T21:30:00+00:00"
 first_seen_at: "2026-07-26T12:13:59.807825+00:00"
-fetched_at: "2026-07-28T23:12:29.725987+00:00"
+fetched_at: "2026-07-29T14:58:16.020029+00:00"
 content_hash: "sha256:0238a5571aea512f3b05b3a4f3029b37da899cb3a55bd1ed4b10cffd7571ed6d"
 ---
 

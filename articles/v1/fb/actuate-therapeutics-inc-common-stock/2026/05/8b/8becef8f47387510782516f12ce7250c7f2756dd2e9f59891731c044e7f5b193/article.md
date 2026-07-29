@@ -7,7 +7,7 @@ source_id: "actuate-therapeutics-inc-common-stock-rss-60ddf548c0c3"
 canonical_url: "https://actuatetherapeutics.com/presentations/post-hoc-efficacy-and-biomarker-analysis-of-elraglusib-plus-gemcitabine-nab-paclitaxel-versus-chemotherapy-alone-in-metastatic-pancreatic-ductal-adenocarcinoma/"
 published_at: "2026-05-30T17:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:53.875985+00:00"
-fetched_at: "2026-07-29T00:44:56.324132+00:00"
+fetched_at: "2026-07-29T14:06:39.394528+00:00"
 content_hash: "sha256:892e69cf00f87157134e2921bec259e4003c5aa4358d6435979a2b54b3e8edd3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/exclusif-en-immersion-sur-une-plateforme-petroliere/"
 published_at: "2026-06-15T09:36:21+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-29T00:33:16.098879+00:00"
+fetched_at: "2026-07-29T13:59:20.653816+00:00"
 content_hash: "sha256:9aaebab42ecfefbeaf09960065996af40444e9a68cf2ca2ad61378204a9d7318"
 ---
 

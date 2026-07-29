@@ -7,7 +7,7 @@ source_id: "yc-fidocure-rss-f7dc5a4fc18d"
 canonical_url: "https://fidocure.com/fidocure-blog/how-does-fidocure-work-2/"
 published_at: "2025-08-13T14:10:06+00:00"
 first_seen_at: "2026-07-20T23:20:29.421869+00:00"
-fetched_at: "2026-07-29T00:46:46.902341+00:00"
+fetched_at: "2026-07-29T14:10:31.733438+00:00"
 content_hash: "sha256:01c7cf2d77d513aad3c6e6cf92c5ff5f226fd3eaab9fa05df0919da8a23f454e"
 ---
 

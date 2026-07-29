@@ -7,7 +7,7 @@ source_id: "planet-fitness-inc-common-stock-rss-514f026fe840"
 canonical_url: "http://investor.planetfitness.com/investors/press-releases/press-release-details/2026/Planet-Fitness-Inc--To-Report-First-Quarter-2026-Results-on-May-7-2026/default.aspx"
 published_at: "2026-04-23T21:00:00+00:00"
 first_seen_at: "2026-07-25T19:11:41.755428+00:00"
-fetched_at: "2026-07-29T00:14:33.992862+00:00"
+fetched_at: "2026-07-29T17:18:36.902175+00:00"
 content_hash: "sha256:033cffd0280bd6e1fece0fd49eda7caae5ad210ba8f5274cce8ef03476766e42"
 ---
 

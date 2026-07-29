@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/seth-webster-joined-expo"
 published_at: "2026-04-20T15:30:47+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:f39fc5ed32310d7be8b79e2bd0d55ff0e2c07be83741f595b786032808e60386"
 ---
 

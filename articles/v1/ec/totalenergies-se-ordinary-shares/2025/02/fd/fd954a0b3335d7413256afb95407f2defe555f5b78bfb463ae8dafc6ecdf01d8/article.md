@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/profits-gnl-investissements-pourquoi-totalenergies-se-demarque-de-la-concurrence/"
 published_at: "2025-02-05T13:44:43+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T23:24:39.102238+00:00"
+fetched_at: "2026-07-29T15:20:19.764825+00:00"
 content_hash: "sha256:a208e85640e8f7c7ef4b95248c1934eb538f035f6f807360b2060d55a180467b"
 ---
 

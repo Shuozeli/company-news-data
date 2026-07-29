@@ -4,9 +4,9 @@
     "key": "xcel-energy-inc-common-stock",
     "name": "Xcel Energy Inc. Common Stock"
   },
-  "record_count": 48,
+  "record_count": 49,
   "first_published_at": "2024-10-31T13:28:00+00:00",
-  "last_published_at": "2026-07-27T16:57:00+00:00",
+  "last_published_at": "2026-07-28T16:11:00+00:00",
   "partitions": [
     {
       "partition": "2024-10",
@@ -62,11 +62,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 7
+      "record_count": 8
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -74,10 +74,10 @@
       {
         "page": 1,
         "path": "articles/v1/16/xcel-energy-inc-common-stock/index/pages/000001.json",
-        "record_count": 48,
-        "byte_count": 55394,
-        "sha256": "sha256:8f44cab816bbce05adfb6f08fc14879742e2ee485d6ced88dd05a51a4b2bc0d1",
-        "newest_at": "2026-07-27T16:57:00+00:00",
+        "record_count": 49,
+        "byte_count": 56512,
+        "sha256": "sha256:3b4b7b91a4b9fff9cd9ad87485e5413a6c51e780257198646ac6f61c66b36eb5",
+        "newest_at": "2026-07-28T16:11:00+00:00",
         "oldest_at": "2024-10-31T13:28:00+00:00"
       }
     ]

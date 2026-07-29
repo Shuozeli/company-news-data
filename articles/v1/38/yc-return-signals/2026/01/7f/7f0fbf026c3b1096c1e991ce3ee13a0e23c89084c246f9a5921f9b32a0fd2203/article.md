@@ -7,7 +7,7 @@ source_id: "yc-return-signals-rss-dfedba3fe891"
 canonical_url: "https://www.returnsignals.com/blog/sms-cx-shouldnt-be-noreply/"
 published_at: "2026-01-20T00:00:00+00:00"
 first_seen_at: "2026-07-23T23:09:42.823995+00:00"
-fetched_at: "2026-07-28T22:55:06.665534+00:00"
+fetched_at: "2026-07-29T14:24:38.287641+00:00"
 content_hash: "sha256:117e6e1516e4f6667206ea2d9e21f3ee74d9e5656dfaadebf512d4c0ac5ea205"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-taali-inc-atom-1c5284bf832e"
 canonical_url: "https://taalifoods.in/blogs/blog/are-we-ready-for-fifa-2022"
 published_at: "2022-11-30T06:00:00+00:00"
 first_seen_at: "2026-07-26T01:19:03.323341+00:00"
-fetched_at: "2026-07-29T00:34:47.254454+00:00"
+fetched_at: "2026-07-29T14:01:38.736751+00:00"
 content_hash: "sha256:2bb7e9b6723e48634f72b66340669c541da2f0a47944fb5f5da18210a1b68e57"
 ---
 

@@ -7,7 +7,7 @@ source_id: "research-solutions-inc-common-stock-rss-e5b6b8bb1b13"
 canonical_url: "https://researchsolutions.investorroom.com/2026-04-29-Research-Solutions-Scite-Launches-Claude-Connector-For-Citation-Backed-Research"
 published_at: "2026-04-29T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:07:49.861321+00:00"
-fetched_at: "2026-07-28T23:31:48.293522+00:00"
+fetched_at: "2026-07-29T15:28:45.989453+00:00"
 content_hash: "sha256:7c593cb142ba49522ee96e1855a18e85d3b1a6f7c295d885b87f01c5b6e53c81"
 ---
 

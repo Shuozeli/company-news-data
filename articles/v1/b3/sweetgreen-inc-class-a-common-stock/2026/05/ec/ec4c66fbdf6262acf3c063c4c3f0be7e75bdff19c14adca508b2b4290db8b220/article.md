@@ -7,7 +7,7 @@ source_id: "sweetgreen-inc-class-a-common-stock-rss-02b512030049"
 canonical_url: "https://investor.sweetgreen.com/press/news-details/2026/Sweetgreen-Inc--Announces-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-05-07T20:05:00+00:00"
 first_seen_at: "2026-07-26T01:02:33.757530+00:00"
-fetched_at: "2026-07-28T23:08:46.260368+00:00"
+fetched_at: "2026-07-29T14:51:12.036581+00:00"
 content_hash: "sha256:1a0715a809bc86a5f6e0645c3c4a588efa3cf4628f7940a5e5ed94a391d4b496"
 ---
 

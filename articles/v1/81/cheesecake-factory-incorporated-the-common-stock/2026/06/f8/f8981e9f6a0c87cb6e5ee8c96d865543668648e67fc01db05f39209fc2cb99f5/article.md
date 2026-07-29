@@ -7,7 +7,7 @@ source_id: "cheesecake-factory-incorporated-the-common-stock-rss-d1db0065f926"
 canonical_url: "https://investors.thecheesecakefactory.com/news-and-events/news-releases/news-release-details/2026/The-Cheesecake-Factory-Celebrates-National-Cheesecake-Day-on-July-30-With-Any-Slice-Half-Price-for-All-Dine-in-Guests-and-a-Decadent-New-Flavor/default.aspx"
 published_at: "2026-06-26T12:11:00+00:00"
 first_seen_at: "2026-07-26T11:29:02.053775+00:00"
-fetched_at: "2026-07-28T22:13:37.117719+00:00"
+fetched_at: "2026-07-29T14:21:54.918173+00:00"
 content_hash: "sha256:499deb13400ca8e815c6a75a92e65e6d79b57f1276e55e8c0c5886d544a2b2f7"
 ---
 

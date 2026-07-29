@@ -7,7 +7,7 @@ source_id: "lindblad-expeditions-holdings-inc-common-stock-rss-e763d68c22ca"
 canonical_url: "https://investors.expeditions.com/press-releases/news-details/2026/LINDBLAD-EXPEDITIONS-ANNOUNCES-MANDATORY-CONVERSION-OF-6-0-SERIES-A-CONVERTIBLE-PREFERRED-STOCK/default.aspx"
 published_at: "2026-01-20T13:00:00+00:00"
 first_seen_at: "2026-07-25T12:25:47.782802+00:00"
-fetched_at: "2026-07-28T23:35:54.763225+00:00"
+fetched_at: "2026-07-29T15:31:02.869618+00:00"
 content_hash: "sha256:bbad8d9fdc0554da4ebc0657054cf57bdb2086e69569bf60f466c1395f303ecd"
 ---
 

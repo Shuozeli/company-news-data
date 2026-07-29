@@ -7,7 +7,7 @@ source_id: "insperity-inc-common-stock-rss-70d704854329"
 canonical_url: "https://www.insperity.com/blog/ask-6-critical-questions-implementing-company-change/"
 published_at: "2026-06-16T14:30:00+00:00"
 first_seen_at: "2026-07-27T06:19:13.921156+00:00"
-fetched_at: "2026-07-28T21:48:34.378179+00:00"
+fetched_at: "2026-07-29T10:05:45.558212+00:00"
 content_hash: "sha256:9759cb97493d5ee8b72871bf723b360d4698cb2cf05e43aa0689c66a1353f9b3"
 ---
 

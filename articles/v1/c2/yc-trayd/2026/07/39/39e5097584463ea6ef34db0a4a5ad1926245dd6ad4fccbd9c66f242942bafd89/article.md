@@ -7,7 +7,7 @@ source_id: "yc-trayd-news-import-fb61b5204c7e"
 canonical_url: "https://www.buildtrayd.com/blog/best-construction-accounting-software-2026"
 published_at: "2026-07-13T00:00:00+00:00"
 first_seen_at: "2026-07-22T17:09:42.703964+00:00"
-fetched_at: "2026-07-28T10:07:22.225878+00:00"
+fetched_at: "2026-07-29T12:45:09.763976+00:00"
 content_hash: "sha256:6de5cd17be5391de1af193b89a027d16e7f4d378698a249ca1f6aac3166956ec"
 ---
 

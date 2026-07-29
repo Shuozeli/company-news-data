@@ -4,9 +4,9 @@
     "key": "salesforce-inc-common-stock",
     "name": "Salesforce Inc. Common Stock"
   },
-  "record_count": 70,
+  "record_count": 71,
   "first_published_at": "2025-01-27T15:00:00+00:00",
-  "last_published_at": "2026-07-28T13:00:00+00:00",
+  "last_published_at": "2026-07-29T15:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-01",
@@ -58,11 +58,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 28
+      "record_count": 29
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -71,17 +71,17 @@
         "page": 1,
         "path": "articles/v1/e1/salesforce-inc-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 56559,
-        "sha256": "sha256:caa3a2e929c5d8cfc2605f686bf3f396508e5dd0fbe62a88fecf2aafe346696d",
-        "newest_at": "2026-07-28T13:00:00+00:00",
-        "oldest_at": "2026-05-20T00:00:00+00:00"
+        "byte_count": 56333,
+        "sha256": "sha256:51d2e43cc7b17abd1953340a12c4324af2fedfee1d20102199c7baa0bb662264",
+        "newest_at": "2026-07-29T15:00:00+00:00",
+        "oldest_at": "2026-05-21T00:00:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/e1/salesforce-inc-common-stock/index/pages/000002.json",
-        "record_count": 20,
-        "byte_count": 22098,
-        "sha256": "sha256:5dfc27c97d03553d8ffbdf37e32b946eb63a150855ff17ceb144c019cc02551a",
+        "record_count": 21,
+        "byte_count": 23310,
+        "sha256": "sha256:a0338853aaab4abee2a2a9c272ec5fe904804286b110c21358a069b60d3c7752",
         "newest_at": "2026-05-20T00:00:00+00:00",
         "oldest_at": "2025-01-27T15:00:00+00:00"
       }

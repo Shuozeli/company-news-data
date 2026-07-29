@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 2,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "92b3a73f0c101d8373065227b50d847456285fd478b51a1da8eb02b0e657c2d0",
+      "company_key": "yc-taxgpt",
+      "company_name": "TaxGPT",
+      "source_id": "yc-taxgpt-rss-7837c4d6eefc",
+      "source_kind": "rss",
+      "canonical_url": "https://www.taxgpt.com/blog/form-1040-x-checklist",
+      "title": "Form 1040-X Checklist for Tax Professionals",
+      "summary": "Complete Form 1040-X checklist for CPAs preparing amended individual returns. Covers statutes, documentation, computations, carrybacks, and common rejection triggers.",
+      "published_at": "2026-06-17T13:31:15+00:00",
+      "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+      "article_path": "articles/v1/03/yc-taxgpt/2026/06/92/92b3a73f0c101d8373065227b50d847456285fd478b51a1da8eb02b0e657c2d0/article.md",
+      "record_path": "articles/v1/03/yc-taxgpt/2026/06/92/92b3a73f0c101d8373065227b50d847456285fd478b51a1da8eb02b0e657c2d0/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "9f65d614091dc3418c8683b502d176dd279cce379f5fa0939a93f634c6a6c963",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T22:16:22.012675+00:00",
       "article_path": "articles/v1/03/yc-taxgpt/2026/03/ea/eaff51ccfd80b188b81c4fcf82ead2d16ad28f1678edefd1369cb5e2bf617f9d/article.md",
       "record_path": "articles/v1/03/yc-taxgpt/2026/03/ea/eaff51ccfd80b188b81c4fcf82ead2d16ad28f1678edefd1369cb5e2bf617f9d/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "b536ece363e71ee3038bf457766593585b1f567df3c226ee7b75d3c5b3eb1d03",
-      "company_key": "yc-taxgpt",
-      "company_name": "TaxGPT",
-      "source_id": "yc-taxgpt-rss-7837c4d6eefc",
-      "source_kind": "rss",
-      "canonical_url": "https://www.taxgpt.com/blog/is-chatgpt-actually-getting-your-tax-return-right",
-      "title": "Is ChatGPT Actually Getting Your Tax Return Right?",
-      "summary": "Learn why ChatGPT and general AI tools often give wrong tax advice. Discover the risks of AI hallucinations, outdated rules, and how TaxGPT differs.",
-      "published_at": "2026-03-11T14:55:13+00:00",
-      "fetched_at": "2026-07-28T22:00:56.367665+00:00",
-      "article_path": "articles/v1/03/yc-taxgpt/2026/03/b5/b536ece363e71ee3038bf457766593585b1f567df3c226ee7b75d3c5b3eb1d03/article.md",
-      "record_path": "articles/v1/03/yc-taxgpt/2026/03/b5/b536ece363e71ee3038bf457766593585b1f567df3c226ee7b75d3c5b3eb1d03/record.json"
     }
   ]
 }

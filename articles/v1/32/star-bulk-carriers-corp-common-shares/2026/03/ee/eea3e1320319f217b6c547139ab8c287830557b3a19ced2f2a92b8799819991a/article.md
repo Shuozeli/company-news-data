@@ -7,7 +7,7 @@ source_id: "star-bulk-carriers-corp-common-shares-rss-d0b8b582b55e"
 canonical_url: "https://www.starbulk.com/media/uploads_file/2026/03/20/p1jk61u85j1aie1j7d8sl13jqiqp4.pdf"
 published_at: "2026-03-20T10:00:00+00:00"
 first_seen_at: "2026-07-20T23:17:35.178809+00:00"
-fetched_at: "2026-07-28T23:07:34.581257+00:00"
+fetched_at: "2026-07-29T14:50:39.808819+00:00"
 content_hash: "sha256:2388b058fa567de44770cc4ab1cab9c0b3b95889615a3e15eed18638e379e830"
 ---
 

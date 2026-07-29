@@ -7,7 +7,7 @@ source_id: "yc-spaceium-inc-rss-9f6edbd2b214"
 canonical_url: "https://spaceium.com/spaceium-closes-6-3m-seed-round-to-build-refueling-stations-in-space/"
 published_at: "2025-01-22T09:24:08+00:00"
 first_seen_at: "2026-07-25T01:53:20.958572+00:00"
-fetched_at: "2026-07-28T23:11:37.521719+00:00"
+fetched_at: "2026-07-29T14:57:44.498489+00:00"
 content_hash: "sha256:b8799fa15ea14265f81fd0ea6f956a3288dcb278fd3c257da84c8fbe14431fd8"
 ---
 

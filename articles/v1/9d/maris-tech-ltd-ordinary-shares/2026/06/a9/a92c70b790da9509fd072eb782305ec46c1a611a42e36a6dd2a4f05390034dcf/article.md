@@ -7,7 +7,7 @@ source_id: "maris-tech-ltd-ordinary-shares-rss-219e3dd21362"
 canonical_url: "https://www.maris-tech.com/maris-tech-receives-follow-on-orders-from-governmental-customer/press-releases/"
 published_at: "2026-06-23T09:10:00+00:00"
 first_seen_at: "2026-07-24T10:37:38.674777+00:00"
-fetched_at: "2026-07-28T22:52:59.438148+00:00"
+fetched_at: "2026-07-29T14:23:10.907007+00:00"
 content_hash: "sha256:5f861a112034e20dde4e6fce54fff0c2f6476345772d7a70372a39cd5fd87030"
 ---
 

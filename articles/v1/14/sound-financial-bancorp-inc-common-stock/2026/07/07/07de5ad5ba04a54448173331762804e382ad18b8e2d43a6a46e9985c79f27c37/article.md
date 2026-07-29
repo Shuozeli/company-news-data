@@ -7,7 +7,7 @@ source_id: "sound-financial-bancorp-inc-common-stock-rss-c64bb66fb796"
 canonical_url: "https://investor.soundcb.com/news/news-details/2026/Sound-Financial-Bancorp-Inc--Q2-2026-Results/default.aspx"
 published_at: "2026-07-28T21:29:00+00:00"
 first_seen_at: "2026-07-29T00:26:22.274989+00:00"
-fetched_at: "2026-07-29T00:26:22.233161+00:00"
+fetched_at: "2026-07-29T13:52:28.164752+00:00"
 content_hash: "sha256:6c77ea3a222b44550170911a4a63bd801a23fdb81cafbcc47a2a4d7fd60155fb"
 ---
 

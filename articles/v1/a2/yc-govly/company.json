@@ -4,9 +4,9 @@
     "key": "yc-govly",
     "name": "Govly"
   },
-  "record_count": 19,
+  "record_count": 20,
   "first_published_at": "2025-11-04T00:00:00+00:00",
-  "last_published_at": "2026-07-21T00:00:00+00:00",
+  "last_published_at": "2026-07-28T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-11",
@@ -30,11 +30,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 5
+      "record_count": 6
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -42,10 +42,10 @@
       {
         "page": 1,
         "path": "articles/v1/a2/yc-govly/index/pages/000001.json",
-        "record_count": 19,
-        "byte_count": 18040,
-        "sha256": "sha256:e07bf81a80b56f1b997c2152965dabfff89d9dbfb853c0e9398b0e4a841b00db",
-        "newest_at": "2026-07-21T00:00:00+00:00",
+        "record_count": 20,
+        "byte_count": 19010,
+        "sha256": "sha256:ddfaac072d860362767412c49929176621b9724c50fb1a70c7a56774e8e79032",
+        "newest_at": "2026-07-28T00:00:00+00:00",
         "oldest_at": "2025-11-04T00:00:00+00:00"
       }
     ]

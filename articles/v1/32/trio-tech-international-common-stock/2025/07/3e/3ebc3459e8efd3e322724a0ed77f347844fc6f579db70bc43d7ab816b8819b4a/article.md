@@ -7,7 +7,7 @@ source_id: "trio-tech-international-common-stock-rss-99f64778e8d5"
 canonical_url: "https://www.triotech.com/burn-in-testing/"
 published_at: "2025-07-04T10:28:37+00:00"
 first_seen_at: "2026-07-25T01:07:54.066074+00:00"
-fetched_at: "2026-07-28T23:16:41.355776+00:00"
+fetched_at: "2026-07-29T15:06:17.629139+00:00"
 content_hash: "sha256:4e3eeac3687313ddb3e5c88224f13c1878e5b336b0866e672cfa543c102ac6bb"
 ---
 

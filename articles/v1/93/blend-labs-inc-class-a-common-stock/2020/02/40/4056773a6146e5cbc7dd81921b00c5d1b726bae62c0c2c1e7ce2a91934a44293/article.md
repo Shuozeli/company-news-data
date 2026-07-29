@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/making-security-audits-more-like-the-doctors-office-is-a-good-thing.html"
 published_at: "2020-02-18T23:46:57+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-29T00:27:54.647135+00:00"
+fetched_at: "2026-07-29T13:54:11.516897+00:00"
 content_hash: "sha256:6adf08978b011771f598a8b74bc1e8b0ee77f348eb03ebdd50b7deec16ae9b79"
 ---
 

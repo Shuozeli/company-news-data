@@ -7,7 +7,7 @@ source_id: "yc-odeko-atom-ffe748fb5e4e"
 canonical_url: "https://odeko.com/blogs/the-drip/odeko-red-antler-reveal-a-rebrand-that-celebrates-the-magic-of-small-businesses"
 published_at: "2022-07-14T18:15:35+00:00"
 first_seen_at: "2026-07-25T17:02:44.390288+00:00"
-fetched_at: "2026-07-28T23:45:44.317432+00:00"
+fetched_at: "2026-07-29T15:39:30.248732+00:00"
 content_hash: "sha256:725ada12ab090c6fc38ad55bc78dd72ad007814cc6e4a62d285e2a86d122a7f5"
 ---
 

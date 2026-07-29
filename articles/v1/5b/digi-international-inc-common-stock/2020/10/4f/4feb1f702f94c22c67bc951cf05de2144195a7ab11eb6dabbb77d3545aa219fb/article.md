@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/solving-5g-antenna-design-challenges"
 published_at: "2020-10-23T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:1fadb48a2ca84b7fa242cb62dfb91b9e3087e3c3c3225d114bd512cf2a4986fc"
 ---
 

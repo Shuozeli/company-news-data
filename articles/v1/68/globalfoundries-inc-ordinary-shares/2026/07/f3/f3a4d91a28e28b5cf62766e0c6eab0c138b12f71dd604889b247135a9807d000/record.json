@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f3a4d91a28e28b5cf62766e0c6eab0c138b12f71dd604889b247135a9807d000",
+  "company": {
+    "key": "globalfoundries-inc-ordinary-shares",
+    "name": "GlobalFoundries Inc. Ordinary Shares"
+  },
+  "source": {
+    "id": "globalfoundries-inc-ordinary-shares-news-import-b14b0d4e2325",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gf.com/news-and-events/news/globalfoundries-signs-letter-of-intent-with-the-us-department-of-commerce-for-a-300-million-award-to-accelerate-us-silicon-photonics-leadership/",
+    "canonical": "https://gf.com/news-and-events/news/globalfoundries-signs-letter-of-intent-with-the-us-department-of-commerce-for-a-300-million-award-to-accelerate-us-silicon-photonics-leadership/"
+  },
+  "title": "GlobalFoundries signs letter of intent with the U.S. Department of Commerce for a $300 million award to accelerate U.S. silicon photonics leadership",
+  "summary": "GF has entered into an LOI with the U.S. Department of Commerce to accelerate research & development of next-generation silicon photonics.",
+  "published_at": "2026-07-29T10:42:10+00:00",
+  "first_seen_at": "2026-07-29T13:24:43.437982+00:00",
+  "fetched_at": "2026-07-29T13:24:44.074706+00:00",
+  "last_updated_at": "2026-07-29T13:24:44.404091+00:00",
+  "paths": {
+    "article": "articles/v1/68/globalfoundries-inc-ordinary-shares/2026/07/f3/f3a4d91a28e28b5cf62766e0c6eab0c138b12f71dd604889b247135a9807d000/article.md",
+    "record": "articles/v1/68/globalfoundries-inc-ordinary-shares/2026/07/f3/f3a4d91a28e28b5cf62766e0c6eab0c138b12f71dd604889b247135a9807d000/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17347,
+    "sha256": "sha256:944be80fa55d4efd2ee1a96ce48e9b4d45006798d6c381bd346b3bd8afe3f779",
+    "normalized_content_hash": "sha256:1f1425cf4dcb2b1d21d5496cbee1b3d7ef09bc92cdfd9922c9301a65b89c8eab"
+  },
+  "provenance": {
+    "source_item_id": "f3a01e5d-2fd4-49f8-8510-b2cbb843b2c6",
+    "external_id": "https://gf.com/news-and-events/news/globalfoundries-signs-letter-of-intent-with-the-us-department-of-commerce-for-a-300-million-award-to-accelerate-us-silicon-photonics-leadership/"
+  }
+}

@@ -7,7 +7,7 @@ source_id: "riverview-bancorp-inc-common-stock-rss-ed003b2fdf29"
 canonical_url: "https://investors.riverviewbank.com/news/news-details/2026/Riverview-Bancorp-Declares-Quarterly-Cash-Dividend-of-0-02-Per-Share/default.aspx"
 published_at: "2026-03-31T20:32:00+00:00"
 first_seen_at: "2026-07-25T21:35:52.668205+00:00"
-fetched_at: "2026-07-28T22:15:52.667872+00:00"
+fetched_at: "2026-07-29T14:22:31.395714+00:00"
 content_hash: "sha256:c25722a342a3187c6d6ad558cd9deeeec63c8bb3d140a52e648cb1e4c9652bc2"
 ---
 

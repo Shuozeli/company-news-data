@@ -7,7 +7,7 @@ source_id: "yc-cedalio-rss-a378b8060e75"
 canonical_url: "https://medium.com/@cedalio/cedalio-en-2024-impulsando-innovaci%C3%B3n-y-sostenibilidad-9d4a67cdd8af"
 published_at: "2024-01-16T17:00:56+00:00"
 first_seen_at: "2026-07-27T00:34:47.826692+00:00"
-fetched_at: "2026-07-29T00:17:05.557037+00:00"
+fetched_at: "2026-07-29T17:19:54.412843+00:00"
 content_hash: "sha256:12f3248bbf4211173b5acf705bd1ddffb3dab2561efc560cd5779244b5afd1d3"
 ---
 

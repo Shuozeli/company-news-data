@@ -7,7 +7,7 @@ source_id: "gilat-satellite-networks-ltd-ordinary-shares-rss-076d0814984f"
 canonical_url: "https://www.gilat.com/newsroom/media/gilat-esa-a-game-changer-for-in-flight-connectivity/"
 published_at: "2026-04-06T16:28:40+00:00"
 first_seen_at: "2026-07-25T03:17:43.964106+00:00"
-fetched_at: "2026-07-28T23:21:54.528556+00:00"
+fetched_at: "2026-07-29T15:15:40.340812+00:00"
 content_hash: "sha256:d4a2d5e14fdc925662602e82cbebb5563db4b988028666070f35b8f43ebf2af7"
 ---
 

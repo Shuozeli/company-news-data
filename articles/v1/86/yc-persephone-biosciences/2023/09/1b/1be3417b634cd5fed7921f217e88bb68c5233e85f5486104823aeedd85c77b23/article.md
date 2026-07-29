@@ -7,7 +7,7 @@ source_id: "yc-persephone-biosciences-rss-3e1d37532ea3"
 canonical_url: "https://www.persephonebiosciences.com/building-a-better-microbiome-proto-life/"
 published_at: "2023-09-12T00:56:53+00:00"
 first_seen_at: "2026-07-20T23:24:06.192520+00:00"
-fetched_at: "2026-07-28T23:25:55.741277+00:00"
+fetched_at: "2026-07-29T15:22:18.759194+00:00"
 content_hash: "sha256:d5770ff8b729352e69635a936f1629fb1f24ac97af27db79044874205e4bb31a"
 ---
 

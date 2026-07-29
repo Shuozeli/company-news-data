@@ -7,7 +7,7 @@ source_id: "redwire-corporation-common-stock-rss-a3eb383a60df"
 canonical_url: "https://rdw.com/newsroom/inside-the-space-tech-firm-powering-americas-return-to-the-moon/"
 published_at: "2026-05-26T20:36:31+00:00"
 first_seen_at: "2026-07-20T23:18:23.159838+00:00"
-fetched_at: "2026-07-29T00:26:21.020535+00:00"
+fetched_at: "2026-07-29T13:53:17.847231+00:00"
 content_hash: "sha256:fe0d39accc9d493910ef5d6f2087e2f1f190c1d0aff795a1ad996b7a6811e1f1"
 ---
 

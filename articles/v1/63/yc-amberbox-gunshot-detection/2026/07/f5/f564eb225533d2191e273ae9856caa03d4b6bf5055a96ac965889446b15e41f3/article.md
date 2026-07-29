@@ -7,7 +7,7 @@ source_id: "yc-amberbox-gunshot-detection-news-import-1baa2d8d0534"
 canonical_url: "https://amberbox.com/blog/new-feature-release"
 published_at: null
 first_seen_at: "2026-07-21T06:18:08.154448+00:00"
-fetched_at: "2026-07-28T22:00:09.129481+00:00"
+fetched_at: "2026-07-29T10:35:51.394717+00:00"
 content_hash: "sha256:6a7aa613dc488345b9e9f41c162e56856c3c14636479388ec1d466807a9e7fbb"
 ---
 

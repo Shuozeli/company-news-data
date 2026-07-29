@@ -7,7 +7,7 @@ source_id: "ge-aerospace-common-stock-rss-a1dd69a4054d"
 canonical_url: "https://www.geaerospace.com/investor-relations/events-reports/ge-aerospace-1st-quarter-2026-earnings-webcast"
 published_at: "2026-02-16T12:21:13+00:00"
 first_seen_at: "2026-07-20T23:24:51.828822+00:00"
-fetched_at: "2026-07-28T23:50:06.638047+00:00"
+fetched_at: "2026-07-29T15:41:52.623120+00:00"
 content_hash: "sha256:6d612cff4a0646ec9847f47570f1dc574f45ad2f614de66970b86f678d28dba4"
 ---
 

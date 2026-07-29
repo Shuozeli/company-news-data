@@ -7,7 +7,7 @@ source_id: "labcorp-holdings-inc-common-stock-rss-dbaf16a720f9"
 canonical_url: "https://www.labcorp.com/beyond-traditional-immunoassay-lc-ms-antibody-isotyping-and-quantitation"
 published_at: "2025-05-06T19:59:01+00:00"
 first_seen_at: "2026-07-20T23:24:51.380106+00:00"
-fetched_at: "2026-07-28T22:57:44.599077+00:00"
+fetched_at: "2026-07-29T14:28:56.383035+00:00"
 content_hash: "sha256:b361d57cf0e2efc67a8dbabec7feb8668b5686a87505bdae9396f20de066a82f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2023/digi-enters-new-senior-secured-credit-facility"
 published_at: "2023-12-11T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:234920fc0ad7bd1d2a1079f0f3ee89d1c8da0d61608350a54d9acb10efdc4dce"
 ---
 

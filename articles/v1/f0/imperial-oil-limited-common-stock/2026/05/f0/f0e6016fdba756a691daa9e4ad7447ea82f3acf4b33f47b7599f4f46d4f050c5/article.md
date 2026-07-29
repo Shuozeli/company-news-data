@@ -7,7 +7,7 @@ source_id: "imperial-oil-limited-common-stock-rss-064478ca8d2c"
 canonical_url: "https://news.imperialoil.ca/news-releases/news-releases/2026/LImpriale-annonce-ses-rsultats-financiers-et-dexploitation-pour-le-premier-trimestre-2026/default.aspx"
 published_at: "2026-05-01T11:55:00+00:00"
 first_seen_at: "2026-07-25T09:09:14.198352+00:00"
-fetched_at: "2026-07-28T22:15:51.440354+00:00"
+fetched_at: "2026-07-29T14:22:09.639524+00:00"
 content_hash: "sha256:58176a72fff25219441a73edc0a9b57928c25746e44da5e05a8b5de037c5232c"
 ---
 

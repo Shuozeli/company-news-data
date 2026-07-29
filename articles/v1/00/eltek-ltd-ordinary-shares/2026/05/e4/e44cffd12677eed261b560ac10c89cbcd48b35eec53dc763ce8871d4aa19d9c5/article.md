@@ -7,7 +7,7 @@ source_id: "eltek-ltd-ordinary-shares-rss-46b7bb6c744b"
 canonical_url: "https://www.nisteceltek.com/eltek-ltd-reports-2026-first-quarter-financial-results/"
 published_at: "2026-05-19T13:01:38+00:00"
 first_seen_at: "2026-07-25T02:10:06.936515+00:00"
-fetched_at: "2026-07-28T23:34:42.862462+00:00"
+fetched_at: "2026-07-29T15:31:49.927189+00:00"
 content_hash: "sha256:abc566d000062ae358b28659bd35f3707faa2d42961185ca795ae5d3b50fefe9"
 ---
 

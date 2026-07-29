@@ -7,7 +7,7 @@ source_id: "i-80-gold-corp-common-shares-rss-3d35b1983e0d"
 canonical_url: "https://www.i80gold.com/i-80-gold-provides-update-on-lone-tree-plant-refurbishment-project-remains-on-schedule-and-on-budget/"
 published_at: "2026-07-28T10:02:02+00:00"
 first_seen_at: "2026-07-28T10:15:21.072880+00:00"
-fetched_at: "2026-07-29T00:03:55.112586+00:00"
+fetched_at: "2026-07-29T17:08:44.299201+00:00"
 content_hash: "sha256:ebac120039f5b870905ba78ad99a557407460d0ae86cf0d18a1a1d016f07612e"
 ---
 

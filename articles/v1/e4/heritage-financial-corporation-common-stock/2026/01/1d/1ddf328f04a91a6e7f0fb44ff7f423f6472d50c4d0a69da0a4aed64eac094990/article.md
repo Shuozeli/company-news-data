@@ -7,7 +7,7 @@ source_id: "heritage-financial-corporation-common-stock-rss-80f026da48dd"
 canonical_url: "https://www.hf-wa.com/news/news-details/2026/Heritage-Financial-Corporation-Declares-Quarterly-Dividend/default.aspx"
 published_at: "2026-01-16T21:05:00+00:00"
 first_seen_at: "2026-07-25T07:59:02.298223+00:00"
-fetched_at: "2026-07-29T00:16:52.512574+00:00"
+fetched_at: "2026-07-29T17:19:02.067452+00:00"
 content_hash: "sha256:d1c66089fadb65107d95155be31a5a528f198dc4435e35aea6dbced7304484a4"
 ---
 

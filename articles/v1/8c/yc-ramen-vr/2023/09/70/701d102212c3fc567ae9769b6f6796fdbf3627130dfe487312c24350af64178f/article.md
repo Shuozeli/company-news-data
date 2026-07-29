@@ -7,7 +7,7 @@ source_id: "yc-ramen-vr-atom-8d2a75475800"
 canonical_url: "https://zenithmmo.com/blogs/news/ascension-update"
 published_at: "2023-09-15T03:36:12+00:00"
 first_seen_at: "2026-07-25T20:28:01.905287+00:00"
-fetched_at: "2026-07-29T00:17:15.648185+00:00"
+fetched_at: "2026-07-29T17:18:37.437863+00:00"
 content_hash: "sha256:35a8c85ef6beaa8b241b346710ba04422edd9c6e1b4866737dd1d854f6868dd8"
 ---
 

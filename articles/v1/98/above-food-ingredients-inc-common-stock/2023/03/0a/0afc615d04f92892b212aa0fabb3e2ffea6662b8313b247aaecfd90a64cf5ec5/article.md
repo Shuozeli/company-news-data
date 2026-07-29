@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/startup-showcase-above-food-revolutionizing-the-plant-based-food-industry-in-regina-saskatchewan/"
 published_at: "2023-03-15T19:26:05+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:6f646ec2c847161cbaae66ac9db1176ca6b59b8209fa055d547adf61cfb10755"
 ---
 

@@ -7,7 +7,7 @@ source_id: "intuit-inc-common-stock-rss-5487f66ec073"
 canonical_url: "https://www.intuit.com/blog/social-responsibility/a-conversation-with-intuit-again-returnee-arti-sharma/"
 published_at: "2019-06-23T22:40:10+00:00"
 first_seen_at: "2026-07-20T04:35:56.728587+00:00"
-fetched_at: "2026-07-28T23:44:35.787151+00:00"
+fetched_at: "2026-07-29T15:39:14.730114+00:00"
 content_hash: "sha256:0b4a742159eb03d46960f2afebdb08bd8529e0996f6034ec018ab5a7aec64445"
 ---
 

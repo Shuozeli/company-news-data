@@ -7,7 +7,7 @@ source_id: "kairos-pharma-ltd-common-stock-rss-5f6c11c046d4"
 canonical_url: "https://investors.kairospharma.com/news-and-events/news-releases/news-details/2026/Kairos-Pharma-Receives-GHP-Magazines-Healthcare--Pharmaceutical-Award/default.aspx"
 published_at: "2026-05-14T12:00:00+00:00"
 first_seen_at: "2026-07-25T10:24:40.499442+00:00"
-fetched_at: "2026-07-28T23:31:49.955479+00:00"
+fetched_at: "2026-07-29T15:27:49.240600+00:00"
 content_hash: "sha256:c1094a3f0533c74bd22ae6704b292423093de80fa35137e8961757b2bfb396f4"
 ---
 

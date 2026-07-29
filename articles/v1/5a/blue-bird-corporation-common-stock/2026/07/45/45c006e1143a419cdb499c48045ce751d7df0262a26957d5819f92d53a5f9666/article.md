@@ -7,7 +7,7 @@ source_id: "blue-bird-corporation-common-stock-rss-6f15d747e625"
 canonical_url: "http://investors.blue-bird.com/news-financial-reporting/press-releases/news-details/2026/Blue-Bird-to-Report-Fiscal-2026-Third-Quarter-Results-on-August-5-2026/default.aspx"
 published_at: "2026-07-22T19:59:00+00:00"
 first_seen_at: "2026-07-28T21:28:34.913991+00:00"
-fetched_at: "2026-07-29T00:10:29.665668+00:00"
+fetched_at: "2026-07-29T17:13:08.673687+00:00"
 content_hash: "sha256:5b63f3d8e651502f3f16a3e6e783e37706f9914b43f2863144fe415bcea95959"
 ---
 

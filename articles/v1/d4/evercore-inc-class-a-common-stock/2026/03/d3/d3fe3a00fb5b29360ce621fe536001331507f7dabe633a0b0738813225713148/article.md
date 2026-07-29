@@ -7,7 +7,7 @@ source_id: "evercore-inc-class-a-common-stock-rss-cec3ba1f6fc0"
 canonical_url: "https://www.evercore.com/evercore-wealth-management-promotes-sean-brady-to-partner/"
 published_at: "2026-03-04T13:58:51+00:00"
 first_seen_at: "2026-07-21T01:18:50.348672+00:00"
-fetched_at: "2026-07-29T00:20:15.020156+00:00"
+fetched_at: "2026-07-29T15:05:01.473214+00:00"
 content_hash: "sha256:f8116f7e3ab17ccb620a4616661950945cd8d8bdaa5e63dd9710d10063d10658"
 ---
 

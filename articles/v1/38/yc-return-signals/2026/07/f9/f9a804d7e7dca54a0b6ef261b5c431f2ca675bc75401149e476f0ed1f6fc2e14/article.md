@@ -7,7 +7,7 @@ source_id: "yc-return-signals-rss-dfedba3fe891"
 canonical_url: "https://www.returnsignals.com/blog/gemini-3-5-flash-lite-agent-eval/"
 published_at: "2026-07-23T00:00:00+00:00"
 first_seen_at: "2026-07-23T23:09:42.823995+00:00"
-fetched_at: "2026-07-28T22:55:06.665534+00:00"
+fetched_at: "2026-07-29T14:24:38.287641+00:00"
 content_hash: "sha256:66f218a50302ff0931becee7af464864699764a7e33ede2d601cf73817aced32"
 ---
 

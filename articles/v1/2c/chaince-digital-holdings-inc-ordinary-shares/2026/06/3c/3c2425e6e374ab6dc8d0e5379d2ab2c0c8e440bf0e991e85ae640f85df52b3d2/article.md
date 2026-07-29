@@ -7,7 +7,7 @@ source_id: "chaince-digital-holdings-inc-ordinary-shares-rss-3f461f105395"
 canonical_url: "https://chaincedigital.com/chaince-digital-extends-the-chain-beyond-earth-board-approves-initiative-to-explore-space-based-ai-infrastructure/"
 published_at: "2026-06-11T12:00:12+00:00"
 first_seen_at: "2026-07-20T23:18:10.276107+00:00"
-fetched_at: "2026-07-28T22:17:20.039825+00:00"
+fetched_at: "2026-07-29T14:22:21.060654+00:00"
 content_hash: "sha256:b10f90edfd88fbd1b1c745b910cc65f8cf875fee0bceddd6fa0ee9c05d13402c"
 ---
 

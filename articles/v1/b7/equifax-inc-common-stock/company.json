@@ -4,9 +4,9 @@
     "key": "equifax-inc-common-stock",
     "name": "Equifax Inc. Common Stock"
   },
-  "record_count": 18,
+  "record_count": 19,
   "first_published_at": "2026-04-21T10:30:00+00:00",
-  "last_published_at": "2026-07-23T00:00:00+00:00",
+  "last_published_at": "2026-07-29T11:45:00+00:00",
   "partitions": [
     {
       "partition": "2026-04",
@@ -22,11 +22,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 9
+      "record_count": 10
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -34,10 +34,10 @@
       {
         "page": 1,
         "path": "articles/v1/b7/equifax-inc-common-stock/index/pages/000001.json",
-        "record_count": 18,
-        "byte_count": 19511,
-        "sha256": "sha256:bc25ad6d60dd2cf4bec6323e141f9f78e7759ff3f1137e541f88bc14fe117981",
-        "newest_at": "2026-07-23T00:00:00+00:00",
+        "record_count": 19,
+        "byte_count": 20552,
+        "sha256": "sha256:dc2e858f3f2492e6e4d244de0a3c6615a16db80e0f8daf7910cab957f56284db",
+        "newest_at": "2026-07-29T11:45:00+00:00",
         "oldest_at": "2026-04-21T10:30:00+00:00"
       }
     ]

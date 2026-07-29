@@ -7,7 +7,7 @@ source_id: "first-bancorp-new-common-stock-rss-06153dc170de"
 canonical_url: "https://www.fbpinvestor.com/resources/news/press-release-details/2026/First-Bancorp--to-Announce-1Q-2026-Results-on-April-22-2026/default.aspx"
 published_at: "2026-03-16T21:17:00+00:00"
 first_seen_at: "2026-07-27T02:26:21.429369+00:00"
-fetched_at: "2026-07-28T23:46:09.296607+00:00"
+fetched_at: "2026-07-29T15:40:26.356841+00:00"
 content_hash: "sha256:cca7b2654a046744b1ef7eea7aa458d8e5520139a6e03218be52a603d5ad4a49"
 ---
 

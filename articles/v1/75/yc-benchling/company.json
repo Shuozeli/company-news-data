@@ -4,7 +4,7 @@
     "key": "yc-benchling",
     "name": "Benchling"
   },
-  "record_count": 310,
+  "record_count": 311,
   "first_published_at": "2018-11-14T16:02:00+00:00",
   "last_published_at": "2026-07-24T07:00:00+00:00",
   "partitions": [
@@ -213,6 +213,10 @@
       "record_count": 7
     },
     {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
       "partition": "2023-05",
       "record_count": 3
     },
@@ -358,7 +362,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 7,
@@ -368,7 +372,7 @@
         "path": "articles/v1/75/yc-benchling/index/pages/000001.json",
         "record_count": 50,
         "byte_count": 54301,
-        "sha256": "sha256:b9aae4a87b9ebc1c55d4df0d50c8b01de5e88fbc455b74a87f5cc80fb701be34",
+        "sha256": "sha256:dde168de3e294ce5cecde623a5327c112125b7accd78d47ad69c3be3931e7aaf",
         "newest_at": "2026-07-24T07:00:00+00:00",
         "oldest_at": "2025-07-30T07:00:00+00:00"
       },
@@ -377,7 +381,7 @@
         "path": "articles/v1/75/yc-benchling/index/pages/000002.json",
         "record_count": 50,
         "byte_count": 52343,
-        "sha256": "sha256:241e81f53f3babb0de83181098f1a9eee9459e717da96e2a247ec8330c275948",
+        "sha256": "sha256:87bc5ace5f1ff0a046ebb3a23b9740c06cfe4d74630709d7daf19a3feedfece2",
         "newest_at": "2025-06-25T07:00:00+00:00",
         "oldest_at": "2023-12-05T08:00:00+00:00"
       },
@@ -385,8 +389,8 @@
         "page": 3,
         "path": "articles/v1/75/yc-benchling/index/pages/000003.json",
         "record_count": 50,
-        "byte_count": 50728,
-        "sha256": "sha256:25568fa48083d8604a8986104eccdca7a3ec2fa32c3486ce81831dca3eec2798",
+        "byte_count": 50751,
+        "sha256": "sha256:1057e7df431e03ebbacd8fa97de448440b72189fd4e579634975bdb4a31989ba",
         "newest_at": "2023-11-07T08:00:00+00:00",
         "oldest_at": "2022-08-04T07:00:00+00:00"
       },
@@ -394,36 +398,36 @@
         "page": 4,
         "path": "articles/v1/75/yc-benchling/index/pages/000004.json",
         "record_count": 50,
-        "byte_count": 51661,
-        "sha256": "sha256:8cfc0e86469f93533d37460c59257535ac49f3dc469345f40835d0c87f9f9fe2",
-        "newest_at": "2022-08-01T06:00:00+00:00",
-        "oldest_at": "2021-07-31T05:02:33+00:00"
+        "byte_count": 51575,
+        "sha256": "sha256:66bc8b1e57c71ae09a31235253b7095bbded72fac32f59973b31309db227bda7",
+        "newest_at": "2022-08-04T07:00:00+00:00",
+        "oldest_at": "2021-08-06T10:05:13+00:00"
       },
       {
         "page": 5,
         "path": "articles/v1/75/yc-benchling/index/pages/000005.json",
         "record_count": 50,
-        "byte_count": 48852,
-        "sha256": "sha256:c138efb3b597cf3d721f2d94a06947b43198b29ebf3c576b762467a74c566748",
-        "newest_at": "2021-07-30T08:02:24+00:00",
-        "oldest_at": "2020-03-04T16:00:00+00:00"
+        "byte_count": 49044,
+        "sha256": "sha256:c6ef8d32d2a68dbd7fccb8fbd40d0e56f6bee38eae412c59b15bc1527b1b15a0",
+        "newest_at": "2021-07-31T05:02:33+00:00",
+        "oldest_at": "2020-03-09T14:46:51+00:00"
       },
       {
         "page": 6,
         "path": "articles/v1/75/yc-benchling/index/pages/000006.json",
         "record_count": 50,
-        "byte_count": 51927,
-        "sha256": "sha256:240fba40b91ab7d45f4fa575f312c36781e6826e7e51bc75ac0c1c56b1a5617a",
-        "newest_at": "2020-01-29T16:00:00+00:00",
-        "oldest_at": "2019-02-18T16:00:00+00:00"
+        "byte_count": 51712,
+        "sha256": "sha256:57bfda1dbd0afa012be66c5389fe7cbbf1bb8f4691532841ab68563caf1d06fe",
+        "newest_at": "2020-03-04T16:00:00+00:00",
+        "oldest_at": "2019-02-25T16:00:00+00:00"
       },
       {
         "page": 7,
         "path": "articles/v1/75/yc-benchling/index/pages/000007.json",
-        "record_count": 10,
-        "byte_count": 10374,
-        "sha256": "sha256:32b63ce73988424d950cac6621d02714ffa561991d10e6f96b130377396d71f5",
-        "newest_at": "2019-02-11T16:00:00+00:00",
+        "record_count": 11,
+        "byte_count": 11439,
+        "sha256": "sha256:93d8d0a89c75aff74f98dc8760043f510a559f6fdbbe724d51571fb10bc14271",
+        "newest_at": "2019-02-18T16:00:00+00:00",
         "oldest_at": "2018-11-14T16:02:00+00:00"
       }
     ]

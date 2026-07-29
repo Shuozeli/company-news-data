@@ -7,7 +7,7 @@ source_id: "ge-vernova-inc-common-stock-rss-7c51d258e120"
 canonical_url: "https://www.gevernova.com/investors/events/2026-annual-stockholders-meeting"
 published_at: "2026-04-01T12:35:06+00:00"
 first_seen_at: "2026-07-20T23:21:29.268016+00:00"
-fetched_at: "2026-07-29T00:29:33.959606+00:00"
+fetched_at: "2026-07-29T13:55:26.572326+00:00"
 content_hash: "sha256:5ce7379b69c94eb6605b28c864055111fb47938e11dd3190f52170c96bf0b93b"
 ---
 

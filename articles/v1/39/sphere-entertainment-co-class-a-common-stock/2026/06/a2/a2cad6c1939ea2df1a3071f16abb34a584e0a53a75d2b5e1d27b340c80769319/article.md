@@ -7,7 +7,7 @@ source_id: "sphere-entertainment-co-class-a-common-stock-rss-eb5bd4508a6a"
 canonical_url: "https://investor.sphereentertainmentco.com/press-releases/news-details/2026/The-Wizard-of-Oz-at-Sphere-Surpasses-400-Million-in-Ticket-Sales-With-Over-3-Million-Total-Tickets-Sold/default.aspx"
 published_at: "2026-06-16T21:00:00+00:00"
 first_seen_at: "2026-07-25T23:59:18.132305+00:00"
-fetched_at: "2026-07-28T23:31:50.818345+00:00"
+fetched_at: "2026-07-29T15:28:46.391163+00:00"
 content_hash: "sha256:b263d26f427b833da29b648bc8eddddb7ff5e7f96ea026cfb341cc5f1f9bec3f"
 ---
 

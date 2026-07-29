@@ -7,7 +7,7 @@ source_id: "dyne-therapeutics-inc-common-stock-rss-d110a4ccdb6e"
 canonical_url: "https://www.dyne-tx.com/dyne-therapeutics-announces-appointment-of-molly-white-as-vice-president-medical-communications-and-advocacy/"
 published_at: "2020-01-13T13:01:22+00:00"
 first_seen_at: "2026-07-20T23:21:48.721292+00:00"
-fetched_at: "2026-07-28T23:22:18.035043+00:00"
+fetched_at: "2026-07-29T15:16:40.894200+00:00"
 content_hash: "sha256:dae211ef926534e1e7ebc27d918298e016250bfea82006cb19ee00a582280a36"
 ---
 

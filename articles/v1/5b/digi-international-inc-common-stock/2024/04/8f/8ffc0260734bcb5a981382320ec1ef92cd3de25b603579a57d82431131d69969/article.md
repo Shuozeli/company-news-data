@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/celebrating-earth-day-2024-and-green-tech"
 published_at: "2024-04-17T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:a1236e9f61804f9ea47a3c8d5ae8702e39e0d65326df36f86e61a8957f82c1fc"
 ---
 

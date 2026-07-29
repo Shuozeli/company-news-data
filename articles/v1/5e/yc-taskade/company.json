@@ -4,9 +4,9 @@
     "key": "yc-taskade",
     "name": "Taskade"
   },
-  "record_count": 71,
+  "record_count": 72,
   "first_published_at": "2026-06-07T00:00:00+00:00",
-  "last_published_at": "2026-07-28T10:00:00+00:00",
+  "last_published_at": "2026-07-29T10:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-06",
@@ -14,11 +14,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 50
+      "record_count": 51
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -27,18 +27,18 @@
         "page": 1,
         "path": "articles/v1/5e/yc-taskade/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 50287,
-        "sha256": "sha256:627b94cf16e7b228c566693b364e6932f41de29ed318c9119bacf6d1cd3a80eb",
-        "newest_at": "2026-07-28T10:00:00+00:00",
+        "byte_count": 50297,
+        "sha256": "sha256:3e3b0ad91e403054f3373f9cf3fca1bf6a2e0c71190bfae0040d3446354d3400",
+        "newest_at": "2026-07-29T10:00:00+00:00",
         "oldest_at": "2026-07-01T09:00:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/5e/yc-taskade/index/pages/000002.json",
-        "record_count": 21,
-        "byte_count": 21032,
-        "sha256": "sha256:693a93aa4ea47e886147c166148e85c41d325fb5f235cc694fe68953da3da7fc",
-        "newest_at": "2026-06-30T09:00:00+00:00",
+        "record_count": 22,
+        "byte_count": 22018,
+        "sha256": "sha256:e0d369ef12beffa04d652875f73100f3fa291b9ab7edba0e34579ed42a11d689",
+        "newest_at": "2026-07-01T09:00:00+00:00",
         "oldest_at": "2026-06-07T00:00:00+00:00"
       }
     ]

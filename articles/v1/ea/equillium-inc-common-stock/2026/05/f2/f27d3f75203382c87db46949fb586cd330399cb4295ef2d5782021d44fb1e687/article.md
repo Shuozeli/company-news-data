@@ -7,7 +7,7 @@ source_id: "equillium-inc-common-stock-rss-ab50b30d38d9"
 canonical_url: "https://www.equilliumbio.com/investors/press-releases/news-details/2026/Equillium-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635c4-f038eb9bd/default.aspx"
 published_at: "2026-05-01T20:42:00+00:00"
 first_seen_at: "2026-07-25T03:15:43.712339+00:00"
-fetched_at: "2026-07-28T23:19:20.140666+00:00"
+fetched_at: "2026-07-29T15:09:23.622423+00:00"
 content_hash: "sha256:3a66be19aec21412aebf3a686ce6b9cdb5e63f76769c67ef6e5a9913073613b1"
 ---
 

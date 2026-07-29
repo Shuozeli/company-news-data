@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "999b29ffc6ebde31be5fe6e2f8a7a86201a418a6b3a2670da08fd73cfb4a77fd",
+      "company_key": "amazon-com-inc-common-stock",
+      "company_name": "Amazon.com Inc. Common Stock",
+      "source_id": "amazon-com-inc-common-stock-rss-3b1c36fad108",
+      "source_kind": "rss",
+      "canonical_url": "https://www.aboutamazon.com/news/entertainment/thomas-crown-affair-michael-b-jordan-amazon-mgm-studios",
+      "title": "'The Thomas Crown Affair': Everything to know about the Michael B. Jordan film, in theaters March 5, 2027",
+      "summary": "Jordan directs, produces, and stars in a visually breathtaking heist thriller from Amazon MGM Studios.",
+      "published_at": "2026-07-29T13:00:07+00:00",
+      "fetched_at": "2026-07-29T14:47:31.320984+00:00",
+      "article_path": "articles/v1/51/amazon-com-inc-common-stock/2026/07/99/999b29ffc6ebde31be5fe6e2f8a7a86201a418a6b3a2670da08fd73cfb4a77fd/article.md",
+      "record_path": "articles/v1/51/amazon-com-inc-common-stock/2026/07/99/999b29ffc6ebde31be5fe6e2f8a7a86201a418a6b3a2670da08fd73cfb4a77fd/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "e7a568c1e6fc7badd08d3105ce83b2882c8d1adc798e2e0f7171d474aae74b58",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T20:34:24.680558+00:00",
       "article_path": "articles/v1/51/amazon-com-inc-common-stock/2026/07/65/658c301deb74cc0567830ff29fd1492d051ec03fb06e3f6ffdfaa82f55755124/article.md",
       "record_path": "articles/v1/51/amazon-com-inc-common-stock/2026/07/65/658c301deb74cc0567830ff29fd1492d051ec03fb06e3f6ffdfaa82f55755124/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "ddc4de7af7e6765b8b854a50dacf743d582a2bc399768eaa2470b93ca262db00",
-      "company_key": "amazon-com-inc-common-stock",
-      "company_name": "Amazon.com Inc. Common Stock",
-      "source_id": "amazon-com-inc-common-stock-rss-4d9f015bc7ad",
-      "source_kind": "rss",
-      "canonical_url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-ai-g7/",
-      "title": "Amazon SageMaker AI inference now supports G7 instances",
-      "summary": "Discover more about what's new at AWS with Amazon SageMaker AI inference now supports G7 instances",
-      "published_at": "2026-07-22T15:23:00+00:00",
-      "fetched_at": "2026-07-28T20:34:24.680558+00:00",
-      "article_path": "articles/v1/51/amazon-com-inc-common-stock/2026/07/dd/ddc4de7af7e6765b8b854a50dacf743d582a2bc399768eaa2470b93ca262db00/article.md",
-      "record_path": "articles/v1/51/amazon-com-inc-common-stock/2026/07/dd/ddc4de7af7e6765b8b854a50dacf743d582a2bc399768eaa2470b93ca262db00/record.json"
     }
   ]
 }

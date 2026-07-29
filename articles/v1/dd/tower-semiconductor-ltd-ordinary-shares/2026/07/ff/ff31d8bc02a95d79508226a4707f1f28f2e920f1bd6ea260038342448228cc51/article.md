@@ -7,7 +7,7 @@ source_id: "tower-semiconductor-ltd-ordinary-shares-rss-b1fd9c3c764d"
 canonical_url: "https://towersemi.com/2026/07/12/tgs-china-2026/"
 published_at: "2026-07-12T10:55:52+00:00"
 first_seen_at: "2026-07-20T04:36:16.495236+00:00"
-fetched_at: "2026-07-28T23:19:14.487032+00:00"
+fetched_at: "2026-07-29T15:12:40.938243+00:00"
 content_hash: "sha256:5bf0292935319061c8b2c9f1d575715e76be62f3dfa8d02dd53a5a8f93b98be8"
 ---
 

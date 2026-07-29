@@ -7,7 +7,7 @@ source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/opinion/alaska-pilot-beer-constitution-eighth-amendment.html"
 published_at: "2026-07-28T23:13:17+00:00"
 first_seen_at: "2026-07-28T21:10:05.886882+00:00"
-fetched_at: "2026-07-28T23:55:50.378040+00:00"
+fetched_at: "2026-07-29T02:24:23.281646+00:00"
 content_hash: "sha256:af48068750b505691e3311be5c90ea1dacb231c493424ea90deadd68c970de5f"
 ---
 

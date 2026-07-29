@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/supply-chain-disruptions-25m-tons-of-grain-stuck-in-port-in-ukraine/"
 published_at: "2022-12-03T15:44:41+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-29T00:43:09.170627+00:00"
+fetched_at: "2026-07-29T14:06:11.402678+00:00"
 content_hash: "sha256:4af7f9e5edeb0b093cd4219671cf1998bd0c78a1d1f0bf764eabb48d7877e882"
 ---
 

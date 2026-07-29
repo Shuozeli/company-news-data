@@ -7,7 +7,7 @@ source_id: "diversified-healthcare-trust-common-shares-of-beneficial-interest-rs
 canonical_url: "https://www.dhcreit.com/news/press-release-details/2026/Diversified-Healthcare-Trust-Announces-Quarterly-Dividend-on-Common-Shares-0fc854822/default.aspx"
 published_at: "2026-07-09T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:02:14.072473+00:00"
-fetched_at: "2026-07-28T23:32:40.854634+00:00"
+fetched_at: "2026-07-29T15:29:33.355709+00:00"
 content_hash: "sha256:775df89e0479897ed8822557d86a927ac33b2a253b044983b3e8f8aad7ac8c6d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "chemomab-therapeutics-ltd-american-depositary-share-rss-d3e5bd30b177
 canonical_url: "https://investors.chemomab.com/2026-07-08-Chemomab-Therapeutics-and-Precision-Medicine-Pioneer-Scipher-Medicine-Announce-Merger-Agreement-to-Advance-Nebokitug-in-an-AI-Powered-Phase-2-Trial-in-Rheumatoid-Arthritis"
 published_at: "2026-07-08T11:30:00+00:00"
 first_seen_at: "2026-07-27T00:43:56.919427+00:00"
-fetched_at: "2026-07-29T00:30:00.294354+00:00"
+fetched_at: "2026-07-29T13:56:35.069423+00:00"
 content_hash: "sha256:ac04d535bda0bbaedc99f84ed05c477edf7f3434e9b3ab795f3613fa93b74b2a"
 ---
 

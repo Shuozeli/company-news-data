@@ -7,7 +7,7 @@ source_id: "yc-inspectmind-ai-rss-7125fafcc8d8"
 canonical_url: "https://www.inspectmind.ai/case-studies/multi-unit-plan-814-issues"
 published_at: "2026-01-09T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:20.200105+00:00"
-fetched_at: "2026-07-28T22:52:50.159667+00:00"
+fetched_at: "2026-07-29T14:23:09.976212+00:00"
 content_hash: "sha256:437e1cd8643f95d0b8ba40d0d11ec9a0c839842c02b1378148c6c87d3116f220"
 ---
 

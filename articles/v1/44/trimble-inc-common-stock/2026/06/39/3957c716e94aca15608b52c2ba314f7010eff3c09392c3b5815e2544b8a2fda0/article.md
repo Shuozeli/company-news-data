@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/projectsight-360-capture-connects-design-reality"
 published_at: "2026-06-01T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T23:18:38.216278+00:00"
+fetched_at: "2026-07-29T15:07:27.395221+00:00"
 content_hash: "sha256:7ac00c51a26ae33cc8128f4ee31894d0730fe51d62515e86a5aefd21a4257b92"
 ---
 

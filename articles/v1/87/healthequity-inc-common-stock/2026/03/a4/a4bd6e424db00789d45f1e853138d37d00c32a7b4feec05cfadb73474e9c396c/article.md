@@ -7,7 +7,7 @@ source_id: "healthequity-inc-common-stock-rss-6283c6a40ed3"
 canonical_url: "https://ir.healthequity.com/news-releases/news-release-details/healthequity-reports-record-revenue-earnings-and-new-hsas-sales"
 published_at: "2026-03-17T20:01:00+00:00"
 first_seen_at: "2026-07-25T07:53:28.852709+00:00"
-fetched_at: "2026-07-28T21:07:28.054456+00:00"
+fetched_at: "2026-07-29T07:13:01.523523+00:00"
 content_hash: "sha256:902e221f5797bd2b92a5c215e544a720bd5d6a572be09705c0934d2c18831250"
 ---
 

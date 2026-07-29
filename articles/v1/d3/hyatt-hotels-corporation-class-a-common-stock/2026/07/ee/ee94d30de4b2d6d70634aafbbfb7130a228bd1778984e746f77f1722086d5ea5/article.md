@@ -7,7 +7,7 @@ source_id: "hyatt-hotels-corporation-class-a-common-stock-rss-0a451d8ba00e"
 canonical_url: "https://newsroom.hyatt.com/aeroplan"
 published_at: "2026-07-15T14:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:23.082338+00:00"
-fetched_at: "2026-07-29T00:49:26.271523+00:00"
+fetched_at: "2026-07-29T14:10:39.740371+00:00"
 content_hash: "sha256:d428631a40829cdc43b9beb91de4cab64f16bdb7640e230babfcc2663f60a50d"
 ---
 

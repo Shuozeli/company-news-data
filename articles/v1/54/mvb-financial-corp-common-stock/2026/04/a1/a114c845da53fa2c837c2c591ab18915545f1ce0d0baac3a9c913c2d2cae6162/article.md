@@ -7,7 +7,7 @@ source_id: "mvb-financial-corp-common-stock-rss-b14917102b63"
 canonical_url: "https://ir.mvbbanking.com/news/news-details/2026/MVB-Financial-to-Present-at-Centri-Capital-Conference/default.aspx"
 published_at: "2026-04-08T20:30:00+00:00"
 first_seen_at: "2026-07-25T15:10:45.759880+00:00"
-fetched_at: "2026-07-29T00:06:18.080230+00:00"
+fetched_at: "2026-07-29T16:58:56.379570+00:00"
 content_hash: "sha256:f4acabd3fb870789e7180a9173207b1e801ed18f23e3f33de8ba3b51ae7cd498"
 ---
 

@@ -7,7 +7,7 @@ source_id: "dyne-therapeutics-inc-common-stock-rss-d110a4ccdb6e"
 canonical_url: "https://www.dyne-tx.com/dyne-therapeutics-appoints-david-lubner-to-board-of-directors/"
 published_at: "2020-04-23T12:01:11+00:00"
 first_seen_at: "2026-07-20T23:21:48.721292+00:00"
-fetched_at: "2026-07-28T23:22:18.035043+00:00"
+fetched_at: "2026-07-29T15:16:40.894200+00:00"
 content_hash: "sha256:f534a6342bd635fd9f09663ac6b73efe5b0cb58963da84a13751a417bfa29363"
 ---
 

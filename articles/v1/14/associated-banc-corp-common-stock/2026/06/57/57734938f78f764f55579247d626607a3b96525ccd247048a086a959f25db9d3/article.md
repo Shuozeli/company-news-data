@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-finalizes-50m-loan-for-300-unit-multi-family-development-in-flower-mound-texas"
 published_at: "2026-06-29T21:24:00+00:00"
 first_seen_at: "2026-07-20T04:36:20.180992+00:00"
-fetched_at: "2026-07-29T00:43:53.379763+00:00"
+fetched_at: "2026-07-29T14:07:10.673770+00:00"
 content_hash: "sha256:4121826b4828f5e963f845bca8a075a15326e188ca0d972aebdf1f4098ac834f"
 ---
 

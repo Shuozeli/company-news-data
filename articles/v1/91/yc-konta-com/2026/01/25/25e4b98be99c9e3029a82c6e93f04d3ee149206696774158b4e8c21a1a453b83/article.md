@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/como-facturar-un-ticket-de-pinfra-guia-paso-a-paso-2026"
 published_at: "2026-01-10T05:11:00+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:b8d611bf37a87ac25c03473fc390c93ac281fde74f5ee2f67a142b5e470a9fb5"
 ---
 

@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/match/match-group-ceo-we-aim-to-get-gen-z-off-their-phones-to-meet-people-in-person-2/"
 published_at: "2026-07-13T19:10:34+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:f670d69eace670c2be8ee914fbad29b82e2be33b4836032521a156e73e4f0c14"
 ---
 

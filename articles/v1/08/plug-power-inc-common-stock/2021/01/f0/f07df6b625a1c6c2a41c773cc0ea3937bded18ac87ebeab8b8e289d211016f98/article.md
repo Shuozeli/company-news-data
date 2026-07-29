@@ -7,7 +7,7 @@ source_id: "plug-power-inc-common-stock-rss-15e242ac1693"
 canonical_url: "https://www.plugpower.com/blog/plug-power-top-green-job-creator-in-the-new-york-capital-region/"
 published_at: "2021-01-21T14:50:37+00:00"
 first_seen_at: "2026-07-20T03:31:30.208255+00:00"
-fetched_at: "2026-07-29T00:40:06.818792+00:00"
+fetched_at: "2026-07-29T14:03:31.186117+00:00"
 content_hash: "sha256:886ff2af0b6e75ef7ef1014d346c2c89876763f507d717aa007427bf01f8ab92"
 ---
 

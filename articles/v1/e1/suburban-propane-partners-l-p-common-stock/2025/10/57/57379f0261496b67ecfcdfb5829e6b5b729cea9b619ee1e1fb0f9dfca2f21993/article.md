@@ -7,7 +7,7 @@ source_id: "suburban-propane-partners-l-p-common-stock-rss-735cd6635d3c"
 canonical_url: "https://investor.suburbanpropane.com/2025-10-22-Suburban-Propane-Partners,-L-P-to-Hold-Fiscal-2025-Full-Year-and-Fourth-Quarter-Results-Conference-Call"
 published_at: "2025-10-22T20:25:00+00:00"
 first_seen_at: "2026-07-25T01:08:05.565238+00:00"
-fetched_at: "2026-07-29T00:35:11.121502+00:00"
+fetched_at: "2026-07-29T14:00:49.970072+00:00"
 content_hash: "sha256:dd45972fcd6b15033a9366482321ae749a7a2bd9892f42811f134bfcf9d65212"
 ---
 

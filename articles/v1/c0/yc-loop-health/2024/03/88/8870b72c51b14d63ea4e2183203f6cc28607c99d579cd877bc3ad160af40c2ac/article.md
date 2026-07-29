@@ -7,7 +7,7 @@ source_id: "yc-loop-health-rss-2b917676138c"
 canonical_url: "https://loophealth.io/the-misconceptions-of-meditation-and-yoga-within-communities-of-color/"
 published_at: "2024-03-03T03:01:14+00:00"
 first_seen_at: "2026-07-24T09:56:55.836543+00:00"
-fetched_at: "2026-07-28T23:52:12.241134+00:00"
+fetched_at: "2026-07-29T17:08:39.834688+00:00"
 content_hash: "sha256:7092e749bd1571cb213611511f0e93409ef48ed5b5096dd3edb3006f64feaf9c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "tiptree-inc-common-stock-rss-67f8f0593fc9"
 canonical_url: "https://investors.tiptreeinc.com/Investor-Resources/news/news-details/2025/Tiptree-Announces-Shareholder-Approval-of-Proposed-Merger-of-Fortegra-and-DB-Insurance/default.aspx"
 published_at: "2025-12-03T21:30:00+00:00"
 first_seen_at: "2026-07-26T02:42:36.653502+00:00"
-fetched_at: "2026-07-29T00:20:50.028221+00:00"
+fetched_at: "2026-07-29T17:22:39.337637+00:00"
 content_hash: "sha256:fd866bdc00ad244fc4775bf889617909ffa7f4141b642dd3fcf4cc252d9784b0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "j-long-group-limited-class-a-ordinary-shares-rss-f100273bc0f8"
 canonical_url: "https://investors.j-long.com/j-long-group-limited-receives-nasdaq-deficiency-notice-regarding-minimum-bid-price-requiremen/"
 published_at: "2024-05-16T10:00:28+00:00"
 first_seen_at: "2026-07-27T03:16:23.483706+00:00"
-fetched_at: "2026-07-28T23:58:05.766082+00:00"
+fetched_at: "2026-07-29T17:22:56.603450+00:00"
 content_hash: "sha256:5b91338f637eb829f8582b618b76a4c52345654be3c2326279be485ba7c49e50"
 ---
 

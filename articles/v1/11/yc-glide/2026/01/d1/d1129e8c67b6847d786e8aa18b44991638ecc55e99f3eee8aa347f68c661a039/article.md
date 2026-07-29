@@ -7,8 +7,8 @@ source_id: "yc-glide-news-import-b50025bbdd3a"
 canonical_url: "https://www.glideapps.com/blog/glide-data-sources-speed"
 published_at: "2026-01-12T12:00:00+00:00"
 first_seen_at: "2026-07-22T09:51:39.872356+00:00"
-fetched_at: "2026-07-28T15:59:41.013404+00:00"
-content_hash: "sha256:e19e484ed2632f1c1b03bb785fe54f5849c6a18a83913768e029898ee8facc90"
+fetched_at: "2026-07-29T05:06:15.496708+00:00"
+content_hash: "sha256:9c8ac7f83960f243cff5ecd22bf96dfa6a8e097523d7670e2aff695c4f5a0eb1"
 ---
 
 # Glide data sources: How to choose the right data source for building faster, more scalable apps
@@ -269,10 +269,10 @@ Gideon is a Certified Expert with an M.A. in Business. He's made a focus of deve
 ### Related Articles
 
 
+[AI engineering is the next wave after no-code: Here is how business leaders can get started](https://www.glideapps.com/blog/no-code-to-ai)[Gideon Lahav](https://www.glideapps.com/blog/author/gideon-lahav) 28 Jul 2026
+
+
 [How to build custom software for e-commerce operations with AI](https://www.glideapps.com/blog/build-ecommerce-software)[Wren Noble](https://www.glideapps.com/blog/author/wren-noble) 27 Jul 2026
 
 
 [What is AI citizen development? A guide for 2026](https://www.glideapps.com/blog/ai-citizen-development)[Wren Noble](https://www.glideapps.com/blog/author/wren-noble) 24 Jul 2026
-
-
-[Try GlideOS in Open Beta, and join the live event August 3](https://www.glideapps.com/blog/glideos-launch)[Glide](https://www.glideapps.com/blog/author/glide) 14 Jul 2026

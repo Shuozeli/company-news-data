@@ -4,9 +4,9 @@
     "key": "tesla-inc-common-stock",
     "name": "Tesla Inc. Common Stock"
   },
-  "record_count": 19,
+  "record_count": 20,
   "first_published_at": "2026-04-15T13:31:06+00:00",
-  "last_published_at": "2026-07-27T14:11:00+00:00",
+  "last_published_at": "2026-07-29T11:28:00+00:00",
   "partitions": [
     {
       "partition": "2026-04",
@@ -18,11 +18,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 13
+      "record_count": 14
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -30,10 +30,10 @@
       {
         "page": 1,
         "path": "articles/v1/2f/tesla-inc-common-stock/index/pages/000001.json",
-        "record_count": 19,
-        "byte_count": 31131,
-        "sha256": "sha256:fecccc364cf5b7e0be43fdf44ec42711797bf78a46cfaa8cb49d16069d027494",
-        "newest_at": "2026-07-27T14:11:00+00:00",
+        "record_count": 20,
+        "byte_count": 32480,
+        "sha256": "sha256:6a702d3ac974e036aba6c0b93d4ea4443d83c514796fb2fa885c9a3342f69a6a",
+        "newest_at": "2026-07-29T11:28:00+00:00",
         "oldest_at": "2026-04-15T13:31:06+00:00"
       }
     ]

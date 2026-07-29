@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:58:33.663804+00:00"
 content_hash: "sha256:85eb1ca1cbb3afb3910cadba6243f375d195323d1fa974dbf609f97b51265186"
 ---
 
-# Introducing Mentat: Deterministic Runtime Control for LLMs
+# Introducing Mentat: Reliable Runtime Control for LLMs
 
 #### Feature-level intervention. Graph-based verification. Real-time policy enforcement.
 

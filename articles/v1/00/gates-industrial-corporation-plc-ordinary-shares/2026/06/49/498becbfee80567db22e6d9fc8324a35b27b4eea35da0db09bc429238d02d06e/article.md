@@ -7,7 +7,7 @@ source_id: "gates-industrial-corporation-plc-ordinary-shares-rss-70341835947e"
 canonical_url: "https://investors.gates.com/news/press-release-details/2026/Gates-Opens-Belt-Drive-Technology-for-the-Mass-Market/default.aspx"
 published_at: "2026-06-23T21:15:00+00:00"
 first_seen_at: "2026-07-25T06:14:43.744179+00:00"
-fetched_at: "2026-07-28T23:48:19.057733+00:00"
+fetched_at: "2026-07-29T15:41:33.312684+00:00"
 content_hash: "sha256:4a3cb5a72003eaee7607dd27f8c09956600281bf472713c8f32d46d2cf4da41c"
 ---
 

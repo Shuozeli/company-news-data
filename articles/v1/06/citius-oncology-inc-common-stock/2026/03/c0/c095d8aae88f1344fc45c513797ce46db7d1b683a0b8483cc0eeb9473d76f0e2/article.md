@@ -7,7 +7,7 @@ source_id: "citius-oncology-inc-common-stock-rss-975211204d6f"
 canonical_url: "https://citiusonc.com/news/news-details/2026/Citius-Oncology-Provides-Commercial-Update-on-LYMPHIR-Launch-Highlighting-Early-Adoption-and-Expanding-Clinical-Development/default.aspx"
 published_at: "2026-03-31T13:11:00+00:00"
 first_seen_at: "2026-07-26T11:49:36.482289+00:00"
-fetched_at: "2026-07-29T00:33:57.810381+00:00"
+fetched_at: "2026-07-29T14:01:02.998631+00:00"
 content_hash: "sha256:b71c6bbb98b9a85fe8f4e88357822b011b66df5ed29a89f1d5038f62cfce3990"
 ---
 

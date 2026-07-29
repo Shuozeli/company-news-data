@@ -7,7 +7,7 @@ source_id: "perion-network-ltd-ordinary-shares-rss-2c2626ab728d"
 canonical_url: "https://perion.com/product/what-is-performance-marketing-a-beginners-guide/"
 published_at: "2026-07-16T09:36:27+00:00"
 first_seen_at: "2026-07-20T23:22:51.777610+00:00"
-fetched_at: "2026-07-28T23:25:21.207430+00:00"
+fetched_at: "2026-07-29T15:20:28.430784+00:00"
 content_hash: "sha256:7871d0bd36b66909bbab4d9305f3eefd1ad29ba88b0d6ec6fe1f6e00d782b054"
 ---
 

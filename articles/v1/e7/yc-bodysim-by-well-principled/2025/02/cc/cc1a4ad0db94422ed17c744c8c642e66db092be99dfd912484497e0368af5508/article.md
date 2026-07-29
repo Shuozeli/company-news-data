@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:30:42.971376+00:00"
 content_hash: "sha256:9df89990d7ede36b9d5ba2fa06c23bfff91804978cf1201e92c1cf7631bce394"
 ---
 
-# Getting Started with Resistance Training: Finding Your Perfect Starting Weight
+# Getting Started with Resistance Training
 
 # Getting Started with Resistance Training: Finding Your Perfect Starting Weight
 

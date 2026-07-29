@@ -7,7 +7,7 @@ source_id: "central-pacific-financial-corp-new-rss-e68df64c5498"
 canonical_url: "https://ir.cpb.bank/news/news-details/2026/Central-Pacific-Financial-Corp--Announces-Conference-Call-to-Discuss-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-04-08T22:30:00+00:00"
 first_seen_at: "2026-07-26T11:21:10.476543+00:00"
-fetched_at: "2026-07-28T23:32:44.303724+00:00"
+fetched_at: "2026-07-29T15:30:39.152663+00:00"
 content_hash: "sha256:ed929ce5a93e2a21932d3b69b27d7ef6e2e739b8afb6650b58e1ad5f2709238e"
 ---
 

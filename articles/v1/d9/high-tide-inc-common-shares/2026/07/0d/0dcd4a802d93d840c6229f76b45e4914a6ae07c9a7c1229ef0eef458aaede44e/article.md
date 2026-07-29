@@ -7,7 +7,7 @@ source_id: "high-tide-inc-common-shares-rss-f83dc5e20636"
 canonical_url: "https://hightideinc.com/cultivated-news-moby-invest-webinar-on-investing-in-the-cannabis-industry/"
 published_at: "2026-07-16T18:08:59+00:00"
 first_seen_at: "2026-07-20T23:19:05.127242+00:00"
-fetched_at: "2026-07-29T00:41:30.017006+00:00"
+fetched_at: "2026-07-29T14:06:34.773204+00:00"
 content_hash: "sha256:e744b317975c1a3b92092c1b376c0f89c8a2849d1c37f3bf493a1c8fcd9bf3f1"
 ---
 

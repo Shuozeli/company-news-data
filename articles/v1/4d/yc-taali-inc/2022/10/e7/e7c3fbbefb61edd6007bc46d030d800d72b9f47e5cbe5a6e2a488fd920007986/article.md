@@ -7,7 +7,7 @@ source_id: "yc-taali-inc-atom-1c5284bf832e"
 canonical_url: "https://taalifoods.in/blogs/blog/iss-diwali-flavor-wali-taali"
 published_at: "2022-10-31T10:00:00+00:00"
 first_seen_at: "2026-07-26T01:19:03.323341+00:00"
-fetched_at: "2026-07-29T00:34:47.254454+00:00"
+fetched_at: "2026-07-29T14:01:38.736751+00:00"
 content_hash: "sha256:ecaa5da491b02d1d6847e6ebbfae9721a842427050c4fceccaa37be6c5ba8a00"
 ---
 

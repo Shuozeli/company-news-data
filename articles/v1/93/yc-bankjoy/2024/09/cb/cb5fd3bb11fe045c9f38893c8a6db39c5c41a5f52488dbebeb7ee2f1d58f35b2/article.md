@@ -7,7 +7,7 @@ source_id: "yc-bankjoy-rss-acabb700cdf2"
 canonical_url: "https://www.bankjoy.com/blog/webinar-replay-the-power-of-fully-digital-customer"
 published_at: "2024-09-20T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:23:35.072236+00:00"
-fetched_at: "2026-07-28T23:55:32.181695+00:00"
+fetched_at: "2026-07-29T17:11:42.033451+00:00"
 content_hash: "sha256:0f721b467d09853141462a11995919ef3b6c2ca3a74d22776d04623045a9f6e2"
 ---
 

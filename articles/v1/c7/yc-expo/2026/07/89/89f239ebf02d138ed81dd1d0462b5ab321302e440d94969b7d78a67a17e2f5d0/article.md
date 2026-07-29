@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/deferred-deep-linking-the-right-way"
 published_at: "2026-07-22T13:15:00+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:4b3ab6747d5a6f340c288fc184e1527379e1c6f36dfba1f76dabc8e1bd057a37"
 ---
 

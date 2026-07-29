@@ -7,7 +7,7 @@ source_id: "regal-rexnord-corporation-common-stock-news-import-634959d3629c"
 canonical_url: "https://www.regalrexnord.com/news/get-6-times-longer-conveyor-belt-life-with-the-kleantop-pactitan-pro-metal-belt-from-regal-rexnord"
 published_at: null
 first_seen_at: "2026-07-26T21:54:57.082929+00:00"
-fetched_at: "2026-07-27T10:32:03.572825+00:00"
+fetched_at: "2026-07-29T01:46:34.709244+00:00"
 content_hash: "sha256:7a9e6a5e444c0aa8e790a47d94453ab3f7b4382299bf1b40faccd7ebc63cef98"
 ---
 

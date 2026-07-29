@@ -7,7 +7,7 @@ source_id: "yc-shuttle-rss-52efc69d7cac"
 canonical_url: "https://www.shuttle.dev/blog/2025/11/20/ai-coding-tools-for-developers"
 published_at: "2025-11-20T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:24:10.103156+00:00"
-fetched_at: "2026-07-28T23:18:15.366460+00:00"
+fetched_at: "2026-07-29T15:13:00.471480+00:00"
 content_hash: "sha256:bbc143aab32f148599da2ded2dc9bc86b2f44e81e473ff84f99761c6fe7b6302"
 ---
 

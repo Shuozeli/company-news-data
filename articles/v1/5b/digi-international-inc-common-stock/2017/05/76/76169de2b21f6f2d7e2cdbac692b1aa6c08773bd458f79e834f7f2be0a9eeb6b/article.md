@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2017/future-proof-your-iot-products-today-with-field-pr"
 published_at: "2017-05-05T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:0cf2f363f446615850ef3c12bfc3f83a553b4efc950c326ba3435d1facb5a9c2"
 ---
 

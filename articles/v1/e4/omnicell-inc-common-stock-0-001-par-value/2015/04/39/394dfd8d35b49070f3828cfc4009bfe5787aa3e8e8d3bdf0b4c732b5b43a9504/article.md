@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2015/Omnicell-Advances-Medication-Safety-and-Nurse-Workflows-with-New-Interoperability-between-Automated-Dispensing-Cabinets-and-EHR-at-Hackensack-University-Medical-Center/default.aspx"
 published_at: "2015-04-09T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:5b969788c1a188c01ee2e5ae54f31b7ffd04b63f429794466b2ed0f8841426d2"
 ---
 

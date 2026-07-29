@@ -7,7 +7,7 @@ source_id: "ge-aerospace-common-stock-rss-a1dd69a4054d"
 canonical_url: "https://www.geaerospace.com/investor-relations/events-reports/2025-baird-global-industrial-conference"
 published_at: "2025-11-04T18:21:10+00:00"
 first_seen_at: "2026-07-20T23:24:51.828822+00:00"
-fetched_at: "2026-07-28T23:50:06.638047+00:00"
+fetched_at: "2026-07-29T15:41:52.623120+00:00"
 content_hash: "sha256:605cee4719928137ce268b544061fb4fda100c1d39901cecaf2342f54ee68257"
 ---
 

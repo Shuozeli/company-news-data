@@ -7,7 +7,7 @@ source_id: "bio-rad-laboratories-inc-class-a-common-stock-rss-a12fc0dc70bb"
 canonical_url: "https://investors.bio-rad.com/press-releases/news-details/2026/Bio-Rads-Management-to-Host-Investor-Meetings-at-J-P--Morgans-44th-Annual-Healthcare-Conference/default.aspx"
 published_at: "2026-01-06T13:45:00+00:00"
 first_seen_at: "2026-07-26T10:35:44.737394+00:00"
-fetched_at: "2026-07-29T00:10:21.289006+00:00"
+fetched_at: "2026-07-29T17:13:12.992538+00:00"
 content_hash: "sha256:882ad131c568b6e049e5bfedf03c6dc834d637f37b02334b982ae2ddd892c5c6"
 ---
 

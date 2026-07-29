@@ -7,7 +7,7 @@ source_id: "broadwind-inc-common-stock-rss-eded55d2a731"
 canonical_url: "https://investors.bwen.com/investor-news/investor-news-details/2026/Broadwind-Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-03-11T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:56.675955+00:00"
-fetched_at: "2026-07-28T23:31:51.745295+00:00"
+fetched_at: "2026-07-29T15:27:40.865791+00:00"
 content_hash: "sha256:6cb0d6da63d3efa281ae3340931202c026405a1b15e9c9cacf55aac7783e47db"
 ---
 

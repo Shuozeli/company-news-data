@@ -7,8 +7,8 @@ source_id: "leidos-holdings-inc-common-stock-rss-27b1906f4f8e"
 canonical_url: "https://www.leidos.com/insights/climate-solutions"
 published_at: "2023-07-05T19:52:16+00:00"
 first_seen_at: "2026-07-20T23:24:51.153241+00:00"
-fetched_at: "2026-07-28T23:52:51.225222+00:00"
-content_hash: "sha256:9e8fc4b3513f3b6b2f563f7c7982e2c3c38d0f5d91c7ba40f5cbf35e030f9347"
+fetched_at: "2026-07-29T17:04:15.032740+00:00"
+content_hash: "sha256:ec23026383ca29e90309605195ba058d87d20f35cbd176d21817b31e03819abd"
 ---
 
 # Climate Solutions
@@ -26,6 +26,15 @@ Lead
 
 
 Global Challenges Solved: Scalable solutions to mitigate and adapt to climate change.
+
+
+###### News
+
+
+###### Leidos introduces new AI platform to find, fix cybersecurity vulnerabilities
+
+
+[Read More](https://www.leidos.com/insights/leidos-introduces-new-ai-platform-find-fix-cybersecurity-vulnerabilities)
 
 
 ###### News
@@ -125,15 +134,6 @@ Global Challenges Solved: Scalable solutions to mitigate and adapt to climate ch
 
 
 [Read More](https://www.leidos.com/insights/every-moment-digital-friction-carries-cost)
-
-
-###### Article
-
-
-###### America at 250: Building on a legacy of innovation & service
-
-
-[Read More](https://www.leidos.com/insights/america-250-building-legacy-innovation-service)
 
 
 - [Load More](https://www.leidos.com/insights/climate-solutions?page=1)

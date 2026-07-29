@@ -7,7 +7,7 @@ source_id: "u-haul-holding-company-common-stock-rss-bfed9e054f62"
 canonical_url: "https://investors.uhaul.com/news/news-details/2026/U-Haul-Holding-Company-to-Participate-in-the-Bank-of-America-Self-Storage-Virtual-Conference-2026-MxY09IQe3E/default.aspx"
 published_at: "2026-05-28T16:15:00+00:00"
 first_seen_at: "2026-07-26T03:36:37.448494+00:00"
-fetched_at: "2026-07-28T23:54:41.192343+00:00"
+fetched_at: "2026-07-29T17:03:11.777232+00:00"
 content_hash: "sha256:df56cf695129a2885a1ef34332bc954393edca8a90af01d769969c6f698d99f4"
 ---
 

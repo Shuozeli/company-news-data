@@ -7,7 +7,7 @@ source_id: "qiagen-n-v-common-shares-rss-98e7f8d13456"
 canonical_url: "https://corporate.qiagen.com/English/newsroom/press-releases/press-release-details/2026/QIAGEN-launches-QIA-Agent-connecting-AI-driven-scientific-guidance-across-Sample-to-Insight-workflows/default.aspx"
 published_at: "2026-05-20T20:05:00+00:00"
 first_seen_at: "2026-07-28T04:42:25.610146+00:00"
-fetched_at: "2026-07-28T23:50:39.335368+00:00"
+fetched_at: "2026-07-29T15:43:35.357325+00:00"
 content_hash: "sha256:d4ace37f8d5503112c33522166539b4e7cc17899e19060acd311eb6829114140"
 ---
 

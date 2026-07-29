@@ -7,7 +7,7 @@ source_id: "service-properties-trust-common-stock-rss-ab6cc6b38b1d"
 canonical_url: "http://www.svcreit.com/news/press-release-details/2026/Service-Properties-Trust-to-Present-at-Nareits-REITweek-2026-Investor-Conference-on-Wednesday-June-3rd/default.aspx"
 published_at: "2026-05-21T12:00:00+00:00"
 first_seen_at: "2026-07-25T22:45:03.297417+00:00"
-fetched_at: "2026-07-28T23:18:36.892673+00:00"
+fetched_at: "2026-07-29T15:09:23.007202+00:00"
 content_hash: "sha256:ec440c617e4c18599e18bf04d6106588fea3806124413b6f2323b7935d69b629"
 ---
 

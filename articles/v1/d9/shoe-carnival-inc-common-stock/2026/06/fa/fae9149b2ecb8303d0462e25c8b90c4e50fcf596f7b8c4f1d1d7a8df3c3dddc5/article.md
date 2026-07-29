@@ -7,7 +7,7 @@ source_id: "shoe-carnival-inc-common-stock-rss-066a5ac40f71"
 canonical_url: "https://investors.shoecarnival.com/news/news-details/2026/Shoe-Carnival-Inc--Announces-Name-Change-to-Shoe-Station-Group-and-Ticker-Symbol-Change-to-SHOE/default.aspx"
 published_at: "2026-06-11T10:10:00+00:00"
 first_seen_at: "2026-07-25T22:52:29.471785+00:00"
-fetched_at: "2026-07-29T00:25:35.973785+00:00"
+fetched_at: "2026-07-29T17:26:14.876840+00:00"
 content_hash: "sha256:310aaf7fcf9410e7d3c14a06c29d3084887b302ee73e9abb81985f49bdff4e2a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "california-bancorp-common-stock-rss-bc29c1f1abbe"
 canonical_url: "https://ir.californiabankofcommerce.com/news/news-details/2026/CALIFORNIA-BANCORP-DECLARES-CASH-DIVIDEND/default.aspx"
 published_at: "2026-03-12T20:30:00+00:00"
 first_seen_at: "2026-07-26T11:03:24.087872+00:00"
-fetched_at: "2026-07-28T23:08:58.175190+00:00"
+fetched_at: "2026-07-29T14:51:11.543918+00:00"
 content_hash: "sha256:86f9cdb0885927b25706f8057ac52f313e20565e80b6eeb48ba0462c8088cab4"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-spotless-materials-atom-27f9e38cc9f8"
 canonical_url: "https://spotlessmaterials.com/blogs/press-releases-1/spotless-materials-experiences-growth-selling-super-slippery-coating-technology"
 published_at: "2022-01-26T15:30:00+00:00"
 first_seen_at: "2026-07-26T00:03:15.518146+00:00"
-fetched_at: "2026-07-29T00:06:27.340276+00:00"
+fetched_at: "2026-07-29T15:47:08.635528+00:00"
 content_hash: "sha256:85842a4057a9e71bfd956f26cb674e0d03d20b459565a385eda87ede1d1de71c"
 ---
 

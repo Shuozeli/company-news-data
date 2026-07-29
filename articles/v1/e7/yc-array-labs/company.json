@@ -4,17 +4,17 @@
     "key": "yc-array-labs",
     "name": "Array Labs"
   },
-  "record_count": 13,
+  "record_count": 14,
   "first_published_at": null,
   "last_published_at": null,
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 13
+      "record_count": 14
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/e7/yc-array-labs/index/pages/000001.json",
-        "record_count": 13,
-        "byte_count": 13087,
-        "sha256": "sha256:0d40bb197597d44cdaece9ba4c1e5be29abe8d3472ccca52a5e611abc15a7c82",
-        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "record_count": 14,
+        "byte_count": 14184,
+        "sha256": "sha256:87e00aeb61d0a6ec4b27087856010d680aa751e816b0a91354aced21a9a93e1e",
+        "newest_at": "2026-07-29T04:26:20.530152+00:00",
         "oldest_at": "2026-07-28T21:36:14.883471+00:00"
       }
     ]

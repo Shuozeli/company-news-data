@@ -7,7 +7,7 @@ source_id: "aspen-aerogels-inc-common-stock-rss-1be19ab36738"
 canonical_url: "https://ir.aerogel.com/news/news-details/2026/Aspen-Aerogels-Inc--to-Participate-in-the-38th-Annual-Roth-Conference/default.aspx"
 published_at: "2026-03-16T20:30:00+00:00"
 first_seen_at: "2026-07-26T22:59:45.708735+00:00"
-fetched_at: "2026-07-29T00:35:16.487692+00:00"
+fetched_at: "2026-07-29T14:01:39.625734+00:00"
 content_hash: "sha256:4b245d502322350d70d0647b49ceba65f7e5fefc07720a33f1d2a9b66893fb9d"
 ---
 

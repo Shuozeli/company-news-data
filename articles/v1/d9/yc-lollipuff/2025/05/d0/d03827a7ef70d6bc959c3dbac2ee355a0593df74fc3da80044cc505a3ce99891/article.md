@@ -7,7 +7,7 @@ source_id: "yc-lollipuff-rss-1aefb943cc78"
 canonical_url: "https://www.lollipuff.com/the-truth-behind-designer-labels-and-manufacturing/"
 published_at: "2025-05-09T22:34:11+00:00"
 first_seen_at: "2026-07-25T01:53:27.944775+00:00"
-fetched_at: "2026-07-28T23:16:31.531465+00:00"
+fetched_at: "2026-07-29T15:06:12.951381+00:00"
 content_hash: "sha256:1240e464fd9f6babf333de494e5b385ef19503aec6796346d3cd4c3a7da83c92"
 ---
 

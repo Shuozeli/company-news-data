@@ -7,7 +7,7 @@ source_id: "doximity-inc-class-a-common-stock-rss-8bd2cd30f7c1"
 canonical_url: "https://press.doximity.com/articles/doximity-report-confirms-that-telemedicine-serves-key-role-in-modern-health-care"
 published_at: "2024-12-17T07:09:00+00:00"
 first_seen_at: "2026-07-20T03:32:24.794804+00:00"
-fetched_at: "2026-07-28T23:22:12.562614+00:00"
+fetched_at: "2026-07-29T15:16:14.147574+00:00"
 content_hash: "sha256:6205508a17b8b1418d8d769ff78da1145b7e9856409e4621e6b00d65054f914b"
 ---
 

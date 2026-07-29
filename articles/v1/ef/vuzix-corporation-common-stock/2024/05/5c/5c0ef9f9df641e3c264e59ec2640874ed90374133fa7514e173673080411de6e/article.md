@@ -7,7 +7,7 @@ source_id: "vuzix-corporation-common-stock-atom-704dbe6a03d0"
 canonical_url: "https://www.vuzix.com/blogs/vuzix-blog/using-ar-to-meet-the-challenges-of-modern-fulfillment-operations-a-deep-dive-into-retail-manufacturing-3pl-and-distribution-sectors"
 published_at: "2024-05-31T15:05:00+00:00"
 first_seen_at: "2026-07-20T23:19:27.942006+00:00"
-fetched_at: "2026-07-28T23:31:42.121983+00:00"
+fetched_at: "2026-07-29T15:28:50.904089+00:00"
 content_hash: "sha256:88fdce74a700809c9a7ae6dfd577cb733257bf45acbbc6ee571ffde70a2692d1"
 ---
 

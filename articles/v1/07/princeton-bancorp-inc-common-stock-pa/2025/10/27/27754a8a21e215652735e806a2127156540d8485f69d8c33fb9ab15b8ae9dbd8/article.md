@@ -7,7 +7,7 @@ source_id: "princeton-bancorp-inc-common-stock-pa-rss-abfab8614cde"
 canonical_url: "https://ir.thebankofprinceton.com/news-market-information/press-releases/news-details/2025/Princeton-Bancorp-Announces-Third-Quarter-2025-Results/default.aspx"
 published_at: "2025-10-29T20:00:00+00:00"
 first_seen_at: "2026-07-27T04:31:09.988369+00:00"
-fetched_at: "2026-07-28T23:25:22.652622+00:00"
+fetched_at: "2026-07-29T15:20:43.104471+00:00"
 content_hash: "sha256:b2b595f9e42d412fe4520290d53dd0552bd3f6c2a7b4f80d97ae972ac96f3f36"
 ---
 

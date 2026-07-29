@@ -7,7 +7,7 @@ source_id: "yc-conveo-news-import-892b57e5f5a6"
 canonical_url: "https://conveo.ai/insights/hidden-cost-skipping-marketing-testing"
 published_at: "2025-08-11T16:30:32.535+00:00"
 first_seen_at: "2026-07-27T01:16:07.962169+00:00"
-fetched_at: "2026-07-28T02:04:34.342383+00:00"
+fetched_at: "2026-07-29T03:49:05.059626+00:00"
 content_hash: "sha256:56c38bfa5a652666f36a93ec8d07ec5a03925c1a2a0c670b5de9caddd8f06d46"
 ---
 

@@ -7,7 +7,7 @@ source_id: "data-i-o-corporation-common-stock-rss-f86f593ae275"
 canonical_url: "https://www.dataio.com/investor-relations/news/press-releases"
 published_at: "2025-04-15T00:00:00+00:00"
 first_seen_at: "2026-07-25T00:21:29.653205+00:00"
-fetched_at: "2026-07-28T23:15:30.997493+00:00"
+fetched_at: "2026-07-29T15:05:42.282684+00:00"
 content_hash: "sha256:7b1bc6706eb179e994fe6e4b42b672b08898b19595d9023bd4cab12915eff7e7"
 ---
 

@@ -7,7 +7,7 @@ source_id: "quantum-si-incorporated-class-a-common-stock-rss-5dc339ba7c8c"
 canonical_url: "https://www.quantum-si.com/news/quantum-si-gloria-sheynkman-benjamin-garcia-bradley-pentelute-denis-zaccarin/"
 published_at: "2025-02-06T21:06:37+00:00"
 first_seen_at: "2026-07-25T01:13:17.793514+00:00"
-fetched_at: "2026-07-28T22:13:28.896883+00:00"
+fetched_at: "2026-07-29T14:21:25.250350+00:00"
 content_hash: "sha256:ddc16c583ca35b5311b50e4b62feec2de355a73b490d42249cbf9db85d82bbe7"
 ---
 

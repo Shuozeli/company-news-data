@@ -7,7 +7,7 @@ source_id: "frontview-reit-inc-common-stock-rss-c0f2a2cea56f"
 canonical_url: "https://investor.frontviewreit.com/news/news-details/2026/FrontView-REIT-Announces-Tax-Treatment-of-2025-Dividends/default.aspx"
 published_at: "2026-02-02T17:00:00+00:00"
 first_seen_at: "2026-07-27T09:24:45.216925+00:00"
-fetched_at: "2026-07-28T23:47:22.788991+00:00"
+fetched_at: "2026-07-29T15:41:39.551674+00:00"
 content_hash: "sha256:353f14328d2519af58a43bf5e8ef1a68aeee0e84afd622d20fdf84a5cc2dc8f8"
 ---
 

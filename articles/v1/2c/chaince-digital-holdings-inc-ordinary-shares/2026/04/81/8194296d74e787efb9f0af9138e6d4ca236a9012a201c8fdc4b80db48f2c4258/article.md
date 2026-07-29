@@ -7,7 +7,7 @@ source_id: "chaince-digital-holdings-inc-ordinary-shares-rss-3f461f105395"
 canonical_url: "https://chaincedigital.com/mercurity-fintechs-chaince-securities-to-advise-u-s-next-generation-mining-company-on-gold-asset-tokenization-in-central-america-and-northwestern-argentina-2/"
 published_at: "2026-04-13T23:11:15+00:00"
 first_seen_at: "2026-07-20T23:18:10.276107+00:00"
-fetched_at: "2026-07-28T22:17:20.039825+00:00"
+fetched_at: "2026-07-29T14:22:21.060654+00:00"
 content_hash: "sha256:0e6f086aa98f2b2222bff157210a3af1eaca531003c757ec6385c90a51a64fc7"
 ---
 

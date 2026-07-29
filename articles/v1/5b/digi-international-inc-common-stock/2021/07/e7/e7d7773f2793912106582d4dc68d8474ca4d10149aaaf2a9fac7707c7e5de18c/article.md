@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2021/enterprises-must-address-training-to-make-netops"
 published_at: "2021-07-22T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:e66f496253e30cc9968b78f357f6e740ca8cb07d5fdebb2d78121026bdc24fb5"
 ---
 

@@ -7,7 +7,7 @@ source_id: "homestolife-ltd-ordinary-shares-atom-fa770f0ed26f"
 canonical_url: "https://homestolife.com/blogs/news/designedforyourbum"
 published_at: "2025-02-02T16:00:05+00:00"
 first_seen_at: "2026-07-23T22:07:10.185526+00:00"
-fetched_at: "2026-07-28T23:33:05.798378+00:00"
+fetched_at: "2026-07-29T15:29:15.193789+00:00"
 content_hash: "sha256:e7ed0519463208e3f0f022c908f0979225969deda8b7e11eb1e95c980e5a0323"
 ---
 

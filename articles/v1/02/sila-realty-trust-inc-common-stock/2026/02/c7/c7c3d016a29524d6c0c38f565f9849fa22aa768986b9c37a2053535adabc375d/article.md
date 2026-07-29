@@ -7,7 +7,7 @@ source_id: "sila-realty-trust-inc-common-stock-rss-0a874092aade"
 canonical_url: "https://silarealtytrust.com/earnings-release-2025-q4/"
 published_at: "2026-02-24T21:51:47+00:00"
 first_seen_at: "2026-07-20T23:21:02.147126+00:00"
-fetched_at: "2026-07-28T22:58:48.460628+00:00"
+fetched_at: "2026-07-29T14:32:50.257495+00:00"
 content_hash: "sha256:637b924154c317f04a97a6d42daeac8eafcb813c8db751783b759516bcbba24f"
 ---
 

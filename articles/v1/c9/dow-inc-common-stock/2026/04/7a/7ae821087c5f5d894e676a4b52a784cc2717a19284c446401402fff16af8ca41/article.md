@@ -7,7 +7,7 @@ source_id: "dow-inc-common-stock-rss-a764c88a6383"
 canonical_url: "https://investors.dow.com/en/news/news-details/2026/Dow-Chair-and-CEO-Jim-Fitterling-to-Become-Executive-Chair-Karen-S--Carter-Appointed-Chief-Executive-Officer/default.aspx"
 published_at: "2026-04-14T10:30:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.067378+00:00"
-fetched_at: "2026-07-29T00:19:09.815212+00:00"
+fetched_at: "2026-07-29T17:19:00.396962+00:00"
 content_hash: "sha256:72871500fdec01ef7ec6f2842914aa33aac50752f0114df97f934fef63e429f8"
 ---
 

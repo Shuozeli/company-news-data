@@ -7,7 +7,7 @@ source_id: "evergy-inc-common-stock-rss-921793057d9e"
 canonical_url: "https://blog.evergyenergypartners.com/case-study-osage-solar-array"
 published_at: "2026-07-02T20:19:24+00:00"
 first_seen_at: "2026-07-20T03:32:28.130485+00:00"
-fetched_at: "2026-07-28T23:28:58.944984+00:00"
+fetched_at: "2026-07-29T15:26:29.223096+00:00"
 content_hash: "sha256:295c5cc6f76c5af994c38d4cdd29f070ae8b38cefc207b935d145a068939ab88"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-capitol-ai-news-import-f6452f568795"
 canonical_url: "https://www.capitol.ai/blog/ai-means-journalism-must-change-not-decline"
 published_at: "2026-02-26T00:00:00+00:00"
 first_seen_at: "2026-07-23T04:42:41.632332+00:00"
-fetched_at: "2026-07-28T11:13:23.646323+00:00"
+fetched_at: "2026-07-29T14:24:04.055144+00:00"
 content_hash: "sha256:ae1f1bc9576e41d9be6fb31405b67dcb76c5365b65886abddd10ea1327a7be66"
 ---
 

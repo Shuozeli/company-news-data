@@ -7,7 +7,7 @@ source_id: "inventrust-properties-corp-common-stock-rss-69554ea628a1"
 canonical_url: "https://inventrustproperties.q4ir.com/investor-relations/news/news-details/2024/InvenTrust-Properties-Corp.-Announces-Third-Quarter-2024-Cash-Dividend/default.aspx"
 published_at: "2024-09-16T20:05:00+00:00"
 first_seen_at: "2026-07-25T09:50:02.769299+00:00"
-fetched_at: "2026-07-28T22:58:19.726655+00:00"
+fetched_at: "2026-07-29T14:29:39.308674+00:00"
 content_hash: "sha256:6b50ec76ae2311f337086194e5dbfa3fab9f9e674b44954066a7aaa714234d60"
 ---
 

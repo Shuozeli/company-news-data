@@ -7,7 +7,7 @@ source_id: "yc-darmiyan-rss-75d14ada5252"
 canonical_url: "https://darmiyan.com/2022/06/14/brainsee-was-validated-by-third-party-investigators-in-the-us-canada/"
 published_at: "2022-06-14T06:49:19+00:00"
 first_seen_at: "2026-07-25T00:19:27.782832+00:00"
-fetched_at: "2026-07-28T23:13:09.911033+00:00"
+fetched_at: "2026-07-29T15:00:35.759686+00:00"
 content_hash: "sha256:53e316d6800e3b0f30d49cdd69b86a35652b8a37394c1e765a9ca4a013d6ca57"
 ---
 

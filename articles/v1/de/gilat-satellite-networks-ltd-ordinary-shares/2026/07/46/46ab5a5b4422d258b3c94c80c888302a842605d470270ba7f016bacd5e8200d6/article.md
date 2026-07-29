@@ -7,7 +7,7 @@ source_id: "gilat-satellite-networks-ltd-ordinary-shares-rss-076d0814984f"
 canonical_url: "https://www.gilat.com/newsroom/media/pronatel-bridging-the-digital-divide-in-peru/"
 published_at: "2026-07-27T11:26:24+00:00"
 first_seen_at: "2026-07-27T11:57:32.373548+00:00"
-fetched_at: "2026-07-28T23:21:54.528556+00:00"
+fetched_at: "2026-07-29T15:15:40.340812+00:00"
 content_hash: "sha256:b1b90209b97584271fe91b9e7d9839d40a5171d8102d74a5035555f326eb944b"
 ---
 

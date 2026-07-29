@@ -7,7 +7,7 @@ source_id: "anfield-energy-inc-common-shares-rss-a0a17c475371"
 canonical_url: "https://anfieldenergy.com/anfield-energy-files-its-updated-preliminary-economic-assessment-which-reflects-its-robust-hub-and-spoke-uranium-and-vanadium-production-strategy/"
 published_at: "2026-06-18T13:19:58+00:00"
 first_seen_at: "2026-07-24T04:08:28.516317+00:00"
-fetched_at: "2026-07-29T00:46:15.737896+00:00"
+fetched_at: "2026-07-29T14:10:29.586078+00:00"
 content_hash: "sha256:602fca709ff4ad6507e2ee852067a5fa9934d75419017055d9648f44d46388ba"
 ---
 

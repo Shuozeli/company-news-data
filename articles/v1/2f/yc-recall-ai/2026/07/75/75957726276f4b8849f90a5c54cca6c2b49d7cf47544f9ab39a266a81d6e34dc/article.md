@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:22:09.082656+00:00"
 content_hash: "sha256:f59c9afc8248b9197b595a3f1f193ef1cd905b5eab153dbddd0e8abce2ac3065"
 ---
 
-# A deep dive into the latest version of CoreAudioTaps
+# CoreAudioTaps: A deep-dive into the latest version
 
 Core Audio process taps are a type of Core Audio Tap introduced in macOS 14.2 that allow developers to capture audio from applications like Zoom and Google Chrome. This blog is for developers who want to understand how Core Audio process taps work and what it takes to use them[to build a desktop meeting recorder.](https://www.recall.ai/blog/how-to-build-a-desktop-recording-app)
 

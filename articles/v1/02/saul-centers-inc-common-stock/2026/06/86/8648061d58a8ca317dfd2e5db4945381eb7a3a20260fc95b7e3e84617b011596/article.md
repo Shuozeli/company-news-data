@@ -7,7 +7,7 @@ source_id: "saul-centers-inc-common-stock-rss-38c4298075fd"
 canonical_url: "https://ir.saulcenters.com/news-market-data/press-releases/press-release/2026/Saul-Centers-Declares-Quarterly-Dividends-d6aecdb0c/default.aspx"
 published_at: "2026-06-18T20:10:00+00:00"
 first_seen_at: "2026-07-25T22:16:18.446224+00:00"
-fetched_at: "2026-07-28T22:13:40.953434+00:00"
+fetched_at: "2026-07-29T14:21:53.444733+00:00"
 content_hash: "sha256:6285e0a69826919b1350f0e4fdcac17fcf722f2213f5b326f242cb9e42e70411"
 ---
 

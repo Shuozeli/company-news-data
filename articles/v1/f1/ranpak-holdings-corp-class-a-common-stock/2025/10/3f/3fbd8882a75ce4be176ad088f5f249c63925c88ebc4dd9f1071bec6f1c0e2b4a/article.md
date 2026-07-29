@@ -7,7 +7,7 @@ source_id: "ranpak-holdings-corp-class-a-common-stock-rss-8367eef6d63e"
 canonical_url: "https://ir.ranpak.com/news/news-details/2025/Ranpak-Launches-FillPak-Mini-The-Most-Compact-Sustainable-Void-Fill-Solution-for-Space-Constrained-Pack-Stations/default.aspx"
 published_at: "2025-10-15T12:00:00+00:00"
 first_seen_at: "2026-07-25T20:30:13.861563+00:00"
-fetched_at: "2026-07-29T00:21:54.251771+00:00"
+fetched_at: "2026-07-29T17:22:31.413721+00:00"
 content_hash: "sha256:1da02e4fad7abfcc7ec15ce5c45ae8de2d49232150cbf8afd798690abbe61aa7"
 ---
 

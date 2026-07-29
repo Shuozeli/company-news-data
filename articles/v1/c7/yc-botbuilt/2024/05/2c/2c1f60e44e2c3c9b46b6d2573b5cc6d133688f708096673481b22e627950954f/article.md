@@ -7,7 +7,7 @@ source_id: "yc-botbuilt-rss-52b4cca2e71a"
 canonical_url: "https://www.botbuilt.com/transforming-construction-with-robotics-w-brent-wadas-ceo-co-founder-botbuilt/"
 published_at: "2024-05-02T16:49:11+00:00"
 first_seen_at: "2026-07-20T23:23:39.000790+00:00"
-fetched_at: "2026-07-28T22:53:25.256511+00:00"
+fetched_at: "2026-07-29T14:23:25.942941+00:00"
 content_hash: "sha256:2cdb26c7f61e421a9242d2062caa73b1476598298b54e3f6f3dab7e0a6a837ea"
 ---
 

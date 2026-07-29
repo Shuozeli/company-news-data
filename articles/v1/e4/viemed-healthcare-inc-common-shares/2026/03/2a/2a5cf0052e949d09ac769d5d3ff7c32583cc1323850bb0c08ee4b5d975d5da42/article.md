@@ -7,7 +7,7 @@ source_id: "viemed-healthcare-inc-common-shares-rss-df56de915991"
 canonical_url: "https://viemed2018if.q4web.com/news-releases/press-release-details/2026/Viemed-Healthcare-Announces-Record-2025-Financial-Results/default.aspx"
 published_at: "2026-03-04T21:45:00+00:00"
 first_seen_at: "2026-07-26T04:39:30.209372+00:00"
-fetched_at: "2026-07-28T23:33:46.986818+00:00"
+fetched_at: "2026-07-29T15:30:27.131679+00:00"
 content_hash: "sha256:067aab6c62ed3e5be46711d2932b12425db4f13942b799084c3146bef7800114"
 ---
 

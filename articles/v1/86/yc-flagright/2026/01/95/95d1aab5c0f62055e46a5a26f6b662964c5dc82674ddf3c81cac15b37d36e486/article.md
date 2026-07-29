@@ -7,7 +7,7 @@ source_id: "yc-flagright-news-import-ace9cee3e95e"
 canonical_url: "https://www.flagright.com/post/kpay-chooses-flagright-to-protect-payments-with-risk-based-transaction-monitoring"
 published_at: "2026-01-29T00:00:00+00:00"
 first_seen_at: "2026-07-25T05:15:45.844172+00:00"
-fetched_at: "2026-07-27T08:00:34.444438+00:00"
+fetched_at: "2026-07-29T05:13:09.711822+00:00"
 content_hash: "sha256:5d6fc8905e611d4269f4c27069d8ad77a9134d49ebf5158a760f5ad23079120d"
 ---
 

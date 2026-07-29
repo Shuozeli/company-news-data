@@ -7,7 +7,7 @@ source_id: "madison-square-garden-sports-corp-class-a-common-stock-new-rss-ca0bc
 canonical_url: "https://investor.msgsports.com/press-releases/news-details/2026/Knicks-Announce-1-Million-Raised-for-Garden-of-Dreams-Foundation-Through-Fundraiser-for-Two-Celebrity-Row-Seats/default.aspx"
 published_at: "2026-06-08T13:50:00+00:00"
 first_seen_at: "2026-07-25T12:57:48.577427+00:00"
-fetched_at: "2026-07-28T23:22:44.019825+00:00"
+fetched_at: "2026-07-29T15:16:10.207291+00:00"
 content_hash: "sha256:aa4c48a231aadb15982d99aa3268e9425f84a8d2ec9d519486537c8a32310cdd"
 ---
 

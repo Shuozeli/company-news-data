@@ -7,7 +7,7 @@ source_id: "nvent-electric-plc-ordinary-shares-rss-7e545b783f0e"
 canonical_url: "https://blog.nvent.com/employee-story-chris-sr-financial-analyst/"
 published_at: "2025-04-11T03:53:08+00:00"
 first_seen_at: "2026-07-20T23:21:35.308535+00:00"
-fetched_at: "2026-07-28T23:16:06.368241+00:00"
+fetched_at: "2026-07-29T17:00:16.148692+00:00"
 content_hash: "sha256:48570ef53a5e7dd03ce5c5f26f26e20d674e5de8b4f6a392b5f81f420eaebe6b"
 ---
 

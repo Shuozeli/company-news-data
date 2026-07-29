@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2021/SF_Benjamin_Akande_Announcement.pdf"
 published_at: "2021-05-03T21:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:50d1a4bc6aa0b2990581031e81a2f90574c341806f70ca758ec3c40ebc676bb9"
 ---
 

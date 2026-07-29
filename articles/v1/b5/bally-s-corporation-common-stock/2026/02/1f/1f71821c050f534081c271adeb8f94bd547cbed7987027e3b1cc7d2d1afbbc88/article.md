@@ -7,7 +7,7 @@ source_id: "bally-s-corporation-common-stock-rss-b0bb6c8c39e7"
 canonical_url: "https://www.ballys.com/news/news-details/2026/BALLYS-CORPORATION-ENTERS-INTO-PREVIOUSLY-ANNOUNCED-CREDIT-FACILITY-AND-COMPLETES-PREVIOUSLY-ANNOUNCED-TWIN-RIVER-LINCOLN-SALE-LEASEBACK-2026-t2-AXEaxvU/default.aspx"
 published_at: "2026-02-11T20:25:00+00:00"
 first_seen_at: "2026-07-26T10:03:35.974224+00:00"
-fetched_at: "2026-07-28T23:08:22.318942+00:00"
+fetched_at: "2026-07-29T14:50:54.649073+00:00"
 content_hash: "sha256:2a0df800cd6c58de9f0717968feeae43f66e5a8535435ce1a3d56bb8aad6d1a0"
 ---
 

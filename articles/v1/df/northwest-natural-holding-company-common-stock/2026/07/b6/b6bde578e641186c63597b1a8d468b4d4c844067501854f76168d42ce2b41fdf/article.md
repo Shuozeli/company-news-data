@@ -7,7 +7,7 @@ source_id: "northwest-natural-holding-company-common-stock-rss-88ec5b3171bb"
 canonical_url: "https://ir.nwnaturalholdings.com/news/news-details/2026/NW-Natural-Holdings-Schedules-Earnings-Release-and-Conference-Call-for-Wednesday-August-5/default.aspx"
 published_at: "2026-07-10T10:00:00+00:00"
 first_seen_at: "2026-07-25T16:32:51.302534+00:00"
-fetched_at: "2026-07-28T22:53:04.470310+00:00"
+fetched_at: "2026-07-29T14:23:12.622124+00:00"
 content_hash: "sha256:034d41868020b1d51b6373f1e61088d294496b7a95af0b0382c9589ca650e0ca"
 ---
 

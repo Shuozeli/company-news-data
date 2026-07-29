@@ -7,7 +7,7 @@ source_id: "finance-of-america-companies-inc-class-a-common-stock-rss-c40656b88f
 canonical_url: "https://ir.financeofamericacompanies.com/News--Events/news/news-details/2025/Finance-of-America-Reports-Third-Quarter-2025-Results/default.aspx"
 published_at: "2025-11-04T21:05:00+00:00"
 first_seen_at: "2026-07-25T15:56:09.263862+00:00"
-fetched_at: "2026-07-28T23:19:47.344459+00:00"
+fetched_at: "2026-07-29T15:12:52.117442+00:00"
 content_hash: "sha256:3e452ac81096c84d8189495a241efe28ef07ea39c2cac7827d50929bfa37a895"
 ---
 

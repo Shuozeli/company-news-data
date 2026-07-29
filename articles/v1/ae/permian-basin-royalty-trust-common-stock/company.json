@@ -4,9 +4,9 @@
     "key": "permian-basin-royalty-trust-common-stock",
     "name": "Permian Basin Royalty Trust Common Stock"
   },
-  "record_count": 20,
+  "record_count": 21,
   "first_published_at": "2025-05-19T12:00:00+00:00",
-  "last_published_at": "2026-07-21T12:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-05",
@@ -66,11 +66,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 1
+      "record_count": 2
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -78,10 +78,10 @@
       {
         "page": 1,
         "path": "articles/v1/ae/permian-basin-royalty-trust-common-stock/index/pages/000001.json",
-        "record_count": 20,
-        "byte_count": 27456,
-        "sha256": "sha256:e206917348c5f2e4f0ae742d6bfd457d2633e6e7b562d1145e9b5bbbf9d2027c",
-        "newest_at": "2026-07-21T12:00:00+00:00",
+        "record_count": 21,
+        "byte_count": 28826,
+        "sha256": "sha256:7942ce949400e3636ba445de1e93b9527be5c2792bb6d38364f93fa2dd6f0ff8",
+        "newest_at": "2026-07-29T00:00:00+00:00",
         "oldest_at": "2025-05-19T12:00:00+00:00"
       }
     ]

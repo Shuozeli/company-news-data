@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/digi-30th-annual-golf-fundraiser-raises-50k"
 published_at: "2021-09-23T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:8f5350c9eca703494b3b1ca3cd2ba45391935378b02176c0acf934a310e02426"
 ---
 

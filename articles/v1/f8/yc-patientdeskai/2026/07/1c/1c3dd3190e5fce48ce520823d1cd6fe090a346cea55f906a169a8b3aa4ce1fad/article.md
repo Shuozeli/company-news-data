@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/dental-practice-management-software-8-must-know-facts-for-2026"
 published_at: "2026-07-18T10:18:51.662+00:00"
 first_seen_at: "2026-07-22T08:21:05.592812+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:0c48b9cbb576f1062cfe3d86d20896b63d7f0c75ec6d7f8338e91e979a64822d"
 ---
 

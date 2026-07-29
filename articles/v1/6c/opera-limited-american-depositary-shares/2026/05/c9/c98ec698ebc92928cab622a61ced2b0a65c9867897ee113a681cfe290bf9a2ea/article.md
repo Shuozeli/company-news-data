@@ -7,7 +7,7 @@ source_id: "opera-limited-american-depositary-shares-rss-2f5c2c4cdfef"
 canonical_url: "https://blogs.opera.com/news/2026/05/opera-browser-cli/"
 published_at: "2026-05-12T13:26:12+00:00"
 first_seen_at: "2026-07-25T01:12:28.064402+00:00"
-fetched_at: "2026-07-29T00:45:13.328847+00:00"
+fetched_at: "2026-07-29T14:07:49.355145+00:00"
 content_hash: "sha256:08cd8c17b38013995b65aa67f64f6be2c1f4b66758f678f50c58ac04267bc0df"
 ---
 

@@ -7,7 +7,7 @@ source_id: "unitil-corporation-common-stock-rss-b52a37baddee"
 canonical_url: "https://unitil.com/ways-to-save"
 published_at: "2020-12-15T15:07:34+00:00"
 first_seen_at: "2026-07-20T23:22:29.081518+00:00"
-fetched_at: "2026-07-28T23:09:53.129731+00:00"
+fetched_at: "2026-07-29T14:54:27.784164+00:00"
 content_hash: "sha256:0d16dc429113aa6cb32ad27ed46a7431c7aa98e39dc8cd08a8ee6d70285eac44"
 ---
 

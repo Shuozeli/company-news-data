@@ -7,7 +7,7 @@ source_id: "johnson-outdoors-inc-class-a-common-stock-rss-d7a348c41086"
 canonical_url: "https://www.johnsonoutdoors.com/us/Q3-2025Earnings"
 published_at: "2025-07-31T19:50:54+00:00"
 first_seen_at: "2026-07-20T23:22:39.768322+00:00"
-fetched_at: "2026-07-28T23:31:05.038598+00:00"
+fetched_at: "2026-07-29T15:26:46.745165+00:00"
 content_hash: "sha256:9a1804805ea978619ff5640a5d9b6eb3662b982d639aa2864e46a236acea9fe6"
 ---
 

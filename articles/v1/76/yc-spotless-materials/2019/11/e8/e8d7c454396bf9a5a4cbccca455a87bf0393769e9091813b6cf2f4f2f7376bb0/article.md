@@ -7,7 +7,7 @@ source_id: "yc-spotless-materials-atom-27f9e38cc9f8"
 canonical_url: "https://spotlessmaterials.com/blogs/press-releases-1/scientists-develop-slippery-toilet-coating-to-stop-poo-sticking"
 published_at: "2019-11-18T15:30:00+00:00"
 first_seen_at: "2026-07-26T00:03:15.518146+00:00"
-fetched_at: "2026-07-29T00:06:27.340276+00:00"
+fetched_at: "2026-07-29T15:47:08.635528+00:00"
 content_hash: "sha256:cf0476923919fad4750f5b2d46bc140058cf698e13f8030c5c052b4782bb4c75"
 ---
 

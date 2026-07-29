@@ -7,7 +7,7 @@ source_id: "yc-yemaachi-biotechnology-rss-52f865158616"
 canonical_url: "https://www.yemaachi.com/2026/04/18/https-www-forbesafrica-com-entrepreneurs-2026-02-27-biotech-bravado-what-this-entrepreneur-is-pioneering-in-africa/"
 published_at: "2026-04-18T16:13:00+00:00"
 first_seen_at: "2026-07-20T23:21:01.870758+00:00"
-fetched_at: "2026-07-28T22:54:11.978332+00:00"
+fetched_at: "2026-07-29T14:25:07.371111+00:00"
 content_hash: "sha256:790023867307e2ff7d99602799a9ab3e67f48499f946bc49b7c096ebf0b8276e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "peoples-financial-services-corp-common-stock-rss-8700892cbeff"
 canonical_url: "https://ir.psbt.com/investor-resources/press-releases/news-details/2025/PEOPLES-FINANCIAL-SERVICES-CORP--Declares-Fourth-Quarter-2025-Dividend/default.aspx"
 published_at: "2025-10-31T20:05:00+00:00"
 first_seen_at: "2026-07-27T04:18:30.850229+00:00"
-fetched_at: "2026-07-28T23:09:06.573086+00:00"
+fetched_at: "2026-07-29T14:51:36.495673+00:00"
 content_hash: "sha256:b063a4abbe5f161e8ec64c223b3a95e5eaa125c676a5c011248d878817a51acd"
 ---
 

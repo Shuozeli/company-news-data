@@ -7,7 +7,7 @@ source_id: "karooooo-ltd-ordinary-shares-rss-90fe8cb4cf55"
 canonical_url: "https://karooooo.com/press-release/karooooo-delivers-accelerating-subscription-revenue-growth-and-strong-cash-flow-in-fy-2026/"
 published_at: "2026-05-13T20:27:16+00:00"
 first_seen_at: "2026-07-20T23:17:55.333800+00:00"
-fetched_at: "2026-07-29T00:12:19.960855+00:00"
+fetched_at: "2026-07-29T17:13:39.077772+00:00"
 content_hash: "sha256:caad8fa9912686efe72b1b151c929eb9cabe0625a58a2126851a0fe4d51267e6"
 ---
 

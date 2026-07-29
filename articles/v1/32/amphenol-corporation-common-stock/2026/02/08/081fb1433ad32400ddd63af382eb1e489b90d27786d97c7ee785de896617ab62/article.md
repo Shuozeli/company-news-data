@@ -7,7 +7,7 @@ source_id: "amphenol-corporation-common-stock-rss-77a167a514cc"
 canonical_url: "https://investors.amphenol.com/news-and-events/news-details/2026/Amphenol-Announces-Board-Succession-Plan/default.aspx"
 published_at: "2026-02-04T21:44:00+00:00"
 first_seen_at: "2026-07-26T22:30:06.734884+00:00"
-fetched_at: "2026-07-29T00:30:41.375943+00:00"
+fetched_at: "2026-07-29T13:57:34.823689+00:00"
 content_hash: "sha256:2bd9d3989b7f9d0b3070ff3f93bf6e548facbf3642312ea33e7ff015bfa020c3"
 ---
 

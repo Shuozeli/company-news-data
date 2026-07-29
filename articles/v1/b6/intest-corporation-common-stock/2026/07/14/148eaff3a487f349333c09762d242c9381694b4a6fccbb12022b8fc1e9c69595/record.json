@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "148eaff3a487f349333c09762d242c9381694b4a6fccbb12022b8fc1e9c69595",
+  "company": {
+    "key": "intest-corporation-common-stock",
+    "name": "inTest Corporation Common Stock"
+  },
+  "source": {
+    "id": "intest-corporation-common-stock-rss-9a1f0caa9c9f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.intestthermal.com/blog/webinar-the-power-of-ln2-cooling",
+    "canonical": "https://www.intestthermal.com/blog/webinar-the-power-of-ln2-cooling"
+  },
+  "title": "Webinar: The Power of LN2 Cooling",
+  "summary": "Liquid Nitrogen (LN2) Cooling Webinar: Benefits, Applications, Safety, and Implementation Best Practices for Industrial Thermal Management.",
+  "published_at": "2026-07-29T08:48:35+00:00",
+  "first_seen_at": "2026-07-29T09:58:45.181121+00:00",
+  "fetched_at": "2026-07-29T09:58:46.406662+00:00",
+  "last_updated_at": "2026-07-29T17:13:25.120645+00:00",
+  "paths": {
+    "article": "articles/v1/b6/intest-corporation-common-stock/2026/07/14/148eaff3a487f349333c09762d242c9381694b4a6fccbb12022b8fc1e9c69595/article.md",
+    "record": "articles/v1/b6/intest-corporation-common-stock/2026/07/14/148eaff3a487f349333c09762d242c9381694b4a6fccbb12022b8fc1e9c69595/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3914,
+    "sha256": "sha256:595e2591e564c19b1447f821f25030e8dc1d09b44d9ba47fe251bccdee30bdf0",
+    "normalized_content_hash": "sha256:5a70c9bbcfc700822735e6344628d40489ce9f61ad743d036dc507345d87325e"
+  },
+  "provenance": {
+    "source_item_id": "8918e63b-1ef4-49eb-bed8-2a643c2b34d7",
+    "external_id": "https://www.intestthermal.com/blog/webinar-the-power-of-ln2-cooling"
+  }
+}

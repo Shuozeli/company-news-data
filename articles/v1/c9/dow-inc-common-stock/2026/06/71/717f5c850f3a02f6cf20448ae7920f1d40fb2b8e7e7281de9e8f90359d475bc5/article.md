@@ -7,7 +7,7 @@ source_id: "dow-inc-common-stock-rss-a764c88a6383"
 canonical_url: "https://investors.dow.com/en/news/news-details/2026/Dow-and-Univar-Solutions-sign-long-term-agreement-to-distribute-low-carbon-solutions/default.aspx"
 published_at: "2026-06-01T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.067378+00:00"
-fetched_at: "2026-07-29T00:19:09.815212+00:00"
+fetched_at: "2026-07-29T17:19:00.396962+00:00"
 content_hash: "sha256:2649d5ee1ced1dcd4d8ba0ba8aaa402527cde5b03f046bc6fff60643af759994"
 ---
 

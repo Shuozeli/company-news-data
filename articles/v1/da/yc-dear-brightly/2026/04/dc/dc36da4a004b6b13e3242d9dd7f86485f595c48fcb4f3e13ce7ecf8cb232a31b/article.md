@@ -7,7 +7,7 @@ source_id: "yc-dear-brightly-rss-a8492d2f1cb5"
 canonical_url: "https://www.dearbrightly.com/glp-1-photo-1/"
 published_at: "2026-04-09T13:35:39+00:00"
 first_seen_at: "2026-07-25T01:53:27.533985+00:00"
-fetched_at: "2026-07-28T23:10:09.018125+00:00"
+fetched_at: "2026-07-29T14:51:09.961540+00:00"
 content_hash: "sha256:7418f8a5a9b027bc54ba4f8681c822b194d06b7e245a99e38804e715237e1dc1"
 ---
 

@@ -7,7 +7,7 @@ source_id: "genenta-science-s-p-a-american-depositary-shares-rss-3108a93df4a7"
 canonical_url: "https://www.genenta.com/news/general-luca-goretti-appointed-to-the-board-of-atc/"
 published_at: "2026-06-06T14:57:05+00:00"
 first_seen_at: "2026-07-25T06:23:46.712061+00:00"
-fetched_at: "2026-07-29T00:51:39.538791+00:00"
+fetched_at: "2026-07-29T15:16:56.933697+00:00"
 content_hash: "sha256:6fca1ee1febc2e5ff8fd398ae763eb2e279424f06525f7549a2226bd6afe5b57"
 ---
 

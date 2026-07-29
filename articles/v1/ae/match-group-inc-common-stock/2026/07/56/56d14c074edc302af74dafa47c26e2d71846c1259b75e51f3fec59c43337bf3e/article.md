@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/tinder/the-world-cup-is-causing-a-spike-in-tinder-activity/"
 published_at: "2026-07-07T13:36:55+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:77f041e79d837d2c27392c09efa0398deca94c579da159f6124fd80b138aacb1"
 ---
 

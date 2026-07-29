@@ -7,7 +7,7 @@ source_id: "alexandria-real-estate-equities-inc-common-stock-rss-b189b636a044"
 canonical_url: "https://investor.are.com/news-events-and-webcasts/news/news-details/2026/Alexandria-Real-Estate-Equities-Inc--Highlights-Longstanding-Partnership-with-the-National-Medal-of-Honor-Museum-Foundation-as-America-Commemorates-the-250th-Anniversary-of-Its-Founding/default.aspx"
 published_at: "2026-07-01T12:30:00+00:00"
 first_seen_at: "2026-07-25T01:23:45.750268+00:00"
-fetched_at: "2026-07-28T22:59:41.356238+00:00"
+fetched_at: "2026-07-29T14:37:22.252988+00:00"
 content_hash: "sha256:34e82be077d149f1bffb2dadda79e4d4ea04072d6c661bca3e5db00f6ae17a82"
 ---
 

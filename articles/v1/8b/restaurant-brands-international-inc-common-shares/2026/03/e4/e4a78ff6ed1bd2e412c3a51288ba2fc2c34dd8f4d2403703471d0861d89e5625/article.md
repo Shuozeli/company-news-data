@@ -7,7 +7,7 @@ source_id: "restaurant-brands-international-inc-common-shares-rss-1cf267562846"
 canonical_url: "https://www.rbi.com/English/news/news-details/2026/RBI-Recommends-Shareholders-Reject-NYSBs-Mini-tender-Offer/default.aspx"
 published_at: "2026-03-06T21:15:00+00:00"
 first_seen_at: "2026-07-25T21:14:19.567844+00:00"
-fetched_at: "2026-07-28T23:40:55.173627+00:00"
+fetched_at: "2026-07-29T15:34:12.729659+00:00"
 content_hash: "sha256:08e430b2723307a1beb6b711cd37784bc741874b1d9f2b13b17c5da35ed2dbd4"
 ---
 

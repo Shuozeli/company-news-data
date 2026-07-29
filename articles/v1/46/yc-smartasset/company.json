@@ -4,9 +4,9 @@
     "key": "yc-smartasset",
     "name": "SmartAsset"
   },
-  "record_count": 58,
+  "record_count": 60,
   "first_published_at": "2026-01-30T00:00:00+00:00",
-  "last_published_at": "2026-07-28T12:00:00+00:00",
+  "last_published_at": "2026-07-29T12:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-01",
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 44
+      "record_count": 46
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -47,18 +47,18 @@
         "page": 1,
         "path": "articles/v1/46/yc-smartasset/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 53665,
-        "sha256": "sha256:9e1fb36df8a727399631629c4ed5769885b8ac444cd84686d24c4b414f909fb3",
-        "newest_at": "2026-07-28T12:00:00+00:00",
-        "oldest_at": "2026-03-26T00:00:00+00:00"
+        "byte_count": 53813,
+        "sha256": "sha256:3357358f7f9e9f2345aad346f2670b2bf3e9e9c1d75d6479766c25c5fba846c2",
+        "newest_at": "2026-07-29T12:00:00+00:00",
+        "oldest_at": "2026-04-15T00:00:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/46/yc-smartasset/index/pages/000002.json",
-        "record_count": 8,
-        "byte_count": 8376,
-        "sha256": "sha256:d7a2a8dd630e3d904a11ea604215fbcf41031b272db04c1388d8dbd12ad6615e",
-        "newest_at": "2026-03-18T00:00:00+00:00",
+        "record_count": 10,
+        "byte_count": 10400,
+        "sha256": "sha256:1363b7ece13bd9d7a32c357a17b5fb8ee131458b89e2ec0628dba36b5884b403",
+        "newest_at": "2026-04-07T00:00:00+00:00",
         "oldest_at": "2026-01-30T00:00:00+00:00"
       }
     ]

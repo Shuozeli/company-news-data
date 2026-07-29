@@ -7,7 +7,7 @@ source_id: "yc-coderhouse-news-import-7a925063f664"
 canonical_url: "https://www.coderhouse.com/coderlibrary/tsmc-ingresos-ia-66-porciento-hardware-empleos"
 published_at: "2026-07-27T00:00:00+00:00"
 first_seen_at: "2026-07-28T07:56:38.769046+00:00"
-fetched_at: "2026-07-28T07:56:35.409468+00:00"
+fetched_at: "2026-07-29T09:13:10.215478+00:00"
 content_hash: "sha256:fb404cfc2f95d2c79396c4a8ae2d340b8d44792b13d3eab9def96b06d68bc78b"
 ---
 

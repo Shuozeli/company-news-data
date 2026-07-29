@@ -7,7 +7,7 @@ source_id: "yc-nano-technologies-rss-e57af4e48835"
 canonical_url: "http://vuiapp.vn/video-creator-intern-brand-host-talent"
 published_at: "2026-06-16T05:05:53+00:00"
 first_seen_at: "2026-07-25T01:53:29.155507+00:00"
-fetched_at: "2026-07-28T23:11:40.065777+00:00"
+fetched_at: "2026-07-29T14:56:52.420060+00:00"
 content_hash: "sha256:19264565affc449e3dffc79b8fd03b3d01b328bf11bac9d6b95865f3dcd9f77e"
 ---
 

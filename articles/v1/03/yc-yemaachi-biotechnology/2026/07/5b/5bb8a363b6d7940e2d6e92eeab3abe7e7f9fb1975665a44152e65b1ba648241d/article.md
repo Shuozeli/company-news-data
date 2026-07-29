@@ -7,7 +7,7 @@ source_id: "yc-yemaachi-biotechnology-rss-52f865158616"
 canonical_url: "https://www.yemaachi.com/2026/07/01/ffpe-tissue-a-goldmine-for-cancer-genomics-research/"
 published_at: "2026-07-01T09:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:01.870758+00:00"
-fetched_at: "2026-07-28T22:54:11.978332+00:00"
+fetched_at: "2026-07-29T14:25:07.371111+00:00"
 content_hash: "sha256:2e76b1f5b636e088ef2ca1b4cfe39c2de253a68dc07c4bb83a4db3b418db99e5"
 ---
 

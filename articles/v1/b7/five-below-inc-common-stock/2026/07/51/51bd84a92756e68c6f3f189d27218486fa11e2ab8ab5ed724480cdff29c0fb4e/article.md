@@ -7,7 +7,7 @@ source_id: "five-below-inc-common-stock-rss-0a1340f7a94f"
 canonical_url: "http://investor.fivebelow.com/news/press-release-details/2026/Five-Below-Celebrates-2000-Store-With-a-Mega-Grand-Opening-Party/default.aspx"
 published_at: "2026-07-09T12:00:00+00:00"
 first_seen_at: "2026-07-25T05:05:30.342133+00:00"
-fetched_at: "2026-07-28T23:26:45.721855+00:00"
+fetched_at: "2026-07-29T15:22:30.250269+00:00"
 content_hash: "sha256:60172652a399f36c2c49080cdaa5dd8cffb8608fb5e8776dd40b2b411f410e48"
 ---
 

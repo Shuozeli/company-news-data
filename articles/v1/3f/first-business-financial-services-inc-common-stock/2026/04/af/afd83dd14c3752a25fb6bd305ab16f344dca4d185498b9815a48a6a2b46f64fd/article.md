@@ -7,7 +7,7 @@ source_id: "first-business-financial-services-inc-common-stock-rss-e6a9ea1577e1"
 canonical_url: "https://ir.firstbusiness.bank/news-presentations/news-details/2026/First-Business-Bank-Announces-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-04-23T20:05:00+00:00"
 first_seen_at: "2026-07-25T04:46:11.112331+00:00"
-fetched_at: "2026-07-28T23:43:03.427891+00:00"
+fetched_at: "2026-07-29T15:36:25.142244+00:00"
 content_hash: "sha256:5a9fd331e459bd7f0b5fdbc6bfb6f8d3ef83add5ca4975006e77ea6a17fd96c7"
 ---
 

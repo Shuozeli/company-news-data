@@ -7,7 +7,7 @@ source_id: "yc-cointracker-news-import-33dd9daf8236"
 canonical_url: "https://www.cointracker.io/blog/what-is-happening-with-ftx"
 published_at: "2025-03-04T00:00:00+00:00"
 first_seen_at: "2026-07-24T23:51:14.288459+00:00"
-fetched_at: "2026-07-28T15:54:24.765715+00:00"
+fetched_at: "2026-07-29T05:01:29.560280+00:00"
 content_hash: "sha256:530439b957ced360aaa364289c31fb4f33b03a4c59ebd7de53cc20aa42eef662"
 ---
 

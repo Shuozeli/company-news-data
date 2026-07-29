@@ -7,7 +7,7 @@ source_id: "homestolife-ltd-ordinary-shares-atom-fa770f0ed26f"
 canonical_url: "https://homestolife.com/blogs/news/2025-furniture-trends-that-we-think-are-nice"
 published_at: "2025-01-02T01:00:05+00:00"
 first_seen_at: "2026-07-23T22:07:10.185526+00:00"
-fetched_at: "2026-07-28T23:33:05.798378+00:00"
+fetched_at: "2026-07-29T15:29:15.193789+00:00"
 content_hash: "sha256:fd3730aa56ca0f544895800f596d41deec4a26b48fe9149e2f6dd397cb3d1505"
 ---
 

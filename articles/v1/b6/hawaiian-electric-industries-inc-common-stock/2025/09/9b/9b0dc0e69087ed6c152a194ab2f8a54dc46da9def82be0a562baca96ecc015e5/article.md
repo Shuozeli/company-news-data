@@ -7,7 +7,7 @@ source_id: "hawaiian-electric-industries-inc-common-stock-rss-20259465158f"
 canonical_url: "https://www.hei.com/investor-relations/news-and-events/news/news-details/2025/HEI-Announces-Pricing-of-Private-Offering-of-Hawaiian-Electric-Senior-Notes/default.aspx"
 published_at: "2025-09-11T20:55:00+00:00"
 first_seen_at: "2026-07-25T07:43:38.567861+00:00"
-fetched_at: "2026-07-28T23:18:57.783665+00:00"
+fetched_at: "2026-07-29T15:08:39.829064+00:00"
 content_hash: "sha256:c799da9df88ac922c01183356ae1e90a091233d2bb17d25be29d658d64c64790"
 ---
 

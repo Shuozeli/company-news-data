@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:40:00.658555+00:00"
 content_hash: "sha256:4b6bb524ffa52081ffb1a168d6cb5cee894bd7a0cd0d04cca19f193b21bc2ff6"
 ---
 
-# Three Indulgent Flavors, One Big Launch: Pillsbury Introduces BIG COOKIES Cookie Dough | General Mills
+# Three Indulgent Flavors, One Big Launch: Pillsbury Introduces BIG COOKIES Cookie Dough - General Mills
 
 #### Loading component...
 

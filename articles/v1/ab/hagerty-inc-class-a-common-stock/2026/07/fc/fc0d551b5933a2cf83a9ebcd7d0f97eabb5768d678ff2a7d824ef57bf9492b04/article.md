@@ -7,16 +7,16 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/automotive-history/cab-forward-the-eagle-vision-and-the-story-of-chryslers-lh-cars/"
 published_at: "2026-07-28T19:00:00+00:00"
 first_seen_at: "2026-07-28T20:07:46.991490+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
-content_hash: "sha256:2a9daebd73c1475c62ca1bc0404340ae1410171a7105a9c7e3b04402d7da1c60"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
+content_hash: "sha256:faa12ecc9d8499a5be7062002523cb8dc4098af9b9bdaa79241e3eb881435419"
 ---
 
-# Cab Forward: The Eagle Vision and the Story of Chrysler’s LH Cars
+# The Eagle Vision and the Story of Chrysler’s LH Cars
 
 As soon as I saw John McIntosh’s mint-condition 1993 Eagle Vision roll into my local cars and coffee, I felt acutely aware of how long it’d been since I’d seen one so nice. Like many old sedans and family cars, Chrysler’s original LH platform trio—the Vision, Chrysler Concorde, and Dodge Intrepid—are rare now, but seeing a really nice one in 2026 offers a taste of how exciting they were when they were new in 1992.
 
 
-\[ *Editor’s note: After you’ve learned about the the story of the LH cars, check out Benjamin Hunting’s story on the[Lamborghini Protofino concept](https://www.hagerty.com/media/car-profiles/the-lamborghini-portofino-concept-paved-the-way-for-chryslers-cab-forward-aspirations/) for a deep dive on the roots of the LH’s design.* \]
+\[ *Editor’s note: After you’ve learned about the story of the LH cars, check out Benjamin Hunting’s story on the[Lamborghini Protofino concept](https://www.hagerty.com/media/car-profiles/the-lamborghini-portofino-concept-paved-the-way-for-chryslers-cab-forward-aspirations/) for a deep dive on the roots of the LH’s design.* \]
 
 
 The LH’s sleek cab-forward shape and ultra-low beltline made Ford’s redesigned 1992 Taurus, then the best-selling car in America, look positively conservative. The roomy cabin, filled with then-modern-looking plastic, looked just as radical and offered roominess previously reserved for full-size cars. Chrysler spent $1.5B creating them, a pricey gamble considering its floundering fortunes at the time, but it paid off.
@@ -226,4 +226,4 @@ Alex Kwanten
 Alex Kwanten
 
 
-The post[Cab Forward: The Eagle Vision and the Story of Chrysler’s LH Cars](https://www.hagerty.com/media/automotive-history/cab-forward-the-eagle-vision-and-the-story-of-chryslers-lh-cars/) appeared first on[Hagerty Media](https://www.hagerty.com/media) .
+The post[The Eagle Vision and the Story of Chrysler’s LH Cars](https://www.hagerty.com/media/automotive-history/cab-forward-the-eagle-vision-and-the-story-of-chryslers-lh-cars/) appeared first on[Hagerty Media](https://www.hagerty.com/media) .

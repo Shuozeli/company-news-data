@@ -7,7 +7,7 @@ source_id: "keurig-dr-pepper-inc-common-stock-rss-28bc20b6d247"
 canonical_url: "https://www.keurigdrpepper.com/beyond-the-fountain-the-new-playbook-for-beverage-menu-growth/"
 published_at: "2026-07-13T21:43:08+00:00"
 first_seen_at: "2026-07-25T10:42:45.972346+00:00"
-fetched_at: "2026-07-29T00:42:53.622202+00:00"
+fetched_at: "2026-07-29T14:07:18.973286+00:00"
 content_hash: "sha256:5d35ae5705b901484536518b9f2e1de4244c5a85f95c9fbea7f36763f8051353"
 ---
 

@@ -7,7 +7,7 @@ source_id: "doximity-inc-class-a-common-stock-rss-8bd2cd30f7c1"
 canonical_url: "https://press.doximity.com/articles/new-doximity-study-shows-modest-physician-pay-growth-amid-deeper-workforce-strain-reimbursement-pressures"
 published_at: "2025-07-31T05:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:24.794804+00:00"
-fetched_at: "2026-07-28T23:22:12.562614+00:00"
+fetched_at: "2026-07-29T15:16:14.147574+00:00"
 content_hash: "sha256:6aed8e6803caa6a090a6ea28f814b4d87a6f8d16c3adf82e6f197faffeea3dba"
 ---
 

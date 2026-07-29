@@ -5,13 +5,13 @@ company_key: "yc-avocado"
 company: "Avocado"
 source_id: "yc-avocado-news-import-38bb8a83867d"
 canonical_url: "https://www.avocadopos.com/blog/20251029-ai-restaurant-survey"
-published_at: null
+published_at: "2025-10-29T00:00:00+00:00"
 first_seen_at: "2026-07-24T18:13:15.302974+00:00"
 fetched_at: "2026-07-28T21:37:36.757263+00:00"
 content_hash: "sha256:ab3aeed1370905bdef6db9b9d0492725d8eb67655d220d21549f47e5973c1351"
 ---
 
-# How AI and Economic Pressures Are Changing Dining — and What It Means for Restaurants Using Avocado - The Avocado - Avocado POS
+# How AI and Economic Pressures Are Changing Dining — and What It Means for Restaurants Using Avocado
 
 A new[national survey](https://reputation.com/press-room/new-reputation-survey-reveals-how-ai-and-economic-pressures-are-rewriting-the-rules-of-dining-out-in-america/) from[Reputation.com](http://reputation.com/) reveals just how much dining in America is being reshaped by artificial intelligence and shifting economics. Guests are choosing where to eat in new ways, spending differently, and expecting experiences that feel both efficient and personal. For restaurants, that means every interaction—from discovery to checkout—now carries higher stakes.
 

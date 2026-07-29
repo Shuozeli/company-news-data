@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/video/a-new-golden-age-corvette-zr1-vs-mustang-gtd-vs-911-gt3-rs/"
 published_at: "2026-07-15T13:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:3cb74832ca9ff63924a86a643758939de07d5b98475fb942451cb815c37c3d16"
 ---
 

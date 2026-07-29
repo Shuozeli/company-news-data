@@ -7,7 +7,7 @@ source_id: "wingstop-inc-common-stock-rss-7f135f859589"
 canonical_url: "https://ir.wingstop.com/wingstop-celebrates-4-20-with-the-return-of-the-fan-favorite-wingstop-hot-box/"
 published_at: "2026-04-15T11:30:28+00:00"
 first_seen_at: "2026-07-20T23:17:13.311245+00:00"
-fetched_at: "2026-07-28T23:58:14.897862+00:00"
+fetched_at: "2026-07-29T15:45:09.724440+00:00"
 content_hash: "sha256:e85542f55e3dc2f4a35b571354c4fd4b7b6e8c75a3bb55ab8faeecd625e3c60f"
 ---
 

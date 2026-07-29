@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-earns-top-esg-rating-in-2021-gresb-assessment"
 published_at: "2021-10-18T20:36:18+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:ea001db7fb64452c878d7657eb5bb9631c7df560c10ca2a3fbe274edeaada448"
 ---
 

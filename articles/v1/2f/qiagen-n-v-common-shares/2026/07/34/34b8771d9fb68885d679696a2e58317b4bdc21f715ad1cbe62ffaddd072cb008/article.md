@@ -7,7 +7,7 @@ source_id: "qiagen-n-v-common-shares-rss-98e7f8d13456"
 canonical_url: "https://corporate.qiagen.com/English/newsroom/press-releases/press-release-details/2026/QIAGEN-Highlights-Molecular-Testing-Solutions-Supporting-Response-to-Growing-U-S--Cyclospora-Outbreak/default.aspx"
 published_at: "2026-07-15T20:05:00+00:00"
 first_seen_at: "2026-07-28T04:42:25.610146+00:00"
-fetched_at: "2026-07-28T23:50:39.335368+00:00"
+fetched_at: "2026-07-29T15:43:35.357325+00:00"
 content_hash: "sha256:2c349fa794a3215c6cd364b68e5aa77604f7752d32e842c696059c3476c841ec"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yum-brands-inc-rss-553029e24616"
 canonical_url: "https://investors.yum.com/news-events/financial-releases/news-details/2026/Yum-Brands-Announces-Q2-2026-Earnings-and-Conference-Call-Details/default.aspx"
 published_at: "2026-07-17T01:00:00+00:00"
 first_seen_at: "2026-07-26T06:18:27.554263+00:00"
-fetched_at: "2026-07-28T23:20:58.245599+00:00"
+fetched_at: "2026-07-29T15:12:58.864992+00:00"
 content_hash: "sha256:6e3ec8e10f6c31066c485d21c0b2c862ead793c23674810c2f2f2510153b6080"
 ---
 

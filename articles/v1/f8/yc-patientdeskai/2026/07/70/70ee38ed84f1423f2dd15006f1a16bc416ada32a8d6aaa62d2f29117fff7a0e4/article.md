@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/reduce-dental-overhead-7-proven-strategies-for-2026"
 published_at: "2026-07-11T10:14:57.021+00:00"
 first_seen_at: "2026-07-22T08:21:05.592812+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:a02fffc1d8f26f067efd315e5c87437ca36b631c735878c27e27b5c498abe576"
 ---
 

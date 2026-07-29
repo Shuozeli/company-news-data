@@ -7,7 +7,7 @@ source_id: "yc-mintplex-labs-atom-5e945f201243"
 canonical_url: "https://github.com/Mintplex-Labs/anything-llm/releases/tag/v1.14.2"
 published_at: "2026-06-22T20:59:30+00:00"
 first_seen_at: "2026-07-27T03:50:18.579971+00:00"
-fetched_at: "2026-07-29T00:43:16.684357+00:00"
+fetched_at: "2026-07-29T14:07:08.249238+00:00"
 content_hash: "sha256:a0a2eeaa3a98cb8306e2670cf150e7dbdd3fe17a4a09e580d5f0caa1d1ecd9a2"
 ---
 

@@ -7,7 +7,7 @@ source_id: "westamerica-bancorporation-common-stock-rss-1d3c07f51250"
 canonical_url: "https://www.westamerica.com/westamerica-bancorporation-announces-stock-repurchase-plan-3/"
 published_at: "2025-12-18T19:10:54+00:00"
 first_seen_at: "2026-07-26T05:24:33.749505+00:00"
-fetched_at: "2026-07-29T00:19:14.939411+00:00"
+fetched_at: "2026-07-29T17:20:23.807224+00:00"
 content_hash: "sha256:86b10dbe81e7bc04457241b8d03b5d1b021406b60e597365174b25dc40233493"
 ---
 

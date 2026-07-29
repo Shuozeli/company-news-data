@@ -7,7 +7,7 @@ source_id: "structure-therapeutics-inc-american-depositary-shares-rss-620e789aa5
 canonical_url: "https://ir.structuretx.com/news-releases/news-release-details/structure-therapeutics-announces-pricing-upsized-650-million"
 published_at: "2025-12-10T04:15:36+00:00"
 first_seen_at: "2026-07-26T00:43:22.020414+00:00"
-fetched_at: "2026-07-28T22:55:51.098826+00:00"
+fetched_at: "2026-07-29T14:25:36.653890+00:00"
 content_hash: "sha256:5dcc867b037904b591cdfee41e91d32670003a23d6526bcdeb3b0f44c1788a55"
 ---
 

@@ -7,7 +7,7 @@ source_id: "upstart-holdings-inc-common-stock-rss-a598e0871937"
 canonical_url: "https://medium.com/upstart-tech/building-a-mobile-app-zero-to-one-79b862f6d847"
 published_at: "2023-11-16T16:03:13+00:00"
 first_seen_at: "2026-07-20T23:17:16.152971+00:00"
-fetched_at: "2026-07-29T00:02:45.883485+00:00"
+fetched_at: "2026-07-29T17:09:50.409738+00:00"
 content_hash: "sha256:95905155c78807ebbdb5f4c48f94c745efbfb46d193bc90694b9582e755374af"
 ---
 

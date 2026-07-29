@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/how-to-make-the-case-for-a-mobile-app-at-your-company"
 published_at: "2026-06-25T20:30:31+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:557c9115393d0f8ef3a7ab2fd9d408f4c1b79bcec271277b44bdf04c1819396c"
 ---
 

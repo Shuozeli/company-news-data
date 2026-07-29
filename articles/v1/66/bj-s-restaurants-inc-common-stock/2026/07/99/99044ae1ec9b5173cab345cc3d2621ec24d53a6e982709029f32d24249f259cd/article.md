@@ -7,7 +7,7 @@ source_id: "bj-s-restaurants-inc-common-stock-rss-81c03f93ef6a"
 canonical_url: "https://investors.bjsrestaurants.com/news/news-details/2026/BJs-Restaurants-Inc--Announces-Date-for-Second-Quarter-2026-Earnings-Release-and-Conference-Call/default.aspx"
 published_at: "2026-07-16T20:30:00+00:00"
 first_seen_at: "2026-07-26T23:46:20.075892+00:00"
-fetched_at: "2026-07-28T23:17:55.060226+00:00"
+fetched_at: "2026-07-29T15:08:41.744212+00:00"
 content_hash: "sha256:e7d7bb75713d7c2ef4c6a630aaf554cb47f8cd16cce35c96ae803f88ed407c20"
 ---
 

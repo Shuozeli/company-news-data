@@ -4,9 +4,9 @@
     "key": "cbre-group-inc-common-stock-class-a",
     "name": "CBRE Group Inc Common Stock Class A"
   },
-  "record_count": 25,
+  "record_count": 26,
   "first_published_at": "2023-10-26T00:00:00+00:00",
-  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "last_published_at": "2026-07-29T10:55:00+00:00",
   "partitions": [
     {
       "partition": "2023-10",
@@ -70,11 +70,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 4
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -82,10 +82,10 @@
       {
         "page": 1,
         "path": "articles/v1/cb/cbre-group-inc-common-stock-class-a/index/pages/000001.json",
-        "record_count": 25,
-        "byte_count": 29381,
-        "sha256": "sha256:e09b833fe17abef847d1e30a205f201f5cf9e0aee6704956e20e645b32e4f77c",
-        "newest_at": "2026-07-28T21:21:00.620727+00:00",
+        "record_count": 26,
+        "byte_count": 30533,
+        "sha256": "sha256:3aa8c6e1afef1bae626247d236ad112a0662343d989e4e831dad0494ee77e5f0",
+        "newest_at": "2026-07-29T10:55:00+00:00",
         "oldest_at": "2023-10-26T00:00:00+00:00"
       }
     ]

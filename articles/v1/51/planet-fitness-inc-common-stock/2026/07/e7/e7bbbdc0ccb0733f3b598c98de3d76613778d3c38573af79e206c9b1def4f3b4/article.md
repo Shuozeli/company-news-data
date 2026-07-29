@@ -7,7 +7,7 @@ source_id: "planet-fitness-inc-common-stock-rss-514f026fe840"
 canonical_url: "http://investor.planetfitness.com/investors/press-releases/press-release-details/2026/AMP-UP-YOUR-WORKOUT-PLAYLIST-JOIN-PLANET-FITNESS-AND-GET-UP-TO-THREE-FREE-MONTHS-OF-APPLE-MUSIC/default.aspx"
 published_at: "2026-07-20T12:30:00+00:00"
 first_seen_at: "2026-07-25T19:11:41.755428+00:00"
-fetched_at: "2026-07-29T00:14:33.992862+00:00"
+fetched_at: "2026-07-29T17:18:36.902175+00:00"
 content_hash: "sha256:b173ea21483f2565128e75269d8e950c5775a6ff1cbf0ff580f7b6f26b789d26"
 ---
 

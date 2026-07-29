@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/reducing-network-security-risks-remote-workforce"
 published_at: "2021-12-30T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:7831944dbbd46d9d3f1e815f18661049411c5e6130089c95ec2fcd682f42fa97"
 ---
 

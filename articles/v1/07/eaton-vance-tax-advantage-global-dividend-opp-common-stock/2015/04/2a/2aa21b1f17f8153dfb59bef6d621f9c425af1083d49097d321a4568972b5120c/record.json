@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2aa21b1f17f8153dfb59bef6d621f9c425af1083d49097d321a4568972b5120c",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/unit-ltd-partnership-interests-alliancebernstein-holding-lp-nyse-ab-declared-a-dividend-of-$0.8200-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/unit-ltd-partnership-interests-alliancebernstein-holding-lp-nyse-ab-declared-a-dividend-of-$0.8200-per-share/"
+  },
+  "title": "AB Dividend Announcement $0.8200/Share 7/28/2026",
+  "summary": "NYSE:AB Unit Ltd Partnership Interests/AllianceBernstein Holding LP Dividend Announcement $0.8200 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.637643+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/2a/2aa21b1f17f8153dfb59bef6d621f9c425af1083d49097d321a4568972b5120c/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/2a/2aa21b1f17f8153dfb59bef6d621f9c425af1083d49097d321a4568972b5120c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2362,
+    "sha256": "sha256:f695f217c2544187f68ea0d4c1fdd0d5caee4d5ed427a1e00eb92f8415fd4e27",
+    "normalized_content_hash": "sha256:12f548ccaae0116ce66c6e717d9ea5554a962922277651ee63c2afa0f2a31bc3"
+  },
+  "provenance": {
+    "source_item_id": "75eb661d-4785-4d75-b238-b27b4aee9f04",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/unit-ltd-partnership-interests-alliancebernstein-holding-lp-nyse-ab-declared-a-dividend-of-$0.8200-per-share/"
+  }
+}

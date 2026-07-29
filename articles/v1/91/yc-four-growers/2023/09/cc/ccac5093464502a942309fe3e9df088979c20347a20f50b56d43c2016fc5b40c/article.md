@@ -7,7 +7,7 @@ source_id: "yc-four-growers-rss-8be8350904ae"
 canonical_url: "https://fourgrowers.com/about/media/agrobotics-special-four-growers-tomato-picking-robots/"
 published_at: "2023-09-27T17:09:36+00:00"
 first_seen_at: "2026-07-25T05:36:06.101502+00:00"
-fetched_at: "2026-07-28T23:19:57.925010+00:00"
+fetched_at: "2026-07-29T15:15:36.699332+00:00"
 content_hash: "sha256:a4c166c21d235e5e753c87e40a4cb8ee7a3493b9337e15bfc66377d8f0982f55"
 ---
 

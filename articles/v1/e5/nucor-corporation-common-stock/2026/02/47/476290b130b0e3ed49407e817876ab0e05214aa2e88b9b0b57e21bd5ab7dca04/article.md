@@ -7,7 +7,7 @@ source_id: "nucor-corporation-common-stock-rss-589082181220"
 canonical_url: "https://investors.nucor.com/news/news-details/2026/Nucor-Announces-Promotion-of-Jack-Sullivan-to-Chief-Financial-Officer-Treasurer-and-Executive-Vice-President/default.aspx"
 published_at: "2026-02-20T13:30:00+00:00"
 first_seen_at: "2026-07-25T16:40:58.481085+00:00"
-fetched_at: "2026-07-28T23:10:44.863092+00:00"
+fetched_at: "2026-07-29T14:57:24.115236+00:00"
 content_hash: "sha256:06969f1e89022302c71c0a6f0cb619f80bfd252175d4dc5cf27c1b78a9b2a3c5"
 ---
 

@@ -7,7 +7,7 @@ source_id: "nacco-industries-inc-common-stock-rss-d6d77e82461a"
 canonical_url: "https://ir.nacco.com/2026-05-14-NACCO-INDUSTRIES-INCREASES-DIVIDEND-BY-4"
 published_at: "2026-05-14T10:30:00+00:00"
 first_seen_at: "2026-07-20T23:19:43.910063+00:00"
-fetched_at: "2026-07-29T00:39:00.509449+00:00"
+fetched_at: "2026-07-29T14:03:29.796441+00:00"
 content_hash: "sha256:ac13e0ba84db191fcaac14309cb66356c407df75c7723ea3c8b0e40072437f14"
 ---
 

@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2020/STIFEL%20FINANCIAL%20AND%20NASDAQ%20SIGN%20NEW%20MARKET%20TECHNOLOGY%20AGREEMENT.pdf"
 published_at: "2020-05-20T13:01:50+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:0e4f64b3fc2f776524db3f93a6d8aa770dbf3475fbd48ec1115563a637452345"
 ---
 

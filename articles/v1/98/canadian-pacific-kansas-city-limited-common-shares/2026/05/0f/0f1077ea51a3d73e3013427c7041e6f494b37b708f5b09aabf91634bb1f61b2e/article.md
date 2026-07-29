@@ -7,7 +7,7 @@ source_id: "canadian-pacific-kansas-city-limited-common-shares-rss-ebe5547364b1"
 canonical_url: "https://investor.cpkcr.com/news/press-release-details/2026/CPKC-receives-72-hour-strike-notice-from-IBEW/default.aspx"
 published_at: "2026-05-28T01:46:00+00:00"
 first_seen_at: "2026-07-25T01:41:40.149453+00:00"
-fetched_at: "2026-07-28T23:13:30.634453+00:00"
+fetched_at: "2026-07-29T14:59:54.815800+00:00"
 content_hash: "sha256:7567d7dbad08465661ad3cf161dc977671f528cecb6f0a699277c15306953ae0"
 ---
 

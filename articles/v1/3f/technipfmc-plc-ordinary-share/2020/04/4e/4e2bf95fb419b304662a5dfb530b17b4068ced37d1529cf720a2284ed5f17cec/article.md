@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2020/04/covid-19-how-we-are-helping-the-community-and-serving-our-clients/"
 published_at: "2020-04-02T01:43:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-29T00:17:43.124361+00:00"
+fetched_at: "2026-07-29T17:18:57.942752+00:00"
 content_hash: "sha256:61a3f60c0c828274065495ebc99dd41bf6a0c2b12cf570aa6c14b64799db1ce6"
 ---
 

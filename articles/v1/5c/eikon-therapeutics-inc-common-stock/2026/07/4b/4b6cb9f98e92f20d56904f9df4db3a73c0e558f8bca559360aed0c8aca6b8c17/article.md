@@ -7,7 +7,7 @@ source_id: "eikon-therapeutics-inc-common-stock-rss-03daa62211e1"
 canonical_url: "https://www.eikontx.com/news/eikon-company-presentation/"
 published_at: "2026-07-28T17:22:48+00:00"
 first_seen_at: "2026-07-28T17:38:17.930451+00:00"
-fetched_at: "2026-07-28T23:09:42.084592+00:00"
+fetched_at: "2026-07-29T14:53:19.811099+00:00"
 content_hash: "sha256:a0b49e6107945d04bbe5978e753183c52786180ec6b7f0a274ece959cc91c193"
 ---
 

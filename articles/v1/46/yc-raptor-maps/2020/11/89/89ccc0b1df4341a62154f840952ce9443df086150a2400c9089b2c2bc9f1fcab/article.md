@@ -7,7 +7,7 @@ source_id: "yc-raptor-maps-news-import-b5ff0369b973"
 canonical_url: "https://raptormaps.com/blog-posts/press-release-raptor-maps-raises-series-a"
 published_at: "2020-11-30T00:00:00+00:00"
 first_seen_at: "2026-07-25T20:33:59.779959+00:00"
-fetched_at: "2026-07-28T13:16:38.520230+00:00"
+fetched_at: "2026-07-29T17:22:01.176239+00:00"
 content_hash: "sha256:a4ffb45194b3fc83ff462b574a7f6f1f0ada8462ebaecc8bde5304b8d4d5af1f"
 ---
 

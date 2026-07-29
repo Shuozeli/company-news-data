@@ -7,7 +7,7 @@ source_id: "the-beachbody-company-inc-class-a-common-stock-rss-35a92663784d"
 canonical_url: "https://thebeachbodycompany.com/news/news-details/2026/The-Beachbody-Company-Inc--Announces-Second-Quarter-2026-Earnings-Release-Date-Conference-Call-and-Webcast/default.aspx"
 published_at: "2026-07-28T11:30:00+00:00"
 first_seen_at: "2026-07-28T11:32:12.166918+00:00"
-fetched_at: "2026-07-28T23:40:31.042221+00:00"
+fetched_at: "2026-07-29T15:33:58.611585+00:00"
 content_hash: "sha256:7dab7c246f16403f0bda5d715262b9717ff06a8e39f12f3edf3ced7ea93e9d59"
 ---
 

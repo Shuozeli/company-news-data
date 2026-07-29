@@ -7,7 +7,7 @@ source_id: "yc-persephone-biosciences-rss-3e1d37532ea3"
 canonical_url: "https://www.persephonebiosciences.com/persephone-biosciences-appoints-daniel-bradbury-as-chair-of-the-board-of-directors/"
 published_at: "2023-10-23T16:35:49+00:00"
 first_seen_at: "2026-07-20T23:24:06.192520+00:00"
-fetched_at: "2026-07-28T23:25:55.741277+00:00"
+fetched_at: "2026-07-29T15:22:18.759194+00:00"
 content_hash: "sha256:cf3e15720bb843ff56f3829e2c609654ad62cb60767885eb55e2ea283b46523c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "centerra-gold-inc-common-shares-rss-8452c1927e78"
 canonical_url: "https://www.centerragold.com/investor-news/news-details/2026/Centerra-Gold-Announces-Executive-Changes/default.aspx"
 published_at: "2026-03-30T21:00:00+00:00"
 first_seen_at: "2026-07-26T11:19:30.868056+00:00"
-fetched_at: "2026-07-28T23:34:45.586781+00:00"
+fetched_at: "2026-07-29T15:30:29.571884+00:00"
 content_hash: "sha256:65673ab0c57d5c2179a4b7872c892d0bfdfe4817c9c28978cf6fff3560b97e2e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "nvent-electric-plc-ordinary-shares-rss-7e545b783f0e"
 canonical_url: "https://blog.nvent.com/employee-story-liz-customer-service-representative/"
 published_at: "2025-11-11T16:15:36+00:00"
 first_seen_at: "2026-07-20T23:21:35.308535+00:00"
-fetched_at: "2026-07-28T23:16:06.368241+00:00"
+fetched_at: "2026-07-29T17:00:16.148692+00:00"
 content_hash: "sha256:d1d08e4571f9968bcf759d9432abd88fe4485e0783430106cb879e344feb40f0"
 ---
 

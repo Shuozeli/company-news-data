@@ -7,7 +7,7 @@ source_id: "westlake-corporation-common-stock-rss-403a0cef3f5a"
 canonical_url: "http://westlake.com/news/westlake-chemical-partners-lp-announces-first-quarter-2026-results"
 published_at: "2026-05-05T11:04:49+00:00"
 first_seen_at: "2026-07-26T05:25:06.510406+00:00"
-fetched_at: "2026-07-28T21:41:26.625510+00:00"
+fetched_at: "2026-07-29T15:27:08.183301+00:00"
 content_hash: "sha256:7154c80755c690880d42a1e4c99cd52f3c4135bca687203d8d7e7a14baf36977"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yatra-online-inc-ordinary-shares-rss-e8f187711a66"
 canonical_url: "https://investors.yatra.com/press-releases/press-release-details/2026/Yatra-Online-Inc--to-Host-Third-Quarter-2026-Financial-Results-Call-on-February-12-2026/default.aspx"
 published_at: "2026-02-05T16:37:00+00:00"
 first_seen_at: "2026-07-26T06:10:56.529491+00:00"
-fetched_at: "2026-07-28T23:14:55.559505+00:00"
+fetched_at: "2026-07-29T15:01:43.150800+00:00"
 content_hash: "sha256:eafbc4905f010c8d9e934d351f46d2e71bebb861be8c59af91ac1680b3a0af00"
 ---
 

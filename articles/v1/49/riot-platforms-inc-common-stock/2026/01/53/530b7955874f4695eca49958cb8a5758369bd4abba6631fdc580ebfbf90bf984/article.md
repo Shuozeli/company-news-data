@@ -7,7 +7,7 @@ source_id: "riot-platforms-inc-common-stock-rss-31fdadf17010"
 canonical_url: "https://www.riotplatforms.com/riot-announces-december-2025-production-and-operations-updates/"
 published_at: "2026-01-06T14:00:00+00:00"
 first_seen_at: "2026-07-24T13:19:46.152955+00:00"
-fetched_at: "2026-07-28T23:47:45.295382+00:00"
+fetched_at: "2026-07-29T15:40:56.903727+00:00"
 content_hash: "sha256:24b52c2699852c2bc0d56f91d6d45a5bc9cc92291e5bf62496c7511a976c1061"
 ---
 

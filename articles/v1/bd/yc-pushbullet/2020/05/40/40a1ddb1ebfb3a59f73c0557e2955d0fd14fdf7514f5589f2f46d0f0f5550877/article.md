@@ -7,7 +7,7 @@ source_id: "yc-pushbullet-rss-4ba42a362971"
 canonical_url: "https://blog.pushbullet.com/2020/05/15/our-extension-is-safe"
 published_at: "2020-05-15T05:00:00+00:00"
 first_seen_at: "2026-07-25T20:08:48.518680+00:00"
-fetched_at: "2026-07-28T23:36:19.489802+00:00"
+fetched_at: "2026-07-29T15:32:18.727731+00:00"
 content_hash: "sha256:8c7ba311f29747abd8cab7b10b689707cd0d62b3507823da55b9a968d9e677f2"
 ---
 

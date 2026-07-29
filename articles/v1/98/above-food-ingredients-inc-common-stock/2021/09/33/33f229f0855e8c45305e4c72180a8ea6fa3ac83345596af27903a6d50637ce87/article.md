@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/growing-plant-based-foods-company-above-food-which-began-as-an-ingredient-supplier-of-specialized-plant-proteins-is-quickly-gaining-ground-in-its-b2c-business-snapping-up-several/"
 published_at: "2021-09-23T16:29:51+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-29T00:43:09.170627+00:00"
+fetched_at: "2026-07-29T14:06:11.402678+00:00"
 content_hash: "sha256:a55ed5de200b565af3cfcb3742bac51166d2277e4457eee02dbc6e149f0db951"
 ---
 

@@ -7,7 +7,7 @@ source_id: "core-laboratories-inc-common-stock-rss-2026e1fd099e"
 canonical_url: "https://www.corelab.com/2026/core-laboratories-q1-2026-earnings-release/"
 published_at: "2026-04-29T21:15:16+00:00"
 first_seen_at: "2026-07-20T23:16:54.952630+00:00"
-fetched_at: "2026-07-28T23:31:36.722480+00:00"
+fetched_at: "2026-07-29T15:27:15.167105+00:00"
 content_hash: "sha256:c8ca79de8c8a84994e90641fd294366fbcb9fafd2ca6fa1cc19e13f85e3876a3"
 ---
 

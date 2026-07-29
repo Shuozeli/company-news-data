@@ -7,7 +7,7 @@ source_id: "yc-healthsherpa-rss-e0cdb0d4f5b5"
 canonical_url: "https://blog.healthsherpa.com/tech/healthsherpa-engineering-data-science/"
 published_at: "2023-07-11T14:31:12+00:00"
 first_seen_at: "2026-07-25T07:50:27.390496+00:00"
-fetched_at: "2026-07-28T23:37:23.259159+00:00"
+fetched_at: "2026-07-29T15:31:50.572550+00:00"
 content_hash: "sha256:c61744f896d148829f4e680c94fcb6319f311391f097fbaa2d00799fa3b8a0ce"
 ---
 

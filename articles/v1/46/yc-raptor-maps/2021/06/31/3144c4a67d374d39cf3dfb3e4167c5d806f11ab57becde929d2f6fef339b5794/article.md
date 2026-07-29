@@ -7,7 +7,7 @@ source_id: "yc-raptor-maps-news-import-b5ff0369b973"
 canonical_url: "https://raptormaps.com/blog-posts/raptor-maps-announces-madison-energy-investments-as-saas-launch-partner-to-maximize-asset-performance"
 published_at: "2021-06-22T00:00:00+00:00"
 first_seen_at: "2026-07-25T20:33:59.779959+00:00"
-fetched_at: "2026-07-28T13:16:38.520230+00:00"
+fetched_at: "2026-07-29T17:22:01.176239+00:00"
 content_hash: "sha256:38289804854b4f1bb0a8418ea7d70ef56fa3b88ce188e13f2803db8abcc3f135"
 ---
 

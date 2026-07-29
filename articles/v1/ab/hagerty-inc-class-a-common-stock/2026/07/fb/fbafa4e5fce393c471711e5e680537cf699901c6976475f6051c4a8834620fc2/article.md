@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/great-reads/sun-snakes-cattle-and-ford-trucks-have-been-part-of-king-ranch-for-decades/"
 published_at: "2026-07-22T15:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:75aeb9b401a9b3957a335fe8a9c64ad9f9eda77e12881cf8153d6c9787dd198b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/when-onboarding-logic-fractures"
 published_at: "2026-04-06T16:05:02+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T22:57:17.651461+00:00"
+fetched_at: "2026-07-29T14:31:05.567422+00:00"
 content_hash: "sha256:fa9a8c4c5940a8f0e447012e71be792eaa5df347982874528451318683dd667b"
 ---
 

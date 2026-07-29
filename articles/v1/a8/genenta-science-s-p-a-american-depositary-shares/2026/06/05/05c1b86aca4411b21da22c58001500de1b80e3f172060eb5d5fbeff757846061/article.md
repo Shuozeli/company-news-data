@@ -7,7 +7,7 @@ source_id: "genenta-science-s-p-a-american-depositary-shares-rss-3108a93df4a7"
 canonical_url: "https://www.genenta.com/news/a-new-chapter-for-space-genenta-and-sophia-high-tech-sign-historic-partnership-agreement/"
 published_at: "2026-06-25T10:24:00+00:00"
 first_seen_at: "2026-07-25T06:23:46.712061+00:00"
-fetched_at: "2026-07-29T00:51:39.538791+00:00"
+fetched_at: "2026-07-29T15:16:56.933697+00:00"
 content_hash: "sha256:983fd973d2af11fca798996c041cf4b2e4d0c2a1c5c14d0c13d9b90752eada1e"
 ---
 

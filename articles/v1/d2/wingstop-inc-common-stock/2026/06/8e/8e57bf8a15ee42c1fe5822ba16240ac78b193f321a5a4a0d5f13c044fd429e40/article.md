@@ -7,7 +7,7 @@ source_id: "wingstop-inc-common-stock-rss-7f135f859589"
 canonical_url: "https://ir.wingstop.com/wingstops-house-of-flavour-hits-in-toronto-this-june/"
 published_at: "2026-06-08T17:13:19+00:00"
 first_seen_at: "2026-07-20T23:17:13.311245+00:00"
-fetched_at: "2026-07-28T23:58:14.897862+00:00"
+fetched_at: "2026-07-29T15:45:09.724440+00:00"
 content_hash: "sha256:8608caff4e713ff427263f7486d6f549cb86740fba788cfa439b2d52facd7adf"
 ---
 

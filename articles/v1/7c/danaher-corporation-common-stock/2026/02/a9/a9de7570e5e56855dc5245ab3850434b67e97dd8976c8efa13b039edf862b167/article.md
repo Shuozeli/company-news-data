@@ -7,7 +7,7 @@ source_id: "danaher-corporation-common-stock-rss-baeab7bd386b"
 canonical_url: "https://investors.danaher.com/2026-02-24-Danaher-Announces-Quarterly-Dividend"
 published_at: "2026-02-24T21:30:00+00:00"
 first_seen_at: "2026-07-20T03:32:45.140623+00:00"
-fetched_at: "2026-07-28T23:34:39.620039+00:00"
+fetched_at: "2026-07-29T15:30:14.901077+00:00"
 content_hash: "sha256:32d0120cecffca14034b9a990a6b41229d41212f3472786ea9e21cd83cfbda1d"
 ---
 

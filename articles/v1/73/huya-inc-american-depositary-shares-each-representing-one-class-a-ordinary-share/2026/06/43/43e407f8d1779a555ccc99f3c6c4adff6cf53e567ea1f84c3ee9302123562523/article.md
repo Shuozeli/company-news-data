@@ -7,7 +7,7 @@ source_id: "huya-inc-american-depositary-shares-each-representing-one-class-a-or
 canonical_url: "https://ir.huya.com/2026-06-26-Huya-to-Exclusively-Publish-The-Legend-of-Swordman-Reunion-in-Chinese-Mainland"
 published_at: "2026-06-26T09:00:00+00:00"
 first_seen_at: "2026-07-25T08:43:33.883223+00:00"
-fetched_at: "2026-07-28T22:13:17.806530+00:00"
+fetched_at: "2026-07-29T14:21:38.306252+00:00"
 content_hash: "sha256:24369b1aa698cecb6759def595c34ae2c977ae1625df4c454541e430c77c2249"
 ---
 

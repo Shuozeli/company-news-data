@@ -7,7 +7,7 @@ source_id: "caleres-inc-common-stock-rss-0c861d034a87"
 canonical_url: "https://investor.caleres.com/news/news-details/2026/Caleres-Reports-Fourth-Quarter--Fiscal-2025-Results/default.aspx"
 published_at: "2026-03-19T10:45:00+00:00"
 first_seen_at: "2026-07-26T11:02:23.481129+00:00"
-fetched_at: "2026-07-28T23:04:00.387019+00:00"
+fetched_at: "2026-07-29T14:41:31.835814+00:00"
 content_hash: "sha256:df85f121002bcebb3e0e3f874a1344fea339af681c6d4cadd76782dcacb116c4"
 ---
 

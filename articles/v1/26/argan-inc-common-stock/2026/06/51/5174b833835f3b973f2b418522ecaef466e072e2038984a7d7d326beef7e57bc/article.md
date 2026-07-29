@@ -7,7 +7,7 @@ source_id: "argan-inc-common-stock-rss-04f1fea248dc"
 canonical_url: "https://arganinc.com/news/argan-inc-declares-regular-quarterly-cash-dividend-of-0-50-per-common-share-2/"
 published_at: "2026-06-10T22:44:37+00:00"
 first_seen_at: "2026-07-20T03:31:21.385236+00:00"
-fetched_at: "2026-07-28T23:05:16.878471+00:00"
+fetched_at: "2026-07-29T14:43:13.006777+00:00"
 content_hash: "sha256:e8fcaf420d7ea1cc9fe034aa4dc81f5507e213a7b7154d2207487f6201e0233e"
 ---
 

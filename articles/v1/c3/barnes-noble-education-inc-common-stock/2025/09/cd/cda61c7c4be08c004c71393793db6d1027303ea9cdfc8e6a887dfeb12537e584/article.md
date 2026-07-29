@@ -7,7 +7,7 @@ source_id: "barnes-noble-education-inc-common-stock-rss-3ab7bdbbaa52"
 canonical_url: "https://investor.bned.com/investor-relations/news-and-events/news/press-release-details/2025/Barnes--Noble-College-Launches-Campus-to-Career-a-NEW-Offering-to-Help-Students-Build-Real-World-Skills-to-Enter-the-Workforce/default.aspx"
 published_at: "2025-09-30T12:31:00+00:00"
 first_seen_at: "2026-07-25T01:06:49.233407+00:00"
-fetched_at: "2026-07-29T00:25:54.760239+00:00"
+fetched_at: "2026-07-29T17:23:19.334788+00:00"
 content_hash: "sha256:b9701e65e3bf6664c58c0be70063b154887e9bd4d355ba807734e760588b4171"
 ---
 

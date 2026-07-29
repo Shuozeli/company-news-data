@@ -7,7 +7,7 @@ source_id: "yc-outset-news-import-a92d7cb56115"
 canonical_url: "https://outset.ai/resources/blog/the-rise-of-ai-moderated-intervies-in-asia"
 published_at: "2026-05-05T00:00:00+00:00"
 first_seen_at: "2026-07-23T19:30:08.076259+00:00"
-fetched_at: "2026-07-28T14:23:22.591545+00:00"
+fetched_at: "2026-07-29T03:25:31.060831+00:00"
 content_hash: "sha256:ee5f47c94420714a66885ca71eb46be16906f901026774ea4bd5cdf7137904d4"
 ---
 

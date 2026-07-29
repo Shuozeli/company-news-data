@@ -7,7 +7,7 @@ source_id: "yc-backerkit-rss-16060e51d2f4"
 canonical_url: "https://www.backerkit.com/blog/backerkit-bookfunnel-integration"
 published_at: "2026-04-28T14:00:47+00:00"
 first_seen_at: "2026-07-27T07:56:11.356641+00:00"
-fetched_at: "2026-07-28T23:57:52.029477+00:00"
+fetched_at: "2026-07-29T15:46:45.334420+00:00"
 content_hash: "sha256:0f8cd539920e706a7269c3bd4865115aa45ccc77dd24a049c0a7aa01d1140e72"
 ---
 

@@ -7,7 +7,7 @@ source_id: "keurig-dr-pepper-inc-common-stock-rss-28bc20b6d247"
 canonical_url: "https://www.keurigdrpepper.com/keurig-dr-pepper-highlights-performance-and-purpose-driven-outcomes-in-2025-impact-report/"
 published_at: "2026-06-10T13:57:31+00:00"
 first_seen_at: "2026-07-25T10:42:45.972346+00:00"
-fetched_at: "2026-07-29T00:42:53.622202+00:00"
+fetched_at: "2026-07-29T14:07:18.973286+00:00"
 content_hash: "sha256:3177ef35c1fc98e113c64ad48185f2fe1b2f2273eae3496aded2ba4f531bb2c1"
 ---
 

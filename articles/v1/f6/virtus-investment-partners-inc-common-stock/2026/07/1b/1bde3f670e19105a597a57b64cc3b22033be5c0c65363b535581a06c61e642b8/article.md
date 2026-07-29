@@ -7,7 +7,7 @@ source_id: "virtus-investment-partners-inc-common-stock-rss-5bda534892ed"
 canonical_url: "https://ir.virtus.com/news/news-details/2026/Virtus-Stone-Harbor-Emerging-Markets-Income-Fund-Announces-Portfolio-Manager-Update/default.aspx"
 published_at: "2026-07-02T12:45:00+00:00"
 first_seen_at: "2026-07-26T04:49:22.967145+00:00"
-fetched_at: "2026-07-28T23:53:13.093755+00:00"
+fetched_at: "2026-07-29T17:12:17.337280+00:00"
 content_hash: "sha256:302e87bdbe6801627f8724ffa0e963224bc8102e87eb98e2b23b88bddea132b2"
 ---
 

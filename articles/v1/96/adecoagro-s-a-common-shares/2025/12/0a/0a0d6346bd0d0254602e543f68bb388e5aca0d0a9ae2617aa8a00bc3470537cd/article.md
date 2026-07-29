@@ -7,7 +7,7 @@ source_id: "adecoagro-s-a-common-shares-rss-f13b21bc4c5a"
 canonical_url: "https://ir.adecoagro.com/adecoagro-announces-submission-of-binding-offer-to-acquire-the-remaining-50-of-profertil-s-a/"
 published_at: "2025-12-03T13:24:42+00:00"
 first_seen_at: "2026-07-20T23:17:29.619489+00:00"
-fetched_at: "2026-07-28T23:53:16.307397+00:00"
+fetched_at: "2026-07-29T15:44:41.362097+00:00"
 content_hash: "sha256:5f3f3d32aff9580b93f1c5725c8f61567e3bd9baa1a65a56f7ff1a9df7527653"
 ---
 

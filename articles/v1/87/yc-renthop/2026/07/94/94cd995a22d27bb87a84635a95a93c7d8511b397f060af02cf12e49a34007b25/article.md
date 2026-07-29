@@ -7,7 +7,7 @@ source_id: "yc-renthop-rss-2954ff02c95e"
 canonical_url: "https://www.renthop.com/blog/best-neighborhoods-along-the-j-train-stops/"
 published_at: "2026-07-21T19:00:19+00:00"
 first_seen_at: "2026-07-25T21:04:29.929203+00:00"
-fetched_at: "2026-07-28T23:28:46.448791+00:00"
+fetched_at: "2026-07-29T15:24:47.318598+00:00"
 content_hash: "sha256:bf8a05123002d96bc99bbc4156686443d4c99e078e1ac58a5c10ab9d867e2b8f"
 ---
 

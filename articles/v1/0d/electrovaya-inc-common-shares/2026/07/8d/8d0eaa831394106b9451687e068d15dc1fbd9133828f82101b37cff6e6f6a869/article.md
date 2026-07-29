@@ -7,7 +7,7 @@ source_id: "electrovaya-inc-common-shares-rss-9d2ff1dd1d30"
 canonical_url: "https://electrovaya.com/elva-stock-rocketed-40-today-whats-the-pact-with-amazon/"
 published_at: "2026-07-15T16:00:00+00:00"
 first_seen_at: "2026-07-28T16:26:05.710388+00:00"
-fetched_at: "2026-07-28T23:29:25.489839+00:00"
+fetched_at: "2026-07-29T15:27:58.241805+00:00"
 content_hash: "sha256:9ddb82c30237cda4f82d422337c0d56abf99d2140416b0fa18e049349942bcfc"
 ---
 

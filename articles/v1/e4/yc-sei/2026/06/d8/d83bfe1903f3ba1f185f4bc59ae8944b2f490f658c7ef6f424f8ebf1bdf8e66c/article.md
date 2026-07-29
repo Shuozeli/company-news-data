@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/sei-vs-friday-harbor-ai-pre-underwriting"
 published_at: "2026-06-06T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:a9bf36f1a5ef49ffecc503608d516b45e1e57ed297273c2a4590507f81202f5c"
 ---
 

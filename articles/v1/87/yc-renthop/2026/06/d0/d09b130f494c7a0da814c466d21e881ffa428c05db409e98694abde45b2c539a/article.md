@@ -7,7 +7,7 @@ source_id: "yc-renthop-rss-2954ff02c95e"
 canonical_url: "https://www.renthop.com/blog/queens-listings-in-june-of-2026-under-2900/"
 published_at: "2026-06-09T19:00:49+00:00"
 first_seen_at: "2026-07-25T21:04:29.929203+00:00"
-fetched_at: "2026-07-28T23:28:46.448791+00:00"
+fetched_at: "2026-07-29T15:24:47.318598+00:00"
 content_hash: "sha256:af58db268b99f27931c1a24979bf55d87e0e3d0af6de1fdb7104a2406c424b33"
 ---
 

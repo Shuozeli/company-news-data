@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:40:00.658555+00:00"
 content_hash: "sha256:9f912d1aec17d02387575b7f8a3009b31e575458c313f34f4a6fbebe4c579c8b"
 ---
 
-# Ultimate Guide to Forming a Florida LLC
+# Form your Florida LLC today
 
 ### Step 1: Choose your unique business name
 

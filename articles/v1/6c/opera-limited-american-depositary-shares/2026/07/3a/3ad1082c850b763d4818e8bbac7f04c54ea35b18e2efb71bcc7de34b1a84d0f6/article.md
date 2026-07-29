@@ -7,7 +7,7 @@ source_id: "opera-limited-american-depositary-shares-rss-2f5c2c4cdfef"
 canonical_url: "https://blogs.opera.com/news/2026/07/opera-introduces-paste-protect-to-keep-you-safe-from-clipboard-attacks/"
 published_at: "2026-07-02T08:01:00+00:00"
 first_seen_at: "2026-07-25T01:12:28.064402+00:00"
-fetched_at: "2026-07-29T00:45:13.328847+00:00"
+fetched_at: "2026-07-29T14:07:49.355145+00:00"
 content_hash: "sha256:bb4d72df786d603484021859b7ad3c63e26d9a1b1b8c33c050fe9f8d2b29e1ce"
 ---
 

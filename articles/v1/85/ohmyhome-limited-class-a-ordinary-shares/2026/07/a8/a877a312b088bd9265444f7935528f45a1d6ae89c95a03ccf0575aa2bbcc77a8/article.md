@@ -11,7 +11,7 @@ fetched_at: "2026-07-29T00:48:09.025196+00:00"
 content_hash: "sha256:6194a363561756a91fd5a2b5e00cd7134f84530072b96b490701f16eeccbe283"
 ---
 
-# 15-Month HDB Wait-Out Period Removed: What Private Property Owners Need to Know
+# 15-Month HDB Wait-Out Period Removed: What You Need to Know
 
 Last Updated on July 28, 2026 byYolly Del Prado
 

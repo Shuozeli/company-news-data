@@ -7,7 +7,7 @@ source_id: "flex-lng-ltd-ordinary-shares-rss-7ff9ab5b26ed"
 canonical_url: "https://www.flexlng.com/flex-lng-ltd-filing-of-2025-annual-report-on-form-20-f/"
 published_at: "2026-02-27T12:57:07+00:00"
 first_seen_at: "2026-07-25T01:07:03.816170+00:00"
-fetched_at: "2026-07-29T00:34:05.068746+00:00"
+fetched_at: "2026-07-29T13:59:45.749416+00:00"
 content_hash: "sha256:2f2b0ebfa9962ec9ca2fab4330440a0a9632bfba1023634fe4f67930347106ea"
 ---
 

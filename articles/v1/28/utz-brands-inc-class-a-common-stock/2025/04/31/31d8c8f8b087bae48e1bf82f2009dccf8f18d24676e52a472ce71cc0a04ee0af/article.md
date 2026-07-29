@@ -7,7 +7,7 @@ source_id: "utz-brands-inc-class-a-common-stock-atom-1dc00602c727"
 canonical_url: "https://www.utzsnacks.com/blogs/news/utz-launches-limited-edition-lemonade-potato-chips"
 published_at: "2025-04-25T16:30:00+00:00"
 first_seen_at: "2026-07-24T05:39:22.118071+00:00"
-fetched_at: "2026-07-28T23:27:00.567069+00:00"
+fetched_at: "2026-07-29T15:23:05.061283+00:00"
 content_hash: "sha256:58007c8669fc1d6c4819b1e99262226f6f4a7746e25c4c6280c51be59574f437"
 ---
 

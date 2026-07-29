@@ -7,7 +7,7 @@ source_id: "flowserve-corporation-common-stock-rss-41e9b9c7e0cd"
 canonical_url: "https://www.flowserve.com/products/products-catalog/valves/severe-service-control-valves/mogas-dv-4/"
 published_at: "2025-09-26T20:17:16+00:00"
 first_seen_at: "2026-07-20T23:21:25.534488+00:00"
-fetched_at: "2026-07-28T23:08:16.934407+00:00"
+fetched_at: "2026-07-29T14:51:29.153176+00:00"
 content_hash: "sha256:15663396b80076fd0410bde0856eee129340a14a64eec26503d8047cd96a7101"
 ---
 

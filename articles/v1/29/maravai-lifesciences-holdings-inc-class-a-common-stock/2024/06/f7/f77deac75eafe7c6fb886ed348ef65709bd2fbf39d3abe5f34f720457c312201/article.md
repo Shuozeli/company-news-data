@@ -7,7 +7,7 @@ source_id: "maravai-lifesciences-holdings-inc-class-a-common-stock-rss-a091ffc9d
 canonical_url: "https://www.maravai.com/insights/applied-dna-and-alphazyme-conclude-lineatm-rnap-manufacturing-scale-up-project-deliver-substantial-improvement-in-lineatm-ivt-platform-economics/"
 published_at: "2024-06-20T21:53:25+00:00"
 first_seen_at: "2026-07-25T01:12:23.653842+00:00"
-fetched_at: "2026-07-29T00:43:13.628606+00:00"
+fetched_at: "2026-07-29T14:07:49.728792+00:00"
 content_hash: "sha256:7d5207b305bd184d06e4b24fefa1751849838f66a06391b3fa91b464372a56d6"
 ---
 

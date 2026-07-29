@@ -7,7 +7,7 @@ source_id: "yc-flagright-news-import-ace9cee3e95e"
 canonical_url: "https://www.flagright.com/post/dots-selects-flagright-to-power-real-time-transaction-monitoring-for-global-payouts"
 published_at: "2026-01-29T00:00:00+00:00"
 first_seen_at: "2026-07-25T05:15:45.844172+00:00"
-fetched_at: "2026-07-27T08:00:34.444438+00:00"
+fetched_at: "2026-07-29T05:13:09.711822+00:00"
 content_hash: "sha256:e89228a2b75e86c614720c159961ce527b3931bb7fb4469be5a6f8cbfd7a5f58"
 ---
 

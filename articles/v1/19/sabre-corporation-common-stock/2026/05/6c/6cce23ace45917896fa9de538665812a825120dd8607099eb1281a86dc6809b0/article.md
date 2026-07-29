@@ -7,7 +7,7 @@ source_id: "sabre-corporation-common-stock-rss-201bc777e9dc"
 canonical_url: "https://investors.sabre.com/news-releases/news-release-details/sabre-reports-first-quarter-2026-results"
 published_at: "2026-05-07T11:58:00+00:00"
 first_seen_at: "2026-07-25T21:58:17.461641+00:00"
-fetched_at: "2026-07-29T00:33:55.413649+00:00"
+fetched_at: "2026-07-29T14:00:32.349869+00:00"
 content_hash: "sha256:c5c087514541621f2545e3807672818efd46f8bdb91ea532eb3231d5da4ac173"
 ---
 

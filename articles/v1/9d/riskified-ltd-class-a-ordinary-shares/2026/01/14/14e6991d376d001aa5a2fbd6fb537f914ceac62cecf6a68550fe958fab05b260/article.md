@@ -7,7 +7,7 @@ source_id: "riskified-ltd-class-a-ordinary-shares-rss-dd7d0cc56e2d"
 canonical_url: "https://medium.com/riskified-technology/unblocking-the-node-js-event-loop-practical-troubleshooting-of-a-real-world-bottleneck-27aa5a3d2022"
 published_at: "2026-01-11T19:38:33+00:00"
 first_seen_at: "2026-07-20T23:18:31.853064+00:00"
-fetched_at: "2026-07-28T23:10:47.152354+00:00"
+fetched_at: "2026-07-29T14:57:01.923368+00:00"
 content_hash: "sha256:64379362a7b6a892b56f6a9a68417cb2a3189955ce6c4f47835025e5cf8689e1"
 ---
 

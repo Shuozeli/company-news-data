@@ -7,7 +7,7 @@ source_id: "baxter-international-inc-common-stock-rss-c57752190897"
 canonical_url: "https://www.baxter.com/node/2226"
 published_at: "2026-01-07T18:02:15+00:00"
 first_seen_at: "2026-07-24T18:32:46.238760+00:00"
-fetched_at: "2026-07-28T23:10:37.143955+00:00"
+fetched_at: "2026-07-29T14:57:33.155862+00:00"
 content_hash: "sha256:0dfbb30348f9790e4ae5f90e3c46a4872d7b3ceb2d94a57102c24602611d5d17"
 ---
 

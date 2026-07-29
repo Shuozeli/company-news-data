@@ -7,7 +7,7 @@ source_id: "yc-darmiyan-rss-75d14ada5252"
 canonical_url: "https://darmiyan.com/2019/10/04/pharma-giant-eisai-led-a-6m-round-in-darmiyan/"
 published_at: "2019-10-04T14:23:50+00:00"
 first_seen_at: "2026-07-25T00:19:27.782832+00:00"
-fetched_at: "2026-07-28T23:13:09.911033+00:00"
+fetched_at: "2026-07-29T15:00:35.759686+00:00"
 content_hash: "sha256:4603c8a111ddbfbfd70d9d7cc8f73ad2614978a390dc4f86ed695466e785f308"
 ---
 

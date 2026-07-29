@@ -7,7 +7,7 @@ source_id: "rectitude-holdings-ltd-ordinary-shares-rss-0d297b397433"
 canonical_url: "https://ir.rectitude.com.sg/rectitude-holdings-ltd-announces-strong-fiscal-2026-first-half-financial-results/"
 published_at: "2026-03-20T13:36:23+00:00"
 first_seen_at: "2026-07-25T20:39:27.562148+00:00"
-fetched_at: "2026-07-29T00:49:35.606057+00:00"
+fetched_at: "2026-07-29T14:09:49.320394+00:00"
 content_hash: "sha256:f5fe40d9ea1ad986a4ab14643a96775acd1d6f0302640954893c09dd0ddd2b55"
 ---
 

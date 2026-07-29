@@ -4,9 +4,9 @@
     "key": "option-care-health-inc-common-stock",
     "name": "Option Care Health Inc. Common Stock"
   },
-  "record_count": 19,
+  "record_count": 20,
   "first_published_at": "2020-11-11T00:00:00+00:00",
-  "last_published_at": "2026-07-09T20:05:00+00:00",
+  "last_published_at": "2026-07-29T11:00:00+00:00",
   "partitions": [
     {
       "partition": "2020-11",
@@ -58,11 +58,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 1
+      "record_count": 2
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -70,10 +70,10 @@
       {
         "page": 1,
         "path": "articles/v1/e3/option-care-health-inc-common-stock/index/pages/000001.json",
-        "record_count": 19,
-        "byte_count": 24175,
-        "sha256": "sha256:14b112c0bd216845ba5393766bc6e7dd23b9062f6ef6ae95ad0b6d9477c1776d",
-        "newest_at": "2026-07-09T20:05:00+00:00",
+        "record_count": 20,
+        "byte_count": 25569,
+        "sha256": "sha256:96329c1a18581edb0ee1e2f9aac3f7728044b80b987be696c5b510aa59ecc46f",
+        "newest_at": "2026-07-29T11:00:00+00:00",
         "oldest_at": "2020-11-11T00:00:00+00:00"
       }
     ]

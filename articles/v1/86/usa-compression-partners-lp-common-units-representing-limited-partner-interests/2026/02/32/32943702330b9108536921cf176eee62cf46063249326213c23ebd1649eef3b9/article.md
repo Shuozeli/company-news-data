@@ -7,7 +7,7 @@ source_id: "usa-compression-partners-lp-common-units-representing-limited-partne
 canonical_url: "https://investors.usacompression.com/news-releases/news-details/2026/USA-Compression-Partners-LP-Announces-2025-K-1-Tax-Package-Availability/default.aspx"
 published_at: "2026-02-20T21:30:00+00:00"
 first_seen_at: "2026-07-26T03:59:07.039718+00:00"
-fetched_at: "2026-07-28T23:04:02.645660+00:00"
+fetched_at: "2026-07-29T14:42:55.077608+00:00"
 content_hash: "sha256:fcc1ab7e3d3ac3536997cd8ca16fa05244c8daecc1f1e032d3c6c3b824569f65"
 ---
 

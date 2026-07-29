@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61401286908aeafe293ebfe66c2c4db368e3e85726f643255a317c4a5d62f119",
+  "company": {
+    "key": "wec-energy-group-inc-common-stock",
+    "name": "WEC Energy Group Inc. Common Stock"
+  },
+  "source": {
+    "id": "wec-energy-group-inc-common-stock-rss-7fc8ceb8880c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investor.wecenergygroup.com/investors/news-releases/press-release-details/2026/WEC-Energy-Group-reports-second-quarter-results/default.aspx",
+    "canonical": "https://investor.wecenergygroup.com/investors/news-releases/press-release-details/2026/WEC-Energy-Group-reports-second-quarter-results/default.aspx"
+  },
+  "title": "WEC Energy Group reports second-quarter results",
+  "summary": "",
+  "published_at": "2026-07-29T11:00:00+00:00",
+  "first_seen_at": "2026-07-29T11:40:33.993384+00:00",
+  "fetched_at": "2026-07-29T13:56:46.509776+00:00",
+  "last_updated_at": "2026-07-29T13:56:46.588743+00:00",
+  "paths": {
+    "article": "articles/v1/66/wec-energy-group-inc-common-stock/2026/07/61/61401286908aeafe293ebfe66c2c4db368e3e85726f643255a317c4a5d62f119/article.md",
+    "record": "articles/v1/66/wec-energy-group-inc-common-stock/2026/07/61/61401286908aeafe293ebfe66c2c4db368e3e85726f643255a317c4a5d62f119/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 716,
+    "sha256": "sha256:c327ceb3f950879ca9e93f3de5465049d83f805666847bc839b28b882d2c4dad",
+    "normalized_content_hash": "sha256:1a6fdf98c774d2717c8c2d2dd33ed1f720f77765247b547cbf84c4c2da69d78f"
+  },
+  "provenance": {
+    "source_item_id": "7a54371f-3aac-43f5-9f28-5f60d92936b3",
+    "external_id": "8fecb753-e849-4082-9712-1616bb5f5ea8"
+  }
+}

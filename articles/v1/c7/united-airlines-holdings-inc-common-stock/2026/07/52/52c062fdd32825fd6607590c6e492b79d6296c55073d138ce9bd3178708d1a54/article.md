@@ -7,7 +7,7 @@ source_id: "united-airlines-holdings-inc-common-stock-rss-09ebc8191126"
 canonical_url: "https://united.mediaroom.com/2026-07-15-United-Posts-Q2-Results-Above-Wall-Street-Expectations-and-Raises-Full-Year-2026-Adjusted-EPS-Guidance1-Despite-a-Nearly-6-Billion-Increase-In-Anticipated-Fuel-Costs"
 published_at: "2026-07-15T20:01:00+00:00"
 first_seen_at: "2026-07-20T03:31:22.575844+00:00"
-fetched_at: "2026-07-28T23:04:31.859605+00:00"
+fetched_at: "2026-07-29T14:41:57.745037+00:00"
 content_hash: "sha256:14a7ca210911905634e3e3de24eff14b86af9e21e17e5e1f9380d0fc497505cd"
 ---
 

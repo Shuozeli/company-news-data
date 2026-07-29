@@ -7,7 +7,7 @@ source_id: "nano-dimension-ltd-american-depositary-shares-rss-111d35614305"
 canonical_url: "https://investors.nano-di.com/press-releases/news-details/2026/Nano-Dimension-Announces-Financial-Results-for-the-First-Quarter-2026/default.aspx"
 published_at: "2026-05-07T20:05:00+00:00"
 first_seen_at: "2026-07-25T15:27:00.961627+00:00"
-fetched_at: "2026-07-28T23:53:10.203793+00:00"
+fetched_at: "2026-07-29T17:00:15.306989+00:00"
 content_hash: "sha256:592cc150e9935226bf96654fc87b00c710e1a3aff3bbc3beedc10c932a2d85c0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "anheuser-busch-inbev-sa-sponsored-adr-belgium-news-import-65e58259c3
 canonical_url: "https://www.anheuser-busch.com/newsroom/anheuser-busch-delivered-more-than-100-000-cans-of-emergency-drinking-water-to-u-s-territories-in-the-south-and-west-pacific-following-typhoon"
 published_at: "2026-05-29T13:00:00+00:00"
 first_seen_at: "2026-07-25T00:38:03.399239+00:00"
-fetched_at: "2026-07-28T17:56:33.009966+00:00"
+fetched_at: "2026-07-29T06:41:40.114016+00:00"
 content_hash: "sha256:914bc6afebd59f6d9b3f871a6a366260f0bc16d0261f4e0557c8764ee4a44a27"
 ---
 

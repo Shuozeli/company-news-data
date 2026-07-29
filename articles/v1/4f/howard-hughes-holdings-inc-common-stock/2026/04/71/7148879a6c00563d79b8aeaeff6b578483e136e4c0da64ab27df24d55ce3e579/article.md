@@ -7,7 +7,7 @@ source_id: "howard-hughes-holdings-inc-common-stock-rss-4e88654bb052"
 canonical_url: "https://communities.howardhughes.com/news/naiop-maryland-recognizes-20-companies-and-individuals-at-2026-awards-of-excell/"
 published_at: "2026-04-23T16:31:24+00:00"
 first_seen_at: "2026-07-24T09:07:31.143725+00:00"
-fetched_at: "2026-07-28T23:49:42.315584+00:00"
+fetched_at: "2026-07-29T15:44:32.861400+00:00"
 content_hash: "sha256:e0ab7a5bd3a4fe782a7032d98ffbbe8ab079ccb0d115684126992495eca0c2e4"
 ---
 

@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2026/teradata-reports-first-quarter-2026-financial-results"
 published_at: "2026-05-05T07:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T23:07:12.403269+00:00"
+fetched_at: "2026-07-29T14:50:19.991351+00:00"
 content_hash: "sha256:dd3748f84f93a6445667bde15f1d6696f0ca571c7ab0176ff8869f0155a20d20"
 ---
 

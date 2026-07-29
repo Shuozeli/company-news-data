@@ -7,7 +7,7 @@ source_id: "oaktree-specialty-lending-corporation-common-stock-rss-f0af98bf0a45"
 canonical_url: "https://investors.oaktreespecialtylending.com/news/news-details/2025/Oaktree-Specialty-Lending-Corporation-Announces-Third-Fiscal-Quarter-2025-Financial-Results/default.aspx"
 published_at: "2025-08-05T10:00:00+00:00"
 first_seen_at: "2026-07-25T16:50:56.716831+00:00"
-fetched_at: "2026-07-29T00:19:09.337485+00:00"
+fetched_at: "2026-07-29T17:19:51.172983+00:00"
 content_hash: "sha256:24bc73e2c7d5ee986142abf74925ec7cfbeaaf7b0297a812f4461278ad13072b"
 ---
 

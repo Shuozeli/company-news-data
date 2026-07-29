@@ -7,7 +7,7 @@ source_id: "knowles-corporation-common-stock-rss-16c72eda99ad"
 canonical_url: "https://investor.knowles.com/news/news-details/2026/Knowles-to-Release-First-Quarter-2026-Financial-Results-on-April-23-2026/default.aspx"
 published_at: "2026-03-31T09:30:00+00:00"
 first_seen_at: "2026-07-25T10:57:53.448882+00:00"
-fetched_at: "2026-07-28T23:14:52.417461+00:00"
+fetched_at: "2026-07-29T15:04:55.034040+00:00"
 content_hash: "sha256:43b2983e0a43957f3306311a224da0ff9160883f898f87ffd7ceae862f4fd1be"
 ---
 

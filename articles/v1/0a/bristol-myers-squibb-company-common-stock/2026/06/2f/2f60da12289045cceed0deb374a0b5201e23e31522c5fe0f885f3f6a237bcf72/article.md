@@ -7,7 +7,7 @@ source_id: "bristol-myers-squibb-company-common-stock-rss-d60a6dfff3be"
 canonical_url: "https://bristolmyers2016ir.q4web.com/iframes/press-releases/press-release-details/2026/Bristol-Myers-Squibb-Announces-Dividend-d189f3983/default.aspx"
 published_at: "2026-06-17T20:16:00+00:00"
 first_seen_at: "2026-07-25T01:06:54.310353+00:00"
-fetched_at: "2026-07-28T23:26:32.859592+00:00"
+fetched_at: "2026-07-29T15:20:45.993726+00:00"
 content_hash: "sha256:9f46e5118f0d41d5045be7f5a440edf1c4790ea7c5e04000a5c22739590bf40a"
 ---
 

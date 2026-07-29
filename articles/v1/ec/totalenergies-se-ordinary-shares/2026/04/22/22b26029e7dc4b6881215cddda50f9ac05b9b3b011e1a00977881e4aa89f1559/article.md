@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/aux-etats-unis-malgre-les-critiques-de-trump-les-energies-renouvelables-prosperent-au-niveau-local/"
 published_at: "2026-04-21T16:01:35+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-29T00:33:16.098879+00:00"
+fetched_at: "2026-07-29T13:59:20.653816+00:00"
 content_hash: "sha256:cb9eb004ef24a39f40ac563a18b41b3d55141631768e8db56fa7abcb31f1f70e"
 ---
 

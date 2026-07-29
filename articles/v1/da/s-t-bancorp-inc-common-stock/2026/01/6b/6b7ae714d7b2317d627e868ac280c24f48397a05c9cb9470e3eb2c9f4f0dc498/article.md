@@ -7,7 +7,7 @@ source_id: "s-t-bancorp-inc-common-stock-rss-23ea46cc82e7"
 canonical_url: "https://www.stbancorp.com/news-events/news/news-details/2026/ST-Bancorp-Inc--Announces-100-Million-Share-Repurchase-Program/default.aspx"
 published_at: "2026-01-22T12:20:00+00:00"
 first_seen_at: "2026-07-26T00:19:22.751226+00:00"
-fetched_at: "2026-07-28T23:54:16.395856+00:00"
+fetched_at: "2026-07-29T17:08:34.172369+00:00"
 content_hash: "sha256:894c5943e7d6f6f50c1accde3aa0f27fb0ded50b7f01aadcf6199d8f98316443"
 ---
 

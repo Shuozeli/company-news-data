@@ -7,7 +7,7 @@ source_id: "ermenegildo-zegna-n-v-ordinary-shares-rss-0b9738c47391"
 canonical_url: "https://ir.zegnagroup.com/financial-documents/press-releases/news-details/2026/ERMENEGILDO-ZEGNA-GROUP-TO-REPORT-FULL-YEAR-2025-PRELIMINARY-REVENUES----ON-FEBRUARY-2-2026-/default.aspx"
 published_at: "2026-01-20T05:00:00+00:00"
 first_seen_at: "2026-07-25T03:04:41.021661+00:00"
-fetched_at: "2026-07-28T23:09:19.181979+00:00"
+fetched_at: "2026-07-29T14:53:24.533792+00:00"
 content_hash: "sha256:e857e1f1aaa090a41b87345a4e7cfe805ff11df9b41f150d118c49013de00c1a"
 ---
 

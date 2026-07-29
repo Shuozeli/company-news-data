@@ -7,7 +7,7 @@ source_id: "vince-holding-corp-common-stock-rss-88eb2c7b52d3"
 canonical_url: "http://investors.vince.com/press-releases/press-release-details/2025/Vince-Announces-Reporting-Date-for-Third-Quarter-2025-Financial-Results/default.aspx"
 published_at: "2025-11-25T12:30:00+00:00"
 first_seen_at: "2026-07-26T04:41:31.329212+00:00"
-fetched_at: "2026-07-28T23:38:21.832592+00:00"
+fetched_at: "2026-07-29T15:33:23.404729+00:00"
 content_hash: "sha256:cfd86c03a599892926264a3083dc7d1b31fa6fbbb95bd3bfb0796b7d45c4f5b9"
 ---
 

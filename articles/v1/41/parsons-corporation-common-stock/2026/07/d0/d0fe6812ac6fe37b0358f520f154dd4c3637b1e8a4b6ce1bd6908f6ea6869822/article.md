@@ -7,7 +7,7 @@ source_id: "parsons-corporation-common-stock-rss-2a3475286026"
 canonical_url: "https://www.parsons.com/2026/07/railly-news-first-tunneling-completion-of-dubai-metro-blue-line-project/"
 published_at: "2026-07-15T14:58:02+00:00"
 first_seen_at: "2026-07-20T23:22:15.164723+00:00"
-fetched_at: "2026-07-28T23:19:56.723187+00:00"
+fetched_at: "2026-07-29T15:12:56.612858+00:00"
 content_hash: "sha256:f61f67fc4da0ffd99b265ff4b14d652fb7bda4331f73546aa33824a56c388312"
 ---
 

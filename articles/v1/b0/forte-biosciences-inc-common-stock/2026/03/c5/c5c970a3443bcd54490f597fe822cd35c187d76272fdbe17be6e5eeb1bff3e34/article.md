@@ -7,7 +7,7 @@ source_id: "forte-biosciences-inc-common-stock-rss-ecb02a61bf8b"
 canonical_url: "https://www.fortebiorx.com/investor-relations/news/news-details/2026/Forte-Biosciences-Inc--Announces-2025-Results-and-Provides-Update/default.aspx"
 published_at: "2026-03-31T20:01:00+00:00"
 first_seen_at: "2026-07-25T05:32:08.733879+00:00"
-fetched_at: "2026-07-28T23:13:51.121139+00:00"
+fetched_at: "2026-07-29T15:00:50.763078+00:00"
 content_hash: "sha256:8c0b011f0f6512463e0dbf70468c048b990916400d862b5695acd76b993ae1be"
 ---
 

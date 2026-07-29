@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2013/Omnicell-To-Present-At-The-14th-Annual-B-Riley--Co-Investor-Conference/default.aspx"
 published_at: "2013-05-14T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:2e4f6444c7406fcc043f9ddec8e8216a23984d85c3910c1f030041364a352f2f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "morningstar-inc-common-stock-rss-177a27902222"
 canonical_url: "https://www.morningstar.com/funds/morningstar-congress-investor-success-hinges-lower-costs-greater-transparency"
 published_at: "2026-06-25T04:00:00+00:00"
 first_seen_at: "2026-07-25T15:03:50.887951+00:00"
-fetched_at: "2026-07-29T00:11:28.051657+00:00"
+fetched_at: "2026-07-29T17:13:09.472140+00:00"
 content_hash: "sha256:9e74da08d3e9afcfd3fe84317d9937398b6aad1f38f7f234eecc1db2c471ca52"
 ---
 

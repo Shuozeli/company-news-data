@@ -7,7 +7,7 @@ source_id: "bcb-bancorp-inc-nj-common-stock-rss-f2401a0a357f"
 canonical_url: "https://investorrelations.bcbcommunitybank.com/news-market-information/press-releases/news-details/2026/BCB-Appoints-New-CEO/default.aspx"
 published_at: "2026-06-01T12:00:00+00:00"
 first_seen_at: "2026-07-26T10:11:36.891880+00:00"
-fetched_at: "2026-07-28T23:21:58.814635+00:00"
+fetched_at: "2026-07-29T15:15:29.427819+00:00"
 content_hash: "sha256:6218277e6061d3c6c6c5e36b48282d5712c9266f1561294ba9e357931ab9df04"
 ---
 

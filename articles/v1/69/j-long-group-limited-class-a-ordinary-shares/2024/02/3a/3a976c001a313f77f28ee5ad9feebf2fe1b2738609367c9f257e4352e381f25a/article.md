@@ -7,7 +7,7 @@ source_id: "j-long-group-limited-class-a-ordinary-shares-rss-f100273bc0f8"
 canonical_url: "https://investors.j-long.com/j-long-group-limited-declared-a-special-cash-dividend/"
 published_at: "2024-02-29T10:00:05+00:00"
 first_seen_at: "2026-07-27T03:16:23.483706+00:00"
-fetched_at: "2026-07-28T23:58:05.766082+00:00"
+fetched_at: "2026-07-29T17:22:56.603450+00:00"
 content_hash: "sha256:efc879eaa409cc9fbbbeb3a03925144f56ebb9c3ec257e00fdf06ccf2221e9e6"
 ---
 

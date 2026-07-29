@@ -7,7 +7,7 @@ source_id: "drdgold-limited-american-depositary-shares-rss-0b0d638d96d7"
 canonical_url: "https://www.drdgold.com/media-insights/in-the-media/2026/1831-waste-not-want-not-drdgolds-r27bn-bonanza"
 published_at: "2026-02-19T04:54:18+00:00"
 first_seen_at: "2026-07-27T01:56:23.749821+00:00"
-fetched_at: "2026-07-28T23:58:09.802602+00:00"
+fetched_at: "2026-07-29T17:00:23.031731+00:00"
 content_hash: "sha256:71a348fb20ea86d718c613864217bec503b88fd7e16be70b5f2f8cd174a614bb"
 ---
 

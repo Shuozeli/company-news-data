@@ -7,7 +7,7 @@ source_id: "seneca-foods-corp-class-b-common-stock-rss-812bb00696df"
 canonical_url: "https://www.senecafoods.com/sec-filing/form-sd-specialized-disclosure-report-1"
 published_at: "2026-05-14T14:49:08+00:00"
 first_seen_at: "2026-07-20T23:22:26.122079+00:00"
-fetched_at: "2026-07-28T23:31:32.451349+00:00"
+fetched_at: "2026-07-29T15:26:49.552545+00:00"
 content_hash: "sha256:8b4596403bf1729ae14d47590769e0b970550487e277da0fe30f155126a1a286"
 ---
 

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a823eba971bbd9f7c8a4a6ccdbef5d9b0121f2c79a2c13c4735dfe1baca2c9dd",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/yieldmax-semiconductor-portfolio-option-income-etf-tidal-trust-ii-nyse-chpy-declared-a-dividend-of-$0.5428-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/yieldmax-semiconductor-portfolio-option-income-etf-tidal-trust-ii-nyse-chpy-declared-a-dividend-of-$0.5428-per-share/"
+  },
+  "title": "CHPY Dividend Announcement $0.5428/Share 7/28/2026",
+  "summary": "NYSE:CHPY YieldMax Semiconductor Portfolio Option Income ETF/Tidal Trust II Dividend Announcement $0.5428 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.641321+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/a8/a823eba971bbd9f7c8a4a6ccdbef5d9b0121f2c79a2c13c4735dfe1baca2c9dd/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/a8/a823eba971bbd9f7c8a4a6ccdbef5d9b0121f2c79a2c13c4735dfe1baca2c9dd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1713,
+    "sha256": "sha256:5177ef43a74e591cf442c118be3756064fb377b84846ea698e3ae1497f058722",
+    "normalized_content_hash": "sha256:abf0b9f2c52f8cf569be1260cd55ea843eec372aef09eacbc250ab16d44b6dc7"
+  },
+  "provenance": {
+    "source_item_id": "50b0817d-71af-4680-b8df-cf8292d5085e",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/yieldmax-semiconductor-portfolio-option-income-etf-tidal-trust-ii-nyse-chpy-declared-a-dividend-of-$0.5428-per-share/"
+  }
+}

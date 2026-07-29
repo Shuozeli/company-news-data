@@ -7,7 +7,7 @@ source_id: "northern-oil-and-gas-inc-common-stock-rss-992872c896ae"
 canonical_url: "https://noginc.com/investor-relations/investor-news/news-details/2026/NOG-Announces-Proposed-Public-Offering-of-Common-Stock/default.aspx"
 published_at: "2026-03-11T20:10:00+00:00"
 first_seen_at: "2026-07-25T16:30:45.585797+00:00"
-fetched_at: "2026-07-28T22:55:11.231760+00:00"
+fetched_at: "2026-07-29T14:24:45.343327+00:00"
 content_hash: "sha256:9501e1bd7d8366ae94621df75299541c2b90e5383de9f8e257e793ab0319a8d3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "nicolet-bankshares-inc-common-stock-rss-e5f4fcd536be"
 canonical_url: "https://investors.nicoletbank.com/news-market-information/press-releases/news-details/2026/Nicolet-Bankshares-Inc--Announces-First-Quarter-2026-Earnings/default.aspx"
 published_at: "2026-04-21T20:15:00+00:00"
 first_seen_at: "2026-07-25T16:20:55.850182+00:00"
-fetched_at: "2026-07-28T23:41:30.060629+00:00"
+fetched_at: "2026-07-29T15:34:30.934790+00:00"
 content_hash: "sha256:6150c0096bd5cf3a0043cdb9b0dcfd46dd27c2e05486aac3ca2f87c454f3383d"
 ---
 

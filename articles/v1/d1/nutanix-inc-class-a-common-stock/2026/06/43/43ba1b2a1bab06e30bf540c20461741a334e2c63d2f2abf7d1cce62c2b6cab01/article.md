@@ -7,7 +7,7 @@ source_id: "nutanix-inc-class-a-common-stock-rss-12a2d78c04c7"
 canonical_url: "https://www.nutanix.dev/2026/06/30/announcing-the-nutanix-sdk-for-microsoft-c/"
 published_at: "2026-06-30T14:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:13.386524+00:00"
-fetched_at: "2026-07-28T23:06:52.510487+00:00"
+fetched_at: "2026-07-29T14:48:26.863540+00:00"
 content_hash: "sha256:645376c4e07c4ff9ea3b6933288d2b69f0216dca206ea9466a13f5124436d710"
 ---
 

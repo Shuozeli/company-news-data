@@ -7,7 +7,7 @@ source_id: "spire-inc-common-stock-rss-56f8a65da92a"
 canonical_url: "https://investors.spireenergy.com/news/news-details/2026/Spire-announces-sale-of-its-Mississippi-natural-gas-business-to-Delta-Utilities-for-75-million/default.aspx"
 published_at: "2026-04-22T11:00:00+00:00"
 first_seen_at: "2026-07-25T23:59:51.848339+00:00"
-fetched_at: "2026-07-29T00:32:31.597650+00:00"
+fetched_at: "2026-07-29T13:58:32.863813+00:00"
 content_hash: "sha256:ac8828bf17c90392db69f60fb122f9cf3407de5e1a2a29bd77d53c36d21857af"
 ---
 

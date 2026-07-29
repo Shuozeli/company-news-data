@@ -7,7 +7,7 @@ source_id: "skywater-technology-inc-common-stock-rss-6748f57663e9"
 canonical_url: "https://www.skywatertechnology.com/heart/"
 published_at: "2026-04-16T15:42:51+00:00"
 first_seen_at: "2026-07-25T01:07:15.981831+00:00"
-fetched_at: "2026-07-29T00:14:20.230730+00:00"
+fetched_at: "2026-07-29T17:17:39.654504+00:00"
 content_hash: "sha256:3c9de4c54c177940e0b6741f1c0170ef082ce0b1bb2c9c4bd9ae13a536ac4f52"
 ---
 

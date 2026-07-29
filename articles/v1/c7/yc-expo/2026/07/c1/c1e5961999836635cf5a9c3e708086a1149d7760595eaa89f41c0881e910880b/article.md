@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/how-to-grow-usage-and-revenue-for-your-mobile-app"
 published_at: "2026-07-14T13:15:14+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:9256b9ca128ba908f99d3154bd5e5b0c720235624bb848b2efcdd26a4757a225"
 ---
 

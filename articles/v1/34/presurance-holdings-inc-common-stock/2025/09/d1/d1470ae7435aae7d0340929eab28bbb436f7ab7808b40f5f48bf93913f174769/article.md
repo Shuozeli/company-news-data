@@ -7,7 +7,7 @@ source_id: "presurance-holdings-inc-common-stock-rss-6594d284726e"
 canonical_url: "https://ir.prehld.com/news/news-details/2025/Conifer-Holdings-Announces-Corporate-Rebrand-to-Presurance-Holdings-Inc-/default.aspx"
 published_at: "2025-09-29T16:16:00+00:00"
 first_seen_at: "2026-07-27T07:11:28.364635+00:00"
-fetched_at: "2026-07-28T22:58:22.331861+00:00"
+fetched_at: "2026-07-29T14:34:10.645241+00:00"
 content_hash: "sha256:67ab4a9f46774efcb2cf7665fe38d3dbe84862da2ae7473af4f53099765c93fb"
 ---
 

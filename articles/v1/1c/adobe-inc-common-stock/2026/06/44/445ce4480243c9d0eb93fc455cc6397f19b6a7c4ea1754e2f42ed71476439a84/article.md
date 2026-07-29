@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2026/06/the-architectural-foundations-of-an-agentic-commerce-platform"
 published_at: "2026-06-12T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:fad7f9bd408e7751d1ee304a3062162fe9e67ada329c4019121568a95a74035a"
 ---
 

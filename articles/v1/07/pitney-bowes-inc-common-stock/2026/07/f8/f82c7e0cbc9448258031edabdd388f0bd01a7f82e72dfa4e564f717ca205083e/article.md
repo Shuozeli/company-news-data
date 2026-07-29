@@ -7,7 +7,7 @@ source_id: "pitney-bowes-inc-common-stock-news-import-dfaa9c6403ce"
 canonical_url: "https://www.pitneybowes.com/us/blog/ecommerce.html"
 published_at: null
 first_seen_at: "2026-07-25T19:17:04.982426+00:00"
-fetched_at: "2026-07-28T21:51:45.437859+00:00"
+fetched_at: "2026-07-29T10:24:21.393364+00:00"
 content_hash: "sha256:0f4bda02342918faf0fd763e5f075386c11d36f20b68e5d471ad51d0975ba871"
 ---
 

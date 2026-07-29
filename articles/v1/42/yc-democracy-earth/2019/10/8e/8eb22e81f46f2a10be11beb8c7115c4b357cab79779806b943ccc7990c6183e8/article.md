@@ -7,7 +7,7 @@ source_id: "yc-democracy-earth-rss-cda4ae0def8b"
 canonical_url: "https://medium.com/hacktivism/democracy-earth-news-from-the-front-f9f10db5e166"
 published_at: "2019-10-31T11:36:13+00:00"
 first_seen_at: "2026-07-27T01:43:49.601606+00:00"
-fetched_at: "2026-07-28T23:37:36.533758+00:00"
+fetched_at: "2026-07-29T15:32:52.917252+00:00"
 content_hash: "sha256:5ab36f735d8262dbab87eee37633fc0064a1aefede76cae187f12c7a18cadbf4"
 ---
 

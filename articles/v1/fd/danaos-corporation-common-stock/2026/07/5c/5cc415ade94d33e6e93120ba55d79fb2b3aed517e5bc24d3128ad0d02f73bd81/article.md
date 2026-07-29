@@ -7,7 +7,7 @@ source_id: "danaos-corporation-common-stock-rss-a36761cbfee0"
 canonical_url: "https://www.danaos.com/investors/press-releases/press-release-details/2026/Danaos-Corporation-Declares-Quarterly-Dividend-on-Its-Common-Stock-for-the-Second-Quarter-of-2026/default.aspx"
 published_at: "2026-07-06T11:30:00+00:00"
 first_seen_at: "2026-07-27T01:33:11.569635+00:00"
-fetched_at: "2026-07-28T23:28:31.928055+00:00"
+fetched_at: "2026-07-29T15:26:23.734830+00:00"
 content_hash: "sha256:f83b4179670648706b94017c94a6e9bf193d14f5e965509e50b9ba306ce5f2b5"
 ---
 

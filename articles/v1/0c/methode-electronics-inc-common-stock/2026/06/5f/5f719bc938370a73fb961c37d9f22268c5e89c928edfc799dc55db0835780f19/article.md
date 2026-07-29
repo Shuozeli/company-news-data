@@ -7,7 +7,7 @@ source_id: "methode-electronics-inc-common-stock-rss-6edafacdf2f1"
 canonical_url: "https://ir.methode.com/news/news-details/2026/Methode-Electronics-Board-Approves-Dividend-8825ea972/default.aspx"
 published_at: "2026-06-10T20:11:00+00:00"
 first_seen_at: "2026-07-25T13:58:57.317442+00:00"
-fetched_at: "2026-07-28T23:33:53.652231+00:00"
+fetched_at: "2026-07-29T15:30:06.857371+00:00"
 content_hash: "sha256:9a21ccb28b7705bbb59d3a6ca67bbc2320532ac63011c396d7a1a480b8381757"
 ---
 

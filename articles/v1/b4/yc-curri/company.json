@@ -6,7 +6,7 @@
   },
   "record_count": 167,
   "first_published_at": "2021-07-01T00:00:00+00:00",
-  "last_published_at": "2026-07-28T23:22:01+00:00",
+  "last_published_at": "2026-07-29T15:16:16+00:00",
   "partitions": [
     {
       "partition": "2021-07",
@@ -222,7 +222,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 4,
@@ -232,8 +232,8 @@
         "path": "articles/v1/b4/yc-curri/index/pages/000001.json",
         "record_count": 50,
         "byte_count": 52389,
-        "sha256": "sha256:f00b8675a90996fcc3dccd3361a5f8059acd27b5fa2a94a4e7d699c325920345",
-        "newest_at": "2026-07-28T23:22:01+00:00",
+        "sha256": "sha256:39b29296d4561ab9f427c66edcb2dc3aa53f926a8d1c18b31fcb175916e29260",
+        "newest_at": "2026-07-29T15:16:16+00:00",
         "oldest_at": "2025-09-22T00:00:00+00:00"
       },
       {
@@ -241,7 +241,7 @@
         "path": "articles/v1/b4/yc-curri/index/pages/000002.json",
         "record_count": 50,
         "byte_count": 50976,
-        "sha256": "sha256:d69c6455db0a5bd412a093dc0824902dcef702d7bc7331b9c12a527acd758f0d",
+        "sha256": "sha256:096ab22cd2610dd41923e7b28032acdc7b0b2c99e54c4656a99bf58ef9ce1768",
         "newest_at": "2025-09-15T00:00:00+00:00",
         "oldest_at": "2024-05-07T00:00:00+00:00"
       },
@@ -250,7 +250,7 @@
         "path": "articles/v1/b4/yc-curri/index/pages/000003.json",
         "record_count": 50,
         "byte_count": 50149,
-        "sha256": "sha256:7cef99c779b6a90f4cc8340370c06e3c9bef70a20294da37e26adce93bed0189",
+        "sha256": "sha256:a95b37abb077dc562e3f45c7e331545ca12c1aa0c8f948022576a6ed7197f2e4",
         "newest_at": "2024-05-02T00:00:00+00:00",
         "oldest_at": "2022-01-09T00:00:00+00:00"
       },
@@ -259,7 +259,7 @@
         "path": "articles/v1/b4/yc-curri/index/pages/000004.json",
         "record_count": 17,
         "byte_count": 16732,
-        "sha256": "sha256:503a6c7c0b098b1209f2216c3fed5c908301bfc48ceb9d1a6ae2ca3ae07efe6d",
+        "sha256": "sha256:af846abcc1a84319073c97251ac0198fee6ecb322bc9309da7cacfa6ff397c0c",
         "newest_at": "2022-01-06T00:00:00+00:00",
         "oldest_at": "2021-07-01T00:00:00+00:00"
       }

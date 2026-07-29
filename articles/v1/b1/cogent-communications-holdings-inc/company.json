@@ -4,9 +4,9 @@
     "key": "cogent-communications-holdings-inc",
     "name": "Cogent Communications Holdings Inc."
   },
-  "record_count": 21,
+  "record_count": 22,
   "first_published_at": "2025-01-29T01:30:00+00:00",
-  "last_published_at": "2026-07-15T01:30:00+00:00",
+  "last_published_at": "2026-07-29T01:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-01",
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 1
+      "record_count": 2
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -46,10 +46,10 @@
       {
         "page": 1,
         "path": "articles/v1/b1/cogent-communications-holdings-inc/index/pages/000001.json",
-        "record_count": 21,
-        "byte_count": 24379,
-        "sha256": "sha256:8577f3dab2df8a66b5920510888711f245d526762e55c5aa13e8474d5d0ce585",
-        "newest_at": "2026-07-15T01:30:00+00:00",
+        "record_count": 22,
+        "byte_count": 25569,
+        "sha256": "sha256:8a6fb0330561732cec5f737fdec1ff9ed509ce4c16ea7cc3cdca2b4d4acb1d3b",
+        "newest_at": "2026-07-29T01:00:00+00:00",
         "oldest_at": "2025-01-29T01:30:00+00:00"
       }
     ]

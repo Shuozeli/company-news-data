@@ -7,7 +7,7 @@ source_id: "yc-outset-news-import-a92d7cb56115"
 canonical_url: "https://outset.ai/resources/blog/how-ai-moderated-research-changes-design-teams"
 published_at: "2026-03-10T00:00:00+00:00"
 first_seen_at: "2026-07-23T19:30:08.076259+00:00"
-fetched_at: "2026-07-28T14:23:22.591545+00:00"
+fetched_at: "2026-07-29T03:25:31.060831+00:00"
 content_hash: "sha256:b1ff86823e0d523e2462672852d5680d4b6a20bbb708fc4df0184ac0f145036e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "cerus-corporation-common-stock-rss-0a708e030897"
 canonical_url: "https://ir.cerus.com/press-releases/press-releases-details/2026/Cerus-Appoints-Vivek-Jayaraman-as-President-and-Chief-Executive-Officer/default.aspx"
 published_at: "2026-03-16T20:05:00+00:00"
 first_seen_at: "2026-07-27T00:39:41.154553+00:00"
-fetched_at: "2026-07-28T23:31:52.836713+00:00"
+fetched_at: "2026-07-29T15:27:59.616431+00:00"
 content_hash: "sha256:e25a541ac13bb37406883c6a11425157756406a4bafdfb15543e52cfbdfc9f07"
 ---
 

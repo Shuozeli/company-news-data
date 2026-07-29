@@ -7,7 +7,7 @@ source_id: "agnc-investment-corp-common-stock-rss-ea2a97d26070"
 canonical_url: "https://agnc.com/agnc-at-a-glance-get-to-know-the-premier-agency-mortgage-reit/"
 published_at: "2026-07-01T03:23:00+00:00"
 first_seen_at: "2026-07-20T04:35:45.910117+00:00"
-fetched_at: "2026-07-28T23:58:13.639773+00:00"
+fetched_at: "2026-07-29T17:09:51.675842+00:00"
 content_hash: "sha256:9d1210519ed95eaac44bc71ad111dc6f2715c6408f1fdef8659843e345042a12"
 ---
 

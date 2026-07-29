@@ -4,9 +4,9 @@
     "key": "autodesk-inc-common-stock",
     "name": "Autodesk Inc. Common Stock"
   },
-  "record_count": 32,
+  "record_count": 33,
   "first_published_at": "2023-03-14T13:31:51+00:00",
-  "last_published_at": "2026-07-22T16:18:07+00:00",
+  "last_published_at": "2026-07-28T15:00:16+00:00",
   "partitions": [
     {
       "partition": "2023-03",
@@ -54,11 +54,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 8
+      "record_count": 9
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -66,10 +66,10 @@
       {
         "page": 1,
         "path": "articles/v1/5f/autodesk-inc-common-stock/index/pages/000001.json",
-        "record_count": 32,
-        "byte_count": 34652,
-        "sha256": "sha256:21a0e57c90496174cf6b454375da340400f1b9e32161eaf63ea4d99d891d6eca",
-        "newest_at": "2026-07-28T02:34:42.601691+00:00",
+        "record_count": 33,
+        "byte_count": 35743,
+        "sha256": "sha256:ed6bd03b06e6cfa2af3329f30f42ac1412282b8edfba9a263e816db15fbcd190",
+        "newest_at": "2026-07-28T15:00:16+00:00",
         "oldest_at": "2023-03-14T13:31:51+00:00"
       }
     ]

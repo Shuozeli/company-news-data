@@ -7,7 +7,7 @@ source_id: "yc-ochre-bio-rss-279ab36d1688"
 canonical_url: "https://www.ochre-bio.com/2025/10/21/this-company-aims-to-end-the-need-for-liver-transplants-as-thousands-die-every-year-on-the-waitlist/"
 published_at: "2025-10-21T02:54:00+00:00"
 first_seen_at: "2026-07-20T23:20:39.135312+00:00"
-fetched_at: "2026-07-28T23:13:09.647277+00:00"
+fetched_at: "2026-07-29T15:00:02.506650+00:00"
 content_hash: "sha256:4c9921f320cf5c74ee3d5dc0c0482f5e6dd24b3569635fc77b0a9148316e4720"
 ---
 

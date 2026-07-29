@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-inks-more-than-230000-square-feet-of-leases-at-360-park-avenue-south"
 published_at: "2026-03-16T13:48:16+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:494b39c044228bbbca48dbccec8748291cff35acf9ff7ac0de01701bc3ec513a"
 ---
 

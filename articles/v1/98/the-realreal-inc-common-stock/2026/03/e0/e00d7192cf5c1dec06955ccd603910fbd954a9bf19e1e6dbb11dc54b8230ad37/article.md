@@ -7,7 +7,7 @@ source_id: "the-realreal-inc-common-stock-rss-2f71ca5a7bf7"
 canonical_url: "https://investor.therealreal.com/news/news-details/2026/The-RealReal-to-Participate-in-Fireside-Chat-at-the-38th-Annual-Roth-Conference-03-17-2026/default.aspx"
 published_at: "2026-03-17T04:00:00+00:00"
 first_seen_at: "2026-07-26T02:16:58.872962+00:00"
-fetched_at: "2026-07-28T22:57:54.283564+00:00"
+fetched_at: "2026-07-29T14:31:03.812958+00:00"
 content_hash: "sha256:6048ecfeb011cf30064fa53614d598cc2ddcd3648b66701ab9209d42dd065185"
 ---
 

@@ -7,7 +7,7 @@ source_id: "industrial-logistics-properties-trust-common-shares-of-beneficial-in
 canonical_url: "http://www.ilptreit.com/investors/news/press-release-details/2026/Industrial-Logistics-Properties-Trust-Prices-1-62-Billion-Fixed-Rate-Mortgage-Financing-for-Its-Consolidated-Joint-Venture/default.aspx"
 published_at: "2026-04-22T12:00:00+00:00"
 first_seen_at: "2026-07-25T09:17:51.178487+00:00"
-fetched_at: "2026-07-29T00:14:05.979554+00:00"
+fetched_at: "2026-07-29T17:18:03.868677+00:00"
 content_hash: "sha256:2422e74e3b4a59762e493d6d6f74d526bb22b4e7e7760b89eb39d6d698b35a66"
 ---
 

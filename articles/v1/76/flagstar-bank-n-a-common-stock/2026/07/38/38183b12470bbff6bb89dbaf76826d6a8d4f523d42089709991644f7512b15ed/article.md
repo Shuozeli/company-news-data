@@ -7,7 +7,7 @@ source_id: "flagstar-bank-n-a-common-stock-rss-54152b4d27de"
 canonical_url: "https://ir.flagstar.com/news-and-events/news-releases/press-release-details/2026/FLAGSTAR-BANK-N-A--TO-REPORT-SECOND-QUARTER-2026-EARNINGS-AND-HOST-CONFERENCE-CALL-ON-JULY-24TH/default.aspx"
 published_at: "2026-07-08T12:30:00+00:00"
 first_seen_at: "2026-07-27T02:28:06.875488+00:00"
-fetched_at: "2026-07-28T23:51:48.531137+00:00"
+fetched_at: "2026-07-29T17:00:25.115868+00:00"
 content_hash: "sha256:fc1df626a818c9a022c04488dabdeeb045d84cd87cf712ee5627a8f8dfb5803e"
 ---
 

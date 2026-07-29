@@ -7,7 +7,7 @@ source_id: "yc-rarebird-atom-171a9e15b225"
 canonical_url: "https://rarebird.coffee/blogs/news/caffeine-and-cortisol"
 published_at: "2025-02-20T19:10:02+00:00"
 first_seen_at: "2026-07-25T20:30:23.153216+00:00"
-fetched_at: "2026-07-29T00:05:27.664367+00:00"
+fetched_at: "2026-07-29T17:00:39.082353+00:00"
 content_hash: "sha256:b6a9c35bf8a0207bb8cb6e04c936e64ef84e343e50850533c01589991a3e92ed"
 ---
 

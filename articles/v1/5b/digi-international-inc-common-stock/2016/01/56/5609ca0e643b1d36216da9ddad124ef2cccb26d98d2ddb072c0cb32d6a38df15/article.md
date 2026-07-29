@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2016/fogfinder-relies-on-arduino-and-digi-xbee-to-tap-i"
 published_at: "2016-01-04T18:30:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:fea85d3e5bd517fc218da01059315c26bba2cb10c7f73fb0cc888a302c5c3420"
 ---
 

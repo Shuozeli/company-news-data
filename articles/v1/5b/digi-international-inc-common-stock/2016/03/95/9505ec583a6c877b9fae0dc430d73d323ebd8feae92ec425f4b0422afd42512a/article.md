@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2016/digi-goes-to-nuremberg-for-embedded-world-2016"
 published_at: "2016-03-02T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:02e9cd92b9ae89a8d2b84ca367fd2f5cef022585bb5d87493175e150254c1056"
 ---
 

@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2024/Vertiv-Reports-Strong-Third-Quarter-2024-Results-and-Raises-Full-Year-Guidance/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T23:23:56.894710+00:00"
+fetched_at: "2026-07-29T15:18:57.174384+00:00"
 content_hash: "sha256:9c688fbbf1283237cf855418d8adb2a9fe7b2214aaf1c6fe0bf289bdedeb6915"
 ---
 

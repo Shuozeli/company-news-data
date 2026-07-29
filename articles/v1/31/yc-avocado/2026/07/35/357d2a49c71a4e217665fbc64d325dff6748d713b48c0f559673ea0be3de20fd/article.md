@@ -5,13 +5,13 @@ company_key: "yc-avocado"
 company: "Avocado"
 source_id: "yc-avocado-news-import-38bb8a83867d"
 canonical_url: "https://www.avocadopos.com/blog/texas-food-truck-law-changes-2025-update"
-published_at: "2026-07-01T00:00:00+00:00"
+published_at: "2025-08-26T00:00:00+00:00"
 first_seen_at: "2026-07-24T18:13:15.302974+00:00"
 fetched_at: "2026-07-28T21:22:15.524600+00:00"
 content_hash: "sha256:d49b8eb9bac991991e75e18face7faa369b9ee1c4e98610e247ac9260910603a"
 ---
 
-# Texas Just Made It Easier to Run a Food Truck: What You Need to Know (August 2025 Update) - The Avocado - Avocado POS
+# Texas Just Made It Easier to Run a Food Truck: What You Need to Know (August 2025 Update)
 
 Good news, food truck owners! Texas just passed **HB 2844** — signed June 20, 2025 — and it’s a game-changer for food trucks.
 

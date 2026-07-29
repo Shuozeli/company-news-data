@@ -7,7 +7,7 @@ source_id: "onto-innovation-inc-common-stock-rss-c0808ecb27f7"
 canonical_url: "https://investors.ontoinnovation.com/news/news-details/2026/Onto-Innovation-to-Participate-in-Upcoming-Investor-Events-f1a633817/default.aspx"
 published_at: "2026-05-19T13:00:00+00:00"
 first_seen_at: "2026-07-25T17:34:39.012386+00:00"
-fetched_at: "2026-07-28T23:28:44.600129+00:00"
+fetched_at: "2026-07-29T15:24:50.231475+00:00"
 content_hash: "sha256:c6a3b19ff3b9650f738bf07dbf398e5065401b15c351a820fd0349165e82b02e"
 ---
 

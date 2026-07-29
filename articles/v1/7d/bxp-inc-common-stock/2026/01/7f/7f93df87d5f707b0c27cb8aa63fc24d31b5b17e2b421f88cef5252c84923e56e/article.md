@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-announces-fourth-quarter-and-full-year-2025-results"
 published_at: "2026-01-27T22:40:44+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:3110833cef3c06f91c2d830c3be1db5e6b74bfcb4fa0deb96f5a938f5ce410ae"
 ---
 

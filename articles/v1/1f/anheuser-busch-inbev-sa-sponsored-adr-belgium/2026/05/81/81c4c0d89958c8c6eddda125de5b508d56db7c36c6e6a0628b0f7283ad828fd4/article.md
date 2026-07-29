@@ -7,7 +7,7 @@ source_id: "anheuser-busch-inbev-sa-sponsored-adr-belgium-news-import-a63806e940
 canonical_url: "https://www.anheuser-busch.com/newsroom/Anheuser-Busch-Fastest-Growing-Spirits-Company"
 published_at: "2026-05-19T18:00:00+00:00"
 first_seen_at: "2026-07-25T00:38:16.785338+00:00"
-fetched_at: "2026-07-28T17:56:40.627808+00:00"
+fetched_at: "2026-07-29T06:41:35.056141+00:00"
 content_hash: "sha256:ce244b8432be0791f1a9f807d1b9959e00897af338ecfea2f63cf86fd82db07f"
 ---
 

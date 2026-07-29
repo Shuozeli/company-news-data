@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/tinder/can-tinder-win-back-women/"
 published_at: "2026-04-24T17:42:09+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:7eb1f06c99ff299ca5f9994df9473eae65c3a633b084da516e93d54a623c451a"
 ---
 

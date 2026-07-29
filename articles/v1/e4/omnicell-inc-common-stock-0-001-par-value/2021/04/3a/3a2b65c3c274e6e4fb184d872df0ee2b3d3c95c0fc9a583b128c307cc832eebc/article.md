@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2021/Omnicell-Announces-Financial-Results-for-First-Quarter-2021/default.aspx"
 published_at: "2021-04-29T20:01:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:5a22520c637688c8aa13cdb7590f19305b6a151449110c22c8c43651e3029899"
 ---
 

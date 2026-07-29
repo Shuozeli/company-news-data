@@ -7,7 +7,7 @@ source_id: "yc-yemaachi-biotechnology-rss-52f865158616"
 canonical_url: "https://www.yemaachi.com/2026/01/10/https-oncodaily-com-community-yaw-bediako-439204/"
 published_at: "2026-01-10T15:52:00+00:00"
 first_seen_at: "2026-07-20T23:21:01.870758+00:00"
-fetched_at: "2026-07-28T22:54:11.978332+00:00"
+fetched_at: "2026-07-29T14:25:07.371111+00:00"
 content_hash: "sha256:a3956811844a0373b5b2f349380aaeb1241015bc187292cb6708a373a5ff4b01"
 ---
 

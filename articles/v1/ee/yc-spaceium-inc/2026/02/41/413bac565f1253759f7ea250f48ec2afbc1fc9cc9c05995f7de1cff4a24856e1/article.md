@@ -7,7 +7,7 @@ source_id: "yc-spaceium-inc-rss-9f6edbd2b214"
 canonical_url: "https://spaceium.com/spaceium-tests-robot-gas-attendant-piece-in-orbit/"
 published_at: "2026-02-10T17:00:48+00:00"
 first_seen_at: "2026-07-25T01:53:20.958572+00:00"
-fetched_at: "2026-07-28T23:11:37.521719+00:00"
+fetched_at: "2026-07-29T14:57:44.498489+00:00"
 content_hash: "sha256:1261f3a92ecc5bb3d4190e00b29f1da16cc164b466768f1ad51db756501048ab"
 ---
 

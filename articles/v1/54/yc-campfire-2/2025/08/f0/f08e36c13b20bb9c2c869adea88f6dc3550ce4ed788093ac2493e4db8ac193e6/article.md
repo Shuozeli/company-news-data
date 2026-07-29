@@ -7,7 +7,7 @@ source_id: "yc-campfire-2-rss-3be8123e2374"
 canonical_url: "https://campfire.ai/blog/announcing-soc-1-type-1-compliance-at-campfire"
 published_at: "2025-08-12T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:23:46.218928+00:00"
-fetched_at: "2026-07-29T00:50:27.572271+00:00"
+fetched_at: "2026-07-29T14:20:19.602470+00:00"
 content_hash: "sha256:4aaaef8de14b30cacf00e3c16c23e68e12e005caf8a8b42bf5c75f992a31cf14"
 ---
 

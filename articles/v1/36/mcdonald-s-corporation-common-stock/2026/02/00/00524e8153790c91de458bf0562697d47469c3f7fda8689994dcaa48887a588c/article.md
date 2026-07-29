@@ -7,7 +7,7 @@ source_id: "mcdonald-s-corporation-common-stock-rss-e3f7e88d5cc9"
 canonical_url: "https://medium.com/mcdonalds-technical-blog/delivering-virtual-burgers-one-instance-at-a-time-with-multi-tenancy-8ee6eee7c7ec"
 published_at: "2026-02-24T14:06:40+00:00"
 first_seen_at: "2026-07-22T17:27:13.648832+00:00"
-fetched_at: "2026-07-28T23:53:24.017559+00:00"
+fetched_at: "2026-07-29T17:01:15.253896+00:00"
 content_hash: "sha256:6bfc2f62e203196655f7fbee9b819b1bfe15464b812fb7bb788d4b5f98bd7c2e"
 ---
 

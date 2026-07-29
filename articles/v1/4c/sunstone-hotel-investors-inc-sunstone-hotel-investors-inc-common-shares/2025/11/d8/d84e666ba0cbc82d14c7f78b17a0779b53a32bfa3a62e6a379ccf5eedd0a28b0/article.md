@@ -7,7 +7,7 @@ source_id: "sunstone-hotel-investors-inc-sunstone-hotel-investors-inc-common-sha
 canonical_url: "https://www.sunstonehotels.com/investor-relations/press-releases/news-details/2025/SUNSTONE-HOTEL-INVESTORS-ANNOUNCES-EXPANSION-OF-BOARD-OF-DIRECTORS/default.aspx"
 published_at: "2025-11-17T12:30:00+00:00"
 first_seen_at: "2026-07-26T07:47:55.987383+00:00"
-fetched_at: "2026-07-28T23:15:49.114754+00:00"
+fetched_at: "2026-07-29T15:05:53.584154+00:00"
 content_hash: "sha256:4dd99b7704bd5ec17d01aa099e0ed5c5db099731aacfb4191d1e2d5d471dd028"
 ---
 

@@ -7,7 +7,7 @@ source_id: "pebblebrook-hotel-trust-common-shares-of-beneficial-interest-rss-739
 canonical_url: "https://investor.pebblebrookhotels.com/news-1/news-releases/news-details/2026/Pebblebrook-Hotel-Trust-Completes-43-5-Million-Sale-of-Chamberlain-West-Hollywood-Hotel/default.aspx"
 published_at: "2026-05-28T11:00:00+00:00"
 first_seen_at: "2026-07-25T18:41:31.965462+00:00"
-fetched_at: "2026-07-28T22:59:16.337532+00:00"
+fetched_at: "2026-07-29T14:35:27.028471+00:00"
 content_hash: "sha256:4e9fd9d743cc94e4ace80edee2fe2c79015c37baae3ee211a45fe0d3e07d65af"
 ---
 

@@ -7,7 +7,7 @@ source_id: "pcb-bancorp-common-stock-rss-fe3afe33cb4a"
 canonical_url: "http://pcbbancorp.q4ir.com/news-market-data/press-releases/news-details/2025/PCB-Bancorp-Announces-Extension-of-Stock-Repurchase-Plan/default.aspx"
 published_at: "2025-07-24T20:40:00+00:00"
 first_seen_at: "2026-07-25T18:37:24.336059+00:00"
-fetched_at: "2026-07-28T22:53:56.794965+00:00"
+fetched_at: "2026-07-29T14:23:34.723784+00:00"
 content_hash: "sha256:602019386f39523cfdc70ddf9f254f63f448b749dc52877d756d589491ae0045"
 ---
 

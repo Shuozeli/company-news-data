@@ -7,7 +7,7 @@ source_id: "logistic-properties-of-the-americas-ordinary-shares-rss-24f70a84fdfb
 canonical_url: "https://lpamericas.com/water-tower-research-initiates-coverage-of-logistic-properties-of-the-americas/"
 published_at: "2026-05-13T22:25:31+00:00"
 first_seen_at: "2026-07-24T09:54:54.960480+00:00"
-fetched_at: "2026-07-28T22:53:52.840678+00:00"
+fetched_at: "2026-07-29T15:33:22.887259+00:00"
 content_hash: "sha256:ef0836919b37c2d5cb646d3cb50f1bddea0cfca245f62c22a69ae43c510f90de"
 ---
 

@@ -7,7 +7,7 @@ source_id: "trupanion-inc-common-stock-news-import-ac8b67a28768"
 canonical_url: "https://www.trupanion.com/pet-blog/article/dehydration-in-dogs-treatment"
 published_at: "2026-07-09T00:00:00+00:00"
 first_seen_at: "2026-07-26T03:12:24.686679+00:00"
-fetched_at: "2026-07-28T17:37:59.572099+00:00"
+fetched_at: "2026-07-29T06:24:38.757976+00:00"
 content_hash: "sha256:af4717d36945f99e1089209785761e7250efb3905285548d42258adb533f1c7f"
 ---
 

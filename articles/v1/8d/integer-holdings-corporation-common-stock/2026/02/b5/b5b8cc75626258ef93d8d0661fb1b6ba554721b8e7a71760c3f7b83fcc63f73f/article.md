@@ -7,7 +7,7 @@ source_id: "integer-holdings-corporation-common-stock-rss-3c583142efbf"
 canonical_url: "https://www.integer.net/news-and-events/news-details/2026/Integer-Holdings-Corporation-Reports-Results-for-Fourth-Quarter-and-Full-Year-2025/default.aspx"
 published_at: "2026-02-19T13:00:00+00:00"
 first_seen_at: "2026-07-25T09:38:33.729133+00:00"
-fetched_at: "2026-07-29T00:41:35.205424+00:00"
+fetched_at: "2026-07-29T14:07:07.018870+00:00"
 content_hash: "sha256:2b34ad136231a294f465f50ba31d38b28bbb0399b777e27f1a79f95842514c96"
 ---
 

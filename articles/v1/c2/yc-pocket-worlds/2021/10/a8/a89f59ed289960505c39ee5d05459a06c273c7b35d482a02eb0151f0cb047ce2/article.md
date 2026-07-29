@@ -7,7 +7,7 @@ source_id: "yc-pocket-worlds-rss-93d814af52ac"
 canonical_url: "https://medium.com/@pocket_manjee/october-updates-in-trust-safety-20f9b5948df"
 published_at: "2021-10-08T19:23:52+00:00"
 first_seen_at: "2026-07-25T19:20:19.968753+00:00"
-fetched_at: "2026-07-29T00:20:19.989119+00:00"
+fetched_at: "2026-07-29T17:20:48.869993+00:00"
 content_hash: "sha256:abf098ab68d13b3653857bb7007a389fa015d2e5b7949292ccdc3f4d03eed0a7"
 ---
 

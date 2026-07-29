@@ -7,7 +7,7 @@ source_id: "the-arena-group-holdings-inc-common-stock-rss-9ea05f6be366"
 canonical_url: "https://www.businesswire.com/news/home/20260302897605/en/The-Arena-Group-to-Host-Fourth-Quarter-and-Full-Year-2025-Financial-Results-Conference-Call-on-Monday-March-16-2026"
 published_at: "2026-03-02T13:40:52+00:00"
 first_seen_at: "2026-07-24T03:49:58.062520+00:00"
-fetched_at: "2026-07-28T23:55:45.666638+00:00"
+fetched_at: "2026-07-29T15:46:29.354113+00:00"
 content_hash: "sha256:abd85a38784880c074103ea3329001549e0a11491500d79d513177a2b2b472db"
 ---
 

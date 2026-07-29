@@ -7,7 +7,7 @@ source_id: "gsi-technology-common-stock-rss-21eb7f8c73cb"
 canonical_url: "https://gsitechnology.com/the-quiet-revolution-of-smart-cities/"
 published_at: "2026-06-29T19:31:12+00:00"
 first_seen_at: "2026-07-20T23:18:39.889524+00:00"
-fetched_at: "2026-07-28T23:26:28.737573+00:00"
+fetched_at: "2026-07-29T15:20:57.476055+00:00"
 content_hash: "sha256:683287cfbceae3ee2c31443481ab59289e0cfa9f37fa5dc8fb5ebddc6e8ca8ef"
 ---
 

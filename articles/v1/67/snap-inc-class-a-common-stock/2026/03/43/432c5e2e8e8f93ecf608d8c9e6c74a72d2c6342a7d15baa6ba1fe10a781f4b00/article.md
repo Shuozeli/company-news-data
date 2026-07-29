@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-87de20393b65"
 canonical_url: "https://newsroom.snap.com/nominees-for-snapchat-inaugural-snappy-awards"
 published_at: "2026-03-11T16:00:00+00:00"
 first_seen_at: "2026-07-25T01:10:38.921974+00:00"
-fetched_at: "2026-07-28T23:47:03.180523+00:00"
+fetched_at: "2026-07-29T15:41:11.799400+00:00"
 content_hash: "sha256:312533856986fd6ea3a4fce0e22c75504d1ec9629e25ce117b11ac449ef58a35"
 ---
 

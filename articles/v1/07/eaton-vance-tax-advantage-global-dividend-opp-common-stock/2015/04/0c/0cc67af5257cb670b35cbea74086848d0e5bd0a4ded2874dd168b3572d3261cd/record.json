@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0cc67af5257cb670b35cbea74086848d0e5bd0a4ded2874dd168b3572d3261cd",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/bluemonte-core-bond-etf-exchange-traded-concepts-trust-nyse-bdbt-declared-a-dividend-of-$0.0822-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/bluemonte-core-bond-etf-exchange-traded-concepts-trust-nyse-bdbt-declared-a-dividend-of-$0.0822-per-share/"
+  },
+  "title": "BDBT Dividend Announcement $0.0822/Share 7/28/2026",
+  "summary": "NYSE:BDBT Bluemonte Core Bond ETF/Exchange Traded Concepts Trust Dividend Announcement $0.0822 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.554150+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/0c/0cc67af5257cb670b35cbea74086848d0e5bd0a4ded2874dd168b3572d3261cd/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/0c/0cc67af5257cb670b35cbea74086848d0e5bd0a4ded2874dd168b3572d3261cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1669,
+    "sha256": "sha256:607716efc711b150868eb059e6484052b474ea58f95ee2b2a92d954ea2fa4228",
+    "normalized_content_hash": "sha256:4a40d0b1131537e20f2b726886b50e8824762c0520e0a46d6e13a3f62d714978"
+  },
+  "provenance": {
+    "source_item_id": "81b1b0d3-5b82-4f99-b1b5-b74df40e5ef5",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/bluemonte-core-bond-etf-exchange-traded-concepts-trust-nyse-bdbt-declared-a-dividend-of-$0.0822-per-share/"
+  }
+}

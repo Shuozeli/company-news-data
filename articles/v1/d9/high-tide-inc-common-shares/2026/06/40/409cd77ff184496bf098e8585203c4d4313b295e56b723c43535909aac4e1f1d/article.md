@@ -7,7 +7,7 @@ source_id: "high-tide-inc-common-shares-rss-f83dc5e20636"
 canonical_url: "https://hightideinc.com/high-tide-secures-credit-approval-for-c40mm-of-senior-secured-credit-facilities/"
 published_at: "2026-06-15T10:15:00+00:00"
 first_seen_at: "2026-07-20T23:19:05.127242+00:00"
-fetched_at: "2026-07-29T00:41:30.017006+00:00"
+fetched_at: "2026-07-29T14:06:34.773204+00:00"
 content_hash: "sha256:32948f7cc6873957dc653ea4a737af4d4043f8488d96e29bdf2f162d933e15d9"
 ---
 

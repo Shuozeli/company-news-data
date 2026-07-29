@@ -7,7 +7,7 @@ source_id: "ge-aerospace-common-stock-rss-a1dd69a4054d"
 canonical_url: "https://www.geaerospace.com/node/5943"
 published_at: "2026-01-14T15:01:48+00:00"
 first_seen_at: "2026-07-20T23:24:51.828822+00:00"
-fetched_at: "2026-07-28T23:50:06.638047+00:00"
+fetched_at: "2026-07-29T15:41:52.623120+00:00"
 content_hash: "sha256:25e8b9fe33aa3617ec61792921fa7c229bed1ff345b970b4d4910d52a140cda8"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ericsson-american-depositary-shares-atom-6bf64ebaa824"
 canonical_url: "https://www.ericsson.com/ja/news/2/2026/okinawa-digital-lab-2026-robot-programming2"
 published_at: "2026-07-21T05:00:33+00:00"
 first_seen_at: "2026-07-21T05:20:55.345662+00:00"
-fetched_at: "2026-07-29T00:16:19.705635+00:00"
+fetched_at: "2026-07-29T17:19:26.186158+00:00"
 content_hash: "sha256:178488e0d5e8883283b50397b6e22ba8c8120a219bbd5f2f53720eaced5aecdb"
 ---
 

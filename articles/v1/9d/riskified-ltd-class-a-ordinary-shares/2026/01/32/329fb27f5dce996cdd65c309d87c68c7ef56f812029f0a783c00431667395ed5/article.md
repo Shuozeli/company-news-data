@@ -7,7 +7,7 @@ source_id: "riskified-ltd-class-a-ordinary-shares-rss-dd7d0cc56e2d"
 canonical_url: "https://medium.com/riskified-technology/api-integration-sizing-gone-wrong-how-observability-tools-rescued-our-decisions-7b9451affa34"
 published_at: "2026-01-05T07:25:27+00:00"
 first_seen_at: "2026-07-20T23:18:31.853064+00:00"
-fetched_at: "2026-07-28T23:10:47.152354+00:00"
+fetched_at: "2026-07-29T14:57:01.923368+00:00"
 content_hash: "sha256:ae15abd4f0751e45d26b45757375751c3d2be47a0d5fd07bf223fce8242531ea"
 ---
 

@@ -7,7 +7,7 @@ source_id: "eltek-ltd-ordinary-shares-rss-46b7bb6c744b"
 canonical_url: "https://www.nisteceltek.com/eltek-declares-a-cash-dividend-of-0-19-per-share/"
 published_at: "2025-04-08T13:01:36+00:00"
 first_seen_at: "2026-07-25T02:10:06.936515+00:00"
-fetched_at: "2026-07-28T23:34:42.862462+00:00"
+fetched_at: "2026-07-29T15:31:49.927189+00:00"
 content_hash: "sha256:7ca801b8840f9836dfef2541816cdbd958b0e466ef079e82d5388aff2daf485b"
 ---
 

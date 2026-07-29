@@ -7,7 +7,7 @@ source_id: "sila-realty-trust-inc-common-stock-rss-0a874092aade"
 canonical_url: "https://silarealtytrust.com/sila-stockholders-approve-of-blue-owl-acquisition/"
 published_at: "2026-06-26T15:53:20+00:00"
 first_seen_at: "2026-07-20T23:21:02.147126+00:00"
-fetched_at: "2026-07-28T22:58:48.460628+00:00"
+fetched_at: "2026-07-29T14:32:50.257495+00:00"
 content_hash: "sha256:e4522d3a1db832cd970cad0c0891becfca922e39a75f7290ab25e559eb007379"
 ---
 

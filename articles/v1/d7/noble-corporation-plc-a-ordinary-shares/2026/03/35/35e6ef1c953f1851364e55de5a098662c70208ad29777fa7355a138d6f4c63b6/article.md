@@ -7,7 +7,7 @@ source_id: "noble-corporation-plc-a-ordinary-shares-rss-bc648cf377bf"
 canonical_url: "https://noblecorp.com/life-on-the-rig/"
 published_at: "2026-03-18T06:41:17+00:00"
 first_seen_at: "2026-07-25T16:25:22.409428+00:00"
-fetched_at: "2026-07-28T23:43:04.382285+00:00"
+fetched_at: "2026-07-29T15:36:29.182343+00:00"
 content_hash: "sha256:d9e038564970326edada7cb5c2d27d0eac82b720c0680ecb4832e1a2609747e7"
 ---
 

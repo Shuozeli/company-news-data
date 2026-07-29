@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "54b56fedbc7ae42e9c66452637c1e5eb384a54b57f97cf3512fb77ce2f458880",
+  "company": {
+    "key": "bitgo-holdings-inc-class-a-common-stock",
+    "name": "BitGo Holdings Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "bitgo-holdings-inc-class-a-common-stock-news-import-43176398adc1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bitgo.com/resources/blog/gate-us-joins-bitgos-go-network-expanding-secure-access-to-exchange-liquidity/",
+    "canonical": "https://www.bitgo.com/resources/blog/gate-us-joins-bitgos-go-network-expanding-secure-access-to-exchange-liquidity/"
+  },
+  "title": "Gate US Joins BitGo's Go Network, Expanding Secure Access to Exchange Liquidity",
+  "summary": "Gate US joins BitGo Go Network OES, giving institutions secure access to U.S. digital asset liquidity while assets remain in custody at BitGo Bank & Trust.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T02:13:10.863504+00:00",
+  "fetched_at": "2026-07-29T02:13:12.752542+00:00",
+  "last_updated_at": "2026-07-29T15:42:08.662898+00:00",
+  "paths": {
+    "article": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/54/54b56fedbc7ae42e9c66452637c1e5eb384a54b57f97cf3512fb77ce2f458880/article.md",
+    "record": "articles/v1/99/bitgo-holdings-inc-class-a-common-stock/2026/07/54/54b56fedbc7ae42e9c66452637c1e5eb384a54b57f97cf3512fb77ce2f458880/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11302,
+    "sha256": "sha256:24bddfe3e355fbdba8adf8f166af7c7947adf95d651b67ebb6a3a208fdcaea06",
+    "normalized_content_hash": "sha256:3e4796c4d084c75fa4e7f432c5eae2af1e6bd997b3c3288f844c66df681bbd96"
+  },
+  "provenance": {
+    "source_item_id": "c3f3b763-0aa3-4076-90cb-28327a610160",
+    "external_id": "https://www.bitgo.com/resources/blog/gate-us-joins-bitgos-go-network-expanding-secure-access-to-exchange-liquidity/"
+  }
+}

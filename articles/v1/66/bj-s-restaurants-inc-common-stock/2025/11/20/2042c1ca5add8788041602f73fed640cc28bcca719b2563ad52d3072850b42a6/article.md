@@ -7,7 +7,7 @@ source_id: "bj-s-restaurants-inc-common-stock-rss-81c03f93ef6a"
 canonical_url: "https://investors.bjsrestaurants.com/news/news-details/2025/BJs-Restaurants-Inc--Announces-Appointment-of-Chief-Financial-Officer/default.aspx"
 published_at: "2025-11-05T21:15:00+00:00"
 first_seen_at: "2026-07-26T23:46:20.075892+00:00"
-fetched_at: "2026-07-28T23:17:55.060226+00:00"
+fetched_at: "2026-07-29T15:08:41.744212+00:00"
 content_hash: "sha256:21edbd55e4af92cea50cf71f8665677246ba3ffeda3695d33f2ee39e01c211b7"
 ---
 

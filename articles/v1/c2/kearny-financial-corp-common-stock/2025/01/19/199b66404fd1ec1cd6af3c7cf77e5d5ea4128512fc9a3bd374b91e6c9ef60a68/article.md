@@ -7,7 +7,7 @@ source_id: "kearny-financial-corp-common-stock-rss-5ddd9ba0d18f"
 canonical_url: "https://kearny.q4ir.com/news/news-details/2025/Kearny-Financial-Corp--Announces-Second-Quarter-Fiscal-2025-Results-and-Declaration-of-Cash-Dividend/default.aspx"
 published_at: "2025-01-30T14:30:00+00:00"
 first_seen_at: "2026-07-27T03:19:31.566558+00:00"
-fetched_at: "2026-07-28T23:52:06.783407+00:00"
+fetched_at: "2026-07-29T17:00:07.136672+00:00"
 content_hash: "sha256:71e43a3cbf59c8ebbc8615142080f5f859cbc5aa4043aa7eee5fecbfc8489769"
 ---
 

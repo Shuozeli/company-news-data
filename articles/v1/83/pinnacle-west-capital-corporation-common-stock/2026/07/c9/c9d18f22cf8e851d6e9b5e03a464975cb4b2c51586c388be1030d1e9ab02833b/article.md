@@ -7,7 +7,7 @@ source_id: "pinnacle-west-capital-corporation-common-stock-rss-9af6db3e95b3"
 canonical_url: "http://www.pinnaclewest.com/newsroom/company-news/news-release-details/2026/From-Legacy-to-Future-APS-Plans-to-Convert-Cholla-Power-Plant-to-Natural-Gas/default.aspx"
 published_at: "2026-07-02T04:00:00+00:00"
 first_seen_at: "2026-07-25T19:07:04.087325+00:00"
-fetched_at: "2026-07-28T23:49:41.928661+00:00"
+fetched_at: "2026-07-29T15:43:59.850871+00:00"
 content_hash: "sha256:03a18c28fb8a225785bba1af606373a67eaea47c5fcd25ae383058c9f07ad5f4"
 ---
 

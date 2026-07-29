@@ -7,7 +7,7 @@ source_id: "six-flags-entertainment-corporation-common-stock-new-rss-03dcd83dd79
 canonical_url: "https://investors.sixflags.com/news/press-releases/press-release-details/2026/Six-Flags-Appoints-Ash-Walia-Chief-Financial-Officer/default.aspx"
 published_at: "2026-05-27T20:30:00+00:00"
 first_seen_at: "2026-07-25T23:17:17.036957+00:00"
-fetched_at: "2026-07-28T23:35:41.337653+00:00"
+fetched_at: "2026-07-29T15:31:10.953672+00:00"
 content_hash: "sha256:2d2f0249d1d78a6ff174d53a27faf33c751f5be5d68daee16a9e2bd198a720bd"
 ---
 

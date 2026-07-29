@@ -7,7 +7,7 @@ source_id: "connectone-bancorp-inc-common-stock-rss-93f36156fe6f"
 canonical_url: "https://ir.connectonebank.com/news-market-information/press-release/news-details/2025/ConnectOne-Bancorp-Inc--Reports-Third-Quarter-2025-Results/default.aspx"
 published_at: "2025-10-30T11:00:00+00:00"
 first_seen_at: "2026-07-27T01:14:37.016202+00:00"
-fetched_at: "2026-07-28T23:03:39.206306+00:00"
+fetched_at: "2026-07-29T14:42:44.360868+00:00"
 content_hash: "sha256:fc0c0799c329f06ad0a966c77eb10eb72e2f1d608dbae801b8d99c234d23d3f4"
 ---
 

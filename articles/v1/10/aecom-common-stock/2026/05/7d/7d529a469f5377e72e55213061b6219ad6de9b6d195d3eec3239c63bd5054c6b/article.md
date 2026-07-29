@@ -7,7 +7,7 @@ source_id: "aecom-common-stock-rss-06e0000d390a"
 canonical_url: "https://aecom.com/blog/growing-our-own-a-smarter-approach-to-scotlands-energy-skills-gap/"
 published_at: "2026-05-13T21:14:21+00:00"
 first_seen_at: "2026-07-25T01:09:37.919036+00:00"
-fetched_at: "2026-07-28T23:46:17.625245+00:00"
+fetched_at: "2026-07-29T15:39:21.116498+00:00"
 content_hash: "sha256:94db7bb3f190d1f21f11c50183b320d0a5cf0827a8f52907a65acf0abb628140"
 ---
 

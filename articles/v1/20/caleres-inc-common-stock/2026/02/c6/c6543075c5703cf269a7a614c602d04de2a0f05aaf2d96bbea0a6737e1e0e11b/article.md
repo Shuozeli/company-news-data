@@ -7,7 +7,7 @@ source_id: "caleres-inc-common-stock-rss-0c861d034a87"
 canonical_url: "https://investor.caleres.com/news/news-details/2026/Caleres-Earns-Equality-100-Award-in-the-Human-Rights-Campaign-Foundations-2026-Corporate-Equality-Index-2026-8riuBIXHcz/default.aspx"
 published_at: "2026-02-18T20:30:00+00:00"
 first_seen_at: "2026-07-26T11:02:23.481129+00:00"
-fetched_at: "2026-07-28T23:04:00.387019+00:00"
+fetched_at: "2026-07-29T14:41:31.835814+00:00"
 content_hash: "sha256:e9722ca38015d349d123f131a5a16ca9b4812329fa317fdcad4149f76396a5ae"
 ---
 

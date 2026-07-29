@@ -7,7 +7,7 @@ source_id: "isabella-bank-corporation-common-stock-rss-c2a98f8e443a"
 canonical_url: "https://ir.isabellabank.com/news/news-details/2026/Isabella-Bank-Corporation-Celebrates-One-Year-on-Nasdaq-with-Closing-Bell-Ceremony-in-Times-Square-2026-JCcxSbAgnJ/default.aspx"
 published_at: "2026-05-27T12:00:00+00:00"
 first_seen_at: "2026-07-25T10:03:05.183247+00:00"
-fetched_at: "2026-07-28T23:26:26.127201+00:00"
+fetched_at: "2026-07-29T15:22:36.532670+00:00"
 content_hash: "sha256:9257022434273297ee3c057f867860c71c5e38e21171d43407cbeb92ee8ac115"
 ---
 

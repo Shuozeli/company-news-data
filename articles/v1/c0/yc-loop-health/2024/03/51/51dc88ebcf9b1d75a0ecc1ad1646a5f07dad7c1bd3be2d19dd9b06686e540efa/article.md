@@ -7,7 +7,7 @@ source_id: "yc-loop-health-rss-2b917676138c"
 canonical_url: "https://loophealth.io/silent-struggles-the-need-for-mental-health-support-among-minorities/"
 published_at: "2024-03-03T02:13:25+00:00"
 first_seen_at: "2026-07-24T09:56:55.836543+00:00"
-fetched_at: "2026-07-28T23:52:12.241134+00:00"
+fetched_at: "2026-07-29T17:08:39.834688+00:00"
 content_hash: "sha256:a7beb309afc44433d4b194e49871eb574609ddd62b14f1c38eb1d1d2047b0621"
 ---
 

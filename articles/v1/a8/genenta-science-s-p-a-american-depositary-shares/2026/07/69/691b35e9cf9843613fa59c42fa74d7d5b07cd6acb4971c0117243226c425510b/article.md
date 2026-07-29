@@ -7,7 +7,7 @@ source_id: "genenta-science-s-p-a-american-depositary-shares-rss-3108a93df4a7"
 canonical_url: "https://www.genenta.com/news/sophia-high-tech/"
 published_at: "2026-07-01T16:02:53+00:00"
 first_seen_at: "2026-07-25T06:23:46.712061+00:00"
-fetched_at: "2026-07-29T00:51:39.538791+00:00"
+fetched_at: "2026-07-29T15:16:56.933697+00:00"
 content_hash: "sha256:bc645f7db65aa423e0338ce234201953e2bc91c86c13f71e1c9e452ccc743746"
 ---
 

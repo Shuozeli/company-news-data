@@ -4,17 +4,17 @@
     "key": "teads-holding-co-common-stock",
     "name": "Teads Holding Co. Common Stock"
   },
-  "record_count": 14,
+  "record_count": 15,
   "first_published_at": null,
   "last_published_at": null,
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 14
+      "record_count": 15
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -22,10 +22,10 @@
       {
         "page": 1,
         "path": "articles/v1/a2/teads-holding-co-common-stock/index/pages/000001.json",
-        "record_count": 14,
-        "byte_count": 16461,
-        "sha256": "sha256:957e9ab8fd04adb680de4fb595f1b739f977935b9c697f460cbe96ba93fd22c7",
-        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "record_count": 15,
+        "byte_count": 17673,
+        "sha256": "sha256:1575fdeda9472065dedc819e012795ac664bd0518a5ad1cf357ce644cd595403",
+        "newest_at": "2026-07-29T12:13:17.521560+00:00",
         "oldest_at": "2026-07-28T21:20:12.930591+00:00"
       }
     ]

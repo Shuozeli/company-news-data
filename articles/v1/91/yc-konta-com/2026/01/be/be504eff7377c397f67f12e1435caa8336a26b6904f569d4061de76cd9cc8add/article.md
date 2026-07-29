@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/como-facturar-en-walmart-paso-a-paso-guia-2026"
 published_at: "2026-01-08T20:17:00+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-29T00:28:45.595523+00:00"
+fetched_at: "2026-07-29T13:55:42.101113+00:00"
 content_hash: "sha256:2e51c34042e9318c776d99a3e1a51e8d25115c15d8c460329f2552c312003f84"
 ---
 

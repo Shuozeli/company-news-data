@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2024/Vertiv-Reports-60-Organic-Orders-Growth-8-Net-Sales-Growth-in-First-Quarter-Updates-Full-Year-2024-Outlook/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T23:23:56.894710+00:00"
+fetched_at: "2026-07-29T15:18:57.174384+00:00"
 content_hash: "sha256:97b1f8447000bc5af78dbfb3a5a133ea19cb7ec29b2c8c482a548196b39aba41"
 ---
 

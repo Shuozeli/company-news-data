@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/matchgroup/why-an-anxious-ai-romantic-now-drives-match-groups-dating-apps/"
 published_at: "2026-05-22T21:06:27+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:e665115d2451747078ed4390baf5baf73349d05a03038a616c1d47bee14e51f0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/hagerty-community/according-to-you-the-best-money-saving-diy-repairs/"
 published_at: "2026-07-28T15:00:00+00:00"
 first_seen_at: "2026-07-28T15:56:37.345882+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:f422262a3e39fbc08b0c2e9a5b4b03d0880824fa545384e7f57933b9a21c6ad8"
 ---
 

@@ -7,7 +7,7 @@ source_id: "insperity-inc-common-stock-rss-70d704854329"
 canonical_url: "https://www.insperity.com/blog/performance-management-business-success/"
 published_at: "2026-05-22T15:19:13+00:00"
 first_seen_at: "2026-07-27T06:19:13.921156+00:00"
-fetched_at: "2026-07-28T21:48:34.378179+00:00"
+fetched_at: "2026-07-29T10:05:45.558212+00:00"
 content_hash: "sha256:efa03977d39f6a6350d43c629b22850ce93fcf45accc2cdcddbd34073be74729"
 ---
 

@@ -7,7 +7,7 @@ source_id: "cna-financial-corporation-common-stock-rss-95c273fe18f3"
 canonical_url: "https://investor-relations.cna.com/news/news-details/2026/CNA-Financial-to-Report-First-Quarter-2026-Results-on-May-4/default.aspx"
 published_at: "2026-04-14T14:00:00+00:00"
 first_seen_at: "2026-07-27T01:03:33.701437+00:00"
-fetched_at: "2026-07-28T23:53:41.761579+00:00"
+fetched_at: "2026-07-29T17:01:42.231436+00:00"
 content_hash: "sha256:93d5d0d586f23db185f3abffe7d766b2258937aad6c250a088e06f4dea6cef74"
 ---
 

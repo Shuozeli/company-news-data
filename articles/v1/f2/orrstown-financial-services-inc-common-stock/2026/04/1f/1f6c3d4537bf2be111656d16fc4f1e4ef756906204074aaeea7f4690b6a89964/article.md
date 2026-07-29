@@ -7,7 +7,7 @@ source_id: "orrstown-financial-services-inc-common-stock-rss-6064773c12c6"
 canonical_url: "https://investors.orrstown.com/news/news-details/2026/Orrstown-Financial-Services-Inc--Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-04-21T20:05:00+00:00"
 first_seen_at: "2026-07-25T17:55:18.673795+00:00"
-fetched_at: "2026-07-28T22:53:28.606739+00:00"
+fetched_at: "2026-07-29T14:22:57.875831+00:00"
 content_hash: "sha256:07dd96f719aefd4e0cfd66b7488c9f109d87abd5fc8d49656f737042fd32ffed"
 ---
 

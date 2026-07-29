@@ -7,7 +7,7 @@ source_id: "affiliated-managers-group-inc-common-stock-rss-e37c749c5103"
 canonical_url: "https://ir.amg.com/news-releases/news-release-details/amg-reports-financial-and-operating-results-fourth-quarter-19"
 published_at: "2026-02-12T11:55:00+00:00"
 first_seen_at: "2026-07-26T08:42:10.961452+00:00"
-fetched_at: "2026-07-29T00:39:46.052547+00:00"
+fetched_at: "2026-07-29T15:35:56.226127+00:00"
 content_hash: "sha256:65a11f1f8ee2aa31afc54d804fcab1663e80327e886a6c267d17190b134b2fdb"
 ---
 

@@ -7,7 +7,7 @@ source_id: "saul-centers-inc-common-stock-rss-38c4298075fd"
 canonical_url: "https://ir.saulcenters.com/news-market-data/press-releases/press-release/2025/Saul-Centers-Declares-Quarterly-Dividends-2fa1aa84d/default.aspx"
 published_at: "2025-06-12T20:05:00+00:00"
 first_seen_at: "2026-07-25T22:16:18.446224+00:00"
-fetched_at: "2026-07-28T22:13:40.953434+00:00"
+fetched_at: "2026-07-29T14:21:53.444733+00:00"
 content_hash: "sha256:63622cf9368cc0c0af4676596f87e644d2a05471d5e70c295622396de2e4b4af"
 ---
 

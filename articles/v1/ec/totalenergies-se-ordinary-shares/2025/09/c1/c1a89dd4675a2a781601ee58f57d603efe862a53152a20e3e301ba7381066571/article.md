@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/au-coeur-de-la-mer-du-nord-la-plateforme-de-gaz-danoise-tyra-entend-assurer-la-securite-energetique-de-leurope/"
 published_at: "2025-09-16T13:45:51+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T23:24:39.102238+00:00"
+fetched_at: "2026-07-29T15:20:19.764825+00:00"
 content_hash: "sha256:e5cc99d01c7db0d4711ed8241d096c23a7d8f970a3861af3ea4458cfd190507b"
 ---
 

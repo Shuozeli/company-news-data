@@ -7,7 +7,7 @@ source_id: "yc-mozart-data-rss-80d5f072b9ee"
 canonical_url: "https://mozartdata.com/the-key-is-flexibility/"
 published_at: "2023-12-06T23:18:36+00:00"
 first_seen_at: "2026-07-24T11:43:21.667443+00:00"
-fetched_at: "2026-07-28T22:58:23.502461+00:00"
+fetched_at: "2026-07-29T14:35:27.324706+00:00"
 content_hash: "sha256:83d467222c5db54d9e13b50ff27bd8486ca0d5c02fb2fda7a7103f1ecf5e4206"
 ---
 

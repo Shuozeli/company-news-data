@@ -7,7 +7,7 @@ source_id: "zevra-therapeutics-inc-common-stock-rss-75fda4e386e5"
 canonical_url: "https://zevra.com/medical-presentations/arimoclomol-for-the-treatment-of-niemann-pick-disease-type-c-in-a-real-world-setting-long-term-outcomes-from-an-expanded-access-program-in-the-united-states-2/"
 published_at: "2025-09-09T14:36:32+00:00"
 first_seen_at: "2026-07-26T06:34:12.421534+00:00"
-fetched_at: "2026-07-29T00:23:51.654113+00:00"
+fetched_at: "2026-07-29T17:23:22.421635+00:00"
 content_hash: "sha256:2d1058e9e4390213cb0b65eadf476b7b28ddcc23360919f41b49be56460e8100"
 ---
 

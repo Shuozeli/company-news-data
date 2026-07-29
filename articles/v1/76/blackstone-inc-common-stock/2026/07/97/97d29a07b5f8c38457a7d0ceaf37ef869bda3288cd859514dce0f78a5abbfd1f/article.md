@@ -7,7 +7,7 @@ source_id: "blackstone-inc-common-stock-news-import-2d5dbb90454a"
 canonical_url: "https://www.blackstone.com/news/press/blackstone-reports-second-quarter-2026-earnings/"
 published_at: "2026-07-23T11:03:01+00:00"
 first_seen_at: "2026-07-23T22:42:15.649586+00:00"
-fetched_at: "2026-07-28T17:23:40.112220+00:00"
+fetched_at: "2026-07-29T06:12:10.257269+00:00"
 content_hash: "sha256:88182c76f2a649048e55d61431e43db94eedc2bc7e318ed5096b906e8bd35175"
 ---
 

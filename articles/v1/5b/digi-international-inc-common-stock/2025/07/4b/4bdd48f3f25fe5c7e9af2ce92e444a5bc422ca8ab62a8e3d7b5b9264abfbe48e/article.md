@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/iot-helps-overcome-supply-chain-disruptions"
 published_at: "2025-07-28T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:e62366f3d290dbf4a5900de765adde6a8a24703c59320134404ca95f2d300298"
 ---
 

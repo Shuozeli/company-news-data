@@ -7,7 +7,7 @@ source_id: "teledyne-technologies-incorporated-common-stock-rss-9000605d05af"
 canonical_url: "https://blog.teledynelecroy.com/2023/02/the-case-for-can-xl-in-10-mbits-in.html"
 published_at: "2023-02-27T13:00:00+00:00"
 first_seen_at: "2026-07-20T04:36:13.437201+00:00"
-fetched_at: "2026-07-28T23:46:25.634618+00:00"
+fetched_at: "2026-07-29T15:39:33.510429+00:00"
 content_hash: "sha256:68b7608ebac9be641e84446428f589e0342be61728f5453752dd8e75170a77f2"
 ---
 

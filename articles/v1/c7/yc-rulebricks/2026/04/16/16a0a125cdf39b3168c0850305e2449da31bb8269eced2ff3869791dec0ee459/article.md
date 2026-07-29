@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/when-policy-outruns-releases"
 published_at: "2026-04-03T14:10:15+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T22:57:17.651461+00:00"
+fetched_at: "2026-07-29T14:31:05.567422+00:00"
 content_hash: "sha256:a971430b6ce3105d608d02ca53655d3b736b92a17a9161e98a36e426e7c6df6e"
 ---
 

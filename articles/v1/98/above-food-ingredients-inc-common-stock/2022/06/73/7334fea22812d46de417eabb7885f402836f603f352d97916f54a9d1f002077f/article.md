@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-appoints-david-friedberg-to-innovation-advisory-council/"
 published_at: "2022-06-02T13:00:06+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:bb7c0a4900694ee8f5c9da92ee898e4dab66d152ed7324cb79d752a193c0e29e"
 ---
 

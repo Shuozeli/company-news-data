@@ -7,7 +7,7 @@ source_id: "chegg-inc-common-stock-rss-0b23ec2ec36f"
 canonical_url: "https://investor.chegg.com/Press-Releases/press-release-details/2026/Chegg-Expands-Into-AI-Model-Training--Leveraging-a-Decade-of-Learning-Expertise-Subject-Matter-Experts-and-Proprietary-Data/default.aspx"
 published_at: "2026-05-13T13:01:00+00:00"
 first_seen_at: "2026-07-26T11:29:01.770598+00:00"
-fetched_at: "2026-07-28T23:54:18.574143+00:00"
+fetched_at: "2026-07-29T17:00:03.652798+00:00"
 content_hash: "sha256:d4d67a56ee1c3b2fbdddf38b23290c1fcaeebb990a100d4edc9af9189fc766ad"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-onelocal-news-import-533c9df33ae9"
 canonical_url: "https://www.onelocal.com/resources/blog/ai-content"
 published_at: "2025-03-18T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:51:30.741252+00:00"
-fetched_at: "2026-07-28T12:40:03.639470+00:00"
+fetched_at: "2026-07-29T15:40:41.682860+00:00"
 content_hash: "sha256:f2074f4138229bf10660cc04dcda15f06adb192217edaa2ebe1c176de517e4d4"
 ---
 

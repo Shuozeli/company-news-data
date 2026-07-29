@@ -7,7 +7,7 @@ source_id: "ceco-environmental-corp-common-stock-rss-4d3b11d40f0c"
 canonical_url: "https://investors.cecoenviro.com/analyst/tomohiko-sano"
 published_at: "2026-07-09T20:12:42+00:00"
 first_seen_at: "2026-07-25T04:04:46.249211+00:00"
-fetched_at: "2026-07-29T00:41:01.859009+00:00"
+fetched_at: "2026-07-29T14:05:25.777982+00:00"
 content_hash: "sha256:08f82aa6d3e4fe0bb6e4cc1216e14bd147cf01f8de9a049b1f45ff814e14c06d"
 ---
 

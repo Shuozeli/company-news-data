@@ -7,7 +7,7 @@ source_id: "barrick-mining-corporation-common-shares-rss-04ef954d86c6"
 canonical_url: "https://www.barrick.com/English/news/news-details/2026/q1-2026-results/default.aspx"
 published_at: "2026-05-11T10:00:00+00:00"
 first_seen_at: "2026-07-25T01:16:22.091967+00:00"
-fetched_at: "2026-07-28T23:01:12.069195+00:00"
+fetched_at: "2026-07-29T14:37:43.073143+00:00"
 content_hash: "sha256:989f4daf4c670b0c9d55ca58971e0ff46dba53864154a6d5bd7246e913a0138f"
 ---
 

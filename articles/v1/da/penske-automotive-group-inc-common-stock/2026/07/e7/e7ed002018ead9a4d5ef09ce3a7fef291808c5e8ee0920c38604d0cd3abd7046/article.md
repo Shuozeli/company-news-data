@@ -7,7 +7,7 @@ source_id: "penske-automotive-group-inc-common-stock-rss-a02bf8e21472"
 canonical_url: "https://investors.penskeautomotive.com/news/news-details/2026/PENSKE-AUTOMOTIVE-GROUP-ANNOUNCES-23RD-QUARTERLY-DIVIDEND-INCREASE/default.aspx"
 published_at: "2026-07-23T10:58:00+00:00"
 first_seen_at: "2026-07-25T18:44:51.963501+00:00"
-fetched_at: "2026-07-28T23:09:44.794270+00:00"
+fetched_at: "2026-07-29T14:57:00.985197+00:00"
 content_hash: "sha256:91f9fa499f592a791402f160332513070aa29744f6b3980bff99fbfdeba55acc"
 ---
 

@@ -7,7 +7,7 @@ source_id: "dorman-products-inc-common-stock-rss-b8556f430883"
 canonical_url: "https://shoppress.dormanproducts.com/edc-mechanic-edition/"
 published_at: "2026-06-25T12:00:58+00:00"
 first_seen_at: "2026-07-20T03:32:46.564497+00:00"
-fetched_at: "2026-07-28T23:42:19.685738+00:00"
+fetched_at: "2026-07-29T15:35:42.270399+00:00"
 content_hash: "sha256:da75df4443f28dc9d6075ab8cdeb7f401312d59a23a9b8a260339205d8a88e22"
 ---
 

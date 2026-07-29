@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/real-time-insurance-verification-save-711m-in-2026"
 published_at: "2026-07-22T11:08:51.253+00:00"
 first_seen_at: "2026-07-24T08:23:01.167291+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:29272c198f8edefffe0bdfc5da2e6ef3c6b3a10db5894f9937385d8cca03acce"
 ---
 

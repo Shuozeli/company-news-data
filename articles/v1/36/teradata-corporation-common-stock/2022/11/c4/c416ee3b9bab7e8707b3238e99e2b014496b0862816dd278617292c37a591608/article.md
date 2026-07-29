@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2022/teradata-reports-third-quarter-2022-financial-results"
 published_at: "2022-11-07T08:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T23:07:12.403269+00:00"
+fetched_at: "2026-07-29T14:50:19.991351+00:00"
 content_hash: "sha256:2f98b89ff2c51ecc198439787f33a6c0987aae91d659be83a1baa29319936e52"
 ---
 

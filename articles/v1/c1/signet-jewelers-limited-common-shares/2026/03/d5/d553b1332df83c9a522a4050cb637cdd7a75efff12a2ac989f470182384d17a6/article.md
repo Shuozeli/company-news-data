@@ -7,7 +7,7 @@ source_id: "signet-jewelers-limited-common-shares-rss-0a03f7d17480"
 canonical_url: "https://www.signetjewelers.com/investors/financial-news-releases/financial-news-release/2026/Signet-Jewelers-Reports-Fourth-Quarter-and-Full-Year-Fiscal-2026-Results/default.aspx"
 published_at: "2026-03-19T10:50:00+00:00"
 first_seen_at: "2026-07-25T23:04:22.075178+00:00"
-fetched_at: "2026-07-28T23:32:46.260295+00:00"
+fetched_at: "2026-07-29T15:30:26.010267+00:00"
 content_hash: "sha256:14f9029ba43107bb27e17f46e288e09437dcb724b4903f877c0d3746ffdbbaa5"
 ---
 

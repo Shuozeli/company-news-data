@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/how-contractors-build-for-growth"
 published_at: "2026-06-28T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T23:18:38.216278+00:00"
+fetched_at: "2026-07-29T15:07:27.395221+00:00"
 content_hash: "sha256:eebc60ec8f973bc8d78a5c1732cbcb5ff9cb67969d6149da74d14a2df34ab1ec"
 ---
 

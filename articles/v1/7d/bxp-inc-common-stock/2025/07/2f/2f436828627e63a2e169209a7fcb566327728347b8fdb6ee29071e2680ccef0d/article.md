@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-launches-vertical-construction-of-343-madison-avenue-in-midtown-manhattan"
 published_at: "2025-07-29T21:38:51+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T23:40:04.346470+00:00"
+fetched_at: "2026-07-29T15:34:28.943671+00:00"
 content_hash: "sha256:08a06fee72bd4cf2870863519a0804ee295b99e0147dc1cd3379c51ce4ec0387"
 ---
 

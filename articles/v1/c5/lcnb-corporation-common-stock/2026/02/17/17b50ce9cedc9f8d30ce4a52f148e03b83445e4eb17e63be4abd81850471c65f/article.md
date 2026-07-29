@@ -7,7 +7,7 @@ source_id: "lcnb-corporation-common-stock-rss-a47c5cb26130"
 canonical_url: "https://www.lcnbcorp.com/news-link/news-releases/news-details/2026/LCNB-Corp--Announces-2026-First-Quarter-Dividend/default.aspx"
 published_at: "2026-02-18T21:48:00+00:00"
 first_seen_at: "2026-07-25T11:47:01.678478+00:00"
-fetched_at: "2026-07-28T23:47:05.010020+00:00"
+fetched_at: "2026-07-29T15:41:55.674450+00:00"
 content_hash: "sha256:56c4db160bfa4050343f90f266042dab097ce4dc31f7ff69a0dc77ffca8593cd"
 ---
 

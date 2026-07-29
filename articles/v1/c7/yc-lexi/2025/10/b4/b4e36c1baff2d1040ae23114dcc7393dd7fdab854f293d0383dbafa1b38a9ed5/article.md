@@ -7,7 +7,7 @@ source_id: "yc-lexi-rss-566ce282101c"
 canonical_url: "https://www.getlexi.io/blog/making-the-case-how-in-house-legal-teams-win-with-ai"
 published_at: "2025-10-21T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:24:04.184986+00:00"
-fetched_at: "2026-07-28T23:29:01.795342+00:00"
+fetched_at: "2026-07-29T15:24:34.189397+00:00"
 content_hash: "sha256:53b6977626d0b5e51a5df23d292b3e3cffc13e3c76dd1b10fb40a3f801f4b234"
 ---
 

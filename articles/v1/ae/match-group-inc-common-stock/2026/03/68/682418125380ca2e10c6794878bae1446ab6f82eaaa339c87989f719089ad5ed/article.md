@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/tinder/the-king-of-love-how-spencer-rascoff-reshaped-tinder-and-our-dating-lives/"
 published_at: "2026-03-27T21:50:08+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:145758222b8fd06a69adb4b4659651243517dcc6319645e1c23ce9b73edf5047"
 ---
 

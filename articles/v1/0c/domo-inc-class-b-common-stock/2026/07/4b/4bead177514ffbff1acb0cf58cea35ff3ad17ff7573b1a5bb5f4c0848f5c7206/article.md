@@ -7,7 +7,7 @@ source_id: "domo-inc-class-b-common-stock-rss-298bf834a3f7"
 canonical_url: "https://www.domoinvestors.com/news/news-details/2026/Domo-Named-to-the-2026-Women-Tech-Council-Shatter-List/default.aspx"
 published_at: "2026-07-01T12:59:00+00:00"
 first_seen_at: "2026-07-25T01:15:23.455293+00:00"
-fetched_at: "2026-07-29T00:50:19.785669+00:00"
+fetched_at: "2026-07-29T14:20:31.919281+00:00"
 content_hash: "sha256:6627f107e68529751ecf7338ebfffb791b5a7037a02a683c62b870411e6e4ddc"
 ---
 

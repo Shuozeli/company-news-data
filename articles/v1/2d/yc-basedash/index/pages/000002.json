@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 2,
   "record_count": 50,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "9034a36f27d10d5d915e72a5fe73e2412a1c6ceba4c0026df5749ba2d0859f8d",
+      "company_key": "yc-basedash",
+      "company_name": "Basedash",
+      "source_id": "yc-basedash-rss-86d6e075e8cf",
+      "source_kind": "rss",
+      "canonical_url": "https://www.basedash.com/blog/how-to-build-a-sql-dashboard-from-queries-to-a-dashboard-people-trust/",
+      "title": "How to build a SQL dashboard: from queries to a dashboard people trust",
+      "summary": "A practical workflow for building a SQL dashboard: connect a data source, write one query per tile, pick the right charts, add filters, and keep the numbers…",
+      "published_at": "2026-06-21T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+      "article_path": "articles/v1/2d/yc-basedash/2026/06/90/9034a36f27d10d5d915e72a5fe73e2412a1c6ceba4c0026df5749ba2d0859f8d/article.md",
+      "record_path": "articles/v1/2d/yc-basedash/2026/06/90/9034a36f27d10d5d915e72a5fe73e2412a1c6ceba4c0026df5749ba2d0859f8d/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "2edaf720327452530d2a2fa7a4b75b43683af6a8cf9b43f4462d8edefd241017",
@@ -738,21 +753,6 @@
       "fetched_at": "2026-07-28T22:13:09.708388+00:00",
       "article_path": "articles/v1/2d/yc-basedash/2026/05/f2/f2ae4af2e265e7d5a371dbf29bea4e4007cc2943fe6ddc53cc94f7096c59e588/article.md",
       "record_path": "articles/v1/2d/yc-basedash/2026/05/f2/f2ae4af2e265e7d5a371dbf29bea4e4007cc2943fe6ddc53cc94f7096c59e588/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
-      "document_id": "6f905ef94c75f39d07d84ee3066a0e7f07319fc0ca864cb97734858103b0f3e6",
-      "company_key": "yc-basedash",
-      "company_name": "Basedash",
-      "source_id": "yc-basedash-rss-86d6e075e8cf",
-      "source_kind": "rss",
-      "canonical_url": "https://www.basedash.com/blog/how-to-migrate-from-metabase-to-a-modern-bi-tool-a-practical-playbook/",
-      "title": "How to migrate from Metabase to a modern BI tool: a practical playbook",
-      "summary": "A step-by-step Metabase migration playbook: audit, tool selection, dashboard rebuild, cutover, and decommission. Includes a checklist and common mistakes.",
-      "published_at": "2026-05-13T00:00:00+00:00",
-      "fetched_at": "2026-07-28T22:13:17.137376+00:00",
-      "article_path": "articles/v1/2d/yc-basedash/2026/05/6f/6f905ef94c75f39d07d84ee3066a0e7f07319fc0ca864cb97734858103b0f3e6/article.md",
-      "record_path": "articles/v1/2d/yc-basedash/2026/05/6f/6f905ef94c75f39d07d84ee3066a0e7f07319fc0ca864cb97734858103b0f3e6/record.json"
     }
   ]
 }

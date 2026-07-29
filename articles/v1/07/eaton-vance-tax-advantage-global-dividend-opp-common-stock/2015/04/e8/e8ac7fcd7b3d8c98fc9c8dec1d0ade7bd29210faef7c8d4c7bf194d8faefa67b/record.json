@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8ac7fcd7b3d8c98fc9c8dec1d0ade7bd29210faef7c8d4c7bf194d8faefa67b",
+  "company": {
+    "key": "eaton-vance-tax-advantage-global-dividend-opp-common-stock",
+    "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock"
+  },
+  "source": {
+    "id": "eaton-vance-tax-advantage-global-dividend-opp-common-stock-news-import-e3f51532636b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dividendinvestor.com/dividend-news/20260728/dep-shs-repstg-1-40th-int-sh-5.625-non-cum-perp-pfd-ser-f-associated-banc-corp-nyse-asb_pf-declared-a-dividend-of-$0.3516-per-share/",
+    "canonical": "https://www.dividendinvestor.com/dividend-news/20260728/dep-shs-repstg-1-40th-int-sh-5.625-non-cum-perp-pfd-ser-f-associated-banc-corp-nyse-asb_pf-declared-a-dividend-of-$0.3516-per-share/"
+  },
+  "title": "ASB_PF Dividend Announcement $0.3516/Share 7/28/2026",
+  "summary": "NYSE:ASB_PF Dep Shs Repstg 1/40th Int Sh 5.625% Non Cum Perp Pfd Ser F/Associated Banc-Corp Dividend Announcement $0.3516 per share on July 28, 2026",
+  "published_at": "2015-04-11T08:10:45+00:00",
+  "first_seen_at": "2026-07-29T04:23:19.490816+00:00",
+  "fetched_at": "2026-07-29T04:23:22.085184+00:00",
+  "last_updated_at": "2026-07-29T04:23:26.613645+00:00",
+  "paths": {
+    "article": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/e8/e8ac7fcd7b3d8c98fc9c8dec1d0ade7bd29210faef7c8d4c7bf194d8faefa67b/article.md",
+    "record": "articles/v1/07/eaton-vance-tax-advantage-global-dividend-opp-common-stock/2015/04/e8/e8ac7fcd7b3d8c98fc9c8dec1d0ade7bd29210faef7c8d4c7bf194d8faefa67b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2371,
+    "sha256": "sha256:9942bd8b430492b82243f96f8de9ceaffb1aae9bc6c7012897816d8f993aed8b",
+    "normalized_content_hash": "sha256:a7f48e73ecbaf2a6d1c7bf72aa24033fb47fa7f9665008d30ee8b80a7709e541"
+  },
+  "provenance": {
+    "source_item_id": "07875568-045d-486f-bd85-c2e012afb09b",
+    "external_id": "https://www.dividendinvestor.com/dividend-news/20260728/dep-shs-repstg-1-40th-int-sh-5.625-non-cum-perp-pfd-ser-f-associated-banc-corp-nyse-asb_pf-declared-a-dividend-of-$0.3516-per-share/"
+  }
+}

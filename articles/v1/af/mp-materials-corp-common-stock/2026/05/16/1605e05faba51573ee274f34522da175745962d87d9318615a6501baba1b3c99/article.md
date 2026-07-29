@@ -7,7 +7,7 @@ source_id: "mp-materials-corp-common-stock-rss-dfaffb3e61ed"
 canonical_url: "https://investors.mpmaterials.com/investor-news/news-details/2026/MP-Materials-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-07T20:05:00+00:00"
 first_seen_at: "2026-07-25T15:05:41.685551+00:00"
-fetched_at: "2026-07-28T23:32:37.452291+00:00"
+fetched_at: "2026-07-29T15:29:42.807171+00:00"
 content_hash: "sha256:2501d75df7707bf22d7ee581c8d0dd00310190ee764279caa95b429230026d16"
 ---
 

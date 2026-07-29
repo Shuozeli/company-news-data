@@ -7,7 +7,7 @@ source_id: "yc-flagright-news-import-ace9cee3e95e"
 canonical_url: "https://www.flagright.com/post/flagright-to-support-unicredit-enterprise-risk-based-transaction-monitoring"
 published_at: "2026-07-23T00:00:00+00:00"
 first_seen_at: "2026-07-25T05:15:45.844172+00:00"
-fetched_at: "2026-07-27T08:00:34.444438+00:00"
+fetched_at: "2026-07-29T05:13:09.711822+00:00"
 content_hash: "sha256:d58a78621e8ad9ee055f992aeb02f4ae7a1a77d432cac7f48dc0afc0b40f6a32"
 ---
 

@@ -7,7 +7,7 @@ source_id: "the-realreal-inc-common-stock-rss-2f71ca5a7bf7"
 canonical_url: "https://investor.therealreal.com/news/news-details/2026/The-RealReal-Announces-Fourth-Quarter-and-Full-Year-2025-Results-02-26-2026/default.aspx"
 published_at: "2026-02-26T05:00:00+00:00"
 first_seen_at: "2026-07-26T02:16:58.872962+00:00"
-fetched_at: "2026-07-28T22:57:54.283564+00:00"
+fetched_at: "2026-07-29T14:31:03.812958+00:00"
 content_hash: "sha256:a3dd76732b74ccbfdcd551892b11bdcdae105178495e40b295a69557adb3a36c"
 ---
 

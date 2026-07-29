@@ -7,7 +7,7 @@ source_id: "chaince-digital-holdings-inc-ordinary-shares-rss-3f461f105395"
 canonical_url: "https://chaincedigital.com/former-securitize-capital-ceo-wilfred-daye-joins-mercurity-fintech-as-chief-strategy-officer-and-chaince-securities-ceo-2/"
 published_at: "2026-04-13T23:11:27+00:00"
 first_seen_at: "2026-07-20T23:18:10.276107+00:00"
-fetched_at: "2026-07-28T22:17:20.039825+00:00"
+fetched_at: "2026-07-29T14:22:21.060654+00:00"
 content_hash: "sha256:5f3c4c464f9a09ad996108ec6f2cd23390cd369285d5ab24ffc570e5638fb29d"
 ---
 

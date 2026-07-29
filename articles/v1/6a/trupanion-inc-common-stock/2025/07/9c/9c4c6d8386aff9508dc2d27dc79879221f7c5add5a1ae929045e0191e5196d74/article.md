@@ -7,7 +7,7 @@ source_id: "trupanion-inc-common-stock-news-import-b3fe567ac9c2"
 canonical_url: "https://www.trupanion.com/about/media-resources/data-and-pet-ownership-statistics/article/summer-dehydration-and-heatstroke-2025"
 published_at: "2025-07-16T00:00:00+00:00"
 first_seen_at: "2026-07-26T03:12:03.797628+00:00"
-fetched_at: "2026-07-28T17:37:55.930207+00:00"
+fetched_at: "2026-07-29T06:24:58.307897+00:00"
 content_hash: "sha256:0f6af18db12d991f513e0f52c78a47a64fed6378041f400941d1cac3f8c351f6"
 ---
 

@@ -7,7 +7,7 @@ source_id: "perma-pipe-international-holdings-inc-common-stock-rss-204668fef2c0"
 canonical_url: "https://investors.permapipe.com/news/news-details/2025/Perma-Pipe-International-Holdings-Inc--Secures-52-Million-in-Third-Quarter-Awards-Expands-Global-Reach-With-U-S--Data-Centers-and-Saudi-Aramco-Projects/default.aspx"
 published_at: "2025-12-03T13:45:00+00:00"
 first_seen_at: "2026-07-25T18:48:56.852120+00:00"
-fetched_at: "2026-07-28T23:19:21.180132+00:00"
+fetched_at: "2026-07-29T15:08:56.009663+00:00"
 content_hash: "sha256:13be7b167afa84d2d9631f567840d956376d8c9322f531b2971d95efdce6e488"
 ---
 

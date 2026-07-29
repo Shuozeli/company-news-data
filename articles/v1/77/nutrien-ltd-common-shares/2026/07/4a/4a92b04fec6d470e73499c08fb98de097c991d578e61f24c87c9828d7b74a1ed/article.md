@@ -5,7 +5,7 @@ company_key: "nutrien-ltd-common-shares"
 company: "Nutrien Ltd. Common Shares"
 source_id: "nutrien-ltd-common-shares-news-import-637e5d14b4ff"
 canonical_url: "https://www.nutrien.com/news/stories/why-regulatory-specialists-are-essential"
-published_at: null
+published_at: "2026-06-03T00:00:00+00:00"
 first_seen_at: "2026-07-22T06:40:15.007273+00:00"
 fetched_at: "2026-07-28T21:38:27.854613+00:00"
 content_hash: "sha256:04826b190ec199a2615433a049b28411efd92fda2f5bb91cc0f29852124867eb"

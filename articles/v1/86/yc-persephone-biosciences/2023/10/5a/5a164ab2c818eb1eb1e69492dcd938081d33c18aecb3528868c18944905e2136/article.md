@@ -7,7 +7,7 @@ source_id: "yc-persephone-biosciences-rss-3e1d37532ea3"
 canonical_url: "https://www.persephonebiosciences.com/persephone-biosciences-announces-new-collaboration-with-kroger-health-to-launch-ambrosia-food-as-medicine-study/"
 published_at: "2023-10-20T19:42:00+00:00"
 first_seen_at: "2026-07-20T23:24:06.192520+00:00"
-fetched_at: "2026-07-28T23:25:55.741277+00:00"
+fetched_at: "2026-07-29T15:22:18.759194+00:00"
 content_hash: "sha256:39bb0ea94c738ecef7680cd23420060b5aff03aa01ad1991cfe39a87c495ff7b"
 ---
 

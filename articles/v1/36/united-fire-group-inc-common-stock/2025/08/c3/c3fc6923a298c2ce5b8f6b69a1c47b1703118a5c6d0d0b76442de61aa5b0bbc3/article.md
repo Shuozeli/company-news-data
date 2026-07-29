@@ -7,7 +7,7 @@ source_id: "united-fire-group-inc-common-stock-rss-286aa464d6ed"
 canonical_url: "https://ir.ufginsurance.com/news/news-details/2025/United-Fire-Group-Inc--announces-new-board-appointment/default.aspx"
 published_at: "2025-08-18T20:30:00+00:00"
 first_seen_at: "2026-07-27T05:56:13.981471+00:00"
-fetched_at: "2026-07-28T23:19:49.260745+00:00"
+fetched_at: "2026-07-29T15:09:00.143019+00:00"
 content_hash: "sha256:6963e5a2e9fe9af9819e87c8104f2866a2498dcafcf520fbb2a8716b02b9c4f1"
 ---
 

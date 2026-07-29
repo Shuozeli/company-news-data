@@ -7,7 +7,7 @@ source_id: "omnicom-group-inc-common-stock-rss-f1a06364749b"
 canonical_url: "https://investor.omc.com/news/news-details/2026/Omnicom-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-04-28T20:03:00+00:00"
 first_seen_at: "2026-07-27T04:08:00.268690+00:00"
-fetched_at: "2026-07-28T22:55:08.585852+00:00"
+fetched_at: "2026-07-29T14:24:44.462610+00:00"
 content_hash: "sha256:e64da6507cb353375cc2dd4ca076709f55093dd93c7fd394b31f2a3d349e0a55"
 ---
 

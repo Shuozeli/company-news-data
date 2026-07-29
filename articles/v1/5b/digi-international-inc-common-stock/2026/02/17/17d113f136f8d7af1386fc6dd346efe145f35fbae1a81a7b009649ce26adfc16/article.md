@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/wi-sun-critical-infrastructure"
 published_at: "2026-02-24T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:bc763005d5b01f9f83e4437dbbaab84f5db00c2fd59694d4deb5defdee4aeeed"
 ---
 

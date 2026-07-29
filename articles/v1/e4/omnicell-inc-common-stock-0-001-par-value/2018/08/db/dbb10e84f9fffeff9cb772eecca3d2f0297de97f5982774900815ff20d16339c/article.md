@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2018/Omnicell-Exhibits-Industry-Leading-Platform-with-Suite-of-Automated-Supply-and-Medication-Management-Solutions-at-AHRMM18/default.aspx"
 published_at: "2018-08-09T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:3de334d18fb23ab52bd5748e40f18812d5ca10f87a50e4dda9d09918a37bba26"
 ---
 

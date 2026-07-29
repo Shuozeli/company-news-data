@@ -7,7 +7,7 @@ source_id: "cumberland-pharmaceuticals-inc-common-stock-rss-3ab07e3622d9"
 canonical_url: "https://www.cumberlandpharma.com/third-quarter-2025-updates-including-new-product-addition-and-international-expansion/"
 published_at: "2025-11-12T13:40:12+00:00"
 first_seen_at: "2026-07-20T23:19:50.983327+00:00"
-fetched_at: "2026-07-29T00:46:25.939104+00:00"
+fetched_at: "2026-07-29T14:09:43.459682+00:00"
 content_hash: "sha256:503ff6b0fb8990aff22b24e03bde931feafda3157c973ce302ae458dc6cd1379"
 ---
 

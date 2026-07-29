@@ -7,7 +7,7 @@ source_id: "upstart-holdings-inc-common-stock-rss-a598e0871937"
 canonical_url: "https://medium.com/upstart-tech/upstarts-new-low-code-no-code-data-platform-aqueduct-282799dbdfed"
 published_at: "2025-02-03T18:34:00+00:00"
 first_seen_at: "2026-07-20T23:17:16.152971+00:00"
-fetched_at: "2026-07-29T00:02:45.883485+00:00"
+fetched_at: "2026-07-29T17:09:50.409738+00:00"
 content_hash: "sha256:ea2fcdce3d64343fecfe66070b8996d8f01b6ae0ed5ab442f1c39da0227df63c"
 ---
 

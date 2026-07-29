@@ -7,7 +7,7 @@ source_id: "veeva-systems-inc-class-a-common-stock-rss-6e072e159a8b"
 canonical_url: "https://ir.veeva.com/news/news-details/2026/Merck-KGaA-Darmstadt-Germany-Selects-Veeva-Vault-CRM-Worldwide/default.aspx"
 published_at: "2026-05-27T11:03:00+00:00"
 first_seen_at: "2026-07-26T04:18:52.897077+00:00"
-fetched_at: "2026-07-28T23:21:36.255755+00:00"
+fetched_at: "2026-07-29T15:12:37.482310+00:00"
 content_hash: "sha256:7f7a92de55233034e95c6e17380bdc0ba5d23d31da31f74317fee4d8db44208f"
 ---
 

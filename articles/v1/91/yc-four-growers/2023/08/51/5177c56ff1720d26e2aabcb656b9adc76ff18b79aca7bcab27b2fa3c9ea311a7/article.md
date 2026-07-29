@@ -7,7 +7,7 @@ source_id: "yc-four-growers-rss-8be8350904ae"
 canonical_url: "https://fourgrowers.com/about/media/beyond-tomatoes-four-growers-robots-begin-harvesting-cucumbers-ahead-of-start-on-new-funding-round/"
 published_at: "2023-08-23T14:57:02+00:00"
 first_seen_at: "2026-07-25T05:36:06.101502+00:00"
-fetched_at: "2026-07-28T23:19:57.925010+00:00"
+fetched_at: "2026-07-29T15:15:36.699332+00:00"
 content_hash: "sha256:5f6c6efc6550ddbfee0307fa35b08e4e3b0710eb80902fde52d5ae4ff0e7fd97"
 ---
 

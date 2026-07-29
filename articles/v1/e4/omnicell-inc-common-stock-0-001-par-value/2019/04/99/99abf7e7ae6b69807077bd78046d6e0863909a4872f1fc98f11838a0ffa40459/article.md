@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2019/The-University-of-Tennessee-Medical-Center-Selects-Omnicell-Solutions-to-Support-Medication-Management-Strategy/default.aspx"
 published_at: "2019-04-24T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:34638abcc9921210c16a8bbb1b3a8f5701422b9623df572cea34567be56282ad"
 ---
 

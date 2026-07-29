@@ -7,7 +7,7 @@ source_id: "yc-metal-news-import-c3e62a577482"
 canonical_url: "https://www.metal.ai/blog/workflow-portfolio-monitoring"
 published_at: null
 first_seen_at: "2026-07-23T17:36:18.798245+00:00"
-fetched_at: "2026-07-29T00:24:49.404807+00:00"
+fetched_at: "2026-07-29T13:36:27.140652+00:00"
 content_hash: "sha256:4af8b94a47111fb5f2d805e3990992b730113e9ad0c5dc5a4154db4caa5b01ec"
 ---
 

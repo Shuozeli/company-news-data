@@ -7,7 +7,7 @@ source_id: "first-northwest-bancorp-common-stock-rss-18e4a95d90b4"
 canonical_url: "https://investor.ourfirstfed.com/press-releases/pr/2025/First-Fed-Foundation-Invites-Final-Applications-for-Fall-Grant-Cycle/default.aspx"
 published_at: "2025-08-25T17:53:00+00:00"
 first_seen_at: "2026-07-25T05:00:25.751324+00:00"
-fetched_at: "2026-07-29T00:30:50.991012+00:00"
+fetched_at: "2026-07-29T13:58:35.280327+00:00"
 content_hash: "sha256:4f4d411c110e94d4cd81681a738c342223b13c79272a72499f132c7510936761"
 ---
 

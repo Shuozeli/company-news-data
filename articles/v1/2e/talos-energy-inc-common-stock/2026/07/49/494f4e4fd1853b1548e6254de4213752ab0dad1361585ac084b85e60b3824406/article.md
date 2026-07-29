@@ -7,7 +7,7 @@ source_id: "talos-energy-inc-common-stock-rss-7720b01b3d18"
 canonical_url: "http://www.talosenergy.com/investor-relations/news/news-details/2026/Talos-Energy-Announces-Pricing-of-Offering-of-800-Million-of-Second-Priority-Senior-Secured-Notes-due-2034/default.aspx"
 published_at: "2026-07-01T20:33:00+00:00"
 first_seen_at: "2026-07-26T01:23:40.241246+00:00"
-fetched_at: "2026-07-28T23:21:35.754297+00:00"
+fetched_at: "2026-07-29T15:15:24.687475+00:00"
 content_hash: "sha256:4555e69b0075411fc0bfe69b41992aa832c3640fe32e2aa60c305781038afc3e"
 ---
 

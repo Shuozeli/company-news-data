@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2021/coborns-selects-solution-from-smartsense-by-digi"
 published_at: "2021-02-02T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-29T00:18:21.249102+00:00"
+fetched_at: "2026-07-29T17:20:27.608714+00:00"
 content_hash: "sha256:c48cc765cda0c6f08d2d4aa3f0c512496b6e8085bf999a0c70d632e0bc670ba9"
 ---
 

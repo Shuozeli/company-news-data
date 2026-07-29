@@ -7,7 +7,7 @@ source_id: "amarin-corporation-plc-rss-5a6dc08ff807"
 canonical_url: "https://investors.amarincorp.com/news-releases/news-release-details/effects-icosapent-ethyl-risk-and-duration-hospitalizations-and"
 published_at: "2026-03-02T13:01:06+00:00"
 first_seen_at: "2026-07-26T09:06:16.575376+00:00"
-fetched_at: "2026-07-28T23:16:02.876317+00:00"
+fetched_at: "2026-07-29T15:05:52.933617+00:00"
 content_hash: "sha256:cb1c873066b7128d20497c070d46fa06292fff3b73e307201da0f96e6485d0c4"
 ---
 

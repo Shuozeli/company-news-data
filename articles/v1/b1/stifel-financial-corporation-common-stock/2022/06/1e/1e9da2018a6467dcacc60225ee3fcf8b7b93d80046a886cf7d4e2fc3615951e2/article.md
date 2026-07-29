@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2022/Eaton-MarketPlace-Launch-for-06.02.22.pdf"
 published_at: "2022-06-02T12:30:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T23:28:13.781454+00:00"
+fetched_at: "2026-07-29T15:21:02.651051+00:00"
 content_hash: "sha256:4b4feeca70cd7f8fe35adcae26eccf9d0fecdf18af30aeee6263eeebd09ec76e"
 ---
 

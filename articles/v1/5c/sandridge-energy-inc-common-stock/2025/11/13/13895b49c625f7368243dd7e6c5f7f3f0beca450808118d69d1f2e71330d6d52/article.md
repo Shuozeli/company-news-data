@@ -7,7 +7,7 @@ source_id: "sandridge-energy-inc-common-stock-rss-5b82a608bfe4"
 canonical_url: "https://investors.sandridgeenergy.com/Investor-Relations/press-releases/press-release-details/2025/SANDRIDGE-ENERGY-INC--ANNOUNCES-THIRD-QUARTER-2025-OPERATIONAL-AND-FINANCIAL-RESULTS-RELEASE-DATE-AND-CONFERENCE-CALL-INFORMATION/default.aspx"
 published_at: "2025-11-04T22:43:00+00:00"
 first_seen_at: "2026-07-25T22:09:48.506465+00:00"
-fetched_at: "2026-07-29T00:50:09.401555+00:00"
+fetched_at: "2026-07-29T14:20:18.067562+00:00"
 content_hash: "sha256:a5d4fcac318a064a522cccc4dd4b7dd49e83f8fe8b3fac0a494b65d525dcbc29"
 ---
 

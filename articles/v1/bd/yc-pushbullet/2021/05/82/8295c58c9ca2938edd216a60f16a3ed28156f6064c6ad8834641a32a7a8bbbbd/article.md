@@ -7,7 +7,7 @@ source_id: "yc-pushbullet-rss-4ba42a362971"
 canonical_url: "https://blog.pushbullet.com/2021/05/03/notice-to-pushbullet-facebook-login-users"
 published_at: "2021-05-03T05:00:00+00:00"
 first_seen_at: "2026-07-25T20:08:48.518680+00:00"
-fetched_at: "2026-07-28T23:36:19.489802+00:00"
+fetched_at: "2026-07-29T15:32:18.727731+00:00"
 content_hash: "sha256:b0e51e8c0283eff6e01d31f8787e935e25dc009f4f179777a5378668d2637036"
 ---
 

@@ -7,7 +7,7 @@ source_id: "inovio-pharmaceuticals-inc-common-stock-rss-5c267f4600c7"
 canonical_url: "https://ir.inovio.com/news/news-details/2026/INOVIO-Announces-Proposed-Public-Offering/default.aspx"
 published_at: "2026-04-02T00:05:00+00:00"
 first_seen_at: "2026-07-25T09:30:58.453543+00:00"
-fetched_at: "2026-07-29T00:35:16.960+00:00"
+fetched_at: "2026-07-29T14:01:01.463668+00:00"
 content_hash: "sha256:18c525e447335ea583b0a6c15fcfa7f0a9ef3b4f78986ee80d6524b9b334319d"
 ---
 

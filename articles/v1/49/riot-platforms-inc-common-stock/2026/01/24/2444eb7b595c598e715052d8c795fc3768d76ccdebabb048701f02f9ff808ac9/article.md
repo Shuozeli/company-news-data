@@ -7,7 +7,7 @@ source_id: "riot-platforms-inc-common-stock-rss-31fdadf17010"
 canonical_url: "https://www.riotplatforms.com/riot-platforms-announces-chief-financial-officer-transition/"
 published_at: "2026-01-02T22:20:00+00:00"
 first_seen_at: "2026-07-24T13:19:46.152955+00:00"
-fetched_at: "2026-07-28T23:47:45.295382+00:00"
+fetched_at: "2026-07-29T15:40:56.903727+00:00"
 content_hash: "sha256:53580b5cf1b5a3e7be502e209b27667c0e18f7471e96c8c7a5fb18a1de331f5c"
 ---
 

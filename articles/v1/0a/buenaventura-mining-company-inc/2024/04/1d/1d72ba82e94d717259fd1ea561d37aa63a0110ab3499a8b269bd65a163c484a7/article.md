@@ -7,7 +7,7 @@ source_id: "buenaventura-mining-company-inc-rss-3af63dbcc9b4"
 canonical_url: "https://buenaventura.com/huancavelica-la-primera-ciudad-del-mundo-en-inaugurar-la-academia-de-futbol-de-andres-iniesta/"
 published_at: "2024-04-04T15:45:59+00:00"
 first_seen_at: "2026-07-25T01:09:56.313654+00:00"
-fetched_at: "2026-07-28T23:08:05.565366+00:00"
+fetched_at: "2026-07-29T14:49:50.594105+00:00"
 content_hash: "sha256:1ef115a23640160f4e62ab32c8959f5a546f81248fd55f85c7f6a5802917b875"
 ---
 

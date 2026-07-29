@@ -7,7 +7,7 @@ source_id: "avidia-bancorp-inc-common-stock-rss-fda82a5dd3e1"
 canonical_url: "https://www.avidiabank.com/newsroom/2024-avidia-bank-annual-report/"
 published_at: "2025-04-17T16:02:55+00:00"
 first_seen_at: "2026-07-26T23:15:50.832243+00:00"
-fetched_at: "2026-07-29T00:45:10.708785+00:00"
+fetched_at: "2026-07-29T14:08:41.159579+00:00"
 content_hash: "sha256:df4673572b8a5ad17b5fbb82a92939a6f9df76f99c255f83a5d8e8d3751d2174"
 ---
 

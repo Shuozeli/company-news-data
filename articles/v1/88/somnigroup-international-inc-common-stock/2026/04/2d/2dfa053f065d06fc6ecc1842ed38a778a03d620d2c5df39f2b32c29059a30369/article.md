@@ -7,7 +7,7 @@ source_id: "somnigroup-international-inc-common-stock-rss-3796651686fb"
 canonical_url: "https://somnigroup.com/newsroom/news-details/2026/Somnigroup-International-the-Worlds-Leading-Bedding-Company-to-Acquire-Leggett--Platt-A-Diversified-Component-Manufacturer-and-Key-Somnigroup-Supplier-in-an-All-Stock-Transaction/default.aspx"
 published_at: "2026-04-13T10:36:00+00:00"
 first_seen_at: "2026-07-25T23:41:12.576315+00:00"
-fetched_at: "2026-07-29T00:11:19.562159+00:00"
+fetched_at: "2026-07-29T17:13:11.062933+00:00"
 content_hash: "sha256:ff55fba6ad102d40e775235b1a2b25a918a60ea6e41f0df68134f3a18e6f446c"
 ---
 

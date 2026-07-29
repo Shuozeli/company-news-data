@@ -4,9 +4,9 @@
     "key": "voyager-technologies-inc-class-a-common-stock",
     "name": "Voyager Technologies Inc. Class A Common Stock"
   },
-  "record_count": 25,
+  "record_count": 26,
   "first_published_at": "2026-02-24T18:15:56+00:00",
-  "last_published_at": "2026-07-24T12:00:00+00:00",
+  "last_published_at": "2026-07-29T11:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-02",
@@ -30,11 +30,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 8
+      "record_count": 9
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -42,10 +42,10 @@
       {
         "page": 1,
         "path": "articles/v1/66/voyager-technologies-inc-class-a-common-stock/index/pages/000001.json",
-        "record_count": 25,
-        "byte_count": 31584,
-        "sha256": "sha256:93ce21fec13149a6c0358b20750e8aa485b22d37ca3f52116099725f48c1dd49",
-        "newest_at": "2026-07-24T12:00:00+00:00",
+        "record_count": 26,
+        "byte_count": 32670,
+        "sha256": "sha256:649cecb97d034cc6f9f8ea659759399e8db4b06a929e4ad892b7c45d71782323",
+        "newest_at": "2026-07-29T11:00:00+00:00",
         "oldest_at": "2026-02-24T18:15:56+00:00"
       }
     ]

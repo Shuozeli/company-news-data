@@ -7,7 +7,7 @@ source_id: "greene-county-bancorp-inc-common-stock-rss-2106cb4d1533"
 canonical_url: "https://greenecountybancorp.q4ir.com/news/news-details/2025/Greene-County-Bancorp-Inc--Reports-Record-High-Net-Income-of-31-1-Million-for-the-Fiscal-Year-EndedJune-30-2025-Announces-Plans-to-Expand-into-Saratoga-County/default.aspx"
 published_at: "2025-07-23T13:15:00+00:00"
 first_seen_at: "2026-07-25T07:05:09.523201+00:00"
-fetched_at: "2026-07-29T00:27:42.163758+00:00"
+fetched_at: "2026-07-29T13:55:33.225406+00:00"
 content_hash: "sha256:8e8bffc41e9b3443dc349ec2f54603eda67e346ae3912a81e4674a1f649c6cef"
 ---
 

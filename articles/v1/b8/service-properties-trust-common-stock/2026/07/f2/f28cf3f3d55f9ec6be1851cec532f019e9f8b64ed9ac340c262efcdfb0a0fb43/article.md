@@ -7,7 +7,7 @@ source_id: "service-properties-trust-common-stock-rss-ab6cc6b38b1d"
 canonical_url: "http://www.svcreit.com/news/press-release-details/2026/Service-Properties-Trust-Announces-Effective-Date-of-Reverse-Split/default.aspx"
 published_at: "2026-07-02T12:00:00+00:00"
 first_seen_at: "2026-07-25T22:45:03.297417+00:00"
-fetched_at: "2026-07-28T23:18:36.892673+00:00"
+fetched_at: "2026-07-29T15:09:23.007202+00:00"
 content_hash: "sha256:ffe9153de52f3d77bd1d15e30c90d4e5fb3ac3b54df99e501cd515507374e442"
 ---
 

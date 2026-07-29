@@ -7,7 +7,7 @@ source_id: "hudson-pacific-properties-inc-common-stock-rss-348072d19ba0"
 canonical_url: "https://investors.hudsonpacificproperties.com/investor-resources/press-releases/press-release-details/2026/Hudson-Pacific-Properties-Announces-2025-Dividend-Tax-Treatment/default.aspx"
 published_at: "2026-01-30T14:00:00+00:00"
 first_seen_at: "2026-07-25T08:33:12.400252+00:00"
-fetched_at: "2026-07-28T23:53:39.931348+00:00"
+fetched_at: "2026-07-29T17:09:58.010250+00:00"
 content_hash: "sha256:4a327ad3f02ba94190d331bed7a7cbbc8887ba52acaf97a09716268fa469df9f"
 ---
 

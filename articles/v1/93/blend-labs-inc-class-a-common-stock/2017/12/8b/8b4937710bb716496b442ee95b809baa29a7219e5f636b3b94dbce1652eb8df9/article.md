@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/predicting-application-submission-with-a-recurrent-neural-network.html"
 published_at: "2017-12-06T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-29T00:27:54.647135+00:00"
+fetched_at: "2026-07-29T13:54:11.516897+00:00"
 content_hash: "sha256:a7c4464ff683e2fb5396634e8c4cde520104cf36ed07dc540d9e9a5fbd1ffb1f"
 ---
 

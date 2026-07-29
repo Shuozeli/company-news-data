@@ -7,7 +7,7 @@ source_id: "yc-backerkit-rss-16060e51d2f4"
 canonical_url: "https://www.backerkit.com/blog/backerkit-topias-2026-creator-applications-are-now-open/"
 published_at: "2025-07-24T18:39:20+00:00"
 first_seen_at: "2026-07-27T07:56:11.356641+00:00"
-fetched_at: "2026-07-28T23:57:52.029477+00:00"
+fetched_at: "2026-07-29T15:46:45.334420+00:00"
 content_hash: "sha256:a477abb0684ca1836766d11504c0652f2d28cb7a8b33ba74c8b5f067be0860c3"
 ---
 

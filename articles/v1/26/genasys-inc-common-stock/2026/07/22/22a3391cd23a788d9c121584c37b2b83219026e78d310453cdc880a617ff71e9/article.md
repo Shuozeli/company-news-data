@@ -7,7 +7,7 @@ source_id: "genasys-inc-common-stock-rss-9191986b12dc"
 canonical_url: "https://genasys.com/videos/introducing-leon-by-evertel/"
 published_at: "2026-07-15T15:31:58+00:00"
 first_seen_at: "2026-07-25T06:19:45.416581+00:00"
-fetched_at: "2026-07-29T00:46:03.525230+00:00"
+fetched_at: "2026-07-29T14:09:49.952186+00:00"
 content_hash: "sha256:e58e4e2489cdf27b97831b5b6a0f76dce997d5b5aea5458c17e9655dae857adf"
 ---
 

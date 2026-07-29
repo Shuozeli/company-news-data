@@ -7,7 +7,7 @@ source_id: "phillips-edison-company-inc-common-stock-rss-7489895c143d"
 canonical_url: "https://investors.phillipsedison.com/news-events/news-details/2026/Phillips-Edison--Company-to-Present-at-Citis-2026-Global-Property-CEO-Conference/default.aspx"
 published_at: "2026-02-23T21:05:00+00:00"
 first_seen_at: "2026-07-25T18:56:15.112855+00:00"
-fetched_at: "2026-07-28T23:28:29.854266+00:00"
+fetched_at: "2026-07-29T15:24:02.647630+00:00"
 content_hash: "sha256:a5959177d767953efd6ceb0693f349a70228bbeac3d86471722c668001494467"
 ---
 

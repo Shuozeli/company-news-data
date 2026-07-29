@@ -4,9 +4,9 @@
     "key": "xti-aerospace-inc-common-stock",
     "name": "XTI Aerospace Inc. Common Stock"
   },
-  "record_count": 23,
+  "record_count": 28,
   "first_published_at": "2024-03-25T02:07:07+00:00",
-  "last_published_at": "2026-07-27T08:30:00+00:00",
+  "last_published_at": "2026-07-29T13:42:13+00:00",
   "partitions": [
     {
       "partition": "2024-03",
@@ -46,11 +46,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 8
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -58,10 +58,10 @@
       {
         "page": 1,
         "path": "articles/v1/cb/xti-aerospace-inc-common-stock/index/pages/000001.json",
-        "record_count": 23,
-        "byte_count": 27559,
-        "sha256": "sha256:fb03a38cd80f463c49d69f32a777efd227257ca6f53307615d07ccb22fba54d8",
-        "newest_at": "2026-07-27T08:30:00+00:00",
+        "record_count": 28,
+        "byte_count": 33586,
+        "sha256": "sha256:c4b503b352012a3ba26e5c2d07b5ef5ca8a2a831663721c9cb1489c7a6a50b3a",
+        "newest_at": "2026-07-29T13:42:13+00:00",
         "oldest_at": "2024-03-25T02:07:07+00:00"
       }
     ]

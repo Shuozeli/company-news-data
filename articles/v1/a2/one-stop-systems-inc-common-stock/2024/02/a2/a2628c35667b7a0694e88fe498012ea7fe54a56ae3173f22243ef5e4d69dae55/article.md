@@ -7,7 +7,7 @@ source_id: "one-stop-systems-inc-common-stock-atom-3c5790b2a18f"
 canonical_url: "https://onestopsystems.com/blogs/one-stop-systems-blog/redundancy-and-management-of-rugged-edge-servers"
 published_at: "2024-02-13T16:52:26+00:00"
 first_seen_at: "2026-07-20T23:19:18.941877+00:00"
-fetched_at: "2026-07-28T22:55:34.314523+00:00"
+fetched_at: "2026-07-29T14:25:14.856007+00:00"
 content_hash: "sha256:76ac36651ce09aa67ab09840264b4291c8eb0dad153b58dda62edfcefc5417b7"
 ---
 

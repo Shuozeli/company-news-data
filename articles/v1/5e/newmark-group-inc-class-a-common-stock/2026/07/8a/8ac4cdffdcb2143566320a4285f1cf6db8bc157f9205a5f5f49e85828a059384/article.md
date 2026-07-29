@@ -7,7 +7,7 @@ source_id: "newmark-group-inc-class-a-common-stock-rss-3925c6b543ec"
 canonical_url: "https://www.nmrk.com/insights/press-releases/newmark-arranges-sale-of-cornerstone-plaza-in-southlake-texas"
 published_at: "2026-07-27T14:00:00+00:00"
 first_seen_at: "2026-07-27T19:31:52.738267+00:00"
-fetched_at: "2026-07-28T22:59:53.234597+00:00"
+fetched_at: "2026-07-29T14:37:57.528482+00:00"
 content_hash: "sha256:6dbe43314a690ffd889b0e099e56d1de07897422bdae6d60195bc3a5afb84b81"
 ---
 

@@ -7,7 +7,7 @@ source_id: "aligos-therapeutics-inc-common-stock-rss-e904f5283fa0"
 canonical_url: "https://aligos.com/sustained-reduction-of-hbv-antigen-levels-at-%e2%89%a56-months-follow-up-in-hbeag-positive-participants-with-chronic-hepatitis-b-infection-after-96-weeks-of-300-mg-pevifoscorvir-sodium-monotherapy/"
 published_at: "2026-05-27T06:29:00+00:00"
 first_seen_at: "2026-07-24T09:07:29.405763+00:00"
-fetched_at: "2026-07-28T23:49:30.340433+00:00"
+fetched_at: "2026-07-29T15:42:40.714947+00:00"
 content_hash: "sha256:dfe8e3ae3b801c59c3794c67a8cb6f81d788b633d8607ce3b0bb7b773e6802be"
 ---
 

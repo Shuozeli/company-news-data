@@ -7,7 +7,7 @@ source_id: "robinhood-markets-inc-class-a-common-stock-rss-4d5f88ecf3b4"
 canonical_url: "https://medium.com/robinhood-engineering/how-server-driven-ui-is-helping-frontend-engineers-scale-impact-c7dce0c20064"
 published_at: "2023-05-25T20:57:47+00:00"
 first_seen_at: "2026-07-25T21:41:09.986212+00:00"
-fetched_at: "2026-07-29T00:02:15.177673+00:00"
+fetched_at: "2026-07-29T17:09:24.673758+00:00"
 content_hash: "sha256:96535c2e8c24dd105cfb3a7a08ed97865067532693295019249e66fe1555f43e"
 ---
 

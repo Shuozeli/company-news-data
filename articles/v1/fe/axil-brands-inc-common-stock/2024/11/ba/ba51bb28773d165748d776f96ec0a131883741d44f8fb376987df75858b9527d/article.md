@@ -7,7 +7,7 @@ source_id: "axil-brands-inc-common-stock-atom-2f9e2e7b844d"
 canonical_url: "https://goaxil.com/blogs/press-releases/axil-brands-launches-x-series-earplugs-the-ultimate-fusion-of-design-fit-and-performance"
 published_at: "2024-11-12T20:00:00+00:00"
 first_seen_at: "2026-07-25T01:09:14.553659+00:00"
-fetched_at: "2026-07-28T23:46:00.445611+00:00"
+fetched_at: "2026-07-29T15:39:38.104194+00:00"
 content_hash: "sha256:3a5652a8011c1b5f4b5905a3eaec4ecc57be51d56ef31aa25c3eee58cebac073"
 ---
 

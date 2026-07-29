@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/dental-pms-comparison-5-top-platforms-ranked-for-2026"
 published_at: "2026-07-25T10:27:09.487+00:00"
 first_seen_at: "2026-07-25T22:02:25.832637+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:ee5e565a86fbd4cf0fc0a77a94c05312919351de5c6a6f62a86936dbfa477ed4"
 ---
 

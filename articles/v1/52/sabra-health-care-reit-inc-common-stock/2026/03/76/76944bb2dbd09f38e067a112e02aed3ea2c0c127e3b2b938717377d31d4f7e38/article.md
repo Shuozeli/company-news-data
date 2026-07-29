@@ -7,7 +7,7 @@ source_id: "sabra-health-care-reit-inc-common-stock-rss-26a3f03bd560"
 canonical_url: "https://ir.sabrahealth.com/investors/news/news-details/2026/Sabra-Health-Care-REIT-Inc--to-Participate-in-Deutsche-Banks-2026-Healthcare-REIT-Summit/default.aspx"
 published_at: "2026-03-10T20:05:00+00:00"
 first_seen_at: "2026-07-27T04:52:39.338848+00:00"
-fetched_at: "2026-07-28T23:54:07.670448+00:00"
+fetched_at: "2026-07-29T17:01:27.239544+00:00"
 content_hash: "sha256:314a32cef9e9c193af49788996b4422c9f30c03f190adc761b00a23dd67cdc5a"
 ---
 

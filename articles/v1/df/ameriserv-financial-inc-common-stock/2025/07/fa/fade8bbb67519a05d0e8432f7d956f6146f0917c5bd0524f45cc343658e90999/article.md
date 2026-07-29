@@ -7,7 +7,7 @@ source_id: "ameriserv-financial-inc-common-stock-rss-46356192209a"
 canonical_url: "https://investors.ameriserv.com/news-1/news/news-details/2025/AMERISERV-FINANCIAL-REPORTS-EARNINGS-FOR-THE-SECOND-QUARTER-AND-FIRST-SIX-MONTHS-OF-2025-AND-ANNOUNCES-QUARTERLY-COMMON-STOCK-CASH-DIVIDEND/default.aspx"
 published_at: "2025-07-22T12:00:00+00:00"
 first_seen_at: "2026-07-26T22:27:02.958563+00:00"
-fetched_at: "2026-07-29T00:02:18.632139+00:00"
+fetched_at: "2026-07-29T17:11:55.875068+00:00"
 content_hash: "sha256:980f9c38f44aa6f81421fbce5c3956dc3132178a05b1fec13becef66f4446dd1"
 ---
 

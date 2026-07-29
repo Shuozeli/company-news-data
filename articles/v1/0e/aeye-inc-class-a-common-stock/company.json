@@ -4,9 +4,9 @@
     "key": "aeye-inc-class-a-common-stock",
     "name": "AEye Inc. Class A Common Stock"
   },
-  "record_count": 68,
+  "record_count": 69,
   "first_published_at": "2018-11-04T20:44:26+00:00",
-  "last_published_at": "2026-07-16T11:05:27+00:00",
+  "last_published_at": "2026-07-29T11:05:27+00:00",
   "partitions": [
     {
       "partition": "2018-11",
@@ -138,11 +138,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 2,
@@ -151,18 +151,18 @@
         "page": 1,
         "path": "articles/v1/0e/aeye-inc-class-a-common-stock/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 61907,
-        "sha256": "sha256:37a6f4a1d218947ee01ef4b68ab98e1e11e8dc558556a632c6259a5c0797fdc6",
-        "newest_at": "2026-07-16T11:05:27+00:00",
-        "oldest_at": "2023-08-23T22:43:35+00:00"
+        "byte_count": 61898,
+        "sha256": "sha256:9ce2022f644fd23715936c14d1e3c2f97edd51d591c1c8b3c8425ba69cf5c3c6",
+        "newest_at": "2026-07-29T11:05:27+00:00",
+        "oldest_at": "2025-01-31T13:05:32+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/0e/aeye-inc-class-a-common-stock/index/pages/000002.json",
-        "record_count": 18,
-        "byte_count": 21029,
-        "sha256": "sha256:ff0f310c0889766494eae4c29c4deffc494351284527dc8c44fe228971dfe78b",
-        "newest_at": "2023-05-03T16:10:59+00:00",
+        "record_count": 19,
+        "byte_count": 22209,
+        "sha256": "sha256:94cb18eebf2a5de4bfc8d2d087abc2fd17578e8d79597149cdb1ac447c8402e1",
+        "newest_at": "2023-08-23T22:43:35+00:00",
         "oldest_at": "2018-11-04T20:44:26+00:00"
       }
     ]

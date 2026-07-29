@@ -7,7 +7,7 @@ source_id: "cheesecake-factory-incorporated-the-common-stock-rss-d1db0065f926"
 canonical_url: "https://investors.thecheesecakefactory.com/news-and-events/news-releases/news-release-details/2026/The-Cheesecake-Factory-to-Webcast-Second-Quarter-Fiscal-2026-Earnings-Conference-Call-on-July-28-2026/default.aspx"
 published_at: "2026-07-07T20:15:00+00:00"
 first_seen_at: "2026-07-26T11:29:02.053775+00:00"
-fetched_at: "2026-07-28T22:13:37.117719+00:00"
+fetched_at: "2026-07-29T14:21:54.918173+00:00"
 content_hash: "sha256:3cab9f38aab1215d309ab396e03a993876840b4b7eb828a42047b17d4b9c29de"
 ---
 

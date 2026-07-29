@@ -4,7 +4,7 @@
     "key": "eastman-chemical-company-common-stock",
     "name": "Eastman Chemical Company Common Stock"
   },
-  "record_count": 24,
+  "record_count": 25,
   "first_published_at": "2026-04-11T00:00:00+00:00",
   "last_published_at": "2026-07-09T00:00:00+00:00",
   "partitions": [
@@ -14,7 +14,7 @@
     },
     {
       "partition": "2026-05",
-      "record_count": 12
+      "record_count": 13
     },
     {
       "partition": "2026-06",
@@ -26,7 +26,7 @@
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -34,9 +34,9 @@
       {
         "page": 1,
         "path": "articles/v1/e5/eastman-chemical-company-common-stock/index/pages/000001.json",
-        "record_count": 24,
-        "byte_count": 29172,
-        "sha256": "sha256:5d1554ba8f1f725803f2b47867008f204f6811b117bdafb4098432415e82a44d",
+        "record_count": 25,
+        "byte_count": 30323,
+        "sha256": "sha256:4d8bb6c37d7b7339b3eb63b3c962fa312b3b04e5f5fa1df21c5fc7af00294dd5",
         "newest_at": "2026-07-09T00:00:00+00:00",
         "oldest_at": "2026-04-11T00:00:00+00:00"
       }

@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/nous-allons-investir-100-millions-deuros-a-pau/"
 published_at: "2026-05-05T16:50:39+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-29T00:33:16.098879+00:00"
+fetched_at: "2026-07-29T13:59:20.653816+00:00"
 content_hash: "sha256:f35c252b6c3e354d9eb79781c3333ac4b9dfd19e87bcceb81adc5b8ea4caa802"
 ---
 

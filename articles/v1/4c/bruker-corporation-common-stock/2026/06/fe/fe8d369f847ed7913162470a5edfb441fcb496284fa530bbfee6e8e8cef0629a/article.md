@@ -7,7 +7,7 @@ source_id: "bruker-corporation-common-stock-rss-60eb66f25324"
 canonical_url: "https://ir.bruker.com/press-releases/press-release-details/2026/Bruker-Launches-new-timsMRMS-Mass-Spectrometry-Platform-for-Unique-Ultra-Complex-Mixture-Applications-in-the-Energy-Industry/default.aspx"
 published_at: "2026-06-02T15:24:00+00:00"
 first_seen_at: "2026-07-25T01:38:45.231278+00:00"
-fetched_at: "2026-07-28T23:15:32.273855+00:00"
+fetched_at: "2026-07-29T15:04:39.873693+00:00"
 content_hash: "sha256:6e75dad1babde3eecc8bf974ee0e646bc85da7bfa31dae3378c077ca4bba4c57"
 ---
 

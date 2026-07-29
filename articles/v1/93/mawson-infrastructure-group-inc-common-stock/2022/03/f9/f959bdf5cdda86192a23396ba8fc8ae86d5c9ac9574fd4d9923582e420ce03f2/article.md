@@ -7,7 +7,7 @@ source_id: "mawson-infrastructure-group-inc-common-stock-rss-8e61b7fe9dbc"
 canonical_url: "http://www.bigdigital.energy/news/post/mawson-to-present-at-three-events-in-march-2022"
 published_at: "2022-03-16T05:00:00+00:00"
 first_seen_at: "2026-07-25T03:22:07.630495+00:00"
-fetched_at: "2026-07-28T23:29:40.490465+00:00"
+fetched_at: "2026-07-29T15:26:37.124173+00:00"
 content_hash: "sha256:9d2e1d6cb5e68bf5ebbecbf7248ed9463460891d13ce5ea8bf2335cb8ecc84e2"
 ---
 

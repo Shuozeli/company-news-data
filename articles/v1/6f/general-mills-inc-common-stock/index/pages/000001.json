@@ -1,9 +1,24 @@
 {
   "schema_version": "1.0.0",
-  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
   "page": 1,
-  "record_count": 19,
+  "record_count": 20,
   "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "84399985c12de5e8fe54f2d60bfa303c9e912961987676d939ed6966b9df22f6",
+      "company_key": "general-mills-inc-common-stock",
+      "company_name": "General Mills Inc. Common Stock",
+      "source_id": "general-mills-inc-common-stock-news-import-0b5091f9c5bb",
+      "source_kind": "html",
+      "canonical_url": "https://www.generalmills.com/news-and-stories/press-releases/totinos-brings-fan-favorite-snack-hacks",
+      "title": "Totino's™ Brings Fan-Favorite Snack Hacks to Life with New Pizza Rolls™ and Ultimate Pizza™ Flavors - General Mills",
+      "summary": "New Blasted Pizza Rolls™, additional Ultimate Pizza™ varieties and the return of Cheeseburger Pizza Rolls bring the flavors fans are reaching for right now to t...",
+      "published_at": null,
+      "fetched_at": "2026-07-29T05:36:14.492959+00:00",
+      "article_path": "articles/v1/6f/general-mills-inc-common-stock/2026/07/84/84399985c12de5e8fe54f2d60bfa303c9e912961987676d939ed6966b9df22f6/article.md",
+      "record_path": "articles/v1/6f/general-mills-inc-common-stock/2026/07/84/84399985c12de5e8fe54f2d60bfa303c9e912961987676d939ed6966b9df22f6/record.json"
+    },
     {
       "schema_version": "1.0.0",
       "document_id": "00be8d169df2c8078068981537b4fd4b9129172738b3ecb481521858606e9660",
@@ -27,7 +42,7 @@
       "source_id": "general-mills-inc-common-stock-news-import-0ccac72c3ac9",
       "source_kind": "html",
       "canonical_url": "https://www.generalmills.com/news-and-stories/press-releases/three-indulgent-flavors-one-big-launch-pillsbury-introduces-big-cookies-cookie-dough",
-      "title": "Three Indulgent Flavors, One Big Launch: Pillsbury Introduces BIG COOKIES Cookie Dough | General Mills",
+      "title": "Three Indulgent Flavors, One Big Launch: Pillsbury Introduces BIG COOKIES Cookie Dough - General Mills",
       "summary": "New ready-to-bake dough delivers warm-from-the-oven comfort in S’mores, Chocolate Chunk Salted Caramel and Double Chocolate Cherry — so any day can be a cook...",
       "published_at": null,
       "fetched_at": "2026-07-28T21:40:00.658555+00:00",
@@ -186,21 +201,6 @@
     },
     {
       "schema_version": "1.0.0",
-      "document_id": "84399985c12de5e8fe54f2d60bfa303c9e912961987676d939ed6966b9df22f6",
-      "company_key": "general-mills-inc-common-stock",
-      "company_name": "General Mills Inc. Common Stock",
-      "source_id": "general-mills-inc-common-stock-news-import-0ccac72c3ac9",
-      "source_kind": "html",
-      "canonical_url": "https://www.generalmills.com/news-and-stories/press-releases/totinos-brings-fan-favorite-snack-hacks",
-      "title": "Totino's™ Brings Fan-Favorite Snack Hacks to Life with New Pizza Rolls™ and Ultimate Pizza™ Flavors - General Mills",
-      "summary": "New Blasted Pizza Rolls™, additional Ultimate Pizza™ varieties and the return of Cheeseburger Pizza Rolls bring the flavors fans are reaching for right now t...",
-      "published_at": null,
-      "fetched_at": "2026-07-28T21:33:52.463534+00:00",
-      "article_path": "articles/v1/6f/general-mills-inc-common-stock/2026/07/84/84399985c12de5e8fe54f2d60bfa303c9e912961987676d939ed6966b9df22f6/article.md",
-      "record_path": "articles/v1/6f/general-mills-inc-common-stock/2026/07/84/84399985c12de5e8fe54f2d60bfa303c9e912961987676d939ed6966b9df22f6/record.json"
-    },
-    {
-      "schema_version": "1.0.0",
       "document_id": "8c281a60507cb125ed5b99c48eef49c00cc131c8aa19685076f75e142f4d2368",
       "company_key": "general-mills-inc-common-stock",
       "company_name": "General Mills Inc. Common Stock",
@@ -273,6 +273,21 @@
       "fetched_at": "2026-07-28T21:20:09.527818+00:00",
       "article_path": "articles/v1/6f/general-mills-inc-common-stock/2026/07/f7/f7aa261208b58530e106d3e241e3edaf4236c11879b2df04818b777913a7fb4f/article.md",
       "record_path": "articles/v1/6f/general-mills-inc-common-stock/2026/07/f7/f7aa261208b58530e106d3e241e3edaf4236c11879b2df04818b777913a7fb4f/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "1f74651f1571e6e89289f5dc2825ddee50fdd603421fb3696f0782160d8436a1",
+      "company_key": "general-mills-inc-common-stock",
+      "company_name": "General Mills Inc. Common Stock",
+      "source_id": "general-mills-inc-common-stock-news-import-0b5091f9c5bb",
+      "source_kind": "html",
+      "canonical_url": "https://www.generalmills.com/news-and-stories/stories/50-years-of-crunch-celebrating-a-legacy-of-adventure",
+      "title": "50 Years of Crunch: Celebrating a Legacy of Adventure​ - General Mills",
+      "summary": "​A look back at the history and innovation of the first Nature Valley Crunchy Granola Bar, celebrating our connection to the outdoors...",
+      "published_at": "2026-07-27T06:00:00+00:00",
+      "fetched_at": "2026-07-29T05:36:14.492959+00:00",
+      "article_path": "articles/v1/6f/general-mills-inc-common-stock/2026/07/1f/1f74651f1571e6e89289f5dc2825ddee50fdd603421fb3696f0782160d8436a1/article.md",
+      "record_path": "articles/v1/6f/general-mills-inc-common-stock/2026/07/1f/1f74651f1571e6e89289f5dc2825ddee50fdd603421fb3696f0782160d8436a1/record.json"
     },
     {
       "schema_version": "1.0.0",

@@ -7,7 +7,7 @@ source_id: "west-bancorporation-common-stock-rss-04617da736c9"
 canonical_url: "https://ir.westbankstrong.com/news/news-details/2025/West-Bancorporation-Inc--to-Announce-Quarterly-Results-Hold-Conference-Call-b057ba1f1/default.aspx"
 published_at: "2025-09-19T12:30:00+00:00"
 first_seen_at: "2026-07-28T15:04:55.114516+00:00"
-fetched_at: "2026-07-28T23:37:06.807838+00:00"
+fetched_at: "2026-07-29T15:31:47.624861+00:00"
 content_hash: "sha256:f8dea90f98df5b1afd65baa13b69109ad21fe161001eb5d322de70c9331cf954"
 ---
 

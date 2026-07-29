@@ -7,7 +7,7 @@ source_id: "clearwater-paper-corporation-common-stock-rss-40abd3597a00"
 canonical_url: "https://ir.clearwaterpaper.com/investors/press-releases/news-details/2026/Clearwater-Paper-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-04-28T20:05:00+00:00"
 first_seen_at: "2026-07-25T01:42:52.108433+00:00"
-fetched_at: "2026-07-28T23:11:01.548401+00:00"
+fetched_at: "2026-07-29T14:57:39.054215+00:00"
 content_hash: "sha256:db0697dd00ec59da6cf983a50b53b9cd1572f2e0187b16ace1263f019804f78a"
 ---
 

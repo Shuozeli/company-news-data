@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/dental-insurance-eligibility-7-facts-every-practice-must-know-in-2026"
 published_at: "2026-07-21T11:06:56.180+00:00"
 first_seen_at: "2026-07-24T08:23:01.167291+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:2a9087aa51435e1b71da1bbdfe9e6b9a5eab5745effdc40aab9f3bbca3feb9b9"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ziff-davis-inc-common-stock-rss-97915001e723"
 canonical_url: "https://www.ziffdavis.com/about/news/retailmenot-expands-savings-commitment-with-new-guaranteed-cash-back-at-over-4000-retailers"
 published_at: "2026-02-25T19:37:06+00:00"
 first_seen_at: "2026-07-24T08:06:25.970573+00:00"
-fetched_at: "2026-07-28T22:57:55.158764+00:00"
+fetched_at: "2026-07-29T14:31:43.468367+00:00"
 content_hash: "sha256:b9c1f258159cd5729266384210d07de5fa4e5cda084035b37f652d4efc3cff41"
 ---
 

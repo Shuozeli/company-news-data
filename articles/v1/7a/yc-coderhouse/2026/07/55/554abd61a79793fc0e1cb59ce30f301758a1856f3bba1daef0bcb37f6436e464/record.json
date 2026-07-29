@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "554abd61a79793fc0e1cb59ce30f301758a1856f3bba1daef0bcb37f6436e464",
+  "company": {
+    "key": "yc-coderhouse",
+    "name": "Coderhouse"
+  },
+  "source": {
+    "id": "yc-coderhouse-news-import-7a925063f664",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coderhouse.com/coderlibrary/que-es-apache-spark-para-que-sirve-proyectos-datos",
+    "canonical": "https://www.coderhouse.com/coderlibrary/que-es-apache-spark-para-que-sirve-proyectos-datos"
+  },
+  "title": "Qué es Apache Spark y para qué sirve en datos | Coderhouse",
+  "summary": "Qué es Apache Spark y para qué sirve en proyectos de datos reales: en qué se diferencia de Pandas, casos de uso y primeros pasos si ya sabés Python o SQL.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T09:13:14.216065+00:00",
+  "fetched_at": "2026-07-29T09:13:15.667942+00:00",
+  "last_updated_at": "2026-07-29T09:13:16.386322+00:00",
+  "paths": {
+    "article": "articles/v1/7a/yc-coderhouse/2026/07/55/554abd61a79793fc0e1cb59ce30f301758a1856f3bba1daef0bcb37f6436e464/article.md",
+    "record": "articles/v1/7a/yc-coderhouse/2026/07/55/554abd61a79793fc0e1cb59ce30f301758a1856f3bba1daef0bcb37f6436e464/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6438,
+    "sha256": "sha256:7b14f88ab3ea82e5ea5401366f83e352c8992e5946b99cb76eeb4fadf3e60573",
+    "normalized_content_hash": "sha256:66845450946a02574c6c530454f59597c939825db958b9b4bacc28d872b30667"
+  },
+  "provenance": {
+    "source_item_id": "a9d5bd78-1f03-4e91-abce-14fd7418db58",
+    "external_id": "https://www.coderhouse.com/coderlibrary/que-es-apache-spark-para-que-sirve-proyectos-datos"
+  }
+}

@@ -4,9 +4,9 @@
     "key": "research-solutions-inc-common-stock",
     "name": "Research Solutions Inc Common Stock"
   },
-  "record_count": 35,
+  "record_count": 36,
   "first_published_at": "2024-09-30T00:00:00+00:00",
-  "last_published_at": "2026-06-23T13:15:00+00:00",
+  "last_published_at": "2026-07-29T13:38:48+00:00",
   "partitions": [
     {
       "partition": "2024-09",
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 19
+      "record_count": 20
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -46,10 +46,10 @@
       {
         "page": 1,
         "path": "articles/v1/7b/research-solutions-inc-common-stock/index/pages/000001.json",
-        "record_count": 35,
-        "byte_count": 42370,
-        "sha256": "sha256:b789f4d52ab5a7d7ec7219c492bec431639621f936ff1acc2f09a090bf246032",
-        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "record_count": 36,
+        "byte_count": 43543,
+        "sha256": "sha256:388441cbe4e7b6f36b90212ae9a1afa962e8ba4fee9d966c11aae48b055fc970",
+        "newest_at": "2026-07-29T13:38:48+00:00",
         "oldest_at": "2024-09-30T00:00:00+00:00"
       }
     ]

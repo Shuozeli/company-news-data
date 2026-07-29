@@ -7,7 +7,7 @@ source_id: "yc-lollipuff-rss-1aefb943cc78"
 canonical_url: "https://www.lollipuff.com/christian-dior-rouge-premier-lipstick-necklace/"
 published_at: "2026-01-22T19:36:40+00:00"
 first_seen_at: "2026-07-25T01:53:27.944775+00:00"
-fetched_at: "2026-07-28T23:16:31.531465+00:00"
+fetched_at: "2026-07-29T15:06:12.951381+00:00"
 content_hash: "sha256:792b9a3cd6a3cf302adc1cc46ff0b5d3a0226b42576fcec7a381d3f58ff8e6ca"
 ---
 

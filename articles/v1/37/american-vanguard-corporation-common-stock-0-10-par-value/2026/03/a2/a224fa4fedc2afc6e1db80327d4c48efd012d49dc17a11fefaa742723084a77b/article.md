@@ -7,7 +7,7 @@ source_id: "american-vanguard-corporation-common-stock-0-10-par-value-rss-05bd65
 canonical_url: "https://investors-american-vanguard.com/news/news-details/2026/American-Vanguard-Reports-Full-Year-2025-Results/default.aspx"
 published_at: "2026-03-16T22:30:00+00:00"
 first_seen_at: "2026-07-26T22:25:07.097327+00:00"
-fetched_at: "2026-07-28T22:13:38.219065+00:00"
+fetched_at: "2026-07-29T14:21:39.355179+00:00"
 content_hash: "sha256:b0dbceee56d83b3b41a56de71181e79ac162f23242976db1ad5bb2d98f019fb6"
 ---
 

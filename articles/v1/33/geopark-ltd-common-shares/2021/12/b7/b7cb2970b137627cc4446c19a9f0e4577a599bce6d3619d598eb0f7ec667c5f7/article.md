@@ -7,7 +7,7 @@ source_id: "geopark-ltd-common-shares-rss-ad922b42f026"
 canonical_url: "https://www.geo-park.com/uncategorized/donating-more-than-300-tablets-for-villanueva-children-to-study-from-home/"
 published_at: "2021-12-15T14:39:47+00:00"
 first_seen_at: "2026-07-20T23:22:37.443202+00:00"
-fetched_at: "2026-07-28T23:28:20.567059+00:00"
+fetched_at: "2026-07-29T15:23:52.444519+00:00"
 content_hash: "sha256:00771bde33d50c883fb56904399cf2eb6cf8964eb26c3d292c2c3a4c22e1b4fb"
 ---
 

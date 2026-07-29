@@ -7,7 +7,7 @@ source_id: "the-kraft-heinz-company-common-stock-rss-8f17a12574d3"
 canonical_url: "https://news.kraftheinzcompany.com/press-releases-details/2026/Kraft-Heinz-Celebrates-250-Years-of-Summer-Cookouts-with-The-United-Tastes-of-America/default.aspx"
 published_at: "2026-05-12T11:00:00+00:00"
 first_seen_at: "2026-07-26T02:11:22.027754+00:00"
-fetched_at: "2026-07-28T22:15:52.028343+00:00"
+fetched_at: "2026-07-29T14:22:30.995761+00:00"
 content_hash: "sha256:9cb2eb69000072aef88b7de8ac57f2deac0dfb95e5cdb210b5bb8f4a1c78380e"
 ---
 

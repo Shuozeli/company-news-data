@@ -7,7 +7,7 @@ source_id: "upstart-holdings-inc-common-stock-rss-a598e0871937"
 canonical_url: "https://medium.com/upstart-tech/self-service-oauth-with-okta-and-terraform-ede1555465ab"
 published_at: "2023-01-18T22:37:21+00:00"
 first_seen_at: "2026-07-20T23:17:16.152971+00:00"
-fetched_at: "2026-07-29T00:02:45.883485+00:00"
+fetched_at: "2026-07-29T17:09:50.409738+00:00"
 content_hash: "sha256:f831352f36a8de8336a90c740a6c0d2ae6c98c11654f621354322ad46a7094cf"
 ---
 

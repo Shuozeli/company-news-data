@@ -7,7 +7,7 @@ source_id: "yc-patientdeskai-news-import-1972bcca4faf"
 canonical_url: "https://www.patientdesk.ai/blog/teledentistry-in-2026-a-2-75b-market-reshaping-oral-care"
 published_at: "2026-07-16T10:57:15.143+00:00"
 first_seen_at: "2026-07-22T08:21:05.592812+00:00"
-fetched_at: "2026-07-28T12:58:46.903323+00:00"
+fetched_at: "2026-07-29T17:09:35.749924+00:00"
 content_hash: "sha256:f6bf34771fd24466ee6279140a792916e85dc8b0c3e44c2ccffdae9b746baadf"
 ---
 

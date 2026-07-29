@@ -7,7 +7,7 @@ source_id: "yc-waterplan-news-import-8432a9416678"
 canonical_url: "https://www.waterplan.com/blog/eu-omnibus"
 published_at: "2025-07-23T00:00:00+00:00"
 first_seen_at: "2026-07-24T06:52:56.269796+00:00"
-fetched_at: "2026-07-28T11:35:16.661862+00:00"
+fetched_at: "2026-07-29T14:40:49.044954+00:00"
 content_hash: "sha256:8239bb4e4051ed566cec21e030d065e2ac60da73347e15e557907f75a40efdd3"
 ---
 

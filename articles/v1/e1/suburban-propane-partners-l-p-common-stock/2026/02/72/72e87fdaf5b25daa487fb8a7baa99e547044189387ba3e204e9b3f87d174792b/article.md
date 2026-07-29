@@ -7,7 +7,7 @@ source_id: "suburban-propane-partners-l-p-common-stock-rss-735cd6635d3c"
 canonical_url: "https://investor.suburbanpropane.com/2026-02-05-Suburban-Propane-Partners,-L-P-Announces-First-Quarter-Results"
 published_at: "2026-02-05T12:30:00+00:00"
 first_seen_at: "2026-07-25T01:08:05.565238+00:00"
-fetched_at: "2026-07-29T00:35:11.121502+00:00"
+fetched_at: "2026-07-29T14:00:49.970072+00:00"
 content_hash: "sha256:82288aff4fd38f27cb22e7d8c0412f08f1c258eb533ffb36e32864184487aae6"
 ---
 

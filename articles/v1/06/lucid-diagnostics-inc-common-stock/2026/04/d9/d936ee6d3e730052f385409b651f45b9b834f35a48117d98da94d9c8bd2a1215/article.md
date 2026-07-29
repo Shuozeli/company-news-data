@@ -7,7 +7,7 @@ source_id: "lucid-diagnostics-inc-common-stock-rss-590340e93b88"
 canonical_url: "https://ir.luciddx.com/2026-04-23-Lucid-Diagnostics-Announces-18-Million-Underwritten-Offering-of-Common-Stock"
 published_at: "2026-04-23T12:30:00+00:00"
 first_seen_at: "2026-07-20T23:18:46.040741+00:00"
-fetched_at: "2026-07-29T00:05:50.504314+00:00"
+fetched_at: "2026-07-29T17:03:14.708553+00:00"
 content_hash: "sha256:647168464085d75fc14a294db7098e8497d68175b7e965bf63b296a8a8b02776"
 ---
 

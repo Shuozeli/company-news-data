@@ -7,7 +7,7 @@ source_id: "yc-ghosteye-rss-5d11c55fa7e6"
 canonical_url: "https://ghosteye.ai/blog/run-the-attack-before-they-do"
 published_at: "2026-07-16T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:17.326814+00:00"
-fetched_at: "2026-07-29T00:49:40.059591+00:00"
+fetched_at: "2026-07-29T14:10:44.251641+00:00"
 content_hash: "sha256:e739a6fdf0ec11e1a5013c9c5502aa983dcb279b9c43e600dcaae05af3ec210b"
 ---
 

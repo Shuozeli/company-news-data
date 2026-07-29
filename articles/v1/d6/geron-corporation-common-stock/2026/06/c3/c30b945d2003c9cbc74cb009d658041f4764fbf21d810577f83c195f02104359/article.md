@@ -7,7 +7,7 @@ source_id: "geron-corporation-common-stock-rss-ed8a6ff7f64f"
 canonical_url: "https://ir.geron.com/news-releases/news-release-details/june-12-2026"
 published_at: "2026-06-12T18:39:56+00:00"
 first_seen_at: "2026-07-25T06:28:22.877488+00:00"
-fetched_at: "2026-07-28T23:01:22.631342+00:00"
+fetched_at: "2026-07-29T14:38:57.293689+00:00"
 content_hash: "sha256:62c652985a08ae6b7f1b58a12625523596f17ccf3e6d2b2c00a7813a6213f5df"
 ---
 

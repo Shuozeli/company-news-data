@@ -7,7 +7,7 @@ source_id: "american-vanguard-corporation-common-stock-0-10-par-value-rss-05bd65
 canonical_url: "https://investors-american-vanguard.com/news/news-details/2026/American-Vanguard-Announces-Date-of-Full-Year-2025-Earnings-Release-and-Webcast-Conference-Call-2026-jbUB--Y3M2/default.aspx"
 published_at: "2026-03-13T15:00:00+00:00"
 first_seen_at: "2026-07-26T22:25:07.097327+00:00"
-fetched_at: "2026-07-28T22:13:38.219065+00:00"
+fetched_at: "2026-07-29T14:21:39.355179+00:00"
 content_hash: "sha256:4ceb08a0fb8052a6f3c93acfadbc4aac6a8c1228c93902753bb3b91bcb5c6646"
 ---
 

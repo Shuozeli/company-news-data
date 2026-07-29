@@ -7,7 +7,7 @@ source_id: "riverview-bancorp-inc-common-stock-rss-ed003b2fdf29"
 canonical_url: "https://investors.riverviewbank.com/news/news-details/2026/Riverview-Bancorp-Reports-Fiscal-Fourth-Quarter-2026-and-Fiscal-Year-2026-Results/default.aspx"
 published_at: "2026-04-28T12:00:00+00:00"
 first_seen_at: "2026-07-25T21:35:52.668205+00:00"
-fetched_at: "2026-07-28T22:15:52.667872+00:00"
+fetched_at: "2026-07-29T14:22:31.395714+00:00"
 content_hash: "sha256:d758da6e79869a78fd8e9a75f1439114523be29ab820f44719fc9197ecd9a46e"
 ---
 

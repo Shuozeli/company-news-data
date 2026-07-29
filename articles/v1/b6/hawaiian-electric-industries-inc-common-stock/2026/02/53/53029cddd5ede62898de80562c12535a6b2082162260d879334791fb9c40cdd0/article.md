@@ -7,7 +7,7 @@ source_id: "hawaiian-electric-industries-inc-common-stock-rss-20259465158f"
 canonical_url: "https://www.hei.com/investor-relations/news-and-events/news/news-details/2026/HEI-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-02-27T21:05:00+00:00"
 first_seen_at: "2026-07-25T07:43:38.567861+00:00"
-fetched_at: "2026-07-28T23:18:57.783665+00:00"
+fetched_at: "2026-07-29T15:08:39.829064+00:00"
 content_hash: "sha256:63a159dc7503770a4dbffd74cabfd7b64cf267bfe98876beb4a191d75e0f6f80"
 ---
 

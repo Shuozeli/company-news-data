@@ -7,7 +7,7 @@ source_id: "yc-chonkie-atom-7829c83b5d35"
 canonical_url: "https://github.com/feyninc/chonkie/releases/tag/v1.6.7"
 published_at: "2026-05-19T04:50:43+00:00"
 first_seen_at: "2026-07-24T22:18:14.501867+00:00"
-fetched_at: "2026-07-28T23:12:38.999014+00:00"
+fetched_at: "2026-07-29T14:57:56.348639+00:00"
 content_hash: "sha256:148719494e7503eff3af400f0f09f7c4949ddcc0bd5b6c4d8b591b79e1e0996b"
 ---
 

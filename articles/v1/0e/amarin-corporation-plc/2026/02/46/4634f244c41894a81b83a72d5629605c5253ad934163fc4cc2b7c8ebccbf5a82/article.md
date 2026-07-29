@@ -7,7 +7,7 @@ source_id: "amarin-corporation-plc-rss-5a6dc08ff807"
 canonical_url: "https://investors.amarincorp.com/news-releases/news-release-details/amarin-reports-fourth-quarter-and-full-year-2025-financial"
 published_at: "2026-02-25T12:00:50+00:00"
 first_seen_at: "2026-07-26T09:06:16.575376+00:00"
-fetched_at: "2026-07-28T23:16:02.876317+00:00"
+fetched_at: "2026-07-29T10:49:44.839698+00:00"
 content_hash: "sha256:f4b8a44c031d3a62fcb40bcad09b057ad781eba32eac971e81b75e9309f8971c"
 ---
 

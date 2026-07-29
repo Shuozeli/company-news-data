@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/digi-xbee-3-rf-protocols-packages-features"
 published_at: "2022-02-24T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:47356ec4d877c46e8d281c9616893efc7d4951f420d4ee9bb760f70c49c9b1c9"
 ---
 

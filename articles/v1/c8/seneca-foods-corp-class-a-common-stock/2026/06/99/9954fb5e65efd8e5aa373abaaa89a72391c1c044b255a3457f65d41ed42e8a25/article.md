@@ -7,7 +7,7 @@ source_id: "seneca-foods-corp-class-a-common-stock-rss-dd5d61c574ed"
 canonical_url: "https://www.senecafoods.com/sec-filing/11k"
 published_at: "2026-06-26T20:13:39+00:00"
 first_seen_at: "2026-07-20T23:22:26.267179+00:00"
-fetched_at: "2026-07-28T23:23:35.928715+00:00"
+fetched_at: "2026-07-29T15:16:39.631419+00:00"
 content_hash: "sha256:f84a812f75d45f172626eb7b2b6650877dc5f21811c415becf8536739c9af263"
 ---
 

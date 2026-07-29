@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2023/08/boosting-extensibility-of-adobe-commerce-with-app-builder-developer-best-practices"
 published_at: "2023-08-29T00:00:00+00:00"
 first_seen_at: "2026-07-28T11:10:06.749151+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:16f923a26cebeb62e95ba3de880904d44c022ce71d42072deaf9329ecbbc43db"
 ---
 

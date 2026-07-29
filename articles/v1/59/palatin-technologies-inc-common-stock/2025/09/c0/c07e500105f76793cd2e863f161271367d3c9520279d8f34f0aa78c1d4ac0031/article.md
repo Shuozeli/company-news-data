@@ -7,7 +7,7 @@ source_id: "palatin-technologies-inc-common-stock-rss-d180129b5346"
 canonical_url: "https://palatin.com/press_releases/palatin-earns-e5-5-million-6-5-million-milestone-payment-in-retinal-disease-collaboration-with-boehringer-ingelheim/"
 published_at: "2025-09-22T11:30:00+00:00"
 first_seen_at: "2026-07-25T18:13:52.743786+00:00"
-fetched_at: "2026-07-29T00:14:35.041460+00:00"
+fetched_at: "2026-07-29T17:16:23.291870+00:00"
 content_hash: "sha256:1a21895f7211c0011ec154edee91f35b42038a3bad9e5b89777b1ccfac2802d9"
 ---
 

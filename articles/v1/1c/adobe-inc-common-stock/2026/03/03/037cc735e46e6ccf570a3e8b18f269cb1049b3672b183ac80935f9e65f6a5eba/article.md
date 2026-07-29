@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2026/03/how-the-experience-modernization-agent-migrates-sites-to-edge-delivery-services"
 published_at: "2026-03-16T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T23:16:51.204278+00:00"
+fetched_at: "2026-07-29T15:06:03.202530+00:00"
 content_hash: "sha256:93ead5604aa2040cee3beef4abc2786da77003b453c8e5f358d96f298b81f437"
 ---
 

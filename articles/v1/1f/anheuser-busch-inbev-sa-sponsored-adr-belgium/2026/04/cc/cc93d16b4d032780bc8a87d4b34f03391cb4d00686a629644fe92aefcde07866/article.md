@@ -7,7 +7,7 @@ source_id: "anheuser-busch-inbev-sa-sponsored-adr-belgium-news-import-b2d3354e08
 canonical_url: "https://www.anheuser-busch.com/newsroom/Budweiser-150th-Anniversary-American-Summer-Campaign"
 published_at: "2026-04-30T14:00:00+00:00"
 first_seen_at: "2026-07-25T00:38:09.694752+00:00"
-fetched_at: "2026-07-28T17:56:24.719471+00:00"
+fetched_at: "2026-07-29T06:41:46.035475+00:00"
 content_hash: "sha256:748b2c55eab8bc690d6f91540989953b242c132d4f6228334c9ed7f447140ff3"
 ---
 

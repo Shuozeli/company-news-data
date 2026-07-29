@@ -7,7 +7,7 @@ source_id: "yc-lus-brands-atom-75d11a1cab97"
 canonical_url: "https://loveurcurls.com/blogs/news/what-is-frizz"
 published_at: "2025-01-31T16:12:13+00:00"
 first_seen_at: "2026-07-24T10:14:57.713134+00:00"
-fetched_at: "2026-07-28T23:51:46.835648+00:00"
+fetched_at: "2026-07-29T17:07:22.582115+00:00"
 content_hash: "sha256:0faf14b68c57be75e82c24504c1a828ce431ef10079828879f7c970bb5123630"
 ---
 

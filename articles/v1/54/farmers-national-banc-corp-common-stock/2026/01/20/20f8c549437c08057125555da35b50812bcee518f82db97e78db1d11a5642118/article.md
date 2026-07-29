@@ -7,7 +7,7 @@ source_id: "farmers-national-banc-corp-common-stock-rss-8b1eca0ccccf"
 canonical_url: "https://ir.farmersbankgroup.com/news-market-data/press-releases/news-details/2026/Independent-Proxy-Advisory-Firm-ISS-Recommends-Shareholders-Vote-FOR-Farmers-National-Banc-Corp--Proposed-Merger-with-Middlefield-Banc-Corp-/default.aspx"
 published_at: "2026-01-29T13:00:00+00:00"
 first_seen_at: "2026-07-25T04:04:46.481364+00:00"
-fetched_at: "2026-07-29T00:42:56.814002+00:00"
+fetched_at: "2026-07-29T14:06:41.230496+00:00"
 content_hash: "sha256:34746672919943c0e91890b127342489c9c6f04ce889a6240634ca9045ff9389"
 ---
 

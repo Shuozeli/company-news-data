@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/firstnet-ready-digi-wr54-mobile-communications"
 published_at: "2021-02-03T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T23:44:58.695400+00:00"
+fetched_at: "2026-07-29T15:39:05.969472+00:00"
 content_hash: "sha256:f444504cd5296c8d40dc212c6f70eb056dadc8175ec4b70dffae0f001d26f894"
 ---
 

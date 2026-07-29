@@ -7,7 +7,7 @@ source_id: "xenon-pharmaceuticals-inc-common-shares-rss-ced94993fad9"
 canonical_url: "https://investor.xenon-pharma.com/news-releases/news-release-details/treatment-experiences-anti-seizure-medications-asms-patient"
 published_at: "2026-04-19T22:00:00+00:00"
 first_seen_at: "2026-07-26T05:59:47.666721+00:00"
-fetched_at: "2026-07-28T23:05:59.292362+00:00"
+fetched_at: "2026-07-29T14:46:40.375499+00:00"
 content_hash: "sha256:565130ff97cf9becc3c16f7eaec17d89cc4726b8bd0d75fb6c6a57349a4bd3a3"
 ---
 

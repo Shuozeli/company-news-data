@@ -7,7 +7,7 @@ source_id: "cgi-inc-common-stock-rss-66ef697d2497"
 canonical_url: "https://www.cgi.com/en/blog/manufacturing/what-does-2023-hold-manufacturers"
 published_at: null
 first_seen_at: "2026-07-20T23:21:24.029549+00:00"
-fetched_at: "2026-07-28T23:00:22.765111+00:00"
+fetched_at: "2026-07-29T14:37:06.846679+00:00"
 content_hash: "sha256:35bacfafc1f47cb8c4d44e107303b1a75231990ae63500b9583845e72d91db58"
 ---
 

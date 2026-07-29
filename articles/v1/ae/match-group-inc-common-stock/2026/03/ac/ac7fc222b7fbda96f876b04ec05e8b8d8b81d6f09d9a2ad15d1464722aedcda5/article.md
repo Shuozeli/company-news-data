@@ -7,7 +7,7 @@ source_id: "match-group-inc-common-stock-rss-8d6595a8b1de"
 canonical_url: "https://mtch.com/single-news/matchgroup/ceo-of-the-tech-company-behind-hinge-and-tinder-set-up-an-employee-hotline-where-staff-can-dm-him-anytime-no-hierarchy-no-filters-just-real-input/"
 published_at: "2026-03-02T00:41:16+00:00"
 first_seen_at: "2026-07-25T13:29:54.663931+00:00"
-fetched_at: "2026-07-28T22:16:03.784769+00:00"
+fetched_at: "2026-07-29T14:22:43.954530+00:00"
 content_hash: "sha256:77ba6f23901360b7d995b1801d07501a6d3b8312ec9bcdb66a57316c5de1f10c"
 ---
 

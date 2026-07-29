@@ -7,7 +7,7 @@ source_id: "sila-realty-trust-inc-common-stock-rss-0a874092aade"
 canonical_url: "https://silarealtytrust.com/2026-q1-report/"
 published_at: "2026-05-08T11:10:29+00:00"
 first_seen_at: "2026-07-20T23:21:02.147126+00:00"
-fetched_at: "2026-07-28T22:58:48.460628+00:00"
+fetched_at: "2026-07-29T14:32:50.257495+00:00"
 content_hash: "sha256:138d4779ab745fc848224820601f05f67fcb6208fb9020560ab86223ed6f98c6"
 ---
 

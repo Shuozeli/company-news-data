@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-to-participate-in-the-44th-annual-canaccord-genuity-growth-conference/"
 published_at: "2024-08-12T17:00:19+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:6eb8df412ac6ab59b1b0382341988ebc4c3d5df68c04e8b72b355cec31fcee86"
 ---
 

@@ -7,7 +7,7 @@ source_id: "4d-molecular-therapeutics-inc-common-stock-rss-c7123edf6d85"
 canonical_url: "https://www.modernretina.com/view/the-gene-therapy-shift-a-closer-look-at-the-science-powering-next-generation-retinal-treatments"
 published_at: "2025-12-10T11:48:12+00:00"
 first_seen_at: "2026-07-24T06:17:35.853138+00:00"
-fetched_at: "2026-07-29T00:35:12.607526+00:00"
+fetched_at: "2026-07-29T14:00:46.945507+00:00"
 content_hash: "sha256:5752122a3755ad2718c4f6381ae47a3bd513de702d268cdfca372ba42320be1b"
 ---
 

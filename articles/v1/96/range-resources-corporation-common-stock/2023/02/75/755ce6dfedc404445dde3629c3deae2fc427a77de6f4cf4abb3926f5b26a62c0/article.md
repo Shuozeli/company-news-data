@@ -7,7 +7,7 @@ source_id: "range-resources-corporation-common-stock-rss-39ebe470ada3"
 canonical_url: "https://www.rangeresources.com/range-announces-proved-reserves/"
 published_at: "2023-02-08T21:42:24+00:00"
 first_seen_at: "2026-07-25T01:14:33.578834+00:00"
-fetched_at: "2026-07-29T00:50:21.600149+00:00"
+fetched_at: "2026-07-29T16:58:42.414622+00:00"
 content_hash: "sha256:d65b34637861306ed2875a67ffd6b75c6330feb77a1835e4b180df363ea511fb"
 ---
 

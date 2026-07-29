@@ -7,7 +7,7 @@ source_id: "evolv-technologies-holdings-inc-class-a-common-stock-rss-ec54816aa3b
 canonical_url: "https://evolv.com/resources/blog/questions-we-avoid-asking-around-gun-violence-awareness/"
 published_at: "2026-06-30T14:17:58+00:00"
 first_seen_at: "2026-07-28T21:27:51.933751+00:00"
-fetched_at: "2026-07-28T21:27:51.792375+00:00"
+fetched_at: "2026-07-29T15:07:48.185123+00:00"
 content_hash: "sha256:79d03f10b05c31e401796d8be4bd32e2241b8a41bde377309b116aa1475b4501"
 ---
 

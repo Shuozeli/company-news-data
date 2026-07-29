@@ -5,7 +5,7 @@ company_key: "yc-trackingplan"
 company: "Trackingplan"
 source_id: "yc-trackingplan-news-import-6a56f7a9281f"
 canonical_url: "https://www.trackingplan.com/blog/mean-time-to-resolution"
-published_at: null
+published_at: "2026-07-28T09:19:59.710+00:00"
 first_seen_at: "2026-07-28T09:37:51.291154+00:00"
 fetched_at: "2026-07-28T21:33:52.463534+00:00"
 content_hash: "sha256:34a3df91dea97fa871e2ec3e186d222c01824a3c0dec45b947ac9f5f0eb2d145"

@@ -7,7 +7,7 @@ source_id: "core-natural-resources-inc-common-stock-rss-38d7d9da448b"
 canonical_url: "https://investors.corenaturalresources.com/2026-05-07-Core-Natural-Resources-Reports-First-Quarter-2026-Results"
 published_at: "2026-05-07T10:55:00+00:00"
 first_seen_at: "2026-07-20T03:31:48.779326+00:00"
-fetched_at: "2026-07-28T23:17:02.077797+00:00"
+fetched_at: "2026-07-29T15:06:19.606103+00:00"
 content_hash: "sha256:3f763abb6527a28cc30faaafc71a82a66ce067244aba06bf21238c9e72128cef"
 ---
 

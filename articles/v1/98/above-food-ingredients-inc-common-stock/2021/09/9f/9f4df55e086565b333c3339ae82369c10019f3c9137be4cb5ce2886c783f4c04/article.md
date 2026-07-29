@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/above-food-on-food-in-canada/"
 published_at: "2021-09-17T19:24:44+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-29T00:43:09.170627+00:00"
+fetched_at: "2026-07-29T14:06:11.402678+00:00"
 content_hash: "sha256:35007223a98144ef5f01dc72f0970c88534e0f3e58f99336b29e96961b0a6759"
 ---
 

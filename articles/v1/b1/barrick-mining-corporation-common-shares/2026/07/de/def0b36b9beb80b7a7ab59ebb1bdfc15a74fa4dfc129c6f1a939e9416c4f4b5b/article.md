@@ -7,7 +7,7 @@ source_id: "barrick-mining-corporation-common-shares-rss-04ef954d86c6"
 canonical_url: "https://www.barrick.com/English/news/news-details/2026/barrick-to-report-second-quarter-2026-results-on-august-10/default.aspx"
 published_at: "2026-07-10T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:16:22.091967+00:00"
-fetched_at: "2026-07-28T23:01:12.069195+00:00"
+fetched_at: "2026-07-29T14:37:43.073143+00:00"
 content_hash: "sha256:3d32dadcdcccd39d31826c2e4cda8b58eb5d4bd38f484a073e5835ba7fa067e7"
 ---
 

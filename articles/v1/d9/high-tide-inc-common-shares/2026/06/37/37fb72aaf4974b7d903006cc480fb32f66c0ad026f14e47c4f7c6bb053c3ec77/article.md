@@ -7,7 +7,7 @@ source_id: "high-tide-inc-common-shares-rss-f83dc5e20636"
 canonical_url: "https://hightideinc.com/high-tide-to-open-two-new-canna-cabana-locations-in-welland-and-calgary/"
 published_at: "2026-06-10T15:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:05.127242+00:00"
-fetched_at: "2026-07-29T00:41:30.017006+00:00"
+fetched_at: "2026-07-29T14:06:34.773204+00:00"
 content_hash: "sha256:cfb56300b754addbcbb53753f12112475553d80cfcae45475aeeac2524fa4ace"
 ---
 

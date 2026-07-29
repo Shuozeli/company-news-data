@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2024/Omnicell-to-Release-Second-Quarter-2024-Financial-Results-on-August-1-2024/default.aspx"
 published_at: "2024-07-15T20:01:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:e05ecc3e66397d98bb0b1dddaa7cf40273d9718acd9c6daed25015ce7198d4dc"
 ---
 

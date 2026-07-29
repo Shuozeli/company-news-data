@@ -7,7 +7,7 @@ source_id: "pyxis-tankers-inc-common-stock-atom-7822dd0d168e"
 canonical_url: "https://www.pyxistankers.com/investor-relations/events/noble-capital-markets-sixteenth-annual-investor-conference"
 published_at: "2020-02-18T17:56:45+00:00"
 first_seen_at: "2026-07-25T20:11:22.683173+00:00"
-fetched_at: "2026-07-28T23:46:44.775223+00:00"
+fetched_at: "2026-07-29T15:38:17.772753+00:00"
 content_hash: "sha256:1eb0ba3a1b4567153622d8410fabd1435f913d6ee9ce400f994d896a6f5135e2"
 ---
 

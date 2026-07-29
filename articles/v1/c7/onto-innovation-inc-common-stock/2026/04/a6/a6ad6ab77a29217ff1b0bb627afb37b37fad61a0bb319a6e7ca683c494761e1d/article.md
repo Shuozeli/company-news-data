@@ -7,7 +7,7 @@ source_id: "onto-innovation-inc-common-stock-rss-c0808ecb27f7"
 canonical_url: "https://investors.ontoinnovation.com/news/news-details/2026/Onto-Innovation-to-Report-First-Quarter-2026-Financial-Results-on-May-5-2026/default.aspx"
 published_at: "2026-04-16T20:05:00+00:00"
 first_seen_at: "2026-07-25T17:34:39.012386+00:00"
-fetched_at: "2026-07-28T23:28:44.600129+00:00"
+fetched_at: "2026-07-29T15:24:50.231475+00:00"
 content_hash: "sha256:fa2fdf61b2d60d619dfc729bae6d2a31aefb5d2c8dba66ae6831518734e01f99"
 ---
 

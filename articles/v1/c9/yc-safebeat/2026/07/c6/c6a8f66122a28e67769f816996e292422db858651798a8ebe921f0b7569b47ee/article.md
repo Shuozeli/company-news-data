@@ -7,7 +7,7 @@ source_id: "yc-safebeat-rss-5fe32a996575"
 canonical_url: "https://safebeat.com/walker/"
 published_at: "2026-07-22T09:41:17+00:00"
 first_seen_at: "2026-07-22T09:43:36.218315+00:00"
-fetched_at: "2026-07-29T00:48:37.803194+00:00"
+fetched_at: "2026-07-29T14:10:01.340666+00:00"
 content_hash: "sha256:614eaf4f28c11d2d966a23952bad9f45a986aa71735ca43fe13c47adb9ce68de"
 ---
 

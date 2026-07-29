@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/aboves-agricultural-technology-platform-raises-industry-bar-for-transparency-traceability-standards-in-regenerative-agriculture/"
 published_at: "2022-08-24T12:00:18+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T23:12:42.885420+00:00"
+fetched_at: "2026-07-29T15:00:44.308649+00:00"
 content_hash: "sha256:0ffba207a067674069e44fe5f30b92571c3292797356d073e23c688283a489db"
 ---
 

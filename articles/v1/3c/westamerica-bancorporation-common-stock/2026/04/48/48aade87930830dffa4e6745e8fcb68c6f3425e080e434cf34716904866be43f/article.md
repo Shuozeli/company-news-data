@@ -7,7 +7,7 @@ source_id: "westamerica-bancorporation-common-stock-rss-1d3c07f51250"
 canonical_url: "https://www.westamerica.com/westamerica-bancorporation-declares-quarterly-cash-dividend-37/"
 published_at: "2026-04-23T18:25:13+00:00"
 first_seen_at: "2026-07-26T05:24:33.749505+00:00"
-fetched_at: "2026-07-29T00:19:14.939411+00:00"
+fetched_at: "2026-07-29T17:20:23.807224+00:00"
 content_hash: "sha256:5b88f4e6812080fa63140f531ea34498f84c67b3f0dd1c92c863da271a453708"
 ---
 

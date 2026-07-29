@@ -7,7 +7,7 @@ source_id: "exozymes-inc-common-stock-rss-741f122b5abb"
 canonical_url: "https://exozymes.com/blog/process-development-engineer"
 published_at: "2026-06-23T12:19:01+00:00"
 first_seen_at: "2026-07-25T03:51:33.698656+00:00"
-fetched_at: "2026-07-29T00:27:19.021608+00:00"
+fetched_at: "2026-07-29T13:52:57.192576+00:00"
 content_hash: "sha256:c2d5085e5dccf2b0405afbbe92fe67dd9f234e10090fcab6ee21707baccce7b2"
 ---
 

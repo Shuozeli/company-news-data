@@ -7,7 +7,7 @@ source_id: "broadcom-inc-common-stock-rss-6823269edf1e"
 canonical_url: "https://www.broadcom.com/blog/scale-across-ai-networking-needs-deep-buffer-switches-separating-myth-from-reality"
 published_at: "2026-06-16T18:05:57+00:00"
 first_seen_at: "2026-07-20T23:21:13.318217+00:00"
-fetched_at: "2026-07-28T22:13:41.934284+00:00"
+fetched_at: "2026-07-29T14:21:53.796056+00:00"
 content_hash: "sha256:9121429ec068b2b5fb365f3d411bc6831a75079719856d9788cb0dd772e9b6a1"
 ---
 

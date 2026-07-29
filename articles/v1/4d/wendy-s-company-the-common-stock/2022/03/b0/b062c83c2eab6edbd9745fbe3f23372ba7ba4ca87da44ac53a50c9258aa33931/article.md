@@ -7,7 +7,7 @@ source_id: "wendy-s-company-the-common-stock-rss-ec0fd300449e"
 canonical_url: "https://www.wendys.com/aliyah-boston"
 published_at: "2022-03-05T00:21:41+00:00"
 first_seen_at: "2026-07-24T06:58:49.962146+00:00"
-fetched_at: "2026-07-28T23:57:23.225076+00:00"
+fetched_at: "2026-07-29T15:46:29.006724+00:00"
 content_hash: "sha256:916625863ed0fe377075da3cd1f9a9de807a65493d0ce2d8cfdeee1ecb09ea66"
 ---
 

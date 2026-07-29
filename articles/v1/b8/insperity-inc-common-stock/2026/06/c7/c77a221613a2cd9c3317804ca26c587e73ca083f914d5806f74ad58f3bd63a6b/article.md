@@ -7,7 +7,7 @@ source_id: "insperity-inc-common-stock-rss-70d704854329"
 canonical_url: "https://www.insperity.com/blog/how-to-delegate-effectively/"
 published_at: "2026-06-23T14:30:17+00:00"
 first_seen_at: "2026-07-27T06:19:13.921156+00:00"
-fetched_at: "2026-07-28T21:48:34.378179+00:00"
+fetched_at: "2026-07-29T10:05:45.558212+00:00"
 content_hash: "sha256:d40d33515452d7f1294b52cc21cae76231f29af903e57ce3fa3788811b7ecc01"
 ---
 

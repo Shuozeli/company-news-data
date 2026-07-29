@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2018/06/northern-norwegian-sea-spar-heads-high-latitude-spars-development/"
 published_at: "2018-06-10T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-29T00:17:43.124361+00:00"
+fetched_at: "2026-07-29T17:18:57.942752+00:00"
 content_hash: "sha256:21ffb2c68a079572052d966c4a2349d305ed341e9e5dc6ed1eed434a923ee0ac"
 ---
 

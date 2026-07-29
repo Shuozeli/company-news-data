@@ -7,7 +7,7 @@ source_id: "dow-inc-common-stock-rss-a764c88a6383"
 canonical_url: "https://investors.dow.com/en/news/news-details/2026/Dow-to-participate-at-the-2026-J-P--Morgan-Industrials-Conference/default.aspx"
 published_at: "2026-03-16T12:05:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.067378+00:00"
-fetched_at: "2026-07-29T00:19:09.815212+00:00"
+fetched_at: "2026-07-29T17:19:00.396962+00:00"
 content_hash: "sha256:2c11eff1fc6b5fe46256de858682527e16960e11e5010cd53fd7a9da34d5c316"
 ---
 

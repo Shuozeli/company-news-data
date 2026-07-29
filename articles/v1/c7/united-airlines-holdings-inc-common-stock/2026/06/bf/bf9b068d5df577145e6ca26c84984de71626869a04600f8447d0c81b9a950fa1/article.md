@@ -7,7 +7,7 @@ source_id: "united-airlines-holdings-inc-common-stock-rss-09ebc8191126"
 canonical_url: "https://united.mediaroom.com/2026-06-15-United-Celebrates-America-with-Custom-250th-Anniversary-Livery-and-Military-Pilot-Hiring-Program-Milestone"
 published_at: "2026-06-15T14:03:00+00:00"
 first_seen_at: "2026-07-20T03:31:22.575844+00:00"
-fetched_at: "2026-07-28T23:04:31.859605+00:00"
+fetched_at: "2026-07-29T14:41:57.745037+00:00"
 content_hash: "sha256:8a456ad62932d22a09877489c5b924e48f8f691ab6ef228557d4fb1610f80843"
 ---
 

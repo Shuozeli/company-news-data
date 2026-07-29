@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/scra-compliance-ai-agents-servicemembers-dmdc"
 published_at: "2026-05-29T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T22:58:47.223027+00:00"
+fetched_at: "2026-07-29T14:29:13.209896+00:00"
 content_hash: "sha256:d4331f372f33a963d8fbc4067731d9adaa07d563082de3e088f74aa2b48ee606"
 ---
 

@@ -4,9 +4,9 @@
     "key": "yc-depot",
     "name": "Depot"
   },
-  "record_count": 212,
+  "record_count": 213,
   "first_published_at": "2022-05-12T00:00:00+00:00",
-  "last_published_at": "2026-07-20T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2022-05",
@@ -206,11 +206,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 7
+      "record_count": 8
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 5,
@@ -219,45 +219,45 @@
         "page": 1,
         "path": "articles/v1/4b/yc-depot/index/pages/000001.json",
         "record_count": 50,
-        "byte_count": 52552,
-        "sha256": "sha256:9bf9958273a98d3eb77aa37776b6ec073a27d196d3c0844b55b269eeed4e934b",
-        "newest_at": "2026-07-20T00:00:00+00:00",
-        "oldest_at": "2025-11-21T00:00:00+00:00"
+        "byte_count": 52476,
+        "sha256": "sha256:05f46aac67048e41e2003947bef2e359f97d12aba08aa52a8a04f94c164fa380",
+        "newest_at": "2026-07-29T00:00:00+00:00",
+        "oldest_at": "2025-12-05T00:00:00+00:00"
       },
       {
         "page": 2,
         "path": "articles/v1/4b/yc-depot/index/pages/000002.json",
         "record_count": 50,
-        "byte_count": 52715,
-        "sha256": "sha256:cc47260d26eff8b1952501d95e4c8adc0e6f5b566f458be73263cb3b8fd91a11",
-        "newest_at": "2025-11-17T00:00:00+00:00",
-        "oldest_at": "2025-02-19T00:00:00+00:00"
+        "byte_count": 52815,
+        "sha256": "sha256:72f6467abb64cb989ea5a487d159dfb3b4be97b5760add7f0d591cf9a66e9792",
+        "newest_at": "2025-11-21T00:00:00+00:00",
+        "oldest_at": "2025-02-20T00:00:00+00:00"
       },
       {
         "page": 3,
         "path": "articles/v1/4b/yc-depot/index/pages/000003.json",
         "record_count": 50,
-        "byte_count": 49650,
-        "sha256": "sha256:c119b91786e8cbeb9e48af4a97e1112445042d4473dfc01dc96f546289148acc",
-        "newest_at": "2025-02-10T00:00:00+00:00",
-        "oldest_at": "2024-04-19T00:00:00+00:00"
+        "byte_count": 49623,
+        "sha256": "sha256:bb1c53679cf5185b3ac492c40ad94d4e165e8dc4bd15b1e37b8fd0352c050b27",
+        "newest_at": "2025-02-19T00:00:00+00:00",
+        "oldest_at": "2024-04-25T00:00:00+00:00"
       },
       {
         "page": 4,
         "path": "articles/v1/4b/yc-depot/index/pages/000004.json",
         "record_count": 50,
-        "byte_count": 49056,
-        "sha256": "sha256:6623e9728aeb438231039e454bee39f154e8c2a5743528a5f1727b79282aff9f",
-        "newest_at": "2024-04-12T00:00:00+00:00",
-        "oldest_at": "2023-02-24T00:00:00+00:00"
+        "byte_count": 49128,
+        "sha256": "sha256:854be44e82d08f83cf6b5b33fb9942784e6785d5cb925a9c65802532583da4e6",
+        "newest_at": "2024-04-19T00:00:00+00:00",
+        "oldest_at": "2023-03-17T00:00:00+00:00"
       },
       {
         "page": 5,
         "path": "articles/v1/4b/yc-depot/index/pages/000005.json",
-        "record_count": 12,
-        "byte_count": 11813,
-        "sha256": "sha256:b3f5bd7d7242059fbc00a455d7ed987c6c8203f530b60d5a5b1ea297119dcebe",
-        "newest_at": "2023-01-30T00:00:00+00:00",
+        "record_count": 13,
+        "byte_count": 12721,
+        "sha256": "sha256:87c2e460dc515952cf779df99c0ae10f3c5390dd32fcc2f403d032f539fc48ad",
+        "newest_at": "2023-02-24T00:00:00+00:00",
         "oldest_at": "2022-05-12T00:00:00+00:00"
       }
     ]

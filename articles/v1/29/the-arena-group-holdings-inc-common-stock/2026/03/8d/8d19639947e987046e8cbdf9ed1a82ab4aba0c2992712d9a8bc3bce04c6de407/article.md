@@ -7,7 +7,7 @@ source_id: "the-arena-group-holdings-inc-common-stock-rss-9ea05f6be366"
 canonical_url: "https://www.businesswire.com/news/home/20260316751519/en/The-Arena-Group-Reports-Q4-and-Full-Year-2025-Results-Marking-First-Full-Year-of-Positive-Net-Income-and-Major-Debt-Reduction"
 published_at: "2026-03-16T20:05:59+00:00"
 first_seen_at: "2026-07-24T03:49:58.062520+00:00"
-fetched_at: "2026-07-28T23:55:45.666638+00:00"
+fetched_at: "2026-07-29T15:46:29.354113+00:00"
 content_hash: "sha256:976e5fe5c36dfb43f0b307d4ecae0a64380c1ccb8a9f213c07fbe24c6dcf58c1"
 ---
 

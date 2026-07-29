@@ -7,7 +7,7 @@ source_id: "yc-lollipuff-rss-1aefb943cc78"
 canonical_url: "https://www.lollipuff.com/investing-in-chanel-handbags-to-combat-inflation/"
 published_at: "2022-06-30T18:21:36+00:00"
 first_seen_at: "2026-07-25T01:53:27.944775+00:00"
-fetched_at: "2026-07-28T23:16:31.531465+00:00"
+fetched_at: "2026-07-29T15:06:12.951381+00:00"
 content_hash: "sha256:c817c64f9c7810456b4f9a044382e8f5b97ee8f9ac6f1fc1f72c95065d7a7d55"
 ---
 

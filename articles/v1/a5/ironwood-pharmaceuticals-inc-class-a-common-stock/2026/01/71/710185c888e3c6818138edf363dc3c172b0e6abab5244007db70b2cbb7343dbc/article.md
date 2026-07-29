@@ -7,7 +7,7 @@ source_id: "ironwood-pharmaceuticals-inc-class-a-common-stock-rss-3465719b1efe"
 canonical_url: "https://ironwoodpharma.com/ironwood-pharmaceuticals-maintains-fy-2025-financial-guidance-and-announces-fy-2026-financial-guidance/"
 published_at: "2026-01-02T05:00:00+00:00"
 first_seen_at: "2026-07-25T10:02:06.835543+00:00"
-fetched_at: "2026-07-28T23:28:46.989818+00:00"
+fetched_at: "2026-07-29T15:26:23.212133+00:00"
 content_hash: "sha256:96aa856572237115a7e06d6e8e07f28fbcdf05edbe9e16f52268636741d878d5"
 ---
 

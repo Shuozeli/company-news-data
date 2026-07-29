@@ -7,7 +7,7 @@ source_id: "ironwood-pharmaceuticals-inc-class-a-common-stock-rss-3465719b1efe"
 canonical_url: "https://ironwoodpharma.com/ironwood-pharmaceuticals-to-host-first-quarter-2026-investor-update-call/"
 published_at: "2026-04-30T04:00:00+00:00"
 first_seen_at: "2026-07-25T10:02:06.835543+00:00"
-fetched_at: "2026-07-28T23:28:46.989818+00:00"
+fetched_at: "2026-07-29T15:26:23.212133+00:00"
 content_hash: "sha256:88e6acfa1df4cf54ab3ece6b17bf5e6a20c2113fe0b90c07373f14094efb09cf"
 ---
 

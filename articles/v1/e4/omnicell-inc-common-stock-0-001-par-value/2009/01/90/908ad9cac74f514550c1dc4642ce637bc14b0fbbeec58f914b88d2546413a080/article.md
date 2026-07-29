@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2009/Omnicell-Updates-2008-Year-End-Guidance-and-Announces-Company-Reorganization/default.aspx"
 published_at: "2009-01-20T05:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:1c69afd24f39d3a281a1e07e40ef685278767ef031027991637ddb6d78261a09"
 ---
 

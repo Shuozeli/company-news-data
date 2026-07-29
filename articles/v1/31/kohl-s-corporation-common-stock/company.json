@@ -4,9 +4,9 @@
     "key": "kohl-s-corporation-common-stock",
     "name": "Kohl's Corporation Common Stock"
   },
-  "record_count": 10,
+  "record_count": 11,
   "first_published_at": "2025-12-10T13:00:00+00:00",
-  "last_published_at": "2026-07-08T12:00:00+00:00",
+  "last_published_at": "2026-07-29T12:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-12",
@@ -34,11 +34,11 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 1
+      "record_count": 2
     }
   ],
   "article_index": {
-    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "generation": "4d2fd30fc10a003dff3bd0278286f38cda302f6c4445bfbd077bd63e13d15260",
     "sort": "published_at_desc_fetched_at_desc",
     "page_size": 50,
     "page_count": 1,
@@ -46,10 +46,10 @@
       {
         "page": 1,
         "path": "articles/v1/31/kohl-s-corporation-common-stock/index/pages/000001.json",
-        "record_count": 10,
-        "byte_count": 20750,
-        "sha256": "sha256:dd966e60def649105e9a17682c5386bb4598d3f661665e3630d0028d7c7cbbb9",
-        "newest_at": "2026-07-08T12:00:00+00:00",
+        "record_count": 11,
+        "byte_count": 22777,
+        "sha256": "sha256:79dc721a583b9993a1c677608950961b2c12ca3bafd87d2f46114c906f522313",
+        "newest_at": "2026-07-29T12:00:00+00:00",
         "oldest_at": "2025-12-10T13:00:00+00:00"
       }
     ]

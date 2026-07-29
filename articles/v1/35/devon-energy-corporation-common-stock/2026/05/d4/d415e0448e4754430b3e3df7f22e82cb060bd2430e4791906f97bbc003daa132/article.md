@@ -7,7 +7,7 @@ source_id: "devon-energy-corporation-common-stock-rss-b68131991e20"
 canonical_url: "http://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-05T20:05:00+00:00"
 first_seen_at: "2026-07-25T01:08:53.429704+00:00"
-fetched_at: "2026-07-29T00:32:43.805760+00:00"
+fetched_at: "2026-07-29T13:58:53.801670+00:00"
 content_hash: "sha256:6da686af51b9940d02218a67b9330847a3515d0fff4ddab442b263491cce14a1"
 ---
 

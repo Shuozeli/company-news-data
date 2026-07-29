@@ -7,7 +7,7 @@ source_id: "yc-corveus-medical-rss-58fab3b79f7c"
 canonical_url: "https://www.corveusmedical.com/post/y-combinator-top-medical-device-companies-2024"
 published_at: "2024-01-31T21:59:52+00:00"
 first_seen_at: "2026-07-20T23:20:16.993409+00:00"
-fetched_at: "2026-07-29T00:39:29.791076+00:00"
+fetched_at: "2026-07-29T14:02:32.513867+00:00"
 content_hash: "sha256:50600c93a72dfab5ca1fe0f62b2e6233973c93c6bd6d2175b20ccc4ae7937304"
 ---
 

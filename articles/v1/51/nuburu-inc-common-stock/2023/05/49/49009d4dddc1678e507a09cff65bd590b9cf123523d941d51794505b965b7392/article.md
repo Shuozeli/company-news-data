@@ -7,7 +7,7 @@ source_id: "nuburu-inc-common-stock-rss-80dd93982be0"
 canonical_url: "https://www.photonics.com/Articles/NUBURU_to_Go_Public/a68259"
 published_at: "2023-05-05T13:55:04+00:00"
 first_seen_at: "2026-07-25T16:40:58.305595+00:00"
-fetched_at: "2026-07-28T23:10:49.943252+00:00"
+fetched_at: "2026-07-29T14:57:00.586800+00:00"
 content_hash: "sha256:d0dd3ecf4e42193205574d81496af609eedd466d16e43fa86dc74e4e1828393e"
 ---
 

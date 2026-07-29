@@ -7,7 +7,7 @@ source_id: "yc-future-fields-rss-02d8ed225558"
 canonical_url: "https://futurefields.io/the-art-of-protein-expression-a-guide-to-understanding-difficult-to-express-proteins/"
 published_at: "2024-04-17T15:50:59+00:00"
 first_seen_at: "2026-07-25T03:17:21.494318+00:00"
-fetched_at: "2026-07-28T23:21:50.356181+00:00"
+fetched_at: "2026-07-29T15:15:39.745784+00:00"
 content_hash: "sha256:3f012954270df82292e9c8c5b32e1070659c18ae21c1a7142f51a9d874da102f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "veralto-corp-common-stock-rss-061472cdeea0"
 canonical_url: "https://investors.veralto.com/2025-07-22-Veralto-Commits-EUR20M-to-Emeralds-New-Fund-to-Accelerate-Water-Innovation-Solutions"
 published_at: "2025-07-22T11:30:00+00:00"
 first_seen_at: "2026-07-20T03:31:18.742713+00:00"
-fetched_at: "2026-07-28T22:15:54.927830+00:00"
+fetched_at: "2026-07-29T14:22:33.213156+00:00"
 content_hash: "sha256:85962b7c7c50c87f1c84345d85f7599aaffb11b837a529949e2b0556667e311c"
 ---
 

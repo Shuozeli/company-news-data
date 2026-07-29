@@ -7,7 +7,7 @@ source_id: "hudbay-minerals-inc-ordinary-shares-canada-rss-c4096adde97b"
 canonical_url: "https://hudbayminerals.com/investors/press-releases/press-release-details/2026/Hudbay-Completes-Acquisition-of-Arizona-Sonoran-to-Create-the-Third-Largest-Copper-District-in-North-America/default.aspx"
 published_at: "2026-06-24T12:45:00+00:00"
 first_seen_at: "2026-07-25T08:33:11.818329+00:00"
-fetched_at: "2026-07-28T23:54:13.555520+00:00"
+fetched_at: "2026-07-29T16:59:14.716248+00:00"
 content_hash: "sha256:a157f24e41caf170397f3b10d66ff49f572827c1286d217b0a10b41e3d0784b7"
 ---
 

@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/moving-a-business-critical-monolith-to-kubernetes.html"
 published_at: "2019-12-19T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-29T00:27:54.647135+00:00"
+fetched_at: "2026-07-29T13:54:11.516897+00:00"
 content_hash: "sha256:0735a018def020135025c821b516d1579e6062f4500f2c7f9e8b273b6d46a78a"
 ---
 

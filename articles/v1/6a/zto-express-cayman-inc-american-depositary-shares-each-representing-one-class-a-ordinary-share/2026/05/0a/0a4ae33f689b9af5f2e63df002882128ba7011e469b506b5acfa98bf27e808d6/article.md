@@ -7,7 +7,7 @@ source_id: "zto-express-cayman-inc-american-depositary-shares-each-representing-
 canonical_url: "https://zto.investorroom.com/2026-05-19-ZTO-Reports-First-Quarter-2026-Unaudited-Financial-Results"
 published_at: "2026-05-19T22:00:00+00:00"
 first_seen_at: "2026-07-24T08:15:57.664718+00:00"
-fetched_at: "2026-07-29T00:14:10.146232+00:00"
+fetched_at: "2026-07-29T17:15:20.668420+00:00"
 content_hash: "sha256:5594364f30ed1ab6ebc85a28b438f405cd21c3bf3fd1885792293f6ea2acedd8"
 ---
 

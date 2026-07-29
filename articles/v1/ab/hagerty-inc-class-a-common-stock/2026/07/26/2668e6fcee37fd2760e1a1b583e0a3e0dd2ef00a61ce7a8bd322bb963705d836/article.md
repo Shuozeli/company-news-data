@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/icon-is-ready-for-its-next-chapter-of-restomods/"
 published_at: "2026-07-22T17:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-29T00:49:48.746461+00:00"
+fetched_at: "2026-07-29T14:20:25.481780+00:00"
 content_hash: "sha256:3bf44cd21c9e32f823a930d5f86e45d1ff0b08d6648b424ed1330a56b8c37ce8"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ennis-inc-common-stock-rss-a62890cdf36a"
 canonical_url: "https://www.ennis.com/2025/11/17/ennis-acquires-cfc-print-mail/"
 published_at: "2025-11-17T14:32:38+00:00"
 first_seen_at: "2026-07-20T23:18:54.315135+00:00"
-fetched_at: "2026-07-29T00:06:45.128588+00:00"
+fetched_at: "2026-07-29T17:01:20.408577+00:00"
 content_hash: "sha256:730bd687fa5c79210ba66923558b1f009ad01cdc0e64a061f6d18b7b98c31d9d"
 ---
 

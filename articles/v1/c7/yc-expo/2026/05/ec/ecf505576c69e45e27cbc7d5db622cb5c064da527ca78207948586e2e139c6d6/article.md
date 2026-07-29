@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/how-to-ship-an-ai-mobile-app-fast-with-expo"
 published_at: "2026-05-07T15:30:42+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T23:22:43.346857+00:00"
+fetched_at: "2026-07-29T15:16:52.625696+00:00"
 content_hash: "sha256:f80e80f45bb53e2a95335a222be0c7e5fcbf8df42c7d61e4fc1de18c26ac047e"
 ---
 

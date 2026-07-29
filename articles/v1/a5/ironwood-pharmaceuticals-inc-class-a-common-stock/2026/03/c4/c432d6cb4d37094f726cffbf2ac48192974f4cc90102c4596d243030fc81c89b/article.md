@@ -7,7 +7,7 @@ source_id: "ironwood-pharmaceuticals-inc-class-a-common-stock-rss-3465719b1efe"
 canonical_url: "https://ironwoodpharma.com/ironwood-pharmaceuticals-to-participate-in-the-citizens-life-sciences-conference-2/"
 published_at: "2026-03-04T05:00:00+00:00"
 first_seen_at: "2026-07-25T10:02:06.835543+00:00"
-fetched_at: "2026-07-28T23:28:46.989818+00:00"
+fetched_at: "2026-07-29T15:26:23.212133+00:00"
 content_hash: "sha256:c34046c09f12b906e2fb974d52de68a71bcb391e0349f594d3732c466cf084ef"
 ---
 

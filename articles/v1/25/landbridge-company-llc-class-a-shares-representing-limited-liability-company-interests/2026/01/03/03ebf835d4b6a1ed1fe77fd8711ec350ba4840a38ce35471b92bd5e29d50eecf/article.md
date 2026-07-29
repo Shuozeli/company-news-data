@@ -7,7 +7,7 @@ source_id: "landbridge-company-llc-class-a-shares-representing-limited-liability
 canonical_url: "https://www.landbridgeco.com/investor-relations/news/news-details/2026/LandBridge-Announces-Upcoming-Investor-Day/default.aspx"
 published_at: "2026-01-22T13:30:00+00:00"
 first_seen_at: "2026-07-27T03:23:48.905229+00:00"
-fetched_at: "2026-07-29T00:01:40.594581+00:00"
+fetched_at: "2026-07-29T17:09:47.828265+00:00"
 content_hash: "sha256:fceea76147e173559bf5a81288bb7e9b312956037f2af18ec4ceb645986f9a0c"
 ---
 

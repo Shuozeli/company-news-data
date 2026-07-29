@@ -7,7 +7,7 @@ source_id: "yc-mocha-rss-d0ffed2c2227"
 canonical_url: "https://getmocha.com/marketing-for-startups"
 published_at: "2026-01-20T00:00:00+00:00"
 first_seen_at: "2026-07-24T11:28:42.148680+00:00"
-fetched_at: "2026-07-28T23:57:26.073716+00:00"
+fetched_at: "2026-07-29T17:00:43.115511+00:00"
 content_hash: "sha256:0d2db6d6d215fd21750688f7c45c4f379d04c42994049755dd2a53596a2ae125"
 ---
 

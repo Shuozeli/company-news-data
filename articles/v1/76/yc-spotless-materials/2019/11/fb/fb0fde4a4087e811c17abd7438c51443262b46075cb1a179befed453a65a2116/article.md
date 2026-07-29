@@ -7,7 +7,7 @@ source_id: "yc-spotless-materials-atom-27f9e38cc9f8"
 canonical_url: "https://spotlessmaterials.com/blogs/press-releases-1/listen-to-our-discussion-with-bbc-about-our-technology"
 published_at: "2019-11-19T15:30:00+00:00"
 first_seen_at: "2026-07-26T00:03:15.518146+00:00"
-fetched_at: "2026-07-29T00:06:27.340276+00:00"
+fetched_at: "2026-07-29T15:47:08.635528+00:00"
 content_hash: "sha256:2460c4066481c4e70b424e3ecaa26664c979933e03e94012a2b68971b56c61cd"
 ---
 

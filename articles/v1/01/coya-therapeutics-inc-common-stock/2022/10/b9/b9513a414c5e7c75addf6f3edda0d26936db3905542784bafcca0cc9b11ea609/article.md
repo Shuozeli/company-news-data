@@ -7,7 +7,7 @@ source_id: "coya-therapeutics-inc-common-stock-rss-7489961ab73d"
 canonical_url: "https://coyatherapeutics.com/treg-enhancing-therapies-to-treat-autoimmune-diseases/"
 published_at: "2022-10-12T15:42:52+00:00"
 first_seen_at: "2026-07-24T23:41:55.940685+00:00"
-fetched_at: "2026-07-28T23:12:05.562293+00:00"
+fetched_at: "2026-07-29T14:59:53.086176+00:00"
 content_hash: "sha256:000a51920f9ca39025795ec45574702a13ee460cd4c84567cea7a62e8c16e265"
 ---
 

@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2010/Deaconess-Health-System-Selects-Omnicells-Medication-Management-System-for-Product-Reliability-and-Improved-Patient-Care/default.aspx"
 published_at: "2010-09-27T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T23:03:29.570108+00:00"
+fetched_at: "2026-07-29T14:39:21.436483+00:00"
 content_hash: "sha256:e5377928b2c4d51ce3a82e65c70cdc824b291b0d7d0258bfbbc344a3646fd95c"
 ---
 
