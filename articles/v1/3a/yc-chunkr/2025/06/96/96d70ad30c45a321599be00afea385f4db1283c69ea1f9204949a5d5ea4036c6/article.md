@@ -7,7 +7,7 @@ source_id: "yc-chunkr-rss-ccbc1a71b139"
 canonical_url: "https://www.chunkr.ai/blog/vision-rag-sucks-text-is-still-king"
 published_at: "2025-06-06T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:25.721612+00:00"
-fetched_at: "2026-07-28T22:03:25.927140+00:00"
+fetched_at: "2026-07-29T00:42:08.864346+00:00"
 content_hash: "sha256:fab3c0ccc7f4305aabb7fcff5ea2f74d4c9360541ff34356f6457d23ad2d809f"
 ---
 

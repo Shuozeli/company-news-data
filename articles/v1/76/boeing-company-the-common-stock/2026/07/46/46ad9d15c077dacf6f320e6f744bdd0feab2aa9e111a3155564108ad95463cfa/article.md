@@ -7,7 +7,7 @@ source_id: "boeing-company-the-common-stock-rss-76526cfc8662"
 canonical_url: "http://investors.boeing.com/investors/news/press-release-details/2026/SMBC-Aviation-Capital-Orders-100-Boeing-737-MAX-Jets/default.aspx"
 published_at: "2026-07-20T09:34:00+00:00"
 first_seen_at: "2026-07-26T23:54:21.829354+00:00"
-fetched_at: "2026-07-28T20:43:51.874638+00:00"
+fetched_at: "2026-07-28T23:26:48.703887+00:00"
 content_hash: "sha256:2c020e0ac15eba57aa5f3f6272e03240dc8036845e1972130c943e5508e30854"
 ---
 

@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2021/FICM_Deputy_Co-Heads_for_09.14.21.pdf"
 published_at: "2021-09-14T12:30:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:53e240c429905ef96301d4cf26373fb75f2b51e61e95295fd5601783185fcb59"
 ---
 

@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://vertiv.com/vertiv-reports-record-fourth-quarter-2022-net-sales"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T20:39:59.455460+00:00"
+fetched_at: "2026-07-28T23:23:56.894710+00:00"
 content_hash: "sha256:c69c3ae1713a2496c6333948c62bb6645380bbac907727e054a91d7bdeed638e"
 ---
 

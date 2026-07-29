@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-life-sciences-announces-full-building-lease-at-751-gateway"
 published_at: "2021-12-06T21:18:37+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:915831bd32b47907e50b19f02028ccaf197f7484e95c4f4cd30ed4588760b0a9"
 ---
 

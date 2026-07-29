@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/initial-data-is-in-app-to-web-conversion-rates-after-the-app-store-ruling"
-published_at: "2025-05-07T16:36:03.033+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:2b99e9b05942ec6fe4ac4fe8cbf0e94f6dfff4014b6755da5c9d2b4af382e55d"

@@ -7,7 +7,7 @@ source_id: "dow-inc-common-stock-rss-a764c88a6383"
 canonical_url: "https://investors.dow.com/en/news/news-details/2026/Dow-reports-second-quarter-2026-results/default.aspx"
 published_at: "2026-07-23T10:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.067378+00:00"
-fetched_at: "2026-07-28T21:41:43.981040+00:00"
+fetched_at: "2026-07-29T00:19:09.815212+00:00"
 content_hash: "sha256:df99a58fec87023c9f902ea4eec393dc32aa4e21f19969fd8423df5af2124d7c"
 ---
 

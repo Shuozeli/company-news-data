@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/pour-reduire-la-dependance-europeenne-totalenergies-fait-du-plastique-recycle-high-tech/"
 published_at: "2026-07-13T09:08:09+00:00"
 first_seen_at: "2026-07-27T10:01:23.923013+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:7474b7691a67a7043826777dac93f4aabfe197b1500217d0320de9cb215821db"
 ---
 

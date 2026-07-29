@@ -24,5 +24,31 @@
       "partition": "2026-07",
       "record_count": 41
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a2/toyota-motor-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 63712,
+        "sha256": "sha256:5d3deac7359abe03d4052ae0a1d5a9d87d9ee295736b7bb68fc152519aaaaa18",
+        "newest_at": "2026-07-28T11:58:08+00:00",
+        "oldest_at": "2026-06-18T15:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/a2/toyota-motor-corporation-common-stock/index/pages/000002.json",
+        "record_count": 44,
+        "byte_count": 54322,
+        "sha256": "sha256:eee3ab9b82a398f727b8a2036f60e2baf24049776429dfc5187dd2b00f1e4457",
+        "newest_at": "2026-06-17T08:10:00+00:00",
+        "oldest_at": "2026-04-20T15:00:00+00:00"
+      }
+    ]
+  }
 }

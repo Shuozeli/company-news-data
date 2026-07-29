@@ -7,7 +7,7 @@ source_id: "rb-global-inc-common-stock-rss-fb81f22698ea"
 canonical_url: "https://investor.rbglobal.com/news/news-details/2026/RB-Global-Inc--Declares-Quarterly-Dividend-4a34187e2/default.aspx"
 published_at: "2026-07-24T20:05:00+00:00"
 first_seen_at: "2026-07-25T20:31:53.969569+00:00"
-fetched_at: "2026-07-28T21:52:20.401773+00:00"
+fetched_at: "2026-07-29T00:23:51.284961+00:00"
 content_hash: "sha256:76d1789e6b898ad2e150e068326cf38bf322bd251acbf071430440d199b58078"
 ---
 

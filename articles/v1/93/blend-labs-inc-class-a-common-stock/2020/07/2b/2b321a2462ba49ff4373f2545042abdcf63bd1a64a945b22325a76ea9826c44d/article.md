@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/a-day-in-the-life-of-a-secure-request.html"
 published_at: "2020-07-27T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-28T21:37:04.406824+00:00"
+fetched_at: "2026-07-29T00:27:54.647135+00:00"
 content_hash: "sha256:51107844b7e8b79d77efc18227e29a2b8c97b3f575ca70fc8b1e5d39c8af2282"
 ---
 

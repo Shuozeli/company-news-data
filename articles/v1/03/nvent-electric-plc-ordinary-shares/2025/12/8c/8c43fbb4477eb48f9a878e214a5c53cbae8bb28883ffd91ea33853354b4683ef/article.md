@@ -7,7 +7,7 @@ source_id: "nvent-electric-plc-ordinary-shares-rss-7e545b783f0e"
 canonical_url: "https://blog.nvent.com/safer-faster-and-easier-cable-support-with-nvent-caddy/"
 published_at: "2025-12-10T12:50:02+00:00"
 first_seen_at: "2026-07-20T23:21:35.308535+00:00"
-fetched_at: "2026-07-28T20:30:02.239099+00:00"
+fetched_at: "2026-07-28T23:16:06.368241+00:00"
 content_hash: "sha256:a247e9a2b87b32af35c5873776af565e06c061a7a5a5a470537c2b631690e4aa"
 ---
 

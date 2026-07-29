@@ -7,7 +7,7 @@ source_id: "anterix-inc-common-stock-rss-5ccc97b4bda7"
 canonical_url: "https://investors.anterix.com/news-releases/news-release-details/anterix-terrific-results-ntn-testing-lynk-global"
 published_at: "2026-06-13T13:00:00+00:00"
 first_seen_at: "2026-07-26T09:22:22.313626+00:00"
-fetched_at: "2026-07-28T20:55:51.016576+00:00"
+fetched_at: "2026-07-28T23:41:44.309473+00:00"
 content_hash: "sha256:812dbb8f9c04877af4524e32cd445df3c135e2031994fe554113d70718613fd6"
 ---
 

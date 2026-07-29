@@ -7,7 +7,7 @@ source_id: "yc-spotless-materials-atom-baac52d4cef5"
 canonical_url: "https://spotlessmaterials.com/blogs/the-spotlight/america-is-draining-its-groundwater-supplies-at-an-alarming-rate"
 published_at: "2023-11-03T13:02:15+00:00"
 first_seen_at: "2026-07-26T00:03:15.822503+00:00"
-fetched_at: "2026-07-28T21:51:09.516627+00:00"
+fetched_at: "2026-07-29T00:13:55.299743+00:00"
 content_hash: "sha256:d8c9d625b8ab2ebec94f5e3d00377f6dfb85e6828eac619345f7ccded48f9621"
 ---
 

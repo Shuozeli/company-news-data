@@ -7,7 +7,7 @@ source_id: "orion-s-a-common-shares-rss-b6a4f3fdd6ea"
 canonical_url: "https://investor.orioncarbons.com/financial-press-releases/press-releases-details/2026/Orion-S-A--Announces-Second-Quarter-2026-Earnings-Release-Date-and-Conference-Call-Information/default.aspx"
 published_at: "2026-07-15T20:30:00+00:00"
 first_seen_at: "2026-07-26T07:07:41.271725+00:00"
-fetched_at: "2026-07-28T21:37:03.096159+00:00"
+fetched_at: "2026-07-29T00:30:05.381465+00:00"
 content_hash: "sha256:85eac21c9ea0ecc953caa5a2f02fbe0eaf73d2e1493de0842766d1d79abb5625"
 ---
 

@@ -7,7 +7,7 @@ source_id: "uber-technologies-inc-common-stock-rss-0f1894567009"
 canonical_url: "https://investor.uber.com/news-events/news/press-release-details/2026/WeRide-Uber-and-AVOMO-Bring-Robotaxis-to-Madrid/default.aspx"
 published_at: "2026-06-02T08:30:00+00:00"
 first_seen_at: "2026-07-25T01:06:46.437477+00:00"
-fetched_at: "2026-07-28T21:37:30.635491+00:00"
+fetched_at: "2026-07-29T00:17:05.950701+00:00"
 content_hash: "sha256:57aa144765a65db388abbd6fe2bfb4bfc3f2e2118f0a25f2172737fb8cd2989c"
 ---
 

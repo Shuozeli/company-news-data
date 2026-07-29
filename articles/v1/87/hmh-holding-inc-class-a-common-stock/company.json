@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/87/hmh-holding-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 22192,
+        "sha256": "sha256:fa1340781f52cd11840f214199a0d073a916b29f3474b27e9069f8d08406e03a",
+        "newest_at": "2026-07-20T20:05:52+00:00",
+        "oldest_at": "2025-10-30T05:45:02+00:00"
+      }
+    ]
+  }
 }

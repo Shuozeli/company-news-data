@@ -100,5 +100,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/agios-pharmaceuticals-inc-common-stock/index/pages/000001.json",
+        "record_count": 34,
+        "byte_count": 43501,
+        "sha256": "sha256:3c523675cfeaa3ae19d1fce8826ce0a7655e693c12b77f42f82c80731df2dce7",
+        "newest_at": "2026-07-02T17:54:37+00:00",
+        "oldest_at": "2018-09-04T15:37:00+00:00"
+      }
+    ]
+  }
 }

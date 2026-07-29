@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/39/first-american-corporation-new-common-stock/index/pages/000001.json",
+        "record_count": 17,
+        "byte_count": 20465,
+        "sha256": "sha256:59af6b489f2de07f19ed9c449247a0dd2b17abdccfab81713977bac9ae2cfb95",
+        "newest_at": "2026-07-27T00:00:00+00:00",
+        "oldest_at": "2026-03-02T21:15:00+00:00"
+      }
+    ]
+  }
 }

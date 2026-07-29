@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-announces-partnership-with-bnq-management-to-accelerate-canadian-retail-growth-2/"
 published_at: "2022-02-28T16:46:44+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:e8da4e93a0d0a4743f9c8116272619a6003bb8f0fe287c8f7308234afd7d1575"
 ---
 

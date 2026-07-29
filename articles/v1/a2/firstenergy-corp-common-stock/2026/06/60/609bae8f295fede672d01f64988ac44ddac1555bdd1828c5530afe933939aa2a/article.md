@@ -7,7 +7,7 @@ source_id: "firstenergy-corp-common-stock-rss-a56d4a0f1bba"
 canonical_url: "https://investors.firstenergycorp.com/investor-materials/news-releases/news-details/2026/Keep-Your-Cool-and-Your-Bills-in-Check-During-Extreme-Heat/default.aspx"
 published_at: "2026-06-29T17:25:00+00:00"
 first_seen_at: "2026-07-25T04:48:53.602624+00:00"
-fetched_at: "2026-07-28T19:32:05.699211+00:00"
+fetched_at: "2026-07-28T22:53:05.043726+00:00"
 content_hash: "sha256:fdfe78dc0a18e867329b729d9c48244780accbb78cfa886a023282d4be2a7013"
 ---
 

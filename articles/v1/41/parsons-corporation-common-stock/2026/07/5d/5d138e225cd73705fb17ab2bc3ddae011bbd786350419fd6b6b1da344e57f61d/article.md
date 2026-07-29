@@ -7,7 +7,7 @@ source_id: "parsons-corporation-common-stock-rss-2a3475286026"
 canonical_url: "https://www.parsons.com/2026/07/via-satellite-nrl-awards-parsons-245m-satellite-ground-systems-contract-for-tracking-facility/"
 published_at: "2026-07-14T14:55:55+00:00"
 first_seen_at: "2026-07-20T23:22:15.164723+00:00"
-fetched_at: "2026-07-28T20:35:26.686353+00:00"
+fetched_at: "2026-07-28T23:19:56.723187+00:00"
 content_hash: "sha256:4cbb1ab9ebe57c4625b2388f632f89d15d299afec9b5960fe617d0856bdaec64"
 ---
 

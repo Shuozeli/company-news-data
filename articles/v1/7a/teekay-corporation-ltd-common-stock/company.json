@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7a/teekay-corporation-ltd-common-stock/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 17773,
+        "sha256": "sha256:0e93efa2ca090a11c06b45aa56592f55dfb05124092af3440f28e56f2f6af37c",
+        "newest_at": "2026-07-28T05:16:33+00:00",
+        "oldest_at": "2026-05-13T20:30:48+00:00"
+      }
+    ]
+  }
 }

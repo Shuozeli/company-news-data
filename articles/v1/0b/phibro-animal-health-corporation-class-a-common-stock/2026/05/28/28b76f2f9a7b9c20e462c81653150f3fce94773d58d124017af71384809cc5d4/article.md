@@ -7,7 +7,7 @@ source_id: "phibro-animal-health-corporation-class-a-common-stock-rss-841b8b6905
 canonical_url: "https://investors.pahc.com/press-releases/press-release-details/2026/Phibro-Animal-Health-Corporation-Reports-Third-Quarter-Results-Updates-Financial-Guidance/default.aspx"
 published_at: "2026-05-06T20:30:00+00:00"
 first_seen_at: "2026-07-25T18:55:33.025775+00:00"
-fetched_at: "2026-07-28T20:45:41.117230+00:00"
+fetched_at: "2026-07-28T23:27:20.556092+00:00"
 content_hash: "sha256:bfd4f94c47a997a700c78249443212c42143b085bc4da5957aa955f27d586962"
 ---
 

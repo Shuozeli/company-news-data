@@ -7,7 +7,7 @@ source_id: "ladder-capital-corp-class-a-common-stock-rss-21269b5f82f1"
 canonical_url: "https://ir.laddercapital.com/news/news-details/2026/Ladder-Capital-Corp-Announces-First-Quarter-2026-Dividend-to-Holders-of-Class-A-Common-Stock/default.aspx"
 published_at: "2026-03-13T12:15:00+00:00"
 first_seen_at: "2026-07-25T11:21:56.256152+00:00"
-fetched_at: "2026-07-28T21:28:49.305707+00:00"
+fetched_at: "2026-07-29T00:05:37.663493+00:00"
 content_hash: "sha256:a3d672b00a5a91e2e21fd69a29b753c396c46a83c6608b68bf0e4f8944e2ad22"
 ---
 

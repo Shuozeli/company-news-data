@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2019/teradata-reports-fourth-quarter-2018-results"
 published_at: "2019-02-07T08:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T19:37:01.666775+00:00"
+fetched_at: "2026-07-28T23:07:12.403269+00:00"
 content_hash: "sha256:e5fff4dc4880c4ff3828b7c79646807bac67adfd3572d6e8b5cae4e8c792d0b2"
 ---
 

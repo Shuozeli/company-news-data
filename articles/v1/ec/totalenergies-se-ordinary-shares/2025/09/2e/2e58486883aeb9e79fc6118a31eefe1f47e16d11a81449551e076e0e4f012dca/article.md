@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/les-eoliennes-de-totalenergies-dans-les-eaux-normandes-approvisionneront-1-million-dhabitants/"
 published_at: "2025-09-24T13:46:23+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:fea41d2733478ffa4c05c94b759ef6560f8eef6b0e20904a59e64cab9b50dbfc"
 ---
 

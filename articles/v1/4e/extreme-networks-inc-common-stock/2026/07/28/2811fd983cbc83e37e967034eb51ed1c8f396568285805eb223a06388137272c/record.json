@@ -17,8 +17,8 @@
   "summary": "The “Dirty Frag” vulnerability is a local privilege escalation (LPE) issue in the Linux kernel that combines flaws in the ESP/XFRM and RXRPC subsystems to allow an unprivileged local attacker to gain root access on major Linux distributions (using any of these two: ESP/XFRM or RXRPC flaws). The attack abuses kernel page-cache manipulation and network protocol handling to overwrite privileged binaries and execute arbitrary code with elevated privileges. Exploitation differs by distribution: the ESP issue affects systems permitting unprivileged user namespaces, while the RXRPC issue impacts distributions with RXRPC enabled, such as Ubuntu. Together, the vulnerabilities provide broad cross-distribution root compromise capability, with mitigations involving disabling vulnerable kernel modules (esp4, esp6, and rxrpc) until upstream patches are fully merged and deployed. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
   "published_at": "2026-07-01T17:30:41+00:00",
   "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
-  "fetched_at": "2026-07-28T20:59:59.352597+00:00",
-  "last_updated_at": "2026-07-28T20:59:59.548941+00:00",
+  "fetched_at": "2026-07-28T23:46:40.217305+00:00",
+  "last_updated_at": "2026-07-28T23:46:40.335342+00:00",
   "paths": {
     "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/28/2811fd983cbc83e37e967034eb51ed1c8f396568285805eb223a06388137272c/article.md",
     "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/28/2811fd983cbc83e37e967034eb51ed1c8f396568285805eb223a06388137272c/record.json"
@@ -26,7 +26,7 @@
   "content": {
     "media_type": "text/markdown; charset=utf-8",
     "bytes": 1959,
-    "sha256": "sha256:4165fd49bba23fba0fe89632c11108ea2895282a30a36a6f9ad7db613dfea799",
+    "sha256": "sha256:c8e3985314a22d55e2062e3e7950dd47511c290cad632e03cc384d3c0dab0796",
     "normalized_content_hash": "sha256:be5935a2fd0beac8239f789dcdb8686fa0fdbda8809065e9695a4b2ad90dd1a0"
   },
   "provenance": {

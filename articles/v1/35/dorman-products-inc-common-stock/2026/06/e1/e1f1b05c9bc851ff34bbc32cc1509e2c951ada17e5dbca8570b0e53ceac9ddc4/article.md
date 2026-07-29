@@ -7,7 +7,7 @@ source_id: "dorman-products-inc-common-stock-rss-b8556f430883"
 canonical_url: "https://shoppress.dormanproducts.com/diesel-and-def-ase-practice-question-video/"
 published_at: "2026-06-30T12:00:57+00:00"
 first_seen_at: "2026-07-20T03:32:46.564497+00:00"
-fetched_at: "2026-07-28T20:56:20.587194+00:00"
+fetched_at: "2026-07-28T23:42:19.685738+00:00"
 content_hash: "sha256:d235abba3d1ccd0d3bdaac1c912b1f8ab7a4c1840cb1eabdc4329cc1c5777ca9"
 ---
 

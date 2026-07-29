@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2023/06/technipfmc-signs-20-year-subsea-20-frame-agreement-with-chevron-australia/"
 published_at: "2023-06-15T09:25:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-28T21:51:21.094676+00:00"
+fetched_at: "2026-07-29T00:17:43.124361+00:00"
 content_hash: "sha256:90445089c81706782ff08f5b20d9980e444f3a300fcfed28efd5f6451e69bf36"
 ---
 

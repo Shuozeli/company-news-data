@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/des-pompistes-dans-les-stations-totalenergies-en-normandie-un-service-tres-apprecie/"
 published_at: "2025-09-06T13:46:11+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:8a7d6f32092023c62a25b371aaa7245d3eba5dd4022cd988106817b158705ea6"
 ---
 

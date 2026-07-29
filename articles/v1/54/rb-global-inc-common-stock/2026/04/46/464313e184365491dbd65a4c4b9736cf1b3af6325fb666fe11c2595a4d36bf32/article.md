@@ -7,7 +7,7 @@ source_id: "rb-global-inc-common-stock-rss-fb81f22698ea"
 canonical_url: "https://investor.rbglobal.com/news/news-details/2026/RB-Global-to-Release-First-Quarter-2026-Financial-Results-and-Host-Conference-Call-on-May-4-2026/default.aspx"
 published_at: "2026-04-08T20:15:00+00:00"
 first_seen_at: "2026-07-25T20:31:53.969569+00:00"
-fetched_at: "2026-07-28T21:52:20.401773+00:00"
+fetched_at: "2026-07-29T00:23:51.284961+00:00"
 content_hash: "sha256:82bb28d399fbd82570491e550a171fb22ce1e5c52d7672767489b664843239dd"
 ---
 

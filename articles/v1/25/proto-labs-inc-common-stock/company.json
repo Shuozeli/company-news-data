@@ -32,5 +32,31 @@
       "partition": "2026-07",
       "record_count": 59
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/25/proto-labs-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 56490,
+        "sha256": "sha256:5ab6cb2f609c8531848d038165b2e85ebd94c4961dd43cbbaf232278bf25a5e8",
+        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "oldest_at": "2026-07-28T21:18:37.293716+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/25/proto-labs-inc-common-stock/index/pages/000002.json",
+        "record_count": 21,
+        "byte_count": 24251,
+        "sha256": "sha256:d1bae74e3753999fc3f6ae6c6c2cccc25ffec00fcfeea904df93a9686ee44481",
+        "newest_at": "2026-07-28T21:18:37.293716+00:00",
+        "oldest_at": "2025-10-10T00:00:00+00:00"
+      }
+    ]
+  }
 }

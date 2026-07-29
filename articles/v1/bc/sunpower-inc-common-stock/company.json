@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bc/sunpower-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 14426,
+        "sha256": "sha256:efd34ca7618e5ff49b9361c90a6e2f84572737b1af5fb4c2e08bf1384437b2fe",
+        "newest_at": "2026-07-14T00:00:00+00:00",
+        "oldest_at": "2025-12-12T00:00:00+00:00"
+      }
+    ]
+  }
 }

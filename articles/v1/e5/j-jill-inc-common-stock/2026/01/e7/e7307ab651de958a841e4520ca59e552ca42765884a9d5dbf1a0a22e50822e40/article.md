@@ -7,7 +7,7 @@ source_id: "j-jill-inc-common-stock-rss-31f8245a526a"
 canonical_url: "https://investors.jjill.com/Investors-Relations/News-Events/News/News-details/2026/J-Jill-Inc--Announces-Participation-in-the-28th-Annual-ICR-Conference/default.aspx"
 published_at: "2026-01-06T11:45:00+00:00"
 first_seen_at: "2026-07-25T10:16:14.371289+00:00"
-fetched_at: "2026-07-28T21:31:26.641263+00:00"
+fetched_at: "2026-07-29T00:13:59.828589+00:00"
 content_hash: "sha256:b1311c25167249fa39889df4eea4eff13cd77f761abde3ad9897722a29dfcf44"
 ---
 

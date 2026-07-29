@@ -32,5 +32,22 @@
       "partition": "2024-09",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/90/yc-harmonic-discovery/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 8853,
+        "sha256": "sha256:2d8124a104f2d823dc2d904aea2a6fdf434c07dee4453d4324063e1887a0c250",
+        "newest_at": "2024-09-11T13:18:21+00:00",
+        "oldest_at": "2022-09-08T02:09:35+00:00"
+      }
+    ]
+  }
 }

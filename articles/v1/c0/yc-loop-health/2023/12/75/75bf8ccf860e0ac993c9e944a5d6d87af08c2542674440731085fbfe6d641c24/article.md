@@ -7,7 +7,7 @@ source_id: "yc-loop-health-rss-2b917676138c"
 canonical_url: "https://loophealth.io/restore-balance/"
 published_at: "2023-12-09T12:28:02+00:00"
 first_seen_at: "2026-07-24T09:56:55.836543+00:00"
-fetched_at: "2026-07-28T21:05:55.660066+00:00"
+fetched_at: "2026-07-28T23:52:12.241134+00:00"
 content_hash: "sha256:f605853ca4a3cf3254bf4ee7e4395f79bb95e3feb2ce1f50f022237381a82285"
 ---
 

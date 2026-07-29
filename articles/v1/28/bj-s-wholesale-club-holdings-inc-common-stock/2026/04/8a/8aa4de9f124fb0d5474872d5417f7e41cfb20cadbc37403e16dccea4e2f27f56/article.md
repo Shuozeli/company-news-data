@@ -7,7 +7,7 @@ source_id: "bj-s-wholesale-club-holdings-inc-common-stock-rss-dd25fd37e36b"
 canonical_url: "https://investors.bjs.com/press-releases/press-release-details/2026/BJs-Wholesale-Club-Names-Stephanie-Reibling-Executive-Vice-President-Chief-Merchandising-Officer/default.aspx"
 published_at: "2026-04-01T20:30:00+00:00"
 first_seen_at: "2026-07-25T01:12:22.633439+00:00"
-fetched_at: "2026-07-28T20:03:27.118039+00:00"
+fetched_at: "2026-07-28T23:52:43.781550+00:00"
 content_hash: "sha256:641336473f0c90896549bd343c54e2a80617d91a3d671557f7d31d37e058aed6"
 ---
 

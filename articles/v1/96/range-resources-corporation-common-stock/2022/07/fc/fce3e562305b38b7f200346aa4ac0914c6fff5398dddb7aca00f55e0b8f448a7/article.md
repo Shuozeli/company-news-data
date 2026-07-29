@@ -7,7 +7,7 @@ source_id: "range-resources-corporation-common-stock-rss-39ebe470ada3"
 canonical_url: "https://www.rangeresources.com/feature-range-ceo-discusses-importance-of-pennsylvania-infrastructure/"
 published_at: "2022-07-12T21:11:24+00:00"
 first_seen_at: "2026-07-25T01:14:33.578834+00:00"
-fetched_at: "2026-07-28T22:12:02.202327+00:00"
+fetched_at: "2026-07-29T00:50:21.600149+00:00"
 content_hash: "sha256:aa9ece496111d0144b7831b9b1f464a709ebe355cfd8fd4615b6ec000c8623ae"
 ---
 

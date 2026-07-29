@@ -7,7 +7,7 @@ source_id: "team-inc-common-stock-rss-ea7a13d32a8c"
 canonical_url: "https://www.teaminc.com/watch-live-team-inc-2026-first-quarter-update/"
 published_at: "2026-05-12T16:38:09+00:00"
 first_seen_at: "2026-07-20T23:20:11.742485+00:00"
-fetched_at: "2026-07-28T20:16:25.928722+00:00"
+fetched_at: "2026-07-28T22:59:31.655248+00:00"
 content_hash: "sha256:f9a0c1f31976714ce89058a7fdced6c0d31c215d7af097d1d2952d4d12e457ed"
 ---
 

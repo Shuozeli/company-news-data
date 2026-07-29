@@ -7,7 +7,7 @@ source_id: "yc-okteto-rss-a64bce3f80ea"
 canonical_url: "https://www.okteto.com/blog/making-your-cli-more-accessible-using-fig/"
 published_at: "2022-03-23T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:32.770894+00:00"
-fetched_at: "2026-07-28T20:21:04.237991+00:00"
+fetched_at: "2026-07-28T23:04:45.973203+00:00"
 content_hash: "sha256:fee7cc73dbf90a12de07e42a11e1274f530d644011372bbe8cad53e34f4d4b68"
 ---
 

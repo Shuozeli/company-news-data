@@ -5,7 +5,7 @@ company_key: "yc-sift"
 company: "Sift"
 source_id: "yc-sift-rss-c48c6d88eecb"
 canonical_url: "https://sift.com/blog/multi-accounting-fraud-in-marketplaces-and-igaming/"
-published_at: "2026-07-10T18:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:24:10.644571+00:00"
 fetched_at: "2026-07-28T20:34:24.680558+00:00"
 content_hash: "sha256:73b972d6979a097663cf35964a538298ec5b048706b5f84b49ba6f3441f01e5f"

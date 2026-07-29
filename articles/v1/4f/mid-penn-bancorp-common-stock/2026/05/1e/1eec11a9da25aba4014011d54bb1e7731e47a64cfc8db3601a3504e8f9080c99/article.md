@@ -7,7 +7,7 @@ source_id: "mid-penn-bancorp-common-stock-rss-451aa899134c"
 canonical_url: "https://midpennbank.com/about-us/news/mid-penn-bank-hires-robert-fischer-as-senior-commercial-loan-manager/"
 published_at: "2026-05-18T12:56:46+00:00"
 first_seen_at: "2026-07-25T14:13:43.800393+00:00"
-fetched_at: "2026-07-28T22:03:40.909178+00:00"
+fetched_at: "2026-07-29T00:42:02.522823+00:00"
 content_hash: "sha256:c3e52761bf04eb6b32901b830f5f5f1aadb907164f405159d83e8554a9baf551"
 ---
 

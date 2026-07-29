@@ -56,5 +56,40 @@
       "partition": "2026-07",
       "record_count": 11
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c4/duke-energy-corporation-holding-company-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 71218,
+        "sha256": "sha256:a6b0a2ae5f0ce050a6896cefce31361c94d94f56c945fdfcac45bc89994bfb08",
+        "newest_at": "2026-07-27T13:34:00+00:00",
+        "oldest_at": "2026-04-30T19:06:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/c4/duke-energy-corporation-holding-company-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 70687,
+        "sha256": "sha256:9e62bd3b00b43432d835ad15e5d7d67334b21857c4716c72054c085ab674c284",
+        "newest_at": "2026-04-28T14:12:00+00:00",
+        "oldest_at": "2026-02-10T12:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/c4/duke-energy-corporation-holding-company-common-stock/index/pages/000003.json",
+        "record_count": 21,
+        "byte_count": 27838,
+        "sha256": "sha256:e6b0aac31ae12f9211c7f066ff8443f672aa1ef7820b13be99988faeb0bac087",
+        "newest_at": "2026-02-06T17:07:00+00:00",
+        "oldest_at": "2025-06-02T14:00:00+00:00"
+      }
+    ]
+  }
 }

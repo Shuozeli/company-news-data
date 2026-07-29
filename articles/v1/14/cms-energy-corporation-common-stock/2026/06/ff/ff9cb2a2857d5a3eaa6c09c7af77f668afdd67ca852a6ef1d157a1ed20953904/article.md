@@ -7,7 +7,7 @@ source_id: "cms-energy-corporation-common-stock-rss-601c04a7cd5c"
 canonical_url: "https://www.cmsenergy.com/investor-relations/news-releases/news-release-details/2026/CMS-Energy-Announces-Chris-Shellberg-as-Vice-President-of-Low-Voltage-Electric-Distribution/default.aspx"
 published_at: "2026-06-24T18:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:51.275325+00:00"
-fetched_at: "2026-07-28T21:50:14.651435+00:00"
+fetched_at: "2026-07-29T00:06:52.427039+00:00"
 content_hash: "sha256:02c9edbe488d6335d49261ce3798efacb8abc9fe31e9eba52d7ee4ad336283fd"
 ---
 

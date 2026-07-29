@@ -48,5 +48,22 @@
       "partition": "2025-08",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/21/roadzen-inc-ordinary-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11343,
+        "sha256": "sha256:cfc809b4314792166eefa976cef5167556d53557b9b13efbdbf41e2aaaa48fa6",
+        "newest_at": "2025-08-28T04:31:33+00:00",
+        "oldest_at": "2024-10-21T09:57:59+00:00"
+      }
+    ]
+  }
 }

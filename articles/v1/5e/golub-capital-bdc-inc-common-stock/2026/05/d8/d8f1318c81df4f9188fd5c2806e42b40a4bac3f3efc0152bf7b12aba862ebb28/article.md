@@ -7,7 +7,7 @@ source_id: "golub-capital-bdc-inc-common-stock-rss-42b3214e2170"
 canonical_url: "https://golubcapitalbdc.com/2026/05/19/golub-capital-bdc-inc-prices-public-offering-of-500-million-6-250-notes-due-2031/"
 published_at: "2026-05-19T20:39:11+00:00"
 first_seen_at: "2026-07-20T03:31:52.275280+00:00"
-fetched_at: "2026-07-28T20:20:29.720453+00:00"
+fetched_at: "2026-07-28T23:03:48.236161+00:00"
 content_hash: "sha256:89d37689a565bcfe96f50df2e482559f18e1425cb5c1fbc18bafcded762394ac"
 ---
 

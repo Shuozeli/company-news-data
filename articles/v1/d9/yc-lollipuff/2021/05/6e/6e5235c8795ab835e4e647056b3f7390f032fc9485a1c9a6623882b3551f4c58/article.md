@@ -7,7 +7,7 @@ source_id: "yc-lollipuff-rss-1aefb943cc78"
 canonical_url: "https://www.lollipuff.com/louis-vuitton-to-replace-datecodes-with-microchips/"
 published_at: "2021-05-27T18:25:43+00:00"
 first_seen_at: "2026-07-25T01:53:27.944775+00:00"
-fetched_at: "2026-07-28T20:30:23.160334+00:00"
+fetched_at: "2026-07-28T23:16:31.531465+00:00"
 content_hash: "sha256:3b53fb28b0fa92d312731783c81bd49ccc1ea12f2cdc86c0c25e99a8755243aa"
 ---
 

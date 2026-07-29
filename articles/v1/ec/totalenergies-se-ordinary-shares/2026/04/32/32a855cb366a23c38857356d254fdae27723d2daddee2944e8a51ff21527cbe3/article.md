@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-ceo-on-controversial-offshore-wind-deal-its-our-money/"
 published_at: "2026-04-17T09:43:01+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:82b6ce7e8ea0c15476b6e2299fe32dc84e492c4348bfb6812ac4d9af15772114"
 ---
 

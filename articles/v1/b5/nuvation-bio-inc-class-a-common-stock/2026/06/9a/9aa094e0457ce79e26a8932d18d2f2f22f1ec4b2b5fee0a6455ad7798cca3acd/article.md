@@ -7,7 +7,7 @@ source_id: "nuvation-bio-inc-class-a-common-stock-rss-b4f1cad90b3b"
 canonical_url: "https://investors.nuvationbio.com/news/news-details/2026/Nuvation-Bio-Announces-Proposed-Convertible-Senior-Notes-Offering/default.aspx"
 published_at: "2026-06-25T11:00:00+00:00"
 first_seen_at: "2026-07-25T16:46:57.555145+00:00"
-fetched_at: "2026-07-28T21:41:47.683215+00:00"
+fetched_at: "2026-07-29T00:17:00.835864+00:00"
 content_hash: "sha256:163d8733c6dd000e03af8386549bbf01718f0eecb724d5d4045c7aef96964294"
 ---
 

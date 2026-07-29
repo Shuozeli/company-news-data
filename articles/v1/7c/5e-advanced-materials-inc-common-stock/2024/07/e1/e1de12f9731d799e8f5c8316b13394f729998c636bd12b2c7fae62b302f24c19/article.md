@@ -7,7 +7,7 @@ source_id: "5e-advanced-materials-inc-common-stock-rss-95b203974cd8"
 canonical_url: "https://investors.5eadvancedmaterials.com/seeking-alpha-boron-the-overlooked-critical-material"
 published_at: "2024-07-08T18:45:36+00:00"
 first_seen_at: "2026-07-25T01:07:38.036445+00:00"
-fetched_at: "2026-07-28T21:46:44.582375+00:00"
+fetched_at: "2026-07-29T00:06:26.724679+00:00"
 content_hash: "sha256:e0fe01dffcda924e82850554a8980147ed4b63af297b93d1883b04bf68d31982"
 ---
 

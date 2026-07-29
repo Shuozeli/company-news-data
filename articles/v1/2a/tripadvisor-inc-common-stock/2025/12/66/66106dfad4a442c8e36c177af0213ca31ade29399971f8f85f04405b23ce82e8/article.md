@@ -7,7 +7,7 @@ source_id: "tripadvisor-inc-common-stock-rss-6295d6870799"
 canonical_url: "https://medium.com/tripadvisor/the-evolution-of-native-engineering-at-tripadvisor-part-3-design-system-flexible-framework-ebf9f27e62be"
 published_at: "2025-12-02T16:45:13+00:00"
 first_seen_at: "2026-07-20T23:18:15.449539+00:00"
-fetched_at: "2026-07-28T21:32:32.443872+00:00"
+fetched_at: "2026-07-29T00:17:38.800558+00:00"
 content_hash: "sha256:4648b6a32499dc709b385eadcfe7c2e60b63b344689ea8e4e8571aa3d3dbe960"
 ---
 

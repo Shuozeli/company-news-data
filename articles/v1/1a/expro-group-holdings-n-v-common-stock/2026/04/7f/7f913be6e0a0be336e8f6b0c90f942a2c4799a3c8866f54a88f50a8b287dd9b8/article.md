@@ -7,7 +7,7 @@ source_id: "expro-group-holdings-n-v-common-stock-rss-3f0688a36c9f"
 canonical_url: "https://investors.expro.com/news/news-details/2026/Expro-Announces-Proposed-Redomicile-to-the-Cayman-Islands/default.aspx"
 published_at: "2026-04-01T21:26:00+00:00"
 first_seen_at: "2026-07-25T03:54:54.177774+00:00"
-fetched_at: "2026-07-28T19:47:25.156517+00:00"
+fetched_at: "2026-07-28T23:24:32.264442+00:00"
 content_hash: "sha256:73a563354445eb2d871d03aae763ed364d71588bda01fc02aa6186879ab26230"
 ---
 

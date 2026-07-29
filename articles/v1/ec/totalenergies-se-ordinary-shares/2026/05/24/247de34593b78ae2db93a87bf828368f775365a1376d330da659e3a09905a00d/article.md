@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/interview-total-energies-en-cas-de-surtaxe-nous-ne-pourrons-pas-maintenir-le-plafonnement-des-prix-assure-patrick-pouyanne/"
 published_at: "2026-05-05T16:45:05+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:879a328d9a95ea91453db20339aac5765fbc06f62b38dd879916ba76a553433c"
 ---
 

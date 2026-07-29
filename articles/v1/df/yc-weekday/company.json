@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/df/yc-weekday/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8204,
+        "sha256": "sha256:ac763169a5dc6d1f5d94b705eadf1b9539080b08101111cb632a6b4d889132df",
+        "newest_at": "2026-07-25T00:00:00+00:00",
+        "oldest_at": "2026-07-06T00:00:00+00:00"
+      }
+    ]
+  }
 }

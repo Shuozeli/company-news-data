@@ -7,7 +7,7 @@ source_id: "crane-nxt-co-common-stock-rss-51efb9ce9092"
 canonical_url: "https://investors.cranenxt.com/press-releases/news-details/2026/Crane-NXT-Announces-Appointment-of-Jeffrey-Benck-to-Board-of-Directors/default.aspx"
 published_at: "2026-03-12T20:05:00+00:00"
 first_seen_at: "2026-07-26T12:24:18.473978+00:00"
-fetched_at: "2026-07-28T20:38:34.058306+00:00"
+fetched_at: "2026-07-28T23:22:06.182050+00:00"
 content_hash: "sha256:30088c2f5088d3bb944d2a5c2aec8e70407888c186c10a835a8592671d0a391f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-announces-second-quarter-2025-results"
 published_at: "2025-07-29T21:37:52+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:67cbd2f266401985b6f5d4d2f2735e2d0201a17f556dea2ce735140d84b955da"
 ---
 

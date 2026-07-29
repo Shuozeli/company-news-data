@@ -48,5 +48,22 @@
       "partition": "2026-07",
       "record_count": 12
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c3/sprout-social-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 31872,
+        "sha256": "sha256:9854c2e99c4c2f8a7ccdf01e669031b01db996fbcd33fdb6c767edc597fb211d",
+        "newest_at": "2026-07-28T15:43:17+00:00",
+        "oldest_at": "2023-11-01T13:06:17+00:00"
+      }
+    ]
+  }
 }

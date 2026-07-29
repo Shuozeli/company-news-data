@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/purely-canada-foods-progress-report-on-value-added-processing/"
 published_at: "2020-11-24T20:11:05+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:08f839a34670757eef8c12839ca6e45131c102375a91431598a66fc7de677d43"
 ---
 

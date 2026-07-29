@@ -7,7 +7,7 @@ source_id: "ericsson-american-depositary-shares-atom-93f46de34b40"
 canonical_url: "https://www.ericsson.com/en/blog/2026/7/5g-standalone-the-next-step-toward-an-ai-driven-future"
 published_at: "2026-07-28T08:24:42+00:00"
 first_seen_at: "2026-07-28T09:01:19.283254+00:00"
-fetched_at: "2026-07-28T20:54:55.951080+00:00"
+fetched_at: "2026-07-28T23:40:54.246754+00:00"
 content_hash: "sha256:ce620ef4522a765a73b63beac0ac3e3bf4da6c63cfe73034ae604789bac31d27"
 ---
 

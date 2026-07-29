@@ -7,7 +7,7 @@ source_id: "yc-spaceium-inc-rss-9f6edbd2b214"
 canonical_url: "https://spaceium.com/spaceium-demonstrates-refueling-actuator-in-orbit/"
 published_at: "2026-02-10T17:00:07+00:00"
 first_seen_at: "2026-07-25T01:53:20.958572+00:00"
-fetched_at: "2026-07-28T20:26:16.465474+00:00"
+fetched_at: "2026-07-28T23:11:37.521719+00:00"
 content_hash: "sha256:409fdc1a165ba52cba9a85e56ddf0b491cde067328fd2345bc464f25e00150ed"
 ---
 

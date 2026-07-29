@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/custom-paywall-presentation-in-ios-with-the-superwall-sdk"
-published_at: "2024-09-26T15:13:42.619+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:9d22ee6d4d362eb60ce740bc3e48f7bc4512e1f74f19718abe69db3ce88f0cff"

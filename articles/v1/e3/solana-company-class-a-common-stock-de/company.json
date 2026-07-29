@@ -28,5 +28,22 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e3/solana-company-class-a-common-stock-de/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14135,
+        "sha256": "sha256:877ebb9a4213b59b9fd536204e5b68722f0316735978f04c43178d107cf9573d",
+        "newest_at": "2026-06-30T11:00:38+00:00",
+        "oldest_at": "2026-02-23T14:00:40+00:00"
+      }
+    ]
+  }
 }

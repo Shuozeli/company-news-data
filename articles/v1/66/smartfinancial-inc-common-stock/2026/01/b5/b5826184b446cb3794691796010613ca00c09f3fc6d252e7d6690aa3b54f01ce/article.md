@@ -7,7 +7,7 @@ source_id: "smartfinancial-inc-common-stock-rss-adbb4269f35c"
 canonical_url: "https://www.smartfinancialinc.com/news-market-information/press-releases/news-details/2026/SmartFinancial-Approves-Regular-Quarterly-Cash-Dividend-and-Announces-Share-Repurchase-Program/default.aspx"
 published_at: "2026-01-30T22:00:00+00:00"
 first_seen_at: "2026-07-25T23:24:32.337260+00:00"
-fetched_at: "2026-07-28T20:53:40.158472+00:00"
+fetched_at: "2026-07-28T23:39:10.971647+00:00"
 content_hash: "sha256:6aaccc4a8edc65e05328752b88c1653025f0f27e33e3295c27f8068718c5db0f"
 ---
 

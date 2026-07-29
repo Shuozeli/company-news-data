@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 17
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/22/yc-prenda/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 19789,
+        "sha256": "sha256:ebc0281a7efdcc2d539ee1f66060772bf67a5fbe1f9874c2e14f918e0c5052b4",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2025-03-04T00:00:00+00:00"
+      }
+    ]
+  }
 }

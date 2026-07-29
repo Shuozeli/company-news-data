@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/car-profiles/vws-golf-rallye-g60-truly-was-the-golf-r-of-the-80s-and-90s/"
 published_at: "2026-07-17T19:30:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:65f2161ef1a3aa2485f8c15f89fc2e9ee0d4b89ebd465927e7c221a76ab69f28"
 ---
 

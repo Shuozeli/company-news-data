@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/the-missing-layer-in-contract-automation"
 published_at: "2026-04-01T16:05:08+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:b46f08b56186c87b5804baa90eb5cbf3549a34f15824f2ac0b93d71938d9676a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/check-out-our-latest-issue-including-an-interview-with-thalassemia-specialist-dr-vip-viprakasit-an-in-depth-analysis-of-recent-alpha-thalassemia-publications-and-more/"
 published_at: "2023-03-23T23:31:17+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-28T21:47:02.623482+00:00"
+fetched_at: "2026-07-29T00:23:58.530332+00:00"
 content_hash: "sha256:fb43e8767fde825a591ceefe56b3ab855c3f7197b7c9d21930e1d10a801973ba"
 ---
 

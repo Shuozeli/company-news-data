@@ -40,5 +40,22 @@
       "partition": "2023-12",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/98/yc-billforward/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10372,
+        "sha256": "sha256:9dfe2ebaa47350bd5c06d9f88a2553aa9c7482cffe3b771ec5336219d0df9351",
+        "newest_at": "2023-12-21T12:48:23+00:00",
+        "oldest_at": "2022-06-17T04:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "flagstar-bank-n-a-common-stock-rss-54152b4d27de"
 canonical_url: "https://ir.flagstar.com/news-and-events/news-releases/press-release-details/2026/FLAGSTAR-BANK-REPORTS-SECOND-QUARTER-2026-NET-INCOME-ATTRIBUTABLE-TO-COMMON-STOCKHOLDERS-OF-0-06-PER-DILUTED-SHARE-AND-ADJUSTED-NET-INCOME-ATTRIBUTABLE-TO-COMMON-STOCKHOLDERS-OF-0-05-PER-DILUTED-SHARE/default.aspx"
 published_at: "2026-07-24T10:05:00+00:00"
 first_seen_at: "2026-07-27T02:28:06.875488+00:00"
-fetched_at: "2026-07-28T20:02:37.223383+00:00"
+fetched_at: "2026-07-28T23:51:48.531137+00:00"
 content_hash: "sha256:d6dac981b79e5ae00ecffadd320c0c13595b72eb65ed75520dfb4df2bac7cb5e"
 ---
 

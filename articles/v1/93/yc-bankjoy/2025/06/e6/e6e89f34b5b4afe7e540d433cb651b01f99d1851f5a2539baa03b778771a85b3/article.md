@@ -7,7 +7,7 @@ source_id: "yc-bankjoy-rss-acabb700cdf2"
 canonical_url: "https://www.bankjoy.com/blog/ai-code-fest-2025"
 published_at: "2025-06-12T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:23:35.072236+00:00"
-fetched_at: "2026-07-28T21:09:42.140450+00:00"
+fetched_at: "2026-07-28T23:55:32.181695+00:00"
 content_hash: "sha256:554a238ba68ca0a25571ce09010e0827e0e27c3ca18b46c7ee22b119162dc172"
 ---
 

@@ -7,7 +7,7 @@ source_id: "gilat-satellite-networks-ltd-ordinary-shares-rss-076d0814984f"
 canonical_url: "https://www.gilat.com/newsroom/media/software-defines-the-new-front-lines-of-space-defense-satnews/"
 published_at: "2026-02-16T13:17:18+00:00"
 first_seen_at: "2026-07-25T03:17:43.964106+00:00"
-fetched_at: "2026-07-28T20:37:57.787391+00:00"
+fetched_at: "2026-07-28T23:21:54.528556+00:00"
 content_hash: "sha256:fb93465b86596f8021ccd96ea8353fb43d7ff0bc1da3c071f139cbca58278c0c"
 ---
 

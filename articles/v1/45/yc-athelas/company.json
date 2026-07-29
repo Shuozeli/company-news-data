@@ -20,5 +20,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/45/yc-athelas/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 8400,
+        "sha256": "sha256:5f08e1df26dfee4c7dffeb47867671e61169effa0213255f8fb0f55c54f9d20f",
+        "newest_at": "2026-06-30T21:54:54.561+00:00",
+        "oldest_at": "2026-04-06T13:55:22.745+00:00"
+      }
+    ]
+  }
 }

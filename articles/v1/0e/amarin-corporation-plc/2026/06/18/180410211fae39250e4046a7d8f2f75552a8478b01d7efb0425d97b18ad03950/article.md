@@ -7,7 +7,7 @@ source_id: "amarin-corporation-plc-rss-5a6dc08ff807"
 canonical_url: "https://investors.amarincorp.com/news-releases/news-release-details/amarin-reaffirms-proven-guideline-recommended-role-vascepar"
 published_at: "2026-06-30T20:15:50+00:00"
 first_seen_at: "2026-07-26T09:06:16.575376+00:00"
-fetched_at: "2026-07-28T20:29:46.874254+00:00"
+fetched_at: "2026-07-28T23:16:02.876317+00:00"
 content_hash: "sha256:9298a6cd152c09abb3d1ebb9aba0f74cde3d3ba64d1b8f6a3b7a9abc6d58707d"
 ---
 

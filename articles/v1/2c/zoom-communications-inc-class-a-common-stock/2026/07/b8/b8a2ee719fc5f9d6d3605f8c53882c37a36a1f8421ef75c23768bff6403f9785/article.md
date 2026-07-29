@@ -7,7 +7,7 @@ source_id: "zoom-communications-inc-class-a-common-stock-rss-cc53c6254da1"
 canonical_url: "https://www.zoom.com/en/blog/why-cx-leaders-choose-zoom/"
 published_at: "2026-07-28T13:33:55+00:00"
 first_seen_at: "2026-07-28T16:58:57.436159+00:00"
-fetched_at: "2026-07-28T21:34:56.359994+00:00"
+fetched_at: "2026-07-29T00:07:20.263662+00:00"
 content_hash: "sha256:400f6c80ee7dd85fc43bc073957de6b6090beca161730b996667b5b4526edaaf"
 ---
 

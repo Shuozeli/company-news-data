@@ -7,8 +7,8 @@ source_id: "cameco-corporation-common-stock-rss-997a1f5b1469"
 canonical_url: "https://www.cameco.com/node/3397"
 published_at: "2026-07-16T22:14:24+00:00"
 first_seen_at: "2026-07-23T23:16:16.872446+00:00"
-fetched_at: "2026-07-28T20:18:53.547865+00:00"
-content_hash: "sha256:20ecb6316ead6492728be8001a7c3e7b1c026a05e1ba0d2b39977ea29bb89733"
+fetched_at: "2026-07-28T23:02:54.318402+00:00"
+content_hash: "sha256:6533e9887f137078f2bcf40918bc14b51e1a393db1b4830ce00be322dd6c8b13"
 ---
 
 # 150053568350107_1453512650132351
@@ -34,4 +34,4 @@ Corporate
 Facebook Image src
 
 
-https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/748194111_1453512416799041_7986879820553633036_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2WPI_ph6aAUQ7kNvwGU6gfl&_nc_oc=AdpSMqlHmM--wFIVWY3TkET7ZSpzB76wf3kTn0xo1aExJeBW_DYILp5pXgdJJ8l4TJg&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=AJdBtusEAAAA&_nc_gid=XaoZauNlAfpnJydcKCTqAg&_nc_tpa=Q5bMBQF2r00BBQJf2pGsOSqsL7rQSh7Hc2ufASNWHpzIn40QVIqn5xHUnMZntz4oFUhcTIRrX5r00aoVig&oh=00_AQBq0F8XZ_xtim8i7Mc1dxDsTfLGOHw-fWdMam-yg6cong&oe=6A6EC2AA
+https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/748194111_1453512416799041_7986879820553633036_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2WPI_ph6aAUQ7kNvwGU6gfl&_nc_oc=AdpSMqlHmM--wFIVWY3TkET7ZSpzB76wf3kTn0xo1aExJeBW_DYILp5pXgdJJ8l4TJg&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=AJdBtusEAAAA&_nc_gid=9QQRqGBsjeFhOahFK3H1YA&_nc_tpa=Q5bMBQG3YZz-OwknSqpRVhvY81-LAR9TgxmNBDLPNbLLlnHOPQEzGFQqVNZbYZAjTjQvvxk3AsfNoOC2CA&oh=00_AQDuPmVDdmI6YPPBRCYxtWsFRcMkHjAxYQWrRBxUZG2pjA&oe=6A6EFAEA

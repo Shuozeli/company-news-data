@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-announces-strategic-dispositions-totaling-more-than-1-0-billion"
 published_at: "2026-01-14T21:15:58+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:5488411bc020644a46c67c4c159642eb4f38da939069d956d997f8088ac0bbf1"
 ---
 

@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2020/teradata-reports-second-quarter-2020-financial-results"
 published_at: "2020-08-06T07:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T19:37:01.666775+00:00"
+fetched_at: "2026-07-28T23:07:12.403269+00:00"
 content_hash: "sha256:3be4bcd462d15f85dfbf31162ef8fd976864052c5052f76a2b9199b98c608238"
 ---
 

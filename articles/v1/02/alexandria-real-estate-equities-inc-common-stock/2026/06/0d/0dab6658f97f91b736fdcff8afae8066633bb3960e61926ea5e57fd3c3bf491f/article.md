@@ -7,7 +7,7 @@ source_id: "alexandria-real-estate-equities-inc-common-stock-rss-b189b636a044"
 canonical_url: "https://investor.are.com/news-events-and-webcasts/news/news-details/2026/Alexandria-Real-Estate-Equities-Inc--Recognized-Among-Top-20-Companies-for-Talent-Readiness-in-The-Wall-Street-Journals-Best-Companies-for-the-Future/default.aspx"
 published_at: "2026-06-15T12:30:00+00:00"
 first_seen_at: "2026-07-25T01:23:45.750268+00:00"
-fetched_at: "2026-07-28T20:16:28.478236+00:00"
+fetched_at: "2026-07-28T22:59:41.356238+00:00"
 content_hash: "sha256:33569958b127ad4fa2a2a84630bbd4067e68567e8f159cf06b0a7221b1b51cf4"
 ---
 

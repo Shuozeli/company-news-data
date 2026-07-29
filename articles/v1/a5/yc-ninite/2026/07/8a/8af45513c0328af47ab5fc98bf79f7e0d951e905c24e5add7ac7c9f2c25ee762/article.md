@@ -7,7 +7,7 @@ source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/anydesk/"
 published_at: "2026-07-22T11:33:19+00:00"
 first_seen_at: "2026-07-25T16:20:56.315803+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
 content_hash: "sha256:91468dff38e5d3a73b501e0224c08583e007e017f4117d421d8230cdf510d8d3"
 ---
 

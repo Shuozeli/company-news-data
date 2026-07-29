@@ -20,5 +20,22 @@
       "partition": "2025-03",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/55/gabelli-global-utility-common-shares-of-beneficial-ownership/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 13487,
+        "sha256": "sha256:bb448f567b9eaefc1a2fba63e1586309f799ccc0167484a23353665cdd0f135f",
+        "newest_at": "2025-03-24T17:10:01+00:00",
+        "oldest_at": "2024-12-21T21:29:58+00:00"
+      }
+    ]
+  }
 }

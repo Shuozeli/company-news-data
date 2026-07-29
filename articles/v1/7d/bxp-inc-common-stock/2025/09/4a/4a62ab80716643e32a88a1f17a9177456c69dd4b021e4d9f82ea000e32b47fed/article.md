@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-announces-proposed-offering-of-exchangeable-senior-notes-due-2030"
 published_at: "2025-09-24T21:36:39+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:bd93e7e7de3a93d47b1df8c7134afb631c54d66bbf22abb824818196941df836"
 ---
 

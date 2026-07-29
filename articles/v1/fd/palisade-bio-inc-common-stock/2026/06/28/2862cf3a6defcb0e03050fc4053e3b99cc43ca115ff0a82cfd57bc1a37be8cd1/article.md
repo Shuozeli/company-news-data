@@ -7,7 +7,7 @@ source_id: "palisade-bio-inc-common-stock-rss-dc15a313ba00"
 canonical_url: "https://palisadebio.com/palisade-bio-to-present-on-the-potential-of-pali-2108-for-fibrostenotic-crohns-disease-at-new-york-academy-of-sciences-symposium/"
 published_at: "2026-06-09T12:45:15+00:00"
 first_seen_at: "2026-07-20T23:19:44.339993+00:00"
-fetched_at: "2026-07-28T22:00:58.184447+00:00"
+fetched_at: "2026-07-29T00:39:43.955472+00:00"
 content_hash: "sha256:2985b20663cd161ed36836ae358120f82653c8a5c1a2cd128a9f3a6770fcf5f6"
 ---
 

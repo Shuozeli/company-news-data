@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2020/digi-reports-q4-fy20-results"
 published_at: "2020-11-12T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:c0b6ce6fd3eed5f4a6e468f4c5f4bb484e2b852f04214933a73e1a4ff2357dc9"
 ---
 

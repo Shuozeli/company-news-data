@@ -7,7 +7,7 @@ source_id: "boot-barn-holdings-inc-common-stock-rss-38c814ae8764"
 canonical_url: "https://investor.bootbarn.com/news/news-details/2025/Boot-Barn-Holdings-Inc--Announces-Second-Quarter-Fiscal-Year-2026-Financial-Results-and-Increased-Store-Count-Potential-of-1200-Stores/default.aspx"
 published_at: "2025-10-29T20:10:00+00:00"
 first_seen_at: "2026-07-26T10:48:19.112221+00:00"
-fetched_at: "2026-07-28T20:03:59.204115+00:00"
+fetched_at: "2026-07-28T23:52:46.416504+00:00"
 content_hash: "sha256:a3843a70efd8aeb2d016c8bd47b9cdb47d46ff4493e39841819d2086b1d934c7"
 ---
 

@@ -7,7 +7,7 @@ source_id: "jack-in-the-box-inc-common-stock-rss-81dcefd5d5ea"
 canonical_url: "https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Inc--Announces-Leadership-Transition/default.aspx"
 published_at: "2026-05-13T20:05:00+00:00"
 first_seen_at: "2026-07-25T10:06:06.072938+00:00"
-fetched_at: "2026-07-28T20:52:41.292377+00:00"
+fetched_at: "2026-07-28T23:38:18.965200+00:00"
 content_hash: "sha256:721df07d4e987775308789efed0b30a467fb1b8ec02685d87b4d0cb50a626e14"
 ---
 

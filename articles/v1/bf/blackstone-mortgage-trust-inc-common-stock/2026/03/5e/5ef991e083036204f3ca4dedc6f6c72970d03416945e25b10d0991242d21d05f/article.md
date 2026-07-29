@@ -7,7 +7,7 @@ source_id: "blackstone-mortgage-trust-inc-common-stock-rss-0b0bb6f59cf9"
 canonical_url: "https://ir.blackstonemortgagetrust.com/press-releases-and-news/press-release-and-news-details/2026/Blackstone-Mortgage-Trust-Announces-First-Quarter-2026-Earnings-Release-and-Conference-Call/default.aspx"
 published_at: "2026-03-27T12:30:00+00:00"
 first_seen_at: "2026-07-26T23:52:20.161591+00:00"
-fetched_at: "2026-07-28T20:39:50.998366+00:00"
+fetched_at: "2026-07-28T23:24:03.567410+00:00"
 content_hash: "sha256:24a116f7a7b4126641a2e4084963d31ddbb5822ef270e20fa16141dfa1d5aa8a"
 ---
 

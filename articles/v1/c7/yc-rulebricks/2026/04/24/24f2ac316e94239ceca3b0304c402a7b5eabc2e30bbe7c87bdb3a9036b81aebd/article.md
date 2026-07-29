@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/building-an-audit-ready-ai-decision-gateway"
 published_at: "2026-04-02T14:08:15+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:c692b424aef257d02df0ca046d205969b3c5a0ffe3f7a224864946ef456e314f"
 ---
 

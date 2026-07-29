@@ -7,7 +7,7 @@ source_id: "turning-point-brands-inc-common-stock-rss-04da633dfb74"
 canonical_url: "https://www.turningpointbrands.com/investor-relations/news/news-details/2025/Turning-Point-Brands-Declares-Common-Stock-Dividend-ca5503333/default.aspx"
 published_at: "2025-11-05T21:15:00+00:00"
 first_seen_at: "2026-07-26T03:18:36.260463+00:00"
-fetched_at: "2026-07-28T21:48:59.832449+00:00"
+fetched_at: "2026-07-29T00:06:34.597835+00:00"
 content_hash: "sha256:d20f747f510326c4b7c5b956c0a55b82f6c6daf75691ed0b0049855a0805e7f8"
 ---
 

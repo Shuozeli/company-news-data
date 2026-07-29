@@ -7,7 +7,7 @@ source_id: "contineum-therapeutics-inc-class-a-common-stock-rss-954367339e87"
 canonical_url: "https://contineum-tx.com/publications/the-muscarinic-m1-antagonist-pipe-359-demonstrates-remyelination-in-vivo-through-visual-evoked-potential-vep-and-electron-microscopy-em-of-mice-with-experimental-autoimmune-encephalitis-eae/"
 published_at: "2019-08-19T15:00:56+00:00"
 first_seen_at: "2026-07-25T03:15:09.445652+00:00"
-fetched_at: "2026-07-28T20:33:36.300163+00:00"
+fetched_at: "2026-07-28T23:18:11.580766+00:00"
 content_hash: "sha256:4524a88842c3b1d446e0d219dee89cd7cd7b836f3474bd210d2f5f8850c22321"
 ---
 

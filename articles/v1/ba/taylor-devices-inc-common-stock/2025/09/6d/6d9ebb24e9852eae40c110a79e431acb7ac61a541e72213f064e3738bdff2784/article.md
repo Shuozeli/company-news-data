@@ -7,7 +7,7 @@ source_id: "taylor-devices-inc-common-stock-rss-a5c8db47bfc4"
 canonical_url: "https://www.taylordevices.com/white-paper/125-seismic-performance-comparison-of-three-designs/"
 published_at: "2025-09-17T14:58:03+00:00"
 first_seen_at: "2026-07-20T23:19:30.465763+00:00"
-fetched_at: "2026-07-28T22:06:20.573231+00:00"
+fetched_at: "2026-07-29T00:44:37.639630+00:00"
 content_hash: "sha256:0ea86e637d8cc41ea656cf459a1ead571eaebf0f93587692967975eb6a0e1c48"
 ---
 

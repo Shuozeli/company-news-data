@@ -7,7 +7,7 @@ source_id: "workday-inc-class-a-common-stock-rss-1edd291cea4c"
 canonical_url: "https://medium.com/workday-engineering/facing-data-fragmentation-and-high-costs-large-organizations-require-an-universal-data-layer-b984a82decb5"
 published_at: "2026-02-03T16:10:02+00:00"
 first_seen_at: "2026-07-20T04:35:52.231186+00:00"
-fetched_at: "2026-07-28T20:59:51.248397+00:00"
+fetched_at: "2026-07-28T23:46:42.543802+00:00"
 content_hash: "sha256:5d468d274e4f38a93892870359865a0d6fd4402136c0fc9e602501b6a23f7ee0"
 ---
 

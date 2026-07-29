@@ -7,7 +7,7 @@ source_id: "summit-hotel-properties-inc-common-stock-rss-2ccb932bd701"
 canonical_url: "https://investor.shpreit.com/news-events/news/news-details/2026/Summit-Hotel-Properties-Announces-2026-Annual-Meeting-of-Stockholders/default.aspx"
 published_at: "2026-02-20T21:30:00+00:00"
 first_seen_at: "2026-07-26T00:50:07.796417+00:00"
-fetched_at: "2026-07-28T20:13:05.820695+00:00"
+fetched_at: "2026-07-28T22:54:24.748195+00:00"
 content_hash: "sha256:010086b5244d537a94d55bea9a9cc6544d8450ff6340a638eda2d5bef50048b2"
 ---
 

@@ -7,7 +7,7 @@ source_id: "edgewell-personal-care-company-common-stock-atom-26e434d43770"
 canonical_url: "https://edgewell.com/blogs/news/protection-for-the-protectors-the-new-carefree-masterbrand-shines-a-light-on-motherhood"
 published_at: "2024-05-13T14:28:16+00:00"
 first_seen_at: "2026-07-20T23:16:55.527261+00:00"
-fetched_at: "2026-07-28T19:39:38.451376+00:00"
+fetched_at: "2026-07-28T23:13:01.775419+00:00"
 content_hash: "sha256:c3b6b11ff0386a2e469745a856401f856e5b20f7300ba69c521360c8a61bc2de"
 ---
 

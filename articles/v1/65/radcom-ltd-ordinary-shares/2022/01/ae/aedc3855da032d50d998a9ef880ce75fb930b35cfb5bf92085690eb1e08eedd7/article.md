@@ -7,7 +7,7 @@ source_id: "radcom-ltd-ordinary-shares-rss-2ab80a1f8ec5"
 canonical_url: "https://radcom.com/web-stories/5g-monitoring/"
 published_at: "2022-01-13T13:24:35+00:00"
 first_seen_at: "2026-07-20T23:19:17.667159+00:00"
-fetched_at: "2026-07-28T20:23:40.125382+00:00"
+fetched_at: "2026-07-28T23:08:43.292294+00:00"
 content_hash: "sha256:44dd441f69450a590842a25bab64028d75e7e09d875164c800c573b063879bdc"
 ---
 

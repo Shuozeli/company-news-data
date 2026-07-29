@@ -7,7 +7,7 @@ source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/avg/"
 published_at: "2026-07-22T02:15:08+00:00"
 first_seen_at: "2026-07-25T16:20:56.315803+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
 content_hash: "sha256:2690a711e4ed928c596ea7892e506696068b3bd920833cc4d50ea077522087ca"
 ---
 

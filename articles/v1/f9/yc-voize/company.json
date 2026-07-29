@@ -6,7 +6,7 @@
   },
   "record_count": 13,
   "first_published_at": "2026-06-03T14:41:54.878+00:00",
-  "last_published_at": "2026-07-22T07:40:22.245+00:00",
+  "last_published_at": "2026-07-28T14:38:11.041+00:00",
   "partitions": [
     {
       "partition": "2026-06",
@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 11
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f9/yc-voize/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 13808,
+        "sha256": "sha256:d742cef1ab3df6421222e42685c14a7007ca84459347ab7711bcaf98ae6bce2c",
+        "newest_at": "2026-07-28T21:37:39.039431+00:00",
+        "oldest_at": "2026-06-03T14:41:54.878+00:00"
+      }
+    ]
+  }
 }

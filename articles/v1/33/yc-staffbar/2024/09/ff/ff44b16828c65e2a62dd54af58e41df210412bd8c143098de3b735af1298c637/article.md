@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/a-tour-of-new-swiftui-ios-18-apis"
-published_at: "2024-09-06T14:26:11.780+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:367d201e016fb71d77b99be8d9032b38e126084b04e564db760ce6c0dd251a66"

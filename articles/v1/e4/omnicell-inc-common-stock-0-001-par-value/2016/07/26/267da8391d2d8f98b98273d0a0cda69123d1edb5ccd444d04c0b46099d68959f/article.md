@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2016/Omnicell-Selected-to-Provide-Interoperable-Medication-Automation-Solutions-to-Support-Patient-Safety-at-Rochester-Regional-Health/default.aspx"
 published_at: "2016-07-28T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T20:19:36.099870+00:00"
+fetched_at: "2026-07-28T23:03:29.570108+00:00"
 content_hash: "sha256:a2e15f5995f78d38e4d20dd30a6365db81471c57f8949eb485d66f5e1bf4c066"
 ---
 

@@ -7,7 +7,7 @@ source_id: "eco-wave-power-global-ab-publ-american-depositary-shares-rss-0b77f7c
 canonical_url: "https://www.globes.co.il/news/article.aspx"
 published_at: "2026-06-30T08:52:42+00:00"
 first_seen_at: "2026-07-25T01:52:49.742157+00:00"
-fetched_at: "2026-07-28T20:22:32.547471+00:00"
+fetched_at: "2026-07-28T23:05:57.125897+00:00"
 content_hash: "sha256:4657f4ee74cba2b064865b5ddf8b53e616b3f222e0a27063f912130021f0c6e0"
 ---
 

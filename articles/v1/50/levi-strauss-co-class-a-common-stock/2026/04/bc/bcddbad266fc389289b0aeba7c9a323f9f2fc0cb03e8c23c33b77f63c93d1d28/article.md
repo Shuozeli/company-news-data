@@ -7,7 +7,7 @@ source_id: "levi-strauss-co-class-a-common-stock-rss-847c674a0257"
 canonical_url: "https://investors.levistrauss.com/news/financial-news/news-details/2026/Levi-Strauss--Co--Announces-Participation-at-the-J-P--Morgan-Retail-Round-Up-Forum-2026/default.aspx"
 published_at: "2026-04-02T13:00:00+00:00"
 first_seen_at: "2026-07-25T12:04:14.738880+00:00"
-fetched_at: "2026-07-28T20:27:33.978543+00:00"
+fetched_at: "2026-07-28T23:13:11.446068+00:00"
 content_hash: "sha256:a5b85c26159b0c7c73b621d12079f7a8f768c747de337a3e83555b733a5a1ac1"
 ---
 

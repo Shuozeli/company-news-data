@@ -7,7 +7,7 @@ source_id: "green-brick-partners-inc-common-stock-rss-0749109b50c9"
 canonical_url: "https://investors.greenbrickpartners.com/news/news-details/2026/Lone-Oak-by-Trophy-Signature-Homes-Now-Open-in-Alvarado-Texas/default.aspx"
 published_at: "2026-03-13T21:20:00+00:00"
 first_seen_at: "2026-07-25T07:04:12.029010+00:00"
-fetched_at: "2026-07-28T20:13:35.766698+00:00"
+fetched_at: "2026-07-28T22:55:16.819014+00:00"
 content_hash: "sha256:3b6e515574550fea8f8fdee47693c2830ed20b21bbf5417de08045853e6faeb4"
 ---
 

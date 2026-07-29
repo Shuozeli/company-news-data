@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/como-verificar-tus-facturas-en-el-sat"
 published_at: "2022-09-29T22:37:09+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:ed0214285ef72ff81efbd67a37f6b73f72284c5776a0916f69aa8b1e227c94d4"
 ---
 

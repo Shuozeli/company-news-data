@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/can-ai-make-minecraft-mods-yes-and-here-s-how-it-works"
 published_at: "2026-05-13T05:59:25+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T20:25:26.460294+00:00"
+fetched_at: "2026-07-28T23:10:27.687348+00:00"
 content_hash: "sha256:4d5dd5b4e508455de161c51d744f9098836e9ad7d6e6ee1292a425a4cb51ab8a"
 ---
 

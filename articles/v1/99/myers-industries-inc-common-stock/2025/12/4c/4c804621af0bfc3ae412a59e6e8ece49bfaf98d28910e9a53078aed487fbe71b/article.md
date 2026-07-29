@@ -7,7 +7,7 @@ source_id: "myers-industries-inc-common-stock-rss-499aae5c2159"
 canonical_url: "https://investor.myersindustries.com/news/press-release-details/2025/Signature-Systems-Orlando-Florida-Facility-Earns-ISO-140012015-Certification-2025-qMJSIzjr4p/default.aspx"
 published_at: "2025-12-16T21:55:00+00:00"
 first_seen_at: "2026-07-25T15:11:21.164937+00:00"
-fetched_at: "2026-07-28T19:57:34.602362+00:00"
+fetched_at: "2026-07-28T23:46:19.710141+00:00"
 content_hash: "sha256:93ac716b468e23bb387a1dcaed97a95981da7f04746ff88600c375b9d8910360"
 ---
 

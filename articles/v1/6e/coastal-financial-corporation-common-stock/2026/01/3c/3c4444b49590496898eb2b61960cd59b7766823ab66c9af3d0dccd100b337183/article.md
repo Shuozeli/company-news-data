@@ -7,7 +7,7 @@ source_id: "coastal-financial-corporation-common-stock-rss-8da7af7b9245"
 canonical_url: "https://ir.coastalbank.com/news/press-releases/news-details/2026/Coastal-Financial-Corporation-Announces-Fourth-Quarter-2025-Results/default.aspx"
 published_at: "2026-01-29T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:44:15.371196+00:00"
-fetched_at: "2026-07-28T20:25:26.974602+00:00"
+fetched_at: "2026-07-28T23:10:11.848400+00:00"
 content_hash: "sha256:8b5a40ddfd201b1925cb7f8b83dd8418ec67315ba47797520a2df18a20384a90"
 ---
 

@@ -7,7 +7,7 @@ source_id: "nacco-industries-inc-common-stock-rss-d6d77e82461a"
 canonical_url: "https://ir.nacco.com/2026-05-05-NACCO-INDUSTRIES-ANNOUNCES-FIRST-QUARTER-2026-RESULTS"
 published_at: "2026-05-05T20:29:00+00:00"
 first_seen_at: "2026-07-20T23:19:43.910063+00:00"
-fetched_at: "2026-07-28T21:59:53.227795+00:00"
+fetched_at: "2026-07-29T00:39:00.509449+00:00"
 content_hash: "sha256:b8298cbf456699c9e115eb56860e8b150a2dd7bc34c5abd01416b37789441753"
 ---
 

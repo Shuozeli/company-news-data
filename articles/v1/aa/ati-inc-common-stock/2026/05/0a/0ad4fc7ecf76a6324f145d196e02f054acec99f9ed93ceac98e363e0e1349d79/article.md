@@ -7,7 +7,7 @@ source_id: "ati-inc-common-stock-rss-9cba1f538c4e"
 canonical_url: "https://ir.atimaterials.com/news-events/news-details/2026/ATI-CEO-Kim-Fields-to-speak-at-Bernstein-Strategic-Decisions-Conference/default.aspx"
 published_at: "2026-05-18T11:30:00+00:00"
 first_seen_at: "2026-07-26T23:01:45.872497+00:00"
-fetched_at: "2026-07-28T19:57:16.666053+00:00"
+fetched_at: "2026-07-28T23:45:21.469454+00:00"
 content_hash: "sha256:d73b8bf16a0e061ef3dfba883ccbef870afae51994ee7aa116cf3d9908d83f77"
 ---
 

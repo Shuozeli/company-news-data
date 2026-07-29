@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/introducing-bento"
 published_at: "2025-01-28T20:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T20:38:20.120259+00:00"
+fetched_at: "2026-07-28T23:22:34.016732+00:00"
 content_hash: "sha256:fcec146de989dc19c31b7426eaae65f6107ea52e50af1de30757e89c19e187b1"
 ---
 

@@ -48,5 +48,31 @@
       "partition": "2025-11",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5f/yc-pipekit/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 51188,
+        "sha256": "sha256:e30c53f53fea1d3aed9cd520a33a9203cbe0e5020395e7682bc8f0991a16fd90",
+        "newest_at": "2025-11-20T17:58:33+00:00",
+        "oldest_at": "2024-01-24T15:17:49+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/5f/yc-pipekit/index/pages/000002.json",
+        "record_count": 10,
+        "byte_count": 10252,
+        "sha256": "sha256:b315afa9ab72fe3cda4a931e42a4f6d477e8506095f52be43ab05796c2d36c0a",
+        "newest_at": "2024-01-24T15:17:49+00:00",
+        "oldest_at": "2024-01-24T15:17:49+00:00"
+      }
+    ]
+  }
 }

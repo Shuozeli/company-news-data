@@ -7,7 +7,7 @@ source_id: "metropolitan-bank-holding-corp-common-stock-rss-3ca9c020781e"
 canonical_url: "https://mcbankny.com/metropolitan-bank-holding-corp-reports-fourth-quarter-and-full-year-2024-results/"
 published_at: "2025-01-27T14:55:07+00:00"
 first_seen_at: "2026-07-20T23:17:44.493826+00:00"
-fetched_at: "2026-07-28T21:23:52.449776+00:00"
+fetched_at: "2026-07-29T00:03:40.624761+00:00"
 content_hash: "sha256:7e8feb7248bd3ad8e66ee8be5a4d616cc3dc55a3ba5dc90dabe2cfb186212244"
 ---
 

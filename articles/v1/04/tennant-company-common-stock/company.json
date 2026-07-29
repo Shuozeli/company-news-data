@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 28
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/04/tennant-company-common-stock/index/pages/000001.json",
+        "record_count": 37,
+        "byte_count": 50177,
+        "sha256": "sha256:6035dae83ee6d90478df1f799cd0bf5b53780fb7a039bda4a1f603a02a3e915e",
+        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "oldest_at": "2026-04-07T12:45:00+00:00"
+      }
+    ]
+  }
 }

@@ -48,5 +48,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7c/yc-intellect/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 11208,
+        "sha256": "sha256:0d3e86760a2f8bdbbb372d027c962628bcea541056e85c78743eb3e135512998",
+        "newest_at": "2026-07-28T06:30:08+00:00",
+        "oldest_at": "2022-06-14T06:00:08+00:00"
+      }
+    ]
+  }
 }

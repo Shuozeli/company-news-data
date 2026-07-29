@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/que-pasa-si-no-pagas-a-tiempo-tus-impuestos"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:3eb07cb612c727402d5b46fec0e1b8cd39b248ca1402d323abc307c70e24b2f2"
 ---
 

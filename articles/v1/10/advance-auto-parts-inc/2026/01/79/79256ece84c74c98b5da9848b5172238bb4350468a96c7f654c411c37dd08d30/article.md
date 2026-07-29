@@ -7,7 +7,7 @@ source_id: "advance-auto-parts-inc-rss-823389f153d9"
 canonical_url: "https://ir.advanceautoparts.com/investors/news-and-events/press-releases/press-release-details/2026/Advance-Auto-Parts-Appoints-Richard-A--Johnson-to-Board-of-Directors/default.aspx"
 published_at: "2026-01-13T21:30:00+00:00"
 first_seen_at: "2026-07-25T01:36:09.486379+00:00"
-fetched_at: "2026-07-28T20:23:11.117600+00:00"
+fetched_at: "2026-07-28T23:07:38.284854+00:00"
 content_hash: "sha256:87d095d4cc19f5e8e15dcbef40e4ee11c8cff93d02808e0875b5d03fd7422594"
 ---
 

@@ -7,7 +7,7 @@ source_id: "innovative-industrial-properties-inc-common-stock-rss-bc26f62df09e"
 canonical_url: "https://investors.innovativeindustrialproperties.com/news/news-details/2026/Innovative-Industrial-Properties-Announces-PharmaCann-Resolution-and-Provides-Portfolio-Update/default.aspx"
 published_at: "2026-03-16T10:30:00+00:00"
 first_seen_at: "2026-07-25T09:29:02.591228+00:00"
-fetched_at: "2026-07-28T21:51:12.560677+00:00"
+fetched_at: "2026-07-29T00:19:08.816459+00:00"
 content_hash: "sha256:787bf193fc0c81ef7e36ae2905820d656fc0dacfc6134b6e46fabec13fea0350"
 ---
 

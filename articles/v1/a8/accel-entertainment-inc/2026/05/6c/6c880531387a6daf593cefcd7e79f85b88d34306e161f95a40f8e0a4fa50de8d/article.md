@@ -7,7 +7,7 @@ source_id: "accel-entertainment-inc-rss-41dfb3f2482a"
 canonical_url: "https://ir.accelentertainment.com/news/news-details/2026/Accel-Entertainment-Reports-Quarterly-Record-Revenue-of-352-Million-in-the-First-Quarter-of-2026/default.aspx"
 published_at: "2026-05-05T20:15:00+00:00"
 first_seen_at: "2026-07-26T21:44:00.836679+00:00"
-fetched_at: "2026-07-28T20:21:17.336805+00:00"
+fetched_at: "2026-07-28T23:04:57.033970+00:00"
 content_hash: "sha256:9a521ef762e8c2afa97770dcf51503767ccdeb0f5dafc3b73cb871a9c219d5a3"
 ---
 

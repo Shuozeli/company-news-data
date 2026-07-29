@@ -7,7 +7,7 @@ source_id: "yc-persephone-biosciences-rss-3e1d37532ea3"
 canonical_url: "https://www.persephonebiosciences.com/ambrosia-our-food-as-medicine-study-is-now-fully-enrolled/"
 published_at: "2025-01-28T20:46:58+00:00"
 first_seen_at: "2026-07-20T23:24:06.192520+00:00"
-fetched_at: "2026-07-28T20:41:53.039966+00:00"
+fetched_at: "2026-07-28T23:25:55.741277+00:00"
 content_hash: "sha256:7da5fc8f59577368529aad3afbd58faa6bbfdbc6253d99adfe0557aa5bf833e7"
 ---
 

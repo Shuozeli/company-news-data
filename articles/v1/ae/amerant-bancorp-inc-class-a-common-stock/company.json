@@ -80,5 +80,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/amerant-bancorp-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 31,
+        "byte_count": 43118,
+        "sha256": "sha256:b1f1bb64d067a9df726362d3e0946e3794b101dad1e7ad588b2c3140cdb9a478",
+        "newest_at": "2026-07-23T20:00:00+00:00",
+        "oldest_at": "2024-07-16T12:18:39+00:00"
+      }
+    ]
+  }
 }

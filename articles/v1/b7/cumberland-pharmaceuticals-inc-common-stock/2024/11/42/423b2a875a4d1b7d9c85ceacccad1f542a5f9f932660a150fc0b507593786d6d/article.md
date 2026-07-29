@@ -7,7 +7,7 @@ source_id: "cumberland-pharmaceuticals-inc-common-stock-rss-3ab07e3622d9"
 canonical_url: "https://www.cumberlandpharma.com/november-2024-updates-highlighting-key-clinical-and-business-developments/"
 published_at: "2024-11-01T16:11:51+00:00"
 first_seen_at: "2026-07-20T23:19:50.983327+00:00"
-fetched_at: "2026-07-28T22:08:15.014527+00:00"
+fetched_at: "2026-07-29T00:46:25.939104+00:00"
 content_hash: "sha256:5813b0e18994ae1168febdbd1f1fb84af54bd7e7612e4dcbbb4ce2c0be900343"
 ---
 

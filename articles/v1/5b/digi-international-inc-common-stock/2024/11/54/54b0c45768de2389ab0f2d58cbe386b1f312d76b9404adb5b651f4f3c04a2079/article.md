@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2024/q4fy24-and-fy24-results"
 published_at: "2024-11-13T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:740422059949a956cb76915cc9112bdf60087c34c9b0a9b1ab9a3a940da3766e"
 ---
 

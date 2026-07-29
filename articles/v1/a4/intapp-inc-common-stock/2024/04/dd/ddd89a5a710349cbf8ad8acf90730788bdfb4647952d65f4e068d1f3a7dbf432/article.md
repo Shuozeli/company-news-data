@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T22:26:01.008185+00:00"
 content_hash: "sha256:30879200e2807a8d900fe5acee236c83fd332e72ff530b941df0b4304a747922"
 ---
 
-# LegalTech News - Lawyers Say Technology Improves Employee Satisfaction. So Why Are Firms Slow to Modernize?
+# LegalTech News – Lawyers Say Technology Improves Employee Satisfaction. So Why Are Firms Slow to Modernize?
 
 LegalTech News Reporter Rhys Dipshan covered Intapp’s 2024 Technology Perceptions Report. His article covers the survey results including how lawyers at tech-savvy law firms say they are more satisfied in their jobs and more efficient at their work than those at less technology-forward firms.
 

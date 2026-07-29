@@ -104,5 +104,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c3/quantum-si-incorporated-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 71801,
+        "sha256": "sha256:4e94f1283a1ed6d9570df4a5ddcd7100707761958c70116dca958d3039cbfe24",
+        "newest_at": "2026-07-27T16:05:00+00:00",
+        "oldest_at": "2024-02-29T17:01:00+00:00"
+      }
+    ]
+  }
 }

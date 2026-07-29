@@ -7,7 +7,7 @@ source_id: "united-fire-group-inc-common-stock-rss-286aa464d6ed"
 canonical_url: "https://ir.ufginsurance.com/news/news-details/2025/United-Fire-Group-Inc--reports-third-quarter-2025-results/default.aspx"
 published_at: "2025-11-04T21:01:00+00:00"
 first_seen_at: "2026-07-27T05:56:13.981471+00:00"
-fetched_at: "2026-07-28T20:34:45.475201+00:00"
+fetched_at: "2026-07-28T23:19:49.260745+00:00"
 content_hash: "sha256:b7a2b645200fc2e5e5da901e09e9ad025d0115e77a7eaabfd757b795b6af60d6"
 ---
 

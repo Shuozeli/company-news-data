@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/growth-session-recap-how-to-capitalize-on-seasonal-events-and-new-year"
-published_at: "2025-11-06T21:03:02.833+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:cf601d2d8bed57b1f0d2355fb98fb04a2962de7accfc167a10436f0b91e202be"

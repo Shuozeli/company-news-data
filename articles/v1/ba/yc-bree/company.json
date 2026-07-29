@@ -16,5 +16,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ba/yc-bree/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2185,
+        "sha256": "sha256:797e2cccbb42682bf57eab3469512ebe38af95d0c236ea462717f8eda23aa1df",
+        "newest_at": "2026-06-17T00:00:00+00:00",
+        "oldest_at": "2026-02-22T00:00:00+00:00"
+      }
+    ]
+  }
 }

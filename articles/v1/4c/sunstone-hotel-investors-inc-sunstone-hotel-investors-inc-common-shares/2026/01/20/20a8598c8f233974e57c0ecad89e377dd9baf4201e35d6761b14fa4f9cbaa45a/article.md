@@ -7,7 +7,7 @@ source_id: "sunstone-hotel-investors-inc-sunstone-hotel-investors-inc-common-sha
 canonical_url: "https://www.sunstonehotels.com/investor-relations/press-releases/news-details/2026/SUNSTONE-HOTEL-INVESTORS-ANNOUNCES-TAX-TREATMENT-OF-2025-DIVIDENDS/default.aspx"
 published_at: "2026-01-30T13:00:00+00:00"
 first_seen_at: "2026-07-26T07:47:55.987383+00:00"
-fetched_at: "2026-07-28T20:29:35.775148+00:00"
+fetched_at: "2026-07-28T23:15:49.114754+00:00"
 content_hash: "sha256:561213e3c82abffe09e5089e32209872f4185f5fdbde901f08cf310d891ba5af"
 ---
 

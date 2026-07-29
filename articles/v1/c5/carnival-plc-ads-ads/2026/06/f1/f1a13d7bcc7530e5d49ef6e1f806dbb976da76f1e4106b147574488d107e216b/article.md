@@ -7,7 +7,7 @@ source_id: "carnival-plc-ads-ads-rss-d2be4c2bd3eb"
 canonical_url: "https://www.carnivalcorp.com/inthenews/carnival-corp-expands-surplus-meal-donations-to-the-dominican-republic/"
 published_at: "2026-06-27T16:27:59+00:00"
 first_seen_at: "2026-07-27T08:21:21.543545+00:00"
-fetched_at: "2026-07-28T21:54:56.561312+00:00"
+fetched_at: "2026-07-29T00:34:49.815295+00:00"
 content_hash: "sha256:282f1b548cdc5e3631d8fae59e8981752fabdf4efd86e65cba4b1a0f9bf001e5"
 ---
 

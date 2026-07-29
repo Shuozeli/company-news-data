@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/cette-annee-elle-aura-tourne-entre-60-et-70-jours-comment-fonctionne-la-centrale-electrique-au-gaz-de-landivisiau-video/"
 published_at: "2025-12-18T11:06:22+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:e04e8c569e0b47e3d49157abac9a97bd1cae9e980e38f81cc86fed814071912b"
 ---
 

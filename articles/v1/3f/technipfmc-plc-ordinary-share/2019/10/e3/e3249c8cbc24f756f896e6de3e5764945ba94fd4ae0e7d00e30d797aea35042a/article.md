@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-jgc-and-fluor-consortium-awarded-a-contract-for-the-rovuma-lng-project-in-mozambique/"
 published_at: "2019-10-09T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-28T21:49:44.390133+00:00"
+fetched_at: "2026-07-29T00:26:14.657354+00:00"
 content_hash: "sha256:98c87557ddd490ac55fc64b4c4d2c6cf1fb1f835826c637b8d3410e0c41d3033"
 ---
 

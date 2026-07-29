@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/digi-connectcore-mp25-ai-ml-computer-vision"
 published_at: "2024-07-30T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:15c500436cb03f7d3359c93c4cd1f9634fd78f428d73dfe5790e8102aa63e4d5"
 ---
 

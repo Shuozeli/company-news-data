@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2017/how-to-balance-iot-security-for-embedded-solutions"
 published_at: "2017-07-20T19:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:58451da35f52ab24250a08c44ece31a90c56b579d18a185fffb9b0dcfd6c38de"
 ---
 

@@ -7,7 +7,7 @@ source_id: "tripadvisor-inc-common-stock-rss-6295d6870799"
 canonical_url: "https://medium.com/tripadvisor/taming-a-million-tickets-how-a-small-team-used-ai-to-modernize-an-overgrown-jira-instance-at-scale-ba92a34a77c2"
 published_at: "2026-06-08T15:45:02+00:00"
 first_seen_at: "2026-07-20T23:18:15.449539+00:00"
-fetched_at: "2026-07-28T21:32:32.443872+00:00"
+fetched_at: "2026-07-29T00:17:38.800558+00:00"
 content_hash: "sha256:8941b147ffe9894dcfdd45c2537b9a400b0a534e50dd67c98de09157ee0bb250"
 ---
 

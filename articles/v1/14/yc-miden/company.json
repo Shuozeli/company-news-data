@@ -100,5 +100,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/14/yc-miden/index/pages/000001.json",
+        "record_count": 46,
+        "byte_count": 46621,
+        "sha256": "sha256:f6eb5134009b207b845a4d53b685fdde3dfe08ff8fc7395ad13596db7ab79b6c",
+        "newest_at": "2026-07-21T11:42:00+00:00",
+        "oldest_at": "2024-08-10T11:09:00+00:00"
+      }
+    ]
+  }
 }

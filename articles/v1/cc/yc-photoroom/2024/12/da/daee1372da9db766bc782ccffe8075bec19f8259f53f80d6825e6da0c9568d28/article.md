@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-d1044ff9c1aa"
 canonical_url: "https://www.photoroom.com/blog/sell-fast-on-depop"
-published_at: "2024-12-17T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:08.835718+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:2a796404f2869dc8b5509dd1358897cf3786b1c8175b193ab2b63e6943723ce1"

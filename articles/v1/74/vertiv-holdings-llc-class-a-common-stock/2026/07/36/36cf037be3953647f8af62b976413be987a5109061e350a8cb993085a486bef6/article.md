@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2021/Vertiv-Delivers-22.4-Net-Sales-Growth-Achieves-Record-Backlog-Raises-Full-Year-Guidance/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T20:39:59.455460+00:00"
+fetched_at: "2026-07-28T23:23:56.894710+00:00"
 content_hash: "sha256:33942740cdd18a5d7283ec5da372065ae7df72afcebc46aa08e9e72c4f2fa8a4"
 ---
 

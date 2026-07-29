@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/hagerty-community/our-two-cents-the-cars-wed-carve-on-mt-rushmore/"
 published_at: "2026-07-15T21:49:20+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:a0c0835644a680f47abf000443969d0dbce85b45725f902fe6072d89e1927ff8"
 ---
 

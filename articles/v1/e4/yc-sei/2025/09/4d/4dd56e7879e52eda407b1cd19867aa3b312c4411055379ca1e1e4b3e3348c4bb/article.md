@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/voice-agents-finance-top-mistakes"
 published_at: "2025-09-22T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:8dc6202f558ce9ade900d025d642e48c9ebf78273ca0abb89d086f7e7e416d6e"
 ---
 

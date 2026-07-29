@@ -7,7 +7,7 @@ source_id: "unity-software-inc-common-stock-rss-726793b11211"
 canonical_url: "https://unity.com/blog/games/games-made-with-unity-january-2026-releases"
 published_at: "2026-02-02T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:37.442468+00:00"
-fetched_at: "2026-07-28T20:19:20.801541+00:00"
+fetched_at: "2026-07-28T23:03:23.422750+00:00"
 content_hash: "sha256:add19933d9dfe24cb489cd2ae5784f32994896cdf4e39b1d4364b3b94cf9ecfe"
 ---
 

@@ -7,7 +7,7 @@ source_id: "smart-sand-inc-common-stock-rss-1046bb579a6a"
 canonical_url: "https://ir.smartsand.com/2025-11-18-SMART-SAND,-INC-DECLARES-SPECIAL-DIVIDEND-OF-0-05-PER-SHARE"
 published_at: "2025-11-18T21:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:08.226751+00:00"
-fetched_at: "2026-07-28T21:47:37.557183+00:00"
+fetched_at: "2026-07-29T00:07:22.437619+00:00"
 content_hash: "sha256:7f804b2856ed0e4266ef791bd3b85a4149129dc67f8c3f713abef7ec1789bf18"
 ---
 

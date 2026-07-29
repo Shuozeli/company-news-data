@@ -7,7 +7,7 @@ source_id: "north-american-construction-group-ltd-common-shares-no-par-rss-3a104
 canonical_url: "https://nacg.ca/north-american-construction-group-ltd-announces-award-of-regional-services-contract/"
 published_at: "2024-01-31T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:22:58.585661+00:00"
-fetched_at: "2026-07-28T20:47:35.950814+00:00"
+fetched_at: "2026-07-28T23:32:15.871513+00:00"
 content_hash: "sha256:0c7a0f090aaf7cbe9a1b03238b2e8f78b7c69024a54cca6c78bf5237090149a0"
 ---
 

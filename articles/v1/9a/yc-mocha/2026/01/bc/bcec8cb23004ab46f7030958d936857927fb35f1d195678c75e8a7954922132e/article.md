@@ -7,7 +7,7 @@ source_id: "yc-mocha-rss-d0ffed2c2227"
 canonical_url: "https://getmocha.com/how-to-generate-images-ai"
 published_at: "2026-01-19T00:00:00+00:00"
 first_seen_at: "2026-07-24T11:28:42.148680+00:00"
-fetched_at: "2026-07-28T21:12:00.549507+00:00"
+fetched_at: "2026-07-28T23:57:26.073716+00:00"
 content_hash: "sha256:091217a51fc0aa3250c781c3ff08742457e6e2fd4b66abcf10883a99361a7e4a"
 ---
 

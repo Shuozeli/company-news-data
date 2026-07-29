@@ -188,5 +188,49 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ad/yc-supernova/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52298,
+        "sha256": "sha256:50ac8096d3ff7e58fcf64a158d6d7c417960890f661246139685fd5f9c778b8e",
+        "newest_at": "2026-06-29T00:00:00+00:00",
+        "oldest_at": "2024-12-19T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/ad/yc-supernova/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 52484,
+        "sha256": "sha256:d49a1510760188dd64b20bc9c9460274989dc4be143a2d4269ce2ea1bc0b9090",
+        "newest_at": "2024-12-12T00:00:00+00:00",
+        "oldest_at": "2024-02-15T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/ad/yc-supernova/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 52647,
+        "sha256": "sha256:b89551c35cfba927eafbe83f3a3f3903887acbcadb4c5942a8d114cf548273f5",
+        "newest_at": "2024-02-12T00:00:00+00:00",
+        "oldest_at": "2022-10-31T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/ad/yc-supernova/index/pages/000004.json",
+        "record_count": 2,
+        "byte_count": 2075,
+        "sha256": "sha256:c821c0a42aff9e7e036c252391d200fd0d4bcd15a9286209c13c49e8994179ea",
+        "newest_at": "2022-10-31T00:00:00+00:00",
+        "oldest_at": "2022-10-31T00:00:00+00:00"
+      }
+    ]
+  }
 }

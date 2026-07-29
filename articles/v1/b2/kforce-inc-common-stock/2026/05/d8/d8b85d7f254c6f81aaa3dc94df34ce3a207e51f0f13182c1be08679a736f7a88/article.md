@@ -7,7 +7,7 @@ source_id: "kforce-inc-common-stock-rss-c152c2ddbd6d"
 canonical_url: "https://investor.kforce.com/news-and-events/news/news-details/2026/Kforce-Inc--Announces-Participation-in-the-Baird-2026-Global-Consumer-Technology-and-Services-Conference/default.aspx"
 published_at: "2026-05-05T11:30:00+00:00"
 first_seen_at: "2026-07-25T10:44:15.664407+00:00"
-fetched_at: "2026-07-28T20:06:11.392471+00:00"
+fetched_at: "2026-07-28T23:54:40.726612+00:00"
 content_hash: "sha256:4f7b43a17bbf70bc0f20d0f7988ef340a805b947bd2ecfb2d6c1db9efeeb673e"
 ---
 

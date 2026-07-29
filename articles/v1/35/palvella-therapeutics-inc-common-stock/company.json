@@ -4,9 +4,9 @@
     "key": "palvella-therapeutics-inc-common-stock",
     "name": "Palvella Therapeutics Inc. Common Stock"
   },
-  "record_count": 9,
+  "record_count": 10,
   "first_published_at": "2026-05-13T11:30:00+00:00",
-  "last_published_at": "2026-06-30T11:30:00+00:00",
+  "last_published_at": "2026-07-28T11:30:00+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -15,6 +15,27 @@
     {
       "partition": "2026-06",
       "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/35/palvella-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13898,
+        "sha256": "sha256:65a1523bed41e388522630f408c9bc0e3583304254dd18ad571c55319858245e",
+        "newest_at": "2026-07-28T11:30:00+00:00",
+        "oldest_at": "2026-05-13T11:30:00+00:00"
+      }
+    ]
+  }
 }

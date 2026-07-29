@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/loan-automation-meets-voice-ai"
 published_at: "2025-09-17T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:a556359671f6ba1391b9f0762bf73f2c197952267bff53de5b4958d84fc9c913"
 ---
 

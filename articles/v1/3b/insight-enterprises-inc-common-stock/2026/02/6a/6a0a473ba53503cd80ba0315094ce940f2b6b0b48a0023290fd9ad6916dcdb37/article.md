@@ -7,7 +7,7 @@ source_id: "insight-enterprises-inc-common-stock-rss-e7d82a10d5b6"
 canonical_url: "https://investor.insight.com/news-releases/news-release-details/2026/Insight-to-Present-at-Raymond-James-47th-Annual-Institutional-Investors-Conference/default.aspx"
 published_at: "2026-02-24T21:02:00+00:00"
 first_seen_at: "2026-07-25T09:31:34.511975+00:00"
-fetched_at: "2026-07-28T21:54:11.295692+00:00"
+fetched_at: "2026-07-29T00:33:54.552502+00:00"
 content_hash: "sha256:038d087a6c91eb75654fa337af36256f0f16f6779e1aad6b73428a341c5dce25"
 ---
 

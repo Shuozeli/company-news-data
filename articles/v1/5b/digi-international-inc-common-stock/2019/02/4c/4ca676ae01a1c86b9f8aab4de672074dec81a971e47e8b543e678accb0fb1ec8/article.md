@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2019/introducing-digi-ix14-industrial-lte-router"
 published_at: "2019-02-05T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:34aa85b307216b63e45f42ebda77aae499e384adba6eaf19eecce17f7449645f"
 ---
 

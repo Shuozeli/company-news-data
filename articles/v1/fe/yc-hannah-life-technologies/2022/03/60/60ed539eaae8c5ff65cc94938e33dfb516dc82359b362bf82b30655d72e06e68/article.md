@@ -7,7 +7,7 @@ source_id: "yc-hannah-life-technologies-atom-e425c915ce44"
 canonical_url: "https://www.twoplushealth.com/blogs/fertility/applicator"
 published_at: "2022-03-31T07:55:50+00:00"
 first_seen_at: "2026-07-25T01:09:10.378171+00:00"
-fetched_at: "2026-07-28T21:52:10.768768+00:00"
+fetched_at: "2026-07-29T00:19:55.911473+00:00"
 content_hash: "sha256:ae04ee8b1494780737c9cd8c42c8169ce277142e1d3a75943f783ab424a1b55f"
 ---
 

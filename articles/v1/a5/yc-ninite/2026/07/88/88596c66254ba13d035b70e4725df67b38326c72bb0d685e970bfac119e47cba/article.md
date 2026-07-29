@@ -7,7 +7,7 @@ source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/adoptjdkx25/"
 published_at: "2026-07-27T23:02:09+00:00"
 first_seen_at: "2026-07-28T00:01:12.940872+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
 content_hash: "sha256:73810bfb22aa980b789886ea0d513c7d14a34bd3cc6c444ab25a75fec8ed582f"
 ---
 

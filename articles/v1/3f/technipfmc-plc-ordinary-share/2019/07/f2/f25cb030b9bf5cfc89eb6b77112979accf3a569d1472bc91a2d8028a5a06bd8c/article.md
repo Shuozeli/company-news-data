@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-a-major-contract-for-the-arctic-lng-2-project-in-west-siberia/"
 published_at: "2019-07-23T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-28T21:49:44.390133+00:00"
+fetched_at: "2026-07-29T00:26:14.657354+00:00"
 content_hash: "sha256:d8c1621c6911ce9c0c68fcbd36af1875ee8fd0ba863ef85b1878b585a418dda1"
 ---
 

@@ -7,7 +7,7 @@ source_id: "shake-shack-inc-class-a-common-stock-rss-d9ffffb10238"
 canonical_url: "https://investor.shakeshack.com/press-releases/press-release-details/2026/Shake-Shack-Appoints-Michelle-Hook-as-Chief-Financial-Officer/default.aspx"
 published_at: "2026-05-07T11:01:00+00:00"
 first_seen_at: "2026-07-25T22:45:04.685271+00:00"
-fetched_at: "2026-07-28T20:33:39.187532+00:00"
+fetched_at: "2026-07-28T23:18:12.378299+00:00"
 content_hash: "sha256:42abf697cb486d39edcfcfea630adff0c41abad64d39645a29ccbd9fd314ef06"
 ---
 

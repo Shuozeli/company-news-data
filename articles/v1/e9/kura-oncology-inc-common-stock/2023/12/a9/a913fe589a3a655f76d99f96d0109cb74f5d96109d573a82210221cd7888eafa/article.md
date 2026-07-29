@@ -7,7 +7,7 @@ source_id: "kura-oncology-inc-common-stock-rss-1f69cfa245ee"
 canonical_url: "https://www.lifescienceleader.com/doc/manufacturing-and-supply-chain-making-space-between-a-rock-and-a-hard-place-0001"
 published_at: "2023-12-01T21:58:58+00:00"
 first_seen_at: "2026-07-25T11:07:49.723778+00:00"
-fetched_at: "2026-07-28T20:47:38.270886+00:00"
+fetched_at: "2026-07-28T23:32:32.764926+00:00"
 content_hash: "sha256:22fdea97f27dfacb64885d2eab03359c1ae45f01040aa5367ad8a98a5ff5bb3a"
 ---
 

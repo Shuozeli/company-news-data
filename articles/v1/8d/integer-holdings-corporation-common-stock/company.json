@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8d/integer-holdings-corporation-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11104,
+        "sha256": "sha256:eaa171243f38963219dca8b9558f0a53e7fc6136c421f1ff0310f8f3e5384421",
+        "newest_at": "2026-07-02T12:00:00+00:00",
+        "oldest_at": "2026-02-19T13:00:00+00:00"
+      }
+    ]
+  }
 }

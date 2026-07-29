@@ -7,7 +7,7 @@ source_id: "sensient-technologies-corporation-common-stock-rss-f0d338703db5"
 canonical_url: "https://investor.sensient.com/news-and-events/press-releases/news-details/2026/Sensient-Declares-Dividend/default.aspx"
 published_at: "2026-01-16T21:05:00+00:00"
 first_seen_at: "2026-07-25T22:37:13.977314+00:00"
-fetched_at: "2026-07-28T20:29:43.303197+00:00"
+fetched_at: "2026-07-28T23:15:52.770539+00:00"
 content_hash: "sha256:9b09a9958402688f3b44414ff91298fdf08433cc24c8e86f8e2fa23741a7d177"
 ---
 

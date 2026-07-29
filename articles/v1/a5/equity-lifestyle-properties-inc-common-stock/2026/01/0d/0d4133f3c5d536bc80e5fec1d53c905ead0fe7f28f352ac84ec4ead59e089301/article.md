@@ -7,7 +7,7 @@ source_id: "equity-lifestyle-properties-inc-common-stock-rss-a4c7415067a9"
 canonical_url: "https://equitylifestyle.gcs-web.com/news-releases/news-release-details/els-reports-fourth-quarter-results-18"
 published_at: "2026-01-28T23:23:00+00:00"
 first_seen_at: "2026-07-27T02:11:25.582387+00:00"
-fetched_at: "2026-07-28T21:40:01.341386+00:00"
+fetched_at: "2026-07-29T00:05:44.713129+00:00"
 content_hash: "sha256:3b96135072ab01a4fd3cd5d6f837ab6fdcd00bcca4c82dd4a8124f53d20411ce"
 ---
 

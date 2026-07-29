@@ -7,7 +7,7 @@ source_id: "rentokil-initial-plc-american-depositary-shares-each-representing-fi
 canonical_url: "https://www.rentokil-initial.com/media/news-releases/2026/21-05-2026.aspx"
 published_at: "2026-05-21T07:00:00+00:00"
 first_seen_at: "2026-07-25T21:04:30.301074+00:00"
-fetched_at: "2026-07-28T20:45:11.513554+00:00"
+fetched_at: "2026-07-28T23:28:47.899116+00:00"
 content_hash: "sha256:9afa3a2f53982e06e1eb2694f9fe05a94df549238ecfe5b9dc5071e29987cc0a"
 ---
 

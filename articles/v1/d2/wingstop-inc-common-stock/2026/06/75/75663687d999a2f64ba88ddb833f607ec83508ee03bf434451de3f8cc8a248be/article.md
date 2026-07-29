@@ -7,7 +7,7 @@ source_id: "wingstop-inc-common-stock-rss-7f135f859589"
 canonical_url: "https://ir.wingstop.com/wingstop-elevates-its-summer-flavor-game-with-new-sweet-heat-chamoy-featuring-tajn/"
 published_at: "2026-06-25T11:30:53+00:00"
 first_seen_at: "2026-07-20T23:17:13.311245+00:00"
-fetched_at: "2026-07-28T21:13:20.646299+00:00"
+fetched_at: "2026-07-28T23:58:14.897862+00:00"
 content_hash: "sha256:fc50e5f81536d504174acc37e329c25135c3e28531077e4d2ea5992c553dc83e"
 ---
 

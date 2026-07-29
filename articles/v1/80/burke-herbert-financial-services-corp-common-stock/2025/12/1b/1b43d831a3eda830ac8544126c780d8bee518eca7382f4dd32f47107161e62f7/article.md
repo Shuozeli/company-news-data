@@ -7,7 +7,7 @@ source_id: "burke-herbert-financial-services-corp-common-stock-rss-7f055fc89a92"
 canonical_url: "https://burkeandherbertbank.gcs-web.com/news-releases/news-release-details/burke-herbert-financial-services-corp-and-linkbancorp-inc"
 published_at: "2025-12-18T21:05:00+00:00"
 first_seen_at: "2026-07-28T21:21:23.016630+00:00"
-fetched_at: "2026-07-28T21:21:22.862536+00:00"
+fetched_at: "2026-07-29T00:12:18.752813+00:00"
 content_hash: "sha256:8ceddb891bca7c2fb4916a8b6c36b256ea0ec64a5fa2d15b02bc3d7383034b53"
 ---
 

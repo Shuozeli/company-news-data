@@ -7,7 +7,7 @@ source_id: "yc-click-and-grow-atom-1c723306d7ee"
 canonical_url: "https://www.clickandgrow.com/blogs/news/5-essential-fall-herbs-to-grow-in-your-smart-garden"
 published_at: "2023-09-05T05:53:12+00:00"
 first_seen_at: "2026-07-24T22:35:58.431324+00:00"
-fetched_at: "2026-07-28T19:56:30.368328+00:00"
+fetched_at: "2026-07-28T23:44:11.944826+00:00"
 content_hash: "sha256:40a3d2e377ff0f8496a8f4017938909d5d5d4ca83931d62670d8acc21dda6f73"
 ---
 

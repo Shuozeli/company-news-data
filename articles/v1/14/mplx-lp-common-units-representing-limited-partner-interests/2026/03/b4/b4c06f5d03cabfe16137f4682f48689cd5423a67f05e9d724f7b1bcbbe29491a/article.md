@@ -7,7 +7,7 @@ source_id: "mplx-lp-common-units-representing-limited-partner-interests-rss-4a76
 canonical_url: "https://ir.mplx.com/CorporateProfile/press-releases/news-release/2026/MPLX-LP-to-Report-First-Quarter-Results-on-May-5-2026/default.aspx"
 published_at: "2026-03-23T20:15:00+00:00"
 first_seen_at: "2026-07-27T10:42:09.203732+00:00"
-fetched_at: "2026-07-28T20:38:21.278099+00:00"
+fetched_at: "2026-07-28T23:22:24.820605+00:00"
 content_hash: "sha256:fce8c902d7a3fbbe258f9a637441a281d0c9547bc3c2eed5e28e233b09075307"
 ---
 

@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2024/10/how-accessify-was-built-an-adobe-express-add-on-that-ensures-your-content-is-accessible"
 published_at: "2024-10-17T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:5fb13fbb135d06c07481897465d918839d934b0b3e3323f2ea424e83ce10bbc3"
 ---
 

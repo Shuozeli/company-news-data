@@ -7,7 +7,7 @@ source_id: "eva-live-inc-common-stock-rss-fa36d30c6b04"
 canonical_url: "https://eva.live/eva-live-targets-cybersecurity-aggressively-standing-up-an-internal-task-force-to-meet-ai-industry-needs/"
 published_at: "2026-06-22T06:00:00+00:00"
 first_seen_at: "2026-07-25T03:24:54.313623+00:00"
-fetched_at: "2026-07-28T20:53:18.669150+00:00"
+fetched_at: "2026-07-28T23:38:42.811853+00:00"
 content_hash: "sha256:defdb94a375b2fc1134157bb985cf81ca3bb99494ba1b0edb14fb13ef70e0a0d"
 ---
 

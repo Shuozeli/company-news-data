@@ -7,7 +7,7 @@ source_id: "j-jill-inc-common-stock-rss-31f8245a526a"
 canonical_url: "https://investors.jjill.com/Investors-Relations/News-Events/News/News-details/2026/J-Jill-Inc--Announces-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-06-10T10:45:00+00:00"
 first_seen_at: "2026-07-25T10:16:14.371289+00:00"
-fetched_at: "2026-07-28T21:31:26.641263+00:00"
+fetched_at: "2026-07-29T00:13:59.828589+00:00"
 content_hash: "sha256:155c9e2dd00656c4769dee965f8e51a6bb78758d7a39abe97aec188141a2c1f6"
 ---
 

@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2024/02/c-and-the-next-30-years"
 published_at: "2024-04-22T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:ffaeadbb7e1b48fc212b93525e60d0e0367f0fd87c4a065ebdb12f74c886ed45"
 ---
 

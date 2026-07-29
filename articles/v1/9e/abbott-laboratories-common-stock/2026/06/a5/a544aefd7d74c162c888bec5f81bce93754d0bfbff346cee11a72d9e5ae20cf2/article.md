@@ -7,7 +7,7 @@ source_id: "abbott-laboratories-common-stock-rss-7e82b875fa10"
 canonical_url: "https://abbott.mediaroom.com/2026-06-12-Abbott-declares-410th-consecutive-quarterly-dividend"
 published_at: "2026-06-12T18:29:00+00:00"
 first_seen_at: "2026-07-20T03:32:18.101719+00:00"
-fetched_at: "2026-07-28T20:45:40.221375+00:00"
+fetched_at: "2026-07-28T23:30:11.388490+00:00"
 content_hash: "sha256:461c184107df6ea3a66d3412a1cf7c0ea8840904707abb982581e6b8eccb4821"
 ---
 

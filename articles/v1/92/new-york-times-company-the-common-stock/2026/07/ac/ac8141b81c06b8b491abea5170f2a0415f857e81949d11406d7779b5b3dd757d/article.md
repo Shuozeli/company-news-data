@@ -5,10 +5,10 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html"
-published_at: "2026-07-28T16:26:40+00:00"
+published_at: "2026-07-28T21:55:09+00:00"
 first_seen_at: "2026-07-28T16:46:08.230306+00:00"
-fetched_at: "2026-07-28T21:10:05.836012+00:00"
-content_hash: "sha256:1e28be64f3ca641460971bdc6d9db9bcaf8add0e35faa1ce98737acbdd65dba9"
+fetched_at: "2026-07-28T23:55:50.378040+00:00"
+content_hash: "sha256:311a53f40fb17649f9d2ffa3de58828bd6db12342ba0b8043f2c737ef8469e32"
 ---
 
 # How to Predict the Weather in Our Era of Freakish Storms

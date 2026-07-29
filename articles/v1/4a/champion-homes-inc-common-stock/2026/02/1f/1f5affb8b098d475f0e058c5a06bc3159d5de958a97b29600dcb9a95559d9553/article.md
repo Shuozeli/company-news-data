@@ -7,7 +7,7 @@ source_id: "champion-homes-inc-common-stock-rss-95468d946a2d"
 canonical_url: "http://ir.championhomes.com/press-releases/press-release-details/2026/Champion-Homes-Announces-Third-Quarter-Fiscal-2026-Results/default.aspx"
 published_at: "2026-02-03T21:15:00+00:00"
 first_seen_at: "2026-07-25T01:34:12.914210+00:00"
-fetched_at: "2026-07-28T20:24:18.116253+00:00"
+fetched_at: "2026-07-28T23:09:04.485281+00:00"
 content_hash: "sha256:b80180023f5caa74bfe0405998db0d2908dd1d2420f21ce111f8f3401d783d3e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "trupanion-inc-common-stock-rss-13150357b035"
 canonical_url: "https://investors.trupanion.com/news/Press-Releases/news-details/2026/Trupanion-Announces-First-Quarter-2026-Earnings-Release-and-Conference-Call/default.aspx"
 published_at: "2026-04-16T20:15:00+00:00"
 first_seen_at: "2026-07-26T03:12:25.173582+00:00"
-fetched_at: "2026-07-28T21:39:42.562059+00:00"
+fetched_at: "2026-07-29T00:20:26.784832+00:00"
 content_hash: "sha256:4c868d9a33bfe855eca8f38e4dbcc4c6f0147045735ea1dd803fef0a3dbcdb31"
 ---
 

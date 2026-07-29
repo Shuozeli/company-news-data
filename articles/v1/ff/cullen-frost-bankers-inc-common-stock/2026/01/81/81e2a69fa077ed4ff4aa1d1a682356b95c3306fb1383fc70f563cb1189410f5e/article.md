@@ -7,7 +7,7 @@ source_id: "cullen-frost-bankers-inc-common-stock-rss-cea94f8c0a52"
 canonical_url: "https://investor.frostbank.com/news-market-data/News-Details/2026/CULLENFROST-BANKERS-ANNOUNCES-TWO-ADDITIONS-TO-BOARD-OF-DIRECTORS-AVERY-TO-RETIRE/default.aspx"
 published_at: "2026-01-30T16:00:00+00:00"
 first_seen_at: "2026-07-27T01:26:42.438219+00:00"
-fetched_at: "2026-07-28T20:37:41.584801+00:00"
+fetched_at: "2026-07-28T23:21:28.756081+00:00"
 content_hash: "sha256:a7c2046242cc96185fc77d1a8e34657ffd49cd135607673b7e8969dc34d29c9a"
 ---
 

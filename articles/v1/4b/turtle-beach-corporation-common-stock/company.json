@@ -68,5 +68,103 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 10,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 56996,
+        "sha256": "sha256:7d0c8ad32db7ab4ed825eb355322cffdc07f73e211c6c79ac26d761685b0c261",
+        "newest_at": "2026-07-09T11:53:00+00:00",
+        "oldest_at": "2026-05-04T11:02:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 57505,
+        "sha256": "sha256:fe572fd0b8814347cd6754c0bc4275ccbe8a0d4ee80e988dd82e7b20d0715fe6",
+        "newest_at": "2026-05-01T10:55:00+00:00",
+        "oldest_at": "2026-04-03T11:00:09+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 57901,
+        "sha256": "sha256:128ea01e2779b48ad87ee355232fb50e56025430ac24b1d41c845b75e2ba69bb",
+        "newest_at": "2026-04-03T08:51:00+00:00",
+        "oldest_at": "2026-03-22T11:00:04+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 58105,
+        "sha256": "sha256:ff672abd47c58b0aa92b220b787159031a9c94d9e3c62107f6e5f4432e92d930",
+        "newest_at": "2026-03-20T11:00:09+00:00",
+        "oldest_at": "2026-03-07T12:00:04+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 58133,
+        "sha256": "sha256:5a4c4eb4b7ea2146b04bb9ec23e0e88492f0802ba0bff6523ae4b376215414e5",
+        "newest_at": "2026-03-07T12:00:04+00:00",
+        "oldest_at": "2026-02-24T12:00:13+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 58120,
+        "sha256": "sha256:56aa1a7617b24b914e36d1cc6f728b44d0e8bd37050f1dbff2eb3a40d6208991",
+        "newest_at": "2026-02-24T12:00:13+00:00",
+        "oldest_at": "2026-02-13T12:00:02+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 58007,
+        "sha256": "sha256:67a3b00a252d24978099f70f2fa75d320e0401e771b86772337c28c1dd34e493",
+        "newest_at": "2026-02-13T12:00:02+00:00",
+        "oldest_at": "2026-01-05T09:40:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 58413,
+        "sha256": "sha256:4cea572258188e9f4025a98465234803b98ccd970918adb5bf451cc45078ec2d",
+        "newest_at": "2026-01-03T09:38:00+00:00",
+        "oldest_at": "2025-12-02T08:56:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 58890,
+        "sha256": "sha256:31352682ea26c9534da6687131767cb681bfc93b9e20bee9bffbfa3aa37cc7b8",
+        "newest_at": "2025-12-02T08:50:00+00:00",
+        "oldest_at": "2025-10-15T09:48:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000010.json",
+        "record_count": 46,
+        "byte_count": 54094,
+        "sha256": "sha256:dee353946f8e7d4a2ce6880aa4a8b34a4533d70af0debb19ef5c505fba4517d5",
+        "newest_at": "2025-10-15T04:49:47+00:00",
+        "oldest_at": "2025-04-01T11:00:12+00:00"
+      }
+    ]
+  }
 }

@@ -44,5 +44,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/78/cherry-hill-mortgage-investment-corporation-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13856,
+        "sha256": "sha256:878857d7ed549292a7f37dfe7d45e4aad0a3cd3ae999eef0faa1210379934298",
+        "newest_at": "2026-06-11T20:15:00+00:00",
+        "oldest_at": "2025-10-30T20:15:00+00:00"
+      }
+    ]
+  }
 }

@@ -20,5 +20,22 @@
       "partition": "2026-04",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a5/yc-instrumentl/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 3636,
+        "sha256": "sha256:c91fe00bf90525743748eff587b9a89020cf2ae8d74387e361a5d56fb566d644",
+        "newest_at": "2026-04-23T00:00:00+00:00",
+        "oldest_at": "2024-12-10T00:00:00+00:00"
+      }
+    ]
+  }
 }

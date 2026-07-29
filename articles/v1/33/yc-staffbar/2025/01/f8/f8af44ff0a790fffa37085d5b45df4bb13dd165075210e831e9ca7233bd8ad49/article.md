@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/unlocking-growth-at-usd1m-arr-proven-strategies-for-scaling-consumer-apps"
-published_at: "2025-01-02T18:14:41.570+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:96b676097289c0a0937abc2ece2f46f8287e9ca98e02f4e4e3a3f913c6c1323f"

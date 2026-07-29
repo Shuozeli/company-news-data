@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/how-sizzle-ai-grew-to-1m-downloads"
-published_at: "2025-08-27T20:32:19.405+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:760949774946772308ade86be55395f593166f7cab16f096f3e13b3fe855a497"

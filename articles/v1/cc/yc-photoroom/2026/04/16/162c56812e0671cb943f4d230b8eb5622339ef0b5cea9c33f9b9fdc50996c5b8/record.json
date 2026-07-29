@@ -15,18 +15,18 @@
   },
   "title": "Optimizing our inference backend with custom load balancing",
   "summary": "Standard load balancers fail on slow GPU inference. We built a shared-state least-request balancer with Envoy, Redis, and Lua — and dropped p99 by 10×.",
-  "published_at": "2026-04-08T00:00:00+00:00",
+  "published_at": null,
   "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
   "fetched_at": "2026-07-28T21:47:36.059629+00:00",
-  "last_updated_at": "2026-07-28T21:49:00.323367+00:00",
+  "last_updated_at": "2026-07-29T00:28:27.635698+00:00",
   "paths": {
     "article": "articles/v1/cc/yc-photoroom/2026/04/16/162c56812e0671cb943f4d230b8eb5622339ef0b5cea9c33f9b9fdc50996c5b8/article.md",
     "record": "articles/v1/cc/yc-photoroom/2026/04/16/162c56812e0671cb943f4d230b8eb5622339ef0b5cea9c33f9b9fdc50996c5b8/record.json"
   },
   "content": {
     "media_type": "text/markdown; charset=utf-8",
-    "bytes": 11910,
-    "sha256": "sha256:e9233246fb1c7c26bb825631d2b4a125378df8cc97a45a4b33621ccdbccbddf7",
+    "bytes": 11887,
+    "sha256": "sha256:c8f495234523a793d0df9f63bf797f80564411e4ec1d693c927141c679788470",
     "normalized_content_hash": "sha256:bdbb6b4896e7ab8fc385ab7f3096f349df5949591f3b2932f3c67512958618a2"
   },
   "provenance": {

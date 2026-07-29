@@ -7,7 +7,7 @@ source_id: "orrstown-financial-services-inc-common-stock-rss-6064773c12c6"
 canonical_url: "https://investors.orrstown.com/news/news-details/2026/Orrstown-Financial-Services-Inc--Reports-Fourth-Quarter-2025-Results-and-Announces-Dividend-Increase/default.aspx"
 published_at: "2026-01-27T21:17:00+00:00"
 first_seen_at: "2026-07-25T17:55:18.673795+00:00"
-fetched_at: "2026-07-28T19:31:45.411486+00:00"
+fetched_at: "2026-07-28T22:53:28.606739+00:00"
 content_hash: "sha256:4f37a2b01cf026f336f7adc95cfd5ea6c7ade20214035c655524e2ba5e76da29"
 ---
 

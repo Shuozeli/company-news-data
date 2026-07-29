@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/on-est-en-train-de-devenir-electricien-isabelle-patrier-directrice-france-de-totalenergies-en-visite-dans-le-loiret/"
 published_at: "2025-05-16T13:45:31+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:ee16bb1da1ea257ac106fc6fc84e3665926e8491d34b7cf19e64a513f93a415d"
 ---
 

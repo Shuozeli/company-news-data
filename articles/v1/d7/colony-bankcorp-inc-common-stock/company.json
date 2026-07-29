@@ -52,5 +52,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d7/colony-bankcorp-inc-common-stock/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 19913,
+        "sha256": "sha256:48ea1a5f6cb8a656fc337b94ec9736dc0ec25bc3e2ed43ad705194d3eb1c5f57",
+        "newest_at": "2026-06-12T15:09:41+00:00",
+        "oldest_at": "2025-01-23T19:02:48+00:00"
+      }
+    ]
+  }
 }

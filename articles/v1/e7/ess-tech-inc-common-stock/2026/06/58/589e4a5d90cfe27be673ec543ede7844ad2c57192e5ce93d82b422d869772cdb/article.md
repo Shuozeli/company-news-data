@@ -7,7 +7,7 @@ source_id: "ess-tech-inc-common-stock-rss-6f6f40e30d6e"
 canonical_url: "https://www.investing.com/news/stock-market-news/exclusive-ess-tech-speeds-up-sodiumion-development-on-1bn-opportunity-pipeline-4755435"
 published_at: "2026-06-23T19:07:35+00:00"
 first_seen_at: "2026-07-25T03:09:41.179140+00:00"
-fetched_at: "2026-07-28T20:23:02.196190+00:00"
+fetched_at: "2026-07-28T23:07:10.259843+00:00"
 content_hash: "sha256:d11efcd77b333a418b7bce79d5812677655a208bfd7dd512b6a57376ad04cd80"
 ---
 

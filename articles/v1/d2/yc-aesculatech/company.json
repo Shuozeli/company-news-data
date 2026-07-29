@@ -40,5 +40,22 @@
       "partition": "2023-11",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d2/yc-aesculatech/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11278,
+        "sha256": "sha256:9dab8946be50346d7faa524cf662489aee7f8bde89dc309414bc91068a063f58",
+        "newest_at": "2023-11-20T23:32:07+00:00",
+        "oldest_at": "2021-06-10T09:00:06+00:00"
+      }
+    ]
+  }
 }

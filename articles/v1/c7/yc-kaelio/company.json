@@ -20,5 +20,22 @@
       "partition": "2026-06",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c7/yc-kaelio/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 17169,
+        "sha256": "sha256:cb5170238582e8b101968b18a440a317c6b9947482881a5ca04c394735535e92",
+        "newest_at": "2026-06-23T00:00:00+00:00",
+        "oldest_at": "2026-04-04T00:00:00+00:00"
+      }
+    ]
+  }
 }

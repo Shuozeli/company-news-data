@@ -7,7 +7,7 @@ source_id: "harmony-biosciences-holdings-inc-common-stock-rss-ec59729ed92f"
 canonical_url: "https://www.harmonybiosciences.com/harmony-biosciences-to-report-second-quarter-2026-financial-results-on-august-4-2026/"
 published_at: "2026-07-21T08:05:00+00:00"
 first_seen_at: "2026-07-25T07:36:23.779670+00:00"
-fetched_at: "2026-07-28T20:21:18.357464+00:00"
+fetched_at: "2026-07-28T23:04:32.308046+00:00"
 content_hash: "sha256:6b34811c63402ad2341094ec8060bf56383e9e5497a0337f906715422469e3ce"
 ---
 

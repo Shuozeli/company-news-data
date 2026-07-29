@@ -7,7 +7,7 @@ source_id: "yc-nearwave-rss-9f4746cd284c"
 canonical_url: "https://nearwave.co/nearwave-co-founder-wins-first-place-in-1st-source-bank-commercialization-awards/"
 published_at: "2023-11-17T23:17:02+00:00"
 first_seen_at: "2026-07-24T12:13:22.796027+00:00"
-fetched_at: "2026-07-28T20:52:45.210369+00:00"
+fetched_at: "2026-07-28T23:38:34.703310+00:00"
 content_hash: "sha256:0944f00202663b8d5e56a7c1a40770cf9ee04a3af752d100989d90f2342b3f47"
 ---
 

@@ -7,7 +7,7 @@ source_id: "crocs-inc-common-stock-rss-06481efa57c0"
 canonical_url: "https://investors.crocs.com/news-and-events/press-releases/press-release-details/2026/Crocs-Inc--Publishes-2025-Comfort-Report-Detailing-Updates-on-Purpose--Sustainability/default.aspx"
 published_at: "2026-04-30T20:00:00+00:00"
 first_seen_at: "2026-07-25T01:25:14.804076+00:00"
-fetched_at: "2026-07-28T20:22:30.571615+00:00"
+fetched_at: "2026-07-28T23:06:23.889804+00:00"
 content_hash: "sha256:3fb518f84468b80d7b4048717adf645b437970da60bade042f08d142494883ac"
 ---
 

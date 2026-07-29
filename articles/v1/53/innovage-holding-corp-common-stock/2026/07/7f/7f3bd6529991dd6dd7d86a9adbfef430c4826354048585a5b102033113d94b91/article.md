@@ -7,7 +7,7 @@ source_id: "innovage-holding-corp-common-stock-rss-f904034a99dc"
 canonical_url: "https://investor.innovage.com/news-releases/news-release-details/notice-pendency-and-proposed-settlement-derivative-action"
 published_at: "2026-07-17T12:00:00+00:00"
 first_seen_at: "2026-07-25T09:28:00.185836+00:00"
-fetched_at: "2026-07-28T21:51:58.761987+00:00"
+fetched_at: "2026-07-29T00:09:10.934679+00:00"
 content_hash: "sha256:562269919c411e09e0bc68d84cfb4cc8badd76d7c70b549f162a0662f99549ad"
 ---
 

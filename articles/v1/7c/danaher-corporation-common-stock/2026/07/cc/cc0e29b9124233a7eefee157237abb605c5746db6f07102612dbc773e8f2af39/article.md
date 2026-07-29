@@ -7,7 +7,7 @@ source_id: "danaher-corporation-common-stock-rss-baeab7bd386b"
 canonical_url: "https://investors.danaher.com/2026-07-21-Danaher-Reports-Second-Quarter-2026-Results"
 published_at: "2026-07-21T10:00:00+00:00"
 first_seen_at: "2026-07-21T10:49:18.228112+00:00"
-fetched_at: "2026-07-28T20:49:16.354019+00:00"
+fetched_at: "2026-07-28T23:34:39.620039+00:00"
 content_hash: "sha256:11ea3dcc13369772f3679c27a4348625841aba9ab2a49728acc8a8852fbf6720"
 ---
 

@@ -7,7 +7,7 @@ source_id: "amarin-corporation-plc-rss-5a6dc08ff807"
 canonical_url: "https://investors.amarincorp.com/news-releases/news-release-details/amarin-reports-2026-first-quarter-financial-results"
 published_at: "2026-04-29T11:00:29+00:00"
 first_seen_at: "2026-07-26T09:06:16.575376+00:00"
-fetched_at: "2026-07-28T20:29:46.874254+00:00"
+fetched_at: "2026-07-28T23:16:02.876317+00:00"
 content_hash: "sha256:898c32efd6b3ef06d6fc95304030763fe7018bb65ce88c6db3ae021d4ca25b07"
 ---
 

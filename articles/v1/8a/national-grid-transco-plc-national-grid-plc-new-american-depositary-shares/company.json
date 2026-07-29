@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 16
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8a/national-grid-transco-plc-national-grid-plc-new-american-depositary-shares/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 24413,
+        "sha256": "sha256:cd34a0c43edca6f49613aefc65b6554d36000643cd73a11e90cbc42d53133069",
+        "newest_at": "2026-07-28T21:38:27.854613+00:00",
+        "oldest_at": "2026-07-01T09:01:44+00:00"
+      }
+    ]
+  }
 }

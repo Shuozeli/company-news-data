@@ -7,7 +7,7 @@ source_id: "oscar-health-inc-class-a-common-stock-rss-69a1bcf667ba"
 canonical_url: "https://ir.hioscar.com/news-events-presentations/news-press-releases/news-details/2026/Oscar-Health-Inc--to-Host-2026-Investor-Day/default.aspx"
 published_at: "2026-07-28T12:00:00+00:00"
 first_seen_at: "2026-07-28T13:48:16.145125+00:00"
-fetched_at: "2026-07-28T21:14:23.703233+00:00"
+fetched_at: "2026-07-29T00:01:26.780774+00:00"
 content_hash: "sha256:7c43f79265fe89dae737669f2046b67360627822a141b86242fd6d89ec35b769"
 ---
 

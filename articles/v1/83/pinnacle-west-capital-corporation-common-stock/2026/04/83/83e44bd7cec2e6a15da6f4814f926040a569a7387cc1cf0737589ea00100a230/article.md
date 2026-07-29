@@ -7,7 +7,7 @@ source_id: "pinnacle-west-capital-corporation-common-stock-rss-9af6db3e95b3"
 canonical_url: "http://www.pinnaclewest.com/newsroom/company-news/news-release-details/2026/Pinnacle-West-Declares-Quarterly-Dividend/default.aspx"
 published_at: "2026-04-22T22:17:00+00:00"
 first_seen_at: "2026-07-25T19:07:04.087325+00:00"
-fetched_at: "2026-07-28T21:03:01.680789+00:00"
+fetched_at: "2026-07-28T23:49:41.928661+00:00"
 content_hash: "sha256:ade290ec1f4607517edecb93c18b09dcfdc23127081ccdb411ff19b1eaa2e8b2"
 ---
 

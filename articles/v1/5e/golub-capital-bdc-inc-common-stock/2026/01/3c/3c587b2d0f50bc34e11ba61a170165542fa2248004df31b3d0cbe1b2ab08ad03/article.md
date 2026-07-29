@@ -7,7 +7,7 @@ source_id: "golub-capital-bdc-inc-common-stock-rss-42b3214e2170"
 canonical_url: "https://golubcapitalbdc.com/2026/01/13/u-s-middle-market-earnings-and-revenue-show-steady-growth-in-q4-2025/"
 published_at: "2026-01-13T22:29:00+00:00"
 first_seen_at: "2026-07-20T03:31:52.275280+00:00"
-fetched_at: "2026-07-28T20:20:29.720453+00:00"
+fetched_at: "2026-07-28T23:03:48.236161+00:00"
 content_hash: "sha256:42273dfd292ba3e04369356f4445a359cd278e6ffb0ffb9f99a7d7a9f0e4febf"
 ---
 

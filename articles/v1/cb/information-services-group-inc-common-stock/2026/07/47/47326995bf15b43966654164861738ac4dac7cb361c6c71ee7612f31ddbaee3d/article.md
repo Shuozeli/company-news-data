@@ -7,7 +7,7 @@ source_id: "information-services-group-inc-common-stock-rss-538d49f51dc8"
 canonical_url: "https://ir.isg-one.com/news-market-information/press-releases/news-details/2026/ISG-to-Study-Enterprise-Managed-Network-Service-Providers/default.aspx"
 published_at: "2026-07-27T15:00:00+00:00"
 first_seen_at: "2026-07-27T15:28:05.672416+00:00"
-fetched_at: "2026-07-28T21:41:24.233448+00:00"
+fetched_at: "2026-07-29T00:12:12.558272+00:00"
 content_hash: "sha256:7da1e909871b9b67caf9217b287c382ee8c205b66ce54e0917db1efab82638eb"
 ---
 

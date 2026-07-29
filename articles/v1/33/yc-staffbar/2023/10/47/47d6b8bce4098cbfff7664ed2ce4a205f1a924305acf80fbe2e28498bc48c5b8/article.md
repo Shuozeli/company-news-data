@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/automatic-paywall-localization-guide-crowdin-and-lokalise-superwall-integrations"
-published_at: "2023-10-26T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:dbeb47238bbd26125b433e07be8a2450cd70a423e74e007ea62d3534ea0c29d8"

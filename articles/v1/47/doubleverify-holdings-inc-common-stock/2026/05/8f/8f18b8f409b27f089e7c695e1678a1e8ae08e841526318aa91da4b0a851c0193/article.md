@@ -7,7 +7,7 @@ source_id: "doubleverify-holdings-inc-common-stock-rss-f6469e95d005"
 canonical_url: "https://medium.com/doubleverify-engineering/modernizing-diverse-frontends-with-a-framework-agnostic-app-shell-568479d812e6"
 published_at: "2026-05-28T08:57:18+00:00"
 first_seen_at: "2026-07-20T23:17:33.321656+00:00"
-fetched_at: "2026-07-28T21:20:44.399810+00:00"
+fetched_at: "2026-07-29T00:07:21.153865+00:00"
 content_hash: "sha256:8c3146eac87a6453325843009c5be140b5085fbf531614b80f9ea1fd2dd059e0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "reservoir-media-inc-common-stock-rss-a19592763df7"
 canonical_url: "https://reservoir-media.com/reservoir-strikes-a-new-deal-with-nacional-records/"
 published_at: "2026-07-16T09:15:00+00:00"
 first_seen_at: "2026-07-27T04:42:39.995150+00:00"
-fetched_at: "2026-07-28T20:54:16.787687+00:00"
+fetched_at: "2026-07-28T23:40:05.171984+00:00"
 content_hash: "sha256:8f1089ce434a06b15d6256a3697a42f8dd175fcdae854f93e9364956e31468e3"
 ---
 

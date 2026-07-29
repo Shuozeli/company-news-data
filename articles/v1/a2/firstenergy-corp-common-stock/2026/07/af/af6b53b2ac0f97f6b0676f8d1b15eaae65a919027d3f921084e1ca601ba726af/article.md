@@ -7,7 +7,7 @@ source_id: "firstenergy-corp-common-stock-rss-a56d4a0f1bba"
 canonical_url: "https://investors.firstenergycorp.com/investor-materials/news-releases/news-details/2026/Jersey-Central-Power--Light-Company-Provides-Update-on-Exchange-Offer-for-its-4-600-Senior-Notes-Due-2030/default.aspx"
 published_at: "2026-07-17T20:45:00+00:00"
 first_seen_at: "2026-07-25T04:48:53.602624+00:00"
-fetched_at: "2026-07-28T19:32:05.699211+00:00"
+fetched_at: "2026-07-28T22:53:05.043726+00:00"
 content_hash: "sha256:3eb272c9151916dd3625f248a9a9cedb7483d7aa86761dc190d795537cbbe834"
 ---
 

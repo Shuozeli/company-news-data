@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1f/yc-parrot-software/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 7754,
+        "sha256": "sha256:d250d64a6b206f012f3602d8bc3abbc773a5a0709080074faf5e7d3a1a1836a2",
+        "newest_at": "2026-07-06T17:36:30.452+00:00",
+        "oldest_at": "2026-06-18T20:03:18.357+00:00"
+      }
+    ]
+  }
 }

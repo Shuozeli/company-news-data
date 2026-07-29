@@ -7,7 +7,7 @@ source_id: "gamestop-corporation-common-stock-rss-4671fefc8cca"
 canonical_url: "https://investor.gamestop.com/news-releases/news-details/2026/GameStop-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx"
 published_at: "2026-03-24T20:02:00+00:00"
 first_seen_at: "2026-07-25T06:10:16.023306+00:00"
-fetched_at: "2026-07-28T21:51:30.418842+00:00"
+fetched_at: "2026-07-29T00:20:23.690475+00:00"
 content_hash: "sha256:598a09311358d3534f6f28d7eb29ff63e6dde146160939cdcb5f00b441015288"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-aesculatech-rss-031e9d4c8897"
 canonical_url: "https://aesculatech.com/2021/10/29/humidifeye-featured-in-2021-octane-mtif-fast-pitch-competition/"
 published_at: "2021-10-29T22:00:19+00:00"
 first_seen_at: "2026-07-24T14:35:17.916635+00:00"
-fetched_at: "2026-07-28T21:08:14.436281+00:00"
+fetched_at: "2026-07-28T23:53:48.515613+00:00"
 content_hash: "sha256:5b43fa766cc88a82377fbf06802b61450d7920610cfec41543a42ffaa3da9c34"
 ---
 

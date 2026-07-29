@@ -188,5 +188,103 @@
       "partition": "2026-06",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 10,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bc/yc-plivo/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50374,
+        "sha256": "sha256:7d4449427f60d77b774bff12bb2b6ee6ad4540734fed52444658af3ed5fd0352",
+        "newest_at": "2026-06-16T00:00:00+00:00",
+        "oldest_at": "2026-02-16T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/bc/yc-plivo/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 49277,
+        "sha256": "sha256:3226f27f65945c4fb7ca98a5c56712d7f55fb3f2cc3ec00218f4e15a443d491c",
+        "newest_at": "2026-02-10T00:00:00+00:00",
+        "oldest_at": "2025-05-02T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/bc/yc-plivo/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 49350,
+        "sha256": "sha256:c3a22b200bcdd3e6d41ecfa2785709148b1f903e3939e32b2159ce85962c753d",
+        "newest_at": "2025-05-02T00:00:00+00:00",
+        "oldest_at": "2025-03-18T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/bc/yc-plivo/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 48513,
+        "sha256": "sha256:104ebf088dee18a989d4a058dd4b1efbfb4627ceeed8a4971ad8e29692723027",
+        "newest_at": "2025-03-13T00:00:00+00:00",
+        "oldest_at": "2024-12-18T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/bc/yc-plivo/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 48806,
+        "sha256": "sha256:b5040d58e9813f1290b45f88e8d977c7cdf40d5efd90bba13a8edfb390366916",
+        "newest_at": "2024-12-18T00:00:00+00:00",
+        "oldest_at": "2024-10-08T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/bc/yc-plivo/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 49946,
+        "sha256": "sha256:6cdb793c81d274a54f76fd3490fc27079731800245ca37d0614fcac341afce85",
+        "newest_at": "2024-10-03T00:00:00+00:00",
+        "oldest_at": "2024-08-26T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/bc/yc-plivo/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 49849,
+        "sha256": "sha256:b12f596ab4dc9853b7afa5bacc12859d73e294cd66bbda747e41e76ea1e72164",
+        "newest_at": "2024-08-20T00:00:00+00:00",
+        "oldest_at": "2024-05-20T00:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/bc/yc-plivo/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 49518,
+        "sha256": "sha256:a6f4f8242c6bb27410b0b260e930308ce49a055b7f90abba14afabc97cb229dd",
+        "newest_at": "2024-05-17T00:00:00+00:00",
+        "oldest_at": "2023-07-12T00:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/bc/yc-plivo/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 49547,
+        "sha256": "sha256:9783d78adfae6ebb012b98643ac1a28b6c8122e6abd0221a122d8a543c08ba87",
+        "newest_at": "2023-06-27T00:00:00+00:00",
+        "oldest_at": "2022-08-18T00:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/bc/yc-plivo/index/pages/000010.json",
+        "record_count": 48,
+        "byte_count": 47521,
+        "sha256": "sha256:3a35a4c82c17c5c80420067ca6d3b6dfd7315b944b8ebbf735c678eac22b5cbf",
+        "newest_at": "2022-08-16T00:00:00+00:00",
+        "oldest_at": "2022-02-16T00:00:00+00:00"
+      }
+    ]
+  }
 }

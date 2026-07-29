@@ -7,7 +7,7 @@ source_id: "udemy-inc-common-stock-news-import-c5d326a78e51"
 canonical_url: "https://about.udemy.com/udemy-news/introducing-11-coachingbeta-get-personalized-guidance-from-industry-experts/"
 published_at: "2025-09-25T09:00:36+00:00"
 first_seen_at: "2026-07-26T20:42:41.989080+00:00"
-fetched_at: "2026-07-28T11:01:04.409598+00:00"
+fetched_at: "2026-07-29T00:39:40.794489+00:00"
 content_hash: "sha256:d0ad39f0e75c8f34fc5dc2de58956955fb51b887e28cc13612e0ce8dc1f1744a"
 ---
 

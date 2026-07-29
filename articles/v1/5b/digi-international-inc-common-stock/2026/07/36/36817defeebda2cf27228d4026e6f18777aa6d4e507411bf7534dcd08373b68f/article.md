@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2026/digi-to-release-third-fiscal-quarter-2026-earnings"
 published_at: "2026-07-07T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:60b350669d4b1c61b39b8cad710d00c88c61754492ab1925e983ee32af18dcf6"
 ---
 

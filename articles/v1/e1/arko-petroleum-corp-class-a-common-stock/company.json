@@ -20,5 +20,22 @@
       "partition": "2026-05",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e1/arko-petroleum-corp-class-a-common-stock/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 7842,
+        "sha256": "sha256:279b08efd3b13a9e74ee0407963a50b1c953fbc3e979fa3ad04de0fdf0932180",
+        "newest_at": "2026-05-11T07:00:00+00:00",
+        "oldest_at": "2026-03-16T16:05:00+00:00"
+      }
+    ]
+  }
 }

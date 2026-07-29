@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/how-digital-twins-are-redefining-construction-handover-and-asset-management"
 published_at: "2026-03-30T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T20:33:46.789564+00:00"
+fetched_at: "2026-07-28T23:18:38.216278+00:00"
 content_hash: "sha256:05812de79b6ffda81bb4601aee424572db0252fb3de36923422b1de984516a5e"
 ---
 

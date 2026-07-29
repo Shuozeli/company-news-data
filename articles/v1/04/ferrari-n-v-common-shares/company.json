@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 11
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/04/ferrari-n-v-common-shares/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 11060,
+        "sha256": "sha256:f9c7e62c964f34213195b5264c31c4eb8db4ee2cea52e0784672f9708c8681da",
+        "newest_at": "2026-07-27T14:27:33+00:00",
+        "oldest_at": "2026-07-25T15:14:52+00:00"
+      }
+    ]
+  }
 }

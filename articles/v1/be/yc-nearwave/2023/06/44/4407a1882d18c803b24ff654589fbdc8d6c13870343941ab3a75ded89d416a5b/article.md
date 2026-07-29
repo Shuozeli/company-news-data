@@ -7,7 +7,7 @@ source_id: "yc-nearwave-rss-9f4746cd284c"
 canonical_url: "https://nearwave.co/nearwave-attends-techconnect-world-2023-conference/"
 published_at: "2023-06-21T17:19:00+00:00"
 first_seen_at: "2026-07-24T12:13:22.796027+00:00"
-fetched_at: "2026-07-28T20:52:45.210369+00:00"
+fetched_at: "2026-07-28T23:38:34.703310+00:00"
 content_hash: "sha256:890c59cd06c3f5551f69ae0a235576a12bda25527c3154ae95764a47ea625a4c"
 ---
 

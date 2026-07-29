@@ -7,7 +7,7 @@ source_id: "gorilla-technology-group-inc-ordinary-shares-rss-f5e7578f1e87"
 canonical_url: "https://investors.gorilla-technology.com/gorilla-technology-accelerates-execution-across-its-asian-ai-infrastructure-platform/"
 published_at: "2026-07-21T12:30:57+00:00"
 first_seen_at: "2026-07-21T13:28:54.483850+00:00"
-fetched_at: "2026-07-28T22:11:11.163398+00:00"
+fetched_at: "2026-07-29T00:49:40.981826+00:00"
 content_hash: "sha256:10c7838c0384a5c4aa6b0f7db1d5d1a4d0ee3f2c432be67776c9e33b298243f1"
 ---
 

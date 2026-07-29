@@ -20,5 +20,22 @@
       "partition": "2026-04",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b6/yc-meter-feeder/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 5065,
+        "sha256": "sha256:067ac93b15800b5e10a04f3145164420e465d88246740275bb95218c5f15a264",
+        "newest_at": "2026-04-06T00:00:00+00:00",
+        "oldest_at": "2024-07-01T00:00:00+00:00"
+      }
+    ]
+  }
 }

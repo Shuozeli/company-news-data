@@ -7,7 +7,7 @@ source_id: "harmony-biosciences-holdings-inc-common-stock-rss-ec59729ed92f"
 canonical_url: "https://www.harmonybiosciences.com/harmony-biosciences-appoints-glenn-reicin-as-chief-financial-officer/"
 published_at: "2026-04-14T08:05:00+00:00"
 first_seen_at: "2026-07-25T07:36:23.779670+00:00"
-fetched_at: "2026-07-28T20:21:18.357464+00:00"
+fetched_at: "2026-07-28T23:04:32.308046+00:00"
 content_hash: "sha256:73bcd0cd63494c53931629038dabf43ce3f68451bff3008e118c6859080640a9"
 ---
 

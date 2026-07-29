@@ -7,7 +7,7 @@ source_id: "plug-power-inc-common-stock-rss-15e242ac1693"
 canonical_url: "https://www.plugpower.com/blog/plug-power-2017-accomplishments/"
 published_at: "2018-02-09T15:00:57+00:00"
 first_seen_at: "2026-07-20T03:31:30.208255+00:00"
-fetched_at: "2026-07-28T22:01:38.301094+00:00"
+fetched_at: "2026-07-29T00:40:06.818792+00:00"
 content_hash: "sha256:94fe08bbfa0469333a00f70af91e714e466a3728abed7ccae7290ae1f44cc165"
 ---
 

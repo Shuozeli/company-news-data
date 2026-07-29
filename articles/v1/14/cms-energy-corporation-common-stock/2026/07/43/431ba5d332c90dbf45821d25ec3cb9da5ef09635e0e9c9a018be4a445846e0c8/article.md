@@ -7,7 +7,7 @@ source_id: "cms-energy-corporation-common-stock-rss-601c04a7cd5c"
 canonical_url: "https://www.cmsenergy.com/investor-relations/news-releases/news-release-details/2026/CMS-Energy-Announces-Second-Quarter-Results-Strategic-Decision-on-NorthStar-Clean-Energy-Services-Introduces-Guidance-for-2027/default.aspx"
 published_at: "2026-07-28T10:30:00+00:00"
 first_seen_at: "2026-07-28T12:03:56.939523+00:00"
-fetched_at: "2026-07-28T21:50:14.651435+00:00"
+fetched_at: "2026-07-29T00:06:52.427039+00:00"
 content_hash: "sha256:4b9a1e584dc207f9a7d9a805b710f50dedd7824bf2027b974e7523ec513f29fe"
 ---
 

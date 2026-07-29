@@ -7,7 +7,7 @@ source_id: "selectquote-inc-common-stock-rss-d17e1c74fd61"
 canonical_url: "https://ir.selectquote.com/news/news-details/2026/SelectQuote-Inc--Reports-Third-Quarter-of-Fiscal-Year-2026-Results/default.aspx"
 published_at: "2026-05-05T11:00:00+00:00"
 first_seen_at: "2026-07-25T22:32:19.548544+00:00"
-fetched_at: "2026-07-28T20:24:26.347737+00:00"
+fetched_at: "2026-07-28T23:09:16.661535+00:00"
 content_hash: "sha256:65bd017bd936cfa2a7dd86dac3b02f29f82e7a70ab727f01dd2b253ce391dcd9"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ziff-davis-inc-common-stock-rss-97915001e723"
 canonical_url: "https://www.ziffdavis.com/about/news/artemis-ii-crew-capturing-big-and-small-moments-in-space"
 published_at: "2026-04-09T11:51:27+00:00"
 first_seen_at: "2026-07-24T08:06:25.970573+00:00"
-fetched_at: "2026-07-28T19:33:34.461559+00:00"
+fetched_at: "2026-07-28T22:57:55.158764+00:00"
 content_hash: "sha256:51462d1c9661f89440726e54cf7be71f1e5b6c648b19264ac19455106784d950"
 ---
 

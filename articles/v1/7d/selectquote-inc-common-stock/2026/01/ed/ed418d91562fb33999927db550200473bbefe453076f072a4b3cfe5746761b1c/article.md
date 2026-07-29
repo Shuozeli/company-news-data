@@ -7,7 +7,7 @@ source_id: "selectquote-inc-common-stock-rss-d17e1c74fd61"
 canonical_url: "https://ir.selectquote.com/news/news-details/2026/University-of-Kansas-Study-Shows-e-Brokers-Like-SelectQuote-Extend-Rural-Residents-Access-to-Medicare-Advantage-Plans/default.aspx"
 published_at: "2026-01-21T12:00:00+00:00"
 first_seen_at: "2026-07-25T22:32:19.548544+00:00"
-fetched_at: "2026-07-28T20:24:26.347737+00:00"
+fetched_at: "2026-07-28T23:09:16.661535+00:00"
 content_hash: "sha256:fb40ec4246d559543ca458a113071e8769436f4665707b6a904f05380772cfd6"
 ---
 

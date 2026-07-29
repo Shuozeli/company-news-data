@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-receives-nasdaq-determination-letter-under-nasdaq-listing-rules-5250c1-and-5250c2/"
 published_at: "2026-06-01T15:22:23+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:0e4634cf95e94c9d352fa71cf28353fbb9ec3c42e197c973522971b39fc76344"
 ---
 

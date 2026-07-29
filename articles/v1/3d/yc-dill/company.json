@@ -24,5 +24,22 @@
       "partition": "2026-02",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3d/yc-dill/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5706,
+        "sha256": "sha256:82854627e1ec65bc9ad019288d29a1a84c0ccd58505583c62dc89f940d9954ef",
+        "newest_at": "2026-02-27T00:00:00+00:00",
+        "oldest_at": "2025-11-06T00:00:00+00:00"
+      }
+    ]
+  }
 }

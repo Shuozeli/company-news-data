@@ -7,7 +7,7 @@ source_id: "south-plains-financial-inc-common-stock-rss-ffe45eec43f5"
 canonical_url: "https://www.spfi.bank/analyst/brett-rabatin-0"
 published_at: "2026-07-17T12:50:09+00:00"
 first_seen_at: "2026-07-24T01:53:21.435269+00:00"
-fetched_at: "2026-07-28T21:18:40.325307+00:00"
+fetched_at: "2026-07-29T00:12:42.716738+00:00"
 content_hash: "sha256:07de5fff54f92a8244f907687e33ab725a9060e2316f3baa0d5ef54d97429bc0"
 ---
 

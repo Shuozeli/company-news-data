@@ -7,7 +7,7 @@ source_id: "cognex-corporation-common-stock-rss-d1b80f9f3658"
 canonical_url: "https://investor.cognex.com/news/news-details/2026/Cognex-Announces-Second-Quarter-2026-Earnings-Release-and-Conference-Call-Dates/default.aspx"
 published_at: "2026-07-16T12:00:00+00:00"
 first_seen_at: "2026-07-24T22:51:25.514805+00:00"
-fetched_at: "2026-07-28T19:49:06.380654+00:00"
+fetched_at: "2026-07-28T23:31:53.894126+00:00"
 content_hash: "sha256:7eda337dcabf702c79a846ddb2f1d933d8a48734d9954c83f3d60dad4192a573"
 ---
 

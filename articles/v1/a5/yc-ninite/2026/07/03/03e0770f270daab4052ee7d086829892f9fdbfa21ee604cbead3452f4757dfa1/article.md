@@ -7,7 +7,7 @@ source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/operaChromium/"
 published_at: "2026-07-16T15:02:08+00:00"
 first_seen_at: "2026-07-25T16:20:56.315803+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
 content_hash: "sha256:c50a6e5f4c83803e9d78bbef7045bee91b55a2a93ccfdbd980285a31d8e596ee"
 ---
 

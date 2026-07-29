@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6d/sbc-medical-group-holdings-incorporated-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 22284,
+        "sha256": "sha256:454e2e1e46a952b155e421aa5a7f333032424d3bfa62f54b2b0198b500cf50e1",
+        "newest_at": "2026-07-16T01:00:24+00:00",
+        "oldest_at": "2026-05-27T00:46:09+00:00"
+      }
+    ]
+  }
 }

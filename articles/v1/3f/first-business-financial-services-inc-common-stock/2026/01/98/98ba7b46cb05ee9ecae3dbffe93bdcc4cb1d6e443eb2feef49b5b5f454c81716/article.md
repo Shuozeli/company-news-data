@@ -7,7 +7,7 @@ source_id: "first-business-financial-services-inc-common-stock-rss-e6a9ea1577e1"
 canonical_url: "https://ir.firstbusiness.bank/news-presentations/news-details/2026/First-Business-Bank-to-Participate-in-Janneys-2026-CEO-Forum-on-February-4-5-2026/default.aspx"
 published_at: "2026-01-28T21:30:00+00:00"
 first_seen_at: "2026-07-25T04:46:11.112331+00:00"
-fetched_at: "2026-07-28T20:57:07.692134+00:00"
+fetched_at: "2026-07-28T23:43:03.427891+00:00"
 content_hash: "sha256:ac03f32237e2da441bd35df353d62d152e2d0e639fb8f70fac31725a57f06753"
 ---
 

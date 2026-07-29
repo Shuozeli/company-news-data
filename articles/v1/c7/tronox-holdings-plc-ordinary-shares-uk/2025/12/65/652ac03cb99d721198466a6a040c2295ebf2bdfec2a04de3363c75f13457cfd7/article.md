@@ -7,7 +7,7 @@ source_id: "tronox-holdings-plc-ordinary-shares-uk-rss-1f0cfa60d152"
 canonical_url: "https://investor.tronox.com/press-releases/press-releases-details/2025/Export-Import-Bank-of-the-United-States-and-Export-Finance-Australia-Provide-Conditional-and-Non-Binding-Support-for-Potential-Financing-of-up-to-US600-Million-to-Advance-Tronoxs-Rare-Earth-Strategy/default.aspx"
 published_at: "2025-12-09T11:45:00+00:00"
 first_seen_at: "2026-07-27T12:13:10.354867+00:00"
-fetched_at: "2026-07-28T21:06:37.136950+00:00"
+fetched_at: "2026-07-28T23:52:24.175584+00:00"
 content_hash: "sha256:6ed0e8df327c7ed9001bc321ba0f1e0cce17fad31c8c45084f1df15c1952f2fc"
 ---
 

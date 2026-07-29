@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-f545fb403576"
 canonical_url: "https://www.photoroom.com/inside-photoroom/new-in-product-november-2023"
-published_at: "2023-11-30T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:21.557706+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:b31117c9912edf067e476809c12ad2ab9a06954c0d0168c6ec88e32784ae0f5c"

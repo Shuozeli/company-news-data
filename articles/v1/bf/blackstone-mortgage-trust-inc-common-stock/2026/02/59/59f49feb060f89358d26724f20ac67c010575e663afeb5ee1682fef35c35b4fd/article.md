@@ -7,7 +7,7 @@ source_id: "blackstone-mortgage-trust-inc-common-stock-rss-0b0bb6f59cf9"
 canonical_url: "https://ir.blackstonemortgagetrust.com/press-releases-and-news/press-release-and-news-details/2026/Blackstone-Mortgage-Trust-Announces-Tax-Treatment-of-2025-Dividends/default.aspx"
 published_at: "2026-02-06T22:19:00+00:00"
 first_seen_at: "2026-07-26T23:52:20.161591+00:00"
-fetched_at: "2026-07-28T20:39:50.998366+00:00"
+fetched_at: "2026-07-28T23:24:03.567410+00:00"
 content_hash: "sha256:0246dffe551d529ddd5d15fa24e390ee6cfdeb8a61cdf75a69934f15895e1f5a"
 ---
 

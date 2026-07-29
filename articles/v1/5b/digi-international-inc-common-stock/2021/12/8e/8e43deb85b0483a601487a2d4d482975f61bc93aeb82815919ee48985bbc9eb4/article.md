@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2021/digi-unveils-connect-ez-device-servers"
 published_at: "2021-12-08T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:ed5a8ef3c57b86d94408c0e08d9dc44092cda87f99131dee36b74e03b0e0552b"
 ---
 

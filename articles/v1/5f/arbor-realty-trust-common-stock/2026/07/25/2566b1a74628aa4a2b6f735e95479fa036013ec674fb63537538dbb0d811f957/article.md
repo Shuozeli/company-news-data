@@ -7,7 +7,7 @@ source_id: "arbor-realty-trust-common-stock-rss-43a521d55a19"
 canonical_url: "https://arbor.com/blog/single-family-rental-investment-snapshot-july-2026/"
 published_at: "2026-07-07T13:00:58+00:00"
 first_seen_at: "2026-07-20T23:17:00.022404+00:00"
-fetched_at: "2026-07-28T21:04:06.634260+00:00"
+fetched_at: "2026-07-28T23:50:37.273547+00:00"
 content_hash: "sha256:69d80618995833e94b9e7060793e39d0ba930577771071e38b3566a1423bb16a"
 ---
 

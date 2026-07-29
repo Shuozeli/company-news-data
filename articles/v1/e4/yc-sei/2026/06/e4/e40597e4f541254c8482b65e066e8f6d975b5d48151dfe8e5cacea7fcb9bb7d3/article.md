@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/sei-vs-sela-ai-voice-mortgage-origination"
 published_at: "2026-06-15T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:994054cc8af33c6415b582203ae59445495cd07d4ef2b8f9760c14a9745e6dbb"
 ---
 

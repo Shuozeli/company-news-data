@@ -7,7 +7,7 @@ source_id: "yc-four-growers-rss-8be8350904ae"
 canonical_url: "https://fourgrowers.com/about/media/four-growers-robotics-and-computer-vision-make-automated-greenhouse-harvests-reality/"
 published_at: "2023-10-04T18:30:40+00:00"
 first_seen_at: "2026-07-25T05:36:06.101502+00:00"
-fetched_at: "2026-07-28T20:35:25.463894+00:00"
+fetched_at: "2026-07-28T23:19:57.925010+00:00"
 content_hash: "sha256:ea589d1b02307002640a04010e63159b994d776b8ff949d66818261dea8c0637"
 ---
 

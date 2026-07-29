@@ -7,7 +7,7 @@ source_id: "angel-oak-mortgage-reit-inc-common-stock-rss-51be5dacfd2d"
 canonical_url: "https://ir.angeloakreit.com/news/news-details/2026/Angel-Oak-Mortgage-REIT-Inc--Reports-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-05-05T11:00:00+00:00"
 first_seen_at: "2026-07-26T09:19:28.910573+00:00"
-fetched_at: "2026-07-28T20:54:17.541295+00:00"
+fetched_at: "2026-07-28T23:40:26.641586+00:00"
 content_hash: "sha256:2b081ee492e3cb232afb42a3db288360988ec191a3a7078a8573f3dd43760676"
 ---
 

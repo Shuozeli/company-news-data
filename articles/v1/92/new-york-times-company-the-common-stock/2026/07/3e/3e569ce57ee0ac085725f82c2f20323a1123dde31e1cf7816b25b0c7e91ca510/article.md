@@ -7,7 +7,7 @@ source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/us/politics/senators-russia-sanctions-bill-graham.html"
 published_at: "2026-07-28T20:24:26+00:00"
 first_seen_at: "2026-07-28T21:10:05.886882+00:00"
-fetched_at: "2026-07-28T21:10:05.836012+00:00"
+fetched_at: "2026-07-28T23:55:50.378040+00:00"
 content_hash: "sha256:7ee11ccf17e971bd2c7a5f59ed49d4f996e2676be853fb4653530e8f1a6b2afc"
 ---
 

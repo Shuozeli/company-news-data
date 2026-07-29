@@ -7,7 +7,7 @@ source_id: "yc-inspectmind-ai-rss-7125fafcc8d8"
 canonical_url: "https://www.inspectmind.ai/project-types/water-wastewater"
 published_at: "2026-01-01T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:20.200105+00:00"
-fetched_at: "2026-07-28T20:11:37.923069+00:00"
+fetched_at: "2026-07-28T22:52:50.159667+00:00"
 content_hash: "sha256:ec5cfb71e0fce7187819a470f60084c68a68da19b45df16498c441d77c093917"
 ---
 

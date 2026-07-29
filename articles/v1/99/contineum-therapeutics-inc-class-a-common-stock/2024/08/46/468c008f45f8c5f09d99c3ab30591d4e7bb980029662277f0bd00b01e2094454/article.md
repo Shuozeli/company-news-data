@@ -7,7 +7,7 @@ source_id: "contineum-therapeutics-inc-class-a-common-stock-rss-954367339e87"
 canonical_url: "https://contineum-tx.com/publications/lysophosphatidic-acid-receptor-subtype-1-antagonist-pipe-791-reduces-neuropathic-pain-in-macaques/"
 published_at: "2024-08-12T15:00:38+00:00"
 first_seen_at: "2026-07-25T03:15:09.445652+00:00"
-fetched_at: "2026-07-28T20:33:36.300163+00:00"
+fetched_at: "2026-07-28T23:18:11.580766+00:00"
 content_hash: "sha256:d81e0a80fd0dd4cb7a5afb5634c480ba05802722419d7327084fdd8e13187278"
 ---
 

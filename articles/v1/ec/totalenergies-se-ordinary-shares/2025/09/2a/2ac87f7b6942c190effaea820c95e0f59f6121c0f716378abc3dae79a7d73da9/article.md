@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-va-piloter-le-plus-grand-projet-deolien-en-mer-en-france-au-large-du-calvados/"
 published_at: "2025-09-25T13:46:35+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:daa9c0832be603efeabf1dcc12d28012e4a2a0767a010d9cca5ab072b519f4e3"
 ---
 

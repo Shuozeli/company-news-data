@@ -7,7 +7,7 @@ source_id: "united-natural-foods-inc-common-stock-rss-7d5e5ecbd94c"
 canonical_url: "https://ir.unfi.com/news/press-release-details/2026/United-Natural-Foods-to-Participate-at-the-38th-Annual-Roth-Conference/default.aspx"
 published_at: "2026-03-13T11:00:00+00:00"
 first_seen_at: "2026-07-26T03:43:56.051608+00:00"
-fetched_at: "2026-07-28T22:12:05.646302+00:00"
+fetched_at: "2026-07-29T00:50:21.116672+00:00"
 content_hash: "sha256:4ab7deda139342f17750a489197a416295a6a5e98b1b91c28e7d173780eafefb"
 ---
 

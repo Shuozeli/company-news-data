@@ -7,7 +7,7 @@ source_id: "tenet-healthcare-corporation-common-stock-rss-40cdf8ca7df2"
 canonical_url: "https://investor.tenethealth.com/press-releases/press-release-details/2026/Tenet-Reports-Strong-Fourth-Quarter-and-FY-2025-Results-Provides-2026-Financial-Outlook/default.aspx"
 published_at: "2026-02-11T11:45:00+00:00"
 first_seen_at: "2026-07-26T01:51:00.671470+00:00"
-fetched_at: "2026-07-28T20:48:14.725963+00:00"
+fetched_at: "2026-07-28T23:33:42.012857+00:00"
 content_hash: "sha256:69ba0dad75c0f8fe2dced9240b7d65368b3dda89e2379829289a182d1e6a3584"
 ---
 

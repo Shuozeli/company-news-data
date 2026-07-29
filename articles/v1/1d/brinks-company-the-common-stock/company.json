@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1d/brinks-company-the-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13422,
+        "sha256": "sha256:61f97b370d0867833c765cf4e2f6a83d09f166c72e4eb86d21539bbdf9ccc009",
+        "newest_at": "2026-07-15T11:00:27+00:00",
+        "oldest_at": "2026-02-16T13:00:27+00:00"
+      }
+    ]
+  }
 }

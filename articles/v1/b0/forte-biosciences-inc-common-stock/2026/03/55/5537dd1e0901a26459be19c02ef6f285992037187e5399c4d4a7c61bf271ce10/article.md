@@ -7,7 +7,7 @@ source_id: "forte-biosciences-inc-common-stock-rss-ecb02a61bf8b"
 canonical_url: "https://www.fortebiorx.com/investor-relations/news/news-details/2026/Forte-Biosciences-Inc--Reports-Inducement-Grants-Under-NASDAQ-Listing-Rules/default.aspx"
 published_at: "2026-03-04T21:01:00+00:00"
 first_seen_at: "2026-07-25T05:32:08.733879+00:00"
-fetched_at: "2026-07-28T20:28:05.702671+00:00"
+fetched_at: "2026-07-28T23:13:51.121139+00:00"
 content_hash: "sha256:750a16f94b9ea5c289c071e1abe3a229f064daeccfc23ca7c342cc8d453eaf60"
 ---
 

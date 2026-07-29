@@ -7,7 +7,7 @@ source_id: "essent-group-ltd-common-shares-rss-73b1762c5152"
 canonical_url: "https://www.essent.us/documents/underwriting-manual-august-2024"
 published_at: "2025-11-17T18:36:39+00:00"
 first_seen_at: "2026-07-25T03:08:43.110347+00:00"
-fetched_at: "2026-07-28T20:24:25.857193+00:00"
+fetched_at: "2026-07-28T23:09:05.620698+00:00"
 content_hash: "sha256:95c152f2f69e05ac6a879b8b1815cff2ba0981955625f24b252aa066d230c9fa"
 ---
 

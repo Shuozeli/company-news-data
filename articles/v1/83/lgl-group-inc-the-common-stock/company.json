@@ -16,5 +16,22 @@
       "partition": "2018-12",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/83/lgl-group-inc-the-common-stock/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 3425,
+        "sha256": "sha256:d25079b933af41cbf9f0cd06032d50add8dcdde19adf2d469b34cdb1e2679aad",
+        "newest_at": "2018-12-18T19:42:31+00:00",
+        "oldest_at": "2017-11-14T15:29:08+00:00"
+      }
+    ]
+  }
 }

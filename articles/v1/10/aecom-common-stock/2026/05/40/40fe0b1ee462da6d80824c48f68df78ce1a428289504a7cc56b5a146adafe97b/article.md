@@ -7,7 +7,7 @@ source_id: "aecom-common-stock-rss-06e0000d390a"
 canonical_url: "https://aecom.com/blog/digital-cities-in-action-meet-joy-hong/"
 published_at: "2026-05-18T22:32:38+00:00"
 first_seen_at: "2026-07-25T01:09:37.919036+00:00"
-fetched_at: "2026-07-28T19:57:36.262733+00:00"
+fetched_at: "2026-07-28T23:46:17.625245+00:00"
 content_hash: "sha256:6de4d3b4b9a806fb1c79dc521e49a3c6b52d30ece1e1b986c41ff482f3811f3b"
 ---
 

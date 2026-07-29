@@ -7,7 +7,7 @@ source_id: "alamos-gold-inc-class-a-common-shares-rss-a428a607f0e2"
 canonical_url: "https://www.alamosgold.com/news-and-events/news/news-details/2026/Alamos-Gold-Provides-Notice-of-Second-Quarter-2026-Results-and-Conference-Call/default.aspx"
 published_at: "2026-06-30T20:30:00+00:00"
 first_seen_at: "2026-07-26T22:04:11.568996+00:00"
-fetched_at: "2026-07-28T20:45:02.448684+00:00"
+fetched_at: "2026-07-28T23:27:48.699918+00:00"
 content_hash: "sha256:50b5b5e2699156edc798d6146aac27ebaf6e277dcaea4df77923d3a64c024df0"
 ---
 

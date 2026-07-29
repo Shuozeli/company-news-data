@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2024/digi-joins-t-mobile-plus-channel-subsidy-program"
 published_at: "2024-10-16T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:e82036d6dd6b7ab848a991304185a494c9d8c96b288e69ac92b9d465342caffb"
 ---
 

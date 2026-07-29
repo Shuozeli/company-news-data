@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2019/excelsior-crossings-new-digi-headquarters"
 published_at: "2019-01-21T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:4c812af5960703e214478a096687cc0d5ebd19a105d1de6cf38bdd13ab9843d6"
 ---
 

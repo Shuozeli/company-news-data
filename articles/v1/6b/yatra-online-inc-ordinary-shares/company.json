@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6b/yatra-online-inc-ordinary-shares/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 9899,
+        "sha256": "sha256:019246648d3fb643fd5d0e1e4624029cab33e686e7e5c2d41c3f458599cc313b",
+        "newest_at": "2026-07-01T13:25:00+00:00",
+        "oldest_at": "2025-08-26T20:30:00+00:00"
+      }
+    ]
+  }
 }

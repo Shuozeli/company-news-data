@@ -7,7 +7,7 @@ source_id: "designer-brands-inc-class-a-common-stock-rss-9d7843457500"
 canonical_url: "https://investors.designerbrands.com/2026-03-12-Designer-Brands-Inc-Announces-Fourth-Quarter-and-Full-Year-2025-Earnings-Release-Date"
 published_at: "2026-03-12T10:45:00+00:00"
 first_seen_at: "2026-07-20T23:18:52.596127+00:00"
-fetched_at: "2026-07-28T21:41:06.913257+00:00"
+fetched_at: "2026-07-29T00:14:55.439254+00:00"
 content_hash: "sha256:255a96753f2d90a665a6da8bc36d4b2854be534d65484d57f556eca053e652b2"
 ---
 

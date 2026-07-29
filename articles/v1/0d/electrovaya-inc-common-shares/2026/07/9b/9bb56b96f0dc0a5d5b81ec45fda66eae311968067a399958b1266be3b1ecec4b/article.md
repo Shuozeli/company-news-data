@@ -7,7 +7,7 @@ source_id: "electrovaya-inc-common-shares-rss-9d2ff1dd1d30"
 canonical_url: "https://electrovaya.com/electrovaya-stock-surges-50-on-amazon-commercial-deal/"
 published_at: "2026-07-15T13:00:00+00:00"
 first_seen_at: "2026-07-28T14:56:56.771842+00:00"
-fetched_at: "2026-07-28T20:43:50.396682+00:00"
+fetched_at: "2026-07-28T23:29:25.489839+00:00"
 content_hash: "sha256:a7677653d0fa16281373d9ecefc93fdea42f0479194c678ba8d70651940c18d6"
 ---
 

@@ -7,7 +7,7 @@ source_id: "aecom-common-stock-rss-06e0000d390a"
 canonical_url: "https://aecom.com/blog/this-is-my-nyc-building-up-the-city-that-built-me/"
 published_at: "2026-05-04T13:35:05+00:00"
 first_seen_at: "2026-07-25T01:09:37.919036+00:00"
-fetched_at: "2026-07-28T19:57:36.262733+00:00"
+fetched_at: "2026-07-28T23:46:17.625245+00:00"
 content_hash: "sha256:fb3f22fb02951623496102954efe24615ade8db7002ac716b81eb7fb079b5237"
 ---
 

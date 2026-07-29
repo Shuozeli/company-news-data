@@ -40,5 +40,22 @@
       "partition": "2026-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f3/electromed-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 17036,
+        "sha256": "sha256:6af9870b48ab482e6ff701eaa14cff0c6828447d8097feb8c8f1871b722faf86",
+        "newest_at": "2026-05-12T20:05:00+00:00",
+        "oldest_at": "2025-08-12T20:05:00+00:00"
+      }
+    ]
+  }
 }

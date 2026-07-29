@@ -204,5 +204,40 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/98/above-food-ingredients-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 64057,
+        "sha256": "sha256:d8a26278a91269ead99cae5119edf26ad6ff6990d438435cb5f1627ac15d6e26",
+        "newest_at": "2026-07-17T17:40:35+00:00",
+        "oldest_at": "2023-05-04T16:18:42+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/98/above-food-ingredients-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 64548,
+        "sha256": "sha256:a88657be0176403e1188e4dbfbac3460252458c652fde05d11e2c8210b564734",
+        "newest_at": "2023-05-04T16:10:46+00:00",
+        "oldest_at": "2021-05-02T23:35:49+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/98/above-food-ingredients-inc-common-stock/index/pages/000003.json",
+        "record_count": 11,
+        "byte_count": 12623,
+        "sha256": "sha256:293d3ec6df178ce4433ddac6e48089dfea5a99b883849c9539f076ae397230f7",
+        "newest_at": "2021-04-27T20:13:03+00:00",
+        "oldest_at": "2020-10-01T20:08:50+00:00"
+      }
+    ]
+  }
 }

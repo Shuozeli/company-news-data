@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/announcing-mentraos-2-0-and-our-8m-raise"
 published_at: "2025-07-06T23:00:37+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T19:58:18.617561+00:00"
+fetched_at: "2026-07-28T23:47:18.716244+00:00"
 content_hash: "sha256:1bc49a8881b50d20917f46267dc25481bf8dae05e7dcb130cc7775e208f58082"
 ---
 

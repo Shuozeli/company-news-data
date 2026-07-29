@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/rdp-security-don-t-leave-remote-access-wide-open"
 published_at: "2024-05-15T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:f0c6af1471df560b7f9f02fa6b7b8fd2aa26794d53c270001b6a5fd0afa08759"
 ---
 

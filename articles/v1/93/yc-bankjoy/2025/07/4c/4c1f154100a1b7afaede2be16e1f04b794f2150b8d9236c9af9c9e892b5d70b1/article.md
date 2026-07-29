@@ -7,7 +7,7 @@ source_id: "yc-bankjoy-rss-acabb700cdf2"
 canonical_url: "https://www.bankjoy.com/blog/webinar-replay-introducing-joycompass-helping-your-members-master-their-personal-finances"
 published_at: "2025-07-02T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:23:35.072236+00:00"
-fetched_at: "2026-07-28T21:09:42.140450+00:00"
+fetched_at: "2026-07-28T23:55:32.181695+00:00"
 content_hash: "sha256:0b60791e43fb3de3b7687f7e53eeb9c6143b5036a5197577a07716936cba6120"
 ---
 

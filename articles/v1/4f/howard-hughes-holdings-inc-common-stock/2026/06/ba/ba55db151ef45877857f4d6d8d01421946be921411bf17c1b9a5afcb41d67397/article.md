@@ -7,7 +7,7 @@ source_id: "howard-hughes-holdings-inc-common-stock-rss-4e88654bb052"
 canonical_url: "https://communities.howardhughes.com/news/the-park-ward-village-opens/"
 published_at: "2026-06-03T15:31:24+00:00"
 first_seen_at: "2026-07-24T09:07:31.143725+00:00"
-fetched_at: "2026-07-28T21:03:05.935054+00:00"
+fetched_at: "2026-07-28T23:49:42.315584+00:00"
 content_hash: "sha256:ca9cb331d120b61bdb657c7ebb1382d1c4c3379abd9021aad071c0a40b7447ad"
 ---
 

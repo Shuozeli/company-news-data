@@ -7,7 +7,7 @@ source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/vivaldi/"
 published_at: "2026-07-17T22:56:33+00:00"
 first_seen_at: "2026-07-25T16:20:56.315803+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
 content_hash: "sha256:687c7a7fc765cb9c9ca0a7541061b360f542a8756ff7b4284332da9fc5404a47"
 ---
 

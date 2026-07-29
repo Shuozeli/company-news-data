@@ -7,7 +7,7 @@ source_id: "lite-strategy-inc-common-stock-rss-2606cd5303da"
 canonical_url: "https://litestrategy.com/litecoin-creator-on-state-of-crypto-the-lite-strategy-dat-etfs-and-institutional-adoption-in-2026/"
 published_at: "2026-02-11T13:02:09+00:00"
 first_seen_at: "2026-07-26T17:13:39.100722+00:00"
-fetched_at: "2026-07-28T21:37:40.358089+00:00"
+fetched_at: "2026-07-29T00:12:39.739773+00:00"
 content_hash: "sha256:55c25e73c67d027c871c01e1ddebadca1303f6eb7d2e030c3fba93e258185e07"
 ---
 

@@ -7,7 +7,7 @@ source_id: "landbridge-company-llc-class-a-shares-representing-limited-liability
 canonical_url: "https://www.landbridgeco.com/investor-relations/news/news-details/2026/LandBridge-Forms-Special-Committee-to-Evaluate-Potential-Corporate-Conversion/default.aspx"
 published_at: "2026-06-15T12:30:00+00:00"
 first_seen_at: "2026-07-27T03:23:48.905229+00:00"
-fetched_at: "2026-07-28T21:14:29.328063+00:00"
+fetched_at: "2026-07-29T00:01:40.594581+00:00"
 content_hash: "sha256:576d2fc65b19d3682c28101ea0605dffa522124f909e6139a936faded0590e80"
 ---
 

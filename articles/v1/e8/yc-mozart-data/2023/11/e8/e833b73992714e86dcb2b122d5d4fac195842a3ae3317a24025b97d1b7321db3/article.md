@@ -7,7 +7,7 @@ source_id: "yc-mozart-data-rss-80d5f072b9ee"
 canonical_url: "https://mozartdata.com/joining-the-saas-world/"
 published_at: "2023-11-02T21:55:26+00:00"
 first_seen_at: "2026-07-24T11:43:21.667443+00:00"
-fetched_at: "2026-07-28T20:15:01.691737+00:00"
+fetched_at: "2026-07-28T22:58:23.502461+00:00"
 content_hash: "sha256:5d90c7a41b162d2d19b9dd30a361486ef330acdb7a46101901ed3808390e84bc"
 ---
 

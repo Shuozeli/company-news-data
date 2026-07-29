@@ -7,7 +7,7 @@ source_id: "cohen-company-inc-rss-b12cf9ad3a83"
 canonical_url: "https://cohenandcompany.com/2026/06/26/elroy-air-to-become-publicly-traded-company-via-business-combination-with-inflection-point-led-spac/"
 published_at: "2026-06-26T17:03:19+00:00"
 first_seen_at: "2026-07-24T22:53:38.296871+00:00"
-fetched_at: "2026-07-28T21:47:22.771077+00:00"
+fetched_at: "2026-07-29T00:18:20.497479+00:00"
 content_hash: "sha256:542de5282ddc7f3ac8397d4fc7a2ae164f4ee87912b74af9a72426120ed0bd27"
 ---
 

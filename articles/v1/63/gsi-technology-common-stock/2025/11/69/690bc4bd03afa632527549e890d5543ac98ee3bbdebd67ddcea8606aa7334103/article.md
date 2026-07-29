@@ -7,7 +7,7 @@ source_id: "gsi-technology-common-stock-rss-21eb7f8c73cb"
 canonical_url: "https://gsitechnology.com/revolutionizing-drones-with-gemini-apu/"
 published_at: "2025-11-13T17:02:36+00:00"
 first_seen_at: "2026-07-20T23:18:39.889524+00:00"
-fetched_at: "2026-07-28T19:48:22.757692+00:00"
+fetched_at: "2026-07-28T23:26:28.737573+00:00"
 content_hash: "sha256:fd2401b23049542e3f04aa0e4ff54ecc917104ab8044c2a4a011894b295340e6"
 ---
 

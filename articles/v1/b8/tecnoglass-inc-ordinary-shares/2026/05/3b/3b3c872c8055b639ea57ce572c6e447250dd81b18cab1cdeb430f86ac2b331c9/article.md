@@ -7,7 +7,7 @@ source_id: "tecnoglass-inc-ordinary-shares-rss-28fda9a14db9"
 canonical_url: "https://investors.tecnoglass.com/Press-Releases/news-details/2026/Tecnoglass-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-07T11:00:00+00:00"
 first_seen_at: "2026-07-26T07:49:24.047986+00:00"
-fetched_at: "2026-07-28T20:29:19.294664+00:00"
+fetched_at: "2026-07-28T23:15:33.541197+00:00"
 content_hash: "sha256:7a3dea5f20558e8fb13b2dc6a7ecfd2b466eb2f62648079b3b283c82b281dee1"
 ---
 

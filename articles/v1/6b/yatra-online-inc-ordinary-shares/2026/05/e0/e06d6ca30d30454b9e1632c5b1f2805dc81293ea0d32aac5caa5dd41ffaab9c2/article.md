@@ -7,7 +7,7 @@ source_id: "yatra-online-inc-ordinary-shares-rss-e8f187711a66"
 canonical_url: "https://investors.yatra.com/press-releases/press-release-details/2026/Yatra-Online-Inc--Announces-Results-for-the-Three-Months-and-Year-Ended-March-31-2026/default.aspx"
 published_at: "2026-05-23T01:35:00+00:00"
 first_seen_at: "2026-07-26T06:10:56.529491+00:00"
-fetched_at: "2026-07-28T20:28:31.465429+00:00"
+fetched_at: "2026-07-28T23:14:55.559505+00:00"
 content_hash: "sha256:9ce1221a189e7374f6dda1f88b40c65aa900c81d7e2e5421b377a8e06f0b2d77"
 ---
 

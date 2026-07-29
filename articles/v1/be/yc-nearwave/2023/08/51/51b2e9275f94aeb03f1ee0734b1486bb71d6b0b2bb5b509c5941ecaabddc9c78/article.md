@@ -7,7 +7,7 @@ source_id: "yc-nearwave-rss-9f4746cd284c"
 canonical_url: "https://nearwave.co/nearwave-wins-pitchforce-competition/"
 published_at: "2023-08-23T15:55:00+00:00"
 first_seen_at: "2026-07-24T12:13:22.796027+00:00"
-fetched_at: "2026-07-28T20:52:45.210369+00:00"
+fetched_at: "2026-07-28T23:38:34.703310+00:00"
 content_hash: "sha256:4eeb81ccd9dcc3dd6a62753b091de84ff7d3be2b74140bb44ad1cab9d4194d6e"
 ---
 

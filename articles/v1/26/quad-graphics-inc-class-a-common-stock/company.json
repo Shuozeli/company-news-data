@@ -4,9 +4,9 @@
     "key": "quad-graphics-inc-class-a-common-stock",
     "name": "Quad Graphics Inc Class A Common Stock"
   },
-  "record_count": 78,
+  "record_count": 80,
   "first_published_at": "2025-05-23T19:17:11+00:00",
-  "last_published_at": "2026-07-21T11:30:34+00:00",
+  "last_published_at": "2026-07-29T00:03:09+00:00",
   "partitions": [
     {
       "partition": "2025-05",
@@ -66,7 +66,33 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/26/quad-graphics-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 57646,
+        "sha256": "sha256:ca8f8139373a47d84506f8fdb10bfdce9d1d881da184be49715677ff2be3bb01",
+        "newest_at": "2026-07-29T00:03:09+00:00",
+        "oldest_at": "2026-02-17T21:31:26+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/26/quad-graphics-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 30,
+        "byte_count": 34991,
+        "sha256": "sha256:937588d632cc74f2bbc102747e183ac71decddc039b40359663c4481fe8e09d1",
+        "newest_at": "2026-02-17T21:16:03+00:00",
+        "oldest_at": "2025-05-23T19:17:11+00:00"
+      }
+    ]
+  }
 }

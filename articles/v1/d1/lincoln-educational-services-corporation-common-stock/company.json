@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d1/lincoln-educational-services-corporation-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 14545,
+        "sha256": "sha256:b368c072c4a583cad7aec639c3e14b5db7530995a26c2b13b53f4884e16b482d",
+        "newest_at": "2026-07-27T13:34:32+00:00",
+        "oldest_at": "2023-04-18T16:41:55+00:00"
+      }
+    ]
+  }
 }

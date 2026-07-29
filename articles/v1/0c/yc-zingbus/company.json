@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 22
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0c/yc-zingbus/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 22664,
+        "sha256": "sha256:f15998311b5ff53803094fd768bfcb166083abb9c2f2456640d9b70426f1a5d3",
+        "newest_at": "2026-07-28T13:41:45+00:00",
+        "oldest_at": "2026-07-16T09:34:48+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "pricesmart-inc-common-stock-rss-d7930a44b67e"
 canonical_url: "https://investors.pricesmart.com/news/news-details/2026/PRICESMART-ANNOUNCES-FISCAL-2026-SECOND-QUARTER-OPERATING-RESULTS-AND-PLANS-FOR-EIGHTH-CLUB-IN-GUATEMALA/default.aspx"
 published_at: "2026-04-08T20:01:00+00:00"
 first_seen_at: "2026-07-25T19:47:12.681120+00:00"
-fetched_at: "2026-07-28T20:19:35.146148+00:00"
+fetched_at: "2026-07-28T23:03:42.269374+00:00"
 content_hash: "sha256:50f87e275d16370df6572853ccde210db826198b1e6f1a562f337bc43b7b0cf2"
 ---
 

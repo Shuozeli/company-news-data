@@ -7,7 +7,7 @@ source_id: "ericsson-american-depositary-shares-atom-93f46de34b40"
 canonical_url: "https://www.ericsson.com/en/blog/2026/7/agentic-ai-trust-layer-telcos-trusted-orchestrators"
 published_at: "2026-07-01T09:35:50+00:00"
 first_seen_at: "2026-07-25T01:08:03.792576+00:00"
-fetched_at: "2026-07-28T20:54:55.951080+00:00"
+fetched_at: "2026-07-28T23:40:54.246754+00:00"
 content_hash: "sha256:66c89cd77772e3eac30c1a240acabdf12190f90990c170847bbf1daf1b88c29d"
 ---
 

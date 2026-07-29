@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/iot-in-mining"
 published_at: "2026-02-06T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:a4cb32ec9eaa0254355d9944fc309b244e9370ae87dd4547e6505b429e915ad2"
 ---
 

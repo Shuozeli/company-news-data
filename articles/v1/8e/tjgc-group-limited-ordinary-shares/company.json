@@ -16,5 +16,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8e/tjgc-group-limited-ordinary-shares/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2513,
+        "sha256": "sha256:ec6b3a677bf827bbca48693083fcdd3ca228f9be59d70795400a389d4b09504c",
+        "newest_at": "2026-06-03T13:22:00+00:00",
+        "oldest_at": "2026-03-30T14:11:15+00:00"
+      }
+    ]
+  }
 }

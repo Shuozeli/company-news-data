@@ -7,7 +7,7 @@ source_id: "maravai-lifesciences-holdings-inc-class-a-common-stock-rss-a091ffc9d
 canonical_url: "https://www.maravai.com/insights/trilink-biotechnologies-collaborates-with-johns-hopkins-university-to-establish-a-new-rna-innovation-center/"
 published_at: "2024-05-14T17:32:43+00:00"
 first_seen_at: "2026-07-25T01:12:23.653842+00:00"
-fetched_at: "2026-07-28T22:05:21.856225+00:00"
+fetched_at: "2026-07-29T00:43:13.628606+00:00"
 content_hash: "sha256:530e082e86f081b5a7020b22c985f0f03736f64c2511a88afc2fad7dc9443124"
 ---
 

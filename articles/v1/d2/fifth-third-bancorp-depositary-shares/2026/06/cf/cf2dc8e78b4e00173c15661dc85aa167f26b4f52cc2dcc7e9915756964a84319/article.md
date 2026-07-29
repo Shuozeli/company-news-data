@@ -7,7 +7,7 @@ source_id: "fifth-third-bancorp-depositary-shares-rss-48a52068557c"
 canonical_url: "https://ir.53.com/news/news-details/2026/Fifth-Third-Launches-AI-Powered-Interface-in-Mobile-App/default.aspx"
 published_at: "2026-06-17T12:00:00+00:00"
 first_seen_at: "2026-07-25T04:30:59.094438+00:00"
-fetched_at: "2026-07-28T20:27:37.407784+00:00"
+fetched_at: "2026-07-28T23:14:18.720884+00:00"
 content_hash: "sha256:1869259b3be6f1d2ff8f3203faff37257bbd7fa73e527a8202136a12f9b89d61"
 ---
 

@@ -7,7 +7,7 @@ source_id: "argan-inc-common-stock-rss-04f1fea248dc"
 canonical_url: "https://arganinc.com/news/argan-inc-to-announce-third-quarter-fiscal-2026-results-and-host-conference-call-on-thursday-december-4-2025/"
 published_at: "2025-11-20T14:05:58+00:00"
 first_seen_at: "2026-07-20T03:31:21.385236+00:00"
-fetched_at: "2026-07-28T20:22:00.144270+00:00"
+fetched_at: "2026-07-28T23:05:16.878471+00:00"
 content_hash: "sha256:c0fa54bea12b8eecf08904e2b892f7070686a0eb764130527dea561c194858ab"
 ---
 

@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/what-100-million-paywall-views-taught-us-about-user-intent"
-published_at: "2026-02-19T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:c3fb9cd11563e5696a826a4d0d11c5d25d1312e2f456c48dd2f467f655bab0e7"

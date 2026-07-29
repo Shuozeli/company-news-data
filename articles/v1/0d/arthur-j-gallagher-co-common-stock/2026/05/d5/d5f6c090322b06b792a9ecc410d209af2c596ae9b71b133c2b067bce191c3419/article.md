@@ -7,7 +7,7 @@ source_id: "arthur-j-gallagher-co-common-stock-rss-4a6c70b51a08"
 canonical_url: "https://investor.ajg.com/news/news-details/2026/Arthur-J--Gallagher--Co--Acquires-Twin-Elms-LLC/default.aspx"
 published_at: "2026-05-26T13:00:00+00:00"
 first_seen_at: "2026-07-26T22:52:16.037730+00:00"
-fetched_at: "2026-07-28T21:48:48.005355+00:00"
+fetched_at: "2026-07-29T00:30:09.662219+00:00"
 content_hash: "sha256:1750cca5b4ff55ad4f56fd2a3bdd6a94f06271c0eb7659a922fb015594f84ca0"
 ---
 

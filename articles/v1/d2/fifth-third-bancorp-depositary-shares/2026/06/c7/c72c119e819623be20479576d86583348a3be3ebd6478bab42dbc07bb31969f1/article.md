@@ -7,7 +7,7 @@ source_id: "fifth-third-bancorp-depositary-shares-rss-48a52068557c"
 canonical_url: "https://ir.53.com/news/news-details/2026/Fifth-Third-Bank-Celebrates-168-Years-of-Innovation-and-Service-as-America-Approaches-250th-Birthday/default.aspx"
 published_at: "2026-06-15T12:00:00+00:00"
 first_seen_at: "2026-07-25T04:30:59.094438+00:00"
-fetched_at: "2026-07-28T20:27:37.407784+00:00"
+fetched_at: "2026-07-28T23:14:18.720884+00:00"
 content_hash: "sha256:09fef13b364a72e57f765738fbd6640ab4a167c1a1694e3b8ccdb61f5735ddee"
 ---
 

@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/introducing-lickability-superwalls-latest-implementation-partner"
-published_at: "2024-02-28T00:43:55.611+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:66e43d19795d0e3efda269709d7015aea197fc9f7c0c2be4cff9a96028e5e9ef"

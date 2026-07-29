@@ -7,7 +7,7 @@ source_id: "exozymes-inc-common-stock-rss-741f122b5abb"
 canonical_url: "https://exozymes.com/blog/grant-cannabinoid-analogs"
 published_at: "2026-06-24T20:07:19+00:00"
 first_seen_at: "2026-07-25T03:51:33.698656+00:00"
-fetched_at: "2026-07-28T21:36:10.174637+00:00"
+fetched_at: "2026-07-29T00:27:19.021608+00:00"
 content_hash: "sha256:1e42f11abf113bfe2f9a998a6dfc6ee6ab188a871353890f83457fec9c207082"
 ---
 

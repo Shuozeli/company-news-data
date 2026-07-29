@@ -7,7 +7,7 @@ source_id: "danaher-corporation-common-stock-rss-baeab7bd386b"
 canonical_url: "https://investors.danaher.com/2025-12-09-Danaher-Announces-Quarterly-Dividend"
 published_at: "2025-12-09T21:15:00+00:00"
 first_seen_at: "2026-07-20T03:32:45.140623+00:00"
-fetched_at: "2026-07-28T20:49:16.354019+00:00"
+fetched_at: "2026-07-28T23:34:39.620039+00:00"
 content_hash: "sha256:e2406a77633af651aa2ae732e747706d01166c8b991f72c881f15675ccf2c677"
 ---
 

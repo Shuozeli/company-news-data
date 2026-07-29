@@ -7,7 +7,7 @@ source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/chrome/"
 published_at: "2026-07-15T16:52:33+00:00"
 first_seen_at: "2026-07-25T16:20:56.315803+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
 content_hash: "sha256:9269bea8b9fce48c91f23ed6fda241d8d298cdf2beb7de4bc451ee5af7dda8dd"
 ---
 

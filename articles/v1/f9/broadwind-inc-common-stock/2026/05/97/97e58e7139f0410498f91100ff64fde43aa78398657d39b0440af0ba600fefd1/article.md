@@ -7,7 +7,7 @@ source_id: "broadwind-inc-common-stock-rss-eded55d2a731"
 canonical_url: "https://investors.bwen.com/investor-news/investor-news-details/2026/Broadwind-Announces-Strategic-Exit-From-Wind-Market-With-Sale-of-Abilene-Facility-Pivots-to-Become-Pure-Play-Precision-Manufacturer-Supporting-Power-Generation-and-Critical-Infrastructure-Markets-and-Withdraws-2026-Financial-Guidance/default.aspx"
 published_at: "2026-05-05T22:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:56.675955+00:00"
-fetched_at: "2026-07-28T19:49:09.436573+00:00"
+fetched_at: "2026-07-28T23:31:51.745295+00:00"
 content_hash: "sha256:70cdfd0c6d825cad51255c46c09eeafda557f0381d4fd400c66da98aa79ef6fd"
 ---
 

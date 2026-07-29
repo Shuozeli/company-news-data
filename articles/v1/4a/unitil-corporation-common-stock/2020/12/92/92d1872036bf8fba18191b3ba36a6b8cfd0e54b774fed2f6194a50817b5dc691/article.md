@@ -7,8 +7,8 @@ source_id: "unitil-corporation-common-stock-rss-b52a37baddee"
 canonical_url: "https://unitil.com/for-businesses"
 published_at: "2020-12-15T15:12:57+00:00"
 first_seen_at: "2026-07-20T23:22:29.081518+00:00"
-fetched_at: "2026-07-28T20:24:50.973699+00:00"
-content_hash: "sha256:9feab929b138b28882ebf6c38ba965dac66b75433e750c72c11eadaad79ccd81"
+fetched_at: "2026-07-28T23:09:53.129731+00:00"
+content_hash: "sha256:a5ff657bf5c38ea36c1058e0c87a29e010cd9bb16c6c8183fc0f2070b60f6865"
 ---
 
 # For Businesses
@@ -70,13 +70,13 @@ Take control of your energy usage.
 Business success starts by managing your bottom line. Take control of your energy usage and find ways to cut your monthly expenses.
 
 
+[3 Ways to Make Your Business More Energy Efficient](https://unitil.com/blog/3-ways-make-your-business-more-energy-efficient)
+
+
+[Harnessing the Power of the Sun for Your Business](https://unitil.com/blog/harnessing-power-sun-your-business)
+
+
 [4 Easy Ways Your Business Can Go Green](https://unitil.com/blog/4-easy-ways-your-business-can-go-green)
-
-
-[7 Low-Cost Efficiency Improvements for Landlords](https://unitil.com/blog/7-low-cost-efficiency-improvements-landlords)
-
-
-[Should Your Business Make the Switch to Natural Gas? Q&A](https://unitil.com/blog/should-your-business-make-switch-natural-gas-qa)
 
 
 [Explore more savings tips for businesses →](https://unitil.com/blog/categories/businesses)

@@ -7,7 +7,7 @@ source_id: "anterix-inc-common-stock-rss-5ccc97b4bda7"
 canonical_url: "https://investors.anterix.com/news-releases/news-release-details/fcc-oks-anterix-lynk-global-testing-satellite-d2d-900-mhz"
 published_at: "2026-05-19T18:30:00+00:00"
 first_seen_at: "2026-07-26T09:22:22.313626+00:00"
-fetched_at: "2026-07-28T20:55:51.016576+00:00"
+fetched_at: "2026-07-28T23:41:44.309473+00:00"
 content_hash: "sha256:7d8364985a610a761aa11137dc987fd34e5622b9c3c228f9695c8b45326398c3"
 ---
 

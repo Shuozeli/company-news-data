@@ -7,7 +7,7 @@ source_id: "kaltura-inc-common-stock-rss-8a80d100aa25"
 canonical_url: "https://medium.com/kaltura-tech/istio-rate-limit-hands-on-lab-part-1-4dccb9885e64"
 published_at: "2025-06-09T07:01:48+00:00"
 first_seen_at: "2026-07-20T23:18:51.911067+00:00"
-fetched_at: "2026-07-28T21:41:31.110106+00:00"
+fetched_at: "2026-07-29T00:14:54.746844+00:00"
 content_hash: "sha256:73f8df20e3bb76eaafd95890f1688cc3d02fb285cd1d310f4dd7a5d7dbd5a95c"
 ---
 

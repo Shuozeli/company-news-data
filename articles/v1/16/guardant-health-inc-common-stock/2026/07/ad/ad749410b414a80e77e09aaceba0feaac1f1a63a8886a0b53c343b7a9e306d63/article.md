@@ -7,7 +7,7 @@ source_id: "guardant-health-inc-common-stock-rss-fb6215599895"
 canonical_url: "https://guardanthealth.com/2026/07/02/more-than-50-million-americans-remain-unscreened-for-colon-cancer/"
 published_at: "2026-07-02T20:01:27+00:00"
 first_seen_at: "2026-07-20T23:21:46.463762+00:00"
-fetched_at: "2026-07-28T20:28:11.382227+00:00"
+fetched_at: "2026-07-28T23:14:42.692011+00:00"
 content_hash: "sha256:536cee8ad229204562686281a856621bdf08b5d6fbe125273988ac87a3f74773"
 ---
 

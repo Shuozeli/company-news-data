@@ -7,7 +7,7 @@ source_id: "jabil-inc-common-stock-rss-7d060940dc80"
 canonical_url: "https://investors.jabil.com/news/news-details/2026/Jabils-Third-Quarter-of-Fiscal-Year-2026-Earnings-Announcement-Set/default.aspx"
 published_at: "2026-06-03T12:30:00+00:00"
 first_seen_at: "2026-07-25T01:08:56.097172+00:00"
-fetched_at: "2026-07-28T21:51:11.564809+00:00"
+fetched_at: "2026-07-29T00:29:02.466380+00:00"
 content_hash: "sha256:ef303b02ff060bc45ec8b4238a5fc6a39db77ecc85b616f736d811d288b9ef2b"
 ---
 

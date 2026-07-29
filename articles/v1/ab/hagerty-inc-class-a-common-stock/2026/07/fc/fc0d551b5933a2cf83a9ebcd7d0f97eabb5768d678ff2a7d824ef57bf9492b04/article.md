@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/automotive-history/cab-forward-the-eagle-vision-and-the-story-of-chryslers-lh-cars/"
 published_at: "2026-07-28T19:00:00+00:00"
 first_seen_at: "2026-07-28T20:07:46.991490+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:2a9daebd73c1475c62ca1bc0404340ae1410171a7105a9c7e3b04402d7da1c60"
 ---
 

@@ -40,5 +40,22 @@
       "partition": "2022-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/de/yc-pahamify/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12778,
+        "sha256": "sha256:d949f80cd47d226fd4aff457d554549036a163d2710b8c7f4388834a274ac592",
+        "newest_at": "2022-07-04T08:04:03+00:00",
+        "oldest_at": "2020-01-20T10:20:44+00:00"
+      }
+    ]
+  }
 }

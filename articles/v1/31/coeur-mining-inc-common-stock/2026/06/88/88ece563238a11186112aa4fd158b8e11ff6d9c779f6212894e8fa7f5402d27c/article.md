@@ -7,7 +7,7 @@ source_id: "coeur-mining-inc-common-stock-rss-dbe2dacfa15c"
 canonical_url: "https://www.coeur.com/investors/news/news-details/2026/Coeur-Mining-to-Join-SP-MidCap-400-Index/default.aspx"
 published_at: "2026-06-08T20:30:00+00:00"
 first_seen_at: "2026-07-27T01:06:04.888811+00:00"
-fetched_at: "2026-07-28T22:11:16.133986+00:00"
+fetched_at: "2026-07-29T00:49:38.705008+00:00"
 content_hash: "sha256:5ba96e1a4494a8d621c844548a762ea7a6a32d09bc9763924047bdf4eefcf119"
 ---
 

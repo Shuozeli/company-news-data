@@ -7,7 +7,7 @@ source_id: "inspira-technologies-oxy-b-h-n-ltd-ordinary-shares-rss-7eae96d06492"
 canonical_url: "https://inspira-technologies.com/inspira-technologies-secures-fully-paid-390000-purchase-order-and-recurring-revenue-stream-from-premier-apac-university/"
 published_at: "2026-04-28T13:10:56+00:00"
 first_seen_at: "2026-07-25T09:33:30.249851+00:00"
-fetched_at: "2026-07-28T22:01:11.956483+00:00"
+fetched_at: "2026-07-29T00:39:29.265252+00:00"
 content_hash: "sha256:dbe3f844a01f483c46460852a0daef6f358b635264a579fd0bdd83c527b6340a"
 ---
 

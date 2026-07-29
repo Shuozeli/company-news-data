@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2009/Vanderbilt-Medical-Center-Selects-Omnicell-Point-of-Use-Supply-Systems/default.aspx"
 published_at: "2009-07-20T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T20:19:36.099870+00:00"
+fetched_at: "2026-07-28T23:03:29.570108+00:00"
 content_hash: "sha256:e53f998ee3905cc8df83416a0f0befc93ae3e588fbb5576de37f7f84669f6220"
 ---
 

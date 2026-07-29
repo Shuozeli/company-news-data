@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/bugatti-mistral-production-ends/"
 published_at: "2026-07-21T15:30:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:ee5d0cb20c20605fa2cd05df58497ddf9a11d2bbcb929bbd7e9636c71e6c68cb"
 ---
 

@@ -7,7 +7,7 @@ source_id: "teledyne-technologies-incorporated-common-stock-rss-9000605d05af"
 canonical_url: "https://blog.teledynelecroy.com/2023/01/inductively-coupled-noise-and.html"
 published_at: "2023-01-23T13:00:00+00:00"
 first_seen_at: "2026-07-20T04:36:13.437201+00:00"
-fetched_at: "2026-07-28T21:00:14.371602+00:00"
+fetched_at: "2026-07-28T23:46:25.634618+00:00"
 content_hash: "sha256:63589c7b0da6d17c3852ece65fb25cc5fb370c9608cf865ee3ebe2b225fc6755"
 ---
 

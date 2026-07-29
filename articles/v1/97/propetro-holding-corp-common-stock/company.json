@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/97/propetro-holding-corp-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12327,
+        "sha256": "sha256:851c92ade125d59bb884631daa53f03377f9ca50ab583f7f4cec7d258725c7f6",
+        "newest_at": "2026-07-14T20:30:00+00:00",
+        "oldest_at": "2026-01-26T21:06:00+00:00"
+      }
+    ]
+  }
 }

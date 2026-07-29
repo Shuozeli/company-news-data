@@ -7,7 +7,7 @@ source_id: "research-frontiers-incorporated-common-stock-rss-37dcf0263c02"
 canonical_url: "https://smartglass-ir.com/research-frontiers-spd-smartglass-automotive-presentation/"
 published_at: "2025-11-24T13:33:18+00:00"
 first_seen_at: "2026-07-24T13:19:44.365786+00:00"
-fetched_at: "2026-07-28T20:57:52.382276+00:00"
+fetched_at: "2026-07-28T23:43:52.462671+00:00"
 content_hash: "sha256:7176b44e60d0332c53b62fb6e2926dfbaf261f020d753829cc04050a968ad927"
 ---
 

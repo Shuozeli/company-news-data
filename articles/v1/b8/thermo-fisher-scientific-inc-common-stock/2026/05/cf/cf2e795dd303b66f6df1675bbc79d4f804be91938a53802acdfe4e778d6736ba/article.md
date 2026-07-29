@@ -7,7 +7,7 @@ source_id: "thermo-fisher-scientific-inc-common-stock-rss-99b15f07e3bd"
 canonical_url: "https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Announces-Quarterly-Dividend/default.aspx"
 published_at: "2026-05-20T21:00:00+00:00"
 first_seen_at: "2026-07-27T06:28:42.325319+00:00"
-fetched_at: "2026-07-28T19:35:42.020499+00:00"
+fetched_at: "2026-07-28T23:04:20.040597+00:00"
 content_hash: "sha256:6badffbc3811346e1b779ae401829db022d98ad37ca5133616bb27552a3e0899"
 ---
 

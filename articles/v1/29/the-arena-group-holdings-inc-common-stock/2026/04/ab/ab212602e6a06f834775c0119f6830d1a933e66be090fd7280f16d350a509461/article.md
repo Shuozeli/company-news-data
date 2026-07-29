@@ -7,7 +7,7 @@ source_id: "the-arena-group-holdings-inc-common-stock-rss-9ea05f6be366"
 canonical_url: "https://www.businesswire.com/news/home/20260424282101/en/The-Arena-Group-to-Host-First-Quarter-2026-Financial-Results-Conference-Call-on-Friday-May-8-2026"
 published_at: "2026-04-24T12:32:56+00:00"
 first_seen_at: "2026-07-24T03:49:58.062520+00:00"
-fetched_at: "2026-07-28T21:10:06.814748+00:00"
+fetched_at: "2026-07-28T23:55:45.666638+00:00"
 content_hash: "sha256:dc1863f22074f6a63741fcfcd3fa9aacf2b8b05ecfb92b13d7253c02f3e97248"
 ---
 

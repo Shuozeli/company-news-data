@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-selected-to-develop-frances-largest-renewable-energy-project/"
 published_at: "2025-09-24T10:07:51+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:09ea09e02e73495b7610242e175fe8c48aed011458b8c95a93d033de74cbb511"
 ---
 

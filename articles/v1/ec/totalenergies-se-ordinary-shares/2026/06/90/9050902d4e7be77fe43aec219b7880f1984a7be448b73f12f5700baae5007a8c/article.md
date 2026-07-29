@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-steps-ups-lpg-investment-in-clean-cooking-transition-push/"
 published_at: "2026-06-18T12:50:56+00:00"
 first_seen_at: "2026-07-28T14:11:12.114075+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:fd70fd997eba1010a530184b307f81d00984738a5a2826b38bb9a280a906dfcd"
 ---
 

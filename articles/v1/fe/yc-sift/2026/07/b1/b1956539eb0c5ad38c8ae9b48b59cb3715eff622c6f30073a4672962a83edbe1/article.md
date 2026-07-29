@@ -5,7 +5,7 @@ company_key: "yc-sift"
 company: "Sift"
 source_id: "yc-sift-rss-c48c6d88eecb"
 canonical_url: "https://sift.com/blog/how-to-detect-and-prevent-account-creation-fraud/"
-published_at: "2026-07-06T18:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:24:10.644571+00:00"
 fetched_at: "2026-07-28T20:34:24.680558+00:00"
 content_hash: "sha256:ca3d85d96decb94ff0bc82cd6acc4901930c0884fae59c3c3080dd5cfe8d3cb2"

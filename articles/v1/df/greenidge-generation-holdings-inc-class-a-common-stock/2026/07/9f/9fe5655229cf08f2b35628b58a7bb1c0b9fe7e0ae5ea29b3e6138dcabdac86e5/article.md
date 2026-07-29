@@ -7,7 +7,7 @@ source_id: "greenidge-generation-holdings-inc-class-a-common-stock-rss-2e47b4921
 canonical_url: "https://ir.greenidge.com/news-releases/news-release-details/vulcan-infrastructure-and-power-begin-trading-under-new-nasdaq"
 published_at: "2026-07-24T13:00:00+00:00"
 first_seen_at: "2026-07-25T07:06:39.923184+00:00"
-fetched_at: "2026-07-28T19:57:20.681232+00:00"
+fetched_at: "2026-07-28T23:45:45.493892+00:00"
 content_hash: "sha256:6c24ee671acb96002ddaaa4a4602fa2b8ebfb6e3fbd6b6b1a2e46bebaff867a9"
 ---
 

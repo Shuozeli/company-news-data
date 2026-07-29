@@ -36,5 +36,22 @@
       "partition": "2025-08",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f2/yc-agilemd/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8221,
+        "sha256": "sha256:531004b1101e04767ea9257211f0541849b4156047274eda2754c5b897ee0d06",
+        "newest_at": "2025-08-26T00:00:00+00:00",
+        "oldest_at": "2024-06-25T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "schneider-national-inc-common-stock-rss-2f975a7328d8"
 canonical_url: "https://investors.schneider.com/news-events/financial-news/news-details/2026/Schneider-marks-35-years-of-Intermodal-expertise-delivering-truck-like-reliability-with-increased-efficiency/default.aspx"
 published_at: "2026-05-04T14:35:00+00:00"
 first_seen_at: "2026-07-27T11:46:30.437598+00:00"
-fetched_at: "2026-07-28T20:21:44.128433+00:00"
+fetched_at: "2026-07-28T23:05:30.154228+00:00"
 content_hash: "sha256:981af045de462463f1ace3f45d1c44cc242a7539902e61aac6bd031476453db2"
 ---
 

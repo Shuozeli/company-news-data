@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/when-shipping-logic-sprawls"
 published_at: "2026-04-03T16:05:39+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:1a8dd703c7f3aa1fa33edcaa1cf0afdc2d37be1f694da1b3135561a48a8867f3"
 ---
 

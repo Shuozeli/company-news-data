@@ -88,5 +88,31 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ba/cnx-resources-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 57725,
+        "sha256": "sha256:68ba287b32285c7e7af26ade17f9b58fa11976148b2e8776d41b7316fbac6f85",
+        "newest_at": "2026-07-06T20:25:51+00:00",
+        "oldest_at": "2024-10-24T15:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/ba/cnx-resources-corporation-common-stock/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 2705,
+        "sha256": "sha256:f3c6ae56dee025b8b9310eb623afb22c5ac231aec21ac0d2a7d8ba8632d1a75e",
+        "newest_at": "2024-10-22T14:01:00+00:00",
+        "oldest_at": "2024-09-20T16:21:00+00:00"
+      }
+    ]
+  }
 }

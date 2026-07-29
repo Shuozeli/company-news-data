@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d1/nutanix-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 39260,
+        "sha256": "sha256:6dbac5434696481068cd95a5aae62e1a3c064402c0cd90a8dbd652d2652239c9",
+        "newest_at": "2026-07-28T21:33:52.463534+00:00",
+        "oldest_at": "2019-08-21T19:58:00+00:00"
+      }
+    ]
+  }
 }

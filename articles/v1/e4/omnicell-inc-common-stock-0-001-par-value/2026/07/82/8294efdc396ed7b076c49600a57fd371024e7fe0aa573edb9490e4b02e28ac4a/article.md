@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2026/Nnamdi-Njoku-Appointed-President-of-Omnicell/default.aspx"
 published_at: "2026-07-01T12:15:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T20:19:36.099870+00:00"
+fetched_at: "2026-07-28T23:03:29.570108+00:00"
 content_hash: "sha256:6d76110ebd424d0b3d59bd4cef9ef3912e612ec3ef63d54d08570404a0b2ef94"
 ---
 

@@ -60,5 +60,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e3/option-care-health-inc-common-stock/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 24175,
+        "sha256": "sha256:14b112c0bd216845ba5393766bc6e7dd23b9062f6ef6ae95ad0b6d9477c1776d",
+        "newest_at": "2026-07-09T20:05:00+00:00",
+        "oldest_at": "2020-11-11T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "yc-starling-rss-2a8bfdf7d43c"
 canonical_url: "https://starlingmedical.com/2025/08/28/pete-a-simple-daily-check-for-peace-of-mind-as-your-age/"
 published_at: "2025-08-28T19:03:55+00:00"
 first_seen_at: "2026-07-25T01:53:29.741858+00:00"
-fetched_at: "2026-07-28T20:28:09.697961+00:00"
+fetched_at: "2026-07-28T23:14:51.936097+00:00"
 content_hash: "sha256:f392073b8229960787a9d038d5d791ddb79a6ab58312b368f78ed3dc362df767"
 ---
 

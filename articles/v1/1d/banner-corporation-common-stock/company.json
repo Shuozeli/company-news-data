@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1d/banner-corporation-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 18962,
+        "sha256": "sha256:203aa7eeaf26c5f535d46def11c0500d3dc9aa15a734f4213de990a6cae1ae06",
+        "newest_at": "2026-07-22T20:00:00+00:00",
+        "oldest_at": "2025-10-15T20:00:00+00:00"
+      }
+    ]
+  }
 }

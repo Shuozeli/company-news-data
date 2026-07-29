@@ -7,7 +7,7 @@ source_id: "uber-technologies-inc-common-stock-rss-0f1894567009"
 canonical_url: "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Eats-and-Ulta-Beauty-Team-Up-to-Deliver-Beauty-Essentials-Nationwide-Expanding-On-Demand-Access-to-Both-Prestige-and-Mass-Favorites/default.aspx"
 published_at: "2026-05-07T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:46.437477+00:00"
-fetched_at: "2026-07-28T21:37:30.635491+00:00"
+fetched_at: "2026-07-29T00:17:05.950701+00:00"
 content_hash: "sha256:ce0c6f6e1ba27c40e6c73b7836184c345b28987fe52049b65586518a1884efd9"
 ---
 

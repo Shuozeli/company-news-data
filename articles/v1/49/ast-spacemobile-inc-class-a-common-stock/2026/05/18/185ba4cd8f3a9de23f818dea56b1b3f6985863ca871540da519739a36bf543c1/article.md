@@ -7,7 +7,7 @@ source_id: "ast-spacemobile-inc-class-a-common-stock-rss-890bf889267f"
 canonical_url: "https://ast-science.com/ast-spacemobile-site-4-tour/"
 published_at: "2026-05-19T16:11:13+00:00"
 first_seen_at: "2026-07-20T04:35:35.768007+00:00"
-fetched_at: "2026-07-28T20:55:25.151598+00:00"
+fetched_at: "2026-07-28T23:41:25.201266+00:00"
 content_hash: "sha256:4f4579fff39873e6a92a7a376d4ddd4593bea35a09477d0c9b0153755d585af5"
 ---
 

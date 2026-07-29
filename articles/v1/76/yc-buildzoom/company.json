@@ -12,5 +12,22 @@
       "partition": "2025-05",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/76/yc-buildzoom/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12840,
+        "sha256": "sha256:1ccd4c9e91def526c87dae96fcc6e6636e3389dbe8cb0f5f9e9123d2909a1373",
+        "newest_at": "2025-05-15T16:18:09+00:00",
+        "oldest_at": "2025-05-08T18:43:34+00:00"
+      }
+    ]
+  }
 }

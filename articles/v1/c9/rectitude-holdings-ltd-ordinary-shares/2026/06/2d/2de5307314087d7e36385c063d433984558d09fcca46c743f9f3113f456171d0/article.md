@@ -7,7 +7,7 @@ source_id: "rectitude-holdings-ltd-ordinary-shares-rss-0d297b397433"
 canonical_url: "https://ir.rectitude.com.sg/rectitude-holdings-ltd-secures-additional-aims-system-orders-for-major-infrastructure-and-residential-projects-across-singapore/"
 published_at: "2026-06-15T12:00:30+00:00"
 first_seen_at: "2026-07-25T20:39:27.562148+00:00"
-fetched_at: "2026-07-28T22:10:43.539752+00:00"
+fetched_at: "2026-07-29T00:49:35.606057+00:00"
 content_hash: "sha256:72f5f8b24d176c882641deabf15025efa1e7947ab855d27f4d86a9e1f6f6bcfa"
 ---
 

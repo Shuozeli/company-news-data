@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2022/new-digi-connectcore-mp1-family-system-on-modules"
 published_at: "2022-06-21T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:b7f390df07780c2985ace35a87208cf7def8d496a7954b79e6aaebe3f5ee6543"
 ---
 

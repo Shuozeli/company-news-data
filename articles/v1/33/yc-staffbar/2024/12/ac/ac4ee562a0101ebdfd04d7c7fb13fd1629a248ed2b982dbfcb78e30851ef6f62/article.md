@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/how-to-integrate-siri-and-apple-intelligence-into-your-app-to-query-onscreen"
-published_at: "2024-12-03T20:39:15.224+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:fe5cfac9bb7bb52acd84126fb8ddf0a991f42aa89399f9e0d8562fdd8ae41688"

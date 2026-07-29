@@ -7,7 +7,7 @@ source_id: "yc-gluetrail-rss-b462805850ef"
 canonical_url: "https://blog.gluetrail.com/video-personalization-step-one"
 published_at: "2024-07-01T00:00:00+00:00"
 first_seen_at: "2026-07-25T06:47:53.127682+00:00"
-fetched_at: "2026-07-28T20:57:44.389075+00:00"
+fetched_at: "2026-07-28T23:43:55.765498+00:00"
 content_hash: "sha256:9e940d34b803e4f03f2a67f8a080ca353128c8901fe90d49cd9fd69dde2081be"
 ---
 

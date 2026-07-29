@@ -7,7 +7,7 @@ source_id: "cnx-resources-corporation-common-stock-rss-d0ca8019a063"
 canonical_url: "https://investors.cnx.com/events-and-presentations/events"
 published_at: "2024-10-24T15:00:00+00:00"
 first_seen_at: "2026-07-24T22:41:44.157467+00:00"
-fetched_at: "2026-07-28T21:31:44.789532+00:00"
+fetched_at: "2026-07-29T00:11:40.010847+00:00"
 content_hash: "sha256:7dc369df1562f7a7aff1b99e7312cc18ee1fdf7783550c2f7734b174755ebcf2"
 ---
 

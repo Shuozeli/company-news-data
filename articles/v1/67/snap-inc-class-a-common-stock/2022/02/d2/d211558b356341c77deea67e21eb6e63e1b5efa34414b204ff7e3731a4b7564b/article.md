@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/machine-learning-snap-ad-ranking"
 published_at: "2022-02-11T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T20:38:20.120259+00:00"
+fetched_at: "2026-07-28T23:22:34.016732+00:00"
 content_hash: "sha256:c3bc7bae094c59017169cd441a12d8a91365a81a879e22bfe94f48ffeae813f3"
 ---
 

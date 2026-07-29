@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/http://vertiv.com/en-us/about/news-and-insights/corporate-news/vertiv-sells-asco-to-schneider-electric/"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T20:39:59.455460+00:00"
+fetched_at: "2026-07-28T23:23:56.894710+00:00"
 content_hash: "sha256:a03588e9a6b1610fd0541ad976df427058a1676b937f9e9126df6c4fa45c67be"
 ---
 

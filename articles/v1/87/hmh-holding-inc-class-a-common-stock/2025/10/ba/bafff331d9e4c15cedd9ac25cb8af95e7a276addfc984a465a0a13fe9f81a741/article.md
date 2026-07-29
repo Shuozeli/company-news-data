@@ -7,7 +7,7 @@ source_id: "hmh-holding-inc-class-a-common-stock-rss-06e03ba42fbb"
 canonical_url: "https://hmhw.com/archives/3481/hmh-holding-b-v-third-quarter-report-for-2025/"
 published_at: "2025-10-30T05:45:30+00:00"
 first_seen_at: "2026-07-24T09:07:30.783862+00:00"
-fetched_at: "2026-07-28T20:51:36.835981+00:00"
+fetched_at: "2026-07-28T23:37:02.956386+00:00"
 content_hash: "sha256:345fd5b844a0368143aa031a34271573ba8fdb2d4209ffe5f7ece3d683eaada5"
 ---
 

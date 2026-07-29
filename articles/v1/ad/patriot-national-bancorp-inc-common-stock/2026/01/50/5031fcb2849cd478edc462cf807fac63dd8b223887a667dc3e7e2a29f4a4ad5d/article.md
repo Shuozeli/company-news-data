@@ -7,7 +7,7 @@ source_id: "patriot-national-bancorp-inc-common-stock-rss-cccf00bf7505"
 canonical_url: "https://s27.q4cdn.com/832260330/files/doc_presentations/2025/Dec/31/2026-Annual-Letter_Patriot-Bank.pdf"
 published_at: "2026-01-01T17:00:00+00:00"
 first_seen_at: "2026-07-25T18:32:55.109006+00:00"
-fetched_at: "2026-07-28T20:04:27.377121+00:00"
+fetched_at: "2026-07-28T23:53:39.334404+00:00"
 content_hash: "sha256:ce8851b3847c70a409c0b58283e9f8ea00bf9a80a2918bdc0bf0c093fb9ebe23"
 ---
 

@@ -7,7 +7,7 @@ source_id: "dhi-group-inc-common-stock-rss-4be88c1ddc65"
 canonical_url: "https://dhigroupinc.com/press/press-release-details/2026/DHI-Group-Reports-2026-First-Quarter-Financial-Results/default.aspx"
 published_at: "2026-05-05T20:15:00+00:00"
 first_seen_at: "2026-07-25T01:06:52.070080+00:00"
-fetched_at: "2026-07-28T19:49:20.445831+00:00"
+fetched_at: "2026-07-28T23:32:37.865694+00:00"
 content_hash: "sha256:cb5289c869b0b183a4e7a4d094aa07e782b9c3801d402e25dc1772ad3756be83"
 ---
 

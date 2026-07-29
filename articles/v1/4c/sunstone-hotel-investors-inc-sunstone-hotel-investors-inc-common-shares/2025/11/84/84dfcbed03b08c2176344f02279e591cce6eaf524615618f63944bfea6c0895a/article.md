@@ -7,7 +7,7 @@ source_id: "sunstone-hotel-investors-inc-sunstone-hotel-investors-inc-common-sha
 canonical_url: "https://www.sunstonehotels.com/investor-relations/press-releases/news-details/2025/SUNSTONE-HOTEL-INVESTORS-REPORTS-RESULTS-FOR-THIRD-QUARTER-2025/default.aspx"
 published_at: "2025-11-07T12:30:00+00:00"
 first_seen_at: "2026-07-26T07:47:55.987383+00:00"
-fetched_at: "2026-07-28T20:29:35.775148+00:00"
+fetched_at: "2026-07-28T23:15:49.114754+00:00"
 content_hash: "sha256:452d304f46a16ac9f32371701fb874c29cd42f6a4ed0c7e8910c585a3fa267f6"
 ---
 

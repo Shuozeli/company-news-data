@@ -7,7 +7,7 @@ source_id: "eve-holding-inc-common-stock-rss-a787984ba43b"
 canonical_url: "https://www.eveairmobility.com/eve-completes-hover-low-speed-flights-block-advancing-evtol-toward-transition-flight-testing/"
 published_at: "2026-05-21T18:07:57+00:00"
 first_seen_at: "2026-07-25T01:07:11.530198+00:00"
-fetched_at: "2026-07-28T21:41:47.030770+00:00"
+fetched_at: "2026-07-29T00:04:41.801497+00:00"
 content_hash: "sha256:6ac51253540f428a9e5956cbebea76a5f4efb426f93c49fc1f8a6517f0abb436"
 ---
 

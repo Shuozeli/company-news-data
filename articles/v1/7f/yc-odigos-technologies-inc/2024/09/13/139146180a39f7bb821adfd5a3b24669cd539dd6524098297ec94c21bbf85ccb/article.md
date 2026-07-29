@@ -7,7 +7,7 @@ source_id: "yc-odigos-technologies-inc-rss-eb41174e661a"
 canonical_url: "https://odigos.io/blog/helm-chart-repository-deprecation"
 published_at: "2024-09-26T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:02:44.020335+00:00"
-fetched_at: "2026-07-28T19:57:42.767612+00:00"
+fetched_at: "2026-07-28T23:46:13.985043+00:00"
 content_hash: "sha256:e34783026064c763e457cc40b8443b11a68d8436fc406f01fd481ac2ee1826d2"
 ---
 

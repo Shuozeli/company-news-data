@@ -64,5 +64,22 @@
       "partition": "2026-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f4/network-1-technologies-inc-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 21132,
+        "sha256": "sha256:6a53eed9037916781f7c6ac72310a48ecb7595064185d19c4be3eb3015b38142",
+        "newest_at": "2026-05-08T21:30:00+00:00",
+        "oldest_at": "2024-08-12T20:30:00+00:00"
+      }
+    ]
+  }
 }

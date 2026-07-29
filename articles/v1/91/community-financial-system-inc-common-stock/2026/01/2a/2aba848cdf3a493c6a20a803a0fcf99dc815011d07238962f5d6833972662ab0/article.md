@@ -7,7 +7,7 @@ source_id: "community-financial-system-inc-common-stock-rss-4b1081d152e7"
 canonical_url: "https://ir.cfsi.com/news/news-details/2026/Community-Financial-System-Inc--Announces-Quarterly-Dividend/default.aspx"
 published_at: "2026-01-21T21:45:00+00:00"
 first_seen_at: "2026-07-27T01:10:37.864031+00:00"
-fetched_at: "2026-07-28T20:16:17.945606+00:00"
+fetched_at: "2026-07-28T22:59:40.796975+00:00"
 content_hash: "sha256:d5651784f36907be1b0cc51645915cfcac1cc04517921d587da0bcc4cdeae8f6"
 ---
 

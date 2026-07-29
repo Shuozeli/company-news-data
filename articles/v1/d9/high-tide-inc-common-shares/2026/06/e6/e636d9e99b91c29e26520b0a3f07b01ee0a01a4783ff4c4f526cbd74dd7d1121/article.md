@@ -7,7 +7,7 @@ source_id: "high-tide-inc-common-shares-rss-f83dc5e20636"
 canonical_url: "https://hightideinc.com/high-tide-to-announce-second-fiscal-quarter-2026-financial-results/"
 published_at: "2026-06-03T10:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:05.127242+00:00"
-fetched_at: "2026-07-28T22:02:58.894593+00:00"
+fetched_at: "2026-07-29T00:41:30.017006+00:00"
 content_hash: "sha256:8ae5c3b253f98efe362ceb8d09ed444dd0ba85cf6b869a000d5f47d1806b40c8"
 ---
 

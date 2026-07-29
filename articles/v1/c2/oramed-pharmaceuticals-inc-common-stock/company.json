@@ -36,5 +36,22 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c2/oramed-pharmaceuticals-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14208,
+        "sha256": "sha256:e4bd258b00c9631cc0040a1aea37662d7b33255e9395ea4baa605d405c29d766",
+        "newest_at": "2026-06-25T15:08:39+00:00",
+        "oldest_at": "2025-02-11T14:15:00+00:00"
+      }
+    ]
+  }
 }

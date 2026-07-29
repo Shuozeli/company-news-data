@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/plant-based-adoption-52-of-consumers-are-eating-more-plant-based-foods-for-their-health-and-the-planets-health/"
 published_at: "2022-12-03T15:46:14+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-28T22:04:53.214634+00:00"
+fetched_at: "2026-07-29T00:43:09.170627+00:00"
 content_hash: "sha256:ff8a71bee6ff777511027534fd1560ac4dc08cba95232efcc81ebe29da922f0f"
 ---
 

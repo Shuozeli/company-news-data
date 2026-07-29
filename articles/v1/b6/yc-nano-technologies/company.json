@@ -16,5 +16,22 @@
       "partition": "2026-06",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b6/yc-nano-technologies/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 9838,
+        "sha256": "sha256:fadaebd364235e7151124e5e0ba721bc50b5914e5ecee5fe10d30773e573eaf4",
+        "newest_at": "2026-06-18T09:47:50+00:00",
+        "oldest_at": "2026-05-13T08:32:57+00:00"
+      }
+    ]
+  }
 }

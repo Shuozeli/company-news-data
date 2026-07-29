@@ -7,7 +7,7 @@ source_id: "diamondrock-hospitality-company-common-stock-rss-0cf57d65d302"
 canonical_url: "https://investor.drhc.com/news-releases/news-release-details/diamondrock-hospitality-company-reports-first-quarter-2026"
 published_at: "2026-04-30T20:05:00+00:00"
 first_seen_at: "2026-07-26T12:58:00.261237+00:00"
-fetched_at: "2026-07-28T21:48:51.399344+00:00"
+fetched_at: "2026-07-29T00:16:42.112994+00:00"
 content_hash: "sha256:ed2e8398aaf4649b8a5170498754dddd65ab53ab90a47b5c44bdf3969d5e2998"
 ---
 

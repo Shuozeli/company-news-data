@@ -7,7 +7,7 @@ source_id: "nano-dimension-ltd-american-depositary-shares-rss-111d35614305"
 canonical_url: "https://investors.nano-di.com/press-releases/news-details/2026/Nano-Dimension-and-Murchinson-Announce-Agreement-to-Reconstitute-the-Companys-Board-of-Directors/default.aspx"
 published_at: "2026-07-20T12:30:00+00:00"
 first_seen_at: "2026-07-25T15:27:00.961627+00:00"
-fetched_at: "2026-07-28T20:04:05.382371+00:00"
+fetched_at: "2026-07-28T23:53:10.203793+00:00"
 content_hash: "sha256:bdd3b0a4037a2aab7bae032ef667551e2b75e336b99291754f6cce0c630427e9"
 ---
 

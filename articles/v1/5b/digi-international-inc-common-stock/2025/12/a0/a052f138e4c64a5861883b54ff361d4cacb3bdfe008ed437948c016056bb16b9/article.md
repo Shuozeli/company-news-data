@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2025/digi-to-deliver-zero-touch-esim"
 published_at: "2025-12-09T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:b2cf284f644b2ae07e90a8fc2bbfdcef8d971a749566820c236119c615ecc9ee"
 ---
 

@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/dd/arm-holdings-plc-american-depositary-shares/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 16710,
+        "sha256": "sha256:aca410c136c5593d0838017f3af2d40e8136e2efa52433b1c16d8e4943dfed2d",
+        "newest_at": "2026-07-16T17:00:37+00:00",
+        "oldest_at": "2023-06-05T16:19:05+00:00"
+      }
+    ]
+  }
 }

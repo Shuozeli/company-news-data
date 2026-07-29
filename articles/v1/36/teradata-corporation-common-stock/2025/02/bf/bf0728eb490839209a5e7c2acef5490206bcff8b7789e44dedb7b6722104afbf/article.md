@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2025/teradata-reports-fourth-quarter-and-full-year-2024-financial-results"
 published_at: "2025-02-11T08:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T19:37:01.666775+00:00"
+fetched_at: "2026-07-28T23:07:12.403269+00:00"
 content_hash: "sha256:a70a895e6dda2f4c3f6cb6c68b0d9212e654270dcd5555f7d2fd91646d6ff066"
 ---
 

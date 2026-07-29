@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2025/Stifel-Closes-B-Riley-04.07.25.pdf"
 published_at: "2025-04-08T13:05:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:11eaf185122b1c9b907ff6aa6dafcd6475c34b3a870002c16612c4c3f217f789"
 ---
 

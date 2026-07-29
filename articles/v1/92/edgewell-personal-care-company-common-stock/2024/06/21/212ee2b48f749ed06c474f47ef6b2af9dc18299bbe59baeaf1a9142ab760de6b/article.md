@@ -7,7 +7,7 @@ source_id: "edgewell-personal-care-company-common-stock-atom-26e434d43770"
 canonical_url: "https://edgewell.com/blogs/news/schick-intuition-goes-on-the-road-with-cassadee-pope-grammy-nominated-winner-of-the-voice-in-new-summer-campaign"
 published_at: "2024-06-25T12:26:51+00:00"
 first_seen_at: "2026-07-20T23:16:55.527261+00:00"
-fetched_at: "2026-07-28T19:39:38.451376+00:00"
+fetched_at: "2026-07-28T23:13:01.775419+00:00"
 content_hash: "sha256:5c9656f653e0ff99f3b86fa31d9d5a07eeac13a45a491d580e2aac1f7bae8392"
 ---
 

@@ -7,7 +7,7 @@ source_id: "high-tide-inc-common-shares-rss-f83dc5e20636"
 canonical_url: "https://hightideinc.com/high-tide-ceo-raj-grover-answered-shareholder-questions-during-reddit-ama/"
 published_at: "2026-07-15T22:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:05.127242+00:00"
-fetched_at: "2026-07-28T22:02:58.894593+00:00"
+fetched_at: "2026-07-29T00:41:30.017006+00:00"
 content_hash: "sha256:55695bf009f908f7afe2ce574e48d60b2a9b7ccbc4be6db80985d91daff496b5"
 ---
 

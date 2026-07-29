@@ -7,7 +7,7 @@ source_id: "yc-directed-edge-rss-7c8e8fe81473"
 canonical_url: "https://blog.directededge.com/2010/06/07/shopify-help-your-customers-discover-products-and-grow-your-average-order-size/"
 published_at: "2010-06-07T22:24:29+00:00"
 first_seen_at: "2026-07-27T01:55:50.875550+00:00"
-fetched_at: "2026-07-28T19:33:35.119310+00:00"
+fetched_at: "2026-07-28T22:59:14.304469+00:00"
 content_hash: "sha256:6f9d7e4b0b8814b617c1a82d26f82cd90e4c4b48ffe68d04a2a2d8762c8645ed"
 ---
 

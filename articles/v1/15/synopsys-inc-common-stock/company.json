@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 11
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/15/synopsys-inc-common-stock/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 32857,
+        "sha256": "sha256:12e8b938dd254b2ad9dd2ac4b9a1c64e0a0a81d29a61d18a0ddda1373c035731",
+        "newest_at": "2026-07-28T21:37:39.039431+00:00",
+        "oldest_at": "2026-03-09T00:00:00+00:00"
+      }
+    ]
+  }
 }

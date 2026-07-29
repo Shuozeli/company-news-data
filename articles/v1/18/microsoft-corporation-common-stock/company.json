@@ -72,5 +72,49 @@
       "partition": "2026-07",
       "record_count": 65
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/18/microsoft-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 65104,
+        "sha256": "sha256:67d01bd41ec28ed55456cfc15aaa02e1da94c0055aaa5a012e5328976328e49c",
+        "newest_at": "2026-07-28T16:00:10+00:00",
+        "oldest_at": "2026-07-08T16:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/18/microsoft-corporation-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 60965,
+        "sha256": "sha256:084d981b82cfbc6503b4fd0c344ccfef7ae9054a4eb45e2afb9957a7ee44ca91",
+        "newest_at": "2026-07-08T16:00:00+00:00",
+        "oldest_at": "2026-06-09T14:55:29+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/18/microsoft-corporation-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 61183,
+        "sha256": "sha256:63d9a09ba413071d8ab4c3936235699cff6f2f4770c1b9cbdcb52af8c876f875",
+        "newest_at": "2026-06-09T14:00:00+00:00",
+        "oldest_at": "2026-01-22T07:52:13+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/18/microsoft-corporation-common-stock/index/pages/000004.json",
+        "record_count": 19,
+        "byte_count": 24855,
+        "sha256": "sha256:dfd69aae67648fd4cdd3c162b20e996114a3fcb239f484cfcbf851eaa6952a81",
+        "newest_at": "2026-01-21T07:00:06+00:00",
+        "oldest_at": "2014-10-23T10:30:57+00:00"
+      }
+    ]
+  }
 }

@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a5/regional-management-corp-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11435,
+        "sha256": "sha256:39638a93b8b0446ccae4f1c445905ade35f84d85c7e0263b59974c0e083c96c9",
+        "newest_at": "2026-07-01T20:15:00+00:00",
+        "oldest_at": "2025-10-29T20:15:00+00:00"
+      }
+    ]
+  }
 }

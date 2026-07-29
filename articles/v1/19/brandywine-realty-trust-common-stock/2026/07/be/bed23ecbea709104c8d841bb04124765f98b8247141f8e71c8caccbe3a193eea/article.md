@@ -7,7 +7,7 @@ source_id: "brandywine-realty-trust-common-stock-rss-be6b89ea7832"
 canonical_url: "https://www.brandywinerealty.com/pomelo-rooftop-terrace-radnors-newest-rooftop-bar-and-restaurant-open-main-line-august-8"
 published_at: "2026-07-28T15:47:01+00:00"
 first_seen_at: "2026-07-28T15:57:10.940653+00:00"
-fetched_at: "2026-07-28T22:11:17.500427+00:00"
+fetched_at: "2026-07-29T00:49:36.684769+00:00"
 content_hash: "sha256:20b0806be07fbe020b6d05517fd44eaad1e6acc58feb034fbbbc39c8b4032789"
 ---
 

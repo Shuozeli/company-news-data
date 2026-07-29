@@ -7,7 +7,7 @@ source_id: "bj-s-wholesale-club-holdings-inc-common-stock-rss-dd25fd37e36b"
 canonical_url: "https://investors.bjs.com/press-releases/press-release-details/2026/BJs-Wholesale-Club-Announces-Second-Quarter-Fiscal-2026-Earnings-Conference-Call-Date/default.aspx"
 published_at: "2026-07-23T10:45:00+00:00"
 first_seen_at: "2026-07-25T01:12:22.633439+00:00"
-fetched_at: "2026-07-28T20:03:27.118039+00:00"
+fetched_at: "2026-07-28T23:52:43.781550+00:00"
 content_hash: "sha256:fd9edd3aa1c21b05a9dda74c435cd3d8bf1a7c5f461f273f1f7e5d902f2f1a09"
 ---
 

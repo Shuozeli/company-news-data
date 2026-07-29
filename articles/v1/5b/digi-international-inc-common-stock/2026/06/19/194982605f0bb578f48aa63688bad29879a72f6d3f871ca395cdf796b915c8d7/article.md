@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/introducing-digi-tx65-5g-router-for-transportation"
 published_at: "2026-06-15T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:9699e96050216b56da1707a4b1669d74b8d88cd7b3c278eb0b4c9d1c0fe8addf"
 ---
 

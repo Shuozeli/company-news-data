@@ -7,7 +7,7 @@ source_id: "nabors-industries-ltd-rss-b9ec6e91c223"
 canonical_url: "https://www.oilandgasmiddleeast.com/event-awards/og-rpme-awards/the-winners-of-oil-gas-saudi-awards-2025"
 published_at: "2025-09-19T16:04:39+00:00"
 first_seen_at: "2026-07-28T21:28:30.186601+00:00"
-fetched_at: "2026-07-28T21:28:30.110209+00:00"
+fetched_at: "2026-07-29T00:14:00.507733+00:00"
 content_hash: "sha256:528196e67781e76e01d42d3a59dc722ff7c2a507b279fb76699ed5de984598b3"
 ---
 

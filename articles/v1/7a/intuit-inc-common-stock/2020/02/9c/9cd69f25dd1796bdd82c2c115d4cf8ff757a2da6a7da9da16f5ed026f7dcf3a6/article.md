@@ -7,7 +7,7 @@ source_id: "intuit-inc-common-stock-rss-5487f66ec073"
 canonical_url: "https://www.intuit.com/blog/life-at-intuit/valentines-for-your-favorite-developers/"
 published_at: "2020-02-13T03:09:00+00:00"
 first_seen_at: "2026-07-20T04:35:56.728587+00:00"
-fetched_at: "2026-07-28T20:58:29.800213+00:00"
+fetched_at: "2026-07-28T23:44:35.787151+00:00"
 content_hash: "sha256:59f52617a092e9b98568b83d70f83c8ac316df7bdc5437769e49847213522ebd"
 ---
 

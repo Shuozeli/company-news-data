@@ -7,7 +7,7 @@ source_id: "pyxis-tankers-inc-common-stock-atom-7822dd0d168e"
 canonical_url: "https://www.pyxistankers.com/investor-relations/events/loop-capital-2020-transportation-logistics-materials-conference"
 published_at: "2020-02-13T17:56:00+00:00"
 first_seen_at: "2026-07-25T20:11:22.683173+00:00"
-fetched_at: "2026-07-28T21:00:09.761193+00:00"
+fetched_at: "2026-07-28T23:46:44.775223+00:00"
 content_hash: "sha256:d3fddae21bf046cd3d4a69fe9e89c16bfc961c8eeabe725b09ea4d152b0f1092"
 ---
 

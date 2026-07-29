@@ -7,7 +7,7 @@ source_id: "universal-corporation-common-stock-rss-4256e7879866"
 canonical_url: "https://investor.universalcorp.com/news/news-details/2026/Universal-Corporation-to-Participate-in-the-ICR-Conference-2026/default.aspx"
 published_at: "2026-01-06T21:15:00+00:00"
 first_seen_at: "2026-07-26T03:47:38.707820+00:00"
-fetched_at: "2026-07-28T20:11:16.243086+00:00"
+fetched_at: "2026-07-29T00:03:22.248017+00:00"
 content_hash: "sha256:5dbd8d172f2293159459d240fe7e98bc03b6581cd48a4522a8ba0c1bb7887ceb"
 ---
 

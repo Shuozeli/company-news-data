@@ -12,5 +12,22 @@
       "partition": "2026-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8a/yc-the-good-food-institute/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1138,
+        "sha256": "sha256:0aa20fb412dadd1a80b55be62dc23f19f9c3b6f42dd2429f7c0b286208698e87",
+        "newest_at": "2026-05-20T13:51:44+00:00",
+        "oldest_at": "2026-05-20T13:51:44+00:00"
+      }
+    ]
+  }
 }

@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6a/yc-dojah-inc/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 7339,
+        "sha256": "sha256:4ebfc66c189e28633f2d1aa10bb0f251608a3acfc66bba9c92549338bb7490b6",
+        "newest_at": "2026-07-28T14:48:36.731+00:00",
+        "oldest_at": "2026-07-16T10:42:41.834+00:00"
+      }
+    ]
+  }
 }

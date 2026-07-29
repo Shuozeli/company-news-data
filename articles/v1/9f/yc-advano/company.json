@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 8
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9f/yc-advano/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 9225,
+        "sha256": "sha256:6134d886c4228f1d7543864be0c287eebec44d944af11f7aacf3939388d58a8b",
+        "newest_at": "2026-07-28T21:39:52.838477+00:00",
+        "oldest_at": "2024-02-02T00:00:00+00:00"
+      }
+    ]
+  }
 }

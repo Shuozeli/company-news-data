@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-d1044ff9c1aa"
 canonical_url: "https://www.photoroom.com/blog/remove-a-background-in-photoshop"
-published_at: "2025-03-31T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:08.835718+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:a78d486fbd474df31278203a1612e2782434e276006e76863cf48f77eeb8cdad"

@@ -7,7 +7,7 @@ source_id: "great-elm-capital-corp-common-stock-rss-d10dccfc3054"
 canonical_url: "https://greatelmcc.com/investor-relations/investor-news/news-details/2025/Great-Elm-Capital-Corp--Announces-Public-Offering-of-Unsecured-Notes/default.aspx"
 published_at: "2025-09-04T11:59:00+00:00"
 first_seen_at: "2026-07-25T07:03:42.404945+00:00"
-fetched_at: "2026-07-28T21:35:41.469622+00:00"
+fetched_at: "2026-07-29T00:19:22.550343+00:00"
 content_hash: "sha256:b3f4cd1a975046baa20b318554777971ff10a898310e44d35ed27c08106f1ad4"
 ---
 

@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a9/yc-duplo/index/pages/000001.json",
+        "record_count": 21,
+        "byte_count": 22559,
+        "sha256": "sha256:59b3c96809b2c759b2577761451b72a54e070e6f03e759d701d3a7f6664f3e6d",
+        "newest_at": "2026-07-24T07:59:49+00:00",
+        "oldest_at": "2024-07-03T11:21:07+00:00"
+      }
+    ]
+  }
 }

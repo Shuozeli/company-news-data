@@ -7,7 +7,7 @@ source_id: "i-80-gold-corp-common-shares-rss-3d35b1983e0d"
 canonical_url: "https://www.i80gold.com/i-80-gold-reports-first-quarter-2026-results-fully-funded-development-plan-on-track/"
 published_at: "2026-05-12T21:18:27+00:00"
 first_seen_at: "2026-07-20T23:17:48.246523+00:00"
-fetched_at: "2026-07-28T21:35:59.755045+00:00"
+fetched_at: "2026-07-29T00:03:55.112586+00:00"
 content_hash: "sha256:88d0cb934206d2a6712cece4042bfc55484a13294e4bffe95818b74697e3b172"
 ---
 

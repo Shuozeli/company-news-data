@@ -7,7 +7,7 @@ source_id: "ovintiv-inc-de-rss-44e9b96d5380"
 canonical_url: "https://investor.ovintiv.com/2026-05-11-Ovintiv-Reports-First-Quarter-2026-Financial-and-Operating-Results"
 published_at: "2026-05-11T21:01:00+00:00"
 first_seen_at: "2026-07-20T03:31:53.451600+00:00"
-fetched_at: "2026-07-28T20:26:51.401089+00:00"
+fetched_at: "2026-07-28T23:12:43.675809+00:00"
 content_hash: "sha256:93ab53aeb9420150114f97d387c121a80eabf34c9651c3f846c62fc2e78e7f30"
 ---
 

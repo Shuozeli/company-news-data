@@ -7,7 +7,7 @@ source_id: "yalla-group-limited-american-depositary-shares-each-representing-one
 canonical_url: "https://ir.yalla.com/2026-05-18-Yalla-Group-Limited-Announces-Unaudited-First-Quarter-2026-Financial-Results"
 published_at: "2026-05-18T21:00:00+00:00"
 first_seen_at: "2026-07-24T07:42:21.932229+00:00"
-fetched_at: "2026-07-28T20:46:08.822867+00:00"
+fetched_at: "2026-07-28T23:29:38.949411+00:00"
 content_hash: "sha256:6ba43d88088c9b0bfd4b563121645ff8b23f8eb11b7c8a23b0d8aa3aaf2ad84b"
 ---
 

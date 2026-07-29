@@ -7,7 +7,7 @@ source_id: "international-flavors-fragrances-inc-common-stock-rss-5af8663efd29"
 canonical_url: "https://www.iff.com/media/stories/inteligencia-artificial-na-producao-de-etanol/"
 published_at: "2026-06-26T13:54:54+00:00"
 first_seen_at: "2026-07-21T01:55:53.290272+00:00"
-fetched_at: "2026-07-28T21:23:48.937390+00:00"
+fetched_at: "2026-07-29T00:26:33.797363+00:00"
 content_hash: "sha256:b7d7c7e2bcfa56dc1a99a8532cf675bbe5fb9d20cc333b424035641e90aa0d7c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "dba-sempra-common-stock-rss-832771b9d43f"
 canonical_url: "https://www.sempra.com/newsroom/press-releases/socalgas-employees-volunteer-across-southern-california-providing-1100"
 published_at: "2026-06-22T14:55:00+00:00"
 first_seen_at: "2026-07-20T23:21:20.257594+00:00"
-fetched_at: "2026-07-28T22:06:29.819663+00:00"
+fetched_at: "2026-07-29T00:44:57.161112+00:00"
 content_hash: "sha256:542c2ecb075d46f5cf8e370a215611dafcd2364383f639e5d64f3e780d26917e"
 ---
 

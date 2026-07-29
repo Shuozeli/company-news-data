@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/au-texas-les-projets-denergies-renouvelables-portes-par-lappetit-de-la-tech/"
 published_at: "2025-10-28T11:07:18+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:579ac40fa52119b0442fe0c24bce9968135e7f4d0e6054148303f7df808dd5b4"
 ---
 

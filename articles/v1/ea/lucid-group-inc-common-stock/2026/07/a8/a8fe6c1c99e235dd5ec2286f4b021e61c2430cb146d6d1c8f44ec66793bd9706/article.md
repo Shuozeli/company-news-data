@@ -7,7 +7,7 @@ source_id: "lucid-group-inc-common-stock-rss-c739d2b48003"
 canonical_url: "https://ir.lucidmotors.com/news-releases/news-release-details/post-ceo-silvio-napoli-regarding-recent-rumors-and-speculation"
 published_at: "2026-07-15T16:58:00+00:00"
 first_seen_at: "2026-07-25T12:47:49.009973+00:00"
-fetched_at: "2026-07-28T21:31:50.709590+00:00"
+fetched_at: "2026-07-29T00:09:11.615557+00:00"
 content_hash: "sha256:540d717029f250526b7f7a60cb8ec226663459559cdac11c0fc5ccf81ae39195"
 ---
 

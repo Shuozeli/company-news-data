@@ -7,7 +7,7 @@ source_id: "quad-graphics-inc-class-a-common-stock-rss-8bc4097a8ada"
 canonical_url: "https://www.quad.com/sec-filings/0001481792-26-000095-index-htm"
 published_at: "2026-05-02T04:03:17+00:00"
 first_seen_at: "2026-07-25T01:07:34.829310+00:00"
-fetched_at: "2026-07-28T21:39:37.586850+00:00"
+fetched_at: "2026-07-29T00:10:30.212046+00:00"
 content_hash: "sha256:4786ff80831c919bbf19d8b0b62a4fbe8725b1004611069c5f32db18bc3a2369"
 ---
 

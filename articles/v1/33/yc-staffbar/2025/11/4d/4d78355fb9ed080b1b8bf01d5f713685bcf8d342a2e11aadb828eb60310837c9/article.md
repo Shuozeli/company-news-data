@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/this-ai-study-app-makes-usd100k-mo-heres-how-no-code"
-published_at: "2025-11-06T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:c9fd25a6e04211dc203abc6129ce571a6970ba03f70e690f69637fb400fb7a83"

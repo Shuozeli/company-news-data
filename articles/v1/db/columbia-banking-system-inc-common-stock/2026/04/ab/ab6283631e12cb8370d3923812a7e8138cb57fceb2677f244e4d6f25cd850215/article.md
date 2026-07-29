@@ -7,7 +7,7 @@ source_id: "columbia-banking-system-inc-common-stock-rss-e48cdacf2732"
 canonical_url: "https://www.columbiabankingsystem.com/news-market-data/press-releases/press-release/2026/Columbia-Bank-Launches-Franchise-Banking-Team/default.aspx"
 published_at: "2026-04-30T17:00:00+00:00"
 first_seen_at: "2026-07-27T01:09:07.517712+00:00"
-fetched_at: "2026-07-28T20:13:41.810094+00:00"
+fetched_at: "2026-07-28T22:56:05.854016+00:00"
 content_hash: "sha256:231bd82144f4ba6cf70a3673537dee0719beb561bd6bdc5f7ad82093dab2ebfb"
 ---
 

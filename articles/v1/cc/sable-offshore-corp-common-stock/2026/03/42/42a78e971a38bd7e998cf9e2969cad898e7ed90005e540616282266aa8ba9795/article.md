@@ -7,7 +7,7 @@ source_id: "sable-offshore-corp-common-stock-rss-4549046a434b"
 canonical_url: "https://sableoffshore.com/news/news-details/2026/Sable-Resumes-Oil-Flow-as-Ordered-by-the-Federal-DPA-with-Expected-Gross-Oil-Rate-of-50000-Bblsd-and-Expects-First-Sales-by-April-1-2026/default.aspx"
 published_at: "2026-03-16T10:38:00+00:00"
 first_seen_at: "2026-07-25T21:57:44.397006+00:00"
-fetched_at: "2026-07-28T21:52:17.643199+00:00"
+fetched_at: "2026-07-29T00:06:47.025892+00:00"
 content_hash: "sha256:168295b219c5324572171e6a576d17d4201ef7447ed637ef1ccb0b387b7db017"
 ---
 

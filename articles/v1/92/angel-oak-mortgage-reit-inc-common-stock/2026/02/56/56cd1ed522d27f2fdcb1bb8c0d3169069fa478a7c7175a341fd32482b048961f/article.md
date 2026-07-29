@@ -7,7 +7,7 @@ source_id: "angel-oak-mortgage-reit-inc-common-stock-rss-51be5dacfd2d"
 canonical_url: "https://ir.angeloakreit.com/news/news-details/2026/Angel-Oak-Mortgage-REIT-Inc--Declares-Quarterly-Common-Stock-Dividend/default.aspx"
 published_at: "2026-02-05T21:05:00+00:00"
 first_seen_at: "2026-07-26T09:19:28.910573+00:00"
-fetched_at: "2026-07-28T20:54:17.541295+00:00"
+fetched_at: "2026-07-28T23:40:26.641586+00:00"
 content_hash: "sha256:b40ca14094c56eb8137c834d0c15806c3451f8bfe18e6056fec942b58c3467f0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-damage.html"
 published_at: "2026-07-28T17:07:05+00:00"
 first_seen_at: "2026-07-28T18:09:45.756810+00:00"
-fetched_at: "2026-07-28T21:10:05.836012+00:00"
+fetched_at: "2026-07-28T23:55:50.378040+00:00"
 content_hash: "sha256:642cd8d206ce796d19c0e83c5cc9a08aecaf4d5f0c422702a0836de3ca0007fe"
 ---
 

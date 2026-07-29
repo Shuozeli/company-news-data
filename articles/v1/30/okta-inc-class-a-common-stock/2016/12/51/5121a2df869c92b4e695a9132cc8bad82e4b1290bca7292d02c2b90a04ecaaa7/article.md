@@ -7,7 +7,7 @@ source_id: "okta-inc-class-a-common-stock-atom-b0169624a397"
 canonical_url: "https://status.okta.com/"
 published_at: "2016-12-23T17:36:48+00:00"
 first_seen_at: "2026-07-20T04:36:15.803059+00:00"
-fetched_at: "2026-07-28T20:16:43.144990+00:00"
+fetched_at: "2026-07-28T22:59:51.409189+00:00"
 content_hash: "sha256:cc63850eb311adf8af6833c519a3e81725390b5b81248651419d05a00c03caa2"
 ---
 

@@ -7,7 +7,7 @@ source_id: "flex-lng-ltd-ordinary-shares-rss-7ff9ab5b26ed"
 canonical_url: "https://www.flexlng.com/flex-lng-20f-2025/"
 published_at: "2026-02-27T12:54:17+00:00"
 first_seen_at: "2026-07-25T01:07:03.816170+00:00"
-fetched_at: "2026-07-28T21:54:07.345247+00:00"
+fetched_at: "2026-07-29T00:34:05.068746+00:00"
 content_hash: "sha256:1abc7c0359458c2f681750fe2dbeb1c2f2dbb0e14f5bc845e29fb2972f03a000"
 ---
 

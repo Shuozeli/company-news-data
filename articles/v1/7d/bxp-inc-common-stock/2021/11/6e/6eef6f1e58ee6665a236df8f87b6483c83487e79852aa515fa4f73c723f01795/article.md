@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-named-to-2021-dow-jones-sustainability-index"
 published_at: "2021-11-17T14:47:18+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:58aa8e5b4f008de80168472965c544f22a31c0c156de1d0e2b50f5999bdb38e7"
 ---
 

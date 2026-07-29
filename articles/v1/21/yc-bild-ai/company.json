@@ -12,5 +12,22 @@
       "partition": "2025-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/21/yc-bild-ai/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2192,
+        "sha256": "sha256:6c1daf1c99a124bd94bb7acf286520d61a5a3212af0fd83074d940e987324972",
+        "newest_at": "2025-07-02T00:00:00+00:00",
+        "oldest_at": "2025-07-02T00:00:00+00:00"
+      }
+    ]
+  }
 }

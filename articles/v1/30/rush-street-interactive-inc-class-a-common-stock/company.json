@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/30/rush-street-interactive-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 21166,
+        "sha256": "sha256:23089ba5697930c6a62b5aeacfc39770bb5c90bc8167807b674cff94a78efd8a",
+        "newest_at": "2026-07-13T12:00:00+00:00",
+        "oldest_at": "2026-02-06T11:00:00+00:00"
+      }
+    ]
+  }
 }

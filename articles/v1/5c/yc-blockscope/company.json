@@ -32,5 +32,22 @@
       "partition": "2025-03",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5c/yc-blockscope/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 9114,
+        "sha256": "sha256:eccfea5653247a5d00b022fae35a0fd6738406ecae3fbace83792c5b7653bde3",
+        "newest_at": "2025-03-08T07:14:56+00:00",
+        "oldest_at": "2024-09-23T20:36:08+00:00"
+      }
+    ]
+  }
 }

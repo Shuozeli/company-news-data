@@ -7,7 +7,7 @@ source_id: "marketwise-inc-class-a-common-stock-rss-90df030a31e1"
 canonical_url: "https://investors.marketwise.com/news-releases/news-release-details/marketwise-reports-net-revenue-834-million-and-net-income-140"
 published_at: "2026-03-06T11:07:32+00:00"
 first_seen_at: "2026-07-25T13:20:50.191558+00:00"
-fetched_at: "2026-07-28T22:06:31.389048+00:00"
+fetched_at: "2026-07-29T00:44:54.351610+00:00"
 content_hash: "sha256:b584942c35d046a84ee2693876498ba711d128137f655a5f0da5474b8fae0207"
 ---
 

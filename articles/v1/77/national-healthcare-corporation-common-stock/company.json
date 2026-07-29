@@ -20,5 +20,22 @@
       "partition": "2026-03",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/77/national-healthcare-corporation-common-stock/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5800,
+        "sha256": "sha256:4c36c17340e1b415f2260aeb51fcad3a16ecd7e20a8c993f34c420ae55b0e401",
+        "newest_at": "2026-03-02T18:15:31+00:00",
+        "oldest_at": "2025-09-08T19:35:40+00:00"
+      }
+    ]
+  }
 }

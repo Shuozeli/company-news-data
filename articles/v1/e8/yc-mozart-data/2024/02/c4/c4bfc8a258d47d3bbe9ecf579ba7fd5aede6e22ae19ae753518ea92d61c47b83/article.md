@@ -7,7 +7,7 @@ source_id: "yc-mozart-data-rss-80d5f072b9ee"
 canonical_url: "https://mozartdata.com/is-steph-curry-a-good-shooter/"
 published_at: "2024-02-19T17:40:17+00:00"
 first_seen_at: "2026-07-24T11:43:21.667443+00:00"
-fetched_at: "2026-07-28T20:15:01.691737+00:00"
+fetched_at: "2026-07-28T22:58:23.502461+00:00"
 content_hash: "sha256:47da7127c44678af65910a0d361366936dfd254b3a739adb4b8fcedd28d82cb0"
 ---
 

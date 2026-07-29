@@ -7,7 +7,7 @@ source_id: "hanover-insurance-group-inc-rss-d013cf553baa"
 canonical_url: "https://www.hanover.com/businesses/products/workers-compensation/timely-reporting-matters-workers-compensation-claims"
 published_at: "2026-06-26T18:40:45+00:00"
 first_seen_at: "2026-07-25T07:33:50.288624+00:00"
-fetched_at: "2026-07-28T20:18:22.534100+00:00"
+fetched_at: "2026-07-28T23:01:45.439004+00:00"
 content_hash: "sha256:e811fd5aa7dbd5815bafde78259ab179bfe29d2f5c0b14c114106d288137671b"
 ---
 

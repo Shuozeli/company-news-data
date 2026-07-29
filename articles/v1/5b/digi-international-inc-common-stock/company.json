@@ -544,5 +544,157 @@
       "partition": "2026-07",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 16,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 58071,
+        "sha256": "sha256:d45fface909abbbfba18682e802c42a3f46aa9b048b4a6bd7dbf2b291b5157de",
+        "newest_at": "2026-07-24T06:00:00+00:00",
+        "oldest_at": "2026-04-06T06:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 57447,
+        "sha256": "sha256:5b098eb86a3fadeb662192fa1d8e18e145216036c9010ade1c638b61512be6ea",
+        "newest_at": "2026-04-02T06:00:00+00:00",
+        "oldest_at": "2025-12-02T05:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 57173,
+        "sha256": "sha256:c7f3f0d8e5ca942e8cf69499ef663942e2d59cdf04f2eb5df9214f8050b7ca68",
+        "newest_at": "2025-12-01T06:00:00+00:00",
+        "oldest_at": "2025-05-29T05:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 56859,
+        "sha256": "sha256:5fabbb6410110e223aa328efd1477ea03fadf13f6b66faf056c0107f58a4568c",
+        "newest_at": "2025-05-20T06:00:00+00:00",
+        "oldest_at": "2024-10-14T06:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 57607,
+        "sha256": "sha256:4c0044e5774347683d822f24a8096c610ae1f0d838493ac7e43d595c00c91cc2",
+        "newest_at": "2024-10-10T06:00:00+00:00",
+        "oldest_at": "2024-04-04T05:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 57441,
+        "sha256": "sha256:6f3005888f14be021f546e9a3828814e84fa63bb372c69275475ca7760ff161f",
+        "newest_at": "2024-04-02T05:00:00+00:00",
+        "oldest_at": "2023-07-21T06:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 57725,
+        "sha256": "sha256:99fdd73b21ee50ab3fa174be59058bcc5242c4d4145cab10edda3d16f518ca84",
+        "newest_at": "2023-07-14T06:00:00+00:00",
+        "oldest_at": "2022-12-16T06:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 57864,
+        "sha256": "sha256:e7865d403196a3272b9f1821ba4a1f9cbe3007d1afe9a03c4ee0a09ea8e27773",
+        "newest_at": "2022-12-09T06:00:00+00:00",
+        "oldest_at": "2022-04-08T06:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 56531,
+        "sha256": "sha256:b477a5fd6aa6a7428a10fb210cd4b69ee72e0cd7a49680d0f2fc774acb8e624a",
+        "newest_at": "2022-04-07T05:00:00+00:00",
+        "oldest_at": "2021-07-06T05:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 56515,
+        "sha256": "sha256:822f2187354302ef631a04379380706a6554a5f239b2b259a8c3d0316d72dfed",
+        "newest_at": "2021-06-15T06:00:00+00:00",
+        "oldest_at": "2020-12-09T06:00:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000011.json",
+        "record_count": 50,
+        "byte_count": 57250,
+        "sha256": "sha256:34aa09415609ecda6abfe8e86e9c32beda4391c1a7760c50e37ac50fb7a261f4",
+        "newest_at": "2020-12-08T05:00:00+00:00",
+        "oldest_at": "2020-04-21T05:00:00+00:00"
+      },
+      {
+        "page": 12,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000012.json",
+        "record_count": 50,
+        "byte_count": 57222,
+        "sha256": "sha256:9046f9a306d6fba971e91b1edd3f1eb57f11973516b46b8f4d0207d23e0b741a",
+        "newest_at": "2020-04-20T06:00:00+00:00",
+        "oldest_at": "2019-07-30T05:00:00+00:00"
+      },
+      {
+        "page": 13,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000013.json",
+        "record_count": 50,
+        "byte_count": 57675,
+        "sha256": "sha256:8690d7dc060eaf0b5a3bd7de0d30c4f2a5ff6dab77cbd4ffd30a722877033c45",
+        "newest_at": "2019-07-24T05:00:00+00:00",
+        "oldest_at": "2019-01-08T05:00:00+00:00"
+      },
+      {
+        "page": 14,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000014.json",
+        "record_count": 50,
+        "byte_count": 57575,
+        "sha256": "sha256:35e09bce46f8380f8a8fa2b20c3ee4652090727c70bd08c4f4a3db9b89c8c47c",
+        "newest_at": "2019-01-04T06:00:00+00:00",
+        "oldest_at": "2017-02-21T06:00:00+00:00"
+      },
+      {
+        "page": 15,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000015.json",
+        "record_count": 50,
+        "byte_count": 57958,
+        "sha256": "sha256:b110561ab9d217d71746c67e0f54f9711bec7dbf6eb0a32ba195644d8726c192",
+        "newest_at": "2017-02-21T06:00:00+00:00",
+        "oldest_at": "2015-05-13T06:00:00+00:00"
+      },
+      {
+        "page": 16,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000016.json",
+        "record_count": 7,
+        "byte_count": 8288,
+        "sha256": "sha256:d7bcdab033450072546d17354d54f52a1746a14f2b84f90ad491f0b120cf8043",
+        "newest_at": "2015-05-11T06:00:00+00:00",
+        "oldest_at": "2013-07-01T06:00:00+00:00"
+      }
+    ]
+  }
 }

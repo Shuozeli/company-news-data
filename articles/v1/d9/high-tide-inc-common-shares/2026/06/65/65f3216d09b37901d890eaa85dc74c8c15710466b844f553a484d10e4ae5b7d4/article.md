@@ -7,7 +7,7 @@ source_id: "high-tide-inc-common-shares-rss-f83dc5e20636"
 canonical_url: "https://hightideinc.com/high-tide-to-acquire-northern-helm-adding-four-established-retail-cannabis-stores-in-ontario/"
 published_at: "2026-06-15T10:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:05.127242+00:00"
-fetched_at: "2026-07-28T22:02:58.894593+00:00"
+fetched_at: "2026-07-29T00:41:30.017006+00:00"
 content_hash: "sha256:8b0be5fbb0a2ba8f42bc4fadd72ff2b78f02d79917475d125fe6a6c0b293a91c"
 ---
 

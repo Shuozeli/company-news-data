@@ -7,7 +7,7 @@ source_id: "allogene-therapeutics-inc-common-stock-rss-a39e7aa31584"
 canonical_url: "https://allogene.com/2026/05/22/john-carroll-and-dr-zachary-roberts-discuss-interim-alpha3-findings-and-the-future-potential-of-allogeneic-car-t-in-lbcl/"
 published_at: "2026-05-22T15:05:11+00:00"
 first_seen_at: "2026-07-24T09:07:30.055397+00:00"
-fetched_at: "2026-07-28T21:05:59.901083+00:00"
+fetched_at: "2026-07-28T23:52:03.818547+00:00"
 content_hash: "sha256:9f6d2e23b0e4497fb937c5bea3acbbf96e8e00028bb183001d1a32397c58a9f8"
 ---
 

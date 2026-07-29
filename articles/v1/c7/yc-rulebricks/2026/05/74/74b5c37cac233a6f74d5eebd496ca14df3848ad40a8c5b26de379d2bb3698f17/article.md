@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/when-business-logic-outgrows-code"
 published_at: "2026-05-14T16:05:14+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:c0277292ba032d2963cf3468b695de249674d65064d4fb3782bc3bc2216c233f"
 ---
 

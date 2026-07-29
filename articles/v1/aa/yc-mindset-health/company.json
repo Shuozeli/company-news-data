@@ -44,5 +44,22 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/aa/yc-mindset-health/index/pages/000001.json",
+        "record_count": 40,
+        "byte_count": 40379,
+        "sha256": "sha256:1a8867adaa245d84d465dab6ed38a9fb2a46acf0484c5c4e8ce1b77dc6c35d76",
+        "newest_at": "2026-07-20T05:41:11.029+00:00",
+        "oldest_at": "2025-10-17T15:33:54.714+00:00"
+      }
+    ]
+  }
 }

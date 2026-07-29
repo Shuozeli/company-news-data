@@ -7,7 +7,7 @@ source_id: "yc-directed-edge-rss-7c8e8fe81473"
 canonical_url: "https://blog.directededge.com/2011/03/15/the-easiest-way-to-add-recommendations-to-your-rails-app-announcing-acts_as_edgy/"
 published_at: "2011-03-15T18:17:44+00:00"
 first_seen_at: "2026-07-27T01:55:50.875550+00:00"
-fetched_at: "2026-07-28T19:33:35.119310+00:00"
+fetched_at: "2026-07-28T22:59:14.304469+00:00"
 content_hash: "sha256:3911cdd3e7924bd6964ef3e511429ac9efa7173bd41298373f25bf7900c8732d"
 ---
 

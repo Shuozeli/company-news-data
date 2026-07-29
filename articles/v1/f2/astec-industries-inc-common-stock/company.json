@@ -88,5 +88,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f2/astec-industries-inc-common-stock/index/pages/000001.json",
+        "record_count": 40,
+        "byte_count": 45806,
+        "sha256": "sha256:ee7931a886055866c8ffa0cb54541f20615a5beec0f405702d7151cc9a3aa9a5",
+        "newest_at": "2026-07-10T18:11:44+00:00",
+        "oldest_at": "2022-06-13T02:41:15+00:00"
+      }
+    ]
+  }
 }

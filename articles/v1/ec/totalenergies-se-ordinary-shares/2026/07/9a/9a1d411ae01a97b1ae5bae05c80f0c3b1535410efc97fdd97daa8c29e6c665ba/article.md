@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/patrick-pouyanne-classe-n2-du-top-40-des-influenceurs-politiques-de-politico-europe/"
 published_at: "2026-07-10T10:24:53+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:4597ff6481ad62cbcf19f47dbde326fd5ccb2921ea7f226117d6445067abdef1"
 ---
 

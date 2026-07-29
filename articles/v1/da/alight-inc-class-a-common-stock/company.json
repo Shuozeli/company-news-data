@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/da/alight-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 14365,
+        "sha256": "sha256:ec71edd33f74aeca9f5930a90251cadb1384c9dfe32de8665135d98f0c09d4f2",
+        "newest_at": "2026-07-28T21:38:29.998390+00:00",
+        "oldest_at": "2026-04-21T00:00:00+00:00"
+      }
+    ]
+  }
 }

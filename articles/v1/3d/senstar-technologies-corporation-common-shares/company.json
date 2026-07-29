@@ -52,5 +52,22 @@
       "partition": "2026-05",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3d/senstar-technologies-corporation-common-shares/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 26909,
+        "sha256": "sha256:48a02a42553ab04bf7a3fcdfe207ed5b4e1fe56b8ad94edd844be075c45c6671",
+        "newest_at": "2026-05-28T21:11:41+00:00",
+        "oldest_at": "2025-02-26T14:35:34+00:00"
+      }
+    ]
+  }
 }

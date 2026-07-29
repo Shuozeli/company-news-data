@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/section-paloise-honhacamp-total-energies-le-debut-des-travaux/"
 published_at: "2025-12-12T11:06:09+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:117709edc6252ed6021903aa8bacc88dcaf4648af0be47563e365bd41d0a6d20"
 ---
 

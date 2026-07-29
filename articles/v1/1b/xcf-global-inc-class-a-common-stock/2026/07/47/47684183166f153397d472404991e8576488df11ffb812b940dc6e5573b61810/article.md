@@ -7,7 +7,7 @@ source_id: "xcf-global-inc-class-a-common-stock-rss-7600714c668d"
 canonical_url: "https://xcf.global/news-details/2026/XCF-Global-and-Continual-Renewable-Ventures-Sign-Agreement-to-Expand-New-Rise-ANZ-Renewable-Fuels-Platform-in-Australia/default.aspx"
 published_at: "2026-07-23T10:30:00+00:00"
 first_seen_at: "2026-07-27T06:08:47.646338+00:00"
-fetched_at: "2026-07-28T20:50:31.270414+00:00"
+fetched_at: "2026-07-28T23:35:50.576355+00:00"
 content_hash: "sha256:3a8fa6c5a3191d00f13accb643dd09e758696fc19ff44f2e41395c7fe82058d3"
 ---
 

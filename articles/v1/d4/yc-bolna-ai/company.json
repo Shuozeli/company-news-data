@@ -32,5 +32,22 @@
       "partition": "2026-05",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d4/yc-bolna-ai/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 14777,
+        "sha256": "sha256:a7427a63360c4f8a3af29f9922bf31475debef08323522a3974070558b42f0db",
+        "newest_at": "2026-05-18T10:12:45+00:00",
+        "oldest_at": "2024-09-17T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2023/09/max-2023-recap-everything-you-need-to-know-about-adobe-express-add-ons"
 published_at: "2023-10-30T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:5f255ce5ca0ddcb16887b962bfde3b5740f8d812ffd6b6f6ae190bd30178136a"
 ---
 

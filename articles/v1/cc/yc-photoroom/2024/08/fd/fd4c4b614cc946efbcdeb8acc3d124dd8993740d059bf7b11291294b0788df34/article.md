@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-16e4c55287d6"
 canonical_url: "https://www.photoroom.com/customer-stories/chai-creations"
-published_at: "2024-08-16T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:21.424777+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:e7702f56402c2586da5374918278d8835afac80947298d792d135bdd22e83a28"

@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/story/2026/2q-earnings.html"
 published_at: "2026-07-22T10:30:00+00:00"
 first_seen_at: "2026-07-22T12:03:37.210148+00:00"
-fetched_at: "2026-07-28T20:53:36.935307+00:00"
+fetched_at: "2026-07-28T23:38:49.340178+00:00"
 content_hash: "sha256:43fa39ba6e23fc173bba1414377b36b7541b6af9a4234dad5c119be429ba92ba"
 ---
 

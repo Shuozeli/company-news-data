@@ -7,7 +7,7 @@ source_id: "carlisle-companies-incorporated-common-stock-rss-e3395e65bc20"
 canonical_url: "https://www.carlisle.com/investors/news/press-release-details/2026/Carlisle-Companies-Reports-Fourth-Quarter-Results/default.aspx"
 published_at: "2026-02-03T21:05:00+00:00"
 first_seen_at: "2026-07-25T01:06:56.398889+00:00"
-fetched_at: "2026-07-28T21:36:09.410881+00:00"
+fetched_at: "2026-07-29T00:06:47.568889+00:00"
 content_hash: "sha256:74d374e2928ed389c5bde4ea8c8894b543ffa55594b2acc6ed28c7e30d4506f4"
 ---
 

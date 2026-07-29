@@ -7,7 +7,7 @@ source_id: "anfield-energy-inc-common-shares-rss-a0a17c475371"
 canonical_url: "https://anfieldenergy.com/anfield-energy-announces-lease-of-additional-patented-mining-claims-expanding-land-holdings-for-jd-5-and-slick-rock-projects/"
 published_at: "2026-07-09T12:58:44+00:00"
 first_seen_at: "2026-07-24T04:08:28.516317+00:00"
-fetched_at: "2026-07-28T22:08:13.123622+00:00"
+fetched_at: "2026-07-29T00:46:15.737896+00:00"
 content_hash: "sha256:309cce35cc33f92755464b2ab80e9c6bc060f78e557ef268a4710286707e7180"
 ---
 

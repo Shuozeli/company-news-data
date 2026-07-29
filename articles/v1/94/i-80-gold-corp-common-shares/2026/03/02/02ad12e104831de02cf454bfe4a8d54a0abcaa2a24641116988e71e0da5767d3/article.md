@@ -7,7 +7,7 @@ source_id: "i-80-gold-corp-common-shares-rss-3d35b1983e0d"
 canonical_url: "https://www.i80gold.com/i-80-gold-closes-upsized-us287-5-million-offering-of-convertible-senior-notes/"
 published_at: "2026-03-23T15:42:27+00:00"
 first_seen_at: "2026-07-20T23:17:48.246523+00:00"
-fetched_at: "2026-07-28T21:35:59.755045+00:00"
+fetched_at: "2026-07-29T00:03:55.112586+00:00"
 content_hash: "sha256:9565f1bbd597ee7f0ffaa4eb445ef29ddc35bf86d598eb804f593bd97cfbc049"
 ---
 

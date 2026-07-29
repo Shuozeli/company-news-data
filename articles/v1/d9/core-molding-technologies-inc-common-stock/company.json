@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d9/core-molding-technologies-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 15458,
+        "sha256": "sha256:62426f7a77d90b9635f6aab3dc92696d0ceea6ef08154d8faaf8672228b00b1d",
+        "newest_at": "2026-07-14T20:10:30+00:00",
+        "oldest_at": "2025-11-05T21:05:25+00:00"
+      }
+    ]
+  }
 }

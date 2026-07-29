@@ -7,7 +7,7 @@ source_id: "danaher-corporation-common-stock-rss-baeab7bd386b"
 canonical_url: "https://investors.danaher.com/2026-01-28-Danaher-Reports-Fourth-Quarter-and-Full-Year-2025-Results"
 published_at: "2026-01-28T11:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:45.140623+00:00"
-fetched_at: "2026-07-28T20:49:16.354019+00:00"
+fetched_at: "2026-07-28T23:34:39.620039+00:00"
 content_hash: "sha256:25714d28b4247dbbef8d1c84ca2567b7c30f322a4d8cf1b7a91814b4f477174b"
 ---
 

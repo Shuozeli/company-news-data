@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 19
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7b/ss-c-technologies-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 27843,
+        "sha256": "sha256:81775b77320a34dbdd3b3f072453c7d938bf51cfc3b6f7b6632249f2ddde51b0",
+        "newest_at": "2026-07-24T04:00:01+00:00",
+        "oldest_at": "2026-06-22T11:00:00+00:00"
+      }
+    ]
+  }
 }

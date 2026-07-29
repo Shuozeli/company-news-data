@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/you-can-now-use-web-checkout-in-ios-apps-heres-how"
-published_at: "2025-05-01T13:55:58.493+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:a95a75eb1220388108f1f06211749af97cf3ee8ec135283f4f67eb4eef7e290a"

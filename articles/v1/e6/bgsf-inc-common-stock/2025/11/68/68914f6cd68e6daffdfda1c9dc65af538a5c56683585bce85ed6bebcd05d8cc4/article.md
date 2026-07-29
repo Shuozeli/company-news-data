@@ -7,7 +7,7 @@ source_id: "bgsf-inc-common-stock-rss-117cf374864d"
 canonical_url: "https://investor.bgsf.com/news/news-details/2025/BGSF-Inc--Delays-Timing-of-Its-Fiscal-2025-Third-Quarter-Results-and-Earnings-Conference-Call/default.aspx"
 published_at: "2025-11-06T04:30:00+00:00"
 first_seen_at: "2026-07-26T10:22:41.042488+00:00"
-fetched_at: "2026-07-28T20:51:58.874848+00:00"
+fetched_at: "2026-07-28T23:37:39.507325+00:00"
 content_hash: "sha256:1b16b2af009efdd3f60b6e789e8c4cd00e558dda8eefe57f0e38c0bdc13228c9"
 ---
 

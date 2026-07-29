@@ -96,5 +96,31 @@
       "partition": "2026-07",
       "record_count": 21
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f3/delta-air-lines-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 56383,
+        "sha256": "sha256:0df2f1858dab424ee4e7a424f4106d525f167c0071533467b8580a1ff04ab37f",
+        "newest_at": "2026-07-28T21:36:14.883471+00:00",
+        "oldest_at": "2026-01-07T03:19:02+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/f3/delta-air-lines-inc-common-stock/index/pages/000002.json",
+        "record_count": 44,
+        "byte_count": 49689,
+        "sha256": "sha256:cc601f3663411a2a801a8ea976ed23a45c9e902b4de78d315284964e06c6fb19",
+        "newest_at": "2025-12-26T03:39:26+00:00",
+        "oldest_at": "2024-10-31T08:21:05+00:00"
+      }
+    ]
+  }
 }

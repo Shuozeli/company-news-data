@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/que-es-el-complemento-de-pago-para-cfdi"
 published_at: "2022-10-13T17:52:32+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:a7fed3367bc4ab7299f6863ad43c562f5dcf7ade57c308d0df61ba8791f9dbd0"
 ---
 

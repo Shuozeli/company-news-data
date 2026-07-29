@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-forms-jv-completes-safeco-plaza-acquisition"
 published_at: "2021-09-01T20:23:07+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:4e0e305666fe2a2779f04dc45c0db315070e07e4e182807cd09ddb53f2b292c5"
 ---
 

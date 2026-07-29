@@ -7,7 +7,7 @@ source_id: "leidos-holdings-inc-common-stock-rss-27b1906f4f8e"
 canonical_url: "https://www.leidos.com/insights/UK"
 published_at: "2020-02-14T17:50:33+00:00"
 first_seen_at: "2026-07-20T23:24:51.153241+00:00"
-fetched_at: "2026-07-28T21:06:57.288943+00:00"
+fetched_at: "2026-07-28T23:52:51.225222+00:00"
 content_hash: "sha256:b918e2dca8c12e54d6b7c73f6ef92825e2d6d466984b8c7b93e0cccee196eeac"
 ---
 

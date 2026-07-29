@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/regulation-cc-funds-availability-ai-deposit-servicing-agent"
 published_at: "2026-07-10T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:1cd97d94f096d783609e2360db45aedfbc1de90ac62cebc99dedbb6b4a4915e0"
 ---
 

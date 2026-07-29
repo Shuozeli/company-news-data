@@ -7,7 +7,7 @@ source_id: "metropolitan-bank-holding-corp-common-stock-rss-3ca9c020781e"
 canonical_url: "https://mcbankny.com/metropolitan-commercial-bank-was-named-one-of-newsweeks-best-regional-banks-and-credit-unions-2024/"
 published_at: "2024-08-15T13:11:00+00:00"
 first_seen_at: "2026-07-20T23:17:44.493826+00:00"
-fetched_at: "2026-07-28T21:23:52.449776+00:00"
+fetched_at: "2026-07-29T00:03:40.624761+00:00"
 content_hash: "sha256:83459d75de3df556aa8b4d4a6cc82d91cfd5fb3a3ed9aa111d126b8fae9ad32b"
 ---
 

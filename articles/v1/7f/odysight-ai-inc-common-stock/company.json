@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7f/odysight-ai-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13167,
+        "sha256": "sha256:601fc923d48901c5b73b253a2be7e165710940da26b754a841cc5c4479aaa1a6",
+        "newest_at": "2026-07-08T11:15:00+00:00",
+        "oldest_at": "2026-03-31T11:05:00+00:00"
+      }
+    ]
+  }
 }

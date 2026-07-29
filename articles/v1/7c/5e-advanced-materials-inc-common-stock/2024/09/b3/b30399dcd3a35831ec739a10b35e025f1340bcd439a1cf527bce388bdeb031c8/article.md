@@ -7,7 +7,7 @@ source_id: "5e-advanced-materials-inc-common-stock-rss-72effc5e4ccb"
 canonical_url: "https://www.5eadvancedmaterials.com/blog/event/defense-industrial-base-consortium-dibc-will-be-hosting-its-inaugural-annual-symposium-september-11-12-2024"
 published_at: "2024-09-16T14:54:30+00:00"
 first_seen_at: "2026-07-20T23:19:28.499350+00:00"
-fetched_at: "2026-07-28T20:25:28.622123+00:00"
+fetched_at: "2026-07-28T23:10:28.119754+00:00"
 content_hash: "sha256:bdbd8999b7cba7eb80f81ae611e579a3d7a26cc69491e74b1753620ff71fc081"
 ---
 

@@ -104,5 +104,22 @@
       "partition": "2026-03",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e0/yc-tizeti/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 38985,
+        "sha256": "sha256:b34e73feb6ddd29e44b00e880af9e13a43dd222b13cd8e6f8969660a96e3168f",
+        "newest_at": "2026-03-09T15:36:13+00:00",
+        "oldest_at": "2021-04-09T13:13:15+00:00"
+      }
+    ]
+  }
 }

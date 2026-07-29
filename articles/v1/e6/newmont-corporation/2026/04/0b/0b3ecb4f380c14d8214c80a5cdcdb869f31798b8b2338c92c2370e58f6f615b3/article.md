@@ -7,7 +7,7 @@ source_id: "newmont-corporation-rss-b28462199de7"
 canonical_url: "https://www.newmont.com/investors/news-release/news-details/2026/Update-on-Cadia-Operations-2026-YTUpXnFfd8/default.aspx"
 published_at: "2026-04-16T23:10:00+00:00"
 first_seen_at: "2026-07-25T01:06:57.161799+00:00"
-fetched_at: "2026-07-28T19:49:41.561966+00:00"
+fetched_at: "2026-07-28T23:32:39.038318+00:00"
 content_hash: "sha256:b01690b0a504600a728833147e9d7d2dcdf93b7b5c71fa1f515f1367ef58ffba"
 ---
 

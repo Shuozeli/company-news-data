@@ -7,7 +7,7 @@ source_id: "selective-insurance-group-inc-common-stock-rss-8d6e086cb84e"
 canonical_url: "https://www.selective.com/investors/financial-calendar/05-02-2019"
 published_at: "2019-05-02T17:35:00+00:00"
 first_seen_at: "2026-07-25T22:32:54.601349+00:00"
-fetched_at: "2026-07-28T20:25:55.341070+00:00"
+fetched_at: "2026-07-28T23:10:50.539616+00:00"
 content_hash: "sha256:f586612ab93d8dbd766b32e2f0514258dd985cba220e64a903bcbe97c86bfd6c"
 ---
 

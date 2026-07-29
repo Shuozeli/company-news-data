@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-announces-acquisition-of-725-12th-street-in-washington-dc"
 published_at: "2025-01-07T14:06:43+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:5e718107ee0221d72988c68974c044df0fa1f00033650755abcf18f7473f5e1e"
 ---
 

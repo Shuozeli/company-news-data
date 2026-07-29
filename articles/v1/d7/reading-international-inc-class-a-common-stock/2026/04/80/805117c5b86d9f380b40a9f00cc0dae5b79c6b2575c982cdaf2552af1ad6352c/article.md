@@ -7,7 +7,7 @@ source_id: "reading-international-inc-class-a-common-stock-rss-2a90fce45284"
 canonical_url: "https://www.readingrdi.com/4th-quarter-earnings-call-2025/"
 published_at: "2026-04-06T14:54:35+00:00"
 first_seen_at: "2026-07-25T20:36:25.682580+00:00"
-fetched_at: "2026-07-28T22:02:56.561669+00:00"
+fetched_at: "2026-07-29T00:41:48.093676+00:00"
 content_hash: "sha256:a79543d90abc0f51b2d24c51ae929872de8dc13f446ddbb645c01e8c208bc10f"
 ---
 

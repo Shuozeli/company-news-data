@@ -7,7 +7,7 @@ source_id: "spire-inc-common-stock-rss-56f8a65da92a"
 canonical_url: "https://investors.spireenergy.com/news/news-details/2026/Spire-announces-sale-of-gas-marketing-business-to-Boardwalk-Pipelines-for-215-million/default.aspx"
 published_at: "2026-03-30T11:00:00+00:00"
 first_seen_at: "2026-07-25T23:59:51.848339+00:00"
-fetched_at: "2026-07-28T21:53:11.657711+00:00"
+fetched_at: "2026-07-29T00:32:31.597650+00:00"
 content_hash: "sha256:9a32c29d4a2a492b9b0b02bc2c6f5ece09edad5a2c983a79c1338de27a1e029c"
 ---
 

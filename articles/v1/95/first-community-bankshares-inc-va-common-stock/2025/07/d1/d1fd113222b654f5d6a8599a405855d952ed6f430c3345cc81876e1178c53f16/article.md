@@ -7,7 +7,7 @@ source_id: "first-community-bankshares-inc-va-common-stock-rss-7ad1a770dac9"
 canonical_url: "https://ir.fcbresource.com/news-events/press-releases/news-details/2025/First-Community-Bankshares-Inc--Announces-Acquisition-of-Hometown-Bancshares-Inc-/default.aspx"
 published_at: "2025-07-21T12:30:00+00:00"
 first_seen_at: "2026-07-26T14:13:56.441006+00:00"
-fetched_at: "2026-07-28T19:45:44.890596+00:00"
+fetched_at: "2026-07-28T23:22:37.407866+00:00"
 content_hash: "sha256:d265e290647b77f151918537c84ee49d366b67d39ec6c357c4c938c0a02c870b"
 ---
 

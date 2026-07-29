@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/purely-canada-acquires-value-added-processing-terminal-in-kindersley/"
 published_at: "2021-02-12T20:10:03+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:d4bda5987a50c9156e88754d631a2409092822d8a80e6b54e10736d8dbd42edf"
 ---
 

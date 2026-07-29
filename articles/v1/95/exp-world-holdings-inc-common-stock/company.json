@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/95/exp-world-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 9438,
+        "sha256": "sha256:300e2831092ebf2f7d7b11d4ca9d10e4dccd20e2ed0f24a27069f918d789bad9",
+        "newest_at": "2026-07-21T13:25:24+00:00",
+        "oldest_at": "2026-05-27T16:00:00+00:00"
+      }
+    ]
+  }
 }

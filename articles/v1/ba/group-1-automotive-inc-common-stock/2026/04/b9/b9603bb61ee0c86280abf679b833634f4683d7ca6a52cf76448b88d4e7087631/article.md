@@ -7,7 +7,7 @@ source_id: "group-1-automotive-inc-common-stock-rss-3fb657a1ed4b"
 canonical_url: "https://www.group1corp.com/2026-04-08-Group-1-Automotive-Schedules-Release-of-First-Quarter-2026-Financial-Results"
 published_at: "2026-04-08T20:16:00+00:00"
 first_seen_at: "2026-07-20T04:35:54.447468+00:00"
-fetched_at: "2026-07-28T21:02:20.809967+00:00"
+fetched_at: "2026-07-28T23:49:20.512652+00:00"
 content_hash: "sha256:e03211507c1411441212f89a24f48083907737fc2a0f15da5fb00607dca8e8b4"
 ---
 

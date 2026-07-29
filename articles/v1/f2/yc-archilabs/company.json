@@ -12,5 +12,22 @@
       "partition": "2026-06",
       "record_count": 12
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f2/yc-archilabs/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12531,
+        "sha256": "sha256:13fca0a59ea728287c9c576d6c0f4f100e07a1dbb92bc07735e51b583e6a302b",
+        "newest_at": "2026-06-30T01:06:16.404+00:00",
+        "oldest_at": "2026-06-30T01:06:01.405+00:00"
+      }
+    ]
+  }
 }

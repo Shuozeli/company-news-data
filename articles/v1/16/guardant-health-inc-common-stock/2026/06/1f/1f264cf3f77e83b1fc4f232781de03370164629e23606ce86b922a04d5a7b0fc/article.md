@@ -7,7 +7,7 @@ source_id: "guardant-health-inc-common-stock-rss-fb6215599895"
 canonical_url: "https://guardanthealth.com/2026/06/17/shay-martin-reflects-on-the-big-move-she-made-with-her-baby-after-husband-tanners-death/"
 published_at: "2026-06-17T20:28:58+00:00"
 first_seen_at: "2026-07-20T23:21:46.463762+00:00"
-fetched_at: "2026-07-28T20:28:11.382227+00:00"
+fetched_at: "2026-07-28T23:14:42.692011+00:00"
 content_hash: "sha256:dbc8043aab12a5c136ce6156c61b64001562abbff37df7350829a4defd60b98e"
 ---
 

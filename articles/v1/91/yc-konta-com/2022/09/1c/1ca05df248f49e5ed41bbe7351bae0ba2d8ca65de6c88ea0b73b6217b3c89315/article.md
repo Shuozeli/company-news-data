@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/deducciones-personales-para-personas-fisicas-que-son-y-a-cuales-puedes-aplicar"
 published_at: "2022-09-27T14:49:50+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:ad5288c526c8607490afa6127300344bac0bc304f5e8a4da8282c8d50ed205ca"
 ---
 

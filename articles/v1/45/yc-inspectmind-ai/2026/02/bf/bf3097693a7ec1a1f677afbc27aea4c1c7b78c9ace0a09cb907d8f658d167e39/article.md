@@ -7,7 +7,7 @@ source_id: "yc-inspectmind-ai-rss-7125fafcc8d8"
 canonical_url: "https://www.inspectmind.ai/case-studies"
 published_at: "2026-02-09T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:20.200105+00:00"
-fetched_at: "2026-07-28T20:11:37.923069+00:00"
+fetched_at: "2026-07-28T22:52:50.159667+00:00"
 content_hash: "sha256:fe47fd453c552f389e8e67287e3105eeacf8eda0d8752f4087708269043080a8"
 ---
 

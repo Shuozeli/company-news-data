@@ -7,7 +7,7 @@ source_id: "fractyl-health-inc-common-stock-rss-347083c4f534"
 canonical_url: "https://www.fractyl.com/our-science/presentations-publications/endoscopic-duodenal-mucosal-resurfacing-for-post-glp-1-weight-maintenance-6-month-randomized-sham-controlled-results-from-the-remain-1-midpoint-cohort-study/"
 published_at: "2026-05-06T14:58:56+00:00"
 first_seen_at: "2026-07-24T09:07:29.122181+00:00"
-fetched_at: "2026-07-28T21:05:07.497154+00:00"
+fetched_at: "2026-07-28T23:51:41.401622+00:00"
 content_hash: "sha256:45811c0d395cf8a2c3f2341941c87968a3a8b8ab7a422944fb923ac08f0c4b17"
 ---
 

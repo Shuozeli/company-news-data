@@ -7,7 +7,7 @@ source_id: "ionis-pharmaceuticals-inc-common-stock-rss-81149aa5bbff"
 canonical_url: "https://ionis.com/node/1201"
 published_at: "2026-01-30T21:03:09+00:00"
 first_seen_at: "2026-07-21T01:37:20.398915+00:00"
-fetched_at: "2026-07-28T20:50:24.940828+00:00"
+fetched_at: "2026-07-28T23:35:51.161083+00:00"
 content_hash: "sha256:4592fc797290cda4810aa4ec1f0a96caec3dc436775b5d0b36191fa37858b4be"
 ---
 

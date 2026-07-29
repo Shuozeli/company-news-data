@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3c/surgepays-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12401,
+        "sha256": "sha256:244225a4b9b9477b71b3c19b5a09af8b5aaa9e2b879330ec50b26d2e2213e1c0",
+        "newest_at": "2026-07-16T13:30:00+00:00",
+        "oldest_at": "2026-03-31T20:35:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "genenta-science-s-p-a-american-depositary-shares-rss-3108a93df4a7"
 canonical_url: "https://www.genenta.com/news/a-genenta-il-51-per-cento-di-sophia-high-tech/"
 published_at: "2026-04-24T09:49:02+00:00"
 first_seen_at: "2026-07-25T06:23:46.712061+00:00"
-fetched_at: "2026-07-28T22:13:09.873791+00:00"
+fetched_at: "2026-07-29T00:51:39.538791+00:00"
 content_hash: "sha256:894585de30aee64c69eff1a85c1ece01dd51daf591906083d531eec96b2c54a3"
 ---
 

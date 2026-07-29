@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-and-umiami-partner-to-further-development-of-plant-based-whole-cut-meat-analogues/"
 published_at: "2022-01-19T15:33:45+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:e71b13bfb4bd4d4793611e83b840964df372a3f6ff892c72c821f3f257b4d63d"
 ---
 

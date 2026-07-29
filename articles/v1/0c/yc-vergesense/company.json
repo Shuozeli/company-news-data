@@ -76,5 +76,31 @@
       "partition": "2026-07",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0c/yc-vergesense/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 54978,
+        "sha256": "sha256:ba5b28401f1968dcb305289c5cd5063a9b0a0e6154f4cad2cbb4d08e008ed65e",
+        "newest_at": "2026-07-24T18:44:32+00:00",
+        "oldest_at": "2024-05-14T05:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/0c/yc-vergesense/index/pages/000002.json",
+        "record_count": 6,
+        "byte_count": 6464,
+        "sha256": "sha256:8e4a6962fd4d92625f5843867d68a2fb14ff37526b03fadae639011d68f2eda3",
+        "newest_at": "2024-05-13T07:00:00+00:00",
+        "oldest_at": "2023-06-09T04:30:00+00:00"
+      }
+    ]
+  }
 }

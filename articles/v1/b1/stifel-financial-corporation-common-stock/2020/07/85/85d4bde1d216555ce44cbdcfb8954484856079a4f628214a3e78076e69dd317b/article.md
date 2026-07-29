@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2020/GLOBAL%20TECHNOLOGY%20INDUSTRY%20SHOWS%20SIGNS%20OF%20RESILIENCY%20AMID%20COVID-19%20PANDEMIC,%20ACCORDING%20TO%20FINDINGS%20OF%20NEW%20STIFEL%20SURVEY.pdf"
 published_at: "2020-07-22T12:30:02+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:70c57a6061ea9120d351af11871609f4ef1eaa4bb5e6cb740a390e3e5fd97b04"
 ---
 

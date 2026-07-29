@@ -4,9 +4,9 @@
     "key": "gran-tierra-energy-inc-common-stock",
     "name": "Gran Tierra Energy Inc. Common Stock"
   },
-  "record_count": 28,
+  "record_count": 29,
   "first_published_at": "2025-06-24T13:14:03+00:00",
-  "last_published_at": "2026-06-24T14:11:48+00:00",
+  "last_published_at": "2026-07-28T00:00:00+00:00",
   "partitions": [
     {
       "partition": "2025-06",
@@ -47,6 +47,27 @@
     {
       "partition": "2026-06",
       "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e2/gran-tierra-energy-inc-common-stock/index/pages/000001.json",
+        "record_count": 29,
+        "byte_count": 35650,
+        "sha256": "sha256:6c5dbdb3805494030f26ee932bcd4f6cbf4fe2a28238e534174c41195500c46f",
+        "newest_at": "2026-07-28T00:00:00+00:00",
+        "oldest_at": "2025-06-24T13:14:03+00:00"
+      }
+    ]
+  }
 }

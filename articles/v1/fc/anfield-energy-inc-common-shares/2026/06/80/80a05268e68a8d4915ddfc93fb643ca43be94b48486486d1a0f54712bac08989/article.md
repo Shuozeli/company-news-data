@@ -7,7 +7,7 @@ source_id: "anfield-energy-inc-common-shares-rss-a0a17c475371"
 canonical_url: "https://anfieldenergy.com/anfield-energy-inc-completes-phase-one-surface-construction-at-velvet-wood-project/"
 published_at: "2026-06-01T13:09:31+00:00"
 first_seen_at: "2026-07-24T04:08:28.516317+00:00"
-fetched_at: "2026-07-28T22:08:13.123622+00:00"
+fetched_at: "2026-07-29T00:46:15.737896+00:00"
 content_hash: "sha256:74483be67aae1816147a5fd43614e67dcf227b697216f9c8b2d2a266d875381e"
 ---
 

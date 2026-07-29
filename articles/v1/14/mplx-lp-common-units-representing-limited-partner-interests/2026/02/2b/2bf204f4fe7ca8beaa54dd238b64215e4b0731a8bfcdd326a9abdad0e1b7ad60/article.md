@@ -7,7 +7,7 @@ source_id: "mplx-lp-common-units-representing-limited-partner-interests-rss-4a76
 canonical_url: "https://ir.mplx.com/CorporateProfile/press-releases/news-release/2026/MPLX-LP-prices-1-5-billion-senior-notes-offering/default.aspx"
 published_at: "2026-02-05T23:43:00+00:00"
 first_seen_at: "2026-07-27T10:42:09.203732+00:00"
-fetched_at: "2026-07-28T20:38:21.278099+00:00"
+fetched_at: "2026-07-28T23:22:24.820605+00:00"
 content_hash: "sha256:16626697b88afec1ad333d38395a7b29a595ec636945465004a0acfe4b019d1a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/why-go-to-the-office-few-want-to-some-need-to/"
 published_at: "2020-07-20T18:12:00+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-28T21:47:02.623482+00:00"
+fetched_at: "2026-07-29T00:23:58.530332+00:00"
 content_hash: "sha256:295fa3aec1cd384996b586d72c8bd66b4646566cd6ceb86d13d054ce74526e9d"
 ---
 

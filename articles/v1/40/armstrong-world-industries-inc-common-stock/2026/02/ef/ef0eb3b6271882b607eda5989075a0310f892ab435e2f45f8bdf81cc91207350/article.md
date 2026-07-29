@@ -7,7 +7,7 @@ source_id: "armstrong-world-industries-inc-common-stock-rss-6167929e995b"
 canonical_url: "https://investors.armstrong.com/news/news-details/2026/Armstrong-World-Industries-Reports-Record-Setting-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-02-24T11:00:00+00:00"
 first_seen_at: "2026-07-26T22:48:41.361140+00:00"
-fetched_at: "2026-07-28T21:36:16.047147+00:00"
+fetched_at: "2026-07-29T00:08:08.556670+00:00"
 content_hash: "sha256:8bb024e8c7571c38122c55f9d470005eab52229caa044b93b75720fd3f9ead7d"
 ---
 

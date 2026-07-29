@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9c/seadrill-limited-common-shares/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 19437,
+        "sha256": "sha256:85d74d3be3219471e03a7f4d90fc4f8e965c21e607ef833463fef2262e6e4e2b",
+        "newest_at": "2026-07-14T20:15:00+00:00",
+        "oldest_at": "2024-01-16T11:20:32+00:00"
+      }
+    ]
+  }
 }

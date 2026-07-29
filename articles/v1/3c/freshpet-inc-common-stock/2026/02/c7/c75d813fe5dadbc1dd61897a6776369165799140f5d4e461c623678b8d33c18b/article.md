@@ -7,7 +7,7 @@ source_id: "freshpet-inc-common-stock-rss-e955bfe11cf8"
 canonical_url: "https://investors.freshpet.com/news-releases/news-release-details/freshpet-inc-reports-fourth-quarter-and-full-year-2025-financial"
 published_at: "2026-02-23T11:30:11+00:00"
 first_seen_at: "2026-07-25T05:44:37.796462+00:00"
-fetched_at: "2026-07-28T20:51:46.092021+00:00"
+fetched_at: "2026-07-28T23:37:28.365103+00:00"
 content_hash: "sha256:612c176e0c5961b23035171a7666c7a8b63c81ed800089de67bfdd7b073cf93d"
 ---
 

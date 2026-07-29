@@ -7,7 +7,7 @@ source_id: "geopark-ltd-common-shares-rss-ad922b42f026"
 canonical_url: "https://www.geo-park.com/uncategorized/listen-to-the-4q-2021-conference-call/"
 published_at: "2022-04-06T19:07:09+00:00"
 first_seen_at: "2026-07-20T23:22:37.443202+00:00"
-fetched_at: "2026-07-28T20:44:31.811897+00:00"
+fetched_at: "2026-07-28T23:28:20.567059+00:00"
 content_hash: "sha256:c82e80e0577b8919ba62b1273c8b7e56171f7e75f35716359c8f3d34712802c8"
 ---
 

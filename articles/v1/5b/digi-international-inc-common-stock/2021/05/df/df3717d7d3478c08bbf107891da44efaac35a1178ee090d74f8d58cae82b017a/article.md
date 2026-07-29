@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/digi-chosen-by-vodafone-as-iot-technology-partner"
 published_at: "2021-05-31T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:9cc37f04422cef835439d1f26f2ecf4cc1db8fefa9d870fed7a57d8db21b2e90"
 ---
 

@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2010/Study-Finds-Nurse-Interruptions-a-Common-and-Significant-Factor-in-Hospital-Medical-Errors/default.aspx"
 published_at: "2010-05-17T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T20:19:36.099870+00:00"
+fetched_at: "2026-07-28T23:03:29.570108+00:00"
 content_hash: "sha256:56d09c1dec8c73c54493be3c3eec888082354f4ec67bc5aaad765996ff2e0c46"
 ---
 

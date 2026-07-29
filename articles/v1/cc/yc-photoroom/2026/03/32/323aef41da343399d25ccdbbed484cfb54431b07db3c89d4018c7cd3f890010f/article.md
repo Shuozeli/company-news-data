@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-d1044ff9c1aa"
 canonical_url: "https://www.photoroom.com/blog/photoroom-vs-gemini"
-published_at: "2026-03-06T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:08.835718+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:d6d950dffac6a56e23d02bbfaeb2fdc3367aaae12c62d230ffb8f3debd51ab9d"

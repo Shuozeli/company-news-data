@@ -7,7 +7,7 @@ source_id: "semrush-holdings-inc-class-a-common-stock-rss-cf0b72cbbd40"
 canonical_url: "https://semrush.com/463141-semrush-releases-expanded-2026-ai-visibility-index-analyzing-126-million-ai-search-prompts"
 published_at: "2026-06-26T13:03:00+00:00"
 first_seen_at: "2026-07-25T01:12:32.810977+00:00"
-fetched_at: "2026-07-28T22:05:42.235116+00:00"
+fetched_at: "2026-07-29T00:44:14.590389+00:00"
 content_hash: "sha256:a1d2c426bb57825f03e05f601532f841d9230139ff54662f26120b1529d1c363"
 ---
 

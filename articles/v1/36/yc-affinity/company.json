@@ -20,5 +20,22 @@
       "partition": "2025-03",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/36/yc-affinity/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 3867,
+        "sha256": "sha256:62c36c10d66e27432c355b25adaa38be1e3abade6bba56db884fbe49f883e0ee",
+        "newest_at": "2025-03-27T00:00:00+00:00",
+        "oldest_at": "2024-12-05T00:00:00+00:00"
+      }
+    ]
+  }
 }

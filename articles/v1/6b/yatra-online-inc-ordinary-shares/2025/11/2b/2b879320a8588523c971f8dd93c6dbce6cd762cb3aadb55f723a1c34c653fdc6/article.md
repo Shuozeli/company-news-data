@@ -7,7 +7,7 @@ source_id: "yatra-online-inc-ordinary-shares-rss-e8f187711a66"
 canonical_url: "https://investors.yatra.com/press-releases/press-release-details/2025/Yatra-Online-Inc--to-Host-Second-Quarter-2026-Financial-Results-Call-on-November-12-2025/default.aspx"
 published_at: "2025-11-07T11:45:00+00:00"
 first_seen_at: "2026-07-26T06:10:56.529491+00:00"
-fetched_at: "2026-07-28T20:28:31.465429+00:00"
+fetched_at: "2026-07-28T23:14:55.559505+00:00"
 content_hash: "sha256:f9467d167151a3615d57992dfc522df5ba8f1a1c78483687adab4382b4366cfa"
 ---
 

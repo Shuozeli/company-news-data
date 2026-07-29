@@ -7,7 +7,7 @@ source_id: "golub-capital-bdc-inc-common-stock-rss-42b3214e2170"
 canonical_url: "https://golubcapitalbdc.com/2026/07/14/u-s-middle-market-showed-strength-in-q2-2026/"
 published_at: "2026-07-14T17:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:52.275280+00:00"
-fetched_at: "2026-07-28T20:20:29.720453+00:00"
+fetched_at: "2026-07-28T23:03:48.236161+00:00"
 content_hash: "sha256:0e9a502039539de7c6c5f22520aa74ba949e148c21995cdd47f0ed3983e10fbf"
 ---
 

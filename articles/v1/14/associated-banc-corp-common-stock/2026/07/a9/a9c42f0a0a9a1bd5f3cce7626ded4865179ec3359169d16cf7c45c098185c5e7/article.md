@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-completes-6-9m-loan-to-finance-industrial-building-west-of-columbus-ohio"
 published_at: "2026-07-20T20:28:00+00:00"
 first_seen_at: "2026-07-20T21:44:57.897357+00:00"
-fetched_at: "2026-07-28T22:05:47.381749+00:00"
+fetched_at: "2026-07-29T00:43:53.379763+00:00"
 content_hash: "sha256:eb1114c8492df9c980dec0f538ce56ef0e45703badc503952b60345587a9f05b"
 ---
 

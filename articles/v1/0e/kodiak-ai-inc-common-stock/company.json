@@ -116,5 +116,31 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0e/kodiak-ai-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 59575,
+        "sha256": "sha256:eec3997727f0229e54209ba8ef6c35a6d032e7c7d2bb3b2b86ac6f323eb1f103",
+        "newest_at": "2026-07-16T13:00:11+00:00",
+        "oldest_at": "2024-03-27T13:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/0e/kodiak-ai-inc-common-stock/index/pages/000002.json",
+        "record_count": 4,
+        "byte_count": 4588,
+        "sha256": "sha256:d7ec527954cd918a26093bf068d0be04b59289b5b480073dc6f9660e9ad9183f",
+        "newest_at": "2024-02-29T14:00:00+00:00",
+        "oldest_at": "2023-12-13T23:00:00+00:00"
+      }
+    ]
+  }
 }

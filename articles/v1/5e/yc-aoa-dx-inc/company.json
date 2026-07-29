@@ -44,5 +44,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5e/yc-aoa-dx-inc/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12210,
+        "sha256": "sha256:85cb5947df132573a0d7e9c8eda8b6501ba0532c42cbed643c30a44a7da8198e",
+        "newest_at": "2026-07-13T15:00:16+00:00",
+        "oldest_at": "2025-06-23T17:32:55+00:00"
+      }
+    ]
+  }
 }

@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/47/stoke-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 21,
+        "byte_count": 26827,
+        "sha256": "sha256:5313dc97eb8da27d322a6a5b31c0f89f2dfda42b8fbe2d32dad5818af0c9547d",
+        "newest_at": "2026-07-27T20:01:00+00:00",
+        "oldest_at": "2021-07-22T06:55:15+00:00"
+      }
+    ]
+  }
 }

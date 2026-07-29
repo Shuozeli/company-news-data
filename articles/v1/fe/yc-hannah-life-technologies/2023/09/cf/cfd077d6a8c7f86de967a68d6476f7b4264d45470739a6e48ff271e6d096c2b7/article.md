@@ -7,7 +7,7 @@ source_id: "yc-hannah-life-technologies-atom-a63a77caafac"
 canonical_url: "https://blog.twoplusfertility.com/blogs/pregnancy-stories/first-option-before-iui-ivf"
 published_at: "2023-09-14T04:40:29+00:00"
 first_seen_at: "2026-07-24T13:31:41.510206+00:00"
-fetched_at: "2026-07-28T20:01:02.751203+00:00"
+fetched_at: "2026-07-28T23:50:30.923269+00:00"
 content_hash: "sha256:e095da458c05862e47ac3179937cb1fc28178f75b1d40560a4864b3acae0f0af"
 ---
 

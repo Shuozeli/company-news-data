@@ -12,5 +12,22 @@
       "partition": "2022-02",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e9/gerdau-s-a-common-stock/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1456,
+        "sha256": "sha256:fe21871e94088bf266778d20bf265cb4e47c9ddc49f1b0f2d6937b89cf83d8b1",
+        "newest_at": "2022-02-07T14:01:00+00:00",
+        "oldest_at": "2022-02-07T14:01:00+00:00"
+      }
+    ]
+  }
 }

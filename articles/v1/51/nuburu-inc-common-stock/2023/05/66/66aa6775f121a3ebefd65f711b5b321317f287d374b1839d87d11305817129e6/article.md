@@ -7,7 +7,7 @@ source_id: "nuburu-inc-common-stock-rss-80dd93982be0"
 canonical_url: "https://www.bizjournals.com/denver/news/2022/08/09/nuburu-laser-spac-merger-tailwind-acquisition.html"
 published_at: "2023-05-05T13:54:07+00:00"
 first_seen_at: "2026-07-25T16:40:58.305595+00:00"
-fetched_at: "2026-07-28T19:39:05.960215+00:00"
+fetched_at: "2026-07-28T23:10:49.943252+00:00"
 content_hash: "sha256:3be335530b0a66d1c0e2e882f19c0ee6001a6027eb5a8c0bddcf7a11c719f2ad"
 ---
 

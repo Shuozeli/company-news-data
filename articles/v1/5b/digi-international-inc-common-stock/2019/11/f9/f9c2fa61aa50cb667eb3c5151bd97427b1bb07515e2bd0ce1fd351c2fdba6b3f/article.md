@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2019/digi-reports-fourth-fiscal-quarter-full-year-2019"
 published_at: "2019-11-14T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:eba8311dab4b18576e6799258c3813cff7f5644684e2fa62bf954b0283ed8ff4"
 ---
 

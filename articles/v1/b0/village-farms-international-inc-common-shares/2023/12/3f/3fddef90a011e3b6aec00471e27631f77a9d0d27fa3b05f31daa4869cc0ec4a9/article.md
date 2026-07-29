@@ -7,7 +7,7 @@ source_id: "village-farms-international-inc-common-shares-rss-000a585410fa"
 canonical_url: "https://villagefarms.com/ceo-mike-degiglio-discusses-village-farms-plans-for-the-netherlands-a-limited-license-country/"
 published_at: "2023-12-21T17:40:44+00:00"
 first_seen_at: "2026-07-24T13:33:42.725580+00:00"
-fetched_at: "2026-07-28T21:19:36.398356+00:00"
+fetched_at: "2026-07-29T00:23:52.423593+00:00"
 content_hash: "sha256:db80c656fc7f515faca68f9a074adfc99f72ad20b3f6fe47b8eb13790f871c5e"
 ---
 

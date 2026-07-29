@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/setting-up-app-to-web-checkout-from-your-ios-paywalls"
-published_at: "2025-05-19T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:625ab55d7dba1d392c975197447b40d28ac2192403b3a5b2ffc4d9cc790572e9"

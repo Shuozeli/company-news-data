@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-foods-recent-montana-based-asset-acquisition-expands-access-to-high-growth-pet-food-market-and-strengthens-chickpea-market-presence/"
 published_at: "2024-08-15T17:25:48+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:2b003df5afe35594440a089c596a3693921b5805b2173f23470390c82dfbad21"
 ---
 

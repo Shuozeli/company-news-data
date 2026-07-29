@@ -7,7 +7,7 @@ source_id: "martin-midstream-partners-l-p-limited-partnership-rss-5f1f67fcc9e1"
 canonical_url: "https://mmlp.com/investor-relations/press-releases/press-releases-details/2025/Martin-Midstream-Partners-Announces-Retirement-of-VP-Jeff-Posey-Michael-Lawrence-to-Expand-Role-Leading-Sulfur-and-Fertilizer-Services/default.aspx"
 published_at: "2025-12-15T17:30:00+00:00"
 first_seen_at: "2026-07-25T13:22:50.062012+00:00"
-fetched_at: "2026-07-28T20:05:20.880424+00:00"
+fetched_at: "2026-07-28T23:53:43.297921+00:00"
 content_hash: "sha256:62c2e62ab88cf947d012454818c749f08fa2a2acb24484081d21114363e4b544"
 ---
 

@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 11
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fc/yc-validere/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 14086,
+        "sha256": "sha256:9eaaec7cac41e2d60d404868225e70984577032ec19a81e356fc84093bbe07e1",
+        "newest_at": "2026-07-28T18:11:43+00:00",
+        "oldest_at": "2026-06-22T16:05:37+00:00"
+      }
+    ]
+  }
 }

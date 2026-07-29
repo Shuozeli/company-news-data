@@ -7,7 +7,7 @@ source_id: "onewater-marine-inc-class-a-common-stock-rss-edebdb442ae1"
 canonical_url: "https://investor.onewatermarine.com/news/news-details/2026/OneWater-Marine-Inc--Announces-Fiscal-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-01-29T12:00:00+00:00"
 first_seen_at: "2026-07-25T17:31:55.951745+00:00"
-fetched_at: "2026-07-28T20:40:15.589432+00:00"
+fetched_at: "2026-07-28T23:24:17.416041+00:00"
 content_hash: "sha256:8c028cdf4f1edf3c206be89daf517fa8a685c98a99981288f61897e3b7fb7e87"
 ---
 

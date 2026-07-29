@@ -7,7 +7,7 @@ source_id: "riskified-ltd-class-a-ordinary-shares-rss-dd7d0cc56e2d"
 canonical_url: "https://medium.com/riskified-technology/the-one-view-odyssey-architecture-aggregations-and-1-billion-rows-in-snowflake-21008dcca2fd"
 published_at: "2026-03-18T09:25:07+00:00"
 first_seen_at: "2026-07-20T23:18:31.853064+00:00"
-fetched_at: "2026-07-28T19:38:53.498857+00:00"
+fetched_at: "2026-07-28T23:10:47.152354+00:00"
 content_hash: "sha256:219c7c5dd0440e507ef9566d02da52beb3be595ca933c1269f422e95a9f4d51c"
 ---
 

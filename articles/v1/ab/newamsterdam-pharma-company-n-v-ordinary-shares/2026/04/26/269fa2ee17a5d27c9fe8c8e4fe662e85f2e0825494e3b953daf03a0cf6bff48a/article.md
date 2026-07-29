@@ -7,7 +7,7 @@ source_id: "newamsterdam-pharma-company-n-v-ordinary-shares-rss-bf22562b2191"
 canonical_url: "https://ir.newamsterdampharma.com/board-member/adele-gulfo"
 published_at: "2026-04-22T13:41:06+00:00"
 first_seen_at: "2026-07-20T23:22:13.348301+00:00"
-fetched_at: "2026-07-28T20:31:52.254884+00:00"
+fetched_at: "2026-07-28T23:17:18.796237+00:00"
 content_hash: "sha256:a2065acb7d3ebd339e05dc8da0c09028a96936b8e2b5065f48c80960a7a10d35"
 ---
 

@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/motorsports/team-penske-and-porsche-revive-two-great-liveries-for-road-america/"
 published_at: "2026-07-28T21:43:59+00:00"
 first_seen_at: "2026-07-28T22:11:01.428282+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:c3eacd3784cf42c95cec4b8afb9d67de03418be30cfc705aa77dd38ebd9e9194"
 ---
 

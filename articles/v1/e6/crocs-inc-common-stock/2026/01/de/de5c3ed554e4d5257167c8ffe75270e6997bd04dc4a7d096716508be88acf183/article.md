@@ -7,7 +7,7 @@ source_id: "crocs-inc-common-stock-rss-06481efa57c0"
 canonical_url: "https://investors.crocs.com/news-and-events/press-releases/press-release-details/2026/Crocs-Unveils-Wonderfully-Unordinary-a-New-Global-Brand-Narrative-Ushering-in-the-Next-Era-of-Self-Expression/default.aspx"
 published_at: "2026-01-28T14:00:00+00:00"
 first_seen_at: "2026-07-25T01:25:14.804076+00:00"
-fetched_at: "2026-07-28T20:22:30.571615+00:00"
+fetched_at: "2026-07-28T23:06:23.889804+00:00"
 content_hash: "sha256:c00c6e215472cb55483355dfef6c5121ba5dec40e1e43ae82b4039001a66792c"
 ---
 

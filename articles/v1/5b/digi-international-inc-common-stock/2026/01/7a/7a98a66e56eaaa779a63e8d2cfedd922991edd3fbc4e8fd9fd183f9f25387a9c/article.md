@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2026/smartsense-and-jolt-to-in-dairy-queen-connect-2026"
 published_at: "2026-01-07T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:412fa976580282d20a3b9d2170ef39f3603f2b1f74451c87f338e3880bbc91d2"
 ---
 

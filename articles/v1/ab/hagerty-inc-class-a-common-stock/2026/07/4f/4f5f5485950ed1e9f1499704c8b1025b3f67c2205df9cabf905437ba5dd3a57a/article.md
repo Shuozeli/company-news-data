@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/automotive-history/the-lamborghini-portofino-concept-paved-the-way-for-chryslers-cab-forward-aspirations/"
 published_at: "2026-07-28T19:00:00+00:00"
 first_seen_at: "2026-07-28T20:07:46.991490+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:207070dfa1b5393ea4ff0412d32c56d9826c44f67b118ad12fb093e0a338d8fe"
 ---
 

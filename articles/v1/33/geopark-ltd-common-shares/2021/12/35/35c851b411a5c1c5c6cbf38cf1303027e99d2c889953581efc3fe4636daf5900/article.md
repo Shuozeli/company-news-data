@@ -7,7 +7,7 @@ source_id: "geopark-ltd-common-shares-rss-ad922b42f026"
 canonical_url: "https://www.geo-park.com/press-releases/proxy-advisory-firm-iss-recommends-shareholders-vote-for-seven-of-eight-of-geoparks-directors/"
 published_at: "2021-12-14T10:48:30+00:00"
 first_seen_at: "2026-07-20T23:22:37.443202+00:00"
-fetched_at: "2026-07-28T20:44:31.811897+00:00"
+fetched_at: "2026-07-28T23:28:20.567059+00:00"
 content_hash: "sha256:1d4c0c14610c0ad501693be192ef03c0a73a149e6b58d15a9251eb477cb84337"
 ---
 

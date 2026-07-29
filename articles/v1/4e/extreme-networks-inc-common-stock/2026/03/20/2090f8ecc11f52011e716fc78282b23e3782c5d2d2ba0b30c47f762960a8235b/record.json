@@ -17,8 +17,8 @@
   "summary": "Passing too large an alignment to the memalign suite of functions (memalign, posix_memalign, aligned_alloc) in the GNU C Library may result in an integer overflow, which could consequently result in a heap corruption. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
   "published_at": "2026-03-20T14:46:32+00:00",
   "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
-  "fetched_at": "2026-07-28T20:59:59.352597+00:00",
-  "last_updated_at": "2026-07-28T20:59:59.548941+00:00",
+  "fetched_at": "2026-07-28T23:46:40.217305+00:00",
+  "last_updated_at": "2026-07-28T23:46:40.335342+00:00",
   "paths": {
     "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/20/2090f8ecc11f52011e716fc78282b23e3782c5d2d2ba0b30c47f762960a8235b/article.md",
     "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/20/2090f8ecc11f52011e716fc78282b23e3782c5d2d2ba0b30c47f762960a8235b/record.json"
@@ -26,7 +26,7 @@
   "content": {
     "media_type": "text/markdown; charset=utf-8",
     "bytes": 1285,
-    "sha256": "sha256:49df4edeef4afe18bdaa9d6e333d4c812d3a746885aab828b28c3cd62a34be10",
+    "sha256": "sha256:6baf8a19a46fe626fc0c09c6346349140a1891df034507f1ce82dda0a775140f",
     "normalized_content_hash": "sha256:f2d7a8f7d55ca7afd6cdffadc53f4b04f085bbd9b85deecd9598d38e8e6a9956"
   },
   "provenance": {

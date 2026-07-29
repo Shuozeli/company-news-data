@@ -7,7 +7,7 @@ source_id: "anfield-energy-inc-common-shares-rss-a0a17c475371"
 canonical_url: "https://anfieldenergy.com/anfield-energy-provides-operational-update-on-shootaring-canyon-uranium-mill-license-renewal-and-refurbishment/"
 published_at: "2026-06-08T11:46:41+00:00"
 first_seen_at: "2026-07-24T04:08:28.516317+00:00"
-fetched_at: "2026-07-28T22:08:13.123622+00:00"
+fetched_at: "2026-07-29T00:46:15.737896+00:00"
 content_hash: "sha256:eab611f1068f3b5345bb4258c8150886dd39bcfd6b8eb28ba608db5160f352c9"
 ---
 

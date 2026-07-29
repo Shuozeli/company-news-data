@@ -7,7 +7,7 @@ source_id: "flowserve-corporation-common-stock-rss-41e9b9c7e0cd"
 canonical_url: "https://www.flowserve.com/node/4628/"
 published_at: "2025-10-09T18:45:05+00:00"
 first_seen_at: "2026-07-20T23:21:25.534488+00:00"
-fetched_at: "2026-07-28T20:23:34.930593+00:00"
+fetched_at: "2026-07-28T23:08:16.934407+00:00"
 content_hash: "sha256:cc7d49cb08796b20ab6e0a8c58e82c2d6d9d7980ca2388145f1d38738bf65c19"
 ---
 

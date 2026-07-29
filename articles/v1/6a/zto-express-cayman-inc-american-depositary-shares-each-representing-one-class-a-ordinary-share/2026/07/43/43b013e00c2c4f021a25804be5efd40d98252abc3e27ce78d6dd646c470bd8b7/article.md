@@ -7,7 +7,7 @@ source_id: "zto-express-cayman-inc-american-depositary-shares-each-representing-
 canonical_url: "https://zto.investorroom.com/2026-07-23-ZTO-to-Announce-Second-Quarter-and-Half-Year-Interim-Financial-Results-of-2026-on-August-18,-2026-U-S-Eastern-Time"
 published_at: "2026-07-23T10:00:00+00:00"
 first_seen_at: "2026-07-24T08:15:57.664718+00:00"
-fetched_at: "2026-07-28T21:39:42.981510+00:00"
+fetched_at: "2026-07-29T00:14:10.146232+00:00"
 content_hash: "sha256:7426fb507ba0005676d4ab52d96d4aed6fafb0dda42927aeb3fc2cf559d5a4c7"
 ---
 

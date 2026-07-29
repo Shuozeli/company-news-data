@@ -7,7 +7,7 @@ source_id: "rectitude-holdings-ltd-ordinary-shares-rss-0d297b397433"
 canonical_url: "https://ir.rectitude.com.sg/rectitude-holdings-announces-renaming-of-growth-strategy-to-rectitude-succession-bridge-and-strategic-collaboration-with-inos-pte-ltd-and-g-l-hardware-marketing-pte-ltd/"
 published_at: "2026-04-16T12:00:31+00:00"
 first_seen_at: "2026-07-25T20:39:27.562148+00:00"
-fetched_at: "2026-07-28T22:10:43.539752+00:00"
+fetched_at: "2026-07-29T00:49:35.606057+00:00"
 content_hash: "sha256:b0c5174ccfc2f39f97fdaa27719e483971e35ae472fed36a09e110d77c81c386"
 ---
 

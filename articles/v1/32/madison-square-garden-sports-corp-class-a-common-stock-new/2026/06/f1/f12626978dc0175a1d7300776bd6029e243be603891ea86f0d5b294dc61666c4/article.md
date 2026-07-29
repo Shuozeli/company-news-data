@@ -7,7 +7,7 @@ source_id: "madison-square-garden-sports-corp-class-a-common-stock-new-rss-ca0bc
 canonical_url: "https://investor.msgsports.com/press-releases/news-details/2026/MSG-Entertainment-and-MSG-Sports-Announce-Renewed-and-Expanded-Multi-Year-Marketing-Partnership-With-Lexus/default.aspx"
 published_at: "2026-06-30T14:00:00+00:00"
 first_seen_at: "2026-07-25T12:57:48.577427+00:00"
-fetched_at: "2026-07-28T19:45:55.931253+00:00"
+fetched_at: "2026-07-28T23:22:44.019825+00:00"
 content_hash: "sha256:ff0986d844256ebbab41716e85e15d8196ed26e70ed93f7c558a3bf5cba421e4"
 ---
 

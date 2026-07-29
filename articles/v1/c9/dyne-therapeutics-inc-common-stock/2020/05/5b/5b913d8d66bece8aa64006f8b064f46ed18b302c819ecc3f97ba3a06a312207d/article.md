@@ -7,7 +7,7 @@ source_id: "dyne-therapeutics-inc-common-stock-rss-d110a4ccdb6e"
 canonical_url: "https://www.dyne-tx.com/dyne-therapeutics-demonstrates-forcetm-platforms-potential-to-deliver-potent-exon-skipping-molecules-directly-to-muscle-to-treat-duchenne-muscular-dystrophy/"
 published_at: "2020-05-12T11:01:27+00:00"
 first_seen_at: "2026-07-20T23:21:48.721292+00:00"
-fetched_at: "2026-07-28T20:38:27.587054+00:00"
+fetched_at: "2026-07-28T23:22:18.035043+00:00"
 content_hash: "sha256:8fb42fb52eb3b7b16ef453bc4b5f0a4d96fd2927a475f609e3336913436468fa"
 ---
 

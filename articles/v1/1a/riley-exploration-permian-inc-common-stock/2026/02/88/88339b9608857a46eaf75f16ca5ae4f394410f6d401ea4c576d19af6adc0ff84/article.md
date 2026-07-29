@@ -7,7 +7,7 @@ source_id: "riley-exploration-permian-inc-common-stock-rss-18f2e505d58c"
 canonical_url: "https://rileypermian.com/investors/press-releases/news-details/2026/Riley-Permian-Names-Bobby-Saadati-to-Board-of-Directors/default.aspx"
 published_at: "2026-02-06T21:50:00+00:00"
 first_seen_at: "2026-07-25T21:31:45.109736+00:00"
-fetched_at: "2026-07-28T21:03:22.547900+00:00"
+fetched_at: "2026-07-28T23:50:13.605412+00:00"
 content_hash: "sha256:41e6246e5397ee61de394f0bc490f3c7f4203e62ca5078287f1e7d5c535f588f"
 ---
 

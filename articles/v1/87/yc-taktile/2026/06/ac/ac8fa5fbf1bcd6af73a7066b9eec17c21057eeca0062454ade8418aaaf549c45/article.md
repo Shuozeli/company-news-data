@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:42:44.602232+00:00"
 content_hash: "sha256:76429cb83a749499b1bb1613ae27e1378cb74438d53922652e246104f56a9d34"
 ---
 
-# Your metrics are lying to you
+# Your Lambda isn't leaking memory — your metrics are lying to you
 
 Jun 4, 2026 ·
 

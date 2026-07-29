@@ -7,7 +7,7 @@ source_id: "smith-wesson-brands-inc-common-stock-rss-94286118d674"
 canonical_url: "https://ir.smith-wesson.com/news-releases/news-release-details/smith-wesson-brands-inc-first-quarter-fiscal-2026-financial"
 published_at: "2025-08-21T20:05:00+00:00"
 first_seen_at: "2026-07-25T23:27:09.733611+00:00"
-fetched_at: "2026-07-28T20:57:57.851169+00:00"
+fetched_at: "2026-07-28T23:43:49.837645+00:00"
 content_hash: "sha256:b1d8f1035f4cdc38c3d7fb4928647873a3391a93a639aa8dbfbe0de82eeffc80"
 ---
 

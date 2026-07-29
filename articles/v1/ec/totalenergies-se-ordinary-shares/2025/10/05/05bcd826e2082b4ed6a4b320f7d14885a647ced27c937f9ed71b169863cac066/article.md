@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/patrick-pouyanne-chairman-ceo-totalenergies/"
 published_at: "2025-10-28T11:05:53+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:68a8ba7e24efe4aed07feb38c93d0aac5e47f5594254aa5e15890bcde33a1134"
 ---
 

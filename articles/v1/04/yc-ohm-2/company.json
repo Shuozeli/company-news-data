@@ -12,5 +12,22 @@
       "partition": "2026-05",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/04/yc-ohm-2/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2095,
+        "sha256": "sha256:bc8487f4bd336f8a99c2156c61133538a6a3980e38e9226dee335e9d26686c07",
+        "newest_at": "2026-05-27T00:00:00+00:00",
+        "oldest_at": "2026-05-20T00:00:00+00:00"
+      }
+    ]
+  }
 }

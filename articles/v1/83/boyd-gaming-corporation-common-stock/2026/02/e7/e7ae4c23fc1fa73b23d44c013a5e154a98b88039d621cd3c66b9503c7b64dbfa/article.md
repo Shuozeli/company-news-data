@@ -7,7 +7,7 @@ source_id: "boyd-gaming-corporation-common-stock-rss-f22aba5248cd"
 canonical_url: "https://investors.boydgaming.com/2026-02-26-BOYD-GAMING-TO-SELL-SAMS-TOWN-SHREVEPORT-TO-BALLYS-CORPORATION"
 published_at: "2026-02-26T16:30:00+00:00"
 first_seen_at: "2026-07-20T03:33:16.827589+00:00"
-fetched_at: "2026-07-28T20:45:57.541018+00:00"
+fetched_at: "2026-07-28T23:29:13.595220+00:00"
 content_hash: "sha256:d7bfe310ab28b4c93c1d2225b8fa3704f60fafea95536783e2c63c49f7fef860"
 ---
 

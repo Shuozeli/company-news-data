@@ -7,7 +7,7 @@ source_id: "s-t-bancorp-inc-common-stock-rss-23ea46cc82e7"
 canonical_url: "https://www.stbancorp.com/news-events/news/news-details/2026/ST-Bancorp-Inc--Declares-Dividend/default.aspx"
 published_at: "2026-01-28T21:35:00+00:00"
 first_seen_at: "2026-07-26T00:19:22.751226+00:00"
-fetched_at: "2026-07-28T20:05:01.132439+00:00"
+fetched_at: "2026-07-28T23:54:16.395856+00:00"
 content_hash: "sha256:c65789b056a57426d63b55dac5f87120762dde22f1be7e776839028946a528d0"
 ---
 

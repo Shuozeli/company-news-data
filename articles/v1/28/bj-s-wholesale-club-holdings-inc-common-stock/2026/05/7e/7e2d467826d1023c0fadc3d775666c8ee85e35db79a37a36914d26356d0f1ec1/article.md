@@ -7,7 +7,7 @@ source_id: "bj-s-wholesale-club-holdings-inc-common-stock-rss-dd25fd37e36b"
 canonical_url: "https://investors.bjs.com/press-releases/press-release-details/2026/BJs-Wholesale-Club-Accelerates-Growth-with-New-Locations-in-Kentucky-Florida-and-Indiana/default.aspx"
 published_at: "2026-05-22T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:22.633439+00:00"
-fetched_at: "2026-07-28T20:03:27.118039+00:00"
+fetched_at: "2026-07-28T23:52:43.781550+00:00"
 content_hash: "sha256:a333ef63c5e6f1109ddff04eb663b5c649d7ab18ab2580f0de75418e4f93cb47"
 ---
 

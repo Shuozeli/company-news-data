@@ -7,7 +7,7 @@ source_id: "yc-return-signals-rss-dfedba3fe891"
 canonical_url: "https://www.returnsignals.com/blog/jordan-craig-case-study/"
 published_at: "2026-06-15T00:00:00+00:00"
 first_seen_at: "2026-07-23T23:09:42.823995+00:00"
-fetched_at: "2026-07-28T20:13:06.153972+00:00"
+fetched_at: "2026-07-28T22:55:06.665534+00:00"
 content_hash: "sha256:ffa508db13c94c7cd5e148951f02c32c11823bb564c1b23fcc2c630038bea90e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2021/digi-recognizes-green-tech-customer-awards"
 published_at: "2021-04-22T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:ca6dff0af3e2b5259c7104cf5acd18612f1f3cf05f29a8f1df199323f7758d83"
 ---
 

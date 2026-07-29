@@ -7,7 +7,7 @@ source_id: "gopro-inc-class-a-common-stock-rss-6614c0f220fc"
 canonical_url: "http://investor.gopro.com/press-releases/press-release-details/2026/GoPro-Elevates-Award-Winning-MAX2-360-Camera-Image-Quality-with-Powerful-New-Firmware-Update/default.aspx"
 published_at: "2026-06-25T13:00:00+00:00"
 first_seen_at: "2026-07-25T06:56:22.873146+00:00"
-fetched_at: "2026-07-28T21:06:50.947426+00:00"
+fetched_at: "2026-07-28T23:53:03.370491+00:00"
 content_hash: "sha256:4868b9b1cb626c967f3dc369a6e3a01398288c3587f7fa3bd8a749066f706a3f"
 ---
 

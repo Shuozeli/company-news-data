@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2024/opengear-appoints-patrick-quirk-as-svp"
 published_at: "2024-09-04T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:aab8e91cd955d668c41ad857701a6b6ab104db385d308705aaa77dad24987480"
 ---
 

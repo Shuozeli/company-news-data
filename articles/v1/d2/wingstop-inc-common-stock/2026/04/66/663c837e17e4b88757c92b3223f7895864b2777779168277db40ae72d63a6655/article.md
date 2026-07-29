@@ -7,7 +7,7 @@ source_id: "wingstop-inc-common-stock-rss-7f135f859589"
 canonical_url: "https://ir.wingstop.com/wingstop-inc-reports-fiscal-first-quarter-financial-results-3/"
 published_at: "2026-04-29T11:46:05+00:00"
 first_seen_at: "2026-07-20T23:17:13.311245+00:00"
-fetched_at: "2026-07-28T21:13:20.646299+00:00"
+fetched_at: "2026-07-28T23:58:14.897862+00:00"
 content_hash: "sha256:3aa60e417ee3b6759e7e394f0be15d530f81e45a8a461b12566f8eb73c8ab269"
 ---
 

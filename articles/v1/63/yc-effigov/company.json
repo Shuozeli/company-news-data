@@ -16,5 +16,22 @@
       "partition": "2026-01",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/63/yc-effigov/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2137,
+        "sha256": "sha256:683d1f22d542f39b01ae1f14f4c6047b2232847b3c1d8810c882e4dea940bd7e",
+        "newest_at": "2026-01-29T00:00:00+00:00",
+        "oldest_at": "2025-10-08T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/saft-le-petit-poucet-des-batteries-de-totalenergies-attaque-le-marche-des-usines/"
 published_at: "2025-10-03T13:09:10+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:adbaad89f541c991c62e057c96e15cf2f55d418f68a939ff8a172efd022c4ae8"
 ---
 

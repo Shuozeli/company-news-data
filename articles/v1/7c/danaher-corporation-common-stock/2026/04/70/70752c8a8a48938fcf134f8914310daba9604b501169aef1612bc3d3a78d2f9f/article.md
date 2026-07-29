@@ -7,7 +7,7 @@ source_id: "danaher-corporation-common-stock-rss-baeab7bd386b"
 canonical_url: "https://investors.danaher.com/2026-04-22-Danaher-Announces-Pricing-of-Euro-Denominated-Senior-Notes-Offering"
 published_at: "2026-04-22T23:15:00+00:00"
 first_seen_at: "2026-07-20T03:32:45.140623+00:00"
-fetched_at: "2026-07-28T20:49:16.354019+00:00"
+fetched_at: "2026-07-28T23:34:39.620039+00:00"
 content_hash: "sha256:88935f39b12917e3e97161e003d594203c2590693dc2efc6a46854a8e87e5900"
 ---
 

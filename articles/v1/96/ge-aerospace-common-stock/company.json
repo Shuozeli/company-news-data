@@ -6,7 +6,7 @@
   },
   "record_count": 37,
   "first_published_at": "2025-10-06T11:10:54+00:00",
-  "last_published_at": "2026-07-24T00:00:00+00:00",
+  "last_published_at": "2026-07-28T15:55:00+00:00",
   "partitions": [
     {
       "partition": "2025-10",
@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 21
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/96/ge-aerospace-common-stock/index/pages/000001.json",
+        "record_count": 37,
+        "byte_count": 45024,
+        "sha256": "sha256:84fa6e52131e63669d13d66f7da627e4333af2967093e152e63fcbecd1555baf",
+        "newest_at": "2026-07-28T21:38:27.854613+00:00",
+        "oldest_at": "2025-10-06T11:10:54+00:00"
+      }
+    ]
+  }
 }

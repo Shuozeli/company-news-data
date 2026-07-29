@@ -7,7 +7,7 @@ source_id: "yc-ochre-bio-rss-279ab36d1688"
 canonical_url: "https://www.ochre-bio.com/2025/08/12/16-uk-startups-not-from-london-to-watch-according-to-investors/"
 published_at: "2025-08-12T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:39.135312+00:00"
-fetched_at: "2026-07-28T20:27:25.546396+00:00"
+fetched_at: "2026-07-28T23:13:09.647277+00:00"
 content_hash: "sha256:f0b716410d485c57c486066cfdd214ac35d645141444f95fc18d673b12a54829"
 ---
 

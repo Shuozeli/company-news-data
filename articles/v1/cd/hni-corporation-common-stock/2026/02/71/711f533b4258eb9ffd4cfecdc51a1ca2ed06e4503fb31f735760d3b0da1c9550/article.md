@@ -7,7 +7,7 @@ source_id: "hni-corporation-common-stock-rss-c13c429f2c6e"
 canonical_url: "https://investors.hnicorp.com/news-releases/news-release-details/hni-corporation-reports-fourth-quarter-and-fiscal-year-2025"
 published_at: "2026-02-25T13:00:00+00:00"
 first_seen_at: "2026-07-25T08:11:31.149615+00:00"
-fetched_at: "2026-07-28T21:50:02.187294+00:00"
+fetched_at: "2026-07-29T00:16:47.176254+00:00"
 content_hash: "sha256:aca4762628c150d9e4909e265c63f70ebcc9efad18157f8e9b2a678de1309a0f"
 ---
 

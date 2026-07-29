@@ -7,7 +7,7 @@ source_id: "cognex-corporation-common-stock-rss-d1b80f9f3658"
 canonical_url: "https://investor.cognex.com/news/news-details/2026/Cognex-OneVision-Adoption-Ramps-as-Manufacturers-Scale-AI-Vision-Globally/default.aspx"
 published_at: "2026-05-13T13:00:00+00:00"
 first_seen_at: "2026-07-24T22:51:25.514805+00:00"
-fetched_at: "2026-07-28T19:49:06.380654+00:00"
+fetched_at: "2026-07-28T23:31:53.894126+00:00"
 content_hash: "sha256:d9ce194c3ed4b98d28feda4adf76b5d425a4a35872c33dc6e723f1dcf1c2dfbc"
 ---
 

@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-maintient-ses-ambitions-climatiques-malgre-la-hausse-prevue-de-sa-production-dhydrocarbures/"
 published_at: "2025-03-27T13:44:55+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:13f3ca3727d94ef691baa13736407769cf801e5c9f3e8ca19080f9df0626a053"
 ---
 

@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/04/ingredion-incorporated-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 13715,
+        "sha256": "sha256:7763743acc6ba69016564646bf5d2a8deac18bce8cb3322e4bde6f137e52f103",
+        "newest_at": "2026-07-28T20:31:30+00:00",
+        "oldest_at": "2026-05-05T10:03:31+00:00"
+      }
+    ]
+  }
 }

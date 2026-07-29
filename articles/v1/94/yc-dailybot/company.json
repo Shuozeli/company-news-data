@@ -76,5 +76,31 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/94/yc-dailybot/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 51377,
+        "sha256": "sha256:863de6c8e0e8620986dc947522faf320c2d335f9aa35ac6dafe81f5283a62215",
+        "newest_at": "2026-06-25T00:00:00+00:00",
+        "oldest_at": "2024-11-20T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/94/yc-dailybot/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 2158,
+        "sha256": "sha256:45b7aa01815e8c0e683509d37959132fda62fe79a3bd54b6f3a788e40da95d36",
+        "newest_at": "2024-10-09T00:00:00+00:00",
+        "oldest_at": "2024-09-18T00:00:00+00:00"
+      }
+    ]
+  }
 }

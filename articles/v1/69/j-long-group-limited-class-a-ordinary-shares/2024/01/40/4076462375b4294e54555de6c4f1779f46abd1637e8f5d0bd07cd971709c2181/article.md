@@ -7,7 +7,7 @@ source_id: "j-long-group-limited-class-a-ordinary-shares-rss-f100273bc0f8"
 canonical_url: "https://investors.j-long.com/j-long-group-limited-announces-pricing-of-its-initial-public-offering/"
 published_at: "2024-01-23T10:20:57+00:00"
 first_seen_at: "2026-07-27T03:16:23.483706+00:00"
-fetched_at: "2026-07-28T21:12:33.738594+00:00"
+fetched_at: "2026-07-28T23:58:05.766082+00:00"
 content_hash: "sha256:6f49733233709f8f76ef3cdf4e28895bdaf88ff8ed8e0a9635e7fd8944e02f82"
 ---
 

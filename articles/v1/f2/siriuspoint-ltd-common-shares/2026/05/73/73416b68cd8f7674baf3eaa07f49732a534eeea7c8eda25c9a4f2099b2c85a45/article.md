@@ -7,7 +7,7 @@ source_id: "siriuspoint-ltd-common-shares-rss-b0b83e96ed77"
 canonical_url: "https://investors.siriuspt.com/press-releases/news-details/2026/SiriusPoint-Reports-First-Quarter-2026-Net-Income-of-100m-Return-on-Equity-of-17-4-and-Operating-Return-on-Equity-of-15-3/default.aspx"
 published_at: "2026-05-07T20:05:00+00:00"
 first_seen_at: "2026-07-25T23:14:39.687560+00:00"
-fetched_at: "2026-07-28T20:48:27.817022+00:00"
+fetched_at: "2026-07-28T23:33:31.156577+00:00"
 content_hash: "sha256:7b6adeda0165644955d118a4d0688be6ee8d41586592f6d5250e63ac16b67834"
 ---
 

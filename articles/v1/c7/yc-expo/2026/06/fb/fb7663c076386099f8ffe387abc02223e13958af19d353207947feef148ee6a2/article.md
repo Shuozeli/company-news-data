@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/best-ci-cd-for-mobile-apps"
 published_at: "2026-06-13T13:45:14+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T19:46:04.624713+00:00"
+fetched_at: "2026-07-28T23:22:43.346857+00:00"
 content_hash: "sha256:f26e3e24a0eafcae28ce0044fb996d7f60fcea8adf825a163db3a8fa32e05cd2"
 ---
 

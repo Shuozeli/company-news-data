@@ -7,7 +7,7 @@ source_id: "urban-edge-properties-common-shares-of-beneficial-interest-rss-f8b93
 canonical_url: "https://investors.uedge.com/investors/press-releases-and-filings/press-releases/news-details/2026/Urban-Edge-Properties-Declares-a-Quarterly-Common-Dividend-of-0-21-per-Share/default.aspx"
 published_at: "2026-05-06T20:15:00+00:00"
 first_seen_at: "2026-07-27T05:59:25.165685+00:00"
-fetched_at: "2026-07-28T20:41:46.970137+00:00"
+fetched_at: "2026-07-28T23:25:55.063306+00:00"
 content_hash: "sha256:f63308486cb2e3ac65313649a2d37f59c1fe54600357f069e54fb62560b1dae2"
 ---
 

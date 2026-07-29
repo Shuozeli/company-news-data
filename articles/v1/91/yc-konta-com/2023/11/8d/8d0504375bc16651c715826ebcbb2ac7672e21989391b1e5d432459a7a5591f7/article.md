@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/todo-lo-que-debes-saber-sobre-el-buzon-tributario"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:fd122b3167452891dbb6ac129886c3577dba39b2442c234df516b75a0ce80ea9"
 ---
 

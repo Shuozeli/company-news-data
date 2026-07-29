@@ -7,7 +7,7 @@ source_id: "advance-auto-parts-inc-rss-823389f153d9"
 canonical_url: "https://ir.advanceautoparts.com/investors/news-and-events/press-releases/press-release-details/2026/Advance-Auto-Parts-Introduces-New-Good-Parts-Brand-Campaign-Celebrating-Customers-Life-Moments-Miles-and-Milestones/default.aspx"
 published_at: "2026-05-26T12:45:00+00:00"
 first_seen_at: "2026-07-25T01:36:09.486379+00:00"
-fetched_at: "2026-07-28T20:23:11.117600+00:00"
+fetched_at: "2026-07-28T23:07:38.284854+00:00"
 content_hash: "sha256:c9d450e555127786108a03bf323251e484884222fbbe20d3988fcb8e46428db2"
 ---
 

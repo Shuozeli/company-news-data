@@ -7,7 +7,7 @@ source_id: "watts-water-technologies-inc-class-a-common-stock-rss-3eddadbf95be"
 canonical_url: "https://investors.wattswater.com/press-releases/press-release-details/2026/Watts-Releases-its-2025-Sustainability-Report/default.aspx"
 published_at: "2026-06-15T17:08:00+00:00"
 first_seen_at: "2026-07-26T05:11:59.088103+00:00"
-fetched_at: "2026-07-28T21:23:56.529434+00:00"
+fetched_at: "2026-07-29T00:06:28.523087+00:00"
 content_hash: "sha256:47fe14b8dc03acaed2e0130f83c9d6de878a14fb640fae897c484f4177224da8"
 ---
 

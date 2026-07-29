@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/why-users-cancel-free-trials-instantly-and-how-to-prevent-it"
-published_at: "2025-12-03T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:281159ae91d54b145c3f802182857fbb2e36f0e1e3a36fa9624a714c58fe2c92"

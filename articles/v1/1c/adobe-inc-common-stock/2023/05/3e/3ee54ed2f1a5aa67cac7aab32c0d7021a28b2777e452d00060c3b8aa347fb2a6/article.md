@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2023/05/distributing-adobe-commerce-patches-at-scale"
 published_at: "2023-05-08T00:00:00+00:00"
 first_seen_at: "2026-07-28T11:10:06.749151+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:4fa2cb3a31256f208c1534fbbcd8af1d435c9302ff30b4fef1ba461fa60d0cb0"
 ---
 

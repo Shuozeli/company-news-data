@@ -7,7 +7,7 @@ source_id: "yc-aoa-dx-inc-rss-3a191abfb2c6"
 canonical_url: "https://aoadx.com/aoa-dx-enrolls-first-patient-in-apex-study-advancing-proprietary-biobank-and-clinical-infrastructure/"
 published_at: "2026-05-05T14:22:20+00:00"
 first_seen_at: "2026-07-24T16:23:53.470400+00:00"
-fetched_at: "2026-07-28T20:16:23.795046+00:00"
+fetched_at: "2026-07-28T22:59:18.279054+00:00"
 content_hash: "sha256:431a1809d64fbd9048aa07ed7991be63974c0fcf7d523fb78415ea9ccbec0816"
 ---
 

@@ -7,7 +7,7 @@ source_id: "torm-plc-class-a-common-stock-rss-542d265fc6d9"
 canonical_url: "https://www.torm.com/news/company-announcements/company-announcements-details/2026/TORM-plc-capital-increase-in-connection-with-exercise-of-Restricted-Share-Units-as-part-of-TORMs-incentive-program-7221fac26/default.aspx"
 published_at: "2026-03-31T06:55:00+00:00"
 first_seen_at: "2026-07-27T05:46:47.408281+00:00"
-fetched_at: "2026-07-28T20:23:24.012535+00:00"
+fetched_at: "2026-07-28T23:07:56.938066+00:00"
 content_hash: "sha256:da2e8b0fe52e713ce31a82fd4323b329822e50eb600c5722064b8e07dc610be1"
 ---
 

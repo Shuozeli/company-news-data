@@ -7,7 +7,7 @@ source_id: "drdgold-limited-american-depositary-shares-rss-0b0d638d96d7"
 canonical_url: "https://www.drdgold.com/media-insights/in-the-media/2026/1823-drdgold-and-num-reach-a-five-year-wage-agreement"
 published_at: "2026-02-02T08:01:09+00:00"
 first_seen_at: "2026-07-27T01:56:23.749821+00:00"
-fetched_at: "2026-07-28T21:13:02.108961+00:00"
+fetched_at: "2026-07-28T23:58:09.802602+00:00"
 content_hash: "sha256:335aadc1a78f0dc606c9f9ff04b4049be1288ccde3328024a1c75718239c6aca"
 ---
 

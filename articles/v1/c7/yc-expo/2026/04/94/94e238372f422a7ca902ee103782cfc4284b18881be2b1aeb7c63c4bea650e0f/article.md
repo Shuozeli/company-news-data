@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/build-an-ai-qa-agent-for-expo-apps-with-eas-workflows-in-minutes-today"
 published_at: "2026-04-02T13:15:00+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T19:46:04.624713+00:00"
+fetched_at: "2026-07-28T23:22:43.346857+00:00"
 content_hash: "sha256:99576ee9e886459acd586305810e65c7b11f09fcd1cb152219f7303195c46c6c"
 ---
 

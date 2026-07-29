@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/carini-of-men-and-museums/"
 published_at: "2026-07-21T15:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:54e786dc0b13da1e1ca92e393b35656c6e385a358a257436b606aa8413f6fbff"
 ---
 

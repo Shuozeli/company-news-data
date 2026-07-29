@@ -7,7 +7,7 @@ source_id: "caring-brands-inc-common-stock-rss-66147c472423"
 canonical_url: "https://caringbrands.com/caring-brands-secures-two-new-u-s-patents-strengthening-hair-enzyme-booster-technology/"
 published_at: "2026-02-03T13:25:19+00:00"
 first_seen_at: "2026-07-24T22:18:05.610221+00:00"
-fetched_at: "2026-07-28T20:26:05.310498+00:00"
+fetched_at: "2026-07-28T23:10:52.869007+00:00"
 content_hash: "sha256:a34520674cbc4d9a5a9ac4bd16308747120e91616850feba34b26f361a434415"
 ---
 

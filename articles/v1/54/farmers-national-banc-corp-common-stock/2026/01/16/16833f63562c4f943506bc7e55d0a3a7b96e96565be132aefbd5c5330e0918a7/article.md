@@ -7,7 +7,7 @@ source_id: "farmers-national-banc-corp-common-stock-rss-8b1eca0ccccf"
 canonical_url: "https://ir.farmersbankgroup.com/news-market-data/press-releases/news-details/2026/Farmers-National-Banc-Corp--Announces-Earnings-for-Fourth-Quarter-of-2025/default.aspx"
 published_at: "2026-01-28T13:00:00+00:00"
 first_seen_at: "2026-07-25T04:04:46.481364+00:00"
-fetched_at: "2026-07-28T22:04:33.590558+00:00"
+fetched_at: "2026-07-29T00:42:56.814002+00:00"
 content_hash: "sha256:4b04149539ce43c51b58721bddfe5a7ee9d430017e57a37eae9f689c1e16d2b5"
 ---
 

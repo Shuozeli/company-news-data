@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-corp-a-vertically-integrated-specialty-ingredients-and-food-company-to-list-on-nyse-through-business-combination-with-bite-acquisition-corp/"
 published_at: "2023-05-01T11:35:49+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:44b9e8786cf9d4f8d299b5edcbaef91aaad38fad0b217409c1b861070a243477"
 ---
 

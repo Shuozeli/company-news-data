@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-d1044ff9c1aa"
 canonical_url: "https://www.photoroom.com/blog/photoroom-vs-claid"
-published_at: "2026-01-29T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:08.835718+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:2ac50daac05ff0f13c9e276f8032c9ae0f6d34b15d5d9e34f84e632eec8c2747"

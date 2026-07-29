@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2017/3-reasons-wireless-is-a-great-solution-for-demandi"
 published_at: "2017-02-10T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:bd472df1c6375806d002b53b652051cda4bbca229a623b13ed6f5eccd45014eb"
 ---
 

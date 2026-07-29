@@ -7,7 +7,7 @@ source_id: "shattuck-labs-inc-common-stock-rss-e22609ab3c3b"
 canonical_url: "https://ir.shattucklabs.com/news-events/press-releases/news-details/2026/Shattuck-Labs-Inc--Announces-Pricing-of-75-Million-Public-Offering/default.aspx"
 published_at: "2026-06-10T04:21:00+00:00"
 first_seen_at: "2026-07-25T22:46:01.608850+00:00"
-fetched_at: "2026-07-28T20:34:19.545717+00:00"
+fetched_at: "2026-07-28T23:19:35.797214+00:00"
 content_hash: "sha256:c19f83b3c6bafbd247c7a0429f7ae9851417a1e4155be25242109f5b5556aaff"
 ---
 

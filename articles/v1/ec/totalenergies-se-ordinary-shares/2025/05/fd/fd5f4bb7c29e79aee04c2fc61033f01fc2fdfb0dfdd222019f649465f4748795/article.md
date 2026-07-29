@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/rendez-vous-dans-le-gers-a-la-rencontre-de-franck/"
 published_at: "2025-05-05T10:08:17+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:8ed65aad011cabd884b3ef1630e8fed09b3cd15185d65d2e1d23743009142c88"
 ---
 

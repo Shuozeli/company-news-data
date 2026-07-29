@@ -7,7 +7,7 @@ source_id: "orrstown-financial-services-inc-common-stock-rss-6064773c12c6"
 canonical_url: "https://investors.orrstown.com/news/news-details/2026/Adam-L--Metz-Named-President-and-Chief-Executive-Officer-at-Orrstown-Bank/default.aspx"
 published_at: "2026-06-02T12:00:00+00:00"
 first_seen_at: "2026-07-25T17:55:18.673795+00:00"
-fetched_at: "2026-07-28T19:31:45.411486+00:00"
+fetched_at: "2026-07-28T22:53:28.606739+00:00"
 content_hash: "sha256:d8963bc16196ecb35e79a1eba626cb45688ae31c5a8ce8493091f6e330aaad48"
 ---
 

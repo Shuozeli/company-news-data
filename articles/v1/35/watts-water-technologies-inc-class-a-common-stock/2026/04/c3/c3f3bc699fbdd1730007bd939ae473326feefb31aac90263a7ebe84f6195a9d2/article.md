@@ -7,7 +7,7 @@ source_id: "watts-water-technologies-inc-class-a-common-stock-rss-3eddadbf95be"
 canonical_url: "https://investors.wattswater.com/press-releases/press-release-details/2026/Watts-Water-Technologies-Named-to-USA-Today-Americas-Climate-Leaders-List-for-Fourth-Consecutive-Year/default.aspx"
 published_at: "2026-04-22T14:35:00+00:00"
 first_seen_at: "2026-07-26T05:11:59.088103+00:00"
-fetched_at: "2026-07-28T21:23:56.529434+00:00"
+fetched_at: "2026-07-29T00:06:28.523087+00:00"
 content_hash: "sha256:6c81ca8f6f1de7c59328518dd56acbea325056fcedebd7009c906a7c58b1e372"
 ---
 

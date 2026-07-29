@@ -7,7 +7,7 @@ source_id: "five-point-holdings-llc-class-a-common-shares-rss-5f2b8fb9fafb"
 canonical_url: "https://ir.fivepoint.com/news-releases/2022/03-10-2022-211015503"
 published_at: "2022-03-10T20:10:00+00:00"
 first_seen_at: "2026-07-28T21:47:14.128974+00:00"
-fetched_at: "2026-07-28T21:47:14.014160+00:00"
+fetched_at: "2026-07-29T00:10:54.095244+00:00"
 content_hash: "sha256:4fe5f404238c8cc5017c4197f2cdf8f18eb2cd298231024430f15e64a0196712"
 ---
 

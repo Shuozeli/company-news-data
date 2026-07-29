@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/creativemode-vs-chatgpt-complete-ai-minecraft-mod-tool-comparison-2026"
 published_at: "2026-05-13T05:59:25+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T20:25:26.460294+00:00"
+fetched_at: "2026-07-28T23:10:27.687348+00:00"
 content_hash: "sha256:32c3b602de80c8af5b88daccd45262e65cb9ee86444dce2f5ecc05e98a8e267c"
 ---
 

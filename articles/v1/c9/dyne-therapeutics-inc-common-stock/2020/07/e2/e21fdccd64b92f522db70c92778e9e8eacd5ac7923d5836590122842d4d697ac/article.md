@@ -7,7 +7,7 @@ source_id: "dyne-therapeutics-inc-common-stock-rss-d110a4ccdb6e"
 canonical_url: "https://www.dyne-tx.com/dyne-therapeutics-announces-appointment-of-leading-dmd-expert-francesco-muntoni-to-scientific-advisory-board/"
 published_at: "2020-07-20T12:00:49+00:00"
 first_seen_at: "2026-07-20T23:21:48.721292+00:00"
-fetched_at: "2026-07-28T20:38:27.587054+00:00"
+fetched_at: "2026-07-28T23:22:18.035043+00:00"
 content_hash: "sha256:d60c0522567eff76d8f495b541de39e25cde4af03b25ff32142f62eb47edae11"
 ---
 

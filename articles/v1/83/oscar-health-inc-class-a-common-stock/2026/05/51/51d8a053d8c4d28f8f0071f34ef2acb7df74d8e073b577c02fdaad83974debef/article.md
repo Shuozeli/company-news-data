@@ -7,7 +7,7 @@ source_id: "oscar-health-inc-class-a-common-stock-rss-69a1bcf667ba"
 canonical_url: "https://ir.hioscar.com/news-events-presentations/news-press-releases/news-details/2026/Oscar-Health-Announces-Strong-Financial-Results-for-First-Quarter-2026-And-Reaffirms-2026-Guidance/default.aspx"
 published_at: "2026-05-06T10:00:00+00:00"
 first_seen_at: "2026-07-25T17:58:01.055270+00:00"
-fetched_at: "2026-07-28T21:14:23.703233+00:00"
+fetched_at: "2026-07-29T00:01:26.780774+00:00"
 content_hash: "sha256:8d1ea5a2aeed6bc3699c437f60a4544f20ece8fd9a578d1591df5fe5f1dc0ed7"
 ---
 

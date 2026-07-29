@@ -7,7 +7,7 @@ source_id: "adecoagro-s-a-common-shares-rss-f13b21bc4c5a"
 canonical_url: "https://ir.adecoagro.com/how-to-model-the-fertilizers-business/"
 published_at: "2026-03-23T15:05:05+00:00"
 first_seen_at: "2026-07-20T23:17:29.619489+00:00"
-fetched_at: "2026-07-28T21:07:26.109622+00:00"
+fetched_at: "2026-07-28T23:53:16.307397+00:00"
 content_hash: "sha256:54adf4d48012a569d9c519139ea15206819df789eedf70ddf06c4ed3e2a07fae"
 ---
 

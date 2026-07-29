@@ -7,7 +7,7 @@ source_id: "gsi-technology-common-stock-rss-21eb7f8c73cb"
 canonical_url: "https://gsitechnology.com/ai-at-the-edge/"
 published_at: "2025-12-18T16:37:11+00:00"
 first_seen_at: "2026-07-20T23:18:39.889524+00:00"
-fetched_at: "2026-07-28T19:48:22.757692+00:00"
+fetched_at: "2026-07-28T23:26:28.737573+00:00"
 content_hash: "sha256:a3768ac51aadbb9a8ec647ec2bf4bbbcda2294d3557ad4d552e7c4939c7b0867"
 ---
 

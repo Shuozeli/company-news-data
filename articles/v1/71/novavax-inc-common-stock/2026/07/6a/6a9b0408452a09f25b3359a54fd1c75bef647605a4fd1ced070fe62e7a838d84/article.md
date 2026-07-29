@@ -7,7 +7,7 @@ source_id: "novavax-inc-common-stock-rss-8c6310f176f0"
 canonical_url: "https://novavax.investorroom.com/press-releases?item=610"
 published_at: null
 first_seen_at: "2026-07-25T01:08:53.787478+00:00"
-fetched_at: "2026-07-28T21:49:00.773462+00:00"
+fetched_at: "2026-07-29T00:18:54.297737+00:00"
 content_hash: "sha256:64d690b653cc97ca1d5975bc88e509f16e4d1a788bd3044d10985595817fa93d"
 ---
 

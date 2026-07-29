@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/events/hagerty-drivers-club-first-ever-gearhead-garage-weekends-a-huge-success/"
 published_at: "2026-07-20T17:00:00+00:00"
 first_seen_at: "2026-07-28T18:43:17.019387+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:663c4701066ca74c7f9e85f6cc3b6e48d1498a9df1556267e4cac6fa59c973f7"
 ---
 

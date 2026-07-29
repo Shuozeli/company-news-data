@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/how-to-create-feature-based-paywalls-for-higher-conversions"
-published_at: "2024-09-11T20:03:57.344+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:47542e018fa1dd639e2332ac3dbd707f322792520852bc6d0ade9510c59234ea"

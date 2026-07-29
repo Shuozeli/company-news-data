@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/story/2026/visionary-leader-in-enterprise-connectivity.html"
 published_at: "2026-07-23T14:00:00+00:00"
 first_seen_at: "2026-07-23T15:19:43.238506+00:00"
-fetched_at: "2026-07-28T20:53:36.935307+00:00"
+fetched_at: "2026-07-28T23:38:49.340178+00:00"
 content_hash: "sha256:9d9a7a491070f46a2d175ef951916fba4f856a47307883dbae66e54aad52e438"
 ---
 

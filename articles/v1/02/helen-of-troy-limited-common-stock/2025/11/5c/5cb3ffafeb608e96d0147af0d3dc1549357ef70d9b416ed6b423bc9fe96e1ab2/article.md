@@ -7,7 +7,7 @@ source_id: "helen-of-troy-limited-common-stock-rss-828c87400604"
 canonical_url: "https://investor.helenoftroy.com/press-releases/press-release-details/2025/Helen-of-Troy-Limited-Announces-Amendment-to-Existing-Credit-Agreement/default.aspx"
 published_at: "2025-11-25T22:45:00+00:00"
 first_seen_at: "2026-07-25T07:53:28.497791+00:00"
-fetched_at: "2026-07-28T21:00:01.643492+00:00"
+fetched_at: "2026-07-28T23:46:26.812439+00:00"
 content_hash: "sha256:520f043f1e44b9f1cf927082e6e22b8ed582fbe1670e8e910ae7532bd3b36851"
 ---
 

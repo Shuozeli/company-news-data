@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T22:21:35.013216+00:00"
 content_hash: "sha256:c3db2561faf4fd031e823e1ff43a39f47f46bc3cc43b59ff6fa0cf4d2a0ad137"
 ---
 
-# The VP of Engineering Is the New Kingmaker and Seed Investors Are Starting to Notice
+# VP of Engineering Is the New Kingmaker Investors Watch in 2026
 
 # VP of Engineering Is the New Kingmaker Investors Watch in 2026
 

@@ -7,7 +7,7 @@ source_id: "yc-four-growers-rss-8be8350904ae"
 canonical_url: "https://fourgrowers.com/about/media/four-growers-uses-ai-to-harvest-tomatoes-at-nature-fresh-farms/"
 published_at: "2024-01-23T17:56:47+00:00"
 first_seen_at: "2026-07-25T05:36:06.101502+00:00"
-fetched_at: "2026-07-28T20:35:25.463894+00:00"
+fetched_at: "2026-07-28T23:19:57.925010+00:00"
 content_hash: "sha256:1586339846af63980ffc332a4fce13c5eef371edb19774c17df1547b2b1a654f"
 ---
 

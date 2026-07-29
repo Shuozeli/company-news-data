@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/construction-economics-july2026-industry-optimism"
 published_at: "2026-07-23T00:00:00+00:00"
 first_seen_at: "2026-07-23T15:14:41.279364+00:00"
-fetched_at: "2026-07-28T20:33:46.789564+00:00"
+fetched_at: "2026-07-28T23:18:38.216278+00:00"
 content_hash: "sha256:4e9f9fdad4392c7595f18558ee294ad095da45cbb1e7688e5b4d88dc3abd7c3e"
 ---
 

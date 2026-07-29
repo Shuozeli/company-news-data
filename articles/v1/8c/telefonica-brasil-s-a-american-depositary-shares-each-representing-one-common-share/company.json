@@ -64,5 +64,31 @@
       "partition": "2026-07",
       "record_count": 40
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8c/telefonica-brasil-s-a-american-depositary-shares-each-representing-one-common-share/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 73661,
+        "sha256": "sha256:0f1fa529a185b3a9b6b1bdcb725fc4941e1a41c7ac4afd2dbc1cd68eb840dd0d",
+        "newest_at": "2026-07-28T07:30:00+00:00",
+        "oldest_at": "2025-05-30T10:41:17+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/8c/telefonica-brasil-s-a-american-depositary-shares-each-representing-one-common-share/index/pages/000002.json",
+        "record_count": 19,
+        "byte_count": 27045,
+        "sha256": "sha256:5eb612fc8af03fe45897705839d56932ab464a87ee8aafa25e65c45c03a03488",
+        "newest_at": "2024-12-15T13:44:20+00:00",
+        "oldest_at": "2023-03-07T09:00:00+00:00"
+      }
+    ]
+  }
 }

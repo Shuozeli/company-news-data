@@ -7,7 +7,7 @@ source_id: "yc-ghosteye-rss-5d11c55fa7e6"
 canonical_url: "https://ghosteye.ai/blog/your-company-made-the-shortlist"
 published_at: "2026-07-14T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:17.326814+00:00"
-fetched_at: "2026-07-28T22:11:15.714041+00:00"
+fetched_at: "2026-07-29T00:49:40.059591+00:00"
 content_hash: "sha256:b8b52b098d4246603ee1ebe1657b76295982a8aacc0cd72b08c3afb3e6da9789"
 ---
 

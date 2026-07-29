@@ -7,7 +7,7 @@ source_id: "ovintiv-inc-de-rss-44e9b96d5380"
 canonical_url: "https://investor.ovintiv.com/2026-07-23-Ovintiv-Reports-Second-Quarter-2026-Financial-and-Operating-Results"
 published_at: "2026-07-23T21:01:00+00:00"
 first_seen_at: "2026-07-23T21:14:56.984219+00:00"
-fetched_at: "2026-07-28T20:26:51.401089+00:00"
+fetched_at: "2026-07-28T23:12:43.675809+00:00"
 content_hash: "sha256:9c6e777c6f4ed61ce3c3cffb681eacbf39c0f3a0199cfd56aa0e85ace0b10ac6"
 ---
 

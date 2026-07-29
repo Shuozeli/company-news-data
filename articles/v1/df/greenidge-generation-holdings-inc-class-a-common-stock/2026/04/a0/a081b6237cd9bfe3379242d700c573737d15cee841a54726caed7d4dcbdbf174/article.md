@@ -7,7 +7,7 @@ source_id: "greenidge-generation-holdings-inc-class-a-common-stock-rss-2e47b4921
 canonical_url: "https://ir.greenidge.com/news-releases/news-release-details/greenidge-generation-announces-expiration-and-final-results-1"
 published_at: "2026-04-09T20:30:00+00:00"
 first_seen_at: "2026-07-25T07:06:39.923184+00:00"
-fetched_at: "2026-07-28T19:57:20.681232+00:00"
+fetched_at: "2026-07-28T23:45:45.493892+00:00"
 content_hash: "sha256:33b9c89a2335f7c929e1ac2434492b7879254b4bc33498cd6b676fcb6e1cd503"
 ---
 

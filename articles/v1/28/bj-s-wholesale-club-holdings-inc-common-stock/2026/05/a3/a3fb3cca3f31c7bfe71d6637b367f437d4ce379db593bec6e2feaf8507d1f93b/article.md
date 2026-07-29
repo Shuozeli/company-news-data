@@ -7,7 +7,7 @@ source_id: "bj-s-wholesale-club-holdings-inc-common-stock-rss-dd25fd37e36b"
 canonical_url: "https://investors.bjs.com/press-releases/press-release-details/2026/BJs-Wholesale-Club-Continues-Texas-Launch-with-Grand-Prairie-Opening/default.aspx"
 published_at: "2026-05-11T10:45:00+00:00"
 first_seen_at: "2026-07-25T01:12:22.633439+00:00"
-fetched_at: "2026-07-28T20:03:27.118039+00:00"
+fetched_at: "2026-07-28T23:52:43.781550+00:00"
 content_hash: "sha256:54c15c3a4aa34cb9efbc797931c99b676307f5611772e80bbf06509bd294b0f3"
 ---
 

@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2b/brown-brown-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 18099,
+        "sha256": "sha256:5d6389e1dfe59f22cc32043765ebbd57bee36646778aa6bd64a5da21916124ae",
+        "newest_at": "2026-07-27T21:01:44+00:00",
+        "oldest_at": "2026-02-16T11:30:55+00:00"
+      }
+    ]
+  }
 }

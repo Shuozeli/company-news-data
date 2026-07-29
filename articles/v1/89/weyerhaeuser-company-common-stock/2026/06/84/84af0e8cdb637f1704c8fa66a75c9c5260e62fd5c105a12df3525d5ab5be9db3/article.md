@@ -7,7 +7,7 @@ source_id: "weyerhaeuser-company-common-stock-rss-432ce8ceed5f"
 canonical_url: "https://investor.weyerhaeuser.com/2026-06-25-Weyerhaeuser-to-Release-Second-Quarter-Results-on-July-30"
 published_at: "2026-06-25T20:30:00+00:00"
 first_seen_at: "2026-07-20T03:31:52.997098+00:00"
-fetched_at: "2026-07-28T20:22:45.779870+00:00"
+fetched_at: "2026-07-28T23:06:48.894643+00:00"
 content_hash: "sha256:377b68c4ed746e227d1f3e5ace2207be8b1d807b01d150f0f75993edb5acd601"
 ---
 

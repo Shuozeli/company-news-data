@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-la-recette-gagnante-dintegrated-power-pour-atteindre-son-objectif-de-rentabilite-a-horizon-2030-un-modele-daffaires-renouvelable-integre-et-taille-pour-les-marches-deregules/"
 published_at: "2025-07-08T13:45:57+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:a65854a542a969011e3063b86a37c8710575f2ba8b62a15e92364b733714a734"
 ---
 

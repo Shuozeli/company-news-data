@@ -7,7 +7,7 @@ source_id: "ericsson-american-depositary-shares-atom-6bf64ebaa824"
 canonical_url: "https://www.ericsson.com/en/press-releases/1/2026/south-africa-telecoms-field-operations-learnership"
 published_at: "2026-07-23T09:54:55+00:00"
 first_seen_at: "2026-07-23T10:50:53.377170+00:00"
-fetched_at: "2026-07-28T21:50:25.830786+00:00"
+fetched_at: "2026-07-29T00:16:19.705635+00:00"
 content_hash: "sha256:4496713248005cb5d744746131c9b3d2741286c2ea656e587737d524e9ee08ac"
 ---
 

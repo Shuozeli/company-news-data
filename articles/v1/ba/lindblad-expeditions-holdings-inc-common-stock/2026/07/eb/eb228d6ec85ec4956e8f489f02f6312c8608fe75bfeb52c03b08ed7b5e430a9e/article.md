@@ -7,7 +7,7 @@ source_id: "lindblad-expeditions-holdings-inc-common-stock-rss-e763d68c22ca"
 canonical_url: "https://investors.expeditions.com/press-releases/news-details/2026/LINDBLAD-EXPEDITIONS-HOLDINGS-INC--TO-REPORT-2026-SECOND-QUARTER-FINANCIAL-RESULTS-ON-AUGUST-3-2026/default.aspx"
 published_at: "2026-07-20T11:30:00+00:00"
 first_seen_at: "2026-07-25T12:25:47.782802+00:00"
-fetched_at: "2026-07-28T20:50:37.817567+00:00"
+fetched_at: "2026-07-28T23:35:54.763225+00:00"
 content_hash: "sha256:4d6bf8f0323e50380bc175b5e7fe0f56531a53395abd6cb0fc9d182921aa5d48"
 ---
 

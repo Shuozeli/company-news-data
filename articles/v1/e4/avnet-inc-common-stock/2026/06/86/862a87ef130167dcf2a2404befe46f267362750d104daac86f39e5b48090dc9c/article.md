@@ -7,7 +7,7 @@ source_id: "avnet-inc-common-stock-rss-97276dcd8bba"
 canonical_url: "https://news.avnet.com/press-releases/press-release-details/2026/Avnet-and-Newark-drive-momentum-and-earn-industry-recognition-at-EDS-2026-2026-VQ63teKi0v/default.aspx"
 published_at: "2026-06-17T12:00:00+00:00"
 first_seen_at: "2026-07-28T21:48:40.971423+00:00"
-fetched_at: "2026-07-28T21:48:40.926865+00:00"
+fetched_at: "2026-07-29T00:14:11.820089+00:00"
 content_hash: "sha256:14ee5c36d823a41673ab775243da5cfefa8ced8d105be274c55fe6ac11d1f87f"
 ---
 

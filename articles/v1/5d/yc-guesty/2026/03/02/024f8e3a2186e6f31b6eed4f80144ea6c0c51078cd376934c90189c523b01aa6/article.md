@@ -7,7 +7,7 @@ source_id: "yc-guesty-rss-0a61a6620ec3"
 canonical_url: "https://www.guesty.com/blog/trust-accounting-for-australia-and-new-zealand/"
 published_at: "2026-03-29T09:30:22+00:00"
 first_seen_at: "2026-07-20T23:23:55.863544+00:00"
-fetched_at: "2026-07-28T20:42:29.642553+00:00"
+fetched_at: "2026-07-28T23:26:24.695727+00:00"
 content_hash: "sha256:4a2f257b1c89f15b4740c58ffc3629205df1293f2da3ee488406fce4f4ce62ff"
 ---
 

@@ -12,5 +12,22 @@
       "partition": "2025-12",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/65/yc-landeed/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 6717,
+        "sha256": "sha256:645db5bfd90658f8b4f2984938240d24ac3a5384325b2b45cfdd288f1e813335",
+        "newest_at": "2025-12-22T00:00:00+00:00",
+        "oldest_at": "2025-12-21T18:30:00+00:00"
+      }
+    ]
+  }
 }

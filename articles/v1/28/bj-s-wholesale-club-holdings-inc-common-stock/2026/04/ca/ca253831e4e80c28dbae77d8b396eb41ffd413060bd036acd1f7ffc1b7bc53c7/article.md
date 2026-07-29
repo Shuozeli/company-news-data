@@ -7,7 +7,7 @@ source_id: "bj-s-wholesale-club-holdings-inc-common-stock-rss-dd25fd37e36b"
 canonical_url: "https://investors.bjs.com/press-releases/press-release-details/2026/BJs-Wholesale-Club-Marks-Texas-Debut-with-Grand-Opening-of-Forney-Location/default.aspx"
 published_at: "2026-04-17T10:45:00+00:00"
 first_seen_at: "2026-07-25T01:12:22.633439+00:00"
-fetched_at: "2026-07-28T20:03:27.118039+00:00"
+fetched_at: "2026-07-28T23:52:43.781550+00:00"
 content_hash: "sha256:164378ab877217a26fe26f777defc37896fe3a7201706c9bb799f05b748fd63a"
 ---
 

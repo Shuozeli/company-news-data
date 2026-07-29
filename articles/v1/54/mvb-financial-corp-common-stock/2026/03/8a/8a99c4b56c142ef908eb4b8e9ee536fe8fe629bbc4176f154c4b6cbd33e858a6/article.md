@@ -7,7 +7,7 @@ source_id: "mvb-financial-corp-common-stock-rss-b14917102b63"
 canonical_url: "https://ir.mvbbanking.com/news/news-details/2026/MVB-to-Present-at-the-Banking-Virtual-Investor-Conference--2026-OYUr09vgZT/default.aspx"
 published_at: "2026-03-26T13:00:00+00:00"
 first_seen_at: "2026-07-25T15:10:45.759880+00:00"
-fetched_at: "2026-07-28T21:50:24.889067+00:00"
+fetched_at: "2026-07-29T00:06:18.080230+00:00"
 content_hash: "sha256:fce32d7c92be238db55c8031d79d4104877a7aa9d6c0f34dcad4bc7d3a909585"
 ---
 

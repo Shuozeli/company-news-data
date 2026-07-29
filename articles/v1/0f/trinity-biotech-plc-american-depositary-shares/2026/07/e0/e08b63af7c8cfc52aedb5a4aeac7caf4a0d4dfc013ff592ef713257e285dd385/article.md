@@ -7,7 +7,7 @@ source_id: "trinity-biotech-plc-american-depositary-shares-rss-6b6858b1b9bc"
 canonical_url: "https://trinitybiotech.com/press-releases/news/new-trinity-biotech-clinical-trial-data-shows-its-cgm-technology-tackles-a-major-cgm-user-problem/"
 published_at: "2026-07-02T16:00:00+00:00"
 first_seen_at: "2026-07-24T04:40:06.159898+00:00"
-fetched_at: "2026-07-28T21:03:30.549824+00:00"
+fetched_at: "2026-07-28T23:50:15.896400+00:00"
 content_hash: "sha256:c1aef0b3fffec44bc267b83daa6dc616cd3b4361a57d1b3abd3eae90dcad2498"
 ---
 

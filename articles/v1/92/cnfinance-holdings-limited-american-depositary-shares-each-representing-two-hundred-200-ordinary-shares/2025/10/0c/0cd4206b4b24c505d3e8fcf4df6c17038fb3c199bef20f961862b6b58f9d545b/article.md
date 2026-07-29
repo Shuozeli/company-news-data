@@ -7,7 +7,7 @@ source_id: "cnfinance-holdings-limited-american-depositary-shares-each-represent
 canonical_url: "https://ir.cashchina.cn/2025-10-14-CNFinance-Holdings-Limited-Regains-Compliance-with-NYSE-ADS-Trading-Price-Requirement"
 published_at: "2025-10-14T10:05:00+00:00"
 first_seen_at: "2026-07-24T22:41:06.464135+00:00"
-fetched_at: "2026-07-28T19:35:44.733721+00:00"
+fetched_at: "2026-07-28T23:04:13.541099+00:00"
 content_hash: "sha256:7c7a64d73ace32906468b3559192f1381543e5b7cf2aeaa4f41a2a0ce66a5938"
 ---
 

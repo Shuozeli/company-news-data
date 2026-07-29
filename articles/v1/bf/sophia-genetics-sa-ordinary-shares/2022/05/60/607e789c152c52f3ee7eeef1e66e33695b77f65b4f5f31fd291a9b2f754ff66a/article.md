@@ -7,7 +7,7 @@ source_id: "sophia-genetics-sa-ordinary-shares-rss-e93954ac440a"
 canonical_url: "https://www.sophiagenetics.com/blogs/diversity-in-genomic-analysis-an-example-of-how-sophia-genetics-has-built-more-accurate-health-data-analysis-for-diverse-populations/"
 published_at: "2022-05-09T12:06:31+00:00"
 first_seen_at: "2026-07-25T23:47:39.926735+00:00"
-fetched_at: "2026-07-28T21:28:48.599366+00:00"
+fetched_at: "2026-07-29T00:27:40.984896+00:00"
 content_hash: "sha256:df7fb80f5127cc1d17a255dfa341bf54dd0071a747bb52cb3119f075c2191a29"
 ---
 

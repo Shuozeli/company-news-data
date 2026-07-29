@@ -7,7 +7,7 @@ source_id: "bcb-bancorp-inc-nj-common-stock-rss-f2401a0a357f"
 canonical_url: "https://investorrelations.bcbcommunitybank.com/news-market-information/press-releases/news-details/2025/BCB-Bancorp-Inc--Reports-Net-Loss-of-8-3-Million-in-First-Quarter-2025-Declares-Quarterly-Cash-Dividend-of-0-16-Per-Share/default.aspx"
 published_at: "2025-04-22T12:30:00+00:00"
 first_seen_at: "2026-07-26T10:11:36.891880+00:00"
-fetched_at: "2026-07-28T20:37:43.299595+00:00"
+fetched_at: "2026-07-28T23:21:58.814635+00:00"
 content_hash: "sha256:8ca2e3c92396b6b84b99de81fa9795e23ef7548d1569c675ff154957e47290d2"
 ---
 

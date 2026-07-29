@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2023/solutions-services-unveiled-at-embedded-world-2023"
 published_at: "2023-03-10T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:9a02e3ac3c4907b3b59b19ab30f538906e27d4f7ed2dd5b1cdbffdca13a8f393"
 ---
 

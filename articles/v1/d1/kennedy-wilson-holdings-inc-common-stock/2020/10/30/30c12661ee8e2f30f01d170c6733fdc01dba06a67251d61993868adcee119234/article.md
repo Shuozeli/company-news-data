@@ -7,7 +7,7 @@ source_id: "kennedy-wilson-holdings-inc-common-stock-rss-b868099f990b"
 canonical_url: "https://www.kennedywilson.com/case-studies/atlas-apartments"
 published_at: "2020-10-14T20:05:05+00:00"
 first_seen_at: "2026-07-25T10:36:43.191285+00:00"
-fetched_at: "2026-07-28T22:05:16.464773+00:00"
+fetched_at: "2026-07-29T00:43:18.105413+00:00"
 content_hash: "sha256:f65fe078f8f51290342c2673a622ff82fdb463e3ac2a80601bd53e7fc70d2413"
 ---
 

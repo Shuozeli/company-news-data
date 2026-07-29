@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/testing-subscriptions-and-in-app-purchases-for-ios-apps-before-launch"
-published_at: "2025-06-25T18:50:22.036+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:f81785a0e9c480d21c07be9cbabc6d1d59cd647247c6a08ae57339d34b7faa4f"

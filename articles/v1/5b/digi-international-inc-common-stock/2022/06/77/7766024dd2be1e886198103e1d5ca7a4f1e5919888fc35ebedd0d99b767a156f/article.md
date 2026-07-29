@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2022/digi-stmicroelectronics-enter-strategic-agreement"
 published_at: "2022-06-21T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:2d75e7573209d50e178d7a23c5bcdc22ee1d207e6ea2165322e07df4ea964f59"
 ---
 

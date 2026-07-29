@@ -48,5 +48,22 @@
       "partition": "2026-07",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/17/kadant-inc-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 22893,
+        "sha256": "sha256:c0d95659bf745639d046e44216b356eb8ffbc2c10e5a53f7eb7e56b6f1da48eb",
+        "newest_at": "2026-07-28T21:38:27.854613+00:00",
+        "oldest_at": "2023-11-27T11:51:29+00:00"
+      }
+    ]
+  }
 }

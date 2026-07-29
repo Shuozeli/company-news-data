@@ -20,5 +20,22 @@
       "partition": "2025-09",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8a/yc-snab/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 9712,
+        "sha256": "sha256:c2ba57613855539a772fc461bf8c68e74a15f9e3d5e71ac3bd78b9d7954da1df",
+        "newest_at": "2025-09-25T17:46:29+00:00",
+        "oldest_at": "2024-05-03T06:21:44+00:00"
+      }
+    ]
+  }
 }

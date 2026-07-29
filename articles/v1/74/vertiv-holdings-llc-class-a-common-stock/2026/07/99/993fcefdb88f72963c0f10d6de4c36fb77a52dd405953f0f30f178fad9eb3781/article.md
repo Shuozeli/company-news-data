@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2022/Vertiv-Reports-Third-Quarter-Sales-Growth-of-20.5-Operating-Profit-of-80-Million-and-Adjusted-Operating-Profit1-of-134-Million/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T20:39:59.455460+00:00"
+fetched_at: "2026-07-28T23:23:56.894710+00:00"
 content_hash: "sha256:e052d78443e8c2c7629ada84bfd3e6f06ce8a21d81c30df0b21f094fb95ddbfa"
 ---
 

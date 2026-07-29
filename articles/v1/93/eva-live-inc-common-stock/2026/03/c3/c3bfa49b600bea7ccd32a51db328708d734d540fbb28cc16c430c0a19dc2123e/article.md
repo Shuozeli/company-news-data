@@ -7,7 +7,7 @@ source_id: "eva-live-inc-common-stock-rss-fa36d30c6b04"
 canonical_url: "https://eva.live/eva-live-inc-s-revenues-surge-82-6-to-17m-as-company-swings-to-8-1m-net-income/"
 published_at: "2026-03-19T06:00:00+00:00"
 first_seen_at: "2026-07-25T03:24:54.313623+00:00"
-fetched_at: "2026-07-28T20:53:18.669150+00:00"
+fetched_at: "2026-07-28T23:38:42.811853+00:00"
 content_hash: "sha256:af268a1273ae7fc6f2340161131f831f5ff4f9d02b6ac37bfabfad1d27c110de"
 ---
 

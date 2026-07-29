@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e1/monte-rosa-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14427,
+        "sha256": "sha256:9e7f71efb100afc554d32c3053a58923e8be1436ef8bd3f7493f2bdc6ec85cc2",
+        "newest_at": "2026-07-02T20:01:09+00:00",
+        "oldest_at": "2026-02-23T12:00:19+00:00"
+      }
+    ]
+  }
 }

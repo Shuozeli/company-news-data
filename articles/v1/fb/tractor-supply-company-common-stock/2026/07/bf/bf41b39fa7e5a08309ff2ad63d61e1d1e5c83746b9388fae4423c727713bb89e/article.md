@@ -7,7 +7,7 @@ source_id: "tractor-supply-company-common-stock-rss-a230632fee03"
 canonical_url: "https://corporate.tractorsupply.com/newsroom/news-releases/news-releases-details/2026/Instacart-and-Tractor-Supply-Partner-to-Deliver-Pet-Supplies-Farm-Essentials-and-Everything-in-Between-for-Life-Outside/default.aspx"
 published_at: "2026-07-14T04:00:00+00:00"
 first_seen_at: "2026-07-26T02:53:33.187444+00:00"
-fetched_at: "2026-07-28T19:32:50.312216+00:00"
+fetched_at: "2026-07-28T22:56:08.683766+00:00"
 content_hash: "sha256:fed03d6eb4028c62e4a7fa70cb9bfb37f6eee5e3d75cc1258f21d19abe9bd855"
 ---
 

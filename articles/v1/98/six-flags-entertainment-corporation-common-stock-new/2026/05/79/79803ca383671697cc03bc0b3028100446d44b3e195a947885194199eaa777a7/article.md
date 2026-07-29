@@ -7,7 +7,7 @@ source_id: "six-flags-entertainment-corporation-common-stock-new-rss-03dcd83dd79
 canonical_url: "https://investors.sixflags.com/news/press-releases/press-release-details/2026/Six-Flags-Announces-Leadership-Transitions/default.aspx"
 published_at: "2026-05-07T09:02:00+00:00"
 first_seen_at: "2026-07-25T23:17:17.036957+00:00"
-fetched_at: "2026-07-28T20:49:45.607521+00:00"
+fetched_at: "2026-07-28T23:35:41.337653+00:00"
 content_hash: "sha256:f2350bfdcffdde21ad44d3e5e11dce06646ba7958c7d97bd3550a5b0af359592"
 ---
 

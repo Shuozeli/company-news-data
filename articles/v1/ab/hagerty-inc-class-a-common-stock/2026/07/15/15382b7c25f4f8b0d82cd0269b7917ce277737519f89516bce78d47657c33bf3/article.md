@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/market-trends/hagerty-insider/9-eye-catching-cars-from-the-2026-rm-sothebys-woodcote-park-auction/"
 published_at: "2026-07-14T17:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:0429ce62e535e4b93ebc284e58f562b48eadadbffb9638738411e21a6f542bd5"
 ---
 

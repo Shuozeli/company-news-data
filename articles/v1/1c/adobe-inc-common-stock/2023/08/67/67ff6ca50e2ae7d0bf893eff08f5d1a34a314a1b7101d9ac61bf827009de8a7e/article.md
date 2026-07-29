@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2023/08/my-experience-building-an-adobe-express-add-on"
 published_at: "2023-08-04T00:00:00+00:00"
 first_seen_at: "2026-07-28T11:10:06.749151+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:89687d18c18768c477818e8daedfd093d92681eee72afc682db0864b98b9aaad"
 ---
 

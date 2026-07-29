@@ -7,7 +7,7 @@ source_id: "marathon-petroleum-corporation-common-stock-rss-10c770213549"
 canonical_url: "https://ir.marathonpetroleum.com/investor/news-releases/news-details/2026/Marathon-Petroleum-Corp--to-host-2026-annual-meeting-of-shareholders/default.aspx"
 published_at: "2026-01-30T23:10:00+00:00"
 first_seen_at: "2026-07-22T17:28:42.331591+00:00"
-fetched_at: "2026-07-28T21:05:11.510678+00:00"
+fetched_at: "2026-07-28T23:51:29.991025+00:00"
 content_hash: "sha256:7fd00e99aa8c31d1ec2e1f080eb65f336bed35a94bedb44b460acd3de19128b8"
 ---
 

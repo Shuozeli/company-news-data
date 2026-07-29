@@ -7,7 +7,7 @@ source_id: "zymeworks-inc-common-stock-rss-ea5923f9ed6f"
 canonical_url: "https://ir.beonemedicines.com/news/beone-medicines-announces-phase-3-herizon-gea-data-published-in-nejm-and-presented-at-asco-2026/846b9a7b-16ad-4d69-9f97-287071e57f1f"
 published_at: "2026-05-27T21:07:49+00:00"
 first_seen_at: "2026-07-26T06:41:36.781580+00:00"
-fetched_at: "2026-07-28T21:07:11.242880+00:00"
+fetched_at: "2026-07-28T23:52:47.626277+00:00"
 content_hash: "sha256:0c40c8b367b947d1c9fbab4de4f33fefbacc03b720b0c556fe6ea98b3724db5c"
 ---
 

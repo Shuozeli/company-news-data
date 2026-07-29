@@ -7,7 +7,7 @@ source_id: "united-rentals-inc-common-stock-rss-4e2df8fb3ae6"
 canonical_url: "https://investors.unitedrentals.com/press-releases/press-releases-details/2026/United-Rentals-Inc--First-Quarter-2026-Conference-Call-and-Audio-Webcast-Thursday-April-23-2026-at-830-a-m--ET/default.aspx"
 published_at: "2026-04-08T20:05:00+00:00"
 first_seen_at: "2026-07-26T03:44:40.223060+00:00"
-fetched_at: "2026-07-28T22:12:10.506088+00:00"
+fetched_at: "2026-07-29T00:50:23.960931+00:00"
 content_hash: "sha256:30554da0a1a68b398c3a7f092ff15bd000b0468758396c8f3ce25f625ce42aa7"
 ---
 

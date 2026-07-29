@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/5-paywall-patterns-used-by-million-dollar-apps"
-published_at: "2025-08-15T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:1990a39b1059e842a5fd5d917eb112be089bdb51d510adb2c77214c32df87067"

@@ -7,7 +7,7 @@ source_id: "taylor-devices-inc-common-stock-rss-a5c8db47bfc4"
 canonical_url: "https://www.taylordevices.com/newnews/taylor-devices-exhibiting-at-farnborough-airshow/"
 published_at: "2026-07-06T14:36:18+00:00"
 first_seen_at: "2026-07-20T23:19:30.465763+00:00"
-fetched_at: "2026-07-28T22:06:20.573231+00:00"
+fetched_at: "2026-07-29T00:44:37.639630+00:00"
 content_hash: "sha256:8c708ee16181ec1108ecdd53fae60ff6d4fcfd05b46b8bef961ecb45e8c5bb7c"
 ---
 

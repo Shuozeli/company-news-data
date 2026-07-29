@@ -7,7 +7,7 @@ source_id: "wendy-s-company-the-common-stock-rss-ec0fd300449e"
 canonical_url: "https://www.wendys.com/keegan-murray"
 published_at: "2022-03-05T00:45:39+00:00"
 first_seen_at: "2026-07-24T06:58:49.962146+00:00"
-fetched_at: "2026-07-28T21:11:58.840515+00:00"
+fetched_at: "2026-07-28T23:57:23.225076+00:00"
 content_hash: "sha256:0559687781e8ec08c3ccf0d72bf885290ec80a740111e3a68e47f41f3ad657fb"
 ---
 

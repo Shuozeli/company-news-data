@@ -7,7 +7,7 @@ source_id: "progressive-corporation-the-common-stock-rss-26387ce00949"
 canonical_url: "https://progressive.mediaroom.com/2026-06-04-CHICAGO-SKY-AND-PROGRESSIVE-INSURANCE-R-ANNOUNCE-MULTI-YEAR-AGREEMENT"
 published_at: "2026-06-04T16:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:38.151957+00:00"
-fetched_at: "2026-07-28T20:22:19.851197+00:00"
+fetched_at: "2026-07-28T23:06:00.378591+00:00"
 content_hash: "sha256:31937ff6d36c9b80287b9d6e8bd68147464c0040b8cf3f71e3b1e5b76adcd63b"
 ---
 

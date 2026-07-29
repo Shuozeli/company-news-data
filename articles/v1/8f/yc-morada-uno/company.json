@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8f/yc-morada-uno/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 6236,
+        "sha256": "sha256:53b6fc31ba8e955cc11dd9cab9401ee0460800e82bba3f3c9c2f9083208bce91",
+        "newest_at": "2026-07-28T21:37:39.039431+00:00",
+        "oldest_at": "2026-07-28T21:37:39.039431+00:00"
+      }
+    ]
+  }
 }

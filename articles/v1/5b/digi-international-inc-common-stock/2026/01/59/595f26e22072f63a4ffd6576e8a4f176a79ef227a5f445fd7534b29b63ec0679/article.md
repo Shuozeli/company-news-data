@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/industrial-iot-connectivity-for-rugged-application"
 published_at: "2026-01-23T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:786240f4f06e8cd98a63e91e933cede68e92f07d7f75fb28353c8318dc4738a8"
 ---
 

@@ -7,7 +7,7 @@ source_id: "axil-brands-inc-common-stock-atom-2f9e2e7b844d"
 canonical_url: "https://goaxil.com/blogs/press-releases/axil-brands-and-nascar-renew-product-license-agreement-through-2027"
 published_at: "2024-12-11T13:00:01+00:00"
 first_seen_at: "2026-07-25T01:09:14.553659+00:00"
-fetched_at: "2026-07-28T19:57:30.155678+00:00"
+fetched_at: "2026-07-28T23:46:00.445611+00:00"
 content_hash: "sha256:a0ec33bd39b4797013bb09fb80474c580cb9fe22ab7993c3a9705dd747e316a6"
 ---
 

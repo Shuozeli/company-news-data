@@ -7,7 +7,7 @@ source_id: "sophia-genetics-sa-ordinary-shares-rss-e93954ac440a"
 canonical_url: "https://www.sophiagenetics.com/blogs/benefits-of-doing-genomic-data-analysis-in-house/"
 published_at: "2022-04-29T06:58:04+00:00"
 first_seen_at: "2026-07-25T23:47:39.926735+00:00"
-fetched_at: "2026-07-28T21:28:48.599366+00:00"
+fetched_at: "2026-07-29T00:27:40.984896+00:00"
 content_hash: "sha256:75c47c6007c3dc7c84304d186f9280d2e327749f8afff1e2f5e41b1d5f87450f"
 ---
 

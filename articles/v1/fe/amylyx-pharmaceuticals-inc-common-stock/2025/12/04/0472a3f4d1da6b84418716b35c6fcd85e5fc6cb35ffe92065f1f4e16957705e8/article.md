@@ -7,7 +7,7 @@ source_id: "amylyx-pharmaceuticals-inc-common-stock-rss-1e1fcae4a12d"
 canonical_url: "https://www.amylyx.com/node/2046"
 published_at: "2025-12-08T04:34:00+00:00"
 first_seen_at: "2026-07-20T23:24:50.574163+00:00"
-fetched_at: "2026-07-28T20:39:48.726371+00:00"
+fetched_at: "2026-07-28T23:23:37.979699+00:00"
 content_hash: "sha256:2514c7714bd89b58bfda725f23cef60df43e54f1f68e34de884b3a86be84da64"
 ---
 

@@ -7,7 +7,7 @@ source_id: "udemy-inc-common-stock-news-import-fa9345a4194c"
 canonical_url: "https://about.udemy.com/news/world-youth-skills-day-does-the-shifting-job-market-prefer-practical-skills-over-formal-degrees/"
 published_at: "2023-07-18T20:42:51+00:00"
 first_seen_at: "2026-07-26T03:31:42.755552+00:00"
-fetched_at: "2026-07-28T11:01:28.124365+00:00"
+fetched_at: "2026-07-29T00:40:17.852155+00:00"
 content_hash: "sha256:f405e82df75a9bc204da2d7359bd5dbe34abe309f31a7926f26074b09627bfe0"
 ---
 

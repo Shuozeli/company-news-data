@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/lo-que-debes-saber-sobre-el-ajuste-de-sueldo-anual-en-2023"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:21b5e081c86d22942184eb3c10370723fe80e28c12c09e956c5cb5c8b966c310"
 ---
 

@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2017/10/installation-of-6-manifold-modules-for-total-s-egina-project-in-nigeria/"
 published_at: "2017-10-03T01:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-28T21:51:21.094676+00:00"
+fetched_at: "2026-07-29T00:17:43.124361+00:00"
 content_hash: "sha256:4b809684d881aadfea9344fafd0a8c1759638394cdd05d7d12571a9b9ab3abab"
 ---
 

@@ -7,7 +7,7 @@ source_id: "tractor-supply-company-common-stock-rss-a230632fee03"
 canonical_url: "https://corporate.tractorsupply.com/newsroom/news-releases/news-releases-details/2026/Tractor-Supply-Renews-Support-for-Veterans-in-Agriculture-With-100000-Donation-to-Farmer-Veteran-Coalition/default.aspx"
 published_at: "2026-07-20T13:00:00+00:00"
 first_seen_at: "2026-07-26T02:53:33.187444+00:00"
-fetched_at: "2026-07-28T19:32:50.312216+00:00"
+fetched_at: "2026-07-28T22:56:08.683766+00:00"
 content_hash: "sha256:89c293234725503e38e3540b28c6adeb7e29a2a5839cc24dba65f651bcf2f86b"
 ---
 

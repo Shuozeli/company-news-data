@@ -7,7 +7,7 @@ source_id: "falcon-s-beyond-global-inc-class-a-common-stock-rss-f76147a651bb"
 canonical_url: "https://investors.falconsbeyond.com/ir/news/news-details/2026/Falcons-Beyond-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx"
 published_at: "2026-03-30T20:45:00+00:00"
 first_seen_at: "2026-07-25T04:03:47.973036+00:00"
-fetched_at: "2026-07-28T21:51:51.864697+00:00"
+fetched_at: "2026-07-29T00:29:47.455339+00:00"
 content_hash: "sha256:6176bab7c1695c9a986f256d3645e15baa7302c5b4f2b10829657d7b6eca43f7"
 ---
 

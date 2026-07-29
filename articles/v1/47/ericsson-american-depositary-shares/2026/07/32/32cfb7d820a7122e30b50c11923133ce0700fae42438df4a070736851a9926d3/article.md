@@ -7,7 +7,7 @@ source_id: "ericsson-american-depositary-shares-atom-6bf64ebaa824"
 canonical_url: "https://www.ericsson.com/en/press-releases/2026/7/ericsson-announces-change-to-the-executive-team"
 published_at: "2026-07-21T14:00:00+00:00"
 first_seen_at: "2026-07-21T14:26:08.571564+00:00"
-fetched_at: "2026-07-28T21:50:25.830786+00:00"
+fetched_at: "2026-07-29T00:16:19.705635+00:00"
 content_hash: "sha256:ebc84db4ae28cf6e6f6251186ea9a13bd76a977e9a0b5b02e62c6f64df06f3ce"
 ---
 

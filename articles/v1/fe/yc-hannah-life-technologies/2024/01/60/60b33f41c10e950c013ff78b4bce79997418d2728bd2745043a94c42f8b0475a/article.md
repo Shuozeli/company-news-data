@@ -7,7 +7,7 @@ source_id: "yc-hannah-life-technologies-atom-a63a77caafac"
 canonical_url: "https://blog.twoplusfertility.com/blogs/pregnancy-stories/pregnant-at-32-despite-vaginismus"
 published_at: "2024-01-04T06:57:43+00:00"
 first_seen_at: "2026-07-24T13:31:41.510206+00:00"
-fetched_at: "2026-07-28T20:01:02.751203+00:00"
+fetched_at: "2026-07-28T23:50:30.923269+00:00"
 content_hash: "sha256:db04888fae568818421dec6f63f6e9eb0b6ef6f2c1c1fdad1df8deb33ee8d3b8"
 ---
 

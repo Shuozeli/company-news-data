@@ -132,5 +132,49 @@
       "partition": "2026-07",
       "record_count": 28
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/15/semrush-holdings-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 80223,
+        "sha256": "sha256:d134a0d1b7e485a532c64a1c915f068bb112a43d6c318cb4182c90846868a501",
+        "newest_at": "2026-07-27T15:11:00+00:00",
+        "oldest_at": "2025-05-13T17:17:34+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/15/semrush-holdings-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 58293,
+        "sha256": "sha256:c30309ea354a132ef586bb03a9e0376a3c03ad8928da01ad4dc9ec84eebb6742",
+        "newest_at": "2025-05-13T17:16:40+00:00",
+        "oldest_at": "2025-05-13T12:39:35+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/15/semrush-holdings-inc-class-a-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 62741,
+        "sha256": "sha256:2c76556cb2e3d43ca353247b0f28e4173e04a036dbb70f809bfa15ee21c9b39d",
+        "newest_at": "2025-05-13T12:35:36+00:00",
+        "oldest_at": "2020-01-15T07:02:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/15/semrush-holdings-inc-class-a-common-stock/index/pages/000004.json",
+        "record_count": 3,
+        "byte_count": 4016,
+        "sha256": "sha256:900310f9bba4d31faca375e879dda232a3cf4e6f73325f3fd136925300dda6f8",
+        "newest_at": "2018-02-01T06:00:00+00:00",
+        "oldest_at": "2013-05-29T15:16:36+00:00"
+      }
+    ]
+  }
 }

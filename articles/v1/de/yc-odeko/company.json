@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/de/yc-odeko/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 17304,
+        "sha256": "sha256:e77773b04983a21f2c290ddd1ca854bdd5e31966810ae32a70dec5b16587653d",
+        "newest_at": "2026-07-28T21:16:50.994015+00:00",
+        "oldest_at": "2022-07-14T18:01:13+00:00"
+      }
+    ]
+  }
 }

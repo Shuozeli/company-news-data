@@ -7,7 +7,7 @@ source_id: "tpg-re-finance-trust-inc-common-stock-rss-ef66e498ee7c"
 canonical_url: "http://investors.tpgrefinance.com/news/news-details/2026/TPG-RE-Finance-Trust-Inc--Declares-Cash-Dividend-on-Series-C-Cumulative-Redeemable-Preferred-Stock-f10d7c40e/default.aspx"
 published_at: "2026-06-08T20:44:00+00:00"
 first_seen_at: "2026-07-26T02:53:23.630730+00:00"
-fetched_at: "2026-07-28T19:34:05.464251+00:00"
+fetched_at: "2026-07-28T23:00:38.611838+00:00"
 content_hash: "sha256:d0030af4ec216525b2653a058ec4c57481f4c048fd2b65a04d524f7f27f5e9b1"
 ---
 

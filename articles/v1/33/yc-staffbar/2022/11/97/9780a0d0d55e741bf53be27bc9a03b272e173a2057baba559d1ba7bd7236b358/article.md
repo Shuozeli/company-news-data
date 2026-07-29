@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/newsletter-2-visual-rules-editor-new-style-editor-localization-and-behind-the-scenes"
-published_at: "2022-11-07T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:20fe994bbd91e29dc26f88cb18f442a170edc9ff13759b48038921df480b4e29"

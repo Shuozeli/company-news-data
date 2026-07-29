@@ -7,7 +7,7 @@ source_id: "yalla-group-limited-american-depositary-shares-each-representing-one
 canonical_url: "https://ir.yalla.com/2026-06-08-Yalla-Group-Concludes-Landmark-Participation-in-Saudi-eLeague-2026"
 published_at: "2026-06-08T10:00:00+00:00"
 first_seen_at: "2026-07-24T07:42:21.932229+00:00"
-fetched_at: "2026-07-28T20:46:08.822867+00:00"
+fetched_at: "2026-07-28T23:29:38.949411+00:00"
 content_hash: "sha256:22168cb5660cf8822ad47406ca32320e6e263156212aa933567f0fb65371684a"
 ---
 

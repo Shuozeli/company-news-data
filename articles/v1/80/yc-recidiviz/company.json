@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 20
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/80/yc-recidiviz/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 22586,
+        "sha256": "sha256:5d9ba7a296696c3346c9c9e40294514d8610ee2340890be0259cd40283c4b7ab",
+        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "oldest_at": "2026-07-28T21:20:12.930591+00:00"
+      }
+    ]
+  }
 }

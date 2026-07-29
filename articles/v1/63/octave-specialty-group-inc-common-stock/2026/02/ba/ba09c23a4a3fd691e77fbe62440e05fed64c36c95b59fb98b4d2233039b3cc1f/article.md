@@ -7,7 +7,7 @@ source_id: "octave-specialty-group-inc-common-stock-rss-6967d5ead71b"
 canonical_url: "https://octavegroup.com/newsroom/news/news-details/2026/Hammurabi-a-Division-of-Xchange-Benefits-Unveils-AI-Platform-That-Revolutionizes-Medical-Stop-Loss-Underwriting/default.aspx"
 published_at: "2026-02-18T13:30:00+00:00"
 first_seen_at: "2026-07-25T16:56:28.815818+00:00"
-fetched_at: "2026-07-28T19:56:33.596974+00:00"
+fetched_at: "2026-07-28T23:44:11.543647+00:00"
 content_hash: "sha256:7861468c0bec9d51b947612111345d34ba73072f7ca0b417e052cda711bb9468"
 ---
 

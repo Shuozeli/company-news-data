@@ -7,7 +7,7 @@ source_id: "yc-chunkr-rss-ccbc1a71b139"
 canonical_url: "https://www.chunkr.ai/blog/chunkr-parse-1-thinking-the-best-vlm-for-document-ocr"
 published_at: "2025-10-09T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:25.721612+00:00"
-fetched_at: "2026-07-28T22:03:25.927140+00:00"
+fetched_at: "2026-07-29T00:42:08.864346+00:00"
 content_hash: "sha256:059d96d4207a0fc121ebb0c8c4dd5f69f44e6d0e6795ccfd9e5679b9776b371e"
 ---
 

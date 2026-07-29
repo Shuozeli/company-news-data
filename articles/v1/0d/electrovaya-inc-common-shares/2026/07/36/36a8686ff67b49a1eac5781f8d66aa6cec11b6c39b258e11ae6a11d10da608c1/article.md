@@ -7,7 +7,7 @@ source_id: "electrovaya-inc-common-shares-rss-9d2ff1dd1d30"
 canonical_url: "https://electrovaya.com/amazon-expands-use-of-electroyvayas-infinity-battery-technology/"
 published_at: "2026-07-21T09:00:00+00:00"
 first_seen_at: "2026-07-28T16:26:05.710388+00:00"
-fetched_at: "2026-07-28T20:43:50.396682+00:00"
+fetched_at: "2026-07-28T23:29:25.489839+00:00"
 content_hash: "sha256:bde4fdb974ea5b8847b83eaf0cf9a99ebe42daaa6e76dde057fb53840c74d4b9"
 ---
 

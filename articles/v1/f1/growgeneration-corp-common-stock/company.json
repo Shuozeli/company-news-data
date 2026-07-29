@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f1/growgeneration-corp-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 13474,
+        "sha256": "sha256:aedf8f6ebf58ad228c10cbae2c1b5300be0c4cea95ce10432b392f5b5251a5ad",
+        "newest_at": "2026-07-28T12:00:00+00:00",
+        "oldest_at": "2026-03-05T13:00:00+00:00"
+      }
+    ]
+  }
 }

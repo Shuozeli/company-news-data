@@ -7,7 +7,7 @@ source_id: "yc-chrt-rss-2d0a5d97a4f2"
 canonical_url: "https://chrt.org/2026/05/chrts-2025-health-policy-fellowship-wraps-up-another-year-of-learning-and-connection/"
 published_at: "2026-05-28T17:36:47+00:00"
 first_seen_at: "2026-07-27T08:33:17.895938+00:00"
-fetched_at: "2026-07-28T20:26:25.181955+00:00"
+fetched_at: "2026-07-28T23:11:31.547398+00:00"
 content_hash: "sha256:54d4c70bb7a0fd50333dce126a59e48d1d73c9f49b48e2868842a2c69726bc2d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "methode-electronics-inc-common-stock-rss-6edafacdf2f1"
 canonical_url: "https://ir.methode.com/news/news-details/2026/Methode-Electronics-Inc--Reports-Fiscal-2026-Fourth-Quarter-and-Full-Year-Financial-Results/default.aspx"
 published_at: "2026-06-24T20:00:00+00:00"
 first_seen_at: "2026-07-25T13:58:57.317442+00:00"
-fetched_at: "2026-07-28T20:48:49.132981+00:00"
+fetched_at: "2026-07-28T23:33:53.652231+00:00"
 content_hash: "sha256:c3382007fb750456251f74318409dedfb4de93040965b8ca5eabfc29447993e1"
 ---
 

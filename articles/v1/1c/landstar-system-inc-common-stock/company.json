@@ -328,5 +328,112 @@
       "partition": "2026-07",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 56984,
+        "sha256": "sha256:63f1f078254dda131a868324caf4e19166128448be3102e7ff205e5354a64d20",
+        "newest_at": "2026-07-28T17:54:19+00:00",
+        "oldest_at": "2025-10-30T20:40:03+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 56719,
+        "sha256": "sha256:a3d6f28a1577d8614d324e59188b883968f3fddc92a78434348a62432bb355e5",
+        "newest_at": "2025-10-30T12:36:39+00:00",
+        "oldest_at": "2024-12-04T13:32:58+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 57150,
+        "sha256": "sha256:e20135e0d31b73df5628584134b6857115df0281baac4b14b9350e6872078ce2",
+        "newest_at": "2024-11-26T16:26:16+00:00",
+        "oldest_at": "2024-04-19T13:06:39+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 56410,
+        "sha256": "sha256:9856cc86a392b4c53b97e2c41897fc70f205a09a4af29a94fc249b8d8e233265",
+        "newest_at": "2024-04-12T17:58:23+00:00",
+        "oldest_at": "2023-04-06T14:56:52+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 57154,
+        "sha256": "sha256:497cbddfaa70571fa1408c2dfe87b6e11d886ff71186bd49be0b0d780baefe44",
+        "newest_at": "2023-03-15T13:41:07+00:00",
+        "oldest_at": "2022-06-07T16:27:53+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 55465,
+        "sha256": "sha256:083653e195c5b15f14262bf688c3bb7cf5df9bccb9f75ddf7f0a88ef4d7e75c2",
+        "newest_at": "2022-06-03T19:32:13+00:00",
+        "oldest_at": "2021-07-19T17:31:26+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 55534,
+        "sha256": "sha256:79b2d8588f638bc9192134d69e1664f77f938bf1fef8db429fc57a4cec268188",
+        "newest_at": "2021-07-16T19:52:51+00:00",
+        "oldest_at": "2020-10-20T17:10:11+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 55414,
+        "sha256": "sha256:27a67e97be5421ae21930cc1d3e5d8e7de10a4bad69b7904c7314f92367938ce",
+        "newest_at": "2020-10-15T11:57:59+00:00",
+        "oldest_at": "2020-03-19T18:04:51+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 55637,
+        "sha256": "sha256:8d270032d99c787900859cad6a754da4090fb84e73c13e45853e2e58486337c2",
+        "newest_at": "2020-03-18T20:54:43+00:00",
+        "oldest_at": "2019-11-21T17:39:31+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 55811,
+        "sha256": "sha256:f92f1856e70e4f91d6f951ae7237e86e036e7a4ea94b80200ecd44270580588d",
+        "newest_at": "2019-11-21T17:39:31+00:00",
+        "oldest_at": "2019-11-21T17:39:02+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000011.json",
+        "record_count": 3,
+        "byte_count": 3422,
+        "sha256": "sha256:50aa6f352cda305bedd5d5ba86dcafe023c95a2e092bcf6d6f3f7bc534a6cc33",
+        "newest_at": "2019-11-21T17:39:02+00:00",
+        "oldest_at": "2019-11-21T17:39:00+00:00"
+      }
+    ]
+  }
 }

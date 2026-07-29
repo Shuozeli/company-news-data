@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-d1044ff9c1aa"
 canonical_url: "https://www.photoroom.com/blog/photoroom-vs-picsart"
-published_at: "2026-02-25T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:08.835718+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:43e41b6e7c128a9012aae2cb1a5b858251e21bcd3609987cd083e6f1b046a59b"

@@ -36,5 +36,22 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/36/friedman-industries-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13780,
+        "sha256": "sha256:e191d209924ec12bc04e7e448d7cdc627cc9c1edb42147623843d72f0a488297",
+        "newest_at": "2026-06-24T19:25:48+00:00",
+        "oldest_at": "2025-08-07T20:19:50+00:00"
+      }
+    ]
+  }
 }

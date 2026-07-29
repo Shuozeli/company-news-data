@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/superwall-best-practices-winning-paywall-strategies-and-experiments-to"
-published_at: "2025-08-07T15:04:16.708+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:9337d95746ab30c0bbf7b9ecd35b6db079a382afd107c17c0ac2feccb7119467"

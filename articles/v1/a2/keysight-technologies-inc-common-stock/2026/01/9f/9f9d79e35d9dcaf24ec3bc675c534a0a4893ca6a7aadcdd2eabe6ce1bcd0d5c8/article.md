@@ -7,7 +7,7 @@ source_id: "keysight-technologies-inc-common-stock-rss-a91c7ceee0e7"
 canonical_url: "https://investor.keysight.com/investor-news-and-events/financial-press-releases/press-release-details/2026/Keysight-Technologies-Appoints-Liz-Morali-as-Head-of-Investor-Relations/default.aspx"
 published_at: "2026-01-06T13:00:00+00:00"
 first_seen_at: "2026-07-27T03:20:18.095797+00:00"
-fetched_at: "2026-07-28T21:06:57.986504+00:00"
+fetched_at: "2026-07-28T23:52:52.546423+00:00"
 content_hash: "sha256:b5d266d6e1702b981ae2af7e7b76a3769632946a8942ca1bdf5e6b6bcf28fdff"
 ---
 

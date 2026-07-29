@@ -7,7 +7,7 @@ source_id: "wingstop-inc-common-stock-rss-7f135f859589"
 canonical_url: "https://ir.wingstop.com/wingstop-inc-to-announce-fiscal-second-quarter-2026-financial-results-on-july-29-2026/"
 published_at: "2026-06-30T12:02:03+00:00"
 first_seen_at: "2026-07-20T23:17:13.311245+00:00"
-fetched_at: "2026-07-28T21:13:20.646299+00:00"
+fetched_at: "2026-07-28T23:58:14.897862+00:00"
 content_hash: "sha256:a957b1088a34ff8d71053b96ffaae46fa7429f13c06b4b8e309c6467c4d0bd2e"
 ---
 

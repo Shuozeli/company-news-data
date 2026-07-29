@@ -20,5 +20,22 @@
       "partition": "2024-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/yc-zorba/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4291,
+        "sha256": "sha256:22c7ca7353684534ecec1ea5efb8b12c27059c2713cc64cf44f79935d462d26a",
+        "newest_at": "2024-07-02T16:02:07+00:00",
+        "oldest_at": "2024-03-28T13:41:15+00:00"
+      }
+    ]
+  }
 }

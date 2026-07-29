@@ -36,5 +36,22 @@
       "partition": "2024-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/16/yc-salt/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 15663,
+        "sha256": "sha256:7aa4fa853913e631d5260259048af627a39b5d4f5ef75ab701f1035485f2284e",
+        "newest_at": "2024-07-09T07:02:04+00:00",
+        "oldest_at": "2024-01-29T18:30:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "yc-nano-technologies-rss-e57af4e48835"
 canonical_url: "http://vuiapp.vn/su-dung-tinh-nang-moi-dong-nghiep-tren-vui-app"
 published_at: "2026-05-18T09:10:06+00:00"
 first_seen_at: "2026-07-25T01:53:29.155507+00:00"
-fetched_at: "2026-07-28T20:26:11.446514+00:00"
+fetched_at: "2026-07-28T23:11:40.065777+00:00"
 content_hash: "sha256:9ff1e8ea3dbd46c22103c9f8ee5107c4e9aef194cf6619501b1b0a5829190053"
 ---
 

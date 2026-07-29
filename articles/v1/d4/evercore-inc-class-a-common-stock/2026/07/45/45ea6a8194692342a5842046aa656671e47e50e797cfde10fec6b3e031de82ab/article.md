@@ -7,7 +7,7 @@ source_id: "evercore-inc-class-a-common-stock-rss-cec3ba1f6fc0"
 canonical_url: "https://www.evercore.com/eric-rabinowitz-joins-evercore-as-senior-managing-director-in-the-healthcare-investment-banking-group/"
 published_at: "2026-07-09T16:22:12+00:00"
 first_seen_at: "2026-07-21T01:18:50.348672+00:00"
-fetched_at: "2026-07-28T21:50:32.928734+00:00"
+fetched_at: "2026-07-29T00:20:15.020156+00:00"
 content_hash: "sha256:fb59a4d5a451a2f96dc39053a63b9fb750b9d05f88958dce1cef7d585e660f6e"
 ---
 

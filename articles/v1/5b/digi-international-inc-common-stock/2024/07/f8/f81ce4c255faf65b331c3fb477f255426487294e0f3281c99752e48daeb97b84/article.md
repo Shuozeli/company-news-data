@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/industrial-remote-monitoring"
 published_at: "2024-07-16T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:8ac7cc4fdf2422e8fce60b51912bd824b914aaf7f3f40a8738c1f1ad4aeb0831"
 ---
 

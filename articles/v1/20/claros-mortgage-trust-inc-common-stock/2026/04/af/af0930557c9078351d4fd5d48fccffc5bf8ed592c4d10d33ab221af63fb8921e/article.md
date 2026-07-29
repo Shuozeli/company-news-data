@@ -7,7 +7,7 @@ source_id: "claros-mortgage-trust-inc-common-stock-rss-9c43230d4b0c"
 canonical_url: "https://www.clarosmortgage.com/news/news-details/2026/Claros-Mortgage-Trust-Inc--Announces-Dates-for-First-Quarter-2026-Earnings-Release-and-Conference-Call/default.aspx"
 published_at: "2026-04-22T20:27:00+00:00"
 first_seen_at: "2026-07-27T00:55:26.690644+00:00"
-fetched_at: "2026-07-28T19:59:21.354699+00:00"
+fetched_at: "2026-07-28T23:48:21.566861+00:00"
 content_hash: "sha256:49b6e88a7863dfbdccafe2e2047d5b1a972f6fcaa0a64e99fbc1b476fc15c741"
 ---
 

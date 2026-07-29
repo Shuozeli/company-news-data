@@ -7,7 +7,7 @@ source_id: "wipro-limited-common-stock-atom-445de1c531be"
 canonical_url: "https://www.wipro.com/newsroom/press-releases/2020/wipro-and-uniper-collaborate-to-implement-a-blockchain-based-small-scale-liquefied-natural-gas-trading-fulfilment-platform/"
 published_at: "2020-09-15T11:50:39+00:00"
 first_seen_at: "2026-07-24T13:35:19.037797+00:00"
-fetched_at: "2026-07-28T21:28:06.979006+00:00"
+fetched_at: "2026-07-29T00:29:03.040422+00:00"
 content_hash: "sha256:49e6b1848e1dc40e63bc3fa48ed728d168e5f5f961b57992fcc324665684b5d2"
 ---
 

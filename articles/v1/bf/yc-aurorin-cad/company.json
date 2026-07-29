@@ -12,5 +12,22 @@
       "partition": "2026-02",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bf/yc-aurorin-cad/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1253,
+        "sha256": "sha256:332ee52654d82d31ba881a1d473a02bc6cad9cc25a77f122ccce9cad60349f8b",
+        "newest_at": "2026-02-24T00:00:00+00:00",
+        "oldest_at": "2026-02-24T00:00:00+00:00"
+      }
+    ]
+  }
 }

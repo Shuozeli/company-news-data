@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-receives-2022-nareit-leader-in-the-light-award"
 published_at: "2022-11-16T15:06:35+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:ed705df62fc3b7a13e8743508d9aae5cb5a286bdc0ce8d87975a5d3c0c6afe2a"
 ---
 

@@ -104,5 +104,31 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/14/rh-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 54333,
+        "sha256": "sha256:ded3c3b9769e020c9b4f30b6e550e040e78783e8bb98f2be6033ce183dd9d9c3",
+        "newest_at": "2026-07-23T10:46:00+00:00",
+        "oldest_at": "2023-11-30T21:05:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/14/rh-common-stock/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 2347,
+        "sha256": "sha256:53d8be72394b37c48426158017336032b09e8f71dcf553a76f360ca933e659cc",
+        "newest_at": "2023-11-20T14:17:00+00:00",
+        "oldest_at": "2023-11-14T18:15:00+00:00"
+      }
+    ]
+  }
 }

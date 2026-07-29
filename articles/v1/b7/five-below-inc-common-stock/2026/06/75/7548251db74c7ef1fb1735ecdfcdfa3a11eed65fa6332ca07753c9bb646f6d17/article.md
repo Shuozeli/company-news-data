@@ -7,7 +7,7 @@ source_id: "five-below-inc-common-stock-rss-0a1340f7a94f"
 canonical_url: "http://investor.fivebelow.com/news/press-release-details/2026/Five-Below-Inc--Announces-Election-of-Robert-Lynch-to-its-Board-of-Directors/default.aspx"
 published_at: "2026-06-16T20:30:00+00:00"
 first_seen_at: "2026-07-25T05:05:30.342133+00:00"
-fetched_at: "2026-07-28T19:48:41.390136+00:00"
+fetched_at: "2026-07-28T23:26:45.721855+00:00"
 content_hash: "sha256:f60e666d7417585f0aa3bdbe915257648705bdffc013a5f897bf918ecce40604"
 ---
 

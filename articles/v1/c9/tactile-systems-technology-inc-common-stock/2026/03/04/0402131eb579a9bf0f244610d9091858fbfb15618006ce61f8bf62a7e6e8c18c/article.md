@@ -7,7 +7,7 @@ source_id: "tactile-systems-technology-inc-common-stock-rss-41cc25f00a77"
 canonical_url: "https://investors.tactilemedical.com/andrea-pearson"
 published_at: "2026-03-05T19:36:15+00:00"
 first_seen_at: "2026-07-20T23:22:30.674993+00:00"
-fetched_at: "2026-07-28T20:48:53.693606+00:00"
+fetched_at: "2026-07-28T23:33:57.774604+00:00"
 content_hash: "sha256:79ab5e29b8521ae92258d2e89448d084cf4ae167bc7ab9bcb1d92b46d4fcd252"
 ---
 

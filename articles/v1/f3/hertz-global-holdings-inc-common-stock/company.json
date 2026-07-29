@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f3/hertz-global-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 20465,
+        "sha256": "sha256:74351d73dd83be78f8a5dd236f5bca4b6ea84532e33e9a7b0d839fc4f31f80be",
+        "newest_at": "2026-07-14T20:30:45+00:00",
+        "oldest_at": "2025-04-16T13:55:42+00:00"
+      }
+    ]
+  }
 }

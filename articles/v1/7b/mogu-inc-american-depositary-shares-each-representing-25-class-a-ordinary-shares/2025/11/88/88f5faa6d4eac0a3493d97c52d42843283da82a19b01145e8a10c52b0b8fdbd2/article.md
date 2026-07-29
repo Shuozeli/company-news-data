@@ -7,7 +7,7 @@ source_id: "mogu-inc-american-depositary-shares-each-representing-25-class-a-ord
 canonical_url: "https://ir.mogu-inc.com/news/news-details/2025/MOGU-Announces-Change-of-Auditor/default.aspx"
 published_at: "2025-11-13T11:00:00+00:00"
 first_seen_at: "2026-07-25T14:45:30.550850+00:00"
-fetched_at: "2026-07-28T21:35:53.115672+00:00"
+fetched_at: "2026-07-29T00:30:15.072789+00:00"
 content_hash: "sha256:c93e37bd29a019298de5dc37669c003892bda42429d7017a5d8e13cc4098aebf"
 ---
 

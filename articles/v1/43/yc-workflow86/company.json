@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 15
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/43/yc-workflow86/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 14172,
+        "sha256": "sha256:9897de59665328c5e20b25dc87642752a40b5c261c68ef40c42a98737beaddc4",
+        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "oldest_at": "2026-07-28T21:20:10.944044+00:00"
+      }
+    ]
+  }
 }

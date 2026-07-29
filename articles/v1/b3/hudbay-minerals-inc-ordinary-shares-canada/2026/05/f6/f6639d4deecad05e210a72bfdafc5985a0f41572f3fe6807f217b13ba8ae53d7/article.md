@@ -7,7 +7,7 @@ source_id: "hudbay-minerals-inc-ordinary-shares-canada-rss-c4096adde97b"
 canonical_url: "https://hudbayminerals.com/investors/press-releases/press-release-details/2026/Hudbay-Announces-Election-of-Directors-at-2026-Annual-and-Special-Meeting-of-Shareholders/default.aspx"
 published_at: "2026-05-19T22:06:00+00:00"
 first_seen_at: "2026-07-25T08:33:11.818329+00:00"
-fetched_at: "2026-07-28T20:05:10.042348+00:00"
+fetched_at: "2026-07-28T23:54:13.555520+00:00"
 content_hash: "sha256:12fc8c1e3ccbcb95592c929caa1e310a7a559e839c05ff64eadc58d7d2645878"
 ---
 

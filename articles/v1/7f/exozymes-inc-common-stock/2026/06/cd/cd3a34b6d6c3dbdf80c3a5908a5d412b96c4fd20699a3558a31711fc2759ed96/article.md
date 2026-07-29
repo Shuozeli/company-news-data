@@ -7,7 +7,7 @@ source_id: "exozymes-inc-common-stock-rss-741f122b5abb"
 canonical_url: "https://exozymes.com/blog/ladder17-podcast-2026"
 published_at: "2026-06-25T13:09:02+00:00"
 first_seen_at: "2026-07-25T03:51:33.698656+00:00"
-fetched_at: "2026-07-28T21:36:10.174637+00:00"
+fetched_at: "2026-07-29T00:27:19.021608+00:00"
 content_hash: "sha256:192e458b49c3ae192ffd320c145b70125a73e5121db4f8441cd6dba7040e27ce"
 ---
 

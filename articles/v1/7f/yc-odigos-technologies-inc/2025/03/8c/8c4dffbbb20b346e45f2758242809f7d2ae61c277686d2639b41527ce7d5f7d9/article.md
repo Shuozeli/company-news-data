@@ -7,7 +7,7 @@ source_id: "yc-odigos-technologies-inc-rss-eb41174e661a"
 canonical_url: "https://odigos.io/blog/solving-pitfalls-of-distributed-tracing-in-real-world-microservices"
 published_at: "2025-03-27T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:02:44.020335+00:00"
-fetched_at: "2026-07-28T19:57:42.767612+00:00"
+fetched_at: "2026-07-28T23:46:13.985043+00:00"
 content_hash: "sha256:07729d9a1f16786553652e89702e7bec2fde9484ebebd51ca23e4e7ac9ab4853"
 ---
 

@@ -24,5 +24,22 @@
       "partition": "2026-06",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a2/lyell-immunopharma-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14091,
+        "sha256": "sha256:57477ea5a0a7b7ec7039a15a6b3167a09ec8069ea572396072e9a2f87e19aec2",
+        "newest_at": "2026-06-25T12:00:44+00:00",
+        "oldest_at": "2026-03-09T12:00:26+00:00"
+      }
+    ]
+  }
 }

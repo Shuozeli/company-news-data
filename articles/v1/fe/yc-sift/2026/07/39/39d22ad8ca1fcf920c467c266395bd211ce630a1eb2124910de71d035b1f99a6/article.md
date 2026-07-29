@@ -5,7 +5,7 @@ company_key: "yc-sift"
 company: "Sift"
 source_id: "yc-sift-rss-c48c6d88eecb"
 canonical_url: "https://sift.com/blog/fake-listings-fraud-on-commerce-marketplaces/"
-published_at: "2026-07-17T18:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:24:10.644571+00:00"
 fetched_at: "2026-07-28T20:34:24.680558+00:00"
 content_hash: "sha256:f51bbc770c29175ee4e381254551abbe2cc3034bbed87620052fdb505dc9f5f1"

@@ -7,7 +7,7 @@ source_id: "yc-spotless-materials-atom-27f9e38cc9f8"
 canonical_url: "https://spotlessmaterials.com/blogs/press-releases-1/spotless-materials-ceo-honored-with-penn-state-alumni-achievement-award"
 published_at: "2024-03-27T18:08:54+00:00"
 first_seen_at: "2026-07-26T00:03:15.518146+00:00"
-fetched_at: "2026-07-28T21:51:19.267470+00:00"
+fetched_at: "2026-07-29T00:06:27.340276+00:00"
 content_hash: "sha256:801e0670609a8467e60c7c86ad32a4d7c23c28dd4f2bf58cd5bdd56ec6513b43"
 ---
 

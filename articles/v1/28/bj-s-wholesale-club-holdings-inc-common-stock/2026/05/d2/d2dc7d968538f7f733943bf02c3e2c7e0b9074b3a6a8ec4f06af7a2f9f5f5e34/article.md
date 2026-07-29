@@ -7,7 +7,7 @@ source_id: "bj-s-wholesale-club-holdings-inc-common-stock-rss-dd25fd37e36b"
 canonical_url: "https://investors.bjs.com/press-releases/press-release-details/2026/BJs-Wholesale-Club-Announces-Waxahachie-Texas-Grand-Opening/default.aspx"
 published_at: "2026-05-01T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:22.633439+00:00"
-fetched_at: "2026-07-28T20:03:27.118039+00:00"
+fetched_at: "2026-07-28T23:52:43.781550+00:00"
 content_hash: "sha256:957a7728b86406315b5a76fcbbb8d33d602108d23ac8f632f66aa2d602a7d2cc"
 ---
 

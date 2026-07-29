@@ -7,7 +7,7 @@ source_id: "howard-hughes-holdings-inc-common-stock-rss-4e88654bb052"
 canonical_url: "https://communities.howardhughes.com/news/cafe-opens-at-ward-village-after-two-year-absence-from-waikiki/"
 published_at: "2026-04-27T16:31:18+00:00"
 first_seen_at: "2026-07-24T09:07:31.143725+00:00"
-fetched_at: "2026-07-28T21:03:05.935054+00:00"
+fetched_at: "2026-07-28T23:49:42.315584+00:00"
 content_hash: "sha256:ba5d7ebb5b4e7bc3cbdc68873c3716c39685d14a59a99f01fbfba3a333add600"
 ---
 

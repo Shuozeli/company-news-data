@@ -7,7 +7,7 @@ source_id: "biolife-solutions-inc-common-stock-rss-b06e789c5bee"
 canonical_url: "https://investors.biolifesolutions.com/2026-04-21-BioLife-Solutions-Wins-INTERPHEX-2026-Biotech-Innovation-Award-for-CellSeal-R-CryoCase"
 published_at: "2026-04-21T20:15:00+00:00"
 first_seen_at: "2026-07-20T23:17:18.526980+00:00"
-fetched_at: "2026-07-28T21:05:08.153044+00:00"
+fetched_at: "2026-07-28T23:51:29.114571+00:00"
 content_hash: "sha256:539f5eb9edba7afb57b5b0b7800c520c62f8365250bba8f06b820925be77331f"
 ---
 

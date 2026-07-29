@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2018/02/adapting-umbilicals-for-future-environments/"
 published_at: "2018-02-02T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-28T21:51:21.094676+00:00"
+fetched_at: "2026-07-29T00:17:43.124361+00:00"
 content_hash: "sha256:e3a184300c171fcad3c2b3791b6a895057f802d06bc5874f5dab55a67a8ecf21"
 ---
 

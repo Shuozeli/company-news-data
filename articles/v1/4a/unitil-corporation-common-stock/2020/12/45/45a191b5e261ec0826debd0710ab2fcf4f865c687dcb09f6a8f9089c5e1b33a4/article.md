@@ -7,8 +7,8 @@ source_id: "unitil-corporation-common-stock-rss-b52a37baddee"
 canonical_url: "https://unitil.com/electric-gas-service"
 published_at: "2020-12-15T15:04:37+00:00"
 first_seen_at: "2026-07-20T23:22:29.081518+00:00"
-fetched_at: "2026-07-28T20:24:50.973699+00:00"
-content_hash: "sha256:0c6269d7462b598a6ba8c578fbb75ab5bc5b2a5cbfbcc2b893ce236ac5f7de35"
+fetched_at: "2026-07-28T23:09:53.129731+00:00"
+content_hash: "sha256:2f951877532034b0ce5c5166cc774f2a9eba61f87091abe25e14f424a2d787e9"
 ---
 
 # Electric & Gas Service
@@ -204,10 +204,10 @@ Having trouble paying your bill?[Get financial assistance](https://unitil.com/ac
 Whether you’re looking for ways to conserve energy, upgrade to natural gas or hoping to learn more about how we bring energy to your life, these articles will help put the power in your hands.
 
 
-[What is a Smart Meter and Other Metering Questions Answered](https://unitil.com/blog/what-smart-meter-and-other-metering-questions-answered)
-
-
 [Why Not Just Have Underground Power Lines?](https://unitil.com/blog/why-not-just-have-underground-power-lines)
+
+
+[What is a Smart Meter and Other Metering Questions Answered](https://unitil.com/blog/what-smart-meter-and-other-metering-questions-answered)
 
 
 [Explore more energy articles →](https://unitil.com/blog/categories/about-energy)

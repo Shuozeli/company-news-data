@@ -24,5 +24,40 @@
       "partition": "2026-07",
       "record_count": 113
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c6/zebra-technologies-corporation-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 68386,
+        "sha256": "sha256:12371b5d4b7c7e420cc6a4a5369136592cea6d386a0ea61c8b7f2cf0e07814f5",
+        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "oldest_at": "2026-07-28T21:39:52.838477+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/c6/zebra-technologies-corporation-class-a-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 71070,
+        "sha256": "sha256:dbd41994fbb8a5ed88a400c69ccea1d0c2ba278466af867a0fc821c4cac45eeb",
+        "newest_at": "2026-07-28T21:39:52.838477+00:00",
+        "oldest_at": "2026-07-28T21:39:52.838477+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/c6/zebra-technologies-corporation-class-a-common-stock/index/pages/000003.json",
+        "record_count": 20,
+        "byte_count": 28843,
+        "sha256": "sha256:63625520cf7b87d9d3f9239d936d982fdd798906aa3f2f7008cf742235fec414",
+        "newest_at": "2026-07-28T21:39:52.838477+00:00",
+        "oldest_at": "2026-02-10T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2016/accelerated-4g-router-deployments-overcome-costly"
 published_at: "2016-11-21T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:e87054f1e2fcc29d824f6dce4d547652a5a572b3ac34b5d8084e9d3063bc656f"
 ---
 

@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5e/t1-energy-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 15856,
+        "sha256": "sha256:8596633a631186c24a06ad3a9e86f949347ee97745657aa5530d9981c34c8172",
+        "newest_at": "2026-07-28T10:09:31+00:00",
+        "oldest_at": "2026-03-18T10:05:28+00:00"
+      }
+    ]
+  }
 }

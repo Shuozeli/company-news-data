@@ -12,5 +12,22 @@
       "partition": "2021-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/55/yc-mozper/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1142,
+        "sha256": "sha256:87dc3fc216089e84758b58ebe5fcf1f6a07d8169caf810249b3fddc0029363bd",
+        "newest_at": "2021-07-21T00:00:00+00:00",
+        "oldest_at": "2021-07-21T00:00:00+00:00"
+      }
+    ]
+  }
 }

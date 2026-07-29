@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/petrole-eoliennes-totalenergies-tire-parti-de-la-politique-energetique-du-bresil/"
 published_at: "2025-10-30T13:46:05+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:bb909773337bf2f88c133b5bbf32f76a976d89415debf89f9008218c48b69557"
 ---
 

@@ -7,7 +7,7 @@ source_id: "mercantile-bank-corporation-common-stock-rss-af96d5eac485"
 canonical_url: "https://ir.mercbank.com/news/news-details/2026/Mercantile-Bank-Corporation-Announces-First-Quarter-2026-Results-Conference-Call-and-Webcast/default.aspx"
 published_at: "2026-03-31T14:00:00+00:00"
 first_seen_at: "2026-07-25T13:50:25.663288+00:00"
-fetched_at: "2026-07-28T20:37:59.204866+00:00"
+fetched_at: "2026-07-28T23:21:37.508841+00:00"
 content_hash: "sha256:c12818d6357817baacbc806f70bf634b8e94bd3a1b0fc7e9f64724350fe072bf"
 ---
 

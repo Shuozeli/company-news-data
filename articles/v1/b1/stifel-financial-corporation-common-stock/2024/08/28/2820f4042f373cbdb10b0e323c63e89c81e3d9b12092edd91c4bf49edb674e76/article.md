@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2024/2024-Forbes-Next-Gen-Wealth-Advisors.pdf"
 published_at: "2024-08-08T20:55:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:1083197f5d6902d46143b9517bfe65dde491dc969590b7f7cbd1f5139d3f35d8"
 ---
 

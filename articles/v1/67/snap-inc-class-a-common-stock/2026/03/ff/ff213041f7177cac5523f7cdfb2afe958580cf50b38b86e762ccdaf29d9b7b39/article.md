@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/performance_as_a_feature"
 published_at: "2026-03-19T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T20:38:20.120259+00:00"
+fetched_at: "2026-07-28T23:22:34.016732+00:00"
 content_hash: "sha256:f3e56bbe1e20cd06e574eb8e5accfa40d1659f3cdfe1bdc25ea6d1cd90347122"
 ---
 

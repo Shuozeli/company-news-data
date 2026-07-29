@@ -7,7 +7,7 @@ source_id: "evercore-inc-class-a-common-stock-rss-cec3ba1f6fc0"
 canonical_url: "https://www.evercore.com/david-ke-joins-evercore-as-senior-managing-director-in-the-equity-capital-markets-group/"
 published_at: "2026-03-12T12:36:30+00:00"
 first_seen_at: "2026-07-21T01:18:50.348672+00:00"
-fetched_at: "2026-07-28T21:50:32.928734+00:00"
+fetched_at: "2026-07-29T00:20:15.020156+00:00"
 content_hash: "sha256:b13e62e68f104240f9e8f8e78f05719f98ee1859faec3853c1f42e6796cc346c"
 ---
 

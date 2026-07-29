@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/story/2026/everbridge-critical-event-management-solution.html"
 published_at: "2026-07-06T14:00:00+00:00"
 first_seen_at: "2026-07-20T04:35:42.625239+00:00"
-fetched_at: "2026-07-28T20:53:36.935307+00:00"
+fetched_at: "2026-07-28T23:38:49.340178+00:00"
 content_hash: "sha256:37239b6eba5375063fc68c8d4c54bc8e3009fdfe2dfc455778ade6e1db81f03c"
 ---
 

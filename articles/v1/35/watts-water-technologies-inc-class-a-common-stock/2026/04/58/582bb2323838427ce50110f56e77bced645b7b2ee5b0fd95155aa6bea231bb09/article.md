@@ -7,7 +7,7 @@ source_id: "watts-water-technologies-inc-class-a-common-stock-rss-3eddadbf95be"
 canonical_url: "https://investors.wattswater.com/press-releases/press-release-details/2026/Watts-Water-Technologies-Inc--Announces-First-Quarter-2026-Earnings-Release-and-Earnings-Conference-Call/default.aspx"
 published_at: "2026-04-08T20:15:00+00:00"
 first_seen_at: "2026-07-26T05:11:59.088103+00:00"
-fetched_at: "2026-07-28T21:23:56.529434+00:00"
+fetched_at: "2026-07-29T00:06:28.523087+00:00"
 content_hash: "sha256:a742dda20fc009fe4bc7a1bbac4392f3ddca78d80b4c495ded878d6866239e6e"
 ---
 

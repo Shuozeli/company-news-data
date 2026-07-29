@@ -7,7 +7,7 @@ source_id: "yc-persephone-biosciences-rss-3e1d37532ea3"
 canonical_url: "https://www.persephonebiosciences.com/persephone-biosciences-presents-at-ginkgo-bioworksannual-ferment-conference/"
 published_at: "2023-09-12T00:52:31+00:00"
 first_seen_at: "2026-07-20T23:24:06.192520+00:00"
-fetched_at: "2026-07-28T20:41:53.039966+00:00"
+fetched_at: "2026-07-28T23:25:55.741277+00:00"
 content_hash: "sha256:dbada474beb3233ddf105f460dbf6023ee8e3ecda505dedc5f060510ee20935d"
 ---
 

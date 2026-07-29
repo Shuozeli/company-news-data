@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e8/pool-corporation-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 23747,
+        "sha256": "sha256:408345a211ecc86e3e9772a4afddc530ac8b0535e3d9e35f6a2046ddbde83cb8",
+        "newest_at": "2026-07-23T11:00:26+00:00",
+        "oldest_at": "2026-02-19T12:00:05+00:00"
+      }
+    ]
+  }
 }

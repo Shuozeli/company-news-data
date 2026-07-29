@@ -7,7 +7,7 @@ source_id: "ooma-inc-common-stock-rss-c85b6a987b34"
 canonical_url: "https://www.ooma.com/office-phones/get-a-free-quote-with-twilio/"
 published_at: "2026-07-10T05:51:37+00:00"
 first_seen_at: "2026-07-20T23:23:46.516672+00:00"
-fetched_at: "2026-07-28T20:13:51.125037+00:00"
+fetched_at: "2026-07-28T22:55:50.020652+00:00"
 content_hash: "sha256:cf12145000e66408d8b4ee1c2a3bf28aa71d6972677a32255f79a2a3b48fc060"
 ---
 

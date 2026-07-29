@@ -7,7 +7,7 @@ source_id: "cohen-company-inc-rss-b12cf9ad3a83"
 canonical_url: "https://cohenandcompany.com/2026/02/23/pride-iv-exceeds-expectations-becoming-cohen-company-asset-managements-largest-european-vintage-to-date-at-e481-5-million/"
 published_at: "2026-02-23T16:59:05+00:00"
 first_seen_at: "2026-07-24T22:53:38.296871+00:00"
-fetched_at: "2026-07-28T21:47:22.771077+00:00"
+fetched_at: "2026-07-29T00:18:20.497479+00:00"
 content_hash: "sha256:b5374bbef6ff4b8964ffab6e560a896b2a8467f3837ab5eed3d2d2bd1ce6132a"
 ---
 

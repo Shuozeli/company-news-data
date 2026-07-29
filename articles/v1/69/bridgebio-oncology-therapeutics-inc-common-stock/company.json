@@ -40,5 +40,22 @@
       "partition": "2026-04",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/69/bridgebio-oncology-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 15022,
+        "sha256": "sha256:0c4c97d3fd3114752808d7a52d39541b4a7d812d9e2fd38551c70d7cc6ed3e74",
+        "newest_at": "2026-04-21T20:28:04+00:00",
+        "oldest_at": "2024-05-02T15:00:38+00:00"
+      }
+    ]
+  }
 }

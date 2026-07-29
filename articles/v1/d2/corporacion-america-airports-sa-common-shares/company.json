@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d2/corporacion-america-airports-sa-common-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12124,
+        "sha256": "sha256:5dd804ad87e47036a6e863aa7cd433d7bef1d8e0b590b5336b7d3c4b92a50a1e",
+        "newest_at": "2026-07-17T21:30:00+00:00",
+        "oldest_at": "2026-03-16T20:31:00+00:00"
+      }
+    ]
+  }
 }

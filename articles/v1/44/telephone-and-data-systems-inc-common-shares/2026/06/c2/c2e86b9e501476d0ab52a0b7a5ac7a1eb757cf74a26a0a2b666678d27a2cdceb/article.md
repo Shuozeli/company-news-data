@@ -7,7 +7,7 @@ source_id: "telephone-and-data-systems-inc-common-shares-rss-26d0a83d633d"
 canonical_url: "https://www.tdsinc.com/news/news-details/2026/Array-completes-sale-of-select-spectrum-assets-to-Verizon-for-1-0-billion-2026-6HyIPBSqBQ/default.aspx"
 published_at: "2026-06-01T20:05:00+00:00"
 first_seen_at: "2026-07-26T01:45:04.556146+00:00"
-fetched_at: "2026-07-28T20:50:30.685093+00:00"
+fetched_at: "2026-07-28T23:36:01.086150+00:00"
 content_hash: "sha256:8651345278f8fba4618975fb506067b9c2f8f279761f0eaa04fe80547c01b608"
 ---
 

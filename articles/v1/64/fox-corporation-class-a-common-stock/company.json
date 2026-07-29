@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/64/fox-corporation-class-a-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 29295,
+        "sha256": "sha256:3feb9f16b153ec73f5588291f31405a16d3e43e4e57b247e7c628b70ff021e16",
+        "newest_at": "2026-07-20T13:05:12+00:00",
+        "oldest_at": "2025-12-01T17:02:35+00:00"
+      }
+    ]
+  }
 }

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0fb0c3b5df0a76497c53f7963dc0ea4bce8d6acfaf97536cd1f6c55cab6bdfb1",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc. Class A Common Stock"
+  },
+  "source": {
+    "id": "twilio-inc-class-a-common-stock-news-import-801d48e1d714",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-csharp",
+    "canonical": "https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-csharp"
+  },
+  "title": "How do I make my AI Voice Sound more human and less robotic sounding in C#",
+  "summary": "Twilio posts cloud communications trends, customer stories, and tips for building scalable voice and SMS applications with Twilio's APIs.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T00:38:26.071748+00:00",
+  "fetched_at": "2026-07-29T00:38:28.019094+00:00",
+  "last_updated_at": "2026-07-29T00:38:28.512358+00:00",
+  "paths": {
+    "article": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/0f/0fb0c3b5df0a76497c53f7963dc0ea4bce8d6acfaf97536cd1f6c55cab6bdfb1/article.md",
+    "record": "articles/v1/1e/twilio-inc-class-a-common-stock/2026/07/0f/0fb0c3b5df0a76497c53f7963dc0ea4bce8d6acfaf97536cd1f6c55cab6bdfb1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16412,
+    "sha256": "sha256:370d3e941218666cf066c741db02eb87c431c2a15d162093f223b12176430b83",
+    "normalized_content_hash": "sha256:bac60ab6f92c672563e78a4565b7abb3e0519dc68d3076a543638d4c0272176b"
+  },
+  "provenance": {
+    "source_item_id": "3343c2ce-9a25-4e91-82c5-398f17d1f737",
+    "external_id": "https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-and-less-robotic-in-csharp"
+  }
+}

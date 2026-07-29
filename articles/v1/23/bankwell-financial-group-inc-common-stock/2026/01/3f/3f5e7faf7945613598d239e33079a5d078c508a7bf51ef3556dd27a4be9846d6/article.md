@@ -7,7 +7,7 @@ source_id: "bankwell-financial-group-inc-common-stock-rss-1ef95c736e2a"
 canonical_url: "https://investor.mybankwell.com/news/news-details/2026/Bankwell-Financial-Group-Reports-Operating-Results-for-the-Fourth-Quarter-Declares-First-Quarter-Dividend/default.aspx"
 published_at: "2026-01-29T13:00:00+00:00"
 first_seen_at: "2026-07-26T23:30:25.495462+00:00"
-fetched_at: "2026-07-28T20:12:56.027222+00:00"
+fetched_at: "2026-07-28T22:54:09.887470+00:00"
 content_hash: "sha256:e962a7925f3f20e64b2a6becdf6c80c865fec0f9c14fb039575f949070563986"
 ---
 

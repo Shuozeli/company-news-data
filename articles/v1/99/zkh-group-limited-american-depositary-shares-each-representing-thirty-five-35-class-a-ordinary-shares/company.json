@@ -52,5 +52,22 @@
       "partition": "2026-05",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/99/zkh-group-limited-american-depositary-shares-each-representing-thirty-five-35-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 31900,
+        "sha256": "sha256:f57bc0c30b683693f7b623f68921ac8092d3c77311b19df7a1047e22fff7bcda",
+        "newest_at": "2026-05-21T10:00:00+00:00",
+        "oldest_at": "2024-08-08T10:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2022/opengear-launches-cm8100-console-manager"
 published_at: "2022-06-07T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:063f6876d35d13f646892103ea1a906488d68e4b66cd38c61f84a8bfa896277a"
 ---
 

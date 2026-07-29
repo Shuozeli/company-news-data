@@ -7,7 +7,7 @@ source_id: "newmark-group-inc-class-a-common-stock-rss-3925c6b543ec"
 canonical_url: "https://www.nmrk.com/insights/press-releases/newmark-strengthens-property-management-experience-offering-with-strategic-leadership-team"
 published_at: "2026-07-27T19:30:00+00:00"
 first_seen_at: "2026-07-27T21:30:30.075988+00:00"
-fetched_at: "2026-07-28T20:16:53.072478+00:00"
+fetched_at: "2026-07-28T22:59:53.234597+00:00"
 content_hash: "sha256:51b593823f5536175335e05acdad2ed614f84de0a58d8cbad46c9b08b4d90385"
 ---
 

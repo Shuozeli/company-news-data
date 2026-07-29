@@ -7,7 +7,7 @@ source_id: "aecom-common-stock-rss-06e0000d390a"
 canonical_url: "https://aecom.com/blog/infrastructure-reimagined-turning-assets-into-outcomes-in-new-york-city/"
 published_at: "2026-05-21T14:50:47+00:00"
 first_seen_at: "2026-07-25T01:09:37.919036+00:00"
-fetched_at: "2026-07-28T19:57:36.262733+00:00"
+fetched_at: "2026-07-28T23:46:17.625245+00:00"
 content_hash: "sha256:4b432685927bacf7a19ebc1d05bb1603ec2a43a1c131aa2e760803c5d9fb7794"
 ---
 

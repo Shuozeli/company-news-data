@@ -7,7 +7,7 @@ source_id: "repligen-corporation-common-stock-rss-95f329913b4f"
 canonical_url: "https://investors.repligen.com/press-releases/news-details/2026/Repligen-Corporation-to-Present-at-Bank-of-America-Securities-2026-Global-Healthcare-Conference/default.aspx"
 published_at: "2026-05-07T11:30:00+00:00"
 first_seen_at: "2026-07-25T21:04:32.360525+00:00"
-fetched_at: "2026-07-28T20:43:23.247634+00:00"
+fetched_at: "2026-07-28T23:30:15.042942+00:00"
 content_hash: "sha256:3dd3cdcfd108089cbc59f479bd002c9b519ecb22b6593c7eb47a86abd501316f"
 ---
 

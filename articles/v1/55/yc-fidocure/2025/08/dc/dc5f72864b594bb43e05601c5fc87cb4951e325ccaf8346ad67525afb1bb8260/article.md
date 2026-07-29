@@ -7,7 +7,7 @@ source_id: "yc-fidocure-rss-f7dc5a4fc18d"
 canonical_url: "https://fidocure.com/fidocure-blog/canine-transitional-cell-carcinoma-treatment-options-and-prognosis-2/"
 published_at: "2025-08-13T14:10:05+00:00"
 first_seen_at: "2026-07-20T23:20:29.421869+00:00"
-fetched_at: "2026-07-28T22:08:23.193780+00:00"
+fetched_at: "2026-07-29T00:46:46.902341+00:00"
 content_hash: "sha256:ebf34f83aa564f98a4bdd6e021375fa9e7b60848ade6aca1fdb57b1e6e5fa60c"
 ---
 

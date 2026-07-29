@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-significant-subsea-contract-by-azule-energy-in-angola/"
 published_at: "2023-06-26T09:15:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-28T21:49:44.390133+00:00"
+fetched_at: "2026-07-29T00:26:14.657354+00:00"
 content_hash: "sha256:fd1fb00712905be67489e2f6dbb0d38742117222cec9cafb6e8aaf1af79893b3"
 ---
 

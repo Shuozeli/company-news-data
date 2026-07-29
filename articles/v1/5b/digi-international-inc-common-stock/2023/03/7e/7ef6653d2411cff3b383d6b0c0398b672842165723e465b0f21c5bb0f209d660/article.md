@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/digis-bold-moves-from-products-to-solutions"
 published_at: "2023-03-31T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:2224f7992b3eb0e93e91a28f51ef635982a6310891bb124471a63c91a24472a6"
 ---
 

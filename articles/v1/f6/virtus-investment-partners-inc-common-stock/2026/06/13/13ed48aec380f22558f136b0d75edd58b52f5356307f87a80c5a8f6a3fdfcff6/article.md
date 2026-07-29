@@ -7,7 +7,7 @@ source_id: "virtus-investment-partners-inc-common-stock-rss-5bda534892ed"
 canonical_url: "https://ir.virtus.com/news/news-details/2026/Virtus-Total-Return-Fund-Inc--Discloses-Sources-of-Distribution--Section-19a-Notice-1c9c86c47/default.aspx"
 published_at: "2026-06-29T12:00:00+00:00"
 first_seen_at: "2026-07-26T04:49:22.967145+00:00"
-fetched_at: "2026-07-28T21:07:24.767177+00:00"
+fetched_at: "2026-07-28T23:53:13.093755+00:00"
 content_hash: "sha256:4453006887e345b42431e7fddab1c5cee997c83a1071e48ad01c8b52fc39ea15"
 ---
 

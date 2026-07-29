@@ -7,7 +7,7 @@ source_id: "banco-latinoamericano-de-comercio-exterior-s-a-rss-c43c50395ab0"
 canonical_url: "https://www.bladex.com/en/Bladex_Supports_the_Development_of_the_Dominican_Republic"
 published_at: "2026-06-11T01:50:22+00:00"
 first_seen_at: "2026-07-24T18:13:16.466615+00:00"
-fetched_at: "2026-07-28T21:36:15.167080+00:00"
+fetched_at: "2026-07-29T00:24:29.653053+00:00"
 content_hash: "sha256:3105882489cb2b11fadbd2c7b7cf190f8cc19a4b834e27114589ded19732302c"
 ---
 

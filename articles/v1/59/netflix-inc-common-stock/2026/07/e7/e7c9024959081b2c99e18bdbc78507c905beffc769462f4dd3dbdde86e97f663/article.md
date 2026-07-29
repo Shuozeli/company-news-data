@@ -5,7 +5,7 @@ company_key: "netflix-inc-common-stock"
 company: "Netflix Inc. Common Stock"
 source_id: "netflix-inc-common-stock-rss-924a579478a7"
 canonical_url: "https://about.netflix.com/en/news/production-begins-on-queenpin"
-published_at: "2026-07-15T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T03:32:27.217191+00:00"
 fetched_at: "2026-07-28T21:50:17.978782+00:00"
 content_hash: "sha256:de2da1f1cf9ea2cd94721fe173a9ab0a369a60f149e96ee787c92fe2385aa695"

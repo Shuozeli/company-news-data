@@ -7,7 +7,7 @@ source_id: "yc-four-growers-rss-8be8350904ae"
 canonical_url: "https://fourgrowers.com/about/media/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/"
 published_at: "2024-11-20T16:01:17+00:00"
 first_seen_at: "2026-07-25T05:36:06.101502+00:00"
-fetched_at: "2026-07-28T20:35:25.463894+00:00"
+fetched_at: "2026-07-28T23:19:57.925010+00:00"
 content_hash: "sha256:6506f5c2f102fc1e6a54b3f474dfe35dffef1e20e92c58a0263af4e0c25d3d48"
 ---
 

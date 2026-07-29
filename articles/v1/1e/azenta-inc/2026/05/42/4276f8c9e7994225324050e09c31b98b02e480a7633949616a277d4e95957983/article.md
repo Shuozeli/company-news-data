@@ -7,7 +7,7 @@ source_id: "azenta-inc-rss-b770248e871e"
 canonical_url: "https://investors.azenta.com/2026-05-05-Azenta-Reports-Second-Quarter-Results-for-Fiscal-2026,-Ended-March-31,-2026,-Updates-Full-Year-Fiscal-2026-Guidance,-and-Extends-Long-Range-Plan-to-2029"
 published_at: "2026-05-05T20:30:00+00:00"
 first_seen_at: "2026-07-20T23:17:23.737954+00:00"
-fetched_at: "2026-07-28T21:12:29.757653+00:00"
+fetched_at: "2026-07-28T23:57:59.382878+00:00"
 content_hash: "sha256:a551daa7a6b76467e926e57a677e3a5cea2940048f74cb8ab71fa5b9da7fbf44"
 ---
 

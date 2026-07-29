@@ -12,5 +12,22 @@
       "partition": "2024-03",
       "record_count": 12
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a5/yc-stempad/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 11405,
+        "sha256": "sha256:ae93825a4869300e6dcbc4dd74b65ddacc58493601148b94db0f4ec37b85ae7e",
+        "newest_at": "2024-03-26T00:00:00+00:00",
+        "oldest_at": "2024-03-26T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "yc-juicy-marbles-atom-7197f6bedd7e"
 canonical_url: "https://juicymarbles.com/blogs/blog/man-titties-the-great-soya-bean"
 published_at: "2025-03-10T13:59:04+00:00"
 first_seen_at: "2026-07-23T22:07:10.702607+00:00"
-fetched_at: "2026-07-28T20:16:54.274006+00:00"
+fetched_at: "2026-07-28T23:00:30.420409+00:00"
 content_hash: "sha256:332f5bf8d136167d2139720fd1296e348bb8dbb73219f85695af074f77ac13a0"
 ---
 

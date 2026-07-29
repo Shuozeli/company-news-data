@@ -7,7 +7,7 @@ source_id: "connectone-bancorp-inc-common-stock-rss-93f36156fe6f"
 canonical_url: "https://ir.connectonebank.com/news-market-information/press-release/news-details/2025/ConnectOne-Bancorp-Inc--to-Host-2025-Second-Quarter-Results-Conference-Call-on-July-29-2025/default.aspx"
 published_at: "2025-07-10T11:00:00+00:00"
 first_seen_at: "2026-07-27T01:14:37.016202+00:00"
-fetched_at: "2026-07-28T20:19:48.417489+00:00"
+fetched_at: "2026-07-28T23:03:39.206306+00:00"
 content_hash: "sha256:aad84c6fe2e852579e55188ac0288dca191980aa5b83f38c150b9e0dd87d9e98"
 ---
 

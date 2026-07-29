@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2025/digi-exhibits-innovative-iot-solutions-at-ces-2025"
 published_at: "2025-01-03T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:887a488c3e27a3bf90bbd40042531389aa0c64deb901a2c3ed23eabfc9966af6"
 ---
 

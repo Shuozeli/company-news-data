@@ -7,7 +7,7 @@ source_id: "nano-dimension-ltd-american-depositary-shares-rss-111d35614305"
 canonical_url: "https://investors.nano-di.com/press-releases/news-details/2026/Nano-Dimension-Continues-Execution-of-Cost-Savings-Initiatives/default.aspx"
 published_at: "2026-07-17T12:00:00+00:00"
 first_seen_at: "2026-07-25T15:27:00.961627+00:00"
-fetched_at: "2026-07-28T20:04:05.382371+00:00"
+fetched_at: "2026-07-28T23:53:10.203793+00:00"
 content_hash: "sha256:f824fb66246648104a554c133f550d8c2510612afda7260fc69657d000b7eaed"
 ---
 

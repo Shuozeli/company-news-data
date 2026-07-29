@@ -7,7 +7,7 @@ source_id: "jbg-smith-properties-common-shares-rss-83f1679a022e"
 canonical_url: "https://investors.jbgsmith.com/investor-relations/newsroom/news-details/2026/JBG-SMITH-Declares-a-Quarterly-Common-Dividend-of-0-175-Per-Share/default.aspx"
 published_at: "2026-04-30T20:15:00+00:00"
 first_seen_at: "2026-07-25T10:09:45.870565+00:00"
-fetched_at: "2026-07-28T21:07:26.644600+00:00"
+fetched_at: "2026-07-28T23:53:33.482349+00:00"
 content_hash: "sha256:53dd4ba2bdba2f68aa559ec861c317e03e10e392b181e02a4a5dfa86172b7801"
 ---
 

@@ -12,5 +12,22 @@
       "partition": "2022-08",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/53/kronos-worldwide-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10185,
+        "sha256": "sha256:c53eb658a734bade29ac954a72c22b6019057ff81e2c332ebbd2a17e735af639",
+        "newest_at": "2022-08-12T05:51:21+00:00",
+        "oldest_at": "2022-08-09T09:47:03+00:00"
+      }
+    ]
+  }
 }

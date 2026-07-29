@@ -7,7 +7,7 @@ source_id: "yc-pushbullet-rss-4ba42a362971"
 canonical_url: "https://blog.pushbullet.com/2020/06/08/updating-our-chrome-extension-after-our-google-scare"
 published_at: "2020-06-08T05:00:00+00:00"
 first_seen_at: "2026-07-25T20:08:48.518680+00:00"
-fetched_at: "2026-07-28T20:51:10.664020+00:00"
+fetched_at: "2026-07-28T23:36:19.489802+00:00"
 content_hash: "sha256:bde591b91990b16a4c5797c508333084ecba4b053c261ce0943d73637e5d2cb4"
 ---
 

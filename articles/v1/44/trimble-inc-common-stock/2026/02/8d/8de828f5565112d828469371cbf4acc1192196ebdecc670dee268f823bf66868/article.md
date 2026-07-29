@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/real-time-connection-between-office-jobsite"
 published_at: "2026-02-25T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T20:33:46.789564+00:00"
+fetched_at: "2026-07-28T23:18:38.216278+00:00"
 content_hash: "sha256:183fdf090e39d0d72f3858456d310fff4afa343707bc887b163ec918d2b5efae"
 ---
 

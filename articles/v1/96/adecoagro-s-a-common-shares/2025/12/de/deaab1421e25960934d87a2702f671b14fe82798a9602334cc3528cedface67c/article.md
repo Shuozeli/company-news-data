@@ -7,7 +7,7 @@ source_id: "adecoagro-s-a-common-shares-rss-f13b21bc4c5a"
 canonical_url: "https://ir.adecoagro.com/profertil-acquisition-2/"
 published_at: "2025-12-15T15:36:58+00:00"
 first_seen_at: "2026-07-20T23:17:29.619489+00:00"
-fetched_at: "2026-07-28T21:07:26.109622+00:00"
+fetched_at: "2026-07-28T23:53:16.307397+00:00"
 content_hash: "sha256:5e9ea686ff003633a3500dcb6ed93519e3515c706845f94485b1cb9b4f99e1e6"
 ---
 

@@ -56,5 +56,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/57/hubbell-inc-common-stock/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 20417,
+        "sha256": "sha256:36656a7ff13be1718b0b0060914491325a75fbf7c989acd403f1390957df1c2a",
+        "newest_at": "2026-07-28T13:00:02+00:00",
+        "oldest_at": "2022-09-23T18:57:19+00:00"
+      }
+    ]
+  }
 }

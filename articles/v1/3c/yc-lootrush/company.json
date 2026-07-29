@@ -12,5 +12,22 @@
       "partition": "2022-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3c/yc-lootrush/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1068,
+        "sha256": "sha256:dced019ba58137848222515a38f4aa78ecc5a23a1eaf2e0862465d5830e0ebbd",
+        "newest_at": "2022-05-05T15:01:30+00:00",
+        "oldest_at": "2022-05-05T15:01:30+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "yc-contrario-rss-532b264c9888"
 canonical_url: "https://www.contrario.ai/how-afterquery-uses-contrario-to-hire-across-every-core-function"
 published_at: "2026-04-30T20:25:21+00:00"
 first_seen_at: "2026-07-25T01:09:30.170461+00:00"
-fetched_at: "2026-07-28T21:57:12.485943+00:00"
+fetched_at: "2026-07-29T00:36:36.038085+00:00"
 content_hash: "sha256:9128e1df1ae90836f62be656db77a3d30e16198a0c9ee7bcaa5bf9c1f6e3f069"
 ---
 

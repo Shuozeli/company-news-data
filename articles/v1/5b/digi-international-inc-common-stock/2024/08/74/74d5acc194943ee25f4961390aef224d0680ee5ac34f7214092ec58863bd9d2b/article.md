@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/edge-computing-vs-cloud-computing"
 published_at: "2024-08-16T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:2dce5c474a39c8578eb00e10ef0b5d5b906e60fae8b2525da555abe6c23e3e65"
 ---
 

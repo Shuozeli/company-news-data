@@ -7,7 +7,7 @@ source_id: "yc-vetcove-rss-b3cdbeeb961f"
 canonical_url: "https://medium.com/vetcove/weekly-roundup-11-0-22-fe012cf526a"
 published_at: "2022-11-21T22:16:26+00:00"
 first_seen_at: "2026-07-27T12:44:22.093558+00:00"
-fetched_at: "2026-07-28T19:58:17.571830+00:00"
+fetched_at: "2026-07-28T23:47:04.364853+00:00"
 content_hash: "sha256:0cdd9d906d5bf6b4267165c3836fc24c4340c0b71a3e507dc6d560271cf0ff35"
 ---
 

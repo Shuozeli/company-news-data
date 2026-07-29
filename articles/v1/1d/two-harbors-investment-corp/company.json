@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1d/two-harbors-investment-corp/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12180,
+        "sha256": "sha256:addbd6703e4f26ab9d7880a46f6c5b8d47362f715cd67b4a8843adc53b285480",
+        "newest_at": "2026-07-28T20:15:00+00:00",
+        "oldest_at": "2026-05-08T11:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/35/bank-of-the-james-financial-group-inc-common-stock/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 9706,
+        "sha256": "sha256:2cd5d9bba138fdcd1e5d80c9962eae5019cd8cd6f100cf2cc519f08292673bd2",
+        "newest_at": "2026-07-01T20:11:00+00:00",
+        "oldest_at": "2024-09-19T16:50:06+00:00"
+      }
+    ]
+  }
 }

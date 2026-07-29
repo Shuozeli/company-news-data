@@ -7,7 +7,7 @@ source_id: "international-flavors-fragrances-inc-common-stock-rss-5af8663efd29"
 canonical_url: "https://www.iff.com/media/stories/7-facts-about-the-uk-glp-1-consumer-what-we-know-so-far/"
 published_at: "2026-07-21T21:25:59+00:00"
 first_seen_at: "2026-07-21T22:02:49.104692+00:00"
-fetched_at: "2026-07-28T21:23:48.937390+00:00"
+fetched_at: "2026-07-29T00:26:33.797363+00:00"
 content_hash: "sha256:871bf6b0c7d2a21fcc74c5e25d73e0bef9551ff3b802907047fc7397db16d211"
 ---
 

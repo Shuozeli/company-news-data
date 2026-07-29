@@ -7,7 +7,7 @@ source_id: "cars-com-inc-common-stock-rss-a219e5b1eade"
 canonical_url: "https://investor.cars.com/2026-06-23-Cars-com-Announces-Its-2026-Most-American-Made-Vehicles-Ahead-of-Countrys-250th"
 published_at: "2026-06-23T11:30:00+00:00"
 first_seen_at: "2026-07-25T01:07:01.290160+00:00"
-fetched_at: "2026-07-28T21:46:42.875065+00:00"
+fetched_at: "2026-07-29T00:27:00.987485+00:00"
 content_hash: "sha256:0a7094e9965993d28b771fd9a8652f1b63c2882a039c2dc06e2068bd482f67be"
 ---
 

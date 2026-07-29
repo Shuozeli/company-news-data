@@ -7,7 +7,7 @@ source_id: "yc-virtualmin-atom-003cac36171c"
 canonical_url: "https://github.com/virtualmin/virtualmin-gpl/releases/tag/8.0.1"
 published_at: "2026-02-05T22:36:16+00:00"
 first_seen_at: "2026-07-24T06:20:14.494022+00:00"
-fetched_at: "2026-07-28T20:27:42.800412+00:00"
+fetched_at: "2026-07-28T23:14:21.177600+00:00"
 content_hash: "sha256:a4d36a533a95512d9200115556e43d6f858f049aca4d224b59178bed1f768261"
 ---
 

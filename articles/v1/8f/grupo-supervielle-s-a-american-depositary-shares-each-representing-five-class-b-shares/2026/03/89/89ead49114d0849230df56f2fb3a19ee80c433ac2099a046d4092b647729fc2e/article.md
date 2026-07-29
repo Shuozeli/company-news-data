@@ -7,7 +7,7 @@ source_id: "grupo-supervielle-s-a-american-depositary-shares-each-representing-f
 canonical_url: "https://www.gruposupervielle.com/English/news-and-investor-education/news/news-details/2026/Grupo-Supervielle-Reports-4Q25--FY25-Results/default.aspx"
 published_at: "2026-03-02T22:04:00+00:00"
 first_seen_at: "2026-07-25T07:14:20.769534+00:00"
-fetched_at: "2026-07-28T19:55:38.056597+00:00"
+fetched_at: "2026-07-28T23:42:41.926637+00:00"
 content_hash: "sha256:50405a5238dbb16be5817aa39fae774d9ee5d5b670827b2ec80713e77b74e242"
 ---
 

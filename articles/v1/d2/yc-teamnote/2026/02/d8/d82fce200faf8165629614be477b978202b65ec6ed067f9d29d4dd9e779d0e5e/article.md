@@ -7,7 +7,7 @@ source_id: "yc-teamnote-rss-0237b928e138"
 canonical_url: "https://teamnote.ai/dta-seminar-ai-applications-transforming-business-operations-and-decision-making/"
 published_at: "2026-02-13T07:27:04+00:00"
 first_seen_at: "2026-07-25T01:53:21.564811+00:00"
-fetched_at: "2026-07-28T20:25:04.128373+00:00"
+fetched_at: "2026-07-28T23:09:44.296238+00:00"
 content_hash: "sha256:4440bbb7f57f5d6be8eae8923c85e0c53c907151cb93d29493bcd6d7b55770ed"
 ---
 

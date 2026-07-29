@@ -7,7 +7,7 @@ source_id: "yc-ochre-bio-rss-279ab36d1688"
 canonical_url: "https://www.ochre-bio.com/2025/10/23/can-the-uk-reclaim-its-status-as-a-life-sciences-leader/"
 published_at: "2025-10-23T02:59:00+00:00"
 first_seen_at: "2026-07-20T23:20:39.135312+00:00"
-fetched_at: "2026-07-28T20:27:25.546396+00:00"
+fetched_at: "2026-07-28T23:13:09.647277+00:00"
 content_hash: "sha256:40754a66896077a9eabe872034d2a8ffd7fa1ff86f319b282c6cea264364ee35"
 ---
 

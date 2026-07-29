@@ -7,7 +7,7 @@ source_id: "innovex-international-inc-common-stock-rss-87f39a72e099"
 canonical_url: "https://investors.innovex-inc.com/news/news-details/2026/Innovex-Announces-Fireside-Chat-Featuring-CEO-Adam-Anderson-and-Investor-Vitaliy-Katsenelson/default.aspx"
 published_at: "2026-03-31T20:10:00+00:00"
 first_seen_at: "2026-07-25T09:29:31.760641+00:00"
-fetched_at: "2026-07-28T21:19:34.391424+00:00"
+fetched_at: "2026-07-29T00:24:22.583131+00:00"
 content_hash: "sha256:7cb1a4b453dea1ecf7058dbd6fc39ded3d36f6ab1bf957a085d52139753da1fb"
 ---
 

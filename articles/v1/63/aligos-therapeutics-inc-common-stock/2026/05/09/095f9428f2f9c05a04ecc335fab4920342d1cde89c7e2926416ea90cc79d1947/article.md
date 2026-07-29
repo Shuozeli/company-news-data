@@ -7,7 +7,7 @@ source_id: "aligos-therapeutics-inc-common-stock-rss-e904f5283fa0"
 canonical_url: "https://aligos.com/preclinical-characterization-of-alg-093940-a-potent-and-orally-bioavailable-small-molecule-pd-1-pd-l1-inhibitor-for-the-treatment-of-chronic-hepatitis-b-infection-and-liver-cancer/"
 published_at: "2026-05-28T06:29:00+00:00"
 first_seen_at: "2026-07-24T09:07:29.405763+00:00"
-fetched_at: "2026-07-28T21:02:43.709994+00:00"
+fetched_at: "2026-07-28T23:49:30.340433+00:00"
 content_hash: "sha256:5cd0f2e4b8cf4014b12dcd855a33f1f5206dd9dc4ab9c2a302653b387da845b5"
 ---
 

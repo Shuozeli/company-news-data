@@ -7,7 +7,7 @@ source_id: "starwood-property-trust-inc-starwood-property-trust-inc-rss-371735f7
 canonical_url: "http://ir.starwoodpropertytrust.com/news/press-release-details/2026/Starwood-Property-Trust-Announces-0-48-Per-Share-Dividend-for-Second-Quarter-2026/default.aspx"
 published_at: "2026-06-16T20:15:00+00:00"
 first_seen_at: "2026-07-25T01:06:48.915073+00:00"
-fetched_at: "2026-07-28T21:52:04.369033+00:00"
+fetched_at: "2026-07-29T00:10:19.325154+00:00"
 content_hash: "sha256:7beb5568724613baca3a1ed4ced417e459b9fd40f119acde0be037b0440f7bb8"
 ---
 

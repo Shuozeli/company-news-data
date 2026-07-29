@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/97/aduro-clean-technologies-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 19067,
+        "sha256": "sha256:21f39ef7b08387aa32195bc751479c2d8cf915e1d8cedca06a53386fafe051e6",
+        "newest_at": "2026-07-16T12:00:00+00:00",
+        "oldest_at": "2026-05-28T12:37:00+00:00"
+      }
+    ]
+  }
 }

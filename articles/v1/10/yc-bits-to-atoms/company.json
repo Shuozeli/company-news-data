@@ -40,5 +40,22 @@
       "partition": "2024-04",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/10/yc-bits-to-atoms/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12241,
+        "sha256": "sha256:79c038b2cee4ecce381bfcf74ecf2ed924fea2ad9923ea54c8a733917ab1e71b",
+        "newest_at": "2024-04-02T10:46:32+00:00",
+        "oldest_at": "2023-09-05T13:16:04+00:00"
+      }
+    ]
+  }
 }

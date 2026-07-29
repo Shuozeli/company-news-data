@@ -7,7 +7,7 @@ source_id: "amplify-energy-corp-common-stock-rss-827eecb48ef6"
 canonical_url: "https://www.amplifyenergy.com/investor-relations/press-releases/press-release-details/2026/Amplify-Energy-Announces-Strategic-Initiatives-Update-Year-End-2025-Proved-Reserves-Fourth-Quarter-and-Full-Year-2025-Results-and-2026-Development-Plans-and-Guidance/default.aspx"
 published_at: "2026-03-09T20:05:00+00:00"
 first_seen_at: "2026-07-25T01:06:52.663192+00:00"
-fetched_at: "2026-07-28T19:49:39.704796+00:00"
+fetched_at: "2026-07-28T23:32:39.993612+00:00"
 content_hash: "sha256:16639477ae51e38cae6c37c8691cb0beb1b4e4b8253ffe53d5551c8f00f3cb65"
 ---
 

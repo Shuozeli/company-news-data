@@ -7,7 +7,7 @@ source_id: "jones-lang-lasalle-incorporated-common-stock-rss-aafaf3e1ee4a"
 canonical_url: "https://spark.jllt.com/resources/videos-webinars/highlights-from-the-2026-jll-spark-portfolio-summit/"
 published_at: "2026-07-07T05:13:36+00:00"
 first_seen_at: "2026-07-20T04:35:39.901123+00:00"
-fetched_at: "2026-07-28T19:46:06.400839+00:00"
+fetched_at: "2026-07-28T23:22:39.041449+00:00"
 content_hash: "sha256:3f018f9972357c9b0c7635206c66e8c7dcd421e623c5309af4e78a7bc323e226"
 ---
 

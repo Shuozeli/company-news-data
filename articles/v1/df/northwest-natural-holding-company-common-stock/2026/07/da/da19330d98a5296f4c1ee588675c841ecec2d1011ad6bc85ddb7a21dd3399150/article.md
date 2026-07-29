@@ -7,7 +7,7 @@ source_id: "northwest-natural-holding-company-common-stock-rss-88ec5b3171bb"
 canonical_url: "https://ir.nwnaturalholdings.com/news/news-details/2026/NW-Natural-Holdings-Announces-Dividend-719f50a05/default.aspx"
 published_at: "2026-07-09T21:25:00+00:00"
 first_seen_at: "2026-07-25T16:32:51.302534+00:00"
-fetched_at: "2026-07-28T19:31:42.967384+00:00"
+fetched_at: "2026-07-28T22:53:04.470310+00:00"
 content_hash: "sha256:3d217ef1160ddeb36bbb5e975d2d4cf9f04e28493d9d1384035d169172428362"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2026/digi-to-release-q1fy26-earnings"
 published_at: "2026-01-14T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:afa116ca1bbcc53322c75c7c55348a8340ba22de2df836385e131228f8a674dc"
 ---
 

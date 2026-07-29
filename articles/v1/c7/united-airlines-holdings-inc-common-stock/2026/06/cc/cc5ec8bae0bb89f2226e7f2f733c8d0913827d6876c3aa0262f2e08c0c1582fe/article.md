@@ -7,7 +7,7 @@ source_id: "united-airlines-holdings-inc-common-stock-rss-09ebc8191126"
 canonical_url: "https://united.mediaroom.com/2026-06-23-United-Airlines-and-DIRECTV-Team-Up-to-Stream-Live-TV-Including-Live-Sports-on-Starlink-Enabled-Seatback-Screens-This-Summer"
 published_at: "2026-06-23T17:30:00+00:00"
 first_seen_at: "2026-07-20T03:31:22.575844+00:00"
-fetched_at: "2026-07-28T20:21:16.313848+00:00"
+fetched_at: "2026-07-28T23:04:31.859605+00:00"
 content_hash: "sha256:76177f37f8bffabf9bdaca78d8e75f2a4798e59c566dbe2817084fb8ecc532ae"
 ---
 

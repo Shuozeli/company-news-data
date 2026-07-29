@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/new-car-reviews/2026-nichols-n1a-when-can-am-dreams-come-true/"
 published_at: "2026-07-17T15:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:4437e651c89930a4637cfc322eaf7a97640c264841d96b2758e11d683da625a6"
 ---
 

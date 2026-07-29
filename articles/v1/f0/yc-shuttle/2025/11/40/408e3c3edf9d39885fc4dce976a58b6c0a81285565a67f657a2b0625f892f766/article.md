@@ -7,7 +7,7 @@ source_id: "yc-shuttle-rss-52efc69d7cac"
 canonical_url: "https://www.shuttle.dev/blog/2025/11/18/gemini-3"
 published_at: "2025-11-18T21:00:00+00:00"
 first_seen_at: "2026-07-20T23:24:10.103156+00:00"
-fetched_at: "2026-07-28T20:33:27.575926+00:00"
+fetched_at: "2026-07-28T23:18:15.366460+00:00"
 content_hash: "sha256:1972e2a5220be0b86c7a44ae4a18aac833206cadc74898d20ee6c8e194d0b808"
 ---
 

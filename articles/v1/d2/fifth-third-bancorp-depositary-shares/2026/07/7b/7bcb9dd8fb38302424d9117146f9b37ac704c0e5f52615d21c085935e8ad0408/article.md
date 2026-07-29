@@ -7,7 +7,7 @@ source_id: "fifth-third-bancorp-depositary-shares-rss-48a52068557c"
 canonical_url: "https://ir.53.com/news/news-details/2026/Fifth-Third-Recognized-in-Kiplinger-Choice-Awards-2026-for-Customer-Service-Excellence/default.aspx"
 published_at: "2026-07-01T12:00:00+00:00"
 first_seen_at: "2026-07-25T04:30:59.094438+00:00"
-fetched_at: "2026-07-28T20:27:37.407784+00:00"
+fetched_at: "2026-07-28T23:14:18.720884+00:00"
 content_hash: "sha256:b2dc022751b00b7c90756b2effbcdefba49935a20caf29430772b7b74494f17e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "cumberland-pharmaceuticals-inc-common-stock-rss-3ab07e3622d9"
 canonical_url: "https://www.cumberlandpharma.com/2023-highlights-including-expanded-fda-approval-and-new-study-publications/"
 published_at: "2024-03-13T14:55:25+00:00"
 first_seen_at: "2026-07-20T23:19:50.983327+00:00"
-fetched_at: "2026-07-28T22:08:15.014527+00:00"
+fetched_at: "2026-07-29T00:46:25.939104+00:00"
 content_hash: "sha256:58fc83c6070527199dc17de1bd0b0311a8562d598b4daec34baaed353ca4e0f5"
 ---
 

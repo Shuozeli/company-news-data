@@ -7,7 +7,7 @@ source_id: "emergent-biosolutions-inc-common-stock-rss-a13a3e2df02d"
 canonical_url: "https://investors.emergentbiosolutions.com/news-releases/news-release-details/emergent-biosolutions-receives-saudi-food-and-drug-authority"
 published_at: "2026-05-18T12:59:00+00:00"
 first_seen_at: "2026-07-25T02:16:37.099543+00:00"
-fetched_at: "2026-07-28T21:06:58.454974+00:00"
+fetched_at: "2026-07-28T23:53:01.341013+00:00"
 content_hash: "sha256:4e6af80e9699b2df9079618e123e9bcc346d73f4ee96e1b2220c1aa4027617ea"
 ---
 

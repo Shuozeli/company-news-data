@@ -768,5 +768,103 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 10,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55164,
+        "sha256": "sha256:d3350a3d917df3d41df3ae51b8c0d3d7beb30f7d226b43835c59ceb4c4bc4f7e",
+        "newest_at": "2026-07-13T20:01:00+00:00",
+        "oldest_at": "2024-01-16T21:01:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 55352,
+        "sha256": "sha256:658ad072e1e259b7ba40bce231f023f857e73b5d59bb254c650226db7b7d2132",
+        "newest_at": "2024-01-11T21:00:00+00:00",
+        "oldest_at": "2021-07-12T12:31:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 57435,
+        "sha256": "sha256:a8d901b3fcafd8c6ae167b126f2089ef9d9b643e260b458da44f766567701b1a",
+        "newest_at": "2021-07-12T12:01:00+00:00",
+        "oldest_at": "2019-11-19T05:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 56935,
+        "sha256": "sha256:54c8c4d7eb416eff40cd88566e0fb8121878e111b394865a432911a53020b33a",
+        "newest_at": "2019-10-24T04:00:00+00:00",
+        "oldest_at": "2018-04-09T04:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 57279,
+        "sha256": "sha256:fa6efc332879146e7421e4237bb49a304c93df2bcb6ad1bd4ba305fe7eb3cb0b",
+        "newest_at": "2018-03-27T04:00:00+00:00",
+        "oldest_at": "2017-04-27T04:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 56532,
+        "sha256": "sha256:5d39ae355c33213bab76e99f055f6d1b6b673c494a9542a9355360c2acd0dfa8",
+        "newest_at": "2017-04-25T04:00:00+00:00",
+        "oldest_at": "2015-10-29T04:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 56187,
+        "sha256": "sha256:ab8d32bbc4b63a943b3e86c5cac5d0426c57034c9a1f0a9273e44b529c067956",
+        "newest_at": "2015-10-29T04:00:00+00:00",
+        "oldest_at": "2014-03-28T04:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 55478,
+        "sha256": "sha256:d733047e0810176d9c17600aac3e27491cd2c9e886dcd2d0ce111a257af66826",
+        "newest_at": "2014-02-25T05:00:00+00:00",
+        "oldest_at": "2012-05-02T04:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 56087,
+        "sha256": "sha256:a2d6dd38fc59cb65291a5c57d3223b2fd1a7e227a81b7fcf761163e21efacc6b",
+        "newest_at": "2012-04-26T04:00:00+00:00",
+        "oldest_at": "2010-08-17T04:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000010.json",
+        "record_count": 48,
+        "byte_count": 53073,
+        "sha256": "sha256:f5a035bf8f4fb11644dd3aaededb72582b6db818ed6478ba1751f3bfd924cceb",
+        "newest_at": "2010-08-10T04:00:00+00:00",
+        "oldest_at": "2008-01-31T05:00:00+00:00"
+      }
+    ]
+  }
 }

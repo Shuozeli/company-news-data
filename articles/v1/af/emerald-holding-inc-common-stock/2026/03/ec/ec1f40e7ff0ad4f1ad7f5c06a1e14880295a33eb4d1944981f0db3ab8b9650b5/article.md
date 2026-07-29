@@ -7,7 +7,7 @@ source_id: "emerald-holding-inc-common-stock-rss-725768d323f2"
 canonical_url: "https://www.emeraldx.com/emerald-design-group-launches-inaugural-workplace-design-summit/"
 published_at: "2026-03-27T19:39:57+00:00"
 first_seen_at: "2026-07-25T02:15:22.320048+00:00"
-fetched_at: "2026-07-28T21:03:12.857329+00:00"
+fetched_at: "2026-07-28T23:49:56.532091+00:00"
 content_hash: "sha256:139286621efcc46a0d0fc7bbb29854bf0eaf9ac51df1430948ae1414892acce9"
 ---
 

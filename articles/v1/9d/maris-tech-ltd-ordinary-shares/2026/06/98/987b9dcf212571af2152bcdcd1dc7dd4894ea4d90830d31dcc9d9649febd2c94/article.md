@@ -7,7 +7,7 @@ source_id: "maris-tech-ltd-ordinary-shares-rss-219e3dd21362"
 canonical_url: "https://www.maris-tech.com/maris-tech-announces-receipt-of-nasdaq-conditional-compliance-determination/press-releases/"
 published_at: "2026-06-11T17:20:00+00:00"
 first_seen_at: "2026-07-24T10:37:38.674777+00:00"
-fetched_at: "2026-07-28T20:11:33.710342+00:00"
+fetched_at: "2026-07-28T22:52:59.438148+00:00"
 content_hash: "sha256:88e39ea96750050ea172df87ba37d575773e392ba1e3f681b32e41da576b10f5"
 ---
 

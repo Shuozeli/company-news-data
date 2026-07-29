@@ -5,12 +5,12 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/opinion/alaska-pilot-beer-constitution-eighth-amendment.html"
-published_at: "2026-07-28T19:00:06+00:00"
+published_at: "2026-07-28T23:13:17+00:00"
 first_seen_at: "2026-07-28T21:10:05.886882+00:00"
-fetched_at: "2026-07-28T21:10:05.836012+00:00"
-content_hash: "sha256:5cc89ce9083b064b357f96b40be8d9f574cac852d01d5fb25ab9fb52e51815f5"
+fetched_at: "2026-07-28T23:55:50.378040+00:00"
+content_hash: "sha256:af48068750b505691e3311be5c90ea1dacb231c493424ea90deadd68c970de5f"
 ---
 
-# A Six-Pack of Beer Might Close a Constitutional Loophole
+# An Alaskan Pilot. A Six-Pack of Beer. An Important Supreme Court Precedent.
 
 An upcoming case will determine whether the Supreme Court treats an ordinary person with the same care it has long shown corporations.

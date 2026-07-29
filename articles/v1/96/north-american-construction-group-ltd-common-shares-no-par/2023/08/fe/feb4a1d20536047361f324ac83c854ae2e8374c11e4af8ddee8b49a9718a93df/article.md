@@ -7,7 +7,7 @@ source_id: "north-american-construction-group-ltd-common-shares-no-par-rss-3a104
 canonical_url: "https://nacg.ca/nacg-president-ceo-joe-lambert-appears-on-bnn-bloombergs-morning-markets/"
 published_at: "2023-08-03T15:30:02+00:00"
 first_seen_at: "2026-07-20T23:22:58.585661+00:00"
-fetched_at: "2026-07-28T20:47:35.950814+00:00"
+fetched_at: "2026-07-28T23:32:15.871513+00:00"
 content_hash: "sha256:7e7e2b503a6a4fb621d8f06d019981704af2069dbc671fdbba9b85222359a37e"
 ---
 

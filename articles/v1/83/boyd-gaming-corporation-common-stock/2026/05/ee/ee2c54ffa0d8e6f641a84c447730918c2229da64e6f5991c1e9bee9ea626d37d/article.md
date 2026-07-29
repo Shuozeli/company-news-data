@@ -7,7 +7,7 @@ source_id: "boyd-gaming-corporation-common-stock-rss-f22aba5248cd"
 canonical_url: "https://investors.boydgaming.com/2026-05-07-BOYD-GAMING-ANNOUNCES-QUARTERLY-DIVIDEND"
 published_at: "2026-05-07T21:15:00+00:00"
 first_seen_at: "2026-07-20T03:33:16.827589+00:00"
-fetched_at: "2026-07-28T20:45:57.541018+00:00"
+fetched_at: "2026-07-28T23:29:13.595220+00:00"
 content_hash: "sha256:7b25fbc48b682e6f09d23017972ddc95f725c736a3501c8537c2b934b06af371"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/iot-in-the-workplace-protecting-sensitive-data"
 published_at: "2024-09-27T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:497b50c25b3081486982bfc3953345225dd74ab308351f933b1ae9174b7f9c71"
 ---
 

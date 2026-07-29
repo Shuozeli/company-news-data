@@ -7,7 +7,7 @@ source_id: "csg-systems-international-inc-common-stock-rss-f90a2ee7dc01"
 canonical_url: "https://ir.csgi.com/press-releases/press-release-details/2026/CSG-Named-a-Leader-in-the-Gartner-Magic-Quadrant-for-Customer-Journey-Analytics--Orchestration/default.aspx"
 published_at: "2026-03-26T15:30:00+00:00"
 first_seen_at: "2026-07-27T01:22:58.859023+00:00"
-fetched_at: "2026-07-28T20:34:05.488527+00:00"
+fetched_at: "2026-07-28T23:18:44.504727+00:00"
 content_hash: "sha256:0d52ea2bf89935b84835020f01a107743eaebd163ac498ec0cb634d8ef166ae1"
 ---
 

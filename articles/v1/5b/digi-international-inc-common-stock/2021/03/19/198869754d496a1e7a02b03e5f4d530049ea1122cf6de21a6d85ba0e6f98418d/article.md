@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/partnering-with-att-and-firstnet-on-extended-prima"
 published_at: "2021-03-02T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:50f3460a5dd1e7fbc24830a16574b2966931272440716b76180fcb3d434d2ba3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-gluetrail-rss-b462805850ef"
 canonical_url: "https://blog.gluetrail.com/outbound-video-script"
 published_at: "2024-07-01T00:00:00+00:00"
 first_seen_at: "2026-07-25T06:47:53.127682+00:00"
-fetched_at: "2026-07-28T20:57:44.389075+00:00"
+fetched_at: "2026-07-28T23:43:55.765498+00:00"
 content_hash: "sha256:ba7470e7642a5e5b7e1ae127a1f79779bd549da3df30cbe09ff09fe599c1240c"
 ---
 

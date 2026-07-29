@@ -7,7 +7,7 @@ source_id: "kearny-financial-corp-common-stock-rss-5ddd9ba0d18f"
 canonical_url: "https://kearny.q4ir.com/news/news-details/2025/Kearny-Financial-Corp--Announces-First-Quarter-Fiscal-2026-Results-and-Declaration-of-Cash-Dividend/default.aspx"
 published_at: "2025-10-23T12:30:00+00:00"
 first_seen_at: "2026-07-27T03:19:31.566558+00:00"
-fetched_at: "2026-07-28T21:06:00.569375+00:00"
+fetched_at: "2026-07-28T23:52:06.783407+00:00"
 content_hash: "sha256:fe43663149e69d5a387c08a4e452a49c3079e930fb1bbe3ff7cc88846c5ab423"
 ---
 

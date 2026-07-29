@@ -7,7 +7,7 @@ source_id: "gilat-satellite-networks-ltd-ordinary-shares-rss-076d0814984f"
 canonical_url: "https://www.gilat.com/newsroom/media/expanding-5g-networks-to-space-the-road-towards-ubiquitous-connectivity-apscc/"
 published_at: "2026-06-24T13:00:06+00:00"
 first_seen_at: "2026-07-25T03:17:43.964106+00:00"
-fetched_at: "2026-07-28T20:37:57.787391+00:00"
+fetched_at: "2026-07-28T23:21:54.528556+00:00"
 content_hash: "sha256:29fb5b705722ac81e86c22b6331b2be3d26c96da48343bba443aa5c408759943"
 ---
 

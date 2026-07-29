@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/05/yc-mdhub/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 13447,
+        "sha256": "sha256:c6f581eaa95707e4f40898b1b97434b5ba1db419e6da33310ea2c6b9a5effeb8",
+        "newest_at": "2026-07-24T14:18:04.018+00:00",
+        "oldest_at": "2026-06-10T10:36:33.998+00:00"
+      }
+    ]
+  }
 }

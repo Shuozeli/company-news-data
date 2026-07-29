@@ -7,7 +7,7 @@ source_id: "yc-rarebird-atom-171a9e15b225"
 canonical_url: "https://rarebird.coffee/blogs/news/caffeine-and-burnout"
 published_at: "2025-02-12T14:39:38+00:00"
 first_seen_at: "2026-07-25T20:30:23.153216+00:00"
-fetched_at: "2026-07-28T21:47:00.156661+00:00"
+fetched_at: "2026-07-29T00:05:27.664367+00:00"
 content_hash: "sha256:8a44d2673faa9bd720bc127f3ac0da9581471107248d765833e45cc0a0f16220"
 ---
 

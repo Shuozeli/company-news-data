@@ -7,7 +7,7 @@ source_id: "utz-brands-inc-class-a-common-stock-atom-1dc00602c727"
 canonical_url: "https://www.utzsnacks.com/blogs/news/utz%C2%AE-introduces-new-limited-time-flavors-and-a-redesigned-barrel-for-cheese-balls"
 published_at: "2025-04-17T19:00:00+00:00"
 first_seen_at: "2026-07-24T05:39:22.118071+00:00"
-fetched_at: "2026-07-28T20:46:13.808999+00:00"
+fetched_at: "2026-07-28T23:27:00.567069+00:00"
 content_hash: "sha256:7717d83060dff9dd779f5f7496b230ee53db0ce0d1b59e2d967956e7c4a33869"
 ---
 

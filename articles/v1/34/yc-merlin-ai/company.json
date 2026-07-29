@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/34/yc-merlin-ai/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 21829,
+        "sha256": "sha256:2366034c96f189c255543214f49f1084ac785c924f10f9997faba29d429be8a8",
+        "newest_at": "2026-07-08T14:09:31.152+00:00",
+        "oldest_at": "2026-05-26T13:08:33.899+00:00"
+      }
+    ]
+  }
 }

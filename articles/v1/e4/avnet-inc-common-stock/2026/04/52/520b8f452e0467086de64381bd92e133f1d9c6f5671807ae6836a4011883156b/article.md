@@ -7,7 +7,7 @@ source_id: "avnet-inc-common-stock-rss-d24cfd72cd07"
 canonical_url: "https://news.avnet.com/press-releases/press-release-details/2026/Avnet-Reports-Third-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-04-29T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:43.819386+00:00"
-fetched_at: "2026-07-28T19:48:24.536995+00:00"
+fetched_at: "2026-07-28T23:31:50.370529+00:00"
 content_hash: "sha256:fa377cc127e9c8af648c25138b5ef2a46d700b2427bc7eeeca5feea791ef2e1d"
 ---
 

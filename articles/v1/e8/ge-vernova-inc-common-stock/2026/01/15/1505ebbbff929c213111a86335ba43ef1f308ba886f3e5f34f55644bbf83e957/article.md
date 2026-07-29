@@ -7,7 +7,7 @@ source_id: "ge-vernova-inc-common-stock-rss-7c51d258e120"
 canonical_url: "https://www.gevernova.com/company/leadership/eric-gray"
 published_at: "2026-01-26T18:08:50+00:00"
 first_seen_at: "2026-07-20T23:21:29.268016+00:00"
-fetched_at: "2026-07-28T21:29:52.808631+00:00"
+fetched_at: "2026-07-29T00:29:33.959606+00:00"
 content_hash: "sha256:bcaf8040f9039e2c5d41ac9eec9b1c2802d38ddbb36a03160791428a702e2198"
 ---
 

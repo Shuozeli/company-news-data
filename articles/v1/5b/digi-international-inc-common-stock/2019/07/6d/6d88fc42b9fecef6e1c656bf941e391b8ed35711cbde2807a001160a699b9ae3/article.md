@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2019/digi-xbee-tools-for-iot"
 published_at: "2019-07-30T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:11b935b0a2d2874db9ed92f86a43ba6041cb359266423e72fd8e0dfe2d4f674a"
 ---
 

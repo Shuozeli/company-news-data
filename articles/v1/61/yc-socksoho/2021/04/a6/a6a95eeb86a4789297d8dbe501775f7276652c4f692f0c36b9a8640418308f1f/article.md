@@ -7,7 +7,7 @@ source_id: "yc-socksoho-atom-d805c5109efe"
 canonical_url: "https://socksoho.com/blogs/news/funky-designer-socks-trend-indian-men"
 published_at: "2021-04-08T05:17:34+00:00"
 first_seen_at: "2026-07-24T01:53:15.412166+00:00"
-fetched_at: "2026-07-28T21:21:09.954275+00:00"
+fetched_at: "2026-07-29T00:30:39.919325+00:00"
 content_hash: "sha256:ecb00cf955fe2943f0e2fc8c334f027f31f6f8e513169cc68bd12df6befc2ca1"
 ---
 

@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/100-most-sustainable-companies/"
 published_at: "2021-02-12T18:18:00+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-28T21:47:02.623482+00:00"
+fetched_at: "2026-07-29T00:23:58.530332+00:00"
 content_hash: "sha256:4bfbc157c68de84efa830bd0b30519821e24be7268bff9775930ea1e9320ac56"
 ---
 

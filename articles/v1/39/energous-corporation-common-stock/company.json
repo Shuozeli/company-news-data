@@ -72,5 +72,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/39/energous-corporation-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 23334,
+        "sha256": "sha256:f0b3957f93849082dbba4b20b9276ba76ee0e267a048186175053f04af6112a7",
+        "newest_at": "2026-06-29T13:00:50+00:00",
+        "oldest_at": "2024-05-28T17:15:46+00:00"
+      }
+    ]
+  }
 }

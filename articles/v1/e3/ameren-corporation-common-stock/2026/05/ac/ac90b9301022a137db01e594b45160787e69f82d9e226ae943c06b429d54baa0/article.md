@@ -7,7 +7,7 @@ source_id: "ameren-corporation-common-stock-rss-a98e972b3b47"
 canonical_url: "http://www.amereninvestors.com/investors/financial-releases/financial-releases-details/2026/Ameren-Corporation-Directors-Declare-Quarterly-Dividend/default.aspx"
 published_at: "2026-05-15T18:38:00+00:00"
 first_seen_at: "2026-07-26T22:23:31.222007+00:00"
-fetched_at: "2026-07-28T21:06:51.548551+00:00"
+fetched_at: "2026-07-28T23:52:55.837267+00:00"
 content_hash: "sha256:11c6bbccccaeb342b5a525222a7c3728fd1046d9f6b2fdf13b4153f23ab740d0"
 ---
 

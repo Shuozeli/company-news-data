@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/making-a-custom-minecraft-skin-with-creativemode-in-3-minutes"
 published_at: "2026-04-29T23:41:25+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T20:25:26.460294+00:00"
+fetched_at: "2026-07-28T23:10:27.687348+00:00"
 content_hash: "sha256:2653a96c07c382b08d1d90dbe888f6eea58f7a4dccbd0f64b117dfbfee7e5fe8"
 ---
 

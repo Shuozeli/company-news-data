@@ -7,7 +7,7 @@ source_id: "yc-directed-edge-rss-7c8e8fe81473"
 canonical_url: "https://blog.directededge.com/2012/09/18/shopify-app-updates-new-ruby-bindings-beta-new-web-services-features-coming-down-the-pipe/"
 published_at: "2012-09-19T03:12:11+00:00"
 first_seen_at: "2026-07-27T01:55:50.875550+00:00"
-fetched_at: "2026-07-28T19:33:35.119310+00:00"
+fetched_at: "2026-07-28T22:59:14.304469+00:00"
 content_hash: "sha256:baad8429c34806e7dfd768a6a23a1c9c662a96f79699124abdaf3d44ba92e0c7"
 ---
 

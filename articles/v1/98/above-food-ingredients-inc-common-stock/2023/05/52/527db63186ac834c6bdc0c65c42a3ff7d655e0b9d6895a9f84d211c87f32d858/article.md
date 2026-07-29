@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-announces-participation-in-bmo-capital-markets-global-farm-to-market-conference/"
 published_at: "2023-05-15T18:28:19+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:e661955332ec8779ef66684e97ecdb75b854d5519a4e6f9066b0abdc039c2bc3"
 ---
 

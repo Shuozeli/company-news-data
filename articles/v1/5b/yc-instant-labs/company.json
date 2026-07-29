@@ -56,5 +56,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5b/yc-instant-labs/index/pages/000001.json",
+        "record_count": 27,
+        "byte_count": 28866,
+        "sha256": "sha256:4fc02bdb45bd5fc8279b47d0655aeb050e794504d5aa10881c3f7da7b5ca1456",
+        "newest_at": "2026-07-21T00:00:00+00:00",
+        "oldest_at": "2024-06-12T00:00:00+00:00"
+      }
+    ]
+  }
 }

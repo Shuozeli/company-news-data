@@ -7,7 +7,7 @@ source_id: "united-rentals-inc-common-stock-rss-4e2df8fb3ae6"
 canonical_url: "https://investors.unitedrentals.com/press-releases/press-releases-details/2026/United-Rentals-Earns-2026-Industrial-IoT-Product-of-the-Year-Award/default.aspx"
 published_at: "2026-06-11T20:05:00+00:00"
 first_seen_at: "2026-07-26T03:44:40.223060+00:00"
-fetched_at: "2026-07-28T22:12:10.506088+00:00"
+fetched_at: "2026-07-29T00:50:23.960931+00:00"
 content_hash: "sha256:12e38ed8614286398c094ecede43ef774137874f089280ef40e3abf22f025f2e"
 ---
 

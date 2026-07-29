@@ -208,5 +208,58 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 5,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4b/yc-depot/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52552,
+        "sha256": "sha256:9bf9958273a98d3eb77aa37776b6ec073a27d196d3c0844b55b269eeed4e934b",
+        "newest_at": "2026-07-20T00:00:00+00:00",
+        "oldest_at": "2025-11-21T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/4b/yc-depot/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 52715,
+        "sha256": "sha256:cc47260d26eff8b1952501d95e4c8adc0e6f5b566f458be73263cb3b8fd91a11",
+        "newest_at": "2025-11-17T00:00:00+00:00",
+        "oldest_at": "2025-02-19T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/4b/yc-depot/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 49650,
+        "sha256": "sha256:c119b91786e8cbeb9e48af4a97e1112445042d4473dfc01dc96f546289148acc",
+        "newest_at": "2025-02-10T00:00:00+00:00",
+        "oldest_at": "2024-04-19T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/4b/yc-depot/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 49056,
+        "sha256": "sha256:6623e9728aeb438231039e454bee39f154e8c2a5743528a5f1727b79282aff9f",
+        "newest_at": "2024-04-12T00:00:00+00:00",
+        "oldest_at": "2023-02-24T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/4b/yc-depot/index/pages/000005.json",
+        "record_count": 12,
+        "byte_count": 11813,
+        "sha256": "sha256:b3f5bd7d7242059fbc00a455d7ed987c6c8203f530b60d5a5b1ea297119dcebe",
+        "newest_at": "2023-01-30T00:00:00+00:00",
+        "oldest_at": "2022-05-12T00:00:00+00:00"
+      }
+    ]
+  }
 }

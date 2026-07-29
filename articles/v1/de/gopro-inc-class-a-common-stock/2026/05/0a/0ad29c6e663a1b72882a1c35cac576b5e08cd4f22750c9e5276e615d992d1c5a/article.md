@@ -7,7 +7,7 @@ source_id: "gopro-inc-class-a-common-stock-rss-6614c0f220fc"
 canonical_url: "http://investor.gopro.com/press-releases/press-release-details/2026/GoPro-Announces-First-Quarter-Results/default.aspx"
 published_at: "2026-05-11T20:15:00+00:00"
 first_seen_at: "2026-07-25T06:56:22.873146+00:00"
-fetched_at: "2026-07-28T21:06:50.947426+00:00"
+fetched_at: "2026-07-28T23:53:03.370491+00:00"
 content_hash: "sha256:8a1806a754f5243f520502fd94417a039496c102fefc6b58081b3b39859e53f8"
 ---
 

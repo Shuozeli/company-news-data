@@ -7,7 +7,7 @@ source_id: "yc-aesculatech-rss-031e9d4c8897"
 canonical_url: "https://winningpitchchallenge.net/past/aao-2023/"
 published_at: "2023-11-03T23:52:44+00:00"
 first_seen_at: "2026-07-24T14:35:17.916635+00:00"
-fetched_at: "2026-07-28T21:08:14.436281+00:00"
+fetched_at: "2026-07-28T23:53:48.515613+00:00"
 content_hash: "sha256:f274317c7a56c3ec99aec30235d8bbfbb4b430bd8973caf5586b88402bcb1be3"
 ---
 

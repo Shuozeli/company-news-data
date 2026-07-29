@@ -7,7 +7,7 @@ source_id: "natural-resource-partners-lp-limited-partnership-rss-13b42ce79297"
 canonical_url: "https://investor.nrplp.com/Investor-relations/news/news-details/2026/Natural-Resource-Partners-L-P--Declares-Fourth-Quarter-2025-Distribution/default.aspx"
 published_at: "2026-02-04T21:15:00+00:00"
 first_seen_at: "2026-07-25T15:38:33.294876+00:00"
-fetched_at: "2026-07-28T20:14:11.530989+00:00"
+fetched_at: "2026-07-28T22:56:35.341309+00:00"
 content_hash: "sha256:1ca647cefa2da345faeaca78cbcbaced7e2e1a5b57a02baa212e2034c5a390d9"
 ---
 

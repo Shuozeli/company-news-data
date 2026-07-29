@@ -7,7 +7,7 @@ source_id: "palatin-technologies-inc-common-stock-rss-d180129b5346"
 canonical_url: "https://palatin.com/press_releases/palatin-to-begin-trading-on-nasdaq-stock-exchange/"
 published_at: "2026-05-18T20:00:00+00:00"
 first_seen_at: "2026-07-25T18:13:52.743786+00:00"
-fetched_at: "2026-07-28T21:35:57.652848+00:00"
+fetched_at: "2026-07-29T00:14:35.041460+00:00"
 content_hash: "sha256:31e733a2d7d6dbfff3c8ed320dc0ca1187f0f04519f812efb58e2fca61332785"
 ---
 

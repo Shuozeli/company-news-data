@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/4-lessons-learned-from-an-indie-app-paywall-teardown"
-published_at: "2024-11-13T21:17:09.938+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:128f1fa1539386ed111ccc39d5fcb75b1a46a7e608a4ee9692d7b27d36b586c7"

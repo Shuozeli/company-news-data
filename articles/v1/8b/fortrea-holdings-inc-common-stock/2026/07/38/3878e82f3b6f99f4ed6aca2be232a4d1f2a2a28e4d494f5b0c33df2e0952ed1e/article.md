@@ -7,7 +7,7 @@ source_id: "fortrea-holdings-inc-common-stock-rss-2a3b555f8624"
 canonical_url: "https://www.fortrea.com/insights/fortrea-clinical-pharmacology-services"
 published_at: "2026-07-24T13:27:39+00:00"
 first_seen_at: "2026-07-24T15:06:56.473664+00:00"
-fetched_at: "2026-07-28T20:25:17.588431+00:00"
+fetched_at: "2026-07-28T23:10:04.281502+00:00"
 content_hash: "sha256:60e83b4c57f26c7be8e0116b07b2d3ae61da029d59acbf780edc9ebfeb3cae20"
 ---
 

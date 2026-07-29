@@ -5,7 +5,7 @@ company_key: "yc-sift"
 company: "Sift"
 source_id: "yc-sift-rss-c48c6d88eecb"
 canonical_url: "https://sift.com/blog/q2-2026-fibr-benchmarks/"
-published_at: "2026-07-16T20:31:50+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:24:10.644571+00:00"
 fetched_at: "2026-07-28T20:34:24.680558+00:00"
 content_hash: "sha256:4227671f2117ffe26df73ea5f10edc06af6be1e35a1b315ba31d382badba6ab6"

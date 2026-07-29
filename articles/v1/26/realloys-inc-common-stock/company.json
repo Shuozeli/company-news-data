@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/26/realloys-inc-common-stock/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 23259,
+        "sha256": "sha256:5585266e90f99005e006197f065db77c45939aa258ac280f2e52524c531693b2",
+        "newest_at": "2026-07-07T14:18:35+00:00",
+        "oldest_at": "2025-08-25T21:44:09+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "global-net-lease-inc-common-stock-rss-ed1964c4c638"
 canonical_url: "https://ir.globalnetlease.com/investors/news/news-details/2026/Global-Net-Lease-Inc--Announces-Retirement-of-Two-Board-Members/default.aspx"
 published_at: "2026-04-02T10:00:00+00:00"
 first_seen_at: "2026-07-25T06:44:50.442470+00:00"
-fetched_at: "2026-07-28T20:51:09.384353+00:00"
+fetched_at: "2026-07-28T23:36:33.937279+00:00"
 content_hash: "sha256:b8e38c885d52e59bb349afef04ebe6f5e11db9bf543172aa2457b0d3b305552b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "u-s-physical-therapy-inc-common-stock-rss-db551245593a"
 canonical_url: "https://www.usph.com/usph-schedules-first-quarter-2026-earnings-release-and-conference-call-dates/"
 published_at: "2026-04-22T20:15:52+00:00"
 first_seen_at: "2026-07-20T23:18:30.635474+00:00"
-fetched_at: "2026-07-28T21:41:22.804980+00:00"
+fetched_at: "2026-07-29T00:30:08.585642+00:00"
 content_hash: "sha256:5a4ed32ebfdff82bfbeb603fddb128e8bbedc2a8f1e2599067efd69db5ff7e70"
 ---
 

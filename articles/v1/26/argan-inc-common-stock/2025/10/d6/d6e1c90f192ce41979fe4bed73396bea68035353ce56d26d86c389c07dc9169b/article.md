@@ -7,7 +7,7 @@ source_id: "argan-inc-common-stock-rss-04f1fea248dc"
 canonical_url: "https://arganinc.com/news/argan-inc-s-gemma-power-systems-receives-full-notice-to-proceed-on-epc-contract-for-1350-mw-combined-cycle-power-plant-in-texas/"
 published_at: "2025-10-30T20:11:35+00:00"
 first_seen_at: "2026-07-20T03:31:21.385236+00:00"
-fetched_at: "2026-07-28T20:22:00.144270+00:00"
+fetched_at: "2026-07-28T23:05:16.878471+00:00"
 content_hash: "sha256:4f62074e3cc2c02494e5591b4d97dd2fac07df0ff6ed81463057f35e57bb5af0"
 ---
 

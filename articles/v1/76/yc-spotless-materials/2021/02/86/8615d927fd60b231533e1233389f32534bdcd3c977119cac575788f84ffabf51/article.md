@@ -7,7 +7,7 @@ source_id: "yc-spotless-materials-atom-27f9e38cc9f8"
 canonical_url: "https://spotlessmaterials.com/blogs/press-releases-1/penn-state-startup-spotless-materials-earning-big-recognition-driving-humanitarian-goals"
 published_at: "2021-02-17T15:30:00+00:00"
 first_seen_at: "2026-07-26T00:03:15.518146+00:00"
-fetched_at: "2026-07-28T21:51:19.267470+00:00"
+fetched_at: "2026-07-29T00:06:27.340276+00:00"
 content_hash: "sha256:d55ffeec2d76c4f9fc106283849c9bcdaf64ccc9e5fd9bb34b8f79a10bc0e0ac"
 ---
 

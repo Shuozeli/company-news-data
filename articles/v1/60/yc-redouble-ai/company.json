@@ -64,5 +64,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/60/yc-redouble-ai/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 23413,
+        "sha256": "sha256:156099faaa00bf661efb27987c29ee1c2859377a280b2f81fe648bc467bad6e0",
+        "newest_at": "2026-07-17T00:00:00+00:00",
+        "oldest_at": "2021-12-29T00:00:00+00:00"
+      }
+    ]
+  }
 }

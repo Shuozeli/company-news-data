@@ -20,5 +20,22 @@
       "partition": "2026-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d8/yc-helium/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 2952,
+        "sha256": "sha256:a1b1a9a99e8e048b18474a396c13ab577333ce8c07c25dab5155c6f20ca67707",
+        "newest_at": "2026-05-25T17:57:22.513+00:00",
+        "oldest_at": "2026-02-04T03:03:15.258+00:00"
+      }
+    ]
+  }
 }

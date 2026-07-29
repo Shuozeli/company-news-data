@@ -7,7 +7,7 @@ source_id: "western-union-company-the-common-stock-rss-b97466c15713"
 canonical_url: "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-Launches-USDPT-on-Solana-Advancing-Regulated-Digital-Infrastructure-for-Global-Payments/default.aspx"
 published_at: "2026-05-04T11:30:00+00:00"
 first_seen_at: "2026-07-26T05:24:37.115894+00:00"
-fetched_at: "2026-07-28T19:49:10.319118+00:00"
+fetched_at: "2026-07-28T23:31:52.252898+00:00"
 content_hash: "sha256:ae6003198350eabcb7f1716d01ac4397cff7571de09400f245108af706def249"
 ---
 

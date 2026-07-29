@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 21
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/05/yc-reacher/index/pages/000001.json",
+        "record_count": 32,
+        "byte_count": 32180,
+        "sha256": "sha256:b091e61d02614b58b81c31ce6c42582cd745d5b77eaa495b2987fa93e23c3b3e",
+        "newest_at": "2026-07-16T12:46:07.856+00:00",
+        "oldest_at": "2024-08-26T00:00:00+00:00"
+      }
+    ]
+  }
 }

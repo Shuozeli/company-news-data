@@ -7,7 +7,7 @@ source_id: "marten-transport-ltd-common-stock-rss-bcf18caba5a0"
 canonical_url: "https://www.marten.com/news/2024-drivers-of-the-year-2/"
 published_at: "2025-02-07T17:12:33+00:00"
 first_seen_at: "2026-07-20T23:21:50.115287+00:00"
-fetched_at: "2026-07-28T20:37:55.683137+00:00"
+fetched_at: "2026-07-28T23:21:51.721924+00:00"
 content_hash: "sha256:01e827730a932ca925e3b55ed2dde6c71635c7892049262365d1475e38a3984f"
 ---
 

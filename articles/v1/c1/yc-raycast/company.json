@@ -16,5 +16,22 @@
       "partition": "2026-05",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c1/yc-raycast/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 3467,
+        "sha256": "sha256:3de64acc30ce74ac74a4efeee5568e0a15074fa0c9a98cdee540c4cb1b62f0ed",
+        "newest_at": "2026-05-29T00:00:00+00:00",
+        "oldest_at": "2026-04-07T00:00:00+00:00"
+      }
+    ]
+  }
 }

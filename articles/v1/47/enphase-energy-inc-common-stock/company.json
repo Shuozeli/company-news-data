@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/47/enphase-energy-inc-common-stock/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 20925,
+        "sha256": "sha256:5ec0904034bea5effb9754e1d6aac5db2a44ca10c0e503985e87288a542851f2",
+        "newest_at": "2026-07-28T20:05:00+00:00",
+        "oldest_at": "2026-03-06T07:12:41+00:00"
+      }
+    ]
+  }
 }

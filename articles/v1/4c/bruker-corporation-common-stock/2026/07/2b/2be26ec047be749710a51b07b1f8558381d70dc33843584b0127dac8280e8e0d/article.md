@@ -7,7 +7,7 @@ source_id: "bruker-corporation-common-stock-rss-60eb66f25324"
 canonical_url: "https://ir.bruker.com/press-releases/press-release-details/2026/Bruker-Announces-Date-and-Time-of-Second-Quarter-2026-Earnings-Release-and-Webcast/default.aspx"
 published_at: "2026-07-24T20:01:00+00:00"
 first_seen_at: "2026-07-25T01:38:45.231278+00:00"
-fetched_at: "2026-07-28T20:29:24.461115+00:00"
+fetched_at: "2026-07-28T23:15:32.273855+00:00"
 content_hash: "sha256:3c223591789941d651d997c3dd8e1269f4557fa2d51bcd5d048b07a8dec316b6"
 ---
 

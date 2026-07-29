@@ -7,7 +7,7 @@ source_id: "seneca-foods-corp-class-b-common-stock-rss-812bb00696df"
 canonical_url: "https://www.senecafoods.com/sec-filing/form-s-8-part-time-and-seasonal-employees-savings-plan"
 published_at: "2026-07-28T14:58:31+00:00"
 first_seen_at: "2026-07-28T20:43:05.728004+00:00"
-fetched_at: "2026-07-28T20:43:05.623336+00:00"
+fetched_at: "2026-07-28T23:31:32.451349+00:00"
 content_hash: "sha256:ef385322941b8649b5be006efb1297a0b20adcc9443d0d2ea6f85fcbf98169c2"
 ---
 

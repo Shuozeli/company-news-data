@@ -7,7 +7,7 @@ source_id: "airbnb-inc-class-a-common-stock-rss-d1a7958eece3"
 canonical_url: "https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4"
 published_at: "2026-07-14T17:01:03+00:00"
 first_seen_at: "2026-07-20T04:35:41.377728+00:00"
-fetched_at: "2026-07-28T20:57:10.733958+00:00"
+fetched_at: "2026-07-28T23:43:02.929663+00:00"
 content_hash: "sha256:5e89d91c62f4cfa11014b815b44d0c9c47d119fa40e3dfa040c29c9e6b114ce5"
 ---
 

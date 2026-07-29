@@ -7,7 +7,7 @@ source_id: "newsmax-inc-class-b-common-stock-rss-0da30425e74c"
 canonical_url: "https://ir.newsmax.com/news/news-details/2026/Newsmax-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Financial-Results/default.aspx"
 published_at: "2026-03-26T20:05:00+00:00"
 first_seen_at: "2026-07-25T16:10:33.598715+00:00"
-fetched_at: "2026-07-28T20:49:15.461706+00:00"
+fetched_at: "2026-07-28T23:34:56.876154+00:00"
 content_hash: "sha256:b957b8609a15d40b05291d76eb54382a31e7f6af3ba1fa6f5486184035575323"
 ---
 

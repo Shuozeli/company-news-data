@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "page": 1,
+  "record_count": 4,
+  "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "8cc7a89d22b8aef692937a2c02c6dce1a75902854d425ff203dba2c0b0cdfa8b",
+      "company_key": "yc-sf-tensor",
+      "company_name": "SF Tensor",
+      "source_id": "yc-sf-tensor-news-import-73b0de6f3d55",
+      "source_kind": "html",
+      "canonical_url": "https://sf-tensor.com/engineering/multi-tenant-lora",
+      "title": "One Model Per Customer Shouldn't Mean One GPU Per Customer",
+      "summary": "Every customer wants their own model. Here's how to hand them one without buying a GPU per customer.",
+      "published_at": "2026-05-17T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+      "article_path": "articles/v1/5e/yc-sf-tensor/2026/05/8c/8cc7a89d22b8aef692937a2c02c6dce1a75902854d425ff203dba2c0b0cdfa8b/article.md",
+      "record_path": "articles/v1/5e/yc-sf-tensor/2026/05/8c/8cc7a89d22b8aef692937a2c02c6dce1a75902854d425ff203dba2c0b0cdfa8b/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "bf9d14b3ac808c80e85476a076a3cb22b511c3514c54a97d4f65c32a27e4e618",
+      "company_key": "yc-sf-tensor",
+      "company_name": "SF Tensor",
+      "source_id": "yc-sf-tensor-news-import-73b0de6f3d55",
+      "source_kind": "html",
+      "canonical_url": "https://sf-tensor.com/engineering/infrastructure-tack",
+      "title": "We Got Sick of \"Works on My Machine\"",
+      "summary": "Remember when local development was supposed to be simple?",
+      "published_at": "2026-01-15T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+      "article_path": "articles/v1/5e/yc-sf-tensor/2026/01/bf/bf9d14b3ac808c80e85476a076a3cb22b511c3514c54a97d4f65c32a27e4e618/article.md",
+      "record_path": "articles/v1/5e/yc-sf-tensor/2026/01/bf/bf9d14b3ac808c80e85476a076a3cb22b511c3514c54a97d4f65c32a27e4e618/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "ee3198f2afc7c6e1b39451ab7b3668a36a34eb6407e00364ced973c5d4012512",
+      "company_key": "yc-sf-tensor",
+      "company_name": "SF Tensor",
+      "source_id": "yc-sf-tensor-news-import-88ed66988698",
+      "source_kind": "html",
+      "canonical_url": "https://sf-tensor.com/news/tensor-cloud-launch",
+      "title": "Tensor Cloud Launch",
+      "summary": "We're launching the private beta of Tensor Cloud: a cloud-agnostic interface that runs jobs across providers without the messy details of each one.",
+      "published_at": "2025-10-06T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+      "article_path": "articles/v1/5e/yc-sf-tensor/2025/10/ee/ee3198f2afc7c6e1b39451ab7b3668a36a34eb6407e00364ced973c5d4012512/article.md",
+      "record_path": "articles/v1/5e/yc-sf-tensor/2025/10/ee/ee3198f2afc7c6e1b39451ab7b3668a36a34eb6407e00364ced973c5d4012512/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "512dbd1c7322e4181ec8fa78d8c837d7d9f90065923040930182948d06f69467",
+      "company_key": "yc-sf-tensor",
+      "company_name": "SF Tensor",
+      "source_id": "yc-sf-tensor-news-import-88ed66988698",
+      "source_kind": "html",
+      "canonical_url": "https://sf-tensor.com/news/introducing-sf-tensor",
+      "title": "Why We're Building SF Tensor",
+      "summary": "At the San Francisco Tensor Company, we believe that the next great wave of computing won't be defined by a single chip, a single cloud or a single framework.",
+      "published_at": "2025-09-13T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+      "article_path": "articles/v1/5e/yc-sf-tensor/2025/09/51/512dbd1c7322e4181ec8fa78d8c837d7d9f90065923040930182948d06f69467/article.md",
+      "record_path": "articles/v1/5e/yc-sf-tensor/2025/09/51/512dbd1c7322e4181ec8fa78d8c837d7d9f90065923040930182948d06f69467/record.json"
+    }
+  ]
+}

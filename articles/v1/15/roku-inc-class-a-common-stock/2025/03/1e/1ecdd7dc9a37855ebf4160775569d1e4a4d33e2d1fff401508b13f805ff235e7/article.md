@@ -7,7 +7,7 @@ source_id: "roku-inc-class-a-common-stock-rss-7fd84d003d99"
 canonical_url: "https://engineering.roku.com/improving-search-relevance-using-crossencoders-and-llms"
 published_at: "2025-03-11T14:55:31+00:00"
 first_seen_at: "2026-07-20T23:21:49.245762+00:00"
-fetched_at: "2026-07-28T20:34:11.816563+00:00"
+fetched_at: "2026-07-28T23:19:32.883693+00:00"
 content_hash: "sha256:83b2c9608854bb0f9d85c7078abf802ecc9f414cdaba05615beaee395b81939c"
 ---
 

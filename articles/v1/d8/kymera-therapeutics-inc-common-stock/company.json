@@ -36,5 +36,22 @@
       "partition": "2021-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d8/kymera-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 11055,
+        "sha256": "sha256:9f7eda9762184dec1e84f19706f1b9cd199cef956243c84f2397f1bdf4be5c15",
+        "newest_at": "2021-07-06T11:00:00+00:00",
+        "oldest_at": "2019-04-11T10:03:00+00:00"
+      }
+    ]
+  }
 }

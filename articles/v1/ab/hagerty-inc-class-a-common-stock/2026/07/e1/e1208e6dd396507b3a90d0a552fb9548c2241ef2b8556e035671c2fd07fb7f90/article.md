@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/electric-cars-nah-itll-never-happen/"
 published_at: "2026-07-20T17:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:044e0257c2cb609fb37ee6b08fd317030355c96a4bc5272bb894b8d59bb1dd23"
 ---
 

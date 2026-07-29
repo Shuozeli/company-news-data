@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/71/isoenergy-ltd-common-shares/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 20124,
+        "sha256": "sha256:0e403b43e3169632dd4b6421d823e27763f269a0c26486c1e27293f6134e49b9",
+        "newest_at": "2026-07-13T00:00:00+00:00",
+        "oldest_at": "2026-01-07T00:00:00+00:00"
+      }
+    ]
+  }
 }

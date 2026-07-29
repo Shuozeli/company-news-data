@@ -7,7 +7,7 @@ source_id: "sunopta-inc-common-stock-rss-7dfa930bd6bd"
 canonical_url: "https://www.sunopta.com/sunopta-broad-based-gains-across-segments-boost-q1-revenue/"
 published_at: "2025-05-19T06:00:36+00:00"
 first_seen_at: "2026-07-20T23:18:19.636673+00:00"
-fetched_at: "2026-07-28T21:08:27.659987+00:00"
+fetched_at: "2026-07-28T23:54:33.502464+00:00"
 content_hash: "sha256:baa578a9860180d13f929b344bde7b985239be27e8323cf14257223207d7d7c6"
 ---
 

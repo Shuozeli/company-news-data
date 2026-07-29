@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2020/digi-to-release-fourth-fiscal-quarter-2020-results"
 published_at: "2020-10-09T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:f53f3c57ec84dc3b91da496996407c31e13d80291eb5e63edccdc848c38b2e2b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-foods-wholly-owned-subsidiary-farmer-direct-organic-launches-first-regenerative-organic-certified-oats-into-north-american-retail-market/"
 published_at: "2022-11-23T17:29:17+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:e03ff4638eab460c7c3896e4096d8ee8e1fac7eba6438e86f0c3d94f6b35acd5"
 ---
 

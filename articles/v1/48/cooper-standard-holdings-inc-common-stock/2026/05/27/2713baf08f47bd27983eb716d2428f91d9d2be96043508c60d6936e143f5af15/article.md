@@ -7,7 +7,7 @@ source_id: "cooper-standard-holdings-inc-common-stock-rss-83e9fa5352d5"
 canonical_url: "https://ir.cooperstandard.com/2026-05-28-Cooper-Standard-Named-a-2025-Supplier-of-the-Year-by-General-Motors"
 published_at: "2026-05-28T12:30:00+00:00"
 first_seen_at: "2026-07-20T23:17:14.385491+00:00"
-fetched_at: "2026-07-28T21:09:44.892142+00:00"
+fetched_at: "2026-07-28T23:55:33.869996+00:00"
 content_hash: "sha256:1348d5ebfdcde782fa39effaca7305019536119b32d9803fe30fe8ab92995ec7"
 ---
 

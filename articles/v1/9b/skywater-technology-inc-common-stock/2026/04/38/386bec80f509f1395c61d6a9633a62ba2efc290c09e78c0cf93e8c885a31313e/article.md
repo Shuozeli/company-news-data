@@ -7,7 +7,7 @@ source_id: "skywater-technology-inc-common-stock-rss-6748f57663e9"
 canonical_url: "https://www.skywatertechnology.com/rhet-2026/"
 published_at: "2026-04-16T15:36:30+00:00"
 first_seen_at: "2026-07-25T01:07:15.981831+00:00"
-fetched_at: "2026-07-28T21:41:28.647811+00:00"
+fetched_at: "2026-07-29T00:14:20.230730+00:00"
 content_hash: "sha256:d7c09f0a8281e7a518a1597a22bd8603e50285c9ea3d006d0c7ef215626c93c6"
 ---
 

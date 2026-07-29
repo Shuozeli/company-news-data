@@ -4,9 +4,9 @@
     "key": "extra-space-storage-inc-common-stock",
     "name": "Extra Space Storage Inc Common Stock"
   },
-  "record_count": 10,
+  "record_count": 11,
   "first_published_at": "2026-01-22T21:45:00+00:00",
-  "last_published_at": "2026-06-30T22:35:00+00:00",
+  "last_published_at": "2026-07-28T20:31:00+00:00",
   "partitions": [
     {
       "partition": "2026-01",
@@ -31,6 +31,27 @@
     {
       "partition": "2026-06",
       "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3e/extra-space-storage-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 20490,
+        "sha256": "sha256:69ed4dd376f7d31ba800b11d03732c9be893c799312a9888d6e67aee83721592",
+        "newest_at": "2026-07-28T20:31:00+00:00",
+        "oldest_at": "2026-01-22T21:45:00+00:00"
+      }
+    ]
+  }
 }

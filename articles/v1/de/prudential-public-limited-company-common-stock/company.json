@@ -36,5 +36,22 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/de/prudential-public-limited-company-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 25426,
+        "sha256": "sha256:73776361f69c116c0b57e4289794d9571a6c0064c0f0cffee43cfa7d33db4293",
+        "newest_at": "2026-06-24T01:47:26.813+00:00",
+        "oldest_at": "2025-11-11T09:00:55.183+00:00"
+      }
+    ]
+  }
 }

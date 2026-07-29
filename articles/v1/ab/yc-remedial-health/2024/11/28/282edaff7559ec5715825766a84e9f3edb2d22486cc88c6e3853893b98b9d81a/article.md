@@ -7,7 +7,7 @@ source_id: "yc-remedial-health-rss-5196a9b21179"
 canonical_url: "https://medium.com/@remedialhealth/the-impact-of-supply-chain-disruptions-on-healthcare-providers-5c49581d8f09"
 published_at: "2024-11-04T20:48:13+00:00"
 first_seen_at: "2026-07-25T21:00:02.066889+00:00"
-fetched_at: "2026-07-28T20:34:46.142697+00:00"
+fetched_at: "2026-07-28T23:19:42.200462+00:00"
 content_hash: "sha256:b368cf9de57535a04e845f055afb70ef24e595f2210406641755b9ba03bb967e"
 ---
 

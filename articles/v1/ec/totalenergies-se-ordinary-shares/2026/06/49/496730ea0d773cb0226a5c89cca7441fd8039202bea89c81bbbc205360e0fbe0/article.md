@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/audition-parlementaire-de-patrick-pouyanne-sur-la-fiscalite-des-multinationales/"
 published_at: "2026-06-24T09:41:30+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:36b2797e3cd167c539b81d2269808b18b4954f959b59beef23b7fae63458c0af"
 ---
 

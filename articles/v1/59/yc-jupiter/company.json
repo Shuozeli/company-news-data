@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/59/yc-jupiter/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 20965,
+        "sha256": "sha256:0ba071f900b343d067b5c0749ba97ab586d8e70017d9f094990f194e1cc3bb5b",
+        "newest_at": "2026-07-21T09:16:54.454+00:00",
+        "oldest_at": "2026-06-16T09:24:58.016+00:00"
+      }
+    ]
+  }
 }

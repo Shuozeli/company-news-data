@@ -24,5 +24,22 @@
       "partition": "2024-02",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/45/yc-short-story/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 13895,
+        "sha256": "sha256:e5dd27897662dd8209a25ec727149f4367600f74a7c8163de1ab328c4faeb997",
+        "newest_at": "2024-02-21T06:43:35+00:00",
+        "oldest_at": "2023-11-15T17:01:49+00:00"
+      }
+    ]
+  }
 }

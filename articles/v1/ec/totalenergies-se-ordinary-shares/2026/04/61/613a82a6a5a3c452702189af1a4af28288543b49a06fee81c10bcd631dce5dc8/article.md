@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-choisi-par-letat-francais-en-tant-quoperateur-du-plus-grand-projet-denergie-renouvelable-du-pays/"
 published_at: "2026-04-10T21:24:18+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:28de7271604d11ed0954f7b47aae42fc4e2b6b263206b946a6f09678e1edd023"
 ---
 

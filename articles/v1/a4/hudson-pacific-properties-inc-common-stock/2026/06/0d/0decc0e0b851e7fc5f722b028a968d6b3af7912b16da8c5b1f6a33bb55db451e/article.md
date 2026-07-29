@@ -7,7 +7,7 @@ source_id: "hudson-pacific-properties-inc-common-stock-rss-348072d19ba0"
 canonical_url: "https://investors.hudsonpacificproperties.com/investor-resources/press-releases/press-release-details/2026/Hudson-Pacific-Properties-Announces-Date-for-Second-Quarter-Earnings-Release-and-Conference-Call/default.aspx"
 published_at: "2026-06-24T13:00:00+00:00"
 first_seen_at: "2026-07-25T08:33:12.400252+00:00"
-fetched_at: "2026-07-28T20:04:26.665506+00:00"
+fetched_at: "2026-07-28T23:53:39.931348+00:00"
 content_hash: "sha256:17bdbc28111f773270d3de7836f333d4955fdf7d358b3705fe31c201b9517104"
 ---
 

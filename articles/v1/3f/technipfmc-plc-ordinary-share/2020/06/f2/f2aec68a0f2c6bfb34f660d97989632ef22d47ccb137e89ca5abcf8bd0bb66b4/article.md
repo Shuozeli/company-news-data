@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2020/06/help-for-orphans-and-health-workers-during-covid-19-crisis/"
 published_at: "2020-06-12T03:44:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-28T21:51:21.094676+00:00"
+fetched_at: "2026-07-29T00:17:43.124361+00:00"
 content_hash: "sha256:214595295949118b7452ee9107f30ae3943b75a4c8d89e972f69e22144a3efa7"
 ---
 

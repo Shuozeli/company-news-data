@@ -7,7 +7,7 @@ source_id: "hudbay-minerals-inc-ordinary-shares-canada-rss-c4096adde97b"
 canonical_url: "https://hudbayminerals.com/investors/press-releases/press-release-details/2026/Hudbay-Announces-Pricing-for-US52-Million-of-Municipal-Bonds-for-Copper-World-at-4-50/default.aspx"
 published_at: "2026-06-17T20:30:00+00:00"
 first_seen_at: "2026-07-25T08:33:11.818329+00:00"
-fetched_at: "2026-07-28T20:05:10.042348+00:00"
+fetched_at: "2026-07-28T23:54:13.555520+00:00"
 content_hash: "sha256:326352462aae346d2061e185c1e5cd50f1ffaa7ac20626e6a86256195542bcc4"
 ---
 

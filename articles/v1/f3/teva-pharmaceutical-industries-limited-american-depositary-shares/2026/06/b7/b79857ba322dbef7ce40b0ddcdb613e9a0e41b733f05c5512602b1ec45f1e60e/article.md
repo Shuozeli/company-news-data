@@ -7,7 +7,7 @@ source_id: "teva-pharmaceutical-industries-limited-american-depositary-shares-rs
 canonical_url: "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2026/Teva-Closes-Acquisition-of-Emalex-Biosciences-Strengthening-Late-Stage-Neuroscience-Pipeline-and-Advancing-Pivot-to-Growth-Strategy/default.aspx"
 published_at: "2026-06-10T16:03:00+00:00"
 first_seen_at: "2026-07-25T01:06:51.621885+00:00"
-fetched_at: "2026-07-28T21:37:33.063712+00:00"
+fetched_at: "2026-07-29T00:12:43.259437+00:00"
 content_hash: "sha256:bf156774e4fd422167b5b0eea06de6b68465a881a6afe9afaa02a45dc3524dd1"
 ---
 

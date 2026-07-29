@@ -7,7 +7,7 @@ source_id: "nvent-electric-plc-ordinary-shares-rss-7e545b783f0e"
 canonical_url: "https://blog.nvent.com/career-story-danielle-inclusion-diversity-specialist/"
 published_at: "2025-11-01T18:36:32+00:00"
 first_seen_at: "2026-07-20T23:21:35.308535+00:00"
-fetched_at: "2026-07-28T20:30:02.239099+00:00"
+fetched_at: "2026-07-28T23:16:06.368241+00:00"
 content_hash: "sha256:47c2483b427ddab859b56af6ffd2e96ff6326a1b164c18711f81a3643eb87e9b"
 ---
 

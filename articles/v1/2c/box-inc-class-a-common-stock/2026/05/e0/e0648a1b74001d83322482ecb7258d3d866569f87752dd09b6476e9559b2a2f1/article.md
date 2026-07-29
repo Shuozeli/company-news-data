@@ -7,7 +7,7 @@ source_id: "box-inc-class-a-common-stock-rss-a1b756dbb5f0"
 canonical_url: "https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-to-Present-at-Investor-Conferences/default.aspx"
 published_at: "2026-05-27T12:00:00+00:00"
 first_seen_at: "2026-07-26T23:59:55.533287+00:00"
-fetched_at: "2026-07-28T20:48:33.467159+00:00"
+fetched_at: "2026-07-28T23:33:39.655435+00:00"
 content_hash: "sha256:0d0b598f411754b62ad16e0ba0e0ba07fb63a6e448f3b2c4443e9354cb715b71"
 ---
 

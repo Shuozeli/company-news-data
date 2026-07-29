@@ -7,7 +7,7 @@ source_id: "manhattan-associates-inc-common-stock-rss-88d030ed0e00"
 canonical_url: "https://ir.manh.com/news-releases/news-release-details/manhattan-associates-reports-second-quarter-results-0"
 published_at: "2026-07-28T20:05:00+00:00"
 first_seen_at: "2026-07-28T21:54:03.252985+00:00"
-fetched_at: "2026-07-28T21:54:03.163684+00:00"
+fetched_at: "2026-07-29T00:33:47.028097+00:00"
 content_hash: "sha256:8122cbf8c90bb303159ec13d2f437eb1e7a12b2e41bc66116b5ef520b4f42842"
 ---
 

@@ -36,5 +36,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/66/york-water-company-the-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 14038,
+        "sha256": "sha256:fc703b5b7086f4b9506c4591d06ef0ab06b8258c52ddd8254ce8622999701d8a",
+        "newest_at": "2026-06-04T18:01:57+00:00",
+        "oldest_at": "2025-11-25T20:18:19+00:00"
+      }
+    ]
+  }
 }

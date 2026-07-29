@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/john-cena-to-save-the-world-in-matchbox-the-movie/"
 published_at: "2026-07-27T20:00:00+00:00"
 first_seen_at: "2026-07-27T21:18:42.828551+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:8b21387fe70eeb78f52b6a1849a1caf449bfc026ae1468371b1bd91affcb2cda"
 ---
 

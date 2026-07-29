@@ -7,7 +7,7 @@ source_id: "diamondrock-hospitality-company-common-stock-rss-0cf57d65d302"
 canonical_url: "https://investor.drhc.com/news-releases/news-release-details/diamondrock-hospitality-company-announces-tax-treatment-2025"
 published_at: "2026-01-23T12:30:00+00:00"
 first_seen_at: "2026-07-26T12:58:00.261237+00:00"
-fetched_at: "2026-07-28T21:48:51.399344+00:00"
+fetched_at: "2026-07-29T00:16:42.112994+00:00"
 content_hash: "sha256:f89a70a9c8194229826b6eba1ebd1f7bb7f6cb95e807d3264884d5916fbc8dfd"
 ---
 

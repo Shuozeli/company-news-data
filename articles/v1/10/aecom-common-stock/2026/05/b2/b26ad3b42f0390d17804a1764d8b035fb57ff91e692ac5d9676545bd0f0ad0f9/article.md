@@ -7,7 +7,7 @@ source_id: "aecom-common-stock-rss-06e0000d390a"
 canonical_url: "https://aecom.com/blog/people-spotlight-series-meet-jennifer-ashawasegai-pereira/"
 published_at: "2026-05-19T23:09:17+00:00"
 first_seen_at: "2026-07-25T01:09:37.919036+00:00"
-fetched_at: "2026-07-28T19:57:36.262733+00:00"
+fetched_at: "2026-07-28T23:46:17.625245+00:00"
 content_hash: "sha256:a042f74f1cc64fc9beba86f3317307af4ce2be45b12af41ede7e118cc27cd6ec"
 ---
 

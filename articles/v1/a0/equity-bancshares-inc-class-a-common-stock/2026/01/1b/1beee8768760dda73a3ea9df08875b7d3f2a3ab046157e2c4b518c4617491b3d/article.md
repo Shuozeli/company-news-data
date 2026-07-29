@@ -7,7 +7,7 @@ source_id: "equity-bancshares-inc-class-a-common-stock-rss-24328ded7948"
 canonical_url: "https://investor.equitybank.com/news/news-details/2026/Equity-Bancshares-Inc--Fourth-Quarter-Results-Highlighted-by-Earnings-and-Net-Interest-Margin-Expansion/default.aspx"
 published_at: "2026-01-21T21:45:00+00:00"
 first_seen_at: "2026-07-25T03:00:27.446630+00:00"
-fetched_at: "2026-07-28T20:28:23.704516+00:00"
+fetched_at: "2026-07-28T23:14:39.438672+00:00"
 content_hash: "sha256:aa64057ad0ec05c22b2217a430aba48fc9e7128d2f4626e32cfac28278329df7"
 ---
 

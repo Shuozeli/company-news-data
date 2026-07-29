@@ -76,5 +76,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9c/yc-serif-health/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 30905,
+        "sha256": "sha256:91f9b212f56cf5ae8d939fb5fd06fe50b59057c772da79442e1c4ad536f824da",
+        "newest_at": "2026-07-16T19:08:00+00:00",
+        "oldest_at": "2023-12-17T20:57:00+00:00"
+      }
+    ]
+  }
 }

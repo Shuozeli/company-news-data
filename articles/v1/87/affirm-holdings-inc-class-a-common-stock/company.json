@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/87/affirm-holdings-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13836,
+        "sha256": "sha256:c9b05783a3e353048e63afcabe59060c10864c7dae972b8e3bd72bc37c6af536",
+        "newest_at": "2026-07-16T13:00:00+00:00",
+        "oldest_at": "2026-05-11T13:00:00+00:00"
+      }
+    ]
+  }
 }

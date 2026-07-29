@@ -7,7 +7,7 @@ source_id: "fortrea-holdings-inc-common-stock-rss-2a3b555f8624"
 canonical_url: "https://www.fortrea.com/insights/leeds-clinical-research-unit"
 published_at: "2026-07-24T13:05:24+00:00"
 first_seen_at: "2026-07-24T15:06:56.473664+00:00"
-fetched_at: "2026-07-28T20:25:17.588431+00:00"
+fetched_at: "2026-07-28T23:10:04.281502+00:00"
 content_hash: "sha256:b48a0ef0cb50b05bc044ab736f2b868aedd43c70bae7a984ef6c1b5e8ac1bd02"
 ---
 

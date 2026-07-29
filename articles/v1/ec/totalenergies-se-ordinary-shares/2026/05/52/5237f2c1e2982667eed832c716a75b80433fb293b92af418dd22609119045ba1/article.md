@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/pau-le-patron-de-totalenergies-annonce-un-investissement-de-100-millions-deuros-dans-son-supercalculateur-pangea-5/"
 published_at: "2026-05-05T16:55:57+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:75b1f56d6d58df57af704a373aa1b3c9e66a790f7ea90b24f9ce6cd60e17889e"
 ---
 

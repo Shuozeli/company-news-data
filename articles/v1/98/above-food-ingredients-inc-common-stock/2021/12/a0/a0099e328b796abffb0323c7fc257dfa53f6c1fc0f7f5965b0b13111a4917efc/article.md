@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-launches-industry-leading-regenerative-ag-technology-company/"
 published_at: "2021-12-23T14:33:29+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:4b6c75d0b8c4841e0961fe2981b285068318568c91acc83628a42c80c6146f57"
 ---
 

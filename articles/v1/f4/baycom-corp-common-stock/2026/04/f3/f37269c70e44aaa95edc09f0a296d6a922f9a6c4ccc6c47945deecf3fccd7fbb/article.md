@@ -7,7 +7,7 @@ source_id: "baycom-corp-common-stock-rss-9032c38160e0"
 canonical_url: "https://baycomcorp.q4ir.com/news-market-information/news/news-details/2026/BayCom-Corp-Announces-Executive-Leadership-Transition-and-Next-Phase-Growth-Strategy/default.aspx"
 published_at: "2026-04-09T20:00:00+00:00"
 first_seen_at: "2026-07-26T10:10:07.257614+00:00"
-fetched_at: "2026-07-28T20:34:46.644247+00:00"
+fetched_at: "2026-07-28T23:19:41.612149+00:00"
 content_hash: "sha256:7a02c3a8373d85e9aacc825bc433fd7c524af7ff98ecc742ddc01d1815ed0167"
 ---
 

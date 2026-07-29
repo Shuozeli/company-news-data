@@ -7,7 +7,7 @@ source_id: "yc-starling-rss-2a8bfdf7d43c"
 canonical_url: "https://starlingmedical.com/2024/12/09/recognize-uti-symptoms-early/"
 published_at: "2024-12-09T16:29:54+00:00"
 first_seen_at: "2026-07-25T01:53:29.741858+00:00"
-fetched_at: "2026-07-28T20:28:09.697961+00:00"
+fetched_at: "2026-07-28T23:14:51.936097+00:00"
 content_hash: "sha256:d5d880803de764853264ec267464ce15e0f63481c714e39060e7f2e6ba0c3da8"
 ---
 

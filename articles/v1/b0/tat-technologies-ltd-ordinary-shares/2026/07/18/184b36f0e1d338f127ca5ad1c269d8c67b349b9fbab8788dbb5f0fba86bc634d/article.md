@@ -7,7 +7,7 @@ source_id: "tat-technologies-ltd-ordinary-shares-rss-cbf58fbf7dc6"
 canonical_url: "https://tat-technologies.com/notice-of-annual-general-meeting-of-shareholders/"
 published_at: "2026-07-28T15:18:14+00:00"
 first_seen_at: "2026-07-28T16:11:24.291227+00:00"
-fetched_at: "2026-07-28T20:22:43.792860+00:00"
+fetched_at: "2026-07-28T23:07:02.052518+00:00"
 content_hash: "sha256:314a8f08f7ba7c45b571886a9b29ea65d7e5b94b6868a40b2d4a8098ab42fa71"
 ---
 

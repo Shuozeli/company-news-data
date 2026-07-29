@@ -7,7 +7,7 @@ source_id: "general-dynamics-corporation-common-stock-rss-e0152a87c794"
 canonical_url: "https://investorrelations.gd.com/news/press-release-details/2026/General-Dynamics-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx"
 published_at: "2026-01-28T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:57.378214+00:00"
-fetched_at: "2026-07-28T19:48:27.792376+00:00"
+fetched_at: "2026-07-28T23:31:47.540452+00:00"
 content_hash: "sha256:2aa628cbd9ecdef6f82570ab7baa4890e658ce92f0d2fb45824f95cd0a085d4d"
 ---
 

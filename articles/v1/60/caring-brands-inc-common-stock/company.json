@@ -32,5 +32,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/60/caring-brands-inc-common-stock/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 10027,
+        "sha256": "sha256:7224c8c9b8c8b4272953914f9a679eaa4d539756c27f744cfb3df6e59f0cec10",
+        "newest_at": "2026-06-01T12:00:21+00:00",
+        "oldest_at": "2025-07-15T23:40:00+00:00"
+      }
+    ]
+  }
 }

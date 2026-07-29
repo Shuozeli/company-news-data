@@ -24,5 +24,22 @@
       "partition": "2022-02",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d1/kennedy-wilson-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 6662,
+        "sha256": "sha256:3e7dba6d9371fb39d8c50bce919a55cd02646c9de1a703c1c34175bfedfd2783",
+        "newest_at": "2022-02-10T20:49:38+00:00",
+        "oldest_at": "2017-01-22T22:40:47+00:00"
+      }
+    ]
+  }
 }

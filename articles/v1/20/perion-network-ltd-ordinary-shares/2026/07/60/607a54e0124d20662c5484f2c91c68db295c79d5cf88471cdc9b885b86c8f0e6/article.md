@@ -7,7 +7,7 @@ source_id: "perion-network-ltd-ordinary-shares-rss-2c2626ab728d"
 canonical_url: "https://perion.com/product/the-political-brief-cant-wait-neither-should-your-dooh-buy/"
 published_at: "2026-07-21T13:35:03+00:00"
 first_seen_at: "2026-07-21T13:35:11.537114+00:00"
-fetched_at: "2026-07-28T20:41:28.179474+00:00"
+fetched_at: "2026-07-28T23:25:21.207430+00:00"
 content_hash: "sha256:84794a4703f4ab27aafdde5ebfa646492036c74b65427c562e95319d5351d623"
 ---
 

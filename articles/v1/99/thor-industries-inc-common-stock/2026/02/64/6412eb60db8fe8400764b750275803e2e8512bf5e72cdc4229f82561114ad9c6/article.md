@@ -7,7 +7,7 @@ source_id: "thor-industries-inc-common-stock-rss-d0b8e219f7f8"
 canonical_url: "https://ir.thorindustries.com/investor-resources/press-releases/press-release-details/2026/THOR-INDUSTRIES-ANNOUNCES-RESIGNATION-OF-LEIGH-TIFFIN-FROM-TIFFIN-MOTORHOMES---TIFFIN-FAMILY-TO-REMAIN-ACTIVELY-ENGAGED/default.aspx"
 published_at: "2026-02-11T20:00:00+00:00"
 first_seen_at: "2026-07-26T02:24:17.764835+00:00"
-fetched_at: "2026-07-28T19:31:11.470240+00:00"
+fetched_at: "2026-07-29T00:03:08.074894+00:00"
 content_hash: "sha256:adfb82e3d1334ef210f7044450448055a5f1023de000a08f7ea2ff5a63d36136"
 ---
 

@@ -7,7 +7,7 @@ source_id: "century-aluminum-company-common-stock-rss-82c08503ca49"
 canonical_url: "https://centuryaluminum.com/insights/ega-century-smelter-project/"
 published_at: "2025-12-01T17:29:42+00:00"
 first_seen_at: "2026-07-24T22:18:12.952043+00:00"
-fetched_at: "2026-07-28T20:32:35.797527+00:00"
+fetched_at: "2026-07-28T23:17:49.420075+00:00"
 content_hash: "sha256:4695b69208cd955ecca8f0c5d82e7fd4db22b17d891ebb98136719338aa2a16d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "inventrust-properties-corp-common-stock-rss-69554ea628a1"
 canonical_url: "https://inventrustproperties.q4ir.com/investor-relations/news/news-details/2024/InvenTrust-Properties-Corp.-Reports-2024-Second-Quarter-Results/default.aspx"
 published_at: "2024-07-31T20:02:00+00:00"
 first_seen_at: "2026-07-25T09:50:02.769299+00:00"
-fetched_at: "2026-07-28T20:15:11.059642+00:00"
+fetched_at: "2026-07-28T22:58:19.726655+00:00"
 content_hash: "sha256:41e0249661c2aef20cafc617531a9bf4a3358d21cc5ea0fbe3249b70b772b9a7"
 ---
 

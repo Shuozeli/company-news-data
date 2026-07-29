@@ -7,7 +7,7 @@ source_id: "pegasystems-inc-common-stock-rss-b2edbd2791b7"
 canonical_url: "https://community.pega.com/node/2470711"
 published_at: "2026-07-16T16:40:07+00:00"
 first_seen_at: "2026-07-20T23:22:13.499536+00:00"
-fetched_at: "2026-07-28T20:42:24.911745+00:00"
+fetched_at: "2026-07-28T23:26:06.672602+00:00"
 content_hash: "sha256:7ad7be5121023bdac607972bcecbd3ebdb143b9c64eb83151841e66f983d99b8"
 ---
 

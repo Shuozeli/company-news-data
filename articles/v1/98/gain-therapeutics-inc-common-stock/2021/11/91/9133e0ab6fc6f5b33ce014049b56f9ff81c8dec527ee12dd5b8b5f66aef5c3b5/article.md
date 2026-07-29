@@ -7,7 +7,7 @@ source_id: "gain-therapeutics-inc-common-stock-rss-2e93004a3a3a"
 canonical_url: "https://gaintherapeutics.com/web-stories/what-is-alphafold-technology-and-its-role-in-protein-misfolding-diseases/"
 published_at: "2021-11-08T09:00:55+00:00"
 first_seen_at: "2026-07-20T23:19:48.241067+00:00"
-fetched_at: "2026-07-28T22:02:14.092979+00:00"
+fetched_at: "2026-07-29T00:40:51.328400+00:00"
 content_hash: "sha256:1c4f6a8820c6bf75d1e5ed7a610f813799760d0b7e5ae25be90b520a89cf8775"
 ---
 

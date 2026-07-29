@@ -7,7 +7,7 @@ source_id: "royal-gold-inc-common-stock-rss-41cdc46dbc30"
 canonical_url: "https://royalgold.com/investors/press-releases/press-release-details/2026/Royal-Gold-Announces-Restructuring-of-Hod-Maden-Project-Interests/default.aspx"
 published_at: "2026-05-18T21:00:00+00:00"
 first_seen_at: "2026-07-25T21:50:05.209138+00:00"
-fetched_at: "2026-07-28T21:37:13.418045+00:00"
+fetched_at: "2026-07-29T00:15:07.767396+00:00"
 content_hash: "sha256:35c94789ae46fd9b9b8315966465a8a02fcff736edda1451b1e64a8fdbbc0089"
 ---
 

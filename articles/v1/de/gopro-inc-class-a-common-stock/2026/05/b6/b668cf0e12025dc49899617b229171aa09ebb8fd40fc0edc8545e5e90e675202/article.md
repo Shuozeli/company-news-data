@@ -7,7 +7,7 @@ source_id: "gopro-inc-class-a-common-stock-rss-6614c0f220fc"
 canonical_url: "http://investor.gopro.com/press-releases/press-release-details/2026/GoPro-and-Dive-With-Buddy-Partner-to-Launch-GoPro-Escapes-Booking-Platform/default.aspx"
 published_at: "2026-05-26T13:03:00+00:00"
 first_seen_at: "2026-07-25T06:56:22.873146+00:00"
-fetched_at: "2026-07-28T21:06:50.947426+00:00"
+fetched_at: "2026-07-28T23:53:03.370491+00:00"
 content_hash: "sha256:2608303866b9507df80b50020c9e1fdab0307c8f37a939033bd6d92b23973b30"
 ---
 

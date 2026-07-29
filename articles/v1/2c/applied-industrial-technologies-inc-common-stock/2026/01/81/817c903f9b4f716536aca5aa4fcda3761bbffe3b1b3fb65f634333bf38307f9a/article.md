@@ -7,7 +7,7 @@ source_id: "applied-industrial-technologies-inc-common-stock-rss-3340498324d4"
 canonical_url: "https://ir.applied.com/news/news-details/2026/Applied-Industrial-Technologies-to-Report-Fiscal-Second-Quarter-Earnings-and-Conduct-Conference-Call-on-January-27-2026/default.aspx"
 published_at: "2026-01-08T18:27:00+00:00"
 first_seen_at: "2026-07-25T01:32:04.222974+00:00"
-fetched_at: "2026-07-28T20:24:49.071131+00:00"
+fetched_at: "2026-07-28T23:09:53.577150+00:00"
 content_hash: "sha256:f6567f2423eec8c538e166fa8427db56ce7318724dd70e59a0b05f180cceb784"
 ---
 

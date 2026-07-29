@@ -56,5 +56,22 @@
       "partition": "2026-01",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/cc/yc-rebellyous-foods/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12345,
+        "sha256": "sha256:6a21ddaf82a3b85c407659e530d208c5f30e1d8bab50e3f2fc2f47451d3ed311",
+        "newest_at": "2026-01-05T22:24:30+00:00",
+        "oldest_at": "2022-01-27T16:53:55+00:00"
+      }
+    ]
+  }
 }

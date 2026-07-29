@@ -7,7 +7,7 @@ source_id: "alexandria-real-estate-equities-inc-common-stock-rss-b189b636a044"
 canonical_url: "https://investor.are.com/news-events-and-webcasts/news/news-details/2026/Alexandria-Real-Estate-Equities-Inc--Celebrates-Consequential-Impact-Achieved-Through-its-Longstanding-Partnership-with-the-Navy-SEAL-Foundation/default.aspx"
 published_at: "2026-05-26T12:30:00+00:00"
 first_seen_at: "2026-07-25T01:23:45.750268+00:00"
-fetched_at: "2026-07-28T20:16:28.478236+00:00"
+fetched_at: "2026-07-28T22:59:41.356238+00:00"
 content_hash: "sha256:b88736b1be3dc7d2b1f5678282059a96d8ea282e036b36ffad0c705cea0baaf9"
 ---
 

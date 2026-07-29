@@ -7,7 +7,7 @@ source_id: "yc-metal-news-import-c3e62a577482"
 canonical_url: "https://www.metal.ai/blog/institutional-knowledge-is-the-most-undervalued-asset-in-private-equity"
 published_at: null
 first_seen_at: "2026-07-23T17:36:18.798245+00:00"
-fetched_at: "2026-07-28T10:27:44.617201+00:00"
+fetched_at: "2026-07-29T00:24:49.404807+00:00"
 content_hash: "sha256:5bfa12d305ae9e096af9d7b7472dfb7fc84fb778d526d1e18cf9db2326e3d5cf"
 ---
 

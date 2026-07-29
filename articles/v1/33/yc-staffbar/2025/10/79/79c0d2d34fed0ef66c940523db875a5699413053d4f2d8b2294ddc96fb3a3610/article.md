@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/what-we-can-learn-from-the-guy-who-solved-growing-apps"
-published_at: "2025-10-01T16:19:58.316+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:3cdd4662a0c931f37a711f6acdb3d203069fa3dcdc38ff18923ed168aac91146"

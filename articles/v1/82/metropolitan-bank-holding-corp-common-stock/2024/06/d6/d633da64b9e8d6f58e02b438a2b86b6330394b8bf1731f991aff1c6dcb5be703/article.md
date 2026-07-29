@@ -7,7 +7,7 @@ source_id: "metropolitan-bank-holding-corp-common-stock-rss-3ca9c020781e"
 canonical_url: "https://mcbankny.com/metropolitan-commercial-bank-celebrates-quarter-century-anniversary/"
 published_at: "2024-06-24T11:02:00+00:00"
 first_seen_at: "2026-07-20T23:17:44.493826+00:00"
-fetched_at: "2026-07-28T21:23:52.449776+00:00"
+fetched_at: "2026-07-29T00:03:40.624761+00:00"
 content_hash: "sha256:e7920f474afc7ee60cf52ca82bb6e65041ac2109a9002e44e03ce21f149788d3"
 ---
 

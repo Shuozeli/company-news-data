@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2013/digi-goes-to-space"
 published_at: "2013-08-16T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:4a2f2a7331c9f05e41fc3ecc06c2833b645e227ebaecbddd6a8ca5ba96e9a9db"
 ---
 

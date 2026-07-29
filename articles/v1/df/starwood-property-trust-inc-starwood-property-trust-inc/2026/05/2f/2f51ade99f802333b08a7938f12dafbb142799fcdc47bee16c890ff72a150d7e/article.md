@@ -7,7 +7,7 @@ source_id: "starwood-property-trust-inc-starwood-property-trust-inc-rss-371735f7
 canonical_url: "http://ir.starwoodpropertytrust.com/news/press-release-details/2026/Starwood-Property-Trust-Reports-Results-for-Quarter-Ended-March-31-2026/default.aspx"
 published_at: "2026-05-08T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:48.915073+00:00"
-fetched_at: "2026-07-28T21:52:04.369033+00:00"
+fetched_at: "2026-07-29T00:10:19.325154+00:00"
 content_hash: "sha256:ce15f790eecfc5cf265e561e26debd1f4b6494396453255585ade81e1ee5b0a6"
 ---
 

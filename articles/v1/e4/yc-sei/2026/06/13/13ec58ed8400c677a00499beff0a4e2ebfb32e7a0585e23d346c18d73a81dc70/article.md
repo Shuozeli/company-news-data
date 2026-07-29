@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/regulation-f-ai-voice-debt-collection-7-in-7-limited-content"
 published_at: "2026-06-12T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:79fa6c242835173d77a634bc345baf170e5a02a6b6417167ca356ce2e26cded6"
 ---
 

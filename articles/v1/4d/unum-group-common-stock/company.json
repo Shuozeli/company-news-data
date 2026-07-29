@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4d/unum-group-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 21771,
+        "sha256": "sha256:8c498fc2e7b3d1ceebfab51b2296e38d3f1030fb0c3c2032029a7fc736ba6f7e",
+        "newest_at": "2026-07-28T20:15:00+00:00",
+        "oldest_at": "2026-04-06T18:43:00+00:00"
+      }
+    ]
+  }
 }

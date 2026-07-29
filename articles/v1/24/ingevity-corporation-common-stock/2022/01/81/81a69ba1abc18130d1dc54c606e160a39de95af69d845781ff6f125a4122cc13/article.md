@@ -7,7 +7,7 @@ source_id: "ingevity-corporation-common-stock-rss-d8061a749430"
 canonical_url: "https://www.ingevity.com/news/plant-spotlight-changshu/"
 published_at: "2022-01-28T21:00:10+00:00"
 first_seen_at: "2026-07-20T04:36:56.590700+00:00"
-fetched_at: "2026-07-28T21:10:27.522953+00:00"
+fetched_at: "2026-07-28T23:56:17.533183+00:00"
 content_hash: "sha256:258fe926ef88bef34ccef5a1a4d97804288333a6abf1d43bc463a67e73dc812b"
 ---
 

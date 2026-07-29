@@ -7,7 +7,7 @@ source_id: "riley-exploration-permian-inc-common-stock-rss-18f2e505d58c"
 canonical_url: "https://rileypermian.com/investors/press-releases/news-details/2026/Riley-Permian-Reports-2025-Results-and-Provides-2026-Guidance/default.aspx"
 published_at: "2026-03-04T22:00:00+00:00"
 first_seen_at: "2026-07-25T21:31:45.109736+00:00"
-fetched_at: "2026-07-28T21:03:22.547900+00:00"
+fetched_at: "2026-07-28T23:50:13.605412+00:00"
 content_hash: "sha256:1904cb8d8e0aa83ec3916650d82632fc84d5d150c2220ad14f38364c2863436d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "colliers-international-group-inc-subordinate-voting-shares-rss-af90d
 canonical_url: "https://corporate.colliers.com/news/news-details/2026/Colliers-Announces-Voting-Results/default.aspx"
 published_at: "2026-03-31T20:01:00+00:00"
 first_seen_at: "2026-07-26T12:04:53.000645+00:00"
-fetched_at: "2026-07-28T20:14:40.347502+00:00"
+fetched_at: "2026-07-28T22:57:51.217796+00:00"
 content_hash: "sha256:9b9be6566c3f17e7649373feb982f2aa324eab06c78b29bf38c01ea81c1854d8"
 ---
 

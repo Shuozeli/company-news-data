@@ -64,5 +64,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/32/star-bulk-carriers-corp-common-shares/index/pages/000001.json",
+        "record_count": 21,
+        "byte_count": 24907,
+        "sha256": "sha256:374d58cfa5f76ebc0f8807db227d9313046d4bfd33c226d6d0a5e7135b559e66",
+        "newest_at": "2026-07-23T09:00:00+00:00",
+        "oldest_at": "2025-02-18T10:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2025/SF-3Q25-Dividend-Announcement.pdf"
 published_at: "2025-11-05T20:30:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:961b0c334f3886beb016b6dbacbb6a10d95cc38369c1a0987f2f2ffb107200c1"
 ---
 

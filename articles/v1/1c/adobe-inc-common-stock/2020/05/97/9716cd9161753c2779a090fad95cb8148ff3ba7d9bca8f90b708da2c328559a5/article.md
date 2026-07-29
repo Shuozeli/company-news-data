@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2023/02/app-builder-build-custom-cloud-native-adobe-apps"
 published_at: "2020-05-07T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:0c352586ccec7f84b686b9db1f4f6abafbca09f3df5f35750c1aea602324c59c"
 ---
 

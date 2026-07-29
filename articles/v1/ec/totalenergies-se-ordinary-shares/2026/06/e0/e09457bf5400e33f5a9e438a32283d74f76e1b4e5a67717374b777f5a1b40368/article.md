@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/en-2025-nous-avons-paye-19-milliards-deuros-dimpots-dans-le-monde-isabelle-patrier-directrice-france-de-totalenergies-defend-la-strategie-du-groupe/"
 published_at: "2026-06-06T14:22:19+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:1d6012f3d06f4f7cf905c8e4107262c8a9c5f647aebf065fe4a64809f11e3f18"
 ---
 

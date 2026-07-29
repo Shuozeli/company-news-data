@@ -7,7 +7,7 @@ source_id: "pcb-bancorp-common-stock-rss-fe3afe33cb4a"
 canonical_url: "http://pcbbancorp.q4ir.com/news-market-data/press-releases/news-details/2025/PCB-Bancorp-Reports-Record-Earnings-for-Q3-2025/default.aspx"
 published_at: "2025-10-23T20:05:00+00:00"
 first_seen_at: "2026-07-25T18:37:24.336059+00:00"
-fetched_at: "2026-07-28T20:12:45.009569+00:00"
+fetched_at: "2026-07-28T22:53:56.794965+00:00"
 content_hash: "sha256:881dcefa124289cc41aa29479f3b31a2c337352104eab96585bc1c612d1445e2"
 ---
 

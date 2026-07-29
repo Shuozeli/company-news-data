@@ -7,7 +7,7 @@ source_id: "kronos-worldwide-inc-common-stock-rss-51f8bc552b33"
 canonical_url: "https://www.kronosww.com/leadership/"
 published_at: "2022-08-09T10:13:22+00:00"
 first_seen_at: "2026-07-20T23:17:49.786212+00:00"
-fetched_at: "2026-07-28T21:18:53.815174+00:00"
+fetched_at: "2026-07-29T00:31:30.010412+00:00"
 content_hash: "sha256:464144a3454f80c4160ec7855106193c55e33011b2037b29fb943fc8c8c8f2c7"
 ---
 

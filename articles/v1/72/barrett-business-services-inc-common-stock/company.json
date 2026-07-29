@@ -52,5 +52,22 @@
       "partition": "2026-07",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/72/barrett-business-services-inc-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 24107,
+        "sha256": "sha256:424a10a51f6ee9a82fc26515081be0aca98f17270fc0f0c6065e84befdb637af",
+        "newest_at": "2026-07-22T20:05:00+00:00",
+        "oldest_at": "2025-04-02T00:00:00+00:00"
+      }
+    ]
+  }
 }

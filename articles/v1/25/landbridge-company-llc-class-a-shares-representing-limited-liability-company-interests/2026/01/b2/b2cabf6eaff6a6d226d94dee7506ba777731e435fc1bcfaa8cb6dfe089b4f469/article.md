@@ -7,7 +7,7 @@ source_id: "landbridge-company-llc-class-a-shares-representing-limited-liability
 canonical_url: "https://www.landbridgeco.com/investor-relations/news/news-details/2026/LandBridge-Schedules-Fourth-Quarter-and-Fiscal-Year-2025-Earnings-Release-and-Conference-Call/default.aspx"
 published_at: "2026-01-22T13:30:00+00:00"
 first_seen_at: "2026-07-27T03:23:48.905229+00:00"
-fetched_at: "2026-07-28T21:14:29.328063+00:00"
+fetched_at: "2026-07-29T00:01:40.594581+00:00"
 content_hash: "sha256:1b4c3596a345f9803fb4cd9f4c0fc8a92734ba2a9be50d74a5417f3cc129453e"
 ---
 

@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5c/public-policy-holding-company-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12971,
+        "sha256": "sha256:e623c4946ae63901b704f544e40f1084ce3b34ce9072711a454b5d0c92164a9a",
+        "newest_at": "2026-07-14T12:48:25+00:00",
+        "oldest_at": "2026-03-23T07:41:39+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "barrick-mining-corporation-common-shares-rss-04ef954d86c6"
 canonical_url: "https://www.barrick.com/English/news/news-details/2026/barrick-advances-IPO-of-north-american-gold-assets/default.aspx"
 published_at: "2026-04-28T10:00:00+00:00"
 first_seen_at: "2026-07-25T01:16:22.091967+00:00"
-fetched_at: "2026-07-28T20:17:36.941140+00:00"
+fetched_at: "2026-07-28T23:01:12.069195+00:00"
 content_hash: "sha256:77ff76ff7069740b154fd7c57dcb09bc29dd87e136d699ce90c4fdbd1a772c49"
 ---
 

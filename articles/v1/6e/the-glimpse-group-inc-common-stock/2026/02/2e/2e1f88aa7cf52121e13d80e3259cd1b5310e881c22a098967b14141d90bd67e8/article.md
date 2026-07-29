@@ -7,7 +7,7 @@ source_id: "the-glimpse-group-inc-common-stock-rss-a8a553a6f685"
 canonical_url: "https://ir.theglimpsegroup.com/the-glimpse-group-enters-into-a-follow-on-3d-anatomy-training-agreement-with-a-global-pharmaceutical-company/"
 published_at: "2026-02-25T13:31:13+00:00"
 first_seen_at: "2026-07-24T03:52:28.349530+00:00"
-fetched_at: "2026-07-28T21:09:20.142996+00:00"
+fetched_at: "2026-07-28T23:55:41.393142+00:00"
 content_hash: "sha256:0401a5b357fb0c8b4563e7fb3b265b0a5bd6595715b8e6b83fb72337146dbedd"
 ---
 

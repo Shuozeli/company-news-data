@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-announces-effectiveness-of-form-f-4-registration-statement-in-connection-with-its-proposed-business-combination-with-bite-acquisition-corp/"
 published_at: "2024-04-10T13:38:49+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:9baef9aac93bd98d5336241ceaf1ff360768ee9f2ece620ffcedaee457746bb7"
 ---
 

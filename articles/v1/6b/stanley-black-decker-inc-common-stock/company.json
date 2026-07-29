@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6b/stanley-black-decker-inc-common-stock/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 9683,
+        "sha256": "sha256:68c6a80ab96509de1a48be3bad9f4ec5dbd48bea3133d4a316200b251d67730f",
+        "newest_at": "2026-07-24T14:55:56.762291+00:00",
+        "oldest_at": "2026-06-01T20:00:00+00:00"
+      }
+    ]
+  }
 }

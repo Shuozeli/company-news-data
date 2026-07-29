@@ -7,7 +7,7 @@ source_id: "parsons-corporation-common-stock-rss-2a3475286026"
 canonical_url: "https://www.parsons.com/2026/07/intel-community-news-parsons-launches-aresnxt/"
 published_at: "2026-07-14T14:54:03+00:00"
 first_seen_at: "2026-07-20T23:22:15.164723+00:00"
-fetched_at: "2026-07-28T20:35:26.686353+00:00"
+fetched_at: "2026-07-28T23:19:56.723187+00:00"
 content_hash: "sha256:bfdbbb11b6dd22d1b6a5ae15b98cfda027396c9452cdd3ff2200fe299d0ff046"
 ---
 

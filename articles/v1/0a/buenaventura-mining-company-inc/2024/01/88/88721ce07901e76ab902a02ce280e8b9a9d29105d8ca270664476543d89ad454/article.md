@@ -7,7 +7,7 @@ source_id: "buenaventura-mining-company-inc-rss-3af63dbcc9b4"
 canonical_url: "https://buenaventura.com/equipo-de-julcani-participo-exitosamente-en-rescate-a-trabajador-atrapado-en-mina-cobriza/"
 published_at: "2024-01-22T15:51:02+00:00"
 first_seen_at: "2026-07-25T01:09:56.313654+00:00"
-fetched_at: "2026-07-28T20:23:12.590306+00:00"
+fetched_at: "2026-07-28T23:08:05.565366+00:00"
 content_hash: "sha256:c556d2c41ca2f81b768c01cfdda0eae4cba300a35bbf5b8d77ed56a1c30b2820"
 ---
 

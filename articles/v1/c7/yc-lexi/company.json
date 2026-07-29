@@ -40,5 +40,31 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c7/yc-lexi/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 54851,
+        "sha256": "sha256:c4d97de77bbba7bc8e9e1e9e77c56d74fddadd1ce75aea06ba85abd39eeae9ee",
+        "newest_at": "2026-07-02T08:19:46+00:00",
+        "oldest_at": "2025-10-23T02:45:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/c7/yc-lexi/index/pages/000002.json",
+        "record_count": 1,
+        "byte_count": 1285,
+        "sha256": "sha256:44e1ed2047c361704d56b19b4a07b0ec0c49500cfb74b49acfeaad678f000939",
+        "newest_at": "2025-10-21T00:00:00+00:00",
+        "oldest_at": "2025-10-21T00:00:00+00:00"
+      }
+    ]
+  }
 }

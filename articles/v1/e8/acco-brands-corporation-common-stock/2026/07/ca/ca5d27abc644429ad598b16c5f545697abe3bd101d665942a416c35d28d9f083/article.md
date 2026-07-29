@@ -7,7 +7,7 @@ source_id: "acco-brands-corporation-common-stock-rss-92734c555b09"
 canonical_url: "https://ir.accobrands.com/news/news-details/2026/ACCO-Brands-Corporation-Announces-Second-Quarter-2026-Earnings-Webcast/default.aspx"
 published_at: "2026-07-22T11:00:00+00:00"
 first_seen_at: "2026-07-26T21:46:03.374935+00:00"
-fetched_at: "2026-07-28T20:24:04.256406+00:00"
+fetched_at: "2026-07-28T23:08:41.981300+00:00"
 content_hash: "sha256:0b52f5206e003b20dad9a7bee5d5def61d99bd8095d6bd578066ed1a14aa32bd"
 ---
 

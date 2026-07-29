@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2022/Vertivs-Fourth-Quarter-Challenged-by-Inflationary-and-Supply-Chain-Pressures-Expect-Pricing-Actions-Taken-to-Generate-Strong-Second-Half-2022-and-Provide-Momentum-Into-2023/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T20:39:59.455460+00:00"
+fetched_at: "2026-07-28T23:23:56.894710+00:00"
 content_hash: "sha256:13cf4406f8ea6d59fd791054b88839a46c297f20903e28f0fb1b3762f869db2c"
 ---
 

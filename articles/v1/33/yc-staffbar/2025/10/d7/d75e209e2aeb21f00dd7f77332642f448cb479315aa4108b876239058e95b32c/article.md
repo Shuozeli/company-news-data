@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/this-app-makes-usd2m-year-using-this-ridiculously-easy-strategy"
-published_at: "2025-10-15T19:29:21.142+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:b28997fa00543c55e621333c9a8d57c18ae183a04c465931578a9b5f020b08c8"

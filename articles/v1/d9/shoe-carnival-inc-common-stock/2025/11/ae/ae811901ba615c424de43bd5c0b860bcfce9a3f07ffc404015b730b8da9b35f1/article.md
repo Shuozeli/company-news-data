@@ -7,7 +7,7 @@ source_id: "shoe-carnival-inc-common-stock-rss-066a5ac40f71"
 canonical_url: "https://investors.shoecarnival.com/news/news-details/2025/Shoe-Carnival-Reports-Third-Quarter-Results-Reaffirms-Fiscal-2025-Outlook/default.aspx"
 published_at: "2025-11-20T11:10:00+00:00"
 first_seen_at: "2026-07-25T22:52:29.471785+00:00"
-fetched_at: "2026-07-28T21:35:52.328135+00:00"
+fetched_at: "2026-07-29T00:25:35.973785+00:00"
 content_hash: "sha256:daa82412ac95480a7fc7bf36f5ebfdbe8fdbd6007ea61a55b202d39aec560f1c"
 ---
 

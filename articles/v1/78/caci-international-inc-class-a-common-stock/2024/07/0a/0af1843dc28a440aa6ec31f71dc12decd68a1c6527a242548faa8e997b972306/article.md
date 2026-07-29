@@ -7,7 +7,7 @@ source_id: "caci-international-inc-class-a-common-stock-rss-5a63f98b2d44"
 canonical_url: "https://www.caci.com/mission-and-engineering-support"
 published_at: "2024-07-15T14:54:06+00:00"
 first_seen_at: "2026-07-25T01:09:46.458624+00:00"
-fetched_at: "2026-07-28T22:01:01.349494+00:00"
+fetched_at: "2026-07-29T00:39:44.891627+00:00"
 content_hash: "sha256:bc26ac422549708e270d9c8ab2ca50cf3fab04dec9eff69dfb44102f41e486f6"
 ---
 

@@ -7,7 +7,7 @@ source_id: "siteone-landscape-supply-inc-common-stock-rss-d008eb320a02"
 canonical_url: "https://investors.siteone.com/news-releases/2026/06-17-2026-210510594"
 published_at: "2026-06-17T21:05:00+00:00"
 first_seen_at: "2026-07-25T23:14:40.098564+00:00"
-fetched_at: "2026-07-28T20:51:17.366774+00:00"
+fetched_at: "2026-07-28T23:37:17.641982+00:00"
 content_hash: "sha256:44c021e50d64b1862ab532aca49032321532cb1221720bc13a66f227a5a5193e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ge-vernova-inc-common-stock-rss-7c51d258e120"
 canonical_url: "https://www.gevernova.com/investors/events/1st-quarter-2026-earnings-webcast"
 published_at: "2026-01-28T13:31:50+00:00"
 first_seen_at: "2026-07-20T23:21:29.268016+00:00"
-fetched_at: "2026-07-28T21:29:52.808631+00:00"
+fetched_at: "2026-07-29T00:29:33.959606+00:00"
 content_hash: "sha256:6c90f3cb5fb5c1dbb25d14a50042245f80a06b5abead5550c894847939f07745"
 ---
 

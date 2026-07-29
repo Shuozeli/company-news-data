@@ -20,5 +20,112 @@
       "partition": "2026-07",
       "record_count": 97
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/53/yc-anglera/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50661,
+        "sha256": "sha256:6987ab4fff5b8523095213ad306f834ec4cfeb9ce02062d4d172ecfad4e2eaee",
+        "newest_at": "2026-07-24T00:00:00+00:00",
+        "oldest_at": "2026-07-08T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/53/yc-anglera/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 50280,
+        "sha256": "sha256:f036468312f5a8a47c53988ec551bcb7fce24cc01406f12a4f7016a21f96b3b1",
+        "newest_at": "2026-07-08T00:00:00+00:00",
+        "oldest_at": "2026-06-30T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/53/yc-anglera/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 49998,
+        "sha256": "sha256:e90b3549d152e80e6900e12921a955f555ce77f07aee26f1c16e1b264f3f9e15",
+        "newest_at": "2026-06-30T00:00:00+00:00",
+        "oldest_at": "2026-06-23T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/53/yc-anglera/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 50415,
+        "sha256": "sha256:79b8aa09b2ce1bd1d8a99a0204e61b9fcb1981fe576494a0422688c87f772343",
+        "newest_at": "2026-06-23T00:00:00+00:00",
+        "oldest_at": "2026-06-19T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/53/yc-anglera/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 50366,
+        "sha256": "sha256:c942e434ddccf254cd1aaecad38bd3a95f8f51b5393a29c11d18fa2d0810dba7",
+        "newest_at": "2026-06-19T00:00:00+00:00",
+        "oldest_at": "2026-06-14T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/53/yc-anglera/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 50222,
+        "sha256": "sha256:ce0b58c46b81b03feed43ca13546c2a0a49848e32e4f564935259103aab456f4",
+        "newest_at": "2026-06-14T00:00:00+00:00",
+        "oldest_at": "2026-06-09T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/53/yc-anglera/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 50316,
+        "sha256": "sha256:8cab4baef0811a9b56433453d1be5c536cc2eff95da92947cbe95220cc56b362",
+        "newest_at": "2026-06-09T00:00:00+00:00",
+        "oldest_at": "2026-06-05T00:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/53/yc-anglera/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 50249,
+        "sha256": "sha256:61f235fdac3d2742b84093f681638f30e564afea152e3a87b5cd715dd1925f0c",
+        "newest_at": "2026-06-05T00:00:00+00:00",
+        "oldest_at": "2026-05-30T00:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/53/yc-anglera/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 50315,
+        "sha256": "sha256:1853ef620ead2b37dcb2efa47229ec198a1c2a4e4cad02f8e929f3e1471366b5",
+        "newest_at": "2026-05-30T00:00:00+00:00",
+        "oldest_at": "2026-05-25T00:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/53/yc-anglera/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 50203,
+        "sha256": "sha256:366670bb9e2be3e60d39a37412ca6ba616853884c15b83fd3e6c3d6c0bfa0376",
+        "newest_at": "2026-05-25T00:00:00+00:00",
+        "oldest_at": "2026-05-20T00:00:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/53/yc-anglera/index/pages/000011.json",
+        "record_count": 7,
+        "byte_count": 7233,
+        "sha256": "sha256:269d4731a1d3e5eea0a9196ba398c04050e296b9ae8f4b6a27675506f425bf69",
+        "newest_at": "2026-05-20T00:00:00+00:00",
+        "oldest_at": "2026-05-19T00:00:00+00:00"
+      }
+    ]
+  }
 }

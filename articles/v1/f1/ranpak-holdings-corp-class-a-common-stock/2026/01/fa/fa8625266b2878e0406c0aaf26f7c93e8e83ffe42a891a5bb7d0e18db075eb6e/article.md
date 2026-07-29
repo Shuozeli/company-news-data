@@ -7,7 +7,7 @@ source_id: "ranpak-holdings-corp-class-a-common-stock-rss-8367eef6d63e"
 canonical_url: "https://ir.ranpak.com/news/news-details/2026/Ranpak-and-Medline-Partner-to-Advance-Automation-and-Sustainable-Packaging-Across-High-Volume-Distribution-Operations/default.aspx"
 published_at: "2026-01-13T13:00:00+00:00"
 first_seen_at: "2026-07-25T20:30:13.861563+00:00"
-fetched_at: "2026-07-28T21:51:40.290001+00:00"
+fetched_at: "2026-07-29T00:21:54.251771+00:00"
 content_hash: "sha256:baa4eba9f9711650fc971b719e335d4db69ea4b2340563c28629336d7c98b9c4"
 ---
 

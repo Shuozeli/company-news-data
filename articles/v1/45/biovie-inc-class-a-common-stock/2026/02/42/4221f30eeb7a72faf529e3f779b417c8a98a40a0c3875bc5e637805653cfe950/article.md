@@ -7,7 +7,7 @@ source_id: "biovie-inc-class-a-common-stock-rss-32c9519c74eb"
 canonical_url: "https://investors.bioviepharma.com/news/news-details/2026/Join-Biovies-Exclusive-Live-Investor-Webinar-and-QA-Session-on-March-4/default.aspx"
 published_at: "2026-02-23T13:00:00+00:00"
 first_seen_at: "2026-07-26T23:43:30.488855+00:00"
-fetched_at: "2026-07-28T20:33:43.246432+00:00"
+fetched_at: "2026-07-28T23:18:41.364377+00:00"
 content_hash: "sha256:c349919dc8307f6badb539b3cae2ae1b1775698345c8fdbc66c6d8367f928f71"
 ---
 

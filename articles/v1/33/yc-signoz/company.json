@@ -16,5 +16,112 @@
       "partition": "2026-07",
       "record_count": 156
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/33/yc-signoz/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 48486,
+        "sha256": "sha256:24092f51fb8f34c8e74ef617d0018dabd890498b842d95ac7a7f2c74160eb9e9",
+        "newest_at": "2026-07-24T00:00:00+00:00",
+        "oldest_at": "2026-07-14T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/33/yc-signoz/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 48599,
+        "sha256": "sha256:a0958124cbc7e83db406e7f70595250aa8f8c64c4b2a3c4f369b0e62d5a1d930",
+        "newest_at": "2026-07-14T00:00:00+00:00",
+        "oldest_at": "2026-07-08T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/33/yc-signoz/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 49147,
+        "sha256": "sha256:eb4eb0d152a84bedb2f7c9e7e50614347f932de8ffab858b63dc880f665aefeb",
+        "newest_at": "2026-07-08T00:00:00+00:00",
+        "oldest_at": "2026-07-02T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/33/yc-signoz/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 49038,
+        "sha256": "sha256:1f55f7bbc0079f6ca98d73a931712a7f110646147a5d18f9c699eb45ff95b384",
+        "newest_at": "2026-07-01T00:00:00+00:00",
+        "oldest_at": "2026-06-29T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/33/yc-signoz/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 48779,
+        "sha256": "sha256:9f6bbae19e2ff78de73b36caa9035e345399f61f7c7b453ca9691d84f897cd5a",
+        "newest_at": "2026-06-29T00:00:00+00:00",
+        "oldest_at": "2026-06-27T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/33/yc-signoz/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 48682,
+        "sha256": "sha256:e3e9780ddc01b94ccc25d2272029f9f951c6a9436cd1f2b04e910c1af8825676",
+        "newest_at": "2026-06-27T00:00:00+00:00",
+        "oldest_at": "2026-06-25T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/33/yc-signoz/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 49267,
+        "sha256": "sha256:3a6ff19513af2a162c1e02836e2515eddc954eb65300d71d648340737f2ff7b6",
+        "newest_at": "2026-06-25T00:00:00+00:00",
+        "oldest_at": "2026-06-23T00:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/33/yc-signoz/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 48532,
+        "sha256": "sha256:e72311bdd13f087c040ccf0898bf5caafe27fc05019980e6e617e51cf3f54cc8",
+        "newest_at": "2026-06-23T00:00:00+00:00",
+        "oldest_at": "2026-06-22T00:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/33/yc-signoz/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 48219,
+        "sha256": "sha256:47c1794de0fe401540f3e5b4fac3b3bd8e9635ed05ef30e6423d086412bd6f66",
+        "newest_at": "2026-06-22T00:00:00+00:00",
+        "oldest_at": "2026-06-17T00:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/33/yc-signoz/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 48387,
+        "sha256": "sha256:c507423e024a1c3bee0a0cf3b295c2263498d408dd9e3c28dff43f84fa922baa",
+        "newest_at": "2026-06-17T00:00:00+00:00",
+        "oldest_at": "2026-06-11T00:00:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/33/yc-signoz/index/pages/000011.json",
+        "record_count": 10,
+        "byte_count": 9619,
+        "sha256": "sha256:ff0e54af712e7803c598bd544bea8547ffd5e902d14f063ebd62d580c2158c4b",
+        "newest_at": "2026-06-11T00:00:00+00:00",
+        "oldest_at": "2026-06-11T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "yc-opentrons-rss-767f8d415bdd"
 canonical_url: "https://opentrons.com/archives/news/opentrons-global-robotics-chief-james-atwood-named-chief-executive-officer"
 published_at: "2026-01-29T13:28:49+00:00"
 first_seen_at: "2026-07-25T17:41:16.998093+00:00"
-fetched_at: "2026-07-28T20:46:22.642271+00:00"
+fetched_at: "2026-07-28T23:27:55.051365+00:00"
 content_hash: "sha256:a83cad65522369ae786baea737025f29fd87f3d86258c1ab55a31c7c5ca6f730"
 ---
 

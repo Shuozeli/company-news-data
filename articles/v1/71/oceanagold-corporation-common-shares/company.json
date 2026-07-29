@@ -56,5 +56,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/71/oceanagold-corporation-common-shares/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 24897,
+        "sha256": "sha256:4cd456c15d07e5683bd0ce4a6c43d8eaae210710d9f5974cd256a377f620bd11",
+        "newest_at": "2026-07-22T11:00:00+00:00",
+        "oldest_at": "2025-08-06T21:00:00+00:00"
+      }
+    ]
+  }
 }

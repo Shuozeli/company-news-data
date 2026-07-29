@@ -12,5 +12,22 @@
       "partition": "2015-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/dc/euroholdings-ltd-common-stock/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1431,
+        "sha256": "sha256:ae19d22844a958846c03ede724a0a5328b49117542584682d0bdee21f18d9388",
+        "newest_at": "2015-05-06T15:00:06+00:00",
+        "oldest_at": "2015-05-06T15:00:06+00:00"
+      }
+    ]
+  }
 }

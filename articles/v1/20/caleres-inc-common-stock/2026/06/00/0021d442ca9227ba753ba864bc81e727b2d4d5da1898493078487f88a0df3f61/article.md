@@ -7,7 +7,7 @@ source_id: "caleres-inc-common-stock-rss-0c861d034a87"
 canonical_url: "https://investor.caleres.com/news/news-details/2026/Caleres-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-06-04T10:45:00+00:00"
 first_seen_at: "2026-07-26T11:02:23.481129+00:00"
-fetched_at: "2026-07-28T20:20:13.690507+00:00"
+fetched_at: "2026-07-28T23:04:00.387019+00:00"
 content_hash: "sha256:9fe2a419ecab8573d08ca6ee195ea85fde0bc2a7661a9c1a33569d518d1d45ef"
 ---
 

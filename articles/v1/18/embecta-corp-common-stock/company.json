@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/18/embecta-corp-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13025,
+        "sha256": "sha256:c87dd765d5e05d803126b6726ddf0b572d96ad2c685c542a67d11bb52164229f",
+        "newest_at": "2026-07-23T21:00:10+00:00",
+        "oldest_at": "2026-02-11T21:10:48+00:00"
+      }
+    ]
+  }
 }

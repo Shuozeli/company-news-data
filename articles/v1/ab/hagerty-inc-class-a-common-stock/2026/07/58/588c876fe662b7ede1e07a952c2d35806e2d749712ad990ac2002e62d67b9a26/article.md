@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/market-trends/hagerty-insider/2025-bugatti-mistral-for-sale-broad-arrow-auction/"
 published_at: "2026-07-27T14:00:00+00:00"
 first_seen_at: "2026-07-27T14:14:22.491446+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:29e6c06a28e31b48e29b97aaa21ae4bcd39e3e59ba9830b1b3a53d528305b60d"
 ---
 

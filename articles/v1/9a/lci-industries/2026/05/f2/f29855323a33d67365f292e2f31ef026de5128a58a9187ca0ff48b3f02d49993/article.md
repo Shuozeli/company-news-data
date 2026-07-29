@@ -7,7 +7,7 @@ source_id: "lci-industries-rss-49d48e881163"
 canonical_url: "https://investors.lci1.com/news/news-details/2026/LCI-Industries-and-Patrick-Industries-Terminate-Discussions-Regarding-Potential-Merger-of-Equals/default.aspx"
 published_at: "2026-05-04T12:00:00+00:00"
 first_seen_at: "2026-07-25T11:47:01.499081+00:00"
-fetched_at: "2026-07-28T22:02:48.331768+00:00"
+fetched_at: "2026-07-29T00:40:59.574796+00:00"
 content_hash: "sha256:fbd8b857cda5767fd94e9771c7be60b255610e5b405d216be2d3a6077c7651e2"
 ---
 

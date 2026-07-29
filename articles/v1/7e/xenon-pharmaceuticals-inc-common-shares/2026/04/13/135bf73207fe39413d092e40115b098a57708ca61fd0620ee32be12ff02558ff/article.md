@@ -7,7 +7,7 @@ source_id: "xenon-pharmaceuticals-inc-common-shares-rss-ced94993fad9"
 canonical_url: "https://investor.xenon-pharma.com/news-releases/news-release-details/results-phase-3-x-tole2-study-evaluating-azetukalner-novel"
 published_at: "2026-04-19T22:00:00+00:00"
 first_seen_at: "2026-07-26T05:59:47.666721+00:00"
-fetched_at: "2026-07-28T20:22:25.506420+00:00"
+fetched_at: "2026-07-28T23:05:59.292362+00:00"
 content_hash: "sha256:0d49f606d1ee63eec9c4c76891b1db04c0fef8bbc56c78fd4542b03e1526ba5b"
 ---
 

@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/32/freightos-limited-ordinary-shares/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 30497,
+        "sha256": "sha256:113f3304d31dd33af885089cfbdceb877f7c89c8c55049dba89d6d04a4099a2b",
+        "newest_at": "2026-07-28T11:01:05+00:00",
+        "oldest_at": "2026-03-12T11:02:16+00:00"
+      }
+    ]
+  }
 }

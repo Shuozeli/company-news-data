@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/reforma-fiscal-2026"
 published_at: "2026-01-19T15:42:00+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:dad8b8780cbde4c78f1a31cde90cefa6e741b8f69914639e920f127af05355f6"
 ---
 

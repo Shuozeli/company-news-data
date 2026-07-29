@@ -12,5 +12,22 @@
       "partition": "2019-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2e/amtd-digital-inc-american-depositary-shares-every-five-of-which-represent-two-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 2826,
+        "sha256": "sha256:ff9dc4fec7ec91117454890151c06480c09beb438ae49125efe8a2e13a6ba2cb",
+        "newest_at": "2019-05-09T06:46:31+00:00",
+        "oldest_at": "2019-05-09T06:46:31+00:00"
+      }
+    ]
+  }
 }

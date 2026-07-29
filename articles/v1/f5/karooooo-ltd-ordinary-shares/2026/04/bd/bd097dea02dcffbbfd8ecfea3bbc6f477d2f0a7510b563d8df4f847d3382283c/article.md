@@ -7,7 +7,7 @@ source_id: "karooooo-ltd-ordinary-shares-rss-90fe8cb4cf55"
 canonical_url: "https://karooooo.com/press-release/cartrack-and-maharishi-invincibility-institute-partner-to-build-long-term-skills-and-employment-pathways-for-south-africas-youth/"
 published_at: "2026-04-14T07:10:51+00:00"
 first_seen_at: "2026-07-20T23:17:55.333800+00:00"
-fetched_at: "2026-07-28T21:23:37.259877+00:00"
+fetched_at: "2026-07-29T00:12:19.960855+00:00"
 content_hash: "sha256:d25e6feba7e3b5974cb3d9eca1030ca56956cee2f57028372a7308dc4463dd9d"
 ---
 

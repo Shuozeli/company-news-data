@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/from-seed-to-fork-above-food-is-bringing-sustainable-food-to-your-table/"
 published_at: "2021-05-04T21:39:49+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-28T22:04:53.214634+00:00"
+fetched_at: "2026-07-29T00:43:09.170627+00:00"
 content_hash: "sha256:d694e739e7490b847b3814b8d5cf40f8dd91f4bc30278c3965371673b1e757ca"
 ---
 

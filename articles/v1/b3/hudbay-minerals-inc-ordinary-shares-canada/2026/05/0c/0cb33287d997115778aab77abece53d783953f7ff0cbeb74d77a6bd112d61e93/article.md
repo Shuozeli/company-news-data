@@ -7,7 +7,7 @@ source_id: "hudbay-minerals-inc-ordinary-shares-canada-rss-c4096adde97b"
 canonical_url: "https://hudbayminerals.com/investors/press-releases/press-release-details/2026/Hudbay-Announces-First-Quarter-2026-Results-and-Delivers-Record-Quarterly-Revenue-and-Adjusted-EBITDA/default.aspx"
 published_at: "2026-05-01T10:00:00+00:00"
 first_seen_at: "2026-07-25T08:33:11.818329+00:00"
-fetched_at: "2026-07-28T20:05:10.042348+00:00"
+fetched_at: "2026-07-28T23:54:13.555520+00:00"
 content_hash: "sha256:8399499f4e4bfe3019dd7bb3c0602f2ce30a6f75a2ba5cff2dc6894b48d81191"
 ---
 

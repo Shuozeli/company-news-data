@@ -7,7 +7,7 @@ source_id: "lindblad-expeditions-holdings-inc-common-stock-rss-e763d68c22ca"
 canonical_url: "https://investors.expeditions.com/press-releases/news-details/2026/LINDBLAD-EXPEDITIONS-HOLDINGS-INC--TO-REPORT-2025-FOURTH-QUARTER-AND-FULL-YEAR-FINANCIAL-RESULTS-ON-FEBRUARY-26-2026/default.aspx"
 published_at: "2026-02-17T13:00:00+00:00"
 first_seen_at: "2026-07-25T12:25:47.782802+00:00"
-fetched_at: "2026-07-28T20:50:37.817567+00:00"
+fetched_at: "2026-07-28T23:35:54.763225+00:00"
 content_hash: "sha256:2aa69f31ced75232111add45961f58679c9d0d86459c9edbbbc8269af083bd75"
 ---
 

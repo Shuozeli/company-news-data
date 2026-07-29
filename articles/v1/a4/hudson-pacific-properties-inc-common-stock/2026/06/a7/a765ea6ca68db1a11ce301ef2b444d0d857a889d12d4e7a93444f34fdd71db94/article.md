@@ -7,7 +7,7 @@ source_id: "hudson-pacific-properties-inc-common-stock-rss-348072d19ba0"
 canonical_url: "https://investors.hudsonpacificproperties.com/investor-resources/press-releases/press-release-details/2026/Hudson-Pacific-Executes-502000-Square-Foot-23-Year-Lease-with-City-and-County-of-San-Francisco-at-1455-Market/default.aspx"
 published_at: "2026-06-11T13:00:00+00:00"
 first_seen_at: "2026-07-25T08:33:12.400252+00:00"
-fetched_at: "2026-07-28T20:04:26.665506+00:00"
+fetched_at: "2026-07-28T23:53:39.931348+00:00"
 content_hash: "sha256:19778aa86b41aa2e5298337b50d3af2ae08b27d509176edf5616555a808b5a8c"
 ---
 

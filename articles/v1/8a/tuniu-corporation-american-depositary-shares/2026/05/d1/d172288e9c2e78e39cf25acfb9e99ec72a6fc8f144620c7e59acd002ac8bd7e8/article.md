@@ -7,7 +7,7 @@ source_id: "tuniu-corporation-american-depositary-shares-rss-680deb8ac97f"
 canonical_url: "https://ir.tuniu.com/2026-05-14-Tuniu-to-Report-First-Quarter-2026-Financial-Results-on-June-5,-2026"
 published_at: "2026-05-14T06:00:00+00:00"
 first_seen_at: "2026-07-20T23:19:54.003826+00:00"
-fetched_at: "2026-07-28T22:06:30.498138+00:00"
+fetched_at: "2026-07-29T00:44:52.266067+00:00"
 content_hash: "sha256:39de9b10322e233f9c4ca50fa3f1c899c20ca3fd47669ee5d2c57f143d22b23b"
 ---
 

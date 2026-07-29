@@ -7,7 +7,7 @@ source_id: "tsakos-energy-navigation-ltd-common-shares-rss-de2a2f5a42c3"
 canonical_url: "https://www.tenn.gr/dr-nikolas-tsakos-founder-ceo-of-ten-ltd-interview-on-fox-business-network/"
 published_at: "2024-05-18T17:02:15+00:00"
 first_seen_at: "2026-07-20T23:18:34.965179+00:00"
-fetched_at: "2026-07-28T21:46:52.715371+00:00"
+fetched_at: "2026-07-29T00:29:53.385856+00:00"
 content_hash: "sha256:1ff4138ff2f8c6cb24e96f58b1589d47639866e0f5db24892bbdd07d2aeace5a"
 ---
 

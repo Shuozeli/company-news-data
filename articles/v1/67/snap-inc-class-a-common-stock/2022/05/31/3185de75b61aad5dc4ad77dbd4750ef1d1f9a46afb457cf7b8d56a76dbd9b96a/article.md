@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/stomp-out-bad-metrics"
 published_at: "2022-05-12T19:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T20:38:20.120259+00:00"
+fetched_at: "2026-07-28T23:22:34.016732+00:00"
 content_hash: "sha256:1dd5b2bb32872c286ec72508f6fc48c7605143f0417fc14c0f9f77cbf878cf7c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/lionel-kambeitz-of-above-food-5-things-i-wish-someone-told-me-before-i-became-a-founder/"
 published_at: "2022-02-23T00:30:51+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-28T22:04:53.214634+00:00"
+fetched_at: "2026-07-29T00:43:09.170627+00:00"
 content_hash: "sha256:1f2592c074b36087d54be9aa0366fcb099efee3d4674ae58e2b5fb651b4e6e1d"
 ---
 

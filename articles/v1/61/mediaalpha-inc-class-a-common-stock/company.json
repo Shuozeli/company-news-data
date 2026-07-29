@@ -56,5 +56,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/61/mediaalpha-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 24738,
+        "sha256": "sha256:643c9ae209d6d1935118c547d711a1c350aa6369f9f1e04bab4396c375d9328c",
+        "newest_at": "2026-07-08T20:05:31+00:00",
+        "oldest_at": "2016-12-13T20:49:00+00:00"
+      }
+    ]
+  }
 }

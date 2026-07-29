@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/part-2-how-to-design-a-viral-app-in-2025"
-published_at: "2025-01-27T19:59:07.208+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:8abe3ec4b62e2e264401e5f39c646d9e9fb5ad0a17240f7ab7b7596bce46dff7"

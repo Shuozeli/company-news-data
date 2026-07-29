@@ -7,7 +7,7 @@ source_id: "workday-inc-class-a-common-stock-rss-1edd291cea4c"
 canonical_url: "https://medium.com/workday-engineering/beyond-chatbots-the-next-wave-of-enterprise-ai-agents-is-ambient-c3f928eff985"
 published_at: "2026-07-17T21:12:31+00:00"
 first_seen_at: "2026-07-20T04:35:52.231186+00:00"
-fetched_at: "2026-07-28T20:59:51.248397+00:00"
+fetched_at: "2026-07-28T23:46:42.543802+00:00"
 content_hash: "sha256:0d32f718a51cd4451ba55beae0c9316201945b7fc36a1ff101dee75d9a5fa810"
 ---
 

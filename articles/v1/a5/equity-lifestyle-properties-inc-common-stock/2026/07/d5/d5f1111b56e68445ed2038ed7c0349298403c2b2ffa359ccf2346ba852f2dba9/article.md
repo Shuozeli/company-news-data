@@ -7,7 +7,7 @@ source_id: "equity-lifestyle-properties-inc-common-stock-rss-a4c7415067a9"
 canonical_url: "https://equitylifestyle.gcs-web.com/news-releases/news-release-details/els-reports-second-quarter-results-19"
 published_at: "2026-07-22T20:16:00+00:00"
 first_seen_at: "2026-07-27T02:11:25.582387+00:00"
-fetched_at: "2026-07-28T21:40:01.341386+00:00"
+fetched_at: "2026-07-29T00:05:44.713129+00:00"
 content_hash: "sha256:3ad69cc48aeb1bae8101508ee0839360dfb3ba189840a7e3e0ed81fed281f734"
 ---
 

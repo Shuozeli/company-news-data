@@ -7,7 +7,7 @@ source_id: "ziff-davis-inc-common-stock-rss-97915001e723"
 canonical_url: "https://www.ziffdavis.com/about/news/retailmenot-kicks-off-first-ever-summer-issue-new-chief-capri-officer-search-get-paid-to-shop-style-the-seasons-hottest-fashion-trend"
 published_at: "2026-06-04T11:29:31+00:00"
 first_seen_at: "2026-07-24T08:06:25.970573+00:00"
-fetched_at: "2026-07-28T19:33:34.461559+00:00"
+fetched_at: "2026-07-28T22:57:55.158764+00:00"
 content_hash: "sha256:5765c41f661f18336beb90320965008c4b135b5c7e6b4fd42d4b87613854ce81"
 ---
 

@@ -7,7 +7,7 @@ source_id: "nlight-inc-common-stock-rss-e6d45f288d48"
 canonical_url: "https://investors.nlight.net/news-releases/news-details/2026/nLIGHT-Inc--to-Showcase-High-Energy-Laser-Weapon-Solutions-at-2026-Pacific-Operational-Science--Technology-Conference/default.aspx"
 published_at: "2026-03-02T13:05:00+00:00"
 first_seen_at: "2026-07-25T16:22:51.371933+00:00"
-fetched_at: "2026-07-28T20:55:35.410504+00:00"
+fetched_at: "2026-07-28T23:41:40.377684+00:00"
 content_hash: "sha256:53b6dafd3f899fcc88016cb0092b69fda5f4b46dfdf074287a9f2b4ebfdae70e"
 ---
 

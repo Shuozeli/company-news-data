@@ -440,5 +440,112 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/48/yc-apollo/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 48736,
+        "sha256": "sha256:23b4d4a05bacaddc38ed6b2194907028035f359ebba35425f4285412f3002144",
+        "newest_at": "2026-07-27T09:00:00+00:00",
+        "oldest_at": "2025-09-02T08:21:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/48/yc-apollo/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 45199,
+        "sha256": "sha256:90086291296e79e243074f720702253c8a1c62c64e5375caefc1d80a1ee320d8",
+        "newest_at": "2025-08-12T09:00:00+00:00",
+        "oldest_at": "2024-06-12T08:55:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/48/yc-apollo/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 43884,
+        "sha256": "sha256:5fccba7639242d0d01dfaea53628d57ba0e19e89235fc6086ae3b64d4a1830d1",
+        "newest_at": "2024-06-04T13:17:46+00:00",
+        "oldest_at": "2023-08-07T12:07:43+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/48/yc-apollo/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 42998,
+        "sha256": "sha256:01ef98f7360e2583ff883c7ab6fffc2590bf2e7930989bbc7c343479ebbfafcf",
+        "newest_at": "2023-07-31T13:51:52+00:00",
+        "oldest_at": "2023-03-07T08:32:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/48/yc-apollo/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 42956,
+        "sha256": "sha256:e200ecd036e4090eb63c857211b4a1cb0d118a6c3f14d4babcefc22aafcee792",
+        "newest_at": "2023-03-06T19:38:51+00:00",
+        "oldest_at": "2022-06-14T08:53:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/48/yc-apollo/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 43101,
+        "sha256": "sha256:b6f25a7d654310eab9078bfcf5a7d1a0f9dcae98487252f44c7167b68ab97365",
+        "newest_at": "2022-06-09T09:24:00+00:00",
+        "oldest_at": "2021-09-07T12:18:58+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/48/yc-apollo/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 42938,
+        "sha256": "sha256:6d12261801a376db89eba7b744627b51aef58b93f9cbf6370524528e52283e88",
+        "newest_at": "2021-09-03T10:10:37+00:00",
+        "oldest_at": "2020-11-16T14:57:04+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/48/yc-apollo/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 42663,
+        "sha256": "sha256:896592252ad128bd0bd4f5d811d2d594d1cad0cdbb9031b559464158d8620b51",
+        "newest_at": "2020-11-12T11:25:01+00:00",
+        "oldest_at": "2019-04-16T21:56:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/48/yc-apollo/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 42293,
+        "sha256": "sha256:cf2b9735fbe4fe11aee0f8dc19952c748a3f20eff25fcb5d5ad8ddc4b78ad711",
+        "newest_at": "2019-04-01T21:58:00+00:00",
+        "oldest_at": "2018-01-25T22:05:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/48/yc-apollo/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 42598,
+        "sha256": "sha256:ebce4a428bb1a4247e6bf729bda385f44a96356e359170c6c353d197cd09ed55",
+        "newest_at": "2018-01-04T22:07:36+00:00",
+        "oldest_at": "2017-06-13T23:52:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/48/yc-apollo/index/pages/000011.json",
+        "record_count": 9,
+        "byte_count": 7895,
+        "sha256": "sha256:61ebe1c79e0c6b44665a3d77624fd2ef3f891ccce4721074bab6c6126f2fe926",
+        "newest_at": "2017-06-09T23:58:00+00:00",
+        "oldest_at": "2017-05-16T01:01:19+00:00"
+      }
+    ]
+  }
 }

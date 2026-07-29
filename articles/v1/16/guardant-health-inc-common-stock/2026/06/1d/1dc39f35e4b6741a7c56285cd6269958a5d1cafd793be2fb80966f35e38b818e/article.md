@@ -7,7 +7,7 @@ source_id: "guardant-health-inc-common-stock-rss-fb6215599895"
 canonical_url: "https://guardanthealth.com/2026/06/26/patrick-dempsey-raises-awareness-for-mens-health/"
 published_at: "2026-06-26T14:35:16+00:00"
 first_seen_at: "2026-07-20T23:21:46.463762+00:00"
-fetched_at: "2026-07-28T20:28:11.382227+00:00"
+fetched_at: "2026-07-28T23:14:42.692011+00:00"
 content_hash: "sha256:dd5f3b041efa614bcdd5f7c48714f4a735d3b8065676bf1014ff350131264930"
 ---
 

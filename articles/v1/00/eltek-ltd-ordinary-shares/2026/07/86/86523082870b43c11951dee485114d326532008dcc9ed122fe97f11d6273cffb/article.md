@@ -7,7 +7,7 @@ source_id: "eltek-ltd-ordinary-shares-rss-46b7bb6c744b"
 canonical_url: "https://www.nisteceltek.com/notice-of-annual-general-meeting-of-shareholders-11-8-2026/"
 published_at: "2026-07-02T04:56:34+00:00"
 first_seen_at: "2026-07-25T02:10:06.936515+00:00"
-fetched_at: "2026-07-28T20:49:40.716799+00:00"
+fetched_at: "2026-07-28T23:34:42.862462+00:00"
 content_hash: "sha256:ce86c3100aafcdbec41e8cf5c4725ec9f6ae532afcbbf04c4a4955d482001638"
 ---
 

@@ -7,7 +7,7 @@ source_id: "werewolf-therapeutics-inc-common-stock-rss-64f3e2a901a7"
 canonical_url: "https://werewolftx.com/tbd/"
 published_at: "2025-12-18T07:07:54+00:00"
 first_seen_at: "2026-07-25T03:24:19.883404+00:00"
-fetched_at: "2026-07-28T20:49:46.144030+00:00"
+fetched_at: "2026-07-28T23:35:32.822839+00:00"
 content_hash: "sha256:105b205eb4612ca15d9ea43671f8334cb7a8d320b9d9617960291e534c1bf727"
 ---
 

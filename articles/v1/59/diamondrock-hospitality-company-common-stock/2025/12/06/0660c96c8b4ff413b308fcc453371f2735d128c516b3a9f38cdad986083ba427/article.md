@@ -7,7 +7,7 @@ source_id: "diamondrock-hospitality-company-common-stock-rss-0cf57d65d302"
 canonical_url: "https://investor.drhc.com/news-releases/news-release-details/diamondrock-hospitality-declares-fourth-quarter-dividend"
 published_at: "2025-12-03T12:30:00+00:00"
 first_seen_at: "2026-07-26T12:58:00.261237+00:00"
-fetched_at: "2026-07-28T21:48:51.399344+00:00"
+fetched_at: "2026-07-29T00:16:42.112994+00:00"
 content_hash: "sha256:e52b79733195513d8912b346351e5882b23d8987d7aeab51ae00c6b6c85ab1a7"
 ---
 

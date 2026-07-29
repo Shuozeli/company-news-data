@@ -7,7 +7,7 @@ source_id: "j-long-group-limited-class-a-ordinary-shares-rss-f100273bc0f8"
 canonical_url: "https://investors.j-long.com/j-long-group-limited-announces-share-consolidation-reverse-stock-split-to-regain-nasdaq-compliance/"
 published_at: "2024-11-22T10:00:22+00:00"
 first_seen_at: "2026-07-27T03:16:23.483706+00:00"
-fetched_at: "2026-07-28T21:12:33.738594+00:00"
+fetched_at: "2026-07-28T23:58:05.766082+00:00"
 content_hash: "sha256:4422e2b0fddcce0b8ede60bfea1aaad880575105f98e86b07e3e9afe51816d2c"
 ---
 

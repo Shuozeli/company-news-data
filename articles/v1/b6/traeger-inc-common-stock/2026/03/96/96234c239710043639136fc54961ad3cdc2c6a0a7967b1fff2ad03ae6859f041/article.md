@@ -7,7 +7,7 @@ source_id: "traeger-inc-common-stock-rss-70c73374ae67"
 canonical_url: "https://investors.traeger.com/news/news-details/2026/Traeger-Announces-1-for-50-Reverse-Stock-Split/default.aspx"
 published_at: "2026-03-12T21:23:00+00:00"
 first_seen_at: "2026-07-26T02:53:33.368624+00:00"
-fetched_at: "2026-07-28T19:34:06.344854+00:00"
+fetched_at: "2026-07-28T23:00:33.472157+00:00"
 content_hash: "sha256:d5987846f308facc6c4467245c33ead9edd13901cfc4f4887f33129c511aa195"
 ---
 

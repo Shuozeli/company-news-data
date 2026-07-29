@@ -7,7 +7,7 @@ source_id: "provident-financial-holdings-inc-common-stock-rss-ee20cb8c7510"
 canonical_url: "https://ir.myprovident.com/news-presentations/news/press-release/2026/Provident-Bank-Named-One-of-Americas-Best-Regional-Banks-for-2026-by-Newsweek/default.aspx"
 published_at: "2026-01-28T18:39:00+00:00"
 first_seen_at: "2026-07-25T20:04:41.172992+00:00"
-fetched_at: "2026-07-28T20:48:14.093492+00:00"
+fetched_at: "2026-07-28T23:33:30.570830+00:00"
 content_hash: "sha256:c1f53d893ebc0c05e7caf3422977eeecebae438ea5efacd0cdba0a9eb1b7774b"
 ---
 

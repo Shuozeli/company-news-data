@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2019/digi-to-present-at-the-needham-growth-conference"
 published_at: "2019-01-14T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:47e31cadee6e6b146a9385f1df53196c84b7d3ed35b4f734d9027ecc581347f2"
 ---
 

@@ -5,7 +5,7 @@ company_key: "yc-sift"
 company: "Sift"
 source_id: "yc-sift-rss-c48c6d88eecb"
 canonical_url: "https://sift.com/blog/payment-fraud-prevention-a-tactical-guide-for-fraud-teams/"
-published_at: "2026-07-03T20:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:24:10.644571+00:00"
 fetched_at: "2026-07-28T20:34:24.680558+00:00"
 content_hash: "sha256:afd197ac89d00b7d3bdcb35ff85e4efa3a976b6586c5d051d814457f490431ca"

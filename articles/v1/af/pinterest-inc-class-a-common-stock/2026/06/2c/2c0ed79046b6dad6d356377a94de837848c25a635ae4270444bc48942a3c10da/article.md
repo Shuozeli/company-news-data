@@ -7,7 +7,7 @@ source_id: "pinterest-inc-class-a-common-stock-rss-45b43224fdd9"
 canonical_url: "https://medium.com/pinterest-engineering/achieving-near-linear-training-scalability-for-pinterests-foundation-models-14d4f59fe6f6"
 published_at: "2026-06-25T16:01:02+00:00"
 first_seen_at: "2026-07-20T04:35:24.920473+00:00"
-fetched_at: "2026-07-28T21:03:21.681844+00:00"
+fetched_at: "2026-07-28T23:50:26.205888+00:00"
 content_hash: "sha256:4f5961284acebba9fe6c451036c2867b27df4f110d25ec2dc053a91a16a02df1"
 ---
 

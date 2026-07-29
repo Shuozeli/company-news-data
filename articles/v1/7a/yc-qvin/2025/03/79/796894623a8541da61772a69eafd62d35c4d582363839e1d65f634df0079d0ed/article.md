@@ -7,7 +7,7 @@ source_id: "yc-qvin-rss-bbf1ad0fe0ce"
 canonical_url: "https://qvin.com/i-am-a-blog-post-title/"
 published_at: "2025-03-17T17:07:47+00:00"
 first_seen_at: "2026-07-20T23:20:56.056268+00:00"
-fetched_at: "2026-07-28T20:14:07.805016+00:00"
+fetched_at: "2026-07-28T22:56:49.388273+00:00"
 content_hash: "sha256:4dd8c5586d7c908f99859d7bdb35d7837d12bc9c4b5e6e46446d4a7b8430f4bd"
 ---
 

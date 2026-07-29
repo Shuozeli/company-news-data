@@ -7,7 +7,7 @@ source_id: "cars-com-inc-common-stock-rss-a219e5b1eade"
 canonical_url: "https://investor.cars.com/2026-07-01-Cars-com-Releases-a-Guide-to-the-Most-Affordable-American-Made-Vehicles-of-2026-to-Ring-in-Americas-250th"
 published_at: "2026-07-01T11:30:00+00:00"
 first_seen_at: "2026-07-25T01:07:01.290160+00:00"
-fetched_at: "2026-07-28T21:46:42.875065+00:00"
+fetched_at: "2026-07-29T00:27:00.987485+00:00"
 content_hash: "sha256:0b2f70847d27f45963fc44d55c9399700d725cca39803ce3d69248fb9418d463"
 ---
 

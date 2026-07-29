@@ -7,7 +7,7 @@ source_id: "xpel-inc-common-stock-rss-ad205bb76d96"
 canonical_url: "https://investor.xpel.com/news/news-details/2026/XPEL-Protects-All-New-Jeep-Gladiator-Shadow-Ops-Special-Edition-for-2026-Easter-Jeep-Safari/default.aspx"
 published_at: "2026-03-31T12:30:00+00:00"
 first_seen_at: "2026-07-26T06:05:48.526375+00:00"
-fetched_at: "2026-07-28T20:24:48.595279+00:00"
+fetched_at: "2026-07-28T23:09:58.838205+00:00"
 content_hash: "sha256:3f08761b1110b29e35895211b39c542684a69f91fe777d2d7ceeb17531938e73"
 ---
 

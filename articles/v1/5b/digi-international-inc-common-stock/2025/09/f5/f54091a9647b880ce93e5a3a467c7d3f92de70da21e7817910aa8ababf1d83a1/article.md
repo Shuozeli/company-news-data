@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/lorawan-simplified-digi-x-on-and-hx-gateways"
 published_at: "2025-09-17T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:8a0669bf0b976be3e3e92878bb71de92db539d492722b57a9d1ad7f4e6b97a4b"
 ---
 

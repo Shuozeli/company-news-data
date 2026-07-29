@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-a-significant-epci-contract-for-the-equinor-breidablikk-pipelay-and-subsea-installation/"
 published_at: "2020-10-19T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-28T21:49:44.390133+00:00"
+fetched_at: "2026-07-29T00:26:14.657354+00:00"
 content_hash: "sha256:4ff186d61486f8d412d87e5e573981fc1ea8630c2017c14ac82c06ba61a915b5"
 ---
 

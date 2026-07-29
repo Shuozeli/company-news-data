@@ -7,7 +7,7 @@ source_id: "gain-therapeutics-inc-common-stock-rss-2e93004a3a3a"
 canonical_url: "https://gaintherapeutics.com/web-stories/all-about-alphafold-protein-structure-database/"
 published_at: "2021-12-24T13:12:51+00:00"
 first_seen_at: "2026-07-20T23:19:48.241067+00:00"
-fetched_at: "2026-07-28T22:02:14.092979+00:00"
+fetched_at: "2026-07-29T00:40:51.328400+00:00"
 content_hash: "sha256:def89ed2d4239f3f7461b39c84a44cad00cb615f8dc7fb3dc43e86e54d8ea2c6"
 ---
 

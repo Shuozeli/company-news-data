@@ -7,7 +7,7 @@ source_id: "life360-inc-common-stock-rss-25c02f0e1eb8"
 canonical_url: "https://medium.com/life360-engineering/view-binding-life360-b8af648f3f3a"
 published_at: "2021-07-02T01:02:02+00:00"
 first_seen_at: "2026-07-20T04:36:48.728062+00:00"
-fetched_at: "2026-07-28T21:06:39.825869+00:00"
+fetched_at: "2026-07-28T23:52:40.488320+00:00"
 content_hash: "sha256:79ae09a56b6ad630e320d384e5a74ae0cf84dbbaa824d2cc3264dd583ea41ee2"
 ---
 

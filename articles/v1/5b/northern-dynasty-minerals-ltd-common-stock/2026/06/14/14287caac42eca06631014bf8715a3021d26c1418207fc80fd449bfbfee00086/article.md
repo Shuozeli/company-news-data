@@ -7,7 +7,7 @@ source_id: "northern-dynasty-minerals-ltd-common-stock-rss-bdf6a6262413"
 canonical_url: "https://northerndynastyminerals.com/about-us/board-of-directors/julie-mormon/"
 published_at: "2026-06-30T03:58:08+00:00"
 first_seen_at: "2026-07-20T23:18:29.197775+00:00"
-fetched_at: "2026-07-28T19:56:40.588573+00:00"
+fetched_at: "2026-07-28T23:43:30.561601+00:00"
 content_hash: "sha256:4344e116e9138687f3284acf050983ede9fc6c8d99a09db9a68f3d8ed9f5f7a9"
 ---
 

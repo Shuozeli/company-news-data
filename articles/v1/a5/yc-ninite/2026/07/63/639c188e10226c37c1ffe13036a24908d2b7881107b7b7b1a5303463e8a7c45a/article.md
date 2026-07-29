@@ -5,12 +5,12 @@ company_key: "yc-ninite"
 company: "Ninite"
 source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/evernote/"
-published_at: "2026-07-15T16:41:12+00:00"
+published_at: "2026-07-22T05:31:31+00:00"
 first_seen_at: "2026-07-25T16:20:56.315803+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
-content_hash: "sha256:529181e9945fd51a8ebdbcfb860c9e5bcd914a4ce457b684fb3fabcf2de9dfa3"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
+content_hash: "sha256:625ba59b244118d904370fec632958f95e6912811559d7cb058bf0d20c998108"
 ---
 
-# Evernote updated to 11.25.6.
+# Evernote updated to 11.26.4.
 
 

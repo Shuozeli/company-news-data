@@ -7,7 +7,7 @@ source_id: "newsmax-inc-class-b-common-stock-rss-0da30425e74c"
 canonical_url: "https://ir.newsmax.com/news/news-details/2026/Newsmax-Appoints-David-Evans-to-Board-of-Directors/default.aspx"
 published_at: "2026-03-23T21:05:00+00:00"
 first_seen_at: "2026-07-25T16:10:33.598715+00:00"
-fetched_at: "2026-07-28T20:49:15.461706+00:00"
+fetched_at: "2026-07-28T23:34:56.876154+00:00"
 content_hash: "sha256:9f1528a9fad86f235b5982a61ef3e71b68a20e90bc7c68d989af7ef605156960"
 ---
 

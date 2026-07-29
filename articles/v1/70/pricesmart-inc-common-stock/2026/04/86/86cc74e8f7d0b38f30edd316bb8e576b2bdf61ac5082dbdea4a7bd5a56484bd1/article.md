@@ -7,7 +7,7 @@ source_id: "pricesmart-inc-common-stock-rss-d7930a44b67e"
 canonical_url: "https://investors.pricesmart.com/news/news-details/2026/PriceSmart-Announces-the-Release-of-its-Fiscal-Year-2025-Sustainability-Report-Highlighting-Key-Achievements-on-Sustainability/default.aspx"
 published_at: "2026-04-29T12:00:00+00:00"
 first_seen_at: "2026-07-25T19:47:12.681120+00:00"
-fetched_at: "2026-07-28T20:19:35.146148+00:00"
+fetched_at: "2026-07-28T23:03:42.269374+00:00"
 content_hash: "sha256:17dade5c11b1f8f224d9c9fe6af94cb131f3f08c7971b79b76272ea82cd814e7"
 ---
 

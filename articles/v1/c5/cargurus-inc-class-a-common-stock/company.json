@@ -52,5 +52,31 @@
       "partition": "2026-07",
       "record_count": 75
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c5/cargurus-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 56135,
+        "sha256": "sha256:2835060b6bc4291c59f4801ca41e1f83a95a9f6f862a74113e54eca65bc7c156",
+        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "oldest_at": "2026-07-28T21:36:14.883471+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/c5/cargurus-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 35,
+        "byte_count": 40632,
+        "sha256": "sha256:4592f8a1aad1b49a062cdd394618469282f70eed164ba36a0be4687416d3f9ca",
+        "newest_at": "2026-07-28T21:36:14.883471+00:00",
+        "oldest_at": "2022-12-09T17:00:04+00:00"
+      }
+    ]
+  }
 }

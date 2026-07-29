@@ -28,5 +28,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bd/finvolution-group-american-depositary-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14148,
+        "sha256": "sha256:8b1c5d1c6407ac2066e3828f75dad5f07a76f7d531f57b8f16fe7ab862881962",
+        "newest_at": "2026-06-17T09:00:00+00:00",
+        "oldest_at": "2025-11-12T13:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "maris-tech-ltd-ordinary-shares-rss-219e3dd21362"
 canonical_url: "https://www.maris-tech.com/maris-tech-introduces-new-compact-edge-ai-fiber-optics-platform-for-drone-payloads/press-releases/"
 published_at: "2026-05-26T13:00:20+00:00"
 first_seen_at: "2026-07-24T10:37:38.674777+00:00"
-fetched_at: "2026-07-28T20:11:33.710342+00:00"
+fetched_at: "2026-07-28T22:52:59.438148+00:00"
 content_hash: "sha256:297cf47941025b4dbcabd30e939496badf8337110ce6927b4e790b449e7bec49"
 ---
 

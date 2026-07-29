@@ -7,7 +7,7 @@ source_id: "crown-holdings-inc-rss-4094c49e5fc0"
 canonical_url: "https://www.crowncork.com/node/4656"
 published_at: "2026-07-15T14:38:59+00:00"
 first_seen_at: "2026-07-20T23:21:19.015503+00:00"
-fetched_at: "2026-07-28T20:21:20.606259+00:00"
+fetched_at: "2026-07-28T23:04:23.668108+00:00"
 content_hash: "sha256:91dcfeec2ebb5b1026b806dc419dbc1a7ec15d9e84a7fd65c5a8df11204b7a3d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ooma-inc-common-stock-rss-c85b6a987b34"
 canonical_url: "https://www.ooma.com/residential/myphone-email-collection/"
 published_at: "2026-07-20T18:31:50+00:00"
 first_seen_at: "2026-07-20T23:23:46.516672+00:00"
-fetched_at: "2026-07-28T20:13:51.125037+00:00"
+fetched_at: "2026-07-28T22:55:50.020652+00:00"
 content_hash: "sha256:9d2709366654b4aee02763febd9dc16316f66d98af5ff46bb33e616e50c6a6b1"
 ---
 

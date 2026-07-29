@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/66/yc-corgi-labs/index/pages/000001.json",
+        "record_count": 27,
+        "byte_count": 28153,
+        "sha256": "sha256:db0ee94df46b65934ea20a9ae5df679398e1cb93521ca8c0ad64386c619da859",
+        "newest_at": "2026-07-28T15:02:55.276+00:00",
+        "oldest_at": "2026-02-09T20:00:00+00:00"
+      }
+    ]
+  }
 }

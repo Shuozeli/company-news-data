@@ -24,5 +24,22 @@
       "partition": "2026-04",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/22/yc-sitenna/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10011,
+        "sha256": "sha256:00076188018bb9687a08469ff8498ceeb09c7dc47f4f23f07809a05ecd7776a5",
+        "newest_at": "2026-04-09T12:58:41+00:00",
+        "oldest_at": "2026-01-21T16:00:43+00:00"
+      }
+    ]
+  }
 }

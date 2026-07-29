@@ -7,7 +7,7 @@ source_id: "martin-midstream-partners-l-p-limited-partnership-rss-5f1f67fcc9e1"
 canonical_url: "https://mmlp.com/investor-relations/press-releases/press-releases-details/2025/Martin-Midstream-Partners-Announces-Retirement-of-Johnnie-Murry-SVP-of-Land-Transportation-Names-John-Scott-as-Successor/default.aspx"
 published_at: "2025-12-22T15:00:00+00:00"
 first_seen_at: "2026-07-25T13:22:50.062012+00:00"
-fetched_at: "2026-07-28T20:05:20.880424+00:00"
+fetched_at: "2026-07-28T23:53:43.297921+00:00"
 content_hash: "sha256:7ffa8d95b43101489d047c67a16ccb358df1ced86c776b6f2b51e9dc0b19f758"
 ---
 

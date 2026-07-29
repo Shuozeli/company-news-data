@@ -7,7 +7,7 @@ source_id: "arrow-electronics-inc-common-stock-rss-ccc92a609f92"
 canonical_url: "https://news.arrow.com/news-releases/news-details/2026/Arrow-Electronics-Addresses-Rising-Autonomous-Mobile-Robot-Demand-in-Southeast-Asia-with-System-Level-Solutions/default.aspx"
 published_at: "2026-05-19T20:00:00+00:00"
 first_seen_at: "2026-07-25T01:02:49.134971+00:00"
-fetched_at: "2026-07-28T21:39:01.421450+00:00"
+fetched_at: "2026-07-29T00:27:07.929144+00:00"
 content_hash: "sha256:278e3b44425ee38e6f1e7739c83fe0eadf7086c400dcc9919aba701bce8da1fd"
 ---
 

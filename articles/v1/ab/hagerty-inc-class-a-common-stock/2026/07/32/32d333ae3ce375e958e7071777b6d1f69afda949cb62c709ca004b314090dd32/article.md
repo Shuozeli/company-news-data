@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/final-parking-space/final-parking-space-1982-renault-le-car-deluxe-3-door/"
 published_at: "2026-07-21T13:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:f2fac36a10e24887ac8f7b0701b66bbac83a402624264f7d303937d83f2381df"
 ---
 

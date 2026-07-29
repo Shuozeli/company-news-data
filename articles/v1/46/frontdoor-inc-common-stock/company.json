@@ -240,5 +240,31 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/46/frontdoor-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49534,
+        "sha256": "sha256:ab817dae18ae48f4d5e97bdc89f80917415e966e1dbd8870de4939a9789cdd7b",
+        "newest_at": "2026-07-09T13:02:30+00:00",
+        "oldest_at": "2018-11-12T14:53:53+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/46/frontdoor-inc-common-stock/index/pages/000002.json",
+        "record_count": 26,
+        "byte_count": 33684,
+        "sha256": "sha256:c8f64194a0ce7944c8806a629ac67f1d5d7c10a3da1643a5b179a6cf2392ead3",
+        "newest_at": "2018-11-05T14:55:14+00:00",
+        "oldest_at": "2011-02-04T14:58:04+00:00"
+      }
+    ]
+  }
 }

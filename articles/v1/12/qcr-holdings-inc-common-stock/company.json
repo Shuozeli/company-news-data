@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/12/qcr-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 15099,
+        "sha256": "sha256:fb29dfdb044201c80bcbeb33cd74609d96e84c8011ddf7d7ba33f3cb94777c23",
+        "newest_at": "2026-07-22T20:05:00+00:00",
+        "oldest_at": "2025-10-22T20:05:00+00:00"
+      }
+    ]
+  }
 }

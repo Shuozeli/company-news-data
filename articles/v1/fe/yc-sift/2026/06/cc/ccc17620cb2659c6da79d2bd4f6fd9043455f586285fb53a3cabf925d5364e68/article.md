@@ -5,7 +5,7 @@ company_key: "yc-sift"
 company: "Sift"
 source_id: "yc-sift-rss-c48c6d88eecb"
 canonical_url: "https://sift.com/blog/digital-commerce-fraud-how-it-works/"
-published_at: "2026-06-30T20:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:24:10.644571+00:00"
 fetched_at: "2026-07-28T20:34:24.680558+00:00"
 content_hash: "sha256:4ec371b2241cd6badef4abbdcf35c1989d244643803acca93c19f863f87f6ef8"

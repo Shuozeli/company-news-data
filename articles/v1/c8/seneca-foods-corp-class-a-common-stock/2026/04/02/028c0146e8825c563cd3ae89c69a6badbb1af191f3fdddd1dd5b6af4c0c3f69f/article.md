@@ -7,7 +7,7 @@ source_id: "seneca-foods-corp-class-a-common-stock-rss-dd5d61c574ed"
 canonical_url: "https://www.senecafoods.com/sec-filing/form-4-michael-wolcott-5"
 published_at: "2026-04-06T12:12:59+00:00"
 first_seen_at: "2026-07-20T23:22:26.267179+00:00"
-fetched_at: "2026-07-28T20:40:03.821553+00:00"
+fetched_at: "2026-07-28T23:23:35.928715+00:00"
 content_hash: "sha256:959b237b2074929149b8b016f60a976be6d930fa88bfaf30d42afc7946e1092b"
 ---
 

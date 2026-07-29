@@ -20,5 +20,22 @@
       "partition": "2026-05",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b1/yatsen-holding-limited-american-depositary-shares-each-representing-twenty-20-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 7012,
+        "sha256": "sha256:ec972dc215aa88fdf29158732ad3de99897f946d768a4910f84d2d383d61a135",
+        "newest_at": "2026-05-26T09:00:00+00:00",
+        "oldest_at": "2026-03-11T10:00:00+00:00"
+      }
+    ]
+  }
 }

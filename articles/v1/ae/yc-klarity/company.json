@@ -52,5 +52,22 @@
       "partition": "2026-06",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/yc-klarity/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 15390,
+        "sha256": "sha256:789f9885f17c14a4303e1131d900887a689c8dd836a38e0858798c14a077de35",
+        "newest_at": "2026-06-30T00:00:00+00:00",
+        "oldest_at": "2024-06-24T00:00:00+00:00"
+      }
+    ]
+  }
 }

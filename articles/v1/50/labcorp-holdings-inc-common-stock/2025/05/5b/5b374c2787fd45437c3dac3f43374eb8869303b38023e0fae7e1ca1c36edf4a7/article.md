@@ -7,7 +7,7 @@ source_id: "labcorp-holdings-inc-common-stock-rss-dbaf16a720f9"
 canonical_url: "https://www.labcorp.com/importance-extraction-vessel-shape-medical-device-testing-genetox-case-report"
 published_at: "2025-05-02T21:33:37+00:00"
 first_seen_at: "2026-07-20T23:24:51.380106+00:00"
-fetched_at: "2026-07-28T20:14:54.952323+00:00"
+fetched_at: "2026-07-28T22:57:44.599077+00:00"
 content_hash: "sha256:d6065a40026e5cd7ef5445a6cf6ad12f74b0bab78377c6b5257e1cbcb8b6cc1d"
 ---
 

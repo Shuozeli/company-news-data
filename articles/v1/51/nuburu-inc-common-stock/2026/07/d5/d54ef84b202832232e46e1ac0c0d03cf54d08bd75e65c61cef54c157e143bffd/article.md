@@ -7,7 +7,7 @@ source_id: "nuburu-inc-common-stock-rss-46354ee121c3"
 canonical_url: "https://ir.nuburu.net/news-and-presentations/news-details/2026/NUBURU-Announces-Closing-of-38-0-Million-Public-Offering/default.aspx"
 published_at: "2026-07-17T23:41:00+00:00"
 first_seen_at: "2026-07-25T16:40:58.681628+00:00"
-fetched_at: "2026-07-28T19:37:00.434326+00:00"
+fetched_at: "2026-07-28T23:07:27.997137+00:00"
 content_hash: "sha256:e155526db4c3da066385be29b74919a6ddeb6753f75288817f3549491a3b5f10"
 ---
 

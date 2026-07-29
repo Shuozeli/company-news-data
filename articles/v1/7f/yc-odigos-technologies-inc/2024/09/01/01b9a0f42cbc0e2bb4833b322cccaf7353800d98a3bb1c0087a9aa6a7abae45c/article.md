@@ -7,7 +7,7 @@ source_id: "yc-odigos-technologies-inc-rss-eb41174e661a"
 canonical_url: "https://odigos.io/blog/fundraising-announcement"
 published_at: "2024-09-08T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:02:44.020335+00:00"
-fetched_at: "2026-07-28T19:57:42.767612+00:00"
+fetched_at: "2026-07-28T23:46:13.985043+00:00"
 content_hash: "sha256:1bd33f45aa41224fc11eb3ea6dfaa3b189ee2808e482b74c93fab59f310de464"
 ---
 

@@ -7,7 +7,7 @@ source_id: "argan-inc-common-stock-rss-04f1fea248dc"
 canonical_url: "https://arganinc.com/news/argan-inc-to-announce-first-quarter-fiscal-2027-results-and-host-conference-call-on-thursday-june-4-2026/"
 published_at: "2026-05-21T20:17:38+00:00"
 first_seen_at: "2026-07-20T03:31:21.385236+00:00"
-fetched_at: "2026-07-28T20:22:00.144270+00:00"
+fetched_at: "2026-07-28T23:05:16.878471+00:00"
 content_hash: "sha256:922bba11edee3a6194ad24fb2e54c10dd4c06f5989ca2238b49761165a47ea51"
 ---
 

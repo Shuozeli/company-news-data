@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/fcra-furnisher-accuracy-ai-decisioning-servicing"
 published_at: "2026-05-24T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:55362af30e83b7286d455bda6bf5f904d660b0796513af3434b9c86d1fcbecd6"
 ---
 

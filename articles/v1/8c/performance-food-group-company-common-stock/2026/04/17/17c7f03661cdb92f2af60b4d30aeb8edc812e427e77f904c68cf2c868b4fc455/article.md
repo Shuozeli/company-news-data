@@ -7,7 +7,7 @@ source_id: "performance-food-group-company-common-stock-rss-241193237c0b"
 canonical_url: "https://investors.pfgc.com/press-releases/press-release-details/2026/Performance-Food-Group-Company-to-Host-Webcast-of-Third-Quarter-Fiscal-2026-Results/default.aspx"
 published_at: "2026-04-22T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:48.099064+00:00"
-fetched_at: "2026-07-28T19:46:07.472555+00:00"
+fetched_at: "2026-07-28T23:22:39.625616+00:00"
 content_hash: "sha256:99a90227e00bba1c2ea69c1497023858858229fc213ae53093999bf6a05bb3a9"
 ---
 

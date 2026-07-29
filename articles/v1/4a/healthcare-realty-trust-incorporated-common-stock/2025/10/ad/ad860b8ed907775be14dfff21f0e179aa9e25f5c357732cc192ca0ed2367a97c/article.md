@@ -7,7 +7,7 @@ source_id: "healthcare-realty-trust-incorporated-common-stock-rss-e625338219f6"
 canonical_url: "https://investors.healthcarerealty.com/corporate-profile/press-releases/news-details/2025/Healthcare-Realty-Reports-Third-Quarter-2025-Results/default.aspx"
 published_at: "2025-10-30T20:15:00+00:00"
 first_seen_at: "2026-07-25T07:49:26.905659+00:00"
-fetched_at: "2026-07-28T20:44:11.809511+00:00"
+fetched_at: "2026-07-28T23:30:00.394300+00:00"
 content_hash: "sha256:117084e3aef04023e1801f9c767535206528a95d62f34c1ddf3dbb6be6d5a95a"
 ---
 

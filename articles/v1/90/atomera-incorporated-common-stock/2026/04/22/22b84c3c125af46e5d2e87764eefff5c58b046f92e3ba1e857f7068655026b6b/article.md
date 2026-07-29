@@ -7,7 +7,7 @@ source_id: "atomera-incorporated-common-stock-rss-54d6f1fe514e"
 canonical_url: "https://atomera.com/atomera-and-synopsys-extend-collaboration-to-advance-gan-modeling-for-rf-power-semiconductors/"
 published_at: "2026-04-29T00:14:12+00:00"
 first_seen_at: "2026-07-20T23:18:45.750540+00:00"
-fetched_at: "2026-07-28T21:47:09.491732+00:00"
+fetched_at: "2026-07-29T00:05:52.112935+00:00"
 content_hash: "sha256:a96b5baf6d499cbe2491d1e213ac0c6c53c4a8c012c379f3fdd7c46b510b4b86"
 ---
 

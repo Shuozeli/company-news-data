@@ -7,7 +7,7 @@ source_id: "yc-odigos-technologies-inc-rss-eb41174e661a"
 canonical_url: "https://odigos.io/blog/odigos-visual-identity"
 published_at: "2025-10-29T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:02:44.020335+00:00"
-fetched_at: "2026-07-28T19:57:42.767612+00:00"
+fetched_at: "2026-07-28T23:46:13.985043+00:00"
 content_hash: "sha256:b273f353a0ebf06766f4dde6c50fa9c6ac48dc37b4020ad2b9206a7b67f5e086"
 ---
 

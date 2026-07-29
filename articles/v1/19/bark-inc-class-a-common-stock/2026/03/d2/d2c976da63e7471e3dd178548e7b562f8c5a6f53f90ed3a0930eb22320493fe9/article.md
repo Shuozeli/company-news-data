@@ -7,7 +7,7 @@ source_id: "bark-inc-class-a-common-stock-rss-1a677a91965a"
 canonical_url: "https://investors.bark.co/news/news-details/2026/BARK-Determines-Not-to-Pursue-Transaction-Following-Review-of-Previously-Disclosed-Proposals/default.aspx"
 published_at: "2026-03-20T12:55:00+00:00"
 first_seen_at: "2026-07-25T01:26:35.493717+00:00"
-fetched_at: "2026-07-28T20:20:33.378676+00:00"
+fetched_at: "2026-07-28T23:04:03.254596+00:00"
 content_hash: "sha256:cfdfb0d41d08b799e1a91c4c8f85ba1de12e3fd3a21f63dc823684df8c98586f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "cognition-therapeutics-inc-common-stock-rss-ed2edde8b549"
 canonical_url: "https://cogrx.com/adpd2026-vjdementia-findings-from-phase2a-shimmer-trial-in-dlb/"
 published_at: "2026-03-10T18:58:36+00:00"
 first_seen_at: "2026-07-27T01:08:35.415304+00:00"
-fetched_at: "2026-07-28T20:52:39.987700+00:00"
+fetched_at: "2026-07-28T23:38:02.619779+00:00"
 content_hash: "sha256:a2337ec8b82a7ab83299c0f27debcadfc29b326f660aaeea7c14885dd920e89b"
 ---
 

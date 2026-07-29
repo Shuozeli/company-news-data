@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/story/2026/jd-power-small-business-internet-service.html"
 published_at: "2026-07-09T12:05:00+00:00"
 first_seen_at: "2026-07-20T04:35:42.625239+00:00"
-fetched_at: "2026-07-28T20:53:36.935307+00:00"
+fetched_at: "2026-07-28T23:38:49.340178+00:00"
 content_hash: "sha256:327e989541b38f23426224c0b367bf5e0c9837837355af9643a65f8f6e25cb42"
 ---
 

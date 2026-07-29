@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/did-you-get-wind-of-the-news-we-have-been-selected-by-the-french-state-as-operator-of-the-countrys-largest-renewable-energy-project/"
 published_at: "2025-09-26T10:07:49+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:378966ba79bae49d632a614cd38799e9ad572a6c499b8083dc2ef7eee958e262"
 ---
 

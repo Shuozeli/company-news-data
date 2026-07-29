@@ -7,7 +7,7 @@ source_id: "ameren-corporation-common-stock-rss-a98e972b3b47"
 canonical_url: "http://www.amereninvestors.com/investors/financial-releases/financial-releases-details/2026/MISO-selects-consortium-of-Ameren-GridLiance-Dairyland-Illinois-Municipal-Electric-Agency-to-deliver-major-grid-bolstering-projects-in-Illinois/default.aspx"
 published_at: "2026-05-19T09:05:00+00:00"
 first_seen_at: "2026-07-26T22:23:31.222007+00:00"
-fetched_at: "2026-07-28T21:06:51.548551+00:00"
+fetched_at: "2026-07-28T23:52:55.837267+00:00"
 content_hash: "sha256:a8df3789bcabaeabfddafa632d00d34034cd9c7040b8edf2a929e66cce15f1f0"
 ---
 

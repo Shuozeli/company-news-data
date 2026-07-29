@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2024/10/adobe-express-platform-updates-for-max-2024-new-developer-capabilities-and-explosive-growth-of-our-partner-ecosystem"
 published_at: "2024-10-11T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:1a17e6205de79f471001c3eeba9648a4a9d47e49d243ea81861300d521eff098"
 ---
 

@@ -7,7 +7,7 @@ source_id: "mcdonald-s-corporation-common-stock-rss-e3f7e88d5cc9"
 canonical_url: "https://medium.com/mcdonalds-technical-blog/a-collaborative-tech-innovation-day-where-big-ideas-begin-d0db01c4a48d"
 published_at: "2026-04-14T17:16:21+00:00"
 first_seen_at: "2026-07-22T17:27:13.648832+00:00"
-fetched_at: "2026-07-28T21:07:46.576617+00:00"
+fetched_at: "2026-07-28T23:53:24.017559+00:00"
 content_hash: "sha256:96f8fb71308e85fd36fef90304bbafdf8a16b52cb8f5e69a427bbb07b25c5d1d"
 ---
 

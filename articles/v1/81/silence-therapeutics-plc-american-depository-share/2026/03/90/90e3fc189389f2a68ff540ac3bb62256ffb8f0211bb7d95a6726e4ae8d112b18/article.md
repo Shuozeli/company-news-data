@@ -7,7 +7,7 @@ source_id: "silence-therapeutics-plc-american-depository-share-rss-4f2caa2d9c31"
 canonical_url: "https://silence-therapeutics.com/investors/press-releases/press-releases-details/2026/Silence-Therapeutics-Highlights-Recent-Business-Achievements-and-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx"
 published_at: "2026-03-05T12:30:00+00:00"
 first_seen_at: "2026-07-25T23:04:22.261189+00:00"
-fetched_at: "2026-07-28T20:48:44.746497+00:00"
+fetched_at: "2026-07-28T23:33:46.514473+00:00"
 content_hash: "sha256:dc2237817da6cefcb7fe3e2580a14ffb097a1acf69d7ab8d5dba806cff9b6c17"
 ---
 

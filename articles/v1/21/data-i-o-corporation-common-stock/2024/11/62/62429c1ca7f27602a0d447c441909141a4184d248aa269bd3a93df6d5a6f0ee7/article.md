@@ -7,7 +7,7 @@ source_id: "data-i-o-corporation-common-stock-rss-f86f593ae275"
 canonical_url: "https://www.businesswire.com/news/home/20241127470252/en/Data-IO-Announces-Organizational-Changes-to-Align-with-Scaling-and-Growth-Strategies"
 published_at: "2024-11-27T00:00:00+00:00"
 first_seen_at: "2026-07-25T00:21:29.653205+00:00"
-fetched_at: "2026-07-28T20:28:37.674859+00:00"
+fetched_at: "2026-07-28T23:15:30.997493+00:00"
 content_hash: "sha256:091d8497e06051a4d8a75d09949beed7fc853c8419be25cf1aa1fcc137634c9f"
 ---
 

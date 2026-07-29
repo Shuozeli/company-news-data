@@ -7,7 +7,7 @@ source_id: "kirby-corporation-common-stock-rss-26f1ed7fb77b"
 canonical_url: "https://kirbycorp.com/april-30-2026-at-830-am-est-kirby-corporation-2026-first-quarter-earnings-conference-call/"
 published_at: "2026-04-27T13:39:51+00:00"
 first_seen_at: "2026-07-25T03:19:04.140546+00:00"
-fetched_at: "2026-07-28T20:42:28.852375+00:00"
+fetched_at: "2026-07-28T23:26:07.668158+00:00"
 content_hash: "sha256:c9e2756ca8e4cdb5b5973b59594a5b68ac279a39131d29faac5f8e72f6357162"
 ---
 

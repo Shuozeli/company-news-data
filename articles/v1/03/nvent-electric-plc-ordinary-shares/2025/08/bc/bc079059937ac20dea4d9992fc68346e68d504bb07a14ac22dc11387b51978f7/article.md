@@ -7,7 +7,7 @@ source_id: "nvent-electric-plc-ordinary-shares-rss-7e545b783f0e"
 canonical_url: "https://blog.nvent.com/employee-story-aaron-plant-manager/"
 published_at: "2025-08-05T03:40:08+00:00"
 first_seen_at: "2026-07-20T23:21:35.308535+00:00"
-fetched_at: "2026-07-28T20:30:02.239099+00:00"
+fetched_at: "2026-07-28T23:16:06.368241+00:00"
 content_hash: "sha256:2082db3433c96809cd2a4db6b32e93a39770203b2b5980e63a488370b05dee6f"
 ---
 

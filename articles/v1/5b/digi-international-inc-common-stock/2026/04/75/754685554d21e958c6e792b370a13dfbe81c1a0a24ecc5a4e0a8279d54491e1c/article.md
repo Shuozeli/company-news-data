@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/industrial-iot-monitoring-real-time-control"
 published_at: "2026-04-08T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:07b5e5b8cc1dc1e61ccb92eaa51a6b9d2a7c397e0352d1c2df3b17cdaa6bd8b6"
 ---
 

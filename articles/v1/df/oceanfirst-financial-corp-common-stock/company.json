@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/df/oceanfirst-financial-corp-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11876,
+        "sha256": "sha256:e3ef446aff990549cbedcec79ed78673e55ee96b86c6f6d5ebcd1a70b06c5fca",
+        "newest_at": "2026-07-08T19:06:36+00:00",
+        "oldest_at": "2025-04-30T12:46:53+00:00"
+      }
+    ]
+  }
 }

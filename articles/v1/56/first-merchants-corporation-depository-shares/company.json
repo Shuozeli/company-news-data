@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/56/first-merchants-corporation-depository-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14145,
+        "sha256": "sha256:8028f1618a9e9a7840291a576b87f6355f2165cc4974a5e593a59ee9c481f411",
+        "newest_at": "2026-07-22T20:05:44+00:00",
+        "oldest_at": "2026-02-09T16:05:48+00:00"
+      }
+    ]
+  }
 }

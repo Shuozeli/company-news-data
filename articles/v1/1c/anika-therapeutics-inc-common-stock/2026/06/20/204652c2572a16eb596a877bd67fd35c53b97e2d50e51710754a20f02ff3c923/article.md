@@ -7,7 +7,7 @@ source_id: "anika-therapeutics-inc-common-stock-rss-f250450dc442"
 canonical_url: "https://ir.anika.com/2026-06-05-Anika-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4"
 published_at: "2026-06-05T21:00:00+00:00"
 first_seen_at: "2026-07-25T01:07:25.774026+00:00"
-fetched_at: "2026-07-28T21:46:47.675245+00:00"
+fetched_at: "2026-07-29T00:20:48.551567+00:00"
 content_hash: "sha256:b95e3d4c0e0c444d4b97ccc4273fc5caa82322006c785417328c9c2c75b900d1"
 ---
 

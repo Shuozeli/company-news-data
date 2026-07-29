@@ -60,5 +60,31 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/53/unity-software-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 57544,
+        "sha256": "sha256:4f3b4fe63c756b12a6bd42311b938d2e60487fee1d8e24002a5abe52786ab2e1",
+        "newest_at": "2026-07-20T00:00:00+00:00",
+        "oldest_at": "2025-06-25T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/53/unity-software-inc-common-stock/index/pages/000002.json",
+        "record_count": 4,
+        "byte_count": 4627,
+        "sha256": "sha256:b7291f9e3c13a42292583aa1cc25fc243040bbb2c8b4210097c2373e30b51553",
+        "newest_at": "2025-06-18T00:00:00+00:00",
+        "oldest_at": "2025-06-02T00:00:00+00:00"
+      }
+    ]
+  }
 }

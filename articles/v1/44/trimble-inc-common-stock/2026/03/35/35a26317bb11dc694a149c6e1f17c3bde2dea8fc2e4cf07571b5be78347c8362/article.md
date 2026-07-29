@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/mastering-building-safety-act-golden-thread"
 published_at: "2026-03-13T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T20:33:46.789564+00:00"
+fetched_at: "2026-07-28T23:18:38.216278+00:00"
 content_hash: "sha256:bf29c0822850470a51a5e0de9810425108eaae48d412ccd38d65ebdf12f834d5"
 ---
 

@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fd/in8bio-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13498,
+        "sha256": "sha256:05bbba33ff6c653449e3d1d63c620543d77c2fc5424bd304936921b1f6934228",
+        "newest_at": "2026-07-09T12:00:11+00:00",
+        "oldest_at": "2026-02-09T13:00:24+00:00"
+      }
+    ]
+  }
 }

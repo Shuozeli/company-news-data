@@ -68,5 +68,31 @@
       "partition": "2026-07",
       "record_count": 16
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8c/yc-doola/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49883,
+        "sha256": "sha256:6f6a6e7d28cdbee0ccb79e2f0594645ca6231c8137aa3608cbff8100e09a62f9",
+        "newest_at": "2026-07-28T21:38:27.854613+00:00",
+        "oldest_at": "2023-05-15T06:53:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/8c/yc-doola/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 2195,
+        "sha256": "sha256:7a57f9377ee9a2d8588af068249be1f31d14274c0d6e9d7f4445ddf43c86f60e",
+        "newest_at": "2023-05-02T06:24:00+00:00",
+        "oldest_at": "2021-11-16T06:28:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "yc-backerkit-rss-16060e51d2f4"
 canonical_url: "https://www.backerkit.com/blog/backerkit-at-gen-con-2026/"
 published_at: "2026-07-10T22:27:55+00:00"
 first_seen_at: "2026-07-27T07:56:11.356641+00:00"
-fetched_at: "2026-07-28T21:11:59.726043+00:00"
+fetched_at: "2026-07-28T23:57:52.029477+00:00"
 content_hash: "sha256:14e32538282c2dbcfe4d90b5b9910e3ef89d4e51ec16d991ad0d870de357639f"
 ---
 

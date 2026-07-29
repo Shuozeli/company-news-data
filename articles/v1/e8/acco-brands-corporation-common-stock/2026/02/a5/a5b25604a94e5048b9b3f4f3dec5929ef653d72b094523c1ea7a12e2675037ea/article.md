@@ -7,7 +7,7 @@ source_id: "acco-brands-corporation-common-stock-rss-92734c555b09"
 canonical_url: "https://ir.accobrands.com/news/news-details/2026/ACCO-Brands-Corporation-Declares-Quarterly-Dividend/default.aspx"
 published_at: "2026-02-27T12:00:00+00:00"
 first_seen_at: "2026-07-26T21:46:03.374935+00:00"
-fetched_at: "2026-07-28T20:24:04.256406+00:00"
+fetched_at: "2026-07-28T23:08:41.981300+00:00"
 content_hash: "sha256:e40534e03eba737e6624c984fbeaa1d50e09b2727067f829eba5714f827704f9"
 ---
 

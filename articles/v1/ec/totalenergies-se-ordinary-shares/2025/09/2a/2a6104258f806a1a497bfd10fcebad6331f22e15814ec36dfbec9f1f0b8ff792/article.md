@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/depuis-2020-en-france-totalenergies-a-investi-4-milliards-dans-les-energies-renouvelables/"
 published_at: "2025-09-29T13:46:26+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:8a0c59e00512b932c5b5bef9a77fd9ca29f2a02521bef1c4540b42517ac92ec5"
 ---
 

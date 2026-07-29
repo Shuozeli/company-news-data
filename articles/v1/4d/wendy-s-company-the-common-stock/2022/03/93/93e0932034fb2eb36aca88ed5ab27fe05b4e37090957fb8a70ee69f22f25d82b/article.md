@@ -7,7 +7,7 @@ source_id: "wendy-s-company-the-common-stock-rss-ec0fd300449e"
 canonical_url: "https://www.wendys.com/oscar-tshiebwe"
 published_at: "2022-03-05T00:41:55+00:00"
 first_seen_at: "2026-07-24T06:58:49.962146+00:00"
-fetched_at: "2026-07-28T21:11:58.840515+00:00"
+fetched_at: "2026-07-28T23:57:23.225076+00:00"
 content_hash: "sha256:8e4e9c1853f941b915edc3679ae5d9d8c175fff1f67c4c6ffbaeaae61613375c"
 ---
 

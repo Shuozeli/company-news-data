@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/sei-vs-tidalwave-ai-mortgage-pos"
 published_at: "2026-06-05T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:3bb07317f26ab01662be687bd12173caf9ca03207de7d2d6ea54d5e464f92e5d"
 ---
 

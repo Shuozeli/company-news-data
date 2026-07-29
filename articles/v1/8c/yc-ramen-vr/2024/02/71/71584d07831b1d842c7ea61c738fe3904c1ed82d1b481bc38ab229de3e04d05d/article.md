@@ -7,7 +7,7 @@ source_id: "yc-ramen-vr-atom-8d2a75475800"
 canonical_url: "https://zenithmmo.com/blogs/news/free-to-play-open-beta-for-zenith-infinite-realms"
 published_at: "2024-02-18T01:15:30+00:00"
 first_seen_at: "2026-07-25T20:28:01.905287+00:00"
-fetched_at: "2026-07-28T21:48:41.432384+00:00"
+fetched_at: "2026-07-29T00:17:15.648185+00:00"
 content_hash: "sha256:b512b6b077f22d51540769847efd76b9694df34b3d436c7c96362ea4bc29d92e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-ochre-bio-rss-279ab36d1688"
 canonical_url: "https://www.ochre-bio.com/2026/07/05/why-the-liver-is-the-bodys-most-misunderstood-organ/"
 published_at: "2026-07-05T19:13:00+00:00"
 first_seen_at: "2026-07-20T23:20:39.135312+00:00"
-fetched_at: "2026-07-28T20:27:25.546396+00:00"
+fetched_at: "2026-07-28T23:13:09.647277+00:00"
 content_hash: "sha256:7fb2890b8ec2243909b1f74112246d2f24e37480bc987fcfe118f61a14f42fbd"
 ---
 

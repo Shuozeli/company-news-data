@@ -7,7 +7,7 @@ source_id: "national-beverage-corp-common-stock-rss-c0166684d17c"
 canonical_url: "https://ir.nationalbeverage.com/news-releases/news-release-details/national-beverage-corp-celebrates-america-special-cash-dividend"
 published_at: "2026-07-01T21:00:00+00:00"
 first_seen_at: "2026-07-25T15:34:19.144056+00:00"
-fetched_at: "2026-07-28T22:08:43.788887+00:00"
+fetched_at: "2026-07-29T00:46:57.827573+00:00"
 content_hash: "sha256:9ef7c04c78869593b9dca66d8e1513f9688554f16561a29f33ae0e5f68a6e797"
 ---
 

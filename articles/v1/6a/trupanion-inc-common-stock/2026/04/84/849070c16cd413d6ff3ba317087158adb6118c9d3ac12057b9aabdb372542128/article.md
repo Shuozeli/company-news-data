@@ -7,7 +7,7 @@ source_id: "trupanion-inc-common-stock-rss-13150357b035"
 canonical_url: "https://investors.trupanion.com/news/Press-Releases/news-details/2026/Trupanion-Publishes-2025-Annual-Letter-to-Shareholders/default.aspx"
 published_at: "2026-04-27T20:21:00+00:00"
 first_seen_at: "2026-07-26T03:12:25.173582+00:00"
-fetched_at: "2026-07-28T21:39:42.562059+00:00"
+fetched_at: "2026-07-29T00:20:26.784832+00:00"
 content_hash: "sha256:a08071ba2b117306f6bf9bf998a33ab75e886b69c88149f7ec9a2145d4c7463c"
 ---
 

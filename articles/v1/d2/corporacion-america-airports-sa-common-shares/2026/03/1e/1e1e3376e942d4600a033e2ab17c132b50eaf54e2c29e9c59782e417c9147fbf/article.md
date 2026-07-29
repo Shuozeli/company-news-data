@@ -7,7 +7,7 @@ source_id: "corporacion-america-airports-sa-common-shares-rss-58c44b64d4f1"
 canonical_url: "https://investors.corporacionamericaairports.com/investors/events-and-presentations/press-releases/news-details/2026/Corporacin-Amrica-Airports-S-A--Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-03-17T11:30:00+00:00"
 first_seen_at: "2026-07-26T12:15:16.917288+00:00"
-fetched_at: "2026-07-28T20:27:16.331063+00:00"
+fetched_at: "2026-07-28T23:13:12.270786+00:00"
 content_hash: "sha256:52142f695db2d8f35ad6a3ddd3edd8cbbd9278da3dfc8b4753126857e3071cdc"
 ---
 

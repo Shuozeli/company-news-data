@@ -7,7 +7,7 @@ source_id: "latam-airlines-group-s-a-american-depositary-shares-each-representin
 canonical_url: "https://ir.latam.com/English/news/press-releases/news-details/2026/LATAM-Airlines-Group-announces-filing-of-2025-annual-report-on-form-20-F-2026-3uhugEzMNN/default.aspx"
 published_at: "2026-03-05T20:00:00+00:00"
 first_seen_at: "2026-07-25T11:44:00.487545+00:00"
-fetched_at: "2026-07-28T19:58:17.031141+00:00"
+fetched_at: "2026-07-28T23:47:15.337073+00:00"
 content_hash: "sha256:38ef5ed66aca8f6a49bb62f1c73b3af6d0cb06765e90a23517e953b132253e55"
 ---
 

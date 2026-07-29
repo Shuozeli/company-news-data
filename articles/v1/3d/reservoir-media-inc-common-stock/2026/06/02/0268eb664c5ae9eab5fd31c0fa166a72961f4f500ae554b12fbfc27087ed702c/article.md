@@ -7,7 +7,7 @@ source_id: "reservoir-media-inc-common-stock-rss-a19592763df7"
 canonical_url: "https://reservoir-media.com/reservoir-president-coo-rell-lafargue-named-icmp-board-chair/"
 published_at: "2026-06-25T15:33:38+00:00"
 first_seen_at: "2026-07-27T04:42:39.995150+00:00"
-fetched_at: "2026-07-28T20:54:16.787687+00:00"
+fetched_at: "2026-07-28T23:40:05.171984+00:00"
 content_hash: "sha256:100feaaed027386ed51d7b8c770758dfe0c23d95ab63acfdf21bfd39b86bad61"
 ---
 

@@ -7,7 +7,7 @@ source_id: "western-new-england-bancorp-inc-common-stock-rss-9b4751c72446"
 canonical_url: "https://wneb.q4ir.com/news/news-details/2025/Western-New-England-Bancorp-Inc--Reports-Results-for-Three-and-Nine-Months-Ended-September-30-2025-and-Declares-Quarterly-Cash-Dividend/default.aspx"
 published_at: "2025-10-28T20:05:00+00:00"
 first_seen_at: "2026-07-26T05:24:33.921122+00:00"
-fetched_at: "2026-07-28T19:49:12.709630+00:00"
+fetched_at: "2026-07-28T23:31:54.542691+00:00"
 content_hash: "sha256:4aeac68b2a24967c9f197d4085267108b092c3f91b2c67dcb532b547de8d1c05"
 ---
 

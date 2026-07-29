@@ -7,7 +7,7 @@ source_id: "range-resources-corporation-common-stock-rss-39ebe470ada3"
 canonical_url: "https://www.rangeresources.com/range-publishes-updated-corporate-sustainability-report/"
 published_at: "2021-11-03T11:48:51+00:00"
 first_seen_at: "2026-07-25T01:14:33.578834+00:00"
-fetched_at: "2026-07-28T22:12:02.202327+00:00"
+fetched_at: "2026-07-29T00:50:21.600149+00:00"
 content_hash: "sha256:0076f45511430275727f25d62e896fb126e59d40b4d4dd1323a3c4ad16145fbf"
 ---
 

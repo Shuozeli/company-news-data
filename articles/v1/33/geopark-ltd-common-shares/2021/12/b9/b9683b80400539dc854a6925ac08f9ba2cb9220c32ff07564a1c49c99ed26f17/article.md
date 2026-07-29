@@ -7,7 +7,7 @@ source_id: "geopark-ltd-common-shares-rss-ad922b42f026"
 canonical_url: "https://www.geo-park.com/uncategorized/working-to-promote-sustainable-development-in-the-south-of-casanare/"
 published_at: "2021-12-15T14:40:30+00:00"
 first_seen_at: "2026-07-20T23:22:37.443202+00:00"
-fetched_at: "2026-07-28T20:44:31.811897+00:00"
+fetched_at: "2026-07-28T23:28:20.567059+00:00"
 content_hash: "sha256:b96960454e5a35ca7a96a5b9663e3975a95f6f4fa2e9ea7fabba9a91d774dd48"
 ---
 

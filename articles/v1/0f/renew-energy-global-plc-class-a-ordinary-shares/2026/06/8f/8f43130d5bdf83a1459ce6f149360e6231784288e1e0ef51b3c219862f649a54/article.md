@@ -7,7 +7,7 @@ source_id: "renew-energy-global-plc-class-a-ordinary-shares-rss-d5d99d5fc981"
 canonical_url: "https://www.renew.com/news/the-next-heatwave-will-be-won-at-night"
 published_at: "2026-06-19T06:36:02+00:00"
 first_seen_at: "2026-07-20T23:22:24.994581+00:00"
-fetched_at: "2026-07-28T20:39:54.239842+00:00"
+fetched_at: "2026-07-28T23:23:56.325688+00:00"
 content_hash: "sha256:92440834808ebb238cf43bc803d748fe0d9540c9a6e083a569b2e3497db01474"
 ---
 

@@ -5,156 +5,51 @@
     "name": "Superwall"
   },
   "record_count": 138,
-  "first_published_at": "2022-10-10T00:00:00+00:00",
-  "last_published_at": "2026-07-13T00:00:00+00:00",
+  "first_published_at": "2026-05-29T00:00:00+00:00",
+  "last_published_at": "2026-05-29T00:00:00+00:00",
   "partitions": [
     {
-      "partition": "2022-10",
-      "record_count": 1
-    },
-    {
-      "partition": "2022-11",
-      "record_count": 3
-    },
-    {
-      "partition": "2023-07",
-      "record_count": 1
-    },
-    {
-      "partition": "2023-09",
-      "record_count": 1
-    },
-    {
-      "partition": "2023-10",
-      "record_count": 5
-    },
-    {
-      "partition": "2023-11",
-      "record_count": 1
-    },
-    {
-      "partition": "2024-01",
-      "record_count": 1
-    },
-    {
-      "partition": "2024-02",
-      "record_count": 5
-    },
-    {
-      "partition": "2024-03",
-      "record_count": 1
-    },
-    {
-      "partition": "2024-04",
-      "record_count": 3
-    },
-    {
-      "partition": "2024-05",
-      "record_count": 2
-    },
-    {
-      "partition": "2024-06",
-      "record_count": 2
-    },
-    {
-      "partition": "2024-07",
-      "record_count": 2
-    },
-    {
-      "partition": "2024-08",
-      "record_count": 3
-    },
-    {
-      "partition": "2024-09",
-      "record_count": 5
-    },
-    {
-      "partition": "2024-10",
-      "record_count": 3
-    },
-    {
-      "partition": "2024-11",
-      "record_count": 1
-    },
-    {
-      "partition": "2024-12",
-      "record_count": 3
-    },
-    {
-      "partition": "2025-01",
-      "record_count": 4
-    },
-    {
-      "partition": "2025-02",
-      "record_count": 7
-    },
-    {
-      "partition": "2025-03",
-      "record_count": 2
-    },
-    {
-      "partition": "2025-04",
-      "record_count": 3
-    },
-    {
-      "partition": "2025-05",
-      "record_count": 5
-    },
-    {
-      "partition": "2025-06",
-      "record_count": 5
-    },
-    {
-      "partition": "2025-07",
-      "record_count": 4
-    },
-    {
-      "partition": "2025-08",
-      "record_count": 4
-    },
-    {
-      "partition": "2025-09",
-      "record_count": 6
-    },
-    {
-      "partition": "2025-10",
-      "record_count": 10
-    },
-    {
-      "partition": "2025-11",
-      "record_count": 10
-    },
-    {
-      "partition": "2025-12",
-      "record_count": 5
-    },
-    {
-      "partition": "2026-01",
-      "record_count": 4
-    },
-    {
-      "partition": "2026-02",
-      "record_count": 5
-    },
-    {
-      "partition": "2026-03",
-      "record_count": 1
-    },
-    {
-      "partition": "2026-04",
-      "record_count": 4
-    },
-    {
       "partition": "2026-05",
-      "record_count": 7
-    },
-    {
-      "partition": "2026-06",
-      "record_count": 6
+      "record_count": 1
     },
     {
       "partition": "2026-07",
-      "record_count": 3
+      "record_count": 137
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/33/yc-staffbar/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 48444,
+        "sha256": "sha256:6fe5d8533298c5155fd314610e20ac71f376f5f099863b18a59f160041d020ff",
+        "newest_at": "2026-07-28T21:08:32.413121+00:00",
+        "oldest_at": "2026-07-28T21:08:32.413121+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/33/yc-staffbar/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 49522,
+        "sha256": "sha256:a9092a5f6d04504178ef045bd20a565a1363c995827c1e279f27ac3478210e83",
+        "newest_at": "2026-07-28T21:08:32.413121+00:00",
+        "oldest_at": "2026-07-28T21:08:32.413121+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/33/yc-staffbar/index/pages/000003.json",
+        "record_count": 38,
+        "byte_count": 37166,
+        "sha256": "sha256:5e9d49e8c9f8c34a7292c101f3d84ef4736c8fb5da7b7d361862c513bfa60daa",
+        "newest_at": "2026-07-28T21:08:32.413121+00:00",
+        "oldest_at": "2026-05-29T00:00:00+00:00"
+      }
+    ]
+  }
 }

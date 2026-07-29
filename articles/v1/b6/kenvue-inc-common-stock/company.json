@@ -156,5 +156,40 @@
       "partition": "2026-07",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b6/kenvue-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 53989,
+        "sha256": "sha256:d47fab189bcc673cb23427b04fc020b970cbca9e64966ec68576ed8326b94521",
+        "newest_at": "2026-07-24T18:01:00+00:00",
+        "oldest_at": "2025-03-12T12:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/b6/kenvue-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 52111,
+        "sha256": "sha256:64b86177e26db5da29f52d68a06c6f92b85b62f5671309eb958cd25ca578186d",
+        "newest_at": "2025-03-07T21:08:01+00:00",
+        "oldest_at": "2024-04-24T19:42:15+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/b6/kenvue-inc-common-stock/index/pages/000003.json",
+        "record_count": 22,
+        "byte_count": 23790,
+        "sha256": "sha256:ad1398159e3db668c6656710d885b1c7f742fabc99d1ed4459632018dd41660f",
+        "newest_at": "2024-03-29T12:00:52+00:00",
+        "oldest_at": "2023-05-04T13:23:46+00:00"
+      }
+    ]
+  }
 }

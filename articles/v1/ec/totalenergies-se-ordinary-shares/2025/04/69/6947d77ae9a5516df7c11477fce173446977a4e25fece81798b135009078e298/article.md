@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/la-transition-verte-de-totalenergies-passe-aussi-par-des-reconversions-internes/"
 published_at: "2025-04-18T13:45:11+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:3282df6d7e3d387a0f291cb97873a0b62a741a1c0b95475f6e691f5e26333ce0"
 ---
 

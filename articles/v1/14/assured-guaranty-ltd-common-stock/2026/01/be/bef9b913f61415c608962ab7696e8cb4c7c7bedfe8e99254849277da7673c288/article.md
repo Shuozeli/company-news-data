@@ -7,7 +7,7 @@ source_id: "assured-guaranty-ltd-common-stock-rss-a0c04d90a5d9"
 canonical_url: "https://info.assuredguaranty.com/press-room/all-press-releases/news-details/2026/Assured-Guaranty-Enters-Annuity-Reinsurance-Market/default.aspx"
 published_at: "2026-01-21T21:15:00+00:00"
 first_seen_at: "2026-07-26T09:42:28.838945+00:00"
-fetched_at: "2026-07-28T19:56:35.282720+00:00"
+fetched_at: "2026-07-28T23:43:29.547621+00:00"
 content_hash: "sha256:7a1c91a5b77a7982531b4a04d1e56e667a3b054536a8b9cb52caba06126628f0"
 ---
 

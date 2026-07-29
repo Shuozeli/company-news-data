@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-files-amendment-no-2-to-the-form-f-4-registration-statement-in-connection-with-its-proposed-business-combination-with-bite-acquisition-corp/"
 published_at: "2024-03-18T12:00:07+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:fe24dfd3792d89656c67c323cdadd58793ed68c71150be2fed72e1037c3d6db2"
 ---
 

@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/rare-disease-biotech-agios-recruits-brian-goff-from-alexion-as-new-ceo/"
 published_at: "2022-07-12T18:55:00+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-28T21:47:02.623482+00:00"
+fetched_at: "2026-07-29T00:23:58.530332+00:00"
 content_hash: "sha256:0883f0102b09e3bf74df831895d9af04038efe18c724373a2eb6b6c9386a8fb6"
 ---
 

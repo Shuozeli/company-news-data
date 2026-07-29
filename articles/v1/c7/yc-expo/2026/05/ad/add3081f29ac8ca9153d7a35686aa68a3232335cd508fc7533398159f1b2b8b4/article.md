@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/from-react-web-to-native-in-one-week"
 published_at: "2026-05-14T16:30:12+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T19:46:04.624713+00:00"
+fetched_at: "2026-07-28T23:22:43.346857+00:00"
 content_hash: "sha256:5beeeeeb41e7355a5a15cb824d674db0c7055ea4f141ae3fe47f0ade9f11de4a"
 ---
 

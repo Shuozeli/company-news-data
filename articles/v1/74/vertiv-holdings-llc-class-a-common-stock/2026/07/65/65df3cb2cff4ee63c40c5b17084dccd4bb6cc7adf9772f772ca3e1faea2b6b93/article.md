@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2020/Vertiv-Names-Scott-Cripps-as-Chief-Accounting-Officer/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T20:39:59.455460+00:00"
+fetched_at: "2026-07-28T23:23:56.894710+00:00"
 content_hash: "sha256:399f17633c37c7b09756f0309d065d2eb3286a31329ec796efa21890794e3bc1"
 ---
 

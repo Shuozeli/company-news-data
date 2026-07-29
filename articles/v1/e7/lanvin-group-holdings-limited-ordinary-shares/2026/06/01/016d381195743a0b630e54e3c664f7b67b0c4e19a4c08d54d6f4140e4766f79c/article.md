@@ -7,7 +7,7 @@ source_id: "lanvin-group-holdings-limited-ordinary-shares-rss-b0cdb7dc6f6c"
 canonical_url: "https://ir.lanvin-group.com/2026-06-01-Lanvin-Group-Announces-Appointment-of-New-Chief-Financial-Officer"
 published_at: "2026-06-01T10:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:56.267052+00:00"
-fetched_at: "2026-07-28T21:34:23.306709+00:00"
+fetched_at: "2026-07-29T00:26:56.297650+00:00"
 content_hash: "sha256:6ce2a10f1b9a5c10e12cae9ac5ae7758bd9339e42902556017bcfc293e3a22be"
 ---
 

@@ -7,7 +7,7 @@ source_id: "tractor-supply-company-common-stock-rss-a230632fee03"
 canonical_url: "https://corporate.tractorsupply.com/newsroom/news-releases/news-releases-details/2026/Tractor-Supply-Expands-Truck-Tool-and-Hardware-Assortment-With-Launch-of-SKIL-Power-Tools-and-Electrical-Brands/default.aspx"
 published_at: "2026-06-01T15:04:00+00:00"
 first_seen_at: "2026-07-26T02:53:33.187444+00:00"
-fetched_at: "2026-07-28T19:32:50.312216+00:00"
+fetched_at: "2026-07-28T22:56:08.683766+00:00"
 content_hash: "sha256:8927b3d1d643bf98ccbcd1c1bd4e1b93dc1498340c75b058a9d947783639b620"
 ---
 

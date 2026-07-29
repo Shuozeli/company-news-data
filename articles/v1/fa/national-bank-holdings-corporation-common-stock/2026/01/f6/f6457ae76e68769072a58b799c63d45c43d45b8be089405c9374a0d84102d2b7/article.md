@@ -7,7 +7,7 @@ source_id: "national-bank-holdings-corporation-common-stock-rss-ce14e24241e6"
 canonical_url: "https://www.nationalbankholdings.com/news/news-details/2026/National-Bank-Holdings-Corporation-Reports-Granting-of-Inducement-Awards-Under-NYSE-Listing-Rule-303A-08/default.aspx"
 published_at: "2026-01-30T22:50:00+00:00"
 first_seen_at: "2026-07-25T15:34:18.653293+00:00"
-fetched_at: "2026-07-28T22:12:29.800951+00:00"
+fetched_at: "2026-07-29T00:51:02.612240+00:00"
 content_hash: "sha256:f93aff253e47a0420bbe9238a935aaad2feb3a5c4a2df8eef5033f3242f449d5"
 ---
 

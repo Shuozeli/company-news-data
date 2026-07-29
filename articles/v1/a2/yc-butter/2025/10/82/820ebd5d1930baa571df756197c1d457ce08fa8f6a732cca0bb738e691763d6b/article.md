@@ -7,7 +7,7 @@ source_id: "yc-butter-rss-cfe99054af6a"
 canonical_url: "https://blog.butter.dev/changelog-0002"
 published_at: "2025-10-18T01:03:59+00:00"
 first_seen_at: "2026-07-24T22:18:01.434032+00:00"
-fetched_at: "2026-07-28T20:28:25.549538+00:00"
+fetched_at: "2026-07-28T23:14:35.701510+00:00"
 content_hash: "sha256:933f8bd6ea03e97ce04565033fe29e12c2461a5feb65f896e5ed7438c37e325a"
 ---
 

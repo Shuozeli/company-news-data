@@ -7,7 +7,7 @@ source_id: "azenta-inc-rss-b770248e871e"
 canonical_url: "https://investors.azenta.com/2026-07-08-Azenta-Completes-Sale-of-B-Medical-Systems"
 published_at: "2026-07-08T12:00:00+00:00"
 first_seen_at: "2026-07-20T23:17:23.737954+00:00"
-fetched_at: "2026-07-28T21:12:29.757653+00:00"
+fetched_at: "2026-07-28T23:57:59.382878+00:00"
 content_hash: "sha256:6831e42ba9b0434053144109780d9ba0a3840d5b4c9bc54db5ce34e0ce6143df"
 ---
 

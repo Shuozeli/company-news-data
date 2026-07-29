@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/advice/the-hidden-costs-of-owning-a-collector-vehicle/"
 published_at: "2026-07-14T14:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:33137b00c655da597dc1d4e5a2b2f1316c4fc3b8abed42d91516a1d00dabb675"
 ---
 

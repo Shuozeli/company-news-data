@@ -7,7 +7,7 @@ source_id: "urban-one-inc-class-a-common-stock-rss-10d6027632a2"
 canonical_url: "https://urban1.com/rickey-smiley-on-the-spot/"
 published_at: "2026-06-01T17:53:35+00:00"
 first_seen_at: "2026-07-26T03:58:06.346155+00:00"
-fetched_at: "2026-07-28T20:20:22.584143+00:00"
+fetched_at: "2026-07-28T23:03:55.358563+00:00"
 content_hash: "sha256:b8ee6dc4da926e113f835967d3969640118d81eebe3b16658d83327616a3f976"
 ---
 

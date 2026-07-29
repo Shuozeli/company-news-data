@@ -7,7 +7,7 @@ source_id: "greenidge-generation-holdings-inc-class-a-common-stock-rss-2e47b4921
 canonical_url: "https://ir.greenidge.com/news-releases/news-release-details/greenidge-generation-reports-first-quarter-2026-results-and"
 published_at: "2026-05-18T12:00:00+00:00"
 first_seen_at: "2026-07-25T07:06:39.923184+00:00"
-fetched_at: "2026-07-28T19:57:20.681232+00:00"
+fetched_at: "2026-07-28T23:45:45.493892+00:00"
 content_hash: "sha256:5b278678372c7567bdac722047eee057fe3e4bf25345c9bb90784ebc9fc7bc82"
 ---
 

@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-strengthens-its-pet-food-ingredient-platform-with-recent-montanabased-asset-acquisition/"
 published_at: "2024-08-22T12:45:12+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:98023e8960cd9525d8be81376c2045397b2ce72eb351d4aae985a303c49e09a6"
 ---
 

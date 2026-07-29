@@ -7,7 +7,7 @@ source_id: "penske-automotive-group-inc-common-stock-rss-a02bf8e21472"
 canonical_url: "https://investors.penskeautomotive.com/news/news-details/2026/PENSKE-AUTOMOTIVE-GROUP-EXPANDS-PRESENCE-IN-FLORIDA/default.aspx"
 published_at: "2026-02-24T11:58:00+00:00"
 first_seen_at: "2026-07-25T18:44:51.963501+00:00"
-fetched_at: "2026-07-28T20:24:51.945827+00:00"
+fetched_at: "2026-07-28T23:09:44.794270+00:00"
 content_hash: "sha256:375210524bb5c40d2b2a6ad95c4f5dc0c0827f764c7e5b9c922bc2dfa89e512c"
 ---
 

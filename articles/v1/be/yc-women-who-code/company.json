@@ -12,5 +12,22 @@
       "partition": "2024-04",
       "record_count": 12
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/be/yc-women-who-code/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 13531,
+        "sha256": "sha256:03f2347f1a085024a02f3cb6c77156feb537a53449f3c4330e3b781a8edccb95",
+        "newest_at": "2024-04-18T20:36:53+00:00",
+        "oldest_at": "2024-04-09T23:11:46+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "emerald-holding-inc-common-stock-rss-725768d323f2"
 canonical_url: "https://www.emeraldx.com/generis-group-named-one-of-canadas-top-growing-companies-2025-by-the-globe-and-mail/"
 published_at: "2025-10-03T16:25:54+00:00"
 first_seen_at: "2026-07-25T02:15:22.320048+00:00"
-fetched_at: "2026-07-28T21:03:12.857329+00:00"
+fetched_at: "2026-07-28T23:49:56.532091+00:00"
 content_hash: "sha256:0022bc28007f8ae8498e4c95220c0f80bcc8239ceabe0f2f5b341a16cd93455b"
 ---
 

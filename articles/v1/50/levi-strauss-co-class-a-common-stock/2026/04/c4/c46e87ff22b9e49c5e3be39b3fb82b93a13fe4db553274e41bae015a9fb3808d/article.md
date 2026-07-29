@@ -7,7 +7,7 @@ source_id: "levi-strauss-co-class-a-common-stock-rss-847c674a0257"
 canonical_url: "https://investors.levistrauss.com/news/financial-news/news-details/2026/Levi-Strauss--Co--Announces-That-After-a-Planned-Transition-Chief-Financial--Growth-Officer-Harmit-Singh-Will-Retire/default.aspx"
 published_at: "2026-04-07T20:10:00+00:00"
 first_seen_at: "2026-07-25T12:04:14.738880+00:00"
-fetched_at: "2026-07-28T20:27:33.978543+00:00"
+fetched_at: "2026-07-28T23:13:11.446068+00:00"
 content_hash: "sha256:7bf38007f2a6f3705aba42d23a8e376093caecf211c0195d64cdc98d26b1537f"
 ---
 

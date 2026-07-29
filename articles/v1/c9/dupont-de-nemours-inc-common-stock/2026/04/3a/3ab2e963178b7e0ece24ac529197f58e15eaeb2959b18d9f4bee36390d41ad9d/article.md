@@ -7,7 +7,7 @@ source_id: "dupont-de-nemours-inc-common-stock-rss-21e972ee78a3"
 canonical_url: "https://www.investors.dupont.com/news-and-media/press-release-details/2026/DuPont-Announces-New-2035-Sustainability-Goals/default.aspx"
 published_at: "2026-04-22T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:32:37.783941+00:00"
-fetched_at: "2026-07-28T20:21:49.239694+00:00"
+fetched_at: "2026-07-28T23:05:21.799699+00:00"
 content_hash: "sha256:21af833ff657ad98209d393ba4d536beeb954e6a3571ee605012bf0b414df9fe"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ge-aerospace-common-stock-rss-a1dd69a4054d"
 canonical_url: "https://www.geaerospace.com/investor-relations/events-reports/ge-aerospace-4th-quarter-2025-earnings-webcast"
 published_at: "2025-11-24T18:14:23+00:00"
 first_seen_at: "2026-07-20T23:24:51.828822+00:00"
-fetched_at: "2026-07-28T21:03:18.535161+00:00"
+fetched_at: "2026-07-28T23:50:06.638047+00:00"
 content_hash: "sha256:4c448c8117b4a2f0c6de1e325752f5a5334c21415a5f9d749df3eadb3893cd3e"
 ---
 

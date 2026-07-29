@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-f545fb403576"
 canonical_url: "https://www.photoroom.com/inside-photoroom/introducing-studio-hd"
-published_at: "2025-06-30T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:21.557706+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:1646768aa9b0f22a1c318b99b08e36d957c8b4d0153b2e4d0eba32a77c607539"

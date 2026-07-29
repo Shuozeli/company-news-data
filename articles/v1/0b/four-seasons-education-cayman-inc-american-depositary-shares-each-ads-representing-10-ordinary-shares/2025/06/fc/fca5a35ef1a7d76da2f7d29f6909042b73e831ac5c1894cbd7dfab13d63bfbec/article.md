@@ -7,7 +7,7 @@ source_id: "four-seasons-education-cayman-inc-american-depositary-shares-each-ad
 canonical_url: "https://ir.sijiedu.com/2025-06-26-Four-Seasons-Education-Files-Fiscal-Year-2025-Annual-Report-on-Form-20-F"
 published_at: "2025-06-26T10:50:00+00:00"
 first_seen_at: "2026-07-27T02:35:10.746439+00:00"
-fetched_at: "2026-07-28T22:12:48.299323+00:00"
+fetched_at: "2026-07-29T00:51:28.801007+00:00"
 content_hash: "sha256:4acc663472ef798859d735c54c3ecf555ac920feac3b156f6dfc7fb68550993b"
 ---
 

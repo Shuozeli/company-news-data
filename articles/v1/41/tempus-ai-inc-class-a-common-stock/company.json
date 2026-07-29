@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/41/tempus-ai-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13927,
+        "sha256": "sha256:90bc012d16790c6aa6cfa78ece1678e9ff9bc0b47438b6f37b6cd27e5b95cb5e",
+        "newest_at": "2026-07-22T12:30:00+00:00",
+        "oldest_at": "2026-05-31T12:30:00+00:00"
+      }
+    ]
+  }
 }

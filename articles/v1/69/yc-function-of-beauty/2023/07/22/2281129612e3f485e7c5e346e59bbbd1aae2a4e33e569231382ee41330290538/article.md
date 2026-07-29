@@ -7,7 +7,7 @@ source_id: "yc-function-of-beauty-atom-d26e5db07ffe"
 canonical_url: "https://functionofbeauty.com/blogs/blog/how-your-haircut-can-embrace-your-natural-curls"
 published_at: "2023-07-13T04:00:00+00:00"
 first_seen_at: "2026-07-25T05:58:14.554793+00:00"
-fetched_at: "2026-07-28T20:03:25.109682+00:00"
+fetched_at: "2026-07-28T23:52:13.231352+00:00"
 content_hash: "sha256:de117b4d43805c4f144f1b9c83c101aae266212e41344ea9f104a13ceb77ab1b"
 ---
 

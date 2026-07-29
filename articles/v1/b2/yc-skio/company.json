@@ -12,5 +12,22 @@
       "partition": "2026-06",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b2/yc-skio/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 9433,
+        "sha256": "sha256:898fb78b4313d547c6830abbc5c2fe0f5500b921ef299b9b15d0e141b96d9680",
+        "newest_at": "2026-06-26T14:37:00.744+00:00",
+        "oldest_at": "2026-06-12T19:15:26.114+00:00"
+      }
+    ]
+  }
 }

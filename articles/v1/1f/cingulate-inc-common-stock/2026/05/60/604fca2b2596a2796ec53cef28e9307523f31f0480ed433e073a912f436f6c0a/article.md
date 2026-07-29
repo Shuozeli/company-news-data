@@ -7,7 +7,7 @@ source_id: "cingulate-inc-common-stock-rss-90a588520f68"
 canonical_url: "https://www.cingulate.com/news-releases/news-release-details/2026-amcp-poster"
 published_at: "2026-05-04T23:26:38+00:00"
 first_seen_at: "2026-07-26T11:41:05.892534+00:00"
-fetched_at: "2026-07-28T21:39:34.190490+00:00"
+fetched_at: "2026-07-29T00:29:50.289620+00:00"
 content_hash: "sha256:3a98633efba257464a04eefcce88a8a34a46aad85635f73d213d77a51215754e"
 ---
 

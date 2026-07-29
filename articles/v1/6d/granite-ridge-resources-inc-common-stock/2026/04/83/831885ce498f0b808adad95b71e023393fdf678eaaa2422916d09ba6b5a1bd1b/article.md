@@ -7,7 +7,7 @@ source_id: "granite-ridge-resources-inc-common-stock-rss-d9990164f265"
 canonical_url: "https://ir.graniteridge.com/Investors/news/news-details/2026/Granite-Ridge-Resources-Schedules-First-Quarter-2026-Earnings-Conference-Call/default.aspx"
 published_at: "2026-04-13T20:07:00+00:00"
 first_seen_at: "2026-07-26T08:18:06.142008+00:00"
-fetched_at: "2026-07-28T19:30:45.145751+00:00"
+fetched_at: "2026-07-29T00:03:32.595380+00:00"
 content_hash: "sha256:52c397df6bce82774f03894710ba9f60ff05416dadaf6ae02e1d3b2f31554be6"
 ---
 

@@ -7,7 +7,7 @@ source_id: "equity-residential-common-shares-of-beneficial-interest-rss-e3f53151
 canonical_url: "https://investors.equityapartments.com/news-events/press-releases-news/news-details/2026/Equity-Residential-Declares-Second-Quarter-Dividends/default.aspx"
 published_at: "2026-06-18T20:15:00+00:00"
 first_seen_at: "2026-07-25T03:03:27.927171+00:00"
-fetched_at: "2026-07-28T20:27:47.339745+00:00"
+fetched_at: "2026-07-28T23:14:03.140548+00:00"
 content_hash: "sha256:e4f010bbe622395cd9bd36f40b06b3314323c05ecebfb391b7024dede842856b"
 ---
 

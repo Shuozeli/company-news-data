@@ -80,5 +80,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/50/zenas-biopharma-inc-common-stock/index/pages/000001.json",
+        "record_count": 24,
+        "byte_count": 35321,
+        "sha256": "sha256:a2abed79ac1c67bfbb05c6df65d9077d5a4baa0bbd107818422036cf40eb777f",
+        "newest_at": "2026-07-17T20:15:27+00:00",
+        "oldest_at": "2021-03-23T13:00:20+00:00"
+      }
+    ]
+  }
 }

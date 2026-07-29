@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 19
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/be/yc-jinba/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 19728,
+        "sha256": "sha256:831aeaa8a0096c67966869db573cd7bed03caf092604910cd82a600e1721ab1a",
+        "newest_at": "2026-07-26T17:00:00+00:00",
+        "oldest_at": "2026-07-11T22:16:05+00:00"
+      }
+    ]
+  }
 }

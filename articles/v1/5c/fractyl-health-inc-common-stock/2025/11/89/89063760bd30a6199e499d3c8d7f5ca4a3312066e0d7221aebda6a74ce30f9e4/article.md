@@ -7,7 +7,7 @@ source_id: "fractyl-health-inc-common-stock-rss-347083c4f534"
 canonical_url: "https://www.fractyl.com/our-science/presentations-publications/duodenal-mucosal-resurfacing-stabilizes-weight-loss-after-glucagon-like-peptide-1-receptor-agonist-withdrawal/"
 published_at: "2025-11-04T14:27:09+00:00"
 first_seen_at: "2026-07-24T09:07:29.122181+00:00"
-fetched_at: "2026-07-28T21:05:07.497154+00:00"
+fetched_at: "2026-07-28T23:51:41.401622+00:00"
 content_hash: "sha256:05a2a8b6ee3bac790ffca97ffba8a8365d89c30e161c0bb67b6ed34e0c6f2903"
 ---
 

@@ -24,5 +24,22 @@
       "partition": "2025-12",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0c/yc-venta-ai/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5887,
+        "sha256": "sha256:5e1dfcc11f49c2686c5edceb7ff403971f1144baf41462c414638446ade92bd9",
+        "newest_at": "2025-12-11T00:00:00+00:00",
+        "oldest_at": "2025-04-23T00:00:00+00:00"
+      }
+    ]
+  }
 }

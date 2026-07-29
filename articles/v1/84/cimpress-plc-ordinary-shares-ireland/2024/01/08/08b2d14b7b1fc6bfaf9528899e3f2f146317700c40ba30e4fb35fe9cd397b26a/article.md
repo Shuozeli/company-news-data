@@ -7,7 +7,7 @@ source_id: "cimpress-plc-ordinary-shares-ireland-rss-6b2ee1559939"
 canonical_url: "https://ir.cimpress.com/static-files/b72b13e0-810b-4cdb-a7b3-492e274a1bb0"
 published_at: "2024-01-31T21:03:05+00:00"
 first_seen_at: "2026-07-20T23:17:11.735551+00:00"
-fetched_at: "2026-07-28T20:46:07.231986+00:00"
+fetched_at: "2026-07-28T23:30:14.446211+00:00"
 content_hash: "sha256:a11e2805ee728a095d674ff64e6849c1e88440b96cb40197c05de7049f7910c8"
 ---
 

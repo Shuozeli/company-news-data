@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/world-policy-conference-2026-debat-entre-patrick-pouyanne-et-dominique-senequier/"
 published_at: "2026-04-27T13:41:08+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:d4c021e3f5eaec7df0733db7418b8995f1c7c8955924d54f75d5ee4e5421bc44"
 ---
 

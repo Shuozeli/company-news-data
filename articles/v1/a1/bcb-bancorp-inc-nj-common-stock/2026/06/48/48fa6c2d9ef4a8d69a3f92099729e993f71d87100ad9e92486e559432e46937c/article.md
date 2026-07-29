@@ -7,7 +7,7 @@ source_id: "bcb-bancorp-inc-nj-common-stock-rss-f2401a0a357f"
 canonical_url: "https://investorrelations.bcbcommunitybank.com/news-market-information/press-releases/news-details/2026/BCB-Announces-Suspension-of-Cash-Dividend/default.aspx"
 published_at: "2026-06-18T20:30:00+00:00"
 first_seen_at: "2026-07-26T10:11:36.891880+00:00"
-fetched_at: "2026-07-28T20:37:43.299595+00:00"
+fetched_at: "2026-07-28T23:21:58.814635+00:00"
 content_hash: "sha256:d0be0998f32883c489a5aed7d5ed1a1345abb105673b478e6bddac3f99554abd"
 ---
 

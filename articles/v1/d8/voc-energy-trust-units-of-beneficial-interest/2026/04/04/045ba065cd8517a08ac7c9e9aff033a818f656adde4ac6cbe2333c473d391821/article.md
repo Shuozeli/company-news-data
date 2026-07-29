@@ -7,7 +7,7 @@ source_id: "voc-energy-trust-units-of-beneficial-interest-rss-4903f6e3b905"
 canonical_url: "https://voc.q4web.com/news-releases/news-details/2026/VOC-Energy-Trust-Announces-Trust-Quarterly-Distribution-39cf3f191/default.aspx"
 published_at: "2026-04-20T20:25:00+00:00"
 first_seen_at: "2026-07-26T04:55:08.456007+00:00"
-fetched_at: "2026-07-28T21:14:30.155721+00:00"
+fetched_at: "2026-07-29T00:01:24.532577+00:00"
 content_hash: "sha256:a3b2858b2cca7953fecc05bfd8f5d1636a28d14f5cb77aa2d69c4d0079ab8c95"
 ---
 

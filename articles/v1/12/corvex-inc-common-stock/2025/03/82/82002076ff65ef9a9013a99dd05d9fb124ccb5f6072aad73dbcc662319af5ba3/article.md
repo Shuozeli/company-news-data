@@ -7,7 +7,7 @@ source_id: "corvex-inc-common-stock-rss-5d3752083407"
 canonical_url: "https://www.corvex.ai/blog/video-ai-cloud-performance-are-you-getting-what-you-pay-for"
 published_at: "2025-03-15T00:00:00+00:00"
 first_seen_at: "2026-07-26T12:16:19.295968+00:00"
-fetched_at: "2026-07-28T20:27:39.377979+00:00"
+fetched_at: "2026-07-28T23:14:05.298165+00:00"
 content_hash: "sha256:a687fa0b691ce5e3306ab662e239984b36bba143396ed51838d8a34f76d5c7a8"
 ---
 

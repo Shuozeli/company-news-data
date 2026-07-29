@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff68416b4e157e345d0760edc16cb6eead1de75275f3fa934272fb6e27dd3ca1",
+  "company": {
+    "key": "netflix-inc-common-stock",
+    "name": "Netflix Inc. Common Stock"
+  },
+  "source": {
+    "id": "netflix-inc-common-stock-news-import-a57d67c5a948",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.netflix.com/en/news/a-day-like-no-other-the-series-that-chronicles-raphaels-life-arrives-on-netflix-on-9-october",
+    "canonical": "https://about.netflix.com/news/a-day-like-no-other-the-series-that-chronicles-raphaels-life-arrives-on-netflix-on-9-october"
+  },
+  "title": "'A Day Like No Other', the Series That Chronicles Raphael's Life, Arrives on Netflix 9 October",
+  "summary": "Netflix has announced the release date, the first images and the teaser poster for 'A Day Like No Other'",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T17:39:58.039793+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-07-29T00:25:10.965612+00:00",
+  "paths": {
+    "article": "articles/v1/59/netflix-inc-common-stock/2026/07/ff/ff68416b4e157e345d0760edc16cb6eead1de75275f3fa934272fb6e27dd3ca1/article.md",
+    "record": "articles/v1/59/netflix-inc-common-stock/2026/07/ff/ff68416b4e157e345d0760edc16cb6eead1de75275f3fa934272fb6e27dd3ca1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5080,
+    "sha256": "sha256:f08980ecbed1261fe34df5afdd265c6c813b45a977613859936d74f40fd99726",
+    "normalized_content_hash": "sha256:de2051b8abedfaa0933c2e86bcaf0fc85b82dbe7ee6380093d068f42cb58b979"
+  },
+  "provenance": {
+    "source_item_id": "cf625322-de42-44b2-8a79-16365841f115",
+    "external_id": "https://about.netflix.com/news/a-day-like-no-other-the-series-that-chronicles-raphaels-life-arrives-on-netflix-on-9-october"
+  }
+}

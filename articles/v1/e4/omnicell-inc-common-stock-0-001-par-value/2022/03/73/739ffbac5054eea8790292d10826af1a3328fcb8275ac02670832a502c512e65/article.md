@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2022/Omnicell-Unveils-Innovative-IVX-Station-Robotic-Compounding-Technology-in-Winter-2022-Release/default.aspx"
 published_at: "2022-03-29T12:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T20:19:36.099870+00:00"
+fetched_at: "2026-07-28T23:03:29.570108+00:00"
 content_hash: "sha256:30da5bdef604e8d0384b75fd9ca8dbb5b5de74d0150686f2cdfc691f5fc9fad3"
 ---
 

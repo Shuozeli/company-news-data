@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2025/08/get-funding-to-build-adobe-express-add-ons"
 published_at: "2024-04-10T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:9e02dc84127de74d3159edd53828ef060b0ae56603020414ef9085c85d5c993b"
 ---
 

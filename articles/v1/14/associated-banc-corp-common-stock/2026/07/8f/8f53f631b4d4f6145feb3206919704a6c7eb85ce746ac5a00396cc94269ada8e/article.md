@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-finalizes-28-3m-loan-for-land-acquisition-and-development-of-chicago-transit-oriented-apartments"
 published_at: "2026-07-27T18:51:00+00:00"
 first_seen_at: "2026-07-27T19:15:33.279893+00:00"
-fetched_at: "2026-07-28T22:05:47.381749+00:00"
+fetched_at: "2026-07-29T00:43:53.379763+00:00"
 content_hash: "sha256:abdba51c0ffbce2c583413f152684d6a152d2075a5b5f5661e6654d27cc1dfbd"
 ---
 

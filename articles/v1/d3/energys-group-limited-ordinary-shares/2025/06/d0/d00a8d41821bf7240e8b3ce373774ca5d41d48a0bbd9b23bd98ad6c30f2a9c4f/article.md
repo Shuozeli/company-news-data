@@ -7,7 +7,7 @@ source_id: "energys-group-limited-ordinary-shares-rss-4a3862782526"
 canonical_url: "https://energys.investorroom.com/2025-06-03-Energys-Group-Secures-New-Energy-Efficient-Lighting-Contracts-Upon-Successful-Completion-of-Initial-Phase"
 published_at: "2025-06-03T11:36:00+00:00"
 first_seen_at: "2026-07-25T02:23:38.130551+00:00"
-fetched_at: "2026-07-28T19:36:01.772185+00:00"
+fetched_at: "2026-07-28T23:05:38.379657+00:00"
 content_hash: "sha256:cc1a2b699f5364aa4c74e7e2681285da23a0dfe421a0bd5448d71070897b5b55"
 ---
 

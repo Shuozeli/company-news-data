@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2023/digi-announces-fips-140-2-validation"
 published_at: "2023-10-10T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:8c3b09b1a2c8d684bc0dcc0529f9dcb2be057469a287043e9b80e296ff8d65ca"
 ---
 

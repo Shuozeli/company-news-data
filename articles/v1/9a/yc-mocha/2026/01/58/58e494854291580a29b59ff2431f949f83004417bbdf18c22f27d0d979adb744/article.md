@@ -7,7 +7,7 @@ source_id: "yc-mocha-rss-d0ffed2c2227"
 canonical_url: "https://getmocha.com/build-typeform-clone"
 published_at: "2026-01-05T00:00:00+00:00"
 first_seen_at: "2026-07-24T11:28:42.148680+00:00"
-fetched_at: "2026-07-28T21:12:00.549507+00:00"
+fetched_at: "2026-07-28T23:57:26.073716+00:00"
 content_hash: "sha256:913f4a1102a71268796387606a529af17bf675dcd3e14e33c1d3168cd5152d3b"
 ---
 

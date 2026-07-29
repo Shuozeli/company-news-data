@@ -7,7 +7,7 @@ source_id: "franklin-resources-inc-common-stock-rss-ad39536f923e"
 canonical_url: "https://investors.franklinresources.com/news-center/press-releases/press-release-details/2026/Franklin-Resources-Inc--Announces-Preliminary-Month-End-Assets-Under-Management-98d82c288/default.aspx"
 published_at: "2026-07-06T21:54:00+00:00"
 first_seen_at: "2026-07-25T05:39:35.013853+00:00"
-fetched_at: "2026-07-28T20:39:04.758896+00:00"
+fetched_at: "2026-07-28T23:22:49.741548+00:00"
 content_hash: "sha256:97e28732ff412978262f3795d5d29db0fa603fe9c95c627c2d2510d6188820a0"
 ---
 

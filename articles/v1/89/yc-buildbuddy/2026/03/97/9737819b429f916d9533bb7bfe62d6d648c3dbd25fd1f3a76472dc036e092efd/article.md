@@ -7,7 +7,7 @@ source_id: "yc-buildbuddy-rss-4f82164f35c8"
 canonical_url: "https://www.buildbuddy.io/changelog/changelog"
 published_at: "2026-03-09T12:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:16.628240+00:00"
-fetched_at: "2026-07-28T22:01:06.618605+00:00"
+fetched_at: "2026-07-29T00:39:32.748032+00:00"
 content_hash: "sha256:369eeee4a09338bb8751909f5f5fa20a99247a9a32ad891739bb4118465d8940"
 ---
 

@@ -7,7 +7,7 @@ source_id: "pennantpark-floating-rate-capital-ltd-common-stock-rss-48e8abe2fc27"
 canonical_url: "https://www.pennantpark.com/pennantpark-floating-rate-capital-ltd-schedules-earnings-release-of-third-fiscal-quarter-2026-results/"
 published_at: "2026-07-06T20:05:00+00:00"
 first_seen_at: "2026-07-24T12:52:36.879746+00:00"
-fetched_at: "2026-07-28T20:14:03.217366+00:00"
+fetched_at: "2026-07-28T22:56:49.723416+00:00"
 content_hash: "sha256:600d3d41fc5806697308afdeaa9b3b9b4c3a97c9aaf7132c213041f33f5437a8"
 ---
 

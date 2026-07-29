@@ -7,7 +7,7 @@ source_id: "eastgroup-properties-inc-common-stock-rss-cadf7b5862c3"
 canonical_url: "https://investor.eastgroup.net/2026-07-22-EastGroup-Properties-Announces-Second-Quarter-2026-Results"
 published_at: "2026-07-22T20:05:00+00:00"
 first_seen_at: "2026-07-22T20:08:24.494922+00:00"
-fetched_at: "2026-07-28T20:53:23.180663+00:00"
+fetched_at: "2026-07-28T23:39:16.854054+00:00"
 content_hash: "sha256:b7bc73c15c75f3d9b5f69d0fad9bbd4a2c09fcd440c49302adfa0beaa842f4a0"
 ---
 

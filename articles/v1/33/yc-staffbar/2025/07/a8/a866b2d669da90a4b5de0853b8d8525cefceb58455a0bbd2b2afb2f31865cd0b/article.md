@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/presenting-paywalls-from-survey-responses"
-published_at: "2025-07-15T20:13:53.699+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:3eadd0b72baa7c06c2a986388c50050a8a9d3b02831227521706c837384dc0e3"

@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/buying-and-selling/auctions/why-are-these-four-wolfpack-rides-customs-the-end-of-the-line/"
 published_at: "2026-07-25T02:53:54+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:a3268851b9211279c6a71883a37eca7bdbcb677410f38de45b6a4e012d85df77"
 ---
 

@@ -7,7 +7,7 @@ source_id: "kemper-corporation-rss-87ee59209e56"
 canonical_url: "https://investors.kemper.com/news/news-details/2026/Kemper-Reports-Fourth-Quarter-2025-Operating-Results/default.aspx"
 published_at: "2026-02-04T21:05:00+00:00"
 first_seen_at: "2026-07-25T10:34:44.282993+00:00"
-fetched_at: "2026-07-28T19:57:17.083814+00:00"
+fetched_at: "2026-07-28T23:44:26.419526+00:00"
 content_hash: "sha256:90199e1cc06d51600699937276c5f6f6c33bbec637e28c66574da2fb6350a132"
 ---
 

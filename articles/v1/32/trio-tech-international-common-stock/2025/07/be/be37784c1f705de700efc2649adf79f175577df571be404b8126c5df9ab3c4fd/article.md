@@ -7,7 +7,7 @@ source_id: "trio-tech-international-common-stock-rss-99f64778e8d5"
 canonical_url: "https://www.triotech.com/other-semiconductor-back-end-services/"
 published_at: "2025-07-04T10:26:32+00:00"
 first_seen_at: "2026-07-25T01:07:54.066074+00:00"
-fetched_at: "2026-07-28T20:30:59.954639+00:00"
+fetched_at: "2026-07-28T23:16:41.355776+00:00"
 content_hash: "sha256:a2c85821027f50c43e14a0c9438b0d891f414a9cc635af238293fb3b57c1a585"
 ---
 

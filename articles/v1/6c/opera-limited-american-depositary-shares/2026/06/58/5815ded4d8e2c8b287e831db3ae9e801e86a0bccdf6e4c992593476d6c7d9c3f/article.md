@@ -7,7 +7,7 @@ source_id: "opera-limited-american-depositary-shares-rss-2f5c2c4cdfef"
 canonical_url: "https://blogs.opera.com/news/2026/06/new-way-to-customize-themes-in-opera-one/"
 published_at: "2026-06-16T12:10:09+00:00"
 first_seen_at: "2026-07-25T01:12:28.064402+00:00"
-fetched_at: "2026-07-28T22:06:54.659661+00:00"
+fetched_at: "2026-07-29T00:45:13.328847+00:00"
 content_hash: "sha256:07a9cccdcf76d038ca1a2eacfb0684ec84390972189db0599af3dfb035f5c23a"
 ---
 

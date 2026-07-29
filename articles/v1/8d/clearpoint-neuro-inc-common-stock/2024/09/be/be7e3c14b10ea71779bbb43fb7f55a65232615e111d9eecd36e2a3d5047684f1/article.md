@@ -7,7 +7,7 @@ source_id: "clearpoint-neuro-inc-common-stock-rss-5217729afd52"
 canonical_url: "https://www.clearpointneuro.com/blog/2024/09/23/clearpoint-on-demand-initial-dbs-experience-with-the-smartframe-or-platform-dr-andrew-conner/"
 published_at: "2024-09-23T19:04:10+00:00"
 first_seen_at: "2026-07-20T23:18:45.399735+00:00"
-fetched_at: "2026-07-28T21:50:34.900847+00:00"
+fetched_at: "2026-07-29T00:26:57.074247+00:00"
 content_hash: "sha256:e4b179ba63ed11e857a7e486e34ee2393a6fc67bedce15518ab550f717656641"
 ---
 

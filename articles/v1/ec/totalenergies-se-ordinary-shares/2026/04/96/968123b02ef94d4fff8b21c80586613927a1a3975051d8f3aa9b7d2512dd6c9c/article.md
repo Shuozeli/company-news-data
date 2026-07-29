@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-prend-la-decision-finale-dinvestissement-pour-son-projet-eolien-geant-avec-batteries-au-kazakhstan-468879/"
 published_at: "2026-04-29T20:51:10+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:5b59bbc7655c3dfd6b58e3a275b7619fc137d6c2e64e1c859eb7df0436f81df6"
 ---
 

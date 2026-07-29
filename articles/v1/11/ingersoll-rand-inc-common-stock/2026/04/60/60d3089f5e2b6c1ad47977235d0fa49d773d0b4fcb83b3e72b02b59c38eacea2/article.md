@@ -7,7 +7,7 @@ source_id: "ingersoll-rand-inc-common-stock-rss-2b0c77673419"
 canonical_url: "https://investors.irco.com/news/news-details/2026/Ingersoll-Rand-Declares-Regular-Quarterly-Cash-Dividend-a2a4c9970/default.aspx"
 published_at: "2026-04-23T20:30:00+00:00"
 first_seen_at: "2026-07-25T09:23:26.780019+00:00"
-fetched_at: "2026-07-28T19:49:48.053445+00:00"
+fetched_at: "2026-07-28T23:32:42.238265+00:00"
 content_hash: "sha256:67fd328586e036251ffbce9fc2089459fbcb28565eb40988ee38e03b659fea0e"
 ---
 

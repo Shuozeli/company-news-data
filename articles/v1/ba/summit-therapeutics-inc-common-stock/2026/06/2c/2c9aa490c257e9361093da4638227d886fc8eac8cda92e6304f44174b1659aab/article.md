@@ -7,7 +7,7 @@ source_id: "summit-therapeutics-inc-common-stock-rss-0f6519525f13"
 canonical_url: "https://smmttx.com/news/press-releases/news-details/2026/Summit-Therapeutics-Announces-Proposed-Public-Offering-of-Common-Stock/default.aspx"
 published_at: "2026-06-09T20:47:00+00:00"
 first_seen_at: "2026-07-26T00:50:08.373421+00:00"
-fetched_at: "2026-07-28T20:13:46.462388+00:00"
+fetched_at: "2026-07-28T22:55:32.934890+00:00"
 content_hash: "sha256:566b90412bb868ae39d816effc72c5ddf41b5da836f6b1d2fd4abf9bbb93ff43"
 ---
 

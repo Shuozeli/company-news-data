@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/build-iot-apps-with-digi-iot-application-framework"
 published_at: "2026-07-17T01:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:526f3557c64a31eeea3f6177b851bbb3bf6ffd8388645e86e788ada7a522c5b6"
 ---
 

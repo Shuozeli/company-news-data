@@ -7,7 +7,7 @@ source_id: "eagle-bancorp-inc-common-stock-rss-8b207bc4b3e9"
 canonical_url: "https://ir.eaglebankcorp.com/news/news-details/2026/Eagle-Bancorp-Nominates-Trevor-Montano-to-the-Companys-Board-of-Directors/default.aspx"
 published_at: "2026-03-24T20:39:00+00:00"
 first_seen_at: "2026-07-27T01:59:54.275677+00:00"
-fetched_at: "2026-07-28T21:20:08.973143+00:00"
+fetched_at: "2026-07-29T00:26:47.142617+00:00"
 content_hash: "sha256:4460ad9ab9a53ebdfb12ec7fab11fbc868341ed4f3e81b176d114e944a36229a"
 ---
 

@@ -56,5 +56,22 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ce/viant-technology-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 26334,
+        "sha256": "sha256:fe48d22254dedefeded80789bee0688bcc32f14c8b8a89282e98d1b506ba0c87",
+        "newest_at": "2026-07-14T19:35:00+00:00",
+        "oldest_at": "2024-04-25T16:09:02+00:00"
+      }
+    ]
+  }
 }

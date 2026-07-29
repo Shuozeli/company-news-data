@@ -7,7 +7,7 @@ source_id: "champion-homes-inc-common-stock-rss-95468d946a2d"
 canonical_url: "http://ir.championhomes.com/press-releases/press-release-details/2026/Champion-Homes-Wins-MHI-Excellence-in-Manufactured-Housing-Award-for-12th-Consecutive-Year/default.aspx"
 published_at: "2026-04-08T20:15:00+00:00"
 first_seen_at: "2026-07-25T01:34:12.914210+00:00"
-fetched_at: "2026-07-28T20:24:18.116253+00:00"
+fetched_at: "2026-07-28T23:09:04.485281+00:00"
 content_hash: "sha256:b05ebb9b84a4226bd52bef7c41d1ecac8d90af3e3fad7f724f3c019b40f7f714"
 ---
 

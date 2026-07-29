@@ -7,7 +7,7 @@ source_id: "karooooo-ltd-ordinary-shares-rss-90fe8cb4cf55"
 canonical_url: "https://karooooo.com/press-release/karooooo-reports-q1-2027-results-with-record-net-subscriber-additions-and-accelerating-growth/"
 published_at: "2026-07-15T20:37:30+00:00"
 first_seen_at: "2026-07-20T23:17:55.333800+00:00"
-fetched_at: "2026-07-28T21:23:37.259877+00:00"
+fetched_at: "2026-07-29T00:12:19.960855+00:00"
 content_hash: "sha256:8d809cb6ef8a9bf1a634c29ab95753f22cca1cf13cb876b79917ec431d2d7671"
 ---
 

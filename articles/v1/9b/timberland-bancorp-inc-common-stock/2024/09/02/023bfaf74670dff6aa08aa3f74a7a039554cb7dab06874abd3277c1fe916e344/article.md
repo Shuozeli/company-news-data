@@ -7,7 +7,7 @@ source_id: "timberland-bancorp-inc-common-stock-rss-5ec6bfedda23"
 canonical_url: "https://timberlandbancorp.q4ir.com/news/news-details/2024/Timberland-Bancorp-Named-to-Piper-Sandler-Bank-and-Thrift-2024-Sm-All-Stars/default.aspx"
 published_at: "2024-09-30T20:00:00+00:00"
 first_seen_at: "2026-07-26T02:42:36.256216+00:00"
-fetched_at: "2026-07-28T21:18:50.206243+00:00"
+fetched_at: "2026-07-29T00:04:21.741723+00:00"
 content_hash: "sha256:f9e7625deb8c97ba584c46e5ca315b4ffa5e03cdcd2c4846dde73534cbc5814e"
 ---
 

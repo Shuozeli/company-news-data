@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c0/lifezone-metals-limited-ordinary-shares/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 16903,
+        "sha256": "sha256:e31d1003620ff9aa39d411c2a82138813541d466ad9d3b2bc01961ba5219bdb8",
+        "newest_at": "2026-07-27T04:00:00+00:00",
+        "oldest_at": "2026-03-16T17:23:00+00:00"
+      }
+    ]
+  }
 }

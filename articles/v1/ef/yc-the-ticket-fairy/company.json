@@ -24,5 +24,22 @@
       "partition": "2026-05",
       "record_count": 8
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ef/yc-the-ticket-fairy/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 25043,
+        "sha256": "sha256:9a6b4d3f07adc859e04ec0fb69994d143f60ea2c7941f85f9baeff2a37591485",
+        "newest_at": "2026-05-01T17:31:06+00:00",
+        "oldest_at": "2025-12-11T00:00:00+00:00"
+      }
+    ]
+  }
 }

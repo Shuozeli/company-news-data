@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/emprender-desde-casa-8-ideas-de-negocios-con-poco-presupuesto"
 published_at: "2022-09-20T15:23:46+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:89a4b2e7422195355474a462f77ffbc4a77aebd08119f2529edea94693780eb6"
 ---
 

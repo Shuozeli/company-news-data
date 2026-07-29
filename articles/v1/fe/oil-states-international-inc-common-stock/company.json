@@ -40,5 +40,22 @@
       "partition": "2025-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fe/oil-states-international-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11404,
+        "sha256": "sha256:d0196851450334a55d88102e0c913b859fe95b1a9124d1b285766c4070d148df",
+        "newest_at": "2025-07-14T20:04:38+00:00",
+        "oldest_at": "2021-09-02T00:00:00+00:00"
+      }
+    ]
+  }
 }

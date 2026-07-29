@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/67/prenetics-global-limited-class-a-ordinary-share/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14766,
+        "sha256": "sha256:708c4e7ef57e527e6a4a2dca293ee314ea80fbaf3304a7bab401b5763b1e8974",
+        "newest_at": "2026-07-14T17:35:27+00:00",
+        "oldest_at": "2026-04-02T13:00:46+00:00"
+      }
+    ]
+  }
 }

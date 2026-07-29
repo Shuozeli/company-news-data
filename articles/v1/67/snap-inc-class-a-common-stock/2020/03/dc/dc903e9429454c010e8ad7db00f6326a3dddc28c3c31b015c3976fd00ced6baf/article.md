@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/monolith-to-multicloud-microservices-snap-service-mesh"
 published_at: "2020-03-04T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T20:38:20.120259+00:00"
+fetched_at: "2026-07-28T23:22:34.016732+00:00"
 content_hash: "sha256:28a4b9eb215e48e9e06181deb099eee50ea55f56f44c32b7307f85d12fdb6a8d"
 ---
 

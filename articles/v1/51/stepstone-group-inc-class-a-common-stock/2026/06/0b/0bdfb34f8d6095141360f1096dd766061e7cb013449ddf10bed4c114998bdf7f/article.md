@@ -7,7 +7,7 @@ source_id: "stepstone-group-inc-class-a-common-stock-rss-d53e45329a72"
 canonical_url: "https://www.stepstonegroup.com/news-insights/ventures-shifting-landscape-liquidity-selectivity-and-secondaries/"
 published_at: "2026-06-09T14:22:52+00:00"
 first_seen_at: "2026-07-24T02:21:02.641674+00:00"
-fetched_at: "2026-07-28T20:22:14.595312+00:00"
+fetched_at: "2026-07-28T23:06:00.697821+00:00"
 content_hash: "sha256:7723a5db118cb06908b068fc72989cc3fa9c4c6860b8199a8bdd8901aac435fe"
 ---
 

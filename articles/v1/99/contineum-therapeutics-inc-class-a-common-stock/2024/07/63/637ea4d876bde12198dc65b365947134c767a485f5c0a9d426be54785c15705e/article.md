@@ -7,7 +7,7 @@ source_id: "contineum-therapeutics-inc-class-a-common-stock-rss-954367339e87"
 canonical_url: "https://contineum-tx.com/publications/targeting-the-muscarinic-m1-receptor-with-a-selective-brain-penetrant-antagonist-to-promote-remyelination-in-multiple-sclerosis/"
 published_at: "2024-07-31T15:00:11+00:00"
 first_seen_at: "2026-07-25T03:15:09.445652+00:00"
-fetched_at: "2026-07-28T20:33:36.300163+00:00"
+fetched_at: "2026-07-28T23:18:11.580766+00:00"
 content_hash: "sha256:01c25b76a140cb0feab1ac316045002bc11c78ff87f75f38d414c9da05f3704b"
 ---
 

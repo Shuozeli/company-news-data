@@ -7,7 +7,7 @@ source_id: "american-express-company-common-stock-rss-567d71192cd7"
 canonical_url: "https://americanexpress.mediaroom.com/2026-05-28-American-Express-Cardmembers-Can-Now-Tap-and-Ride-on-More-Transit-Systems-Across-Canada"
 published_at: "2026-05-28T14:00:00+00:00"
 first_seen_at: "2026-07-24T15:49:06.140336+00:00"
-fetched_at: "2026-07-28T21:23:40.917610+00:00"
+fetched_at: "2026-07-29T00:25:35.005980+00:00"
 content_hash: "sha256:75091061fc05652918d74c5ed30ac9e1c17fbcc045be307efbe5a1a8440eb003"
 ---
 

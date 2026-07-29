@@ -28,5 +28,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/92/yc-focal-systems/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8183,
+        "sha256": "sha256:41de0ccb4e3fbba6d531ec7387dcd3ef2b37028d82fd7fc993f42a16d904abf8",
+        "newest_at": "2026-06-18T13:11:30+00:00",
+        "oldest_at": "2023-04-03T20:30:00+00:00"
+      }
+    ]
+  }
 }

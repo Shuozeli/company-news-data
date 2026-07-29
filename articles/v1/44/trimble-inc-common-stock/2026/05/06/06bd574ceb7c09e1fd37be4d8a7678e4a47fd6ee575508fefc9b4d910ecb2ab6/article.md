@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/3-ways-to-produce-faster-more-accurate-mep-bids"
 published_at: "2026-05-08T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T20:33:46.789564+00:00"
+fetched_at: "2026-07-28T23:18:38.216278+00:00"
 content_hash: "sha256:584722fd43df5aa2e227b05e220fa5b7b4e828125b6bdfffc7bd8ee38554ce8a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "hawaiian-electric-industries-inc-common-stock-rss-20259465158f"
 canonical_url: "https://www.hei.com/investor-relations/news-and-events/news/news-details/2025/HEI-Reports-Second-Quarter-2025-Results/default.aspx"
 published_at: "2025-08-07T20:17:00+00:00"
 first_seen_at: "2026-07-25T07:43:38.567861+00:00"
-fetched_at: "2026-07-28T20:33:57.210870+00:00"
+fetched_at: "2026-07-28T23:18:57.783665+00:00"
 content_hash: "sha256:a4a36d399823881f6a149fabf09a80b87594cc7f4ea2bf0774f67efb93edfb4f"
 ---
 

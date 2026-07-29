@@ -7,7 +7,7 @@ source_id: "aligos-therapeutics-inc-common-stock-rss-e904f5283fa0"
 canonical_url: "https://aligos.com/potent-and-durable-off-treatment-reduction-of-hbsag-levels-and-cccdna-derived-transcripts-by-the-cam-e-alg-001075-in-cell-based-experiments/"
 published_at: "2026-05-28T06:29:00+00:00"
 first_seen_at: "2026-07-24T09:07:29.405763+00:00"
-fetched_at: "2026-07-28T21:02:43.709994+00:00"
+fetched_at: "2026-07-28T23:49:30.340433+00:00"
 content_hash: "sha256:84054932eb58b0eb36dfd162a28899d992b4a0ad70cbc4234cf46336302a5ffa"
 ---
 

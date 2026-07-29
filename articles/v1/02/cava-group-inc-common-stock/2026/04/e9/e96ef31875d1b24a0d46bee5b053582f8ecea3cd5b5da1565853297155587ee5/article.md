@@ -7,7 +7,7 @@ source_id: "cava-group-inc-common-stock-rss-ff061fdba8bb"
 canonical_url: "https://investor.cava.com/news/news-details/2026/CAVA-Makes-Waves-with-Debut-of-Glazed-Salmon--Its-First-Ever-Seafood-Protein/default.aspx"
 published_at: "2026-04-15T12:00:00+00:00"
 first_seen_at: "2026-07-27T00:31:34.983362+00:00"
-fetched_at: "2026-07-28T21:39:37.081798+00:00"
+fetched_at: "2026-07-29T00:23:36.580843+00:00"
 content_hash: "sha256:1e4924c56c24aea115b14f618a06a60e47863129c15f63b59ce4c9f311ea6275"
 ---
 

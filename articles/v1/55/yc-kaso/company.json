@@ -60,5 +60,22 @@
       "partition": "2024-11",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/55/yc-kaso/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 20717,
+        "sha256": "sha256:8317a73abf7af818700324357cb327c946458e0ed20e3e30d4a838693097a841",
+        "newest_at": "2024-11-11T00:00:00+00:00",
+        "oldest_at": "2022-04-21T00:00:00+00:00"
+      }
+    ]
+  }
 }

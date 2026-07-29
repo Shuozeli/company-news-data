@@ -7,8 +7,8 @@ source_id: "unitil-corporation-common-stock-rss-b52a37baddee"
 canonical_url: "https://unitil.com/account-billing"
 published_at: "2020-12-03T22:19:31+00:00"
 first_seen_at: "2026-07-20T23:22:29.081518+00:00"
-fetched_at: "2026-07-28T20:24:50.973699+00:00"
-content_hash: "sha256:3c6c7d4a8d0356a4a7a23fdf7c6b9a6a1e69ba52c0965125093917ba3cf4d8ee"
+fetched_at: "2026-07-28T23:09:53.129731+00:00"
+content_hash: "sha256:646b33e85f841c72bc202ac6ae9d62e8cb673ce3847419afc5c58bccbf6be340"
 ---
 
 # Account & Billing
@@ -88,13 +88,13 @@ Manage your account your way with a MyUnitil customer portal and mobile app!
 ## Helpful Resources
 
 
-[October Is Energy Awareness Month](https://unitil.com/blog/october-energy-awareness-month)
+[3 Simple and No-Cost Ways to Save Energy](https://unitil.com/blog/3-simple-and-no-cost-ways-save-energy)
 
 
-[7 Low-Cost Efficiency Improvements for Landlords](https://unitil.com/blog/7-low-cost-efficiency-improvements-landlords)
+[How to Estimate EV “Fuel” Efficiency](https://unitil.com/blog/how-estimate-ev-fuel-efficiency)
 
 
-[Get the Most out of your Ceiling Fans](https://unitil.com/blog/get-most-out-your-ceiling-fans)
+[Energy-Saving Tips You Can Act on Today](https://unitil.com/blog/energy-saving-tips-you-can-act-today)
 
 
 [Explore more savings tips →](https://unitil.com/blog/categories/savings)

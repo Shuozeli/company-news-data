@@ -7,7 +7,7 @@ source_id: "palatin-technologies-inc-common-stock-rss-d180129b5346"
 canonical_url: "https://palatin.com/press_releases/boehringer-ingelheim-and-palatin-technologies-to-develop-potential-first-in-class-melanocortin-receptor-targeted-treatment-for-patients-with-retinal-diseases/"
 published_at: "2025-08-18T12:50:06+00:00"
 first_seen_at: "2026-07-25T18:13:52.743786+00:00"
-fetched_at: "2026-07-28T21:35:57.652848+00:00"
+fetched_at: "2026-07-29T00:14:35.041460+00:00"
 content_hash: "sha256:d1f987fcd872c33a6ebeff7498ff29fc41f334fa07f21e7da790d5f61bd4fbdf"
 ---
 

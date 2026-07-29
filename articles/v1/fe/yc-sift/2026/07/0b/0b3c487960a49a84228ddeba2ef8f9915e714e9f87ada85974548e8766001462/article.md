@@ -5,7 +5,7 @@ company_key: "yc-sift"
 company: "Sift"
 source_id: "yc-sift-rss-c48c6d88eecb"
 canonical_url: "https://sift.com/blog/account-takeover-protection-how-to-stop-ato/"
-published_at: "2026-07-06T17:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:24:10.644571+00:00"
 fetched_at: "2026-07-28T20:34:24.680558+00:00"
 content_hash: "sha256:a57d57a85456bc7ac3e1f7d386012f5f9d761b6d966970cc2a275ff867b174a9"

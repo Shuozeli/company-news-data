@@ -12,5 +12,22 @@
       "partition": "2026-01",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fc/yc-volley/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 7250,
+        "sha256": "sha256:fb538dca67efc181f9d16ca8639357004f7c993066a08d8dc6b93583ce3ed219",
+        "newest_at": "2026-01-19T19:08:37.835+00:00",
+        "oldest_at": "2026-01-07T11:06:04.622+00:00"
+      }
+    ]
+  }
 }

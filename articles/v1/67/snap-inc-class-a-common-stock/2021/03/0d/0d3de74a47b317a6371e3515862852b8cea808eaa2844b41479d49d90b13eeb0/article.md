@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/gpu_transcoding_at_scale"
 published_at: "2021-03-23T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T20:38:20.120259+00:00"
+fetched_at: "2026-07-28T23:22:34.016732+00:00"
 content_hash: "sha256:e655097c650f15a7f28b0520f9b772fb5a3ebef88b7750203b201ef0206461a3"
 ---
 

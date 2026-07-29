@@ -7,7 +7,7 @@ source_id: "yc-spaceium-inc-rss-9f6edbd2b214"
 canonical_url: "https://spaceium.com/spaceium-partners-space-machines-for-space-cryogenic-refuelling/"
 published_at: "2024-01-17T11:48:26+00:00"
 first_seen_at: "2026-07-25T01:53:20.958572+00:00"
-fetched_at: "2026-07-28T20:26:16.465474+00:00"
+fetched_at: "2026-07-28T23:11:37.521719+00:00"
 content_hash: "sha256:5d73039359e9a8ec428573aa91467e06c5aed342b66eb9c8f92bc56020bc0fdc"
 ---
 

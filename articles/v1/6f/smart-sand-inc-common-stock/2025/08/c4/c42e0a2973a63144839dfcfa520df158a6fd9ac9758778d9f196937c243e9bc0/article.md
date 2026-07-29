@@ -7,7 +7,7 @@ source_id: "smart-sand-inc-common-stock-rss-1046bb579a6a"
 canonical_url: "https://ir.smartsand.com/2025-08-04-SMART-SAND,-INC-ANNOUNCES-TIMING-OF-SECOND-QUARTER-2025-EARNINGS-RELEASE"
 published_at: "2025-08-04T12:47:00+00:00"
 first_seen_at: "2026-07-20T23:19:08.226751+00:00"
-fetched_at: "2026-07-28T21:47:37.557183+00:00"
+fetched_at: "2026-07-29T00:07:22.437619+00:00"
 content_hash: "sha256:284dee0fcbe294d31f46f1e04cb7d9d240253309c4ea34d0e681fe685bc32259"
 ---
 

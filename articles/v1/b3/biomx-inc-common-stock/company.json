@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b3/biomx-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 14677,
+        "sha256": "sha256:e49513c8b2323dd5c3884db3a992c852875bb2e9d02d40403727f617b73c59c5",
+        "newest_at": "2026-07-28T13:15:00+00:00",
+        "oldest_at": "2026-06-01T13:25:00+00:00"
+      }
+    ]
+  }
 }

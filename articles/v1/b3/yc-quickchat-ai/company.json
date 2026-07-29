@@ -196,5 +196,49 @@
       "partition": "2026-07",
       "record_count": 8
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b3/yc-quickchat-ai/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52305,
+        "sha256": "sha256:674717263420d7d72bee3dcc5a881f938816ea88411ad3e735d92ce1df7985b4",
+        "newest_at": "2026-07-20T00:00:00+00:00",
+        "oldest_at": "2025-11-13T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/b3/yc-quickchat-ai/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 50101,
+        "sha256": "sha256:2e0451b413c9cecff62b887e3d3f23d1a9235c4f338b3e1f042f1d3085653c3e",
+        "newest_at": "2025-11-10T00:00:00+00:00",
+        "oldest_at": "2025-03-05T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/b3/yc-quickchat-ai/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 49185,
+        "sha256": "sha256:21fc78929be483fe1c16ef5275662b421b2401e260f7238282a2d37879d3c5fe",
+        "newest_at": "2025-02-24T00:00:00+00:00",
+        "oldest_at": "2022-05-24T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/b3/yc-quickchat-ai/index/pages/000004.json",
+        "record_count": 15,
+        "byte_count": 14632,
+        "sha256": "sha256:88dca6cf9fafb44072bab6f2015bb89eb69d9c36da3c65acc2262a27170a8fe2",
+        "newest_at": "2022-05-17T00:00:00+00:00",
+        "oldest_at": "2020-10-05T00:00:00+00:00"
+      }
+    ]
+  }
 }

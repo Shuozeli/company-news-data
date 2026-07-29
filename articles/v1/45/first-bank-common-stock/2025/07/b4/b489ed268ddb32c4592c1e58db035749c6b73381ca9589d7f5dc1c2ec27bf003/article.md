@@ -7,7 +7,7 @@ source_id: "first-bank-common-stock-rss-ef29effc713e"
 canonical_url: "https://frba.q4ir.com/news/news-details/2025/First-Bank-Announces-Second-Quarter-2025-Net-Income-of-10-2Million/default.aspx"
 published_at: "2025-07-22T20:37:00+00:00"
 first_seen_at: "2026-07-27T09:18:40.127+00:00"
-fetched_at: "2026-07-28T20:48:46.790283+00:00"
+fetched_at: "2026-07-28T23:34:00.650073+00:00"
 content_hash: "sha256:6e6ec8ff8584bb74407a7cdb66f67806dc203fc8945a0948d3fceaa51a863f65"
 ---
 

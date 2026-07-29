@@ -7,7 +7,7 @@ source_id: "riley-exploration-permian-inc-common-stock-rss-18f2e505d58c"
 canonical_url: "https://rileypermian.com/investors/press-releases/news-details/2026/Riley-Permian-Declares-Quarterly-Dividend/default.aspx"
 published_at: "2026-01-09T13:30:00+00:00"
 first_seen_at: "2026-07-25T21:31:45.109736+00:00"
-fetched_at: "2026-07-28T21:03:22.547900+00:00"
+fetched_at: "2026-07-28T23:50:13.605412+00:00"
 content_hash: "sha256:0868712c4f59cd8af8632e7e6099d46b3275fd08e016c426fefd50716f0b30bf"
 ---
 

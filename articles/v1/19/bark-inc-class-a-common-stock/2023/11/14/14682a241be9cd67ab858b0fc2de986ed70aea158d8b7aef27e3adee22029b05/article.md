@@ -7,7 +7,7 @@ source_id: "bark-inc-class-a-common-stock-atom-d9f7d0936a18"
 canonical_url: "https://bark.co/blogs/press/bark-celebrates-a-fun-old-fashioned-family-christmas-with-the-launch-of-limited-edition-national-lampoon-s-christmas-vacation-dog-toys"
 published_at: "2023-11-28T14:00:04+00:00"
 first_seen_at: "2026-07-25T01:26:35.275186+00:00"
-fetched_at: "2026-07-28T20:45:02.889873+00:00"
+fetched_at: "2026-07-28T23:30:18.317292+00:00"
 content_hash: "sha256:d9f35bfeb1884cf151b57f726b7c7f2b09d84bf28c895a48036d124ce41b2831"
 ---
 

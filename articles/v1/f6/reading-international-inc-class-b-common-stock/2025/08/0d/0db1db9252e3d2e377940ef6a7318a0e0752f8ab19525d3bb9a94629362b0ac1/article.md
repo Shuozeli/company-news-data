@@ -7,7 +7,7 @@ source_id: "reading-international-inc-class-b-common-stock-rss-6934166d39c5"
 canonical_url: "https://www.readingrdi.com/national-cinema-day-au-nz-2025/"
 published_at: "2025-08-26T12:00:13+00:00"
 first_seen_at: "2026-07-25T20:36:56.283617+00:00"
-fetched_at: "2026-07-28T22:05:23.652527+00:00"
+fetched_at: "2026-07-29T00:44:10.114429+00:00"
 content_hash: "sha256:cbc4d88dd57debf421aebc854a6cef1d2ecd4a06fa4871346d8aa66e536dfb29"
 ---
 

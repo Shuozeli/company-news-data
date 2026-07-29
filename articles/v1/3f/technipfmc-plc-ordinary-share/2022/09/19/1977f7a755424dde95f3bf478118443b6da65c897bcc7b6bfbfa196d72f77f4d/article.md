@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-significant-subsea-contract-by-totalenergies-for-lapa-north-east-development/"
 published_at: "2022-09-14T09:15:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-28T21:49:44.390133+00:00"
+fetched_at: "2026-07-29T00:26:14.657354+00:00"
 content_hash: "sha256:5b0126ff9dd5edb42eba1074ac4e13a5392e86794532314789790a0fbe7721a9"
 ---
 

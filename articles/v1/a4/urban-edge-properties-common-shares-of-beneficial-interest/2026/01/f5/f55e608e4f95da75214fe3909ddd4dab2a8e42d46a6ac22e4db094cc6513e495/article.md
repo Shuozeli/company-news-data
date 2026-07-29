@@ -7,7 +7,7 @@ source_id: "urban-edge-properties-common-shares-of-beneficial-interest-rss-f8b93
 canonical_url: "https://investors.uedge.com/investors/press-releases-and-filings/press-releases/news-details/2026/Urban-Edge-Properties-Upsizes-Aggregate-Borrowing-Capacity-to-950-Million-with-Amended-and-Extended-Credit-Facility-and-250-Million-of-Delayed-Draw-Term-Loans/default.aspx"
 published_at: "2026-01-22T21:15:00+00:00"
 first_seen_at: "2026-07-27T05:59:25.165685+00:00"
-fetched_at: "2026-07-28T20:41:46.970137+00:00"
+fetched_at: "2026-07-28T23:25:55.063306+00:00"
 content_hash: "sha256:cee5195524caa02d9b1a21455b26bd5f61aacb78b75d6d78ee2c1fa5fa80e2e8"
 ---
 

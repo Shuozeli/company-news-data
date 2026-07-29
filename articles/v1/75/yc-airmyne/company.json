@@ -24,5 +24,22 @@
       "partition": "2024-09",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/75/yc-airmyne/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 7996,
+        "sha256": "sha256:02e0083c33f611929a26fe38a6884248f9e9106a3811569120e57b54cb14c5de",
+        "newest_at": "2024-09-19T00:58:03+00:00",
+        "oldest_at": "2024-03-20T00:57:00+00:00"
+      }
+    ]
+  }
 }

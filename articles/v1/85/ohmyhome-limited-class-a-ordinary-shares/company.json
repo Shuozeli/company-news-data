@@ -4,9 +4,9 @@
     "key": "ohmyhome-limited-class-a-ordinary-shares",
     "name": "Ohmyhome Limited Class A Ordinary Shares"
   },
-  "record_count": 21,
+  "record_count": 23,
   "first_published_at": "2024-04-04T09:50:57+00:00",
-  "last_published_at": "2026-07-27T00:30:00+00:00",
+  "last_published_at": "2026-07-28T12:46:24+00:00",
   "partitions": [
     {
       "partition": "2024-04",
@@ -42,11 +42,28 @@
     },
     {
       "partition": "2026-06",
-      "record_count": 2
+      "record_count": 3
     },
     {
       "partition": "2026-07",
-      "record_count": 9
+      "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/85/ohmyhome-limited-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 23,
+        "byte_count": 27905,
+        "sha256": "sha256:6ab78a942c0e0b63086017ced883f215f587d85d5366aa9b1f1a05f80cfdb0fc",
+        "newest_at": "2026-07-28T12:46:24+00:00",
+        "oldest_at": "2024-04-04T09:50:57+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "cbl-associates-properties-inc-common-stock-rss-516cf3ac8c37"
 canonical_url: "https://invest.cblproperties.com/news-views/news-details/2026/CBL-Properties-Sets-Second-Quarter-2026-Earnings-Release-Date/default.aspx"
 published_at: "2026-07-21T15:00:00+00:00"
 first_seen_at: "2026-07-26T11:17:59.392658+00:00"
-fetched_at: "2026-07-28T20:49:58.969005+00:00"
+fetched_at: "2026-07-28T23:35:32.168494+00:00"
 content_hash: "sha256:b67c4ae1f65e336cc7ff7779d4eb4da644bf553d5ca96086b75bfaf719668426"
 ---
 

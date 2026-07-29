@@ -7,7 +7,7 @@ source_id: "sound-financial-bancorp-inc-common-stock-rss-c64bb66fb796"
 canonical_url: "https://investor.soundcb.com/news/news-details/2026/Sound-Financial-Bancorp-Inc--Announces-Annual-Shareholders-Meeting-Date/default.aspx"
 published_at: "2026-02-12T21:30:00+00:00"
 first_seen_at: "2026-07-25T23:47:40.910620+00:00"
-fetched_at: "2026-07-28T21:29:57.508428+00:00"
+fetched_at: "2026-07-29T00:26:22.233161+00:00"
 content_hash: "sha256:f19d38ae21e956047caccc20bef0b714b63eb4e6935c49c55857138cda5f18e7"
 ---
 

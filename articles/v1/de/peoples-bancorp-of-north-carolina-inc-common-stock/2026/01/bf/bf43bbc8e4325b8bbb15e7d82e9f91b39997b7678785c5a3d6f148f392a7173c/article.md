@@ -7,7 +7,7 @@ source_id: "peoples-bancorp-of-north-carolina-inc-common-stock-rss-1893cdd41d17"
 canonical_url: "https://pebk.q4ir.com/news-events/news-market-data/news-details/2026/Peoples-Bancorp-Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-01-26T14:00:00+00:00"
 first_seen_at: "2026-07-25T18:45:30.727373+00:00"
-fetched_at: "2026-07-28T20:26:14.488426+00:00"
+fetched_at: "2026-07-28T23:11:41.637137+00:00"
 content_hash: "sha256:138b6627991e31ac22db98f9e595f7e52042e762ec3719f468a99f14418b3dce"
 ---
 

@@ -7,7 +7,7 @@ source_id: "edgewell-personal-care-company-common-stock-atom-26e434d43770"
 canonical_url: "https://edgewell.com/blogs/news/leading-our-people-functions-and-our-legal-team-toward-success"
 published_at: "2024-01-17T14:09:35+00:00"
 first_seen_at: "2026-07-20T23:16:55.527261+00:00"
-fetched_at: "2026-07-28T19:39:38.451376+00:00"
+fetched_at: "2026-07-28T23:13:01.775419+00:00"
 content_hash: "sha256:1730e0b9b5fdfb857975b461fdc3e9cb777e870aa293bd0a29ab49cf4e0a35d0"
 ---
 

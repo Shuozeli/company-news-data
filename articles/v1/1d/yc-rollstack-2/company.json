@@ -40,5 +40,22 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1d/yc-rollstack-2/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 15603,
+        "sha256": "sha256:8a5719b2824ef4e8ac5a9a858c6e004e177c10590b252688ce081ccbf75a3f33",
+        "newest_at": "2026-06-24T00:00:00+00:00",
+        "oldest_at": "2024-10-18T00:00:00+00:00"
+      }
+    ]
+  }
 }

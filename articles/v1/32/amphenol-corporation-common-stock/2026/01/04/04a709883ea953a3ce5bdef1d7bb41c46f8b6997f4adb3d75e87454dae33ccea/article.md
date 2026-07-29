@@ -7,7 +7,7 @@ source_id: "amphenol-corporation-common-stock-rss-77a167a514cc"
 canonical_url: "https://investors.amphenol.com/news-and-events/news-details/2026/Amphenol-Reports-Record-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-01-28T13:00:00+00:00"
 first_seen_at: "2026-07-26T22:30:06.734884+00:00"
-fetched_at: "2026-07-28T21:18:55.699973+00:00"
+fetched_at: "2026-07-29T00:30:41.375943+00:00"
 content_hash: "sha256:3f6d91bfecccc4a918725fc00ad7dc12af5d3bb169f48286841f49adb61fbab2"
 ---
 

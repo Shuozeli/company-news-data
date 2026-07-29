@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bc/yc-laika/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 5887,
+        "sha256": "sha256:bc268abd3f369c91a4c9ac2351ff04a677e41433b41e1ef821301ac4f5103513",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2026-07-28T21:16:50.994015+00:00"
+      }
+    ]
+  }
 }

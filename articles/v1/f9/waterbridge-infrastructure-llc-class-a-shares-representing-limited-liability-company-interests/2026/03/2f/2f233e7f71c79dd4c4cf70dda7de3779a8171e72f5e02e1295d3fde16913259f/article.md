@@ -7,7 +7,7 @@ source_id: "waterbridge-infrastructure-llc-class-a-shares-representing-limited-l
 canonical_url: "https://wbinfra.com/news/news-details/2026/WaterBridge-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx"
 published_at: "2026-03-16T10:00:00+00:00"
 first_seen_at: "2026-07-26T07:53:25.111763+00:00"
-fetched_at: "2026-07-28T20:32:43.776578+00:00"
+fetched_at: "2026-07-28T23:17:54.530589+00:00"
 content_hash: "sha256:6ee215074f1ec7fc12e9d0c277c7bb2fd1d0bc4d190cb4ed44a01f4bec71c727"
 ---
 

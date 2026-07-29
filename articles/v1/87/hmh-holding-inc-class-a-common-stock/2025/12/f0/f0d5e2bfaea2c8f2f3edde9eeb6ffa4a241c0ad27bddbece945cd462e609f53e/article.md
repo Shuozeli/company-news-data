@@ -7,7 +7,7 @@ source_id: "hmh-holding-inc-class-a-common-stock-rss-06e03ba42fbb"
 canonical_url: "https://hmhw.com/archives/3509/hmh-holding-b-v-successful-placement-of-a-senior-secured-bond-issue-2/"
 published_at: "2025-12-04T16:22:59+00:00"
 first_seen_at: "2026-07-24T09:07:30.783862+00:00"
-fetched_at: "2026-07-28T20:51:36.835981+00:00"
+fetched_at: "2026-07-28T23:37:02.956386+00:00"
 content_hash: "sha256:b00dc705be40dd93b0f5ccfd697d642d7aeafde0a9ef48019198185a64908d16"
 ---
 

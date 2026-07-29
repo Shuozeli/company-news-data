@@ -7,7 +7,7 @@ source_id: "simpson-manufacturing-company-inc-common-stock-rss-37136d895a62"
 canonical_url: "https://ir.simpsonmfg.com/news/news-details/2026/Simpson-Manufacturing-Co--Inc--to-Announce-Second-Quarter-2026-Financial-Results-on-Monday-July-27th/default.aspx"
 published_at: "2026-07-13T13:00:00+00:00"
 first_seen_at: "2026-07-25T23:14:37.290492+00:00"
-fetched_at: "2026-07-28T20:51:07.008491+00:00"
+fetched_at: "2026-07-28T23:36:33.273190+00:00"
 content_hash: "sha256:9e7222defae9307be573092c05575288883fbb4515ce3ae8745598ceae158470"
 ---
 

@@ -7,7 +7,7 @@ source_id: "first-business-financial-services-inc-common-stock-rss-e6a9ea1577e1"
 canonical_url: "https://ir.firstbusiness.bank/news-presentations/news-details/2026/First-Business-Bank-Announces-Second-Quarter-2026-Earnings-Conference-Call/default.aspx"
 published_at: "2026-07-06T20:30:00+00:00"
 first_seen_at: "2026-07-25T04:46:11.112331+00:00"
-fetched_at: "2026-07-28T20:57:07.692134+00:00"
+fetched_at: "2026-07-28T23:43:03.427891+00:00"
 content_hash: "sha256:9dddce7c9f292801c46d1c49dd8486fae0bb4efa943c9169e670f830f3e04f59"
 ---
 

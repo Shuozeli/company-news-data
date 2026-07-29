@@ -7,7 +7,7 @@ source_id: "blackrock-tcp-capital-corp-common-stock-rss-2cf61b3050bd"
 canonical_url: "https://tcpcapital.com/investor-relations/press-releases/press-release-details/2026/BlackRock-TCP-Capital-Corp--to-Report-Fourth-Quarter-Ended-December-31-2025-Financial-Results-on-February-27-2026/default.aspx"
 published_at: "2026-01-29T13:05:00+00:00"
 first_seen_at: "2026-07-27T00:15:36.305231+00:00"
-fetched_at: "2026-07-28T19:32:18.996629+00:00"
+fetched_at: "2026-07-28T22:54:20.867795+00:00"
 content_hash: "sha256:0d34b13de001bd747dac567de04cc54692dcda133e20cf24d57b53e119b8fe7c"
 ---
 

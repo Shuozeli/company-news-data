@@ -7,7 +7,7 @@ source_id: "heritage-insurance-holdings-inc-common-stock-rss-637bd21dca6b"
 canonical_url: "https://www.heritagepci.com/investor-news/tampa-based-heritage-insurance-wins-national-award-for-healthiest-workplaces-for-second-consecutive-year/"
 published_at: "2026-03-28T16:27:00+00:00"
 first_seen_at: "2026-07-25T07:59:28.574316+00:00"
-fetched_at: "2026-07-28T21:19:54.555225+00:00"
+fetched_at: "2026-07-29T00:29:32.422872+00:00"
 content_hash: "sha256:93db22ab2749f67fab9efe4235d855b7b6d579bc326def8d0ab0eebb6e262bd6"
 ---
 

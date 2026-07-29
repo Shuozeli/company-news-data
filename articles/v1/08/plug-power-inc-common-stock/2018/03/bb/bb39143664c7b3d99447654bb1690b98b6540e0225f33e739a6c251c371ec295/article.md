@@ -7,7 +7,7 @@ source_id: "plug-power-inc-common-stock-rss-15e242ac1693"
 canonical_url: "https://www.plugpower.com/blog/how-much-do-you-know-about-the-hydrogen-economy/"
 published_at: "2018-03-20T15:00:48+00:00"
 first_seen_at: "2026-07-20T03:31:30.208255+00:00"
-fetched_at: "2026-07-28T22:01:38.301094+00:00"
+fetched_at: "2026-07-29T00:40:06.818792+00:00"
 content_hash: "sha256:23ff0c825e1095aad710c10279f730d560e1ea4152dbc0982db67b777beb9968"
 ---
 

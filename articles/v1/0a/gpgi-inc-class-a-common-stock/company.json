@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0a/gpgi-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13965,
+        "sha256": "sha256:03128ce6b75571a925dddbf9980914634683ed1c359ad7e258f35e45e65dd0c4",
+        "newest_at": "2026-07-23T12:00:19+00:00",
+        "oldest_at": "2026-02-18T13:00:25+00:00"
+      }
+    ]
+  }
 }

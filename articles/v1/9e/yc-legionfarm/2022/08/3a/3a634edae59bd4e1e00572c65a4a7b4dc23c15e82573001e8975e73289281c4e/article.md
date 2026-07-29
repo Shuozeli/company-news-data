@@ -7,7 +7,7 @@ source_id: "yc-legionfarm-rss-6c0916a33cbe"
 canonical_url: "https://medium.com/@legionfarm_official/legionfarm-hardware-program-part-2-94a4368b0489"
 published_at: "2022-08-14T11:38:57+00:00"
 first_seen_at: "2026-07-25T11:54:32.807926+00:00"
-fetched_at: "2026-07-28T20:13:08.534626+00:00"
+fetched_at: "2026-07-28T22:54:23.598175+00:00"
 content_hash: "sha256:ba3ee294555e595ae25c416c1745fe6f9b07c4697a5263be6541f29cca94a6a5"
 ---
 

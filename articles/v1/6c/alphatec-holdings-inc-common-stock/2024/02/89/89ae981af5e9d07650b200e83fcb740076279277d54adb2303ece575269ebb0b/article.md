@@ -7,7 +7,7 @@ source_id: "alphatec-holdings-inc-common-stock-rss-3bfcb955652a"
 canonical_url: "https://atecspine.com/press-release/"
 published_at: "2024-02-28T18:41:33+00:00"
 first_seen_at: "2026-07-24T15:28:04.636168+00:00"
-fetched_at: "2026-07-28T20:29:26.520122+00:00"
+fetched_at: "2026-07-28T23:15:34.151037+00:00"
 content_hash: "sha256:fc1474be51c71843f0a457866923fe40fb5de6c9b6cb2033ac8e0f804a31058e"
 ---
 

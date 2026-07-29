@@ -7,7 +7,7 @@ source_id: "avnet-inc-common-stock-rss-97276dcd8bba"
 canonical_url: "https://news.avnet.com/press-releases/press-release-details/2026/Softweb-Solutions-Avnet-and-LASHAN-Digital-announce-strategic-alliance-for-data-AI-and-IoT-driven-enterprise-transformation-2026-L3-k5stKBd/default.aspx"
 published_at: "2026-06-25T13:30:00+00:00"
 first_seen_at: "2026-07-28T21:48:40.971423+00:00"
-fetched_at: "2026-07-28T21:48:40.926865+00:00"
+fetched_at: "2026-07-29T00:14:11.820089+00:00"
 content_hash: "sha256:a078856f0b19061e499618a960ac4fb77de4fdc70643e3aa097da313287ee3b8"
 ---
 

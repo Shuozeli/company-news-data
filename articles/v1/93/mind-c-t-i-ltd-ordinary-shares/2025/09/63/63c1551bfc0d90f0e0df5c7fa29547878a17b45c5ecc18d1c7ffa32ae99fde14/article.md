@@ -7,7 +7,7 @@ source_id: "mind-c-t-i-ltd-ordinary-shares-rss-084dd31b7ad6"
 canonical_url: "https://mindcti.com/2025/09/02/futurenet-asia-2025/"
 published_at: "2025-09-02T12:46:02+00:00"
 first_seen_at: "2026-07-24T11:15:11.411110+00:00"
-fetched_at: "2026-07-28T21:01:56.193628+00:00"
+fetched_at: "2026-07-28T23:48:59.632250+00:00"
 content_hash: "sha256:4744fb7ba2f3e70ea6a98cea04fa8b771b1eef5a8a46a602938b39dd5f40f577"
 ---
 

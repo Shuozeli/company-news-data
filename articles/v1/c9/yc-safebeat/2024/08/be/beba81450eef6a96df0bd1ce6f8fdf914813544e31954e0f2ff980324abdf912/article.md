@@ -7,7 +7,7 @@ source_id: "yc-safebeat-rss-5fe32a996575"
 canonical_url: "https://safebeat.com/safebeat-awarded-2m-sbir-grant-to-advance-ai-based-ecg-analysis-for-mobile-therapeutic-monitoring-of-atrial-fibrillation-patients-clinical-study-at-university-of-california-san-francisco/"
 published_at: "2024-08-05T13:18:00+00:00"
 first_seen_at: "2026-07-20T23:20:46.604155+00:00"
-fetched_at: "2026-07-28T22:10:33.565015+00:00"
+fetched_at: "2026-07-29T00:48:37.803194+00:00"
 content_hash: "sha256:e570544085d81aef2f554db98e5b86bc7e04639695b009021d8a39a27d5624d7"
 ---
 

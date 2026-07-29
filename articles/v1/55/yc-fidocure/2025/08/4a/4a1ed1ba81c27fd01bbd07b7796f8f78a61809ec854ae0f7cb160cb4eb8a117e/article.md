@@ -7,7 +7,7 @@ source_id: "yc-fidocure-rss-f7dc5a4fc18d"
 canonical_url: "https://fidocure.com/fidocure-blog/veterinaryoptimistpodcast/"
 published_at: "2025-08-13T14:10:06+00:00"
 first_seen_at: "2026-07-20T23:20:29.421869+00:00"
-fetched_at: "2026-07-28T22:08:23.193780+00:00"
+fetched_at: "2026-07-29T00:46:46.902341+00:00"
 content_hash: "sha256:8b7977630e3baadec9fa976bdf3beae33bf4ad7171f6a0c80277df492ea15958"
 ---
 

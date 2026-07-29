@@ -7,7 +7,7 @@ source_id: "w-w-grainger-inc-common-stock-rss-c26f5457af09"
 canonical_url: "https://pressroom.grainger.com/news/press-release-details/2026/GRAINGER-REPORTS-RESULTS-FOR-THE-FIRST-QUARTER-2026/default.aspx"
 published_at: "2026-05-07T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.900782+00:00"
-fetched_at: "2026-07-28T21:41:04.299331+00:00"
+fetched_at: "2026-07-29T00:24:15.617790+00:00"
 content_hash: "sha256:59fa0ae9f2db605f0be1669f7b87cd7523d5d7b4a1c1cf2cdab0095a6aaa0df9"
 ---
 

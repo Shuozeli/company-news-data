@@ -3,15 +3,15 @@ schema_version: "1.0.0"
 document_id: "dd8d5c982a89e93434efae770c0f091d3b1dea652608308ed29852671442b5f3"
 company_key: "ge-aerospace-common-stock"
 company: "GE Aerospace Common Stock"
-source_id: "ge-aerospace-common-stock-news-import-bf1931810cc2"
+source_id: "ge-aerospace-common-stock-news-import-cc3bb1578416"
 canonical_url: "https://www.geaerospace.com/news/articles/ge-aerospace-celebrates-record-breaking-engine-deal-improved-durability-and-historic"
-published_at: null
-first_seen_at: "2026-07-28T16:38:42.429425+00:00"
-fetched_at: "2026-07-28T21:33:52.463534+00:00"
-content_hash: "sha256:881a9a93862b8d2894d507d871642cf57ce3ae2f59bfd8733162b5041bb795b9"
+published_at: "2026-07-28T15:55:00+00:00"
+first_seen_at: "2026-07-29T00:13:16.168769+00:00"
+fetched_at: "2026-07-29T00:13:18.172410+00:00"
+content_hash: "sha256:002414baf6006e060e44c1902500df8ebcff0bb8c1a237e6e81ad8506aad574a"
 ---
 
-# GE Aerospace Celebrates Record-Breaking Engine Deal, Improved Durability, and Historic Hybrid-Electric Flight at FIA
+# GE Aerospace Celebrates Record-Breaking Engine Deal, Improved Durability, and Historic Hybrid Electric Flight at FIA
 
 GE Aerospace has a clear mission: to be customer-driven in everything it does. That means staying focused on its customers’ needs, now and into the future.
 

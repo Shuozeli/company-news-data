@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/choosing-a-blockchain-platform-for-finprint.html"
 published_at: "2020-03-25T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-28T21:37:04.406824+00:00"
+fetched_at: "2026-07-29T00:27:54.647135+00:00"
 content_hash: "sha256:7e189b31c29a1abffb8e0d72e9fcb933f6ae73700904af5919b302a6b78691bd"
 ---
 

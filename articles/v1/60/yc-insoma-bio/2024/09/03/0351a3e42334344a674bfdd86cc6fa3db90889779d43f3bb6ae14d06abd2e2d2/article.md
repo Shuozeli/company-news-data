@@ -7,7 +7,7 @@ source_id: "yc-insoma-bio-rss-163d5fd47698"
 canonical_url: "https://insomabio.com/co-founder-dr-scott-hollenbeck-md-named-president-of-asps"
 published_at: "2024-09-30T20:56:31+00:00"
 first_seen_at: "2026-07-20T23:24:08.655569+00:00"
-fetched_at: "2026-07-28T20:16:40.075754+00:00"
+fetched_at: "2026-07-28T23:00:12.975707+00:00"
 content_hash: "sha256:6a9aa119b478d4270ec5662b9a37332cb152cb6a542a98eba9dfe8b00436ce37"
 ---
 

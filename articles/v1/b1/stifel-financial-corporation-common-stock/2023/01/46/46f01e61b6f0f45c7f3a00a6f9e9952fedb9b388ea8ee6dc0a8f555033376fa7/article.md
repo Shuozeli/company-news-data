@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2023/Eaton%20GP%20Survey%20January%202023%20FINAL%20APPROVED%20for%2001.24.2023.pdf"
 published_at: "2023-01-24T12:30:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:b921fc3daf4c54124a6a888319476b85631146a4b0c72f7e75aab89e291c1de2"
 ---
 

@@ -24,5 +24,22 @@
       "partition": "2022-11",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d7/yc-cambly/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 15827,
+        "sha256": "sha256:5c76999e8bf4803f9bde12447ff3ee9a42e8b98a3e6ce277180b6cbfe1ecbfd2",
+        "newest_at": "2022-11-30T00:00:00+00:00",
+        "oldest_at": "2018-12-18T07:56:46+00:00"
+      }
+    ]
+  }
 }

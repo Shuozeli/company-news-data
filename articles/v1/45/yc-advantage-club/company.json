@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 19
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/45/yc-advantage-club/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 20225,
+        "sha256": "sha256:a6e78c3e52c6617be080eb6baa64d9b27f64e7a58809bccbde496bd0fc9e51b8",
+        "newest_at": "2026-07-27T17:15:52+00:00",
+        "oldest_at": "2026-07-15T10:48:36+00:00"
+      }
+    ]
+  }
 }

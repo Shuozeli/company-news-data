@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/74/yc-truevault/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 7486,
+        "sha256": "sha256:5fe26c9bd29ea2d95ed0c15639c58c19d9c6f36023615a18e7db7dc2c9d61fab",
+        "newest_at": "2026-07-01T22:59:52.346+00:00",
+        "oldest_at": "2026-05-19T06:48:49.385+00:00"
+      }
+    ]
+  }
 }

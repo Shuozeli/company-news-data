@@ -7,7 +7,7 @@ source_id: "howard-hughes-holdings-inc-common-stock-rss-4e88654bb052"
 canonical_url: "https://communities.howardhughes.com/news/houston-texans-toro-district-truths-this-new-headquarters-in-bridgeland-is-a-push-for-the-future-for-more-than-the-team/"
 published_at: "2026-02-26T20:12:01+00:00"
 first_seen_at: "2026-07-24T09:07:31.143725+00:00"
-fetched_at: "2026-07-28T21:03:05.935054+00:00"
+fetched_at: "2026-07-28T23:49:42.315584+00:00"
 content_hash: "sha256:fea29b662f04c020506bd24cf85fbd9a3d4835cbcc19819a3caf6cf86e94e2da"
 ---
 

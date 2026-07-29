@@ -7,7 +7,7 @@ source_id: "doubleverify-holdings-inc-common-stock-rss-f6469e95d005"
 canonical_url: "https://medium.com/doubleverify-engineering/empowering-developer-autonomy-with-devops-champions-ba8f1cf18448"
 published_at: "2026-04-15T09:04:55+00:00"
 first_seen_at: "2026-07-20T23:17:33.321656+00:00"
-fetched_at: "2026-07-28T21:20:44.399810+00:00"
+fetched_at: "2026-07-29T00:07:21.153865+00:00"
 content_hash: "sha256:26cb57b0d0a400f93ebc2a98414f1f3b61d5d71b29a2e76867026d6d126e324b"
 ---
 

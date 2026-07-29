@@ -7,7 +7,7 @@ source_id: "western-union-company-the-common-stock-rss-b97466c15713"
 canonical_url: "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-Appoints-Global-Business-Leader-Milind-Pant-to-its-Board-of-Directors/default.aspx"
 published_at: "2026-03-13T22:00:00+00:00"
 first_seen_at: "2026-07-26T05:24:37.115894+00:00"
-fetched_at: "2026-07-28T19:49:10.319118+00:00"
+fetched_at: "2026-07-28T23:31:52.252898+00:00"
 content_hash: "sha256:8c89d9484d74b7c2804e7de7f60cf9c07dfba2782048b5bc2a3f124c674f653f"
 ---
 

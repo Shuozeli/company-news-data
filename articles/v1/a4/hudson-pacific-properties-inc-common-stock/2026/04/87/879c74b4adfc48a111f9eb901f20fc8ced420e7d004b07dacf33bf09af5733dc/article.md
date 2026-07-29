@@ -7,7 +7,7 @@ source_id: "hudson-pacific-properties-inc-common-stock-rss-348072d19ba0"
 canonical_url: "https://investors.hudsonpacificproperties.com/investor-resources/press-releases/press-release-details/2026/Quixote-to-Wind-Down-Sound-Stage-and-Atlanta-Operations/default.aspx"
 published_at: "2026-04-28T13:15:00+00:00"
 first_seen_at: "2026-07-25T08:33:12.400252+00:00"
-fetched_at: "2026-07-28T20:04:26.665506+00:00"
+fetched_at: "2026-07-28T23:53:39.931348+00:00"
 content_hash: "sha256:0e945f78660d4101b9fc0128c76552d3804c1d7c34d8aeb1627c3bfeae024b9b"
 ---
 

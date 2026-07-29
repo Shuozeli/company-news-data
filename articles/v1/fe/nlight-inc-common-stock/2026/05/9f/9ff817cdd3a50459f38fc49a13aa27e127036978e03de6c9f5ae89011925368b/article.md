@@ -7,7 +7,7 @@ source_id: "nlight-inc-common-stock-rss-e6d45f288d48"
 canonical_url: "https://investors.nlight.net/news-releases/news-details/2026/nLIGHT-Inc--Announces-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-07T20:10:00+00:00"
 first_seen_at: "2026-07-25T16:22:51.371933+00:00"
-fetched_at: "2026-07-28T20:55:35.410504+00:00"
+fetched_at: "2026-07-28T23:41:40.377684+00:00"
 content_hash: "sha256:6dc4f4f03781a7b7b4e52532e6348a4032df99faa5f1b1c99d9b0e4e3c85da35"
 ---
 

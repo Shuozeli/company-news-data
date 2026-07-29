@@ -7,7 +7,7 @@ source_id: "teva-pharmaceutical-industries-limited-american-depositary-shares-rs
 canonical_url: "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2026/Teva-to-Host-Conference-Call-to-Discuss-Second-Quarter-2026-Financial-Results-on-July-29-2026-at-8-a-m--ET/default.aspx"
 published_at: "2026-06-18T20:30:00+00:00"
 first_seen_at: "2026-07-25T01:06:51.621885+00:00"
-fetched_at: "2026-07-28T21:37:33.063712+00:00"
+fetched_at: "2026-07-29T00:12:43.259437+00:00"
 content_hash: "sha256:29d5204d1e44d3f1b47c903eca267e55f9b17abeb5d2b0d1bb21110aa141e213"
 ---
 

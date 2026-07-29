@@ -7,7 +7,7 @@ source_id: "anfield-energy-inc-common-shares-rss-a0a17c475371"
 canonical_url: "https://anfieldenergy.com/anfield-energy-announces-a-key-milestone-in-equipment-procurement-advancing-the-company-towards-hub-and-spoke-production/"
 published_at: "2026-06-15T12:49:19+00:00"
 first_seen_at: "2026-07-24T04:08:28.516317+00:00"
-fetched_at: "2026-07-28T22:08:13.123622+00:00"
+fetched_at: "2026-07-29T00:46:15.737896+00:00"
 content_hash: "sha256:d42c926755417ea514964bd3918ec9eb63267e0a31b76aa0f2a7ae35184bbc98"
 ---
 

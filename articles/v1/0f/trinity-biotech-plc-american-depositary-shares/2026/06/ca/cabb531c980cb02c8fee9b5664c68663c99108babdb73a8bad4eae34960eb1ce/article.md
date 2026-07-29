@@ -7,7 +7,7 @@ source_id: "trinity-biotech-plc-american-depositary-shares-rss-6b6858b1b9bc"
 canonical_url: "https://trinitybiotech.com/press-releases/news/trinity-biotech-awarded-significant-orders-for-over-2-million-trinscreen-hiv-tests-and-reports-q1-2026-financial-results/"
 published_at: "2026-06-16T14:45:47+00:00"
 first_seen_at: "2026-07-24T04:40:06.159898+00:00"
-fetched_at: "2026-07-28T21:03:30.549824+00:00"
+fetched_at: "2026-07-28T23:50:15.896400+00:00"
 content_hash: "sha256:9a710f37ccfb661b3456df1cfdc68a969a623341f540f550f806b3b105f3a381"
 ---
 

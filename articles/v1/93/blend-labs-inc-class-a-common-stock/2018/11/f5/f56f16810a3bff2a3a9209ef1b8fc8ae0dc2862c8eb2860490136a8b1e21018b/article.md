@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/continuous-delivery-as-code-with-jenkins-dsl.html"
 published_at: "2018-11-26T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-28T21:37:04.406824+00:00"
+fetched_at: "2026-07-29T00:27:54.647135+00:00"
 content_hash: "sha256:1d39b2355d1627ffb231f8c24015a6e776e65d0651b17332d2cc89d167a748d8"
 ---
 

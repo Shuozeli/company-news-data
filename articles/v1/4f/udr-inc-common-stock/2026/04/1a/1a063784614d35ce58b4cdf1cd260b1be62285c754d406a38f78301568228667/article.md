@@ -7,7 +7,7 @@ source_id: "udr-inc-common-stock-rss-b7593a5c2626"
 canonical_url: "https://ir.udr.com/news/news-details/2026/UDR-Inc--Announces-Dates-for-First-Quarter-2026-Earnings-Release-Webcast-and-Conference-Call/default.aspx"
 published_at: "2026-04-08T20:16:00+00:00"
 first_seen_at: "2026-07-26T03:34:29.907441+00:00"
-fetched_at: "2026-07-28T20:04:37.352857+00:00"
+fetched_at: "2026-07-28T23:53:41.267823+00:00"
 content_hash: "sha256:22ddfe7b72f2059bd80abb900e1b2a4597729add85bab6dbd008d8d696b2b425"
 ---
 

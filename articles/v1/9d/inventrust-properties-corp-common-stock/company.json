@@ -476,5 +476,49 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9d/inventrust-properties-corp-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 98517,
+        "sha256": "sha256:14d54742acedb53d31b3a1b98df2007101379cdb866f7f98a0f840a355583829",
+        "newest_at": "2026-06-26T20:03:00+00:00",
+        "oldest_at": "2023-09-14T20:10:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/9d/inventrust-properties-corp-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 104833,
+        "sha256": "sha256:8f7b8f252421b4594add41db856c23f5dac16a05885ae31f60bab3fe407ffda6",
+        "newest_at": "2023-07-31T20:05:00+00:00",
+        "oldest_at": "2019-12-26T18:25:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/9d/inventrust-properties-corp-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 99093,
+        "sha256": "sha256:9db6f0dbb54fac0ef44916b3ede6ae768d719c5f0b8d16f074f969f72ed75597",
+        "newest_at": "2019-12-17T14:59:00+00:00",
+        "oldest_at": "2015-12-04T15:25:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/9d/inventrust-properties-corp-common-stock/index/pages/000004.json",
+        "record_count": 45,
+        "byte_count": 95480,
+        "sha256": "sha256:a7034a871e4b05460a38b6a915183cda06dcac0397137990b25e7091f9a1a84c",
+        "newest_at": "2015-12-03T18:13:00+00:00",
+        "oldest_at": "2012-03-28T15:50:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "selective-insurance-group-inc-common-stock-rss-8d6e086cb84e"
 canonical_url: "https://www.selective.com/investors/financial-calendar/01-31-2020"
 published_at: "2020-01-31T05:00:00+00:00"
 first_seen_at: "2026-07-25T22:32:54.601349+00:00"
-fetched_at: "2026-07-28T20:25:55.341070+00:00"
+fetched_at: "2026-07-28T23:10:50.539616+00:00"
 content_hash: "sha256:137553b3fc3138c397afe0a19291cb663f272a5e9e7fc7ff3d60ddb713309542"
 ---
 

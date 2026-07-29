@@ -68,5 +68,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fb/sleep-number-corporation-common-stock/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 41050,
+        "sha256": "sha256:52dca95e50df05b5a9a8bfe03446300b89795c500c160da0aa4dd46ba592973f",
+        "newest_at": "2026-07-20T17:16:00+00:00",
+        "oldest_at": "2022-09-06T16:47:00+00:00"
+      }
+    ]
+  }
 }

@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/3-proven-paywall-and-pricing-experiments-to-boost-indie-app-revenue"
-published_at: "2024-10-23T14:22:28.106+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:03154147f10d3e0f09b9da7a1518b3570b0d6257fa9acac8609e986d92fe2ea7"

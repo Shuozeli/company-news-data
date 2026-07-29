@@ -7,7 +7,7 @@ source_id: "nordson-corporation-common-stock-rss-1b1accb06666"
 canonical_url: "https://investors.nordson.com/news/news-details/2026/Nordson-Corporation-Declares-Second-Quarter-Dividend-for-Fiscal-Year-2026/default.aspx"
 published_at: "2026-03-05T13:30:00+00:00"
 first_seen_at: "2026-07-25T16:28:53.570027+00:00"
-fetched_at: "2026-07-28T21:02:38.136756+00:00"
+fetched_at: "2026-07-28T23:49:26.882704+00:00"
 content_hash: "sha256:e23493654eb8a3311701d27a0a7341fcb73bee9273177826535d9fe95077e92e"
 ---
 

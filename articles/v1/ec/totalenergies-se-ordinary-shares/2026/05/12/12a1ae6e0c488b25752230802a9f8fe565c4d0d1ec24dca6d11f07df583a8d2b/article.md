@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/diesel-le-nouveau-coup-de-pouce-de-total/"
 published_at: "2026-05-01T19:38:01+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:e8af705783316086308a6f5704369095cbbf83c086fbb8fe8169c26ae9ab6e60"
 ---
 

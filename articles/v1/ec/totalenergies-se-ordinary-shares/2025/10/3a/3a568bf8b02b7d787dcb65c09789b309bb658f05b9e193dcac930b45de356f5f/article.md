@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/cop30-la-marche-en-avant-tourmentee-du-bresil-vers-les-energies-renouvelables-les-echos/"
 published_at: "2025-10-31T13:09:36+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:bd0f59f088eeafd10b9a595903783da74bbda88f2010d4aaba62706f206db22e"
 ---
 

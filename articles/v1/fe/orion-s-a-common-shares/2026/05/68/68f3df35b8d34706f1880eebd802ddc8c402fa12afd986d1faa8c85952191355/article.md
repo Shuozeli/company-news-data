@@ -7,7 +7,7 @@ source_id: "orion-s-a-common-shares-rss-b6a4f3fdd6ea"
 canonical_url: "https://investor.orioncarbons.com/financial-press-releases/press-releases-details/2026/Orion-S-A-s-Sustainability-Report-Highlights-Role-in-Electrification-Circular-Economy/default.aspx"
 published_at: "2026-05-28T20:30:00+00:00"
 first_seen_at: "2026-07-26T07:07:41.271725+00:00"
-fetched_at: "2026-07-28T21:37:03.096159+00:00"
+fetched_at: "2026-07-29T00:30:05.381465+00:00"
 content_hash: "sha256:b5fcd89425439301109ec1c2dda1f7832c410e9c4685d85145978876bd234e92"
 ---
 

@@ -7,7 +7,7 @@ source_id: "argan-inc-common-stock-rss-04f1fea248dc"
 canonical_url: "https://arganinc.com/news/argan-inc-reports-first-quarter-fiscal-2027-results-record-revenue-of-291-million-backlog-of-2-8-billion/"
 published_at: "2026-06-04T20:11:21+00:00"
 first_seen_at: "2026-07-20T03:31:21.385236+00:00"
-fetched_at: "2026-07-28T20:22:00.144270+00:00"
+fetched_at: "2026-07-28T23:05:16.878471+00:00"
 content_hash: "sha256:1cbdd10b416ba272edcfd0141f5d82927277ee0e2eeda8150f5ead59ac378383"
 ---
 

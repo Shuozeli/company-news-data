@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2021/teradata-reports-third-quarter-2021-financial-results"
 published_at: "2021-11-04T07:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T19:37:01.666775+00:00"
+fetched_at: "2026-07-28T23:07:12.403269+00:00"
 content_hash: "sha256:0844fc230e08545a4823d769bd10d888c899f31e77c0dceb975d31a9cb951bd1"
 ---
 

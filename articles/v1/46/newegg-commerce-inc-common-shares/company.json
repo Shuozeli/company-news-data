@@ -4,13 +4,30 @@
     "key": "newegg-commerce-inc-common-shares",
     "name": "Newegg Commerce Inc. Common Shares"
   },
-  "record_count": 33,
+  "record_count": 34,
   "first_published_at": "2026-07-13T13:41:33+00:00",
-  "last_published_at": "2026-07-28T13:41:25+00:00",
+  "last_published_at": "2026-07-28T22:08:01+00:00",
   "partitions": [
     {
       "partition": "2026-07",
-      "record_count": 33
+      "record_count": 34
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/46/newegg-commerce-inc-common-shares/index/pages/000001.json",
+        "record_count": 34,
+        "byte_count": 39029,
+        "sha256": "sha256:ae0acf68b9bb40ca9ba2d68947b596d1fc4fec174a6b83011f56497288e72b43",
+        "newest_at": "2026-07-28T22:08:01+00:00",
+        "oldest_at": "2026-07-13T13:41:33+00:00"
+      }
+    ]
+  }
 }

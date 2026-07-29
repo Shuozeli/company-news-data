@@ -7,7 +7,7 @@ source_id: "yc-inspectmind-ai-rss-7125fafcc8d8"
 canonical_url: "https://www.inspectmind.ai/llms.txt"
 published_at: "2026-01-05T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:20.200105+00:00"
-fetched_at: "2026-07-28T20:11:37.923069+00:00"
+fetched_at: "2026-07-28T22:52:50.159667+00:00"
 content_hash: "sha256:9255b35377e644d17a4981eaf97a23b62d9beccadd10401da8a3693d1cf27411"
 ---
 

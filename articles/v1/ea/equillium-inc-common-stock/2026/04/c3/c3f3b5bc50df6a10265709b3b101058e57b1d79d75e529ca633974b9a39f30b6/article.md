@@ -7,7 +7,7 @@ source_id: "equillium-inc-common-stock-rss-ab50b30d38d9"
 canonical_url: "https://www.equilliumbio.com/investors/press-releases/news-details/2026/Equillium-to-Participate-in-Oppenheimers-2026-Innovation-on-the-Island-Event/default.aspx"
 published_at: "2026-04-20T20:05:00+00:00"
 first_seen_at: "2026-07-25T03:15:43.712339+00:00"
-fetched_at: "2026-07-28T20:34:14.306676+00:00"
+fetched_at: "2026-07-28T23:19:20.140666+00:00"
 content_hash: "sha256:d30e45e2a2ed8402e97a374935c9aa7137540a2a2c44185ea36cb4d26300a76c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "charles-schwab-corporation-the-common-stock-rss-2a4eae788bb7"
 canonical_url: "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Trading-Activity-Index-STAX-Score-Reaches-a-Four-Year-High-in-June/default.aspx"
 published_at: "2026-07-06T16:30:00+00:00"
 first_seen_at: "2026-07-25T01:17:37.258476+00:00"
-fetched_at: "2026-07-28T20:13:36.217440+00:00"
+fetched_at: "2026-07-28T22:55:17.996619+00:00"
 content_hash: "sha256:f00a5bbc86a9a04b8b31c6352bdd2ead72f8150911ea8396c4d4a57cf38ebfe4"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2020/schedule-for-november-2020-investor-conferences"
 published_at: "2020-11-06T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:df50b36c17774d4e0101655b26085947cf3506d32a19c86727478c9fd5a925ec"
 ---
 

@@ -7,7 +7,7 @@ source_id: "mcdonald-s-corporation-common-stock-rss-e3f7e88d5cc9"
 canonical_url: "https://medium.com/mcdonalds-technical-blog/inside-the-geofence-faster-pickups-start-here-8b7ec97717fe"
 published_at: "2026-05-12T13:14:04+00:00"
 first_seen_at: "2026-07-22T17:27:13.648832+00:00"
-fetched_at: "2026-07-28T21:07:46.576617+00:00"
+fetched_at: "2026-07-28T23:53:24.017559+00:00"
 content_hash: "sha256:8c9d2dffad25e62a53083b3719bdb717f6cc20d2fd3b87c2194cb31328cde609"
 ---
 

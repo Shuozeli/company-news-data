@@ -7,7 +7,7 @@ source_id: "blackstone-mortgage-trust-inc-common-stock-rss-0b0bb6f59cf9"
 canonical_url: "https://ir.blackstonemortgagetrust.com/press-releases-and-news/press-release-and-news-details/2026/Blackstone-Mortgage-Trust-Declares-0-47-Per-Share-Dividend/default.aspx"
 published_at: "2026-03-13T20:15:00+00:00"
 first_seen_at: "2026-07-26T23:52:20.161591+00:00"
-fetched_at: "2026-07-28T20:39:50.998366+00:00"
+fetched_at: "2026-07-28T23:24:03.567410+00:00"
 content_hash: "sha256:c3d0ce663dbe87da33553cf1d0742a4519dd1ab56e910924f8d799a33b8de3d0"
 ---
 

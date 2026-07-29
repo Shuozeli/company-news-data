@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-f545fb403576"
 canonical_url: "https://www.photoroom.com/inside-photoroom/why-sustainable-ai-is-a-win-win-win"
-published_at: "2025-04-25T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:21.557706+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:15276f0736b2e6abdd06f859b16cbbdec5c59726d7f213e6e4564f883656cc8c"

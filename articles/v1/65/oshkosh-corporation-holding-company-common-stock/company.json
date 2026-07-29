@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/65/oshkosh-corporation-holding-company-common-stock/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 8077,
+        "sha256": "sha256:9f85542ab9b080426513dbf3811491c3f5b482cfa0856f96822a898716c39d3b",
+        "newest_at": "2026-07-28T21:38:29.998390+00:00",
+        "oldest_at": "2026-07-28T21:20:14.720808+00:00"
+      }
+    ]
+  }
 }

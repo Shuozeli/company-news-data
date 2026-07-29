@@ -7,7 +7,7 @@ source_id: "precision-biosciences-inc-common-stock-rss-119dfa03b7a7"
 canonical_url: "https://precisionbiosciences.com/?p=4185"
 published_at: "2026-05-27T11:30:42+00:00"
 first_seen_at: "2026-07-24T13:01:05.596206+00:00"
-fetched_at: "2026-07-28T20:31:45.011413+00:00"
+fetched_at: "2026-07-28T23:17:22.824977+00:00"
 content_hash: "sha256:0f234bedf435126fdbf3915ebe0bc8215b16625a6f0308eb72186e1567a31df7"
 ---
 

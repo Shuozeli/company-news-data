@@ -7,7 +7,7 @@ source_id: "sweetgreen-inc-class-a-common-stock-rss-02b512030049"
 canonical_url: "https://investor.sweetgreen.com/press/news-details/2026/Sweetgreen-Celebrates-Peak-Peach-Season-With-New-Limited-Time-Alice-Waters-Peach--Goat-Cheese-Salad/default.aspx"
 published_at: "2026-07-07T13:00:00+00:00"
 first_seen_at: "2026-07-26T01:02:33.757530+00:00"
-fetched_at: "2026-07-28T20:23:56.075422+00:00"
+fetched_at: "2026-07-28T23:08:46.260368+00:00"
 content_hash: "sha256:1cb5a6181637b8d7b7d6fe08c5004257468e0dea9c74aee2cfdfffb828d96179"
 ---
 

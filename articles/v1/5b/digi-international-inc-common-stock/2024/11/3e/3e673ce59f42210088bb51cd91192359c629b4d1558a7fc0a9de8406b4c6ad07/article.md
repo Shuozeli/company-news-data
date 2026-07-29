@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2024/smartsense-achieves-soc-2-type-ii-compliance"
 published_at: "2024-11-12T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:9bc8194d43d9e9b1dda55f4cdacdd12ce688fe305b9c315931a9cacc2ee0f396"
 ---
 

@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/bruce-linton-discusses-above-food-and-the-future-of-plant-based-foods-with-food-dive/"
 published_at: "2021-06-02T21:19:55+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-28T22:04:53.214634+00:00"
+fetched_at: "2026-07-29T00:43:09.170627+00:00"
 content_hash: "sha256:1207cf7ebd1bc329d961d7713057dd120dc84731cf480383772ab5579c8b4867"
 ---
 

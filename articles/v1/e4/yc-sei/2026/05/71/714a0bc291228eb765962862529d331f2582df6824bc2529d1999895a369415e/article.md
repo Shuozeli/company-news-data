@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/tcpa-ai-voice-mortgage-banking-2026-field-guide"
 published_at: "2026-05-15T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:70ff796cd7eea18b2a4e3573989eaa8ff8b6e1db114ba0991ebbaf47fe03ced3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "dorman-products-inc-common-stock-rss-b8556f430883"
 canonical_url: "https://shoppress.dormanproducts.com/how-to-make-custom-hoses/"
 published_at: "2026-07-02T12:00:02+00:00"
 first_seen_at: "2026-07-20T03:32:46.564497+00:00"
-fetched_at: "2026-07-28T20:56:20.587194+00:00"
+fetched_at: "2026-07-28T23:42:19.685738+00:00"
 content_hash: "sha256:8ec8c566ef20d5ed6e6916c553421c85587f88ed4706cbde8b44d96c7357d17d"
 ---
 

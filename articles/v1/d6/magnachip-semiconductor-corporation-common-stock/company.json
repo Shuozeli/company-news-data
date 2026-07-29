@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d6/magnachip-semiconductor-corporation-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 15069,
+        "sha256": "sha256:08bb94c716ce45d9d3bd61d9a0244445f5f63a9d99d624e924f7e322dce6b89f",
+        "newest_at": "2026-07-23T22:35:06+00:00",
+        "oldest_at": "2026-03-31T01:29:37+00:00"
+      }
+    ]
+  }
 }

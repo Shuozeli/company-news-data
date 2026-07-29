@@ -28,5 +28,22 @@
       "partition": "2025-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/93/yc-tuva-health/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 6371,
+        "sha256": "sha256:4084ca371f68c11e92e33111a364e729b267aca084f2b3a89c4c2330be4c616f",
+        "newest_at": "2025-07-02T00:00:00+00:00",
+        "oldest_at": "2023-12-06T00:00:00+00:00"
+      }
+    ]
+  }
 }

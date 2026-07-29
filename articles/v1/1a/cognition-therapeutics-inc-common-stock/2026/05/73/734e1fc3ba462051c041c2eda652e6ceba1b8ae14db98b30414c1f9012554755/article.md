@@ -7,7 +7,7 @@ source_id: "cognition-therapeutics-inc-common-stock-rss-ed2edde8b549"
 canonical_url: "https://cogrx.com/slowing-progression-with-zervimesine-ct1812-in-dementia-with-lewy-bodies-dlb/"
 published_at: "2026-05-08T16:43:22+00:00"
 first_seen_at: "2026-07-27T01:08:35.415304+00:00"
-fetched_at: "2026-07-28T20:52:39.987700+00:00"
+fetched_at: "2026-07-28T23:38:02.619779+00:00"
 content_hash: "sha256:50f7578c549b712df0e38456bb61a0eeb0118a343f7d06d6a28140cec8ac8b9c"
 ---
 

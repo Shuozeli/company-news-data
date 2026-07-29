@@ -7,7 +7,7 @@ source_id: "doximity-inc-class-a-common-stock-rss-8bd2cd30f7c1"
 canonical_url: "https://press.doximity.com/articles/doximity-study-finds-physicians-rapidly-adopting-ai-but-accuracy-concerns-persist"
 published_at: "2026-03-17T12:29:00+00:00"
 first_seen_at: "2026-07-20T03:32:24.794804+00:00"
-fetched_at: "2026-07-28T20:38:38.223838+00:00"
+fetched_at: "2026-07-28T23:22:12.562614+00:00"
 content_hash: "sha256:267431ebd8154e6d5f60e17e30c094a851c9d6725ad8e1c9337e69eeef9cd84f"
 ---
 

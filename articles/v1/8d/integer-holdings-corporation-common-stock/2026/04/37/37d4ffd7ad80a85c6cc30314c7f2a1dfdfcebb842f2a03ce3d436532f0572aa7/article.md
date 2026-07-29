@@ -7,7 +7,7 @@ source_id: "integer-holdings-corporation-common-stock-rss-3c583142efbf"
 canonical_url: "https://www.integer.net/news-and-events/news-details/2026/Integer-Announces-Board-Leadership-Transition/default.aspx"
 published_at: "2026-04-06T21:00:00+00:00"
 first_seen_at: "2026-07-25T09:38:33.729133+00:00"
-fetched_at: "2026-07-28T22:03:10.708926+00:00"
+fetched_at: "2026-07-29T00:41:35.205424+00:00"
 content_hash: "sha256:c20c7583319449afe872c9a8205088de9b03c6310c970536750de7954b9320c8"
 ---
 

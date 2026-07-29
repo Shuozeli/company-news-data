@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-reports-strong-leasing-momentum-in-2025"
 published_at: "2025-04-30T12:58:07+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:3e7da7e3b15960073aa4e28dbef76b20b4c62a012391a15710e8603a8a897c51"
 ---
 

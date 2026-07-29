@@ -44,5 +44,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/62/essent-group-ltd-common-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11667,
+        "sha256": "sha256:63b9c3b37db0fc4ffdbf740246b1bf6b5515b68e8ba13444cdc4b7e0d3f9e79a",
+        "newest_at": "2026-06-25T13:11:59+00:00",
+        "oldest_at": "2022-04-13T17:56:14+00:00"
+      }
+    ]
+  }
 }

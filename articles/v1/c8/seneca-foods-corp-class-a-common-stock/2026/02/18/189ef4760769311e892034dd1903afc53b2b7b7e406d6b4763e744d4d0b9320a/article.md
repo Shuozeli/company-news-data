@@ -7,7 +7,7 @@ source_id: "seneca-foods-corp-class-a-common-stock-rss-dd5d61c574ed"
 canonical_url: "https://www.senecafoods.com/sec-filing/form-10-q-fy-2026-third-quarter"
 published_at: "2026-02-05T19:47:21+00:00"
 first_seen_at: "2026-07-20T23:22:26.267179+00:00"
-fetched_at: "2026-07-28T20:40:03.821553+00:00"
+fetched_at: "2026-07-28T23:23:35.928715+00:00"
 content_hash: "sha256:83e25df699117972bbab8ec94292bd884555277bd35d33c18a5b3929f43fee9b"
 ---
 

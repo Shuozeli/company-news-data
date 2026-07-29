@@ -16,5 +16,22 @@
       "partition": "2026-06",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/60/yc-sentrial/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 20249,
+        "sha256": "sha256:221988b7d5eb7cd35d6b21a56d562cb56a16de90f96d78e71aa66c324120c482",
+        "newest_at": "2026-06-12T07:40:40.231+00:00",
+        "oldest_at": "2026-05-26T02:24:34.739+00:00"
+      }
+    ]
+  }
 }

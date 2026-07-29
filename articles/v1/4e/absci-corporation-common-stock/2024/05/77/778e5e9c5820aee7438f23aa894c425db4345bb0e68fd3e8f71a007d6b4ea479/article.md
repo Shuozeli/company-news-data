@@ -7,7 +7,7 @@ source_id: "absci-corporation-common-stock-rss-3a87fd054c09"
 canonical_url: "https://www.absci.com/reverse-immunology"
 published_at: "2024-05-01T17:27:53+00:00"
 first_seen_at: "2026-07-20T23:22:57.028146+00:00"
-fetched_at: "2026-07-28T20:43:27.847190+00:00"
+fetched_at: "2026-07-28T23:27:55.935408+00:00"
 content_hash: "sha256:d6bc5bdd5280bb4ef0bc6869776b1f858e49432a20831c897da1561cda352d43"
 ---
 

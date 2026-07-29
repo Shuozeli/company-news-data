@@ -7,7 +7,7 @@ source_id: "nabors-industries-ltd-rss-b9ec6e91c223"
 canonical_url: "https://www.nabors.com/nabors-wins-three-prestigious-awards-at-the-2026-oil-gas-middle-east-awards-reflecting-the-strength-of-our-people-culture-and-commitment-to-excellence/"
 published_at: "2026-04-16T14:45:52+00:00"
 first_seen_at: "2026-07-28T21:28:30.186601+00:00"
-fetched_at: "2026-07-28T21:28:30.110209+00:00"
+fetched_at: "2026-07-29T00:14:00.507733+00:00"
 content_hash: "sha256:bbb9315bf6dfcacd8969bff8b9a805f0b6374879c7423fe884c78518dbb72035"
 ---
 

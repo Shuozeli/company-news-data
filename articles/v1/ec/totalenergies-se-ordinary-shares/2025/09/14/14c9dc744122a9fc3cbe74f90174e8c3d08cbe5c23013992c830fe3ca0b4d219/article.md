@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-launches-the-construction-of-the-final-two-major-projects-of-the-gas-growth-integrated-project-ggip-in-hashtagiraq/"
 published_at: "2025-09-15T10:07:54+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:5ec1df7a93cc7fb66e02cdb1520cb9428dbc301619f4f94ec665bf7ba9ade33c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "cognition-therapeutics-inc-common-stock-rss-ed2edde8b549"
 canonical_url: "https://cogrx.com/zervimesine-demonstrates-symptom-slowing-in-phase-2-shimmer-trial-for-dementia-with-lewy-bodies/"
 published_at: "2026-03-24T15:57:04+00:00"
 first_seen_at: "2026-07-27T01:08:35.415304+00:00"
-fetched_at: "2026-07-28T20:52:39.987700+00:00"
+fetched_at: "2026-07-28T23:38:02.619779+00:00"
 content_hash: "sha256:5762fbf0a89a719ccc407272909f1e6950129c5305a0040e3e703a776fd5c617"
 ---
 

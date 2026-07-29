@@ -7,7 +7,7 @@ source_id: "lithium-americas-corp-common-shares-rss-02bf28548445"
 canonical_url: "https://lithiumamericas.com/news/news-details/2026/Lithium-Americas-Reports-Full-Year-2025-Results/default.aspx"
 published_at: "2026-03-19T10:55:00+00:00"
 first_seen_at: "2026-07-25T12:30:37.852521+00:00"
-fetched_at: "2026-07-28T20:52:52.395723+00:00"
+fetched_at: "2026-07-28T23:38:27.739587+00:00"
 content_hash: "sha256:cab758e717125b1f4265e41f254d21fafc6eeecefe81e073b5d27b9e61827ad2"
 ---
 

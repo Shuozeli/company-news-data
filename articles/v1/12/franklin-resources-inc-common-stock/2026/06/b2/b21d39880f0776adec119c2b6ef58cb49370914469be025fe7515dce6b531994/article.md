@@ -7,7 +7,7 @@ source_id: "franklin-resources-inc-common-stock-rss-ad39536f923e"
 canonical_url: "https://investors.franklinresources.com/news-center/press-releases/press-release-details/2026/Franklin-Templeton-Launches-YCLO-an-Actively-Managed-Investment-Grade-CLO-ETF/default.aspx"
 published_at: "2026-06-04T13:54:00+00:00"
 first_seen_at: "2026-07-25T05:39:35.013853+00:00"
-fetched_at: "2026-07-28T20:39:04.758896+00:00"
+fetched_at: "2026-07-28T23:22:49.741548+00:00"
 content_hash: "sha256:ec23c01b4614e6a98224e6e333a5208a2873d1920c2578d723796c1f38848161"
 ---
 

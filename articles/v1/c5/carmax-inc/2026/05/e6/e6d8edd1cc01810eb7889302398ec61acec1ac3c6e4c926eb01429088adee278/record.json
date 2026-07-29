@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6d8edd1cc01810eb7889302398ec61acec1ac3c6e4c926eb01429088adee278",
+  "company": {
+    "key": "carmax-inc",
+    "name": "CarMax Inc"
+  },
+  "source": {
+    "id": "carmax-inc-rss-996d2d8bd2cc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Announces-First-Quarter-Conference-Call-and-Annual-Meeting-Information/default.aspx",
+    "canonical": "https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Announces-First-Quarter-Conference-Call-and-Annual-Meeting-Information/default.aspx"
+  },
+  "title": "CarMax Announces First Quarter Conference Call and Annual Meeting Information",
+  "summary": "",
+  "published_at": "2026-05-28T21:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:21:14.627952+00:00",
+  "fetched_at": "2026-07-28T23:04:20.961315+00:00",
+  "last_updated_at": "2026-07-28T23:04:20.999397+00:00",
+  "paths": {
+    "article": "articles/v1/c5/carmax-inc/2026/05/e6/e6d8edd1cc01810eb7889302398ec61acec1ac3c6e4c926eb01429088adee278/article.md",
+    "record": "articles/v1/c5/carmax-inc/2026/05/e6/e6d8edd1cc01810eb7889302398ec61acec1ac3c6e4c926eb01429088adee278/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 687,
+    "sha256": "sha256:a8ae39cf4bfab7e51385d498aa756f612a746e9b55d121e0a29ade168be23271",
+    "normalized_content_hash": "sha256:9a2c2c9aa25ce5972f429bbd0e18df04001c95dd21fab83915a62515aed6054d"
+  },
+  "provenance": {
+    "source_item_id": "ffd3ebd6-0d3f-4030-9c44-9517f848c350",
+    "external_id": "60bbb659-f6fb-4149-ab20-bd138333d966"
+  }
+}

@@ -7,7 +7,7 @@ source_id: "logistic-properties-of-the-americas-ordinary-shares-rss-24f70a84fdfb
 canonical_url: "https://lpamericas.com/lpa-executes-lease-expansion-with-scharf-at-parque-logistico-callao/"
 published_at: "2026-05-21T14:04:23+00:00"
 first_seen_at: "2026-07-24T09:54:54.960480+00:00"
-fetched_at: "2026-07-28T20:12:35.304175+00:00"
+fetched_at: "2026-07-28T22:53:52.840678+00:00"
 content_hash: "sha256:8cea5521ad05f241cc158b2bc6473de949701233cf9956751ba8b315fd7c2172"
 ---
 

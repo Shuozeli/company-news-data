@@ -156,5 +156,31 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/28/yc-sails-co/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49993,
+        "sha256": "sha256:3d3e185170b0edc3306d3d9e747084c440ca371a5c4c02f8f1196c139729fbeb",
+        "newest_at": "2026-06-20T00:00:00+00:00",
+        "oldest_at": "2022-04-24T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/28/yc-sails-co/index/pages/000002.json",
+        "record_count": 24,
+        "byte_count": 24650,
+        "sha256": "sha256:5301c45e3d26e07c299e2e6f71cd6aa018f717865a102370b3daa55467660908",
+        "newest_at": "2022-04-13T00:00:00+00:00",
+        "oldest_at": "2020-09-27T00:00:00+00:00"
+      }
+    ]
+  }
 }

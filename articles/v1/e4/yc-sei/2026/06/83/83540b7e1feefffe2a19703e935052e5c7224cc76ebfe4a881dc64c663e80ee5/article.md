@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/respa-section-8-ai-mortgage-referrals-kickback"
 published_at: "2026-06-26T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:bf0f50dad5ff4c22da11ea1e3ac4405da681a39fe0308665ae7f948cbc7b21a2"
 ---
 

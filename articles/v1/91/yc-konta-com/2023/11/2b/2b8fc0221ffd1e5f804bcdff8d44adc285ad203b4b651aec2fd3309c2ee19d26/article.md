@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/como-solicitar-al-sat-el-saldo-a-favor-de-anos-anteriores"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:96ea155d40e94b362cbd5a4280fb816e156acd05a0e6821b83d4bf9b3f92ade2"
 ---
 

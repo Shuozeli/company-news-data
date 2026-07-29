@@ -36,5 +36,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/72/array-technologies-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12173,
+        "sha256": "sha256:9e611afca68fe610a34bd6299d83d2f152ce5f9410297735b1d68136c41a440f",
+        "newest_at": "2026-06-08T21:24:22+00:00",
+        "oldest_at": "2025-04-22T22:33:46+00:00"
+      }
+    ]
+  }
 }

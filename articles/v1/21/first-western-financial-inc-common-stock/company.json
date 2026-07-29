@@ -20,5 +20,22 @@
       "partition": "2026-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/21/first-western-financial-inc-common-stock/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4379,
+        "sha256": "sha256:020e30b99ad84c6ed00c9070c31d9afb40c89ba6e6c431024fbb81bb1208a55d",
+        "newest_at": "2026-05-08T00:00:00+00:00",
+        "oldest_at": "2024-01-16T00:00:00+00:00"
+      }
+    ]
+  }
 }

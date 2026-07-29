@@ -7,7 +7,7 @@ source_id: "altria-group-inc-rss-ea3f3e7b3ac6"
 canonical_url: "https://investor.altria.com/press-releases/news-details/2026/on-PLUS-Expands-Nationwide-Retail-Availability/default.aspx"
 published_at: "2026-03-23T19:30:00+00:00"
 first_seen_at: "2026-07-26T22:19:08.081720+00:00"
-fetched_at: "2026-07-28T20:58:29.257710+00:00"
+fetched_at: "2026-07-28T23:44:34.230821+00:00"
 content_hash: "sha256:7766286377e8c7ef95a4bbb74173466bd07baaaf198016b53472ac7ae8f7c689"
 ---
 

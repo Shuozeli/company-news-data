@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c4/yc-alguna/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 14611,
+        "sha256": "sha256:f5e66f2dd0e2ec5b51997e90f26be64f17af068eef04adf651d584294995ea2d",
+        "newest_at": "2026-07-07T10:27:02+00:00",
+        "oldest_at": "2026-06-23T10:25:00+00:00"
+      }
+    ]
+  }
 }

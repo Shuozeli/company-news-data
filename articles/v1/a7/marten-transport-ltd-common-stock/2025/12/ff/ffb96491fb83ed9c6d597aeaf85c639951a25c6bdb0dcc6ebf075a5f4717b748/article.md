@@ -7,7 +7,7 @@ source_id: "marten-transport-ltd-common-stock-rss-e255c44019c3"
 canonical_url: "https://www.marten.com/transporter/q4-transporter-16/"
 published_at: "2025-12-18T17:26:32+00:00"
 first_seen_at: "2026-07-25T01:12:17.514235+00:00"
-fetched_at: "2026-07-28T22:07:23.770393+00:00"
+fetched_at: "2026-07-29T00:45:41.110712+00:00"
 content_hash: "sha256:6927814c127be8b2378fa04d3740e9630a43a3098fd9bb39fabd54576bc5a731"
 ---
 

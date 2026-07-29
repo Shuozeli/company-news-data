@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/copy-this-strategy-itll-blow-up-your-app"
-published_at: "2025-10-27T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:2ea3208ea7b627e3b08f740b7de1650690e9af0abc4e629a2de45adf6545591b"

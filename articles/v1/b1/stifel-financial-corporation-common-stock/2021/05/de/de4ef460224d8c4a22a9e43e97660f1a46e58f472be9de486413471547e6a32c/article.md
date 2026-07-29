@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2021/1Q21_Dividend_Press_Release.pdf"
 published_at: "2021-05-05T20:15:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:00f59ddbf1ed6fe6fd462d26685b8f3ff6f9ee0b97d128a439b7fa1b21089e45"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/real-time-captions-with-mentraos"
 published_at: "2026-02-06T19:51:22+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T19:58:18.617561+00:00"
+fetched_at: "2026-07-28T23:47:18.716244+00:00"
 content_hash: "sha256:fe03f028c6920696fd0394db38e0434c5fd5fe58269b21fe6b0216c6d1be6b15"
 ---
 

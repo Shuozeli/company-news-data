@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-prices-850-million-offering-of-senior-unsecured-notes"
 published_at: "2024-08-15T15:01:51+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:2558eb7a8164ff5641ecf896f3e115ee89f48c091a2e97bc1311b8a4ad9036e3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "calavo-growers-inc-common-stock-rss-6ae59cf5fba2"
 canonical_url: "https://ir.calavo.com/news-releases/news-release-details/calvo-files-8k-announcing-sec-has-concluded-investigation-no"
 published_at: "2025-12-23T05:00:00+00:00"
 first_seen_at: "2026-07-26T11:02:54.791110+00:00"
-fetched_at: "2026-07-28T20:19:01.186574+00:00"
+fetched_at: "2026-07-28T23:02:45.068130+00:00"
 content_hash: "sha256:12d1aca6137419b92f156f56bed35db12aae65b386e7e64c050b257b8de79aa0"
 ---
 

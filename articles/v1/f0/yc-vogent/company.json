@@ -28,5 +28,22 @@
       "partition": "2025-10",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f0/yc-vogent/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10090,
+        "sha256": "sha256:45b6ba0f646cf08af4de7495256f9680e0d678ebf48b84fb283d11e49fa89844",
+        "newest_at": "2025-10-17T00:40:13.565+00:00",
+        "oldest_at": "2025-03-25T03:03:09.707+00:00"
+      }
+    ]
+  }
 }

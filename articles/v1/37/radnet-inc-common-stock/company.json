@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/37/radnet-inc-common-stock/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 12593,
+        "sha256": "sha256:7f094476b0f64b3bca1b84334c150e0aadd152047f02dac14068e1f580431a6f",
+        "newest_at": "2026-07-28T21:39:52.838477+00:00",
+        "oldest_at": "2026-07-28T21:20:12.930591+00:00"
+      }
+    ]
+  }
 }

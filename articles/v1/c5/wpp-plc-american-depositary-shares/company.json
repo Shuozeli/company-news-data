@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c5/wpp-plc-american-depositary-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13472,
+        "sha256": "sha256:d2d59027474689bd28e0b5fd18503f51c7c43ec5c7819c97bce7b42f8a74db12",
+        "newest_at": "2026-07-01T00:00:00+00:00",
+        "oldest_at": "2026-04-29T00:00:00+00:00"
+      }
+    ]
+  }
 }

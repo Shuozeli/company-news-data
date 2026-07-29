@@ -7,7 +7,7 @@ source_id: "connectone-bancorp-inc-common-stock-rss-93f36156fe6f"
 canonical_url: "https://ir.connectonebank.com/news-market-information/press-release/news-details/2025/ConnectOne-Bancorp-Inc--Reports-Second-Quarter-2025-Results-Declares-Common-and-Preferred-Dividends/default.aspx"
 published_at: "2025-07-29T11:00:00+00:00"
 first_seen_at: "2026-07-27T01:14:37.016202+00:00"
-fetched_at: "2026-07-28T20:19:48.417489+00:00"
+fetched_at: "2026-07-28T23:03:39.206306+00:00"
 content_hash: "sha256:9ee401f245f0fb2413baafcc11e7a71b372046c498404aaf45445392dd669766"
 ---
 

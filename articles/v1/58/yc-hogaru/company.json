@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 13
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/58/yc-hogaru/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 11525,
+        "sha256": "sha256:4eb16c6fe45c3dbd5db2b38f1521de8a1c2d9e3b03efd8e14c07b4f30b14a05e",
+        "newest_at": "2026-07-28T21:40:00.658555+00:00",
+        "oldest_at": "2026-07-28T21:35:55.789196+00:00"
+      }
+    ]
+  }
 }

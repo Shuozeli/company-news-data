@@ -7,7 +7,7 @@ source_id: "yc-odigos-technologies-inc-rss-eb41174e661a"
 canonical_url: "https://odigos.io/blog/kafkablog"
 published_at: "2026-04-03T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:02:44.020335+00:00"
-fetched_at: "2026-07-28T19:57:42.767612+00:00"
+fetched_at: "2026-07-28T23:46:13.985043+00:00"
 content_hash: "sha256:4fad0e4864c93f1f5ea1a312f42a8e870340ff4ccc9d165638d1ab32f3753b90"
 ---
 

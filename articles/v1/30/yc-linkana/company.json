@@ -272,5 +272,112 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/30/yc-linkana/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49680,
+        "sha256": "sha256:426f077ee026869b87b09c5b379726fcde0b1460985518b095b9605ec6fe6752",
+        "newest_at": "2026-07-01T00:00:00+00:00",
+        "oldest_at": "2025-03-14T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/30/yc-linkana/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 49891,
+        "sha256": "sha256:a868308bb57fa1708fa286c5f644d630bc69cfe1dc627500b6278abbf3aaaa47",
+        "newest_at": "2025-03-12T00:00:00+00:00",
+        "oldest_at": "2024-10-27T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/30/yc-linkana/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 49836,
+        "sha256": "sha256:928fab7eff3fdeeca0c5e7018e39b61941366d5d3c274d1dc656fab1a09a8495",
+        "newest_at": "2024-10-25T00:00:00+00:00",
+        "oldest_at": "2023-12-21T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/30/yc-linkana/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 49570,
+        "sha256": "sha256:4cbda8e3211f536514cd249cbf7427c80eb7ae715d9c4d087c714a87d63a275e",
+        "newest_at": "2023-12-20T00:00:00+00:00",
+        "oldest_at": "2023-07-09T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/30/yc-linkana/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 49740,
+        "sha256": "sha256:472cdc6ab92e785c8836f298e2f20dee7f12fc6aa22ee9a2944408d35b532ac0",
+        "newest_at": "2023-07-07T00:00:00+00:00",
+        "oldest_at": "2023-03-11T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/30/yc-linkana/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 50055,
+        "sha256": "sha256:f1098362871d182e4319c8be3e64477ccda28bb33639e74e054ec2a692c99d59",
+        "newest_at": "2023-03-09T00:00:00+00:00",
+        "oldest_at": "2022-12-23T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/30/yc-linkana/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 50153,
+        "sha256": "sha256:f7926dcaeb1d5beda6845863a83991f5a044bd4facf49d58add00a536cda9ca5",
+        "newest_at": "2022-12-22T00:00:00+00:00",
+        "oldest_at": "2022-10-06T00:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/30/yc-linkana/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 49782,
+        "sha256": "sha256:2a65465f9a11b3360a4e92a11652e3c142ca63def4cdcaeef588e8289159e213",
+        "newest_at": "2022-10-05T00:00:00+00:00",
+        "oldest_at": "2022-05-31T00:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/30/yc-linkana/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 50301,
+        "sha256": "sha256:f398be549a892223447dc66a68d1e2335113f7bae8fdfe1bf4bb6d265d9a8c2c",
+        "newest_at": "2022-05-29T00:00:00+00:00",
+        "oldest_at": "2021-09-29T00:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/30/yc-linkana/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 50441,
+        "sha256": "sha256:74bd11f0eb5d290b8d84b01f1853011ce7ffba2a7399b88cbc1fb3d1e7edeeee",
+        "newest_at": "2021-09-27T00:00:00+00:00",
+        "oldest_at": "2020-11-03T00:00:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/30/yc-linkana/index/pages/000011.json",
+        "record_count": 11,
+        "byte_count": 11201,
+        "sha256": "sha256:d0274d8f6860676eee670d26c60f934cfedc659e011a6c41b59bde6bc0c8b624",
+        "newest_at": "2020-10-28T00:00:00+00:00",
+        "oldest_at": "2019-03-06T00:00:00+00:00"
+      }
+    ]
+  }
 }

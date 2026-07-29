@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2018/03/technipfmc-umbilicals-completes-kaombo-project-umbilicals-supply-scope-in-angola/"
 published_at: "2018-03-06T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-28T21:51:21.094676+00:00"
+fetched_at: "2026-07-29T00:17:43.124361+00:00"
 content_hash: "sha256:4b10d1901b85139ec069f057e8a02cbc40affe08e5a8e5bdf4a0cbb3e51db6c3"
 ---
 

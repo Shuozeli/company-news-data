@@ -7,7 +7,7 @@ source_id: "yc-rarebird-atom-171a9e15b225"
 canonical_url: "https://rarebird.coffee/blogs/news/best-time-to-drink-coffee-for-energy-sleep-metabolism"
 published_at: "2025-03-02T00:43:00+00:00"
 first_seen_at: "2026-07-25T20:30:23.153216+00:00"
-fetched_at: "2026-07-28T21:47:00.156661+00:00"
+fetched_at: "2026-07-29T00:05:27.664367+00:00"
 content_hash: "sha256:2befa49c73fd631b45c7417d247d5e0feb447b2f9b1e4af2ca6f900874d525bc"
 ---
 

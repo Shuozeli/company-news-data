@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/portable-policies-for-incident-automation"
 published_at: "2026-03-25T16:05:11+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:e0569709a9898f04f8c8d383cb4722a2618d59c7f45546890ed6c1c9935c0342"
 ---
 

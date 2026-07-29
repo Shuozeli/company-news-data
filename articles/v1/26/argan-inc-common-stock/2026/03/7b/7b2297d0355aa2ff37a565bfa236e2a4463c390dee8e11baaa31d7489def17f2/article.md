@@ -7,7 +7,7 @@ source_id: "argan-inc-common-stock-rss-04f1fea248dc"
 canonical_url: "https://arganinc.com/news/argan-inc-reports-fourth-quarter-and-fiscal-year-2026-results/"
 published_at: "2026-03-26T20:07:05+00:00"
 first_seen_at: "2026-07-20T03:31:21.385236+00:00"
-fetched_at: "2026-07-28T20:22:00.144270+00:00"
+fetched_at: "2026-07-28T23:05:16.878471+00:00"
 content_hash: "sha256:ba0d7855aa6c03614ac8a1d4d12e3fc4ce1e9db36bc18721a43e161577df9d5e"
 ---
 

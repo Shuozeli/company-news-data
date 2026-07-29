@@ -7,7 +7,7 @@ source_id: "toppoint-holdings-inc-common-stock-rss-4e025ed56339"
 canonical_url: "https://toppointtrucking.com/driver-spotlight/"
 published_at: "2021-04-07T17:35:21+00:00"
 first_seen_at: "2026-07-26T02:47:01.550409+00:00"
-fetched_at: "2026-07-28T21:18:56.695393+00:00"
+fetched_at: "2026-07-29T00:17:46.134575+00:00"
 content_hash: "sha256:1dc92ca30a267df9d7cfef34c246aace7e17943f8102cc8a61999d4294eb23b7"
 ---
 

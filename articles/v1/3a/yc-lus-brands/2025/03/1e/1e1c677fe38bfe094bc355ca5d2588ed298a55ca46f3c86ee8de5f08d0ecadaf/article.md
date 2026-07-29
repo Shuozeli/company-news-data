@@ -7,7 +7,7 @@ source_id: "yc-lus-brands-atom-da4cdfdb5c86"
 canonical_url: "https://loveurcurls.ca/blogs/news/everything-you-need-to-know-about-scalp-care"
 published_at: "2025-03-03T17:30:02+00:00"
 first_seen_at: "2026-07-28T15:24:29.321695+00:00"
-fetched_at: "2026-07-28T19:39:28.803307+00:00"
+fetched_at: "2026-07-28T23:12:50.797101+00:00"
 content_hash: "sha256:bf1fd45f66c7b24f50ed044fe5826a37ed5632ebe47d0314016419deddbebab3"
 ---
 

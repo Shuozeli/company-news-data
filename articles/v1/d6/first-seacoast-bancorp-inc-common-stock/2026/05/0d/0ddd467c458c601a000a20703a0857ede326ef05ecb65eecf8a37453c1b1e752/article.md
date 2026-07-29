@@ -7,7 +7,7 @@ source_id: "first-seacoast-bancorp-inc-common-stock-rss-90406ee7d062"
 canonical_url: "https://ir.firstseacoastbank.com/news/news-details/2026/Cambridge-Financial-Group-Inc--and-First-Seacoast-Bancorp-Inc--Agree-to-Merge/default.aspx"
 published_at: "2026-05-05T11:30:00+00:00"
 first_seen_at: "2026-07-25T05:00:25.931486+00:00"
-fetched_at: "2026-07-28T21:30:12.112049+00:00"
+fetched_at: "2026-07-29T00:17:10.451483+00:00"
 content_hash: "sha256:e72b531053fbad42dbe1868e7beff8cb1d9f463ec85f2a5e86f8305cf2f70df3"
 ---
 

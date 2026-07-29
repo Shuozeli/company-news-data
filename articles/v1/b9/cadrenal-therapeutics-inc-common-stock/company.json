@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b9/cadrenal-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 16158,
+        "sha256": "sha256:0c127dd16af9351d8f86c6d2f2923e2f048d1e8a6cacbe40220c88c7c6fcbcea",
+        "newest_at": "2026-07-21T12:00:22+00:00",
+        "oldest_at": "2026-04-30T12:30:36+00:00"
+      }
+    ]
+  }
 }

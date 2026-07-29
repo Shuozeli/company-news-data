@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-f545fb403576"
 canonical_url: "https://www.photoroom.com/inside-photoroom/new-in-product-may-2024"
-published_at: "2024-05-31T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:21.557706+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:ec0e69268c449a1bd9bb45fb21af7da245db86aa99186575fde54c65512c01d1"

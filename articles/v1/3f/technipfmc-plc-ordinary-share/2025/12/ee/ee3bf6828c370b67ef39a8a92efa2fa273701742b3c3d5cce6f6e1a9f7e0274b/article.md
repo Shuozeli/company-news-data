@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2025/05/technipfmc-marks-milestone-100th-subsea-20-tree-delivery-with-client-that-placed-first-order/"
 published_at: "2025-12-08T07:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-28T21:51:21.094676+00:00"
+fetched_at: "2026-07-29T00:17:43.124361+00:00"
 content_hash: "sha256:311321476be55a9d260af5c693a2f948bd7f0ced8ed57ed61b7dd9b577af25b0"
 ---
 

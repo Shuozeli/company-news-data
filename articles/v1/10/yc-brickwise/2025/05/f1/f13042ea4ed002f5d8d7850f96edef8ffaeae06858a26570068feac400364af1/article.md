@@ -7,7 +7,7 @@ source_id: "yc-brickwise-rss-e704c39c4e9a"
 canonical_url: "https://www.brickwiseai.com/blog/ai-predictive-maintenance-real-estate-roi"
 published_at: "2025-05-30T00:00:00+00:00"
 first_seen_at: "2026-07-24T22:17:54.061425+00:00"
-fetched_at: "2026-07-28T20:24:50.030820+00:00"
+fetched_at: "2026-07-28T23:09:37.363232+00:00"
 content_hash: "sha256:39495ab36df0b70282237e691ed422862c164a69fb83622efeccb7a715a3ec71"
 ---
 

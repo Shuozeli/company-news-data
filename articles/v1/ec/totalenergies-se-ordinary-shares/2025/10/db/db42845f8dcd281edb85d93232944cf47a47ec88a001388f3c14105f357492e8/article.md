@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/bom-dia-brasil-from-sao-paulo-to-rio-grande-do-norte-passing-through-rio-de-janeiro-and-minas-gerais-totalenergies-has-been-present-for-50-years-covering-exploration-production-gas-renewables-alongsi/"
 published_at: "2025-10-07T10:07:46+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:e0776e9bb2d6e4fe4c9e4f7e4c711b382d6d60fd70a5fbedb88ceae2ca7e8db3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "equity-lifestyle-properties-inc-common-stock-rss-a4c7415067a9"
 canonical_url: "https://equitylifestyle.gcs-web.com/news-releases/news-release-details/els-reports-first-quarter-results-19"
 published_at: "2026-04-21T20:17:00+00:00"
 first_seen_at: "2026-07-27T02:11:25.582387+00:00"
-fetched_at: "2026-07-28T21:40:01.341386+00:00"
+fetched_at: "2026-07-29T00:05:44.713129+00:00"
 content_hash: "sha256:44b600972d4ce5fef01e8971337c95c33904f2d59e1b59dddc29a0b79b88359a"
 ---
 

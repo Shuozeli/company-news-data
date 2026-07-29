@@ -7,7 +7,7 @@ source_id: "bruker-corporation-common-stock-rss-60eb66f25324"
 canonical_url: "https://ir.bruker.com/press-releases/press-release-details/2026/Bruker-Announces-Major-Strides-in-4D-Proteomics-Performance-Further-Advances-In-Intact-and-Top-Down-Functional-Proteoform-Analysis-and-Innovations-in-Hybrid-QualQuant-4D-Metabolomics--all-to-Enable-Deeper-Insights-into-Disease-Biology/default.aspx"
 published_at: "2026-06-01T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:38:45.231278+00:00"
-fetched_at: "2026-07-28T20:29:24.461115+00:00"
+fetched_at: "2026-07-28T23:15:32.273855+00:00"
 content_hash: "sha256:fb2fefec86acc54048cda4855108b3bcc5cfff874cc7913fb2685965ce6b6c4c"
 ---
 

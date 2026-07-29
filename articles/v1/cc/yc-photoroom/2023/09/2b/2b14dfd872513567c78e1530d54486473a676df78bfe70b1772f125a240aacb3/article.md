@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-f545fb403576"
 canonical_url: "https://www.photoroom.com/inside-photoroom/core-ml-performance-benchmark-2023-edition"
-published_at: "2023-09-25T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:21.557706+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:0466138fd7840a6ceb1ba75ac0614986c114603642071b97ff3d38a4ac204f22"

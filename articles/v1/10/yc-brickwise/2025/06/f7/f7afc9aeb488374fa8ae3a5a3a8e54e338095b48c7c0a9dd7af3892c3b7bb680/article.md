@@ -7,7 +7,7 @@ source_id: "yc-brickwise-rss-e704c39c4e9a"
 canonical_url: "https://www.brickwiseai.com/blog/how-ai-is-transforming-property-management-2025"
 published_at: "2025-06-05T00:00:00+00:00"
 first_seen_at: "2026-07-24T22:17:54.061425+00:00"
-fetched_at: "2026-07-28T20:24:50.030820+00:00"
+fetched_at: "2026-07-28T23:09:37.363232+00:00"
 content_hash: "sha256:d96617470e36199d84a670e6f9771c75e9b8fb4a527a4b84ad334b35b907fbde"
 ---
 

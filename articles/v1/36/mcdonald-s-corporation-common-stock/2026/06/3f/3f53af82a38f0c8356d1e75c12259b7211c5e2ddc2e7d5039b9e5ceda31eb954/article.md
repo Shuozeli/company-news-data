@@ -7,7 +7,7 @@ source_id: "mcdonald-s-corporation-common-stock-rss-e3f7e88d5cc9"
 canonical_url: "https://medium.com/mcdonalds-technical-blog/when-feature-flags-werent-enough-91a441e5cabd"
 published_at: "2026-06-09T13:33:43+00:00"
 first_seen_at: "2026-07-22T17:27:13.648832+00:00"
-fetched_at: "2026-07-28T21:07:46.576617+00:00"
+fetched_at: "2026-07-28T23:53:24.017559+00:00"
 content_hash: "sha256:367c028b5cd336f1bd2f6173ec377057f02458efdd52a68f2d0c6eea7b8695c3"
 ---
 

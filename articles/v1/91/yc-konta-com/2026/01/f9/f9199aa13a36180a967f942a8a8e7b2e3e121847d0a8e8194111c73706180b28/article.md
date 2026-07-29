@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/como-facturar-un-ticket-de-starbucks-guia-paso-a-paso-2026"
 published_at: "2026-01-08T23:13:00+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:a9209cb1e1f117a9d17c12d7077a6aba2fa25ed1eedbd5c448daf9a62019a34e"
 ---
 

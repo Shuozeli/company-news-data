@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/gis-centric-permitting-trimble-and-esri"
 published_at: "2026-06-23T00:00:00+00:00"
 first_seen_at: "2026-07-28T20:33:46.828941+00:00"
-fetched_at: "2026-07-28T20:33:46.789564+00:00"
+fetched_at: "2026-07-28T23:18:38.216278+00:00"
 content_hash: "sha256:4e9d6e07f434f1ae0b73da9193b64960d821e51f68896de35ad33aa2e93a0cee"
 ---
 

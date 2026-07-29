@@ -7,7 +7,7 @@ source_id: "cms-energy-corporation-common-stock-rss-601c04a7cd5c"
 canonical_url: "https://www.cmsenergy.com/investor-relations/news-releases/news-release-details/2026/CMS-Energy-to-Announce-2026-Second-Quarter-Results-on-July-28/default.aspx"
 published_at: "2026-07-07T20:30:00+00:00"
 first_seen_at: "2026-07-25T01:08:51.275325+00:00"
-fetched_at: "2026-07-28T21:50:14.651435+00:00"
+fetched_at: "2026-07-29T00:06:52.427039+00:00"
 content_hash: "sha256:bc73f7d4b1dafdc0da44b387f221bef05723c425b1383740862c5cd10890240d"
 ---
 

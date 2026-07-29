@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/68/nrg-energy-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11826,
+        "sha256": "sha256:a534080ab35b7cec347bff50e3d8c9b5d0ee3e071f4f4d47b10635dd92694451",
+        "newest_at": "2026-07-22T11:02:00+00:00",
+        "oldest_at": "2026-04-08T21:27:00+00:00"
+      }
+    ]
+  }
 }

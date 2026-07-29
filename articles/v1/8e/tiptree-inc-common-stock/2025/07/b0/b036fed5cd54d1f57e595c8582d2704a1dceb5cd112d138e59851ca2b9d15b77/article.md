@@ -7,7 +7,7 @@ source_id: "tiptree-inc-common-stock-rss-67f8f0593fc9"
 canonical_url: "https://investors.tiptreeinc.com/Investor-Resources/news/news-details/2025/Tiptree-Announces-Second-Quarter-2025-Results/default.aspx"
 published_at: "2025-07-30T20:03:00+00:00"
 first_seen_at: "2026-07-26T02:42:36.653502+00:00"
-fetched_at: "2026-07-28T21:22:22.408729+00:00"
+fetched_at: "2026-07-29T00:20:50.028221+00:00"
 content_hash: "sha256:6f379af973d8822a4de0fcd5f0f4c81bd59fb9346b5acd446eca5c84539f3c6c"
 ---
 

@@ -48,5 +48,22 @@
       "partition": "2024-01",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6f/middlesex-water-company-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 15534,
+        "sha256": "sha256:b230804fa8216edd7871f299ed680a65f315920580d33f9359d6d92e11088af0",
+        "newest_at": "2024-01-10T16:16:16+00:00",
+        "oldest_at": "2020-05-08T17:56:12+00:00"
+      }
+    ]
+  }
 }

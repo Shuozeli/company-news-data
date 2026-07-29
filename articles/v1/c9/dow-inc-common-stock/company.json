@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c9/dow-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10083,
+        "sha256": "sha256:0393b1252c7297d08c1b6b7affe6036957a98a579b36556e5310a53e737fbd49",
+        "newest_at": "2026-07-23T10:00:00+00:00",
+        "oldest_at": "2026-01-29T11:00:00+00:00"
+      }
+    ]
+  }
 }

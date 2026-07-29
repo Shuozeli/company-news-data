@@ -7,7 +7,7 @@ source_id: "yc-teamnote-rss-0237b928e138"
 canonical_url: "https://teamnote.ai/teamnote-co-founder-ceo-roy-law-invited-as-professional-trainer-for-cuscs-generative-ai-course/"
 published_at: "2026-03-24T06:04:25+00:00"
 first_seen_at: "2026-07-25T01:53:21.564811+00:00"
-fetched_at: "2026-07-28T20:25:04.128373+00:00"
+fetched_at: "2026-07-28T23:09:44.296238+00:00"
 content_hash: "sha256:befc382de324d11d7822968b7e04b99ce4cd1836f96f7d1f3434f0b053f3ac55"
 ---
 

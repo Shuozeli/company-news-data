@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2025/12/adobe-express-add-on-platform-updates-winter-2025-digest"
 published_at: "2025-12-19T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:046e7de06f4baea4e8dc0794b2e3eee39a2a777b1295f7564f8fc9abfb4885f5"
 ---
 

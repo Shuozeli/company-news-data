@@ -7,7 +7,7 @@ source_id: "camden-property-trust-common-stock-rss-647fedcc88df"
 canonical_url: "https://investors.camdenliving.com/investors/news-events-presentations/news/news-details/2026/Camden-Property-Trust-Named-One-of-Fortunes-100-Best-Companies-to-Work-For/default.aspx"
 published_at: "2026-04-01T20:15:00+00:00"
 first_seen_at: "2026-07-27T00:21:08.621096+00:00"
-fetched_at: "2026-07-28T21:19:35.546124+00:00"
+fetched_at: "2026-07-29T00:23:19.509534+00:00"
 content_hash: "sha256:7775be1d8126e1f6e37be2ac0d26581049aeec060e51b5c4117b1a0da7a74331"
 ---
 

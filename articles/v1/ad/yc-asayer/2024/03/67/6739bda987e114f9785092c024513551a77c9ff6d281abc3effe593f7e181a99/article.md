@@ -7,7 +7,7 @@ source_id: "yc-asayer-rss-4c61467398db"
 canonical_url: "https://forum.openreplay.com/t/support-of-tabbed-browsing-in-session-replay/63"
 published_at: "2024-03-27T19:01:44+00:00"
 first_seen_at: "2026-07-25T17:39:50.908347+00:00"
-fetched_at: "2026-07-28T20:47:31.333421+00:00"
+fetched_at: "2026-07-28T23:32:11.251031+00:00"
 content_hash: "sha256:6e54a0febff9022472eb5a1322276522bc9af4e7084370e65cc597a55d9a0f9f"
 ---
 

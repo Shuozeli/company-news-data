@@ -7,7 +7,7 @@ source_id: "yc-insoma-bio-rss-163d5fd47698"
 canonical_url: "https://insomabio.com/insoma-accepted-to-medtech-innovator-2025"
 published_at: "2025-06-05T16:30:46+00:00"
 first_seen_at: "2026-07-20T23:24:08.655569+00:00"
-fetched_at: "2026-07-28T20:16:40.075754+00:00"
+fetched_at: "2026-07-28T23:00:12.975707+00:00"
 content_hash: "sha256:2f535b0646eebaa2cf58f83628c8ef318bb174d8afc996e79285fef31135e0c4"
 ---
 

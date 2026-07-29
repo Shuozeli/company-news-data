@@ -7,7 +7,7 @@ source_id: "tpg-re-finance-trust-inc-common-stock-rss-ef66e498ee7c"
 canonical_url: "http://investors.tpgrefinance.com/news/news-details/2026/TPG-RE-Finance-Trust-Inc--Announces-Closing-of-New-400-Million-Senior-Secured-Term-Loan-B-and-100-Million-Revolving-Credit-Facility/default.aspx"
 published_at: "2026-05-14T20:15:00+00:00"
 first_seen_at: "2026-07-26T02:53:23.630730+00:00"
-fetched_at: "2026-07-28T19:34:05.464251+00:00"
+fetched_at: "2026-07-28T23:00:38.611838+00:00"
 content_hash: "sha256:faa6dc55b58d385c16b7301652e2a9184f3ad9c25f5e5e4da856bbf795fde400"
 ---
 

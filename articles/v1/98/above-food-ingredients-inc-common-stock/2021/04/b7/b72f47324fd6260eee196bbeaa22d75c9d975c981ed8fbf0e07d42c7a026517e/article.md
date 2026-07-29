@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-establishes-innovation-advisory-council-and-names-chairman-bruce-linton/"
 published_at: "2021-04-16T20:11:35+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:4d53ed6a908ee71bb440d52cd3410228cff72629e3f112115357aac863c15e55"
 ---
 

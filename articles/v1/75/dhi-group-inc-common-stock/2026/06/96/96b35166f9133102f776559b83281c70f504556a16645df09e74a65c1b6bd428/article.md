@@ -7,7 +7,7 @@ source_id: "dhi-group-inc-common-stock-rss-4be88c1ddc65"
 canonical_url: "https://dhigroupinc.com/press/press-release-details/2026/ClearanceJobs-Reaches-2-Million-Registered-Candidates-Reflecting-Record-Growth-in-the-Cleared-Talent-Community/default.aspx"
 published_at: "2026-06-04T12:30:00+00:00"
 first_seen_at: "2026-07-25T03:57:29.503088+00:00"
-fetched_at: "2026-07-28T19:49:20.445831+00:00"
+fetched_at: "2026-07-28T23:32:37.865694+00:00"
 content_hash: "sha256:6a20d1e4a8d03ad3f47148c47174369ef70baed0fed518abcc4c25c68d2d5b4f"
 ---
 

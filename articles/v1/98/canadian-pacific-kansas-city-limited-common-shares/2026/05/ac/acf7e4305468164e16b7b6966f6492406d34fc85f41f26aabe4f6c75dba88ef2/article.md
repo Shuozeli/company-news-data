@@ -7,7 +7,7 @@ source_id: "canadian-pacific-kansas-city-limited-common-shares-rss-ebe5547364b1"
 canonical_url: "https://investor.cpkcr.com/news/press-release-details/2026/CPKC-President-and-CEO-Keith-Creel-to-address-2026-Wolfe-Research-Global-Transportation--Industrials-Conference/default.aspx"
 published_at: "2026-05-08T14:59:00+00:00"
 first_seen_at: "2026-07-25T01:41:40.149453+00:00"
-fetched_at: "2026-07-28T20:27:17.482574+00:00"
+fetched_at: "2026-07-28T23:13:30.634453+00:00"
 content_hash: "sha256:31bf2d83c5c5f1237755e461c09258818626774cb38910f41b924d4740c2911f"
 ---
 

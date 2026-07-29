@@ -7,7 +7,7 @@ source_id: "w-w-grainger-inc-common-stock-rss-c26f5457af09"
 canonical_url: "https://pressroom.grainger.com/news/press-release-details/2026/GRAINGER-SHOW-BRINGS-TOGETHER-MORE-THAN-10000-MRO-LEADERS-TO-HELP-CUSTOMERS-SOLVE-OPERATIONAL-CHALLENGES-AND-EMBRACE-INNOVATIONS-SHAPING-INDUSTRYS-FUTURE/default.aspx"
 published_at: "2026-03-27T14:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.900782+00:00"
-fetched_at: "2026-07-28T21:41:04.299331+00:00"
+fetched_at: "2026-07-29T00:24:15.617790+00:00"
 content_hash: "sha256:ec36aac36517dfce8fd8712fd1bd4f29ec726a21b5465499af60a8d1aefc0e7a"
 ---
 

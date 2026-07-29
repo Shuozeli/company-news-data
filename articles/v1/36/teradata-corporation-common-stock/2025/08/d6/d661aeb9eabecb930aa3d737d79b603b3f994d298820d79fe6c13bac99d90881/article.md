@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2025/teradata-reports-second-quarter-2025-financial-results"
 published_at: "2025-08-05T07:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T19:37:01.666775+00:00"
+fetched_at: "2026-07-28T23:07:12.403269+00:00"
 content_hash: "sha256:4ee572f5420aaca7da12045c72a9c56d34c274ad8d278613ab49b5e432eca14e"
 ---
 

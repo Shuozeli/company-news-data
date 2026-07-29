@@ -7,7 +7,7 @@ source_id: "carnival-corporation-common-stock-rss-ffa6724d6ae9"
 canonical_url: "https://www.carnivalcorp.com/inthenews/po-cruises-and-cunard-support-coastal-education-programme-in-southampton/"
 published_at: "2026-06-12T16:24:53+00:00"
 first_seen_at: "2026-07-27T00:26:15.782947+00:00"
-fetched_at: "2026-07-28T21:31:56.757642+00:00"
+fetched_at: "2026-07-29T00:11:01.176524+00:00"
 content_hash: "sha256:1b740de268e2081f392f6b2884545f3c29007b44882998c666f682142d98ffcc"
 ---
 

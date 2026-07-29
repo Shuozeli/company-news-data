@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a9/envoy-medical-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13294,
+        "sha256": "sha256:f895cca4af25b0bf41de580c553d5405d12396f1a204bf6b66ed28474a7e4e46",
+        "newest_at": "2026-07-21T09:17:00+00:00",
+        "oldest_at": "2026-04-22T08:00:00+00:00"
+      }
+    ]
+  }
 }

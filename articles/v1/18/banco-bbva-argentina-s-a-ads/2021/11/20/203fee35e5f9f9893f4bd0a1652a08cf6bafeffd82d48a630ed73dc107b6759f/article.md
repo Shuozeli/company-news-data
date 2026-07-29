@@ -7,7 +7,7 @@ source_id: "banco-bbva-argentina-s-a-ads-rss-7021c13bed09"
 canonical_url: "https://ir.bbva.com.ar/testeqd/"
 published_at: "2021-11-05T16:35:44+00:00"
 first_seen_at: "2026-07-24T18:11:06.713551+00:00"
-fetched_at: "2026-07-28T20:34:04.979277+00:00"
+fetched_at: "2026-07-28T23:18:35.336575+00:00"
 content_hash: "sha256:55b3d994cc41c4b6e255c811f71c456835237fe5fb387e1e91f8235da02c35c0"
 ---
 

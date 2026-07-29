@@ -7,7 +7,7 @@ source_id: "geopark-ltd-common-shares-rss-ad922b42f026"
 canonical_url: "https://www.geo-park.com/videos/at-geopark-we-are-taking-care-of-our-neighbors-during-the-covid-19-emergency/"
 published_at: "2021-12-14T10:50:01+00:00"
 first_seen_at: "2026-07-20T23:22:37.443202+00:00"
-fetched_at: "2026-07-28T20:44:31.811897+00:00"
+fetched_at: "2026-07-28T23:28:20.567059+00:00"
 content_hash: "sha256:29c17411d17780d5c0a9bff15822166063936ae9d2f003a9d3a9095230679204"
 ---
 

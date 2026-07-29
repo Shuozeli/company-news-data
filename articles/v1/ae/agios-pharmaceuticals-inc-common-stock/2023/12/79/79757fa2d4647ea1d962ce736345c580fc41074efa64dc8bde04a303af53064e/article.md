@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/in-this-issue-we-highlight-the-international-hemoglobinopathy-research-network-inherent-which-was-established-in-2020-to-examine-the-role-of-genetic-modifiers-in-hemoglobinopathies/"
 published_at: "2023-12-20T19:47:15+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-28T21:47:02.623482+00:00"
+fetched_at: "2026-07-29T00:23:58.530332+00:00"
 content_hash: "sha256:56eb759f95766b92b26b075910717ac8ca3fd93ca9bd1e72f3257787bca058f3"
 ---
 

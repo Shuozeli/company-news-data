@@ -7,7 +7,7 @@ source_id: "cvr-partners-lp-common-units-representing-limited-partner-interests-
 canonical_url: "https://investors.cvrenergy.com/news/news-details/2026/CVR-Energy-Announces-1-Billion-Private-Placement-of-Senior-Notes-Due-2031-and-Senior-Notes-Due-2034/default.aspx"
 published_at: "2026-01-29T12:41:00+00:00"
 first_seen_at: "2026-07-26T12:41:26.537198+00:00"
-fetched_at: "2026-07-28T20:55:31.582414+00:00"
+fetched_at: "2026-07-28T23:41:28.430497+00:00"
 content_hash: "sha256:38056b2c61636f7b2efee20251c23b2ace27bf017c88aa1dbf239685e3a87554"
 ---
 

@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2023/06/adobe-developer-app-builder-support-for-setting-response-headers"
 published_at: "2023-06-07T00:00:00+00:00"
 first_seen_at: "2026-07-28T11:10:06.749151+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:6dd60853401ae3ea11a8d9f35ce4b19164d65ac83cfeee95571778cb988a3107"
 ---
 

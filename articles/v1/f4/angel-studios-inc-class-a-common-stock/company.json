@@ -44,5 +44,22 @@
       "partition": "2026-07",
       "record_count": 14
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f4/angel-studios-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 31,
+        "byte_count": 38178,
+        "sha256": "sha256:05837fc46fd52454755ad941c44d0755dd9c9523b14c45d42567ac5a15bc91de",
+        "newest_at": "2026-07-23T20:48:44.485+00:00",
+        "oldest_at": "2025-11-19T14:31:02.431+00:00"
+      }
+    ]
+  }
 }

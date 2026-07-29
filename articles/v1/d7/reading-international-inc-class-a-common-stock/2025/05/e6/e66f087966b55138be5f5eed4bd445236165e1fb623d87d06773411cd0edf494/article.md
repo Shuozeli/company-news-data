@@ -7,7 +7,7 @@ source_id: "reading-international-inc-class-a-common-stock-rss-2a90fce45284"
 canonical_url: "https://www.readingrdi.com/movie-themed-cinema-take-over-experience/"
 published_at: "2025-05-28T18:39:47+00:00"
 first_seen_at: "2026-07-25T20:36:25.682580+00:00"
-fetched_at: "2026-07-28T22:02:56.561669+00:00"
+fetched_at: "2026-07-29T00:41:48.093676+00:00"
 content_hash: "sha256:97654a4f22c546699710d0954e796bb60496296fa72a2c71b16ed1690fd6f19c"
 ---
 

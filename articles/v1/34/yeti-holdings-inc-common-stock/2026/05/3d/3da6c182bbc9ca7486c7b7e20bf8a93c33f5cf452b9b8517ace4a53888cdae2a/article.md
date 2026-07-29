@@ -7,7 +7,7 @@ source_id: "yeti-holdings-inc-common-stock-rss-7c60e11580ea"
 canonical_url: "https://investors.yeti.com/news/news-details/2026/YETI-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-14T10:00:00+00:00"
 first_seen_at: "2026-07-26T06:12:24.049163+00:00"
-fetched_at: "2026-07-28T20:31:57.402748+00:00"
+fetched_at: "2026-07-28T23:16:59.371731+00:00"
 content_hash: "sha256:062032d6a4205a7a29c7f5ca4232032e5f6fa02ee51c294ed5011390fbdbea79"
 ---
 

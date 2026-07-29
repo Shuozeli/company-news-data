@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2023/SF-2022-Dividend-Increase.pdf"
 published_at: "2023-01-24T14:05:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:782b4566260d5e5a927e5a385f27808b9e5241ff848eec9bd142c4ac0857308a"
 ---
 

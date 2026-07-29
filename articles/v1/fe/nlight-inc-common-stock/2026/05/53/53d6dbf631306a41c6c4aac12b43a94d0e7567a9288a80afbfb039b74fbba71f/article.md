@@ -7,7 +7,7 @@ source_id: "nlight-inc-common-stock-rss-e6d45f288d48"
 canonical_url: "https://investors.nlight.net/news-releases/news-details/2026/nLIGHT-Inc--Named-Enterprise-Tech-Company-of-the-Year-at-2026-Oregon-Tech-Awards/default.aspx"
 published_at: "2026-05-13T12:05:00+00:00"
 first_seen_at: "2026-07-25T16:22:51.371933+00:00"
-fetched_at: "2026-07-28T20:55:35.410504+00:00"
+fetched_at: "2026-07-28T23:41:40.377684+00:00"
 content_hash: "sha256:f24af080efa97cb08f97443ba0ea2f2193b0293c67cf576df4c930e6f7250320"
 ---
 

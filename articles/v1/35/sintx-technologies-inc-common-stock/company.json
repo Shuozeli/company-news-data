@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/35/sintx-technologies-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 15543,
+        "sha256": "sha256:6af57684c1a11f139a252c5458d4b2da5f9000ca50ffee2d89cc98ba113e649e",
+        "newest_at": "2026-07-28T13:00:51+00:00",
+        "oldest_at": "2026-01-29T14:00:00+00:00"
+      }
+    ]
+  }
 }

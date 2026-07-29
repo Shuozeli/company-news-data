@@ -7,7 +7,7 @@ source_id: "zevra-therapeutics-inc-common-stock-rss-75fda4e386e5"
 canonical_url: "https://zevra.com/medical-publications/arimoclomol-in-infants-with-niemann-pick-disease-type-c-results-from-the-phase-2-3-open-label-pediatric-substudy/"
 published_at: "2026-06-22T20:22:57+00:00"
 first_seen_at: "2026-07-26T06:34:12.421534+00:00"
-fetched_at: "2026-07-28T21:49:58.554566+00:00"
+fetched_at: "2026-07-29T00:23:51.654113+00:00"
 content_hash: "sha256:5053524f2e9a5491dbceb5037e5f44eec17bc3e8d751e4245426e51783efe90c"
 ---
 

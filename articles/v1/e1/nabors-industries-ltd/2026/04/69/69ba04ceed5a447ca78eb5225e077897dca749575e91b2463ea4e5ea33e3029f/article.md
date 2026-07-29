@@ -7,7 +7,7 @@ source_id: "nabors-industries-ltd-rss-44818faee468"
 canonical_url: "https://investor.nabors.com/2026-04-28-Disciplined-Execution,-Durable-Momentum-Nabors-1Q-2026"
 published_at: "2026-04-28T20:15:00+00:00"
 first_seen_at: "2026-07-20T23:17:47.193586+00:00"
-fetched_at: "2026-07-28T19:39:39.754073+00:00"
+fetched_at: "2026-07-28T23:12:44.443033+00:00"
 content_hash: "sha256:9cefaa53efcf93a6f8b1c192320f09790120544d0fcc4f5ffb2aa306486e8fbb"
 ---
 

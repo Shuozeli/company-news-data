@@ -4,9 +4,9 @@
     "key": "elastic-n-v-ordinary-shares",
     "name": "Elastic N.V. Ordinary Shares"
   },
-  "record_count": 86,
+  "record_count": 89,
   "first_published_at": "2022-10-12T00:00:00+00:00",
-  "last_published_at": "2026-07-28T00:00:00+00:00",
+  "last_published_at": "2026-07-28T10:12:15+00:00",
   "partitions": [
     {
       "partition": "2022-10",
@@ -78,7 +78,33 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 43
+      "record_count": 46
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b3/elastic-n-v-ordinary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55997,
+        "sha256": "sha256:ff0fb11b63382745b52bcaba7da1275f8a553c973da93d2731086eb80f356fa9",
+        "newest_at": "2026-07-28T10:12:15+00:00",
+        "oldest_at": "2026-06-29T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/b3/elastic-n-v-ordinary-shares/index/pages/000002.json",
+        "record_count": 39,
+        "byte_count": 44566,
+        "sha256": "sha256:3b8bc4e58011cdb0405a053a30789e79ec8ea0f372cbfd4ae89c335c17bf51ed",
+        "newest_at": "2026-06-23T00:00:00+00:00",
+        "oldest_at": "2022-10-12T00:00:00+00:00"
+      }
+    ]
+  }
 }

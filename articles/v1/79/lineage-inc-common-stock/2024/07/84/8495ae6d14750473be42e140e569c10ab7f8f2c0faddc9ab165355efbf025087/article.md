@@ -7,7 +7,7 @@ source_id: "lineage-inc-common-stock-rss-e66612fb33a7"
 canonical_url: "https://www.onelineage.com/StartingLINE-es"
 published_at: "2024-07-23T15:23:47+00:00"
 first_seen_at: "2026-07-20T23:22:16.521419+00:00"
-fetched_at: "2026-07-28T20:32:00.041481+00:00"
+fetched_at: "2026-07-28T23:17:33.950842+00:00"
 content_hash: "sha256:41780d150a5a49fa989a7fb948d838713d24c0de9483543cb488d96a08a04d14"
 ---
 

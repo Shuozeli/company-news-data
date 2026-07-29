@@ -60,5 +60,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bb/spire-global-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 29,
+        "byte_count": 36662,
+        "sha256": "sha256:c489c6a426d58d788a7a92698085df5bf2232bf2603f63c4c7666449b656d9e4",
+        "newest_at": "2026-07-23T09:30:12+00:00",
+        "oldest_at": "2020-08-24T11:55:00+00:00"
+      }
+    ]
+  }
 }

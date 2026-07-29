@@ -7,7 +7,7 @@ source_id: "perion-network-ltd-ordinary-shares-rss-2c2626ab728d"
 canonical_url: "https://perion.com/product/the-future-of-dooh-monetization-one-platform-full-control/"
 published_at: "2026-07-20T10:40:57+00:00"
 first_seen_at: "2026-07-20T23:22:51.777610+00:00"
-fetched_at: "2026-07-28T20:41:28.179474+00:00"
+fetched_at: "2026-07-28T23:25:21.207430+00:00"
 content_hash: "sha256:39cacf84c3a84a2225beb2730397d6a5013673e97e9e8abeea93b9d85bddf793"
 ---
 

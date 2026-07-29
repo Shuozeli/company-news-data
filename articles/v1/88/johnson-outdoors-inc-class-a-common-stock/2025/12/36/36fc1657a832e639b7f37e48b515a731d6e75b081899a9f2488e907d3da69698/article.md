@@ -7,7 +7,7 @@ source_id: "johnson-outdoors-inc-class-a-common-stock-rss-d7a348c41086"
 canonical_url: "https://www.johnsonoutdoors.com/us/investors/news/johnson-outdoors-announces-fiscal-fourth-quarter-results-december-2025"
 published_at: "2025-12-01T17:28:06+00:00"
 first_seen_at: "2026-07-20T23:22:39.768322+00:00"
-fetched_at: "2026-07-28T20:44:36.359277+00:00"
+fetched_at: "2026-07-28T23:31:05.038598+00:00"
 content_hash: "sha256:eab784a933b2c75cf7bd701241906aad90ab9aa54f4a6bd7e9a750593d97ec34"
 ---
 

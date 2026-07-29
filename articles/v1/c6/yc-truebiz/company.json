@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c6/yc-truebiz/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5445,
+        "sha256": "sha256:cfa8d740d136ad4378c591904e7b0cd83486c31e7641600fb647b768ce6c3a42",
+        "newest_at": "2026-07-28T21:20:10.944044+00:00",
+        "oldest_at": "2026-04-28T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "fractyl-health-inc-common-stock-rss-347083c4f534"
 canonical_url: "https://www.fractyl.com/our-science/presentations-publications/feasibility-and-safety-of-endoscopic-ultrasound-guided-delivery-of-human-glp-1-pancreatic-gene-therapy-in-a-porcine-model/"
 published_at: "2025-05-05T12:30:02+00:00"
 first_seen_at: "2026-07-24T09:07:29.122181+00:00"
-fetched_at: "2026-07-28T21:05:07.497154+00:00"
+fetched_at: "2026-07-28T23:51:41.401622+00:00"
 content_hash: "sha256:3e1e83e443b4067bd53cadec296149bc70654b4aed6d304e872761d70c22eb3a"
 ---
 

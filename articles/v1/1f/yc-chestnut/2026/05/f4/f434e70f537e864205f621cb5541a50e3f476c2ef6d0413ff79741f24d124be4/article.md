@@ -7,7 +7,7 @@ source_id: "yc-chestnut-rss-2a65ddec1755"
 canonical_url: "https://chestnutmortgage.com/news/2025-vs-2026-mortgage-costs-home-price-growth-comparison"
 published_at: "2026-05-11T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:15.366523+00:00"
-fetched_at: "2026-07-28T22:03:07.438626+00:00"
+fetched_at: "2026-07-29T00:41:32.903231+00:00"
 content_hash: "sha256:6a994525bcae4eb64c6479d96b6e8dcb29303fb81569713998a2f605e2412a92"
 ---
 

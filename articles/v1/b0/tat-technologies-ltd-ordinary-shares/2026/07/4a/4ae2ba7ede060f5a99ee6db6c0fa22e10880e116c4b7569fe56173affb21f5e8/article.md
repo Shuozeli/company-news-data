@@ -7,7 +7,7 @@ source_id: "tat-technologies-ltd-ordinary-shares-rss-cbf58fbf7dc6"
 canonical_url: "https://tat-technologies.com/tat-expands-honeywell-apu-partnership/"
 published_at: "2026-07-16T13:43:51+00:00"
 first_seen_at: "2026-07-20T23:19:41.327451+00:00"
-fetched_at: "2026-07-28T20:22:43.792860+00:00"
+fetched_at: "2026-07-28T23:07:02.052518+00:00"
 content_hash: "sha256:53351da932541d80cd2c46d0db03d7855d99dc7230e79f40aa5c2f2b306dea96"
 ---
 

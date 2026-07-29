@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-and-aljomaih-energy-and-water-company-have-been-selected-to-develop-a-solar-power-plant-of-400-megawatts-in-saudi-arabia-as-part-of-round-6-of-the-national-renewable-energy-program/"
 published_at: "2025-10-28T10:05:10+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:321dbbfedc10141d2709cdfa08ced544300a19f577f98d9066c480843a9e2782"
 ---
 

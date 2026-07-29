@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/superwall-new-pricing-and-superwall-manifesto"
-published_at: "2023-10-27T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:8501fb6ea32d21283ca04a293c210eb2f34477992a95cddf64f19dff81efb9e4"

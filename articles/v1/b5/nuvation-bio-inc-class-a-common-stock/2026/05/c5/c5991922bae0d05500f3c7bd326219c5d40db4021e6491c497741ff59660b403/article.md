@@ -7,7 +7,7 @@ source_id: "nuvation-bio-inc-class-a-common-stock-rss-b4f1cad90b3b"
 canonical_url: "https://investors.nuvationbio.com/news/news-details/2026/Nuvation-Bio-Announces-FDA-Acceptance-of-Supplemental-New-Drug-Application-for-IBTROZI-taletrectinib-with-Updated-Duration-of-Response-in-Advanced-ROS1-Positive-Non-Small-Cell-Lung-Cancer/default.aspx"
 published_at: "2026-05-06T12:00:00+00:00"
 first_seen_at: "2026-07-25T16:46:57.555145+00:00"
-fetched_at: "2026-07-28T21:41:47.683215+00:00"
+fetched_at: "2026-07-29T00:17:00.835864+00:00"
 content_hash: "sha256:c8f16dfed60cb0772392e698808d202d59827dd554df461c0e3c614805e0c89b"
 ---
 

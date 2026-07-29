@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2023/10/adobe-express-at-max-2023-the-next-step-for-our-open-developer-platform"
 published_at: "2023-10-10T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:9ab02ad293945dfe10b1b79eba50a90e1569f8abd2ae2ca0ca0269efc8b4c07a"
 ---
 

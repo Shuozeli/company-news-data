@@ -188,5 +188,40 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/67/snap-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52885,
+        "sha256": "sha256:df171b4797f27aa0199ea2b6296cd99d0d8b10e3049e966b2584dad798acd5e8",
+        "newest_at": "2026-07-28T07:00:00+00:00",
+        "oldest_at": "2025-12-22T14:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/67/snap-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 53289,
+        "sha256": "sha256:fc3381551d59b4013bc3af37be2779b60c0917865036f69ba025cd6093baf250",
+        "newest_at": "2025-12-17T14:00:00+00:00",
+        "oldest_at": "2025-04-29T08:10:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/67/snap-inc-class-a-common-stock/index/pages/000003.json",
+        "record_count": 45,
+        "byte_count": 47567,
+        "sha256": "sha256:90a67b7976b3104e38e6d25d5a7b7676f883aa0281a9b5285a1919f28692e34a",
+        "newest_at": "2025-04-23T20:00:00+00:00",
+        "oldest_at": "2020-02-04T08:00:00+00:00"
+      }
+    ]
+  }
 }

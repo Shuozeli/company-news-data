@@ -7,7 +7,7 @@ source_id: "restaurant-brands-international-inc-common-shares-rss-1cf267562846"
 canonical_url: "https://www.rbi.com/English/news/news-details/2026/Chris-Padoan-Appointed-Chief-Operating-Officer-of-Popeyes-U-S---Canada/default.aspx"
 published_at: "2026-03-24T04:00:00+00:00"
 first_seen_at: "2026-07-25T21:14:19.567844+00:00"
-fetched_at: "2026-07-28T20:54:47.592892+00:00"
+fetched_at: "2026-07-28T23:40:55.173627+00:00"
 content_hash: "sha256:e3bae999ebaf22a503dd5efd5837912411c97552701fb97daf9611e82a6d43c7"
 ---
 

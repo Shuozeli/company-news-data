@@ -7,7 +7,7 @@ source_id: "stepstone-group-inc-class-a-common-stock-rss-d53e45329a72"
 canonical_url: "https://www.stepstonegroup.com/news-insights/how-evergreen-funds-can-improve-private-market-deployment-in-ppli/"
 published_at: "2026-07-24T15:51:21+00:00"
 first_seen_at: "2026-07-25T06:31:00.924406+00:00"
-fetched_at: "2026-07-28T20:22:14.595312+00:00"
+fetched_at: "2026-07-28T23:06:00.697821+00:00"
 content_hash: "sha256:859d439e65092ecd2a00f2dd4dee40e3683c92ab0c968c0a7eaa4f652bc233d4"
 ---
 

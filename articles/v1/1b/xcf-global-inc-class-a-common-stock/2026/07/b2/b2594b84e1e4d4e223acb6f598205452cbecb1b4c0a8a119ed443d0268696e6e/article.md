@@ -7,7 +7,7 @@ source_id: "xcf-global-inc-class-a-common-stock-rss-7600714c668d"
 canonical_url: "https://xcf.global/news-details/2026/XCF-Global-Inc--to-Participate-in-Water-Tower-Research-Fireside-Chat-on-Tuesday-July-21-2026/default.aspx"
 published_at: "2026-07-20T10:30:00+00:00"
 first_seen_at: "2026-07-27T06:08:47.646338+00:00"
-fetched_at: "2026-07-28T20:50:31.270414+00:00"
+fetched_at: "2026-07-28T23:35:50.576355+00:00"
 content_hash: "sha256:2d18b993154dcf0a6f7fd06fec39c74eef4a69b9fa016920ea9dd7b9cd580ab9"
 ---
 

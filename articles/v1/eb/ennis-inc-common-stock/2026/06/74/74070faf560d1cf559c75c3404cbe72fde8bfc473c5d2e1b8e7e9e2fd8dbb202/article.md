@@ -7,7 +7,7 @@ source_id: "ennis-inc-common-stock-rss-a62890cdf36a"
 canonical_url: "https://www.ennis.com/2026/06/22/ennis-inc-reports-results-for-the-quarter-ended-may-31-2026/"
 published_at: "2026-06-22T13:51:00+00:00"
 first_seen_at: "2026-07-20T23:18:54.315135+00:00"
-fetched_at: "2026-07-28T21:35:24.441109+00:00"
+fetched_at: "2026-07-29T00:06:45.128588+00:00"
 content_hash: "sha256:0098465ce3d84013f84d48fd411bc1fa2a9e8570446a648ac7fc994d712c327f"
 ---
 

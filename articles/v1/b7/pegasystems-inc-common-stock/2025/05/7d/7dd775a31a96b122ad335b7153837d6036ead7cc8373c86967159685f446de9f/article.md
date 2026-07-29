@@ -7,7 +7,7 @@ source_id: "pegasystems-inc-common-stock-rss-b2edbd2791b7"
 canonical_url: "https://community.pega.com/video-library/blueprint-analyzing-multiple-documents"
 published_at: "2025-05-27T12:12:37+00:00"
 first_seen_at: "2026-07-20T23:22:13.499536+00:00"
-fetched_at: "2026-07-28T20:42:24.911745+00:00"
+fetched_at: "2026-07-28T23:26:06.672602+00:00"
 content_hash: "sha256:af6f60b6a3302f11bac7c06e8a33d9035bb396a5b66b622d7450d4fc16407e5c"
 ---
 

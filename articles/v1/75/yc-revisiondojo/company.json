@@ -36,5 +36,22 @@
       "partition": "2026-01",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/75/yc-revisiondojo/index/pages/000001.json",
+        "record_count": 26,
+        "byte_count": 27576,
+        "sha256": "sha256:6673ee4524c9744c6bd4064a30813b838aaa0d51514b06c69923d201b027dfeb",
+        "newest_at": "2026-01-11T00:00:00+00:00",
+        "oldest_at": "2024-07-25T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "enanta-pharmaceuticals-inc-common-stock-rss-6165ef0aa60b"
 canonical_url: "https://www.enanta.com/oral-stat6-inhibitor-eps-3903-demonstrates-good-preclinical-in-vivo-tolerability-without-reactive-metabolites-or-metabolic-safety-liability-in-vitro-or-in-vivo/"
 published_at: "2026-04-16T16:29:00+00:00"
 first_seen_at: "2026-07-25T03:15:15.140684+00:00"
-fetched_at: "2026-07-28T20:31:52.735283+00:00"
+fetched_at: "2026-07-28T23:17:26.594855+00:00"
 content_hash: "sha256:34079f5d0e7ae5b0185816c6b20af6b8eaf60edf27e392a556532067d20f2bef"
 ---
 

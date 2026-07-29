@@ -7,7 +7,7 @@ source_id: "sensata-technologies-holding-plc-ordinary-shares-rss-89fb709e6ae6"
 canonical_url: "https://investors.sensata.com/news/news-details/2026/Sensata-Technologies-Reports-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-04-28T20:05:00+00:00"
 first_seen_at: "2026-07-25T22:37:13.113601+00:00"
-fetched_at: "2026-07-28T20:31:37.372995+00:00"
+fetched_at: "2026-07-28T23:16:49.117270+00:00"
 content_hash: "sha256:7d3adad98ada06884f0cdab2b056ba6196c873010a259ce41907faaa5b1771f9"
 ---
 

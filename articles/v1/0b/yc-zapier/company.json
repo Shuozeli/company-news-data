@@ -4,9 +4,9 @@
     "key": "yc-zapier",
     "name": "Zapier"
   },
-  "record_count": 54,
+  "record_count": 55,
   "first_published_at": "2018-03-29T00:00:00+00:00",
-  "last_published_at": "2026-07-28T05:00:00+00:00",
+  "last_published_at": "2026-07-28T07:00:00+00:00",
   "partitions": [
     {
       "partition": "2018-03",
@@ -54,7 +54,33 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 42
+      "record_count": 43
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0b/yc-zapier/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 48891,
+        "sha256": "sha256:8c720201f94a1c72ab7e6a15b03167682dde7cee77cabd004a8e94eea456d628",
+        "newest_at": "2026-07-28T07:00:00+00:00",
+        "oldest_at": "2023-04-20T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/0b/yc-zapier/index/pages/000002.json",
+        "record_count": 5,
+        "byte_count": 4939,
+        "sha256": "sha256:a47018ef4070c6e782024f57173e8c8482a79bafd6967097a48381100f58a3a4",
+        "newest_at": "2022-10-20T00:00:00+00:00",
+        "oldest_at": "2018-03-29T00:00:00+00:00"
+      }
+    ]
+  }
 }

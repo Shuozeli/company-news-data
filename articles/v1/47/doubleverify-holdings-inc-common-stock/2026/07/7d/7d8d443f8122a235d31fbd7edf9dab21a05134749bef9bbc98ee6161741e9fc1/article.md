@@ -7,7 +7,7 @@ source_id: "doubleverify-holdings-inc-common-stock-rss-f6469e95d005"
 canonical_url: "https://medium.com/doubleverify-engineering/a-new-ad-fraud-trend-aftercall-ads-ec44279843b2"
 published_at: "2026-07-13T13:29:05+00:00"
 first_seen_at: "2026-07-20T23:17:33.321656+00:00"
-fetched_at: "2026-07-28T21:20:44.399810+00:00"
+fetched_at: "2026-07-29T00:07:21.153865+00:00"
 content_hash: "sha256:5e8c76f0d9d98f72af777a0f0d9d73a9fa04e313557898fb1f53b9024f3cabcd"
 ---
 

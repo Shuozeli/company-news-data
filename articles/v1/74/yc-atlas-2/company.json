@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/74/yc-atlas-2/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 8286,
+        "sha256": "sha256:34044ac608349a7626538b99aabe20db1e3856444c5489ac4fe36119f3cee2ab",
+        "newest_at": "2026-07-28T21:39:52.838477+00:00",
+        "oldest_at": "2026-07-28T21:37:36.757263+00:00"
+      }
+    ]
+  }
 }

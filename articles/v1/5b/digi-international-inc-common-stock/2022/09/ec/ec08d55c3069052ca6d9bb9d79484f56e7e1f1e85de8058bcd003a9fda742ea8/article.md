@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2022/smartsense-forms-food-service-advisory-board"
 published_at: "2022-09-20T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:3cd1e8e5c37bda9d0bca952f421252b948305c84dccd387c41a8a688be69c0b4"
 ---
 

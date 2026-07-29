@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/how-to-build-multi-tiered-paywalls"
-published_at: "2024-08-21T22:54:58.544+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:283492b7b6e0f8313eafff10eb880ae665598a28816ec62df97f4c619701e7f5"

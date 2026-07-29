@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 24
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b7/yc-sigmamind-ai/index/pages/000001.json",
+        "record_count": 34,
+        "byte_count": 36061,
+        "sha256": "sha256:7bdc56fa8e0ef758e3f6bffe56032285c3c6e230bdac4ae515192f6825e6c930",
+        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "oldest_at": "2026-06-04T00:00:00+00:00"
+      }
+    ]
+  }
 }

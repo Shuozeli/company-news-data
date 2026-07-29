@@ -7,7 +7,7 @@ source_id: "intercontinental-exchange-inc-common-stock-rss-7d3eee4e5f0a"
 canonical_url: "https://ir.theice.com/press/news-details/2026/NYSE-to-Commence-Delisting-Proceedings-with-Respect-to-Warrants-of-Valens-Semiconductor-Ltd--VLNW/default.aspx"
 published_at: "2026-07-24T20:15:00+00:00"
 first_seen_at: "2026-07-25T09:41:18.378029+00:00"
-fetched_at: "2026-07-28T20:01:03.645167+00:00"
+fetched_at: "2026-07-28T23:50:41.729206+00:00"
 content_hash: "sha256:340db208b7659cc2b4b7b38ba002e93710ceb82cd63575d53f2781b33a9c8137"
 ---
 

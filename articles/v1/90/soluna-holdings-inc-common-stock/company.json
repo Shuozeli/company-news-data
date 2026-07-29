@@ -60,5 +60,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/90/soluna-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 33,
+        "byte_count": 36680,
+        "sha256": "sha256:81ae7bd2e7e57729ffb282beee1cef8eacf30eaa5ec72417d34e3c01dfa748b8",
+        "newest_at": "2026-07-16T11:30:21+00:00",
+        "oldest_at": "2021-08-12T00:01:15+00:00"
+      }
+    ]
+  }
 }

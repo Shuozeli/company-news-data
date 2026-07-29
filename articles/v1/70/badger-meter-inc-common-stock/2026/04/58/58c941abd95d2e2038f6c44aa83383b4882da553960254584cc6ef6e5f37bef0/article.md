@@ -7,7 +7,7 @@ source_id: "badger-meter-inc-common-stock-rss-6149203c610d"
 canonical_url: "http://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Declares-Regular-Quarterly-Dividend/default.aspx"
 published_at: "2026-04-24T20:15:00+00:00"
 first_seen_at: "2026-07-26T10:00:33.518201+00:00"
-fetched_at: "2026-07-28T20:17:44.089641+00:00"
+fetched_at: "2026-07-28T23:01:13.731152+00:00"
 content_hash: "sha256:23e0c21701e281226cafc897555d499c7da0ebe17b809ab27a93b3f69709d512"
 ---
 

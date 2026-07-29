@@ -7,7 +7,7 @@ source_id: "dick-s-sporting-goods-inc-common-stock-rss-de248d14cae7"
 canonical_url: "https://investors.dicks.com/news/news-details/2026/DICKS-Sporting-Goods-Announces-Partnership-with-Lids-to-Launch-Lids-Shops-Inside-100-DICKS-Locations/default.aspx"
 published_at: "2026-06-15T13:03:00+00:00"
 first_seen_at: "2026-07-25T01:49:30.343356+00:00"
-fetched_at: "2026-07-28T20:24:27.477892+00:00"
+fetched_at: "2026-07-28T23:09:14.310149+00:00"
 content_hash: "sha256:8980c53b4d8d5364f220a44e41b5bd69bf70eadcf63965a0f8cd8f4522583462"
 ---
 

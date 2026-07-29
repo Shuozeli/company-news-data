@@ -7,7 +7,7 @@ source_id: "live-oak-bancshares-inc-common-stock-rss-4e8593cce1e6"
 canonical_url: "https://investor.liveoak.bank/news/news-details/2026/Live-Oak-Bank-Grant-Supports-Lower-Cape-Fear-LifeCare-Hospice-Nurses-Addresses-Growing-Care-Shortage-in-North-Carolina/default.aspx"
 published_at: "2026-03-31T12:00:00+00:00"
 first_seen_at: "2026-07-25T12:33:42.966709+00:00"
-fetched_at: "2026-07-28T21:04:54.222657+00:00"
+fetched_at: "2026-07-28T23:51:28.462116+00:00"
 content_hash: "sha256:3e5c06dcd83c1b1d7f66e2ebd4c29248ba8016f394267ba3374bdf71ce403efe"
 ---
 

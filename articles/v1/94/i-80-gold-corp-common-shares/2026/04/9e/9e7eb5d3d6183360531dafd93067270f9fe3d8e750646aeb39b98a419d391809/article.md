@@ -7,7 +7,7 @@ source_id: "i-80-gold-corp-common-shares-rss-3d35b1983e0d"
 canonical_url: "https://www.i80gold.com/i-80-gold-reports-high-grade-assay-results-at-archimedes-underground-project-including-24-6-g-t-au-over-23-6-meters-development-advancing-on-schedule/"
 published_at: "2026-04-08T10:20:31+00:00"
 first_seen_at: "2026-07-20T23:17:48.246523+00:00"
-fetched_at: "2026-07-28T21:35:59.755045+00:00"
+fetched_at: "2026-07-29T00:03:55.112586+00:00"
 content_hash: "sha256:e2738d304a57da8aedece023cd2d87967df2542af67fe4708601763ed204f3c3"
 ---
 

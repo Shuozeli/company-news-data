@@ -7,7 +7,7 @@ source_id: "lci-industries-rss-49d48e881163"
 canonical_url: "https://investors.lci1.com/news/news-details/2026/LCI-Industries-Declares-Quarterly-Cash-Dividend-15b89b8fe/default.aspx"
 published_at: "2026-05-12T20:15:00+00:00"
 first_seen_at: "2026-07-25T11:47:01.499081+00:00"
-fetched_at: "2026-07-28T22:02:48.331768+00:00"
+fetched_at: "2026-07-29T00:40:59.574796+00:00"
 content_hash: "sha256:440d3215580bec7110fbdbc18dbdc3732abfd7b7d0e7f0b35d59da2de06ad969"
 ---
 

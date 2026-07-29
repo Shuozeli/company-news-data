@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/web-checkout-for-mobile-apps-is-here"
-published_at: "2025-04-02T21:13:06.363+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:fd56a8378502413b28169f6b233ad2eb92858ecc8b1ae3c06c9201279ce89d8a"

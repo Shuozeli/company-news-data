@@ -7,7 +7,7 @@ source_id: "yc-socksoho-atom-d805c5109efe"
 canonical_url: "https://socksoho.com/blogs/news/how-we-created-revolutionary-no-show-socks-hear-from-pritika-mehta-founder-of-socksoho"
 published_at: "2021-12-08T09:49:15+00:00"
 first_seen_at: "2026-07-24T01:53:15.412166+00:00"
-fetched_at: "2026-07-28T21:21:09.954275+00:00"
+fetched_at: "2026-07-29T00:30:39.919325+00:00"
 content_hash: "sha256:31ea7a44cadbe4bb73906dba5e6f20156ef04d8a1e61cbbbc28a717a735674b8"
 ---
 

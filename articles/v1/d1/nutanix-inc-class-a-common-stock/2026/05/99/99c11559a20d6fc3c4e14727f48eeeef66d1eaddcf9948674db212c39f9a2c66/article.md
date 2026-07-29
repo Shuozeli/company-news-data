@@ -7,7 +7,7 @@ source_id: "nutanix-inc-class-a-common-stock-rss-12a2d78c04c7"
 canonical_url: "https://www.nutanix.dev/2026/05/20/a-platform-engineers-guide-to-federated-networking-with-nutanix-flow-cni/"
 published_at: "2026-05-20T14:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:13.386524+00:00"
-fetched_at: "2026-07-28T20:22:59.463428+00:00"
+fetched_at: "2026-07-28T23:06:52.510487+00:00"
 content_hash: "sha256:a39e9ac982f54d6568eb8230c54232d05d44c97dda79ece460257cce01cbdcbf"
 ---
 

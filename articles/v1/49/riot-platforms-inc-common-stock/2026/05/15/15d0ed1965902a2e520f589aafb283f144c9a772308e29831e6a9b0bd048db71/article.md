@@ -7,7 +7,7 @@ source_id: "riot-platforms-inc-common-stock-rss-31fdadf17010"
 canonical_url: "https://www.riotplatforms.com/terrestrial-energy-and-riot-platforms-launch-collaboration-to-develop-nuclear-powered-large-scale-data-center-projects/"
 published_at: "2026-05-06T13:39:00+00:00"
 first_seen_at: "2026-07-24T13:19:46.152955+00:00"
-fetched_at: "2026-07-28T21:00:52.913763+00:00"
+fetched_at: "2026-07-28T23:47:45.295382+00:00"
 content_hash: "sha256:60726b4b1f78359ea52ca37394faf114578c0f30881d3f1cd8a7741e5ac92388"
 ---
 

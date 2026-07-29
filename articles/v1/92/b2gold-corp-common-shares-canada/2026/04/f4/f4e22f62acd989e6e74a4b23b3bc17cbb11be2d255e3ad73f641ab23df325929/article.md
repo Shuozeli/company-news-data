@@ -7,7 +7,7 @@ source_id: "b2gold-corp-common-shares-canada-rss-03122df7d041"
 canonical_url: "https://www.b2gold.com/news-media/news-releases/news-details/2026/B2Gold-Announces-Agreement-to-Sell-its-70-Interest-in-Fingold-Joint-Venture-to-Agnico-Eagle-for-US325-million-B2Gold-and-Agnico-Eagle-to-Enter-into-Nunavut-Collaboration-Agreement/default.aspx"
 published_at: "2026-04-20T10:40:00+00:00"
 first_seen_at: "2026-07-26T10:00:33.300803+00:00"
-fetched_at: "2026-07-28T20:16:37.707287+00:00"
+fetched_at: "2026-07-28T23:00:01.840341+00:00"
 content_hash: "sha256:f0f9025e0873dd7b332df833c2317707a792e60b3f69c0b70d025310f28e1491"
 ---
 

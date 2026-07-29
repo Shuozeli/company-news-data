@@ -7,7 +7,7 @@ source_id: "knot-offshore-partners-lp-common-units-representing-limited-partner-
 canonical_url: "https://www.knotoffshorepartners.com/investors/news/news-details/2026/KNOT-Offshore-Partners-LP-Announces-Availability-of-Its-Form-20-F-for-the-Year-Ended-December-31-2025/default.aspx"
 published_at: "2026-04-17T13:23:00+00:00"
 first_seen_at: "2026-07-25T10:57:53.242165+00:00"
-fetched_at: "2026-07-28T20:29:37.720355+00:00"
+fetched_at: "2026-07-28T23:15:50.802741+00:00"
 content_hash: "sha256:932811a12098a8841bf08106616c75fc06650056177d2387338bfd9bd68867cf"
 ---
 

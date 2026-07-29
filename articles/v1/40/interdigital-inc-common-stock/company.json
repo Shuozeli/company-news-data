@@ -96,5 +96,31 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/40/interdigital-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50834,
+        "sha256": "sha256:f2a3dd6c1db417167e4efbe716a108f8cd3e1324d5429d270815cd5edac9226f",
+        "newest_at": "2026-07-28T00:00:00+00:00",
+        "oldest_at": "2024-08-07T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/40/interdigital-inc-common-stock/index/pages/000002.json",
+        "record_count": 1,
+        "byte_count": 1209,
+        "sha256": "sha256:08006bc6f1fc3295a226fd9645abab659aa19b6f5d7b97d6fac45c6d264321f2",
+        "newest_at": "2024-07-14T00:00:00+00:00",
+        "oldest_at": "2024-07-14T00:00:00+00:00"
+      }
+    ]
+  }
 }

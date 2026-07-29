@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/introducing-digi-ix40-5g-edge-computing-router"
 published_at: "2024-02-12T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:02efe299ce5476b322e77961a6a51644e49bae1d06eb08816500e6f9cb7c3e03"
 ---
 

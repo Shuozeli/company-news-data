@@ -7,7 +7,7 @@ source_id: "marketwise-inc-class-a-common-stock-rss-90df030a31e1"
 canonical_url: "https://investors.marketwise.com/news-releases/news-release-details/marketwise-reports-net-revenue-770-million-and-net-loss-06"
 published_at: "2026-05-07T11:22:23+00:00"
 first_seen_at: "2026-07-25T13:20:50.191558+00:00"
-fetched_at: "2026-07-28T22:06:31.389048+00:00"
+fetched_at: "2026-07-29T00:44:54.351610+00:00"
 content_hash: "sha256:36dd4a29386a51930348e8a87707488cb9f8eae95d3eb4c500c9890b51c87f18"
 ---
 

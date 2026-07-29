@@ -32,5 +32,31 @@
       "partition": "2025-10",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7c/5e-advanced-materials-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 56313,
+        "sha256": "sha256:9fb5bad53aff0d146514d475fd430fbfa77c1f4b9115d85bdc8fa20b23eb418c",
+        "newest_at": "2025-10-14T20:02:30+00:00",
+        "oldest_at": "2024-06-19T19:40:51+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/7c/5e-advanced-materials-inc-common-stock/index/pages/000002.json",
+        "record_count": 3,
+        "byte_count": 3223,
+        "sha256": "sha256:da24775a52ce41e1c3c026b4394795447fc31ebef50d1913bd3c07432d3dca87",
+        "newest_at": "2024-06-13T19:41:44+00:00",
+        "oldest_at": "2024-06-04T19:43:33+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "palisade-bio-inc-common-stock-rss-dc15a313ba00"
 canonical_url: "https://palisadebio.com/palisade-bio-receives-fda-clearance-of-ind-for-pali-2108-and-plans-to-initiate-global-phase-2-ascentra-uc-study-in-ulcerative-colitis/"
 published_at: "2026-06-29T12:30:24+00:00"
 first_seen_at: "2026-07-20T23:19:44.339993+00:00"
-fetched_at: "2026-07-28T22:00:58.184447+00:00"
+fetched_at: "2026-07-29T00:39:43.955472+00:00"
 content_hash: "sha256:7f3ae0844bc179fa1f2a331f56c006f4eed0c64981b0927937b47668ed07d1ce"
 ---
 

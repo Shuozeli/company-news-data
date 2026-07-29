@@ -7,7 +7,7 @@ source_id: "shoe-carnival-inc-common-stock-rss-066a5ac40f71"
 canonical_url: "https://investors.shoecarnival.com/news/news-details/2025/Shoe-Carnival-Declares-Quarterly-Cash-Dividend-and-Announces-New-50-Million-Share-Repurchase-Program/default.aspx"
 published_at: "2025-12-12T11:10:00+00:00"
 first_seen_at: "2026-07-25T22:52:29.471785+00:00"
-fetched_at: "2026-07-28T21:35:52.328135+00:00"
+fetched_at: "2026-07-29T00:25:35.973785+00:00"
 content_hash: "sha256:7e9e41cdd33f6df8816f32183a7c0738a43c63c08e03af5ec6d7967cee4bb1dc"
 ---
 

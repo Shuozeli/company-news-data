@@ -7,7 +7,7 @@ source_id: "bgsf-inc-common-stock-rss-117cf374864d"
 canonical_url: "https://investor.bgsf.com/news/news-details/2026/BGSF-Inc--Expands-PropTech-Services-by-Joining-YardiR-Independent-Consultant-Network-/default.aspx"
 published_at: "2026-02-17T13:00:00+00:00"
 first_seen_at: "2026-07-26T10:22:41.042488+00:00"
-fetched_at: "2026-07-28T20:51:58.874848+00:00"
+fetched_at: "2026-07-28T23:37:39.507325+00:00"
 content_hash: "sha256:aa5cead1ef92054f8f79c122c5863507264b43f424058cb50805c5dca6c8045b"
 ---
 

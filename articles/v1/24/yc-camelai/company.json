@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/24/yc-camelai/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 24061,
+        "sha256": "sha256:11a3377df38ad8b2aabd8d95ba3b11fe294733a2d7b8a94b9568ec9021f4815a",
+        "newest_at": "2026-07-28T00:00:00+00:00",
+        "oldest_at": "2025-03-06T00:00:00+00:00"
+      }
+    ]
+  }
 }

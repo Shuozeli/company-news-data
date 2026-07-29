@@ -7,7 +7,7 @@ source_id: "teva-pharmaceutical-industries-limited-american-depositary-shares-rs
 canonical_url: "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2026/Teva-and-Polpharma-Biologics-Announce-Global-Licensing-Agreement-for-a-Biosimilar-Candidate-to-Ocrevus-ocrelizumab-for-Multiple-Sclerosis/default.aspx"
 published_at: "2026-07-09T12:30:00+00:00"
 first_seen_at: "2026-07-25T01:06:51.621885+00:00"
-fetched_at: "2026-07-28T21:37:33.063712+00:00"
+fetched_at: "2026-07-29T00:12:43.259437+00:00"
 content_hash: "sha256:0fa7cc636f1b5b255b92e1ddf87ee87f64e6248cb30da6b5743d18fcce0b7786"
 ---
 

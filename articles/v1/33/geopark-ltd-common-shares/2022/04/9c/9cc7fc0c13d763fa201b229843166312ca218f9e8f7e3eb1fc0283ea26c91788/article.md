@@ -7,7 +7,7 @@ source_id: "geopark-ltd-common-shares-rss-ad922b42f026"
 canonical_url: "https://www.geo-park.com/uncategorized/4q-and-full-year-2021-financial-results/"
 published_at: "2022-04-06T19:06:46+00:00"
 first_seen_at: "2026-07-20T23:22:37.443202+00:00"
-fetched_at: "2026-07-28T20:44:31.811897+00:00"
+fetched_at: "2026-07-28T23:28:20.567059+00:00"
 content_hash: "sha256:de31a163e925c12df97f01258c391c6d35517f5dc249d0350cefefd263191747"
 ---
 

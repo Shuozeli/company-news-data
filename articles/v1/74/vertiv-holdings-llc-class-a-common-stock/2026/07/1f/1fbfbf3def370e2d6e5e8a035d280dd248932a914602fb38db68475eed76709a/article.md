@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2021/Vertiv-Reports-5.8-Net-Sales-Growth-17.2-Orders-Growth-and-Record-Backlog-in-Third-Quarter/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T20:39:59.455460+00:00"
+fetched_at: "2026-07-28T23:23:56.894710+00:00"
 content_hash: "sha256:0382a2a6d8b555459fc92bb15e62bb0f2a60893b41462697948800abcccc5819"
 ---
 

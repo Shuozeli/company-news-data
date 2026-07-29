@@ -7,7 +7,7 @@ source_id: "pyxis-tankers-inc-common-stock-atom-7822dd0d168e"
 canonical_url: "https://www.pyxistankers.com/investor-relations/events/capital-links-product-tanker-webinar"
 published_at: "2018-02-01T17:20:31+00:00"
 first_seen_at: "2026-07-25T20:11:22.683173+00:00"
-fetched_at: "2026-07-28T21:00:09.761193+00:00"
+fetched_at: "2026-07-28T23:46:44.775223+00:00"
 content_hash: "sha256:847280ef930f9b723eb29040f87fa18d6a4b4a79132c75a3e3fd7de8b528f1ac"
 ---
 

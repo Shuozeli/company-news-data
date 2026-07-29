@@ -28,5 +28,22 @@
       "partition": "2026-05",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/34/kodiak-sciences-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13877,
+        "sha256": "sha256:4f0ea86c1025e96f7f977d040f07dfd1728f572e3b0e7a867973de899c890767",
+        "newest_at": "2026-05-28T22:09:00+00:00",
+        "oldest_at": "2025-12-15T21:01:00+00:00"
+      }
+    ]
+  }
 }

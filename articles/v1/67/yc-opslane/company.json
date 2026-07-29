@@ -12,5 +12,22 @@
       "partition": "2026-04",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/67/yc-opslane/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1194,
+        "sha256": "sha256:2c9b58b8e854f40e6a5f81850bfd53b36a35a4d12f9b4cca234c27f1402db3af",
+        "newest_at": "2026-04-05T00:00:00+00:00",
+        "oldest_at": "2026-04-05T00:00:00+00:00"
+      }
+    ]
+  }
 }

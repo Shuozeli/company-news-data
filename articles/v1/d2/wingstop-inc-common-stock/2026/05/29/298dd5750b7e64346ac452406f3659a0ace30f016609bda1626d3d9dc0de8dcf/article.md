@@ -7,7 +7,7 @@ source_id: "wingstop-inc-common-stock-rss-7f135f859589"
 canonical_url: "https://ir.wingstop.com/wingstop-debuts-house-of-flavor-fan-experience-in-north-america-for-the-first-time/"
 published_at: "2026-05-14T11:30:50+00:00"
 first_seen_at: "2026-07-20T23:17:13.311245+00:00"
-fetched_at: "2026-07-28T21:13:20.646299+00:00"
+fetched_at: "2026-07-28T23:58:14.897862+00:00"
 content_hash: "sha256:abab670050c0a21299a6166f3d20fed2865d76ed66081c64a34c9d90475b554f"
 ---
 

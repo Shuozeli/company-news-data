@@ -7,7 +7,7 @@ source_id: "yc-supabase-rss-47281c9e7110"
 canonical_url: "https://supabase.com/blog/case-study-tayfa"
 published_at: "2020-12-02T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:24:12.344578+00:00"
-fetched_at: "2026-07-28T20:28:31.832124+00:00"
+fetched_at: "2026-07-28T23:14:46.325564+00:00"
 content_hash: "sha256:4f481352710b128d350ba5ce9b02ee73e2744e66042d09038cdbb412ef309b3f"
 ---
 

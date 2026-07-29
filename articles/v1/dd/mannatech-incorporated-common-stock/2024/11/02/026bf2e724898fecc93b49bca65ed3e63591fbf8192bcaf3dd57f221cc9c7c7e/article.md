@@ -7,7 +7,7 @@ source_id: "mannatech-incorporated-common-stock-rss-c827823d1e4e"
 canonical_url: "https://ir.mannatech.com/news/news-details/2024/Mannatech-Announces-Appointment-of-Robert-A--Toth-as-Vice-Chairman-of-the-Board-of-Directors-11-26-2024/default.aspx"
 published_at: "2024-11-26T05:00:00+00:00"
 first_seen_at: "2026-07-25T13:09:17.370976+00:00"
-fetched_at: "2026-07-28T21:53:12.527587+00:00"
+fetched_at: "2026-07-29T00:33:03.283343+00:00"
 content_hash: "sha256:a2aafd7fa5316d5488012e78244244fdc953b31084b1b603689a4633d4ef121e"
 ---
 

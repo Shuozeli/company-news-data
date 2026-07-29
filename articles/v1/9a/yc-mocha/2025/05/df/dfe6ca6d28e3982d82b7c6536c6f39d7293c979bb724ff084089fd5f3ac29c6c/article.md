@@ -7,7 +7,7 @@ source_id: "yc-mocha-rss-d0ffed2c2227"
 canonical_url: "https://getmocha.com/best-vibe-coding-tools-2025"
 published_at: "2025-05-12T00:00:00+00:00"
 first_seen_at: "2026-07-24T11:28:42.148680+00:00"
-fetched_at: "2026-07-28T21:12:00.549507+00:00"
+fetched_at: "2026-07-28T23:57:26.073716+00:00"
 content_hash: "sha256:a1e20f31cc9629ef64950d18aebcb76eca5f97f6b819d91a8efd40536d8a8680"
 ---
 

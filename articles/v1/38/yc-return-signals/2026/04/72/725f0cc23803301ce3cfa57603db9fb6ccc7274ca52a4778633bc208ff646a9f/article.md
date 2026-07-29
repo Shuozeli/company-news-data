@@ -7,7 +7,7 @@ source_id: "yc-return-signals-rss-dfedba3fe891"
 canonical_url: "https://www.returnsignals.com/blog/quaker-marine-case-study/"
 published_at: "2026-04-08T00:00:00+00:00"
 first_seen_at: "2026-07-23T23:09:42.823995+00:00"
-fetched_at: "2026-07-28T20:13:06.153972+00:00"
+fetched_at: "2026-07-28T22:55:06.665534+00:00"
 content_hash: "sha256:2f2e3f482e1edebb925bdb01dcdc83a90cefae854e36de0e59ec7bf4eebed71f"
 ---
 

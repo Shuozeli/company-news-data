@@ -68,5 +68,22 @@
       "partition": "2026-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6c/yc-human-interest/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 23192,
+        "sha256": "sha256:91aff07ff9cfe862950a2ee294e48ffc1accb1db55b3fbc1628ae54f92240369",
+        "newest_at": "2026-05-05T15:00:00+00:00",
+        "oldest_at": "2020-09-15T12:54:37+00:00"
+      }
+    ]
+  }
 }

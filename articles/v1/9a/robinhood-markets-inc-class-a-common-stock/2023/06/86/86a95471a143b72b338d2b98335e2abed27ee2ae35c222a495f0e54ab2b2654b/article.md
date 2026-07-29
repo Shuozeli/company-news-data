@@ -7,7 +7,7 @@ source_id: "robinhood-markets-inc-class-a-common-stock-rss-4d5f88ecf3b4"
 canonical_url: "https://medium.com/robinhood-engineering/robinhood-retirement-through-the-eyes-of-research-creative-and-design-d964542916d9"
 published_at: "2023-06-07T15:52:49+00:00"
 first_seen_at: "2026-07-25T21:41:09.986212+00:00"
-fetched_at: "2026-07-28T21:16:03.374256+00:00"
+fetched_at: "2026-07-29T00:02:15.177673+00:00"
 content_hash: "sha256:77632a4cd80994298e7f666fa0c5b983c1b49331528f51be266d629fe16db2d3"
 ---
 

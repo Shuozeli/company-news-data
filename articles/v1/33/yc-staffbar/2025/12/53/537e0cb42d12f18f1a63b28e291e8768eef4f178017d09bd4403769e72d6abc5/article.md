@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/apple-payment-dates-when-app-store-payments-are-sent"
-published_at: "2025-12-09T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:ec289521f6de23d3ab90160c5b54657912e23e10a7d58cb99fc6aaf5b60d24fd"

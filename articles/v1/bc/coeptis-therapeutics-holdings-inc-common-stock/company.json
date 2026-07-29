@@ -44,5 +44,22 @@
       "partition": "2026-04",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bc/coeptis-therapeutics-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14642,
+        "sha256": "sha256:ea3718632fc5e0a250b425d1ba012775df2e6ff8ce5e24e5da4afcc070e8e9c6",
+        "newest_at": "2026-04-07T16:05:00+00:00",
+        "oldest_at": "2025-03-11T12:34:00+00:00"
+      }
+    ]
+  }
 }

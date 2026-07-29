@@ -7,7 +7,7 @@ source_id: "yc-ghosteye-rss-5d11c55fa7e6"
 canonical_url: "https://ghosteye.ai/blog/the-death-of-security-awareness"
 published_at: "2026-07-02T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:17.326814+00:00"
-fetched_at: "2026-07-28T22:11:15.714041+00:00"
+fetched_at: "2026-07-29T00:49:40.059591+00:00"
 content_hash: "sha256:54c89850b1a7e1686f78cb66c02b814884d67adfdf4731038e9eae83be0c202d"
 ---
 

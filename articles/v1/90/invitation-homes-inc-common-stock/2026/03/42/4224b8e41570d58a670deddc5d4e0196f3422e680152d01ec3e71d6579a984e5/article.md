@@ -7,7 +7,7 @@ source_id: "invitation-homes-inc-common-stock-rss-1545f6c2cf53"
 canonical_url: "https://www.invh.com/news-events/news/news-details/2026/Invitation-Homes-Announces-Cash-Dividend/default.aspx"
 published_at: "2026-03-13T10:45:00+00:00"
 first_seen_at: "2026-07-25T09:56:53.291090+00:00"
-fetched_at: "2026-07-28T20:39:01.655320+00:00"
+fetched_at: "2026-07-28T23:23:23.747600+00:00"
 content_hash: "sha256:e4fe948a4a47f906d3ce18956ebbf38febafabe29df80b5803fa1998a720172b"
 ---
 

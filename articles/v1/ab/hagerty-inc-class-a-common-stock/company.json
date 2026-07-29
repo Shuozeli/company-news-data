@@ -36,5 +36,40 @@
       "partition": "2026-07",
       "record_count": 126
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ab/hagerty-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 66903,
+        "sha256": "sha256:080444d30dc01501ff8e90387d474756036ed2c10fd7f5bc819b1ee7812d84c1",
+        "newest_at": "2026-07-28T21:43:59+00:00",
+        "oldest_at": "2026-07-21T18:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/ab/hagerty-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 66551,
+        "sha256": "sha256:c815c53af270b1b69eed957b30a0bbb370dee9717d407d8805d45b3a27c66e01",
+        "newest_at": "2026-07-21T17:00:00+00:00",
+        "oldest_at": "2026-07-13T13:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/ab/hagerty-inc-class-a-common-stock/index/pages/000003.json",
+        "record_count": 43,
+        "byte_count": 61070,
+        "sha256": "sha256:29d7fe4d2d3fe0eb6224d48dd929bcb9a9696bc9923ceba83d8fbebe648f4f7a",
+        "newest_at": "2026-07-12T13:00:00+00:00",
+        "oldest_at": "2026-01-26T22:48:49+00:00"
+      }
+    ]
+  }
 }

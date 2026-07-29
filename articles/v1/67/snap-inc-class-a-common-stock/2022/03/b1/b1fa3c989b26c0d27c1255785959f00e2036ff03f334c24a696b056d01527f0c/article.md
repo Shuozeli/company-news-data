@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/life-with-ar-landmarkers"
 published_at: "2022-03-31T02:00:00+00:00"
 first_seen_at: "2026-07-20T23:21:35.516737+00:00"
-fetched_at: "2026-07-28T20:38:20.120259+00:00"
+fetched_at: "2026-07-28T23:22:34.016732+00:00"
 content_hash: "sha256:e0a7d993e1c3fe6f7aaa7dbb816dda1f9d39d0274303ae1eda0ff602323005e5"
 ---
 

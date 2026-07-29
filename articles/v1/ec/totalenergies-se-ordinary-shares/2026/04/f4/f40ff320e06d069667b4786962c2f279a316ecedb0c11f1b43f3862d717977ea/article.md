@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-us-offshore-wind-exit-contrasts-with-company-power-sector-push/"
 published_at: "2026-04-13T13:01:46+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:cbc03714088c3d2e0297753ad2b8af76d6369bf27c35da02fedb6c16e63d55da"
 ---
 

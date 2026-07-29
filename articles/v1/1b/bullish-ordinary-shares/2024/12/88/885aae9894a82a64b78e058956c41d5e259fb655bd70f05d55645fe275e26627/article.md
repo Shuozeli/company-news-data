@@ -7,7 +7,7 @@ source_id: "bullish-ordinary-shares-rss-b348dbb1f0cd"
 canonical_url: "https://medium.com/bullish-engineering/bullish-custody-navigating-the-future-of-digital-asset-security-fb2efda4ca22"
 published_at: "2024-12-06T14:10:31+00:00"
 first_seen_at: "2026-07-20T04:36:16.773580+00:00"
-fetched_at: "2026-07-28T21:03:19.084062+00:00"
+fetched_at: "2026-07-28T23:50:13.087854+00:00"
 content_hash: "sha256:8ea20d0f8c913842198f81857021bbed8b962fb724cd322284e0ae31943d8534"
 ---
 

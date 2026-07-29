@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f7/carlisle-companies-incorporated-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11393,
+        "sha256": "sha256:c10ef4c89b0a1cf912866c54e8776a3551fe0edcd45d4f7c7af8bb42c76d1882",
+        "newest_at": "2026-07-15T20:05:00+00:00",
+        "oldest_at": "2026-01-16T14:25:00+00:00"
+      }
+    ]
+  }
 }

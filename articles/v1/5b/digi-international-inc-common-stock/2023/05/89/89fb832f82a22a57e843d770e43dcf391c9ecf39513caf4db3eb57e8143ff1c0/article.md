@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2023/opengear-recruits-thomas-mercon-as-channel-manager"
 published_at: "2023-05-09T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:aa41b0bb5c2b54985c61185f1c42589e3a7c4547068449c3a95fefad616049c2"
 ---
 

@@ -7,7 +7,7 @@ source_id: "vince-holding-corp-common-stock-rss-88eb2c7b52d3"
 canonical_url: "http://investors.vince.com/press-releases/press-release-details/2026/Vince-Announces-Reporting-Date-for-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-06-02T11:52:00+00:00"
 first_seen_at: "2026-07-26T04:41:31.329212+00:00"
-fetched_at: "2026-07-28T20:53:09.233302+00:00"
+fetched_at: "2026-07-28T23:38:21.832592+00:00"
 content_hash: "sha256:46de27f076444504ed2bf8cfee156bd056cba7eaa81210200a86ca4e9145cc06"
 ---
 

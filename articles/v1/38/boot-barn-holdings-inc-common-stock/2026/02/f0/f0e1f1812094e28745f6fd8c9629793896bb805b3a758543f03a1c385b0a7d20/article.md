@@ -7,7 +7,7 @@ source_id: "boot-barn-holdings-inc-common-stock-rss-38c814ae8764"
 canonical_url: "https://investor.bootbarn.com/news/news-details/2026/Boot-Barn-Holdings-Inc--Announces-Third-Quarter-Fiscal-Year-2026-Financial-Results/default.aspx"
 published_at: "2026-02-04T21:10:00+00:00"
 first_seen_at: "2026-07-26T10:48:19.112221+00:00"
-fetched_at: "2026-07-28T20:03:59.204115+00:00"
+fetched_at: "2026-07-28T23:52:46.416504+00:00"
 content_hash: "sha256:dc9f1ded11c553423e5ced0ebede4c597ca0399577c1562225d09766b614b131"
 ---
 

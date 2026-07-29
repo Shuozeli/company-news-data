@@ -32,5 +32,31 @@
       "partition": "2026-07",
       "record_count": 26
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/55/netscout-systems-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 59958,
+        "sha256": "sha256:567301b043fa9212050978a027443abd73449d5241b526d6d5b634d77ccd1b2d",
+        "newest_at": "2026-07-28T21:38:27.854613+00:00",
+        "oldest_at": "2026-05-01T13:25:34+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/55/netscout-systems-inc-common-stock/index/pages/000002.json",
+        "record_count": 23,
+        "byte_count": 27235,
+        "sha256": "sha256:fcbe92b4a72b7b5deb3493b2807f1c987a601164b3f34b29689e9de1c3e2dd04",
+        "newest_at": "2026-04-29T17:37:39+00:00",
+        "oldest_at": "2026-02-11T15:53:58+00:00"
+      }
+    ]
+  }
 }

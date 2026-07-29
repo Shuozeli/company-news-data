@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/scaling-mongodb-for-a-growing-customer-base.html"
 published_at: "2020-11-20T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-28T21:37:04.406824+00:00"
+fetched_at: "2026-07-29T00:27:54.647135+00:00"
 content_hash: "sha256:e339dc800cf07fc269f98c6e76300473f4fa0cf9f7ed4062b7ac624da3bf6648"
 ---
 

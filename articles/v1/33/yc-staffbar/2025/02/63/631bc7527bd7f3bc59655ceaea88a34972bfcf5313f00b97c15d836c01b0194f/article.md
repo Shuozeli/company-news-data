@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/how-to-market-your-app-for-free-5-strategies-for-generating-growth"
-published_at: "2025-02-13T15:25:41.036+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:88deadde6dfbd999dbbe059def87a0135046bcf11d709c4ee5c86c1aca0b0882"

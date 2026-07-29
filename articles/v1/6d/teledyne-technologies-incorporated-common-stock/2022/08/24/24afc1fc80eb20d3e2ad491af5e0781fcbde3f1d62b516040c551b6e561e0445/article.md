@@ -7,7 +7,7 @@ source_id: "teledyne-technologies-incorporated-common-stock-rss-9000605d05af"
 canonical_url: "https://blog.teledynelecroy.com/2022/08/only-measuring-board-level-power-rail.html"
 published_at: "2022-08-01T12:00:00+00:00"
 first_seen_at: "2026-07-20T04:36:13.437201+00:00"
-fetched_at: "2026-07-28T21:00:14.371602+00:00"
+fetched_at: "2026-07-28T23:46:25.634618+00:00"
 content_hash: "sha256:d9eded459488abec82803e1f10bcde15d39ec689c3d01d8e46506583094acf29"
 ---
 

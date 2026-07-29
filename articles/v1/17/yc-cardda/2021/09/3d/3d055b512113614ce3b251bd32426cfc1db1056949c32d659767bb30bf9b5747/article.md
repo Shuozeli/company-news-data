@@ -7,7 +7,7 @@ source_id: "yc-cardda-rss-045ead9ae99f"
 canonical_url: "https://blog.cardda.com/cardda-la-fintech-de-tarjetas-virtuales-corporativas-para-compras-internacionales/"
 published_at: "2021-09-21T17:58:07+00:00"
 first_seen_at: "2026-07-24T22:18:05.363201+00:00"
-fetched_at: "2026-07-28T20:27:38.462396+00:00"
+fetched_at: "2026-07-28T23:14:04.063057+00:00"
 content_hash: "sha256:63e3f9b2e5375479e1cec18bfecb4ac197b45f0067c83763adcb5321523c6726"
 ---
 

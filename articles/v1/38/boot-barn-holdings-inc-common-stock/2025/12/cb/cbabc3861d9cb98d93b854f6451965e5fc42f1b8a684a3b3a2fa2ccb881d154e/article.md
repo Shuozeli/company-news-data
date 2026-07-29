@@ -7,7 +7,7 @@ source_id: "boot-barn-holdings-inc-common-stock-rss-38c814ae8764"
 canonical_url: "https://investor.bootbarn.com/news/news-details/2025/Boot-Barn-Director-Brenda-Morris-Named-a-2025-NACD-Directorship-100-Honoree/default.aspx"
 published_at: "2025-12-05T21:05:00+00:00"
 first_seen_at: "2026-07-26T10:48:19.112221+00:00"
-fetched_at: "2026-07-28T20:03:59.204115+00:00"
+fetched_at: "2026-07-28T23:52:46.416504+00:00"
 content_hash: "sha256:7429c771858a4811baa9efae5ff124e2a3fac75a6ebc6925b72207354a19b031"
 ---
 

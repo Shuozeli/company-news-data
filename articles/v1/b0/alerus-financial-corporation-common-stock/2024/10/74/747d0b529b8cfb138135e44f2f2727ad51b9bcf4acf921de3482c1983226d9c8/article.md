@@ -7,7 +7,7 @@ source_id: "alerus-financial-corporation-common-stock-rss-7009be6acc5d"
 canonical_url: "https://www.alerus.com/november-client-appreciation-event/"
 published_at: "2024-10-22T18:41:23+00:00"
 first_seen_at: "2026-07-27T23:45:30.811046+00:00"
-fetched_at: "2026-07-28T20:38:19.348649+00:00"
+fetched_at: "2026-07-28T23:22:11.831346+00:00"
 content_hash: "sha256:746225d3a2c601484004da8cd2dee81ffeed238b89c9de3ab7f04382acdc7b52"
 ---
 

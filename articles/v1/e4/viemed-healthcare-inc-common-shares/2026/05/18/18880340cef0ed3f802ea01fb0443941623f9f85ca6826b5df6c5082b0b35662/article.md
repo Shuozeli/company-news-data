@@ -7,7 +7,7 @@ source_id: "viemed-healthcare-inc-common-shares-rss-df56de915991"
 canonical_url: "https://viemed2018if.q4web.com/news-releases/press-release-details/2026/Viemed-Healthcare-Announces-First-Quarter-2026-Financial-Results/default.aspx"
 published_at: "2026-05-05T21:00:00+00:00"
 first_seen_at: "2026-07-26T04:39:30.209372+00:00"
-fetched_at: "2026-07-28T20:49:07.393945+00:00"
+fetched_at: "2026-07-28T23:33:46.986818+00:00"
 content_hash: "sha256:8b3578ffef0bcf13807d2aa24ded85569d4035171be9b8119d2d06613b0e6b5b"
 ---
 

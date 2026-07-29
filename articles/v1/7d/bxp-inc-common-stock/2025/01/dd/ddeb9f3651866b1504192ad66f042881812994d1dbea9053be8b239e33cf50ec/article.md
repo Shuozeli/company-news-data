@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-closes-fourth-quarter-2024-with-2-3-million-sf-of-leases"
 published_at: "2025-01-28T21:45:50+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:7228d18c0a541f1980905e6980040c70480e0d0151e1125d5da045448066ac8b"
 ---
 

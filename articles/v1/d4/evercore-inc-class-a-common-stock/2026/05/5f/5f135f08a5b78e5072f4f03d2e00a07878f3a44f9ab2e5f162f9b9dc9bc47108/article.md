@@ -7,7 +7,7 @@ source_id: "evercore-inc-class-a-common-stock-rss-cec3ba1f6fc0"
 canonical_url: "https://www.evercore.com/clay-mccoy-joins-evercore-as-senior-managing-director-in-private-capital-advisory/"
 published_at: "2026-05-20T19:15:55+00:00"
 first_seen_at: "2026-07-21T01:18:50.348672+00:00"
-fetched_at: "2026-07-28T21:50:32.928734+00:00"
+fetched_at: "2026-07-29T00:20:15.020156+00:00"
 content_hash: "sha256:659f967d7140226a7d74181b0272131e094c80a4b7758527a8ea3d9db00fbd4a"
 ---
 

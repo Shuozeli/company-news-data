@@ -7,7 +7,7 @@ source_id: "warrior-met-coal-inc-common-stock-rss-9d1999abbdbf"
 canonical_url: "https://investors.warriormetcoal.com/news-releases/2026/01-14-2026-140111455"
 published_at: "2026-01-14T13:00:00+00:00"
 first_seen_at: "2026-07-26T05:08:01.221824+00:00"
-fetched_at: "2026-07-28T21:24:36.992402+00:00"
+fetched_at: "2026-07-29T00:12:08.637381+00:00"
 content_hash: "sha256:4e8795b15fea75ff0614294c6e8e3f74161e52aa21a873d848efa0a82b5b2d89"
 ---
 

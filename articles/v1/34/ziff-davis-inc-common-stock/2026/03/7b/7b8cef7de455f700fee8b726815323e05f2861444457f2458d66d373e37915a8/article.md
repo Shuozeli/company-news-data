@@ -7,7 +7,7 @@ source_id: "ziff-davis-inc-common-stock-rss-97915001e723"
 canonical_url: "https://www.ziffdavis.com/about/news/castle-connolly-releases-the-2026-top-hospitals-across-the-nation"
 published_at: "2026-03-04T23:42:13+00:00"
 first_seen_at: "2026-07-24T08:06:25.970573+00:00"
-fetched_at: "2026-07-28T19:33:34.461559+00:00"
+fetched_at: "2026-07-28T22:57:55.158764+00:00"
 content_hash: "sha256:18b99dab7bbe969cc5ca15cedfb8e39f17d8ab766fea186bc3b9512f16074fee"
 ---
 

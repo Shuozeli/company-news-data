@@ -7,7 +7,7 @@ source_id: "renew-energy-global-plc-class-a-ordinary-shares-rss-d5d99d5fc981"
 canonical_url: "https://www.renew.com/news/can-india-power-its-future-without-fossil-fuels-sumant-sinha-the-india-story"
 published_at: "2026-03-24T06:39:08+00:00"
 first_seen_at: "2026-07-20T23:22:24.994581+00:00"
-fetched_at: "2026-07-28T20:39:54.239842+00:00"
+fetched_at: "2026-07-28T23:23:56.325688+00:00"
 content_hash: "sha256:b280a3d187d8e19d184b6ed9940b9e8ab2d753c0434916f154bb3137502c733d"
 ---
 

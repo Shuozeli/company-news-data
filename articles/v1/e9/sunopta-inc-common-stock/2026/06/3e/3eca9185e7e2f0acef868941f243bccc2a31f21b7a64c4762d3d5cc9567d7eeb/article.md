@@ -7,7 +7,7 @@ source_id: "sunopta-inc-common-stock-rss-7dfa930bd6bd"
 canonical_url: "https://www.sunopta.com/sunopta-expands-fruit-snack-production-capacity/"
 published_at: "2026-06-10T20:56:51+00:00"
 first_seen_at: "2026-07-20T23:18:19.636673+00:00"
-fetched_at: "2026-07-28T21:08:27.659987+00:00"
+fetched_at: "2026-07-28T23:54:33.502464+00:00"
 content_hash: "sha256:2b852d9f7c5257429e675a3868d1bff9d69f203d8aa2f6043330e12436926428"
 ---
 

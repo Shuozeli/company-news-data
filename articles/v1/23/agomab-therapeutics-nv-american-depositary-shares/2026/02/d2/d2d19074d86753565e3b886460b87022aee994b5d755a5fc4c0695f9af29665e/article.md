@@ -7,7 +7,7 @@ source_id: "agomab-therapeutics-nv-american-depositary-shares-rss-88030a64c15e"
 canonical_url: "https://agomab01-a405198c5a-abf8c4eyf4e4gace.z02.azurefd.net/wp-content/uploads/2026/02/20260209_Agomab-Announces-Closing-of-Initial-Public-Offering.pdf"
 published_at: "2026-02-09T21:11:46+00:00"
 first_seen_at: "2026-07-20T23:18:22.265454+00:00"
-fetched_at: "2026-07-28T21:36:57.314703+00:00"
+fetched_at: "2026-07-29T00:19:39.326226+00:00"
 content_hash: "sha256:050dc95cb4506eedb6c890ebecb05e03d17e46077cce1ffef7b391c3b2f1c9f5"
 ---
 

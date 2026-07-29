@@ -40,5 +40,40 @@
       "partition": "2026-07",
       "record_count": 16
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b2/yc-blaxel/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49636,
+        "sha256": "sha256:1d3928bc7f3eadf11e032caf3a9ad42d6f10690991ab8316089e8789ab720db6",
+        "newest_at": "2026-07-23T23:50:48+00:00",
+        "oldest_at": "2026-04-30T17:44:13+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/b2/yc-blaxel/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 49264,
+        "sha256": "sha256:67e4a9a5ec2b2dbd4ba20f5b56fa5fd5bc84ad9699e5ae8be8eb545c9fab372b",
+        "newest_at": "2026-04-30T17:41:37+00:00",
+        "oldest_at": "2026-02-08T01:03:29+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/b2/yc-blaxel/index/pages/000003.json",
+        "record_count": 30,
+        "byte_count": 29447,
+        "sha256": "sha256:218cb5da145b082854fb0f09961e470322158b97ad48e26520d0c716d993d58b",
+        "newest_at": "2026-02-06T02:58:01+00:00",
+        "oldest_at": "2025-12-03T13:52:08+00:00"
+      }
+    ]
+  }
 }

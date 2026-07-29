@@ -7,7 +7,7 @@ source_id: "international-flavors-fragrances-inc-common-stock-rss-5af8663efd29"
 canonical_url: "https://www.iff.com/media/stories/panificacao-industrial-massa-mais-forte-producao-mais-eficiente/"
 published_at: "2026-07-08T13:38:33+00:00"
 first_seen_at: "2026-07-21T01:55:53.290272+00:00"
-fetched_at: "2026-07-28T21:23:48.937390+00:00"
+fetched_at: "2026-07-29T00:26:33.797363+00:00"
 content_hash: "sha256:60434fb456f34bec010fb43adef99e99df388a1196b9252a3f8a77218e59f786"
 ---
 

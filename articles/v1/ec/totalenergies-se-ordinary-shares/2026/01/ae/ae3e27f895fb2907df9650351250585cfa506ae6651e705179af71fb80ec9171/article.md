@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/patrick-pouyanne-pdg-de-totalenergies-les-patrons-francais-protegent-le-pays/"
 published_at: "2026-01-04T11:06:12+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:6127dede2fa1b882f202d3ec948040c78653d9e8a51a4b1230e35d08b8bedc67"
 ---
 

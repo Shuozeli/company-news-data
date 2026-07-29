@@ -7,7 +7,7 @@ source_id: "comstock-holding-companies-inc-class-a-common-stock-rss-cd4bb1e70261
 canonical_url: "https://ir.comstock.com/news/news-details/2026/Comstock-Properties-Earn-2026-Kingsley-Excellence-Awards/default.aspx"
 published_at: "2026-07-23T18:00:00+00:00"
 first_seen_at: "2026-07-25T01:14:22.836197+00:00"
-fetched_at: "2026-07-28T22:10:53.064497+00:00"
+fetched_at: "2026-07-29T00:49:30.333513+00:00"
 content_hash: "sha256:5234295e721a249fd3294578c32b17051b730b3ed6e5e0c1288986408c9abd62"
 ---
 

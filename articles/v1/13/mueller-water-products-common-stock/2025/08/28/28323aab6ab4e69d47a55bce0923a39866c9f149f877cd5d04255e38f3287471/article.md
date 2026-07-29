@@ -7,7 +7,7 @@ source_id: "mueller-water-products-common-stock-rss-6d33afc55c30"
 canonical_url: "https://ir.muellerwaterproducts.com/events-and-presentations/08-05-2025"
 published_at: "2025-08-05T15:00:00+00:00"
 first_seen_at: "2026-07-27T03:55:29.841844+00:00"
-fetched_at: "2026-07-28T22:07:44.128148+00:00"
+fetched_at: "2026-07-29T00:46:04.843737+00:00"
 content_hash: "sha256:a5f69f7114e45d2719b72a874f540a1e707dcff5c78a85e7ae47d71f6fb97b54"
 ---
 

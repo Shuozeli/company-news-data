@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/guia-aprende-paso-a-paso-para-realizar-tu-declaracion-anual"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:46e524bb0635cb22fd8c28a506c0d8adac6f1f03826fe6207e8046b0d3c4ea43"
 ---
 

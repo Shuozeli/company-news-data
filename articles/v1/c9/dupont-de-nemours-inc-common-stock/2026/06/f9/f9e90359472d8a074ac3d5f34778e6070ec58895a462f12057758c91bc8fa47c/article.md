@@ -7,7 +7,7 @@ source_id: "dupont-de-nemours-inc-common-stock-rss-21e972ee78a3"
 canonical_url: "https://www.investors.dupont.com/news-and-media/press-release-details/2026/DuPont-Announces-Regular-Quarterly-Dividend-on-Common-Stock-521035616/default.aspx"
 published_at: "2026-06-24T20:30:00+00:00"
 first_seen_at: "2026-07-25T01:32:37.783941+00:00"
-fetched_at: "2026-07-28T20:21:49.239694+00:00"
+fetched_at: "2026-07-28T23:05:21.799699+00:00"
 content_hash: "sha256:69355e022c841d18d66c67987149b56a4d691de715220be3e454af10e61dc2ed"
 ---
 

@@ -7,7 +7,7 @@ source_id: "boeing-company-the-common-stock-rss-76526cfc8662"
 canonical_url: "http://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Global-Commercial-Fleet-Will-Top-50000-Airplanes-in-20-Years-as-Passenger-Traffic-Doubles/default.aspx"
 published_at: "2026-07-17T23:32:00+00:00"
 first_seen_at: "2026-07-26T23:54:21.829354+00:00"
-fetched_at: "2026-07-28T20:43:51.874638+00:00"
+fetched_at: "2026-07-28T23:26:48.703887+00:00"
 content_hash: "sha256:9ae9a5f7f269de1117810d049cfe277a57667486e56fd1b30866940daaf56d29"
 ---
 

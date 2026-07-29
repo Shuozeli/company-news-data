@@ -7,7 +7,7 @@ source_id: "insight-enterprises-inc-common-stock-rss-e7d82a10d5b6"
 canonical_url: "https://investor.insight.com/news-releases/news-release-details/2026/Insight-Wins-2026-Google-Cloud-Partner-of-the-Year-Award-for-Global-Workplace-AI-Transformation/default.aspx"
 published_at: "2026-04-21T19:00:00+00:00"
 first_seen_at: "2026-07-25T09:31:34.511975+00:00"
-fetched_at: "2026-07-28T21:54:11.295692+00:00"
+fetched_at: "2026-07-29T00:33:54.552502+00:00"
 content_hash: "sha256:c339054d8eacff68bd5814005a4ffc0087a6de8de87559f337a38107f938d572"
 ---
 

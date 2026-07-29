@@ -7,7 +7,7 @@ source_id: "first-american-corporation-new-common-stock-rss-9f2a876b0601"
 canonical_url: "https://investors.firstam.com/investors/news-and-events/news/press-release-details/2026/First-American-Chief-Financial-Officer-Matthew-Wajner-Named-a-2026-HousingWire-Finance-Leader/default.aspx"
 published_at: "2026-03-02T21:15:00+00:00"
 first_seen_at: "2026-07-27T02:25:37.726374+00:00"
-fetched_at: "2026-07-28T19:58:13.821166+00:00"
+fetched_at: "2026-07-28T23:47:05.635436+00:00"
 content_hash: "sha256:91ccdc5b423a853aab8c60107c3aa526673c2c0c128c2aef5947beca566324dd"
 ---
 

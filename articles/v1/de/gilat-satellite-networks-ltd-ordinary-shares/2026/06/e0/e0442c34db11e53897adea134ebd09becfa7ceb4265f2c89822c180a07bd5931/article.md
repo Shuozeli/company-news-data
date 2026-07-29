@@ -7,7 +7,7 @@ source_id: "gilat-satellite-networks-ltd-ordinary-shares-rss-076d0814984f"
 canonical_url: "https://www.gilat.com/newsroom/media/mission-ready-multi-orbit-aero-solutions-for-modern-defense-aviation-operations/"
 published_at: "2026-06-03T12:38:05+00:00"
 first_seen_at: "2026-07-25T03:17:43.964106+00:00"
-fetched_at: "2026-07-28T20:37:57.787391+00:00"
+fetched_at: "2026-07-28T23:21:54.528556+00:00"
 content_hash: "sha256:09f95c8edde479e12921bdf38713615c4eb22a9ddc5be897a74840054a9e1f35"
 ---
 

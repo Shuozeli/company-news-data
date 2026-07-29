@@ -7,7 +7,7 @@ source_id: "ericsson-american-depositary-shares-atom-93f46de34b40"
 canonical_url: "https://www.ericsson.com/en/blog/2026/7/how-people-and-technology-5g-power-future-factory"
 published_at: "2026-07-13T06:15:26+00:00"
 first_seen_at: "2026-07-25T01:08:03.792576+00:00"
-fetched_at: "2026-07-28T20:54:55.951080+00:00"
+fetched_at: "2026-07-28T23:40:54.246754+00:00"
 content_hash: "sha256:d8fe97d8da01d30d2915ec3d6fea15b272b18685f00f2e27e3a6a839301ada28"
 ---
 

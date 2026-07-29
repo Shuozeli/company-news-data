@@ -7,7 +7,7 @@ source_id: "first-community-bankshares-inc-va-common-stock-rss-7ad1a770dac9"
 canonical_url: "https://ir.fcbresource.com/news-events/press-releases/news-details/2025/First-Community-Bankshares-Inc--Announces-Third-Quarter-2025-Results-and-Quarterly-Cash-Dividend/default.aspx"
 published_at: "2025-10-28T20:20:00+00:00"
 first_seen_at: "2026-07-26T14:13:56.441006+00:00"
-fetched_at: "2026-07-28T19:45:44.890596+00:00"
+fetched_at: "2026-07-28T23:22:37.407866+00:00"
 content_hash: "sha256:d118b73c89981cd71a11ffa0fffa73c423e2ca5548c13a2268da8bb80b91258b"
 ---
 

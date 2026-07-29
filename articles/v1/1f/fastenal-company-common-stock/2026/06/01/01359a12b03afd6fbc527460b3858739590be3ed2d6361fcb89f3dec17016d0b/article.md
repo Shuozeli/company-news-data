@@ -7,7 +7,7 @@ source_id: "fastenal-company-common-stock-rss-cf592647852a"
 canonical_url: "https://investor.fastenal.com/news-releases/news-details/2026/Fastenal-and-FIRST-Robotics-Team-Up-to-Make-Competitions-Accessible-to-All/default.aspx"
 published_at: "2026-06-09T20:05:00+00:00"
 first_seen_at: "2026-07-25T04:05:43.367273+00:00"
-fetched_at: "2026-07-28T19:59:50.239234+00:00"
+fetched_at: "2026-07-28T23:49:08.956540+00:00"
 content_hash: "sha256:3d228a376ea34a31a1013ac6e5c4e73e7d043bad15f430d736f63bdfa629db80"
 ---
 

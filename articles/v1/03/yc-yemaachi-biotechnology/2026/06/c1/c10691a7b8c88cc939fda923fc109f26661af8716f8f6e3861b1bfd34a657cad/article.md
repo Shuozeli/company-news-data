@@ -7,7 +7,7 @@ source_id: "yc-yemaachi-biotechnology-rss-52f865158616"
 canonical_url: "https://www.yemaachi.com/2026/06/02/https-www-linkedin-com-posts-onebio_founders-onebio-entreprenuership-activity-7467463000828829697-61qoutm_sourceshareutm_mediummember_desktoprcmacoaadv7ek0bo75tbkldfnrgwln1l1dzfckbyjq/"
 published_at: "2026-06-02T10:15:07+00:00"
 first_seen_at: "2026-07-20T23:21:01.870758+00:00"
-fetched_at: "2026-07-28T20:12:55.620293+00:00"
+fetched_at: "2026-07-28T22:54:11.978332+00:00"
 content_hash: "sha256:862bcfec78561da42f3f0e0227db0186edbcfdcce8ba600adaf803dd6a7b9bd9"
 ---
 

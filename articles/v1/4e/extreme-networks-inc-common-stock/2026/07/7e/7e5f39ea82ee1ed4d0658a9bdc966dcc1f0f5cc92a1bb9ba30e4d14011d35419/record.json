@@ -17,8 +17,8 @@
   "summary": "Linux kernel vulnerability in the ptrace access-control logic that allows a local, unprivileged user to bypass security checks during the brief termination phase of a privileged process. Due to a race condition, the kernel releases the process’s memory context before closing its open file descriptors, enabling an attacker to access sensitive resources such as SSH private keys or password hashes and, in some cases, execute actions with elevated privileges. The issue affects a wide range of Linux distributions and is mitigated by applying updated kernel patches or restricting ptrace functionality. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
   "published_at": "2026-07-22T19:11:26+00:00",
   "first_seen_at": "2026-07-22T20:09:57.178797+00:00",
-  "fetched_at": "2026-07-28T20:59:59.352597+00:00",
-  "last_updated_at": "2026-07-28T20:59:59.548941+00:00",
+  "fetched_at": "2026-07-28T23:46:40.217305+00:00",
+  "last_updated_at": "2026-07-28T23:46:40.335342+00:00",
   "paths": {
     "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/7e/7e5f39ea82ee1ed4d0658a9bdc966dcc1f0f5cc92a1bb9ba30e4d14011d35419/article.md",
     "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/7e/7e5f39ea82ee1ed4d0658a9bdc966dcc1f0f5cc92a1bb9ba30e4d14011d35419/record.json"
@@ -26,7 +26,7 @@
   "content": {
     "media_type": "text/markdown; charset=utf-8",
     "bytes": 1687,
-    "sha256": "sha256:3115c12877dcd7cd678d764d5f770f0a01de5b021432267cca10e3a3e7173403",
+    "sha256": "sha256:88df13d3b4e62386c830a68f432a9b6c6643b51f8f6ff1bfe2d304b765ddd98e",
     "normalized_content_hash": "sha256:bfb144106a698fcff302ad6e57dcb79f25d9b51d6461b88293dd30bec1153c73"
   },
   "provenance": {

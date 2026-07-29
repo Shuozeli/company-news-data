@@ -7,7 +7,7 @@ source_id: "the-glimpse-group-inc-common-stock-rss-a8a553a6f685"
 canonical_url: "https://ir.theglimpsegroup.com/tyler-gates-ceo-of-the-glimpse-group-joins-industry-leaders-for-panel-on-defense-tech-and-domestic-supply-chains/"
 published_at: "2026-06-24T12:33:02+00:00"
 first_seen_at: "2026-07-24T03:52:28.349530+00:00"
-fetched_at: "2026-07-28T21:09:20.142996+00:00"
+fetched_at: "2026-07-28T23:55:41.393142+00:00"
 content_hash: "sha256:bb3e0949ab7c396e4f3361cb40d5a60672a30a7f25a22b93fbbbff1304038e30"
 ---
 

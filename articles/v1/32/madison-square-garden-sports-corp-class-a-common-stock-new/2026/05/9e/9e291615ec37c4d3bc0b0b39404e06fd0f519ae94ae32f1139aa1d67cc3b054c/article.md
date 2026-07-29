@@ -7,7 +7,7 @@ source_id: "madison-square-garden-sports-corp-class-a-common-stock-new-rss-ca0bc
 canonical_url: "https://investor.msgsports.com/press-releases/news-details/2026/Doppel-Named-Official-Partner-of-the-New-York-Knicks/default.aspx"
 published_at: "2026-05-06T13:00:00+00:00"
 first_seen_at: "2026-07-25T12:57:48.577427+00:00"
-fetched_at: "2026-07-28T19:45:55.931253+00:00"
+fetched_at: "2026-07-28T23:22:44.019825+00:00"
 content_hash: "sha256:accdc569017d33c0dd84db1da26a3261a93ea1da0254a2194fb041387638666e"
 ---
 

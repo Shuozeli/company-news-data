@@ -7,7 +7,7 @@ source_id: "maravai-lifesciences-holdings-inc-class-a-common-stock-rss-a091ffc9d
 canonical_url: "https://www.maravai.com/insights/maravai-lifesciences-appoints-bernd-brust-as-chief-executive-officer-and-member-of-its-board-of-directors/"
 published_at: "2025-06-09T12:35:15+00:00"
 first_seen_at: "2026-07-25T01:12:23.653842+00:00"
-fetched_at: "2026-07-28T22:05:21.856225+00:00"
+fetched_at: "2026-07-29T00:43:13.628606+00:00"
 content_hash: "sha256:2b15d112f33dba908eb3baf8af5ecd09db4df9a055d7bb73b54a3d38055366a7"
 ---
 

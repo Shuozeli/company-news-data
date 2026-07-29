@@ -4,10 +4,14 @@
     "key": "yc-ellipsis",
     "name": "Ellipsis"
   },
-  "record_count": 9,
-  "first_published_at": "2024-06-19T00:00:00+00:00",
-  "last_published_at": "2026-03-23T00:00:00+00:00",
+  "record_count": 11,
+  "first_published_at": "2023-12-28T00:00:00+00:00",
+  "last_published_at": "2026-07-28T00:00:00+00:00",
   "partitions": [
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
     {
       "partition": "2024-06",
       "record_count": 1
@@ -39,6 +43,27 @@
     {
       "partition": "2026-03",
       "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5d/yc-ellipsis/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 11103,
+        "sha256": "sha256:31dc3d1d9f14c10437028a2d0283784b9e47c8cca92388bb18c9c6690331f315",
+        "newest_at": "2026-07-28T00:00:00+00:00",
+        "oldest_at": "2023-12-28T00:00:00+00:00"
+      }
+    ]
+  }
 }

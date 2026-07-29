@@ -7,7 +7,7 @@ source_id: "forte-biosciences-inc-common-stock-rss-ecb02a61bf8b"
 canonical_url: "https://www.fortebiorx.com/investor-relations/news/news-details/2026/argenx-to-Acquire-Forte-Biosciences-Inc--Adding-First-in-Class-Anti-CD122-Antibody-FB102-to-Its-Immunology-Pipeline/default.aspx"
 published_at: "2026-07-27T05:07:00+00:00"
 first_seen_at: "2026-07-27T05:50:54.983208+00:00"
-fetched_at: "2026-07-28T20:28:05.702671+00:00"
+fetched_at: "2026-07-28T23:13:51.121139+00:00"
 content_hash: "sha256:6181d96bebfc376d48ed5556f18a577d8e095768a695b0f635ae84790288fefd"
 ---
 

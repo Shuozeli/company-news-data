@@ -7,7 +7,7 @@ source_id: "yc-renthop-rss-2954ff02c95e"
 canonical_url: "https://www.renthop.com/blog/manhattan-listings-in-july-of-2026-under-5495/"
 published_at: "2026-07-09T15:17:58+00:00"
 first_seen_at: "2026-07-25T21:04:29.929203+00:00"
-fetched_at: "2026-07-28T20:46:28.465383+00:00"
+fetched_at: "2026-07-28T23:28:46.448791+00:00"
 content_hash: "sha256:17e02ea080511985ce54c3007868358ebceb05dfa924a17ba29fe704d05eea53"
 ---
 

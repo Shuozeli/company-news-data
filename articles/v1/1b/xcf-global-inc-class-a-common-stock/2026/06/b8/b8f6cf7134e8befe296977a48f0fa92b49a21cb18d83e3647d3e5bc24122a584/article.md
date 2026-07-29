@@ -7,7 +7,7 @@ source_id: "xcf-global-inc-class-a-common-stock-rss-7600714c668d"
 canonical_url: "https://xcf.global/news-details/2026/XCF-Global-Advances-New-Rise-Reno-Production-Start-Sequence-with-Catalyst-Activation-Underway/default.aspx"
 published_at: "2026-06-16T12:35:00+00:00"
 first_seen_at: "2026-07-27T06:08:47.646338+00:00"
-fetched_at: "2026-07-28T20:50:31.270414+00:00"
+fetched_at: "2026-07-28T23:35:50.576355+00:00"
 content_hash: "sha256:4210c689a30784ca5c69c9e5644b5ad78429c281cf62645aba9b0c6136e0950d"
 ---
 

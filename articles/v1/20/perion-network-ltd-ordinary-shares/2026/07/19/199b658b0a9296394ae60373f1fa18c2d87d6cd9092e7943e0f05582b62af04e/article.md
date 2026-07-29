@@ -7,7 +7,7 @@ source_id: "perion-network-ltd-ordinary-shares-rss-2c2626ab728d"
 canonical_url: "https://perion.com/product/types-of-advertising-every-business-should-know/"
 published_at: "2026-07-15T12:17:16+00:00"
 first_seen_at: "2026-07-20T23:22:51.777610+00:00"
-fetched_at: "2026-07-28T20:41:28.179474+00:00"
+fetched_at: "2026-07-28T23:25:21.207430+00:00"
 content_hash: "sha256:c51e9ae99fa3791b846b528ebb4b6168dd71e9b9f3b34a2a15bf5447c129ea41"
 ---
 

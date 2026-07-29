@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5d/illumina-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13306,
+        "sha256": "sha256:f854ddb6dd967e88f7f00794fe61da9e0066480ee7258ce6f1f6c6d5996344c1",
+        "newest_at": "2026-07-16T16:00:00+00:00",
+        "oldest_at": "2026-04-30T12:00:00+00:00"
+      }
+    ]
+  }
 }

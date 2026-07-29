@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/connecting-the-office-and-jobsite"
 published_at: "2026-02-25T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:16.858863+00:00"
-fetched_at: "2026-07-28T20:33:46.789564+00:00"
+fetched_at: "2026-07-28T23:18:38.216278+00:00"
 content_hash: "sha256:be0f99ab4f4a6b925f1fafac1f6de5f3dd30cb34ad0be7a4d65cdc4487a3ab8a"
 ---
 

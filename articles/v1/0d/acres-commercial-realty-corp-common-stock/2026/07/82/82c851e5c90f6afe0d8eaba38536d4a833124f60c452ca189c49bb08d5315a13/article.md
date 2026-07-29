@@ -7,7 +7,7 @@ source_id: "acres-commercial-realty-corp-common-stock-rss-3b21511dc4b0"
 canonical_url: "https://www.acresreit.com/2026-07-15-ACRES-Commercial-Realty-Corp-to-Report-Results-for-Second-Quarter-2026"
 published_at: "2026-07-15T20:12:00+00:00"
 first_seen_at: "2026-07-20T23:18:09.950469+00:00"
-fetched_at: "2026-07-28T21:38:28.400960+00:00"
+fetched_at: "2026-07-29T00:06:28.142757+00:00"
 content_hash: "sha256:32ec7c1a48b224b96c6ea7978d4655e111f173daca2dd1cebd1515920ceaa1e9"
 ---
 

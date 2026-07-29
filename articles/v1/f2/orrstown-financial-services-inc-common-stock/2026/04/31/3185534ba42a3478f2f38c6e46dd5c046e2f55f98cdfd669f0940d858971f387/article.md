@@ -7,7 +7,7 @@ source_id: "orrstown-financial-services-inc-common-stock-rss-6064773c12c6"
 canonical_url: "https://investors.orrstown.com/news/news-details/2026/Orrstown-Financial-Services-Inc--Ranked-1-in-Pennsylvania-and-12-Nationally-in-the-SP-Global-Market-Intelligence-2025-Ranking-of-Top-50-Best-Performing-Community-Banks/default.aspx"
 published_at: "2026-04-02T12:00:00+00:00"
 first_seen_at: "2026-07-25T17:55:18.673795+00:00"
-fetched_at: "2026-07-28T19:31:45.411486+00:00"
+fetched_at: "2026-07-28T22:53:28.606739+00:00"
 content_hash: "sha256:c7b6ae4234dc0d4bf5bf85f5de5d5b053197cad57b70062690c75b82081156ab"
 ---
 

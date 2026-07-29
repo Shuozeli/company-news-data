@@ -7,7 +7,7 @@ source_id: "genuine-parts-company-common-stock-rss-43880087d8e2"
 canonical_url: "https://www.genpt.com/2026-04-21-Genuine-Parts-Company-Reports-First-Quarter-2026-Results-and-Reaffirms-Full-Year-Outlook"
 published_at: "2026-04-21T10:55:00+00:00"
 first_seen_at: "2026-07-20T04:35:24.665538+00:00"
-fetched_at: "2026-07-28T20:54:44.703352+00:00"
+fetched_at: "2026-07-28T23:40:41.974331+00:00"
 content_hash: "sha256:16f5d3e535f6fb8976cadbf34f7d2c0f0ae1ad50f0a665a808d2bb3e1016a8c3"
 ---
 

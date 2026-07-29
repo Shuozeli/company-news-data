@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-acquires-farmer-direct-organic-foods/"
 published_at: "2021-05-10T20:10:42+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:a5681423cabbbd57196e0a85cf62fcaa82b0f0432ace5f17eda34c6f470cfc5f"
 ---
 

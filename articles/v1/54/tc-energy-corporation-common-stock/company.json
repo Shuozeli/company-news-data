@@ -48,5 +48,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/54/tc-energy-corporation-common-stock/index/pages/000001.json",
+        "record_count": 23,
+        "byte_count": 31029,
+        "sha256": "sha256:cc7d6a2289b8a95829e651093c42c60626ec2b50ed0c5fd43e6108b3df3e1a41",
+        "newest_at": "2026-07-28T21:20:12.930591+00:00",
+        "oldest_at": "2024-08-07T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -4,9 +4,9 @@
     "key": "nexpoint-residential-trust-inc-common-stock",
     "name": "NexPoint Residential Trust Inc. Common Stock"
   },
-  "record_count": 10,
+  "record_count": 11,
   "first_published_at": "2026-01-27T14:00:00+00:00",
-  "last_published_at": "2026-07-09T20:30:00+00:00",
+  "last_published_at": "2026-07-28T21:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-01",
@@ -30,7 +30,24 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 1
+      "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1f/nexpoint-residential-trust-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 12493,
+        "sha256": "sha256:c68fdb38c389b12c22d8ec3557063cb3d6fa45669dbca024382ddb9adc03e931",
+        "newest_at": "2026-07-28T21:00:00+00:00",
+        "oldest_at": "2026-01-27T14:00:00+00:00"
+      }
+    ]
+  }
 }

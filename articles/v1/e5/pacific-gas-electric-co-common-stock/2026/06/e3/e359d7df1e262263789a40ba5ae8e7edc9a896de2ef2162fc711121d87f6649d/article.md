@@ -7,7 +7,7 @@ source_id: "pacific-gas-electric-co-common-stock-rss-4979a77f253a"
 canonical_url: "https://investor.pgecorp.com/news-events/press-releases/press-release-details/2026/PGE-Warns-Customers-About-Emerging-Barcode-Scam-Heres-What-You-Should-Know/default.aspx"
 published_at: "2026-06-15T18:26:00+00:00"
 first_seen_at: "2026-07-25T18:09:58.076570+00:00"
-fetched_at: "2026-07-28T21:30:42.342568+00:00"
+fetched_at: "2026-07-29T00:12:09.119104+00:00"
 content_hash: "sha256:452fc3490aaa93f970effa5e894d3d1496a651b2fc61078ad050566d3cb35f61"
 ---
 

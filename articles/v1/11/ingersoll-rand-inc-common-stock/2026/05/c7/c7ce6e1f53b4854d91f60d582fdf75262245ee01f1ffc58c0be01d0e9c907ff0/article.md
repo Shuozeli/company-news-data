@@ -7,7 +7,7 @@ source_id: "ingersoll-rand-inc-common-stock-rss-2b0c77673419"
 canonical_url: "https://investors.irco.com/news/news-details/2026/Ingersoll-Rand-to-Participate-in-Upcoming-Investor-Conference/default.aspx"
 published_at: "2026-05-28T20:30:00+00:00"
 first_seen_at: "2026-07-25T09:23:26.780019+00:00"
-fetched_at: "2026-07-28T19:49:48.053445+00:00"
+fetched_at: "2026-07-28T23:32:42.238265+00:00"
 content_hash: "sha256:eaeffd817122fe357b2ef414c9b08a1a87fbaa1d62f316094c29f3fb77a4d7de"
 ---
 

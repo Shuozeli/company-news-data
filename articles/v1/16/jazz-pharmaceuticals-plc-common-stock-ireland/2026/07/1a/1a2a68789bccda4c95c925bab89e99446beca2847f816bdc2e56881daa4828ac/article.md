@@ -7,7 +7,7 @@ source_id: "jazz-pharmaceuticals-plc-common-stock-ireland-rss-c907368dc237"
 canonical_url: "https://www.jazzmedical.com/node/4581"
 published_at: "2026-07-02T08:59:07+00:00"
 first_seen_at: "2026-07-25T03:37:17.695859+00:00"
-fetched_at: "2026-07-28T21:09:50.276066+00:00"
+fetched_at: "2026-07-28T23:56:02.788815+00:00"
 content_hash: "sha256:d80dcf769ea37ed124b075949f1fccee70511af6fdb7401b1ad10981b4db5d05"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2020/schwans-home-delivery-selects-smartsense-by-digi"
 published_at: "2020-09-29T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:10907f1f8366cc4f10344bc562706ed88bb725acb8d1ae00d4e8d0da640112ef"
 ---
 

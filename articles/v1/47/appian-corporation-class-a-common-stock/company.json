@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 17
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/47/appian-corporation-class-a-common-stock/index/pages/000001.json",
+        "record_count": 27,
+        "byte_count": 32912,
+        "sha256": "sha256:d75d956f2c94a5c492fa7bccdcfcb9ce046e7c12d5ad244baf2baffebe1b706a",
+        "newest_at": "2026-07-28T21:40:00.658555+00:00",
+        "oldest_at": "2023-10-10T00:00:00+00:00"
+      }
+    ]
+  }
 }

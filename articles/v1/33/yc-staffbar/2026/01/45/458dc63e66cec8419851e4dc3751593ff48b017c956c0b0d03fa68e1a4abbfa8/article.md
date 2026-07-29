@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/he-built-a-simple-usd120k-yr-app-then-sold-it-for-multiple-6-figures"
-published_at: "2026-01-07T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:7a3306d3fe9cac10df2cfe19cd03c8f0521d0f340b94b06aa95e051c4e764610"

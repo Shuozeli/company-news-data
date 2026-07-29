@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/27/yc-shogun/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10114,
+        "sha256": "sha256:44b9668a08c6f1e57ea6bc13b79c16bcc9bf6c54536b6c31a1e28db91231ad81",
+        "newest_at": "2026-07-09T18:59:24+00:00",
+        "oldest_at": "2026-01-29T12:00:00+00:00"
+      }
+    ]
+  }
 }

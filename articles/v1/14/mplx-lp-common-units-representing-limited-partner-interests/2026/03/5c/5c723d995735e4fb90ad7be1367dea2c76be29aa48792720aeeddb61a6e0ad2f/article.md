@@ -7,7 +7,7 @@ source_id: "mplx-lp-common-units-representing-limited-partner-interests-rss-4a76
 canonical_url: "https://ir.mplx.com/CorporateProfile/press-releases/news-release/2026/MPLX-LP-2025-K-1-tax-packages-now-available-on-company-website/default.aspx"
 published_at: "2026-03-17T11:00:00+00:00"
 first_seen_at: "2026-07-27T10:42:09.203732+00:00"
-fetched_at: "2026-07-28T20:38:21.278099+00:00"
+fetched_at: "2026-07-28T23:22:24.820605+00:00"
 content_hash: "sha256:cc9db6a2ba8863c4605f786523bdf85e4a827ffe784ecaedfcd0cd26439fc765"
 ---
 

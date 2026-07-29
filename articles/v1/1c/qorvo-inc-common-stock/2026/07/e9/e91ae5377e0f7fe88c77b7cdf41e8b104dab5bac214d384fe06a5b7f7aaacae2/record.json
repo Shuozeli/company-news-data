@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e91ae5377e0f7fe88c77b7cdf41e8b104dab5bac214d384fe06a5b7f7aaacae2",
+  "company": {
+    "key": "qorvo-inc-common-stock",
+    "name": "Qorvo Inc. Common Stock"
+  },
+  "source": {
+    "id": "qorvo-inc-common-stock-news-import-97ae6286cbc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.qorvo.com/newsroom/news/2026/qorvo-announces-fiscal-2027-first-quarter-financial-results",
+    "canonical": "https://www.qorvo.com/newsroom/news/2026/qorvo-announces-fiscal-2027-first-quarter-financial-results"
+  },
+  "title": "Qorvo Announces Fiscal 2027 First Quarter Financial Results",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-28T22:59:58.115084+00:00",
+  "fetched_at": "2026-07-28T22:59:59.964784+00:00",
+  "last_updated_at": "2026-07-28T23:00:00.481088+00:00",
+  "paths": {
+    "article": "articles/v1/1c/qorvo-inc-common-stock/2026/07/e9/e91ae5377e0f7fe88c77b7cdf41e8b104dab5bac214d384fe06a5b7f7aaacae2/article.md",
+    "record": "articles/v1/1c/qorvo-inc-common-stock/2026/07/e9/e91ae5377e0f7fe88c77b7cdf41e8b104dab5bac214d384fe06a5b7f7aaacae2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 35581,
+    "sha256": "sha256:c04f8b56824c6c57f1ddc6511276d4650fa9aa81cea8255ffbab1298af88b215",
+    "normalized_content_hash": "sha256:39839cad6d68d5aa2ca4106f70b0da543ed305498b300ffd281b484df85c7db7"
+  },
+  "provenance": {
+    "source_item_id": "ac8fa4ce-abc0-460d-adac-c84f3f71fcd9",
+    "external_id": "https://www.qorvo.com/newsroom/news/2026/qorvo-announces-fiscal-2027-first-quarter-financial-results"
+  }
+}

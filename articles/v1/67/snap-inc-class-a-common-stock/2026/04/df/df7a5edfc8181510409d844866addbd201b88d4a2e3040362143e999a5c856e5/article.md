@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-87de20393b65"
 canonical_url: "https://newsroom.snap.com/topic-chats-internets-most-active-group-chats"
 published_at: "2026-04-07T14:00:00+00:00"
 first_seen_at: "2026-07-25T01:10:38.921974+00:00"
-fetched_at: "2026-07-28T19:58:06.020203+00:00"
+fetched_at: "2026-07-28T23:47:03.180523+00:00"
 content_hash: "sha256:1273d016dd0af4ed210450eacf01074c66573160561b2570125226c2d2cc1763"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/flexible-wireless-connectivity-for-utilities"
 published_at: "2025-11-06T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:f67ec446896adf048aa66117c242f2334ae64abdd5e86bf10c546b9639024ef6"
 ---
 

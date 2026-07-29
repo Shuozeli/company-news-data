@@ -7,7 +7,7 @@ source_id: "bain-capital-specialty-finance-inc-common-stock-rss-8d959b579c47"
 canonical_url: "https://baincapitalspecialtyfinance.com/node/625"
 published_at: "2026-07-23T21:14:52+00:00"
 first_seen_at: "2026-07-23T21:17:00.559561+00:00"
-fetched_at: "2026-07-28T20:40:57.637743+00:00"
+fetched_at: "2026-07-28T23:25:05.686433+00:00"
 content_hash: "sha256:3d9afeaf17179fe3d2c6871ff1e35885d496998ed4d8e2001c36adb4dd432062"
 ---
 

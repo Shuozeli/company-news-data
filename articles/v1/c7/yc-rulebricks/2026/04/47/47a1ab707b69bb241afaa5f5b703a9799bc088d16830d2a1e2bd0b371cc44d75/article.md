@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/when-crm-workflows-hit-a-logic-wall"
 published_at: "2026-04-05T16:04:32+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:4b2b74494379a2a8c61796193c5dcbb67a1d8c9ed7fc3ca6db6dde7be684718f"
 ---
 

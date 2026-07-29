@@ -7,7 +7,7 @@ source_id: "fractyl-health-inc-common-stock-rss-347083c4f534"
 canonical_url: "https://www.fractyl.com/our-science/presentations-publications/pancreas-targeted-dual-gip-glp-1-gene-therapy-reduces-body-weight-and-hepatic-steatosis-in-a-murine-model-of-diet-induced-obesity/"
 published_at: "2026-05-06T15:02:26+00:00"
 first_seen_at: "2026-07-24T09:07:29.122181+00:00"
-fetched_at: "2026-07-28T21:05:07.497154+00:00"
+fetched_at: "2026-07-28T23:51:41.401622+00:00"
 content_hash: "sha256:d4122d1f6c1a2ef7a7163899de973b53a791e4cfb5fec01fb38db778e41d6e28"
 ---
 

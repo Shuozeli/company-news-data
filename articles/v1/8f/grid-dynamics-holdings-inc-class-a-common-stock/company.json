@@ -60,5 +60,22 @@
       "partition": "2026-07",
       "record_count": 15
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8f/grid-dynamics-holdings-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 37518,
+        "sha256": "sha256:0b538312b763bee308dd3fd2969ae3de4f05fcfad963535ecc1228e339602bf9",
+        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "oldest_at": "2024-06-24T00:00:00+00:00"
+      }
+    ]
+  }
 }

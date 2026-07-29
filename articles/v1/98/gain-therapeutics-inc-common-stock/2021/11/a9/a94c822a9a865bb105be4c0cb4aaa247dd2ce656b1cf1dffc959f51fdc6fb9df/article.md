@@ -7,7 +7,7 @@ source_id: "gain-therapeutics-inc-common-stock-rss-2e93004a3a3a"
 canonical_url: "https://gaintherapeutics.com/web-stories/allosteric-site-enzyme-allosteric-site-binding/"
 published_at: "2021-11-25T07:57:47+00:00"
 first_seen_at: "2026-07-20T23:19:48.241067+00:00"
-fetched_at: "2026-07-28T22:02:14.092979+00:00"
+fetched_at: "2026-07-29T00:40:51.328400+00:00"
 content_hash: "sha256:7e3f0f89b97b649bda6bec9315be60607d5299269e1c93c5ea0d6e5882bfd9eb"
 ---
 

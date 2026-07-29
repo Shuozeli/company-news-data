@@ -7,7 +7,7 @@ source_id: "aon-plc-class-a-ordinary-shares-ireland-rss-454ed4bdb964"
 canonical_url: "https://aon.mediaroom.com/2026-07-20-Aon-Announces-Michael-Mahoney-as-Northeast-Region-Leader-and-U-S-Co-Head"
 published_at: "2026-07-20T13:10:00+00:00"
 first_seen_at: "2026-07-20T13:36:57.533263+00:00"
-fetched_at: "2026-07-28T20:42:43.754198+00:00"
+fetched_at: "2026-07-28T23:26:05.885014+00:00"
 content_hash: "sha256:72b0b674eb20eaabc7fa655e36f8e558219a210d1dbff18bfadc787f39648975"
 ---
 

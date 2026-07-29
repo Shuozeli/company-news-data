@@ -7,7 +7,7 @@ source_id: "one-gas-inc-common-stock-rss-aa9bfc293deb"
 canonical_url: "https://www.onegas.com/news/press-release-details/2026/ONE-Gas-Second-Quarter-2026-Conference-Call-and-Webcast-Scheduled/default.aspx"
 published_at: "2026-07-08T20:15:00+00:00"
 first_seen_at: "2026-07-25T17:25:35.745524+00:00"
-fetched_at: "2026-07-28T20:31:39.487251+00:00"
+fetched_at: "2026-07-28T23:17:19.673637+00:00"
 content_hash: "sha256:562a18734860376dc589200d6bc841dadd9c2feecae4cef4f1978f9ed56400ce"
 ---
 

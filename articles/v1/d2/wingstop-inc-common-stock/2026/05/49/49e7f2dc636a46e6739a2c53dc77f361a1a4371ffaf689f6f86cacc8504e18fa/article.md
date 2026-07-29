@@ -7,7 +7,7 @@ source_id: "wingstop-inc-common-stock-rss-7f135f859589"
 canonical_url: "https://ir.wingstop.com/wingstop-turns-loyalty-into-cultural-currency-with-the-launch-of-club-wingstop/"
 published_at: "2026-05-27T13:02:32+00:00"
 first_seen_at: "2026-07-20T23:17:13.311245+00:00"
-fetched_at: "2026-07-28T21:13:20.646299+00:00"
+fetched_at: "2026-07-28T23:58:14.897862+00:00"
 content_hash: "sha256:7078576cd5a8093327c99185ce38cdfd742c3717dc18c02af853adfb93895881"
 ---
 

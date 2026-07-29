@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8b/yc-bellabeat/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10323,
+        "sha256": "sha256:3dbf0ff919e017e66a1c81037c76317b8ba49377b3f1f8633fb16c8993cd3c24",
+        "newest_at": "2026-07-28T21:33:52.463534+00:00",
+        "oldest_at": "2020-11-20T14:35:10+00:00"
+      }
+    ]
+  }
 }

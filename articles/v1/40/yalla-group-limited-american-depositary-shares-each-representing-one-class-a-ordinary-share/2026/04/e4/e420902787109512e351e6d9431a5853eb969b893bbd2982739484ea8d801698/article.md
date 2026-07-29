@@ -7,7 +7,7 @@ source_id: "yalla-group-limited-american-depositary-shares-each-representing-one
 canonical_url: "https://ir.yalla.com/2026-04-22-Yalla-Group-Releases-2025-ESG-Report"
 published_at: "2026-04-23T02:30:00+00:00"
 first_seen_at: "2026-07-24T07:42:21.932229+00:00"
-fetched_at: "2026-07-28T20:46:08.822867+00:00"
+fetched_at: "2026-07-28T23:29:38.949411+00:00"
 content_hash: "sha256:b4df4150050684747f1f184fd728de091dc710819079e583dc8ef04ceb971029"
 ---
 

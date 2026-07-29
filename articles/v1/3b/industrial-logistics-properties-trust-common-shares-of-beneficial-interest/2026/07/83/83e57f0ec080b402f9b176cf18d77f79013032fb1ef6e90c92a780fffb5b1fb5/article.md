@@ -7,7 +7,7 @@ source_id: "industrial-logistics-properties-trust-common-shares-of-beneficial-in
 canonical_url: "http://www.ilptreit.com/investors/news/press-release-details/2026/Industrial-Logistics-Properties-Trust-Increases-Quarterly-Distribution-on-Common-Shares-to-0-10-Per-Share-or-0-40-Per-Share-Per-Year/default.aspx"
 published_at: "2026-07-09T12:00:00+00:00"
 first_seen_at: "2026-07-25T09:17:51.178487+00:00"
-fetched_at: "2026-07-28T21:34:53.709256+00:00"
+fetched_at: "2026-07-29T00:14:05.979554+00:00"
 content_hash: "sha256:461f98b752f9cf926f9d9532509c075fd7d694c3f100f1ddcd2ee47d5c392bbd"
 ---
 

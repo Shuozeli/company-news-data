@@ -7,7 +7,7 @@ source_id: "avita-medical-inc-common-stock-rss-80a2762d7e91"
 canonical_url: "https://avitamedical.com/most-recent-proxy/"
 published_at: "2023-07-31T22:16:14+00:00"
 first_seen_at: "2026-07-20T23:18:18.862012+00:00"
-fetched_at: "2026-07-28T21:46:45.712150+00:00"
+fetched_at: "2026-07-29T00:20:18.129322+00:00"
 content_hash: "sha256:28f3146bd5714b6607a6d4724d75d869b2384e30b7640a984b37737c7a7f1dc5"
 ---
 

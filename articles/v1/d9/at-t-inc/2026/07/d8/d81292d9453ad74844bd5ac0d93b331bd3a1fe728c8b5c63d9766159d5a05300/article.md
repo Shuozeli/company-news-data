@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/story/2026/echostar-spectrum.html"
 published_at: "2026-07-28T20:15:00+00:00"
 first_seen_at: "2026-07-28T20:53:36.989148+00:00"
-fetched_at: "2026-07-28T20:53:36.935307+00:00"
+fetched_at: "2026-07-28T23:38:49.340178+00:00"
 content_hash: "sha256:fd5104c9f13c0ce047d6266fd0783d10003471068867a79376d2390855ccba8e"
 ---
 

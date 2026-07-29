@@ -7,7 +7,7 @@ source_id: "trustmark-corporation-common-stock-rss-1872e3f20368"
 canonical_url: "https://investorrelations.trustmark.com/news-events/press-releases/news-details/2026/Trustmark-Names-Thomas-C--Owens-as-Chief-Operating-Officer-and-Joseph-E--Bond-as-Chief-Financial-Officer/default.aspx"
 published_at: "2026-03-30T21:00:00+00:00"
 first_seen_at: "2026-07-26T03:12:25.582451+00:00"
-fetched_at: "2026-07-28T22:12:17.454005+00:00"
+fetched_at: "2026-07-29T00:50:25.133360+00:00"
 content_hash: "sha256:d700e0d2c77250fcd5a2cfa6a244b563aec3fdabd435a0a90969d3dea68d121c"
 ---
 

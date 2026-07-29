@@ -7,7 +7,7 @@ source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/thunderbird/"
 published_at: "2026-07-23T05:04:36+00:00"
 first_seen_at: "2026-07-25T16:20:56.315803+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
 content_hash: "sha256:55a57504eb5bd7771efa28c213969452480ceeaa004c7ead02a75a0c36af2ae7"
 ---
 

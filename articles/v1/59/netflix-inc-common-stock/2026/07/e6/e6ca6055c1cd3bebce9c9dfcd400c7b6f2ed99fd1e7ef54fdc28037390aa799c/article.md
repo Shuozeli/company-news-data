@@ -5,7 +5,7 @@ company_key: "netflix-inc-common-stock"
 company: "Netflix Inc. Common Stock"
 source_id: "netflix-inc-common-stock-rss-924a579478a7"
 canonical_url: "https://about.netflix.com/en/news/a-day-like-no-other-the-series-that-chronicles-raphaels-life-arrives-on-netflix-on-9-october"
-published_at: "2026-07-23T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T13:15:38.618480+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:de2051b8abedfaa0933c2e86bcaf0fc85b82dbe7ee6380093d068f42cb58b979"

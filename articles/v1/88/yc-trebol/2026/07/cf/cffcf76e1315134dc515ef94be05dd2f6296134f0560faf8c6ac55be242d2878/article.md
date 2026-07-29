@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:18:37.293716+00:00"
 content_hash: "sha256:0eb3784b0507567cf097b6cc2cc181ddafcb99769e19fb1b9a19ef7d50119a51"
 ---
 
-# OCR de Estados Financieros: de PDF a datos estructurados
+# OCR de Estados Financieros
 
 # OCR de Estados Financieros: de PDF a datos estructurados
 

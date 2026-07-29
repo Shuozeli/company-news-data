@@ -7,7 +7,7 @@ source_id: "pennymac-mortgage-investment-trust-common-shares-of-beneficial-inter
 canonical_url: "https://pmt.pennymac.com/news-events/press-releases/news-details/2026/PennyMac-Mortgage-Investment-Trust-Declares-First-Quarter-2026-Dividend-for-Its-Common-Shares/default.aspx"
 published_at: "2026-03-11T12:00:00+00:00"
 first_seen_at: "2026-07-26T07:12:30.116167+00:00"
-fetched_at: "2026-07-28T19:49:36.604523+00:00"
+fetched_at: "2026-07-28T23:32:39.447872+00:00"
 content_hash: "sha256:56bb5f3d44e6e398decf61191107d92674f532a21e5094247a37f98f02235a96"
 ---
 

@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2021/07/how-technipfmc-s-subsea-digital-twin-empowers-a-robust-digital-ecosystem/"
 published_at: "2021-07-16T08:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-28T21:51:21.094676+00:00"
+fetched_at: "2026-07-29T00:17:43.124361+00:00"
 content_hash: "sha256:8a3ef0d5fd27e9295aa52450ae5c776fde45c1e8e84c3fa4354d4c899dc19a79"
 ---
 

@@ -7,7 +7,7 @@ source_id: "innovative-solutions-and-support-inc-common-stock-rss-a5b100a80071"
 canonical_url: "https://presscenter.iascorp.com/press-releases/news-details/2026/Innovative-Aerosystems-Announces-Acquisition-of-Aydin-Displays-Strengthening-Display-Capabilities-for-Military-Applications/default.aspx"
 published_at: "2026-07-21T20:10:00+00:00"
 first_seen_at: "2026-07-25T09:29:02.759549+00:00"
-fetched_at: "2026-07-28T21:52:12.249402+00:00"
+fetched_at: "2026-07-29T00:13:54.714159+00:00"
 content_hash: "sha256:4e97324d3260bb9810e427635f2b0dd95b76e2f71e063dd51cdd4ee494517d2d"
 ---
 

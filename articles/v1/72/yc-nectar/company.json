@@ -60,5 +60,22 @@
       "partition": "2025-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/72/yc-nectar/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 14042,
+        "sha256": "sha256:75ecec629324f177618eeecfe8a7b45dec1f8de1f694dbca77dc91cc0d3fcb85",
+        "newest_at": "2025-06-03T00:00:00+00:00",
+        "oldest_at": "2023-10-09T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 13
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/83/yc-governgpt/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 23169,
+        "sha256": "sha256:2a9aa8ebae6b0b8dc49a926a5b523b9f07d8bd6af493633ad70affc98cb296f8",
+        "newest_at": "2026-07-19T20:40:32.936+00:00",
+        "oldest_at": "2026-06-23T21:12:34.248+00:00"
+      }
+    ]
+  }
 }

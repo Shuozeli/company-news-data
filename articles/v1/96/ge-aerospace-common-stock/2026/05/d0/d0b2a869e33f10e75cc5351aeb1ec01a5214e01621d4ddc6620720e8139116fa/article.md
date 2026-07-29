@@ -7,7 +7,7 @@ source_id: "ge-aerospace-common-stock-rss-a1dd69a4054d"
 canonical_url: "https://www.geaerospace.com/investor-relations/events-reports/2026-bernstein-strategic-decisions-conference"
 published_at: "2026-05-06T12:22:46+00:00"
 first_seen_at: "2026-07-20T23:24:51.828822+00:00"
-fetched_at: "2026-07-28T21:03:18.535161+00:00"
+fetched_at: "2026-07-28T23:50:06.638047+00:00"
 content_hash: "sha256:0d94d0601ed14fdac08deb640dc5524d684d7d318ff0c6ee1ba62a1bc7901434"
 ---
 

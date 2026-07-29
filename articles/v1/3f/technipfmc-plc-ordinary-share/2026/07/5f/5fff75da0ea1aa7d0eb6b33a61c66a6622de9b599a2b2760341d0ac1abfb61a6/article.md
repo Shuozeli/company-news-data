@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-subsea-contracts-by-equinor-for-multiple-projects-in-norway/"
 published_at: "2026-07-07T09:15:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-28T21:49:44.390133+00:00"
+fetched_at: "2026-07-29T00:26:14.657354+00:00"
 content_hash: "sha256:5395f4f2c37c2d52912a0feaa0fd1ca9707409d9245a196cbb2e7707a65dfa55"
 ---
 

@@ -7,7 +7,7 @@ source_id: "american-superconductor-corporation-common-stock-rss-3d6598dfe779"
 canonical_url: "https://www.amsc.com/american-superconductor-capitalizing-on-grid-modernization/"
 published_at: "2026-01-26T17:00:59+00:00"
 first_seen_at: "2026-07-24T15:54:45.345704+00:00"
-fetched_at: "2026-07-28T22:08:13.547485+00:00"
+fetched_at: "2026-07-29T00:46:23.854870+00:00"
 content_hash: "sha256:6aba5006a68bec32b8b24df9104ee4c497e7c01bfbe3f68f0363ac2651b8e0ae"
 ---
 

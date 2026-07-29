@@ -7,7 +7,7 @@ source_id: "nano-dimension-ltd-american-depositary-shares-rss-111d35614305"
 canonical_url: "https://investors.nano-di.com/press-releases/news-details/2026/Nano-Dimension-Signs-Term-Sheet-with-Infinite-Epigenetics-to-Form-a-Publicly-Traded-AI-Powered-Preventive-Health-and-Diagnostics-Company/default.aspx"
 published_at: "2026-06-15T11:27:00+00:00"
 first_seen_at: "2026-07-25T15:27:00.961627+00:00"
-fetched_at: "2026-07-28T20:04:05.382371+00:00"
+fetched_at: "2026-07-28T23:53:10.203793+00:00"
 content_hash: "sha256:f98ab30f89a440d6d23217846ad14352b38467eac2a2c234996460c754e7311f"
 ---
 

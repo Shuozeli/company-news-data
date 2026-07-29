@@ -7,7 +7,7 @@ source_id: "tic-solutions-inc-common-stock-rss-d40ee138f758"
 canonical_url: "https://ir.ticsolutions.com/news/news-details/2026/TIC-Solutions-Reports-Results-for-the-Fourth-Quarter-and-Full-Year-2025-and-Announces-CEO-Succession/default.aspx"
 published_at: "2026-03-12T11:00:00+00:00"
 first_seen_at: "2026-07-26T02:42:26.940963+00:00"
-fetched_at: "2026-07-28T19:32:20.801361+00:00"
+fetched_at: "2026-07-28T22:54:19.333785+00:00"
 content_hash: "sha256:df3198caf407fec85120c2780f8daa98d2f74e139fbde371bed846fca56dc259"
 ---
 

@@ -7,7 +7,7 @@ source_id: "hamilton-lane-incorporated-class-a-common-stock-rss-d68b66c7cbba"
 canonical_url: "https://shareholders.hamiltonlane.com/2026-07-23-Hamilton-Lane-Board-Elects-Michael-Schmertzler-as-New-Independent-Director"
 published_at: "2026-07-23T11:00:00+00:00"
 first_seen_at: "2026-07-23T11:16:23.252450+00:00"
-fetched_at: "2026-07-28T20:55:11.809472+00:00"
+fetched_at: "2026-07-28T23:40:56.514769+00:00"
 content_hash: "sha256:a93abe2ebfc87354bdb799cbeb3ff51b94dcafe0d5a9fa49d89d17f35b1e4077"
 ---
 

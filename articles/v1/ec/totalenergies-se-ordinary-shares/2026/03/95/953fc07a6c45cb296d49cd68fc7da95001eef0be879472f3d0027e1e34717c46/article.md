@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/demarrage-de-la-premiere-usine-francaise-de-recyclage-chimique-des-plastiques-totalenergies-a-mis-en-service-son-installation-de-grandpuits/"
 published_at: "2026-03-19T10:27:27+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:9ba7f700da1025c5ae18228316a23d00199acca9ecd2937bb33ab048d527223e"
 ---
 

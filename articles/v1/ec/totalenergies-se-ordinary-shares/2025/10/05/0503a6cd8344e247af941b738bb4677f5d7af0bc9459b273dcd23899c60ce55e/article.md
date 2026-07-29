@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/press-reviews-banner/"
 published_at: "2025-10-21T16:37:29+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:e9707e254cc300d3f0e880c79cda51d61d202e756fae540aec6dc449b8a3fb75"
 ---
 

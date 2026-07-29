@@ -7,7 +7,7 @@ source_id: "hilltop-holdings-inc-rss-9cdb75ae5162"
 canonical_url: "https://ir.hilltop.com/news/news-details/2026/HilltopSecurities-Donates-80000-to-Texas-Schools-with-Hilltop-Hunt-Program/default.aspx"
 published_at: "2026-03-09T12:00:00+00:00"
 first_seen_at: "2026-07-25T08:06:30.300792+00:00"
-fetched_at: "2026-07-28T21:32:37.549105+00:00"
+fetched_at: "2026-07-29T00:24:21.647353+00:00"
 content_hash: "sha256:0541e4ae7cbd92057b52546b700abc89b344b3ba9f3ef68ed067d8d4c6b9cd96"
 ---
 

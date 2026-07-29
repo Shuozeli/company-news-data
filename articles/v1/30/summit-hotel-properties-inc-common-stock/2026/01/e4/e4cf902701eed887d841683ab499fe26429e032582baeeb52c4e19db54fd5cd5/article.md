@@ -7,7 +7,7 @@ source_id: "summit-hotel-properties-inc-common-stock-rss-2ccb932bd701"
 canonical_url: "https://investor.shpreit.com/news-events/news/news-details/2026/SUMMIT-HOTEL-PROPERTIES-DECLARES-FOURTH-QUARTER-2025-DIVIDENDS/default.aspx"
 published_at: "2026-01-22T21:30:00+00:00"
 first_seen_at: "2026-07-26T00:50:07.796417+00:00"
-fetched_at: "2026-07-28T20:13:05.820695+00:00"
+fetched_at: "2026-07-28T22:54:24.748195+00:00"
 content_hash: "sha256:ae06d9d8b67d8343c55738db20d1e26e68e07693d02e4d967b0f47e70cb0f3fc"
 ---
 

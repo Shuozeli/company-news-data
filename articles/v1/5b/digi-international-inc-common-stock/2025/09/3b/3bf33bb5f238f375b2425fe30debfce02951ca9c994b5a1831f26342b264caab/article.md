@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2025/z45-industrial-controller-certified-on-t-mobile"
 published_at: "2025-09-24T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:0d41a9f1e2947ab64995beb75d2997383c965f66a71da95b514e090f46ad89a6"
 ---
 

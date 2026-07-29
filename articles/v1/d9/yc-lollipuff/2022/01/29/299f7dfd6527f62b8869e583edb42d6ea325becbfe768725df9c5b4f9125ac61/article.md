@@ -7,7 +7,7 @@ source_id: "yc-lollipuff-rss-1aefb943cc78"
 canonical_url: "https://www.lollipuff.com/fake-certificates-and-authenticity-emails/"
 published_at: "2022-01-07T21:23:33+00:00"
 first_seen_at: "2026-07-25T01:53:27.944775+00:00"
-fetched_at: "2026-07-28T20:30:23.160334+00:00"
+fetched_at: "2026-07-28T23:16:31.531465+00:00"
 content_hash: "sha256:5c67b356d6f7156635decabadb5d7d915943800c58362057854c5b649e603ebb"
 ---
 

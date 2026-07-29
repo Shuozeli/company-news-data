@@ -7,7 +7,7 @@ source_id: "ppl-corporation-corporate-units-rss-99a522ca9367"
 canonical_url: "https://investors.pplweb.com/2026-06-05-PPL-Electric-Utilities-confirms-continued-support-for-rate-case-settlement-following-PUC-approval"
 published_at: "2026-06-05T20:14:00+00:00"
 first_seen_at: "2026-07-20T04:36:15.316439+00:00"
-fetched_at: "2026-07-28T20:57:08.348569+00:00"
+fetched_at: "2026-07-28T23:43:05.654772+00:00"
 content_hash: "sha256:494f16eefa90129baa0acbae8ed69027f1c889c9dee1e8b6c4e192964d65bce7"
 ---
 

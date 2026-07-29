@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2025/3Q25_Earnings_Announcement.pdf"
 published_at: "2025-10-16T20:35:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:d8b730c62c265d8cd79762b714f666b1025af37c176eb58f3a101d8b7a00bce2"
 ---
 

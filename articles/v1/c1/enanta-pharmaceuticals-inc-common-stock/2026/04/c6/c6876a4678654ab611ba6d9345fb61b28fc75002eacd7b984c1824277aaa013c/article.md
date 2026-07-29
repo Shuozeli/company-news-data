@@ -7,7 +7,7 @@ source_id: "enanta-pharmaceuticals-inc-common-stock-rss-6165ef0aa60b"
 canonical_url: "https://www.enanta.com/eps-3903-is-a-potent-and-selective-oral-stat6-inhibitor-that-blocks-th2-inflammation-in-an-ovalbumin-asthma-mouse-model/"
 published_at: "2026-04-17T16:29:00+00:00"
 first_seen_at: "2026-07-25T03:15:15.140684+00:00"
-fetched_at: "2026-07-28T20:31:52.735283+00:00"
+fetched_at: "2026-07-28T23:17:26.594855+00:00"
 content_hash: "sha256:182c42a3e5487cfd502251ea532d80ff6dd3b6488ebb3848b9d401822c810322"
 ---
 

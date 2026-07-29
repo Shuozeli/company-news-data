@@ -7,7 +7,7 @@ source_id: "thor-industries-inc-common-stock-rss-d0b8e219f7f8"
 canonical_url: "https://ir.thorindustries.com/investor-resources/press-releases/press-release-details/2026/THOR-INDUSTRIES-ANNOUNCES-STRATEGIC-EVOLUTION-OF-NORTH-AMERICAN-OPERATING-MODEL-WITH-FORMATION-OF-TWO-RV-GROUPS/default.aspx"
 published_at: "2026-02-23T21:15:00+00:00"
 first_seen_at: "2026-07-26T02:24:17.764835+00:00"
-fetched_at: "2026-07-28T19:31:11.470240+00:00"
+fetched_at: "2026-07-29T00:03:08.074894+00:00"
 content_hash: "sha256:3c3a9eb391bd0fc36b2924bbf7d5d1e992187da40cd57eb691563fa2621183c2"
 ---
 

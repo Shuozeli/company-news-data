@@ -7,7 +7,7 @@ source_id: "blackrock-tcp-capital-corp-common-stock-rss-2cf61b3050bd"
 canonical_url: "https://tcpcapital.com/investor-relations/press-releases/press-release-details/2025/BlackRock-TCP-Capital-Corp--Announces-Third-Quarter-2025-Financial-Results/default.aspx"
 published_at: "2025-11-06T13:05:00+00:00"
 first_seen_at: "2026-07-27T00:15:36.305231+00:00"
-fetched_at: "2026-07-28T19:32:18.996629+00:00"
+fetched_at: "2026-07-28T22:54:20.867795+00:00"
 content_hash: "sha256:840b95309808e240e223f4e6f3133f47136766c3c9bcc07ba431a805b946d299"
 ---
 

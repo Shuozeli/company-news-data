@@ -7,7 +7,7 @@ source_id: "yc-nearwave-rss-9f4746cd284c"
 canonical_url: "https://nearwave.co/nearwave-receives-patent-award-from-the-eu/"
 published_at: "2023-07-06T16:43:00+00:00"
 first_seen_at: "2026-07-24T12:13:22.796027+00:00"
-fetched_at: "2026-07-28T20:52:45.210369+00:00"
+fetched_at: "2026-07-28T23:38:34.703310+00:00"
 content_hash: "sha256:99d8dc23e23cb4da668b36d02a42f1452132e850d9d5579f5c57be808f45e173"
 ---
 

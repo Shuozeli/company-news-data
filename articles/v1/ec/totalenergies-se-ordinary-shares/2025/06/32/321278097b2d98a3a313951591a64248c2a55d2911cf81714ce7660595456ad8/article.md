@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/powering-reunion-island-totalenergies-visit-to-la-perriere-renewable-energy-park/"
 published_at: "2025-06-30T10:08:13+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:2ab83c907eece684c24cf9b87d65c8bbfcf2554f97b3e1961d2432a0e1f5ea04"
 ---
 

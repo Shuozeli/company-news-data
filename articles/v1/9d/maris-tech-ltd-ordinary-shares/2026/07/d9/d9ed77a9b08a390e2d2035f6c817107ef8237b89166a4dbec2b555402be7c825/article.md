@@ -7,7 +7,7 @@ source_id: "maris-tech-ltd-ordinary-shares-rss-219e3dd21362"
 canonical_url: "https://www.maris-tech.com/maris-tech-completes-full-360-hd-video-stitching-with-thermal-day-image-fusion-on-diamond-ultra/press-releases/"
 published_at: "2026-07-20T14:14:28+00:00"
 first_seen_at: "2026-07-24T10:37:38.674777+00:00"
-fetched_at: "2026-07-28T20:11:33.710342+00:00"
+fetched_at: "2026-07-28T22:52:59.438148+00:00"
 content_hash: "sha256:1cf1586cf7d9852d3f0f4f124eed6329448178d6f0f75fbfaabdf29e3a6263c2"
 ---
 

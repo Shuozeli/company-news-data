@@ -7,7 +7,7 @@ source_id: "ge-vernova-inc-common-stock-rss-7c51d258e120"
 canonical_url: "https://www.gevernova.com/investors/events/bernstein-42nd-annual-strategic-decisions-conference-2026"
 published_at: "2026-05-12T10:39:02+00:00"
 first_seen_at: "2026-07-20T23:21:29.268016+00:00"
-fetched_at: "2026-07-28T21:29:52.808631+00:00"
+fetched_at: "2026-07-29T00:29:33.959606+00:00"
 content_hash: "sha256:8fe03480840f6862082069556706fb5fcca91b7d7685d1b3030408c61e6617b9"
 ---
 

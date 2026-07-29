@@ -7,7 +7,7 @@ source_id: "figs-inc-class-a-common-stock-rss-2f91e134b14f"
 canonical_url: "https://ir.wearfigs.com/news/news-details/2026/FIGS-Developed-Healthcare-is-Human-Act-Introduced-in-Congress-to-Provide-Federal-Tax-Credit-for-Healthcare-Professionals/default.aspx"
 published_at: "2026-03-13T17:00:00+00:00"
 first_seen_at: "2026-07-25T04:33:50.107850+00:00"
-fetched_at: "2026-07-28T20:37:28.017032+00:00"
+fetched_at: "2026-07-28T23:21:22.575741+00:00"
 content_hash: "sha256:7c734b8b1a96c04ba8f210d659bfc234b65de396d5ab4664378da8d7e00239fa"
 ---
 

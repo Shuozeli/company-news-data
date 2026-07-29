@@ -7,7 +7,7 @@ source_id: "acco-brands-corporation-common-stock-rss-92734c555b09"
 canonical_url: "https://ir.accobrands.com/news/news-details/2026/ACCO-Brands-Announces-the-Closing-of-the-EPOS-Acquisition/default.aspx"
 published_at: "2026-01-30T12:00:00+00:00"
 first_seen_at: "2026-07-26T21:46:03.374935+00:00"
-fetched_at: "2026-07-28T20:24:04.256406+00:00"
+fetched_at: "2026-07-28T23:08:41.981300+00:00"
 content_hash: "sha256:63992e51b4f5018dfa1697d9a8f85875ad3cd3e874fd7c22cfda7b97e9bf3efb"
 ---
 

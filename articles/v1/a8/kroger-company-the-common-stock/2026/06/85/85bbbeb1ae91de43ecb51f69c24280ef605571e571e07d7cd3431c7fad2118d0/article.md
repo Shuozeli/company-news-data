@@ -7,7 +7,7 @@ source_id: "kroger-company-the-common-stock-rss-ef9cd4c0bb35"
 canonical_url: "https://ir.kroger.com/news/news-details/2026/Krogers-Board-of-Directors-Raises-Quarterly-Dividend-by-11/default.aspx"
 published_at: "2026-06-25T13:00:00+00:00"
 first_seen_at: "2026-07-25T11:05:50.312683+00:00"
-fetched_at: "2026-07-28T20:45:32.250569+00:00"
+fetched_at: "2026-07-28T23:30:17.920468+00:00"
 content_hash: "sha256:8b933b0edc886fdcbbc4865da54cea00bd12b8f055607279974e3463f5ea6f84"
 ---
 

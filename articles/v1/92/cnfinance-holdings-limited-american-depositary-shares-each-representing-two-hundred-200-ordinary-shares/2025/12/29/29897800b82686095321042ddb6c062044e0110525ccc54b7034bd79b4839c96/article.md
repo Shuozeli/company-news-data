@@ -7,7 +7,7 @@ source_id: "cnfinance-holdings-limited-american-depositary-shares-each-represent
 canonical_url: "https://ir.cashchina.cn/2025-12-10-CNFINANCE-ANNOUNCES-THE-RESULTS-OF-ITS-EXTRAORDINARY-GENERAL-MEETING"
 published_at: "2025-12-10T11:15:00+00:00"
 first_seen_at: "2026-07-24T22:41:06.464135+00:00"
-fetched_at: "2026-07-28T19:35:44.733721+00:00"
+fetched_at: "2026-07-28T23:04:13.541099+00:00"
 content_hash: "sha256:e42884ccee4969b3814c784f748c5408de12ad32c8e3d9ae7139e5d230ed0184"
 ---
 

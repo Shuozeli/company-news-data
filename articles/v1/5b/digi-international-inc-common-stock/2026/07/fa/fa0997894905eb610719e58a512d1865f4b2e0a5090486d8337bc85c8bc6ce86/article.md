@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2026/smartsense-welcomes-new-board-of-advisors"
 published_at: "2026-07-21T05:00:00+00:00"
 first_seen_at: "2026-07-28T12:03:37.765447+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:ac4f8ca6cec55f6d84139224dc9023a2369d1bf6312cb9eb9050c840f4a1c2c1"
 ---
 

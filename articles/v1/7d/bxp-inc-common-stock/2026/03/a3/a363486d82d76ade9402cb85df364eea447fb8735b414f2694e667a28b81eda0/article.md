@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-reports-strong-performance-toward-multi-year-business-plan-announced-at-2025-investor-day"
 published_at: "2026-03-02T19:46:42+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:90bc7d9e59d278419cf8ed4522928a03b1973559de6155f24196ce86f97d3087"
 ---
 

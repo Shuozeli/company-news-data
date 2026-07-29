@@ -7,7 +7,7 @@ source_id: "yc-ochre-bio-rss-279ab36d1688"
 canonical_url: "https://www.ochre-bio.com/2025/10/23/derisking-clinical-trials-requires-a-human-first-approach/"
 published_at: "2025-10-23T03:02:00+00:00"
 first_seen_at: "2026-07-20T23:20:39.135312+00:00"
-fetched_at: "2026-07-28T20:27:25.546396+00:00"
+fetched_at: "2026-07-28T23:13:09.647277+00:00"
 content_hash: "sha256:1cb1c412c5e78a68b4972f7348387080a112597c4330c6d0d4b6e3e42d8f604b"
 ---
 

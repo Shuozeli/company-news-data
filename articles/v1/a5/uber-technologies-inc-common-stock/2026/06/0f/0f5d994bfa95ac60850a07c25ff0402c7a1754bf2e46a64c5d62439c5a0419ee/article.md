@@ -7,7 +7,7 @@ source_id: "uber-technologies-inc-common-stock-rss-0f1894567009"
 canonical_url: "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Nuro-and-Lucid-to-Bring-Robotaxi-Service-to-Houston-in-2027/default.aspx"
 published_at: "2026-06-17T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:46.437477+00:00"
-fetched_at: "2026-07-28T21:37:30.635491+00:00"
+fetched_at: "2026-07-29T00:17:05.950701+00:00"
 content_hash: "sha256:d2b2cd46a43485f0ed3fd93c8fc689ba0504e499a54ee4f204e81fb19a056180"
 ---
 

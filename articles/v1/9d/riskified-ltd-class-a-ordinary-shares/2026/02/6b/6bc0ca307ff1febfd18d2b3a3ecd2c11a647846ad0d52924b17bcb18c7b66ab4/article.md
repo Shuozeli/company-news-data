@@ -7,7 +7,7 @@ source_id: "riskified-ltd-class-a-ordinary-shares-rss-dd7d0cc56e2d"
 canonical_url: "https://medium.com/riskified-technology/lgtm-2-0-zero-noise-ai-code-review-agents-857441ec4f1a"
 published_at: "2026-02-11T18:48:11+00:00"
 first_seen_at: "2026-07-20T23:18:31.853064+00:00"
-fetched_at: "2026-07-28T19:38:53.498857+00:00"
+fetched_at: "2026-07-28T23:10:47.152354+00:00"
 content_hash: "sha256:52d37cc14d70240469b8ab4c5231ba42423406d3cd6174fd7eb2c291df4b77b1"
 ---
 

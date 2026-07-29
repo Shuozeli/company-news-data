@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/bnpl-affordability-before-july-2026"
 published_at: "2026-03-29T15:10:13+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:98c8bb87de2263cbc136105eded70d74a11312738c96bf87a89f261b862d44c1"
 ---
 

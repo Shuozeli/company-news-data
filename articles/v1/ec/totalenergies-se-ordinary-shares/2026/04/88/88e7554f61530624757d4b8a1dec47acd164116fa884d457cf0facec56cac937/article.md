@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-takes-final-investment-decision-for-its-giant-wind-and-bess-project-in-kazakhstan/"
 published_at: "2026-04-24T20:28:19+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:bc91970a413fe4883205061967eabdfc665670467bb58db48d0fb7de95431dae"
 ---
 

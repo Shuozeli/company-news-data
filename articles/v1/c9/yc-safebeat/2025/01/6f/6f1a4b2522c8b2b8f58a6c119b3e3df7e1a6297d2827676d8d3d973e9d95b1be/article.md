@@ -7,7 +7,7 @@ source_id: "yc-safebeat-rss-5fe32a996575"
 canonical_url: "https://safebeat.com/safebeat-celebrates-ai-ecg-innovation-at-annual-af-symposium-presents-three-new-abstracts/"
 published_at: "2025-01-20T16:15:00+00:00"
 first_seen_at: "2026-07-20T23:20:46.604155+00:00"
-fetched_at: "2026-07-28T22:10:33.565015+00:00"
+fetched_at: "2026-07-29T00:48:37.803194+00:00"
 content_hash: "sha256:09673dd097b7bc5c02a4943bf2b06b0e89339d722f3f64e9af23141b6b390c98"
 ---
 

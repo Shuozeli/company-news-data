@@ -7,7 +7,7 @@ source_id: "inventrust-properties-corp-common-stock-rss-69554ea628a1"
 canonical_url: "https://inventrustproperties.q4ir.com/investor-relations/news/news-details/2017/InvenTrust-Properties-Corp-Receives-Notice-of-Unsolicited-Mini-Tender-Offer/default.aspx"
 published_at: "2017-11-07T17:37:00+00:00"
 first_seen_at: "2026-07-25T09:50:02.769299+00:00"
-fetched_at: "2026-07-28T20:15:11.059642+00:00"
+fetched_at: "2026-07-28T22:58:19.726655+00:00"
 content_hash: "sha256:54681c8adaa3805cc0a8661a81bd858b223502db7005167ca44e19919267e70a"
 ---
 

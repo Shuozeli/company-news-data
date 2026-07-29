@@ -7,7 +7,7 @@ source_id: "flowserve-corporation-common-stock-rss-41e9b9c7e0cd"
 canonical_url: "https://www.flowserve.com/company/blog/flowserve-present-2014-gabelli-company-industrial-flow-infrastructure-conference/"
 published_at: "2024-12-11T16:28:25+00:00"
 first_seen_at: "2026-07-20T23:21:25.534488+00:00"
-fetched_at: "2026-07-28T20:23:34.930593+00:00"
+fetched_at: "2026-07-28T23:08:16.934407+00:00"
 content_hash: "sha256:085f5b81c308ba4ff2f0e86981fd00b54f763a6d7ea1e2a79061503e5ec3e2bb"
 ---
 

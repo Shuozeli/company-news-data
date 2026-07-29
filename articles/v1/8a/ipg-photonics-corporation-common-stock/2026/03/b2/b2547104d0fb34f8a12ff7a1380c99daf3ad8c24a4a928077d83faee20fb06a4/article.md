@@ -7,7 +7,7 @@ source_id: "ipg-photonics-corporation-common-stock-rss-a5883f31ea14"
 canonical_url: "https://investor.ipgphotonics.com/news/news-details/2026/IPG-Photonics-Announces-Ruling-in-Unified-Patent-Court-83bf1479d/default.aspx"
 published_at: "2026-03-16T20:01:00+00:00"
 first_seen_at: "2026-07-25T10:00:35.136494+00:00"
-fetched_at: "2026-07-28T20:40:22.020658+00:00"
+fetched_at: "2026-07-28T23:24:28.344662+00:00"
 content_hash: "sha256:83dbc7cb1252442ac96c6c6cf852c92d5197f3802ac401ea87f98493c40d7340"
 ---
 

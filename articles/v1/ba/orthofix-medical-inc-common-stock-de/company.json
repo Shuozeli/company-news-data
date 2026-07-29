@@ -32,5 +32,22 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ba/orthofix-medical-inc-common-stock-de/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11871,
+        "sha256": "sha256:1796f8d9ab046ed017b48f26b9462f314397f9678bbac8bcaaed407361afc4da",
+        "newest_at": "2026-06-05T17:14:16+00:00",
+        "oldest_at": "2025-12-22T18:50:24+00:00"
+      }
+    ]
+  }
 }

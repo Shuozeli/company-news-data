@@ -7,7 +7,7 @@ source_id: "signet-jewelers-limited-common-shares-rss-0a03f7d17480"
 canonical_url: "https://www.signetjewelers.com/investors/financial-news-releases/financial-news-release/2026/Signet-Jewelers-Appoints-Jeffrey-Gennette-to-Its-Board/default.aspx"
 published_at: "2026-05-07T22:13:00+00:00"
 first_seen_at: "2026-07-25T23:04:22.075178+00:00"
-fetched_at: "2026-07-28T20:47:41.165549+00:00"
+fetched_at: "2026-07-28T23:32:46.260295+00:00"
 content_hash: "sha256:3f34956a9432b763bcd37d7806ce9bf9030f861c85f94d6adb60a8abee7d954d"
 ---
 

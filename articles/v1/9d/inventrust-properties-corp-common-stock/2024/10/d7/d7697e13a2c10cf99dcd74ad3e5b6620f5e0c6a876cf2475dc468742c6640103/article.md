@@ -7,7 +7,7 @@ source_id: "inventrust-properties-corp-common-stock-rss-69554ea628a1"
 canonical_url: "https://inventrustproperties.q4ir.com/investor-relations/news/news-details/2024/InvenTrust-Properties-Corp.-Reports-2024-Third-Quarter-Results/default.aspx"
 published_at: "2024-10-29T20:10:00+00:00"
 first_seen_at: "2026-07-25T09:50:02.769299+00:00"
-fetched_at: "2026-07-28T20:15:11.059642+00:00"
+fetched_at: "2026-07-28T22:58:19.726655+00:00"
 content_hash: "sha256:8bf2c6f5ceed2c38affca83fc642e3f3db8173762c0829da6548019a2bfc507f"
 ---
 

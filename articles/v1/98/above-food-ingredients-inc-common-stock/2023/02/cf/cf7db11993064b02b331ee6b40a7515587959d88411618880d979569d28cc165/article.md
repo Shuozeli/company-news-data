@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-to-present-at-the-gravitas-securities-inc-6th-annual-growth-conference-in-vancouver-b-c/"
 published_at: "2023-02-28T14:42:40+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:77fbab683f6226c5550bbb670c348fa52019b9afc43ad35410fc7a0c8b0fc1de"
 ---
 

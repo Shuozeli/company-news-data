@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-announces-pricing-of-upsized-offering-of-850-0-million-exchangeable-senior-notes-due-2030"
 published_at: "2025-09-25T21:38:25+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:312a9e300052c2f8453b8a2e2bb13ca1f40c4da858cfebb01fe9b3de05c7524d"
 ---
 

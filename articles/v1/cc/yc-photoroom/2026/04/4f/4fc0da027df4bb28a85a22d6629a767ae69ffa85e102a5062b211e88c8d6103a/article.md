@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-f545fb403576"
 canonical_url: "https://www.photoroom.com/inside-photoroom/the-laptop-is-the-wrong-place-to-run-coding-agents"
-published_at: "2026-04-22T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:21.557706+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:90a2bac95d4bdeb71d3186d5a7a88c1fd3c2ae2aef3f4e7f69ca9273b8ed4eda"

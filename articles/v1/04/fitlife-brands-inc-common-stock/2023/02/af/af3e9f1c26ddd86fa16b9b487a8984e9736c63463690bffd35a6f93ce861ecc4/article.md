@@ -7,7 +7,7 @@ source_id: "fitlife-brands-inc-common-stock-atom-9396f77d9fb3"
 canonical_url: "https://fitlifebrands.com/blogs/news/7-core-principles-to-help-with-weight-loss-dont-ignore-these"
 published_at: "2023-02-06T04:10:29+00:00"
 first_seen_at: "2026-07-25T05:05:30.159967+00:00"
-fetched_at: "2026-07-28T21:41:03.847814+00:00"
+fetched_at: "2026-07-29T00:06:50.496811+00:00"
 content_hash: "sha256:e716ec62cd471e401ff7614d9e2bc2a95341464820630b6bfce90cd8a82080be"
 ---
 

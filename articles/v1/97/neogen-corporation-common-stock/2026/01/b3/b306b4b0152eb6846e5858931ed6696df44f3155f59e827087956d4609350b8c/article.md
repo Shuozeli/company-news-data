@@ -7,7 +7,7 @@ source_id: "neogen-corporation-common-stock-rss-4363528154c9"
 canonical_url: "https://investors.neogen.com/news/news-details/2026/Neogen-Issues-Voluntary-Nationwide-Recall-of-NeogenVet-HYCOAT-Hyaluronate-Sodium-Sterile-Solution/default.aspx"
 published_at: "2026-01-28T23:27:00+00:00"
 first_seen_at: "2026-07-25T15:47:57.989482+00:00"
-fetched_at: "2026-07-28T20:22:42.310766+00:00"
+fetched_at: "2026-07-28T23:06:47.229566+00:00"
 content_hash: "sha256:692b7161b73a4ab5aaa452ee372f14e178f4c4ec5518044ed3b1e0b8c94f930f"
 ---
 

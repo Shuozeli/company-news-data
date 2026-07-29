@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/apple-allows-external-payment-links-in-the-app-store-everything-you-need-to"
-published_at: "2024-01-17T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:1b45a69ff8a552249fb77b5778a823026c81d0ada3ac37de69f96ed5806b59b4"

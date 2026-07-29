@@ -4,9 +4,9 @@
     "key": "optimizerx-corporation-common-stock",
     "name": "OptimizeRx Corporation Common Stock"
   },
-  "record_count": 13,
+  "record_count": 14,
   "first_published_at": "2026-05-13T07:44:12.271+00:00",
-  "last_published_at": "2026-07-24T01:08:48.467+00:00",
+  "last_published_at": "2026-07-28T14:05:01.602+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -18,7 +18,24 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 6
+      "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/86/optimizerx-corporation-common-stock/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 16800,
+        "sha256": "sha256:41dad126c5961d1990ff504815842b669237776c560838ae4fc514ea5876bb8e",
+        "newest_at": "2026-07-28T14:05:01.602+00:00",
+        "oldest_at": "2026-05-13T07:44:12.271+00:00"
+      }
+    ]
+  }
 }

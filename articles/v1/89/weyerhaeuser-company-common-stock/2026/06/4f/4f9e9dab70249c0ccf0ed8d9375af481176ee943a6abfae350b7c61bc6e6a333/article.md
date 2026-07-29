@@ -7,7 +7,7 @@ source_id: "weyerhaeuser-company-common-stock-rss-432ce8ceed5f"
 canonical_url: "https://investor.weyerhaeuser.com/2026-06-17-Weyerhaeuser-Launches-Fighting-Fires-Together-Campaign-to-Support-Oregon-Wildland-Firefighting"
 published_at: "2026-06-17T20:30:00+00:00"
 first_seen_at: "2026-07-20T03:31:52.997098+00:00"
-fetched_at: "2026-07-28T20:22:45.779870+00:00"
+fetched_at: "2026-07-28T23:06:48.894643+00:00"
 content_hash: "sha256:9ba6b9af90159045d3e038bf74be1b6292de9250261a0cf33d4a2daa45d91695"
 ---
 

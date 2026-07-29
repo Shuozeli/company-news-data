@@ -7,7 +7,7 @@ source_id: "silence-therapeutics-plc-american-depository-share-rss-4f2caa2d9c31"
 canonical_url: "https://silence-therapeutics.com/investors/press-releases/press-releases-details/2026/Silence-Therapeutics-Highlights-Follow-Up-Data-at-EHA-2026-Demonstrating-Durable-Efficacy-and-Potential-Best-in-Class-Profile-for-Divesiran-in-Polycythemia-Vera/default.aspx"
 published_at: "2026-06-11T11:30:00+00:00"
 first_seen_at: "2026-07-25T23:04:22.261189+00:00"
-fetched_at: "2026-07-28T20:48:44.746497+00:00"
+fetched_at: "2026-07-28T23:33:46.514473+00:00"
 content_hash: "sha256:cd16298011dce3db9b00aa1d1d228782902c394b4bbad2d9289d073febf894f2"
 ---
 

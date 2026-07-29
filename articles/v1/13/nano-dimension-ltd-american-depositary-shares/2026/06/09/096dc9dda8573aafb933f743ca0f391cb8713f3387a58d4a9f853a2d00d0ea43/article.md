@@ -7,7 +7,7 @@ source_id: "nano-dimension-ltd-american-depositary-shares-rss-111d35614305"
 canonical_url: "https://investors.nano-di.com/press-releases/news-details/2026/Nano-Dimension-Issues-Letter-from-Chief-Executive-Officer-David-Stehlin/default.aspx"
 published_at: "2026-06-05T12:00:00+00:00"
 first_seen_at: "2026-07-25T15:27:00.961627+00:00"
-fetched_at: "2026-07-28T20:04:05.382371+00:00"
+fetched_at: "2026-07-28T23:53:10.203793+00:00"
 content_hash: "sha256:79b9a4730b7dd5e60c724118a4887b3c1eb99031f46ba5e22c660aca18f46474"
 ---
 

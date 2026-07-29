@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-16e4c55287d6"
 canonical_url: "https://www.photoroom.com/customer-stories/stunner-media"
-published_at: "2025-05-09T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:21.424777+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:b9d3b34a05dbf5df8d3541cd5d8baca89eda484ab69af112058f367b9e8174e7"

@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/regulated-finance-playbook-ai-voice-agents"
 published_at: "2025-09-17T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:8faad30bb8a8d594d102941aa5ef9d72e39c925351ef229ad877249b9c1e70f8"
 ---
 

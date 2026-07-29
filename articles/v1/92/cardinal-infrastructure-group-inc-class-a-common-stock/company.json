@@ -4,9 +4,9 @@
     "key": "cardinal-infrastructure-group-inc-class-a-common-stock",
     "name": "Cardinal Infrastructure Group Inc. Class A Common Stock"
   },
-  "record_count": 10,
+  "record_count": 11,
   "first_published_at": "2026-04-09T20:30:00+00:00",
-  "last_published_at": "2026-06-30T14:30:00+00:00",
+  "last_published_at": "2026-07-28T20:54:00+00:00",
   "partitions": [
     {
       "partition": "2026-04",
@@ -19,6 +19,27 @@
     {
       "partition": "2026-06",
       "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/92/cardinal-infrastructure-group-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 16543,
+        "sha256": "sha256:271642435cdcc2881b06bbd49aa9519bbfb4e5035bdcfb7e25d62ca116ae5332",
+        "newest_at": "2026-07-28T20:54:00+00:00",
+        "oldest_at": "2026-04-09T20:30:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "international-paper-company-common-stock-rss-b23711046dd2"
 canonical_url: "https://www.internationalpaper.com/resources/recycling/blog/where-can-businesses-recycle-large-volumes-cardboard-omaha-ne"
 published_at: "2026-03-25T18:19:25+00:00"
 first_seen_at: "2026-07-20T23:21:31.145147+00:00"
-fetched_at: "2026-07-28T20:25:38.457036+00:00"
+fetched_at: "2026-07-28T23:11:01.003804+00:00"
 content_hash: "sha256:a6996f978c534199dbbafcb53e26837620e5c35504436ae77fe2712cfceb5058"
 ---
 

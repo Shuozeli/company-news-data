@@ -7,7 +7,7 @@ source_id: "john-wiley-sons-inc-common-stock-rss-c639432feaa4"
 canonical_url: "https://johnwiley2020news.q4web.com/press-releases/press-release-details/2026/Can-fecal-microbe-transplantation-improve-sleep-in-people-with-chronic-insomnia/default.aspx"
 published_at: "2026-07-22T07:01:00+00:00"
 first_seen_at: "2026-07-25T10:19:17.529537+00:00"
-fetched_at: "2026-07-28T21:31:47.197478+00:00"
+fetched_at: "2026-07-29T00:07:58.328343+00:00"
 content_hash: "sha256:6c7d15143ad76e4fadaaec1c04fa94b39381c53e9c2ef1407b4478c6c3741f4e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "aspen-aerogels-inc-common-stock-rss-1be19ab36738"
 canonical_url: "https://ir.aerogel.com/news/news-details/2026/Aspen-Aerogels-Inc--Reports-First-Quarter-2026-Financial-Results-and-Recent-Business-Highlights/default.aspx"
 published_at: "2026-05-07T10:30:00+00:00"
 first_seen_at: "2026-07-26T22:59:45.708735+00:00"
-fetched_at: "2026-07-28T21:54:51.087865+00:00"
+fetched_at: "2026-07-29T00:35:16.487692+00:00"
 content_hash: "sha256:50d073fe798ee5a1bee43fba32495907a0ba8044edba3989730167cd97438465"
 ---
 

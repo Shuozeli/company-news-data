@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/user-segmentation-recipes-to-jump-start-app-growth"
-published_at: "2024-04-30T15:12:32.531+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:0028089bb306ffcf5dc0ae9dbb4d686a0118ada4036a4bd8ab8e9d3ee0e23b79"

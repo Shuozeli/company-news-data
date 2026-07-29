@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-presenting-at-centurion-one-capitals-5th-los-angeles-summit/"
 published_at: "2024-05-31T11:00:27+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:4e89e40becf6ac9f86a73ab6958b676e69a09ad3c1b44de341747b5749b5265c"
 ---
 

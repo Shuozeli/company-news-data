@@ -7,7 +7,7 @@ source_id: "madison-square-garden-sports-corp-class-a-common-stock-new-rss-ca0bc
 canonical_url: "https://investor.msgsports.com/press-releases/news-details/2026/Quentin-Dolan-Named-President-Chief-Operating-Officer-and-Alternate-Governor-of-the-New-York-Rangers/default.aspx"
 published_at: "2026-07-03T14:15:00+00:00"
 first_seen_at: "2026-07-25T12:57:48.577427+00:00"
-fetched_at: "2026-07-28T19:45:55.931253+00:00"
+fetched_at: "2026-07-28T23:22:44.019825+00:00"
 content_hash: "sha256:dd89f974dff6f09ce9be09f1c484fae85715b4d493753135c80ee3331a99e393"
 ---
 

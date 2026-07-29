@@ -7,7 +7,7 @@ source_id: "nvent-electric-plc-ordinary-shares-rss-7e545b783f0e"
 canonical_url: "https://blog.nvent.com/employee-story-jasmine-hr-business-partner/"
 published_at: "2025-10-31T15:20:47+00:00"
 first_seen_at: "2026-07-20T23:21:35.308535+00:00"
-fetched_at: "2026-07-28T20:30:02.239099+00:00"
+fetched_at: "2026-07-28T23:16:06.368241+00:00"
 content_hash: "sha256:b1600d2e14a63ac1567c6746b2517c46e064d1e20ead93464c27431d7a66ec75"
 ---
 

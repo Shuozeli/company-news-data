@@ -7,7 +7,7 @@ source_id: "inspira-technologies-oxy-b-h-n-ltd-ordinary-shares-rss-7eae96d06492"
 canonical_url: "https://inspira-technologies.com/inspira-technologies-reports-full-year-2025-financial-results-and-provides-business-updates/"
 published_at: "2026-03-26T20:50:47+00:00"
 first_seen_at: "2026-07-25T09:33:30.249851+00:00"
-fetched_at: "2026-07-28T22:01:11.956483+00:00"
+fetched_at: "2026-07-29T00:39:29.265252+00:00"
 content_hash: "sha256:3e0e83fe5cbe15d6dd22b13ab239ddeb54b88fae5a3bdde5e4f7089f0b0f9929"
 ---
 

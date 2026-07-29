@@ -160,5 +160,67 @@
       "partition": "2026-07",
       "record_count": 74
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 6,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52721,
+        "sha256": "sha256:6e7015d8a4f930a8df82e4697312246796e2094502009c7dcf31e702579ade49",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2026-07-24T18:23:43.807022+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 61214,
+        "sha256": "sha256:ab4fe03beff4ee385e3f39c9f7b0a6913f685ca70113b088835f5576f787bdfd",
+        "newest_at": "2026-07-24T18:23:43.807022+00:00",
+        "oldest_at": "2015-08-12T15:13:24+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 58699,
+        "sha256": "sha256:dbfc50ffc2faf71a0f7ebd161969df264dbc764d244f4e081846a165a29d88b5",
+        "newest_at": "2015-08-05T21:55:48+00:00",
+        "oldest_at": "2014-08-04T14:19:16+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 58977,
+        "sha256": "sha256:6025d221738fed812466b3f2929c7762ccf19febb1bd6b536a2baeea49729eee",
+        "newest_at": "2014-07-28T13:43:30+00:00",
+        "oldest_at": "2013-12-18T16:08:54+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 57674,
+        "sha256": "sha256:05d20bd4926402f616a2fcff8a54f198457d3972ac1e958cb1238ad2b2639f49",
+        "newest_at": "2013-12-17T17:44:57+00:00",
+        "oldest_at": "2013-04-29T13:49:11+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000006.json",
+        "record_count": 27,
+        "byte_count": 31071,
+        "sha256": "sha256:2888171eae11f64e4ccdd58ab2f611a22f4504e9a3ca6ad1563f3e06e2a306b3",
+        "newest_at": "2013-04-26T19:00:39+00:00",
+        "oldest_at": "2013-03-18T14:39:20+00:00"
+      }
+    ]
+  }
 }

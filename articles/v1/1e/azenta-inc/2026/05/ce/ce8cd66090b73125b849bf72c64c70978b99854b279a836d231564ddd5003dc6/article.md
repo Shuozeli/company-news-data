@@ -7,7 +7,7 @@ source_id: "azenta-inc-rss-b770248e871e"
 canonical_url: "https://investors.azenta.com/2026-05-21-Azenta-Publishes-2025-Environmental,-Social,-and-Governance-ESG-Report"
 published_at: "2026-05-21T20:05:00+00:00"
 first_seen_at: "2026-07-20T23:17:23.737954+00:00"
-fetched_at: "2026-07-28T21:12:29.757653+00:00"
+fetched_at: "2026-07-28T23:57:59.382878+00:00"
 content_hash: "sha256:c64caf8b3bca6136a442741486584ea3c6ffd82320b8f7ded91a836f32792cfe"
 ---
 

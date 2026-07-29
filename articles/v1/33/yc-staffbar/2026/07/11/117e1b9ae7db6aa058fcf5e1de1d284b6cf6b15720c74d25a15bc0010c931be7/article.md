@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/superwall-acquires-tangent-and-raises-7.5m"
-published_at: "2026-07-13T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:c4cf7289f889a5170a8cd3a3992f3756b5e210fcaef464ee770bffe699532203"

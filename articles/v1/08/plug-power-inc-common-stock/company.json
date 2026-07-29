@@ -568,5 +568,94 @@
       "partition": "2026-07",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 9,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/08/plug-power-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 57568,
+        "sha256": "sha256:1879a5ca145a5f6f3b466c3aaa9f02687a09324083494c279577f54f8cd743fd",
+        "newest_at": "2026-07-28T14:15:01+00:00",
+        "oldest_at": "2025-06-13T13:59:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/08/plug-power-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 59217,
+        "sha256": "sha256:329b8250862408a70359c3d07652ffc8a78568367a96631659101f1f88154a42",
+        "newest_at": "2025-06-12T14:00:00+00:00",
+        "oldest_at": "2024-01-17T15:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/08/plug-power-inc-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 62167,
+        "sha256": "sha256:10b03aaddeb4792a945f68b65f478da3b60fb7fe445ef0dcbe3b29ec4316a417",
+        "newest_at": "2024-01-05T15:00:00+00:00",
+        "oldest_at": "2022-08-12T21:47:54+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/08/plug-power-inc-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 62513,
+        "sha256": "sha256:8c209a5d4d81e6c00776ab2771757fa76c52679a66c414847511a724343da755",
+        "newest_at": "2022-08-11T14:00:00+00:00",
+        "oldest_at": "2021-04-06T10:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/08/plug-power-inc-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 61196,
+        "sha256": "sha256:b161acdf2d67521581781e41880c2dc3ad7bda78720d760374dc5b5c694de1e8",
+        "newest_at": "2021-03-25T10:00:50+00:00",
+        "oldest_at": "2020-04-01T17:57:38+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/08/plug-power-inc-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 62160,
+        "sha256": "sha256:f885d62a811c09fd280c145bf1ca25e887d6c80b38c9501f8c60d347a72886b4",
+        "newest_at": "2020-02-17T20:24:46+00:00",
+        "oldest_at": "2018-08-15T20:18:38+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/08/plug-power-inc-common-stock/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 62380,
+        "sha256": "sha256:fdc09ef0a571a7bee2c5d632116eae27baff7dae8eb1881cecb381aeb199df94",
+        "newest_at": "2018-08-02T15:40:18+00:00",
+        "oldest_at": "2017-02-20T16:07:26+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/08/plug-power-inc-common-stock/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 63608,
+        "sha256": "sha256:b96a4a57e1927225aa13f3e67f70e02d7089609514660bbfb4b76002c4af5231",
+        "newest_at": "2017-02-15T17:55:20+00:00",
+        "oldest_at": "2015-05-21T17:49:32+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/08/plug-power-inc-common-stock/index/pages/000009.json",
+        "record_count": 22,
+        "byte_count": 29094,
+        "sha256": "sha256:0f2f33adb3078930b82ac3c43853cd39117276a065fa98c03fb06467c859241e",
+        "newest_at": "2015-05-19T18:15:29+00:00",
+        "oldest_at": "2013-12-20T21:39:13+00:00"
+      }
+    ]
+  }
 }

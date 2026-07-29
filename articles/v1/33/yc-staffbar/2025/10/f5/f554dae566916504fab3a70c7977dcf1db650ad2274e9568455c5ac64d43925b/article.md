@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/two-paywall-trends-driving-arpu-gains"
-published_at: "2025-10-09T18:21:27.862+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:b7eb1959a6ee694456021b458bede68f9e5fd110fb3c473fb6e1c0e79d18df1d"

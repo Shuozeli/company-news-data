@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/why-ai-quotes-need-guardrails"
 published_at: "2026-04-01T14:09:54+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:23870afa034c2dc17743e5229141140bae183b10f2efea184eb1811a8ef3ecd5"
 ---
 

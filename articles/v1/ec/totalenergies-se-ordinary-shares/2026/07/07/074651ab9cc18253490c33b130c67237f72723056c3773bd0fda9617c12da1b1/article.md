@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/in-pictures-in-le-havre-we-boarded-the-vessel-analyzing-the-seabed-soils-for-the-future-centre-manche-2-offshore-wind-farm/"
 published_at: "2026-07-20T13:36:53+00:00"
 first_seen_at: "2026-07-28T14:11:12.114075+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:4bfeaaf6b2de732ec836dc90e6a440ad03c9cba330face3118765ed393a94de9"
 ---
 

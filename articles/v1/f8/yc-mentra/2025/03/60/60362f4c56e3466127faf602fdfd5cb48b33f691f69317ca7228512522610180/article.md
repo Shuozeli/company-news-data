@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/mentraos-1-0-launch-hackathon-smart-glasses-hackathon-march-2-2025"
 published_at: "2025-03-04T01:17:00+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T19:58:18.617561+00:00"
+fetched_at: "2026-07-28T23:47:18.716244+00:00"
 content_hash: "sha256:e71644b2af0b4bcb9839976977a38bedc69b42248911c2f1d1180809d7b70a44"
 ---
 

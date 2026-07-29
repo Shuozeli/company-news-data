@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/from-ai-actions-to-policy-control"
 published_at: "2026-04-08T16:05:08+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:12166d8c449ea4da51c4b6021c070f9e85d7914a5f7d07b4e4118ba2e35aecd1"
 ---
 

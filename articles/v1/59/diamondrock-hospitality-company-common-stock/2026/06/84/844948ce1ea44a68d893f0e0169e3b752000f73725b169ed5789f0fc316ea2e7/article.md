@@ -7,7 +7,7 @@ source_id: "diamondrock-hospitality-company-common-stock-rss-0cf57d65d302"
 canonical_url: "https://investor.drhc.com/news-releases/news-release-details/diamondrock-hospitality-announces-second-quarter-2026-earnings"
 published_at: "2026-06-18T11:30:00+00:00"
 first_seen_at: "2026-07-26T12:58:00.261237+00:00"
-fetched_at: "2026-07-28T21:48:51.399344+00:00"
+fetched_at: "2026-07-29T00:16:42.112994+00:00"
 content_hash: "sha256:144188296851b8ae730df962185184d28657001209853cdd6b504e1f4afd9307"
 ---
 

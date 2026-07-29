@@ -7,7 +7,7 @@ source_id: "teva-pharmaceutical-industries-limited-american-depositary-shares-rs
 canonical_url: "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2026/Teva-to-Advance-Its-Anti-IL-15-Antibody-Designed-for-Quarterly-Dosing-Into-Phase-2b-Development-in-Vitiligo-Following-Encouraging-Phase-1b-Results/default.aspx"
 published_at: "2026-07-07T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:51.621885+00:00"
-fetched_at: "2026-07-28T21:37:33.063712+00:00"
+fetched_at: "2026-07-29T00:12:43.259437+00:00"
 content_hash: "sha256:ab418d910699c5631b14b3cb1d3278e33723713c6d9ee85cf9df2bfb06dea144"
 ---
 

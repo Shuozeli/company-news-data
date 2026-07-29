@@ -7,7 +7,7 @@ source_id: "yc-mocha-rss-d0ffed2c2227"
 canonical_url: "https://getmocha.com/alternative-presentation-tools-powerpoint"
 published_at: "2026-01-22T00:00:00+00:00"
 first_seen_at: "2026-07-24T11:28:42.148680+00:00"
-fetched_at: "2026-07-28T21:12:00.549507+00:00"
+fetched_at: "2026-07-28T23:57:26.073716+00:00"
 content_hash: "sha256:b57c042f86a136f2581b55835f52086e73e3dcf0b6cbd25e96b50c0ee26fa585"
 ---
 

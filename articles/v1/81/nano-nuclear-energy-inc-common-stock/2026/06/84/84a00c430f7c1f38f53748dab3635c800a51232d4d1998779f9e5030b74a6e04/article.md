@@ -7,7 +7,7 @@ source_id: "nano-nuclear-energy-inc-common-stock-rss-37f535d5108a"
 canonical_url: "https://nanonuclearenergy.com/nano-nuclears-kronos-mmr-program-advances-as-us-nrc-initiates-formal-review-activities-with-university-of-illinois-urbana-champaign-and-nano-nuclear-energy/"
 published_at: "2026-06-25T12:22:50+00:00"
 first_seen_at: "2026-07-24T11:57:10.338713+00:00"
-fetched_at: "2026-07-28T20:20:39.586020+00:00"
+fetched_at: "2026-07-28T23:04:07.289571+00:00"
 content_hash: "sha256:af7005c2633fbcfccfb6ad08b2a1ba396fd2a5b85df10d3a8571f2c177400823"
 ---
 

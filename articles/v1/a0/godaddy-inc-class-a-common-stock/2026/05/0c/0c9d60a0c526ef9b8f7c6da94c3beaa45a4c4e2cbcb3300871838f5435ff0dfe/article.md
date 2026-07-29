@@ -7,7 +7,7 @@ source_id: "godaddy-inc-class-a-common-stock-rss-9ab8cf80df8f"
 canonical_url: "https://aboutus.godaddy.net/newsroom/news-releases/press-release-details/2026/GoDaddy-and-HOL-Hashgraph-Online-Propose-Open-Standards-for-Verifiable-AI-Agent-Identity-on-DNS-2026-juJtXZz91F/default.aspx"
 published_at: "2026-05-07T13:00:00+00:00"
 first_seen_at: "2026-07-25T06:48:21.369610+00:00"
-fetched_at: "2026-07-28T21:01:50.743153+00:00"
+fetched_at: "2026-07-28T23:48:56.809879+00:00"
 content_hash: "sha256:087951385e15a29425ab92ea35bd5adb1fc6d95f871dd5912aac5e31c7b380a9"
 ---
 

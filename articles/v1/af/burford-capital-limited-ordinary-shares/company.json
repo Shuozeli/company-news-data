@@ -132,5 +132,103 @@
       "partition": "2026-07",
       "record_count": 12
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 10,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 69052,
+        "sha256": "sha256:2462ab7d74da99d731125f37f4b2c54a48d316b737008a026ac7b0f52e0ced80",
+        "newest_at": "2026-07-27T00:00:00+00:00",
+        "oldest_at": "2026-04-16T12:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 68058,
+        "sha256": "sha256:2c6955eb9b682e91fe09433ec42b1c59c3b7c3f09fe7eb01ee7cb5deb358730f",
+        "newest_at": "2026-04-16T12:00:00+00:00",
+        "oldest_at": "2026-01-20T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 67574,
+        "sha256": "sha256:f32e90868ae2bd278afe1dd28685924f7aac65e2fe5c98df31c81bb2773452c4",
+        "newest_at": "2026-01-16T12:00:00+00:00",
+        "oldest_at": "2025-10-17T12:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 65664,
+        "sha256": "sha256:ff6bb1f98e03a5770676397d5beb8e1a56e8fec8cc1188f577e840a40cbd0158",
+        "newest_at": "2025-10-17T12:00:00+00:00",
+        "oldest_at": "2025-08-18T12:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 65191,
+        "sha256": "sha256:e43cfda36a8bd4c22a203f945f749093360116ad267bf4e88d5fe2adbd30ebea",
+        "newest_at": "2025-08-18T12:00:00+00:00",
+        "oldest_at": "2025-04-30T12:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 63130,
+        "sha256": "sha256:f9a8c7c584da61d75700b2bf6171ff00e196a9dd9eddbf87b60c6bbb7402ed05",
+        "newest_at": "2025-04-30T12:00:00+00:00",
+        "oldest_at": "2025-01-15T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 64448,
+        "sha256": "sha256:676d5eaf7b1485300fc417b837d117e70bbd34bcf57b475c9782ac3916d46774",
+        "newest_at": "2025-01-06T00:00:00+00:00",
+        "oldest_at": "2024-10-04T00:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 65115,
+        "sha256": "sha256:3156694dc711c5d7676e3c949f6674a3001b2a8f7c3c59afb0c0f345469174a8",
+        "newest_at": "2024-10-03T00:00:00+00:00",
+        "oldest_at": "2024-06-20T00:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 62429,
+        "sha256": "sha256:5391313f25d3e8eec3bb024f401e0cf5ea17b4418d63f30661acb9d7747f43ab",
+        "newest_at": "2024-06-19T12:00:00+00:00",
+        "oldest_at": "2024-04-11T00:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000010.json",
+        "record_count": 49,
+        "byte_count": 60446,
+        "sha256": "sha256:424d7f2558662e26bd5c09d10361c4d03834c1e0842816dbf00026c2bfc57470",
+        "newest_at": "2024-04-10T00:00:01+00:00",
+        "oldest_at": "2024-01-23T00:00:00+00:00"
+      }
+    ]
+  }
 }

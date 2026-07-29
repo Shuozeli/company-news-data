@@ -7,7 +7,7 @@ source_id: "wingstop-inc-common-stock-rss-7f135f859589"
 canonical_url: "https://ir.wingstop.com/the-flavor-experts-bring-a-burst-of-fresh-bold-flavor-with-citrus-mojo/"
 published_at: "2026-04-06T11:31:16+00:00"
 first_seen_at: "2026-07-20T23:17:13.311245+00:00"
-fetched_at: "2026-07-28T21:13:20.646299+00:00"
+fetched_at: "2026-07-28T23:58:14.897862+00:00"
 content_hash: "sha256:9e2a53f351a58fd4d79a2f06f59cc25c07db8657573b584da796f2be8ed249b2"
 ---
 

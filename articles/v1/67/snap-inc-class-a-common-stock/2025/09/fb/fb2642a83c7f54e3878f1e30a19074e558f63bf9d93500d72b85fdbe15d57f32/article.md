@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-87de20393b65"
 canonical_url: "https://newsroom.snap.com/infiniteretentionandgroupstreaks"
 published_at: "2025-09-13T00:30:00+00:00"
 first_seen_at: "2026-07-25T01:10:38.921974+00:00"
-fetched_at: "2026-07-28T19:58:06.020203+00:00"
+fetched_at: "2026-07-28T23:47:03.180523+00:00"
 content_hash: "sha256:9725b492c319ce7bd7c6e1473f73c93531eaf7180a1a248dbda81f768f100afa"
 ---
 

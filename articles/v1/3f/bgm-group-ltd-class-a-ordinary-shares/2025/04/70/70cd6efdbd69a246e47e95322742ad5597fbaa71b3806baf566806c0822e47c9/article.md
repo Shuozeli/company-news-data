@@ -7,7 +7,7 @@ source_id: "bgm-group-ltd-class-a-ordinary-shares-rss-15f01d6ba4b0"
 canonical_url: "https://www.bgmgroupltd.com/blog/bgm-completes-acquisition-of-yx-to-advance-ai-powered-intelligent-platform"
 published_at: "2025-04-29T01:22:00+00:00"
 first_seen_at: "2026-07-24T18:55:18.697038+00:00"
-fetched_at: "2026-07-28T22:00:56.204944+00:00"
+fetched_at: "2026-07-29T00:39:37.952804+00:00"
 content_hash: "sha256:cfeb84d608d460022a45ba047737fd9ffe0259c766116c39287034397e83a303"
 ---
 

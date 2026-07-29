@@ -7,7 +7,7 @@ source_id: "box-inc-class-a-common-stock-rss-a1b756dbb5f0"
 canonical_url: "https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Launches-Box-Automate-to-Orchestrate-Agentic-Workflows/default.aspx"
 published_at: "2026-04-28T17:00:00+00:00"
 first_seen_at: "2026-07-26T23:59:55.533287+00:00"
-fetched_at: "2026-07-28T20:48:33.467159+00:00"
+fetched_at: "2026-07-28T23:33:39.655435+00:00"
 content_hash: "sha256:815b5e8f72ad5ba1d0fd12244ea4e32c57ba6710e1ee7c578d05d915fbeb3231"
 ---
 

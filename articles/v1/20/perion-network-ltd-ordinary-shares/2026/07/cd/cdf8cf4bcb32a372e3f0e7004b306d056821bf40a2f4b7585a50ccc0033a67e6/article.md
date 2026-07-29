@@ -7,7 +7,7 @@ source_id: "perion-network-ltd-ordinary-shares-rss-2c2626ab728d"
 canonical_url: "https://perion.com/ctv/whats-the-difference-between-ctv-and-ott-advertising/"
 published_at: "2026-07-20T10:33:11+00:00"
 first_seen_at: "2026-07-20T23:22:51.777610+00:00"
-fetched_at: "2026-07-28T20:41:28.179474+00:00"
+fetched_at: "2026-07-28T23:25:21.207430+00:00"
 content_hash: "sha256:6ae70aa857e60e3e4cdbda17b71d17fb1e15f97b3f1db4dc130fac998ddd65c7"
 ---
 

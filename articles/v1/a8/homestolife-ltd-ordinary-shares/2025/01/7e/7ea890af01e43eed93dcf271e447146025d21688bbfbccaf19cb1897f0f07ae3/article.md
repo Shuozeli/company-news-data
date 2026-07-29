@@ -7,7 +7,7 @@ source_id: "homestolife-ltd-ordinary-shares-atom-fa770f0ed26f"
 canonical_url: "https://homestolife.com/blogs/news/discover-customisable-stationary-sofas-at-homestolife"
 published_at: "2025-01-24T09:40:02+00:00"
 first_seen_at: "2026-07-23T22:07:10.185526+00:00"
-fetched_at: "2026-07-28T20:48:15.712658+00:00"
+fetched_at: "2026-07-28T23:33:05.798378+00:00"
 content_hash: "sha256:b1628ee6c3ec27bbe80ffa2dadee93378a1cf7ded94ab8d9773d46bc7dcb163d"
 ---
 

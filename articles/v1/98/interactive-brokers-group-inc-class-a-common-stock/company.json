@@ -16,5 +16,40 @@
       "partition": "2026-07",
       "record_count": 94
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 67272,
+        "sha256": "sha256:1426762a064b3402a052d633cfde792d8056f3d302894203d5ce6bc10156e5f0",
+        "newest_at": "2026-07-28T17:13:23+00:00",
+        "oldest_at": "2026-07-21T16:00:22+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 66993,
+        "sha256": "sha256:000f0a03ded73b6bac0eeff09ec81afd21cd55d407bb44bbfc4e7b047e88c19f",
+        "newest_at": "2026-07-21T15:30:00+00:00",
+        "oldest_at": "2026-06-22T15:55:43+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/index/pages/000003.json",
+        "record_count": 5,
+        "byte_count": 6543,
+        "sha256": "sha256:32c7c390d8a0355ca580b56209a75a2da6dc9cefe675f102f70456c3f7e74f67",
+        "newest_at": "2026-06-18T16:20:18+00:00",
+        "oldest_at": "2026-06-11T12:20:45+00:00"
+      }
+    ]
+  }
 }

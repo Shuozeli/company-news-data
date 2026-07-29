@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-presenting-at-centurion-one-capitals-7th-annual-growth-conference/"
 published_at: "2024-02-29T13:55:39+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:3f442b52152a323bfc9e25a9529836b19f026c6b6283962ffc0f8028db866a70"
 ---
 

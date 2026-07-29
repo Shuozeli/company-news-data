@@ -12,5 +12,22 @@
       "partition": "2025-08",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/06/yc-givecampus/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1034,
+        "sha256": "sha256:9ca75e98c921e4b9765af88203e64e2030b193f5bf7d3e0e5546eb0d9e1b54ed",
+        "newest_at": "2025-08-11T20:31:06+00:00",
+        "oldest_at": "2025-08-11T20:31:06+00:00"
+      }
+    ]
+  }
 }

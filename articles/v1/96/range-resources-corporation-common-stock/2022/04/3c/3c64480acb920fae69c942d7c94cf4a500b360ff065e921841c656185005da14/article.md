@@ -7,7 +7,7 @@ source_id: "range-resources-corporation-common-stock-rss-39ebe470ada3"
 canonical_url: "https://www.rangeresources.com/2021-annual-report/"
 published_at: "2022-04-01T12:05:47+00:00"
 first_seen_at: "2026-07-25T01:14:33.578834+00:00"
-fetched_at: "2026-07-28T22:12:02.202327+00:00"
+fetched_at: "2026-07-29T00:50:21.600149+00:00"
 content_hash: "sha256:352f9687fa2e29a7ccd0c9b56ee5f4d3a65bea4b01da4e79fd8ecd23f33232bc"
 ---
 

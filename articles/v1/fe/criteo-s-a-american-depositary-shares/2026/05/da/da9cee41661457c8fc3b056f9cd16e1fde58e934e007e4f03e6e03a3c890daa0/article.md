@@ -7,7 +7,7 @@ source_id: "criteo-s-a-american-depositary-shares-rss-02db2411825d"
 canonical_url: "https://medium.com/criteo-engineering/how-we-cut-haproxy-fleet-gcp-cost-in-half-by-moving-from-n2d-to-c4d-bbdafed3265f"
 published_at: "2026-05-07T06:26:01+00:00"
 first_seen_at: "2026-07-20T23:17:33.645392+00:00"
-fetched_at: "2026-07-28T21:18:18.604317+00:00"
+fetched_at: "2026-07-29T00:25:12.574821+00:00"
 content_hash: "sha256:16c2d800a80ecec439a4f9f0db40ec227467c760dfd01e3f7b182d0cc30b6561"
 ---
 

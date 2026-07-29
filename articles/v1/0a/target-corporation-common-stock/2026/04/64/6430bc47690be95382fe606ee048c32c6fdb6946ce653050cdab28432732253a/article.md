@@ -7,7 +7,7 @@ source_id: "target-corporation-common-stock-rss-2844690dfd24"
 canonical_url: "https://tech.target.com/blog/page-layout-optimization-bandits"
 published_at: "2026-04-09T05:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:39.462984+00:00"
-fetched_at: "2026-07-28T20:17:38.762891+00:00"
+fetched_at: "2026-07-28T23:01:23.703388+00:00"
 content_hash: "sha256:e7440970bd1654670f6fc371da3ed63e692d5e5e7a4dec0345610c4b98bc0619"
 ---
 

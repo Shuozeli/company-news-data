@@ -7,7 +7,7 @@ source_id: "yc-nearwave-rss-9f4746cd284c"
 canonical_url: "https://nearwave.co/nearwave-receives-investment-from-cancer-fund-impact-investments/"
 published_at: "2023-07-21T17:29:00+00:00"
 first_seen_at: "2026-07-24T12:13:22.796027+00:00"
-fetched_at: "2026-07-28T20:52:45.210369+00:00"
+fetched_at: "2026-07-28T23:38:34.703310+00:00"
 content_hash: "sha256:e2861fe4a198ec88592c34cc0892c244fb9db02eb7bc66e2a20baf52d67b6955"
 ---
 

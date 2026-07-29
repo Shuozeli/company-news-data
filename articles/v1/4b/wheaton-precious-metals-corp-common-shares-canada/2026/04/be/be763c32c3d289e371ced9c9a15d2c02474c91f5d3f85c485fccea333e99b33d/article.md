@@ -7,7 +7,7 @@ source_id: "wheaton-precious-metals-corp-common-shares-canada-rss-0d8747f798bc"
 canonical_url: "https://www.wheatonpm.com/news/news-details/2026/Wheaton-Precious-Metals-Announces-Acquisition-of-a-Gold-and-Silver-Stream-on-the-Jervois-Project-Through-a-Partnership-with-KGL-Resources/default.aspx"
 published_at: "2026-04-01T23:08:00+00:00"
 first_seen_at: "2026-07-26T05:29:07.580544+00:00"
-fetched_at: "2026-07-28T21:51:55.166465+00:00"
+fetched_at: "2026-07-29T00:30:40.783813+00:00"
 content_hash: "sha256:ec46dbe81217fa0870feafda5ff6c147803338e86d738fd065e43827a29e049f"
 ---
 

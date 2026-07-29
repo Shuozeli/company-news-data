@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2021/digi-recognizes-distributor-and-partner-excellence"
 published_at: "2021-03-17T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:88a6d979321512852380809b3859dc6ca56d59818723bce8c1d4fa87354de3db"
 ---
 

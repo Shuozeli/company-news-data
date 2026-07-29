@@ -7,7 +7,7 @@ source_id: "yc-trestle-biotherapeutics-rss-04355419af2b"
 canonical_url: "https://trestlebio.com/news/trestle-biotherapeutics-licenses-innovations-from-harvard-university-to-develop-3d-biofabricated-tissues-to-treat-kidney-failure/"
 published_at: "2022-02-08T15:00:22+00:00"
 first_seen_at: "2026-07-20T23:21:07.447758+00:00"
-fetched_at: "2026-07-28T20:14:37.130322+00:00"
+fetched_at: "2026-07-28T22:57:18.317880+00:00"
 content_hash: "sha256:43b05261f548408e7c1be36da71058c6ebc9fda6fd8825d6c5d5d5f01816279d"
 ---
 

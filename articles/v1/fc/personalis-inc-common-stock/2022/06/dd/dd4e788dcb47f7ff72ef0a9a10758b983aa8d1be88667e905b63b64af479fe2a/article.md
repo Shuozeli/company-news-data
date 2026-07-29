@@ -7,7 +7,7 @@ source_id: "personalis-inc-common-stock-rss-edd5b8439e74"
 canonical_url: "https://www.personalis.com/how-variant-specific-shedding-may-be-key-for-ctdna-test-interpretation/"
 published_at: "2022-06-03T14:00:00+00:00"
 first_seen_at: "2026-07-20T23:22:21.339580+00:00"
-fetched_at: "2026-07-28T20:43:26.637523+00:00"
+fetched_at: "2026-07-28T23:27:08.590284+00:00"
 content_hash: "sha256:46148ce80bf57b630e4b3d756f9fdb352134f2a9df6499691ebce6218b57cbfb"
 ---
 

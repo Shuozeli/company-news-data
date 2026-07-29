@@ -7,7 +7,7 @@ source_id: "saiheat-limited-class-a-ordinary-shares-rss-e1564be3ad1c"
 canonical_url: "https://www.ir.saiheat.com/news-releases/news-release-details/2025nian-5yue-29ri"
 published_at: "2025-05-29T22:17:59+00:00"
 first_seen_at: "2026-07-25T22:05:08.015285+00:00"
-fetched_at: "2026-07-28T22:06:22.665146+00:00"
+fetched_at: "2026-07-29T00:44:24.494635+00:00"
 content_hash: "sha256:46ec70b224b3df402df65e319820501c08c65a58b23bc0ff7580ad2cbe2f8114"
 ---
 

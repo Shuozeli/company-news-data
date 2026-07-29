@@ -7,7 +7,7 @@ source_id: "tenet-healthcare-corporation-common-stock-rss-40cdf8ca7df2"
 canonical_url: "https://investor.tenethealth.com/press-releases/press-release-details/2026/Tenet-to-Report-its-First-Quarter-2026-Results-on-April-30th/default.aspx"
 published_at: "2026-03-31T13:00:00+00:00"
 first_seen_at: "2026-07-26T01:51:00.671470+00:00"
-fetched_at: "2026-07-28T20:48:14.725963+00:00"
+fetched_at: "2026-07-28T23:33:42.012857+00:00"
 content_hash: "sha256:20fa09d4c68146eb908d471e66e1df5dcd620d78423efefcebc9701ab322d369"
 ---
 

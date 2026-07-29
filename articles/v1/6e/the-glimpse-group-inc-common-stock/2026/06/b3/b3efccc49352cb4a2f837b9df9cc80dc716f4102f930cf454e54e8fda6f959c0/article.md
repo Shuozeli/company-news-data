@@ -7,7 +7,7 @@ source_id: "the-glimpse-group-inc-common-stock-rss-a8a553a6f685"
 canonical_url: "https://ir.theglimpsegroup.com/the-glimpse-group-announces-new-physical-ai-leadership-and-the-introduction-of-spatialcore/"
 published_at: "2026-06-03T12:33:15+00:00"
 first_seen_at: "2026-07-24T03:52:28.349530+00:00"
-fetched_at: "2026-07-28T21:09:20.142996+00:00"
+fetched_at: "2026-07-28T23:55:41.393142+00:00"
 content_hash: "sha256:661951ffe3ef88490375c84e37bf3a98897e3a2679d205062843e22e9957bc54"
 ---
 

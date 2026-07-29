@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 11
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5f/icon-plc-ordinary-shares/index/pages/000001.json",
+        "record_count": 27,
+        "byte_count": 40889,
+        "sha256": "sha256:6cbedc1bc3c72f889c75b46aaa909e55b5d109e2c7c75e236537b998001fe36d",
+        "newest_at": "2026-07-28T21:20:58.380206+00:00",
+        "oldest_at": "2025-12-09T00:00:00+00:00"
+      }
+    ]
+  }
 }

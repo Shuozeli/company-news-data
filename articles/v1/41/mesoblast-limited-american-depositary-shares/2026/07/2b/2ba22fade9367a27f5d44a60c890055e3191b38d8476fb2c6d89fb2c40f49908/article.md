@@ -7,7 +7,7 @@ source_id: "mesoblast-limited-american-depositary-shares-rss-cf5588c7c177"
 canonical_url: "https://investorsmedia.mesoblast.com/news-releases/news-release-details/ceasing-be-substantial-holder-38"
 published_at: "2026-07-24T07:00:01+00:00"
 first_seen_at: "2026-07-25T13:56:29.217578+00:00"
-fetched_at: "2026-07-28T20:47:32.334964+00:00"
+fetched_at: "2026-07-28T23:31:56.007532+00:00"
 content_hash: "sha256:a525f4c69bb8caadc298d3b54b9f28c2aad4757723d871590ae7ae54c429b56a"
 ---
 

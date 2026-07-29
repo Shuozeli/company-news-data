@@ -7,7 +7,7 @@ source_id: "upwork-inc-common-stock-news-import-155d8f296b86"
 canonical_url: "https://www.upwork.com/research/in-demand-skills-2026"
 published_at: "2026-02-04T00:00:00+00:00"
 first_seen_at: "2026-07-27T05:59:18.994659+00:00"
-fetched_at: "2026-07-27T20:10:04.463247+00:00"
+fetched_at: "2026-07-28T23:46:11.954468+00:00"
 content_hash: "sha256:5aefce08c878c7e10f629b81e8fd7cef762ad4fc790d2649849a03c62aebc3ba"
 ---
 

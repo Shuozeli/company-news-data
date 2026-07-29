@@ -7,7 +7,7 @@ source_id: "i-80-gold-corp-common-shares-rss-3d35b1983e0d"
 canonical_url: "https://www.i80gold.com/i-80-gold-announces-pricing-of-upsized-offering-of-us250-million-convertible-senior-notes/"
 published_at: "2026-03-19T10:24:06+00:00"
 first_seen_at: "2026-07-20T23:17:48.246523+00:00"
-fetched_at: "2026-07-28T21:35:59.755045+00:00"
+fetched_at: "2026-07-29T00:03:55.112586+00:00"
 content_hash: "sha256:d258f3721b770cacd976bb92abf7929a5f8a98b1b4c7c1a9d1403ca93bc8e013"
 ---
 

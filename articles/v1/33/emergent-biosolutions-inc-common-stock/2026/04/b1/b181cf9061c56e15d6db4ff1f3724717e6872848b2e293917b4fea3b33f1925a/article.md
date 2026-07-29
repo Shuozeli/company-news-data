@@ -7,7 +7,7 @@ source_id: "emergent-biosolutions-inc-common-stock-rss-a13a3e2df02d"
 canonical_url: "https://investors.emergentbiosolutions.com/news-releases/news-release-details/emergent-biosolutions-reports-first-quarter-2026-financial"
 published_at: "2026-04-30T20:30:00+00:00"
 first_seen_at: "2026-07-25T02:16:37.099543+00:00"
-fetched_at: "2026-07-28T21:06:58.454974+00:00"
+fetched_at: "2026-07-28T23:53:01.341013+00:00"
 content_hash: "sha256:72479eed5b7f71d2820bfc816ad13fb55f1d84fae9fe0e44539eba07b40b2f7c"
 ---
 

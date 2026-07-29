@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "page": 1,
+  "record_count": 4,
+  "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "8522e6ec2d6dcfec31bb44af741bb211762dd26aca217b30fffa2ed53a02dbcc",
+      "company_key": "yc-starsling",
+      "company_name": "StarSling",
+      "source_id": "yc-starsling-atom-ebb22850b8ad",
+      "source_kind": "atom",
+      "canonical_url": "https://starsling.dev/blog/beyond-cold-starts-benchmarking-sandboxes-for-real-workloads",
+      "title": "Beyond Cold-Starts: Benchmarking Sandboxes for Real Workloads",
+      "summary": "We benchmarked cloud sandbox providers (Blaxel, Daytona, E2B, Modal, Novita) on real CI workloads and open-sourced the results. Startup speed isn't the story.",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+      "article_path": "articles/v1/42/yc-starsling/2026/07/85/8522e6ec2d6dcfec31bb44af741bb211762dd26aca217b30fffa2ed53a02dbcc/article.md",
+      "record_path": "articles/v1/42/yc-starsling/2026/07/85/8522e6ec2d6dcfec31bb44af741bb211762dd26aca217b30fffa2ed53a02dbcc/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "6f9a0596a7d1784b5996b021cf97ba6a44f2b40621cc0fb1366d6a6db5a3296c",
+      "company_key": "yc-starsling",
+      "company_name": "StarSling",
+      "source_id": "yc-starsling-atom-ebb22850b8ad",
+      "source_kind": "atom",
+      "canonical_url": "https://starsling.dev/blog/introducing-ci-speedup-an-ai-coding-agent-skill-that-analyzes-and-fixes-your-slow-github-actions",
+      "title": "Introducing ci-speedup: an AI coding agent skill that analyzes and fixes your slow GitHub Actions",
+      "summary": "ci-speedup is a free, open-source agent skill that analyzes GitHub Actions runs, finds the blocking check, and gives your coding agent the evidence to fix it.",
+      "published_at": "2026-07-21T00:00:00+00:00",
+      "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+      "article_path": "articles/v1/42/yc-starsling/2026/07/6f/6f9a0596a7d1784b5996b021cf97ba6a44f2b40621cc0fb1366d6a6db5a3296c/article.md",
+      "record_path": "articles/v1/42/yc-starsling/2026/07/6f/6f9a0596a7d1784b5996b021cf97ba6a44f2b40621cc0fb1366d6a6db5a3296c/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "ae5cdacfb8e14f7ffcd1b7c9f66c3f81a6e6e295dc8b5b99fd9409af46840103",
+      "company_key": "yc-starsling",
+      "company_name": "StarSling",
+      "source_id": "yc-starsling-atom-ebb22850b8ad",
+      "source_kind": "atom",
+      "canonical_url": "https://starsling.dev/blog/starsling-runners-are-now-generally-available",
+      "title": "StarSling Runners are now generally available",
+      "summary": "StarSling Runners are generally available: self-driving CI for GitHub Actions. Install the GitHub App and swap to starsling-ubuntu-24.04. 2,000 free minutes.",
+      "published_at": "2026-06-29T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+      "article_path": "articles/v1/42/yc-starsling/2026/06/ae/ae5cdacfb8e14f7ffcd1b7c9f66c3f81a6e6e295dc8b5b99fd9409af46840103/article.md",
+      "record_path": "articles/v1/42/yc-starsling/2026/06/ae/ae5cdacfb8e14f7ffcd1b7c9f66c3f81a6e6e295dc8b5b99fd9409af46840103/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "771651f3388756080f67bb188566e958da168439639e8b488f721b189ef01358",
+      "company_key": "yc-starsling",
+      "company_name": "StarSling",
+      "source_id": "yc-starsling-atom-ebb22850b8ad",
+      "source_kind": "atom",
+      "canonical_url": "https://starsling.dev/blog/announcing-starsling-runners-self-driving-ci-that-optimizes-itself",
+      "title": "Announcing StarSling Runners: self-driving CI that optimizes itself",
+      "summary": "Fast GitHub Actions runners with AI agents that continuously ship optimization PRs. Customers like Better Auth and Mastra are seeing 82% faster CI.",
+      "published_at": "2026-04-30T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:45:24.644708+00:00",
+      "article_path": "articles/v1/42/yc-starsling/2026/04/77/771651f3388756080f67bb188566e958da168439639e8b488f721b189ef01358/article.md",
+      "record_path": "articles/v1/42/yc-starsling/2026/04/77/771651f3388756080f67bb188566e958da168439639e8b488f721b189ef01358/record.json"
+    }
+  ]
+}

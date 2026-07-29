@@ -7,7 +7,7 @@ source_id: "smartfinancial-inc-common-stock-rss-adbb4269f35c"
 canonical_url: "https://www.smartfinancialinc.com/news-market-information/press-releases/news-details/2026/SmartFinancial-Announces-Results-for-the-First-Quarter-2026/default.aspx"
 published_at: "2026-04-20T11:00:00+00:00"
 first_seen_at: "2026-07-25T23:24:32.337260+00:00"
-fetched_at: "2026-07-28T20:53:40.158472+00:00"
+fetched_at: "2026-07-28T23:39:10.971647+00:00"
 content_hash: "sha256:53d1b4843f125b429115787a3c0c0b706dca1765312699ee75b0c67163e5bd51"
 ---
 

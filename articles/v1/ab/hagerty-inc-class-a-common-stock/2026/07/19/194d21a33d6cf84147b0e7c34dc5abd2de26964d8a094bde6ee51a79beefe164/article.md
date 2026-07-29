@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/car-profiles/1968-volvo-123gt-safety-fast/"
 published_at: "2026-07-23T13:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:0a576c9e6454103c3d4eca65ef87b2df5110eb40e3429b26ece0c1a6c475742c"
 ---
 

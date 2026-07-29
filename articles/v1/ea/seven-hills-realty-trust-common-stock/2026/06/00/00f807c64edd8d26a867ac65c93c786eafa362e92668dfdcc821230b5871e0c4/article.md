@@ -7,7 +7,7 @@ source_id: "seven-hills-realty-trust-common-stock-rss-7751350469b0"
 canonical_url: "https://sevnreit.com/news/press-release-details/2026/Seven-Hills-Realty-Trust-Closes-Two-First-Mortgage-Loans-Totaling-52-3-Million-and-Receives-Office-Loan-Repayment/default.aspx"
 published_at: "2026-06-01T20:15:00+00:00"
 first_seen_at: "2026-07-25T22:45:04.033079+00:00"
-fetched_at: "2026-07-28T20:33:58.636592+00:00"
+fetched_at: "2026-07-28T23:18:40.842894+00:00"
 content_hash: "sha256:06fff40be22a56ed6e568026ab366d33aa15d7cf3dba258fb9d94bc70e311a0a"
 ---
 

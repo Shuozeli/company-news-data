@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c1c69c5e6ec542cd71d370f5a10e3993ae0680885488424089150c16564e606",
+  "company": {
+    "key": "yc-concourse",
+    "name": "Concourse"
+  },
+  "source": {
+    "id": "yc-concourse-news-import-c7979aaf4bde",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.concourse.ai/insights/meet-anvil-coding-agent",
+    "canonical": "https://www.concourse.co/insights/meet-anvil-coding-agent"
+  },
+  "title": "Meet Anvil: The Coding Agent That Lives Where We Work",
+  "summary": "How Concourse built Anvil, an autonomous engineering teammate that lives in Linear and Slack, runs on Claude Managed Agents, and carries work from request to a reviewable result.",
+  "published_at": "2026-07-28T13:00:00+00:00",
+  "first_seen_at": "2026-07-29T00:20:17.786941+00:00",
+  "fetched_at": "2026-07-29T00:20:18.962982+00:00",
+  "last_updated_at": "2026-07-29T00:20:19.068340+00:00",
+  "paths": {
+    "article": "articles/v1/87/yc-concourse/2026/07/7c/7c1c69c5e6ec542cd71d370f5a10e3993ae0680885488424089150c16564e606/article.md",
+    "record": "articles/v1/87/yc-concourse/2026/07/7c/7c1c69c5e6ec542cd71d370f5a10e3993ae0680885488424089150c16564e606/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12447,
+    "sha256": "sha256:734e74bdd9001ec6c94ab0031da7e29924483e28839b2083dd4ab135259c3fcb",
+    "normalized_content_hash": "sha256:1e1a202a02298876a1b81b13919bbd987542077b9aead1df85923dbfb0022f74"
+  },
+  "provenance": {
+    "source_item_id": "9471d0cf-bb9f-44dc-8616-1641ae00971a",
+    "external_id": "https://www.concourse.co/insights/meet-anvil-coding-agent"
+  }
+}

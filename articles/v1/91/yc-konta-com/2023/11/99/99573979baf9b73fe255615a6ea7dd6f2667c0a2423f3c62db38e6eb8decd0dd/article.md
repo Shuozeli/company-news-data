@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/reparto-de-utilidades-que-es-y-cuanto-dinero-se-recibe-con-este-beneficio"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:a3a227b14c0ece947c1064bb4874e2f19d4618456e019b75d505f19192137c6f"
 ---
 

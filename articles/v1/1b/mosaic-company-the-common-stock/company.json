@@ -12,5 +12,22 @@
       "partition": "2026-06",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1b/mosaic-company-the-common-stock/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4240,
+        "sha256": "sha256:a55afdab1b1c62c5ae7ebccf18dae812e6dc09bb926ad3ed04e27055515be471",
+        "newest_at": "2026-06-26T06:00:00+00:00",
+        "oldest_at": "2026-06-01T06:00:00+00:00"
+      }
+    ]
+  }
 }

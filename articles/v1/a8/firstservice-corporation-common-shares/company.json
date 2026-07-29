@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 15
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a8/firstservice-corporation-common-shares/index/pages/000001.json",
+        "record_count": 23,
+        "byte_count": 26192,
+        "sha256": "sha256:b07039926f720bd36630ae96c3a8aa7db801d15a014c29ee2d58ddde3c8f477e",
+        "newest_at": "2026-07-28T21:38:29.998390+00:00",
+        "oldest_at": "2024-03-28T13:38:41+00:00"
+      }
+    ]
+  }
 }

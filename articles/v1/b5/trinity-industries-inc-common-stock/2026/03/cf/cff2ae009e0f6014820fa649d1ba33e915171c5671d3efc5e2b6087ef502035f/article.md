@@ -7,7 +7,7 @@ source_id: "trinity-industries-inc-common-stock-rss-ac74fb617129"
 canonical_url: "https://www.trin.net/investor/press-releases/news-details/2026/Trinity-Industries-Inc--Declares-Quarterly-Dividend/default.aspx"
 published_at: "2026-03-05T11:55:00+00:00"
 first_seen_at: "2026-07-26T03:01:51.546113+00:00"
-fetched_at: "2026-07-28T21:31:34.089338+00:00"
+fetched_at: "2026-07-29T00:25:54.220965+00:00"
 content_hash: "sha256:72725161eaafbc08fc561502c71846e8c72e462632568e69c956e37d6d33796b"
 ---
 

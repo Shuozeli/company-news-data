@@ -316,5 +316,40 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/60/moderna-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52721,
+        "sha256": "sha256:d891a778e1920ec5dcb832ecae3861cc9163424894f3f72a582dbbb16e575160",
+        "newest_at": "2026-07-28T21:16:50.994015+00:00",
+        "oldest_at": "2020-10-08T22:40:41+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/60/moderna-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 56772,
+        "sha256": "sha256:bff22b3525da59d94d08f53b5c12ec3d75897988374e9344eea17afa4142d444",
+        "newest_at": "2020-07-24T22:35:10+00:00",
+        "oldest_at": "2016-01-11T18:46:51+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/60/moderna-inc-common-stock/index/pages/000003.json",
+        "record_count": 35,
+        "byte_count": 39008,
+        "sha256": "sha256:b6d9595c4293a0107e0a5add3fd1e1c9629e8dbccfaaba5295c454442aa09cdf",
+        "newest_at": "2016-01-04T18:43:08+00:00",
+        "oldest_at": "2012-12-06T18:25:04+00:00"
+      }
+    ]
+  }
 }

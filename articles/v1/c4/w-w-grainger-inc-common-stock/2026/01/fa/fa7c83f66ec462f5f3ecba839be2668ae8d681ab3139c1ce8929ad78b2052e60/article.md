@@ -7,7 +7,7 @@ source_id: "w-w-grainger-inc-common-stock-rss-c26f5457af09"
 canonical_url: "https://pressroom.grainger.com/news/press-release-details/2026/GRAINGER-DECLARES-QUARTERLY-DIVIDEND/default.aspx"
 published_at: "2026-01-28T18:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.900782+00:00"
-fetched_at: "2026-07-28T21:41:04.299331+00:00"
+fetched_at: "2026-07-29T00:24:15.617790+00:00"
 content_hash: "sha256:94a57c71ccb18d78a90d9cfa8405f21bd9b797f5a7610f1b88782432700ab9d9"
 ---
 

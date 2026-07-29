@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/versioned-ai-vendor-vetting"
 published_at: "2026-03-31T14:09:30+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:41d66bf4e539ad88ddd30e0efa9472527928175925aa6220f923bb8498257b14"
 ---
 

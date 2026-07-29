@@ -4,7 +4,7 @@
     "key": "oracle-corporation-common-stock",
     "name": "Oracle Corporation Common Stock"
   },
-  "record_count": 35,
+  "record_count": 36,
   "first_published_at": "2025-10-14T12:00:00+00:00",
   "last_published_at": "2026-06-10T20:05:00+00:00",
   "partitions": [
@@ -34,7 +34,24 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 25
+      "record_count": 26
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5f/oracle-corporation-common-stock/index/pages/000001.json",
+        "record_count": 36,
+        "byte_count": 42363,
+        "sha256": "sha256:91d5471666bbce062ad824ee11025bafde891cbdca20d94be058d9e3b223a597",
+        "newest_at": "2026-07-28T23:54:27.873599+00:00",
+        "oldest_at": "2025-10-14T12:00:00+00:00"
+      }
+    ]
+  }
 }

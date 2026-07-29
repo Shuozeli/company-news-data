@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2019/iot-drones-how-use-cases-for-drones-are-changing"
 published_at: "2019-10-24T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:01159732bc98d653d455b2bf75f6cd74877582780a93447ffb6075c879d73b2a"
 ---
 

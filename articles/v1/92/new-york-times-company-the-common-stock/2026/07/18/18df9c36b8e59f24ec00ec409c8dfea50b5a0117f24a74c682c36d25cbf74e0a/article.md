@@ -5,10 +5,10 @@ company_key: "new-york-times-company-the-common-stock"
 company: "New York Times Company (The) Common Stock"
 source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/nyregion/noncitizen-voting-new-jersey-sherrill.html"
-published_at: "2026-07-28T20:50:09+00:00"
+published_at: "2026-07-28T22:11:43+00:00"
 first_seen_at: "2026-07-28T21:10:05.886882+00:00"
-fetched_at: "2026-07-28T21:10:05.836012+00:00"
-content_hash: "sha256:64729210525a35692ea80d9656245f01dc01d1ae2f6a45f55cf301f276c37b76"
+fetched_at: "2026-07-28T23:55:50.378040+00:00"
+content_hash: "sha256:15f0f2f6c1b67dd591df941e5192a8f0ad6e09e4838f5aa8b2b30c4511260838"
 ---
 
 # Gov. Sherrill in the Hot Seat After U.S. Demand for Noncitizens’ Names

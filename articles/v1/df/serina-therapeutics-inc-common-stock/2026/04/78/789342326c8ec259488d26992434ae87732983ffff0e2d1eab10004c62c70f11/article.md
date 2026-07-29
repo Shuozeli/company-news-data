@@ -7,7 +7,7 @@ source_id: "serina-therapeutics-inc-common-stock-rss-c0031626a489"
 canonical_url: "https://investors.serinatx.com/news/news-details/2026/Aptar-Digital-HealthPartners-withEnable-InjectionsforenFuseCompanion-Digital-Solution/default.aspx"
 published_at: "2026-04-08T21:00:00+00:00"
 first_seen_at: "2026-07-26T07:40:53.422329+00:00"
-fetched_at: "2026-07-28T20:18:26.537655+00:00"
+fetched_at: "2026-07-28T23:01:36.100807+00:00"
 content_hash: "sha256:ebed48c6cc01e33db16274a07e901edcc65a412f868b3f7e92d5cc6f7b224eae"
 ---
 

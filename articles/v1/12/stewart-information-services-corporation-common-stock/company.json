@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 11
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/12/stewart-information-services-corporation-common-stock/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 35275,
+        "sha256": "sha256:8e21a8536fe4d7805e0128c5c0c7dd7bd5e992dfba74b99ca9c880cf48e9f9f1",
+        "newest_at": "2026-07-22T20:20:00+00:00",
+        "oldest_at": "2025-11-19T19:51:40+00:00"
+      }
+    ]
+  }
 }

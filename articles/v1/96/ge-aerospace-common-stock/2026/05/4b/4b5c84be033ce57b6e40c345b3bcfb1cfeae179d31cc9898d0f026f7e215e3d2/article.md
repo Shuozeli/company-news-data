@@ -7,7 +7,7 @@ source_id: "ge-aerospace-common-stock-rss-a1dd69a4054d"
 canonical_url: "https://www.geaerospace.com/investor-relations/events-reports/2026-defense-propulsion-technologies-showcase"
 published_at: "2026-05-15T20:05:00+00:00"
 first_seen_at: "2026-07-20T23:24:51.828822+00:00"
-fetched_at: "2026-07-28T21:03:18.535161+00:00"
+fetched_at: "2026-07-28T23:50:06.638047+00:00"
 content_hash: "sha256:bf886b397d2634817ea2694fbe1594a0db98a1eb364009dff0ef76b1e11b508c"
 ---
 

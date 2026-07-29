@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2025/digi-acquires-jolt-to-accelerate-arr-growth"
 published_at: "2025-08-18T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:c22a6ad5db36d4b0411e59f8d0f7e4fe3dfabeb0ec1de78b91117674787b5dcc"
 ---
 

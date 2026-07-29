@@ -7,7 +7,7 @@ source_id: "w-w-grainger-inc-common-stock-rss-c26f5457af09"
 canonical_url: "https://pressroom.grainger.com/news/press-release-details/2026/GRAINGER-AND-THE-AMERICAN-RED-CROSS-CELEBRATE-25-YEARS-OF-PARTNERSHIP-AND-STRENGTHENING-COMMUNITIES/default.aspx"
 published_at: "2026-06-24T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:53.900782+00:00"
-fetched_at: "2026-07-28T21:41:04.299331+00:00"
+fetched_at: "2026-07-29T00:24:15.617790+00:00"
 content_hash: "sha256:64e9b0fa54f418b7cdf8b563eebebb786db507b788043ce62be5fff8409d3530"
 ---
 

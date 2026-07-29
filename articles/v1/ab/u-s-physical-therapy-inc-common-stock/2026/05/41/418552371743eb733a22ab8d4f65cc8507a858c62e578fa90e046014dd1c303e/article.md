@@ -7,7 +7,7 @@ source_id: "u-s-physical-therapy-inc-common-stock-rss-db551245593a"
 canonical_url: "https://www.usph.com/usph-reports-record-first-quarter-revenue-reaffirms-full-year-guidance/"
 published_at: "2026-05-06T20:18:11+00:00"
 first_seen_at: "2026-07-20T23:18:30.635474+00:00"
-fetched_at: "2026-07-28T21:41:22.804980+00:00"
+fetched_at: "2026-07-29T00:30:08.585642+00:00"
 content_hash: "sha256:2c014b1b6b51fe4219a5830c76d110f7e89faa92d8fef20235132337381ce070"
 ---
 

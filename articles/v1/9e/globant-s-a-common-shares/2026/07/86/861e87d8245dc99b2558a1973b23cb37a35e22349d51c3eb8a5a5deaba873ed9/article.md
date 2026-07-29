@@ -7,7 +7,7 @@ source_id: "globant-s-a-common-shares-rss-bbac095d6884"
 canonical_url: "https://investors.globant.com/2026-07-08-Globant-and-Vercel-Forge-Strategic-Alliance-to-Take-Enterprises-from-Agentic-AI-to-Full-Production-with-AI-Pods"
 published_at: "2026-07-08T12:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:47.727843+00:00"
-fetched_at: "2026-07-28T20:45:44.366178+00:00"
+fetched_at: "2026-07-28T23:27:23.002786+00:00"
 content_hash: "sha256:163cbcb2564983dc9b549ec9518e924ba924dbc6fdc489adb1cdfc84ad7662a8"
 ---
 

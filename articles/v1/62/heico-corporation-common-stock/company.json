@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/62/heico-corporation-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13823,
+        "sha256": "sha256:e8fb833c8e0f3b4474c29bdb739216346fb9b99482d04d2fb7e06b1f1411d4e8",
+        "newest_at": "2026-07-16T17:07:06+00:00",
+        "oldest_at": "2026-04-07T12:13:53+00:00"
+      }
+    ]
+  }
 }

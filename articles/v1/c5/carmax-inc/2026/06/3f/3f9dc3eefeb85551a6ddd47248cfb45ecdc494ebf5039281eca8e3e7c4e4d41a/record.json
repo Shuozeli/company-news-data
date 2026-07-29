@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f9dc3eefeb85551a6ddd47248cfb45ecdc494ebf5039281eca8e3e7c4e4d41a",
+  "company": {
+    "key": "carmax-inc",
+    "name": "CarMax Inc"
+  },
+  "source": {
+    "id": "carmax-inc-rss-996d2d8bd2cc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Reports-First-Quarter-Fiscal-2027-Results/default.aspx",
+    "canonical": "https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Reports-First-Quarter-Fiscal-2027-Results/default.aspx"
+  },
+  "title": "CarMax Reports First Quarter Fiscal 2027 Results",
+  "summary": "",
+  "published_at": "2026-06-17T09:50:00+00:00",
+  "first_seen_at": "2026-07-25T01:21:14.627952+00:00",
+  "fetched_at": "2026-07-28T23:04:20.961315+00:00",
+  "last_updated_at": "2026-07-28T23:04:20.999397+00:00",
+  "paths": {
+    "article": "articles/v1/c5/carmax-inc/2026/06/3f/3f9dc3eefeb85551a6ddd47248cfb45ecdc494ebf5039281eca8e3e7c4e4d41a/article.md",
+    "record": "articles/v1/c5/carmax-inc/2026/06/3f/3f9dc3eefeb85551a6ddd47248cfb45ecdc494ebf5039281eca8e3e7c4e4d41a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 629,
+    "sha256": "sha256:e528da36bf94da5a3bda405103c11f91e89cc6e3d0a3ffa50421d9a57c5cfdfd",
+    "normalized_content_hash": "sha256:ed8001232e6ad3313d8e912af5275ae6a44cd4372f42ca774ef44cfcd1d30c04"
+  },
+  "provenance": {
+    "source_item_id": "773a9e28-77ad-4ad6-9a94-0b1e499c7e1f",
+    "external_id": "f6959ae5-44f5-418b-820f-9b1a4d2d2562"
+  }
+}

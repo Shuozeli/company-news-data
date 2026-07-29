@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/dd/shimmick-corporation-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 16389,
+        "sha256": "sha256:afa853d7325bb2102c91a31fcafae2ba13d86c5661adbd7538a306ae49f892a1",
+        "newest_at": "2026-07-28T13:15:28+00:00",
+        "oldest_at": "2025-11-13T21:05:57+00:00"
+      }
+    ]
+  }
 }

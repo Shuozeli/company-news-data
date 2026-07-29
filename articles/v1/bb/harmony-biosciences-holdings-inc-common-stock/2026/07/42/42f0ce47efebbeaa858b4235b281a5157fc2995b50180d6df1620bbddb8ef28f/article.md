@@ -7,7 +7,7 @@ source_id: "harmony-biosciences-holdings-inc-common-stock-rss-ec59729ed92f"
 canonical_url: "https://www.harmonybiosciences.com/harmony-biosciences-preannounces-record-quarterly-revenue-for-q2-2026-reaffirms-full-year-2026-revenue-guidance-and-announces-cfo-transition/"
 published_at: "2026-07-16T08:30:00+00:00"
 first_seen_at: "2026-07-25T07:36:23.779670+00:00"
-fetched_at: "2026-07-28T20:21:18.357464+00:00"
+fetched_at: "2026-07-28T23:04:32.308046+00:00"
 content_hash: "sha256:6881df49d445cb7649956f2a4ef0c304adb88dd453e0aa88114b3a57b0aa3283"
 ---
 

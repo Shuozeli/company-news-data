@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2020/eaton-placement-agent-gls.pdf"
 published_at: "2020-01-27T19:46:19+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:665cd976e0d24d9023c25a067fd53622f3b66b885b6c0b9c755a5934f56a2ac5"
 ---
 

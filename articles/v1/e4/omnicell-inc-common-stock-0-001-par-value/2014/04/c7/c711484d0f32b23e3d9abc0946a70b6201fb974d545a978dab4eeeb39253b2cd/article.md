@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2014/Omnicell-Appoints-Bruce-Smith-to-Board-of-Directors/default.aspx"
 published_at: "2014-04-16T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T20:19:36.099870+00:00"
+fetched_at: "2026-07-28T23:03:29.570108+00:00"
 content_hash: "sha256:be2f1f765783b32d7efda6ba8ef0e70daab9ef218f41a119be0db7dab177d7c6"
 ---
 

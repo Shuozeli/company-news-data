@@ -7,7 +7,7 @@ source_id: "pyxis-tankers-inc-common-stock-atom-7822dd0d168e"
 canonical_url: "https://www.pyxistankers.com/investor-relations/events/sidoti-company-emerging-growth-conference"
 published_at: "2016-03-31T15:46:50+00:00"
 first_seen_at: "2026-07-25T20:11:22.683173+00:00"
-fetched_at: "2026-07-28T21:00:09.761193+00:00"
+fetched_at: "2026-07-28T23:46:44.775223+00:00"
 content_hash: "sha256:794a650776b583b111bc9c4f7d53e48211bd00fac77dd9eb8b62dbd2e9978b00"
 ---
 

@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-d1044ff9c1aa"
 canonical_url: "https://www.photoroom.com/blog/how-to-remove-a-person-from-a-photo-on-an-iphone"
-published_at: "2023-08-28T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:08.835718+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:ee773556d1652e16c678f70542dbadb67c735a959a0d4a5aa220d21ff6a78e84"

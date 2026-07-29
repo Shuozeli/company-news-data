@@ -7,7 +7,7 @@ source_id: "broadwind-inc-common-stock-rss-eded55d2a731"
 canonical_url: "https://investors.bwen.com/investor-news/investor-news-details/2026/Broadwind-Announces-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-12T11:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:56.675955+00:00"
-fetched_at: "2026-07-28T19:49:09.436573+00:00"
+fetched_at: "2026-07-28T23:31:51.745295+00:00"
 content_hash: "sha256:ce20a153a0c2a604afd6c2d6db444c0b6a326b9f44e274b70966598b94ac1217"
 ---
 

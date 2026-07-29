@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0d/solowin-holdings-class-a-ordinary-share/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2931,
+        "sha256": "sha256:be648258fccd08163aac9eab9bd1e70a4395b581e496257a15e4ff1d5443e286",
+        "newest_at": "2026-07-23T02:15:00+00:00",
+        "oldest_at": "2026-07-06T11:30:00+00:00"
+      }
+    ]
+  }
 }

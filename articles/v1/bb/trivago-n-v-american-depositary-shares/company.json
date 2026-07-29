@@ -404,5 +404,49 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bb/trivago-n-v-american-depositary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 60661,
+        "sha256": "sha256:d79ca64dd810474f056905886ea90275b1dc93ae43eae4c5306aee396669e610",
+        "newest_at": "2026-07-24T13:30:00+00:00",
+        "oldest_at": "2022-08-15T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/bb/trivago-n-v-american-depositary-shares/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 59191,
+        "sha256": "sha256:a3a663b4846fe3d77638c8ff8a37af659ebb2e522174c9b2efeb0b82e4d994f1",
+        "newest_at": "2022-08-01T00:00:00+00:00",
+        "oldest_at": "2019-08-21T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/bb/trivago-n-v-american-depositary-shares/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 58022,
+        "sha256": "sha256:2094759b6645eaa6987bc239de66309238bdb8d2ad1d7aafd5ad7ba4d3c6ed85",
+        "newest_at": "2019-08-08T00:00:00+00:00",
+        "oldest_at": "2016-08-02T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/bb/trivago-n-v-american-depositary-shares/index/pages/000004.json",
+        "record_count": 18,
+        "byte_count": 21373,
+        "sha256": "sha256:3287a799a637262d91e3431ec3471066f69cc659558c724b4774feb528cba6cb",
+        "newest_at": "2016-06-16T00:00:00+00:00",
+        "oldest_at": "2015-04-14T00:00:00+00:00"
+      }
+    ]
+  }
 }

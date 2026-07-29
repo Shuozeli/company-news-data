@@ -7,7 +7,7 @@ source_id: "yc-bulk-mro-industrial-supply-rss-f7d25cf2a5b1"
 canonical_url: "https://bulkmro.com/lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry/"
 published_at: "2023-06-15T10:28:54+00:00"
 first_seen_at: "2026-07-24T22:17:58.140075+00:00"
-fetched_at: "2026-07-28T20:28:23.090097+00:00"
+fetched_at: "2026-07-28T23:14:38.963458+00:00"
 content_hash: "sha256:c88261628c8de873971345f4e8327f79c843fdd80c433f5c1150dba65be260d4"
 ---
 

@@ -7,7 +7,7 @@ source_id: "turn-therapeutics-inc-common-stock-rss-f930a583ac29"
 canonical_url: "https://turntherapeutics.com/recording-of-public-shareholder-session-october-22-2025/"
 published_at: "2025-10-22T20:06:21+00:00"
 first_seen_at: "2026-07-24T04:57:19.424217+00:00"
-fetched_at: "2026-07-28T21:09:49.405224+00:00"
+fetched_at: "2026-07-28T23:56:08.026097+00:00"
 content_hash: "sha256:7b820cab67e17c9e79d37fcbafc8f9c3a16493807c4529efa98becac9123eec5"
 ---
 

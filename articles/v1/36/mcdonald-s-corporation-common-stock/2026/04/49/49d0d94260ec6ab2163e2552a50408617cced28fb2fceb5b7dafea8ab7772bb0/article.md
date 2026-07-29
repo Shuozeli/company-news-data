@@ -7,7 +7,7 @@ source_id: "mcdonald-s-corporation-common-stock-rss-e3f7e88d5cc9"
 canonical_url: "https://medium.com/mcdonalds-technical-blog/what-happened-when-we-treated-ai-like-an-engineering-teammate-4745e9a54a59"
 published_at: "2026-04-28T13:23:51+00:00"
 first_seen_at: "2026-07-22T17:27:13.648832+00:00"
-fetched_at: "2026-07-28T21:07:46.576617+00:00"
+fetched_at: "2026-07-28T23:53:24.017559+00:00"
 content_hash: "sha256:d53e98fa831991335cb4d3b198f656ff8fb5293a4d4d97c18f3479c278d275ec"
 ---
 

@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-congratulates-merger-partner-palm-global-technologies-and-subsidiary-palm-promax-investments-on-landmark-burkina-faso-stablecoin-agreement-and-multi-trillion-dollar-gold-and-mineralbacked/"
 published_at: "2025-10-24T20:09:52+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:d3ae9eb26aaa590f802272dd012b9390da4a6444e007aa51cb676d31fe89aff3"
 ---
 

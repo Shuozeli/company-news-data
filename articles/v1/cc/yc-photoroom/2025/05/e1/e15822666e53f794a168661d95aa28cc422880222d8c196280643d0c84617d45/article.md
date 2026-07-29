@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-f545fb403576"
 canonical_url: "https://www.photoroom.com/inside-photoroom/generatebanners-acquisition-and-visual-ads-automation-launch"
-published_at: "2025-05-22T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:21.557706+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:fac3208e2a92344d35230f38c26c2b727b192dfd8f0e89e6b38adee4ae19c1af"

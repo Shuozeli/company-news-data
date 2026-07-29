@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2024/digi-to-release-q1fy24-results"
 published_at: "2024-01-19T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:91c50e45b0979b4c0856daefecd7a2f11da98c85a06132798611ae67c85dbcb2"
 ---
 

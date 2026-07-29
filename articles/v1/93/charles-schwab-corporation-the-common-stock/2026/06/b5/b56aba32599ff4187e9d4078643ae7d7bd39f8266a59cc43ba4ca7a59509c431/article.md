@@ -7,7 +7,7 @@ source_id: "charles-schwab-corporation-the-common-stock-rss-2a4eae788bb7"
 canonical_url: "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Reports-Monthly-Activity-Highlights-bd2541dce/default.aspx"
 published_at: "2026-06-12T12:45:00+00:00"
 first_seen_at: "2026-07-25T01:17:37.258476+00:00"
-fetched_at: "2026-07-28T20:13:36.217440+00:00"
+fetched_at: "2026-07-28T22:55:17.996619+00:00"
 content_hash: "sha256:cdd55313b6c017689750fa5c99323cb2f4a5f69e02e5ac3f2c1766f7a9113628"
 ---
 

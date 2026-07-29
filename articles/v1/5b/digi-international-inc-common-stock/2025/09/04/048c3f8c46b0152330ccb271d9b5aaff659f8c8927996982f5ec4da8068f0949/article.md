@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2025/digi-and-silicon-labs-to-deliver-wi-sun-solution"
 published_at: "2025-09-09T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:dd69331543f4caa6362838a5b76a7148a897b5f7a5d195ebf11f6269abb25fc1"
 ---
 

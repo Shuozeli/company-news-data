@@ -7,7 +7,7 @@ source_id: "rezolve-ai-plc-ordinary-shares-rss-2934f2aefc9d"
 canonical_url: "https://rezolve.com/reports/mental-model-aware-retail-robots-neuro-symbolic-explainable-assistance-for-trustworthy-human-robot-commerce/"
 published_at: "2026-07-07T10:38:13+00:00"
 first_seen_at: "2026-07-20T23:18:09.520587+00:00"
-fetched_at: "2026-07-28T21:38:40.672804+00:00"
+fetched_at: "2026-07-29T00:08:23.973751+00:00"
 content_hash: "sha256:5aee429da7d7f690d0829d93670646b2dd3daa2a6833ecc03b772c473e7eac82"
 ---
 

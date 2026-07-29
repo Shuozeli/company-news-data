@@ -7,7 +7,7 @@ source_id: "smartfinancial-inc-common-stock-rss-adbb4269f35c"
 canonical_url: "https://www.smartfinancialinc.com/news-market-information/press-releases/news-details/2026/SmartFinancial-Sets-Dates-for-Second-Quarter-Earnings-Release-and-Conference-Call/default.aspx"
 published_at: "2026-07-06T21:00:00+00:00"
 first_seen_at: "2026-07-25T23:24:32.337260+00:00"
-fetched_at: "2026-07-28T20:53:40.158472+00:00"
+fetched_at: "2026-07-28T23:39:10.971647+00:00"
 content_hash: "sha256:5d3abb9201ac098ac76c3a9f41a2beaff772144909251fbbf5c12c32df26fe7a"
 ---
 

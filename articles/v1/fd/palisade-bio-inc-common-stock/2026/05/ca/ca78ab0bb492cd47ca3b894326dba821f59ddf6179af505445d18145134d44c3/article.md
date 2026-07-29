@@ -7,7 +7,7 @@ source_id: "palisade-bio-inc-common-stock-rss-dc15a313ba00"
 canonical_url: "https://palisadebio.com/palisade-bio-reports-additional-phase-1a-b-data-demonstrating-colon-targeted-exposure-and-sustained-ic90-coverage-supporting-once-daily-dosing-in-ulcerative-colitis/"
 published_at: "2026-05-05T12:30:23+00:00"
 first_seen_at: "2026-07-20T23:19:44.339993+00:00"
-fetched_at: "2026-07-28T22:00:58.184447+00:00"
+fetched_at: "2026-07-29T00:39:43.955472+00:00"
 content_hash: "sha256:131b0c7b3736f05c559654c174d8d1213575dc5e73751778c43fa8fdcfcdb376"
 ---
 

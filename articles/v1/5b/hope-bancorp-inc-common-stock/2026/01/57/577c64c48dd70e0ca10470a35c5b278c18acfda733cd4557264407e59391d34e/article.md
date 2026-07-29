@@ -7,7 +7,7 @@ source_id: "hope-bancorp-inc-common-stock-rss-7636dafaf87f"
 canonical_url: "https://www.ir-hopebancorp.com/news/news-details/2026/Hope-Bancorp-Announces-Retirement-of-Director-Scott-Whang/default.aspx"
 published_at: "2026-01-16T21:10:00+00:00"
 first_seen_at: "2026-07-25T08:23:06.343253+00:00"
-fetched_at: "2026-07-28T20:03:28.055296+00:00"
+fetched_at: "2026-07-28T23:52:15.363779+00:00"
 content_hash: "sha256:77c429d589cb9f1464b97a055744529e04de16e7be51a447e794169bc38d387b"
 ---
 

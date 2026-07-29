@@ -7,7 +7,7 @@ source_id: "boeing-company-the-common-stock-rss-76526cfc8662"
 canonical_url: "http://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Reports-Second-Quarter-Results/default.aspx"
 published_at: "2026-07-28T11:30:00+00:00"
 first_seen_at: "2026-07-28T13:18:01.125303+00:00"
-fetched_at: "2026-07-28T20:43:51.874638+00:00"
+fetched_at: "2026-07-28T23:26:48.703887+00:00"
 content_hash: "sha256:09e892ac35aab1825b832345f541f7ec667c0bf25e59f2857fc95701433b78cc"
 ---
 

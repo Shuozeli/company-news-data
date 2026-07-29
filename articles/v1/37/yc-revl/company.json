@@ -20,5 +20,22 @@
       "partition": "2020-08",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/37/yc-revl/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5207,
+        "sha256": "sha256:61d0b55ecd5dc2e565a962bdcfe563061222296f891ad9582d017609d8dcd41c",
+        "newest_at": "2020-08-28T17:51:00+00:00",
+        "oldest_at": "2019-10-11T20:13:23+00:00"
+      }
+    ]
+  }
 }

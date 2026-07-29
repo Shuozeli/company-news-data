@@ -7,7 +7,7 @@ source_id: "ameriserv-financial-inc-common-stock-rss-46356192209a"
 canonical_url: "https://investors.ameriserv.com/news-1/news/news-details/2025/AmeriServ-Financial-Announces-Signing-of-New-Advisory-Agreement-with-Significant-Shareholder-SB-Value-Partners-L-P-/default.aspx"
 published_at: "2025-04-16T13:00:00+00:00"
 first_seen_at: "2026-07-26T22:27:02.958563+00:00"
-fetched_at: "2026-07-28T21:16:04.382048+00:00"
+fetched_at: "2026-07-29T00:02:18.632139+00:00"
 content_hash: "sha256:87c4e5f447e60c68d2d7159b7185a4cf001a42ea059e964966a621651d3e7507"
 ---
 

@@ -7,7 +7,7 @@ source_id: "northeast-bank-common-stock-rss-e8f379f5b30d"
 canonical_url: "https://www.northeastbank.com/learning-center/bolb-enroll"
 published_at: "2026-06-16T07:56:02+00:00"
 first_seen_at: "2026-07-24T12:17:52.916781+00:00"
-fetched_at: "2026-07-28T20:56:24.606172+00:00"
+fetched_at: "2026-07-28T23:42:14.904956+00:00"
 content_hash: "sha256:d92eb02ee9a39fa114cfcf758c0b8efab3615183324bdf328f86c4a611e244ff"
 ---
 

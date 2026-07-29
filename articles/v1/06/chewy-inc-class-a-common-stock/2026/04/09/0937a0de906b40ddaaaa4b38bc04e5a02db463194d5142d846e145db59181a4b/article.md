@@ -7,7 +7,7 @@ source_id: "chewy-inc-class-a-common-stock-rss-a2d1c38e05ec"
 canonical_url: "https://investor.chewy.com/news-and-events/news/news-details/2026/Chewy-to-Acquire-Modern-Animal-Accelerating-Evolution-to-a-Fully-Integrated-Healthcare-Ecosystem/default.aspx"
 published_at: "2026-04-08T13:00:00+00:00"
 first_seen_at: "2026-07-25T01:35:11.824086+00:00"
-fetched_at: "2026-07-28T20:24:29.401202+00:00"
+fetched_at: "2026-07-28T23:09:07.041546+00:00"
 content_hash: "sha256:29a0ec5181b087d9d3b9641b99726acfb70ddd83735a0feb0b26e65e79ded93f"
 ---
 

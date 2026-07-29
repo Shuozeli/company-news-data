@@ -7,7 +7,7 @@ source_id: "yc-mozart-data-rss-80d5f072b9ee"
 canonical_url: "https://mozartdata.com/introducing-mozart-ai/"
 published_at: "2024-07-30T18:32:23+00:00"
 first_seen_at: "2026-07-24T11:43:21.667443+00:00"
-fetched_at: "2026-07-28T20:15:01.691737+00:00"
+fetched_at: "2026-07-28T22:58:23.502461+00:00"
 content_hash: "sha256:cc424c283da9bfce7c91d16d9501d87d59dbc51db48df22e24a9fce8730bbc0d"
 ---
 

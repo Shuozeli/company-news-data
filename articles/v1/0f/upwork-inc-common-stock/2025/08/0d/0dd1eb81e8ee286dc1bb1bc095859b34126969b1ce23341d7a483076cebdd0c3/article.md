@@ -7,7 +7,7 @@ source_id: "upwork-inc-common-stock-news-import-33214d77f6f6"
 canonical_url: "https://www.upwork.com/press/releases/upwork-appoints-chief-operating-officer-elevates-technology-and-legal-leaders"
 published_at: "2025-08-12T00:00:00+00:00"
 first_seen_at: "2026-07-27T05:59:16.986644+00:00"
-fetched_at: "2026-07-27T20:09:55.164743+00:00"
+fetched_at: "2026-07-28T23:46:04.211571+00:00"
 content_hash: "sha256:0fe29bfea80d3c985d2eb5479390094ffb6f8814c5b4a7688ec08bb6640a3679"
 ---
 

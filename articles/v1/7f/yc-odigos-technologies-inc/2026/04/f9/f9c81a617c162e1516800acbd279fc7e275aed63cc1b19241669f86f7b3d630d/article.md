@@ -7,7 +7,7 @@ source_id: "yc-odigos-technologies-inc-rss-eb41174e661a"
 canonical_url: "https://odigos.io/blog/your-incident-doesnt-fit-in-1m-tokens"
 published_at: "2026-04-09T00:00:00+00:00"
 first_seen_at: "2026-07-25T17:02:44.020335+00:00"
-fetched_at: "2026-07-28T19:57:42.767612+00:00"
+fetched_at: "2026-07-28T23:46:13.985043+00:00"
 content_hash: "sha256:169a131bd2dc10c246113bab0b3034c12f92a32b6d21c81a0a509ee92921f85d"
 ---
 

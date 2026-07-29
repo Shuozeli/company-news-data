@@ -7,7 +7,7 @@ source_id: "passage-bio-inc-common-stock-rss-3a8ea804251b"
 canonical_url: "https://www.passagebio.com/investors-and-news/press-releases-and-statements/news-details/2026/Passage-Bio-Reports-Updated-Interim-Data-from-upliFT-D-Trial-and-Provides-Regulatory-and-Corporate-Updates/default.aspx"
 published_at: "2026-04-20T11:00:00+00:00"
 first_seen_at: "2026-07-25T18:30:27.722002+00:00"
-fetched_at: "2026-07-28T20:04:19.195138+00:00"
+fetched_at: "2026-07-28T23:53:10.595713+00:00"
 content_hash: "sha256:c15a87dc7177ef6b963177621d83ac98f90cb7918bfdf94f4e73f428bbe4e010"
 ---
 

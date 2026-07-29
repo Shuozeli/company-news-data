@@ -7,7 +7,7 @@ source_id: "lgl-group-inc-the-common-stock-rss-c524641dcee2"
 canonical_url: "https://www.lglgroup.com/node/72"
 published_at: "2017-11-14T15:29:08+00:00"
 first_seen_at: "2026-07-20T23:24:48.088686+00:00"
-fetched_at: "2026-07-28T20:47:15.248370+00:00"
+fetched_at: "2026-07-28T23:32:34.361173+00:00"
 content_hash: "sha256:5759f4a0ca788c19cbb31d241a460af8ae4992ebe05222123ff0b6f1096a4821"
 ---
 

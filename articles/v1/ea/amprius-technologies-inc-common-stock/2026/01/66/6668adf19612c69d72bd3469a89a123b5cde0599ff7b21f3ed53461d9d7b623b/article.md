@@ -7,7 +7,7 @@ source_id: "amprius-technologies-inc-common-stock-rss-6d75b42c7ecf"
 canonical_url: "https://www.youtube.com/live/Dl2v0Ev9lg4"
 published_at: "2026-01-16T02:00:08+00:00"
 first_seen_at: "2026-07-20T03:32:10.553872+00:00"
-fetched_at: "2026-07-28T20:20:11.209032+00:00"
+fetched_at: "2026-07-28T23:03:51.231247+00:00"
 content_hash: "sha256:4201837327628a420f72536943d37c872c028128252e05fce042f1ae0257ab36"
 ---
 

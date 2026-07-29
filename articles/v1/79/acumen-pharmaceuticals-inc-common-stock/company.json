@@ -16,5 +16,22 @@
       "partition": "2021-04",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/79/acumen-pharmaceuticals-inc-common-stock/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 7577,
+        "sha256": "sha256:361768d71eb673f82c0f38ab0097e21aaadac29fd1c1da9d11ba4db200077e69",
+        "newest_at": "2021-04-26T21:53:11+00:00",
+        "oldest_at": "2012-12-31T21:50:07+00:00"
+      }
+    ]
+  }
 }

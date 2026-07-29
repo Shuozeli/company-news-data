@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2019/digi-cc8x-dev-kits"
 published_at: "2019-06-04T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:54b4f9caba05eb1aacb633b26073b2cfa6ceafe33b241dd178083e4e28292f73"
 ---
 

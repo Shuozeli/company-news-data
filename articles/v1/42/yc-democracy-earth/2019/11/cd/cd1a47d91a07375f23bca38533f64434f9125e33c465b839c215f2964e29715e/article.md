@@ -7,7 +7,7 @@ source_id: "yc-democracy-earth-rss-cda4ae0def8b"
 canonical_url: "https://medium.com/hacktivism/referendum-for-the-chief-executive-in-hong-kong-with-civic-data-hong-kong-and-pop-vote-2017-bddcf82a38da"
 published_at: "2019-11-25T10:39:28+00:00"
 first_seen_at: "2026-07-27T01:43:49.601606+00:00"
-fetched_at: "2026-07-28T20:52:03.435789+00:00"
+fetched_at: "2026-07-28T23:37:36.533758+00:00"
 content_hash: "sha256:e99e96a9385b7ccac2b721add004a3bdcf2b89eaf1a61fd51d71f208cdb89587"
 ---
 

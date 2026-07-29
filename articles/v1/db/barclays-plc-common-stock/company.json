@@ -64,5 +64,22 @@
       "partition": "2026-07",
       "record_count": 17
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/db/barclays-plc-common-stock/index/pages/000001.json",
+        "record_count": 42,
+        "byte_count": 47403,
+        "sha256": "sha256:0a6094d2f59980bd1dc3ce07948b0e0371f220acfa34670b6e5e99bed97ea4ad",
+        "newest_at": "2026-07-28T21:39:52.838477+00:00",
+        "oldest_at": "2024-10-14T00:00:00+00:00"
+      }
+    ]
+  }
 }

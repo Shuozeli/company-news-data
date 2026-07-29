@@ -7,7 +7,7 @@ source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/avast/"
 published_at: "2026-07-22T02:14:58+00:00"
 first_seen_at: "2026-07-25T16:20:56.315803+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
 content_hash: "sha256:6e27c3cd915543cc2eb194f0bd4f5dbddf219ad81e5e7253cfdf0c5f6eb3b42f"
 ---
 

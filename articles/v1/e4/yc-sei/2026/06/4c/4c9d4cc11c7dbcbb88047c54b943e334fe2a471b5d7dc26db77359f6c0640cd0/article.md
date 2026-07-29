@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/sei-vs-paradatec-mortgage-document-processing"
 published_at: "2026-06-04T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:7004605204ad2ea02e0670205a1dedbf55aecdff667d2397fcd8d1e80dd725d1"
 ---
 

@@ -7,7 +7,7 @@ source_id: "alexandria-real-estate-equities-inc-common-stock-rss-b189b636a044"
 canonical_url: "https://investor.are.com/news-events-and-webcasts/news/news-details/2026/Joel-S--Marcus-Executive-Chairman-and-Founder-of-Alexandria-Real-Estate-Equities-Inc--Honored-with-the-Prestigious-Richard-J--Bolte-Sr--Award-from-the-Science-History-Institute-Museum--Library-in-Recognition-of-His-Consequential-Long-Term-Impact-on-t/default.aspx"
 published_at: "2026-05-06T12:30:00+00:00"
 first_seen_at: "2026-07-25T01:23:45.750268+00:00"
-fetched_at: "2026-07-28T20:16:28.478236+00:00"
+fetched_at: "2026-07-28T22:59:41.356238+00:00"
 content_hash: "sha256:74a4f428cf058dee6fb97ff2f1cc71c0a9e1211ec393937fb0d0644fb088456f"
 ---
 

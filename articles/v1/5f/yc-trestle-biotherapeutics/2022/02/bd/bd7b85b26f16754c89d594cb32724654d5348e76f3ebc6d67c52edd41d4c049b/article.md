@@ -7,7 +7,7 @@ source_id: "yc-trestle-biotherapeutics-rss-04355419af2b"
 canonical_url: "https://trestlebio.com/news/trestle-biotherapeutics-announces-formation-of-advisory-board/"
 published_at: "2022-02-23T16:00:05+00:00"
 first_seen_at: "2026-07-20T23:21:07.447758+00:00"
-fetched_at: "2026-07-28T20:14:37.130322+00:00"
+fetched_at: "2026-07-28T22:57:18.317880+00:00"
 content_hash: "sha256:ff6e9da25aa233e52b9bda0e59207ce659f5258d1d9aa898de6d81c9859a2477"
 ---
 

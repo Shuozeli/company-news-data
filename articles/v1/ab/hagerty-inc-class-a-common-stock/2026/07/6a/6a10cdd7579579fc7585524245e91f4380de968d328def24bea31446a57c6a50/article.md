@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/automotive-history/the-mk2-gti-proved-immortality-isnt-just-for-the-beetle/"
 published_at: "2026-07-27T19:00:00+00:00"
 first_seen_at: "2026-07-27T19:21:44.747120+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:c9fc292b8cf5b85a53ae312a7aede18bdcd2270200fcd9334c117db0910fc06d"
 ---
 

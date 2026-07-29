@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2021/DeBeer%20May%20Hanna%20Joins%20Stifel%20in%20Dallas.pdf"
 published_at: "2021-02-02T14:05:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:19364e5f2ee652274ab41d63353cd4a06ab530db30a978de9884c1a194de5b57"
 ---
 

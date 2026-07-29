@@ -7,7 +7,7 @@ source_id: "shake-shack-inc-class-a-common-stock-rss-d9ffffb10238"
 canonical_url: "https://investor.shakeshack.com/press-releases/press-release-details/2026/Shake-Shack-to-Participate-in-Upcoming-March-Investor-Conferences/default.aspx"
 published_at: "2026-03-03T13:00:00+00:00"
 first_seen_at: "2026-07-25T22:45:04.685271+00:00"
-fetched_at: "2026-07-28T20:33:39.187532+00:00"
+fetched_at: "2026-07-28T23:18:12.378299+00:00"
 content_hash: "sha256:a6094656a1c50dcbd07f6a77839fc97373c2321e41757a06fce4524dceb72e7e"
 ---
 

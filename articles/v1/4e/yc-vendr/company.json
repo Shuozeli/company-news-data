@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 20
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4e/yc-vendr/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 19101,
+        "sha256": "sha256:6028c4615fff13617a6fe8e5421b9c250fc087087e5874765e8c8f26b728f6a3",
+        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "oldest_at": "2026-07-28T21:20:10.944044+00:00"
+      }
+    ]
+  }
 }

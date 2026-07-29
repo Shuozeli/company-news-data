@@ -7,7 +7,7 @@ source_id: "the-arena-group-holdings-inc-common-stock-rss-9ea05f6be366"
 canonical_url: "https://www.businesswire.com/news/home/20260727953134/en/The-Arena-Group-to-Host-Second-Quarter-2026-Financial-Results-Conference-Call-on-Monday-August-10-2026"
 published_at: "2026-07-27T09:30:10+00:00"
 first_seen_at: "2026-07-27T16:46:13.327989+00:00"
-fetched_at: "2026-07-28T21:10:06.814748+00:00"
+fetched_at: "2026-07-28T23:55:45.666638+00:00"
 content_hash: "sha256:5be874132acd60b870665c89a835bc8d1644e5e713aae59cb6657492b3130864"
 ---
 

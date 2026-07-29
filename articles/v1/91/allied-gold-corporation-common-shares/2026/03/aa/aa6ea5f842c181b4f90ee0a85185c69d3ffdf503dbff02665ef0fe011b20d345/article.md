@@ -7,7 +7,7 @@ source_id: "allied-gold-corporation-common-shares-rss-86d012b525fc"
 canonical_url: "https://alliedgold.com/investor-relations/investor-news/news-details/2026/Allied-Gold-Reports-Record-Q4-Production-Advances-Growth-Strategy-and-Completes-Key-Step-Toward-Transaction-with-Zijin-Gold/default.aspx"
 published_at: "2026-03-31T21:08:00+00:00"
 first_seen_at: "2026-07-26T22:13:34.483293+00:00"
-fetched_at: "2026-07-28T20:54:18.751029+00:00"
+fetched_at: "2026-07-28T23:40:09.565176+00:00"
 content_hash: "sha256:dafcfe1faedc9b6fbcba7ef96b9fcbc779d4e7102d81ca97e67e055febbc3855"
 ---
 

@@ -7,7 +7,7 @@ source_id: "mplx-lp-common-units-representing-limited-partner-interests-rss-4a76
 canonical_url: "https://ir.mplx.com/CorporateProfile/press-releases/news-release/2026/MPLX-LP-files-2025-Form-10-K/default.aspx"
 published_at: "2026-02-26T21:15:00+00:00"
 first_seen_at: "2026-07-27T10:42:09.203732+00:00"
-fetched_at: "2026-07-28T20:38:21.278099+00:00"
+fetched_at: "2026-07-28T23:22:24.820605+00:00"
 content_hash: "sha256:d1d6672f099487ca28df0c718c03acfd0406a0e5d5363f75214159ca1fead44f"
 ---
 

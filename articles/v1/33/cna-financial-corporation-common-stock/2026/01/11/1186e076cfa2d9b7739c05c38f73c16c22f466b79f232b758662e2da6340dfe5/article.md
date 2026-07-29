@@ -7,7 +7,7 @@ source_id: "cna-financial-corporation-common-stock-rss-95c273fe18f3"
 canonical_url: "https://investor-relations.cna.com/news/news-details/2026/CNA-Financial-to-Report-Fourth-Quarter-2025-Results-on-February-9/default.aspx"
 published_at: "2026-01-20T15:00:00+00:00"
 first_seen_at: "2026-07-27T01:03:33.701437+00:00"
-fetched_at: "2026-07-28T20:05:25.510656+00:00"
+fetched_at: "2026-07-28T23:53:41.761579+00:00"
 content_hash: "sha256:be227af2009bf5330ee1a862ccb553363f0c14261919282b8356c602cea38dd6"
 ---
 

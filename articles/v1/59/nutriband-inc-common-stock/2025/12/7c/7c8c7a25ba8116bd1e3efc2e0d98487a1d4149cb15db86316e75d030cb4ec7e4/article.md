@@ -7,7 +7,7 @@ source_id: "nutriband-inc-common-stock-rss-39ad4211d0b8"
 canonical_url: "https://www.nutriband.com/post/nutriband-inc-releases-full-presentation-from-noble-capital-markets-emerging-growth-conference-2025"
 published_at: "2025-12-05T20:27:12+00:00"
 first_seen_at: "2026-07-20T23:19:48.692699+00:00"
-fetched_at: "2026-07-28T22:06:31.944175+00:00"
+fetched_at: "2026-07-29T00:44:49.187763+00:00"
 content_hash: "sha256:e28f1aef6f20aa5ab8de2eb1c9204aba9d0602fdfffd5c34b818f4e55d36d1e9"
 ---
 

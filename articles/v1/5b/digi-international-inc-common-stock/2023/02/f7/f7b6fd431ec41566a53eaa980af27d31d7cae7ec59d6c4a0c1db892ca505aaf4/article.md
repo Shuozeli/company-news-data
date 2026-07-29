@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2023/digi-expands-private-cellular-networks-portfolio"
 published_at: "2023-02-07T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:f9c39a816c56c0d09153171b44e2be0efc65aa29d5051a864d3212ee02e2a752"
 ---
 

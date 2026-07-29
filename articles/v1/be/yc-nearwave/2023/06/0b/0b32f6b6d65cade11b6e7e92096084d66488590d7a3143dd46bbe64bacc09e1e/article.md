@@ -7,7 +7,7 @@ source_id: "yc-nearwave-rss-9f4746cd284c"
 canonical_url: "https://nearwave.co/nearwave-founder-gives-hot-topics-talk-at-ecbo-conference/"
 published_at: "2023-06-23T18:21:00+00:00"
 first_seen_at: "2026-07-24T12:13:22.796027+00:00"
-fetched_at: "2026-07-28T20:52:45.210369+00:00"
+fetched_at: "2026-07-28T23:38:34.703310+00:00"
 content_hash: "sha256:2e0ea82d35242c1b1a5e3128064b33fb9c2e0828c35cabb284fe48e80d0fd51a"
 ---
 

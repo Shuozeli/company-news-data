@@ -7,7 +7,7 @@ source_id: "getty-realty-corporation-common-stock-rss-884d1c54d416"
 canonical_url: "https://ir.gettyrealty.com/news-and-events/news-details/2026/Getty-Realty-Corp--Provides-Leasing-Update/default.aspx"
 published_at: "2026-03-11T12:30:00+00:00"
 first_seen_at: "2026-07-25T06:29:51.855438+00:00"
-fetched_at: "2026-07-28T20:19:00.557622+00:00"
+fetched_at: "2026-07-28T23:02:15.510259+00:00"
 content_hash: "sha256:9e62edd0e9bd3a3bc735a34ea83738f1d486201e6f5f2d4e65a417994b92f034"
 ---
 

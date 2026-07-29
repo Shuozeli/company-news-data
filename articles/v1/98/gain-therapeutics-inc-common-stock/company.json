@@ -76,5 +76,22 @@
       "partition": "2026-07",
       "record_count": 16
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/98/gain-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 47,
+        "byte_count": 58401,
+        "sha256": "sha256:1d15bbc7fb474ef14a45b70cb9f75a2bd52a22034a87f75785f727afa7c794bd",
+        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "oldest_at": "2021-11-08T09:00:55+00:00"
+      }
+    ]
+  }
 }

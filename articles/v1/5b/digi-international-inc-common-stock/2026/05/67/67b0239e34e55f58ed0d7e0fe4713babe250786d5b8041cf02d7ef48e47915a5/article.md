@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/private-cellular-network-security-for-utilities"
 published_at: "2026-05-15T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:0ceb281a6e16edf5ae1f78439df50a2f884e7da768c2d7d769f1d86c21c9625e"
 ---
 

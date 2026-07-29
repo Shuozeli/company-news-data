@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2014/the-beer-industry-gets-crafty-with-iot"
 published_at: "2014-03-12T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:12953c88a62a3b44a406c4e21f38a94a5a94df465cd336d40190c7a6e2ab707d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "arq-inc-common-stock-rss-ee9b7567977e"
 canonical_url: "https://www.arq.com/june-2025-awwa-rocky-mountain-sector-water-conference/"
 published_at: "2025-08-01T06:10:33+00:00"
 first_seen_at: "2026-07-25T01:09:13.609392+00:00"
-fetched_at: "2026-07-28T19:57:22.384250+00:00"
+fetched_at: "2026-07-28T23:44:25.135322+00:00"
 content_hash: "sha256:50d15e629eee997a2ea3f802fbe7f63a0be43d99cbf470d519a1d4391ab85995"
 ---
 

@@ -7,7 +7,7 @@ source_id: "selectquote-inc-common-stock-rss-d17e1c74fd61"
 canonical_url: "https://ir.selectquote.com/news/news-details/2026/SelectQuote-Announces-SelectQuote-Local-Adding-a-New-Strategic-Growth-Channel-to-Its-Industry-Leading-Insurance-Platform/default.aspx"
 published_at: "2026-03-17T11:30:00+00:00"
 first_seen_at: "2026-07-25T22:32:19.548544+00:00"
-fetched_at: "2026-07-28T20:24:26.347737+00:00"
+fetched_at: "2026-07-28T23:09:16.661535+00:00"
 content_hash: "sha256:0c8d0c517f6630a43911d272047efc09bcc8a4ae165644ec6eb3248a2feed2ba"
 ---
 

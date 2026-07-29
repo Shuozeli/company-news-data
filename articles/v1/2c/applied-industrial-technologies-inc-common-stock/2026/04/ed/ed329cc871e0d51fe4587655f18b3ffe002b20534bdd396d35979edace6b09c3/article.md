@@ -7,7 +7,7 @@ source_id: "applied-industrial-technologies-inc-common-stock-rss-3340498324d4"
 canonical_url: "https://ir.applied.com/news/news-details/2026/Applied-Industrial-Technologies-to-Report-Fiscal-Third-Quarter-Earnings-and-Conduct-Conference-Call-on-April-28-2026/default.aspx"
 published_at: "2026-04-06T14:30:00+00:00"
 first_seen_at: "2026-07-25T01:32:04.222974+00:00"
-fetched_at: "2026-07-28T20:24:49.071131+00:00"
+fetched_at: "2026-07-28T23:09:53.577150+00:00"
 content_hash: "sha256:011efa7a7ee11341f33bd8d7df720f4bb03eabae11583e98ee7da1078035484f"
 ---
 

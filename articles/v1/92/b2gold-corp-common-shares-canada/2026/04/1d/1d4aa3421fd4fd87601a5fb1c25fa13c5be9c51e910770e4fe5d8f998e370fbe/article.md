@@ -7,7 +7,7 @@ source_id: "b2gold-corp-common-shares-canada-rss-03122df7d041"
 canonical_url: "https://www.b2gold.com/news-media/news-releases/news-details/2026/B2Gold-Reports-Update-on-Fire-Related-Incident-to-the-Crushing-Circuit-at-the-Goose-Mine/default.aspx"
 published_at: "2026-04-20T03:45:00+00:00"
 first_seen_at: "2026-07-26T10:00:33.300803+00:00"
-fetched_at: "2026-07-28T20:16:37.707287+00:00"
+fetched_at: "2026-07-28T23:00:01.840341+00:00"
 content_hash: "sha256:2bf33b4e9439e40ea2dc1ac98ff90b1b9ddc210248418b1448dd5e32ca1ee8f2"
 ---
 

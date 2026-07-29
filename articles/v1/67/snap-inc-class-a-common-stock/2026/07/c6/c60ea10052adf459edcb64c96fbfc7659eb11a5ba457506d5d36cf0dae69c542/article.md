@@ -7,7 +7,7 @@ source_id: "snap-inc-class-a-common-stock-rss-6d4f106cc29f"
 canonical_url: "https://eng.snap.com/casper"
 published_at: "2026-07-28T07:00:00+00:00"
 first_seen_at: "2026-07-28T20:38:20.216909+00:00"
-fetched_at: "2026-07-28T20:38:20.120259+00:00"
+fetched_at: "2026-07-28T23:22:34.016732+00:00"
 content_hash: "sha256:bd9816046a4b6ebe720e09cfa22f844bcecc16deaf6f0934a1a09a57e78789a8"
 ---
 

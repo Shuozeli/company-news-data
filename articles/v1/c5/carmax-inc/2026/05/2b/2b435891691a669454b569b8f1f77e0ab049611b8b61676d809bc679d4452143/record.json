@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b435891691a669454b569b8f1f77e0ab049611b8b61676d809bc679d4452143",
+  "company": {
+    "key": "carmax-inc",
+    "name": "CarMax Inc"
+  },
+  "source": {
+    "id": "carmax-inc-rss-996d2d8bd2cc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Announces-Robert-OShaughnessy-to-Join-Board-of-Directors/default.aspx",
+    "canonical": "https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Announces-Robert-OShaughnessy-to-Join-Board-of-Directors/default.aspx"
+  },
+  "title": "CarMax Announces Robert O’Shaughnessy to Join Board of Directors",
+  "summary": "",
+  "published_at": "2026-05-12T20:40:00+00:00",
+  "first_seen_at": "2026-07-25T01:21:14.627952+00:00",
+  "fetched_at": "2026-07-28T23:04:20.961315+00:00",
+  "last_updated_at": "2026-07-28T23:04:20.999397+00:00",
+  "paths": {
+    "article": "articles/v1/c5/carmax-inc/2026/05/2b/2b435891691a669454b569b8f1f77e0ab049611b8b61676d809bc679d4452143/article.md",
+    "record": "articles/v1/c5/carmax-inc/2026/05/2b/2b435891691a669454b569b8f1f77e0ab049611b8b61676d809bc679d4452143/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 662,
+    "sha256": "sha256:d7dd9735e588c807588cdbd561e2c76f8b24a36c69e214ae3435d08336a9d27e",
+    "normalized_content_hash": "sha256:2e9236635010f30fc6646ef5e95526999ad5994c02354e7c7826c92a29a93db8"
+  },
+  "provenance": {
+    "source_item_id": "075aa27f-3a72-4426-9b97-462f5785d810",
+    "external_id": "f82d9169-4f32-42aa-8b66-44b80cea8326"
+  }
+}

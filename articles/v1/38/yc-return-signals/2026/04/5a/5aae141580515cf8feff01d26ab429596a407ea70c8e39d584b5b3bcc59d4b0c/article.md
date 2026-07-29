@@ -7,7 +7,7 @@ source_id: "yc-return-signals-rss-dfedba3fe891"
 canonical_url: "https://www.returnsignals.com/blog/memory-post-delivery-revenue-channel/"
 published_at: "2026-04-14T00:00:00+00:00"
 first_seen_at: "2026-07-23T23:09:42.823995+00:00"
-fetched_at: "2026-07-28T20:13:06.153972+00:00"
+fetched_at: "2026-07-28T22:55:06.665534+00:00"
 content_hash: "sha256:681f93815657fd4637145957344baed2c492b24088459e55178db080b3d81e7d"
 ---
 

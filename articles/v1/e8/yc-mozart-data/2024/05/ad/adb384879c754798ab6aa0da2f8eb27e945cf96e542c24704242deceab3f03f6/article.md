@@ -7,7 +7,7 @@ source_id: "yc-mozart-data-rss-80d5f072b9ee"
 canonical_url: "https://mozartdata.com/customer-analytics-for-startups/"
 published_at: "2024-05-16T23:48:13+00:00"
 first_seen_at: "2026-07-24T11:43:21.667443+00:00"
-fetched_at: "2026-07-28T20:15:01.691737+00:00"
+fetched_at: "2026-07-28T22:58:23.502461+00:00"
 content_hash: "sha256:9a59308268083e6f598732adb9d77daa4f76688ec9f72fdf60323b4577a4766a"
 ---
 

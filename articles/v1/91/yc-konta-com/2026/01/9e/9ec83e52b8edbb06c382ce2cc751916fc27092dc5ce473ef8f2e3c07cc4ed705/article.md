@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/como-facturar-en-oxxo-paso-a-paso-guia-2026"
 published_at: "2026-01-08T17:19:00+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:1d1805d4ddc0ebc8a5613d9e0607441116831a043217bc57bdc3d6c4708a89f6"
 ---
 

@@ -7,7 +7,7 @@ source_id: "reading-international-inc-class-b-common-stock-rss-6934166d39c5"
 canonical_url: "https://www.readingrdi.com/2025-annual-meeting-stockholder-presentation/"
 published_at: "2025-12-05T19:02:52+00:00"
 first_seen_at: "2026-07-25T20:36:56.283617+00:00"
-fetched_at: "2026-07-28T22:05:23.652527+00:00"
+fetched_at: "2026-07-29T00:44:10.114429+00:00"
 content_hash: "sha256:f78beb65987ecef1b903c13667204363845116b7f5f8a9fff35b505f7c5bb737"
 ---
 

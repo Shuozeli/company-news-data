@@ -40,5 +40,22 @@
       "partition": "2025-09",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c4/fenbo-holdings-limited-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 10622,
+        "sha256": "sha256:7d877c2318907622e581ac3223fabc97b5f592dae4cf882f21dc8b44deb87fbd",
+        "newest_at": "2025-09-16T13:15:00+00:00",
+        "oldest_at": "2023-11-29T22:27:00+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "cognition-therapeutics-inc-common-stock-rss-ed2edde8b549"
 canonical_url: "https://cogrx.com/type-c-meeting-with-fda-completed-for-zervimesine-ct1812-in-dementia-with-lewy-bodies-dlb/"
 published_at: "2026-01-27T21:55:25+00:00"
 first_seen_at: "2026-07-27T01:08:35.415304+00:00"
-fetched_at: "2026-07-28T20:52:39.987700+00:00"
+fetched_at: "2026-07-28T23:38:02.619779+00:00"
 content_hash: "sha256:85145a3fb22e1fb8b784b49d6b6a244c3f4887eda6f9dc270cd33c2449228c1a"
 ---
 

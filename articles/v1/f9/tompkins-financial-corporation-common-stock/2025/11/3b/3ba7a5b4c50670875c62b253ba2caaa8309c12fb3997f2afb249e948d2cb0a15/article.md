@@ -7,7 +7,7 @@ source_id: "tompkins-financial-corporation-common-stock-rss-df97f020c8f9"
 canonical_url: "https://tompkinsfinancial.q4ir.com/news/news-details/2025/Tompkins-Financial-Corporation-Announces-Sale-of-Tompkins-Insurance-Agencies-Inc--to-Arthur-J--Gallagher--Co-/default.aspx"
 published_at: "2025-11-03T14:00:00+00:00"
 first_seen_at: "2026-07-26T02:46:59.998268+00:00"
-fetched_at: "2026-07-28T21:20:06.475069+00:00"
+fetched_at: "2026-07-29T00:29:56.748367+00:00"
 content_hash: "sha256:a413a2b8094dd5439b0bb64c174c053ebe48a236d865e7d72975ba21803c718f"
 ---
 

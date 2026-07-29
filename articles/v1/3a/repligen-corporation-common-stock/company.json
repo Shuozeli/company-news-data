@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3a/repligen-corporation-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 23388,
+        "sha256": "sha256:4b0d372cf69c2f3f3a3f4f79c8424514a8b22100160205057a360e7aec1460f6",
+        "newest_at": "2026-07-28T11:00:00+00:00",
+        "oldest_at": "2026-02-24T12:30:00+00:00"
+      }
+    ]
+  }
 }

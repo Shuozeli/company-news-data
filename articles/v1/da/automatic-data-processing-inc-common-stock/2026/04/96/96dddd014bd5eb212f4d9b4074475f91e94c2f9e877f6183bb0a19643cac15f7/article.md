@@ -7,7 +7,7 @@ source_id: "automatic-data-processing-inc-common-stock-rss-53b9cd362f71"
 canonical_url: "https://mediacenter.adp.com/2026-04-29-ADP-Reports-Third-Quarter-Fiscal-2026-Results"
 published_at: "2026-04-29T11:00:00+00:00"
 first_seen_at: "2026-07-20T04:35:27.491401+00:00"
-fetched_at: "2026-07-28T20:54:06.902683+00:00"
+fetched_at: "2026-07-28T23:40:01.706271+00:00"
 content_hash: "sha256:07b005396834c1ce9a31e65662f67397c28bab1057c4e9546ab1130a97645bbb"
 ---
 

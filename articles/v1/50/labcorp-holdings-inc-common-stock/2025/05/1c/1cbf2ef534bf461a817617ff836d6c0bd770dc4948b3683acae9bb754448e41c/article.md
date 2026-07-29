@@ -7,7 +7,7 @@ source_id: "labcorp-holdings-inc-common-stock-rss-dbaf16a720f9"
 canonical_url: "https://www.labcorp.com/delivering-precision-critical-bone-defect-model-implantable-device-safety-testing"
 published_at: "2025-05-08T16:33:46+00:00"
 first_seen_at: "2026-07-20T23:24:51.380106+00:00"
-fetched_at: "2026-07-28T20:14:54.952323+00:00"
+fetched_at: "2026-07-28T22:57:44.599077+00:00"
 content_hash: "sha256:5edab49a7f0be8750ca70f8d63413670a5a25becae07659750e16805e69a366d"
 ---
 

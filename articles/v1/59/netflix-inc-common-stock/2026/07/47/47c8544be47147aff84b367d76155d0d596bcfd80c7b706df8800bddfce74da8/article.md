@@ -5,7 +5,7 @@ company_key: "netflix-inc-common-stock"
 company: "Netflix Inc. Common Stock"
 source_id: "netflix-inc-common-stock-rss-924a579478a7"
 canonical_url: "https://about.netflix.com/en/news/netflix-premieres-go-team-on-september-11"
-published_at: "2026-07-16T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T03:32:27.217191+00:00"
 fetched_at: "2026-07-28T21:50:17.978782+00:00"
 content_hash: "sha256:7a1f5e09a67303dd3fba53a082bcd25d44eb49eef0ed1b2432cb1d22124fde3c"

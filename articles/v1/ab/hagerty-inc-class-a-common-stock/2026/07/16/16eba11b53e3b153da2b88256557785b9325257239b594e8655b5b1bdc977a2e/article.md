@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/maintenance-and-tech/the-6-phases-of-a-project-car/"
 published_at: "2026-07-16T22:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:07d955cc29bffeed67a7055f287e39b3a22c2e5aef5a11a0fe0f06c2f21639fa"
 ---
 

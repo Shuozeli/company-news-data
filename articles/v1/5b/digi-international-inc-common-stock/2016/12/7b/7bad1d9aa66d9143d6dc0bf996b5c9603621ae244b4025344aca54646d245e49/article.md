@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2016/the-10-security-factors-every-device-designer-shou"
 published_at: "2016-12-21T21:52:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:4d75f085520b510f895b9130c0502352fcc3c351fcf6b3d0d1a1eb891e4d603a"
 ---
 

@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/5-proven-growth-hacks-to-skyrocket-your-apps-downloads-and-revenue"
-published_at: "2025-02-27T16:10:28.205+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:11324b313d36513b0440fa067b5f14bf6b6b32ea38bd227998d5323bd1ffecc9"

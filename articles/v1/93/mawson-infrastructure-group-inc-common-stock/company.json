@@ -180,5 +180,40 @@
       "partition": "2026-04",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/93/mawson-infrastructure-group-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 69973,
+        "sha256": "sha256:b9daa875f7a005bff49decf5c1ba03a25328a55b03a47c647f47120bc1f4b5c0",
+        "newest_at": "2026-04-23T05:00:00+00:00",
+        "oldest_at": "2024-05-15T05:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/93/mawson-infrastructure-group-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 99819,
+        "sha256": "sha256:d283659e1cd220d3e16014ffbd5d876626d7322dac41346f2068e1a4c1c930eb",
+        "newest_at": "2024-05-09T05:00:00+00:00",
+        "oldest_at": "2022-02-22T06:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/93/mawson-infrastructure-group-inc-common-stock/index/pages/000003.json",
+        "record_count": 11,
+        "byte_count": 22760,
+        "sha256": "sha256:8475116f939a952a3750cd7e3c1fd53d1d9b645fe0bb932b6d90e19af7d4a86f",
+        "newest_at": "2022-02-18T06:00:00+00:00",
+        "oldest_at": "2021-11-01T05:00:00+00:00"
+      }
+    ]
+  }
 }

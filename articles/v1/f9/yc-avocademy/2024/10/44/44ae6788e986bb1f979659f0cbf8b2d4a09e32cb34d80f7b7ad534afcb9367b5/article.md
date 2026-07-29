@@ -7,7 +7,7 @@ source_id: "yc-avocademy-atom-b6352a591443"
 canonical_url: "https://www.avocademy.com/blogs/the-guac/can-i-be-a-ux-designer-without-a-degree"
 published_at: "2024-10-04T05:54:38+00:00"
 first_seen_at: "2026-07-24T17:49:57.508530+00:00"
-fetched_at: "2026-07-28T20:21:21.168628+00:00"
+fetched_at: "2026-07-28T23:04:51.921253+00:00"
 content_hash: "sha256:5800a0bc19880d7f7e538e7194d05a3e8227cc367d254357e21fb4d0dd246174"
 ---
 

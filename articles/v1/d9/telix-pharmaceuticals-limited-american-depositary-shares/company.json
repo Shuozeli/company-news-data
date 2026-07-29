@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d9/telix-pharmaceuticals-limited-american-depositary-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12595,
+        "sha256": "sha256:2da802bbe7bf41d417df03ecd8aea1b2ab286ebc125f24ec24c9187afbebb5ec",
+        "newest_at": "2026-07-23T23:49:33+00:00",
+        "oldest_at": "2026-06-22T21:00:00+00:00"
+      }
+    ]
+  }
 }

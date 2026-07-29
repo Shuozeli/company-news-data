@@ -7,7 +7,7 @@ source_id: "valens-semiconductor-ltd-ordinary-shares-rss-135465087e74"
 canonical_url: "https://www.valens.com/surround-view-system-case-study-by-a2mac1/"
 published_at: "2023-11-30T05:57:04+00:00"
 first_seen_at: "2026-07-20T23:23:00.580664+00:00"
-fetched_at: "2026-07-28T20:44:09.478313+00:00"
+fetched_at: "2026-07-28T23:29:50.238219+00:00"
 content_hash: "sha256:0c0867867cae1ead54b6995de360c269e1131cfaebbbdc1510f4c38fbc49df80"
 ---
 

@@ -7,7 +7,7 @@ source_id: "national-bank-holdings-corporation-common-stock-rss-ce14e24241e6"
 canonical_url: "https://www.nationalbankholdings.com/news/news-details/2026/National-Bank-Holdings-Corporation-Announces-Date-for-2026-First-Quarter-Earnings-Release/default.aspx"
 published_at: "2026-04-08T20:10:00+00:00"
 first_seen_at: "2026-07-25T15:34:18.653293+00:00"
-fetched_at: "2026-07-28T22:12:29.800951+00:00"
+fetched_at: "2026-07-29T00:51:02.612240+00:00"
 content_hash: "sha256:22f3a18443de16ee0c2cdfb27842e3f5dca9bf7be1a761fc3d4ddae795eb0e06"
 ---
 

@@ -36,5 +36,31 @@
       "partition": "2026-07",
       "record_count": 20
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ff/emerson-electric-company-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 66474,
+        "sha256": "sha256:87d299608a43685694fdd0ef9c833e2ef068392083532fbf48a46e8085a69bef",
+        "newest_at": "2026-07-24T13:00:17+00:00",
+        "oldest_at": "2026-06-04T07:16:18+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/ff/emerson-electric-company-common-stock/index/pages/000002.json",
+        "record_count": 10,
+        "byte_count": 12600,
+        "sha256": "sha256:1f76261698597300f3e8bf66d2ea4edb0a98bf753129301244c4d26c322041af",
+        "newest_at": "2026-06-03T11:00:03+00:00",
+        "oldest_at": "2026-01-13T21:15:00+00:00"
+      }
+    ]
+  }
 }

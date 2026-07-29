@@ -7,7 +7,7 @@ source_id: "regional-management-corp-common-stock-rss-a5d1e458e13d"
 canonical_url: "https://www.regionalmanagement.com/news-and-events/news/press-release-details/2025/Regional-Management-Corp--Announces-Third-Quarter-2025-Results/default.aspx"
 published_at: "2025-11-05T21:15:00+00:00"
 first_seen_at: "2026-07-25T20:48:13.259631+00:00"
-fetched_at: "2026-07-28T20:13:07.440837+00:00"
+fetched_at: "2026-07-28T22:54:28.620667+00:00"
 content_hash: "sha256:ab98c010f110392bed92057a031ac96bc5c5b99cf15cdc491eec03009c8e8277"
 ---
 

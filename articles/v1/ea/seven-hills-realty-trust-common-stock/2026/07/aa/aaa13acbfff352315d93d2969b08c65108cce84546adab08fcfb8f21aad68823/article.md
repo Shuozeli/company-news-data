@@ -7,7 +7,7 @@ source_id: "seven-hills-realty-trust-common-stock-rss-7751350469b0"
 canonical_url: "https://sevnreit.com/news/press-release-details/2026/Seven-Hills-Realty-Trust-Announces-Second-Quarter-2026-Results/default.aspx"
 published_at: "2026-07-28T20:15:00+00:00"
 first_seen_at: "2026-07-28T20:33:58.669024+00:00"
-fetched_at: "2026-07-28T20:33:58.636592+00:00"
+fetched_at: "2026-07-28T23:18:40.842894+00:00"
 content_hash: "sha256:4c73c1c270ab701f2d1869b293302c5e44155988a87f4bb830d763ed2dfd41ae"
 ---
 

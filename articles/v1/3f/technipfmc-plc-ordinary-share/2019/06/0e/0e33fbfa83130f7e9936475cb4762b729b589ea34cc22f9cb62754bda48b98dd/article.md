@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2019/06/shell-s-appomattox-begins-production/"
 published_at: "2019-06-13T01:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-28T21:51:21.094676+00:00"
+fetched_at: "2026-07-29T00:17:43.124361+00:00"
 content_hash: "sha256:4f4516c3ef1fd9b034ac99039aebbf1a1bbf77a4280dd5b2bb98ab553ea3ca22"
 ---
 

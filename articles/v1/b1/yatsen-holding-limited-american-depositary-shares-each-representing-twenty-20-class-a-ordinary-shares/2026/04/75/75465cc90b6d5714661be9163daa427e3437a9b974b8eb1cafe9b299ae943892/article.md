@@ -7,7 +7,7 @@ source_id: "yatsen-holding-limited-american-depositary-shares-each-representing-
 canonical_url: "https://ir.yatsenglobal.com/2026-04-29-Yatsen-Filed-2025-Annual-Report-on-Form-20-F"
 published_at: "2026-04-29T21:15:00+00:00"
 first_seen_at: "2026-07-24T07:42:38.782959+00:00"
-fetched_at: "2026-07-28T20:55:32.118608+00:00"
+fetched_at: "2026-07-28T23:41:03.589754+00:00"
 content_hash: "sha256:3cf02d9d9d040e2084d356eb713137be8742125ea44ea721092ec428a3fe9590"
 ---
 

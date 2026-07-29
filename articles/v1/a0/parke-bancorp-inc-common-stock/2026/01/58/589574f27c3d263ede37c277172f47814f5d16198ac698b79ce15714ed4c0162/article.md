@@ -7,7 +7,7 @@ source_id: "parke-bancorp-inc-common-stock-rss-2631aa35c7db"
 canonical_url: "https://parkebancorp.q4ir.com/news/news-details/2026/PARKE-BANCORP-INC--ANNOUNCES-FOURTH-QUARTER-2025-EARNINGS/default.aspx"
 published_at: "2026-01-22T21:15:00+00:00"
 first_seen_at: "2026-07-27T04:16:09.700593+00:00"
-fetched_at: "2026-07-28T20:23:41.438065+00:00"
+fetched_at: "2026-07-28T23:08:48.074417+00:00"
 content_hash: "sha256:bbe294c746d8ab37f8d4238c85a18c5c176c7cd2bbd84051cc36551acde04765"
 ---
 

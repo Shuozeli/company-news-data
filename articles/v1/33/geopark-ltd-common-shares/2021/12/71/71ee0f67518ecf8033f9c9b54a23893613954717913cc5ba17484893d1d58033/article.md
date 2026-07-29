@@ -7,7 +7,7 @@ source_id: "geopark-ltd-common-shares-rss-ad922b42f026"
 canonical_url: "https://www.geo-park.com/news/2q-2021-financial-results/"
 published_at: "2021-12-14T10:48:49+00:00"
 first_seen_at: "2026-07-20T23:22:37.443202+00:00"
-fetched_at: "2026-07-28T20:44:31.811897+00:00"
+fetched_at: "2026-07-28T23:28:20.567059+00:00"
 content_hash: "sha256:0555b597dc127aa68167c43bd85a2b58584d4a0b01138406e8a26660915f8fd9"
 ---
 

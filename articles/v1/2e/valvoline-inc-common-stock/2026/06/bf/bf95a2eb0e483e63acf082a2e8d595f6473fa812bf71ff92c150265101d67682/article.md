@@ -7,7 +7,7 @@ source_id: "valvoline-inc-common-stock-rss-a389ab0936a0"
 canonical_url: "https://investors.valvoline.com/news/news-details/2026/Valvoline-Instant-Oil-Change-Named-12-Time-Winner-of-the-Association-for-Talent-Developments-Best-of-the-BEST-Award/default.aspx"
 published_at: "2026-06-09T11:30:00+00:00"
 first_seen_at: "2026-07-26T04:11:41.628201+00:00"
-fetched_at: "2026-07-28T20:28:57.770777+00:00"
+fetched_at: "2026-07-28T23:15:06.407752+00:00"
 content_hash: "sha256:2b048912f810765918f1684069cccf701eb6653d86537c1cab504a2b3bbad533"
 ---
 

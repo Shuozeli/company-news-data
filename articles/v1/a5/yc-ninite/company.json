@@ -12,5 +12,31 @@
       "partition": "2026-07",
       "record_count": 59
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a5/yc-ninite/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 39816,
+        "sha256": "sha256:d258f6610930c7768da2b2bc6f1c978e7e6f12572a23b08c871af31b2eeb5d17",
+        "newest_at": "2026-07-27T23:06:04+00:00",
+        "oldest_at": "2026-07-15T18:46:57+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/a5/yc-ninite/index/pages/000002.json",
+        "record_count": 9,
+        "byte_count": 7304,
+        "sha256": "sha256:ae9d4326db59813df3e15345216f8dc545413bf0d2ecd0227ce8fc4c6cbf321a",
+        "newest_at": "2026-07-15T18:46:41+00:00",
+        "oldest_at": "2026-07-13T17:39:39+00:00"
+      }
+    ]
+  }
 }

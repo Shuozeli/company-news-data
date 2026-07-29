@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2017/DCH-Health-System-Partners-with-Omnicell-to-Automate-Sterile-Compounding-with-Robotic-IV-Insourcing-Solution-RIIS/default.aspx"
 published_at: "2017-02-13T05:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T20:19:36.099870+00:00"
+fetched_at: "2026-07-28T23:03:29.570108+00:00"
 content_hash: "sha256:44b205511bff1f4b7e201f16935c594c787c43e8271b0b3cda9960df3d9667c5"
 ---
 

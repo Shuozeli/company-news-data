@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/aa/yc-weave-3/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 22736,
+        "sha256": "sha256:10968a22558223a233c33f1770b2e95a373be05268b57f4d3a3f95edb11d7c60",
+        "newest_at": "2026-07-10T00:00:00+00:00",
+        "oldest_at": "2026-05-20T00:00:00+00:00"
+      }
+    ]
+  }
 }

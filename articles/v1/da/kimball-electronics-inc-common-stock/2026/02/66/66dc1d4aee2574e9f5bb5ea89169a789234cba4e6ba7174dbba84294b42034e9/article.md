@@ -7,7 +7,7 @@ source_id: "kimball-electronics-inc-common-stock-rss-703897098eb3"
 canonical_url: "https://investors.kimballelectronics.com/news/news-details/2026/Kimball-Electronics-Reports-Q2-Results-With-Strong-Sales-Growth-in-the-Medical-Vertical-Company-Raises-Its-Guidance-for-Fiscal-2026/default.aspx"
 published_at: "2026-02-04T21:08:00+00:00"
 first_seen_at: "2026-07-25T10:48:48.350501+00:00"
-fetched_at: "2026-07-28T20:11:17.184750+00:00"
+fetched_at: "2026-07-29T00:03:21.531699+00:00"
 content_hash: "sha256:527cf8423449fc735da3ec81ff9b2ea754042b5e1b0b80eef45ef490b0c60f0b"
 ---
 

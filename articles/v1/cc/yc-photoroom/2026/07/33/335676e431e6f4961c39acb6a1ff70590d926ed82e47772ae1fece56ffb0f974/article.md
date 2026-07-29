@@ -7,7 +7,7 @@ source_id: "yc-photoroom-rss-d1044ff9c1aa"
 canonical_url: "https://www.photoroom.com/blog/use-photoroom-api-product-photography"
 published_at: null
 first_seen_at: "2026-07-23T22:00:08.835718+00:00"
-fetched_at: "2026-07-28T21:22:37.788408+00:00"
+fetched_at: "2026-07-29T00:10:49.363495+00:00"
 content_hash: "sha256:fbfe27060e51671b32d1d85ec000d9ba8e3101b0043890a4a72b40e225bb8b7f"
 ---
 

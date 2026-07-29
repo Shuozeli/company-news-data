@@ -7,7 +7,7 @@ source_id: "zto-express-cayman-inc-american-depositary-shares-each-representing-
 canonical_url: "https://zto.investorroom.com/2026-04-24-ZTO-to-Announce-First-Quarter-Financial-Results-on-May-19,-2026-U-S-Eastern-Time"
 published_at: "2026-04-24T10:10:00+00:00"
 first_seen_at: "2026-07-24T08:15:57.664718+00:00"
-fetched_at: "2026-07-28T21:39:42.981510+00:00"
+fetched_at: "2026-07-29T00:14:10.146232+00:00"
 content_hash: "sha256:460769d8621d98540f2ab2ffd1da91a4e29c1399d90b8de32133d4d282c5e3a1"
 ---
 

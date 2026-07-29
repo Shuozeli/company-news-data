@@ -7,7 +7,7 @@ source_id: "skywater-technology-inc-common-stock-rss-6748f57663e9"
 canonical_url: "https://www.skywatertechnology.com/ectc-2026/"
 published_at: "2026-04-16T15:37:53+00:00"
 first_seen_at: "2026-07-25T01:07:15.981831+00:00"
-fetched_at: "2026-07-28T21:41:28.647811+00:00"
+fetched_at: "2026-07-29T00:14:20.230730+00:00"
 content_hash: "sha256:ed5a6f6af1d4dc92a95b091f08ade71723cd070aa0b3dea8ad330a2b6812f3ef"
 ---
 

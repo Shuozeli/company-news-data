@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-sallie-a-daniel-kretinsky-pour-se-renforcer-dans-lelectricite-en-europe/"
 published_at: "2025-11-17T11:05:23+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:34089613bce012be2c22976288918b887a68279e3f45250945115983ef4fe5fb"
 ---
 

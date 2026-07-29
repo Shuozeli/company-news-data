@@ -7,7 +7,7 @@ source_id: "grupo-supervielle-s-a-american-depositary-shares-each-representing-f
 canonical_url: "https://www.gruposupervielle.com/English/news-and-investor-education/news/news-details/2026/Grupo-Supervielle-Announces-Filing-of-the-2025-Annual-Report-on-Form-20-F/default.aspx"
 published_at: "2026-04-08T13:33:00+00:00"
 first_seen_at: "2026-07-25T07:14:20.769534+00:00"
-fetched_at: "2026-07-28T19:55:38.056597+00:00"
+fetched_at: "2026-07-28T23:42:41.926637+00:00"
 content_hash: "sha256:7e6caf8928655f65815f217f51742c1fb69735db8f5a962880f96c5fe490f823"
 ---
 

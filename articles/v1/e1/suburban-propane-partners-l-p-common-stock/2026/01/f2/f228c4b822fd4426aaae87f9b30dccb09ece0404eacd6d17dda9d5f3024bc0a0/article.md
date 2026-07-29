@@ -7,7 +7,7 @@ source_id: "suburban-propane-partners-l-p-common-stock-rss-735cd6635d3c"
 canonical_url: "https://investor.suburbanpropane.com/2026-01-22-Suburban-Propane-Partners,-L-P-Announces-Executive-Level-Promotion"
 published_at: "2026-01-22T14:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:05.565238+00:00"
-fetched_at: "2026-07-28T21:54:51.791015+00:00"
+fetched_at: "2026-07-29T00:35:11.121502+00:00"
 content_hash: "sha256:226e188a9774213e6c0abce95de96d906b5d74a9ee64c42537cab34637490973"
 ---
 

@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/announcing-dave-richardson/"
 published_at: "2021-06-28T21:03:57+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:6341ee4789659c126f9b4ee6a09bf06c318523cc7006a91a6eff5b02fc12bab3"
 ---
 

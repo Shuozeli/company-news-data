@@ -20,5 +20,22 @@
       "partition": "2026-04",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ba/greenland-energy-company-common-stock/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 6060,
+        "sha256": "sha256:714dadf0d9b42d4825fa3064dd357aaae4bc73aeec98073d7944e5b3179d0dd4",
+        "newest_at": "2026-04-13T14:30:00+00:00",
+        "oldest_at": "2025-09-10T21:59:11+00:00"
+      }
+    ]
+  }
 }

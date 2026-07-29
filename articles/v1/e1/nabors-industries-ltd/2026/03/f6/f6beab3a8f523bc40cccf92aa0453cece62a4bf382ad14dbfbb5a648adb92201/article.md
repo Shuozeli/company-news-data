@@ -7,7 +7,7 @@ source_id: "nabors-industries-ltd-rss-44818faee468"
 canonical_url: "https://investor.nabors.com/2026-03-24-Nabors-Industries-Ltd-1st-Quarter-2026-Earnings-Conference-Call-Invitation"
 published_at: "2026-03-24T22:01:00+00:00"
 first_seen_at: "2026-07-20T23:17:47.193586+00:00"
-fetched_at: "2026-07-28T19:39:39.754073+00:00"
+fetched_at: "2026-07-28T23:12:44.443033+00:00"
 content_hash: "sha256:83a36bb36cd66d6c085b95c0e609b0bd8fd119f6820b02a87dc195ebfe60a546"
 ---
 

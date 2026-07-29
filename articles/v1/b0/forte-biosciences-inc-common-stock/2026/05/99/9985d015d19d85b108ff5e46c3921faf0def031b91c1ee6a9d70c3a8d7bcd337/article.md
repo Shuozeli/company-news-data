@@ -7,7 +7,7 @@ source_id: "forte-biosciences-inc-common-stock-rss-ecb02a61bf8b"
 canonical_url: "https://www.fortebiorx.com/investor-relations/news/news-details/2026/Forte-Biosciences-Inc--Announces-First-Quarter-2026-Results-and-Provides-Update/default.aspx"
 published_at: "2026-05-11T13:01:00+00:00"
 first_seen_at: "2026-07-25T05:32:08.733879+00:00"
-fetched_at: "2026-07-28T20:28:05.702671+00:00"
+fetched_at: "2026-07-28T23:13:51.121139+00:00"
 content_hash: "sha256:2db8861b2553a99984624b1578e1870a39e174ab96f6b8e415e25073cdf19ed1"
 ---
 

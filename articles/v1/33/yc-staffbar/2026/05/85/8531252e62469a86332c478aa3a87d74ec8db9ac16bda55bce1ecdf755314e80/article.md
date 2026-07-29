@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/apple-retention-messaging-one-last-conversation-before-cancel"
-published_at: "2026-05-08T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:eb16fbef038531d9243cf139ce14b8228b950c46d798c9ff515777597124dae2"

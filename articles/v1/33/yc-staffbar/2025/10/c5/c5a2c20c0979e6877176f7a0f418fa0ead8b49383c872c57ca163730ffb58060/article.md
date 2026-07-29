@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/introducing-supervibes-a-native-mac-app-that-builds-ios-projects"
-published_at: "2025-10-23T18:14:56.514+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:661fec598f8387e045fc50dde10d17ade53f1baac4b82c75fdf79d64d23624df"

@@ -7,7 +7,7 @@ source_id: "nvent-electric-plc-ordinary-shares-rss-7e545b783f0e"
 canonical_url: "https://blog.nvent.com/discover-the-nvent-caddy-electrical-fastener-selection-tool/"
 published_at: "2025-04-02T14:56:10+00:00"
 first_seen_at: "2026-07-20T23:21:35.308535+00:00"
-fetched_at: "2026-07-28T20:30:02.239099+00:00"
+fetched_at: "2026-07-28T23:16:06.368241+00:00"
 content_hash: "sha256:cf5c26f9a22084ee61695a5f2f3081028d72a0056e26c723510006af51239b61"
 ---
 

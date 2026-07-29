@@ -7,7 +7,7 @@ source_id: "fifth-third-bancorp-depositary-shares-rss-48a52068557c"
 canonical_url: "https://ir.53.com/news/news-details/2026/Fifth-Third-Receives-Worlds-Top-Disability-Inclusive-Business-Recognition/default.aspx"
 published_at: "2026-07-27T12:39:00+00:00"
 first_seen_at: "2026-07-27T13:06:23.603519+00:00"
-fetched_at: "2026-07-28T20:27:37.407784+00:00"
+fetched_at: "2026-07-28T23:14:18.720884+00:00"
 content_hash: "sha256:5dba6d7d44fe028c7ee28cb2955b5dcd3a203f78769b3b735ddd01ff2266cdd3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "westamerica-bancorporation-common-stock-rss-1d3c07f51250"
 canonical_url: "https://www.westamerica.com/westamerica-bancorporation-reports-second-quarter-2026-financial-results/"
 published_at: "2026-07-16T16:00:46+00:00"
 first_seen_at: "2026-07-26T05:24:33.749505+00:00"
-fetched_at: "2026-07-28T21:41:48.143980+00:00"
+fetched_at: "2026-07-29T00:19:14.939411+00:00"
 content_hash: "sha256:b4bb1b1ad695a969f3d6a4b926b301a99ccbf27309207957b57515e9b7d21f19"
 ---
 

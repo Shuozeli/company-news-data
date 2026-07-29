@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/the-superwall-newsletter-volume-4"
-published_at: "2024-09-17T20:58:39.820+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:b289c8f56aa5fdee44de99052807e3f57a2d2c05570e0d54b526c38959253e48"

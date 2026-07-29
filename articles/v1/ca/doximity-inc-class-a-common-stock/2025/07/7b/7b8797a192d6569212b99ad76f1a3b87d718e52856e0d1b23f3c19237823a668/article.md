@@ -7,7 +7,7 @@ source_id: "doximity-inc-class-a-common-stock-rss-8bd2cd30f7c1"
 canonical_url: "https://press.doximity.com/articles/doximity-to-release-fiscal-2026-first-quarter-results-on-august-7-2025"
 published_at: "2025-07-17T16:01:00+00:00"
 first_seen_at: "2026-07-20T03:32:24.794804+00:00"
-fetched_at: "2026-07-28T20:38:38.223838+00:00"
+fetched_at: "2026-07-28T23:22:12.562614+00:00"
 content_hash: "sha256:0b3ec4c9f9e8ad19c7b9e168386a1bdebb2714ace8619a97dd3a2e370afa4a3f"
 ---
 

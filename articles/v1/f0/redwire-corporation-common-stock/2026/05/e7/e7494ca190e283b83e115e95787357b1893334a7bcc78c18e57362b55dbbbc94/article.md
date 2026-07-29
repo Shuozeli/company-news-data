@@ -7,7 +7,7 @@ source_id: "redwire-corporation-common-stock-rss-a3eb383a60df"
 canonical_url: "https://rdw.com/newsroom/redwire-cfo-chris-edmunds-delivers-takeaways-from-firms-q1-earnings/"
 published_at: "2026-05-20T20:56:23+00:00"
 first_seen_at: "2026-07-20T23:18:23.159838+00:00"
-fetched_at: "2026-07-28T21:23:50.998713+00:00"
+fetched_at: "2026-07-29T00:26:21.020535+00:00"
 content_hash: "sha256:1389837c16a42c91946726b78dbb42aedd082eb81cf44fefe4cd537881c20bfd"
 ---
 

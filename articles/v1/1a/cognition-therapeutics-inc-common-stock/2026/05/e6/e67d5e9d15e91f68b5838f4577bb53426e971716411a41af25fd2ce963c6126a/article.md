@@ -7,7 +7,7 @@ source_id: "cognition-therapeutics-inc-common-stock-rss-ed2edde8b549"
 canonical_url: "https://cogrx.com/why-the-best-biotech-leaders-take-it-personally/"
 published_at: "2026-05-20T18:53:11+00:00"
 first_seen_at: "2026-07-27T01:08:35.415304+00:00"
-fetched_at: "2026-07-28T20:52:39.987700+00:00"
+fetched_at: "2026-07-28T23:38:02.619779+00:00"
 content_hash: "sha256:d18d9e68dc403afc7665d5b466c84a6ababfd531aa8f9fbf50395e91d73272aa"
 ---
 

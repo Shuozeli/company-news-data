@@ -7,7 +7,7 @@ source_id: "donnelley-financial-solutions-inc-common-stock-rss-11dcbf3bf672"
 canonical_url: "https://www.dfinsolutions.com/node/8741"
 published_at: "2026-06-05T17:32:02+00:00"
 first_seen_at: "2026-07-20T23:21:53.404481+00:00"
-fetched_at: "2026-07-28T19:39:10.012777+00:00"
+fetched_at: "2026-07-28T23:10:46.503717+00:00"
 content_hash: "sha256:cc4ee4d165b4dae28270c75538027a09c2735e8ca293f99f51bbb786ed12315b"
 ---
 

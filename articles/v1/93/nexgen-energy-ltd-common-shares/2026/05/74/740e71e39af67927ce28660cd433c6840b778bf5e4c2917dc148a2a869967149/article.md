@@ -7,7 +7,7 @@ source_id: "nexgen-energy-ltd-common-shares-rss-08ce1b442850"
 canonical_url: "https://www.nexgenenergy.ca/news/news-details/2026/NexGen-to-Host-Q1-2026-Conference-Call/default.aspx"
 published_at: "2026-05-05T10:30:00+00:00"
 first_seen_at: "2026-07-26T08:21:32.536103+00:00"
-fetched_at: "2026-07-28T21:14:31.724430+00:00"
+fetched_at: "2026-07-29T00:01:26.019962+00:00"
 content_hash: "sha256:f1e1d817cd1fb0683531848b6dcb76eb1cd6f6a97a447706d11606badf14bfd3"
 ---
 

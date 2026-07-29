@@ -80,5 +80,22 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/84/coda-octopus-group-inc-common-stock/index/pages/000001.json",
+        "record_count": 40,
+        "byte_count": 47442,
+        "sha256": "sha256:0eff3505f9dd79bcbed901aca6e64a98d9a51a3a2979d856b1c89798fb6ba794",
+        "newest_at": "2026-06-15T11:00:00+00:00",
+        "oldest_at": "2022-02-14T22:27:37+00:00"
+      }
+    ]
+  }
 }

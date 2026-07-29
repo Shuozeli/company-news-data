@@ -7,7 +7,7 @@ source_id: "nuvation-bio-inc-class-a-common-stock-rss-b4f1cad90b3b"
 canonical_url: "https://investors.nuvationbio.com/news/news-details/2026/Nuvation-Bio-Announces-Marketing-Authorisation-Application-for-Taletrectinib-for-the-Treatment-of-Advanced-ROS1-Positive-Non-Small-Cell-Lung-Cancer-Validated-in-the-United-Kingdom/default.aspx"
 published_at: "2026-06-29T12:00:00+00:00"
 first_seen_at: "2026-07-25T16:46:57.555145+00:00"
-fetched_at: "2026-07-28T21:41:47.683215+00:00"
+fetched_at: "2026-07-29T00:17:00.835864+00:00"
 content_hash: "sha256:89c8ed04518116c2913db79fa1ad44799953e4ddaf109509fd05cd96afe8402a"
 ---
 

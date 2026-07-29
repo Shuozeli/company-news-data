@@ -7,7 +7,7 @@ source_id: "anfield-energy-inc-common-shares-rss-a0a17c475371"
 canonical_url: "https://anfieldenergy.com/utah-legislators-to-tour-anfield-energys-velvet-wood-critical-minerals-project/"
 published_at: "2026-06-30T13:37:00+00:00"
 first_seen_at: "2026-07-24T04:08:28.516317+00:00"
-fetched_at: "2026-07-28T22:08:13.123622+00:00"
+fetched_at: "2026-07-29T00:46:15.737896+00:00"
 content_hash: "sha256:b2f8aff2b370e41816803c487c9f73724819d0f2303cbab5a69cecd6ef313e2a"
 ---
 

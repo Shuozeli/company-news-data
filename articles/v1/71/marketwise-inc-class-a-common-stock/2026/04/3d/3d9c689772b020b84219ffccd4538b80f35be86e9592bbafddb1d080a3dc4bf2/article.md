@@ -7,7 +7,7 @@ source_id: "marketwise-inc-class-a-common-stock-rss-90df030a31e1"
 canonical_url: "https://investors.marketwise.com/news-releases/news-release-details/marketwise-inc-reports-preliminary-selected-unaudited-first-0"
 published_at: "2026-04-13T21:05:19+00:00"
 first_seen_at: "2026-07-25T13:20:50.191558+00:00"
-fetched_at: "2026-07-28T22:06:31.389048+00:00"
+fetched_at: "2026-07-29T00:44:54.351610+00:00"
 content_hash: "sha256:47d24a9a3cfdc33bf6da97bb85ffc5873debbc5cb9f2f54c6c73202d97f351a8"
 ---
 

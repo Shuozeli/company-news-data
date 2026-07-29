@@ -7,7 +7,7 @@ source_id: "amarin-corporation-plc-rss-5a6dc08ff807"
 canonical_url: "https://investors.amarincorp.com/news-releases/news-release-details/american-college-cardiology-acc-scientific-sessions-2026"
 published_at: "2026-04-08T12:00:27+00:00"
 first_seen_at: "2026-07-26T09:06:16.575376+00:00"
-fetched_at: "2026-07-28T20:29:46.874254+00:00"
+fetched_at: "2026-07-28T23:16:02.876317+00:00"
 content_hash: "sha256:91b7f2600d4f30db36d83e56b965cfd43f9023f61c8efc21c208facf547b86c1"
 ---
 

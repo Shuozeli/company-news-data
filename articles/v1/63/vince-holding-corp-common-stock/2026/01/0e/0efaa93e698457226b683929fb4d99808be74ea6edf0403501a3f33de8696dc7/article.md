@@ -7,7 +7,7 @@ source_id: "vince-holding-corp-common-stock-rss-88eb2c7b52d3"
 canonical_url: "http://investors.vince.com/press-releases/press-release-details/2026/Vince-Holding-Corp--Provides-Holiday-Sales-Results/default.aspx"
 published_at: "2026-01-12T12:00:00+00:00"
 first_seen_at: "2026-07-26T04:41:31.329212+00:00"
-fetched_at: "2026-07-28T20:53:09.233302+00:00"
+fetched_at: "2026-07-28T23:38:21.832592+00:00"
 content_hash: "sha256:0c4b736fb4d698db521824006011dd7e76fa845e404fa7613d392a5b09bc324f"
 ---
 

@@ -7,7 +7,7 @@ source_id: "edgewell-personal-care-company-common-stock-rss-1e75d279cc86"
 canonical_url: "https://ir.edgewell.com/news-and-events/press-releases/2026/04-23-2026-140154921"
 published_at: "2026-04-23T14:00:00+00:00"
 first_seen_at: "2026-07-28T21:28:03.228452+00:00"
-fetched_at: "2026-07-28T21:28:03.159041+00:00"
+fetched_at: "2026-07-29T00:07:51.772621+00:00"
 content_hash: "sha256:c895d8d505ad2853383a4d4df460f76ca66cfb68768ff187b30ca31e2f09765d"
 ---
 

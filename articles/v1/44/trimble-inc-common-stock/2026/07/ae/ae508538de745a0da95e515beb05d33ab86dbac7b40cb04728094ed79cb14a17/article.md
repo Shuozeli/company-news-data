@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/modernizing-hydropower-cloud-based-bim-enables-real-time-collaboration"
 published_at: "2026-07-24T00:00:00+00:00"
 first_seen_at: "2026-07-24T14:04:25.548982+00:00"
-fetched_at: "2026-07-28T20:33:46.789564+00:00"
+fetched_at: "2026-07-28T23:18:38.216278+00:00"
 content_hash: "sha256:8523b62b5897b5f52cadd56ac14c55e59d565840cef3aac500ad63e47aa131c5"
 ---
 

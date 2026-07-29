@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b2/etoro-group-ltd-class-a-common-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14770,
+        "sha256": "sha256:ec58b6f2d843e8b6b2b2ed2ec70e97aad1721bc12f265d4ef5b83c10b7118717",
+        "newest_at": "2026-07-07T15:08:57+00:00",
+        "oldest_at": "2026-02-02T14:28:12+00:00"
+      }
+    ]
+  }
 }

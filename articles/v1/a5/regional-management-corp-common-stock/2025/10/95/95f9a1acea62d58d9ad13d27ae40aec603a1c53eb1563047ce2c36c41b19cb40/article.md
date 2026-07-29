@@ -7,7 +7,7 @@ source_id: "regional-management-corp-common-stock-rss-a5d1e458e13d"
 canonical_url: "https://www.regionalmanagement.com/news-and-events/news/press-release-details/2025/Regional-Management-Corp--Completes-253-Million-Asset-Backed-Securitization/default.aspx"
 published_at: "2025-10-29T20:15:00+00:00"
 first_seen_at: "2026-07-25T20:48:13.259631+00:00"
-fetched_at: "2026-07-28T20:13:07.440837+00:00"
+fetched_at: "2026-07-28T22:54:28.620667+00:00"
 content_hash: "sha256:7d0f825d17439b745bd5ec639f8ae79bfb903bee87cac4aa79a14101d8e63ea4"
 ---
 

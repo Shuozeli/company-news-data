@@ -7,7 +7,7 @@ source_id: "dba-sempra-common-stock-rss-832771b9d43f"
 canonical_url: "https://www.sempra.com/newsroom/press-releases/storage-helps-capture-5-year-low-natural-gas-prices-supporting-more-stable"
 published_at: "2026-06-30T14:45:00+00:00"
 first_seen_at: "2026-07-20T23:21:20.257594+00:00"
-fetched_at: "2026-07-28T22:06:29.819663+00:00"
+fetched_at: "2026-07-29T00:44:57.161112+00:00"
 content_hash: "sha256:3077c00407d7c4aad426b9eb3d8b26ad82bc1f98b682f3633c7cf978442398a9"
 ---
 

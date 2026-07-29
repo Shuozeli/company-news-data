@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-16e4c55287d6"
 canonical_url: "https://www.photoroom.com/customer-stories/decathlon"
-published_at: "2026-02-27T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:21.424777+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:b7789f9f0409f3ab81c5e62f7ae896007dbcb0e018f283cbc521e0d6c6ba38f9"

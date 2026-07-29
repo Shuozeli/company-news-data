@@ -7,7 +7,7 @@ source_id: "parsons-corporation-common-stock-rss-2a3475286026"
 canonical_url: "https://www.parsons.com/2026/07/complete-ai-training-apta-session-examines-ai-adoption-for-safe-and-real-time-rail-operations/"
 published_at: "2026-07-10T14:41:19+00:00"
 first_seen_at: "2026-07-20T23:22:15.164723+00:00"
-fetched_at: "2026-07-28T20:35:26.686353+00:00"
+fetched_at: "2026-07-28T23:19:56.723187+00:00"
 content_hash: "sha256:1af1c867aac5c12a7da2e1edf1f94ed68b8e9fba8cb3fe99e8295baac8610aa8"
 ---
 

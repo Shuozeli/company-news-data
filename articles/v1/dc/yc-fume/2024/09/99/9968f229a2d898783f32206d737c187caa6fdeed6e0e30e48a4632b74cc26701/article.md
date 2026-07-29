@@ -7,7 +7,7 @@ source_id: "yc-fume-rss-5fd00bac91aa"
 canonical_url: "https://www.fumedev.com/blog/search"
 published_at: "2024-09-06T12:00:00+00:00"
 first_seen_at: "2026-07-20T23:23:55.513253+00:00"
-fetched_at: "2026-07-28T22:08:30.832182+00:00"
+fetched_at: "2026-07-29T00:47:00.128018+00:00"
 content_hash: "sha256:007d82f68f20c1fea44350dc1e759a1b2a27a2744ce0066dd900cf20088b6d58"
 ---
 

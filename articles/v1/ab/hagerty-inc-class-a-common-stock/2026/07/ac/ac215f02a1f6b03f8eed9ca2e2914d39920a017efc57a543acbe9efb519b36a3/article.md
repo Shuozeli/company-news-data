@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/hagerty-community/what-diy-repair-saved-you-the-most-money/"
 published_at: "2026-07-20T16:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:1c44a1f14364268ece3b1f4b8ab824c0355e2ee77dbead8f41ab36f8b9726f1b"
 ---
 

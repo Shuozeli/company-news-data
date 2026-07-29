@@ -44,5 +44,22 @@
       "partition": "2026-07",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/de/yc-healthsherpa/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 20568,
+        "sha256": "sha256:b48d87be410612c6a8333f2703f9e65e158d8644aa6a033c7b920a90ddee1c87",
+        "newest_at": "2026-07-28T21:40:00.658555+00:00",
+        "oldest_at": "2022-01-20T19:15:57+00:00"
+      }
+    ]
+  }
 }

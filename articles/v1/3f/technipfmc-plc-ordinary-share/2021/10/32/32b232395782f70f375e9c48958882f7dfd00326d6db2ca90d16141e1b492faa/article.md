@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-and-saipem-announce-surf-commercial-agreement-to-unlock-new-opportunities/"
 published_at: "2021-10-28T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-28T21:49:44.390133+00:00"
+fetched_at: "2026-07-29T00:26:14.657354+00:00"
 content_hash: "sha256:0a0317a2b389ddffad1c434ffdae8e04d2a7e869a6902e7212a6f8fb32cfdd7f"
 ---
 

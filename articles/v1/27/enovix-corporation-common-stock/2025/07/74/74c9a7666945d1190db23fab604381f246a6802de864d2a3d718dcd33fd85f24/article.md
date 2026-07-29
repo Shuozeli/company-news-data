@@ -7,7 +7,7 @@ source_id: "enovix-corporation-common-stock-rss-752a697a44f9"
 canonical_url: "https://www.enovix.com/enovix-fab2-malaysia/"
 published_at: "2025-07-16T05:35:00+00:00"
 first_seen_at: "2026-07-20T23:22:20.017347+00:00"
-fetched_at: "2026-07-28T20:40:04.217177+00:00"
+fetched_at: "2026-07-28T23:23:43.628080+00:00"
 content_hash: "sha256:842c7d6bf73b3fec2dc46d33f5e8e663caae45ff60e36a4b7b3c5daa483cfc8e"
 ---
 

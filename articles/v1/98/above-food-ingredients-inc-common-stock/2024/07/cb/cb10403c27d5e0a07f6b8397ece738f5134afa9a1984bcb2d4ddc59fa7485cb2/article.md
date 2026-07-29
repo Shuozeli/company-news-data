@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-provides-business-update/"
 published_at: "2024-07-25T21:25:43+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:3833b59f0ec2e4a3c491df342f68cc3d1942bce6e71a8a75fbd5d418c06dd327"
 ---
 

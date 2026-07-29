@@ -7,7 +7,7 @@ source_id: "ibotta-inc-class-a-common-stock-rss-dcf741155171"
 canonical_url: "https://medium.com/building-ibotta/ai-powered-shopping-unveiling-ibottas-chatgpt-plugin-experience-ed68971b1e6b"
 published_at: "2023-08-24T20:15:20+00:00"
 first_seen_at: "2026-07-25T01:07:04.216753+00:00"
-fetched_at: "2026-07-28T21:55:39.147831+00:00"
+fetched_at: "2026-07-29T00:35:18.932723+00:00"
 content_hash: "sha256:562e70589518f836005835fe3cd1e130224e42fb4a2bf57b77f8ff8bb9337fdf"
 ---
 

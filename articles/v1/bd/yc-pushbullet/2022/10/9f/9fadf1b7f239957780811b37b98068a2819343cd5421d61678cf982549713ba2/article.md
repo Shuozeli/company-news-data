@@ -7,7 +7,7 @@ source_id: "yc-pushbullet-rss-4ba42a362971"
 canonical_url: "https://blog.pushbullet.com/2022/10/27/how-we-became-the-worlds-foremost-expert-on-google-play-store-policy-violations"
 published_at: "2022-10-27T05:00:00+00:00"
 first_seen_at: "2026-07-25T20:08:48.518680+00:00"
-fetched_at: "2026-07-28T20:51:10.664020+00:00"
+fetched_at: "2026-07-28T23:36:19.489802+00:00"
 content_hash: "sha256:0649df6b4e92aba7b7bb25871e44f1baa412e691c91abff65622b15a2ee4b90b"
 ---
 

@@ -7,7 +7,7 @@ source_id: "belive-holdings-ordinary-share-rss-59b63e28f0be"
 canonical_url: "https://belive.technology/media-coverage/belive-holdings-announces-closing-of-over-allotment-option-in-its-public-offering/"
 published_at: "2025-04-12T03:57:24+00:00"
 first_seen_at: "2026-07-23T22:07:03.112461+00:00"
-fetched_at: "2026-07-28T20:14:26.955397+00:00"
+fetched_at: "2026-07-28T22:56:37.715172+00:00"
 content_hash: "sha256:576f9019c16550415ccf8e038ee3c3113ab86a089838327feacb7de386c0a39d"
 ---
 

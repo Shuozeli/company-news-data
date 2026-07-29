@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-banc-corp-reports-second-quarter-2026-earnings-of-0-63-per-common-share-or-0-73-per-common-share-excluding-nonrecurring-items-recognized-during-the-quarter1"
 published_at: "2026-07-23T21:00:00+00:00"
 first_seen_at: "2026-07-23T21:26:39.933826+00:00"
-fetched_at: "2026-07-28T22:05:47.381749+00:00"
+fetched_at: "2026-07-29T00:43:53.379763+00:00"
 content_hash: "sha256:706a26fa5a5bfb7a3ee9919aba5586ac68f0f213b008b2e5b2e76c959f099544"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/top-ai-minecraft-modding-tools-in-2026"
 published_at: "2026-04-21T22:41:03+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T20:25:26.460294+00:00"
+fetched_at: "2026-07-28T23:10:27.687348+00:00"
 content_hash: "sha256:e2b13df1825728a9c5d8736f8c37f8c58a7d0ff8d02f91afc2b02459aab4f723"
 ---
 

@@ -7,7 +7,7 @@ source_id: "capri-holdings-limited-ordinary-shares-rss-e9c048290598"
 canonical_url: "https://www.capriholdings.com/news/news-details/2026/Capri-Holdings-Limited-Announces-Third-Quarter-Fiscal-2026-Results/default.aspx"
 published_at: "2026-02-03T11:45:00+00:00"
 first_seen_at: "2026-07-27T00:23:47.994959+00:00"
-fetched_at: "2026-07-28T19:39:44.967061+00:00"
+fetched_at: "2026-07-28T23:13:00.981100+00:00"
 content_hash: "sha256:e6c8e689e8f652822e633b9caffe2add3e6903d7dc935040be8a9e655c336e4f"
 ---
 

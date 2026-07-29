@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/above-food-ceo-talks-growth-plans-amid-redwoods-speciality-crop-food-ingredients-unit-acquisition/"
 published_at: "2024-08-16T17:00:15+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-28T22:04:53.214634+00:00"
+fetched_at: "2026-07-29T00:43:09.170627+00:00"
 content_hash: "sha256:9bfb37c6117efa7e7ed6d14f6e1a971f41ac432f5ecce506f39eeb3afd52d7ac"
 ---
 

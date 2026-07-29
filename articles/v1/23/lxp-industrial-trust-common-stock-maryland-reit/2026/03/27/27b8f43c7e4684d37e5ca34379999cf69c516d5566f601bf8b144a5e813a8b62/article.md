@@ -7,7 +7,7 @@ source_id: "lxp-industrial-trust-common-stock-maryland-reit-rss-f1f20198e120"
 canonical_url: "https://ir.lxp.com/News-1/news/news-details/2026/LXP-Industrial-Trust-Announces-Quarterly-Common-Share-Dividend/default.aspx"
 published_at: "2026-03-16T20:15:00+00:00"
 first_seen_at: "2026-07-25T12:52:43.142675+00:00"
-fetched_at: "2026-07-28T21:33:06.103561+00:00"
+fetched_at: "2026-07-29T00:12:43.756323+00:00"
 content_hash: "sha256:6862200027022ff29d4b40689639974055b820966ef32caba232eb3e6bfa7235"
 ---
 

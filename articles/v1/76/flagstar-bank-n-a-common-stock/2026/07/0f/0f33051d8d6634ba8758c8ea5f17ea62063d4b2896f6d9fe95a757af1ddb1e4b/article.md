@@ -7,7 +7,7 @@ source_id: "flagstar-bank-n-a-common-stock-rss-54152b4d27de"
 canonical_url: "https://ir.flagstar.com/news-and-events/news-releases/press-release-details/2026/FLAGSTAR-BANK-N-A--DECLARES-QUARTERLY-CASH-DIVIDENDS-ON-ITS-COMMON-STOCK-AND-PREFERRED-STOCKS-debc1da71/default.aspx"
 published_at: "2026-07-27T12:30:00+00:00"
 first_seen_at: "2026-07-27T12:47:04.296563+00:00"
-fetched_at: "2026-07-28T20:02:37.223383+00:00"
+fetched_at: "2026-07-28T23:51:48.531137+00:00"
 content_hash: "sha256:11e8cd91b9eda46f6770d480aa98871a6f94b362ca5d7d84ecedb8603e294fe6"
 ---
 

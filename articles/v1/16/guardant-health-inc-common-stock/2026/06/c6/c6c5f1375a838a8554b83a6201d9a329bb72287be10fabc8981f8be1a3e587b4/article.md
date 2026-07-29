@@ -7,7 +7,7 @@ source_id: "guardant-health-inc-common-stock-rss-fb6215599895"
 canonical_url: "https://guardanthealth.com/2026/06/03/she-wasnt-due-for-her-colonoscopy-a-blood-test-found-cancer-anyway/"
 published_at: "2026-06-03T16:31:50+00:00"
 first_seen_at: "2026-07-20T23:21:46.463762+00:00"
-fetched_at: "2026-07-28T20:28:11.382227+00:00"
+fetched_at: "2026-07-28T23:14:42.692011+00:00"
 content_hash: "sha256:d737038267c5937541a07df1fcce6de40e4d3b643544ab10ad9ad6e0b80fce33"
 ---
 

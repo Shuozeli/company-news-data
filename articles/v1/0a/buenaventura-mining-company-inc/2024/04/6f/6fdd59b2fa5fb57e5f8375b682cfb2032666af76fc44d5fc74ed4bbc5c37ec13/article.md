@@ -7,7 +7,7 @@ source_id: "buenaventura-mining-company-inc-rss-3af63dbcc9b4"
 canonical_url: "https://buenaventura.com/coimolache-donara-moderno-centro-de-salud-al-distrito-de-chugur-en-cajamarca/"
 published_at: "2024-04-03T15:44:03+00:00"
 first_seen_at: "2026-07-25T01:09:56.313654+00:00"
-fetched_at: "2026-07-28T20:23:12.590306+00:00"
+fetched_at: "2026-07-28T23:08:05.565366+00:00"
 content_hash: "sha256:c970c4f809153c679cc320037c1bbb8f262478d06c3dafc6fb225cdf94588768"
 ---
 

@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/the-hidden-side-of-aso-4-tactics-some-apps-use-to-rise-in-the-app-store"
-published_at: "2025-02-19T15:02:25.213+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:56af09225338a36088f3582ece4bda14f781b9ad2c4b9aedfcf06ef9556c6f22"

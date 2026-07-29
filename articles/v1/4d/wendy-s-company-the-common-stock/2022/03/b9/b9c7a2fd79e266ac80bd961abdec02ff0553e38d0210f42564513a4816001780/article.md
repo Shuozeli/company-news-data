@@ -7,7 +7,7 @@ source_id: "wendy-s-company-the-common-stock-rss-ec0fd300449e"
 canonical_url: "https://www.wendys.com/naz-hillmon"
 published_at: "2022-03-05T00:28:14+00:00"
 first_seen_at: "2026-07-24T06:58:49.962146+00:00"
-fetched_at: "2026-07-28T21:11:58.840515+00:00"
+fetched_at: "2026-07-28T23:57:23.225076+00:00"
 content_hash: "sha256:c75a0c20dcea509eb76c2e807ebdf5d5dafc5b3c62db1d739b3c7ca42b679777"
 ---
 

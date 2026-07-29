@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/le-defi-ose-que-lancent-totalenergies-et-cma-cgm-a-shell-dans-le-gnl-pour-navires/"
 published_at: "2025-07-23T13:09:01+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:c46125fc23b39a89209d7f03e2842576a650256cd20b06af02520a2457e2d812"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/making-pricing-logic-explainable"
 published_at: "2026-03-27T15:05:28+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:c7056e705c1c2ab48f5505a4bb2f4893682acc81519d401094743b32c3081979"
 ---
 

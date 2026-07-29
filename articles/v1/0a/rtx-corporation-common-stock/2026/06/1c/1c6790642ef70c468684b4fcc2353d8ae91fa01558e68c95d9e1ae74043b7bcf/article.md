@@ -7,7 +7,7 @@ source_id: "rtx-corporation-common-stock-rss-4320d06174be"
 canonical_url: "https://www.rtx.com/news/2026/06/30/venture-capital-for-faster-factories"
 published_at: "2026-06-30T20:10:00+00:00"
 first_seen_at: "2026-07-25T01:08:53.144851+00:00"
-fetched_at: "2026-07-28T20:18:24.591518+00:00"
+fetched_at: "2026-07-28T23:01:39.449603+00:00"
 content_hash: "sha256:c6e332e32f64b5efe7d9644d8c6562f36f5427fa66d6e7973a64a3b0be773406"
 ---
 

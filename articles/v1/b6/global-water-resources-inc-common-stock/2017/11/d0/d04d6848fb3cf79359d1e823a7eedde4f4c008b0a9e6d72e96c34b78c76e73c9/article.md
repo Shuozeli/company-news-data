@@ -7,7 +7,7 @@ source_id: "global-water-resources-inc-common-stock-rss-5f39ffeac662"
 canonical_url: "https://www.gwresources.com/post/2017/10/13/preserving-water-resources-business-in-focus"
 published_at: "2017-11-02T21:06:16+00:00"
 first_seen_at: "2026-07-25T06:46:20.731420+00:00"
-fetched_at: "2026-07-28T20:54:52.130394+00:00"
+fetched_at: "2026-07-28T23:40:54.624361+00:00"
 content_hash: "sha256:278021079fa12bd70f58428906a275a1890187838ae520e50a59c546e582ba72"
 ---
 

@@ -7,7 +7,7 @@ source_id: "industrial-logistics-properties-trust-common-shares-of-beneficial-in
 canonical_url: "http://www.ilptreit.com/investors/news/press-release-details/2026/Industrial-Logistics-Properties-Trust-Elects-Elena-B--Poptodorova-to-Board-of-Trustees/default.aspx"
 published_at: "2026-06-10T20:15:00+00:00"
 first_seen_at: "2026-07-25T09:17:51.178487+00:00"
-fetched_at: "2026-07-28T21:34:53.709256+00:00"
+fetched_at: "2026-07-29T00:14:05.979554+00:00"
 content_hash: "sha256:e852943118cf9bbe538655d14f14fc3c6230e4c2eaf5290205ab21585820a2a4"
 ---
 

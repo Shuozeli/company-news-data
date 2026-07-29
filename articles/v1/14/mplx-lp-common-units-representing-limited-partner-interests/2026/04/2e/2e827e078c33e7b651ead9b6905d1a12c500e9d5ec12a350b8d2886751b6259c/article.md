@@ -7,7 +7,7 @@ source_id: "mplx-lp-common-units-representing-limited-partner-interests-rss-4a76
 canonical_url: "https://ir.mplx.com/CorporateProfile/press-releases/news-release/2026/MPLX-LP-Announces-Quarterly-Distribution-07bd6bf6b/default.aspx"
 published_at: "2026-04-28T17:10:00+00:00"
 first_seen_at: "2026-07-27T10:42:09.203732+00:00"
-fetched_at: "2026-07-28T20:38:21.278099+00:00"
+fetched_at: "2026-07-28T23:22:24.820605+00:00"
 content_hash: "sha256:a8b6172008c05b62744d8bb8946757d250f8897111e31824c491e08f34ce352d"
 ---
 

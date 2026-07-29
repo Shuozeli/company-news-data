@@ -7,7 +7,7 @@ source_id: "qxo-inc-common-stock-rss-1ae2b368c1a7"
 canonical_url: "https://investors.qxo.com/news/news-details/2026/QXO-and-TopBuild-Announce-Election-Deadline-for-TopBuild-Stockholders-to-Elect-Merger-Consideration/default.aspx"
 published_at: "2026-06-04T20:15:00+00:00"
 first_seen_at: "2026-07-25T20:21:51.361597+00:00"
-fetched_at: "2026-07-28T21:28:53.855310+00:00"
+fetched_at: "2026-07-29T00:15:11.424495+00:00"
 content_hash: "sha256:d5a56fc124795335777faf38250ff3af6fea8d1d4805511737d69202793a207d"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/latest-software-updates-dal-os-24-3-and-digi-rm"
 published_at: "2024-04-19T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:c516e1773b0486bb79146af5d43d517a8d764abfe76e2967ee3bc1bf8a67db8d"
 ---
 

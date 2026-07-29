@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2022/digi-reports-third-fiscal-quarter-2022-results"
 published_at: "2022-08-04T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:1dd60e0b4b1a777230b8f4fcdb8dafda275810376c64c93601319d48efeaa5c8"
 ---
 

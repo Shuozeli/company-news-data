@@ -7,7 +7,7 @@ source_id: "workday-inc-class-a-common-stock-rss-1edd291cea4c"
 canonical_url: "https://medium.com/workday-engineering/beyond-the-vendor-perimeter-strategic-pentest-for-third-party-supply-chain-attacks-6df0c9f4c22f"
 published_at: "2026-07-24T21:20:18+00:00"
 first_seen_at: "2026-07-24T22:33:06.750996+00:00"
-fetched_at: "2026-07-28T20:59:51.248397+00:00"
+fetched_at: "2026-07-28T23:46:42.543802+00:00"
 content_hash: "sha256:6c75c1a4575bbc744e1d41b0575875aa91c7260a6707ee7f6497090e94e89050"
 ---
 

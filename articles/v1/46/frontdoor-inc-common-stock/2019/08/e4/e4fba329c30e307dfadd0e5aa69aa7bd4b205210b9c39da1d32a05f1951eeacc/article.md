@@ -7,7 +7,7 @@ source_id: "frontdoor-inc-common-stock-atom-5922310f2629"
 canonical_url: "https://investors.frontdoorhome.com/events-presentations/q2-2019-earnings-webcast-presentation"
 published_at: "2019-08-07T13:22:52+00:00"
 first_seen_at: "2026-07-25T05:47:19.678424+00:00"
-fetched_at: "2026-07-28T20:52:27.697962+00:00"
+fetched_at: "2026-07-28T23:37:42.343766+00:00"
 content_hash: "sha256:b0e5ff610e3fd4b719ea4a9025561a3408756649402d75f008acaee36c067b2d"
 ---
 

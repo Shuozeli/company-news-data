@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/pourquoi-linauguration-dune-nouvelle-route-vers-lasie-pour-le-gaz-naturel-liquefie-est-cruciale/"
 published_at: "2026-07-10T07:50:53+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:d3ba6a6b72396c0a64944f0771b440eb1742cff0ab771f9dc5b14fee8953de3a"
 ---
 

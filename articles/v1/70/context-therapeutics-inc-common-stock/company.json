@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/70/context-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14086,
+        "sha256": "sha256:61aec14a2698b8946d5f6afd40fde6ec6ba21092eb96631047adb6e0510e69b1",
+        "newest_at": "2026-07-10T20:05:30+00:00",
+        "oldest_at": "2026-03-19T11:30:31+00:00"
+      }
+    ]
+  }
 }

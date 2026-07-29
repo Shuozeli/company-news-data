@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9d/yc-kombo/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 11256,
+        "sha256": "sha256:1d82971ccd05b87c626daef961baed1d5225e480e7ac941f485e2a7ea49f316c",
+        "newest_at": "2026-07-02T00:00:00+00:00",
+        "oldest_at": "2023-06-03T00:00:00+00:00"
+      }
+    ]
+  }
 }

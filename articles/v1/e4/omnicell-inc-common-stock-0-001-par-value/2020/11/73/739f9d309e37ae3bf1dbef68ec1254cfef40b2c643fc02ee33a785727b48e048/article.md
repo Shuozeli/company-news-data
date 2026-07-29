@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2020/New-National-Survey-Finds-the-Majority-of-Retail-Pharmacies-and-Health-Plans-Are-Concerned-About-People-Actually-Taking-the-COVID-19-Vaccine-Once-Its-Available/default.aspx"
 published_at: "2020-11-11T05:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T20:19:36.099870+00:00"
+fetched_at: "2026-07-28T23:03:29.570108+00:00"
 content_hash: "sha256:1f1f10495656bf1a1626f86d6290db1ee32c08be06ae1a52b626ff6380a48d07"
 ---
 

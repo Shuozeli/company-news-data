@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2014/First-Patients-Enrolled-in-Landmark-Clinical-Study-to-Evaluate-the-Role-of-Packaging-in-Improving-Medication-Adherence/default.aspx"
 published_at: "2014-09-25T04:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T20:19:36.099870+00:00"
+fetched_at: "2026-07-28T23:03:29.570108+00:00"
 content_hash: "sha256:7cdea53582ab6e359e4fa872e0cc2f27abaeba38be8e05ef5f04fc88bf5efc7f"
 ---
 

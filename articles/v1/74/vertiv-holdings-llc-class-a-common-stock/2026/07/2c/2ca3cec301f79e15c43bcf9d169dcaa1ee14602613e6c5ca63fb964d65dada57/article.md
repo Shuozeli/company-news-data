@@ -7,7 +7,7 @@ source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
 canonical_url: "https://www.vertiv.com/https://investors.vertiv.com/financial-news/news-details/2025/Vertiv-Reports-Strong-Orders-Sales-and-EPS-Growth-Raises-Full-Year-Guidance/default.aspx"
 published_at: null
 first_seen_at: "2026-07-20T23:21:38.534751+00:00"
-fetched_at: "2026-07-28T20:39:59.455460+00:00"
+fetched_at: "2026-07-28T23:23:56.894710+00:00"
 content_hash: "sha256:32359e07d6b03113766543b0e3defe8e9f432573c177324ee369f4c85bc88bc9"
 ---
 

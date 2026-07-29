@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/conversational-ai-financial-services"
 published_at: "2025-09-16T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:66fafff95f72062ec448b8d99fddd14ef763ee155c5fdfbd1e6f51b096e9fb15"
 ---
 

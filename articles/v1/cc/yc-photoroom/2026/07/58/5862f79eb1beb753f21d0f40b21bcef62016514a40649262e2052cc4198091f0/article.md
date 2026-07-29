@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-d1044ff9c1aa"
 canonical_url: "https://www.photoroom.com/blog/prx-pixel-photoroom-s-open-source-pixel-space-image-model"
-published_at: "2026-07-06T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:08.835718+00:00"
 fetched_at: "2026-07-28T21:47:36.059629+00:00"
 content_hash: "sha256:68d9104299e3567d87af5b3f12a3a1746482a6b5533d7150bf279b4d242c8436"

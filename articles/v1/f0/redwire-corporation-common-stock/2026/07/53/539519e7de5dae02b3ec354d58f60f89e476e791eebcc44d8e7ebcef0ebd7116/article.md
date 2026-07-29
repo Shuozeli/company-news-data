@@ -7,7 +7,7 @@ source_id: "redwire-corporation-common-stock-rss-a3eb383a60df"
 canonical_url: "https://rdw.com/newsroom/huntsvilles-redwire-adds-150-jobs-with-major-expansion/"
 published_at: "2026-07-23T02:20:34+00:00"
 first_seen_at: "2026-07-23T02:34:19.438987+00:00"
-fetched_at: "2026-07-28T21:23:50.998713+00:00"
+fetched_at: "2026-07-29T00:26:21.020535+00:00"
 content_hash: "sha256:31cb132cfbd2b51ab8e2fa16a9fc8fb9ffb2bc6e0064b72e2cc1390e9ca66a83"
 ---
 

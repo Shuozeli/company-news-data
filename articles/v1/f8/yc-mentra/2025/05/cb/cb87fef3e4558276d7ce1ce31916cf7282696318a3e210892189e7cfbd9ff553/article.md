@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/augmentedchords-goes-1-on-hacker-news-sheet-music-app-build-on-mentraos"
 published_at: "2025-05-06T03:56:00+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T19:58:18.617561+00:00"
+fetched_at: "2026-07-28T23:47:18.716244+00:00"
 content_hash: "sha256:2e6fef1fa77652d9845f1d7cc47d5a4bd8e645fcf09428eed1ce336554b2e277"
 ---
 

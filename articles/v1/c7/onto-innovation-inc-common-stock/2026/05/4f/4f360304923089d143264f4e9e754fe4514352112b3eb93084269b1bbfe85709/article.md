@@ -7,7 +7,7 @@ source_id: "onto-innovation-inc-common-stock-rss-c0808ecb27f7"
 canonical_url: "https://investors.ontoinnovation.com/news/news-details/2026/Onto-Innovation-Announces-Pricing-of-Upsized-Private-Offering-of-1-3-Billion-of-0-00-Convertible-Senior-Notes-Due-2031/default.aspx"
 published_at: "2026-05-19T03:24:00+00:00"
 first_seen_at: "2026-07-25T17:34:39.012386+00:00"
-fetched_at: "2026-07-28T20:44:53.593225+00:00"
+fetched_at: "2026-07-28T23:28:44.600129+00:00"
 content_hash: "sha256:427c8a24989ebba9f812974235094771c16e044ab872942a109cf356fdf17248"
 ---
 

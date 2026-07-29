@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/purely-canada-announces-phase-1-development-approach/"
 published_at: "2020-10-21T20:07:45+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:7bba7f4a6f9c67006066535162784c7c28b4777cd2768685cba07e84f4b9dde1"
 ---
 

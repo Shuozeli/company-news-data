@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/choose-the-starting-point-embedded-system-design"
 published_at: "2021-04-16T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:7b0198eb4d20fbeb848c91752cc389dcdc1d077f37084b4ca8d0f05787996e20"
 ---
 

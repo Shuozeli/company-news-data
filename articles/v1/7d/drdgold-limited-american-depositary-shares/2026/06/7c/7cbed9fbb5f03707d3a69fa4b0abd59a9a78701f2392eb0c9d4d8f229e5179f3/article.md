@@ -7,7 +7,7 @@ source_id: "drdgold-limited-american-depositary-shares-rss-0b0d638d96d7"
 canonical_url: "https://www.drdgold.com/media-insights/in-the-media/2026/1834-real-mine-rehabilitation-is-not-a-cosmetic-fix-behind-a-paywall-subscription-required-to-read"
 published_at: "2026-06-02T05:18:13+00:00"
 first_seen_at: "2026-07-27T01:56:23.749821+00:00"
-fetched_at: "2026-07-28T21:13:02.108961+00:00"
+fetched_at: "2026-07-28T23:58:09.802602+00:00"
 content_hash: "sha256:7458c15c9239029c8f35e7ea8bd8dd9147543f369a58a045b946a034e4e80e50"
 ---
 

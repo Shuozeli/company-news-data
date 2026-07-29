@@ -17,8 +17,8 @@
   "summary": "ExtremeXOS uses a challenge-response mechanism to authorize access to the privileged debug-mode function. The challenge value is generated using an insufficiently random source, which under certain conditions may allow an attacker to predict the expected response and activate debug-mode without authorization. Depending on device configuration and version, this may enable escalation to root-level access and persistent modification of the device software stack. Exploitation requires either a valid low-privilege account on the device (remote scenario) or physical serial console access (local scenario). Extreme would like to thank Hadrien Barral (Université Gustave Eiffel) and Georges-Axel Jaloyan (French Ministry of the Interior) for responsible disclosure of their findings. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
   "published_at": "2026-07-17T17:53:54+00:00",
   "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
-  "fetched_at": "2026-07-28T20:59:59.352597+00:00",
-  "last_updated_at": "2026-07-28T20:59:59.548941+00:00",
+  "fetched_at": "2026-07-28T23:46:40.217305+00:00",
+  "last_updated_at": "2026-07-28T23:46:40.335342+00:00",
   "paths": {
     "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/cf/cffeccbb435572dbada930a1cb2a9e3e4919c93dd8a550ab074c11ed0e084083/article.md",
     "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/cf/cffeccbb435572dbada930a1cb2a9e3e4919c93dd8a550ab074c11ed0e084083/record.json"
@@ -26,7 +26,7 @@
   "content": {
     "media_type": "text/markdown; charset=utf-8",
     "bytes": 1878,
-    "sha256": "sha256:d1e5a58f992e0a6d19e58aab2bb0e6dcbf1719d89bff6f6ea650fa32fb4ffafd",
+    "sha256": "sha256:6e67230417bc2341581dd3af96a42d8638b80c25a04a8e45b7fc49f204075ac5",
     "normalized_content_hash": "sha256:deea6c58f879d3ef7e70c5f42a509d1b31ac59b826816b620291cc99f92f2d31"
   },
   "provenance": {

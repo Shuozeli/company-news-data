@@ -7,7 +7,7 @@ source_id: "angel-oak-mortgage-reit-inc-common-stock-rss-51be5dacfd2d"
 canonical_url: "https://ir.angeloakreit.com/news/news-details/2025/Angel-Oak-Mortgage-REIT-Inc--Reports-Third-Quarter-2025-Financial-Results/default.aspx"
 published_at: "2025-11-06T12:00:00+00:00"
 first_seen_at: "2026-07-26T09:19:28.910573+00:00"
-fetched_at: "2026-07-28T20:54:17.541295+00:00"
+fetched_at: "2026-07-28T23:40:26.641586+00:00"
 content_hash: "sha256:9ec9588b0fa804cb862423d7e384e2ee6a313ded32e4c1f881dd64a31b86d185"
 ---
 

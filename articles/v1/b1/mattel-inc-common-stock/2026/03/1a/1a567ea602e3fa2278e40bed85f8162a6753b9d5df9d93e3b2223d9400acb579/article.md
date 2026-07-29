@@ -7,7 +7,7 @@ source_id: "mattel-inc-common-stock-rss-8ff1085172ee"
 canonical_url: "https://investors.mattel.com/news/news-details/2026/Mattel-and-Amazon-MGM-Studios-Debut-Official-Trailer-for-Masters-of-the-Universe-Exclusively-in-Theaters-June-5-2026/default.aspx"
 published_at: "2026-03-31T04:00:00+00:00"
 first_seen_at: "2026-07-25T13:30:51.986343+00:00"
-fetched_at: "2026-07-28T20:19:05.107738+00:00"
+fetched_at: "2026-07-28T23:03:27.301701+00:00"
 content_hash: "sha256:f6833ae52345c7c8b4813412b76b20d3d07752de7b8bc876dca60b18e567b3b1"
 ---
 

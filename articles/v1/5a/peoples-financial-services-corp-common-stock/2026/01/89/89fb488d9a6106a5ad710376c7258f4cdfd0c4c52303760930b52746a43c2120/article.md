@@ -7,7 +7,7 @@ source_id: "peoples-financial-services-corp-common-stock-rss-8700892cbeff"
 canonical_url: "https://ir.psbt.com/investor-resources/press-releases/news-details/2026/PEOPLES-FINANCIAL-SERVICES-CORP--Reports-Unaudited-Fourth-Quarter-and-Full-Year-2025-Earnings/default.aspx"
 published_at: "2026-01-30T23:44:00+00:00"
 first_seen_at: "2026-07-27T04:18:30.850229+00:00"
-fetched_at: "2026-07-28T20:24:32.782262+00:00"
+fetched_at: "2026-07-28T23:09:06.573086+00:00"
 content_hash: "sha256:a08f5ecb042bd5935c00317a36cde4b52336d0a8dbec27059afe8c628824438d"
 ---
 

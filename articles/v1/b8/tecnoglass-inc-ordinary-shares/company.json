@@ -52,5 +52,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b8/tecnoglass-inc-ordinary-shares/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 25104,
+        "sha256": "sha256:ac957b47ff9b9a26d8b6385800b77e5e2e3380c7b2999560be61ec4e1b37203d",
+        "newest_at": "2026-07-21T11:00:00+00:00",
+        "oldest_at": "2024-08-23T16:41:04+00:00"
+      }
+    ]
+  }
 }

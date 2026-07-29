@@ -4,9 +4,9 @@
     "key": "americold-realty-trust-inc-common-stock",
     "name": "Americold Realty Trust Inc. Common Stock"
   },
-  "record_count": 10,
+  "record_count": 11,
   "first_published_at": "2026-05-06T19:49:34+00:00",
-  "last_published_at": "2026-06-16T18:49:07+00:00",
+  "last_published_at": "2026-07-23T13:08:39+00:00",
   "partitions": [
     {
       "partition": "2026-05",
@@ -15,6 +15,27 @@
     {
       "partition": "2026-06",
       "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/americold-realty-trust-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 13379,
+        "sha256": "sha256:2bd2075aaae800854131e2c986a61586d5de7a3fbe049741dd65bc89bc07830e",
+        "newest_at": "2026-07-23T13:08:39+00:00",
+        "oldest_at": "2026-05-06T19:49:34+00:00"
+      }
+    ]
+  }
 }

@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4d/flotek-industries-inc-common-stock/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 6490,
+        "sha256": "sha256:aea9dfc72ba1771b0a5d24d56fdaba824cbe064d9691af1a16ccc45acc58e1e2",
+        "newest_at": "2026-07-06T21:09:00+00:00",
+        "oldest_at": "2026-03-03T11:55:00+00:00"
+      }
+    ]
+  }
 }

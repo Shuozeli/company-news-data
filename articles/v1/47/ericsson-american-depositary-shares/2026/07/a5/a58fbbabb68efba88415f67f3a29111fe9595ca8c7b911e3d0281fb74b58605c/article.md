@@ -7,7 +7,7 @@ source_id: "ericsson-american-depositary-shares-atom-6bf64ebaa824"
 canonical_url: "https://www.ericsson.com/en/press-releases/2026/7/share-buybacks-in-ericsson-during-the-period-july-13--july-17-2026"
 published_at: "2026-07-20T06:30:00+00:00"
 first_seen_at: "2026-07-21T01:18:49.155691+00:00"
-fetched_at: "2026-07-28T21:50:25.830786+00:00"
+fetched_at: "2026-07-29T00:16:19.705635+00:00"
 content_hash: "sha256:de15d0a68702a628a1bf6cab96246c133e869d7260aca27e3a5f81e16a9b2bf6"
 ---
 

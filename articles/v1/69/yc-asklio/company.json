@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/69/yc-asklio/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8694,
+        "sha256": "sha256:92e5afa9ce6fb2fb00f4372373f82ce5bdfe05fa375d375f95817de2484e8bf5",
+        "newest_at": "2026-07-27T00:00:00+00:00",
+        "oldest_at": "2026-07-27T00:00:00+00:00"
+      }
+    ]
+  }
 }

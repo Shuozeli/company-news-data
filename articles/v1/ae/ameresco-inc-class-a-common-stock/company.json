@@ -48,5 +48,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/ameresco-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 25985,
+        "sha256": "sha256:3276febc281ca10a300680f4b6de38d343ea08b371a66a116a4f6e7ae26aa6a1",
+        "newest_at": "2026-07-27T20:35:16+00:00",
+        "oldest_at": "2020-02-13T23:30:00+00:00"
+      }
+    ]
+  }
 }

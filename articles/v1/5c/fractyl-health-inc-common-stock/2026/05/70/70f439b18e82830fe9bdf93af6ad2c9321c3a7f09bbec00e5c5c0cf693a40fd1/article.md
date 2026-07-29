@@ -7,7 +7,7 @@ source_id: "fractyl-health-inc-common-stock-rss-347083c4f534"
 canonical_url: "https://www.fractyl.com/our-science/presentations-publications/rejuva-beta-cell-targeted-smart-glp-1-aav-gene-therapy/"
 published_at: "2026-05-06T14:45:30+00:00"
 first_seen_at: "2026-07-24T09:07:29.122181+00:00"
-fetched_at: "2026-07-28T21:05:07.497154+00:00"
+fetched_at: "2026-07-28T23:51:41.401622+00:00"
 content_hash: "sha256:a09d11ff123063d343f31003d30f3fa8e982dfe965dc13827a4af1e045d34fc1"
 ---
 

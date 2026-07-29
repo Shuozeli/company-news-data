@@ -7,7 +7,7 @@ source_id: "enanta-pharmaceuticals-inc-common-stock-rss-6165ef0aa60b"
 canonical_url: "https://www.enanta.com/zelicapavir-decreases-symptom-duration-hospitalization-and-viral-load-in-a-global-randomized-double-blinded-placebo-controlled-phase-ii-trial-of-high-risk-adults-with-rsv/"
 published_at: "2026-04-18T20:29:00+00:00"
 first_seen_at: "2026-07-25T03:15:15.140684+00:00"
-fetched_at: "2026-07-28T20:31:52.735283+00:00"
+fetched_at: "2026-07-28T23:17:26.594855+00:00"
 content_hash: "sha256:b4a285ff8ba1e817aea2c5a46502b5a4acffc034d5609ff62f24b94a95d6220d"
 ---
 

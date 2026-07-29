@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/toyota-adds-trailhunter-packages-to-2027-tundra-and-sequoia/"
 published_at: "2026-07-27T21:00:00+00:00"
 first_seen_at: "2026-07-27T21:18:42.828551+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:83d77a30231c39deb351491a3fd09827bd4a5d7d59a1a437426c0ff923b9b7bf"
 ---
 

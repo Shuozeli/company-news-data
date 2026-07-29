@@ -7,7 +7,7 @@ source_id: "crocs-inc-common-stock-rss-06481efa57c0"
 canonical_url: "https://investors.crocs.com/news-and-events/press-releases/press-release-details/2026/Crocs-Inc--to-Present-at-Bairds-2026-Global-Consumer-Technology--Services-Conference/default.aspx"
 published_at: "2026-06-01T15:32:00+00:00"
 first_seen_at: "2026-07-25T01:25:14.804076+00:00"
-fetched_at: "2026-07-28T20:22:30.571615+00:00"
+fetched_at: "2026-07-28T23:06:23.889804+00:00"
 content_hash: "sha256:763cca1daf43d7faf73c139e5d27a833a8bc7f4c5f7329b36bd43bd65dc3618e"
 ---
 

@@ -12,5 +12,22 @@
       "partition": "2026-02",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/15/yc-dime-2/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1013,
+        "sha256": "sha256:bd8b7b6acec9c5168bcb024b426c71561eaf23d58a48f6f8c75c49e0a3e20abb",
+        "newest_at": "2026-02-25T05:13:27.970+00:00",
+        "oldest_at": "2026-02-25T05:13:27.970+00:00"
+      }
+    ]
+  }
 }

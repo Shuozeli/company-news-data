@@ -4,9 +4,9 @@
     "key": "yc-fountain",
     "name": "Fountain"
   },
-  "record_count": 21,
+  "record_count": 25,
   "first_published_at": "2025-11-21T16:55:26+00:00",
-  "last_published_at": "2026-07-23T05:54:00+00:00",
+  "last_published_at": "2026-07-28T21:33:28+00:00",
   "partitions": [
     {
       "partition": "2025-11",
@@ -26,7 +26,24 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 15
+      "record_count": 19
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ce/yc-fountain/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 25566,
+        "sha256": "sha256:1f83809881404767f977eda3224a0bc416d2d78329dcb9ea878109406596e918",
+        "newest_at": "2026-07-28T21:33:28+00:00",
+        "oldest_at": "2025-11-21T16:55:26+00:00"
+      }
+    ]
+  }
 }

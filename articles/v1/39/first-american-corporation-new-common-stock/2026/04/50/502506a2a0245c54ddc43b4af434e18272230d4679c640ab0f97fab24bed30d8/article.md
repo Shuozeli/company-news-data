@@ -7,7 +7,7 @@ source_id: "first-american-corporation-new-common-stock-rss-9f2a876b0601"
 canonical_url: "https://investors.firstam.com/investors/news-and-events/news/press-release-details/2026/First-American-Marks-11-Years-as-One-of-the-Fortune-100-Best-Companies-to-Work-For/default.aspx"
 published_at: "2026-04-01T15:30:00+00:00"
 first_seen_at: "2026-07-27T02:25:37.726374+00:00"
-fetched_at: "2026-07-28T19:58:13.821166+00:00"
+fetched_at: "2026-07-28T23:47:05.635436+00:00"
 content_hash: "sha256:568e79e5624eb1ef7e2e74fc4bee22f45255115f36e28644e0cb43a0c85f4419"
 ---
 

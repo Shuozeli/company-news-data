@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2019/teradata-reports-first-quarter-2019-financial-results"
 published_at: "2019-05-02T07:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T19:37:01.666775+00:00"
+fetched_at: "2026-07-28T23:07:12.403269+00:00"
 content_hash: "sha256:dd827cf22d4ef0da48918310ba20becbed409bb9bd6d4e1a1b8f0b6c21b02955"
 ---
 

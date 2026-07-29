@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/pricing-compliance-without-rewrites"
 published_at: "2026-03-28T01:07:15+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:88c31905d450ed3325b060151255be708993c9b74e796508f32be5dbcade84f5"
 ---
 

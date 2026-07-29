@@ -7,7 +7,7 @@ source_id: "harmony-biosciences-holdings-inc-common-stock-rss-ec59729ed92f"
 canonical_url: "https://www.harmonybiosciences.com/harmony-biosciences-reports-q1-financial-results-and-confirms-2026-net-revenue-guidance-of-over-1-billion-reinforces-2026-strategic-priorities/"
 published_at: "2026-05-07T07:30:00+00:00"
 first_seen_at: "2026-07-25T07:36:23.779670+00:00"
-fetched_at: "2026-07-28T20:21:18.357464+00:00"
+fetched_at: "2026-07-28T23:04:32.308046+00:00"
 content_hash: "sha256:aa103ac4d420e596a61c19cbf70d2d503573dcbba2d40237300150e87e5efa66"
 ---
 

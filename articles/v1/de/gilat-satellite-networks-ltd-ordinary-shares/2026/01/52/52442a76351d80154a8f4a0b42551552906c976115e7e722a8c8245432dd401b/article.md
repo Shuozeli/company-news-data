@@ -7,7 +7,7 @@ source_id: "gilat-satellite-networks-ltd-ordinary-shares-rss-076d0814984f"
 canonical_url: "https://www.gilat.com/newsroom/media/2025-at-gilat-strategic-focus-on-growth-engines-demonstrate-success/"
 published_at: "2026-01-07T11:37:56+00:00"
 first_seen_at: "2026-07-25T03:17:43.964106+00:00"
-fetched_at: "2026-07-28T20:37:57.787391+00:00"
+fetched_at: "2026-07-28T23:21:54.528556+00:00"
 content_hash: "sha256:e4b2491be3e1f6bb17a69f5fcfb8a6ad040680c351e058a58093f06b09cd2254"
 ---
 

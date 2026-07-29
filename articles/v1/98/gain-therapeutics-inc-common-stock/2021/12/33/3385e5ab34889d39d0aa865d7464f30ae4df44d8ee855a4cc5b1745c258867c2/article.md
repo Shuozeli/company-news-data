@@ -7,7 +7,7 @@ source_id: "gain-therapeutics-inc-common-stock-rss-2e93004a3a3a"
 canonical_url: "https://gaintherapeutics.com/web-stories/how-to-use-alphafold-2-how-does-it-work/"
 published_at: "2021-12-13T06:23:46+00:00"
 first_seen_at: "2026-07-20T23:19:48.241067+00:00"
-fetched_at: "2026-07-28T22:02:14.092979+00:00"
+fetched_at: "2026-07-29T00:40:51.328400+00:00"
 content_hash: "sha256:dfc341b5fd9af04a545cb38941d753c2936dfbeb332a0d66e264a9897bc093a0"
 ---
 

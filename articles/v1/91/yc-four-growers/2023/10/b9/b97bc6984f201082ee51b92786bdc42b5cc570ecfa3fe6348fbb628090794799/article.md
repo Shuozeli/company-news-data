@@ -7,7 +7,7 @@ source_id: "yc-four-growers-rss-8be8350904ae"
 canonical_url: "https://fourgrowers.com/about/media/ifpa-takes-on-tech-podcast-live-from-the-global-produce-floral-show/"
 published_at: "2023-10-30T15:02:12+00:00"
 first_seen_at: "2026-07-25T05:36:06.101502+00:00"
-fetched_at: "2026-07-28T20:35:25.463894+00:00"
+fetched_at: "2026-07-28T23:19:57.925010+00:00"
 content_hash: "sha256:eef14b02efea6d8273dc0ea20730ae78781c08caa083d03fe05d148f085e6cc7"
 ---
 

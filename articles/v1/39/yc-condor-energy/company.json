@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/39/yc-condor-energy/index/pages/000001.json",
+        "record_count": 17,
+        "byte_count": 17688,
+        "sha256": "sha256:44f6e86093299a088bfd61be6f11fdbdb390dae6dd070294bd8090f9d3f032bd",
+        "newest_at": "2026-07-13T14:07:29+00:00",
+        "oldest_at": "2002-03-30T02:41:31+00:00"
+      }
+    ]
+  }
 }

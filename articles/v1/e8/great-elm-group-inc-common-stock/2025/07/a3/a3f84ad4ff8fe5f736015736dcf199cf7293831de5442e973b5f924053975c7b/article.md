@@ -7,7 +7,7 @@ source_id: "great-elm-group-inc-common-stock-rss-afee43b60da9"
 canonical_url: "http://www.greatelmgroup.com/press-releases/press-release-details/2025/Great-Elm-Group-Announces-Strategic-Partnership-with-Kennedy-Lewis-Investment-Management/default.aspx"
 published_at: "2025-07-31T20:05:00+00:00"
 first_seen_at: "2026-07-25T07:03:42.627230+00:00"
-fetched_at: "2026-07-28T21:32:33.564576+00:00"
+fetched_at: "2026-07-29T00:10:33.504674+00:00"
 content_hash: "sha256:2ff80b6c1ca14a3a55ca1e16689620bb068a78c19b7e4e338884695a231ea627"
 ---
 

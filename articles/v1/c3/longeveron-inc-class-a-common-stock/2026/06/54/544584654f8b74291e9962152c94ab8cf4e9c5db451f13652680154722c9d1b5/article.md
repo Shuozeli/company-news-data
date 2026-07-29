@@ -7,7 +7,7 @@ source_id: "longeveron-inc-class-a-common-stock-rss-67d3213fd071"
 canonical_url: "https://investors.longeveron.com/news/News/news-details/2026/Longeveron-Granted-Small-or-Medium-sized-Enterprise-SME-Status-by-the-European-Medicines-Agency-EMA/default.aspx"
 published_at: "2026-06-09T13:20:00+00:00"
 first_seen_at: "2026-07-25T12:43:41.146504+00:00"
-fetched_at: "2026-07-28T21:24:18.085397+00:00"
+fetched_at: "2026-07-29T00:25:00.376877+00:00"
 content_hash: "sha256:c723da81b666973d049c786ef4475e302210b5696d73820fa9cc46278357d091"
 ---
 

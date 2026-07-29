@@ -7,7 +7,7 @@ source_id: "insteel-industries-inc-common-stock-rss-c8a36e11d769"
 canonical_url: "https://investor.insteel.com/news/news-details/2026/Insteel-Industries-Announces-Second-Quarter-2026-Conference-Call/default.aspx"
 published_at: "2026-03-16T14:00:00+00:00"
 first_seen_at: "2026-07-25T09:37:02.199738+00:00"
-fetched_at: "2026-07-28T20:03:50.806735+00:00"
+fetched_at: "2026-07-28T23:52:46.049045+00:00"
 content_hash: "sha256:b3a7c260dd373f64e21a9a738ad8645c7426efa0f632b1d5e60d12b8420827ad"
 ---
 

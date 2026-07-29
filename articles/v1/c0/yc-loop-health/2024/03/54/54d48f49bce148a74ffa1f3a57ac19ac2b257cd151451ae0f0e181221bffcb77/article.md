@@ -7,7 +7,7 @@ source_id: "yc-loop-health-rss-2b917676138c"
 canonical_url: "https://loophealth.io/embracing-wellness-how-culturally-attuned-therapy-supports-mental-health-in-the-latino-community/"
 published_at: "2024-03-26T02:21:35+00:00"
 first_seen_at: "2026-07-24T09:56:55.836543+00:00"
-fetched_at: "2026-07-28T21:05:55.660066+00:00"
+fetched_at: "2026-07-28T23:52:12.241134+00:00"
 content_hash: "sha256:8b221c47f5562c9c1d4dbed9828573425ef5e80134bdb4c3d2e9e927aad039ed"
 ---
 

@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/navigating-the-ai-infrastructure-sprint-lessons-from-the-h2-2025-data-center-trends"
 published_at: "2026-05-07T00:00:00+00:00"
 first_seen_at: "2026-07-28T20:33:46.828941+00:00"
-fetched_at: "2026-07-28T20:33:46.789564+00:00"
+fetched_at: "2026-07-28T23:18:38.216278+00:00"
 content_hash: "sha256:ee48ee76a71fd2097725b76b20cd7d3e19a32ff816f788b9630e83ca39b22b40"
 ---
 

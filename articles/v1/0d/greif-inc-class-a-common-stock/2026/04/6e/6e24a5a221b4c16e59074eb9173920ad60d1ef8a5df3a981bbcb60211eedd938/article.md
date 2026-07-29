@@ -7,7 +7,7 @@ source_id: "greif-inc-class-a-common-stock-rss-09ba0581f9d5"
 canonical_url: "https://www.greif.com/es/beyond-headlines-a-science-based-look-at-fluorination-and-pfas-why-process-chemistry-and-oxygen-control-not-speculation-should-guide-barrier-selection/"
 published_at: "2026-04-07T20:22:34+00:00"
 first_seen_at: "2026-07-27T18:04:16.112319+00:00"
-fetched_at: "2026-07-28T22:09:04.612033+00:00"
+fetched_at: "2026-07-29T00:47:49.256511+00:00"
 content_hash: "sha256:c466bd02f571c1d58e06b810a23fbe169a04dbb8e58a7732a565feee21ad6481"
 ---
 

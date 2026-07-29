@@ -20,5 +20,22 @@
       "partition": "2026-06",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3d/yc-hockeystack/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 14028,
+        "sha256": "sha256:ed861d9c96daff95e0ec711aa4902eb268c5eac216dc3502d61dab98e9844e00",
+        "newest_at": "2026-06-03T00:00:00+00:00",
+        "oldest_at": "2025-12-01T00:00:00+00:00"
+      }
+    ]
+  }
 }

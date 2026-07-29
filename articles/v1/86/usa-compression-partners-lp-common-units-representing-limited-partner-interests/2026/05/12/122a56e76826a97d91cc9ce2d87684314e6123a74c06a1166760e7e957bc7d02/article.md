@@ -7,7 +7,7 @@ source_id: "usa-compression-partners-lp-common-units-representing-limited-partne
 canonical_url: "https://investors.usacompression.com/news-releases/news-details/2026/USA-Compression-Partners-Reports-First-Quarter-2026-Results-Confirms-2026-Outlook/default.aspx"
 published_at: "2026-05-05T10:55:00+00:00"
 first_seen_at: "2026-07-26T03:59:07.039718+00:00"
-fetched_at: "2026-07-28T20:20:34.059786+00:00"
+fetched_at: "2026-07-28T23:04:02.645660+00:00"
 content_hash: "sha256:356e7c667064a9ba28c02a6e83f60a70d1112e8fabac16d4770644fa5f49efd0"
 ---
 

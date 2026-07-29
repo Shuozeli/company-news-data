@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2026/digi-launches-mcp-server-to-power-ai-workflows"
 published_at: "2026-02-25T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:c1614c8efe4e527a7f1f4e5fb9384963086344c2beed841b56d57ee8851cc148"
 ---
 

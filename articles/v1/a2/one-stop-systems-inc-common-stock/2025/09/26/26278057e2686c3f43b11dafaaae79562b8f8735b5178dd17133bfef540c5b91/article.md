@@ -7,7 +7,7 @@ source_id: "one-stop-systems-inc-common-stock-atom-3c5790b2a18f"
 canonical_url: "https://onestopsystems.com/blogs/one-stop-systems-blog/ponto-pcie-accelerator-infographic"
 published_at: "2025-09-10T17:07:39+00:00"
 first_seen_at: "2026-07-20T23:19:18.941877+00:00"
-fetched_at: "2026-07-28T20:13:55.562330+00:00"
+fetched_at: "2026-07-28T22:55:34.314523+00:00"
 content_hash: "sha256:2da57000d33b63cd435fadb4e26cac9692ec6d198283575a0520a169afb1e358"
 ---
 

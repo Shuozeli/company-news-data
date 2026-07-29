@@ -7,7 +7,7 @@ source_id: "yc-supabase-rss-47281c9e7110"
 canonical_url: "https://supabase.com/blog/how-supabase-accelerates-development-of-all-pull-together"
 published_at: "2022-05-26T07:00:00+00:00"
 first_seen_at: "2026-07-20T23:24:12.344578+00:00"
-fetched_at: "2026-07-28T20:28:31.832124+00:00"
+fetched_at: "2026-07-28T23:14:46.325564+00:00"
 content_hash: "sha256:0df8c75ab73a4b91596bcf41006bb80d586df8e6da02088a80f66524e0f50a54"
 ---
 

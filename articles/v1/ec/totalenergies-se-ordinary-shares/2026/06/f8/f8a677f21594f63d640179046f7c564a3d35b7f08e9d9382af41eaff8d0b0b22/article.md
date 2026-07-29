@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/httpstribucanetun-tiers-des-investissements-de-totalenergies-sont-aujourdhui-fleches-vers-lelectricite/"
 published_at: "2026-06-10T14:27:45+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:7ebd999b0872f20d07839ae6d252509671ad5ad1f3f352bfca2aa28f9c38477a"
 ---
 

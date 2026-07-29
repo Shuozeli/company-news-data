@@ -7,7 +7,7 @@ source_id: "first-bancorp-inc-me-common-stock-rss-fb481d38c26c"
 canonical_url: "https://investors.thefirst.com/news/news-details/2026/The-First-Bancorp-Reports-Fourth-Quarter-and-2025-Annual-Results/default.aspx"
 published_at: "2026-01-21T21:15:00+00:00"
 first_seen_at: "2026-07-27T02:26:21.178998+00:00"
-fetched_at: "2026-07-28T20:02:39.328663+00:00"
+fetched_at: "2026-07-28T23:51:49.094534+00:00"
 content_hash: "sha256:6bf7a2d22603369a02b464c4112c2b6815a14ef98071ed0aa6c8a847548739ee"
 ---
 

@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/40/phinia-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 20305,
+        "sha256": "sha256:1ca11b43db850e93c3feae40be82c4076cfd80565142f18b80968b67e17139a1",
+        "newest_at": "2026-07-28T11:30:00+00:00",
+        "oldest_at": "2026-03-30T11:30:00+00:00"
+      }
+    ]
+  }
 }

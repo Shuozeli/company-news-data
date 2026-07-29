@@ -7,7 +7,7 @@ source_id: "mind-c-t-i-ltd-ordinary-shares-rss-084dd31b7ad6"
 canonical_url: "https://mindcti.com/2025/03/25/q2-2025-earnings-release/"
 published_at: "2025-03-25T09:02:14+00:00"
 first_seen_at: "2026-07-24T11:15:11.411110+00:00"
-fetched_at: "2026-07-28T21:01:56.193628+00:00"
+fetched_at: "2026-07-28T23:48:59.632250+00:00"
 content_hash: "sha256:48f24446cb199ae0fedf992be5e4d330d869a785310b12b2086deb0f39cdffbd"
 ---
 

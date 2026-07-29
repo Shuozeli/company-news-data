@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/oleum-notre-centre-de-formation-aux-metiers-de-lindustrie/"
 published_at: "2026-04-10T17:18:52+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:137187d09b4032b3761f6f2c8544aeb8da7e9edd58a85e0743225eaa6e18bc50"
 ---
 

@@ -7,7 +7,7 @@ source_id: "petco-health-and-wellness-company-inc-class-a-common-stock-rss-d8b90
 canonical_url: "https://corporate.petco.com/2026-05-19-Petco-Unveils-Summer-Collection-Packed-with-New,-Exclusive-Must-Haves-to-Keep-Pets-and-their-Humans-Cool,-Active-and-Stylish"
 published_at: "2026-05-19T12:02:00+00:00"
 first_seen_at: "2026-07-27T04:21:05.876149+00:00"
-fetched_at: "2026-07-28T20:28:24.215682+00:00"
+fetched_at: "2026-07-28T23:14:45.610353+00:00"
 content_hash: "sha256:717b8e06c6a04df4c70eb246e9d240ea61eb390e27805ff53f15d70b30310b05"
 ---
 

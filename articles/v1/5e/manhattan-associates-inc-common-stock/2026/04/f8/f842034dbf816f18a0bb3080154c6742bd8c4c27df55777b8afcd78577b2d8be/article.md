@@ -7,7 +7,7 @@ source_id: "manhattan-associates-inc-common-stock-rss-88d030ed0e00"
 canonical_url: "https://ir.manh.com/news-releases/news-release-details/manhattan-associates-reports-first-quarter-results-0"
 published_at: "2026-04-21T20:06:00+00:00"
 first_seen_at: "2026-07-25T13:08:59.907869+00:00"
-fetched_at: "2026-07-28T21:54:03.163684+00:00"
+fetched_at: "2026-07-29T00:33:47.028097+00:00"
 content_hash: "sha256:1046fa9a04a32648dd3ee0ff7c8ee3c13116397f7f9f965f90d13f13a3d5f6f4"
 ---
 

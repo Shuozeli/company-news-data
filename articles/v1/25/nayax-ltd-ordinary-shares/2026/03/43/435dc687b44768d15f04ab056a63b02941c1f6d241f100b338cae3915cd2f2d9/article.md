@@ -7,7 +7,7 @@ source_id: "nayax-ltd-ordinary-shares-rss-8d8fb50ac7ed"
 canonical_url: "https://ir.nayax.com/news/news-details/2026/Nayax-Partners-with-E-Plug-an-Energy-Plus-NY-Brand-to-Power-Nationwide-EV-Charging-Expansion-with-Integrated-Payment-and-Charging-Management-Platform/default.aspx"
 published_at: "2026-03-16T12:30:00+00:00"
 first_seen_at: "2026-07-25T15:43:21.992679+00:00"
-fetched_at: "2026-07-28T20:17:57.491119+00:00"
+fetched_at: "2026-07-28T23:01:10.665371+00:00"
 content_hash: "sha256:4a7f9d1378425e43402a1b9aa87d2d0d34065ae4fc5cafa18521a1b8330aaaf3"
 ---
 

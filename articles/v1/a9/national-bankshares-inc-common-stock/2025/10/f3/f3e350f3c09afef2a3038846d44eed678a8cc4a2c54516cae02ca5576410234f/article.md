@@ -7,7 +7,7 @@ source_id: "national-bankshares-inc-common-stock-rss-4407399c20f5"
 canonical_url: "https://www.nationalbankshares.com/news/news-details/2025/National-Bankshares-Inc--Reports-Results-for-the-Three-and-Nine-Months-Ended-September-30-2025-2025-MSf5KKCn2v/default.aspx"
 published_at: "2025-10-23T20:30:00+00:00"
 first_seen_at: "2026-07-25T15:34:18.899977+00:00"
-fetched_at: "2026-07-28T22:12:04.264292+00:00"
+fetched_at: "2026-07-29T00:50:55.744691+00:00"
 content_hash: "sha256:823a7c351fc253c167eec36be46fc9ac675d46a30ecfe6c30f90961d5cbd10ca"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/traffic-management-intelligent-transportation-syst"
 published_at: "2020-05-08T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:4ea973d6eae6e38f18e1b5b7444495755a7abe7ccb916df0508689d400dac033"
 ---
 

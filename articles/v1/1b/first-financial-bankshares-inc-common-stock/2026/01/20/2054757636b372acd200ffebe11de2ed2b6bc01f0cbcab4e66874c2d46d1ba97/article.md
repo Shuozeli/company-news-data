@@ -7,7 +7,7 @@ source_id: "first-financial-bankshares-inc-common-stock-rss-0f9dfddb438b"
 canonical_url: "https://investorrelations.ffin.com/news-and-events/news/news-details/2026/First-Financial-Bankshares-Inc--First-Financial-Bank-Announce-Promotion-of-David-Bailey-to-CEO/default.aspx"
 published_at: "2026-01-28T21:05:00+00:00"
 first_seen_at: "2026-07-25T04:49:23.631570+00:00"
-fetched_at: "2026-07-28T19:31:41.281255+00:00"
+fetched_at: "2026-07-29T00:03:33.716560+00:00"
 content_hash: "sha256:76445a610eeabe2fcf12b7e1894daba330915b03138d2bb30f9aa1135b9a8d11"
 ---
 

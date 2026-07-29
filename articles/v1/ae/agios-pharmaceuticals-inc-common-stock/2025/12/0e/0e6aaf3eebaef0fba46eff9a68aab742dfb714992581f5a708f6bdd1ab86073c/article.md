@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/in-this-issue-we-bring-you-excerpts-from-an-interview-withdr-antonella-meloni-of-the-bioengineering-unit-toscana-gabrielemonasterio-foundation-pisa-and-dr-paolo-ricchi-internist-fromazienda-osped/"
 published_at: "2025-12-05T20:22:34+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-28T21:47:02.623482+00:00"
+fetched_at: "2026-07-29T00:23:58.530332+00:00"
 content_hash: "sha256:3437d57109e2a3b069664fc2ef6e0c62702ecd0fa37506ca5ee4d2fa39475cce"
 ---
 

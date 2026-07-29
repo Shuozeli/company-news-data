@@ -7,7 +7,7 @@ source_id: "planet-fitness-inc-common-stock-rss-514f026fe840"
 canonical_url: "http://investor.planetfitness.com/investors/press-releases/press-release-details/2026/Planet-Fitness-Appoints-Harmit-Singh-to-Board-of-Directors/default.aspx"
 published_at: "2026-03-16T12:00:00+00:00"
 first_seen_at: "2026-07-25T19:11:41.755428+00:00"
-fetched_at: "2026-07-28T21:19:55.553989+00:00"
+fetched_at: "2026-07-29T00:14:33.992862+00:00"
 content_hash: "sha256:06cf00690c1e7718ecf44c47c542414199a5f0964e4a378811508e866d831fe2"
 ---
 

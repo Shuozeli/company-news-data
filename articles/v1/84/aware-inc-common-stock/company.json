@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/84/aware-inc-common-stock/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 25560,
+        "sha256": "sha256:517abd35afaee07cc2bb228633b3761d9d40d05d4e342e15cd8fa3725a2bbfbe",
+        "newest_at": "2026-07-20T20:00:08+00:00",
+        "oldest_at": "2025-10-15T16:55:55+00:00"
+      }
+    ]
+  }
 }

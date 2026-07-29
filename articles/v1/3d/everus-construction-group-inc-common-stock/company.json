@@ -36,5 +36,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3d/everus-construction-group-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 18972,
+        "sha256": "sha256:2410f9a9e3251ae2ddafc45482b1181687d5d2539c347d5d0a107bf1cce7137b",
+        "newest_at": "2026-07-22T21:42:00+00:00",
+        "oldest_at": "2025-11-04T21:30:00+00:00"
+      }
+    ]
+  }
 }

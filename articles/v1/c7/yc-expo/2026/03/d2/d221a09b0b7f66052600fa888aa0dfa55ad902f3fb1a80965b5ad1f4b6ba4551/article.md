@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/home-screen-widgets-and-live-activities-in-expo"
 published_at: "2026-03-04T16:30:38+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T19:46:04.624713+00:00"
+fetched_at: "2026-07-28T23:22:43.346857+00:00"
 content_hash: "sha256:c48ce6c77a80cadff233615bf4a58b84c52314f280ef3db67683ce1183e64bf4"
 ---
 

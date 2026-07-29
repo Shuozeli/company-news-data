@@ -7,7 +7,7 @@ source_id: "hawthorn-bancshares-inc-common-stock-rss-e7bd66d4cce9"
 canonical_url: "https://hawthornbancshares.com/news-events/news/news-details/2026/Hawthorn-Bancshares-Announces-Cash-Dividend/default.aspx"
 published_at: "2026-01-28T21:34:00+00:00"
 first_seen_at: "2026-07-25T07:48:36.921287+00:00"
-fetched_at: "2026-07-28T20:46:37.112169+00:00"
+fetched_at: "2026-07-28T23:29:04.248956+00:00"
 content_hash: "sha256:990cb5d26ba09c0dc8126493a7dffdc223b587dcc6d2847029e74f2ab9420b46"
 ---
 

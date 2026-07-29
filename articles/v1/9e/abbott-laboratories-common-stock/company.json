@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9e/abbott-laboratories-common-stock/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 6548,
+        "sha256": "sha256:e1908914f819f51fa57d255af3dc74c23b2959ae83d665e8599f520f90246aef",
+        "newest_at": "2026-07-28T12:42:00+00:00",
+        "oldest_at": "2026-06-08T13:00:00+00:00"
+      }
+    ]
+  }
 }

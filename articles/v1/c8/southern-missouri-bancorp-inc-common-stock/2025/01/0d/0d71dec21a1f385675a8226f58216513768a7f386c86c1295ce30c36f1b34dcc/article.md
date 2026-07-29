@@ -7,7 +7,7 @@ source_id: "southern-missouri-bancorp-inc-common-stock-rss-72d06b4e31ef"
 canonical_url: "https://investors.bankwithsouthern.com/news-events/news/news-details/2025/SOUTHERN-MISSOURI-BANCORP-REPORTS-PRELIMINARY-RESULTS-FOR-SECOND-QUARTER-OF-FISCAL-2025-DECLARES-QUARTERLY-DIVIDEND-OF-0.23-PER-COMMON-SHARE-CONFERENCE-CALL-SCHEDULED-FOR-TUESDAY-JANUARY-28-AT-930-AM-CENTRAL-TIME/default.aspx"
 published_at: "2025-01-27T23:08:00+00:00"
 first_seen_at: "2026-07-25T23:51:15.966166+00:00"
-fetched_at: "2026-07-28T21:38:42.611312+00:00"
+fetched_at: "2026-07-29T00:18:31.369155+00:00"
 content_hash: "sha256:67fc4c94981cb4be45e224ed9339d969d1298356031a3ef158accd035ba46c09"
 ---
 

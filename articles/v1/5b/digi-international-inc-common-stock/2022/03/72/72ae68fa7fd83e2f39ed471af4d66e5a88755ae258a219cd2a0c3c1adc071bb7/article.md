@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/what-is-clean-tech-and-how-is-iot-enabling-it"
 published_at: "2022-03-25T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:790ece02c3afad8d8a72061d131316717f958e70a7e9157f595ab085c00ce7c5"
 ---
 

@@ -7,7 +7,7 @@ source_id: "mativ-holdings-inc-common-stock-rss-5358ab7b546f"
 canonical_url: "https://ir.mativ.com/news/news-details/2026/Mativ-Announces-Conference-Call-to-Discuss-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-02-03T21:05:00+00:00"
 first_seen_at: "2026-07-25T13:30:50.859713+00:00"
-fetched_at: "2026-07-28T20:13:42.507144+00:00"
+fetched_at: "2026-07-28T22:56:06.881496+00:00"
 content_hash: "sha256:8ac6743019e38fcb7b50d270e1188d14f95341a47f320907d6b3de35d47456d9"
 ---
 

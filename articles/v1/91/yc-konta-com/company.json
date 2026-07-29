@@ -60,5 +60,49 @@
       "partition": "2026-02",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/91/yc-konta-com/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 44212,
+        "sha256": "sha256:394ff61d83d3401d310cf20e1086a746b1f88bd4e6f65f5041fb40424e8a7d75",
+        "newest_at": "2026-02-07T12:00:00+00:00",
+        "oldest_at": "2023-11-25T00:45:44+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/91/yc-konta-com/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 44225,
+        "sha256": "sha256:e1518a92f7c3982bffffdd4c8932087fddbf3ad6e3eada940bc1b382e7d3e8f3",
+        "newest_at": "2023-11-25T00:45:44+00:00",
+        "oldest_at": "2023-11-25T00:45:44+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/91/yc-konta-com/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 43780,
+        "sha256": "sha256:74c9b64ccb82cadb4a167e06a2cd52d9c8d696ca4c8705c6e5c9281366bebe6b",
+        "newest_at": "2023-11-25T00:45:44+00:00",
+        "oldest_at": "2022-09-21T14:58:06+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/91/yc-konta-com/index/pages/000004.json",
+        "record_count": 18,
+        "byte_count": 15819,
+        "sha256": "sha256:9ca742443b8ac7135d22ae57185d78b269a55a325ef61bd481b69550bd709daa",
+        "newest_at": "2022-09-20T16:11:25+00:00",
+        "oldest_at": "2022-09-20T15:23:46+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/kings-of-the-road-20th-century-american-enthusiasts-set-the-stage-for-the-modern-collectors-world/"
 published_at: "2026-07-16T13:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:330eb1471fb2dda1e07a9a013bd6ccb900bdf2d5daea99599ef8436a1a6ca830"
 ---
 

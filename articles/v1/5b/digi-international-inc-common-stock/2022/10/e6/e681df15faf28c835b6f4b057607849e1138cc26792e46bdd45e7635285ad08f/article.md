@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/digi-software-updates-dal-os-22-8-firmware"
 published_at: "2022-10-25T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:ea5065ef40db8889a6fef32dad5aa737d8c0901fddfb0b93f172a57742b83933"
 ---
 

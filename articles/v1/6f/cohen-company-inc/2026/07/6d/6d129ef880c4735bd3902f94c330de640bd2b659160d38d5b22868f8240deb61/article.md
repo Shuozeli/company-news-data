@@ -7,7 +7,7 @@ source_id: "cohen-company-inc-rss-b12cf9ad3a83"
 canonical_url: "https://cohenandcompany.com/2026/07/13/columbus-circle-capital-corp-iii-and-cohen-company-inc-announce-completion-of-230-million-initial-public-offering/"
 published_at: "2026-07-13T14:59:24+00:00"
 first_seen_at: "2026-07-24T22:53:38.296871+00:00"
-fetched_at: "2026-07-28T21:47:22.771077+00:00"
+fetched_at: "2026-07-29T00:18:20.497479+00:00"
 content_hash: "sha256:2c8503088ff65590f0d985a77212aebb3d9db8ab8faf561fb3df5e3c60a5a8c0"
 ---
 

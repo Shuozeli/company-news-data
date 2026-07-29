@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/mentra-live-featured-in-engadget-gizmodo-new-york-post-and-more"
 published_at: "2026-01-29T18:47:41+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T19:58:18.617561+00:00"
+fetched_at: "2026-07-28T23:47:18.716244+00:00"
 content_hash: "sha256:da88482a3f75133c622cbcde0e2d9863872923516ca52244aefd47ce7d22d4ef"
 ---
 

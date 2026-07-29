@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/managing-customer-releases-with-feature-flags-instead-of-branches.html"
 published_at: "2019-01-31T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-28T21:37:04.406824+00:00"
+fetched_at: "2026-07-29T00:27:54.647135+00:00"
 content_hash: "sha256:ab0691892a43841c3f10999f73ed3a7cd202a1e558cba98b63725531de770cbf"
 ---
 

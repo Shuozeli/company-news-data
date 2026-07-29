@@ -7,7 +7,7 @@ source_id: "g-willi-food-international-ltd-ordinary-shares-rss-22d1e29e6db5"
 canonical_url: "https://www.willi-food.co.il/%d7%98%d7%90%d7%a8%d7%98-%d7%98%d7%90%d7%98%d7%9f-%d7%90%d7%a0%d7%a0%d7%a1/"
 published_at: "2024-12-10T09:02:50+00:00"
 first_seen_at: "2026-07-20T23:22:44.608448+00:00"
-fetched_at: "2026-07-28T22:08:35.236939+00:00"
+fetched_at: "2026-07-29T00:47:05.226633+00:00"
 content_hash: "sha256:a3b76fe522939392129347b1af890743395414c259d6736a7dc8955209ce28dd"
 ---
 

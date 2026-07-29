@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 22
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2c/zoom-communications-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 38,
+        "byte_count": 45122,
+        "sha256": "sha256:b7e438164144d5369f380871be6b68b7adae0092666b61027b085ad2df86199d",
+        "newest_at": "2026-07-28T16:07:03+00:00",
+        "oldest_at": "2026-06-01T13:00:23+00:00"
+      }
+    ]
+  }
 }

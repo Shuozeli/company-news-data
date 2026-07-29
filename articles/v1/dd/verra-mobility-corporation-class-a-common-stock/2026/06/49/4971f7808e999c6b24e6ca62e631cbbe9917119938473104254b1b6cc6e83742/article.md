@@ -7,7 +7,7 @@ source_id: "verra-mobility-corporation-class-a-common-stock-rss-c9fded9945fb"
 canonical_url: "https://www.smartcitiesdive.com/news/automated-traffic-safety-cameras-speeding-red-light/816573/"
 published_at: "2026-06-03T16:09:30+00:00"
 first_seen_at: "2026-07-20T23:17:27.919851+00:00"
-fetched_at: "2026-07-28T21:22:24.242138+00:00"
+fetched_at: "2026-07-29T00:10:36.566856+00:00"
 content_hash: "sha256:10f500647af5a8c316df9537b73472365b188ab9998a94881bca1c8df709766c"
 ---
 

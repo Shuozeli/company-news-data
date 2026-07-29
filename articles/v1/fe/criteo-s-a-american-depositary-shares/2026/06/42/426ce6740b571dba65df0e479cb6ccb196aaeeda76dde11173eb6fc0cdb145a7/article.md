@@ -7,7 +7,7 @@ source_id: "criteo-s-a-american-depositary-shares-rss-02db2411825d"
 canonical_url: "https://medium.com/criteo-engineering/introducing-clepr-our-model-for-semantic-understanding-d3984eed84c8"
 published_at: "2026-06-02T06:36:00+00:00"
 first_seen_at: "2026-07-20T23:17:33.645392+00:00"
-fetched_at: "2026-07-28T21:18:18.604317+00:00"
+fetched_at: "2026-07-29T00:25:12.574821+00:00"
 content_hash: "sha256:21dd8ecb037f33bf36e9d097aedae1f70bbd33f99bb558007cd5d7033bf71273"
 ---
 

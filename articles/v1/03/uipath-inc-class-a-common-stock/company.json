@@ -56,5 +56,22 @@
       "partition": "2026-06",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/03/uipath-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 23518,
+        "sha256": "sha256:d91dca17a74cb0e8fd60f52061d5207ec8b81a37ed005644ef94aedc902ee7ff",
+        "newest_at": "2026-06-16T12:30:00+00:00",
+        "oldest_at": "2025-05-28T06:21:59+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "lineage-inc-common-stock-rss-e66612fb33a7"
 canonical_url: "https://www.onelineage.com/legacies"
 published_at: "2026-07-07T20:19:09+00:00"
 first_seen_at: "2026-07-20T23:22:16.521419+00:00"
-fetched_at: "2026-07-28T20:32:00.041481+00:00"
+fetched_at: "2026-07-28T23:17:33.950842+00:00"
 content_hash: "sha256:29673609192f3b674cd0d69a9cd1665814836fe44d871d7e8f89c79d05efb4d2"
 ---
 

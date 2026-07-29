@@ -7,7 +7,7 @@ source_id: "kayne-anderson-bdc-inc-common-stock-rss-cb5fc00f2442"
 canonical_url: "https://www.kaynebdc.com/news/news-details/2025/Kayne-Anderson-BDC-Inc--Appoints-Frank-Karl-as-President--Andy-Wedderburn-Maxwell-as-Senior-Vice-President/default.aspx"
 published_at: "2025-11-10T21:30:00+00:00"
 first_seen_at: "2026-07-25T10:31:42.176031+00:00"
-fetched_at: "2026-07-28T20:43:03.655433+00:00"
+fetched_at: "2026-07-28T23:31:37.313003+00:00"
 content_hash: "sha256:af89fce8f98750877c7fcca8319c3dea712c90eaef36fb2bd2e57eb1f20f001b"
 ---
 

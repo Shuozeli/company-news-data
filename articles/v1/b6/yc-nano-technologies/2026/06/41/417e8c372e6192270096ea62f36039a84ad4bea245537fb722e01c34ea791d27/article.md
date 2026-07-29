@@ -7,7 +7,7 @@ source_id: "yc-nano-technologies-rss-e57af4e48835"
 canonical_url: "http://vuiapp.vn/b2b-event-marketing-intern"
 published_at: "2026-06-08T03:37:26+00:00"
 first_seen_at: "2026-07-25T01:53:29.155507+00:00"
-fetched_at: "2026-07-28T20:26:11.446514+00:00"
+fetched_at: "2026-07-28T23:11:40.065777+00:00"
 content_hash: "sha256:0f92ec58a826791910c216013c54ee7ae459fbab2cdcd2ad62366bb3e559f543"
 ---
 

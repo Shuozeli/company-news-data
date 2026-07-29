@@ -7,7 +7,7 @@ source_id: "mntn-inc-class-a-common-stock-rss-3c333be474a8"
 canonical_url: "https://mountain.com/white-papers/the-state-of-healthcare-marketing-in-2026/"
 published_at: "2026-04-17T17:09:47+00:00"
 first_seen_at: "2026-07-25T04:07:18.621124+00:00"
-fetched_at: "2026-07-28T21:56:34.198135+00:00"
+fetched_at: "2026-07-29T00:36:12.557196+00:00"
 content_hash: "sha256:9e2ef6cdd4328c7aa3159cf06f4aef86ec400845f255b9503a862927abb9570e"
 ---
 

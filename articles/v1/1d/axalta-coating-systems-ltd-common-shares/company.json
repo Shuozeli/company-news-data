@@ -4,9 +4,9 @@
     "key": "axalta-coating-systems-ltd-common-shares",
     "name": "Axalta Coating Systems Ltd. Common Shares"
   },
-  "record_count": 11,
+  "record_count": 12,
   "first_published_at": "2026-01-07T14:00:00+00:00",
-  "last_published_at": "2026-07-23T02:00:00+00:00",
+  "last_published_at": "2026-07-28T06:00:00+00:00",
   "partitions": [
     {
       "partition": "2026-01",
@@ -26,7 +26,24 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1d/axalta-coating-systems-ltd-common-shares/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 14980,
+        "sha256": "sha256:5df7acaccb1f75eb52d7999a43b17946898a38cfe33e7771602ba7db07f1a4a9",
+        "newest_at": "2026-07-28T06:00:00+00:00",
+        "oldest_at": "2026-01-07T14:00:00+00:00"
+      }
+    ]
+  }
 }

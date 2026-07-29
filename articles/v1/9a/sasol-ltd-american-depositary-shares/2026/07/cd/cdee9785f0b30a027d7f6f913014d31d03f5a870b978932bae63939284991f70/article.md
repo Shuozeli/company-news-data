@@ -7,8 +7,8 @@ source_id: "sasol-ltd-american-depositary-shares-rss-19efa4e62491"
 canonical_url: "https://www.sasol.com/node/9673"
 published_at: "2026-07-19T05:30:02+00:00"
 first_seen_at: "2026-07-20T23:22:14.619222+00:00"
-fetched_at: "2026-07-28T20:21:42.240853+00:00"
-content_hash: "sha256:6bbbd74b2f7c1d4084cec5002c3724efda464077fc6dfaae856b3b0f675603ba"
+fetched_at: "2026-07-28T23:04:59.546851+00:00"
+content_hash: "sha256:e4facab7760816369c08fc48d9a806493a445d996ab55f4464ce4f15178f30d9"
 ---
 
 # US $ vs Rand
@@ -25,52 +25,52 @@ Sun, 07/19/2026 - 07:30
 Trade
 
 
-16.8320
+16.7070
 
 
 Movement
 
 
-U
+L
 
 
 Update Time
 
 
-01:09:07
+00:30:13
 
 
 Update Date
 
 
-Saturday, July 25, 2026 - 12:00
+Wednesday, July 29, 2026 - 12:00
 
 
 Close
 
 
-16.8320
+16.6938
 
 
 Prev Last Trade
 
 
-16.8320
+16.7070
 
 
 Bid
 
 
-16.8196
+16.6939
 
 
 Ask
 
 
-16.8445
+16.7201
 
 
 % Move
 
 
-0.0000
+0.0791

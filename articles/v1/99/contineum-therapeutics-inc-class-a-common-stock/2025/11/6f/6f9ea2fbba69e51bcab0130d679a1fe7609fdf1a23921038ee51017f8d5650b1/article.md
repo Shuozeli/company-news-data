@@ -7,7 +7,7 @@ source_id: "contineum-therapeutics-inc-class-a-common-stock-rss-954367339e87"
 canonical_url: "https://contineum-tx.com/publications/lpa-induced-activation-of-satellite-glial-cells-and-its-modulation-by-pipe-791-a-novel-lpa1-antagonist-in-an-in-vitro-pain-model/"
 published_at: "2025-11-21T18:36:15+00:00"
 first_seen_at: "2026-07-25T03:15:09.445652+00:00"
-fetched_at: "2026-07-28T20:33:36.300163+00:00"
+fetched_at: "2026-07-28T23:18:11.580766+00:00"
 content_hash: "sha256:3624a72c84d77f810ec304d5b7fbd80b5b46414c0d377c636d00c3f4fc2aa8de"
 ---
 

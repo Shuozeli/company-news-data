@@ -7,7 +7,7 @@ source_id: "enanta-pharmaceuticals-inc-common-stock-rss-6165ef0aa60b"
 canonical_url: "https://www.enanta.com/discovery-and-characterization-of-a-potent-and-selective-oral-inhibitor-of-stat6-for-the-treatment-of-allergic-diseases/"
 published_at: "2026-04-17T19:29:00+00:00"
 first_seen_at: "2026-07-25T03:15:15.140684+00:00"
-fetched_at: "2026-07-28T20:31:52.735283+00:00"
+fetched_at: "2026-07-28T23:17:26.594855+00:00"
 content_hash: "sha256:b946770609cb36d716f0f6b4397771d0b07e84cb88c70e9f01ce70dacd8e1dc3"
 ---
 

@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/show-a-paywall-during-these-three-high-converting-app-experiences"
-published_at: "2024-07-15T20:48:13.348+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:0f9bc961165dcb2e181641c5d46058b37784aa89f524ea8d3c55916400abc73e"

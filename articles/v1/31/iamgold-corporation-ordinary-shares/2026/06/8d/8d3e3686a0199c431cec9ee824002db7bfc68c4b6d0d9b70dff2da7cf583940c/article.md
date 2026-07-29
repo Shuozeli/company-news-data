@@ -7,7 +7,7 @@ source_id: "iamgold-corporation-ordinary-shares-rss-524b2db29cae"
 canonical_url: "https://www.iamgold.com/English/investors/news-releases/news-releases-details/2026/IAMGOLD-Announces-Increase-and-Extension-of-Revolving-Credit-Facility/default.aspx"
 published_at: "2026-06-17T21:00:00+00:00"
 first_seen_at: "2026-07-25T08:45:16.333702+00:00"
-fetched_at: "2026-07-28T22:11:10.324587+00:00"
+fetched_at: "2026-07-29T00:49:47.335702+00:00"
 content_hash: "sha256:3ef5050c026fafdeb29e3105510347514db74efccde6651dc491e53ac67fe082"
 ---
 

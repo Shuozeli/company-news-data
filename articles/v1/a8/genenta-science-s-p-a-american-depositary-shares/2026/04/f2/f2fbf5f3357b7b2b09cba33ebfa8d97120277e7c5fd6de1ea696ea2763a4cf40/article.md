@@ -7,7 +7,7 @@ source_id: "genenta-science-s-p-a-american-depositary-shares-rss-3108a93df4a7"
 canonical_url: "https://www.genenta.com/news/genenta-rileva-il-51-di-sophia-high-tech/"
 published_at: "2026-04-24T09:56:51+00:00"
 first_seen_at: "2026-07-25T06:23:46.712061+00:00"
-fetched_at: "2026-07-28T22:13:09.873791+00:00"
+fetched_at: "2026-07-29T00:51:39.538791+00:00"
 content_hash: "sha256:4b2dfb7a9b3240b3daa8bfa033c80f588ab0595729173d50dd8a4e7f1651cb37"
 ---
 

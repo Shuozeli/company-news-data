@@ -7,7 +7,7 @@ source_id: "yc-botbuilt-rss-52b4cca2e71a"
 canonical_url: "https://www.botbuilt.com/botbuilt-wants-to-lower-the-cost-of-homebuilding-with-robots/"
 published_at: "2023-12-27T16:46:08+00:00"
 first_seen_at: "2026-07-20T23:23:39.000790+00:00"
-fetched_at: "2026-07-28T20:12:00.344906+00:00"
+fetched_at: "2026-07-28T22:53:25.256511+00:00"
 content_hash: "sha256:2036a9a30ef6cf411f857d3b8191d71c0efadcb021eadc100124f31b1a1e6a44"
 ---
 

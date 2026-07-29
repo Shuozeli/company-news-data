@@ -7,7 +7,7 @@ source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
 canonical_url: "https://www.nytimes.com/2026/07/28/us/politics/trump-graham-senate.html"
 published_at: "2026-07-28T18:26:23+00:00"
 first_seen_at: "2026-07-28T19:31:05.971356+00:00"
-fetched_at: "2026-07-28T21:10:05.836012+00:00"
+fetched_at: "2026-07-28T23:55:50.378040+00:00"
 content_hash: "sha256:0947dfd0e466b4a2ea1eb99ffbaea8e885c181e02b8f8258a6ae98098f583d9d"
 ---
 

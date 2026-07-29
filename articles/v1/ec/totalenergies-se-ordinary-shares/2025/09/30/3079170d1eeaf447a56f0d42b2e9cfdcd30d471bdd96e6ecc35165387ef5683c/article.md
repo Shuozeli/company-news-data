@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/cest-une-vraie-fierte-que-totalenergies-soit-choisie-pour-construire-le-plus-grand-parc-denergie-renouvelable-du-pays/"
 published_at: "2025-09-24T07:32:57+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:db7be21c694bda74b9d6dfb70e201180eb5a83eb9e675fdc7b238ee8bb9caf34"
 ---
 

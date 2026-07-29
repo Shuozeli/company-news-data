@@ -7,7 +7,7 @@ source_id: "blackrock-resources-common-shares-of-beneficial-interest-rss-d84481b
 canonical_url: "https://blackrockres.com/2015/06/18/a-recent-article-shared-how-the-pa-natural-gas-impact-fee-helped-rewrite-the-future-for-many-townships/"
 published_at: "2015-06-19T01:11:35+00:00"
 first_seen_at: "2026-07-26T10:43:17.186223+00:00"
-fetched_at: "2026-07-28T19:57:26.845667+00:00"
+fetched_at: "2026-07-28T23:46:08.600246+00:00"
 content_hash: "sha256:1ec73736719d0d4297628757d4f4433fa7826c6f8dbaf0d48e39ffb255fdcd76"
 ---
 

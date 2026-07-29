@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 14
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/95/yc-entocycle/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 15776,
+        "sha256": "sha256:634b10258d46cb1e71a8fc52eefefc7dfa8d66d98060b10cd34ce4bd3e943c25",
+        "newest_at": "2026-07-28T21:40:00.658555+00:00",
+        "oldest_at": "2026-07-20T00:00:00+00:00"
+      }
+    ]
+  }
 }

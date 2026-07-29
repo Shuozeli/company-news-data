@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/sei-vs-marr-labs-ai-voice-agents-mortgage"
 published_at: "2026-06-13T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:8d2f0a0332d6b93a9f2061f1553139a0c312709e6ac19c03530d036692d05426"
 ---
 

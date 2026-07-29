@@ -7,7 +7,7 @@ source_id: "nuvation-bio-inc-class-a-common-stock-rss-b4f1cad90b3b"
 canonical_url: "https://investors.nuvationbio.com/news/news-details/2026/Nuvation-Bio-Inc--Announces-Full-Exercise-of-Greenshoe-Option-in-287-5-Million-Convertible-Senior-Notes-Offering/default.aspx"
 published_at: "2026-07-06T21:09:00+00:00"
 first_seen_at: "2026-07-25T16:46:57.555145+00:00"
-fetched_at: "2026-07-28T21:41:47.683215+00:00"
+fetched_at: "2026-07-29T00:17:00.835864+00:00"
 content_hash: "sha256:a5610d9d30d21d728d45c0fcdc9d76833e08fac5de544bd332e062bff3cb6ff5"
 ---
 

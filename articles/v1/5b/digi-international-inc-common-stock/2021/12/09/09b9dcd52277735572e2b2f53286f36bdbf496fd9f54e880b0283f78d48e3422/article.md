@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/get-federated-with-digi-remote-manager-single-sign"
 published_at: "2021-12-02T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:ed910cb9b1f00ec047ac76c14622de87e44538c912046399d661913ac9fe2a20"
 ---
 

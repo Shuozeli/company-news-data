@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-completes-the-acquisition-of-50-of-ephs-flexible-power-generation-platform/"
 published_at: "2026-04-29T20:35:29+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:fcd2820b82eb60f4b9c19fa5db13cee690adc6dbcb865971b50e0af5d4c90a5b"
 ---
 

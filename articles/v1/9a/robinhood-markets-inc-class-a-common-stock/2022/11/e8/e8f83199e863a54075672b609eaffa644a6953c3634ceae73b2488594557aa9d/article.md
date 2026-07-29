@@ -7,7 +7,7 @@ source_id: "robinhood-markets-inc-class-a-common-stock-rss-4d5f88ecf3b4"
 canonical_url: "https://medium.com/robinhood-engineering/honoring-veterans-day-2022-9dcd28c627c"
 published_at: "2022-11-11T18:32:11+00:00"
 first_seen_at: "2026-07-25T21:41:09.986212+00:00"
-fetched_at: "2026-07-28T21:16:03.374256+00:00"
+fetched_at: "2026-07-29T00:02:15.177673+00:00"
 content_hash: "sha256:eeff2c680e22a932f53f7e955bf15046b702cd6aaa8183572ecca8595d4775fa"
 ---
 

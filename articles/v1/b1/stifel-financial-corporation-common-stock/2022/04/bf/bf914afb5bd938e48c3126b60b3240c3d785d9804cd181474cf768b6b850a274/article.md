@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2022/2022-Forbes-Best-In-State.pdf"
 published_at: "2022-04-07T14:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:492ced06cba4e8819e30d181317a068a7e758e179b93e775cd13218fc31dafc2"
 ---
 

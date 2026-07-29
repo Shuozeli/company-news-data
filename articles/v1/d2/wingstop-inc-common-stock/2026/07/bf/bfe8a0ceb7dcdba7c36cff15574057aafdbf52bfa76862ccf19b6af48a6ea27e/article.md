@@ -7,7 +7,7 @@ source_id: "wingstop-inc-common-stock-rss-7f135f859589"
 canonical_url: "https://ir.wingstop.com/wingstop-expands-wing-day-into-wing-week-kicking-off-a-broader-1-million-in-fan-experiences-and-giveaways/"
 published_at: "2026-07-23T18:38:09+00:00"
 first_seen_at: "2026-07-23T18:42:40.138410+00:00"
-fetched_at: "2026-07-28T21:13:20.646299+00:00"
+fetched_at: "2026-07-28T23:58:14.897862+00:00"
 content_hash: "sha256:0b49286f5078e72e3975c18074afb63f24752c1b33875a49909ca3ea549b894b"
 ---
 

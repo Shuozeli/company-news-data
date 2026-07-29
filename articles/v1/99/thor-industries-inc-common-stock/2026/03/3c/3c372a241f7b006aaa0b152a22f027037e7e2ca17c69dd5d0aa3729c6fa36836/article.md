@@ -7,7 +7,7 @@ source_id: "thor-industries-inc-common-stock-rss-d0b8e219f7f8"
 canonical_url: "https://ir.thorindustries.com/investor-resources/press-releases/press-release-details/2026/THOR-INDUSTRIES-ELEVATES-RYAN-BIREN-TO-CHIEF-INFORMATION-OFFICER-SIGNALING-ACCELERATED-ENTERPRISE-DATA-AND-AI-STRATEGY/default.aspx"
 published_at: "2026-03-02T16:30:00+00:00"
 first_seen_at: "2026-07-26T02:24:17.764835+00:00"
-fetched_at: "2026-07-28T19:31:11.470240+00:00"
+fetched_at: "2026-07-29T00:03:08.074894+00:00"
 content_hash: "sha256:bd4065ecedfaf81ba5b72168a6cf5f82268b510c61f155b66f8cc3c906b6ecbf"
 ---
 

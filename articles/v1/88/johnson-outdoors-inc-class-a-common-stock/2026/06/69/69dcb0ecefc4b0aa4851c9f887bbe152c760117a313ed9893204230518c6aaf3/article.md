@@ -7,7 +7,7 @@ source_id: "johnson-outdoors-inc-class-a-common-stock-rss-d7a348c41086"
 canonical_url: "https://www.johnsonoutdoors.com/us/investors/news/johnson-outdoors-announces-cash-dividend-july-2026"
 published_at: "2026-06-11T16:18:56+00:00"
 first_seen_at: "2026-07-20T23:22:39.768322+00:00"
-fetched_at: "2026-07-28T20:44:36.359277+00:00"
+fetched_at: "2026-07-28T23:31:05.038598+00:00"
 content_hash: "sha256:8bd9630a6387507e79e506d442b2a85bc811b99cd8b75f9b8aa02549afa7ee70"
 ---
 

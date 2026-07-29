@@ -7,7 +7,7 @@ source_id: "buenaventura-mining-company-inc-rss-513086ac22dc"
 canonical_url: "https://buenaventura.com/en/buenaventura-firma-nuevo-convenio-con-tapay-para-seguir-impulsando-el-desarrollo-local/"
 published_at: null
 first_seen_at: "2026-07-20T03:32:02.604277+00:00"
-fetched_at: "2026-07-28T20:42:42.324574+00:00"
+fetched_at: "2026-07-28T23:26:15.642484+00:00"
 content_hash: "sha256:92b7cc61e06c7aa22fb48993994c878552415c29a16f82fa6e8996412d4d249e"
 ---
 

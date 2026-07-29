@@ -7,7 +7,7 @@ source_id: "seven-hills-realty-trust-common-stock-rss-7751350469b0"
 canonical_url: "https://sevnreit.com/news/press-release-details/2026/Seven-Hills-Realty-Trust-to-Present-at-Nareits-REITweek-2026-Investor-Conference-on-Tuesday-June-2nd/default.aspx"
 published_at: "2026-05-21T12:00:00+00:00"
 first_seen_at: "2026-07-25T22:45:04.033079+00:00"
-fetched_at: "2026-07-28T20:33:58.636592+00:00"
+fetched_at: "2026-07-28T23:18:40.842894+00:00"
 content_hash: "sha256:557911b1324dd4a55a84df3bf6b3f984fae5a5581f03efabe25f9ec664550cb9"
 ---
 

@@ -120,5 +120,31 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bd/evotec-se-american-depositary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 67790,
+        "sha256": "sha256:127d2eb1c319f052e839680a769af11288986a21f4c5fb7a84a7d504499cb779",
+        "newest_at": "2026-07-23T07:00:00+00:00",
+        "oldest_at": "2025-01-22T06:30:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/bd/evotec-se-american-depositary-shares/index/pages/000002.json",
+        "record_count": 49,
+        "byte_count": 65526,
+        "sha256": "sha256:f22376a64c2506f6b8c2d08beac7feeecc0e25d8b5144454ad530c5405ea4c5d",
+        "newest_at": "2024-12-11T06:30:00+00:00",
+        "oldest_at": "2024-02-21T08:30:00+00:00"
+      }
+    ]
+  }
 }

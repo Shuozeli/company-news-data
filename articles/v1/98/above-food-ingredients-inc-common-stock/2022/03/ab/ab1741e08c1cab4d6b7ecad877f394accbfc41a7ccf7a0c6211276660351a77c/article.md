@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-presenting-at-gravitas-securities-inc-5th-annual-growth-conference/"
 published_at: "2022-03-01T16:43:52+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:190a07e9fe2ee4cdb029a33009be84d738a33f81ebdd67b983351729bc7f4d89"
 ---
 

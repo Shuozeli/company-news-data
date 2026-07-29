@@ -228,5 +228,112 @@
       "partition": "2026-07",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55936,
+        "sha256": "sha256:3ca27520787f01e2e01df9b7dc9cd06456ab9e3ff6e009cab744131077d48854",
+        "newest_at": "2026-07-28T00:14:19.511923+00:00",
+        "oldest_at": "2026-02-02T01:30:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 57224,
+        "sha256": "sha256:c895d2440593493f7b537fefef16d713646c20813b515223fec5ec51b84e3e13",
+        "newest_at": "2026-01-30T01:30:00+00:00",
+        "oldest_at": "2025-07-14T01:30:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 56579,
+        "sha256": "sha256:7c6547f8f5af3e314b2b53567e45566c1898bfbb801454676f5833ca230178bd",
+        "newest_at": "2025-07-04T06:00:00+00:00",
+        "oldest_at": "2024-12-23T07:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 56578,
+        "sha256": "sha256:dd5df74eea6267bbcb3c2523423f3b8d4d905041e6802d97bbe1fca24e947ec2",
+        "newest_at": "2024-12-11T09:45:00+00:00",
+        "oldest_at": "2024-06-26T01:30:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 55986,
+        "sha256": "sha256:ba39045c669051fa88bccc0d996fda371a3f6f7f9c23a2ad1d72ab6121fd41e2",
+        "newest_at": "2024-06-25T01:40:00+00:00",
+        "oldest_at": "2024-02-19T01:30:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 57786,
+        "sha256": "sha256:50bd78d91d4e35bf85365a19ffe39d6db2568b847357879347f8e4520ef54ce0",
+        "newest_at": "2024-02-08T07:00:00+00:00",
+        "oldest_at": "2023-08-29T13:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 57023,
+        "sha256": "sha256:58ece907ba5feb4bd40a54924391fe8585a9e6db0fd8b32c379d352f6aa3028e",
+        "newest_at": "2023-08-24T13:05:00+00:00",
+        "oldest_at": "2023-03-23T01:30:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 55299,
+        "sha256": "sha256:f3ffa6433676f017558bebb6019a5f19cc257c585159436c2bbc0321a39ecf2f",
+        "newest_at": "2023-03-10T07:00:00+00:00",
+        "oldest_at": "2022-11-07T11:30:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 55514,
+        "sha256": "sha256:8e3e4ad4e3c34c8c1e8d204e5c7c9a8e22429f116f4c6a745dfeac65583fdea8",
+        "newest_at": "2022-11-05T20:00:00+00:00",
+        "oldest_at": "2022-07-19T01:30:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 56196,
+        "sha256": "sha256:f012c11b55cd1249c4e27be94ffec01e1388d48d7d0581f3957ba6bd539a2afd",
+        "newest_at": "2022-07-05T01:30:00+00:00",
+        "oldest_at": "2022-01-18T07:00:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/a5/astrazeneca-plc-ordinary-shares/index/pages/000011.json",
+        "record_count": 5,
+        "byte_count": 5858,
+        "sha256": "sha256:404c8b528cbfef82cf4dd43d7d84d3420a9f2e45aeb92ff87ed95af3b1704015",
+        "newest_at": "2022-01-18T07:00:00+00:00",
+        "oldest_at": "2022-01-13T07:00:00+00:00"
+      }
+    ]
+  }
 }

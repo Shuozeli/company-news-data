@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/why-versioned-decision-apis-matter"
 published_at: "2026-04-13T16:04:57+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:abfb513d06f12108f94d00adb0dee76540c1a977e9ed03d984cc779eed448b97"
 ---
 

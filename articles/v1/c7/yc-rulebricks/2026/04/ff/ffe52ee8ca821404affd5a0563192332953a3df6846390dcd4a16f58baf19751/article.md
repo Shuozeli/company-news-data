@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/untangling-salesforce-cpq-logic"
 published_at: "2026-04-16T16:05:40+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:e99e67f9c772ec03820f4a47e1dc00a5c0cc17aae7953e33fa334c85bcce9967"
 ---
 

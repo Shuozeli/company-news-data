@@ -7,7 +7,7 @@ source_id: "yc-brickwise-rss-e704c39c4e9a"
 canonical_url: "https://www.brickwiseai.com/blog/automated-tenant-screening-ai-guide"
 published_at: "2025-05-30T00:00:00+00:00"
 first_seen_at: "2026-07-24T22:17:54.061425+00:00"
-fetched_at: "2026-07-28T20:24:50.030820+00:00"
+fetched_at: "2026-07-28T23:09:37.363232+00:00"
 content_hash: "sha256:1da56d2c780f60799bd55d7770e64a848623bb2605d771e9c5800882ca93771d"
 ---
 

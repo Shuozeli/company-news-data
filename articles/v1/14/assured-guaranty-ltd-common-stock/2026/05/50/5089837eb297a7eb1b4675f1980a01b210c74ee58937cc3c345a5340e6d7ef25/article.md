@@ -7,7 +7,7 @@ source_id: "assured-guaranty-ltd-common-stock-rss-a0c04d90a5d9"
 canonical_url: "https://info.assuredguaranty.com/press-room/all-press-releases/news-details/2026/Assured-Guaranty-Ltd--Reports-Results-for-First-Quarter-2026/default.aspx"
 published_at: "2026-05-07T20:05:00+00:00"
 first_seen_at: "2026-07-26T09:42:28.838945+00:00"
-fetched_at: "2026-07-28T19:56:35.282720+00:00"
+fetched_at: "2026-07-28T23:43:29.547621+00:00"
 content_hash: "sha256:49340a2711e9edd38087e61278f0575086da631bbae517686532b074904930cd"
 ---
 

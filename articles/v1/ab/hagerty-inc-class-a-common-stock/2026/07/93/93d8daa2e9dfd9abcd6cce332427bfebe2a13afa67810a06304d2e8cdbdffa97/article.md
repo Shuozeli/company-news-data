@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/maintenance-and-tech/watch-as-this-nhra-supercharger-gets-rebuilt-between-rounds/"
 published_at: "2026-07-21T20:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:3348732b516cf5af76b2873928ee3e22b29f6f4d5270790f979fa14e9d489bb7"
 ---
 

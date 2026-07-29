@@ -7,7 +7,7 @@ source_id: "sila-realty-trust-inc-common-stock-rss-0a874092aade"
 canonical_url: "https://silarealtytrust.com/sila-realty-trust-completes-43-1-million-acquisition-of-oklahoma-city-inpatient-rehabilitation-facility/"
 published_at: "2026-01-27T22:02:52+00:00"
 first_seen_at: "2026-07-20T23:21:02.147126+00:00"
-fetched_at: "2026-07-28T20:15:00.578307+00:00"
+fetched_at: "2026-07-28T22:58:48.460628+00:00"
 content_hash: "sha256:df0bfd03658f3827bf89ab35c6cd9a4b0a0eaee556a2cb62cfbe6bf5889c1d1a"
 ---
 

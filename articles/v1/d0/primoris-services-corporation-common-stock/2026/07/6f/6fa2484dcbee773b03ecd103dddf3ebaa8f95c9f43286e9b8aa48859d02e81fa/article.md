@@ -7,7 +7,7 @@ source_id: "primoris-services-corporation-common-stock-rss-140a577cdf99"
 canonical_url: "https://www.prim.com/investors-bkp/financials/annual-reports-and-proxies"
 published_at: null
 first_seen_at: "2026-07-25T19:49:14.922083+00:00"
-fetched_at: "2026-07-28T20:23:52.444581+00:00"
+fetched_at: "2026-07-28T23:08:23.393486+00:00"
 content_hash: "sha256:350631fc77198026e2af4b496b9877f7348baddb803180b871bbe4a4256c4d96"
 ---
 

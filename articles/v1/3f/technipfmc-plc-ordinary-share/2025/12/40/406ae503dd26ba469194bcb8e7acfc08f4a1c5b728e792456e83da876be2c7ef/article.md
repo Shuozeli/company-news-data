@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-significant-contract-for-subsea-20-production-systems-for-chevron-s-gorgon-stage-3-project/"
 published_at: "2025-12-11T09:15:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-28T21:49:44.390133+00:00"
+fetched_at: "2026-07-29T00:26:14.657354+00:00"
 content_hash: "sha256:8f14043f7642dfbaacb0cad864d8cf58b582962d1d543db19e1525eb400b93c1"
 ---
 

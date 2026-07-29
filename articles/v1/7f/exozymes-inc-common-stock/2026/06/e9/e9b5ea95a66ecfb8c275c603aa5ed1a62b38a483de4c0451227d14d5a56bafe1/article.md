@@ -7,7 +7,7 @@ source_id: "exozymes-inc-common-stock-rss-741f122b5abb"
 canonical_url: "https://exozymes.com/blog/bionity-exoz-awarded-2m-grant"
 published_at: "2026-06-26T13:16:00+00:00"
 first_seen_at: "2026-07-25T03:51:33.698656+00:00"
-fetched_at: "2026-07-28T21:36:10.174637+00:00"
+fetched_at: "2026-07-29T00:27:19.021608+00:00"
 content_hash: "sha256:54bea4bfcb581fba2af6a26774625270c0112b57d906ebaab2b1093fe59f01a5"
 ---
 

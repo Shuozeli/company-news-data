@@ -7,7 +7,7 @@ source_id: "yc-mergent-rss-c4a67b378e23"
 canonical_url: "https://blog.mergent.co/w24-yc-deal"
 published_at: "2024-01-18T16:21:55+00:00"
 first_seen_at: "2026-07-25T13:51:58.649676+00:00"
-fetched_at: "2026-07-28T20:39:55.574853+00:00"
+fetched_at: "2026-07-28T23:24:02.513180+00:00"
 content_hash: "sha256:6d43c9b3c62d53b2071bdfe499bcf5127a21188b1e8f4a1fd4ab09cccf91824b"
 ---
 

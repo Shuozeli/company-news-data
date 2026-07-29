@@ -7,7 +7,7 @@ source_id: "archer-aviation-inc-class-a-common-stock-rss-15f264303d61"
 canonical_url: "https://investors.archer.com/news/news-details/2026/Archers-US-Air-Taxi-Operations-Take-Major-Step-Forward-as-Florida-New-York-and-Texas-Selected-for-White-House-Pilot-Program/default.aspx"
 published_at: "2026-03-09T19:21:00+00:00"
 first_seen_at: "2026-07-26T22:44:58.208529+00:00"
-fetched_at: "2026-07-28T21:39:59.468588+00:00"
+fetched_at: "2026-07-29T00:24:24.547599+00:00"
 content_hash: "sha256:246854aad6a1e3e81aa57a89a9801eea7c2ddf1ea13b5a9a66f16cc79d4e0700"
 ---
 

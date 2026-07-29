@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/getting-started-with-superwall-in-your-indie-ios-app"
-published_at: "2025-03-06T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:9ff432e3ff0ed4e6b7cadd5097d2e3c10d4f66e60b815763178ae9f640f2cb53"

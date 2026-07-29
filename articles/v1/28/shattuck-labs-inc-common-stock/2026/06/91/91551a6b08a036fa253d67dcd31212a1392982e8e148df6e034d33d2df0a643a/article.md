@@ -7,7 +7,7 @@ source_id: "shattuck-labs-inc-common-stock-rss-e22609ab3c3b"
 canonical_url: "https://ir.shattucklabs.com/news-events/press-releases/news-details/2026/Shattuck-Labs-Announces-Phase-1-Results-for-SL-325/default.aspx"
 published_at: "2026-06-08T10:00:00+00:00"
 first_seen_at: "2026-07-25T22:46:01.608850+00:00"
-fetched_at: "2026-07-28T20:34:19.545717+00:00"
+fetched_at: "2026-07-28T23:19:35.797214+00:00"
 content_hash: "sha256:34bf9ad0317355e93e4ae2aa09369f26973eba6c123c54281b3f0f54dc68d3aa"
 ---
 

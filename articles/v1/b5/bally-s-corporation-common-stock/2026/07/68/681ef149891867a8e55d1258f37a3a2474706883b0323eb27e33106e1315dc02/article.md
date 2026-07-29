@@ -7,7 +7,7 @@ source_id: "bally-s-corporation-common-stock-rss-b0bb6c8c39e7"
 canonical_url: "https://www.ballys.com/news/news-details/2026/BALLYS-CHICAGO-TOPS-OFF-PERMANENT-CASINO-MARKING-MAJOR-CONSTRUCTION-MILESTONE-ON-PATH-TO-SPRING-2027-OPENING-2026-b7kq5IRBSy/default.aspx"
 published_at: "2026-07-20T17:00:00+00:00"
 first_seen_at: "2026-07-26T10:03:35.974224+00:00"
-fetched_at: "2026-07-28T20:24:04.832951+00:00"
+fetched_at: "2026-07-28T23:08:22.318942+00:00"
 content_hash: "sha256:f5116f775bebf7b9e5b30d8a6b0297b93985c43127bdc7c3ca7c8fa35f2df983"
 ---
 

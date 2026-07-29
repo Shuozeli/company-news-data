@@ -32,5 +32,22 @@
       "partition": "2026-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1e/veea-inc-common-stock/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 9349,
+        "sha256": "sha256:7c5c7c477975d61c66ff454e0b6eb7ae0885a8e26df9319d8c4e9fa2bab144db",
+        "newest_at": "2026-05-05T21:29:29+00:00",
+        "oldest_at": "2025-08-13T18:24:53+00:00"
+      }
+    ]
+  }
 }

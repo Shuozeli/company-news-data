@@ -4,9 +4,9 @@
     "key": "new-york-times-company-the-common-stock",
     "name": "New York Times Company (The) Common Stock"
   },
-  "record_count": 221,
+  "record_count": 239,
   "first_published_at": "2026-04-02T20:08:50+00:00",
-  "last_published_at": "2026-07-28T21:00:05+00:00",
+  "last_published_at": "2026-07-28T23:40:40+00:00",
   "partitions": [
     {
       "partition": "2026-04",
@@ -22,7 +22,60 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 216
+      "record_count": 234
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 5,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 58337,
+        "sha256": "sha256:e8baa20684d8bcdae1f267466314af54ca08df54ae8ab56d26f76d5661082a84",
+        "newest_at": "2026-07-28T23:40:40+00:00",
+        "oldest_at": "2026-07-28T13:13:34+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 58109,
+        "sha256": "sha256:9ff944e10999d808488e739c2cff1a6b122f6ba63adc61e6104e3eb0b7f96c9b",
+        "newest_at": "2026-07-28T13:12:25+00:00",
+        "oldest_at": "2026-07-27T16:30:33+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 58695,
+        "sha256": "sha256:ae412cbbdb4a522b61d0868b177277f476285cf00f1e37302233b59ff64f2a64",
+        "newest_at": "2026-07-27T16:07:45+00:00",
+        "oldest_at": "2026-07-26T13:35:03+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 58088,
+        "sha256": "sha256:168967236fd1842d07db785c930d366b5e29d5ade62dfb65daf804315957ba3c",
+        "newest_at": "2026-07-26T13:00:06+00:00",
+        "oldest_at": "2026-07-25T00:06:49+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000005.json",
+        "record_count": 39,
+        "byte_count": 43462,
+        "sha256": "sha256:7b4eebd8c3fc791aafaad61f63420704f0dd629acbc542bc401873aa611d3fdb",
+        "newest_at": "2026-07-24T23:02:23+00:00",
+        "oldest_at": "2026-04-02T20:08:50+00:00"
+      }
+    ]
+  }
 }

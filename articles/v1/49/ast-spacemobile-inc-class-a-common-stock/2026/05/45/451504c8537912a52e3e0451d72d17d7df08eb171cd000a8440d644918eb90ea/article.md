@@ -7,7 +7,7 @@ source_id: "ast-spacemobile-inc-class-a-common-stock-rss-890bf889267f"
 canonical_url: "https://ast-science.com/ast-spacemobile-98-9-mbps-speed-test/"
 published_at: "2026-05-19T16:12:11+00:00"
 first_seen_at: "2026-07-20T04:35:35.768007+00:00"
-fetched_at: "2026-07-28T20:55:25.151598+00:00"
+fetched_at: "2026-07-28T23:41:25.201266+00:00"
 content_hash: "sha256:22d8a07e928ae118391790ec883816cac4fea27fdce63fe9a227740b56659c1c"
 ---
 

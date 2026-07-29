@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2024/01/how-wellsaid-labs-built-their-adobe-express-add-on"
 published_at: "2023-12-18T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:e8d8172eee42087b0a29cd57c1edb71ff7e0ebeb167f7e3015115d47918afb03"
 ---
 

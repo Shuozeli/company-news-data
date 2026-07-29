@@ -7,7 +7,7 @@ source_id: "grupo-supervielle-s-a-american-depositary-shares-each-representing-f
 canonical_url: "https://www.gruposupervielle.com/English/news-and-investor-education/news/news-details/2025/Supervielle-opens-a-new-branch-in-Aelo-Province-of-Neuqun-to-support-the-development-of-the--Oil--Gas-industry/default.aspx"
 published_at: "2025-09-26T04:00:00+00:00"
 first_seen_at: "2026-07-25T07:14:20.769534+00:00"
-fetched_at: "2026-07-28T19:55:38.056597+00:00"
+fetched_at: "2026-07-28T23:42:41.926637+00:00"
 content_hash: "sha256:4b6a33733822032dceba16983f8f8b31e1d8fe092309ce0985e68a7d691a6ec7"
 ---
 

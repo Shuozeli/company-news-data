@@ -7,7 +7,7 @@ source_id: "anfield-energy-inc-common-shares-rss-a0a17c475371"
 canonical_url: "https://anfieldenergy.com/anfield-energy-inc-receives-atf-blasting-permits-for-utah-and-colorado-mines/"
 published_at: "2026-07-07T13:21:50+00:00"
 first_seen_at: "2026-07-24T04:08:28.516317+00:00"
-fetched_at: "2026-07-28T22:08:13.123622+00:00"
+fetched_at: "2026-07-29T00:46:15.737896+00:00"
 content_hash: "sha256:d39e700bc617b9b1af68cb0833cf3de7618a1bb5b0c4da3b90a2e4e3772dc5e6"
 ---
 

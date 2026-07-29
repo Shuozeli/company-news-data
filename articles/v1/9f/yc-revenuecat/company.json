@@ -24,5 +24,31 @@
       "partition": "2026-07",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9f/yc-revenuecat/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52574,
+        "sha256": "sha256:ba3d79a5bb270768dae40611afedab0c7eb81e0115ee05b0e05ea9296ae4b3cf",
+        "newest_at": "2026-07-22T13:07:46+00:00",
+        "oldest_at": "2026-04-28T10:11:45+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/9f/yc-revenuecat/index/pages/000002.json",
+        "record_count": 1,
+        "byte_count": 1085,
+        "sha256": "sha256:784fdeabaca6f55137cb6a7e1371fb4999c9416c2962242d26dc842709bf60a5",
+        "newest_at": "2026-04-24T10:46:55+00:00",
+        "oldest_at": "2026-04-24T10:46:55+00:00"
+      }
+    ]
+  }
 }

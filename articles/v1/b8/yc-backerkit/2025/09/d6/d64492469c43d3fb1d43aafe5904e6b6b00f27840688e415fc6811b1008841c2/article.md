@@ -7,7 +7,7 @@ source_id: "yc-backerkit-rss-16060e51d2f4"
 canonical_url: "https://www.backerkit.com/blog/our-vision-for-the-future-of-crowdfunding-introducing-the-backerkit-pro-platform/"
 published_at: "2025-09-04T21:04:40+00:00"
 first_seen_at: "2026-07-27T07:56:11.356641+00:00"
-fetched_at: "2026-07-28T21:11:59.726043+00:00"
+fetched_at: "2026-07-28T23:57:52.029477+00:00"
 content_hash: "sha256:eb1da08614fa36319ab437d06800c9a1e4d92d5ff23fc667f5ea80cd8b2694fe"
 ---
 

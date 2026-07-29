@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c5/valens-semiconductor-ltd-ordinary-shares/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 5185,
+        "sha256": "sha256:31313956865357d2e8e7add9c73a155db5331603ca0c6411030addf83339cf46",
+        "newest_at": "2026-07-22T10:42:33+00:00",
+        "oldest_at": "2023-11-30T05:57:04+00:00"
+      }
+    ]
+  }
 }

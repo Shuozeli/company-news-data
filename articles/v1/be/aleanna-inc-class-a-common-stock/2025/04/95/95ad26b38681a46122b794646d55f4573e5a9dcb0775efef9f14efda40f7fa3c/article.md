@@ -7,7 +7,7 @@ source_id: "aleanna-inc-class-a-common-stock-rss-a2da9a51b1e2"
 canonical_url: "https://www.aleannainc.com/post/insider-trading-policy"
 published_at: "2025-04-08T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:23.923026+00:00"
-fetched_at: "2026-07-28T21:35:54.350396+00:00"
+fetched_at: "2026-07-29T00:14:58.972209+00:00"
 content_hash: "sha256:087c0810b790ed5e1a5332ca3259c656af75d9faf5559a54b62893b44cb4c5c9"
 ---
 

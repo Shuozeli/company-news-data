@@ -7,7 +7,7 @@ source_id: "sophia-genetics-sa-ordinary-shares-rss-e93954ac440a"
 canonical_url: "https://www.sophiagenetics.com/blogs/world-go-day-raising-awareness-for-gynaecological-cancers/"
 published_at: "2022-09-14T18:19:27+00:00"
 first_seen_at: "2026-07-25T23:47:39.926735+00:00"
-fetched_at: "2026-07-28T21:28:48.599366+00:00"
+fetched_at: "2026-07-29T00:27:40.984896+00:00"
 content_hash: "sha256:a48782441f53b24946fa1ad7ab13d93119a38efab054524402cd92d9f56d3ce5"
 ---
 

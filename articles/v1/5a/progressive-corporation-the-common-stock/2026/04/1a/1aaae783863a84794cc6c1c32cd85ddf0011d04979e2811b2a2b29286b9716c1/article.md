@@ -7,7 +7,7 @@ source_id: "progressive-corporation-the-common-stock-rss-26387ce00949"
 canonical_url: "https://progressive.mediaroom.com/2026-04-01-Progressive-Insurance-R-Ranks-19-on-Fortune-100-Best-Companies-to-Work-For-R-2026-List"
 published_at: "2026-04-01T17:23:00+00:00"
 first_seen_at: "2026-07-20T03:31:38.151957+00:00"
-fetched_at: "2026-07-28T20:22:19.851197+00:00"
+fetched_at: "2026-07-28T23:06:00.378591+00:00"
 content_hash: "sha256:6e54417f85d8fb01e65dd096922f5a5bfcf0e856b78aeee26f6c85ce0ed8a066"
 ---
 

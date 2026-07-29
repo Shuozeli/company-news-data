@@ -7,7 +7,7 @@ source_id: "nexpoint-residential-trust-inc-common-stock-rss-5e0c3a8978c2"
 canonical_url: "https://nxrt.nexpoint.com/news/news-details/2026/NEXPOINT-RESIDENTIAL-TRUST-INC--REPORTS-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS/default.aspx"
 published_at: "2026-02-24T13:16:00+00:00"
 first_seen_at: "2026-07-25T16:12:43.393972+00:00"
-fetched_at: "2026-07-28T20:51:39.315298+00:00"
+fetched_at: "2026-07-28T23:36:52.951650+00:00"
 content_hash: "sha256:2d210045270abb31027b40283748d68de4ccc80106f9ec6412095e91497e1f3a"
 ---
 

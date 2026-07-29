@@ -7,7 +7,7 @@ source_id: "newmont-corporation-rss-b28462199de7"
 canonical_url: "https://www.newmont.com/investors/news-release/news-details/2026/Update-Seismic-Activity-Near-Cadia-2026-YYdIE7_lkv/default.aspx"
 published_at: "2026-04-14T21:45:00+00:00"
 first_seen_at: "2026-07-25T01:06:57.161799+00:00"
-fetched_at: "2026-07-28T19:49:41.561966+00:00"
+fetched_at: "2026-07-28T23:32:39.038318+00:00"
 content_hash: "sha256:dbc7a20f0715d677e8dadcbd4602e9ee330347b1eff3a8d7292e540ec752e329"
 ---
 

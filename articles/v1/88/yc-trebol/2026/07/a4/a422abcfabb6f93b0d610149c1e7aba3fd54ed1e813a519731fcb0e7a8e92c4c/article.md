@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T21:18:37.293716+00:00"
 content_hash: "sha256:48a96730e01fd45f70e26603bad8290794c5b5d6ad4b85a64147a67b7e43124c"
 ---
 
-# ¿Qué es Trébol? | Onboarding de Empresas
+# ¿Qué es Trébol?
 
 # ¿Qué es Trébol? | Onboarding de Empresas
 

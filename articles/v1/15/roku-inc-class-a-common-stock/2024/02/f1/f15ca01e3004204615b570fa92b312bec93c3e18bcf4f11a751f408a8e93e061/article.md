@@ -7,7 +7,7 @@ source_id: "roku-inc-class-a-common-stock-rss-7fd84d003d99"
 canonical_url: "https://engineering.roku.com/scaling-success-rokus-journey-to-building-a-canonical-metadata-generation-platform"
 published_at: "2024-02-08T21:34:20+00:00"
 first_seen_at: "2026-07-20T23:21:49.245762+00:00"
-fetched_at: "2026-07-28T20:34:11.816563+00:00"
+fetched_at: "2026-07-28T23:19:32.883693+00:00"
 content_hash: "sha256:6df4dfc34244006de981a81fc31e76517d1a843bbc319f41c1308d06d713664e"
 ---
 

@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1a/cvs-health-corporation-common-stock/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4864,
+        "sha256": "sha256:520f4c45767d22c97a56ce570c773049fd1be5eddf01b79eaca61c34ef921fc6",
+        "newest_at": "2026-07-28T21:38:29.998390+00:00",
+        "oldest_at": "2026-07-22T00:00:00+00:00"
+      }
+    ]
+  }
 }

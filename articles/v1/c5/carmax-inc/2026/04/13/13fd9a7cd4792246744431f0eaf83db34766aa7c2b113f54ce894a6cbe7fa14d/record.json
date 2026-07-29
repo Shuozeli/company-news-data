@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13fd9a7cd4792246744431f0eaf83db34766aa7c2b113f54ce894a6cbe7fa14d",
+  "company": {
+    "key": "carmax-inc",
+    "name": "CarMax Inc"
+  },
+  "source": {
+    "id": "carmax-inc-rss-996d2d8bd2cc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Announces-William-Cobb-and-Jim-Kessler-to-Join-the-Board/default.aspx",
+    "canonical": "https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Announces-William-Cobb-and-Jim-Kessler-to-Join-the-Board/default.aspx"
+  },
+  "title": "CarMax Announces William Cobb and Jim Kessler to Join the Board",
+  "summary": "",
+  "published_at": "2026-04-09T20:15:00+00:00",
+  "first_seen_at": "2026-07-25T01:21:14.627952+00:00",
+  "fetched_at": "2026-07-28T23:04:20.961315+00:00",
+  "last_updated_at": "2026-07-28T23:04:20.999397+00:00",
+  "paths": {
+    "article": "articles/v1/c5/carmax-inc/2026/04/13/13fd9a7cd4792246744431f0eaf83db34766aa7c2b113f54ce894a6cbe7fa14d/article.md",
+    "record": "articles/v1/c5/carmax-inc/2026/04/13/13fd9a7cd4792246744431f0eaf83db34766aa7c2b113f54ce894a6cbe7fa14d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 659,
+    "sha256": "sha256:69becd641fcc768db286dda5ecfad9b678b046e0b88ba17a2d985c4faa08b630",
+    "normalized_content_hash": "sha256:a0453feba7508fbdb4a0ed430c0e1cc9a7b604f0206f3f81ac6c7a65f0b27fc9"
+  },
+  "provenance": {
+    "source_item_id": "d6109bc8-3c84-4d0e-86eb-84a5cba6ce3a",
+    "external_id": "8d52ca07-1398-4772-ab22-a0e979ac70b4"
+  }
+}

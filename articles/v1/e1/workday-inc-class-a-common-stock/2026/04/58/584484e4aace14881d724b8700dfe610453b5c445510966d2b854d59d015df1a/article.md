@@ -7,7 +7,7 @@ source_id: "workday-inc-class-a-common-stock-rss-1edd291cea4c"
 canonical_url: "https://medium.com/workday-engineering/the-ai-front-door-is-already-here-its-becoming-the-enterprise-execution-layer-105c067ca081"
 published_at: "2026-04-25T12:55:10+00:00"
 first_seen_at: "2026-07-20T04:35:52.231186+00:00"
-fetched_at: "2026-07-28T20:59:51.248397+00:00"
+fetched_at: "2026-07-28T23:46:42.543802+00:00"
 content_hash: "sha256:e5ecca2fa48f44c05e1796162f7acc7da460f3c27dbaf4140ca5ee88942ed446"
 ---
 

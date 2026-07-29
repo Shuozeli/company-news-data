@@ -7,7 +7,7 @@ source_id: "axos-financial-inc-common-stock-rss-752e4796f309"
 canonical_url: "https://investors.axosfinancial.com/news-events/press-releases/news-details/2026/Axos-Marks-1-Billion-in-Small-Business-Deposits-During-National-Small-Business-Week/default.aspx"
 published_at: "2026-05-04T16:23:00+00:00"
 first_seen_at: "2026-07-26T23:21:51.360191+00:00"
-fetched_at: "2026-07-28T20:04:36.695938+00:00"
+fetched_at: "2026-07-28T23:53:40.559338+00:00"
 content_hash: "sha256:f2332fa364100987301a77afa5eeb35a1834c9c3f0fbeb1af999b44ef0e5d75b"
 ---
 

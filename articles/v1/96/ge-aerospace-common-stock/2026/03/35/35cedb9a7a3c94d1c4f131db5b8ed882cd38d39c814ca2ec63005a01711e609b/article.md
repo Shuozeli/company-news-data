@@ -7,7 +7,7 @@ source_id: "ge-aerospace-common-stock-rss-a1dd69a4054d"
 canonical_url: "https://www.geaerospace.com/investor-relations/events-reports/2025-ge-aerospace-segment-adjustment-supplemental-financials"
 published_at: "2026-03-24T02:10:53+00:00"
 first_seen_at: "2026-07-20T23:24:51.828822+00:00"
-fetched_at: "2026-07-28T21:03:18.535161+00:00"
+fetched_at: "2026-07-28T23:50:06.638047+00:00"
 content_hash: "sha256:0815e5cab992e99d97a2223ed92a597e9b775976f8887d19d63504f81404f46f"
 ---
 

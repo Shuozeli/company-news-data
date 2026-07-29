@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-reports-first-quarter-2017-diluted-earnings-per-share-of-041-excluding-charges-and-credits-adjusted-diluted-earnings-per-share-of-071/"
 published_at: "2017-04-26T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-28T21:49:44.390133+00:00"
+fetched_at: "2026-07-29T00:26:14.657354+00:00"
 content_hash: "sha256:66348ca407c7f10f776a3ee7933494774b04d788132a29f659aa5e90794800af"
 ---
 

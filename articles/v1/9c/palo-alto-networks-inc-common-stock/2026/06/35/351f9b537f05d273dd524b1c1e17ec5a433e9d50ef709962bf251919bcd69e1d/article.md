@@ -11,7 +11,7 @@ fetched_at: "2026-07-28T22:07:10.300477+00:00"
 content_hash: "sha256:1133bcf4cd1702ebc366229c9dbd10c422f233ec9c63bfdd6600b7c98ba9cc5f"
 ---
 
-# Palo Alto Networks Reports Fiscal Third Quarter 2026 Financial Results
+# Leader in Cybersecurity Protection & Software for the Modern Enterprises
 
 SANTA CLARA, Calif.
 

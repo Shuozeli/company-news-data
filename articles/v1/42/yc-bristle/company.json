@@ -28,5 +28,22 @@
       "partition": "2026-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/42/yc-bristle/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 7426,
+        "sha256": "sha256:01987c1b12f8f82baa032275c15b47fe6df550c14145fe71e9359a9d81c5d250",
+        "newest_at": "2026-06-26T07:30:00+00:00",
+        "oldest_at": "2022-10-23T18:54:36+00:00"
+      }
+    ]
+  }
 }

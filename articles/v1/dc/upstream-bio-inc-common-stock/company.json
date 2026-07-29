@@ -40,5 +40,22 @@
       "partition": "2024-09",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/dc/upstream-bio-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14008,
+        "sha256": "sha256:d3c1530ef792247dd66fa5c034c84c7277e581a96177c9380071677399a1a788",
+        "newest_at": "2024-09-09T18:39:48+00:00",
+        "oldest_at": "2023-06-08T03:37:37+00:00"
+      }
+    ]
+  }
 }

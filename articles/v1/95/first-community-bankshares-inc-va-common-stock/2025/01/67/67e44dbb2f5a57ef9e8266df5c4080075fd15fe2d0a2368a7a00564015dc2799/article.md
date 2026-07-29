@@ -7,7 +7,7 @@ source_id: "first-community-bankshares-inc-va-common-stock-rss-7ad1a770dac9"
 canonical_url: "https://ir.fcbresource.com/news-events/press-releases/news-details/2025/First-Community-Bankshares-Inc.-Announces-Fourth-Quarter-and-Full-Year-2024-Results-Quarterly-Cash-Dividend-and-Special-Dividend/default.aspx"
 published_at: "2025-01-28T21:00:00+00:00"
 first_seen_at: "2026-07-26T14:13:56.441006+00:00"
-fetched_at: "2026-07-28T19:45:44.890596+00:00"
+fetched_at: "2026-07-28T23:22:37.407866+00:00"
 content_hash: "sha256:6ba206fb950a900d98fcd04fee38623f7c2c77995dd328c658928685291f72d3"
 ---
 

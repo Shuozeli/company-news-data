@@ -7,7 +7,7 @@ source_id: "wec-energy-group-inc-common-stock-rss-7fc8ceb8880c"
 canonical_url: "https://investor.wecenergygroup.com/investors/news-releases/press-release-details/2026/Klappa-to-retire-named-Chairman-Emeritus/default.aspx"
 published_at: "2026-01-22T21:33:00+00:00"
 first_seen_at: "2026-07-26T05:17:07.713799+00:00"
-fetched_at: "2026-07-28T21:37:51.984236+00:00"
+fetched_at: "2026-07-29T00:31:34.579783+00:00"
 content_hash: "sha256:fed2969b58d171300591e8686ad67fdf9897d34c19c678eb0ad48b03e82cb361"
 ---
 

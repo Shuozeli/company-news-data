@@ -7,7 +7,7 @@ source_id: "robinhood-markets-inc-class-a-common-stock-rss-4d5f88ecf3b4"
 canonical_url: "https://medium.com/robinhood-engineering/robinhoods-hackathon-for-social-good-92c91a5726c3"
 published_at: "2022-11-21T18:50:50+00:00"
 first_seen_at: "2026-07-25T21:41:09.986212+00:00"
-fetched_at: "2026-07-28T21:16:03.374256+00:00"
+fetched_at: "2026-07-29T00:02:15.177673+00:00"
 content_hash: "sha256:f7ae435c63f985dfe1d4aed9c6ff02657cc29fcd5efc3bc52012c63e73a9f9f3"
 ---
 

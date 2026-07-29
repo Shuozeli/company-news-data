@@ -7,7 +7,7 @@ source_id: "jabil-inc-common-stock-rss-7d060940dc80"
 canonical_url: "https://investors.jabil.com/news/news-details/2026/Jabil-Declares-Quarterly-Dividend-e735784b9/default.aspx"
 published_at: "2026-07-16T20:15:00+00:00"
 first_seen_at: "2026-07-25T01:08:56.097172+00:00"
-fetched_at: "2026-07-28T21:51:11.564809+00:00"
+fetched_at: "2026-07-29T00:29:02.466380+00:00"
 content_hash: "sha256:9a303b3e205e8e359a46cdd280e806011eedd73f6505a2eb777675e67908625b"
 ---
 

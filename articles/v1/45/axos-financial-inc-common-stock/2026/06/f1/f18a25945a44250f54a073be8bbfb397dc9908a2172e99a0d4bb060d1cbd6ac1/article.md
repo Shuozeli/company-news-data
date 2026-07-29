@@ -7,7 +7,7 @@ source_id: "axos-financial-inc-common-stock-rss-752e4796f309"
 canonical_url: "https://investors.axosfinancial.com/news-events/press-releases/news-details/2026/Axos-Financial-Inc--to-Announce-Fourth-Quarter-Fiscal-2026-Results-on-July-30-2026/default.aspx"
 published_at: "2026-06-23T20:05:00+00:00"
 first_seen_at: "2026-07-26T23:21:51.360191+00:00"
-fetched_at: "2026-07-28T20:04:36.695938+00:00"
+fetched_at: "2026-07-28T23:53:40.559338+00:00"
 content_hash: "sha256:4fc0247e53f63ca8c22bb769ff0a75680a7d1a59795750ce8b3c647e690d6cf6"
 ---
 

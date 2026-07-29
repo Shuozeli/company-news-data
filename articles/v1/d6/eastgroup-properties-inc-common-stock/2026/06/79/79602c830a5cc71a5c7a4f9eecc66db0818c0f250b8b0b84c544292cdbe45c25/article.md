@@ -7,7 +7,7 @@ source_id: "eastgroup-properties-inc-common-stock-rss-cadf7b5862c3"
 canonical_url: "https://investor.eastgroup.net/2026-06-11-EastGroup-Properties-Announces-Second-Quarter-2026-Earnings-Conference-Call-and-Webcast"
 published_at: "2026-06-11T20:05:00+00:00"
 first_seen_at: "2026-07-20T03:32:55.655546+00:00"
-fetched_at: "2026-07-28T20:53:23.180663+00:00"
+fetched_at: "2026-07-28T23:39:16.854054+00:00"
 content_hash: "sha256:faa97d633205c4aeb531006ade893f973b502f7e8ff5483c9391fe93edd6a06e"
 ---
 

@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/76/allegiant-travel-company-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 20795,
+        "sha256": "sha256:fda0454766fe17d585939baacf5b3e08b81483c3d70c8a29c3b5a2c9e196266d",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2026-05-02T14:02:00+00:00"
+      }
+    ]
+  }
 }

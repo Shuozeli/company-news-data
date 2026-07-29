@@ -7,7 +7,7 @@ source_id: "kinross-gold-corporation-common-stock-rss-704a45ed047f"
 canonical_url: "https://www.kinross.com/English/news-and-investors/news-releases/press-release-details/2026/Kinross-releases-2025-Sustainability-Report/default.aspx"
 published_at: "2026-06-01T11:00:00+00:00"
 first_seen_at: "2026-07-25T10:52:47.429571+00:00"
-fetched_at: "2026-07-28T20:22:22.541275+00:00"
+fetched_at: "2026-07-28T23:06:17.021935+00:00"
 content_hash: "sha256:dcab4e001cd2c78abb59cf36e8774b53b9c14f514c9a905d7dd5700ff002a3bb"
 ---
 

@@ -7,7 +7,7 @@ source_id: "caring-brands-inc-common-stock-rss-66147c472423"
 canonical_url: "https://caringbrands.com/caring-brands-appoints-christopher-m-galeta-esq-to-board-of-directors/"
 published_at: "2025-07-15T23:40:00+00:00"
 first_seen_at: "2026-07-24T22:18:05.610221+00:00"
-fetched_at: "2026-07-28T20:26:05.310498+00:00"
+fetched_at: "2026-07-28T23:10:52.869007+00:00"
 content_hash: "sha256:40739f709d5805ea68ede57a6e8fe831c159b1fad52c916111a99c468005b5b0"
 ---
 

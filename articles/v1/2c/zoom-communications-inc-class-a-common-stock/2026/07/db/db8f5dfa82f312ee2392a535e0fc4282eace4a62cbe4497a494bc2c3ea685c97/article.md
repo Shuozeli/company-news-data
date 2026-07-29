@@ -7,7 +7,7 @@ source_id: "zoom-communications-inc-class-a-common-stock-rss-cc53c6254da1"
 canonical_url: "https://www.zoom.com/en/blog/gartner-voc-ccaas-2026/"
 published_at: "2026-07-24T15:07:20+00:00"
 first_seen_at: "2026-07-24T17:14:06.758504+00:00"
-fetched_at: "2026-07-28T21:34:56.359994+00:00"
+fetched_at: "2026-07-29T00:07:20.263662+00:00"
 content_hash: "sha256:e66930468f4c2a4b8e52f1e8ddad9fbad8946f5176ec38268fe02363c46d590c"
 ---
 

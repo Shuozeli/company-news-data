@@ -7,7 +7,7 @@ source_id: "scilex-holding-company-common-stock-rss-70ffa166dc98"
 canonical_url: "https://www.scilexholding.com/archives/1947"
 published_at: "2025-08-21T17:15:00+00:00"
 first_seen_at: "2026-07-25T22:22:56.339768+00:00"
-fetched_at: "2026-07-28T20:13:13.567595+00:00"
+fetched_at: "2026-07-28T22:54:40.932006+00:00"
 content_hash: "sha256:90c7fe614fd3726d6055346518030d1dc01255b99fee57896b393940e17283c8"
 ---
 

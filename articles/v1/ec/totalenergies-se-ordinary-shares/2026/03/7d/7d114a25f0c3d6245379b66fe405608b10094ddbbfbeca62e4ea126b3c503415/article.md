@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/stephane-michel-we-are-the-largest-exporter-of-gas-from-the-united-states-and-we-are-going-to-further-increase-it/"
 published_at: "2026-03-27T14:16:29+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:914b89a8304091524fdd7c4545e104b0fc22e3a5c5812ae962991c664714ad46"
 ---
 

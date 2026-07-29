@@ -7,7 +7,7 @@ source_id: "inspira-technologies-oxy-b-h-n-ltd-ordinary-shares-rss-7eae96d06492"
 canonical_url: "https://inspira-technologies.com/inspira-technologies-appoints-yoav-rozanovich-as-chief-business-officer-to-drive-immediate-revenue-growth-and-quantum-expansion/"
 published_at: "2026-04-14T12:15:19+00:00"
 first_seen_at: "2026-07-25T09:33:30.249851+00:00"
-fetched_at: "2026-07-28T22:01:11.956483+00:00"
+fetched_at: "2026-07-29T00:39:29.265252+00:00"
 content_hash: "sha256:6f283999b75db38135726dc328e571ed2b4332ac8b4b589896b5a57f8632b1a1"
 ---
 

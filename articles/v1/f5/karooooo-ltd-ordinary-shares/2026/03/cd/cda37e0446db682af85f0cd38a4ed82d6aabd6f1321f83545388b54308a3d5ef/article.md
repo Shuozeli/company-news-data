@@ -7,7 +7,7 @@ source_id: "karooooo-ltd-ordinary-shares-rss-90fe8cb4cf55"
 canonical_url: "https://karooooo.com/press-release/cartrack-surpasses-two-million-subscribers-in-south-africa/"
 published_at: "2026-03-11T13:02:46+00:00"
 first_seen_at: "2026-07-20T23:17:55.333800+00:00"
-fetched_at: "2026-07-28T21:23:37.259877+00:00"
+fetched_at: "2026-07-29T00:12:19.960855+00:00"
 content_hash: "sha256:d01cd33398fdc5f7dc71f4ef48f6e56fb327d466f3c354d81f9577bd3e69bf73"
 ---
 

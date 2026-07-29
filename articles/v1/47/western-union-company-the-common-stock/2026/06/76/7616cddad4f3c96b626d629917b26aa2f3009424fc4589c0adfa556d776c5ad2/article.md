@@ -7,7 +7,7 @@ source_id: "western-union-company-the-common-stock-rss-b97466c15713"
 canonical_url: "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-and-Intermex-Provide-an-Update-on-Pending-Acquisition-of-Intermex/default.aspx"
 published_at: "2026-06-24T23:13:00+00:00"
 first_seen_at: "2026-07-26T05:24:37.115894+00:00"
-fetched_at: "2026-07-28T19:49:10.319118+00:00"
+fetched_at: "2026-07-28T23:31:52.252898+00:00"
 content_hash: "sha256:95394966e2990cbe3b8d9b29535b1a16ea001a4c30683b5ca040030cd7ea6e86"
 ---
 

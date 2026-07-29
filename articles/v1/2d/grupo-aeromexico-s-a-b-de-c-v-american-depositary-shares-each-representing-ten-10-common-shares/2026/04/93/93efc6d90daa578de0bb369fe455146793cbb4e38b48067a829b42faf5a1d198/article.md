@@ -7,7 +7,7 @@ source_id: "grupo-aeromexico-s-a-b-de-c-v-american-depositary-shares-each-repres
 canonical_url: "https://ir.aeromexico.com/news-releases/news-release-details/aeromexico-files-annual-report-form-20-f"
 published_at: "2026-04-30T21:30:00+00:00"
 first_seen_at: "2026-07-25T07:12:21.745434+00:00"
-fetched_at: "2026-07-28T21:50:13.802624+00:00"
+fetched_at: "2026-07-29T00:04:23.463151+00:00"
 content_hash: "sha256:6cd960b34c4920d1ef56e0d8aa95c0cdff56a8bf265a7b2b8b6165333cfe7ca4"
 ---
 

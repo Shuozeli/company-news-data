@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/54/lionsgate-studios-corp-common-shares/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 15164,
+        "sha256": "sha256:0e1273e6887117b81a7a35f06df8002a1516966a33d3b079e3c8b662d9bc46e9",
+        "newest_at": "2026-07-22T12:00:00+00:00",
+        "oldest_at": "2025-11-06T21:05:00+00:00"
+      }
+    ]
+  }
 }

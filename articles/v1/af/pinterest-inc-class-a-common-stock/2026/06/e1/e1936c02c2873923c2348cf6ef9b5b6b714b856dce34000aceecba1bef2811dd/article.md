@@ -7,7 +7,7 @@ source_id: "pinterest-inc-class-a-common-stock-rss-45b43224fdd9"
 canonical_url: "https://medium.com/pinterest-engineering/automated-schema-evolution-in-pinterests-next-generation-db-ingestion-framework-36c5c07070de"
 published_at: "2026-06-24T18:01:01+00:00"
 first_seen_at: "2026-07-20T04:35:24.920473+00:00"
-fetched_at: "2026-07-28T21:03:21.681844+00:00"
+fetched_at: "2026-07-28T23:50:26.205888+00:00"
 content_hash: "sha256:0f6e8accf12d28e1762c6c255a09cd29ac39c3478381061b88122c659b262684"
 ---
 

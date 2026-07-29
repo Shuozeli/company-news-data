@@ -172,5 +172,49 @@
       "partition": "2026-07",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/78/yc-resend/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 44374,
+        "sha256": "sha256:76005c475e9565f67c7b6339fb7cc4fa4ba5332f373cc9d5b54a0f54ad0315cc",
+        "newest_at": "2026-07-22T00:00:00+00:00",
+        "oldest_at": "2026-02-25T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/78/yc-resend/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 44526,
+        "sha256": "sha256:7c4406a4a758204680ae331354b32b8118c0a0d1293e1b5dc2d08aa8a78e39ba",
+        "newest_at": "2026-02-18T00:00:00+00:00",
+        "oldest_at": "2025-04-25T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/78/yc-resend/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 43958,
+        "sha256": "sha256:ef315e3105e85f3947db4bbbe5ddc3cd5bbafea59d7eb092f1dd174b3f7a4b1d",
+        "newest_at": "2025-04-23T00:00:00+00:00",
+        "oldest_at": "2024-01-20T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/78/yc-resend/index/pages/000004.json",
+        "record_count": 30,
+        "byte_count": 26915,
+        "sha256": "sha256:7c9b559c1c789fa56c8a1b9eacd778af728906fd296e3751fab8337e25c59b52",
+        "newest_at": "2024-01-19T00:00:00+00:00",
+        "oldest_at": "2023-01-04T00:00:00+00:00"
+      }
+    ]
+  }
 }

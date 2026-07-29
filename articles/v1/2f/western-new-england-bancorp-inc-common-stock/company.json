@@ -48,5 +48,22 @@
       "partition": "2026-04",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2f/western-new-england-bancorp-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 17799,
+        "sha256": "sha256:1a23cfb1202b8e3a2f38ec9d1fd78cb2962fb3b350c0adddc645d0818e69f5ad",
+        "newest_at": "2026-04-28T20:05:00+00:00",
+        "oldest_at": "2024-06-10T20:05:00+00:00"
+      }
+    ]
+  }
 }

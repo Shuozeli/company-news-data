@@ -256,5 +256,67 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 6,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0e/yc-posthog/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49211,
+        "sha256": "sha256:41c39fbd31e193e5fdd9a6a027ec326f9819c4315642796b6797ae0bc2c6bb8e",
+        "newest_at": "2026-07-28T00:00:00+00:00",
+        "oldest_at": "2026-03-13T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/0e/yc-posthog/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 48849,
+        "sha256": "sha256:efade33e9a7baf2e0cbb94faf796d1005049003f4db3b9864fbc3026e4d47b32",
+        "newest_at": "2026-03-13T00:00:00+00:00",
+        "oldest_at": "2023-10-23T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/0e/yc-posthog/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 48734,
+        "sha256": "sha256:c76b003a2ed72e9b3db03a88c20001aeafb44b8fff8d1c81ccf3d441e6970ed6",
+        "newest_at": "2023-09-08T00:00:00+00:00",
+        "oldest_at": "2022-07-20T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/0e/yc-posthog/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 49378,
+        "sha256": "sha256:dbb9797575d6962b92ce5d78b7b84cd474d969a9d631d59b1b1647ab8fb3f84e",
+        "newest_at": "2022-07-05T00:00:00+00:00",
+        "oldest_at": "2021-10-07T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/0e/yc-posthog/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 48841,
+        "sha256": "sha256:463d3106edd27fad490b1edd33c81cba9df923137a46e0db13b35be3a23b6d4a",
+        "newest_at": "2021-09-30T00:00:00+00:00",
+        "oldest_at": "2020-07-14T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/0e/yc-posthog/index/pages/000006.json",
+        "record_count": 22,
+        "byte_count": 20750,
+        "sha256": "sha256:b7225eef8c8cccd4ee1c51dd225f051db376b1c54488c20aca8584623be018c1",
+        "newest_at": "2020-06-25T00:00:00+00:00",
+        "oldest_at": "2019-09-01T00:00:00+00:00"
+      }
+    ]
+  }
 }

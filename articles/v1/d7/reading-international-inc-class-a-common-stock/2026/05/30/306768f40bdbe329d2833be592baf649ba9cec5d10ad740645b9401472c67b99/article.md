@@ -7,7 +7,7 @@ source_id: "reading-international-inc-class-a-common-stock-rss-2a90fce45284"
 canonical_url: "https://www.readingrdi.com/1st-quarter-earnings-call-2026/"
 published_at: "2026-05-20T08:47:59+00:00"
 first_seen_at: "2026-07-25T20:36:25.682580+00:00"
-fetched_at: "2026-07-28T22:02:56.561669+00:00"
+fetched_at: "2026-07-29T00:41:48.093676+00:00"
 content_hash: "sha256:d98a7c9eccdac602bfbae2afcda58e97846075fa215e63b2a68f861f14566cd8"
 ---
 

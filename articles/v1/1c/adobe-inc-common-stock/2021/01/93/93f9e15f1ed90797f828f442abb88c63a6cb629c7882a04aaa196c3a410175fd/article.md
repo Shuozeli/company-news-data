@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2021/01/an-illustrator-25-1-update-for-plugin-developers"
 published_at: "2021-01-27T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:3cddb29054e9ed30700b998a3007ec81977e4af15be5ea6af743f75b3f0db968"
 ---
 

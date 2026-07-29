@@ -7,7 +7,7 @@ source_id: "yc-metal-news-import-c3e62a577482"
 canonical_url: "https://www.metal.ai/blog/workflow-note-mapper"
 published_at: null
 first_seen_at: "2026-07-23T17:36:18.798245+00:00"
-fetched_at: "2026-07-28T10:27:44.617201+00:00"
+fetched_at: "2026-07-29T00:24:49.404807+00:00"
 content_hash: "sha256:bbefbfdbe0f097519450c72a941a5c8828d9bd88ed32bcf1f55dc9c7d73ab855"
 ---
 

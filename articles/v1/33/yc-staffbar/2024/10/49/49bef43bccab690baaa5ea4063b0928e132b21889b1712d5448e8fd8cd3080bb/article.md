@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/consumable-purchases-with-the-superwall-sdk"
-published_at: "2024-10-03T18:43:27.511+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:abde57b4110d274d8d24c409a932d46f9dfb9b92a9eb5512792de3ea9d76982b"

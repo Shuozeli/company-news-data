@@ -7,7 +7,7 @@ source_id: "petco-health-and-wellness-company-inc-class-a-common-stock-rss-d8b90
 canonical_url: "https://corporate.petco.com/2026-03-11-Petco-Reports-Fourth-Quarter-and-Full-Year-2025-Results"
 published_at: "2026-03-11T20:05:00+00:00"
 first_seen_at: "2026-07-27T04:21:05.876149+00:00"
-fetched_at: "2026-07-28T20:28:24.215682+00:00"
+fetched_at: "2026-07-28T23:14:45.610353+00:00"
 content_hash: "sha256:c44036aeefc6abaf341563aed9fbfb1b781491d155922d4d28d8e37137ad0187"
 ---
 

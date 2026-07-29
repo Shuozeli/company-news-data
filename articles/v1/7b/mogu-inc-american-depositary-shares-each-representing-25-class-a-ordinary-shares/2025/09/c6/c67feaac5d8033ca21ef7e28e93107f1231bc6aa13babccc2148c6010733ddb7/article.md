@@ -7,7 +7,7 @@ source_id: "mogu-inc-american-depositary-shares-each-representing-25-class-a-ord
 canonical_url: "https://ir.mogu-inc.com/news/news-details/2025/MOGU-Approves-Strategic-Allocation-of-Up-to-US20-Million-to-Digital-Currencies/default.aspx"
 published_at: "2025-09-11T10:30:00+00:00"
 first_seen_at: "2026-07-25T14:45:30.550850+00:00"
-fetched_at: "2026-07-28T21:35:53.115672+00:00"
+fetched_at: "2026-07-29T00:30:15.072789+00:00"
 content_hash: "sha256:90c57d6edf0e46f8ff3eb222cbeb77b2e630622a274eb512468bff4f74c15ada"
 ---
 

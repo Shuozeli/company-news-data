@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 11
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bd/wafd-inc-depositary-shares/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 11586,
+        "sha256": "sha256:67f9939d2c46477d4820660df3cc6e3121cac4ff20f692072044670d0c6534e7",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2026-07-28T21:16:48.751829+00:00"
+      }
+    ]
+  }
 }

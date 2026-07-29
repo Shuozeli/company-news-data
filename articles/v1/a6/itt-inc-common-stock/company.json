@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a6/itt-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12976,
+        "sha256": "sha256:480d740a72af7e719b05b9a4c1e47c65614a0978c278d26b37d31936644914d6",
+        "newest_at": "2026-07-16T10:30:00+00:00",
+        "oldest_at": "2026-02-05T11:30:00+00:00"
+      }
+    ]
+  }
 }

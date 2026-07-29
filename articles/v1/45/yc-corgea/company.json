@@ -52,5 +52,22 @@
       "partition": "2026-07",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/45/yc-corgea/index/pages/000001.json",
+        "record_count": 31,
+        "byte_count": 30426,
+        "sha256": "sha256:3e3aed3839c0c52c953bd0771280cb90d91139d8dd5516903d707c0c6168eb65",
+        "newest_at": "2026-07-23T00:00:00+00:00",
+        "oldest_at": "2023-12-13T00:00:00+00:00"
+      }
+    ]
+  }
 }

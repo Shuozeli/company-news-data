@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/private-placement-to-accelerate-growth-and-enhance-profitability/"
 published_at: "2025-03-25T19:03:04+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:c367b68f5e5a37c98517441904bb977bb86b50638de10e970f929b1f3eeb01ca"
 ---
 

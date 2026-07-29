@@ -7,7 +7,7 @@ source_id: "rectitude-holdings-ltd-ordinary-shares-rss-0d297b397433"
 canonical_url: "https://ir.rectitude.com.sg/rectitude-holdings-explores-strategic-collaboration-with-vantage-equipment-services-pte-ltd-to-advance-green-energy-expansion/"
 published_at: "2025-11-10T13:00:35+00:00"
 first_seen_at: "2026-07-25T20:39:27.562148+00:00"
-fetched_at: "2026-07-28T22:10:43.539752+00:00"
+fetched_at: "2026-07-29T00:49:35.606057+00:00"
 content_hash: "sha256:3a30962c788dbc53d2633ab8b6c4c198446f7b3280ac2e8fa50b7067062f704a"
 ---
 

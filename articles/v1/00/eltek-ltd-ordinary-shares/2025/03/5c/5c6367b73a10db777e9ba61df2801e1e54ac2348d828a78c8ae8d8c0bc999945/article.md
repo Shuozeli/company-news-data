@@ -7,7 +7,7 @@ source_id: "eltek-ltd-ordinary-shares-rss-46b7bb6c744b"
 canonical_url: "https://www.nisteceltek.com/eltek-ltd-reports-full-year-and-fourth-quarter-2024-financial-results/"
 published_at: "2025-03-13T12:41:39+00:00"
 first_seen_at: "2026-07-25T02:10:06.936515+00:00"
-fetched_at: "2026-07-28T20:49:40.716799+00:00"
+fetched_at: "2026-07-28T23:34:42.862462+00:00"
 content_hash: "sha256:db2dfb797173dc30bbe1ca638aaf076d500c4b7f7b4cae2cf54249ff240d5050"
 ---
 

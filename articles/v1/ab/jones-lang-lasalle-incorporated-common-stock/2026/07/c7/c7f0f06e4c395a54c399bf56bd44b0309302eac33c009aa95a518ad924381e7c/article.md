@@ -7,7 +7,7 @@ source_id: "jones-lang-lasalle-incorporated-common-stock-rss-aafaf3e1ee4a"
 canonical_url: "https://open.spotify.com/episode/0uoUCP8Z7XaEFbp92piO6V"
 published_at: "2026-07-07T04:52:45+00:00"
 first_seen_at: "2026-07-20T04:35:39.901123+00:00"
-fetched_at: "2026-07-28T19:46:06.400839+00:00"
+fetched_at: "2026-07-28T23:22:39.041449+00:00"
 content_hash: "sha256:10f900266c54aa31232e5867ff4fe4868332aa73f69c281096604734f12f2416"
 ---
 

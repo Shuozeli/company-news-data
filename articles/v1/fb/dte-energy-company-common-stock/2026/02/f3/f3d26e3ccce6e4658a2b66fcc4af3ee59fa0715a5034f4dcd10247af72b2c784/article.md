@@ -7,7 +7,7 @@ source_id: "dte-energy-company-common-stock-rss-f527ae2f6741"
 canonical_url: "https://ir.dteenergy.com/news/press-release-details/2026/DTE-Energy-reports-2025-accomplishments-earnings-and-investments/default.aspx"
 published_at: "2026-02-17T12:00:00+00:00"
 first_seen_at: "2026-07-27T01:58:55.460169+00:00"
-fetched_at: "2026-07-28T19:35:47.210739+00:00"
+fetched_at: "2026-07-28T23:05:39.719456+00:00"
 content_hash: "sha256:c8017a94818fc82953bed334d457b8e803e49543b299a171b06b87524c8699b5"
 ---
 

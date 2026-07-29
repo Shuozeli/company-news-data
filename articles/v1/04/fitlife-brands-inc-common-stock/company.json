@@ -28,5 +28,22 @@
       "partition": "2023-03",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/04/fitlife-brands-inc-common-stock/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 11048,
+        "sha256": "sha256:2efcb56c0044fb8f51d8ec570347a22b8ce79832bf31e918e27bddf7a1ae68b8",
+        "newest_at": "2023-03-06T03:31:42+00:00",
+        "oldest_at": "2021-11-10T18:09:45+00:00"
+      }
+    ]
+  }
 }

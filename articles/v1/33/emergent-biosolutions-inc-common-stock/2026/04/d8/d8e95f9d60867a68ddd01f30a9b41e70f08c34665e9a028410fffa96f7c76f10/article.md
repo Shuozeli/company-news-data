@@ -7,7 +7,7 @@ source_id: "emergent-biosolutions-inc-common-stock-rss-a13a3e2df02d"
 canonical_url: "https://investors.emergentbiosolutions.com/news-releases/news-release-details/emergent-biosolutions-secures-long-term-strategic-manufacturing"
 published_at: "2026-04-29T11:35:00+00:00"
 first_seen_at: "2026-07-25T02:16:37.099543+00:00"
-fetched_at: "2026-07-28T21:06:58.454974+00:00"
+fetched_at: "2026-07-28T23:53:01.341013+00:00"
 content_hash: "sha256:4351e1f6cbdb12058f848192b41f37343d81a5f3c1da308e3da794fd237a6962"
 ---
 

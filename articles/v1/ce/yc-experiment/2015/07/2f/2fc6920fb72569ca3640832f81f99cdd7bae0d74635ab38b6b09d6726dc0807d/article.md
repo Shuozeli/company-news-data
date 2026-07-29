@@ -7,7 +7,7 @@ source_id: "yc-experiment-rss-42a4b1db4c5b"
 canonical_url: "https://blog.experiment.com/post/125471942082"
 published_at: "2015-07-31T00:36:58+00:00"
 first_seen_at: "2026-07-25T03:53:26.357950+00:00"
-fetched_at: "2026-07-28T21:37:06.033878+00:00"
+fetched_at: "2026-07-29T00:22:15.379114+00:00"
 content_hash: "sha256:07ac0627c8cc97048f302f02247c55ad61d598a392ba376b3fe4400d27db9a47"
 ---
 

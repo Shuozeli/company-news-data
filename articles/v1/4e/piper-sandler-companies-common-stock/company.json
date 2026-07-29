@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4e/piper-sandler-companies-common-stock/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 20995,
+        "sha256": "sha256:d87f60e0e1faa7559e6460ce7435e7f098a10f9e104d2a737621b6d812e4182a",
+        "newest_at": "2026-07-23T21:13:05.885166+00:00",
+        "oldest_at": "2026-01-14T16:15:00+00:00"
+      }
+    ]
+  }
 }

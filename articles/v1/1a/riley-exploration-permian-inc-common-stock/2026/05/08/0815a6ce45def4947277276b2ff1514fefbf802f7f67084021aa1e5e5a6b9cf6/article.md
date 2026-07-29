@@ -7,7 +7,7 @@ source_id: "riley-exploration-permian-inc-common-stock-rss-18f2e505d58c"
 canonical_url: "https://rileypermian.com/investors/press-releases/news-details/2026/Riley-Permian-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-06T20:05:00+00:00"
 first_seen_at: "2026-07-25T21:31:45.109736+00:00"
-fetched_at: "2026-07-28T21:03:22.547900+00:00"
+fetched_at: "2026-07-28T23:50:13.605412+00:00"
 content_hash: "sha256:5da57ba612d574cf98fab4bbaf2ffcb85f4294a06349fe2c615abac62d148776"
 ---
 

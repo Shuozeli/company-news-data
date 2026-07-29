@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/embedded-systems-cybersecurity-regulations"
 published_at: "2023-08-29T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:95ecc27e12b478930fb7b510e1bcde952171ba91ec0ed69a41e22b3f36444781"
 ---
 

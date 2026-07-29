@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/where-incident-automation-should-stop"
 published_at: "2026-05-29T16:05:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:5108c7fe951ceda86f05cf4c7076dcab2b87c6a7fbb03bc38f5c95b78103fc8a"
 ---
 

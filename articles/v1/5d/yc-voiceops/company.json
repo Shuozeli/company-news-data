@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 4
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5d/yc-voiceops/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 6533,
+        "sha256": "sha256:8d1c0022243d7c16dda9e4d6cc134cd4a23913a2a2b358c683697c9887b65cfb",
+        "newest_at": "2026-07-28T21:37:39.039431+00:00",
+        "oldest_at": "2025-03-12T18:09:29+00:00"
+      }
+    ]
+  }
 }

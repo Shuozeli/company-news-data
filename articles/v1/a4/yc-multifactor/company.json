@@ -4,7 +4,7 @@
     "key": "yc-multifactor",
     "name": "Multifactor"
   },
-  "record_count": 11,
+  "record_count": 12,
   "first_published_at": "2025-09-08T00:00:00+00:00",
   "last_published_at": "2026-07-27T00:00:00+00:00",
   "partitions": [
@@ -34,7 +34,24 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 2
+      "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a4/yc-multifactor/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12506,
+        "sha256": "sha256:b5a7cd379b897a5431dd5e1a448ebdc3db8c10cde1558b5b24a51b5260c98498",
+        "newest_at": "2026-07-27T00:00:00+00:00",
+        "oldest_at": "2025-09-08T00:00:00+00:00"
+      }
+    ]
+  }
 }

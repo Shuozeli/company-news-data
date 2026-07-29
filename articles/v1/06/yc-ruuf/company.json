@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/06/yc-ruuf/index/pages/000001.json",
+        "record_count": 39,
+        "byte_count": 37678,
+        "sha256": "sha256:eecb82e69eeaf4a3a226de785f966788080593c63e656b5ce1fce3d813f2d071",
+        "newest_at": "2026-07-28T01:25:05.032+00:00",
+        "oldest_at": "2025-10-21T18:59:40.114+00:00"
+      }
+    ]
+  }
 }

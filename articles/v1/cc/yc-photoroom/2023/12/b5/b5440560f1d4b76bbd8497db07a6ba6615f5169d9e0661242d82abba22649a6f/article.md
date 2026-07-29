@@ -5,7 +5,7 @@ company_key: "yc-photoroom"
 company: "Photoroom"
 source_id: "yc-photoroom-rss-d1044ff9c1aa"
 canonical_url: "https://www.photoroom.com/blog/add-a-background-to-a-photo"
-published_at: "2023-12-15T00:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-23T22:00:08.835718+00:00"
 fetched_at: "2026-07-28T21:49:03.166047+00:00"
 content_hash: "sha256:20894344a6d5677ebcd81e56c065a8c6fb77e97ba80cdc5b108c9ad83a655431"

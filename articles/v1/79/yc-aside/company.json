@@ -12,5 +12,22 @@
       "partition": "2026-06",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/79/yc-aside/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 5702,
+        "sha256": "sha256:661bfd7fc37149f893e685ff11e1c58a50040dd6832919069ba9b506e598683b",
+        "newest_at": "2026-06-25T16:00:00+00:00",
+        "oldest_at": "2026-06-22T07:00:00+00:00"
+      }
+    ]
+  }
 }

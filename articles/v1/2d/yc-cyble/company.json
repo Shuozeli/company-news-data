@@ -24,5 +24,22 @@
       "partition": "2026-07",
       "record_count": 20
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2d/yc-cyble/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 30601,
+        "sha256": "sha256:2f401dfc67337333ffd3a6ed9167fd62d60c5c3c1aed30df8068eeb03daf4799",
+        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "oldest_at": "2024-08-08T10:59:36+00:00"
+      }
+    ]
+  }
 }

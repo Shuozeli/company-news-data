@@ -7,7 +7,7 @@ source_id: "yc-linkana-rss-b8a570b33476"
 canonical_url: "https://www.linkana.com/blog/como-escolher-um-srm/"
 published_at: "2026-07-01T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:31.551042+00:00"
-fetched_at: "2026-07-28T22:03:11.058239+00:00"
+fetched_at: "2026-07-29T00:41:48.615146+00:00"
 content_hash: "sha256:f402907856f3b022d7a1598b5d7676defcd5a954f24566d35f3ff5d549682ec1"
 ---
 

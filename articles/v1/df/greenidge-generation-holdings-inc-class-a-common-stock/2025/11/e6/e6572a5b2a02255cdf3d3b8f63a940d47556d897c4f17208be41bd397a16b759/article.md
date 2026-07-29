@@ -7,7 +7,7 @@ source_id: "greenidge-generation-holdings-inc-class-a-common-stock-rss-2e47b4921
 canonical_url: "https://ir.greenidge.com/news-releases/news-release-details/greenidge-generation-highlights-historic-agreement-state-new"
 published_at: "2025-11-13T13:30:00+00:00"
 first_seen_at: "2026-07-25T07:06:39.923184+00:00"
-fetched_at: "2026-07-28T19:57:20.681232+00:00"
+fetched_at: "2026-07-28T23:45:45.493892+00:00"
 content_hash: "sha256:cae76d617c59caae3f97fbe9751c91ca185bf753fd1cf4e021c7cf79df4bd90a"
 ---
 

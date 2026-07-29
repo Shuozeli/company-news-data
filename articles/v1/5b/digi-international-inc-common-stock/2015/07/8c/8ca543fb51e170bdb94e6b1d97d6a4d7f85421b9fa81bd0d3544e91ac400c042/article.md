@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2015/xbee-takes-flight-at-nasa-wallops-flight-facility"
 published_at: "2015-07-10T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:80a3bad7141ab17430293a675fd96f04aa5748b120110a59011e62bbcf0f1c04"
 ---
 

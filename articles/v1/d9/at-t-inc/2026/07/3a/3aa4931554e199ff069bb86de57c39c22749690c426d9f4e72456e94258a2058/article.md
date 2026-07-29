@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/story/2026/samsung-galaxy-z8.html"
 published_at: "2026-07-22T13:00:00+00:00"
 first_seen_at: "2026-07-22T14:04:38.728671+00:00"
-fetched_at: "2026-07-28T20:53:36.935307+00:00"
+fetched_at: "2026-07-28T23:38:49.340178+00:00"
 content_hash: "sha256:160043f483a3832d036782358b76af15a73dffdd75af9717a14da3d83fa255fa"
 ---
 

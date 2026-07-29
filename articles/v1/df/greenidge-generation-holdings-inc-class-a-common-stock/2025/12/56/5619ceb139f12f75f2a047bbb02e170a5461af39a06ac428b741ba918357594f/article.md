@@ -7,7 +7,7 @@ source_id: "greenidge-generation-holdings-inc-class-a-common-stock-rss-2e47b4921
 canonical_url: "https://ir.greenidge.com/news-releases/news-release-details/greenidge-generation-closes-sale-south-carolina-property-18"
 published_at: "2025-12-11T21:00:00+00:00"
 first_seen_at: "2026-07-25T07:06:39.923184+00:00"
-fetched_at: "2026-07-28T19:57:20.681232+00:00"
+fetched_at: "2026-07-28T23:45:45.493892+00:00"
 content_hash: "sha256:1f8cfe013ec85495949c69b37a4cbe60bedd9193d5cac227298624aa001c7eda"
 ---
 

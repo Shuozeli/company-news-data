@@ -7,7 +7,7 @@ source_id: "synaptics-incorporated-common-stock-0-001-par-value-rss-37ccc1913767
 canonical_url: "https://www.synaptics.com/node/10902"
 published_at: "2026-07-13T17:42:32+00:00"
 first_seen_at: "2026-07-24T03:02:35.512628+00:00"
-fetched_at: "2026-07-28T21:41:43.051336+00:00"
+fetched_at: "2026-07-29T00:15:50.054198+00:00"
 content_hash: "sha256:7eb64e1af71358e3dd05c8d0188ffe97607456db12fa8112c256c71d7422d3a2"
 ---
 

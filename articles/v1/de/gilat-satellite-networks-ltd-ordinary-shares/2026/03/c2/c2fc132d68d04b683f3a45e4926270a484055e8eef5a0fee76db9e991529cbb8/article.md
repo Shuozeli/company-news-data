@@ -7,7 +7,7 @@ source_id: "gilat-satellite-networks-ltd-ordinary-shares-rss-076d0814984f"
 canonical_url: "https://www.gilat.com/newsroom/media/resource-center-whitepaper-earth-observation-connectivity-solutions/"
 published_at: "2026-03-13T07:47:02+00:00"
 first_seen_at: "2026-07-25T03:17:43.964106+00:00"
-fetched_at: "2026-07-28T20:37:57.787391+00:00"
+fetched_at: "2026-07-28T23:21:54.528556+00:00"
 content_hash: "sha256:d930689412ffe3ce62e1a0578938bce168298a2262e85fe67c0a24a4f2c3ccb2"
 ---
 

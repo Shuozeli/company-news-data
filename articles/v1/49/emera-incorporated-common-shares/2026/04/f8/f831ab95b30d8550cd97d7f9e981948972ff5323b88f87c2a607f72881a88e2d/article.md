@@ -7,7 +7,7 @@ source_id: "emera-incorporated-common-shares-rss-cb70896ba212"
 canonical_url: "https://investors.emera.com/news/news-details/2026/Emera-Declares-Quarterly-Dividends-c0e9cb87e/default.aspx"
 published_at: "2026-04-13T10:43:00+00:00"
 first_seen_at: "2026-07-25T02:15:23.000283+00:00"
-fetched_at: "2026-07-28T21:01:58.380668+00:00"
+fetched_at: "2026-07-28T23:48:50.397779+00:00"
 content_hash: "sha256:fbf6520b9a67467b03b0544b392b615b0d011d2ebaf66272a17d970f42c2aceb"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/kyc-periodic-review-edd-refresh-ai-agents-commercial-banking"
 published_at: "2026-07-10T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:d3feed5c0a0e6b71f7829152b8008cf311bfbbca1a9830840af0f0eb4fcc9d11"
 ---
 

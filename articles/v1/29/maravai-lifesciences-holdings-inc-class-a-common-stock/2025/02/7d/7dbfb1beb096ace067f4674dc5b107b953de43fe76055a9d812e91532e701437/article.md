@@ -7,7 +7,7 @@ source_id: "maravai-lifesciences-holdings-inc-class-a-common-stock-rss-a091ffc9d
 canonical_url: "https://www.maravai.com/insights/maravai-lifesciences-completes-acquisition-of-the-dna-and-rna-business-of-officinae-bio/"
 published_at: "2025-02-24T15:16:48+00:00"
 first_seen_at: "2026-07-25T01:12:23.653842+00:00"
-fetched_at: "2026-07-28T22:05:21.856225+00:00"
+fetched_at: "2026-07-29T00:43:13.628606+00:00"
 content_hash: "sha256:5dd88d21fd9636b8d1d89eb5ee095539d61b9e98ec95422ae1c9bc7703ce2e51"
 ---
 

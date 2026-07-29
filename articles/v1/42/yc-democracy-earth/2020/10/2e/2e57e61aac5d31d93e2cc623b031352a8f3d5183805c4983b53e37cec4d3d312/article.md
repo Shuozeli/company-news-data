@@ -7,7 +7,7 @@ source_id: "yc-democracy-earth-rss-cda4ae0def8b"
 canonical_url: "https://medium.com/hacktivism/presenting-our-pilots-report-f544b2b55139"
 published_at: "2020-10-10T15:25:14+00:00"
 first_seen_at: "2026-07-27T01:43:49.601606+00:00"
-fetched_at: "2026-07-28T20:52:03.435789+00:00"
+fetched_at: "2026-07-28T23:37:36.533758+00:00"
 content_hash: "sha256:5109496bad9e85def98df21422c2dfba5010e5d0531843dfb5f12789e06ccafa"
 ---
 

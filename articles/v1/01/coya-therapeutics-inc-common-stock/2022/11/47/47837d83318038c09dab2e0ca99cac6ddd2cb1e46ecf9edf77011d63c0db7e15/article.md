@@ -7,7 +7,7 @@ source_id: "coya-therapeutics-inc-common-stock-rss-7489961ab73d"
 canonical_url: "https://coyatherapeutics.com/ex-vivo-expanded-human-regulatory-t-cells-modify-neuroinflammation-in-a-preclinical-model-of-alzheimers-disease/"
 published_at: "2022-11-16T14:36:12+00:00"
 first_seen_at: "2026-07-24T23:41:55.940685+00:00"
-fetched_at: "2026-07-28T20:26:52.740424+00:00"
+fetched_at: "2026-07-28T23:12:05.562293+00:00"
 content_hash: "sha256:cd729a8da53d4d60e7aeccdb9311ff41d6899c6f101579001bcfec2a4792d651"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-opentrons-rss-767f8d415bdd"
 canonical_url: "https://opentrons.com/archives/news/opentrons-viz-ai-lab-workflows"
 published_at: "2026-03-16T12:16:01+00:00"
 first_seen_at: "2026-07-25T17:41:16.998093+00:00"
-fetched_at: "2026-07-28T20:46:22.642271+00:00"
+fetched_at: "2026-07-28T23:27:55.051365+00:00"
 content_hash: "sha256:6d93cfab0d720f067248adb03c8f2e0999bd560874a4c442d2bc4178c488db02"
 ---
 

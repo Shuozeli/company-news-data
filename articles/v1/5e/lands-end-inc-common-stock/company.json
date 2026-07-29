@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5e/lands-end-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11871,
+        "sha256": "sha256:8ad17f92649d846a6543d55554076da213ca45fc15fb9a1b7df19c085b42217d",
+        "newest_at": "2026-07-13T21:57:57+00:00",
+        "oldest_at": "2026-01-05T21:15:12+00:00"
+      }
+    ]
+  }
 }

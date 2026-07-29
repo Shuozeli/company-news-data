@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/above-food-to-acquire-atlantic-natural-foods-becoming-a-leader-in-shelf-stable-plant-based-foods/"
 published_at: "2021-10-25T16:27:23+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-28T22:04:53.214634+00:00"
+fetched_at: "2026-07-29T00:43:09.170627+00:00"
 content_hash: "sha256:f1be3b989e6d2e778165b1b667ebf372b888572a4ec39c08e011af75ab6d4566"
 ---
 

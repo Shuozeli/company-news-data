@@ -7,7 +7,7 @@ source_id: "hamilton-lane-incorporated-class-a-common-stock-rss-d68b66c7cbba"
 canonical_url: "https://shareholders.hamiltonlane.com/2026-07-01-Hamilton-Lane-Holds-Final-Close-of-Sixth-Direct-Equity-Fund,-Raising-3-8-Billion-in-and-alongside-the-Fund"
 published_at: "2026-07-01T12:00:00+00:00"
 first_seen_at: "2026-07-20T03:33:04.204701+00:00"
-fetched_at: "2026-07-28T20:55:11.809472+00:00"
+fetched_at: "2026-07-28T23:40:56.514769+00:00"
 content_hash: "sha256:8770db26b6598f3761d83292dc7e334ba57a502719830fd8410a1bdb4eb786d4"
 ---
 

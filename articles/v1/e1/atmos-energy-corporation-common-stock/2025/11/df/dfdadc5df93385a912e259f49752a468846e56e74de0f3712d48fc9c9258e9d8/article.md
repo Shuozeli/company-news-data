@@ -7,7 +7,7 @@ source_id: "atmos-energy-corporation-common-stock-rss-883faa8fc121"
 canonical_url: "https://www.investors.atmosenergy.com/news/news-details/2025/Atmos-Energy-Increases-Quarterly-Dividend/default.aspx"
 published_at: "2025-11-05T21:30:00+00:00"
 first_seen_at: "2026-07-26T23:07:07.098622+00:00"
-fetched_at: "2026-07-28T22:03:32.322596+00:00"
+fetched_at: "2026-07-29T00:42:09.965709+00:00"
 content_hash: "sha256:557887e4275ff30ccf7eb039ba5688df060009399258aa9dc640df1eda3f0391"
 ---
 

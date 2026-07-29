@@ -7,7 +7,7 @@ source_id: "omnicell-inc-common-stock-0-001-par-value-rss-42a9cff8bb0a"
 canonical_url: "https://ir.omnicell.com/news/news-details/2016/Omnicell-Unveils-New-XT-Series-Automated-Dispensing-System-at-ASHP-Mid-Year/default.aspx"
 published_at: "2016-12-05T05:00:00+00:00"
 first_seen_at: "2026-07-25T17:21:39.408127+00:00"
-fetched_at: "2026-07-28T20:19:36.099870+00:00"
+fetched_at: "2026-07-28T23:03:29.570108+00:00"
 content_hash: "sha256:621e4c6ffad1ce40045a7a96353f33c404e09015fca5fcd946d8ea2f30e5c0f4"
 ---
 

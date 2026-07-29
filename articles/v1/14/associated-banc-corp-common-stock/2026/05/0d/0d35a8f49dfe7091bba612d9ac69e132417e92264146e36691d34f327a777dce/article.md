@@ -7,7 +7,7 @@ source_id: "associated-banc-corp-common-stock-rss-cc587055362e"
 canonical_url: "https://newsroom.associatedbank.com/releases/associated-bank-private-wealth-expands-leadership-team-in-minneapolis-market"
 published_at: "2026-05-21T14:22:00+00:00"
 first_seen_at: "2026-07-20T04:36:20.180992+00:00"
-fetched_at: "2026-07-28T22:05:47.381749+00:00"
+fetched_at: "2026-07-29T00:43:53.379763+00:00"
 content_hash: "sha256:cf8cabc5160709e259eed0123083b441bff1074cb0f5725ec684638451f5d4e1"
 ---
 

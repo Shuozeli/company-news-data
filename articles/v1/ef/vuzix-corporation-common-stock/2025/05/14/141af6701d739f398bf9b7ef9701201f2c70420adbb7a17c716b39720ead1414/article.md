@@ -7,7 +7,7 @@ source_id: "vuzix-corporation-common-stock-atom-704dbe6a03d0"
 canonical_url: "https://www.vuzix.com/blogs/vuzix-blog/jason-dodunski-the-wingsuit-pioneer-taking-flight-with-smart-glasses"
 published_at: "2025-05-28T14:59:00+00:00"
 first_seen_at: "2026-07-20T23:19:27.942006+00:00"
-fetched_at: "2026-07-28T20:46:41.824220+00:00"
+fetched_at: "2026-07-28T23:31:42.121983+00:00"
 content_hash: "sha256:24791f2d10c1130421b0928741c830eeb3903a4d9acd12d831d8cc1d32a65e59"
 ---
 

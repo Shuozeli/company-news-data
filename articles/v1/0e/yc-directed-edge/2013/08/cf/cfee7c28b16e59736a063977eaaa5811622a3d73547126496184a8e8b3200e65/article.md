@@ -7,7 +7,7 @@ source_id: "yc-directed-edge-rss-7c8e8fe81473"
 canonical_url: "https://blog.directededge.com/2013/08/06/support-screenshots-with-monosnap-and-s3/"
 published_at: "2013-08-07T01:35:55+00:00"
 first_seen_at: "2026-07-27T01:55:50.875550+00:00"
-fetched_at: "2026-07-28T19:33:35.119310+00:00"
+fetched_at: "2026-07-28T22:59:14.304469+00:00"
 content_hash: "sha256:f162f457b7b7e1773884dca5d7ac2c223a583b7aca029966af9ec53d36da1384"
 ---
 

@@ -64,5 +64,22 @@
       "partition": "2026-07",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/77/merck-company-inc-common-stock-new/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 26769,
+        "sha256": "sha256:7dbd209748c84902024b23a6a090ea9da3f6d05909de61dfc80cdf50729a4141",
+        "newest_at": "2026-07-24T10:45:00+00:00",
+        "oldest_at": "2020-04-03T17:51:07+00:00"
+      }
+    ]
+  }
 }

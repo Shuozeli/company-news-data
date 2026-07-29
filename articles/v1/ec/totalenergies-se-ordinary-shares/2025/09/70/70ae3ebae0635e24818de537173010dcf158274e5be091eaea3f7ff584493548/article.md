@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/a-la-mede-totalenergies-accelere-sur-la-production-de-carburant-aerien-durable/"
 published_at: "2025-09-25T13:45:42+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:39575a391431a26ab7f918852c10db0d4bff35cb10a0add9c7bf82bd7e0450e3"
 ---
 

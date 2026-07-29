@@ -7,7 +7,7 @@ source_id: "hanover-insurance-group-inc-rss-d013cf553baa"
 canonical_url: "https://www.hanover.com/agents-and-brokers/agent-solutions/commercial-lines/plugged-tech-and-life-sciences/ai-adoption-top"
 published_at: "2025-07-14T17:00:53+00:00"
 first_seen_at: "2026-07-25T07:33:50.288624+00:00"
-fetched_at: "2026-07-28T20:18:22.534100+00:00"
+fetched_at: "2026-07-28T23:01:45.439004+00:00"
 content_hash: "sha256:e882c9517f631faf361c9264387b9527a0dcf260330b7c8a238cc71e767d6828"
 ---
 

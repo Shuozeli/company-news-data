@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-ba5a6547eea9"
 canonical_url: "https://abovefood.com/press/above-food-to-disrupt-industry/"
 published_at: "2020-10-01T20:08:50+00:00"
 first_seen_at: "2026-07-25T00:22:56.454096+00:00"
-fetched_at: "2026-07-28T20:26:54.151843+00:00"
+fetched_at: "2026-07-28T23:12:42.885420+00:00"
 content_hash: "sha256:5e191b4ea30c96be3466d77a5fac31159a418addb9d2f70b412c60af2bf58e54"
 ---
 

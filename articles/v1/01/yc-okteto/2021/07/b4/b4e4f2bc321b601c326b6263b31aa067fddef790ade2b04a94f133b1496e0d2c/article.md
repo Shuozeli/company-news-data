@@ -7,7 +7,7 @@ source_id: "yc-okteto-rss-a64bce3f80ea"
 canonical_url: "https://www.okteto.com/blog/divert-video-tutorial/"
 published_at: "2021-07-09T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:32.770894+00:00"
-fetched_at: "2026-07-28T20:21:04.237991+00:00"
+fetched_at: "2026-07-28T23:04:45.973203+00:00"
 content_hash: "sha256:7af22861d8adbc4e51ed8372a22c86708f530dbde3280bbb41fb723439ef2586"
 ---
 

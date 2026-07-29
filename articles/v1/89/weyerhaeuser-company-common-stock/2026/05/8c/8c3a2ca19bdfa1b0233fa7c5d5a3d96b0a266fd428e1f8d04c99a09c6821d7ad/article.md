@@ -7,7 +7,7 @@ source_id: "weyerhaeuser-company-common-stock-rss-432ce8ceed5f"
 canonical_url: "https://investor.weyerhaeuser.com/2026-05-14-Weyerhaeuser-Company-Declares-Dividend-on-Common-Shares"
 published_at: "2026-05-15T00:28:00+00:00"
 first_seen_at: "2026-07-20T03:31:52.997098+00:00"
-fetched_at: "2026-07-28T20:22:45.779870+00:00"
+fetched_at: "2026-07-28T23:06:48.894643+00:00"
 content_hash: "sha256:1724dc814bc6aaed5ceca1f4da20da3f4700ea7df97a907a22c578da81a2af83"
 ---
 

@@ -4,9 +4,9 @@
     "key": "stitch-fix-inc-class-a-common-stock",
     "name": "Stitch Fix Inc. Class A Common Stock"
   },
-  "record_count": 29,
+  "record_count": 30,
   "first_published_at": "2017-03-01T19:02:16+00:00",
-  "last_published_at": "2026-06-10T18:50:47+00:00",
+  "last_published_at": "2026-07-28T15:45:00+00:00",
   "partitions": [
     {
       "partition": "2017-03",
@@ -79,6 +79,27 @@
     {
       "partition": "2026-06",
       "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bd/stitch-fix-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 34746,
+        "sha256": "sha256:7b18c65f23ddf62f206f7668b6c459c06c0c43c8a3f5d973c0d6dd25b7bfe8ca",
+        "newest_at": "2026-07-28T15:45:00+00:00",
+        "oldest_at": "2017-03-01T19:02:16+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "danaher-corporation-common-stock-rss-baeab7bd386b"
 canonical_url: "https://investors.danaher.com/2026-04-21-Danaher-Reports-First-Quarter-2026-Results"
 published_at: "2026-04-21T10:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:45.140623+00:00"
-fetched_at: "2026-07-28T20:49:16.354019+00:00"
+fetched_at: "2026-07-28T23:34:39.620039+00:00"
 content_hash: "sha256:4776fc3fc7adb8f3ae0b33588b714bf2c5c80ad9ccf3a039e9fc7f92a545af10"
 ---
 

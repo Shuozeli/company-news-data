@@ -7,7 +7,7 @@ source_id: "westamerica-bancorporation-common-stock-rss-1d3c07f51250"
 canonical_url: "https://www.westamerica.com/westamerica-bancorporation-increases-stock-repurchase-plan-authorization/"
 published_at: "2026-04-28T21:44:49+00:00"
 first_seen_at: "2026-07-26T05:24:33.749505+00:00"
-fetched_at: "2026-07-28T21:41:48.143980+00:00"
+fetched_at: "2026-07-29T00:19:14.939411+00:00"
 content_hash: "sha256:da6aaf8385fd00812c7e3e2a700a2512a6bfb5660287b9d6e3a252eedced990a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "dba-sempra-common-stock-rss-832771b9d43f"
 canonical_url: "https://www.sempra.com/newsroom/spotlight-articles/spotlight-justin-bird"
 published_at: "2026-07-10T15:08:08+00:00"
 first_seen_at: "2026-07-20T23:21:20.257594+00:00"
-fetched_at: "2026-07-28T22:06:29.819663+00:00"
+fetched_at: "2026-07-29T00:44:57.161112+00:00"
 content_hash: "sha256:56965dda1376bc983c991fa8521256bfd8e5bcefd4ab2506221e0d1431043716"
 ---
 

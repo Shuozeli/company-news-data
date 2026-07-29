@@ -7,7 +7,7 @@ source_id: "super-micro-computer-inc-common-stock-rss-75a1f59a361d"
 canonical_url: "https://ir.supermicro.com/news/news-details/2026/Supermicro-Broadens-AI-at-the-Edge-Solutions-Portfolio-with-Intel-Powered-Platforms-Optimized-for-Low-Latency-Inference-and-Industrial-Deployments/default.aspx"
 published_at: "2026-06-23T13:05:00+00:00"
 first_seen_at: "2026-07-27T05:33:57.423146+00:00"
-fetched_at: "2026-07-28T22:11:40.819086+00:00"
+fetched_at: "2026-07-29T00:50:07.809330+00:00"
 content_hash: "sha256:ce8053601a29b4bc88dd81205240105bf208a31b852bfcffe9c923e02ac76e22"
 ---
 

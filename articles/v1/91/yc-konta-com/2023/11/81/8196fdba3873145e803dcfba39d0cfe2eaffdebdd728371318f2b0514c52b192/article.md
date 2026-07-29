@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/5-errores-mas-comunes-al-usar-el-nuevo-cfdi-4-0"
 published_at: "2023-11-25T00:45:44+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:0104fc779e0743edf7e8bb3daf520c3ba8e17cec6ef3f07800f65f0b50980f76"
 ---
 

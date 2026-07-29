@@ -20,5 +20,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c1/enanta-pharmaceuticals-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13811,
+        "sha256": "sha256:ed405e24adf30e202c609f20141503c02726a6cadc84fcd4e803b6c43e2a7a74",
+        "newest_at": "2026-06-18T10:59:00+00:00",
+        "oldest_at": "2026-04-16T16:29:00+00:00"
+      }
+    ]
+  }
 }

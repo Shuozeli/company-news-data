@@ -12,5 +12,22 @@
       "partition": "2025-05",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a5/yc-deep-meditate/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1270,
+        "sha256": "sha256:959f1d7e79318415f386a3f5e484b3343e3c2eb899b3b509f62f51c5d3914a7e",
+        "newest_at": "2025-05-17T00:00:00+00:00",
+        "oldest_at": "2025-05-17T00:00:00+00:00"
+      }
+    ]
+  }
 }

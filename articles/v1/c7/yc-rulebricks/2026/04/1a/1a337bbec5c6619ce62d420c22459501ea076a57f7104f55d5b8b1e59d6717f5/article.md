@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/when-segments-go-stale"
 published_at: "2026-04-30T16:05:06+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:8330054d35ceb46b41b85850f5b60981ffd97079d76a76cae058a229d41ebde9"
 ---
 

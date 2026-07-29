@@ -7,7 +7,7 @@ source_id: "equity-lifestyle-properties-inc-common-stock-rss-a4c7415067a9"
 canonical_url: "https://equitylifestyle.gcs-web.com/news-releases/news-release-details/els-participate-citi-ceo-conference-12"
 published_at: "2026-02-27T21:15:00+00:00"
 first_seen_at: "2026-07-27T02:11:25.582387+00:00"
-fetched_at: "2026-07-28T21:40:01.341386+00:00"
+fetched_at: "2026-07-29T00:05:44.713129+00:00"
 content_hash: "sha256:f734840d69a24ebf15106470b6460e6fba4d042654309e91f2e6815eda109a06"
 ---
 

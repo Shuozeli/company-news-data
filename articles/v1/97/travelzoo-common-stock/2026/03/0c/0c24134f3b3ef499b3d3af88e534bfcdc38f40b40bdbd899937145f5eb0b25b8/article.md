@@ -7,7 +7,7 @@ source_id: "travelzoo-common-stock-rss-390bdffa2703"
 canonical_url: "https://ir.travelzoo.com/news/news-details/2026/Travelzoo-Announces-Share-Repurchase-Program-2026-e2K8Q8tvis/default.aspx"
 published_at: "2026-03-05T12:05:00+00:00"
 first_seen_at: "2026-07-25T02:08:15.577602+00:00"
-fetched_at: "2026-07-28T20:47:36.916320+00:00"
+fetched_at: "2026-07-28T23:32:13.370055+00:00"
 content_hash: "sha256:b916549609e11621f35f155bd9ab4ddc37198dc37b9e3d52430ae276d7df9b56"
 ---
 

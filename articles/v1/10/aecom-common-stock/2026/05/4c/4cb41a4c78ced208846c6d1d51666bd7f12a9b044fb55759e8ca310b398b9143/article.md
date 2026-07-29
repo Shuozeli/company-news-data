@@ -7,7 +7,7 @@ source_id: "aecom-common-stock-rss-06e0000d390a"
 canonical_url: "https://aecom.com/blog/people-spotlight-meet-mike-wongkaew/"
 published_at: "2026-05-06T13:42:48+00:00"
 first_seen_at: "2026-07-25T01:09:37.919036+00:00"
-fetched_at: "2026-07-28T19:57:36.262733+00:00"
+fetched_at: "2026-07-28T23:46:17.625245+00:00"
 content_hash: "sha256:2312f53cd64ce255bbaad2c0b77101d24db0f11640b438b0063f1665c5acfe5e"
 ---
 

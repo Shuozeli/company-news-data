@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 20
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8f/sarepta-therapeutics-inc-common-stock-de/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 22553,
+        "sha256": "sha256:8c5a2c8b6ffe9e591275f035cd10d84343600c291f6adfac47b0a52d3aeb2744",
+        "newest_at": "2026-07-28T21:37:39.039431+00:00",
+        "oldest_at": "2026-07-28T21:18:37.293716+00:00"
+      }
+    ]
+  }
 }

@@ -120,5 +120,40 @@
       "partition": "2026-07",
       "record_count": 9
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/68/yc-infisical/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49313,
+        "sha256": "sha256:d885061e8acf5c890747848c42ff0394efdf8076a676c88a029ededf1814d973",
+        "newest_at": "2026-07-27T00:00:00+00:00",
+        "oldest_at": "2025-02-25T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/68/yc-infisical/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 47862,
+        "sha256": "sha256:2bd6a5210c555d3c15256841a62bc666ec35d151ef09c2171b340c6fb7fb3533",
+        "newest_at": "2025-02-20T00:00:00+00:00",
+        "oldest_at": "2022-11-04T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/68/yc-infisical/index/pages/000003.json",
+        "record_count": 1,
+        "byte_count": 1065,
+        "sha256": "sha256:566ab39f0c150565cacda8b61a8bcfd537f16d13e3b194010fe7103636cb9d25",
+        "newest_at": "2022-09-17T00:00:00+00:00",
+        "oldest_at": "2022-09-17T00:00:00+00:00"
+      }
+    ]
+  }
 }

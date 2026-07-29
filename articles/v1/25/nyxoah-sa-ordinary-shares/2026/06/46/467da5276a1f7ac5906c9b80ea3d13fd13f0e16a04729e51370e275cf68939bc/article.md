@@ -7,7 +7,7 @@ source_id: "nyxoah-sa-ordinary-shares-rss-12ff4f4b01b5"
 canonical_url: "https://investors.nyxoah.com/node/593"
 published_at: "2026-06-18T12:38:20+00:00"
 first_seen_at: "2026-07-25T16:50:30.874747+00:00"
-fetched_at: "2026-07-28T21:41:49.318179+00:00"
+fetched_at: "2026-07-29T00:06:48.600529+00:00"
 content_hash: "sha256:ea1afd8237210ae5c9d13d57a17ea841477b260ebbf30a3944ec65d94733d247"
 ---
 

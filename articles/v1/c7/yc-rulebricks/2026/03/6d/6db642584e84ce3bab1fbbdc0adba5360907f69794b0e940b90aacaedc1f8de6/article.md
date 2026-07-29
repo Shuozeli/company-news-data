@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/when-automation-logic-starts-breaking-down"
 published_at: "2026-03-30T16:04:46+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:c577fe08df2a2c3830c58096aba79f15ee07e0e8b59331837cfc8d6c9832833a"
 ---
 

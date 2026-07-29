@@ -7,7 +7,7 @@ source_id: "teradata-corporation-common-stock-rss-a01259aa1ba4"
 canonical_url: "https://www.teradata.com/press-releases/2022/teradata-reports-second-quarter-2022-financial-results"
 published_at: "2022-08-04T07:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:58.521780+00:00"
-fetched_at: "2026-07-28T19:37:01.666775+00:00"
+fetched_at: "2026-07-28T23:07:12.403269+00:00"
 content_hash: "sha256:7e5098fa4c333ff340d7a261782a17c05ad3b65e98970b190ccd90a55e4fa6c0"
 ---
 

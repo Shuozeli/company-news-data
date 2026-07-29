@@ -7,7 +7,7 @@ source_id: "trinity-biotech-plc-american-depositary-shares-rss-6b6858b1b9bc"
 canonical_url: "https://trinitybiotech.com/press-releases/news/trinity-biotech-announces-collaboration-with-university-at-buffalo-to-commercialize-novel-biomarkers-for-sjogrens-syndrome/"
 published_at: "2026-03-18T16:00:49+00:00"
 first_seen_at: "2026-07-24T04:40:06.159898+00:00"
-fetched_at: "2026-07-28T21:03:30.549824+00:00"
+fetched_at: "2026-07-28T23:50:15.896400+00:00"
 content_hash: "sha256:e6278c6163d4bf9fbae532fddd0bd949ad3180b3431a28460ee4bced873b11ce"
 ---
 

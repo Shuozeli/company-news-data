@@ -44,5 +44,22 @@
       "partition": "2026-04",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2b/yc-palenca/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 17922,
+        "sha256": "sha256:315816b8dcc137f8372c51c736783cf9f6ca9f65d405e4d58f9ae767eb9e5e38",
+        "newest_at": "2026-04-21T16:17:08+00:00",
+        "oldest_at": "2023-06-22T19:20:47+00:00"
+      }
+    ]
+  }
 }

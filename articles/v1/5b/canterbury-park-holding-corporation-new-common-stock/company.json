@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5b/canterbury-park-holding-corporation-new-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 15360,
+        "sha256": "sha256:37cf3b7d898af40ffdc4494d79830c5f03cc956aa0d385a23731403b26db0acd",
+        "newest_at": "2026-07-24T00:23:09+00:00",
+        "oldest_at": "2026-06-19T01:15:27+00:00"
+      }
+    ]
+  }
 }

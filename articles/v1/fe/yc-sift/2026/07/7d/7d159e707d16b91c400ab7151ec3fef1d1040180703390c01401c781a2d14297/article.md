@@ -5,7 +5,7 @@ company_key: "yc-sift"
 company: "Sift"
 source_id: "yc-sift-rss-c48c6d88eecb"
 canonical_url: "https://sift.com/blog/marketplace-fraud-protection-how-online-marketplaces-stop-fraud/"
-published_at: "2026-07-13T18:00:00+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:24:10.644571+00:00"
 fetched_at: "2026-07-28T20:34:24.680558+00:00"
 content_hash: "sha256:153fdda557b23f77ccb249cbc3c8a68a5677eb64343bb5a18437d2309e435ac7"

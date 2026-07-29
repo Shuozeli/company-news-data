@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/21/nip-group-inc-american-depositary-shares/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 14202,
+        "sha256": "sha256:dde86f0c145fb275b73494cbcae55650b45b4ea9c1c8b9f699891735344a2ae1",
+        "newest_at": "2026-07-24T12:00:00+00:00",
+        "oldest_at": "2025-11-03T12:30:00+00:00"
+      }
+    ]
+  }
 }

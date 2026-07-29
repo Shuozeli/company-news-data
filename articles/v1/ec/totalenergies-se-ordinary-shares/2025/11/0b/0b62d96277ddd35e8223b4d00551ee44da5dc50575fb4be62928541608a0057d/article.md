@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/totalenergies-power-play-teaches-big-oil-how-energy-transition-can-work/"
 published_at: "2025-11-18T11:05:30+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:75f9d7e0d26616209bc25b14cab64ff7742917e6ac48e3b8a68d5e0e4c1c9c7c"
 ---
 

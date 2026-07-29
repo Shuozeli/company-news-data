@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/isabelle-patrier-directrice-france-de-totalenergies-les-jeunes-sont-au-coeur-de-notre-strategie/"
 published_at: "2025-10-16T13:45:25+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:e12725b7cd1efb59709c374a6921dd956a4d087eb36f965ac23be24cde4e76a5"
 ---
 

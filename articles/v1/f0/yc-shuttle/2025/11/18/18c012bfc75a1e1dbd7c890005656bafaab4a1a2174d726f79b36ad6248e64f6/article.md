@@ -7,7 +7,7 @@ source_id: "yc-shuttle-rss-52efc69d7cac"
 canonical_url: "https://www.shuttle.dev/blog/2025/11/17/kimi-k2-thinking-hands-on-review"
 published_at: "2025-11-17T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:24:10.103156+00:00"
-fetched_at: "2026-07-28T20:33:27.575926+00:00"
+fetched_at: "2026-07-28T23:18:15.366460+00:00"
 content_hash: "sha256:9b31651222b762c39a081f9dc7d0d77878ae39c52f0c8f45944ac36aa8a14fe3"
 ---
 

@@ -7,7 +7,7 @@ source_id: "alamos-gold-inc-class-a-common-shares-rss-a428a607f0e2"
 canonical_url: "https://www.alamosgold.com/news-and-events/news/news-details/2026/Alamos-Gold-Announces-Results-of-the-Annual-General-Meeting-of-Shareholders/default.aspx"
 published_at: "2026-05-28T21:00:00+00:00"
 first_seen_at: "2026-07-26T22:04:11.568996+00:00"
-fetched_at: "2026-07-28T20:45:02.448684+00:00"
+fetched_at: "2026-07-28T23:27:48.699918+00:00"
 content_hash: "sha256:537cb5a019a81f5a16a7e1e151e805655ea754024721467813a704a09f992195"
 ---
 

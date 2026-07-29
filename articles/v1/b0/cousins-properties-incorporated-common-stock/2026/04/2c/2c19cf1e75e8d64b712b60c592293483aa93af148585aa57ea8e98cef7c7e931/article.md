@@ -7,7 +7,7 @@ source_id: "cousins-properties-incorporated-common-stock-rss-d05f58bbe21f"
 canonical_url: "https://investors.cousins.com/news/news-details/2026/Cousins-Properties-Releases-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-04-29T20:15:00+00:00"
 first_seen_at: "2026-07-26T12:23:49.023176+00:00"
-fetched_at: "2026-07-28T20:39:02.297639+00:00"
+fetched_at: "2026-07-28T23:23:20.032419+00:00"
 content_hash: "sha256:9b30f8eef431a69f1e676e62ab3b9976ac4624c27a50ce7f56384693317f7264"
 ---
 

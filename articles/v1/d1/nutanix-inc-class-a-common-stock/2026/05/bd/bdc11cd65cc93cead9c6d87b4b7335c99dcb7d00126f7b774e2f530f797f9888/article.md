@@ -7,7 +7,7 @@ source_id: "nutanix-inc-class-a-common-stock-rss-12a2d78c04c7"
 canonical_url: "https://www.nutanix.dev/2026/05/22/advanced-bgp-design-for-multi-zone-and-hybrid-vpc-deployments/"
 published_at: "2026-05-22T14:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:13.386524+00:00"
-fetched_at: "2026-07-28T20:22:59.463428+00:00"
+fetched_at: "2026-07-28T23:06:52.510487+00:00"
 content_hash: "sha256:80ffd594f6fa5570bd135bcfd69ab1630ac3ac689ce2b2166b92d7edab286098"
 ---
 

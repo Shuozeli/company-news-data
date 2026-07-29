@@ -7,7 +7,7 @@ source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/vscode/"
 published_at: "2026-07-15T18:45:39+00:00"
 first_seen_at: "2026-07-25T16:20:56.315803+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
 content_hash: "sha256:f9e1eec34d6ff3c4c650491d7583123e47cee24f4d3e6e49ea818341636e9da9"
 ---
 

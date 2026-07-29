@@ -7,7 +7,7 @@ source_id: "doximity-inc-class-a-common-stock-rss-8bd2cd30f7c1"
 canonical_url: "https://press.doximity.com/articles/doximity-announces-fiscal-2025-second-quarter-financial-results"
 published_at: "2024-11-07T13:02:00+00:00"
 first_seen_at: "2026-07-20T03:32:24.794804+00:00"
-fetched_at: "2026-07-28T20:38:38.223838+00:00"
+fetched_at: "2026-07-28T23:22:12.562614+00:00"
 content_hash: "sha256:f52e2bb06da59cea3f7f9c7b43049d4b767e2511b49cdbdb8757aa276b069ffb"
 ---
 

@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2025/10/learnings-from-vibe-coding-with-cursor-and-the-adobe-express-add-on-mcp-server"
 published_at: "2025-10-20T00:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:41.472965+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:4f666b9e9216a240d270e8c900fe2db6188dff04e7cf3e54f664d32352502e89"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/digi-tx64-5g-honoree-for-ces-innovation-award"
 published_at: "2021-11-11T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:66719e65c65f6d534a3234f032023401c74dca32f90c8cde732842aaf6de6022"
 ---
 

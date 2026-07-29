@@ -7,7 +7,7 @@ source_id: "tidewater-inc-common-stock-rss-c9509bca7147"
 canonical_url: "https://investor.tdw.com/news/news-details/2025/Tidewater-Announces-Earnings-Release-and-Conference-Call-c40c0c5cf/default.aspx"
 published_at: "2025-07-28T21:45:00+00:00"
 first_seen_at: "2026-07-26T02:42:27.308058+00:00"
-fetched_at: "2026-07-28T21:21:54.233495+00:00"
+fetched_at: "2026-07-29T00:25:20.820515+00:00"
 content_hash: "sha256:1e7fb9419f413bc76616123fceec46c7323dcc8ef40f1b4399d5bd9d95a0374b"
 ---
 

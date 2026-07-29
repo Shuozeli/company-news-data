@@ -7,7 +7,7 @@ source_id: "petco-health-and-wellness-company-inc-class-a-common-stock-rss-d8b90
 canonical_url: "https://corporate.petco.com/2026-07-27-Petco-Launches-Halloween-Drop-Featuring-Hundreds-of-Exclusive,-On-Trend-Finds"
 published_at: "2026-07-27T12:02:00+00:00"
 first_seen_at: "2026-07-27T13:06:31.263875+00:00"
-fetched_at: "2026-07-28T20:28:24.215682+00:00"
+fetched_at: "2026-07-28T23:14:45.610353+00:00"
 content_hash: "sha256:8e4caa815d63980b8a8bf5c6667c74d524d3218ced89b6146ee5b15cfff6acdf"
 ---
 

@@ -7,7 +7,7 @@ source_id: "seneca-foods-corp-class-a-common-stock-rss-dd5d61c574ed"
 canonical_url: "https://www.senecafoods.com/sec-filing/form-4-paul-palmby-2"
 published_at: "2026-06-18T20:51:19+00:00"
 first_seen_at: "2026-07-20T23:22:26.267179+00:00"
-fetched_at: "2026-07-28T20:40:03.821553+00:00"
+fetched_at: "2026-07-28T23:23:35.928715+00:00"
 content_hash: "sha256:281e81cd4e9c5b5e762d4ebd406a0012b5965d89d9aa1e21f212d87c225602bc"
 ---
 

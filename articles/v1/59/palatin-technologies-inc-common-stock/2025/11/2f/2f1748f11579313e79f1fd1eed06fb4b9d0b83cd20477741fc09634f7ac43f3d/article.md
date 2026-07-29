@@ -7,7 +7,7 @@ source_id: "palatin-technologies-inc-common-stock-rss-d180129b5346"
 canonical_url: "https://palatin.com/press_releases/palatin-presents-data-at-obesityweek-2025-highlighting-promise-of-melanocortin-based-therapies-for-obesity/"
 published_at: "2025-11-06T13:00:00+00:00"
 first_seen_at: "2026-07-25T18:13:52.743786+00:00"
-fetched_at: "2026-07-28T21:35:57.652848+00:00"
+fetched_at: "2026-07-29T00:14:35.041460+00:00"
 content_hash: "sha256:b6cbbfa2a61262be52794a3f2b90e54055056f439a82ab54d77196ef4005ae9c"
 ---
 

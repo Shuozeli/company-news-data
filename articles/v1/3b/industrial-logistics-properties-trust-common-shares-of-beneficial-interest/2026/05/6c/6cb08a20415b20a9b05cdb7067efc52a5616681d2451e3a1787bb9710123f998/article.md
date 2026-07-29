@@ -7,7 +7,7 @@ source_id: "industrial-logistics-properties-trust-common-shares-of-beneficial-in
 canonical_url: "http://www.ilptreit.com/investors/news/press-release-details/2026/Industrial-Logistics-Properties-Trust-to-Present-at-Nareits-REITweek-2026-Investor-Conference-on-Tuesday-June-2nd/default.aspx"
 published_at: "2026-05-21T12:00:00+00:00"
 first_seen_at: "2026-07-25T09:17:51.178487+00:00"
-fetched_at: "2026-07-28T21:34:53.709256+00:00"
+fetched_at: "2026-07-29T00:14:05.979554+00:00"
 content_hash: "sha256:230fcaf68895c9197826feb23d342f6f9e5ee16671f87b9e48dea9be5d107abf"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/estados-financieros-basicos-que-son-y-para-que-sirven"
 published_at: "2022-09-20T15:23:46+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:04cafc3e5f45eb2279dd8360d6fd1dc95e7ded6c3461a11c6d69d1de432a232a"
 ---
 

@@ -7,7 +7,7 @@ source_id: "western-union-company-the-common-stock-rss-b97466c15713"
 canonical_url: "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Bybit-Becomes-First-Major-Crypto-Exchange-to-Integrate-Western-Unions-USDPT-Stablecoin-Bridging-Two-Financial-Worlds-Through-One-Stablecoin/default.aspx"
 published_at: "2026-06-04T11:30:00+00:00"
 first_seen_at: "2026-07-26T05:24:37.115894+00:00"
-fetched_at: "2026-07-28T19:49:10.319118+00:00"
+fetched_at: "2026-07-28T23:31:52.252898+00:00"
 content_hash: "sha256:4a367afd839e04a793f30b87dd0837948e5a8c4fcb9f85d470a88defc9cb11ae"
 ---
 

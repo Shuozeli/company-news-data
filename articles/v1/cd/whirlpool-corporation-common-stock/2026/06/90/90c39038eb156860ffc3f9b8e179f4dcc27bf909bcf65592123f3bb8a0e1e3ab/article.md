@@ -7,7 +7,7 @@ source_id: "whirlpool-corporation-common-stock-rss-9b451b6cb451"
 canonical_url: "https://investors.whirlpoolcorp.com/news-and-events/news/news-details/2026/Whirlpool-Announces-Offering-of-Secured-Notes/default.aspx"
 published_at: "2026-06-01T13:08:00+00:00"
 first_seen_at: "2026-07-27T06:37:12.153769+00:00"
-fetched_at: "2026-07-28T21:34:55.091619+00:00"
+fetched_at: "2026-07-29T00:09:18.484649+00:00"
 content_hash: "sha256:b4ce87c216705536f6c9356224e5529a472c0cb3a317cedd08a4632528e5d8fe"
 ---
 

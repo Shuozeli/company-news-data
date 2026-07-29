@@ -7,7 +7,7 @@ source_id: "teekay-corporation-ltd-common-stock-rss-25dc28e5586a"
 canonical_url: "https://www.teekay.com/about-us/sustainability/"
 published_at: "2026-07-15T20:05:24+00:00"
 first_seen_at: "2026-07-21T20:28:37.259985+00:00"
-fetched_at: "2026-07-28T21:19:56.641589+00:00"
+fetched_at: "2026-07-29T00:13:44.975494+00:00"
 content_hash: "sha256:1b42a2f7396057ba754de12fe92bb64301f3042457a674e35e6ee14467d4224d"
 ---
 

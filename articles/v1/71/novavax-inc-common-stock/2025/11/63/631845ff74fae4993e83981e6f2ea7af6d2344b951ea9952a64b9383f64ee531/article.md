@@ -7,7 +7,7 @@ source_id: "novavax-inc-common-stock-rss-4b8b7417dfcc"
 canonical_url: "https://ir.novavax.com/events/jefferies-london-healthcare-conference-0"
 published_at: "2025-11-11T22:08:12+00:00"
 first_seen_at: "2026-07-20T23:22:23.835023+00:00"
-fetched_at: "2026-07-28T20:40:28.156826+00:00"
+fetched_at: "2026-07-28T23:24:16.341350+00:00"
 content_hash: "sha256:8bef6cc83ada4a0b2c5c7a1f5bd634dc263d293393117cf2e949c4d1022693b7"
 ---
 

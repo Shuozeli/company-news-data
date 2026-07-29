@@ -7,7 +7,7 @@ source_id: "yc-function-of-beauty-atom-d26e5db07ffe"
 canonical_url: "https://functionofbeauty.com/blogs/blog/find-the-best-treatment-product-for-your-hair-type"
 published_at: "2024-02-14T05:00:00+00:00"
 first_seen_at: "2026-07-25T05:58:14.554793+00:00"
-fetched_at: "2026-07-28T20:03:25.109682+00:00"
+fetched_at: "2026-07-28T23:52:13.231352+00:00"
 content_hash: "sha256:6d48623387fc5f9112b566c3c4abc3fe9909991102c040974ffe273faa810fda"
 ---
 

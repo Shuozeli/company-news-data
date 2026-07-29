@@ -7,7 +7,7 @@ source_id: "acres-commercial-realty-corp-common-stock-rss-3b21511dc4b0"
 canonical_url: "https://www.acresreit.com/2026-04-30-ACRES-COMMERCIAL-REALTY-CORP-REPORTS-RESULTS-FOR-FIRST-QUARTER-2026"
 published_at: "2026-04-30T10:15:00+00:00"
 first_seen_at: "2026-07-20T23:18:09.950469+00:00"
-fetched_at: "2026-07-28T21:38:28.400960+00:00"
+fetched_at: "2026-07-29T00:06:28.142757+00:00"
 content_hash: "sha256:f46b02e75d8f8d08c79d45689d241a4c299df3c7f83203abe350f96f8ccb55ba"
 ---
 

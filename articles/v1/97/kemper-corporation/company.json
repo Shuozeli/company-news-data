@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/97/kemper-corporation/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 18193,
+        "sha256": "sha256:dd17b97f717939105870b895ae33a20114fd49dd90285bf5d5f502e01a63f7ac",
+        "newest_at": "2026-07-23T20:05:00+00:00",
+        "oldest_at": "2026-02-04T21:05:00+00:00"
+      }
+    ]
+  }
 }

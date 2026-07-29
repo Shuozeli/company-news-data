@@ -7,7 +7,7 @@ source_id: "ptc-inc-common-stock-rss-16adcea625ca"
 canonical_url: "https://investor.ptc.com/resources/news/news-details/2026/PTC-Partners-with-TRD-U-S-A--to-Advance-High-Performance-Engine-Development/default.aspx"
 published_at: "2026-05-28T12:30:00+00:00"
 first_seen_at: "2026-07-25T20:06:22.236658+00:00"
-fetched_at: "2026-07-28T20:49:33.765791+00:00"
+fetched_at: "2026-07-28T23:34:40.197606+00:00"
 content_hash: "sha256:3eb3c4bb663f50a5dc91d846829766481a459a4b6efb52f0c94d2d29a47343a9"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2016/electricities-achieves-reliability-and-savings-wit"
 published_at: "2016-09-13T00:50:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:f7164b9287a51b7e5bca96737d85419e0ecf5e9e08e8f94dec2af9d2a732bae1"
 ---
 

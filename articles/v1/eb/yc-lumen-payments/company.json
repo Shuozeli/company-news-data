@@ -12,5 +12,22 @@
       "partition": "2025-09",
       "record_count": 5
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/eb/yc-lumen-payments/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 4802,
+        "sha256": "sha256:1d828beb8746c7508762380a338a88aa138a60281a06b68705b3200bd35a9a2d",
+        "newest_at": "2025-09-25T00:00:00+00:00",
+        "oldest_at": "2025-09-09T00:00:00+00:00"
+      }
+    ]
+  }
 }

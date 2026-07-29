@@ -7,7 +7,7 @@ source_id: "wendy-s-company-the-common-stock-rss-ec0fd300449e"
 canonical_url: "https://www.wendys.com/johnny-davis"
 published_at: "2022-03-05T00:54:38+00:00"
 first_seen_at: "2026-07-24T06:58:49.962146+00:00"
-fetched_at: "2026-07-28T21:11:58.840515+00:00"
+fetched_at: "2026-07-28T23:57:23.225076+00:00"
 content_hash: "sha256:a2fc2d9690b0b7faa1055c38254e1a66f89e7bc88dc945a447522afe2f7c6a45"
 ---
 

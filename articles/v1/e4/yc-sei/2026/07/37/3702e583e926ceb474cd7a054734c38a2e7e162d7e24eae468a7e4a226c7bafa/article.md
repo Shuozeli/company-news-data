@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/heloc-servicing-ai-agents-draw-to-repayment-reg-z-1026-40"
 published_at: "2026-07-10T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:4b3343e7bc2c4dc73ae52d9e4cee4f33cc87e187b248843d74438008a793b744"
 ---
 

@@ -7,7 +7,7 @@ source_id: "fractyl-health-inc-common-stock-rss-347083c4f534"
 canonical_url: "https://www.fractyl.com/our-science/presentations-publications/pancreas-targeted-glp-1gene-therapy-enhances-%ce%b2-cell-function-and-reduces-cellular-stress-in-preclinical-type-2-diabetes-models/"
 published_at: "2026-06-10T18:26:11+00:00"
 first_seen_at: "2026-07-24T09:07:29.122181+00:00"
-fetched_at: "2026-07-28T21:05:07.497154+00:00"
+fetched_at: "2026-07-28T23:51:41.401622+00:00"
 content_hash: "sha256:45a3ccc887666659d957badecf4edae77ae601c7d361c615996d8edf482004ac"
 ---
 

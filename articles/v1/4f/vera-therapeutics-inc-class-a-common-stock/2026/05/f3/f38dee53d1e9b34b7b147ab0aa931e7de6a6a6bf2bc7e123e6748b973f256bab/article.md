@@ -7,7 +7,7 @@ source_id: "vera-therapeutics-inc-class-a-common-stock-rss-585d614370e9"
 canonical_url: "https://ir.veratx.com/board-member/christopher-hite"
 published_at: "2026-05-22T16:47:27+00:00"
 first_seen_at: "2026-07-20T23:22:04.286697+00:00"
-fetched_at: "2026-07-28T20:41:32.662412+00:00"
+fetched_at: "2026-07-28T23:25:38.426783+00:00"
 content_hash: "sha256:b8cac29078821e227573fb8860f538ed1255495446b7873331c8c81dab12dd88"
 ---
 

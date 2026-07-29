@@ -7,7 +7,7 @@ source_id: "yc-ninite-rss-629553105472"
 canonical_url: "https://ninite.com/adoptjavax25/"
 published_at: "2026-07-27T23:03:54+00:00"
 first_seen_at: "2026-07-28T00:01:12.940872+00:00"
-fetched_at: "2026-07-28T20:51:42.131550+00:00"
+fetched_at: "2026-07-28T23:37:26.139745+00:00"
 content_hash: "sha256:84971453f4c803bcb943970d05701f46ea951a39557c2c8b1c57aaa83bdc007b"
 ---
 

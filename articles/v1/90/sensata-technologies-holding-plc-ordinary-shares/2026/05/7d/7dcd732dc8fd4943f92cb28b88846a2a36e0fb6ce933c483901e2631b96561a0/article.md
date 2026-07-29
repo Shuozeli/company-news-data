@@ -7,7 +7,7 @@ source_id: "sensata-technologies-holding-plc-ordinary-shares-rss-89fb709e6ae6"
 canonical_url: "https://investors.sensata.com/news/news-details/2026/Employees-Deliver-Local-Impact-Nationwide-During-Sensata-Technologies-Day-of-Service/default.aspx"
 published_at: "2026-05-13T13:00:00+00:00"
 first_seen_at: "2026-07-25T22:37:13.113601+00:00"
-fetched_at: "2026-07-28T20:31:37.372995+00:00"
+fetched_at: "2026-07-28T23:16:49.117270+00:00"
 content_hash: "sha256:360ab4c1eecca7636029a3e356f4a196b8fdfaf012da460c9e96962ffe034973"
 ---
 

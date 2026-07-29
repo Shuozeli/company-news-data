@@ -7,7 +7,7 @@ source_id: "plug-power-inc-common-stock-rss-15e242ac1693"
 canonical_url: "https://www.plugpower.com/blog/2016-recap-commercial-innovations-thrive-at-plug-power/"
 published_at: "2017-01-30T13:39:40+00:00"
 first_seen_at: "2026-07-20T03:31:30.208255+00:00"
-fetched_at: "2026-07-28T22:01:38.301094+00:00"
+fetched_at: "2026-07-29T00:40:06.818792+00:00"
 content_hash: "sha256:c3f1781dc33c7c7283914c39fbbdcc29b2950d4c2d48cf302956078ebf65d350"
 ---
 

@@ -7,7 +7,7 @@ source_id: "enova-international-inc-common-stock-rss-3e03aaa87eea"
 canonical_url: "https://ir.enova.com/2026-07-10-Enova-Announces-Board-of-Directors-Appointment-and-Planned-Departures"
 published_at: "2026-07-10T20:16:00+00:00"
 first_seen_at: "2026-07-20T03:31:50.433610+00:00"
-fetched_at: "2026-07-28T20:28:14.249445+00:00"
+fetched_at: "2026-07-28T23:14:57.427109+00:00"
 content_hash: "sha256:10de6efa34a20108c49c9a5099d4ca574e1ed066a3067109c93b27cb9b3f8345"
 ---
 

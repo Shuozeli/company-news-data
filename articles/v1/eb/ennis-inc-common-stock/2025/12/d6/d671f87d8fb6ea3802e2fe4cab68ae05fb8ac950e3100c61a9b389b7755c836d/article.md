@@ -7,7 +7,7 @@ source_id: "ennis-inc-common-stock-rss-a62890cdf36a"
 canonical_url: "https://www.ennis.com/2025/12/19/ennis-inc-reports-results-for-the-quarter-ended-november-30-2025-and-declares-quarterly-dividend/"
 published_at: "2025-12-19T23:10:46+00:00"
 first_seen_at: "2026-07-20T23:18:54.315135+00:00"
-fetched_at: "2026-07-28T21:35:24.441109+00:00"
+fetched_at: "2026-07-29T00:06:45.128588+00:00"
 content_hash: "sha256:db473ce350135e5b8f7f9c4b4476a0adf80897ff2f74a0dbffc3e992e2c47bd4"
 ---
 

@@ -5,7 +5,7 @@ company_key: "yc-sift"
 company: "Sift"
 source_id: "yc-sift-rss-c48c6d88eecb"
 canonical_url: "https://sift.com/blog/the-world-cup-of-fraud-how-match-day-payouts-spike-cash-out-fraud/"
-published_at: "2026-07-23T16:36:47+00:00"
+published_at: null
 first_seen_at: "2026-07-23T17:11:55.665119+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:5aaca46ca5adae2e4f9d4c4fbc37a9ffe89d618c1900e4a2d2856cc5397dca08"

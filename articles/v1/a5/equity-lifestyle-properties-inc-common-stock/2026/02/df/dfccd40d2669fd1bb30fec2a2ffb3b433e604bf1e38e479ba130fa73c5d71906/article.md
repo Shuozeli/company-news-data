@@ -7,7 +7,7 @@ source_id: "equity-lifestyle-properties-inc-common-stock-rss-a4c7415067a9"
 canonical_url: "https://equitylifestyle.gcs-web.com/news-releases/news-release-details/els-declares-first-quarter-2026-dividend"
 published_at: "2026-02-04T21:36:00+00:00"
 first_seen_at: "2026-07-27T02:11:25.582387+00:00"
-fetched_at: "2026-07-28T21:40:01.341386+00:00"
+fetched_at: "2026-07-29T00:05:44.713129+00:00"
 content_hash: "sha256:2e4b33e9622c84e200062c1d60d927b0cb3f8ca3fa11a4742a0d2c1dbe930348"
 ---
 

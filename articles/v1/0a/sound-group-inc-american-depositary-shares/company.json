@@ -28,5 +28,22 @@
       "partition": "2026-04",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0a/sound-group-inc-american-depositary-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14098,
+        "sha256": "sha256:fad571aa62afa5ef49697063b63982175e9ad3dfd6a7bb5e7df0ee9f3e62a2b7",
+        "newest_at": "2026-04-30T10:22:07+00:00",
+        "oldest_at": "2025-10-07T11:15:42+00:00"
+      }
+    ]
+  }
 }

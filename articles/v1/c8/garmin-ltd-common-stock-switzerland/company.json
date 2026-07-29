@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 18
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c8/garmin-ltd-common-stock-switzerland/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 35444,
+        "sha256": "sha256:235d88f2675e641e908c5d5b2585850d68c92a816faa8b4877314e6046b85943",
+        "newest_at": "2026-07-28T17:30:00+00:00",
+        "oldest_at": "2026-06-16T13:38:31+00:00"
+      }
+    ]
+  }
 }

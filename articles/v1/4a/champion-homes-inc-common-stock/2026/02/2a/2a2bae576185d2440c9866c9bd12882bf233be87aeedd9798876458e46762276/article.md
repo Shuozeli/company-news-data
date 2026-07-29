@@ -7,7 +7,7 @@ source_id: "champion-homes-inc-common-stock-rss-95468d946a2d"
 canonical_url: "http://ir.championhomes.com/press-releases/press-release-details/2026/Champion-Homes-Wins-Gold-Award-for-Modular-Home-Design-in-the-National-Association-of-Home-Builders-Best-in-American-Living-Awards-Highlighting-Modular-Construction-as-Beautiful-Functional-Housing-Solution/default.aspx"
 published_at: "2026-02-23T21:15:00+00:00"
 first_seen_at: "2026-07-25T01:34:12.914210+00:00"
-fetched_at: "2026-07-28T20:24:18.116253+00:00"
+fetched_at: "2026-07-28T23:09:04.485281+00:00"
 content_hash: "sha256:7f1251d8f83fd64785532866357dae7249b1cd91ac79b9514f7c7c2b5fc40665"
 ---
 

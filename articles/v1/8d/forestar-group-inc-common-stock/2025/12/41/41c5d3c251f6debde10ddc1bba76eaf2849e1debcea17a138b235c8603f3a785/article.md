@@ -7,7 +7,7 @@ source_id: "forestar-group-inc-common-stock-rss-56dd446a3930"
 canonical_url: "https://investor.forestar.com/press-releases/2025/12-17-2025-210027756"
 published_at: "2025-12-17T20:00:00+00:00"
 first_seen_at: "2026-07-25T05:30:06.252+00:00"
-fetched_at: "2026-07-28T20:27:55.446685+00:00"
+fetched_at: "2026-07-28T23:14:19.857311+00:00"
 content_hash: "sha256:cf632c7229ea769d3e3595e2177525633f5625816ec6e941da381746e25a0732"
 ---
 

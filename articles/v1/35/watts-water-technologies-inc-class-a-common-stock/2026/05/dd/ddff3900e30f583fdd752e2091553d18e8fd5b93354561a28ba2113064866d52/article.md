@@ -7,7 +7,7 @@ source_id: "watts-water-technologies-inc-class-a-common-stock-rss-3eddadbf95be"
 canonical_url: "https://investors.wattswater.com/press-releases/press-release-details/2026/Watts-Water-Technologies-Inc--Declares-Quarterly-Dividend-f8aef8a34/default.aspx"
 published_at: "2026-05-04T20:25:00+00:00"
 first_seen_at: "2026-07-26T05:11:59.088103+00:00"
-fetched_at: "2026-07-28T21:23:56.529434+00:00"
+fetched_at: "2026-07-29T00:06:28.523087+00:00"
 content_hash: "sha256:2df224bf15cd68e01578b60cd19202baf33367d604fb84cae1284906269e07c7"
 ---
 

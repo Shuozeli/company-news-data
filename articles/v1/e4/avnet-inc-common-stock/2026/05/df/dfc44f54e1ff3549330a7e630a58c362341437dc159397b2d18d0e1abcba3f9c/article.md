@@ -7,7 +7,7 @@ source_id: "avnet-inc-common-stock-rss-d24cfd72cd07"
 canonical_url: "https://news.avnet.com/press-releases/press-release-details/2026/Avnet-to-Participate-in-the-BofA-Securities-Global-Technology-Conference-on-June-2/default.aspx"
 published_at: "2026-05-27T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:43.819386+00:00"
-fetched_at: "2026-07-28T19:48:24.536995+00:00"
+fetched_at: "2026-07-28T23:31:50.370529+00:00"
 content_hash: "sha256:801964a8c361efb47e334a5a25c0bcbcb3f906b11c500abc4a2d28dff6d77304"
 ---
 

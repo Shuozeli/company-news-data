@@ -7,7 +7,7 @@ source_id: "mawson-infrastructure-group-inc-common-stock-rss-8e61b7fe9dbc"
 canonical_url: "http://www.bigdigital.energy/news/post/mawson-announces-expansion-of-sandersville-georgia-bitcoin-mining-facility-to-230mw"
 published_at: "2022-03-03T06:00:00+00:00"
 first_seen_at: "2026-07-25T03:22:07.630495+00:00"
-fetched_at: "2026-07-28T20:45:28.139133+00:00"
+fetched_at: "2026-07-28T23:29:40.490465+00:00"
 content_hash: "sha256:55591f3cfc5e6382190506e18fb59e8541656b16154fdd93656f8d3cb322ee44"
 ---
 

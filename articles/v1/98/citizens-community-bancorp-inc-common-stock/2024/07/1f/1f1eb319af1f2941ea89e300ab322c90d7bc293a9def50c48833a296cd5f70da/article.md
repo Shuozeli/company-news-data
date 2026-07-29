@@ -7,7 +7,7 @@ source_id: "citizens-community-bancorp-inc-common-stock-rss-3e6c10d95bac"
 canonical_url: "https://investor.ccf.us/news-events/news-releases/news-details/2024/Citizens-Community-Bancorp-Inc.-Reports-Second-Quarter-2024-Earnings-of-0.35-Per-ShareBoard-of-Directors-Approves-Additional-5-Stock-Buyback-AuthorizationCriticized-Assets-Decreased-18/default.aspx"
 published_at: "2024-07-29T12:30:00+00:00"
 first_seen_at: "2026-07-27T00:54:31.617879+00:00"
-fetched_at: "2026-07-28T22:02:30.811992+00:00"
+fetched_at: "2026-07-29T00:41:11.598667+00:00"
 content_hash: "sha256:49ac7616ab1da40e0c008becbbe600758a760005fa3c37b8471f2aa77f432275"
 ---
 

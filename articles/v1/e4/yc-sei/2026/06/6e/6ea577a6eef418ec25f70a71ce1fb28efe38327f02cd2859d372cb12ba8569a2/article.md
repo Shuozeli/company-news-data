@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/voice-cloning-deepfake-caller-verification-banks-phishing-resistant"
 published_at: "2026-06-05T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:dd390834bfcdd84651c8cf83cce8e52c69ae2bd62534c39a1676efec2a69c3d5"
 ---
 

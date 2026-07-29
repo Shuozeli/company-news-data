@@ -7,7 +7,7 @@ source_id: "cbl-associates-properties-inc-common-stock-rss-516cf3ac8c37"
 canonical_url: "https://invest.cblproperties.com/news-views/news-details/2026/CBL-Properties-Announces-71-9-Million-Non-Recourse-Loan-Secured-by-Hamilton-Place-in-Chattanooga-TN/default.aspx"
 published_at: "2026-05-29T18:25:00+00:00"
 first_seen_at: "2026-07-26T11:17:59.392658+00:00"
-fetched_at: "2026-07-28T20:49:58.969005+00:00"
+fetched_at: "2026-07-28T23:35:32.168494+00:00"
 content_hash: "sha256:23131f0d6a44750208acbb6df6d68d86e442ad540a1cd7b5bf80fd5bed19b700"
 ---
 

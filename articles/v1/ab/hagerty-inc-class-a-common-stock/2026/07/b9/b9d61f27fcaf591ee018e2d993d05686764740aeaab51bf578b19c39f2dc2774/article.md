@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/great-reads/automotive-artist-pieced-together-stunning-mclaren-m6gt/"
 published_at: "2026-07-14T19:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:cecbb3b48fae98baf3bdd9fe6b44daf9136845bb2f0243e489a7338cc9b333f6"
 ---
 

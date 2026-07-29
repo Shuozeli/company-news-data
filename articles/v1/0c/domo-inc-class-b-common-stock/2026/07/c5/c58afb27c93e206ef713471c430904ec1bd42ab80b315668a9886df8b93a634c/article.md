@@ -7,7 +7,7 @@ source_id: "domo-inc-class-b-common-stock-rss-298bf834a3f7"
 canonical_url: "https://www.domoinvestors.com/news/news-details/2026/Domo-Announces-Agreement-to-Sell-Substantially-All-Assets-and-Certain-Liabilities-to-Progress-Software-for-400-Million/default.aspx"
 published_at: "2026-07-22T20:15:00+00:00"
 first_seen_at: "2026-07-25T01:15:23.455293+00:00"
-fetched_at: "2026-07-28T22:12:20.295025+00:00"
+fetched_at: "2026-07-29T00:50:19.785669+00:00"
 content_hash: "sha256:fc56313042517ec384a00360e65d8b20d2fb2aebeb93625f9bb24ffebde7b221"
 ---
 

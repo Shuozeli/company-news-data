@@ -7,7 +7,7 @@ source_id: "yc-whatnot-rss-30861744a6f8"
 canonical_url: "https://medium.com/whatnot-engineering/the-ml-feature-pipeline-that-got-slower-and-no-one-noticed-8e90c224eae3"
 published_at: "2026-05-07T16:01:01+00:00"
 first_seen_at: "2026-07-24T07:07:55.027426+00:00"
-fetched_at: "2026-07-28T21:12:03.893735+00:00"
+fetched_at: "2026-07-28T23:57:51.006693+00:00"
 content_hash: "sha256:022ac625680af744fe77eb538bf55c232f6f856c0040d0119ead34200e8edae9"
 ---
 

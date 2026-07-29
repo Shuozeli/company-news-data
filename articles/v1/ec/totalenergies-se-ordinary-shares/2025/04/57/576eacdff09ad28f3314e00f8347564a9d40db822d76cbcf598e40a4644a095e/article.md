@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/on-peut-faire-un-demi-tour-en-quelques-minutes-dans-les-coulisses-du-delicat-ravitaillement-des-paquebots-au-gnl/"
 published_at: "2025-04-11T13:45:01+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:a45408c1f3c6268e5b8b4f9af05054fe6825b64fcd85046374db98edafddc957"
 ---
 

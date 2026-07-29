@@ -7,7 +7,7 @@ source_id: "columbus-mckinnon-corporation-common-stock-rss-1961a4508973"
 canonical_url: "https://investors.cmco.com/investor-news/news-details/2026/Columbus-McKinnon-to-Present-at-Upcoming-J-P--Morgan-Industrials-Conference-and-Sidoti-Small-Cap-Conference/default.aspx"
 published_at: "2026-03-04T22:30:00+00:00"
 first_seen_at: "2026-07-27T01:10:06.045228+00:00"
-fetched_at: "2026-07-28T20:14:03.987957+00:00"
+fetched_at: "2026-07-28T22:56:38.204176+00:00"
 content_hash: "sha256:613b726d85628f6e3cd6eaa6c003ed3ab7a1cbf3ecbd9f1dc75aaabd50f949de"
 ---
 

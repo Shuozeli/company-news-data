@@ -7,7 +7,7 @@ source_id: "teledyne-technologies-incorporated-common-stock-rss-9000605d05af"
 canonical_url: "https://blog.teledynelecroy.com/2022/10/oscilloscope-measurements-of-10base-t1s.html"
 published_at: "2022-10-05T16:00:00+00:00"
 first_seen_at: "2026-07-20T04:36:13.437201+00:00"
-fetched_at: "2026-07-28T21:00:14.371602+00:00"
+fetched_at: "2026-07-28T23:46:25.634618+00:00"
 content_hash: "sha256:167b7766ce897e42a8194aecc089c512ffb14b2c2224c536d8daa22408951241"
 ---
 

@@ -7,7 +7,7 @@ source_id: "nucor-corporation-common-stock-rss-589082181220"
 canonical_url: "https://investors.nucor.com/news/news-details/2026/Nucor-Announces-212th-Consecutive-Cash-Dividend-and-New-Share-Repurchase-Program/default.aspx"
 published_at: "2026-02-20T14:00:00+00:00"
 first_seen_at: "2026-07-25T16:40:58.481085+00:00"
-fetched_at: "2026-07-28T19:38:36.775590+00:00"
+fetched_at: "2026-07-28T23:10:44.863092+00:00"
 content_hash: "sha256:d47c49d64a77e01ecf8608c7e23f5b7f2f0893ce6224f991409076f7ee8c912e"
 ---
 

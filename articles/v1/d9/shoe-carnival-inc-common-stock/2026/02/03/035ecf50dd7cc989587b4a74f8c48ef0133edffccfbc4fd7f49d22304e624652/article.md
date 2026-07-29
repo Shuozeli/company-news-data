@@ -7,7 +7,7 @@ source_id: "shoe-carnival-inc-common-stock-rss-066a5ac40f71"
 canonical_url: "https://investors.shoecarnival.com/news/news-details/2026/Shoe-Carnival-Announces-CEO-Transition-and-Full-Year-Fiscal-2025-Preliminary-Results/default.aspx"
 published_at: "2026-02-25T11:10:00+00:00"
 first_seen_at: "2026-07-25T22:52:29.471785+00:00"
-fetched_at: "2026-07-28T21:35:52.328135+00:00"
+fetched_at: "2026-07-29T00:25:35.973785+00:00"
 content_hash: "sha256:19777bcbd834b052694c3e0f76ab6952c51cd9ae05f97cdca245dace2d0d62c4"
 ---
 

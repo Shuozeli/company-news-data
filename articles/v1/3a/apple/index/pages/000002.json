@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+  "page": 2,
+  "record_count": 4,
+  "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "d03c34bd45e0da62102c73929c7ec4d5b9a762a606579016f1a46a4eb151c929",
+      "company_key": "apple",
+      "company_name": "Apple",
+      "source_id": "apple-news-import-9ba92da28538",
+      "source_kind": "html",
+      "canonical_url": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck",
+      "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
+      "summary": "Long-horizon execution in Large Language Models (LLMs) remains unstable even when high-level strategies are provided. Evaluating on…",
+      "published_at": "2024-10-25T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+      "article_path": "articles/v1/3a/apple/2024/10/d0/d03c34bd45e0da62102c73929c7ec4d5b9a762a606579016f1a46a4eb151c929/article.md",
+      "record_path": "articles/v1/3a/apple/2024/10/d0/d03c34bd45e0da62102c73929c7ec4d5b9a762a606579016f1a46a4eb151c929/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "898ac2ee4a642f2a75ff42abec4a8db0ca704dc627b20249202917fa4df4438f",
+      "company_key": "apple",
+      "company_name": "Apple",
+      "source_id": "apple-news-import-9ba92da28538",
+      "source_kind": "html",
+      "canonical_url": "https://machinelearning.apple.com/research/clara-latent-reasoning",
+      "title": "CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning",
+      "summary": "Retrieval-augmented generation (RAG) enhances large language models (LLMs) with external knowledge but still suffers from long contexts and…",
+      "published_at": "2024-09-27T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+      "article_path": "articles/v1/3a/apple/2024/09/89/898ac2ee4a642f2a75ff42abec4a8db0ca704dc627b20249202917fa4df4438f/article.md",
+      "record_path": "articles/v1/3a/apple/2024/09/89/898ac2ee4a642f2a75ff42abec4a8db0ca704dc627b20249202917fa4df4438f/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "a02d5bee55810216fdd129ba737b567ebac2b0cfba98cfc7cecfdbfc17ecc0a5",
+      "company_key": "apple",
+      "company_name": "Apple",
+      "source_id": "apple-news-import-9ba92da28538",
+      "source_kind": "html",
+      "canonical_url": "https://machinelearning.apple.com/research/simple-self-distillation",
+      "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "summary": "Can a large language model (LLM) improve at code generation using only its own raw outputs, without a verifier, a teacher model, or…",
+      "published_at": "2024-08-03T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+      "article_path": "articles/v1/3a/apple/2024/08/a0/a02d5bee55810216fdd129ba737b567ebac2b0cfba98cfc7cecfdbfc17ecc0a5/article.md",
+      "record_path": "articles/v1/3a/apple/2024/08/a0/a02d5bee55810216fdd129ba737b567ebac2b0cfba98cfc7cecfdbfc17ecc0a5/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "b47d52cdf1bf11cc263cc78b1ca9e2de852a4ccbd1becc200950644f0a602589",
+      "company_key": "apple",
+      "company_name": "Apple",
+      "source_id": "apple-news-import-9ba92da28538",
+      "source_kind": "html",
+      "canonical_url": "https://machinelearning.apple.com/research/visual-concept-inference",
+      "title": "Show Me Examples: Inferring Visual Concepts from Image Sets",
+      "summary": "Vision-language models (VLMs) can follow complex textual instructions, yet they struggle to reason from purely visual context. In…",
+      "published_at": "2021-10-12T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+      "article_path": "articles/v1/3a/apple/2021/10/b4/b47d52cdf1bf11cc263cc78b1ca9e2de852a4ccbd1becc200950644f0a602589/article.md",
+      "record_path": "articles/v1/3a/apple/2021/10/b4/b47d52cdf1bf11cc263cc78b1ca9e2de852a4ccbd1becc200950644f0a602589/record.json"
+    }
+  ]
+}

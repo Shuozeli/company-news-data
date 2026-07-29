@@ -7,7 +7,7 @@ source_id: "industrial-logistics-properties-trust-common-shares-of-beneficial-in
 canonical_url: "http://www.ilptreit.com/investors/news/press-release-details/2026/Industrial-Logistics-Properties-Trust-Second-Quarter-2026-Conference-Call-Scheduled-for-Thursday-July-30th/default.aspx"
 published_at: "2026-07-01T20:15:00+00:00"
 first_seen_at: "2026-07-25T09:17:51.178487+00:00"
-fetched_at: "2026-07-28T21:34:53.709256+00:00"
+fetched_at: "2026-07-29T00:14:05.979554+00:00"
 content_hash: "sha256:98d273b51c8c9ba8de45b2ff5a7ba3d9ddebae90a6136e83190213e9c8e82751"
 ---
 

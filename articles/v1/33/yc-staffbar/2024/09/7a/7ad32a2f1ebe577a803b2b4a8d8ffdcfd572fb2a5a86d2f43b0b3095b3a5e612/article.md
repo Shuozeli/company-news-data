@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/how-stardust-increased-ios-app-revenue-by-4x-in-six-weeks"
-published_at: "2024-09-12T20:20:57.486+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:c1bd9e0b85de71950bc524e0541b73ca3acd4d1295f13c34dc31fc9ed9e4e621"

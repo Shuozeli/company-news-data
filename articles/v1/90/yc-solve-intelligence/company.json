@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 10
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/90/yc-solve-intelligence/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 12583,
+        "sha256": "sha256:5910b8d244d7a95977744e845f12410ceda0534b4b97c4fef118ccce8a0e64dc",
+        "newest_at": "2026-07-28T21:20:12.930591+00:00",
+        "oldest_at": "2026-06-30T12:37:08.439+00:00"
+      }
+    ]
+  }
 }

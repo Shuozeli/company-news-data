@@ -7,7 +7,7 @@ source_id: "exozymes-inc-common-stock-rss-741f122b5abb"
 canonical_url: "https://exozymes.com/blog/prism-exoz-push-into-cannabinoids"
 published_at: "2026-06-25T13:29:00+00:00"
 first_seen_at: "2026-07-25T03:51:33.698656+00:00"
-fetched_at: "2026-07-28T21:36:10.174637+00:00"
+fetched_at: "2026-07-29T00:27:19.021608+00:00"
 content_hash: "sha256:5e0f592a7adf5ff9975eb8f5a5933676880e278951b59fb12e88e8cd1610a448"
 ---
 

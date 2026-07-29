@@ -7,7 +7,7 @@ source_id: "wec-energy-group-inc-common-stock-rss-7fc8ceb8880c"
 canonical_url: "https://investor.wecenergygroup.com/investors/news-releases/press-release-details/2026/Lauber-highlights-exceptional-year-for-WEC-Energy-Group/default.aspx"
 published_at: "2026-05-07T20:05:00+00:00"
 first_seen_at: "2026-07-26T05:17:07.713799+00:00"
-fetched_at: "2026-07-28T21:37:51.984236+00:00"
+fetched_at: "2026-07-29T00:31:34.579783+00:00"
 content_hash: "sha256:d97b47d2cbd2f811fc109463db5979145638135f0b49b7eead5384121e4e4f5e"
 ---
 

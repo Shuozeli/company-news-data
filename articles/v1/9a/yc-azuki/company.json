@@ -52,5 +52,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9a/yc-azuki/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 13001,
+        "sha256": "sha256:8af646aab32563043ff2b377cd85d823dd13480f4b8020ffa4214ad8d6d1f164",
+        "newest_at": "2026-07-05T01:30:00+00:00",
+        "oldest_at": "2024-02-22T18:40:00+00:00"
+      }
+    ]
+  }
 }

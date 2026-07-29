@@ -7,7 +7,7 @@ source_id: "whitehorse-finance-inc-common-stock-rss-1f427a4f252d"
 canonical_url: "https://whitehorsefinance.com/investors/press-releases/news-details/2025/WhiteHorse-Finance-Inc--Announces-Special-Distribution-And-To-Report-Third-Quarter-2025-Financial-Results/default.aspx"
 published_at: "2025-10-15T20:05:00+00:00"
 first_seen_at: "2026-07-27T06:37:09.089030+00:00"
-fetched_at: "2026-07-28T21:34:26.815472+00:00"
+fetched_at: "2026-07-29T00:08:19.201579+00:00"
 content_hash: "sha256:5bdb6e383f03d04911f896a348eec2aa50419fc5252ab11ba70d04764148e503"
 ---
 

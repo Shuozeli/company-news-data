@@ -72,5 +72,22 @@
       "partition": "2025-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/96/yc-mailmodo/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 19960,
+        "sha256": "sha256:101bae2790e620e0be03108b7abced90019477863f138bfd80ca91b5a1e037c6",
+        "newest_at": "2025-07-24T22:06:52.035+00:00",
+        "oldest_at": "2021-03-19T20:39:23.266+00:00"
+      }
+    ]
+  }
 }

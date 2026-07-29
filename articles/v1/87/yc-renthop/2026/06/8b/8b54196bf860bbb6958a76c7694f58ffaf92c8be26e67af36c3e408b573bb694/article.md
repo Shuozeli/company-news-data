@@ -7,7 +7,7 @@ source_id: "yc-renthop-rss-2954ff02c95e"
 canonical_url: "https://www.renthop.com/blog/parades/"
 published_at: "2026-06-16T20:19:49+00:00"
 first_seen_at: "2026-07-25T21:04:29.929203+00:00"
-fetched_at: "2026-07-28T20:46:28.465383+00:00"
+fetched_at: "2026-07-28T23:28:46.448791+00:00"
 content_hash: "sha256:890628c7e18d45fb815adbf8855b7235f1a0d8f6a546f6f799fbe022276b46ca"
 ---
 

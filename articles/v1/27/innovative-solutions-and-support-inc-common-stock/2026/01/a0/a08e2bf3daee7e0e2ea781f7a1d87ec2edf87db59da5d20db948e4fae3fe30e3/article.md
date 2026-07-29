@@ -7,7 +7,7 @@ source_id: "innovative-solutions-and-support-inc-common-stock-rss-a5b100a80071"
 canonical_url: "https://presscenter.iascorp.com/press-releases/news-details/2026/Innovative-Aerosystems-Announces-First-Quarter-2026-Results-Conference-Call-and-Webcast-Date/default.aspx"
 published_at: "2026-01-29T14:00:00+00:00"
 first_seen_at: "2026-07-25T09:29:02.759549+00:00"
-fetched_at: "2026-07-28T21:52:12.249402+00:00"
+fetched_at: "2026-07-29T00:13:54.714159+00:00"
 content_hash: "sha256:8596402f631eac86631e61c5f13da70b9f13e96f4a62012510a418a7eface458"
 ---
 

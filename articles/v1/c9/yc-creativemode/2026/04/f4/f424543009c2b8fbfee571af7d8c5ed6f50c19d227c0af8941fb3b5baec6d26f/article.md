@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/top-minecraft-mods-and-add-ons-on-creativemode-april-2026"
 published_at: "2026-04-14T01:54:03+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T20:25:26.460294+00:00"
+fetched_at: "2026-07-28T23:10:27.687348+00:00"
 content_hash: "sha256:97c4671b98f960cc1db294014439f0a09426bf604a59e78a6caf136924fe0ae1"
 ---
 

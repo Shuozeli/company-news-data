@@ -7,7 +7,7 @@ source_id: "hf-sinclair-corporation-common-stock-rss-60d3559137a6"
 canonical_url: "https://investor.hfsinclair.com/investor-relations/press-releases/press-releases-details/2026/HF-Sinclair-Announces-Strategic-Transformation-Including-Plans-to-Pursue-A-Separation-of-Lubricants--Specialties-and-Planned-Retirement-of-its-Canadian-Base-Oil-Refining-Assets/default.aspx"
 published_at: "2026-07-28T10:30:00+00:00"
 first_seen_at: "2026-07-28T11:52:51.253798+00:00"
-fetched_at: "2026-07-28T21:30:08.975815+00:00"
+fetched_at: "2026-07-29T00:14:56.390298+00:00"
 content_hash: "sha256:dda795bb4aae15ecd558a15500bb07f7d6769751f46d33996485633f1cf4b70e"
 ---
 

@@ -7,7 +7,7 @@ source_id: "keurig-dr-pepper-inc-common-stock-rss-28bc20b6d247"
 canonical_url: "https://www.keurigdrpepper.com/keurig-now-offers-cafe-quality-cold-brew-on-tap/"
 published_at: "2026-07-16T14:32:29+00:00"
 first_seen_at: "2026-07-25T10:42:45.972346+00:00"
-fetched_at: "2026-07-28T22:04:27.473144+00:00"
+fetched_at: "2026-07-29T00:42:53.622202+00:00"
 content_hash: "sha256:aec597235817d78be304a07d2580cda2b71cfc82fab1ff34acbc0c8a300af9dd"
 ---
 

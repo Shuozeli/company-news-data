@@ -7,7 +7,7 @@ source_id: "nicolet-bankshares-inc-common-stock-rss-e5f4fcd536be"
 canonical_url: "https://investors.nicoletbank.com/news-market-information/press-releases/news-details/2025/Nicolet-Bankshares-Inc--Declares-Cash-Dividend-to-Shareholders-5c337708c/default.aspx"
 published_at: "2025-11-25T21:10:00+00:00"
 first_seen_at: "2026-07-25T16:20:55.850182+00:00"
-fetched_at: "2026-07-28T20:55:34.839459+00:00"
+fetched_at: "2026-07-28T23:41:30.060629+00:00"
 content_hash: "sha256:babc633c409983e2e0714a01fb9fd2479075c81e1116831554616c6428c26b07"
 ---
 

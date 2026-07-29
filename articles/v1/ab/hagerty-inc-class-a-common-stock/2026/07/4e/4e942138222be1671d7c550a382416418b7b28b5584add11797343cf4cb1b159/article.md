@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/market-trends/1968-70-plymouth-road-runners-arent-walking-away-with-younger-buyers-just-yet/"
 published_at: "2026-07-24T17:00:00+00:00"
 first_seen_at: "2026-07-25T07:26:18.964334+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:c9d0d84408fa3f03f2347335f04b0cde1b27547f02fe137174219b3ecb983211"
 ---
 

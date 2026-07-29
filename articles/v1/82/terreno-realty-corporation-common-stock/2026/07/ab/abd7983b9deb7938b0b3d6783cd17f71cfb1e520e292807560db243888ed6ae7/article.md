@@ -7,7 +7,7 @@ source_id: "terreno-realty-corporation-common-stock-rss-580925cad0eb"
 canonical_url: "https://investors.terreno.com/news-presentations/press-releases/press-release/2026/Terreno-Realty-Corporation-Announces-Leases-in-Doral-FL/default.aspx"
 published_at: "2026-07-02T13:15:00+00:00"
 first_seen_at: "2026-07-26T01:56:20.180833+00:00"
-fetched_at: "2026-07-28T20:48:46.096336+00:00"
+fetched_at: "2026-07-28T23:34:05.380886+00:00"
 content_hash: "sha256:204eb263ab7efeefe07cdc1c234c3c21f3a8cc040ad6c19868fc99e9123ed84c"
 ---
 

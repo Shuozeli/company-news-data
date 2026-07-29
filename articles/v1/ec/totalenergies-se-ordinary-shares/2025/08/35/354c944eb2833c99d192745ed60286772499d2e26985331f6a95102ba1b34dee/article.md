@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/from-pros-to-fans-badminton-is-bringing-the-energy-in-paris-at-the-totalenergies-bwf-world-championship-are-you-ready-to-take-on-the-challenge/"
 published_at: "2025-08-28T10:08:07+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:38307ae827fb9fad14d0b4d8a51ee7eaf2ba96c31528dbeaaec657bcc4c7e841"
 ---
 

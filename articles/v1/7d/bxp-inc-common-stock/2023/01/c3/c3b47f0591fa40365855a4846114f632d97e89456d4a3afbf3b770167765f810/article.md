@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-maintains-industry-leadership-improves-ranking-on-newsweeks-most-responsible-companies-list"
 published_at: "2023-01-17T23:09:23+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:f524fbd170c7201a998655d92c279f04b2f80b004a331334c36205c9f2900fc2"
 ---
 

@@ -16,5 +16,22 @@
       "partition": "2025-06",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/dd/yc-lightscreen-ai/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 3748,
+        "sha256": "sha256:222e8e7213daf42061b95db54218f8f57bf80223cf67c12d833096bfaa6ccf78",
+        "newest_at": "2025-06-22T22:06:38+00:00",
+        "oldest_at": "2025-04-14T18:01:25+00:00"
+      }
+    ]
+  }
 }

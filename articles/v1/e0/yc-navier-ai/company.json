@@ -24,5 +24,22 @@
       "partition": "2026-03",
       "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e0/yc-navier-ai/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 6641,
+        "sha256": "sha256:4d12a9543b10faeb90dbaa25dd0bedffd88584fef87c20c41c686f841cd8e6b4",
+        "newest_at": "2026-03-22T00:00:00+00:00",
+        "oldest_at": "2024-12-15T00:00:00+00:00"
+      }
+    ]
+  }
 }

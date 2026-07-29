@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/why-you-probably-shouldnt-use-superwall"
-published_at: "2025-11-04T18:56:57.271+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:7251ec2c561434fd14b7545dc73a02ecce358051d6ab85af506bc6459b61cdfc"

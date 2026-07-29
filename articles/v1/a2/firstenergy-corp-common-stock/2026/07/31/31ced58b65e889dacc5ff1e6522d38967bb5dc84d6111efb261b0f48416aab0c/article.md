@@ -7,7 +7,7 @@ source_id: "firstenergy-corp-common-stock-rss-a56d4a0f1bba"
 canonical_url: "https://investors.firstenergycorp.com/investor-materials/news-releases/news-details/2026/JCPL-Power-Restoration-Update-54475e79a/default.aspx"
 published_at: "2026-07-06T20:49:00+00:00"
 first_seen_at: "2026-07-25T04:48:53.602624+00:00"
-fetched_at: "2026-07-28T19:32:05.699211+00:00"
+fetched_at: "2026-07-28T22:53:05.043726+00:00"
 content_hash: "sha256:2da8ed428803a4b247aaf3446b0257671d8bed95ca269005b1ad42021586e75a"
 ---
 

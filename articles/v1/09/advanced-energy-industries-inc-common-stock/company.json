@@ -488,5 +488,76 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 7,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/09/advanced-energy-industries-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 71952,
+        "sha256": "sha256:9f24943d8ffabf7a42e4a02fcf28fa2cc0743cde5719051609c11cbe31385769",
+        "newest_at": "2026-07-28T21:21:02.928028+00:00",
+        "oldest_at": "2025-03-04T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/09/advanced-energy-industries-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 71430,
+        "sha256": "sha256:7e1bd0454fa569a7fab03f68989fe7f2a2590963059d202b847860811b73a890",
+        "newest_at": "2025-02-04T00:00:00+00:00",
+        "oldest_at": "2023-08-16T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/09/advanced-energy-industries-inc-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 63259,
+        "sha256": "sha256:6842532378ca3869eec289c4822162fc373be8f823f22a5de48553a0279df2ae",
+        "newest_at": "2023-08-09T00:00:00+00:00",
+        "oldest_at": "2021-01-13T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/09/advanced-energy-industries-inc-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 64776,
+        "sha256": "sha256:dd1d65c5f0cf390b5591979215e8da29bd197da19e33dd36f5daa797d37db53f",
+        "newest_at": "2020-12-17T00:00:00+00:00",
+        "oldest_at": "2019-07-22T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/09/advanced-energy-industries-inc-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 62367,
+        "sha256": "sha256:40c8211443c9f0b50e32270733c2f804dab496e2f9a865ba0d369806a9ae32f2",
+        "newest_at": "2019-07-19T00:00:00+00:00",
+        "oldest_at": "2018-12-18T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/09/advanced-energy-industries-inc-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 63466,
+        "sha256": "sha256:d8c960d6158a0df9396db4e29480bac43bac1cbcceaa935cf45fe9bd343ad9e5",
+        "newest_at": "2018-12-04T00:00:00+00:00",
+        "oldest_at": "2017-01-04T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/09/advanced-energy-industries-inc-common-stock/index/pages/000007.json",
+        "record_count": 31,
+        "byte_count": 38739,
+        "sha256": "sha256:d136354a50a6cc8d4c31416b1c2023f8e301240f550fd0e611e96bfb502256ff",
+        "newest_at": "2016-12-07T00:00:00+00:00",
+        "oldest_at": "2012-11-06T00:00:00+00:00"
+      }
+    ]
+  }
 }

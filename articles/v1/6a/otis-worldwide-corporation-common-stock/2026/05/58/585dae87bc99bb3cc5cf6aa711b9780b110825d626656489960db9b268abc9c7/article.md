@@ -7,7 +7,7 @@ source_id: "otis-worldwide-corporation-common-stock-rss-7083603b87df"
 canonical_url: "https://otisinvestors.com/news/news-details/2026/Otis-Unveils-New-Commercial-Escalator-Modernization-Packages/default.aspx"
 published_at: "2026-05-19T11:00:00+00:00"
 first_seen_at: "2026-07-25T17:59:49.568+00:00"
-fetched_at: "2026-07-28T19:32:18.594276+00:00"
+fetched_at: "2026-07-28T22:55:10.703575+00:00"
 content_hash: "sha256:624bfa41f397f886855327d1f951f171a6886f13dd990d969b631dd9b85816fb"
 ---
 

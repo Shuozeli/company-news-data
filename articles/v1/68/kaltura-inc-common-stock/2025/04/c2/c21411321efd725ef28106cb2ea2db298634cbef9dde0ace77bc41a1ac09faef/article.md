@@ -7,7 +7,7 @@ source_id: "kaltura-inc-common-stock-rss-8a80d100aa25"
 canonical_url: "https://medium.com/kaltura-tech/offense-is-the-new-defense-the-true-roi-of-purple-teaming-operations-e9b4147a5d4b"
 published_at: "2025-04-02T05:55:02+00:00"
 first_seen_at: "2026-07-20T23:18:51.911067+00:00"
-fetched_at: "2026-07-28T21:41:31.110106+00:00"
+fetched_at: "2026-07-29T00:14:54.746844+00:00"
 content_hash: "sha256:1329f595e94ffc7a84c44a1e2ed5f11be814ab0b2de14c995a2489a0282f5c31"
 ---
 

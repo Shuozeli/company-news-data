@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/creativemode-is-now-the-1-site-for-modded-minecraft"
 published_at: "2026-04-08T23:52:26+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T20:25:26.460294+00:00"
+fetched_at: "2026-07-28T23:10:27.687348+00:00"
 content_hash: "sha256:e3fc8eec9c8099e30552d6365cf336906d57f3c3e9f779a0a4a2d00ba9a31187"
 ---
 

@@ -7,7 +7,7 @@ source_id: "bxp-inc-common-stock-rss-e08872a2fc20"
 canonical_url: "https://www.bxp.com/news/bxp-rudin-announce-food52-to-relocate-nyc-offices-to-dock-72"
 published_at: "2021-10-26T21:40:52+00:00"
 first_seen_at: "2026-07-20T23:21:25.191319+00:00"
-fetched_at: "2026-07-28T20:54:28.363296+00:00"
+fetched_at: "2026-07-28T23:40:04.346470+00:00"
 content_hash: "sha256:243055a707f351a8910329f8a1b8d8e6607f479ee6f786499df207f816762519"
 ---
 

@@ -7,7 +7,7 @@ source_id: "ultra-clean-holdings-inc-common-stock-rss-eac010a89955"
 canonical_url: "https://www.uct.com/investors/news/news-details/2026/Ultra-Clean-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx"
 published_at: "2026-02-23T21:05:00+00:00"
 first_seen_at: "2026-07-26T03:36:37.737111+00:00"
-fetched_at: "2026-07-28T22:11:53.228617+00:00"
+fetched_at: "2026-07-29T00:50:15.107342+00:00"
 content_hash: "sha256:365f3371b9a65e36ff980fe4182b2fabd0642c474cb8f95a1142f473fcf4360f"
 ---
 

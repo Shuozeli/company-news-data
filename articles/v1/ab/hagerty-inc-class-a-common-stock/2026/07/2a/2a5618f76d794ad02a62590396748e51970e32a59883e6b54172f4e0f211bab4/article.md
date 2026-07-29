@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/opinion/the-hack-mechanic/diagnosing-an-odd-problem-with-the-lotus/"
 published_at: "2026-07-27T13:00:00+00:00"
 first_seen_at: "2026-07-27T14:14:22.491446+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:9f5af981efaccee2d2799be42d8f215e4352c450ad01b3eae7e1a080006342e0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "nano-nuclear-energy-inc-common-stock-rss-37f535d5108a"
 canonical_url: "https://nanonuclearenergy.com/nano-nuclears-kronos-mmr-and-the-university-of-illinois-urbana-champaign-advance-to-next-regulatory-milestone-as-u-s-nrc-formally-accepts-construction-permit-application-for-review/"
 published_at: "2026-05-20T13:58:50+00:00"
 first_seen_at: "2026-07-24T11:57:10.338713+00:00"
-fetched_at: "2026-07-28T20:20:39.586020+00:00"
+fetched_at: "2026-07-28T23:04:07.289571+00:00"
 content_hash: "sha256:f2e8e20ac4c6ac2b9b3e15372691f39f0ff7cae69ed0cedc5c14952028c306a0"
 ---
 

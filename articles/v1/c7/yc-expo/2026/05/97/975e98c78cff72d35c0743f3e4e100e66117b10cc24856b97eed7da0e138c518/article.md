@@ -7,7 +7,7 @@ source_id: "yc-expo-rss-ee8e6cc345e2"
 canonical_url: "https://expo.dev/blog/worklet-integration-in-expo-ui-synchronously-controlling-swiftui-and-compose-state"
 published_at: "2026-05-27T13:30:15+00:00"
 first_seen_at: "2026-07-25T03:54:08.173860+00:00"
-fetched_at: "2026-07-28T19:46:04.624713+00:00"
+fetched_at: "2026-07-28T23:22:43.346857+00:00"
 content_hash: "sha256:46e6952d92438c7adcea34eb8848c15f2a11f31367d231bc8705fda064963fd9"
 ---
 

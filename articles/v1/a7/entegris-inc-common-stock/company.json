@@ -28,5 +28,22 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a7/entegris-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 17830,
+        "sha256": "sha256:e76136c4aa5258e9b75a83950c14fead1a0d1fe8cd7a7f8803d63c031aadfe4d",
+        "newest_at": "2026-07-28T21:37:39.039431+00:00",
+        "oldest_at": "2026-02-13T19:35:12+00:00"
+      }
+    ]
+  }
 }

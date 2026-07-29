@@ -64,5 +64,22 @@
       "partition": "2026-07",
       "record_count": 18
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/09/fresenius-medical-care-ag-american-depositary-shares-each-representing-1-2-of-an-ordinary-share/index/pages/000001.json",
+        "record_count": 47,
+        "byte_count": 66177,
+        "sha256": "sha256:86e42e01a299420d85f6f232f41741b06bd9d3a326241ce4012661045c8bff46",
+        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "oldest_at": "2025-05-05T22:00:00+00:00"
+      }
+    ]
+  }
 }

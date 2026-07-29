@@ -24,5 +24,22 @@
       "partition": "2024-09",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/01/yc-tamarind-bio/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5274,
+        "sha256": "sha256:542f97417ae450021e1100455ac141a6b397207b9a33025c8b685db2eb6607fe",
+        "newest_at": "2024-09-23T01:32:10+00:00",
+        "oldest_at": "2024-06-04T00:12:38+00:00"
+      }
+    ]
+  }
 }

@@ -7,7 +7,7 @@ source_id: "zim-integrated-shipping-services-ltd-ordinary-shares-rss-992020fa074
 canonical_url: "https://investors.zim.com/news/news-details/2026/ZIM-Reports-Financial-Results-for-the-Fourth-Quarter-and-the-Full-Year-of-2025/default.aspx"
 published_at: "2026-03-09T11:00:00+00:00"
 first_seen_at: "2026-07-26T06:35:30.655770+00:00"
-fetched_at: "2026-07-28T20:55:36.116464+00:00"
+fetched_at: "2026-07-28T23:41:06.246785+00:00"
 content_hash: "sha256:1d98377b6a6e360214b504a6c32c3402b93589e7fca8960cee530cb9cae3a67d"
 ---
 

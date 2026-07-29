@@ -7,7 +7,7 @@ source_id: "canadian-pacific-kansas-city-limited-common-shares-rss-ebe5547364b1"
 canonical_url: "https://investor.cpkcr.com/news/press-release-details/2026/CPKC-sets-new-May-monthly-grain-record/default.aspx"
 published_at: "2026-06-02T20:05:00+00:00"
 first_seen_at: "2026-07-25T01:41:40.149453+00:00"
-fetched_at: "2026-07-28T20:27:17.482574+00:00"
+fetched_at: "2026-07-28T23:13:30.634453+00:00"
 content_hash: "sha256:43ee0c2406594e6cc49f08fd61f430c911e8ef2ee0c140efe2977c712d38f7b9"
 ---
 

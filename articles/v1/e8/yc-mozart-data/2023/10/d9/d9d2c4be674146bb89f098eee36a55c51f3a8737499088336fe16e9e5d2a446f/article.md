@@ -7,7 +7,7 @@ source_id: "yc-mozart-data-rss-80d5f072b9ee"
 canonical_url: "https://mozartdata.com/mozart-data-braze-customer-engagement/"
 published_at: "2023-10-03T22:54:26+00:00"
 first_seen_at: "2026-07-24T11:43:21.667443+00:00"
-fetched_at: "2026-07-28T20:15:01.691737+00:00"
+fetched_at: "2026-07-28T22:58:23.502461+00:00"
 content_hash: "sha256:6f9cdf914ac71375b277c6aabb548647f80141ef7f530826576d598cf36d2b33"
 ---
 

@@ -7,7 +7,7 @@ source_id: "opera-limited-american-depositary-shares-rss-2f5c2c4cdfef"
 canonical_url: "https://blogs.opera.com/news/2026/07/how-vertical-tabs-work-in-opera-one/"
 published_at: "2026-07-23T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:28.064402+00:00"
-fetched_at: "2026-07-28T22:06:54.659661+00:00"
+fetched_at: "2026-07-29T00:45:13.328847+00:00"
 content_hash: "sha256:876b5ccf3790fde555f9895fd2cb53b828623bef120014598985f416f8b1ab60"
 ---
 

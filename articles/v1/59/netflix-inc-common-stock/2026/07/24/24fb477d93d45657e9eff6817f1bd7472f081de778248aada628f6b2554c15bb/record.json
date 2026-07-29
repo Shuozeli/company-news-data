@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24fb477d93d45657e9eff6817f1bd7472f081de778248aada628f6b2554c15bb",
+  "company": {
+    "key": "netflix-inc-common-stock",
+    "name": "Netflix Inc. Common Stock"
+  },
+  "source": {
+    "id": "netflix-inc-common-stock-news-import-a57d67c5a948",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.netflix.com/en/news/when-the-impossible-became-the-mission-netflix-unveils-the-gripping-trailer-for-operation-safed-sagar",
+    "canonical": "https://about.netflix.com/news/when-the-impossible-became-the-mission-netflix-unveils-the-gripping-trailer-for-operation-safed-sagar"
+  },
+  "title": "When the Impossible Became The Mission: Netflix Unveils the Gripping Trailer for 'Operation Safed Sagar'",
+  "summary": "Rooted in real events, this specific chapter gave rise to Operation Safed Sagar, an untold chapter of the Kargil war and a historic, high-altitude mission that altered the course of the larger conflict.",
+  "published_at": "2026-07-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T05:38:38.142383+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-29T00:25:10.965612+00:00",
+  "paths": {
+    "article": "articles/v1/59/netflix-inc-common-stock/2026/07/24/24fb477d93d45657e9eff6817f1bd7472f081de778248aada628f6b2554c15bb/article.md",
+    "record": "articles/v1/59/netflix-inc-common-stock/2026/07/24/24fb477d93d45657e9eff6817f1bd7472f081de778248aada628f6b2554c15bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7675,
+    "sha256": "sha256:0774ae557d514aa5b534f609276b18aa47663a71e021578a2c6c85771e5c78ec",
+    "normalized_content_hash": "sha256:aefb88bc24fa7530af400ccd08b9f512e60e75599a1f2e0e699db38f6b2db919"
+  },
+  "provenance": {
+    "source_item_id": "fa182593-4365-4739-9d39-766d5f3a2a29",
+    "external_id": "https://about.netflix.com/news/when-the-impossible-became-the-mission-netflix-unveils-the-gripping-trailer-for-operation-safed-sagar"
+  }
+}

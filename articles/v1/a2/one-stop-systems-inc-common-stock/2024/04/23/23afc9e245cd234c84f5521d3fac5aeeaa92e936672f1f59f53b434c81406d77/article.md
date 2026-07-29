@@ -7,7 +7,7 @@ source_id: "one-stop-systems-inc-common-stock-atom-3c5790b2a18f"
 canonical_url: "https://onestopsystems.com/blogs/one-stop-systems-blog/the-four-types-of-edge-computing"
 published_at: "2024-04-17T16:45:33+00:00"
 first_seen_at: "2026-07-20T23:19:18.941877+00:00"
-fetched_at: "2026-07-28T20:13:55.562330+00:00"
+fetched_at: "2026-07-28T22:55:34.314523+00:00"
 content_hash: "sha256:2d06a2715c143ab05316f9c8cf8367df75af28d8c10bc9df830305489c0fb432"
 ---
 

@@ -7,7 +7,7 @@ source_id: "toppoint-holdings-inc-common-stock-rss-4e025ed56339"
 canonical_url: "https://toppointtrucking.com/press-release/"
 published_at: "2021-04-09T20:42:52+00:00"
 first_seen_at: "2026-07-26T02:47:01.550409+00:00"
-fetched_at: "2026-07-28T21:18:56.695393+00:00"
+fetched_at: "2026-07-29T00:17:46.134575+00:00"
 content_hash: "sha256:733f612166f08ec3e3accebc195e510584dcb8ba4e64f48c1bd0d8d4f360419b"
 ---
 

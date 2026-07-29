@@ -7,7 +7,7 @@ source_id: "at-t-inc-rss-d243bc1b21b4"
 canonical_url: "https://about.att.com/blogs/2026/the-tokenomics-equation.html"
 published_at: "2026-07-23T18:30:00+00:00"
 first_seen_at: "2026-07-23T20:23:43.987895+00:00"
-fetched_at: "2026-07-28T20:53:36.935307+00:00"
+fetched_at: "2026-07-28T23:38:49.340178+00:00"
 content_hash: "sha256:a5db00b68341c5abb1a99e9ec8b2f5deef7795c7f2a4fcff3aa798fffd0aaef0"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2017/digi-xbee-cellular-supports-micropython-programmab"
 published_at: "2017-05-24T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:476f9ee4939bb83b89868d15d69681bc20f21612d5cb01fd21c03fb06dd681e4"
 ---
 

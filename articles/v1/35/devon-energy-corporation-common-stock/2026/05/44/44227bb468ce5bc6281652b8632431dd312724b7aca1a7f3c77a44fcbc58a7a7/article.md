@@ -7,7 +7,7 @@ source_id: "devon-energy-corporation-common-stock-rss-b68131991e20"
 canonical_url: "http://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-Announces-Capital-Return-Update/default.aspx"
 published_at: "2026-05-07T20:30:00+00:00"
 first_seen_at: "2026-07-25T01:08:53.429704+00:00"
-fetched_at: "2026-07-28T21:53:16.277425+00:00"
+fetched_at: "2026-07-29T00:32:43.805760+00:00"
 content_hash: "sha256:1d4fdb524f98a59390a54474088366e2bbe7c8733f68f77aba9b393788254d1e"
 ---
 

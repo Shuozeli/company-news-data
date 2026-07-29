@@ -7,7 +7,7 @@ source_id: "eagle-financial-services-inc-common-stock-rss-a6fe58020a51"
 canonical_url: "https://investors.bankofclarke.bank/news/news-details/2025/EAGLE-FINANCIAL-SERVICES-INC--ANNOUNCES-2025-SECOND-QUARTER-FINANCIAL-RESULTS-AND-QUARTERLY-DIVIDEND/default.aspx"
 published_at: "2025-07-24T20:05:00+00:00"
 first_seen_at: "2026-07-27T01:59:54.493327+00:00"
-fetched_at: "2026-07-28T21:20:03.623472+00:00"
+fetched_at: "2026-07-29T00:13:43.697163+00:00"
 content_hash: "sha256:88987c1db78ca7bc9724ecdd2835610196f7fd846508f0e06a6ab7428c400b78"
 ---
 

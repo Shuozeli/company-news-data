@@ -7,7 +7,7 @@ source_id: "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9"
 canonical_url: "https://full-stack.blend.com/moving-to-multitenancy.html"
 published_at: "2019-01-21T08:00:00+00:00"
 first_seen_at: "2026-07-20T23:18:43.300114+00:00"
-fetched_at: "2026-07-28T21:37:04.406824+00:00"
+fetched_at: "2026-07-29T00:27:54.647135+00:00"
 content_hash: "sha256:71fec09f2be423af6b28a0304c159e33096193e69cd4b3c1e4a5a0ca0d652b11"
 ---
 

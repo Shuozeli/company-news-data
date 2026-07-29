@@ -7,7 +7,7 @@ source_id: "devon-energy-corporation-common-stock-rss-b68131991e20"
 canonical_url: "http://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Commences-Private-Exchange-Offers-and-Coterra-Commences-Consent-Solicitations/default.aspx"
 published_at: "2026-05-22T13:38:00+00:00"
 first_seen_at: "2026-07-25T01:08:53.429704+00:00"
-fetched_at: "2026-07-28T21:53:16.277425+00:00"
+fetched_at: "2026-07-29T00:32:43.805760+00:00"
 content_hash: "sha256:71048866fba4358b8548a6afab63af1cc214b1803ffcdafa911096e25449e0d1"
 ---
 

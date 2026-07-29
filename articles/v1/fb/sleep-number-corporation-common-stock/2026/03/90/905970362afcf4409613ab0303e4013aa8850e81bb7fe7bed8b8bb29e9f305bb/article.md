@@ -7,7 +7,7 @@ source_id: "sleep-number-corporation-common-stock-rss-3f5b2095644e"
 canonical_url: "https://ir.sleepnumber.com/news/news-details/2026/Sleep-Number-Announces-Inducement-Grants-under-Nasdaq-Listing-Rule-5635c4/default.aspx"
 published_at: "2026-03-16T20:00:00+00:00"
 first_seen_at: "2026-07-25T23:24:28.978509+00:00"
-fetched_at: "2026-07-28T20:52:34.727015+00:00"
+fetched_at: "2026-07-28T23:37:58.841603+00:00"
 content_hash: "sha256:cfc6928c426acaa927debad1f7197585548d60f13032134da8fb453128d47d2e"
 ---
 

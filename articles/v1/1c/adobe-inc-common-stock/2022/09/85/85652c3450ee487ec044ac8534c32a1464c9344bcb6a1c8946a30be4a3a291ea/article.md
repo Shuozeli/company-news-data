@@ -7,7 +7,7 @@ source_id: "adobe-inc-common-stock-rss-28948b03acf0"
 canonical_url: "https://blog.developer.adobe.com/en/publish/2022/09/creative-cloud-plugin-marketplace-updates-for-developers"
 published_at: "2022-09-22T00:00:00+00:00"
 first_seen_at: "2026-07-28T11:10:06.749151+00:00"
-fetched_at: "2026-07-28T20:31:19.849002+00:00"
+fetched_at: "2026-07-28T23:16:51.204278+00:00"
 content_hash: "sha256:95a630159e8d84b2bc80f9f8071a425ef1f228ead48934dd4d30a1ea4697a583"
 ---
 

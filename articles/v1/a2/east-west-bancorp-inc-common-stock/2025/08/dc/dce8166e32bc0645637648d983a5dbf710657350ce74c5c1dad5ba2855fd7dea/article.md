@@ -7,7 +7,7 @@ source_id: "east-west-bancorp-inc-common-stock-rss-6536f84b7afe"
 canonical_url: "http://investor.eastwestbank.com/press-releases/press-release/2025/East-West-Bank-Earns-Top-Spot-in-Bank-Director-Performance-Ranking-for-Third-Consecutive-Year/default.aspx"
 published_at: "2025-08-25T20:24:00+00:00"
 first_seen_at: "2026-07-25T01:43:12.949071+00:00"
-fetched_at: "2026-07-28T20:25:13.528507+00:00"
+fetched_at: "2026-07-28T23:10:04.871147+00:00"
 content_hash: "sha256:aea21d7a830dc6f57a5572c4c52f04fb87eda3d356588fcdf05da07fbb213e59"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/tipos-de-factura"
 published_at: "2022-10-19T16:27:23+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:74a3a0b47e08d6a92de55415e7334b04d526b446df910ca9af0f56f3032c002b"
 ---
 

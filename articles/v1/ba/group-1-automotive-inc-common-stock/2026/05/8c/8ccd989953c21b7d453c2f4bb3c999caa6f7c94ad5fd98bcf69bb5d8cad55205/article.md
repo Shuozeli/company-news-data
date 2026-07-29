@@ -7,7 +7,7 @@ source_id: "group-1-automotive-inc-common-stock-rss-3fb657a1ed4b"
 canonical_url: "https://www.group1corp.com/2026-05-19-Group-1-Automotive-Appoints-Daniel-McHenry-as-President-and-CEO,-UK"
 published_at: "2026-05-19T13:05:00+00:00"
 first_seen_at: "2026-07-20T04:35:54.447468+00:00"
-fetched_at: "2026-07-28T21:02:20.809967+00:00"
+fetched_at: "2026-07-28T23:49:20.512652+00:00"
 content_hash: "sha256:1642bbcc5e8a05229693350de1b00441bd112e886e1e63713b98771dbccddb20"
 ---
 

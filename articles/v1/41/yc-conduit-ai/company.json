@@ -16,5 +16,22 @@
       "partition": "2026-07",
       "record_count": 11
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/41/yc-conduit-ai/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12118,
+        "sha256": "sha256:1b545705060216aec6d4f52b5e3cd4b5b7b9a622c997211c80ab879f6763bfff",
+        "newest_at": "2026-07-27T00:00:00+00:00",
+        "oldest_at": "2026-06-04T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b3/ascent-industries-co-common-stock/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 16476,
+        "sha256": "sha256:b493e18b762d4ca5594852e2b9123cef0732b7cdfaa8e471ed41cb7c79c9e0b9",
+        "newest_at": "2026-07-27T16:07:00+00:00",
+        "oldest_at": "2023-05-09T00:00:00+00:00"
+      }
+    ]
+  }
 }

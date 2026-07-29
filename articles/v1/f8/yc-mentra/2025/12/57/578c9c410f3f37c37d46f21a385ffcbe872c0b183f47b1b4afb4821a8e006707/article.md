@@ -7,7 +7,7 @@ source_id: "yc-mentra-atom-1275414bf67e"
 canonical_url: "https://mentraglass.myshopify.com/blogs/blog/mentra-live-shipping-update"
 published_at: "2025-12-21T20:00:51+00:00"
 first_seen_at: "2026-07-27T03:44:49.649440+00:00"
-fetched_at: "2026-07-28T19:58:18.617561+00:00"
+fetched_at: "2026-07-28T23:47:18.716244+00:00"
 content_hash: "sha256:d6f46091486f3d0eae41f41c92317645b908991aff780b44ec60362601d9abb2"
 ---
 

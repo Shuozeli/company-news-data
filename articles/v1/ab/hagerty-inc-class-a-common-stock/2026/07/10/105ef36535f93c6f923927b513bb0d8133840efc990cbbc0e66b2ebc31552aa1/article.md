@@ -7,7 +7,7 @@ source_id: "hagerty-inc-class-a-common-stock-rss-699fc274d6c4"
 canonical_url: "https://www.hagerty.com/media/news/1993-range-rover-classic-matching-pair-auction-date-price/"
 published_at: "2026-07-28T14:00:00+00:00"
 first_seen_at: "2026-07-28T14:28:21.127713+00:00"
-fetched_at: "2026-07-28T22:11:01.217222+00:00"
+fetched_at: "2026-07-29T00:49:48.746461+00:00"
 content_hash: "sha256:60167503f422ee51bc9bd901306317cefa63be88d0eb48af163d2c8db57f3b0c"
 ---
 

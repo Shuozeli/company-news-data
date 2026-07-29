@@ -7,7 +7,7 @@ source_id: "ingevity-corporation-common-stock-rss-db7b4cd7d721"
 canonical_url: "https://www.ingevity.com/news/media_library_item/behind-the-screed/"
 published_at: "2019-10-16T17:58:34+00:00"
 first_seen_at: "2026-07-20T04:36:57.551044+00:00"
-fetched_at: "2026-07-28T21:09:53.952038+00:00"
+fetched_at: "2026-07-28T23:56:01.852980+00:00"
 content_hash: "sha256:d1eaa46855a4c2e230083dae49f7b5544cf0294ac92f1ed199cb98b6cc9abaa4"
 ---
 

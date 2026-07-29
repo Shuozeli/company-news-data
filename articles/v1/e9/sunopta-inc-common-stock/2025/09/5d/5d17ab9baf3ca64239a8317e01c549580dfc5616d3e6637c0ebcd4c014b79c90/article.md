@@ -7,7 +7,7 @@ source_id: "sunopta-inc-common-stock-rss-7dfa930bd6bd"
 canonical_url: "https://www.sunopta.com/eden-prairies-sunopta-finds-quiet-success-with-real-fruit-fruit-snacks/"
 published_at: "2025-09-22T08:24:23+00:00"
 first_seen_at: "2026-07-20T23:18:19.636673+00:00"
-fetched_at: "2026-07-28T21:08:27.659987+00:00"
+fetched_at: "2026-07-28T23:54:33.502464+00:00"
 content_hash: "sha256:1faf598c9d5e78af238e12599fb6bf0709496430d051f70d3e0aa70e9de4bae7"
 ---
 

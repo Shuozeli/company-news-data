@@ -7,7 +7,7 @@ source_id: "teledyne-technologies-incorporated-common-stock-rss-9000605d05af"
 canonical_url: "https://blog.teledynelecroy.com/2023/02/the-evolution-of-in-vehicle-network.html"
 published_at: "2023-02-20T13:00:00+00:00"
 first_seen_at: "2026-07-20T04:36:13.437201+00:00"
-fetched_at: "2026-07-28T21:00:14.371602+00:00"
+fetched_at: "2026-07-28T23:46:25.634618+00:00"
 content_hash: "sha256:a5bb22d5993b85a7ed156b482b90da1c82d325ef01a40933106aaa9c86763103"
 ---
 

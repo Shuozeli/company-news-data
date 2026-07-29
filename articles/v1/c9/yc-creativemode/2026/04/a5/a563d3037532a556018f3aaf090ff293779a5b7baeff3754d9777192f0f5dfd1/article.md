@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/creativemode-vs-mcreator-complete-minecraft-mod-maker-comparison-2026"
 published_at: "2026-04-14T01:54:03+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T20:25:26.460294+00:00"
+fetched_at: "2026-07-28T23:10:27.687348+00:00"
 content_hash: "sha256:f55ee06408a4fa637068e6f3791c3bb618297e0ed25d38b40ae79baca700d32d"
 ---
 

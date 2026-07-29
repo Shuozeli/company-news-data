@@ -7,7 +7,7 @@ source_id: "european-wax-center-inc-class-a-common-stock-atom-a6d58c59e9ee"
 canonical_url: "https://waxcenter.com/blogs/news/3-debunked-myths-about-waxing"
 published_at: "2025-01-29T21:01:19+00:00"
 first_seen_at: "2026-07-25T03:33:11.716297+00:00"
-fetched_at: "2026-07-28T19:57:35.485671+00:00"
+fetched_at: "2026-07-28T23:46:10.049262+00:00"
 content_hash: "sha256:b3c7b077facfedc231e5a7c91513f5b167a8148a8a59a1671cd59af5f8f9957e"
 ---
 

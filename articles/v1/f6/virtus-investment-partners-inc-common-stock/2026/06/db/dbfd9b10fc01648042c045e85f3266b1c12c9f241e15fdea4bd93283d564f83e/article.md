@@ -7,7 +7,7 @@ source_id: "virtus-investment-partners-inc-common-stock-rss-5bda534892ed"
 canonical_url: "https://ir.virtus.com/news/news-details/2026/DTF-Tax-Free-Income-2028-Term-Fund-Inc--Announces-Distributions/default.aspx"
 published_at: "2026-06-15T20:15:00+00:00"
 first_seen_at: "2026-07-26T04:49:22.967145+00:00"
-fetched_at: "2026-07-28T21:07:24.767177+00:00"
+fetched_at: "2026-07-28T23:53:13.093755+00:00"
 content_hash: "sha256:2a9cc9138b12e2037ecb769477d34e1efda03c781be6cecd577309ec2c3674cb"
 ---
 

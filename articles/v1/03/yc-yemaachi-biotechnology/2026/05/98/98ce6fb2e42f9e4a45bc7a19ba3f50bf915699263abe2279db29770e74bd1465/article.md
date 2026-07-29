@@ -7,7 +7,7 @@ source_id: "yc-yemaachi-biotechnology-rss-52f865158616"
 canonical_url: "https://www.yemaachi.com/2026/05/28/taca-implementation-abstract/"
 published_at: "2026-05-28T03:26:00+00:00"
 first_seen_at: "2026-07-20T23:21:01.870758+00:00"
-fetched_at: "2026-07-28T20:12:55.620293+00:00"
+fetched_at: "2026-07-28T22:54:11.978332+00:00"
 content_hash: "sha256:5800204c432dd30676f2a033e08e38a79af0111df27fc615cedbdf46a0492728"
 ---
 

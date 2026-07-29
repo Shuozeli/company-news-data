@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-f2b4f05d310e"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/investors/financial-news-releases/press-release/technipfmc-awarded-significant-subsea-contract-for-petrovietnam-gas-nam-con-son-2-phase-2-gas-pipeline-development-in-vietnam/"
 published_at: "2019-10-15T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.767194+00:00"
-fetched_at: "2026-07-28T21:49:44.390133+00:00"
+fetched_at: "2026-07-29T00:26:14.657354+00:00"
 content_hash: "sha256:2fc8a18eb5f3634943d2d09dbb3d958a18654125ebb4bb5406dbe2435ff99c7f"
 ---
 

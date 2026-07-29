@@ -7,7 +7,7 @@ source_id: "planet-fitness-inc-common-stock-rss-514f026fe840"
 canonical_url: "http://investor.planetfitness.com/investors/press-releases/press-release-details/2026/Planet-Fitness-Announces-Chief-Financial-Officer-Transition/default.aspx"
 published_at: "2026-03-09T20:15:00+00:00"
 first_seen_at: "2026-07-25T19:11:41.755428+00:00"
-fetched_at: "2026-07-28T21:19:55.553989+00:00"
+fetched_at: "2026-07-29T00:14:33.992862+00:00"
 content_hash: "sha256:b2109b953db8c03ca01efb7da9b549e18d6a9f4cd69b465ee7a344c5a2f0777d"
 ---
 

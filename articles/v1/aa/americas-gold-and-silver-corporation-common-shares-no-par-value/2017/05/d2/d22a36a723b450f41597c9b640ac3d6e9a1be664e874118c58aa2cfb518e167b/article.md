@@ -7,7 +7,7 @@ source_id: "americas-gold-and-silver-corporation-common-shares-no-par-value-rss-
 canonical_url: "https://americas-gold.com/investors/investor-centre/"
 published_at: "2017-05-23T03:47:26+00:00"
 first_seen_at: "2026-07-26T22:26:47.486414+00:00"
-fetched_at: "2026-07-28T21:13:24.053700+00:00"
+fetched_at: "2026-07-28T23:58:19.116502+00:00"
 content_hash: "sha256:b86b72f99a8263204283de5da9396d9a788a4b8693298356fa9feeadd550c072"
 ---
 

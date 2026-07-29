@@ -12,5 +12,22 @@
       "partition": "2024-08",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/18/yc-noya-software/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 3656,
+        "sha256": "sha256:95eeaf14732beafdf1de6fed2e779e607caf19671a2f9f102842de54e872ec64",
+        "newest_at": "2024-08-28T00:00:00+00:00",
+        "oldest_at": "2024-08-25T00:00:00+00:00"
+      }
+    ]
+  }
 }

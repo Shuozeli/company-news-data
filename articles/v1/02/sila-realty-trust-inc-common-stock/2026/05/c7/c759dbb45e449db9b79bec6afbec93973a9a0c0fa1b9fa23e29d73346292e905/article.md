@@ -7,7 +7,7 @@ source_id: "sila-realty-trust-inc-common-stock-rss-0a874092aade"
 canonical_url: "https://silarealtytrust.com/earnings-release-2026-q1/"
 published_at: "2026-05-07T20:59:00+00:00"
 first_seen_at: "2026-07-20T23:21:02.147126+00:00"
-fetched_at: "2026-07-28T20:15:00.578307+00:00"
+fetched_at: "2026-07-28T22:58:48.460628+00:00"
 content_hash: "sha256:2c39bb151ecc185a438fb7bdc5ceca828cbf07d817984bbe36edff6fab12745e"
 ---
 

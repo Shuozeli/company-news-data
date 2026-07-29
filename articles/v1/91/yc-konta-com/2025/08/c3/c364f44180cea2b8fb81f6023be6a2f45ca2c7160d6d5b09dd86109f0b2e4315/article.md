@@ -7,7 +7,7 @@ source_id: "yc-konta-com-rss-be60657b29b4"
 canonical_url: "http://localhost:3000//blog/5-errores-costosos-al-calcular-impuestos-que-cometes-sin-darte-cuenta"
 published_at: "2025-08-01T17:42:00+00:00"
 first_seen_at: "2026-07-26T07:01:39.990347+00:00"
-fetched_at: "2026-07-28T21:28:41.209235+00:00"
+fetched_at: "2026-07-29T00:28:45.595523+00:00"
 content_hash: "sha256:211c289b8319d6ced8f4c1bb9d4258046b81891033f9464b16c9843bc64f30f2"
 ---
 

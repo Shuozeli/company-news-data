@@ -7,7 +7,7 @@ source_id: "anfield-energy-inc-common-shares-rss-a0a17c475371"
 canonical_url: "https://anfieldenergy.com/anfield-energy-delivers-strong-first-half-2026-momentum-with-exceptional-pea-economics-and-clear-path-to-near-term-production/"
 published_at: "2026-06-25T13:15:08+00:00"
 first_seen_at: "2026-07-24T04:08:28.516317+00:00"
-fetched_at: "2026-07-28T22:08:13.123622+00:00"
+fetched_at: "2026-07-29T00:46:15.737896+00:00"
 content_hash: "sha256:fbde4b16b26b069f5cd57119e8d12618c03704ea4c101ca703d91ab3cdeca3f2"
 ---
 

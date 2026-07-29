@@ -7,7 +7,7 @@ source_id: "dyne-therapeutics-inc-common-stock-rss-d110a4ccdb6e"
 canonical_url: "https://www.dyne-tx.com/dyne-therapeutics-announces-appointment-of-debra-feldman-as-vice-president-head-of-regulatory/"
 published_at: "2020-05-11T12:02:36+00:00"
 first_seen_at: "2026-07-20T23:21:48.721292+00:00"
-fetched_at: "2026-07-28T20:38:27.587054+00:00"
+fetched_at: "2026-07-28T23:22:18.035043+00:00"
 content_hash: "sha256:02e4e2df32867b0884c05156f62225e178016299f525bed251bcadcbe005a093"
 ---
 

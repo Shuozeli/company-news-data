@@ -7,7 +7,7 @@ source_id: "canadian-pacific-kansas-city-limited-common-shares-rss-ebe5547364b1"
 canonical_url: "https://investor.cpkcr.com/news/press-release-details/2026/CPKC-to-maintain-rail-operations-across-Canada-during-IBEW-strike/default.aspx"
 published_at: "2026-05-31T14:18:00+00:00"
 first_seen_at: "2026-07-25T01:41:40.149453+00:00"
-fetched_at: "2026-07-28T20:27:17.482574+00:00"
+fetched_at: "2026-07-28T23:13:30.634453+00:00"
 content_hash: "sha256:df1161bed2988ed4cf7d774f9d162519cab21c2216060c077c24dfb2bc4d8295"
 ---
 

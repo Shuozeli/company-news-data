@@ -7,7 +7,7 @@ source_id: "mercantile-bank-corporation-common-stock-rss-af96d5eac485"
 canonical_url: "https://ir.mercbank.com/news/news-details/2026/Mercantile-Bank-Corporation-Announces-Strong-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
 published_at: "2026-01-20T10:05:00+00:00"
 first_seen_at: "2026-07-25T13:50:25.663288+00:00"
-fetched_at: "2026-07-28T20:37:59.204866+00:00"
+fetched_at: "2026-07-28T23:21:37.508841+00:00"
 content_hash: "sha256:640ed43759a63f5b975f9b26b20c15c7b164f70a85bee48f58c0436bece80dd6"
 ---
 

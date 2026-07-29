@@ -7,7 +7,7 @@ source_id: "cosmos-health-inc-common-stock-rss-4d96fa190eda"
 canonical_url: "https://www.cosmoshealthinc.com/post/cosmos-health-ends-2022-with-transformed-balance-sheet-and-achieves-positive-adjusted-ebitda"
 published_at: "2023-04-14T12:03:23+00:00"
 first_seen_at: "2026-07-24T23:35:28.175443+00:00"
-fetched_at: "2026-07-28T20:24:20.614582+00:00"
+fetched_at: "2026-07-28T23:09:06.042484+00:00"
 content_hash: "sha256:ac5b6d3d25a013595ebd2ce8ff1e6e23c9ac743b8127f4c5daf94df312367e5d"
 ---
 

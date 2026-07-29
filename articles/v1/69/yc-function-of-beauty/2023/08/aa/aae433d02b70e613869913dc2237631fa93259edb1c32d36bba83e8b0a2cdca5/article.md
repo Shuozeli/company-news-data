@@ -7,7 +7,7 @@ source_id: "yc-function-of-beauty-atom-d26e5db07ffe"
 canonical_url: "https://functionofbeauty.com/blogs/blog/heatless-curls-3-easy-ways-to-create-healthy-summer-curls-without-heat-damage"
 published_at: "2023-08-19T04:00:00+00:00"
 first_seen_at: "2026-07-25T05:58:14.554793+00:00"
-fetched_at: "2026-07-28T20:03:25.109682+00:00"
+fetched_at: "2026-07-28T23:52:13.231352+00:00"
 content_hash: "sha256:d60cc1f668596ea385d07ff175c0691db5c071c7892ea4f911f54977fd9a55c0"
 ---
 

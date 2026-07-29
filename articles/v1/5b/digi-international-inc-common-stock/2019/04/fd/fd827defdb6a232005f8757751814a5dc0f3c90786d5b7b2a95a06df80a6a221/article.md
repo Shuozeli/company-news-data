@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2019/iotfuse-2019-featuring-the-future-of-iot-with-5g-c"
 published_at: "2019-04-19T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:9d2af22f255b08494c8e733839fe575653517defd48bbcdc088c11e0e6f23e7f"
 ---
 

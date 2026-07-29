@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2018/04/technipfmc-in-joint-venture-with-its-partners-jgc-and-chiyoda-as-key-players-successfully-contributed-towards-the-first-cargo-of-lng-for-the-megaproject-yamal-lng/"
 published_at: "2018-04-04T01:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-28T21:51:21.094676+00:00"
+fetched_at: "2026-07-29T00:17:43.124361+00:00"
 content_hash: "sha256:5476950172c08d3700c020085bae4037c79d1a15bc05d2844d3408850e19cd7c"
 ---
 

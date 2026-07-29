@@ -7,7 +7,7 @@ source_id: "anterix-inc-common-stock-rss-5ccc97b4bda7"
 canonical_url: "https://investors.anterix.com/news-releases/news-release-details/anterix-benton-pud-agree-deploy-private-wireless-pacific"
 published_at: "2026-04-27T13:00:00+00:00"
 first_seen_at: "2026-07-26T09:22:22.313626+00:00"
-fetched_at: "2026-07-28T20:55:51.016576+00:00"
+fetched_at: "2026-07-28T23:41:44.309473+00:00"
 content_hash: "sha256:6139386274ff318dcdde6d13399dbc848c92a4eb8f2abbe36bf3cc549507acb6"
 ---
 

@@ -7,7 +7,7 @@ source_id: "flex-lng-ltd-ordinary-shares-rss-7ff9ab5b26ed"
 canonical_url: "https://www.flexlng.com/flex-lng-2025-annual-esg-report/"
 published_at: "2026-05-13T12:29:35+00:00"
 first_seen_at: "2026-07-25T01:07:03.816170+00:00"
-fetched_at: "2026-07-28T21:54:07.345247+00:00"
+fetched_at: "2026-07-29T00:34:05.068746+00:00"
 content_hash: "sha256:6d230b5f3a9595e64df2b00fbc533dc1582ea6b55f52ed9443b8555d7ca9fb3c"
 ---
 

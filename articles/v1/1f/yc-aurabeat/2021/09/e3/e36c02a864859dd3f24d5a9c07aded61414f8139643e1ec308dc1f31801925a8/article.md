@@ -7,7 +7,7 @@ source_id: "yc-aurabeat-atom-153fa6e6a3d0"
 canonical_url: "https://devices.aurabeattech.com/blogs/media-and-press/%E6%B6%88%E6%AF%92%E6%8A%80%E8%A1%93-%E6%9C%80%E6%96%B0%E8%BB%8A%E7%94%A8%E7%A9%BA%E6%B0%A3%E6%B6%88%E6%AF%92-%E7%B7%A0%E9%80%A0%E7%84%A1%E6%86%82%E9%A7%95%E9%A7%9B%E7%92%B0%E5%A2%83"
 published_at: "2021-09-24T05:08:03+00:00"
 first_seen_at: "2026-07-26T23:10:09.381667+00:00"
-fetched_at: "2026-07-28T20:03:26.473398+00:00"
+fetched_at: "2026-07-28T23:52:13.780504+00:00"
 content_hash: "sha256:de85cb9de49f54476f18e259ea65dad5c104b23864944dc3577f581c661fd436"
 ---
 

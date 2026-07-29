@@ -7,7 +7,7 @@ source_id: "teva-pharmaceutical-industries-limited-american-depositary-shares-rs
 canonical_url: "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2026/Tevas-Data-on-AUSTEDO-deutetrabenazine-tablets-and-AUSTEDO-XR-deutetrabenazine-extended-release-tablets-Highlight-Long-Term-Advances-in-Tardive-Dyskinesia-Treatment-and-Care/default.aspx"
 published_at: "2026-06-08T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:51.621885+00:00"
-fetched_at: "2026-07-28T21:37:33.063712+00:00"
+fetched_at: "2026-07-29T00:12:43.259437+00:00"
 content_hash: "sha256:20d10919f522c2cd2dab6cf0fd1f4be2cdf1df7ad67f5b8049ecf3db26338015"
 ---
 

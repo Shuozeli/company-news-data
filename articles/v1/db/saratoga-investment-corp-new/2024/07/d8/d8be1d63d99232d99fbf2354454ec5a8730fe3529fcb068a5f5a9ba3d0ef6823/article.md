@@ -7,7 +7,7 @@ source_id: "saratoga-investment-corp-new-rss-670e00b5f620"
 canonical_url: "https://saratogainvestmentcorp.com/the-five-best-bdc-etfs-to-consider-in-2024/"
 published_at: "2024-07-22T11:32:15+00:00"
 first_seen_at: "2026-07-24T04:07:34.258148+00:00"
-fetched_at: "2026-07-28T20:44:42.880306+00:00"
+fetched_at: "2026-07-28T23:27:14.887205+00:00"
 content_hash: "sha256:4d45fd51e1435919b1e28f40823671b4b63a932e21d3377326bceb806d2f95ff"
 ---
 

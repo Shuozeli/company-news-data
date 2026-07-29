@@ -7,7 +7,7 @@ source_id: "diversified-healthcare-trust-common-shares-of-beneficial-interest-rs
 canonical_url: "https://www.dhcreit.com/news/press-release-details/2026/Diversified-Healthcare-Trust-Announces-2025-Dividend-Allocation/default.aspx"
 published_at: "2026-01-20T21:30:00+00:00"
 first_seen_at: "2026-07-25T01:02:14.072473+00:00"
-fetched_at: "2026-07-28T19:49:21.397500+00:00"
+fetched_at: "2026-07-28T23:32:40.854634+00:00"
 content_hash: "sha256:01ad1842d1ea8a368ae1e68ddab391219baebbac456919f119d32152ccc6aed4"
 ---
 

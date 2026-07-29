@@ -7,7 +7,7 @@ source_id: "above-food-ingredients-inc-common-stock-rss-5a480a913e60"
 canonical_url: "https://abovefood.com/lionel-kambeitz-ceo-of-above-food-joins-bnn-bloomberg-to-discuss-bite-acquisitions-plans-to-merge-with-above-food/"
 published_at: "2023-05-04T15:26:27+00:00"
 first_seen_at: "2026-07-20T23:19:53.402796+00:00"
-fetched_at: "2026-07-28T22:04:53.214634+00:00"
+fetched_at: "2026-07-29T00:43:09.170627+00:00"
 content_hash: "sha256:839ef3550a1d9117e42bd48886ee19a184ddf442b6a1f30f59c61a675cf1034b"
 ---
 

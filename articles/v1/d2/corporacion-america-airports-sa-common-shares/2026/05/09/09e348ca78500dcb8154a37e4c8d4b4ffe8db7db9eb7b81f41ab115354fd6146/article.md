@@ -7,7 +7,7 @@ source_id: "corporacion-america-airports-sa-common-shares-rss-58c44b64d4f1"
 canonical_url: "https://investors.corporacionamericaairports.com/investors/events-and-presentations/press-releases/news-details/2026/Corporacin-Amrica-Airports-Reports-First-Quarter-2026-Results/default.aspx"
 published_at: "2026-05-13T12:31:00+00:00"
 first_seen_at: "2026-07-26T12:15:16.917288+00:00"
-fetched_at: "2026-07-28T20:27:16.331063+00:00"
+fetched_at: "2026-07-28T23:13:12.270786+00:00"
 content_hash: "sha256:d4727b8ae06020b9711a3fa60386bb25c0802082f991f3cfe03607e18df86a6d"
 ---
 

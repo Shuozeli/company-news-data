@@ -7,7 +7,7 @@ source_id: "keurig-dr-pepper-inc-common-stock-rss-28bc20b6d247"
 canonical_url: "https://www.keurigdrpepper.com/keurig-dr-pepper-announces-leadership-updates/"
 published_at: "2026-06-23T06:01:04+00:00"
 first_seen_at: "2026-07-25T10:42:45.972346+00:00"
-fetched_at: "2026-07-28T22:04:27.473144+00:00"
+fetched_at: "2026-07-29T00:42:53.622202+00:00"
 content_hash: "sha256:ddcab5807d5d667380022442f6dead3182cb7b165b6887c29d1bbab3a2a983e5"
 ---
 

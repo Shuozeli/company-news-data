@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/il-a-le-statut-de-chef-detat-patrick-pouyanne-le-patron-tres-politique-de-totalenergies/"
 published_at: "2025-05-23T13:45:14+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:04f8737cc008a4e26b8647f96e95876c80ca10cf36628e59704d0a075aec7529"
 ---
 

@@ -7,7 +7,7 @@ source_id: "suburban-propane-partners-l-p-common-stock-rss-735cd6635d3c"
 canonical_url: "https://investor.suburbanpropane.com/2025-08-07-Suburban-Propane-Partners,-L-P-Announces-Third-Quarter-Results"
 published_at: "2025-08-07T11:30:00+00:00"
 first_seen_at: "2026-07-25T01:08:05.565238+00:00"
-fetched_at: "2026-07-28T21:54:51.791015+00:00"
+fetched_at: "2026-07-29T00:35:11.121502+00:00"
 content_hash: "sha256:43732a9dedbf4ad8955b5685a379be2867aac6fbb44a326d44acb4c0d73480b8"
 ---
 

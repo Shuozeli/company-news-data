@@ -7,7 +7,7 @@ source_id: "the-beachbody-company-inc-class-a-common-stock-rss-35a92663784d"
 canonical_url: "https://thebeachbodycompany.com/news/news-details/2026/BODi-Expands-GLP-1-Support-and-Longevity-Driven-Fitness-with-10-Minute-BODi-Workouts/default.aspx"
 published_at: "2026-04-21T12:00:00+00:00"
 first_seen_at: "2026-07-26T02:03:19.730585+00:00"
-fetched_at: "2026-07-28T20:54:43.730342+00:00"
+fetched_at: "2026-07-28T23:40:31.042221+00:00"
 content_hash: "sha256:87625fad645370098b636b5b43289744b04312011d5c980a13bc32c0b4dbff2a"
 ---
 

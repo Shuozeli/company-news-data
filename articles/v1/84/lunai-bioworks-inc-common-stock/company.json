@@ -40,5 +40,22 @@
       "partition": "2026-06",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/84/lunai-bioworks-inc-common-stock/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 28190,
+        "sha256": "sha256:efea41d9cd4fad581e7b36cedf71249ce7e30aee7cf6dfb431f0db48ff45a140",
+        "newest_at": "2026-06-17T13:15:00+00:00",
+        "oldest_at": "2025-09-09T00:00:00+00:00"
+      }
+    ]
+  }
 }

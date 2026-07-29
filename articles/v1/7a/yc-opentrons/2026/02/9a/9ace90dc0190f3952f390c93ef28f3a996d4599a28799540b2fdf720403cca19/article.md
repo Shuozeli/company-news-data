@@ -7,7 +7,7 @@ source_id: "yc-opentrons-rss-767f8d415bdd"
 canonical_url: "https://opentrons.com/archives/news/highres-and-opentrons-announce-strategic-partnership-to-launch-the-industrys-first-ai-agent-to-agent-lab-automation-workflow"
 published_at: "2026-02-04T14:00:00+00:00"
 first_seen_at: "2026-07-25T17:41:16.998093+00:00"
-fetched_at: "2026-07-28T20:46:22.642271+00:00"
+fetched_at: "2026-07-28T23:27:55.051365+00:00"
 content_hash: "sha256:68af2da9dec5cf28bd3c7c1a5014b529bd3a8d9eddf3809738c613c19172d703"
 ---
 

@@ -7,7 +7,7 @@ source_id: "cooper-standard-holdings-inc-common-stock-rss-83e9fa5352d5"
 canonical_url: "https://ir.cooperstandard.com/2026-07-21-Cooper-Standard-to-Discuss-Second-Quarter-2026-Results-Provides-Details-for-Management-Conference-Call"
 published_at: "2026-07-21T12:30:00+00:00"
 first_seen_at: "2026-07-21T13:24:26.513665+00:00"
-fetched_at: "2026-07-28T21:09:44.892142+00:00"
+fetched_at: "2026-07-28T23:55:33.869996+00:00"
 content_hash: "sha256:9b9c5e8fe6deb6d171253140917730a2cc71b41941535cc2b78422a3870f6b7b"
 ---
 

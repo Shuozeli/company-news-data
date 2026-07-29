@@ -7,7 +7,7 @@ source_id: "bristol-myers-squibb-company-common-stock-rss-d60a6dfff3be"
 canonical_url: "https://bristolmyers2016ir.q4web.com/iframes/press-releases/press-release-details/2026/Izalontamab-Brengitecan-Iza-Bren-Demonstrates-Statistically-Significant-and-Clinically-Meaningful-Improvements-in-Overall-Survival-and-Progression-Free-Survival-in-Patients-with-Triple-Negative-Breast-Cancer-and-Esophageal-Squamous-Cell-Carcinoma/default.aspx"
 published_at: "2026-06-02T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:06:54.310353+00:00"
-fetched_at: "2026-07-28T19:48:23.484320+00:00"
+fetched_at: "2026-07-28T23:26:32.859592+00:00"
 content_hash: "sha256:ff8a8870bb3946c52900715fecb9910a04343ed8a255225d59e0dd46a37ba679"
 ---
 

@@ -7,7 +7,7 @@ source_id: "yc-hannah-life-technologies-atom-e425c915ce44"
 canonical_url: "https://www.twoplushealth.com/blogs/fertility/foods-to-avoid-pregnant"
 published_at: "2022-07-13T04:00:00+00:00"
 first_seen_at: "2026-07-25T01:09:10.378171+00:00"
-fetched_at: "2026-07-28T21:52:10.768768+00:00"
+fetched_at: "2026-07-29T00:19:55.911473+00:00"
 content_hash: "sha256:a74ef5562479d0797ee8ce7e36265cc3ddce6b72567fe772a029f4a19c5c6d03"
 ---
 

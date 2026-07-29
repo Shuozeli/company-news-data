@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2020/STIFEL%20FINANCIAL%20APPOINTS%20KATHLEEN%20BROWN%20LEAD%20INDEPENDENT%20DIRECTOR.pdf"
 published_at: "2020-05-05T21:58:05+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:7c008e3e0bbe5d7e789c8a6e350ed79007f9e3ec04b9218343ebca134c83e124"
 ---
 

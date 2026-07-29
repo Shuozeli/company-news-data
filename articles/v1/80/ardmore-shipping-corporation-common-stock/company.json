@@ -44,5 +44,22 @@
       "partition": "2026-07",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/80/ardmore-shipping-corporation-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 15921,
+        "sha256": "sha256:406a4d71867f9ac5ab63a5df632661e8d0d4bd9586e5ef4abe62cfb72cb6bc31",
+        "newest_at": "2026-07-14T23:00:00+00:00",
+        "oldest_at": "2025-03-31T14:16:53+00:00"
+      }
+    ]
+  }
 }

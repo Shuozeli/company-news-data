@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/comment-totalenergies-recupere-du-petrole-sous-la-mer-a-300-kilometres-au-large-de-rio-de-janeiro/"
 published_at: "2025-10-31T13:09:27+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:ea0e7033c1e6569441d1e8fcc787d2f54261b0d64a372e230b570615aff6e816"
 ---
 

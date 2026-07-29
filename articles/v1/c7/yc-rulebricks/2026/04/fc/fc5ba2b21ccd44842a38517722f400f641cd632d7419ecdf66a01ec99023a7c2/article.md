@@ -7,7 +7,7 @@ source_id: "yc-rulebricks-rss-eefe38b6d7e5"
 canonical_url: "https://rulebricks.com/blog/untangling-salesforce-approvals"
 published_at: "2026-04-11T16:04:57+00:00"
 first_seen_at: "2026-07-20T23:20:45.346962+00:00"
-fetched_at: "2026-07-28T20:14:44.927916+00:00"
+fetched_at: "2026-07-28T22:57:17.651461+00:00"
 content_hash: "sha256:bf64cb46288f07be48eeeee0f325eab602b90d53da57d13202089201faeaa245"
 ---
 

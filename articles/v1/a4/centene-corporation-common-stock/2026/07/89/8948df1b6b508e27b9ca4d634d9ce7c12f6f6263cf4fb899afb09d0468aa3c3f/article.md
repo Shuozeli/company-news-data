@@ -7,7 +7,7 @@ source_id: "centene-corporation-common-stock-rss-80dc5615cd85"
 canonical_url: "https://investors.centene.com/2026-07-09-CENTENE-SUBSIDIARY-MERIDIAN-HEALTH-PLAN-OF-ILLINOIS-AWARDED-ILLINOIS-MEDICAID-CONTRACT"
 published_at: "2026-07-09T11:00:00+00:00"
 first_seen_at: "2026-07-20T03:32:22.250342+00:00"
-fetched_at: "2026-07-28T20:38:17.480862+00:00"
+fetched_at: "2026-07-28T23:22:15.789255+00:00"
 content_hash: "sha256:9f433936fb9fc647891bbf188d5de5c937f6a5b783892b9ee30c4262f5a37857"
 ---
 

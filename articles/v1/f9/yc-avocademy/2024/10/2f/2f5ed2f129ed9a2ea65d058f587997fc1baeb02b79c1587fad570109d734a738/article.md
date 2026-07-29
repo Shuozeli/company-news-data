@@ -7,7 +7,7 @@ source_id: "yc-avocademy-atom-b6352a591443"
 canonical_url: "https://www.avocademy.com/blogs/the-guac/book-review-the-design-of-everyday-things"
 published_at: "2024-10-04T05:23:05+00:00"
 first_seen_at: "2026-07-24T17:49:57.508530+00:00"
-fetched_at: "2026-07-28T20:21:21.168628+00:00"
+fetched_at: "2026-07-28T23:04:51.921253+00:00"
 content_hash: "sha256:dc0bc45ea337a2a8ec585f6c1b244a31998bb1129259948c941ee51bb2508611"
 ---
 

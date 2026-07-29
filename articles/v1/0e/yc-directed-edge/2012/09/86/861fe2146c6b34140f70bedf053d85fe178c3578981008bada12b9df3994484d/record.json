@@ -17,8 +17,8 @@
   "summary": "So, we noticed recently that our Java and Python bindings were doing an extra round-trip to our servers for every request. We’ve just done updates to each of them that removes this. Per the HTTP spec, when a request uses HTTP BASIC authentication, as our API does, the client is supposed to first send a […]",
   "published_at": "2012-09-28T06:21:55+00:00",
   "first_seen_at": "2026-07-27T01:55:50.875550+00:00",
-  "fetched_at": "2026-07-28T19:33:35.119310+00:00",
-  "last_updated_at": "2026-07-28T19:33:35.148848+00:00",
+  "fetched_at": "2026-07-28T22:59:14.304469+00:00",
+  "last_updated_at": "2026-07-28T22:59:14.347336+00:00",
   "paths": {
     "article": "articles/v1/0e/yc-directed-edge/2012/09/86/861fe2146c6b34140f70bedf053d85fe178c3578981008bada12b9df3994484d/article.md",
     "record": "articles/v1/0e/yc-directed-edge/2012/09/86/861fe2146c6b34140f70bedf053d85fe178c3578981008bada12b9df3994484d/record.json"
@@ -26,7 +26,7 @@
   "content": {
     "media_type": "text/markdown; charset=utf-8",
     "bytes": 1509,
-    "sha256": "sha256:64465a48aba1bf9267b54438b91fb7f11ffb21ea8324037c5997bf614451d4a7",
+    "sha256": "sha256:57d4062e35de984b58df549b5b145091bfadc99db34ad3c760ca3595a7091b9c",
     "normalized_content_hash": "sha256:986b1169407424313061aea3e15b181c96efc44a0e14728802d3a385e4840dff"
   },
   "provenance": {

@@ -7,7 +7,7 @@ source_id: "weyerhaeuser-company-common-stock-rss-432ce8ceed5f"
 canonical_url: "https://investor.weyerhaeuser.com/2026-05-19-Stockfish-and-Wold-to-Represent-Weyerhaeuser-at-Nareits-REITweek-2026-Investor-Conference"
 published_at: "2026-05-19T20:30:00+00:00"
 first_seen_at: "2026-07-20T03:31:52.997098+00:00"
-fetched_at: "2026-07-28T20:22:45.779870+00:00"
+fetched_at: "2026-07-28T23:06:48.894643+00:00"
 content_hash: "sha256:a4feb06acaad98392e3e19fe1c7552d9121026da45175f289a26e195b806df3d"
 ---
 

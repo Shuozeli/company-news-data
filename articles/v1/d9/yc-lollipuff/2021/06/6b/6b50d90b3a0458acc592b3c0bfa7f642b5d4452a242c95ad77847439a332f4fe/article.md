@@ -7,7 +7,7 @@ source_id: "yc-lollipuff-rss-1aefb943cc78"
 canonical_url: "https://www.lollipuff.com/chanel-replaces-serial-stickers-with-microchips/"
 published_at: "2021-06-22T18:47:05+00:00"
 first_seen_at: "2026-07-25T01:53:27.944775+00:00"
-fetched_at: "2026-07-28T20:30:23.160334+00:00"
+fetched_at: "2026-07-28T23:16:31.531465+00:00"
 content_hash: "sha256:dba531cfeeba88db9aaecf743c705a1252599a28253f2b992bb5d285cb8aecee"
 ---
 

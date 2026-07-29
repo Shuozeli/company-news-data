@@ -7,7 +7,7 @@ source_id: "draftkings-inc-class-a-common-stock-rss-016c40719db2"
 canonical_url: "https://medium.com/draftkings-engineering/ai-meets-engineering-draftkings-real-world-code-review-accelerator-cd35a256c064"
 published_at: "2025-08-05T10:00:36+00:00"
 first_seen_at: "2026-07-20T04:35:13.112015+00:00"
-fetched_at: "2026-07-28T20:57:14.086090+00:00"
+fetched_at: "2026-07-28T23:43:20.716472+00:00"
 content_hash: "sha256:42d6377b8ab710b854a8a2ce19f2bd090fd41207e8ca8efe60c3691f2791653d"
 ---
 

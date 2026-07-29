@@ -7,7 +7,7 @@ source_id: "technipfmc-plc-ordinary-share-rss-e927dfc37f01"
 canonical_url: "https://technipfmc-prod-uscentral.azurewebsites.net/en/media/news/2021/02/deep-purple-pilot-project-gets-support-from-innovation-norway/"
 published_at: "2021-02-25T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:08:54.270037+00:00"
-fetched_at: "2026-07-28T21:51:21.094676+00:00"
+fetched_at: "2026-07-29T00:17:43.124361+00:00"
 content_hash: "sha256:05df8bf347eead671726d3c0b9f2c192b1bdf0b988da37055695f511b54b64fd"
 ---
 

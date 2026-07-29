@@ -6,7 +6,7 @@
   },
   "record_count": 167,
   "first_published_at": "2021-07-01T00:00:00+00:00",
-  "last_published_at": "2026-07-28T20:38:02+00:00",
+  "last_published_at": "2026-07-28T23:22:01+00:00",
   "partitions": [
     {
       "partition": "2021-07",
@@ -220,5 +220,49 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b4/yc-curri/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52389,
+        "sha256": "sha256:f00b8675a90996fcc3dccd3361a5f8059acd27b5fa2a94a4e7d699c325920345",
+        "newest_at": "2026-07-28T23:22:01+00:00",
+        "oldest_at": "2025-09-22T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/b4/yc-curri/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 50976,
+        "sha256": "sha256:d69c6455db0a5bd412a093dc0824902dcef702d7bc7331b9c12a527acd758f0d",
+        "newest_at": "2025-09-15T00:00:00+00:00",
+        "oldest_at": "2024-05-07T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/b4/yc-curri/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 50149,
+        "sha256": "sha256:7cef99c779b6a90f4cc8340370c06e3c9bef70a20294da37e26adce93bed0189",
+        "newest_at": "2024-05-02T00:00:00+00:00",
+        "oldest_at": "2022-01-09T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/b4/yc-curri/index/pages/000004.json",
+        "record_count": 17,
+        "byte_count": 16732,
+        "sha256": "sha256:503a6c7c0b098b1209f2216c3fed5c908301bfc48ceb9d1a6ae2ca3ae07efe6d",
+        "newest_at": "2022-01-06T00:00:00+00:00",
+        "oldest_at": "2021-07-01T00:00:00+00:00"
+      }
+    ]
+  }
 }

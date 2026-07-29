@@ -7,7 +7,7 @@ source_id: "bristol-myers-squibb-company-common-stock-rss-d60a6dfff3be"
 canonical_url: "https://bristolmyers2016ir.q4web.com/iframes/press-releases/press-release-details/2026/Global-Data-for-BioNTech-and-Bristol-Myers-Squibbs-PD-L1xVEGF-A-Bispecific-Pumitamig-Shows-Encouraging-Efficacy-in-Patients-with-Non-Small-Cell-Lung-Cancer-in-ROSETTA-Lung-02-Trial/default.aspx"
 published_at: "2026-05-30T18:15:00+00:00"
 first_seen_at: "2026-07-25T01:06:54.310353+00:00"
-fetched_at: "2026-07-28T19:48:23.484320+00:00"
+fetched_at: "2026-07-28T23:26:32.859592+00:00"
 content_hash: "sha256:736d5a19e1672bc71a92279a2ffa94d061037356cc4895630b6762f2cb62d522"
 ---
 

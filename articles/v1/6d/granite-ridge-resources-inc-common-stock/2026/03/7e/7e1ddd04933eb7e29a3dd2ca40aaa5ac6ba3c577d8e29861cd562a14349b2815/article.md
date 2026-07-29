@@ -7,7 +7,7 @@ source_id: "granite-ridge-resources-inc-common-stock-rss-d9990164f265"
 canonical_url: "https://ir.graniteridge.com/Investors/news/news-details/2026/Granite-Ridge-Resources-Inc--Reports-Fourth-Quarter-and-Full-Year-2025-Results-and-Provides-Outlook-for-2026/default.aspx"
 published_at: "2026-03-05T21:19:00+00:00"
 first_seen_at: "2026-07-26T08:18:06.142008+00:00"
-fetched_at: "2026-07-28T19:30:45.145751+00:00"
+fetched_at: "2026-07-29T00:03:32.595380+00:00"
 content_hash: "sha256:8bd7a5296a8a764a988670c857b3bae9752d25556fdf23f10530130c5d292d9f"
 ---
 

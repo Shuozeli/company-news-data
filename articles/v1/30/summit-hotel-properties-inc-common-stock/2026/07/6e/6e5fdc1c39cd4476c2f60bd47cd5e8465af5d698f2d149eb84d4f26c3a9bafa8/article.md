@@ -7,7 +7,7 @@ source_id: "summit-hotel-properties-inc-common-stock-rss-2ccb932bd701"
 canonical_url: "https://investor.shpreit.com/news-events/news/news-details/2026/SUMMIT-HOTEL-PROPERTIES-ANNOUNCES-SECOND-QUARTER-2026-EARNINGS-RELEASE-DATE/default.aspx"
 published_at: "2026-07-02T00:32:00+00:00"
 first_seen_at: "2026-07-26T00:50:07.796417+00:00"
-fetched_at: "2026-07-28T20:13:05.820695+00:00"
+fetched_at: "2026-07-28T22:54:24.748195+00:00"
 content_hash: "sha256:c9c2a312fca5ef61320c6774a9f0509af989846ba876e450c470f14abf10fbc2"
 ---
 

@@ -4,9 +4,9 @@
     "key": "yc-waydev",
     "name": "Waydev"
   },
-  "record_count": 11,
+  "record_count": 12,
   "first_published_at": "2026-01-23T02:06:08+00:00",
-  "last_published_at": "2026-07-23T00:13:25+00:00",
+  "last_published_at": "2026-07-28T21:20:51+00:00",
   "partitions": [
     {
       "partition": "2026-01",
@@ -26,7 +26,24 @@
     },
     {
       "partition": "2026-07",
-      "record_count": 1
+      "record_count": 2
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/aa/yc-waydev/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12048,
+        "sha256": "sha256:7d4c83b50d866fcd5ff0465c6345634927702958740e521e3904bf1cb96fa970",
+        "newest_at": "2026-07-28T21:20:51+00:00",
+        "oldest_at": "2026-01-23T02:06:08+00:00"
+      }
+    ]
+  }
 }

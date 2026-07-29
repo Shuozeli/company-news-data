@@ -32,5 +32,22 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d0/yc-athenahq/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 15735,
+        "sha256": "sha256:e460129d2d78cc3fdfb20dfaecccc0e949baf774b0b3f64a728edcd7bc90114a",
+        "newest_at": "2026-07-27T00:00:00+00:00",
+        "oldest_at": "2025-10-26T00:00:00+00:00"
+      }
+    ]
+  }
 }

@@ -12,5 +12,22 @@
       "partition": "2026-07",
       "record_count": 11
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a7/morgan-stanley-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 12301,
+        "sha256": "sha256:0777e2aff2f92911b4e7b7af12642082b83e3ebc16a806b0d21e8a68f983c786",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2026-07-13T00:00:00+00:00"
+      }
+    ]
+  }
 }

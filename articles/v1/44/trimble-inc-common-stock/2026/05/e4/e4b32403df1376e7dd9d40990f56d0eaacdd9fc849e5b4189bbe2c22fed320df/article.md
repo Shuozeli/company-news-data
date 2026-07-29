@@ -7,7 +7,7 @@ source_id: "trimble-inc-common-stock-rss-7adfc23558ed"
 canonical_url: "https://www.trimble.com/en/blog/trimble/article/case-study-savannah-chatham-schools"
 published_at: "2026-05-06T00:00:00+00:00"
 first_seen_at: "2026-07-28T20:33:46.828941+00:00"
-fetched_at: "2026-07-28T20:33:46.789564+00:00"
+fetched_at: "2026-07-28T23:18:38.216278+00:00"
 content_hash: "sha256:32ef9ff23708d92106498b31a6b6649d02aea6ba2db6ed7a3fe9d703866a7403"
 ---
 

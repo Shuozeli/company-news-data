@@ -172,5 +172,67 @@
       "partition": "2026-07",
       "record_count": 6
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 6,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/00/yc-speedscale/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50542,
+        "sha256": "sha256:38658460d75fe851ab8bb2beecbaa52875b3663f1ef787773b61bb2294ba0781",
+        "newest_at": "2026-07-27T00:00:00+00:00",
+        "oldest_at": "2026-03-03T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/00/yc-speedscale/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 50490,
+        "sha256": "sha256:4b291a8a3453ac700df67dddf99afeaccdd09758c05277241f9d9af7be59fa11",
+        "newest_at": "2026-03-03T00:00:00+00:00",
+        "oldest_at": "2025-11-06T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/00/yc-speedscale/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 50682,
+        "sha256": "sha256:36f3a326ef13deca72582e24040777264604d7de7cb90f0c99689ecb5d3c26a7",
+        "newest_at": "2025-11-04T00:00:00+00:00",
+        "oldest_at": "2025-05-30T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/00/yc-speedscale/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 49353,
+        "sha256": "sha256:feb430630d9f29cd5bf892d3df7c5c6cc97cce123e57766c0312890f209a93fb",
+        "newest_at": "2025-05-19T00:00:00+00:00",
+        "oldest_at": "2024-10-18T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/00/yc-speedscale/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 50197,
+        "sha256": "sha256:dd4dc7fe236ab75d87f9536671af5c6c6261359d9768201bfa72fd13f647d9be",
+        "newest_at": "2024-10-17T00:00:00+00:00",
+        "oldest_at": "2022-08-19T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/00/yc-speedscale/index/pages/000006.json",
+        "record_count": 6,
+        "byte_count": 6176,
+        "sha256": "sha256:2cec3e2e158d6d3318c2769982a964a1d1c91ad39155be068e7459d99ca11488",
+        "newest_at": "2022-08-05T00:00:00+00:00",
+        "oldest_at": "2021-07-16T00:00:00+00:00"
+      }
+    ]
+  }
 }

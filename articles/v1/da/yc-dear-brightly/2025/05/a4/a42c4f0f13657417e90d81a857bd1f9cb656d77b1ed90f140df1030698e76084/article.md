@@ -7,7 +7,7 @@ source_id: "yc-dear-brightly-rss-a8492d2f1cb5"
 canonical_url: "https://www.dearbrightly.com/melissa/"
 published_at: "2025-05-05T20:01:38+00:00"
 first_seen_at: "2026-07-25T01:53:27.533985+00:00"
-fetched_at: "2026-07-28T20:25:15.658434+00:00"
+fetched_at: "2026-07-28T23:10:09.018125+00:00"
 content_hash: "sha256:a905762a39c43910b25957616313d4a77b9dc11b23047a8edea8738b1aae0c97"
 ---
 

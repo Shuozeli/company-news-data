@@ -7,7 +7,7 @@ source_id: "gorilla-technology-group-inc-ordinary-shares-rss-f5e7578f1e87"
 canonical_url: "https://investors.gorilla-technology.com/gorilla-technology-converts-growth-into-cash-q1-revenue-up-55-operating-cash-flow-turns-positive-full-year-guidance-raised/"
 published_at: "2026-05-27T12:00:54+00:00"
 first_seen_at: "2026-07-20T23:19:42.204541+00:00"
-fetched_at: "2026-07-28T22:11:11.163398+00:00"
+fetched_at: "2026-07-29T00:49:40.981826+00:00"
 content_hash: "sha256:91e3ea74f7853485df16d3b2f064102a4a9f9ed7efb9dd1c8874addfdfaabe99"
 ---
 

@@ -7,7 +7,7 @@ source_id: "baycom-corp-common-stock-rss-9032c38160e0"
 canonical_url: "https://baycomcorp.q4ir.com/news-market-information/news/news-details/2025/Baycom-Corp-Increases-Quarterly-Cash-Dividend-20-to-0-30-Per-Share/default.aspx"
 published_at: "2025-11-20T21:30:00+00:00"
 first_seen_at: "2026-07-26T10:10:07.257614+00:00"
-fetched_at: "2026-07-28T20:34:46.644247+00:00"
+fetched_at: "2026-07-28T23:19:41.612149+00:00"
 content_hash: "sha256:31a4a51a8be215b0f4844208535519435c48c37803ae554a6f29d08ad81378bf"
 ---
 

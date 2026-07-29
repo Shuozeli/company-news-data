@@ -7,7 +7,7 @@ source_id: "ge-vernova-inc-common-stock-rss-7c51d258e120"
 canonical_url: "https://www.gevernova.com/investors/events/bank-america-global-industrials-conference-2026"
 published_at: "2026-03-02T07:31:41+00:00"
 first_seen_at: "2026-07-20T23:21:29.268016+00:00"
-fetched_at: "2026-07-28T21:29:52.808631+00:00"
+fetched_at: "2026-07-29T00:29:33.959606+00:00"
 content_hash: "sha256:5331f3ba4e005aac240aa1725e4f8a5b8611de2c3e7da880e140e03a307f7574"
 ---
 

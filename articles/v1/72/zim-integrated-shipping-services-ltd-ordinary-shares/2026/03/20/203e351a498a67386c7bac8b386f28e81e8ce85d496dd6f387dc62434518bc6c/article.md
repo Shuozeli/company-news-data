@@ -7,7 +7,7 @@ source_id: "zim-integrated-shipping-services-ltd-ordinary-shares-rss-992020fa074
 canonical_url: "https://investors.zim.com/news/news-details/2026/ZIM-Updates-on-Withholding-Tax-Procedures-on-March-2026-Cash-Dividend/default.aspx"
 published_at: "2026-03-19T11:00:00+00:00"
 first_seen_at: "2026-07-26T06:35:30.655770+00:00"
-fetched_at: "2026-07-28T20:55:36.116464+00:00"
+fetched_at: "2026-07-28T23:41:06.246785+00:00"
 content_hash: "sha256:432d11e5c7bdc63853d11b127aa71a6096d3d44566c24bbfee098635618bb272"
 ---
 

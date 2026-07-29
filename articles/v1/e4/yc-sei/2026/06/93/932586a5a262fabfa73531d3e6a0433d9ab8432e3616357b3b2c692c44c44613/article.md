@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/sei-vs-prudent-ai-income-document-intelligence"
 published_at: "2026-06-11T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:04078c20268d99681a1af656d2dfe137cab7f0cbc0249b3b8834e8ce95269273"
 ---
 

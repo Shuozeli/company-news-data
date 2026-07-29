@@ -7,7 +7,7 @@ source_id: "lipocine-inc-common-stock-rss-6d064612a445"
 canonical_url: "https://ir.lipocine.com/2026-06-04-Lipocine-Inc-to-Host-Virtual-KOL-Event-Highlighting-Unmet-Needs-in-Postpartum-Depression-and-the-Clinical-Profile-of-LPCN-1154"
 published_at: "2026-06-04T12:00:00+00:00"
 first_seen_at: "2026-07-24T09:43:40.883973+00:00"
-fetched_at: "2026-07-28T20:37:24.354890+00:00"
+fetched_at: "2026-07-28T23:21:00.197605+00:00"
 content_hash: "sha256:b204d740b64c98704e0ebcdd0c830b105723cdefdcb00311628689a97312d124"
 ---
 

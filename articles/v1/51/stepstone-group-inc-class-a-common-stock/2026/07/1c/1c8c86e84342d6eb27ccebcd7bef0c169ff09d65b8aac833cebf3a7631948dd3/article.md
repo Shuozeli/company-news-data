@@ -7,7 +7,7 @@ source_id: "stepstone-group-inc-class-a-common-stock-rss-d53e45329a72"
 canonical_url: "https://www.stepstonegroup.com/news-insights/icoli-and-idfs-a-capital-efficient-gateway-to-private-markets-for-insurers/"
 published_at: "2026-07-17T15:23:50+00:00"
 first_seen_at: "2026-07-24T02:21:02.641674+00:00"
-fetched_at: "2026-07-28T20:22:14.595312+00:00"
+fetched_at: "2026-07-28T23:06:00.697821+00:00"
 content_hash: "sha256:921a389c7d84dd1dd62564e58f0c5be6a55f9dd03ebe52f750da24fb4612d25c"
 ---
 

@@ -7,7 +7,7 @@ source_id: "vontier-corporation-common-stock-rss-b584a551300f"
 canonical_url: "https://www.vontier.com/node/150"
 published_at: "2026-02-09T18:21:24+00:00"
 first_seen_at: "2026-07-20T23:22:04.436864+00:00"
-fetched_at: "2026-07-28T20:33:32.853550+00:00"
+fetched_at: "2026-07-28T23:18:14.774174+00:00"
 content_hash: "sha256:b3aa8aeff05a8935740ed55683a3008e55f74f22ebee1dce0a280fb620649de9"
 ---
 

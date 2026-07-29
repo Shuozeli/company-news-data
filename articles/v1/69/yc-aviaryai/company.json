@@ -24,5 +24,22 @@
       "partition": "2026-05",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/69/yc-aviaryai/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 9503,
+        "sha256": "sha256:d960d639d05c4e1d62f527510fdf3a529caeec9e19ed35709542e221b6e34653",
+        "newest_at": "2026-05-13T00:00:00+00:00",
+        "oldest_at": "2025-01-13T00:00:00+00:00"
+      }
+    ]
+  }
 }

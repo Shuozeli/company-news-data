@@ -404,5 +404,58 @@
       "partition": "2026-06",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 5,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c9/protagonist-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 61482,
+        "sha256": "sha256:cd1f97ac0dc7e47ef217517cb51f51c35b975edf77e9e923514538a8fb617f16",
+        "newest_at": "2026-06-11T19:39:51+00:00",
+        "oldest_at": "2024-10-03T14:01:55+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/c9/protagonist-therapeutics-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 63474,
+        "sha256": "sha256:e433d29559457d3bc40f4777ed22b1e148a3f5a14f0612657c413d2d0cc301fe",
+        "newest_at": "2024-09-10T14:53:24+00:00",
+        "oldest_at": "2022-12-22T19:21:37+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/c9/protagonist-therapeutics-inc-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 68824,
+        "sha256": "sha256:f51cd6dd38d87a314d3bd6f10ed77dfba9cbed3d06dc5e791911e0abf2f50686",
+        "newest_at": "2022-12-20T19:27:34+00:00",
+        "oldest_at": "2020-09-11T22:58:36+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/c9/protagonist-therapeutics-inc-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 69184,
+        "sha256": "sha256:b25af0586cd5a88343fa76c566f6357df8fcc69e76ff661b27ba6f053a546f8a",
+        "newest_at": "2020-06-23T22:56:53+00:00",
+        "oldest_at": "2017-06-13T19:54:26+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/c9/protagonist-therapeutics-inc-common-stock/index/pages/000005.json",
+        "record_count": 30,
+        "byte_count": 42293,
+        "sha256": "sha256:c8cbc529b33af134e39b494159fe5ef33498d3c30b058727152668430254f928",
+        "newest_at": "2017-05-30T17:23:58+00:00",
+        "oldest_at": "2008-02-28T21:03:22+00:00"
+      }
+    ]
+  }
 }

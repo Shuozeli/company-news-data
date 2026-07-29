@@ -7,7 +7,7 @@ source_id: "keurig-dr-pepper-inc-common-stock-rss-28bc20b6d247"
 canonical_url: "https://www.keurigdrpepper.com/keurig-dr-pepper-declares-quarterly-dividend-17/"
 published_at: "2026-05-20T20:35:03+00:00"
 first_seen_at: "2026-07-25T10:42:45.972346+00:00"
-fetched_at: "2026-07-28T22:04:27.473144+00:00"
+fetched_at: "2026-07-29T00:42:53.622202+00:00"
 content_hash: "sha256:869c6c86e72e6beb1a82eb80a355b1bfcbedeb3d4c6f2504c6bf753059d20ed1"
 ---
 

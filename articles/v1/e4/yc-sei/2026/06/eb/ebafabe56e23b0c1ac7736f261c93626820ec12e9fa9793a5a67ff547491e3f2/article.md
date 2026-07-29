@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/hmda-data-integrity-ai-lar-field-population"
 published_at: "2026-06-26T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:18838f0162aa87fac71e5502b81d586c046ff907f39791aadcb4aa8f65bb31b6"
 ---
 

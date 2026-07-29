@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-0b5f374ddc49"
 canonical_url: "https://totalenergies.com/newsroom/trump-to-gas-prices-to-french-politics-totalenergies-chief-patrick-pouyanne-talks-to-figaro-magazine/"
 published_at: "2025-04-22T13:46:08+00:00"
 first_seen_at: "2026-07-24T06:28:10.383635+00:00"
-fetched_at: "2026-07-28T20:40:47.146118+00:00"
+fetched_at: "2026-07-28T23:24:39.102238+00:00"
 content_hash: "sha256:3962a60029a765861890b2fcab1a991bfa089520020102e776ff1d3a0fcb6614"
 ---
 

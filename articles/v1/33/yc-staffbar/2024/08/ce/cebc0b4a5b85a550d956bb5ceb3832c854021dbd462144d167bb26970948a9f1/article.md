@@ -5,7 +5,7 @@ company_key: "yc-staffbar"
 company: "Superwall"
 source_id: "yc-staffbar-rss-5f8991137f5c"
 canonical_url: "https://superwall.com/blog/creating-countdown-timers-in-paywalls"
-published_at: "2024-08-16T20:15:08.772+00:00"
+published_at: null
 first_seen_at: "2026-07-20T23:20:38.930038+00:00"
 fetched_at: "2026-07-28T21:08:32.413121+00:00"
 content_hash: "sha256:ea3aa8098ddd26c4036c8ad402781628518061f3cf64492f33232e75c72f1e00"

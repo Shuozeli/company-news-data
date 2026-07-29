@@ -7,7 +7,7 @@ source_id: "yc-sei-rss-1b5243482862"
 canonical_url: "https://seiright.com/blog/sei-vs-gateless-mortgage-underwriting-automation"
 published_at: "2026-06-12T00:00:00+00:00"
 first_seen_at: "2026-07-20T23:20:45.548292+00:00"
-fetched_at: "2026-07-28T20:15:14.266567+00:00"
+fetched_at: "2026-07-28T22:58:47.223027+00:00"
 content_hash: "sha256:bc27c456419d2eeaa6aee246a6daa43e00f932d7b4ab3b0064248b839571ccf7"
 ---
 

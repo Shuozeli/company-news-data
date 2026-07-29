@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/agios-wins-fda-approval-for-pill-to-treat-rare-blood-disease/"
 published_at: "2022-02-17T18:19:00+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-28T21:47:02.623482+00:00"
+fetched_at: "2026-07-29T00:23:58.530332+00:00"
 content_hash: "sha256:dcf6bf1b0850a17ed99517e458a31056b38f55d1b520b673ccd85fdc08dcbc21"
 ---
 

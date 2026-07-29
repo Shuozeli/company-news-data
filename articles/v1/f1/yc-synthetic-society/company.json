@@ -24,5 +24,22 @@
       "partition": "2024-11",
       "record_count": 1
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f1/yc-synthetic-society/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4889,
+        "sha256": "sha256:566da3af0e029c5c046e1b4a8fbe3bdff391afd2c39a71207140caf1051e0de8",
+        "newest_at": "2024-11-28T00:00:00+00:00",
+        "oldest_at": "2021-11-28T00:00:00+00:00"
+      }
+    ]
+  }
 }

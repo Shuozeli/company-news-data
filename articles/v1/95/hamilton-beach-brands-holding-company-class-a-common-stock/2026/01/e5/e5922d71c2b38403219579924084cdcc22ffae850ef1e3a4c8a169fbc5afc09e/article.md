@@ -7,7 +7,7 @@ source_id: "hamilton-beach-brands-holding-company-class-a-common-stock-rss-5027c
 canonical_url: "https://www.hamiltonbeachbrands.com/news/news-details/2026/HAMILTON-BEACH-BRANDS-HOLDING-COMPANY-TO-PARTICIPATE-IN-THE-2026-ICR-INVESTOR-CONFERENCE/default.aspx"
 published_at: "2026-01-07T21:05:00+00:00"
 first_seen_at: "2026-07-25T16:48:36.916304+00:00"
-fetched_at: "2026-07-28T21:39:41.885810+00:00"
+fetched_at: "2026-07-29T00:29:53.886312+00:00"
 content_hash: "sha256:d3c3a0a5788fd52328b8816d34ee96a0efa17d8c60efce7a94b08c8114116448"
 ---
 

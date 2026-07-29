@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-4161913e29b3"
 canonical_url: "https://www.digi.com/company/press-releases/2021/project-with-chicago-transit-authority-wins-award"
 published_at: "2021-11-09T05:00:00+00:00"
 first_seen_at: "2026-07-20T23:16:59.671268+00:00"
-fetched_at: "2026-07-28T21:46:54.445128+00:00"
+fetched_at: "2026-07-29T00:18:21.249102+00:00"
 content_hash: "sha256:f33918a2f87dbbba752fac38ff85ecd88e2a11ec8ebe789531a29c0b5b521e3c"
 ---
 

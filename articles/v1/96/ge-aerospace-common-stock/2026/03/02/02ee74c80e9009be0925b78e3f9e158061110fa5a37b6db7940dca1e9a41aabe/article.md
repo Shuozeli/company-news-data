@@ -7,7 +7,7 @@ source_id: "ge-aerospace-common-stock-rss-a1dd69a4054d"
 canonical_url: "https://www.geaerospace.com/investor-relations/events-reports/ge-aerospace-2026-annual-shareholders-meeting"
 published_at: "2026-03-04T18:42:30+00:00"
 first_seen_at: "2026-07-20T23:24:51.828822+00:00"
-fetched_at: "2026-07-28T21:03:18.535161+00:00"
+fetched_at: "2026-07-28T23:50:06.638047+00:00"
 content_hash: "sha256:7387c854c081d641f8aa20ad92ecc0a0a49bddaf6ef3cc9255b14711b03e10d1"
 ---
 

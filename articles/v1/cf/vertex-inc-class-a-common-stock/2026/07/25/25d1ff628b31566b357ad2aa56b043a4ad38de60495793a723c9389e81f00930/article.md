@@ -7,7 +7,7 @@ source_id: "vertex-inc-class-a-common-stock-rss-da9b929f707a"
 canonical_url: "https://www.vertexinc.com/node/8291"
 published_at: "2026-07-23T18:41:45+00:00"
 first_seen_at: "2026-07-23T19:16:25.016117+00:00"
-fetched_at: "2026-07-28T20:45:07.536797+00:00"
+fetched_at: "2026-07-28T23:28:21.552659+00:00"
 content_hash: "sha256:71d8752d6c01b425b727b849d3214a6ffd8c5cc0e260f1063958fb6d9909b8a1"
 ---
 

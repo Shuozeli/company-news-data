@@ -7,7 +7,7 @@ source_id: "acres-commercial-realty-corp-common-stock-rss-3b21511dc4b0"
 canonical_url: "https://www.acresreit.com/2026-04-30-ACRES-Commercial-Realty-Corp-Announces-Agreement-to-Internalize-Management-and-Acquire-ACRES-Capital-Corp"
 published_at: "2026-04-30T10:14:00+00:00"
 first_seen_at: "2026-07-20T23:18:09.950469+00:00"
-fetched_at: "2026-07-28T21:38:28.400960+00:00"
+fetched_at: "2026-07-29T00:06:28.142757+00:00"
 content_hash: "sha256:743a95e08850b81235beb72232bd60e7c5130aa34f545bfb996aa7307947e74e"
 ---
 

@@ -40,5 +40,22 @@
       "partition": "2026-07",
       "record_count": 3
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e6/quicklogic-corporation-common-stock/index/pages/000001.json",
+        "record_count": 31,
+        "byte_count": 41259,
+        "sha256": "sha256:c5e33a1c0dbe06ce24c8a61cbb8bd14df8d5a13f83628826096f5cb565b83cf7",
+        "newest_at": "2026-07-28T12:03:00+00:00",
+        "oldest_at": "2025-12-02T12:03:00+00:00"
+      }
+    ]
+  }
 }

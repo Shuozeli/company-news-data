@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2016/demystifying-pci-compliance"
 published_at: "2016-07-13T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:6d3fdb1f26dae4bd8daecd19d87c3b3f26a4f7b6e5f22facbbf6526fe565912a"
 ---
 

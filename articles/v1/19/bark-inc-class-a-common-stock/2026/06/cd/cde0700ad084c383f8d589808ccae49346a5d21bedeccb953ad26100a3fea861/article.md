@@ -7,7 +7,7 @@ source_id: "bark-inc-class-a-common-stock-rss-1a677a91965a"
 canonical_url: "https://investors.bark.co/news/news-details/2026/BARK-and-Guy-Fieri-Are-Taking-Dogs-Straight-to-Flavortown/default.aspx"
 published_at: "2026-06-16T12:00:00+00:00"
 first_seen_at: "2026-07-25T01:26:35.493717+00:00"
-fetched_at: "2026-07-28T20:20:33.378676+00:00"
+fetched_at: "2026-07-28T23:04:03.254596+00:00"
 content_hash: "sha256:5d990c7b8db33d1c70dfc631ac92c5965e70ff15307b9cdfee22c5c1890548fb"
 ---
 

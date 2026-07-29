@@ -17,8 +17,8 @@
   "summary": "Parsing CMS AuthEnvelopedData message with maliciously crafted AEAD parameters can trigger a stack buffer overflow. A stack buffer overflow may lead to a crash, causing Denial of Service, or potentially remote code execution. When parsing CMS AuthEnvelopedData structures that use AEAD ciphers such as AES-GCM, the IV (Initialization Vector) encoded in the ASN.1 parameters is copied into a fixed-size stack buffer without verifying that its length fits the destination. An attacker can supply a crafted CMS message with an oversized IV, causing a stack-based out-of-bounds write before any authentication or tag verification occurs. Applications and services that parse untrusted CMS or PKCS#7 content using AEAD ciphers (e.g., S/MIME AuthEnvelopedData with AES-GCM) are vulnerable. Because the overflow occurs prior to authentication, no valid key material is required to trigger it. While exploitability to remote code execution depends on platform and toolchain mitigations, the stack-based write primitive represents a severe risk. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
   "published_at": "2026-06-04T12:17:55+00:00",
   "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
-  "fetched_at": "2026-07-28T20:59:59.352597+00:00",
-  "last_updated_at": "2026-07-28T20:59:59.548941+00:00",
+  "fetched_at": "2026-07-28T23:46:40.217305+00:00",
+  "last_updated_at": "2026-07-28T23:46:40.335342+00:00",
   "paths": {
     "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/06/9b/9bf8c2332d83f1b495e1fcd0ed9b47b172daff30a76d7f49cae82168a867135b/article.md",
     "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/06/9b/9bf8c2332d83f1b495e1fcd0ed9b47b172daff30a76d7f49cae82168a867135b/record.json"
@@ -26,7 +26,7 @@
   "content": {
     "media_type": "text/markdown; charset=utf-8",
     "bytes": 2119,
-    "sha256": "sha256:b415720f39e1856f2f97a3f927f8bd14013205c0006e95a003cef7bdade5bbd6",
+    "sha256": "sha256:84c2e4ea086bdadd20e63502771fa6d3cd90109627a794a4586ddc92625e7111",
     "normalized_content_hash": "sha256:718f961b2cd419d18225e23237843ee38dc2d94ec8ef3a0e59371724dc01fa1a"
   },
   "provenance": {

@@ -7,7 +7,7 @@ source_id: "agios-pharmaceuticals-inc-common-stock-rss-32540b9601cc"
 canonical_url: "https://www.agios.com/news/changing-identity-agios-to-sell-cancer-drug-business-to-servier/"
 published_at: "2020-12-21T18:16:00+00:00"
 first_seen_at: "2026-07-24T14:45:00.514988+00:00"
-fetched_at: "2026-07-28T21:47:02.623482+00:00"
+fetched_at: "2026-07-29T00:23:58.530332+00:00"
 content_hash: "sha256:3e94e8ba6f589481edf51bc0754d43a845f731052de43854601cd8ec431aa813"
 ---
 

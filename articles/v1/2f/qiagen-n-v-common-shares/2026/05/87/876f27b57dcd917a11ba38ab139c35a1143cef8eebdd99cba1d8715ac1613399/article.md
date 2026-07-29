@@ -7,7 +7,7 @@ source_id: "qiagen-n-v-common-shares-rss-98e7f8d13456"
 canonical_url: "https://corporate.qiagen.com/English/newsroom/press-releases/press-release-details/2026/QIAGEN-Supports-Infectious-Disease-Research-and-Surveillance-Efforts-for-Bundibugyo-Ebolavirus-Outbreak/default.aspx"
 published_at: "2026-05-28T20:05:00+00:00"
 first_seen_at: "2026-07-28T04:42:25.610146+00:00"
-fetched_at: "2026-07-28T21:04:07.252496+00:00"
+fetched_at: "2026-07-28T23:50:39.335368+00:00"
 content_hash: "sha256:0d1d2323c1a00f112992c067c0d9468cc40ed266e5f4f19aa4922684f4f5c7d7"
 ---
 

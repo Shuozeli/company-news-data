@@ -7,7 +7,7 @@ source_id: "independence-realty-trust-inc-common-stock-rss-1bb8b9c14b64"
 canonical_url: "https://investors.irtliving.com/press-releases/press-release/2026/Independence-Realty-Trust-Increases-Quarterly-Dividend-by-6/default.aspx"
 published_at: "2026-05-13T20:30:00+00:00"
 first_seen_at: "2026-07-25T09:14:28.930391+00:00"
-fetched_at: "2026-07-28T21:28:53.032084+00:00"
+fetched_at: "2026-07-29T00:10:08.528701+00:00"
 content_hash: "sha256:8b3e9e6348c5d00aefffc44f33a3866157476da6420ff8e3f99feb3bbffa4a0b"
 ---
 

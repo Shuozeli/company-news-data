@@ -7,7 +7,7 @@ source_id: "life360-inc-common-stock-rss-25c02f0e1eb8"
 canonical_url: "https://medium.com/life360-engineering/customizing-android-studio-with-the-intellij-plugin-sdk-part-1-8827e3ddd217"
 published_at: "2021-10-01T21:57:28+00:00"
 first_seen_at: "2026-07-20T04:36:48.728062+00:00"
-fetched_at: "2026-07-28T21:06:39.825869+00:00"
+fetched_at: "2026-07-28T23:52:40.488320+00:00"
 content_hash: "sha256:65223dd71405079acc5265fc045ff89023d23debced40def691b7e900f146896"
 ---
 

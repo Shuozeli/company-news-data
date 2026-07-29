@@ -7,7 +7,7 @@ source_id: "united-airlines-holdings-inc-common-stock-rss-09ebc8191126"
 canonical_url: "https://united.mediaroom.com/2026-06-29-United-Announces-New-Nonstop-Flights-from-Houston-and-Washington,-D-C-to-Cartagena"
 published_at: "2026-06-29T16:00:00+00:00"
 first_seen_at: "2026-07-20T03:31:22.575844+00:00"
-fetched_at: "2026-07-28T20:21:16.313848+00:00"
+fetched_at: "2026-07-28T23:04:31.859605+00:00"
 content_hash: "sha256:180bc694d752ed5c54949477bd279117f8029d9dc50de5f9ae1349cde20f9cd9"
 ---
 

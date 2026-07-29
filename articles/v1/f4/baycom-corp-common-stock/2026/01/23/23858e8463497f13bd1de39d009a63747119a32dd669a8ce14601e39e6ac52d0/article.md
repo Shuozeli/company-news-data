@@ -7,7 +7,7 @@ source_id: "baycom-corp-common-stock-rss-9032c38160e0"
 canonical_url: "https://baycomcorp.q4ir.com/news-market-information/news/news-details/2026/BayCom-Corp-Reports-2025-Fourth-Quarter-Earnings-of-6-9-Million/default.aspx"
 published_at: "2026-01-22T21:30:00+00:00"
 first_seen_at: "2026-07-26T10:10:07.257614+00:00"
-fetched_at: "2026-07-28T20:34:46.644247+00:00"
+fetched_at: "2026-07-28T23:19:41.612149+00:00"
 content_hash: "sha256:79753884bf16eea34210e01bd81e68374d72321edf730bb2770fdb6eba7922f0"
 ---
 

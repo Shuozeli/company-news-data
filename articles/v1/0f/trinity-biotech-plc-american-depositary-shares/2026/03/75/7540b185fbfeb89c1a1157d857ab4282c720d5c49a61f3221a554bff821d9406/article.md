@@ -7,7 +7,7 @@ source_id: "trinity-biotech-plc-american-depositary-shares-rss-6b6858b1b9bc"
 canonical_url: "https://trinitybiotech.com/press-releases/news/trinity-biotech-senior-executives-to-attend-attd-2026-to-advance-collaborations-following-strong-progress-in-cgm-program/"
 published_at: "2026-03-11T16:00:50+00:00"
 first_seen_at: "2026-07-24T04:40:06.159898+00:00"
-fetched_at: "2026-07-28T21:03:30.549824+00:00"
+fetched_at: "2026-07-28T23:50:15.896400+00:00"
 content_hash: "sha256:6c60cb550dc0c9c488146a4288978b5025492df4320eaa800040b0b6d39977c1"
 ---
 

@@ -7,7 +7,7 @@ source_id: "kinross-gold-corporation-common-stock-rss-704a45ed047f"
 canonical_url: "https://www.kinross.com/English/news-and-investors/news-releases/press-release-details/2026/Kinross-announces-14-annual-increase-to-cash-dividend-and-declares-Q4-dividend/default.aspx"
 published_at: "2026-02-18T22:00:00+00:00"
 first_seen_at: "2026-07-25T10:52:47.429571+00:00"
-fetched_at: "2026-07-28T20:22:22.541275+00:00"
+fetched_at: "2026-07-28T23:06:17.021935+00:00"
 content_hash: "sha256:ff6be0de97e03146050842d64469a4089f9291b48ec570d5bbcf4a14a421416f"
 ---
 

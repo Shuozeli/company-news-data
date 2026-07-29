@@ -7,7 +7,7 @@ source_id: "hilton-grand-vacations-inc-common-stock-rss-a44538a6a744"
 canonical_url: "https://investors.hgv.com/press-releases/news-details/2026/Hilton-Grand-Vacations-Completes-300-Million-Term-Note-Securitization/default.aspx"
 published_at: "2026-06-11T04:00:00+00:00"
 first_seen_at: "2026-07-25T08:07:30.877596+00:00"
-fetched_at: "2026-07-28T21:39:07.473248+00:00"
+fetched_at: "2026-07-29T00:27:14.447163+00:00"
 content_hash: "sha256:42e613ebadb521f952fa2c7ca3692c6d83438223c18d79438c805671d6723743"
 ---
 

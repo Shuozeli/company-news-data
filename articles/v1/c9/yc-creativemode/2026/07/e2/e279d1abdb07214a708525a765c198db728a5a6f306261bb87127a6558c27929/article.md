@@ -7,7 +7,7 @@ source_id: "yc-creativemode-rss-4a3c1bf4920e"
 canonical_url: "https://creativemode.net/blog/make-3d-handheld-items-on-creativemode"
 published_at: "2026-07-16T20:11:17+00:00"
 first_seen_at: "2026-07-24T23:45:51.976388+00:00"
-fetched_at: "2026-07-28T20:25:26.460294+00:00"
+fetched_at: "2026-07-28T23:10:27.687348+00:00"
 content_hash: "sha256:7948de8ae4cda068e91622dc998616da3c17e3510ff2af5059ae7f5ce1f1de57"
 ---
 

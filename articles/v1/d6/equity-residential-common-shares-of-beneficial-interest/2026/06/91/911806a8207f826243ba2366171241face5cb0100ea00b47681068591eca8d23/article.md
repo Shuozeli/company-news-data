@@ -7,7 +7,7 @@ source_id: "equity-residential-common-shares-of-beneficial-interest-rss-e3f53151
 canonical_url: "https://investors.equityapartments.com/news-events/press-releases-news/news-details/2026/AvalonBay-Communities-and-Equity-Residential-Announce-Leadership-Team-for-Combined-Company/default.aspx"
 published_at: "2026-06-08T12:00:00+00:00"
 first_seen_at: "2026-07-25T03:03:27.927171+00:00"
-fetched_at: "2026-07-28T20:27:47.339745+00:00"
+fetched_at: "2026-07-28T23:14:03.140548+00:00"
 content_hash: "sha256:efce20614c8c62326fdc08f14bb8a22ea3231baeb46b9f3a0eae4698e6df4e73"
 ---
 

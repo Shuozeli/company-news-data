@@ -20,5 +20,22 @@
       "partition": "2026-07",
       "record_count": 7
     }
-  ]
+  ],
+  "article_index": {
+    "generation": "a4b35d3f05b07e59723fabf72bf6d3ffbf8ffde284e057489c81a3433774968a",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/05/huntington-bancshares-incorporated-common-stock/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 18447,
+        "sha256": "sha256:5110384a3047b1fb85283aa36af3d3d21b5a76de578567f7d3db500d51f629a7",
+        "newest_at": "2026-07-23T20:05:00+00:00",
+        "oldest_at": "2026-05-20T20:44:00+00:00"
+      }
+    ]
+  }
 }

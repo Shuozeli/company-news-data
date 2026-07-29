@@ -7,7 +7,7 @@ source_id: "totalenergies-se-ordinary-shares-rss-c90675ea39e1"
 canonical_url: "https://totalenergies.com/newsroom/entre-ppa-et-ecretement-comment-totalenergies-valorise-le-solaire-et-leolien-au-bresil/"
 published_at: "2025-10-31T13:45:19+00:00"
 first_seen_at: "2026-07-25T01:08:49.314621+00:00"
-fetched_at: "2026-07-28T21:53:29.495678+00:00"
+fetched_at: "2026-07-29T00:33:16.098879+00:00"
 content_hash: "sha256:774650c6410d1992d00dfde9b42d4ac24c2d61779be0bc89a77181cfb58d40bf"
 ---
 

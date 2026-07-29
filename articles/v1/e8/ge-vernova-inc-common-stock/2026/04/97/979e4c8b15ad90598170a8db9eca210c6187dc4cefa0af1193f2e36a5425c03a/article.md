@@ -7,7 +7,7 @@ source_id: "ge-vernova-inc-common-stock-rss-7c51d258e120"
 canonical_url: "https://www.gevernova.com/investors/events/2nd-quarter-2026-earnings-webcast"
 published_at: "2026-04-21T19:35:32+00:00"
 first_seen_at: "2026-07-20T23:21:29.268016+00:00"
-fetched_at: "2026-07-28T21:29:52.808631+00:00"
+fetched_at: "2026-07-29T00:29:33.959606+00:00"
 content_hash: "sha256:85ce349261b220a0873a7de2cb0e9b93bedf46531b6edf915061148e039a1abf"
 ---
 

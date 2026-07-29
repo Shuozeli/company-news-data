@@ -7,7 +7,7 @@ source_id: "nerdy-inc-class-a-common-stock-rss-8f85551c3153"
 canonical_url: "https://investors.nerdy.com/news/news-details/2026/Nerdy-to-Participate-in-Centri-Capital-Conference/default.aspx"
 published_at: "2026-03-31T20:01:00+00:00"
 first_seen_at: "2026-07-25T15:51:29.638021+00:00"
-fetched_at: "2026-07-28T20:24:25.125321+00:00"
+fetched_at: "2026-07-28T23:09:35.885409+00:00"
 content_hash: "sha256:d36ceedc2a467e4c72a73cbb1c0f306d74e0043bac8fcaef0935f13c6a8d4842"
 ---
 

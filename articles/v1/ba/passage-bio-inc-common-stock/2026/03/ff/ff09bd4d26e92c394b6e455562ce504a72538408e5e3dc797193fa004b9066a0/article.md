@@ -7,7 +7,7 @@ source_id: "passage-bio-inc-common-stock-rss-3a8ea804251b"
 canonical_url: "https://www.passagebio.com/investors-and-news/press-releases-and-statements/news-details/2026/Passage-Bio-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Provides-Recent-Business-Highlights/default.aspx"
 published_at: "2026-03-03T12:00:00+00:00"
 first_seen_at: "2026-07-25T18:30:27.722002+00:00"
-fetched_at: "2026-07-28T20:04:19.195138+00:00"
+fetched_at: "2026-07-28T23:53:10.595713+00:00"
 content_hash: "sha256:a3db340d1e3e3e7769dff51d060efb3ad27817e452f5d02f13dfde719cee1e92"
 ---
 

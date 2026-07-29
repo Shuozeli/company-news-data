@@ -7,7 +7,7 @@ source_id: "watts-water-technologies-inc-class-a-common-stock-rss-3eddadbf95be"
 canonical_url: "https://investors.wattswater.com/press-releases/press-release-details/2026/Watts-Named-to-TIMEs-Worlds-Most-Impactful-Companies-2026-List/default.aspx"
 published_at: "2026-05-12T13:52:00+00:00"
 first_seen_at: "2026-07-26T05:11:59.088103+00:00"
-fetched_at: "2026-07-28T21:23:56.529434+00:00"
+fetched_at: "2026-07-29T00:06:28.523087+00:00"
 content_hash: "sha256:67876491367a6621bbc50ac103f540c6bf5825f21dd22d9a1bb9fbdc3b87659c"
 ---
 

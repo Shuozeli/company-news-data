@@ -7,7 +7,7 @@ source_id: "freeport-mcmoran-inc-common-stock-rss-bf79aaa5ec65"
 canonical_url: "https://fcx.com/freeport-features/061126"
 published_at: "2026-06-11T15:25:46+00:00"
 first_seen_at: "2026-07-20T23:21:27.507706+00:00"
-fetched_at: "2026-07-28T20:24:34.130503+00:00"
+fetched_at: "2026-07-28T23:09:07.419800+00:00"
 content_hash: "sha256:97c5c70c470d9af103d43ed1f2c874e14541ddd467c6cc84a381dbacf40475ec"
 ---
 

@@ -7,7 +7,7 @@ source_id: "digi-international-inc-common-stock-rss-07357ecbf6bf"
 canonical_url: "https://www.digi.com/blog/post/2016/smart-city-series-4g-lte-smart-infrastructure-qa-f"
 published_at: "2016-05-18T06:00:00+00:00"
 first_seen_at: "2026-07-25T01:12:11.073636+00:00"
-fetched_at: "2026-07-28T19:57:03.884720+00:00"
+fetched_at: "2026-07-28T23:44:58.695400+00:00"
 content_hash: "sha256:9b6a82a1e13d1e09c21459910bd23173ea4a0abceab35acc8775b642c8865229"
 ---
 

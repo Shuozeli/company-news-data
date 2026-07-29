@@ -7,7 +7,7 @@ source_id: "cohen-company-inc-rss-b12cf9ad3a83"
 canonical_url: "https://cohenandcompany.com/2026/06/08/cohen-company-securities-opens-charlotte-office/"
 published_at: "2026-06-08T13:21:21+00:00"
 first_seen_at: "2026-07-24T22:53:38.296871+00:00"
-fetched_at: "2026-07-28T21:47:22.771077+00:00"
+fetched_at: "2026-07-29T00:18:20.497479+00:00"
 content_hash: "sha256:e328b8ebbf94b97e2da526fe18bf97934d54116dc39bc157f8ffb6de246b744d"
 ---
 

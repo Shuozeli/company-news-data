@@ -7,7 +7,7 @@ source_id: "assured-guaranty-ltd-common-stock-rss-a0c04d90a5d9"
 canonical_url: "https://info.assuredguaranty.com/press-room/all-press-releases/news-details/2026/SP-Affirms-Assured-Guarantys-AA-Financial-Strength-Ratings-With-Stable-Outlook/default.aspx"
 published_at: "2026-07-21T16:00:00+00:00"
 first_seen_at: "2026-07-26T09:42:28.838945+00:00"
-fetched_at: "2026-07-28T19:56:35.282720+00:00"
+fetched_at: "2026-07-28T23:43:29.547621+00:00"
 content_hash: "sha256:6051d64a04137e4fc45c89a6686de76ede5212a18c8390e092f33f41b517b959"
 ---
 

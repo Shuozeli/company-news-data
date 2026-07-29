@@ -7,7 +7,7 @@ source_id: "cognex-corporation-common-stock-rss-d1b80f9f3658"
 canonical_url: "https://investor.cognex.com/news/news-details/2026/Cognex-Completes-Divestiture-of-JapanFocused-Trading-Business/default.aspx"
 published_at: "2026-04-06T20:30:00+00:00"
 first_seen_at: "2026-07-24T22:51:25.514805+00:00"
-fetched_at: "2026-07-28T19:49:06.380654+00:00"
+fetched_at: "2026-07-28T23:31:53.894126+00:00"
 content_hash: "sha256:62b0ee52927bf2c513d2737083de8d854bf58a2e9f82e4ba009a97b07bf38b98"
 ---
 

@@ -7,7 +7,7 @@ source_id: "stifel-financial-corporation-common-stock-rss-aecf77ef6e8f"
 canonical_url: "https://www.stifel.com/docs/pdf/pressreleases/2023/KBW_II_Rankings_2023.pdf"
 published_at: "2023-11-06T18:40:00+00:00"
 first_seen_at: "2026-07-20T03:32:36.708871+00:00"
-fetched_at: "2026-07-28T20:45:59.992574+00:00"
+fetched_at: "2026-07-28T23:28:13.781454+00:00"
 content_hash: "sha256:1d9cda291d7dde00472467578e79e2309aa9441c2f5bc108ccff21fc2d5ca8fc"
 ---
 
